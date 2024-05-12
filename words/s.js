@@ -61,6 +61,7 @@ const s = [
    'Schüssel' ,
    'schütten' ,
    'schütter' ,
+   'Schütze',
    'schwanen'  ,
    'Schwebebahn'  ,
    'Schwitzkasten' ,
@@ -103,6 +104,7 @@ const s = [
    'strunzdämlich'  ,
    'Stulle',
    'süffisant',
+   'Sündenpfuhl',
    ];
 
 export default s;      

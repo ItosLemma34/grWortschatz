@@ -24,6 +24,7 @@ const f = [
    'flutschen',
    'Folie',
    'forsch',
+   'Fratze',
    'frequentieren',
    'Frotzelei',
    'fuhrwerken' ,

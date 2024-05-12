@@ -3,6 +3,7 @@ const z = [
    'Zapfen',
    'zappeln',
    'Zarge' ,
+   'zechen',
    'Zehenspitze' ,
    'Zeltplane' ,
    'zerfleddert' ,

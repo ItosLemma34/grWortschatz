@@ -35,7 +35,7 @@ const b = [
     'brandschatzen',
     'Brause',
     'brausen',
-    'Brett',
+    'Brett, Bretterwand',
     'Bretterverschlag',
     'Brimborium',
     'bröckeln',

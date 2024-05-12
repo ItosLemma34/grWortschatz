@@ -20,7 +20,7 @@ const p = [
    'ploppen' ,
    'poltern' ,
    'postieren',
-   'präparieren' ,
+  // 'präparieren' ,
    'Prise' ,
    'Pritsche',
    'Protz' ,

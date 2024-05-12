@@ -3,7 +3,8 @@ const u = [
    'über die Runden kommen',
    'überrumpeln',
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
-   'um den heißen Brei herumreden',   
+   'um den heißen Brei herumreden',
+   'ummähen' ,  
    'umpflügen',
    'umzingeln' ,
    'unbotmäßig',

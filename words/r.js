@@ -1,7 +1,7 @@
 const r = [
    'Rabauke',
    'rabiat' ,
-   'Radaubruder' ,
+   'Radau, Radaubruder',
    'rammen'  ,
    'ramponiert' ,
    'rascheln',

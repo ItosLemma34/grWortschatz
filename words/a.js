@@ -50,6 +50,7 @@ const a = [
 	'auf die Nase binden',
 	'auf die Palme treiben',
 	'auf die Pelle rücken',
+	'auf die Schliche kommen',
 	'auf Halde legen',
 	'aufbahren',
 	'auffliegen',

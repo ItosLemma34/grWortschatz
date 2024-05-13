@@ -10,6 +10,7 @@ const r = [
    'Räuberpistole' ,
    'Raunen' ,
    'Raureif' , 
+   'recken',
    'reinsemmeln'  ,
    'reißen (sich um etwas)' ,
    'reißerisch' ,

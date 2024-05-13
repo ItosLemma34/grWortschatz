@@ -1,6 +1,7 @@
 const u = [
    'über den Tisch ziehen',
    'über die Runden kommen',
+   'über die Stränge schlagen',
    'überrumpeln',
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
    'um den heißen Brei herumreden',

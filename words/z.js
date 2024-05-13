@@ -6,6 +6,7 @@ const z = [
    'zechen',
    'Zehenspitze' ,
    'Zeltplane' ,
+   'zerdeppern',
    'zerfleddert' ,
    'zerknicken' ,
    'zerknirscht',

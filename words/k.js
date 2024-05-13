@@ -41,6 +41,7 @@ const k = [
    'knallen', 
    'Knarre',
    'knarren',
+   'Knäuel',
    'kneten',
    'knebeln', 
    'kneifen',

@@ -15,6 +15,7 @@ const l = [
    'Luder',
    'lugen',
    'lumpen lassen (sich nicht)',
+   'Lunte riechen',
 ];
 
 export default l;      

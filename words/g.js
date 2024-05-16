@@ -19,6 +19,7 @@ const g = [
    'gesalzen',
    'geschliffen',
    'geschniegelt',
+   'Gesindel',
    'Gestänge',
    'Gestell',
    'Gestöber',

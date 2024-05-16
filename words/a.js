@@ -33,7 +33,6 @@ const a = [
 	'anrempeln', 
 	'anschmiegsam', 
 	'anschnauzen', 
-	'anschnorren', 
 	'anschwärzen', 
 	'ansengen', 
 	'anstupsen',

@@ -34,6 +34,7 @@ const z = [
    'zügeln' ,
    'zünftig' ,
    'zupasskommen' ,
+   'zurren, festzurren',
    'zupfen',
    'Zuspruch' ,
    'zwinkern' , 

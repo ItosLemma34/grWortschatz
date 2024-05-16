@@ -1,13 +1,16 @@
 const d = [
    'dämlich',
    'Damm',
+   'Dampframme',
    'Deckel',
    'dezent',
    'Diele',
    'Dietrich',
    'dösen',
-   'drall',   
+   'drall', 
+   'draufhaben',  
    'Dreigestirn',
+   'Dreistigkeit, dreist',
    'Druckfahne',
    'drunter und drüber gehen',
    /*'den Hintern plattsitzen', */

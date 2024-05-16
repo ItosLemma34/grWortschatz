@@ -17,6 +17,7 @@ const r = [
    'renitent' ,
    'requirieren' ,
    'reüssieren',
+   'Revers',
    'Riegel'  ,
    'rieseln',
    'Rindvieh' ,

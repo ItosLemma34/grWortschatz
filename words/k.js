@@ -57,6 +57,7 @@ const k = [
    'knurren',
    'Köder',
   // 'Kontor',
+   'Konterfei',
    'köpfen',
    'Korb (einen Korb bekommen)',
    'Kordel',

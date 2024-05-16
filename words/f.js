@@ -9,7 +9,6 @@ const f = [
    'fegen',
    'Feilschen',
    'fesch',
-   'festzurren',
    'Fettnäpfchen',
    'Findling',
    'fingieren',

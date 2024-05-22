@@ -4,6 +4,8 @@ const t = [
    'Teufel tun' ,
    'toben' ,
    'tönen',
+   'Tonne',
+   'torkeln',
    'Tracht Prügel',
    'Trasse' ,
    'Tresen' ,

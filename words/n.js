@@ -7,6 +7,7 @@ const n = [
    'niederreißen'  ,
    'niesen'  ,
    'Nobel geht die Welt zugrunde'  ,
+   'nuscheln',
    'Nutte',
  ];
 

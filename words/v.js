@@ -7,6 +7,7 @@ const v = [
    'verdonnern' ,
    'verdünnisieren (sich)' ,
    'verfilzen'  ,
+  // 'verflixt',  open with more examples
    'vergaloppieren (sich)',
    'vergewissern (sich)'  ,
    'verhageln' ,
@@ -21,7 +22,9 @@ const v = [
    'verkrümeln'  ,
    'verminen'  ,
    'verpetzen'  ,
+   'verpfeifen',
    'verplempern' ,
+   'verrammeln',
    'verrecken' ,
    'verrenken (sich)',
    'verrennen (sich)' ,
@@ -29,6 +32,7 @@ const v = [
    'verrufen, Verrufenheit',
    'verrußt' ,
    'verrutschen' ,
+   'versauen',
    'verschanzen (sich)' ,
    'verschimmeln' ,
    'Verschlag' ,
@@ -55,10 +59,12 @@ const v = [
    'verwegen' ,
    'verwesen' ,
    'verwetten' ,
+   'verwittern, Verwitterung',
    'verwüsten' ,
    'vierschrötig' ,
    'vögeln',
    'vorgaukeln' ,
+   'Vorhängeschloss',
    'vorsintflutlich',
 ];
 

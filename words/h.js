@@ -19,8 +19,10 @@ const h = [
    'heulen',
    'hocken, Hocke',
    'Hölle heißmachen',
+   'Hornochse',
    'Hosenmatz',
    'Hosennaht',
+   'humpeln',
    'huschen',
  ];
 

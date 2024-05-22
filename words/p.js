@@ -21,6 +21,7 @@ const p = [
    'poltern' ,
    'postieren',
   // 'präparieren' ,
+   'Pranke',
    'Prise' ,
    'Pritsche',
    'Protz' ,

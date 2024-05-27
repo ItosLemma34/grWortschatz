@@ -1,6 +1,5 @@
 const k = [
    'kahl',
-   'kämmen',
    'Karree',
    'karren',
    'Kaschemme',
@@ -42,6 +41,7 @@ const k = [
    'knallen', 
    'Knarre',
    'knarren',
+   'knattern',
    'Knäuel',
    'kneten',
    'knebeln', 
@@ -55,7 +55,7 @@ const k = [
    'knuffen',
    'Knüller',
    'Knüppel',
-   'knurren',
+   'knurren',    
    'Köder',
   // 'Kontor',
    'Konterfei',

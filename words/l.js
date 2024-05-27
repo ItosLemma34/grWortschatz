@@ -13,7 +13,7 @@ const l = [
    'lodern',
    'loseisen',
    'Luder',
-   'lugen',
+   'lugen',             
    'lumpen lassen (sich nicht)',
    'Lunte riechen',
 ];

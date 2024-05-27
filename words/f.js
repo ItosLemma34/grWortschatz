@@ -21,6 +21,7 @@ const f = [
    'flink',
    'flöten',
    'Fluse',
+   'Flüstertüte',
    'flutschen',
    'Folie',
    'forsch',

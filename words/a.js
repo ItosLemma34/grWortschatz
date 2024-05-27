@@ -55,6 +55,7 @@ const a = [
 	'auf die Pelle rücken',
 	'auf die Schliche kommen',
 	'auf Halde legen',
+	'auf Zack sein',
 	'aufbahren',
 	'auffliegen',
 	'aufgabeln',

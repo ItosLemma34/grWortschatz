@@ -7,7 +7,7 @@ const r = [
    'Rangelei',
    'rascheln',
    'Ratsch'  ,
-   'rattern' ,
+   'rattern' ,              
    'Räuberpistole' ,
    'Raunen' ,
    'Raureif' , 

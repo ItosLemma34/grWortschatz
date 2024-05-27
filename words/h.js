@@ -8,6 +8,7 @@ const h = [
    'Hautausschlag' ,
    'hecheln',  
    'hechten, Hechtsprung',
+   'Heckenschütze',
    'Heft des Handelns nehmen',
    'Heidenrespekt/angst',
    'Heimtücke, heimtückisch',
@@ -22,6 +23,7 @@ const h = [
    'Hornochse',
    'Hosenmatz',
    'Hosennaht',
+   'Hühnerauge',
    'humpeln',
    'huschen',
  ];

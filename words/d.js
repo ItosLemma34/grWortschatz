@@ -20,6 +20,7 @@ const d = [
    'durch den Wind sein',
    'durch den Wolf drehen',
    'durchdrehen',
+   'durchkämmen',
 ];
 
 export default d;

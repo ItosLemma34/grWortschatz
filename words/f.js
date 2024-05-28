@@ -24,7 +24,7 @@ const f = [
    'Flüstertüte',
    'flutschen',
    'Folie',
-   'forsch',
+   'forsch',  
    'Fratze',
    'frequentieren',
    'Frotzelei',

@@ -18,6 +18,7 @@ const b = [
     'Besen',
     'Besteck',
     'betreten',
+    'Beule',
     'bibbern',
     'bieder',
     'Biege machen',

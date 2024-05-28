@@ -8,6 +8,7 @@ const k = [
    'katzbuckeln',
    'kauern',
    'kauzig',
+   'keilen, Keil',
    'keinen Reim machen können',
    'Kelch',
    'ketten, Kette',

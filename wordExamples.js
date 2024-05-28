@@ -1,6 +1,11 @@
 export const wordExamples = {              
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+'Arsch, jmdm. in den A. kriechen': [
+	'jemandem <strong>in den Arsch kriechen</strong>: &nbsp;brown-nose, kiss so.\'s ass  <br> Deutsche Definition: &nbsp;<a href = "https://www.dwds.de/wb/jmdm.%20in%20den%20Arsch%20kriechen" target="target1">jemandem in den Arsch kriechen</a>',
+	'<u>Der Nasse Fisch</u>',
+	'Böhm glaubte, den langen Kommissar aus der Burg zu kennen. Das musste der Neue sein, von dem Lanke in der Kantine erzählt hatte. Der Karrieregeile, der dem Polizeipräsidenten <strong>in den Arsch kroch</strong>.  (<i>Der Nasse Fisch</i>, 84)'  ,
+],
 'auf Zack sein': [
 	'<strong>auf Zack sein</strong>: &nbsp;be on one\'s toes, be on the ball  <br> Deutsche Definition: &nbsp;<a href = "https://www.dwds.de/wb/auf%20Zack%20sein" target="target1">auf Zack sein</a>',
 	'<u>Der Nasse Fisch</u>',
@@ -243,6 +248,8 @@ anleinen: [
 ],   
 anraunzen: [
 	'<strong>anraunzen</strong> (<strong>anranzen</strong>): chew/bawl out, yell at, dress down <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/anranzen" target="target1" >anranzen</a> ',
+	'<u>Der Nasse Fisch</u>',
+	'Böhm glaubte, den langen Kommissar aus der Burg zu kennen. Das musste der Neue sein.... Der Karrieregeile, der dem Polizeipräsidenten in den Arsch kroch. "Inspektion E?", <strong>raunzte</strong> er den Mann <strong>an</strong>. "Was treibt euch Sitten bullen denn ins Leichenschauhaus..."?  (<i>Der Nasse Fisch</i>, 84)'  ,
 	'<u>Märzgefallene</u>',
 	'"Ihr habt’s gut hier in Köln", sagte Rath zu einem der beiden Schupos, die nicht eingegriffen hatten. "Ihr habt die Roten Funken als Hilfspolizei, bei uns machen das SA und Stahlhelm."  "Was wollen Sie denn, Mann?", <strong>raunzte</strong> der Blaue ihn <strong>an</strong>. (<i>Märzgefallene</i>, 53)',
 	'Böhm schien seine Niederlage Rath persönlich übelzunehmen. Als sie zehn Minuten später in Böhms Büro saßen, <strong>raunzte</strong> der Oberkommissar ihn <strong>an</strong>. "Sie haben Kriminalrat Gennat gehört, Kommissar, dann setzen Sie mal den Aufruf an die Presse auf." (<i>Märzgefallene</i>, 124)',
@@ -543,6 +550,13 @@ ausstopfen: [
 //B                                                                                                                                                                                                                           ä  Ä  ö  Ö  ü  Ü   ß                                                 
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+Beule: [
+	'die <strong>Beule</strong>,-<strong>n</strong>: &nbsp;dent, blister, bump, bulge, bruise <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Beule" target="target1" >Beule</a> ',
+	'<u>Der Nasse Fisch</u>',
+	'Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der Nasse Fisch</i>, 81-82)' ,
+	'<u>Märzgefallene</u>',
+	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt.  (<i>Märzgefallene</i>, 220)' ,
+],	
 Bartstoppeln: [
 	'die <strong>Bartstoppeln</strong>, oder der <strong>Stop­pel­bart</strong>, die <strong>Stoppelbärte</strong>: &nbsp;stubble, 	five o\'clock shadow <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Stoppelbart" target="target1" >Stoppelbart</a> ',
 	'<u>Der Nasse Fisch</u>',
@@ -1341,6 +1355,8 @@ Folie: [
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 forsch: [
 	'<strong>forsch</strong>: &nbsp;feisty, assertive, brisk, spirited <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/forsch" target="target1" >forsch</a> ' ,
+	'<u>Der Nasse Fisch</u>',
+	'Vielleicht sollte er (<i>Böhm</i>) von Gräfs Tatortaufnahmen tatsächlich ein paar Porträtabzüge machen lassen und seine Leute damit noch einmal losschicken, dachte er gerade, als er die tiefe Stimme des Mediziners (<i>Doktor Schwartz</i>) hörte, der <strong>forschen</strong> Schrittes in den stillen Raum stürzte.    (<i>Der Nasse Fisch</i>, 82)' ,
 	'<u>Märzgefallene</u>',
 	'Die drei SA-Leute begannen zu tuscheln. Dann zeigte der in der Mitte auf Weiß. "Das ist doch der Isidor", rief er. "Was will der denn noch hier?".... Bevor Weiß irgendetwas entgegnen konnte, war Charly aus der Schlange ausgeschert und hatte sich vor den SA-Männern aufgestellt. "Dieser Herr heißt nicht Isidor, sondern Doktor Bernhard Weiß und ist der beste Polizeibeamte, den Berlin jemals hatte." Rath schaute Weiß an. Dem schien die <strong>forsche</strong> Art der Kommissaranwärterin zu gefallen.   (<i>Märzgefallene</i>, 200)' ,
 ],
@@ -1897,6 +1913,11 @@ johlen: [
 ],
 //K '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)    Ä  ö  Ö  ü  Ü   ß  Straße   für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß Straße  für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  Straße    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+'keilen, Keil': [
+	'<strong>keilen</strong>: &nbsp;cleave, spit with a wedge; mit Keil befestigen:  der <strong>Keil</strong>,-<strong>e</strong>: wedge, chock   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/keilen" target="target1" >keilen</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Keil" target="target2" >Keil</a>' ,
+	'<u>Der Nasse Fisch</u>',
+	'Wenigstens hatte Charly entdeckt, dass der Wagen schon in der Möckernstraße an einem parkenden Auto entlanggeschrammt war. Und er selbst (<i>Rath</i>) hatte im Fußraum diese Metallstange gefunden, die er zunächst für ein defektes Autoteil gehalten hatte, ein Stück von der Lenkstange etwa, irgendetwas, das den Unfall hätte verursachen können. Doch an dem Wagen fehlte nichts... Dabei lag die Lösung so nah: Die Stange war nichts anderes als der Hebel, mit dem irgendjemand das Gaspedal fest<strong>gekeilt</strong> hatte. Damit auch ein toter Mann Auto fahren konnte. (<i>Der Nasse Fisch</i>, 81-82)',
+],
 knattern: [
 	'<strong>knattern</strong>: &nbsp;crackle, rattle, hammer, roar, flap   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/knattern" target="target1" >knattern</a> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -1931,10 +1952,14 @@ Knäuel: [
 	'Rath deutete auf sein Jackett, das ordentlich über dem Herrendiener hing. Anders als sein Hausmantel, der mit dem Pyjama ein wirres <strong>Knäuel</strong> auf dem Boden bildette.... (<i>Der Nasse Fisch</i>, 45)' ,
 ],
 Karree: [
-	'das <strong>Karree</strong>, die <strong>Karrees</strong>: &nbsp;square, block  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Karree" target="target1" >Karree</a> ' ,
+	'das <strong>Karree</strong>,-<strong>s</strong>: &nbsp;square, block  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Karree" target="target1" >Karree</a> ' ,
+	'<u>Der Nasse Fisch</u>',
+	'Heute Morgen hatten sie damit begonnen, im <strong>Karree</strong> zwischen Möckernstraße, Tempelhofer Ufer und Großbeerenstraße nach weiteren Zeugen des Unfalls zu suchen. (<i>Der Nasse Fisch</i>, 82)' ,
 	'<u>Märzgefallene</u>',
 	'... sie (<i>Felix und Hannah</i>) unterquerten die Hochbahn am Schlesischen Tor, bis sie schließlich, in einem der <strong>Karrees</strong> zwischen der Köpenicker Straße end der Spree, in eine Sackasse abbogen, in der es nicht mehr weiterging.  (<i>Märzgefallene</i>, 394)' ,
 ],
+//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',       
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 kitzeln: [
 	'<strong>kitzeln (sich)</strong>: &nbsp;tickle  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kitzeln" target="target1" >kitzeln</a> ' ,
 	'<u>Märzgefallene</u>',
@@ -1968,7 +1993,7 @@ Kelch: [
 	'<u>Märzgefallene</u>',
 	'Fritze führte ihn (<i>Rath</i>) zu einem alten, stillgelegten Kino, das entweder die Wirtschaftskrise oder den Tonfilm nicht überlebt hatte, oder beides. Die komplette Eingangsfront war mit dicken <strong>Ketten</strong> und Vorhängeschlössern verrammelt. (<i>Märzgefallene</i>, 405)' ,
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
+//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',       
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Knüller: [
 	'der <strong>Knüller</strong>,-: &nbsp; sensation, (press): scoop  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Knueller" target="target1" >Knüller</a> ' ,
@@ -2099,6 +2124,8 @@ Kiesweg: [
 ],
 Kittel: [
 	'der <strong>Kittel</strong>,-: lab/work coat/gown  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kittel" target="target1" >Kittel</a> ' ,
+	'<u>Der Nasse Fisch</u>',
+	'"Noch mehr Maileichen?", fragte (<i>Doktor</i>) Schwartz. Einer der beiden weiß<strong>gekittelen</strong> Männer, die die Bahren schoben, nickte.... "Es sind tote Menschen, über die Sie hier reden, meine Herren!" Die vorwurfsvolle Stimme kam von einem der beiden Männer, die hinter den Weiß<strong>kitteln</strong> den Raum betreten hatten, einem streng wirkenden hageren Mann in einem zerknitterten grauen Mantel. (<i>Der Nasse Fisch</i>, 83)' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) verstummte, denn die Tür hatte sich mit einem leisen Knarren geöffnet. Eine Pflegerin im gestärkten weißen <strong>Kittel</strong> stand im Türrahmen....  (<i>Märzgefallene</i>, 43)' ,
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei <strong>Kittel</strong>schürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)' ,
@@ -2108,7 +2135,7 @@ Kittel: [
 	'Sie (<i>Hannah</i>) hatte sich so sehr auf die Bullen konzentrierte, dass sie den hinkenden Mann, der gerade die Treppe von den Bahnsteigen hinunterkam, zunächst nicht bemerkt hatte. Diesmal nicht im <strong>Kittel</strong> eines Irrenanstaltwärters, sondern in einem schnieken dunklen Mantel....  (<i>Märzgefallene</i>, 254)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klackern: [
 	'<strong>klackern</strong>: clatter  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/klackern" target="target1" >klackern</a> ',
 	'<u>Märzgefallene</u>',
@@ -3817,6 +3844,8 @@ Standpauke: [
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Stange: [
 	'die <strong>Stange</strong>,-<strong>n</strong>: bar, pole, post, stake, staff  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Stange" target="target1" >Stange</a> ' ,
+	'<u>Der Nasse Fisch</u>',
+	'Wenigstens hatte Charly entdeckt, dass der Wagen schon in der Möckernstraße an einem parkenden Auto entlanggeschrammt war. Und er selbst (<i>Rath</i>) hatte im Fußraum diese Metall<strong>stange</strong> gefunden, die er zunächst für ein defektes Autoteil gehalten hatte, ein Stück von der Lenk<strong>stange</strong> etwa, irgendetwas, das den Unfall hätte verursachen können. Doch an dem Wagen fehlte nichts... Dabei lag die Lösung so nah: Die <strong>Stange</strong> war nichts anderes als der Hebel, mit dem irgendjemand das Gaspedal festgekeilt hatte. Damit auch ein toter Mann Auto fahren konnte. Gräf und Charly waren noch dabei, die Herkunft der Metall<strong>stange</strong> zu klären.   (<i>Der Nasse Fisch</i>, 81-82)',
 	'<u>Goldstein</u>',
 	'Wenigstens hingen keine Kleiderbügel an der <strong>Stange</strong>. (<i>Goldstein</i>, 9)' ,
 	'<u>Märzgefallene</u>',
@@ -4966,6 +4995,7 @@ zerknittern: [
 	'<strong>zerknittern</strong>: crumble, wrinkle, crease  <br>Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/zerknittern" target = "target1" >zerknittern</a>' ,
 	'<u>Der Nasse Fisch</u>',
 	'Seit der Leichenwagen... losgefahren war, hatte Rath noch kein Wort mit Völcker gewechselt. Er betrachtete den Arzt aus den Augenwinkeln, eine hagere Gestalt in einem <strong>zerknitterten</strong> grauen Mantel, der ein wenig zu groß wirkte.  (<i>Der Nasse Fisch</i>, 77)' ,
+	'"Noch mehr Maileichen?", fragte (<i>Doktor</i>) Schwartz. Einer der beiden weißgekittelen Männer, die die Bahren schoben, nickte.... "Es sind tote Menschen, über die Sie hier reden, meine Herren!" Die vorwurfsvolle Stimme kam von einem der beiden Männer, die hinter den Weißkitteln den Raum betreten hatten, einem streng wirkenden hageren Mann in einem <strong>zerknitterten</strong> grauen Mantel. (<i>Der Nasse Fisch</i>, 83)' ,
 	'<u>Märzgefallene</u>',
 	'Das Foto zeigte Gereon im Einsatz, im leicht <strong>zerknitterten</strong> Anzug, die Hände in den Manteltaschen, wie er eher unwirsch in die Kamera schaute.   (<i>Märzgefallene</i>, 28)' ,
 	'Der Leutnant holte ein <strong>zerknittertes</strong> Stück Papier aus der Tasche, das so aussah, als sei es schon oft auseinander- und wieder zusammengefaltet worden. (<i>Märzgefallene</i>, 133)' ,
@@ -5193,9 +5223,10 @@ ausreizen Märzgefallene   357
  hieven  Nasse Fisch 58  
  'hüllen'  ;   Nworte++;    Märzgefallene   93
  heraushauen   rausgehauen  Der Nase Fisch 31
- 'husten'  ;   Nworte++;    Märzgefallene   32
+ 'husten'  ;   Nworte++;    Märzgefallene   32  
  'Insistieren'  ;   Nworte++;    Märzgefallene   32
  'klackern'  ;   Nworte++;    Märzgefallene   59
+ karrieregeil  Der Nasse Fisch 84
  'Klappe (halten)'  ;   Nworte++;    Märzgefallene   44
  'Klump'  ;   Nworte++;    Der Nasse Fisch 11
  'knacken'  ;   Nworte++;    Märzgefallene   80

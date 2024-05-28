@@ -44,6 +44,7 @@ const a = [
 	'Anzeige erstatten', 
 	'anzwinkern',
 	'Armbeuge',
+	'Arsch, jmdm. in den A. kriechen',
 	'Attest',
 	'auf Biegen und Brechen',
 	'auf den Arm nehmen',

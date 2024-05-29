@@ -3,6 +3,7 @@ const n = [
    'nachhaken'  ,
    'nachsetzen',
    'Nase (lange Nase zeigen)',
+   'Nervensäge',
    'Nessel (sich in die Nesseln setzen)'  ,
    'niederreißen'  ,
    'niesen'  ,

@@ -18,6 +18,7 @@ const p = [
    'platschen',
    'Platzhirsch',
    'ploppen' ,
+   'plumpsen',
    'poltern' ,
    'postieren',
   // 'präparieren' ,

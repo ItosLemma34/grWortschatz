@@ -1,9 +1,10 @@
 const l = [
    'Lack',
-   'Lacken',
    'lädieren',
    'laff',
+   'Laken',
    'lässig',
+   'Laufbursche',
    'Leier',   
    'leiern',   
    'Leim',   

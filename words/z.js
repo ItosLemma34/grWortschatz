@@ -1,5 +1,6 @@
 const z = [
-   'zackig' ,
+   'zackig' ,    
+   'zahm, handzahm',
    'Zapfen',
    'zappeln',
    'Zarge' ,

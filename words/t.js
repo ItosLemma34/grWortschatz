@@ -10,7 +10,8 @@ const t = [
    'Trasse' ,
    'Tresen' ,
    //'ins Kreuz treten  Tritt ins Kreuz'  ;   Nworte++;    Märzgefallene   111    German definition not found; entry in worte_T.js started, not finished
-   'triezen' ,  
+   'triezen' ,
+   'trippeln',  
    'trollen (sich)' ,  
    'Tropf' ,  
    'Tropfen' , 

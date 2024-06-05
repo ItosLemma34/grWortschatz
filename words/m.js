@@ -1,4 +1,5 @@
 const m = [
+   'mäandern',
    'Machwerk',
    'malochen',
    'Mangel (in die Mangel nehmen)' ,

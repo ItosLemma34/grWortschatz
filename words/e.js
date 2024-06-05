@@ -3,6 +3,7 @@ const e = [
    'einbrocken',
    'einbuchten',
    'Eindruck schinden',
+   'einfädeln',
    'Eingebung',
    'einkriegen (sich)',
    'einkringeln',

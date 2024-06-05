@@ -16,6 +16,7 @@ const u = [
    'unten durch sein',
    'unterbuttern',
    'Unterschlagung, unterschlagen' ,
+   'untersetzt',
    'Unterstand' ,
    'unverfänglich',
    'unverrichteter Dinge',

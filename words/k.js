@@ -24,6 +24,7 @@ const k = [
    'klamm',
    'Klammer',
    'klammern',
+   'klammheimlich',
    'klappern',  
    'klapprig',
    'Klapsmühle',

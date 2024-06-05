@@ -3,6 +3,7 @@ const f = [
    'fadenscheinig',
    'Fahne (von der Fahne gehen)',
    'Fahnenabzug',
+   'Fall der Fälle',
    'Fasan',
    'faseln',
    'Fass',

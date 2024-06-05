@@ -1,4 +1,5 @@
 const p = [
+   'paktieren',
    'Pantoffel (unter dem P. stehen)',
    'Pappe',
    'Pappenstiel',

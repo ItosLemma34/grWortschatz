@@ -55,6 +55,7 @@ const v = [
    'Verstellung' ,
    'verstockt'  ,
    'vertrackt' ,
+   'vertreten (sich)',
    'verunglimpfen',
    'verunzieren' ,
    'Verwahrlosung' ,

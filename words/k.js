@@ -15,7 +15,7 @@ const k = [
    'ketten, Kette',
    'kichern',
    'Kieker (auf dem Kieker haben)',
-   'Kiesweg',   
+   'Kies, Kiesel',
    'Kinderficker',
    'Kittel',  
    'kitzeln', 

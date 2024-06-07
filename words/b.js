@@ -18,6 +18,7 @@ const b = [
     'Besen',
     'Besteck',
     'betreten',
+    'betupfen',
     'Beule',
     'bibbern',
     'bieder',
@@ -44,6 +45,7 @@ const b = [
     'Brimborium',
     'bröckeln',
     'brummig, Brummigkeit',
+    'Buche',
     'Büchse',
     'buddeln',
   //  'Bügel',  in Goldstein; check for in others

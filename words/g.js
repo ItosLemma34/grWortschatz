@@ -1,5 +1,6 @@
 const g = [
    'Ganove',
+   'Geäst',
    'Gebälk',
    'gediegen',
    'Gehabe',
@@ -13,6 +14,7 @@ const g = [
    'gepfeffert',
    'Geplänkel',
    'Geplapper',
+   'gerädert (sich wie g. fühlen)',
    'gerinnen',
    'Gerippe',
    'gerissen',

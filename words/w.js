@@ -5,6 +5,7 @@ const w = [
    'Wassern (mit allen W. gewaschen)',
    'wedeln' ,
    'wegducken (sich)' ,
+   'Wehwehchen',
    'weichklopfen' ,
    'Weihrauch, Weihrauchschwenker',
    'wellen (sich), Welle',

@@ -1,5 +1,6 @@
 const k = [
    'kacheln',
+   'Kaffeekränzchen',
    'kahl',
    'Karree',
    'karren',

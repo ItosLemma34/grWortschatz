@@ -25,6 +25,7 @@ const v = [
    'verminen'  ,
    'verpetzen'  ,
    'verpfeifen',
+   'verplappern (sich)',
    'verplempern' ,
    'verrammeln',
    'verrecken' ,

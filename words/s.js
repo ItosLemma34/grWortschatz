@@ -91,7 +91,7 @@ const s = [
    'spitzkriegen',
    'Sprechmuschel'  ,
    'Spülbürste',
-   'Spüle',
+   'Spüle, spülen',
    'spuren' ,
    'sputen (sich)' ,
    'Stadtstreicher' ,

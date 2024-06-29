@@ -25,6 +25,7 @@ const g = [
    'geschniegelt',
    'Geschwafel',
    'Gesindel',
+   'gesittet',
    'Gestänge',
    'Gestell',
    'Gestöber',

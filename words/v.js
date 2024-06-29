@@ -38,6 +38,7 @@ const v = [
    'versauen',
    'verschanzen (sich)' ,
    'verscherzen',
+   'verschieben',
    'verschimmeln' ,
    'Verschlag' ,
    'verschmieren' ,
@@ -52,6 +53,7 @@ const v = [
    'versengen' ,
    //worte[Nworte] = 'versehrt'  ;   Nworte++;   fix this in worte_V.js
    'versickern',
+   'versiegen',
    'verstauen' ,
    'Verstellung' ,
    'verstockt'  ,

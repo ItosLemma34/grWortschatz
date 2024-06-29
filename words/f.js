@@ -31,6 +31,7 @@ const f = [
    'Frotzelei',
    'fuchteln',
    'fuhrwerken' ,
+   'fummeln',
    'funzelig',
    'Furz',
    'Futter',

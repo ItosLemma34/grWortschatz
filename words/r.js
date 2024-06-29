@@ -30,6 +30,7 @@ const r = [
    'roden' ,
    'rosten' ,
    'rumpeln',
+   'rümpfen',
    'rumsen',
    ];
 

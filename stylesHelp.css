@@ -4,6 +4,8 @@
    box-sizing: border-box;
 }
 
+#update {text-align: center;}
+
 html {
    background-color: rgb(129, 122, 136);
 }

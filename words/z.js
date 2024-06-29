@@ -15,6 +15,7 @@ const z = [
    'zerknittern',
    'zerknüllen' ,
    'zermatschen',
+   'zerpflücken',
    'zerren' ,
    'zerschunden' ,
    'zerwühlen' ,

@@ -10,7 +10,7 @@ const n = [
    'niesen'  ,
    'Nobel geht die Welt zugrunde'  ,
    'nuscheln',
-   'Nutte',
+   'Nutte',        
  ];
 
 export default n;      

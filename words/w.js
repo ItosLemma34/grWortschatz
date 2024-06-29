@@ -1,6 +1,7 @@
 const w = [
    'Wade' ,
    'wähnen',
+   'wälzen (sich)',
    'Wappen' ,
    'Wassern (mit allen W. gewaschen)',
    'wedeln' ,
@@ -25,6 +26,8 @@ const w = [
    'Wohl bekomm\'s!',
    'Wohlgefallen (sich in W. auflösen)',
    'wölben',
+   'wuchern',
+   'wuchten',
    'wühlen' ,
    'wummern, Gewummer',
    'wuscheln',

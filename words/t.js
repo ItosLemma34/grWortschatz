@@ -2,6 +2,7 @@ const t = [
    'tapsen' ,
    'taxieren' ,
    'Teufel tun' ,
+   'Theke',
    'toben' ,
    'tönen',
    'Tonne',         
@@ -25,6 +26,7 @@ const t = [
    'tünchen, Tünche',
    'tunken',
    'tupfen' ,   
+   'türken',
    'tuscheln' , 
 ];
 

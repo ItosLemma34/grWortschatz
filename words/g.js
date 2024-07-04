@@ -29,6 +29,7 @@ const g = [
    'Gestänge',
    'Gestell',
    'Gestöber',
+   'getäfelt, täfeln',
    'Getümmel',
    'Geturtel',
    'Gewebe',

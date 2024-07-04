@@ -12,6 +12,7 @@ const d = [
    'Dreigestirn',
    'Dreistigkeit, dreist',
    'Druckfahne',
+   'drucksen',
    'drunter und drüber gehen',
    /*'den Hintern plattsitzen', */
    'dudeln',

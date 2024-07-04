@@ -1,9 +1,11 @@
 const t = [
    'tapsen' ,
+   'tätscheln',
    'taxieren' ,
    'Teufel tun' ,
    'Theke',
    'toben' ,
+   'tollen',
    'tönen',
    'Tonne',         
    'torkeln',

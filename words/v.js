@@ -6,9 +6,11 @@ const v = [
    'Verdeck',
    'verdenken' ,
    'verdonnern' ,
+   'verdruckst',
    'verdünnisieren (sich)' ,
    'verfilzen'  ,
   // 'verflixt',  open with more examples
+   'vergackeiern',
    'vergaloppieren (sich)',
    'vergewissern (sich)'  ,
    'verhageln' ,
@@ -51,7 +53,7 @@ const v = [
    'versehen' ,
    'versehentlich' ,
    'versengen' ,
-   //worte[Nworte] = 'versehrt'  ;   Nworte++;   fix this in worte_V.js
+   //worte[Nworte] = 'versehrt'  ;   Nworte++;   fix this in worte_V.js     
    'versickern',
    'versiegen',
    'verstauen' ,

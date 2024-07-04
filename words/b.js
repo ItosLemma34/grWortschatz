@@ -27,6 +27,7 @@ const b = [
     'Blaumann',
     'Blech',
     'blendend',
+    'blinzeln',
     'Blöße',
     'Bodensatz',
     'Bogen (den Bogen raushaben)',

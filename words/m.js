@@ -15,6 +15,7 @@ const m = [
    'Muffel'  ,
    'Mühle' ,
    'Mullbinde' ,
+   'munkeln',
    'Murmel' ,
    'murren' ,
 ];

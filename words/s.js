@@ -78,6 +78,7 @@ const s = [
    'Schwanz einziehen/einkneifen',
    'Schwebebahn'  ,
    'Schwitzkasten' ,
+   'schwülstig',
    'Seil'  ,
    'Sichtblende',
    'sickern' ,

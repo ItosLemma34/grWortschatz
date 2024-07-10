@@ -20,6 +20,7 @@ const h = [
    'hereinlegen',
    'herumlungern',
    'hetzen',
+   'heucheln',
    'heulen',
    'hocken, Hocke, Hocker',
    'Hölle heißmachen',

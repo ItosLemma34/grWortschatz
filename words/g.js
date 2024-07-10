@@ -1,4 +1,5 @@
 const g = [
+   'Gage',
    'Ganove',
    'Geäst',
    'Gebälk',

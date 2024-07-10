@@ -29,6 +29,7 @@ const r = [
    'röcheln',
    'roden' ,
    'rosten' ,
+   'rührig',
    'rumpeln',
    'rümpfen',
    'rumsen',

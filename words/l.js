@@ -3,6 +3,7 @@ const l = [
    'lädieren',
    'laff',
    'Laken',
+   'lallen',
    'lässig',
    'Laufbursche',
    'Leier',   

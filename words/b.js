@@ -12,6 +12,7 @@ const b = [
     'behelligen',
     'beherzt',
     'beichten',
+    'Beine in den Bauch',
     'beipflichten',
     'Bengel',
     'Beritt',

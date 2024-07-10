@@ -1,4 +1,5 @@
 const p = [
+   'Pächter',
    'paktieren',
    'Pantoffel (unter dem P. stehen)',
    'Pappe',
@@ -30,7 +31,7 @@ const p = [
    'Prise' ,
    'Pritsche',
    'Prothese',
-   'Protz' ,
+   'Protz, protzen, protzig' ,
    'Pulle',
    'Pute',
   ];

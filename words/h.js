@@ -6,6 +6,8 @@ const h = [
   // 'hämmern',
    'Handwerk legen',
    'hanebüchen',
+   'hapern',
+   'harren',
    'hart im Nehmen sein',
    'hausieren',
    'Hautausschlag' ,

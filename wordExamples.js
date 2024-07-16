@@ -1,6 +1,19 @@
 export const wordExamples = {              
 //'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+abzocken: [
+	'<strong>abzocken</strong>: &nbsp;rip off, fleese, gouge so.  <br> Deutsche Definition: &nbsp;<a href = "https://www.duden.de/rechtschreibung/abzocken" target="target1">abzocken</a>',
+//	'<u>Der Nasse Fisch</u>',
+	'<u>Märzgefallene</u>',
+	'<i>Fritze</i>: "Da war eener vorm Bahnhof, der hat förmlich drum jebettelt, dass man ihm ein bisschen Moos (<i>dough</i>) <strong>abzockt</strong>".  (<i>Märzgefallene</i>, 4384)'  , 
+],
+aalglatt: [
+	'<strong>aalglatt</strong>: &nbsp;slippery, slick, glib  <br> Deutsche Definition: &nbsp;&nbsp;<a href = "https://www.duden.de/rechtschreibung/aalglatt" target="target1">aalglatt</a>',
+//	'<u>Der Nasse Fisch</u>',
+	'<u>Märzgefallene</u>', 
+	'<i>Roddeck</i>: "Ich fürchte, ich verstehe nicht, worauf Sie hinauswollen, Kommissar! <i>Rath</i>: "Darauf, dass Wosniak Krumbiegel umgebracht hat, weil er seinen eigenen Tod vortäuschen wollte." "Mein treuer Heinrich? Ich bitte Sie! Warum sollte er das tun?" "Das werde ich schon noch herausfinden", sagte Rath, den das <strong>aalglatte</strong> Gebaren Roddeckes immer mehr aufregte.    (<i>Märzgefallene</i>, 482)' ,
+	'Er (<i>Rath</i>) hatte sich verrechnet. So war Achim von Roddek nicht beizukommen. Der Mann war noch glatter als <strong>aalglatt</strong>... Wie es aussah, hatte Gereon Rath es vermasselt.  (<i>Märzgefallene</i>, 483)' ,
+],
 'auf die Tube drücken': [
 	'<strong>auf die Tube drücken</strong>: &nbsp;put one\'s foot down, pedal to the medal, step on it  <br> Deutsche Definition: &nbsp;&nbsp;<a href = "https://www.dwds.de/wb/auf%20die%20Tube%20dr%C3%BCcken" target="target1">auf die Tube drücken</a>',
 	'<u>Der Nasse Fisch</u>',
@@ -129,7 +142,7 @@ abschüssig: [
 	'Rath war erstaunt, wie schnell der kräftig gebaute Wolter trotz seines Körpergewichts die leicht <strong>abschüssige</strong> Hermannstraße hinunterlief.   (<i>Der Nasse Fisch</i>, 22)'  ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>  Steinke   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>  Steinke   C  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 abgebrüht: [
 	'<strong>abgebrüht</strong>: &nbsp;cool, callous, hardened &nbsp;&nbsp;<strong>abbrühen</strong>: boil, scald   <br> Deutsche Definition: &nbsp;<a href = "https://www.duden.de/rechtschreibung/abgebrueht" target="target1">abgebrüht</a>',
 	'<u>Der Nasse Fisch</u>',
@@ -146,7 +159,7 @@ ausquetschen: [
 'auf den Zahn fühlen': [
 	'jemandem <strong>auf den Zahn fühlen</strong>: &nbsp;grill, probe someone  <br> Deutsche Definition: &nbsp;<a href ="https://www.dwds.de/wb/jmdm.%2C%20einer%20Sache%20auf%20den%20Zahn%20f%C3%BChlen" target="target1">auf den Zahn fühlen</a>',
 	'<u>Märzgefallene</u>',
-	'<i>Levetzow, Nazi Polizeipräsident</i>: "Herr Kommissar, nicht das wir uns missverstehen, ich ltze es durhaus, wenn meine Beamten den Leuten auf die Pelle rücken und nicht lockerlassen wie ein Rudel Rottweiler. Aber suchen Sie sich gefälligst die Richtigen aus! Rücken Sie <i>den</i> Leuten auf die Pelle, die uns sagen können, wo sich Benjamin Engel versteckt!" <i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe <strong>auf den Zahn gefühlt</strong>.... (<i>Märzgefallene</i>, 357-58)',
+	'<i>Levetzow, Nazi Polizeipräsident</i>: "Herr Kommissar, nicht das wir uns missverstehen, ich schätze es durchaus, wenn meine Beamten den Leuten auf die Pelle rücken und nicht lockerlassen wie ein Rudel Rottweiler. Aber suchen Sie sich gefälligst die Richtigen aus! Rücken Sie <i>den</i> Leuten auf die Pelle, die uns sagen können, wo sich Benjamin Engel versteckt!" <i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe <strong>auf den Zahn gefühlt</strong>.... (<i>Märzgefallene</i>, 357-58)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -370,6 +383,7 @@ anschwärzen: [
 	'<u>Märzgefallene</u>',
 	'Böhm fragte sich, wer zum Teufel ihn auf der Wahlkundgebung am Sonntag gesehen und diesen Umstand einer Denunziation für würdig erachtet hatte....  Schlimm genug, dass man einen Polizisten heutzutage mit so etwas <strong>anschwärzen</strong> konnte. (<i>Märzgefallene</i>, 141)',
 	'"Tun Sie mir noch einen Gefalllen, Charly!" Böhm fasste sie am Arm und schaute sie eindringlich an. "Sagen Sie niemandem, was Sie hier gesehen haben. Wirklich niemandem! Ich möchte nicht, dass der Scheißkerl am Alex, der mich <strong>angeschwärzt</strong> hat, sich am Ende noch freut." (<i>Märzgefallene</i>, 239-40)',
+	'<i>Gräf</i>: "Seit Kurzen wissen wir, dass das erste Opfer von Benjamin Engel nicht Heinrich Wosniak war, wie ...die Ermittlungsgruppe um Oberkommissar Böhm anfangs fälschlich vermutet hat." Gräf wirkte nicht glücklich, als er das sagte; Rath vermutete, dass es Levetzows Weisung war, Böhm bei dieser Gelegenheit <strong>anzuschwärzen</strong>. (<i>Märzgefallene</i>, 499)',
 ],
 ansengen: [
 	'<strong>ansengen</strong>: singe <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ansengen" target="target1" >ansengen</a> ', 
@@ -452,6 +466,7 @@ Armbeuge: [
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Da hat Böhm dir aber eine undankbare Arbeit aufgehalst." <i>Gereon</i>: "Die habe ich mir selbst aufgehalst. Böhm weiß von der ganzen Sache nichts." Charly <strong>trieb</strong> es <strong>gleich auf die Palme</strong>. "Gereon", sagte sie, "wirst du einfach nicht klug? Kochst du wieder dein eigenes Süppchen?" (<i>Märzgefallene</i>, 176)',
 	'Aufgelegt. Dieses verfluchte Weib hatte einfach (<i>das Telefon</i>) aufgelegt! Wenn es eine Frau auf dieser Welt gab, die Gereon Rath noch schneller <strong>auf die Palme bringen</strong> konnte als Charly, dann war das Greta Overback. (<i>Märzgefallene</i>, 404)',
+	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von Brausepulver klebten. "Oh!, Haste dir Brause gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly <strong>auf die Palme gebracht</strong>.  (<i>Märzgefallene</i>, 484)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -544,6 +559,7 @@ auftischen: [
 	'In Gräfs Bad allerdings sah Rath dann etwas, das ihn noch mehr <strong>aus dem Konzept brachte</strong> als die zwei Kaffeetassen. (<i>Märzgefallene</i>, 120)',
 	'Meiferts Stimme hatte unsicher und zittrig aus dem Telefon geklungen. Die Begegnung mit seiner Vergangenheit musste ihn <strong>aus dem Konzept gebracht</strong> haben. (<i>Märzgefallene</i>, 244)',
 	'<i>Karin van Almsick</i>: "Entschuldige, ich wollte nicht stören. Nur mal nachschauen, wie es dir geht." Sie reichte Charly die Konfektschachtel. <i>Charly</i>: "Oh, danke! Das wäre doch nicht nötig gewesen." Charly hörte sich reden, als stehe sie neben sich. Der Überraschungsbesuch hatte sie völlig <strong>aus dem Konzept gebracht</strong>. (<i>Märzgefallene</i>, 445)',
+	'Gräf war tatsächlich ein wenig aus dem Konzept gebracht, als er weitersprach und erläuterte, dass die Ermittlung der Todesumstände Benjamin Engels noch in den Anfängen stünden....  (<i>Märzgefallene</i>, 497)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -560,6 +576,7 @@ auftischen: [
 	'<strong>aus dem Häuschen sein</strong>:  &nbsp;be excited about, beside oneself <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.openthesaurus.de/synonyme/aus%20dem%20H%C3%A4uschen%20sein" target="target1" >aus dem Häuschen sein</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Die Elberfelder Kollegen haben sich schon bei Ihnen gemeldet?" Grimberg (<i>von Roddecks Sprengmeister</i>) nickte. "Ein Schupo war gestern Abend hier, um nachzuschauen, ob ich noch lebe. Was soll denn die ganze Aufregung? Meine Frau <strong>war</strong> ganz <strong>aus dem Häuschen</strong>." (<i>Märzgefallene</i>, 273)',
+	'Nun brach ein Applaus los, der Rath in seiner Stärke tatsächlich überraschte. Einige waren aufgestanden, immer mehr folgten, bis der ganze Saal Leutnant von Roddek in stehenden Ovationen schwelgen ließ... Er (<i>Rath</i>) stand auf und machte sich auf den Weg zum Ausgang. Bevor er den Saal verließ, schaute er noch einmal auf das Publikum, das shier <strong>aus dem Häuschen</strong> schien.   (<i>Märzgefallene</i>, 478-79)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -615,7 +632,7 @@ ausschlachten: [
 	'Der Nibelungen-Verlag hatte das Erscheinen des Romans (<i>von Roddecks Roman</i>)... um vier Wochen vorgezogen. Alle witterten sie plözlich ein gutes Geschäft. Selbst der Personnenschutz, den der Polizeipräsident dem Leutnant... gewährt hatte, ließ sich <strong>ausschlachten</strong>: Die Kreutzzeitung hatte ein Bild veröffentlicht, das Leutnant von Roddeck... in Begleitung zweier finster dreinblickender Schupos zeigte. (<i>Märzgefallene</i>, 269)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 ausspucken: [
 	'<strong>ausspucken</strong>: spit out, disgorge, cough up; spucken: spit <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ausspucken" target="target1" >ausspucken</a>',
 	'<u>Märzgefallene</u>',
@@ -635,7 +652,26 @@ ausstopfen: [
 ],	
 // Bstart                                                                                                                                                                                                                           ä  Ä  ö  Ö  ü  Ü   ß                                                 
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+bloßstellen: [
+	'jemanden <strong>bloßstellen</strong>: &nbsp;expose, unmask so., call so.\'s bluff;  <br>Deutsche Definition:&nbsp;&nbsp;<a href = "https://www.duden.de/rechtschreibung/bloszstellen", target="target1">bloßstellen</a> ',
+//	'<u>Der Nasse Fisch</u>', 
+	'<u>Märzgefallene</u>',
+	'"Aber Sie (<i>Rath</i>) haben recht", fuhr Böhm fort, "Sie sollten unter keinen Umständen riskieren, den Polizeipräsidenten <strong>bloßzustellen</strong>. So etwas war früher schon nicht empfehlenswert, aber heutzutage, so fürchte ich, kann es Sie mehr als nur Ihre Stelle kosten."  (<i>Märzgefallene</i>, 493)' ,
+],
+bullig: [
+	'<strong>bullig</strong>: &nbsp;brawny, burly <br>Deutsche Definition:&nbsp;&nbsp;<a href = "https://www.duden.de/rechtschreibung/bullig", target="target1">bullig</a> ',
+	'<u>Der Nasse Fisch</u>', 
+	'Der Onkel (<i>Wolter</i>) drehte sich den Ganoven zurecht und rammte ihm seine Rechte in den Magen. Der Mann klappte augenblicklich zusammen, dennoch ließ der <strong>bullige</strong> Polizist einen linken Haken folgen, der den Kaiser endgültig auf die Bretter schickte.  (<i>Der Nasse Fisch</i>, 26)' ,
+	'<u>Märzgefallene</u>',
+	'Es klingelte, Charly war sicher, dass es der Junge mit dem Hund war. Sie... ging zur Tür. Und war überrascht, als sie einen <strong>bulligen</strong> Mann dort stehen sah, eingehüllt in einen dunklen Mantel, auf dem Kopf einen Bowler.    (<i>Märzgefallene</i>, 488)' ,
+],
+beikommen: [
+	'jemandem <strong>beikommen</strong>: &nbsp;get the better of so. <br>Deutsche Definition:&nbsp;&nbsp;<a href = "https://www.duden.de/rechtschreibung/beikommen", target="target1">beikommen</a> ',
+//	'<u>Der Nasse Fisch</u>', 
+	'<u>Märzgefallene</u>',
+	'Er (<i>Rath</i>) hatte sich verrechnet. So war Achim von Roddek nicht <strong>beizukommen</strong>. Der Mann war noch glatter als aalglatt.  (<i>Märzgefallene</i>, 483)' ,
+],
 'Beine in den Bauch': [
 	'<strong>sich die Beine in den Bauch stehen</strong>: &nbsp;cool one\'s heels  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/sich%20die%20Beine%20in%20den%20Bauch%20stehen" target="target1" >Beine in den Bauch</a> ',
 //	'<u>Der Nasse Fisch</u>',
@@ -962,7 +998,7 @@ Bösewicht: [
 	'Die Geschichte vom mordenden Hauptmann war nun die offizielle Stoßrichtung ihrer Ermittlungen. Wenn der Polizeipräsident einen jüdischen <strong>Bösewicht</strong> brauchte, um Gereon Rath wieder in der Mordinspektion arbeiten zu lassen, dann sollte er ihn haben. (<i>Märzgefallene</i>, 260)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Boulette: [
 	'die <strong>Boulette</strong>,-<strong>n</strong>: meatball, rissole <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Boulette" target="target1" >Boulette</a>',
 	'<u>Märzgefallene</u>',
@@ -979,6 +1015,8 @@ Brause: [
 	'die <strong>Brause</strong>,-<strong>n</strong>: shower, sprinkler; fizzy drink, soda <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Brause"  target = "target1"  >Brause</a> ',
 	'<u>Märzgefallene</u>',
 	'Diesmal tranken sie (<i>Gereon und Hilde</i>) Kaffee. Afri-Cola kam nicht auf den Tisch, obwohl das Lokal die <strong>Brause</strong> führte, wie ein Werbeschild verriet.   (<i>Märzgefallene</i>, 303)' ,
+	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von <strong>Brause</strong>pulver klebten. "Oh!, Haste dir <strong>Brause</strong> gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly auf die Palme gebracht.  (<i>Märzgefallene</i>, 484)' ,
+	'Damit hatte er (<i>Fritze</i>) sich in die Küche getrollt, wo er zwei weitere Tüchen <strong>Brause</strong>pulver ausgepackt hatte.  (<i>Märzgefallene</i>, 484)'  , 
 ],
 brausen: [
 	'<strong>brausen</strong>: roar, thunder, boom <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/brausen" target="target1" >brausen</a>',
@@ -987,7 +1025,7 @@ brausen: [
 	'Und dann <strong>brauste</strong> einige Zeit später das Automobil des Hauptmanns heran und holte unseren abziehenden Troß ein. (<i>Märzgefallene</i>, 272)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Brimborium: [
 	'das <strong>Brimborium</strong>,- (no plural): fuss, to-do <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Brimborium" target="target1" >Brimborium</a> '  ,
 	'<u>Märzgefallene</u>',
@@ -1053,6 +1091,8 @@ Dampframme: [
 	'die <strong>Dreistigkeit</strong>,-<strong>en</strong>: audacity, brazenness, chutzpah &nbsp;&nbsp;<strong>dreist</strong>: audacious, bold, brazen  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Dreistigkeit" target="target1" >Dreistigkeit</a>' ,
 	'<u>Der Nasse Fisch</u>',
 	'Vereinzelt ragten Transparente aus der Menschenmenge. Rath erkannte die drei Konterfeis, die auch die Fassade der KPD-Zentrale am nah gelegenen Bülowplatz schmückten: Lenin, Liebknecht, Luxemburg. Die heiligen drei L. Seit er in Berlin war, hatte er sich über die <strong>Dreistigkeit</strong> der Kommunisten geärgert. (<i>Der Nasse Fisch</i>, 54)' ,
+	'<u>Märzgefallene</u>',
+	'Immer wieder derselbe Hergang, überall im Reich: Ein lange gesuchter Kommunist wird von der Polizei aufgegriffen, unternimmt auf dem Weg zur Wache einen Fluchtversuch, reagiert nicht auf die Zurufe der Polizei und wird daraufhin erschossen. Und mit welcher <strong>Dreistigkeit</strong> sämtliche Zeitungen diese Lügen verbreiteten.  (<i>Märzgefallene</i>, 485)' ,
 ],
 draufhaben: [
 	'<strong>draufhaben</strong>: &nbsp;show what one is made of, know one\’s stuff   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/draufhaben" target="target1" >draufhaben</a>' ,
@@ -1116,6 +1156,7 @@ Deckel: [
 	'Sie (<i>Hannah</i>) schaute sich alles genau an, bis sie glaubte, den geeigneten Schlafplatz gefunden zu haben. Eine große hölzerne Truhe,...in die bestimmt kein Nachtwächter hineinschauen würde. Am liebsten wäre sie sogleich dort hineingestiegen, doch das ging nicht. Schon als sie den <strong>Deckel</strong> nur kurz anhob, spürte sie ein halbes Dutzend Augenpaare neugierig auf sich gerichtet. Hannah machte ein prüfendes, abschätzendes Gesicht, als spiele sie tatsächlich mit dem Gedanken, die Truhe zu kaufen, und ließ den <strong>Deckel</strong> wieder sinken. (<i>Märzgefallene</i>, 152)',
 	'Sie (<i>Hannah</i>) arbeitete sich langsam vor bis zur Möbelabteilung, immer Deckung hinter irgendwelchen Regalen suchend, bis sie ihre Truhe endlich erreicht hatte. Hannah griff eins der Kissen, mit denen das Sofa neben der Truhe drapiert war, hob den <strong>Deckel</strong> an und stieg hinein. (<i>Märzgefallene</i>, 154)',
 	'Es roch nach Holz, und langsam kam die Erinnerung. Das Kaufhaus Jonass. Die Truhe. Der Junge, den sie schließlich doch hineingelassen hatte.... Der Junge hob den <strong>Deckel</strong> hoch, und es wurde hell. Sie konnte sein Gesicht jetzt deutlicher sehen.... Er schaute sich im Verkaufsraum um, dann stieg er aus der Truhe. (<i>Märzgefallene</i>, 172)',
+	'Manchmal kam es ihr (<i>Charly</i>) vor, als sei Berlin voll von Leuten, die nur auf diese neue Regierung gewartet hatten und nun plötzlich aus ihren Löchern hervorkrochen und ihr wahres Gesicht zeigten. Als sei da die ganze Zeit, irgendwo tief unter der Stadt, ein dunkles Berlin gewesen, das nun durch alle Ritzen nach oben kroch, wie Abwasser, das ein zu hoher Grundwasserspiegel durch die Kanal<strong>deckel</strong> auf die Straße drückt. (<i>Märzgefallene</i>, 487)' ,
 ],
 dezent: [
 	'<strong>dezent</strong>:  quite, discreet, inconspicuous; refined; subtle <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/dezent" target="target1" >dezent</a>',
@@ -1352,8 +1393,13 @@ ergattern: [
 	'<u>Märzgefallene</u>',
 	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonaies beiläufig auf den Verkaufstresen gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu <strong>ergattern</strong>. (<i>Märzgefallene</i>, 348)' ,
 ],
-//F  '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
+// Fstart  '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Straße   für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde  Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+Floskel: [
+	'die <strong>Floskel</strong>,-<strong>n</strong>: &nbsp;cliché, hackneyed phrase  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Floskel" target="target1" >Floskel</a> ' ,
+	'<u>Märzgefallene</u>',
+	'Magnus von Levetzow eröffnete die Konferenz, berichtete kurz von dem Leichenfund und gab das Wort an Gennat weiter. Der wiederum hielt sich nicht lange auf und erteilte nach ein paar lustlosen <strong>Floskeln</strong> Kriminalsekretär Gräf das Wort. (<i>Märzgefallene, 496)'  ,
+],
 fummeln: [
 	'<strong>fummeln</strong>: &nbsp;fumble, twiddle with sth.    <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/fummeln" target="target1" >fummeln</a> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -1509,9 +1555,10 @@ flattern: [
 	'Zusammen mit den Zeitschriften waren den jungen Schupos auch die pornographischen Hochglanzfotos um die roten Ohren <strong>geflattert</strong>.  (<i>Der Nasse Fisch</i>, 15)' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Es war auch eine Ihrer Sprengfallen, in der Hauptmann Engel ums Leben gekommen ist, nicht wahr?".... Der Sprengmeister (<i>Grimberg</i>) nickte.... <i>Rath</i>: "Warum ist sie dann hochgegangen?" <i>Grimberg</i>: "Ich weiß es nicht. Vielleicht hat sich eine Taube in den Unterstand verirrt und im Draht verfangen. Ist noch ein bisschen rum<strong>geflattert</strong> und dann: Bum!...."  (<i>Märzgefallene</i>, 274)' ,                 
+	'Rath wartete nicht erst, bis der Kiminalsekretär (<i>Gräf</i>) den Umschlag öffnete, er schüttelte die Fotos kurzerhand aus dem Kuvert und ließ sie auf den Schriebtisch <strong>flattern<strong>.  (<i>Märzgefallene</i>, 489)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'fläzen (sich)': [
 	'<strong>sich fläzen</strong>: &nbsp;lounge, sprawl, slouch (in) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flaezen"  target="target1"  >fläzen (sich)</a> ' ,
 	'<u>Märzgefallene</u>',
@@ -1577,6 +1624,11 @@ flink: [
 ],
 //Gstart   '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Grüßaugust: [
+	'der <strong>Grüßaugust</strong>: &nbsp;greeter, handshaker; figurehead   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Grueszaugust" target="target1" >Grüßaugust</a> ' ,
+	'<u>Märzgefallene</u>',
+	'Das Podium füllte sich langsam. Alle waren sie dabei, sogar Gennat mühte seinen schweren Körper die zwei Stufen hinauf, obwohl er es hasste, für den Polizeipräsidenten den <strong>Grüßaugust</strong> zu machen. Denn mehr war das hier nicht: Levetzow war es seit Wochen schon nicht mehr um Ermittlungen gegangen, sondern nur noch darum, Benjamin Engel irgendwie zu fassen und der Öffentlichkeit zu präsentieren.   (<i>Märzgefallene</i>, 496)' ,
+],
 Gage: [
 	'die <strong>Gage</strong>,-<strong>n</strong>:  &nbsp;fee, salary (esp. theatrical) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Gage" target="target1" >Gage</a> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -1709,8 +1761,10 @@ geschliffen: [
 ],
 Ganove: [
 	'der <strong>Ganove</strong>,-<strong>n</strong>: &nbsp;crook, hudlum, racketeer <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Ganove" target="target1" >Ganove</a> ' ,
-	'<u>Der Nasse Fisch</u>','Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den <strong>Ganoven</strong> zurecht und rammte ihm seine Rechte in den Magen. (<i>Der Nasse Fisch</i>, 26)' ,
-	'<u>Märzgefallene</u>','Böhm fragte sich, wer zum Teufel ihn auf der Wahlkundgebung am Sonntag gesehen und diesen Umstand einer Denunziation für würdig erachtet hatte. Ein Kollege? Ein ehemaliger Kunde, ein <strong>Ganove</strong>, der sich rächen wollte? Schlimm genug, dass man einen Polizisten heutzutage mit so etwas anschwärzen konnte. (<i>Märzgefallene</i>, 141)' ,
+	'<u>Der Nasse Fisch</u>',
+	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den <strong>Ganoven</strong> zurecht und rammte ihm seine Rechte in den Magen. (<i>Der Nasse Fisch</i>, 26)' ,
+	'<u>Märzgefallene</u>',
+	'Böhm fragte sich, wer zum Teufel ihn auf der Wahlkundgebung am Sonntag gesehen und diesen Umstand einer Denunziation für würdig erachtet hatte. Ein Kollege? Ein ehemaliger Kunde, ein <strong>Ganove</strong>, der sich rächen wollte? Schlimm genug, dass man einen Polizisten heutzutage mit so etwas anschwärzen konnte. (<i>Märzgefallene</i>, 141)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
@@ -1917,7 +1971,19 @@ Gurt: [
 	'Den Mantel behielt sie (<i>Hannah</i>), der war ganz <strong>gut in Schuss</strong>, doch ihre Gummistiefel musste sie ebenfalls loswerden, sie hatte schon wunde Stellen an den Waden, so sehr scheuerten die.  (<i>Märzgefallene</i>, 172)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//Hstart <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//Hstart <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+harren: [
+	'jds/einer Sache <strong>harren</strong>, auf jdn/etw <strong>harren</strong>: &nbsp;wait for, await so./sth.     <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/harren" target="target1" >harren</a> ' ,
+	'<u>Märzgefallene</u>',
+	'<i>von Rokkeck schreibt</i>: Ich folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer Zigelwand <strong>harren</strong>, an der bis gestern noch bis zur Decke Weinregale gestanden haben. (<i>Märzgefallene</i>, 161)' ,
+	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, an die WKP, an Friederike Wieking, an Karin van Almsick, wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung <strong>harrten</strong>. (<i>Märzgefallene</i>, 485)' ,
+	'<i>Bernard Weiß schreibt an Charly</i>: "In Prag hält der Früling Einzug und taucht die Stadt in goldenes Licht. Da kann man eigentlich nur optimistischer Stimmung sein. Wir sind jedenfalls nun erst in Sicherheit und <strong>harren</strong> der Dinge, die da kommen.... (<i>Märzgefallene</i>, 487-88)' ,
+],
+hapern: [
+	'es <strong>hapert</strong> an etwas: &nbsp;there\'s a problem with something, sth. is in short supply     <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hapern" target="target1" >hapern</a> ' ,
+	'<u>Märzgefallene</u>',
+	'Es <strong>haperte</strong> so ziemlich an allem. Fehlerfrei schreiben konnte er (<i>Fritze</i>) gerade mal seinen eigenen Namen, und auch das nur, wenn er sich konzentrierte. (<i>Märzgefallene</i>, 483)' ,
+],
 heucheln: [
 	'<strong>heucheln</strong>; &nbsp;pretend, feign <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/heucheln" target="target1" >heucheln</a> ',
 	'<u>Der Nasse Fisch</u>',
@@ -2061,6 +2127,7 @@ hecheln: [
 	'der <strong>Heidenrespekt</strong> (no plural): tremendous respect; die <strong>Heidenangst</strong>,-<strong>ängste</strong>: mortal fear <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Heidenrespekt" target="target1" >Heidenrespekt</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Heidenangst" target="target2" >Heidenangst</a>' ,
 	'<u>Märzgefallene</u>',
 	'SA-Männer waren unberechenbar, deshalb hatten die Leute auch so einen <strong>Heidenrespekt</strong> vor ihnen. Oder eine <strong>Heidenangst</strong>, das war wohl das treffendere Wort.  (<i>Märzgefallene</i>, 294)' ,
+	'Roddeck, der wusste, dass es mit dem Polizeischutz nun vorbei war, hatte eine <strong>Heidenangst</strong>. Vor den Geistern, die er selbst heraufbeschworen hatte.  (<i>Märzgefallene</i>, 499)' ,
 ],
 'Heimtücke, heimtückisch': [
 	'die <strong>Heimtücke</strong>,-<strong>n</strong>: perfidiousness, malice, treachery; &nbsp;<strong>heimtückisch</strong>: insidious, treacherous, malicious <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Heimtuecke" target="target1" >Heimtücke</a>&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/heimtueckisch" target="target2" >heimtückisch</a> ' ,
@@ -2198,6 +2265,12 @@ johlen: [
 ],
 // Kstart '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Straße Tür für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß Straße  für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  Straße    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+Klacks: [
+	'der <strong>Klacks</strong>,-<strong>e</strong>: &nbsp;dollop, dab, blot; &nbsp;&nbsp;ein <strong>Klacks</strong>: &nbsp;a cinch, peanuts  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Klacks" target="target1" >Klacks</a> ' ,
+//	'<u>Der Nasse Fisch</u>',
+	'<u>Märzgefallene</u>',
+	'Jahrelang war es Charlys Traum gewesen, als Polizeibeamtin zu arbeiten, und jetzt, wo sie kurz davor war, Kriminalkommissarin zu werden, wo nur noch die Prüfung zu überwinden war - im Vergleich zum juristischen Staatsexamen ein <strong>Klacks</strong> -, hatte Charly plötzlich Zweifel, ob das wirklich der richtige Beruf für sie wäre.    (<i>Märzgefallene</i>, 485)' ,
+],
 Karnickel: [
 	'das <strong>Karnickel</strong>,-: &nbsp;nasty little rabbit  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Karnickel" target="target1" >Karnickel</a> ' ,
 //	'<u>Der Nasse Fisch</u>',
@@ -2285,6 +2358,7 @@ Klinge: [
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Rath durchsuchte die Manteltaschen des Toten, fand aber nur eine leidlich gefüllte Geldbörse, ein gebrauchtes Taschentuch und eine blutbeschierte Stichwaffe. "Kein Wehrpass, nichts", sagte er und hielt den Dolch ins Licht. Die <strong>Klinge</strong>, wenn man diesen spitz zulaufenden Spieß überhaupt so nennen konnte, war eindeutig dreieckig. (<i>Märzgefallene</i>, 412)',
+	'Und als man in dem Bettlaken, das man mitsamt einiger Pflastersteine... ebenfalls geborgen hatte, auch noch einen Grabendolch fand, dessen <strong>Klinge</strong> einen dreieckigen Querschnitt aufwies, war der Fall für die Kollegen Gräf und Steinke ein eindeutiger gewesen...: Der gesuchte mehrfache Mörder Benjamin Engel sei aufgetaucht, im wahrsten Sinne des Wortes, als Leiche aus dem Tiefen der Spree.  (<i>Märzgefallene</i>, 495)' ,
 ],
 Kotflügel: [
 	'der <strong>Kotflügel</strong>,-: &nbsp;fender, mud guard;  &nbsp;der <strong>Kot</strong>: &nbsp;mud, dung, shit  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kotfluegel" target="target1" >Kotflügel</a> ' ,
@@ -2777,13 +2851,14 @@ krachen: [
 	'<u>Märzgefallene</u>',
 	'Als sie (<i>Charly</i>) die Fotografie wieder zurückstecken wollte, fiel ihr ein Zettel auf, der zusammen mit einer Büroklammer noch im Umschlag lag. <i>Heinz Singer als Uffz. der Reserve</i> hatte dort jemand mit <strong>krakeliger</strong> Handschrift hingeschrieben....(<i>Märzgefallene</i>, 42)' ,
 ],
-'Kram (jmdm. in den Kram passen)': [
-	'der <strong>Kram</strong> (no plural): stuff, odds and ends; &nbsp;<strong>jmdem. in den Kram passen</strong>: be useful <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kram" target="target1" >Kram</a> &nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen" target="target2" >jmdm. in den Kram passen</a> ' ,
+'Kram (in den Kram passen)': [
+	'der <strong>Kram</strong> (no plural): stuff, odds and ends; &nbsp;&nbsp;jmdm. <strong>in den Kram passen</strong>: be useful, suit one\'s plans <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kram" target="target1" >Kram</a> &nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen" target="target2" >jmdm. in den Kram passen</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'<i>Rath</i>: ...mit dem Ergebnis kann Völcker (<i>der kommunistische Arzt</i>) auch zufrieden sein. Genau so, wie es <strong>ihm in den Kram passt</strong>: <i>Ein</i> einziges Geschoss hat tatsächlich gereicht, um beide Frauen zu töten..." ' ,
 	'<u>Märzgefallene</u>',
 	'Rath zeigte auf die Leinwände. "Tun Sie mir noch einen Gefallen: Bringen Sie den <strong>Kram</strong> in mein Auto. Steht da drüben."  (<i>Märzgefallene</i>, 95)' ,
 	'Er hatte niemanden kritisiert in seiner Reportage, er hatte auch nicht die Gerüchte aufgegriffen,... die Nazis hätten den Reichstag selbst angezündet, weil es <strong>ihnen</strong> so gut <strong>in den Kram passte</strong>. Dass die Braunen sich über die Brandstiftung so echauffierten, wo sie den alten Wallotbau doch immer nur Schwatzbude genannt hatten, das fand nicht nur Berthold Weinert seltsam. (<i>Märzgefallene</i>, 207)' ,
+	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, ...wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung harrten. Akten über Kinder und Jugendliche... die der Regierung nicht <strong>in den Kram passten</strong>, die vor allem Friederike Wieking nicht <strong>in den Kram passten</strong>. (<i>Märzgefallene</i>, 485)' ,
 ],
 kramen: [
 	'<strong>kramen</strong>:  &nbsp;rummage about, fish sth. out of sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kramen" target = "target1" >kramen</a>',
@@ -2928,6 +3003,7 @@ Laken: [
 	'<u>Märzgefallene</u>',
 	'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an dere Zehen Pappschildchen baumelten. Der Doktor setzte seine Brille auf, überprüfte die Zettel gewissenhaft and lüftete schießlich das <b>Laken</b> der vorletzten Bahre. (<i>Märzgefallene</i>, 267)' ,
 	'Sie (<i>Charly und Gereon</i>) hatten eine Wäscheleine mitgebracht und ein Bett<strong>laken</strong>, in das sie die Leiche legten. Obwohl das Blut längst geronnen sein musste, färbte sich das weiße Baumwolltuch an einigen Stellen ein. (<i>Märzgefallene</i>, 418)' ,
+	'Und als man in dem Bett<strong>laken</strong>, das man mitsamt einiger Pflastersteine... ebenfalls geborgen hatte, auch noch einen Grabendolch fand, dessen Klinge einen dreieckigen Querschnitt aufwies, war der Fall für die Kollegen Gräf und Steinke ein eindeutiger gewesen...: Der gesuchte mehrfache Mörder Benjamin Engel sei aufgetaucht, im wahrsten Sinne des Wortes, als Leiche aus dem Tiefen der Spree.  (<i>Märzgefallene</i>, 495)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -3013,6 +3089,12 @@ lugen: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 // Mstart    
+Manschettenknopf: [
+	'der <strong>Manschettenknopf</strong>,-<strong>knöpfe</strong>: &nbsp;cuff link(s) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Manschettenknopf" target="target1" >Manschettenknopf</a> ' ,
+//	'<u>Der Nasse Fisch</u>',
+	'<u>Märzgefallene</u>',
+	'Achim Freiherr von Roddeck stand mit ausgestreckten Armen vor dem Spiegel und ließ sich gerade von einem Bediensteten die <strong>Manschettenknöpfe</strong> anlegen, als einer der wachhabenden Schupos den Kommissar (<i>Rath</i>) in die Suite führte.  (<i>Märzgefallene</i>, 479)' ,
+],
 munkeln: [
 	'<strong>munkeln</strong>: whisper, spread rumors <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/munkeln" target="target1" >munkeln</a> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -3593,6 +3675,7 @@ rammen: [
 	'Sie (<i>Hannah</i>) zog die Scherbe raus und <strong>rammte</strong> sie noch einmal in seinen Körper und noch einmal, dann erst rollte sie vom Bett.  (<i>Märzgefallene</i>, 68)' ,
 	'Der SA-Mann baute sich vor ihm auf und <strong>rammte</strong> ihm (<i>Leo</i>), ohne den Blick abzuwenden, ansatzlos den Gummiknüppel in die Magengrube. Leo krümmte sich vor Schmerz. (<i>Märzgefallene</i>, 111)' ,
 	'Er (<i>der Schaffner</i>) brach ab, als könne er nicht aussprechen, was da jemand einfach so getan hatte. Dem Fahrgast (<i>Wiebeau</i>) einen langen, spitzen Gegenstand durch die Nase ins Hirn <strong>gerammt</strong> und ihn auf diese einfache, aber effektive Weise getötet. (<i>Märzgefallene</i>, 344-45)' ,
+	'<i>Rath</i>: "Ich komme auf ganz andere Gedanken. Was halten Sie (<i>Roddeck</i>) von dem: Heinrich Wosniak besucht seinen alten Bettlerkumpanen Krumbiegel am Nollendorfplatz und schenkt ihm seinen alten Soldatenmantel... Und kaum hat der frierende Bettler das Ding angezogen, bekommt er die Klinge von Wosniaks Grabendolch ins Hirn <strong>gerammt</strong>."  (<i>Märzgefallene</i>, 482)' ,
 ],
 ramponiert: [
 	'<strong>ramponiert</strong>: in tatters, battered, bashed-up; (<strong>ramponieren</strong>: batter sth.) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ramponiert" target="target1" >ramponiert</a>' ,
@@ -3629,6 +3712,9 @@ Raunen: [
 	'<u>Märzgefallene</u>',
 	'Der Zug schien sich in Bewegung zu setzen, die Alaafrufe wurden zahlreicher und lauter.... Erst als das Alaaf immer leiser wurde und mit einem <strong>Raunen</strong>, das sich durch die Menge fraß, schließlich verstummte, konnte man verstehen, was die SA-Männer riefen. "Adenauer an die Mauer!" (<i>Märzgefallene</i>, 51-52)' ,
 	'Durch den Saal ging ein <strong>Raunen</strong>, das sogleich wieder abebbte, als Liebermann (<i>Nazi, Personalreferent im Innenministerium</i>) weiterredete.  (<i>Märzgefallene</i>, 182)',
+	'Der Polizeipräsident nahm in der Mitte Platz, fankiert von Gennat und Gräf. Und als Letzter bestieg jemand die Bühne, der gar nicht zur Polizei gehörte: Achim von Roddeck. Ein <strong>Raunen</strong> ging durch die Menge, die meisten Journalisten kannten Roddecks Gesicht inzwischen.... (<i>Märzgefallene</i>, 496)' ,
+	'Magnus von Levetzow machte eine wirkungsvolle Pause und genoss es, dass alle Blicke auf ihn gerichtet waren. "Der Name des Mannes, der Benjamin Engel zur Strecke gebracht hat,.. lautet..." Alle Journalisten im Saal hatten jetzt ihre Blöcke gezückt. "...Heinrich Wosniak." Diesmal ging nicht nur ein <strong>Raunen</strong> durch die Menge, alle murmelten durcheinander. (<i>Märzgefallene</i>, 498)',
+	'"Es handelt sich vielmehr", fuhr Gräf fort, "um Gerhard Krumbiegel, den Mann, der mit Wosniak jahrelang in einer Bettlerbande zusammenlebte und gemeinsam mit ihm... Opfer einer Brandstiftung wurde." Wieder ging ein <strong>Raunen</strong> durch die Menge.  (<i>Märzgefallene</i>, 499)' ,
 ],
 Raureif: [
 	'der <strong>Raureif</strong> (no plural): white frost, hoarfrost, rime  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Raureif" target="target1" >Raureif</a> ',
@@ -3671,7 +3757,7 @@ Riegel: [
 	'Die Tür hing schief in den Angeln, sie war regelrecht zertrümmert, das Glas des kleinen Sichtfensters herausgesplittert, der <strong>Riegel</strong> hatte die Türzarge aus ihrer Verankerung gerissen. Es sah aus, als sei hier ein wütender Gorilla am Werk gewesen, nicht aber ein sechzehnjähriges Mädchen. (<i>Märzgefallene</i>, 80)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Rindvieh: [
 	'das <strong>Rindvieh</strong>: cattle; stupid ass, idiot, blockhead  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Rindvieh" target="target1" >Rindvieh</a> ' ,
 	'<u>Märzgefallene</u>',
@@ -3687,6 +3773,7 @@ Ritze: [
 	'die <strong>Ritze</strong>,-<strong>n</strong>: crack, gap   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Ritze" target="target1" >Ritze</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Hannah griff eins der Kissen, mit denen das Sofa neben der Truhe drapiert war, hob den Deckel an und stieg hinein.... Als sie den Deckel geschlossen hatte, wurde es im ersten Moment finster wie im Tintenfass. Erst als ihre Augen sich an die Dunkelheit gewöhnt hatten, bemerkte sie die <strong>Ritzen</strong> im Holz, durch die ein wenig Licht fiel. (<i>Märzgefallene</i>, 154)' ,
+	'Manchmal kam es ihr (<i>Charly</i>) vor, als sei Berlin voll von Leuten, die nur auf diese neue Regierung gewartet hatten und nun plötzlich aus ihren Löchern hervorkrochen und ihr wahres Gesicht zeigten. Als sei da die ganze Zeit, irgendwo tief unter der Stadt, ein dunkles Berlin gewesen, das nun durch alle <strong>Ritzen</strong> nach oben kroch, wie Abwasser, das ein zu hoher Grundwasserspiegel durch die Kanaldeckel auf die Straße drückt. (<i>Märzgefallene</i>, 487)' ,
 ],
 robben: [
 	'<strong>robben</strong>: crawl  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/robben" target="target1" >robben</a> ' ,
@@ -3722,6 +3809,18 @@ rumpeln:[
 ],
 // Sstart  '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+Steckbrief: [
+	'der <strong>Steckbrief</strong>,-<strong>e</strong>: &nbsp;wanted poster, personal description  	<br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Steckbrief" target="target1" >Steckbrief</a>',
+	'<u>Märzgefallene</u>',  
+	'<i>Levetzow, Polizeipräsident</i>: "Die halbe Fahndungsabteilung ist damit beschäftigt, Benjamin Engel aufzuspüren, das sind mehr Leute, als Sie (<i>Rath</i>) sich wünschen können! Und diese Zeichnung, die Sie haben anfertigen lassen, ist mitsamt <strong>Steckbrief</strong> an alle Polizeidienststellen Preußens gegangen, das sollte doch wohl genung Personalaufwand sein." (<i>Märzgefallene</i>, 357)'  ,
+	'<i>Levetzow, Polizeipräsident</i>: "Rücken Sie (<i>Rath</i>) <i>den</i> Leuten auf die Pelle, die uns sagen können, wo sich Benjamin Engel versteckt!" <i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch, und vor allem haben wir den <strong>Steckbrief</strong> mit der Beschreibung des Magdeburger..." <i>Levetzow</i>: "Dann fühlen Sie weiter!..."  (<i>Märzgefallene</i>, 358)',
+	'Das entstellte Gesicht der Leiche, die schlimmen Brandwunden, ihre Kleidung, all die Hinweise auf den <strong>Steckbrief</strong> des unbekannten Mörders, hatten sogleich zur Alarmierung von Gräfs Mordkommission geführt.  (<i>Märzgefallene</i>, 495)'  ,
+],
+Schleuse: [
+	'die <strong>Schleuse</strong>,-<strong>n</strong>: &nbsp;sluice, floodgate; lock (<i>für Schiffe</i>)  	<br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schleuse" target="target1" >Schleuse</a>',
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Er (<i>Gräf</i>) hat Engel gefunden?" <i>Erika Voss</i>: "Tot oder lebendig wollte der Polizeipräsident ihn haben. Nun hat er ihn tot. In der Spree haben sie seine Leiche gefunden."... Bis zur Mühlendamm<strong>schleuse</strong> hatte es Heinrich Wosniak nicht geschafft; seine sterblichen Überreste waren von der Strömung der Spree nur bis kurz hinter die Schillingbrücke geschwemmt worden....  (<i>Märzgefallene</i>, 494)'  ,
+],
 schwülstig: [
 	'<strong>schwülstig</strong>: &nbsp;pompous, ornate, florid; &nbsp;&nbsp;der <strong>Schwulst</strong>, die <strong>Schwülste</strong>: &nbsp;bombast, pompousness, ornateness     <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schwuelstig" target="target1" >schwülstig</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schwulst" target="target1" >Schwulst</a>' ,
 	'<u>Der Nasse Fisch</u>',
@@ -3757,8 +3856,14 @@ schellen: [
 	'All die Tage, die sie nun schon hier lag, hatte sie keine Krankenschwester zu Gesicht bekommen, überhaupt keine einzige Frau, immer nur Männer, so dass sie sich neugierig fragte, wer sich da wohl auf <strong>Stöckelschuhen</strong> ihrem Zimmer näherte.   (<i>Märzgefallene</i>, 434)' ,
 	'Das Erste, was sie (<i>Hannah</i>) hörte, waren wieder die <strong>Stöckelschuhe</strong>, zunächst unbestimmt, irgendwo in der Tiefe des weitläufigen Hauses, und da ahnte Hannah schon, dass sie wieder Besuch bekäme. Als das <strong>Stöckeln</strong> auf dem Korridor angekommen war, hörte sie auch leise Stimmen. Und dann klopfte es.  (<i>Märzgefallene</i>, 463)' ,
 ],
-//S  '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',     
+//  '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+schwelgen: [
+	'<strong>schwelgen</strong> in etwas: &nbsp;revel/bask, indulge oneself in sth.; feast, luxuriate in sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schwelgen" target="target1" >schwelgen</a> ' ,
+//	'<u>Der Nasse Fisch</u>',
+	'<u>Märzgefallene</u>',
+	'Nun brach ein Applaus los, der Rath in seiner Stärke tatsächlich überraschte. Einige waren aufgestanden, immer mehr folgten, bis der ganze Saal Leutnant von Roddek in stehenden Ovationen <strong>schwelgen</strong> ließ.  (<i>Märzgefallene</i>, 478-79)',
+],
 stolzieren: [
 	'<strong>stolzieren</strong>: &nbsp;swagger, strut, flounce <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/stolzieren" target="target1" >stolzieren</a> ' ,
 //	'<u>Der Nasse Fisch</u>',
@@ -4081,6 +4186,7 @@ schielen: [
    'Eine unerklärliche Unruhe hatte das Restaurant ergriffen. Obwohl die Kellner sich alle Mühe gaben, dies zu kaschieren, war nicht zu übersehen, dass das Personal mit einem Mal von einer nervösen Hektik ergriffen war. Der Maître redete auf den Oberkellner ein, der <strong>schielte</strong> zu Raths und Charlys Tisch hinüber, zuckte die Achseln und zischte irgendetwas zurück.  (<i>Märzgefallene</i>, 197)' ,
 	'"Ick hab Hannah gefunden", nuschelte er (<i>Fritze</i>) so leise, das Rath ihn kaum verstehen konnte. "Wie?" "Ick sollte doch Bescheid sagen. Ick hab Hannah." Fritze guckte ihn ängstlich an und <strong>schielte</strong> in die Wohnung. "Wo ist Charly?" (<i>Märzgefallene</i>, 402-03)' ,
 	'(<i>Rath</i>): "Und deswegen dachten Sie (<i>der Bettler</i>), das sind alte Freunde?" "Wat heeßt Freunde? Uff jeden Fall kannten die sich, det konnte sojar \'n Blinder mi\'m Krückstock sehen..." Der Bettler verstummte und <strong>schielte</strong> verlegen auf seinen Blindenstock. (<i>Märzgefallene</i>, 474)' ,
+	'"Eine kurze Frage", sagte er (<i>Weinert</i>). "Habe Sie schon eine Verdacht, wer den Man ermordet haben könnte?" Gräf wirkte ein wenig irritiert und <strong>schielte</strong> zu Levetzow hinüber.  (<i>Märzgefallene</i>, 498)' ,
 ],
 schikanieren: [
 	'<strong>schikanieren</strong>: bully, harass someone  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schikanieren" target="target1" >schikanieren</a> ' ,
@@ -4157,11 +4263,12 @@ schluchzen: [
 	'"Was ist denn los?", fragte er (<i>Rath</i>). "Beruhige dich doch!" Doch der Junge (<i>Fritze</i>) wollte such nicht beruhingen. Rath bugsierte das <strong>schluchzende</strong> Bündel in die Küche.... Fritze ließ alles mit sich machen, als sei er eine Marionette. Eine <strong>schluchzende</strong> Marionette.   (<i>Märzgefallene</i>, 403)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-//                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schlüpfrig: [
 	'<strong>schlüpfrig</strong>: &nbsp;bawdy, lewd, off color; slippery  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schluepfrig" target="target1" >schlüpfrig</a> ',
 	'<u>Märzgefallene</u>',
 	'Aber dann, als der Anführer eine <strong>schlüpfrige</strong> Bemerkung zu Vera machte, hatte er (<i>Leo</i>) den Mund doch nicht halten können, und der Mann hatte ihm mit Freude seinen Gummiknüppel durchs Gesicht gezogen. (<i>Märzgefallene</i>, 109)', 
+	'"Fräulein Charlotte Ritter?", fragte er (<i>der Postbote</i>)..."Ein Schreiben für Sie. Aus Prag." Er betonte den Namen der Stadt selsam, wie ein <strong>schlüpfriges</strong> Wort, und guckte dabei so argwöhnisch, als sei ein Brief aus Prag das Obszönste, was man heutzutage als aufrechter Deutscher per Post geschickt bekommen könne.  (<i>Märzgefallene</i>, 486)',
 ],
 schmettern: [
 	'<strong>schmettern</strong>:  &nbsp;blare, belt/bellow out (eg, a song) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schmettern" target="target1" >schmettern</a>', 
@@ -4275,6 +4382,7 @@ schnörkelig: [
 	'Aber findig war er (<i>Fritze</i>), nicht nur in Sachen Frühstück, auch Schlafgelegenheiten wusste er aufzutreiben. In einer klammen Sandkiste hatte Hannah nicht mehr bibbern müssen, seit sie Fritze über den Weg gelaufen war. Und Geld <strong>schnorren</strong> konnte er wie kein Zweiter. (<i>Märzgefallene</i>, 253)' ,
 	'Und so war sie (<i>Hannah</i>) nach Neuköln gegangen, das erschien ihr am sichersten.... Inzwischen kannte sie die Kneipen und Cafes und Wärmehallen hier ganz gut, sie wusste, wo man <strong>schnorren</strong> konnte und wo nicht.... (<i>Märzgefallene</i>, 320)',
 	'Als er (<i>Fritze</i>) sich gestern Mittag von den zusammen<strong>geschorrten</strong> Groschen... eine heiße Bouilon geleistet hatte, hörte er, wie sie am Nebentisch von einem erzählten, der ein Mädchen suchte und für entsprechende Tipps Geld versprochen hatte. (<i>Märzgefallene</i>, 396)',
+	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von Brausepulver klebten. "Oh!, Haste dir Brause gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder <strong>geschnorrt</strong>?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly auf die Palme gebracht.  (<i>Märzgefallene</i>, 484)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -4740,9 +4848,10 @@ triezen: [
 	'Sein (<i>Gereons</i>) Mitleid hielt sich in Grenzen. Wie oft hatte Böhm selbst den unbotmäßigen Kriminalkommissar Gereon Rath zum Rapport antreten lassen? Nun konnte die Bulldogge am eigenen Leib die Erfahrung machen, was es hieß, wenn die Vorgesetzten einen <strong>triezten</strong>. (<i>Märzgefallene</i>, 129)' ,
 ],
 'trollen (sich)': [
-	'<strong>sich trollen</strong>: push off, buzz off!  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/trollen_entfernen" target="target1" >trollen (sich)</a>' ,
+	'<strong>sich trollen</strong>: push off, buzz off, toddle off  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/trollen_entfernen" target="target1" >trollen (sich)</a>' ,
 	'<u>Märzgefallene</u>',
 	'Rath arbeitete sich durch die Menge zum Balkon zurück, um etwas zu unternehmen.... Doch bevor er eingreifen konnte, hatten ein paar Männer in roten Uniformen die Braunhemden bereits umzingelt. Die Parolen verstummten, es gab ein kurzes, heftiges Wortgefecht,...und dann <strong>trollten sich</strong> die SA-Männer, von den missbilligenden Blicken der Feiernden verfolgt, die den Rotröcken spontan applaudierten.   (<i>Märzgefallene</i>, 52-53)'  ,
+	'Damit hatte er (<i>Fritze</i>) <strong>sich</strong> in die Küche <strong>getrollt</strong>, wo er zwei weitere Tüchen Brausepulver ausgepackt hatte.  (<i>Märzgefallene</i>, 484)'  , 
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
@@ -4952,6 +5061,12 @@ unverfänglich: [
 //Vstart
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+vermasseln: [  
+	'<strong>vermasseln</strong>: &nbsp;bungle, botch, fuck sth. up  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/vermasseln" target = target1" >vermasseln</a> ' ,
+//	'<u>Der Nasse Fisch</u>',
+	'<u>Märzgefallene</u>',
+	'Er (<i>Rath</i>) hatte sich verrechnet. So war Achim von Roddek nicht beizukommen. Der Mann war noch glatter als aalglatt... Wie es aussah, hatte Gereon Rath es <strong>vermasselt</strong>.  (<i>Märzgefallene</i>, 483)' ,
+],
 vergackeiern: [  
 	'<strong>vergackeiern</strong>: &nbsp;pull sb’s leg  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/vergackeiern" target = target1" >vergackeiern</a> ' ,
 //	'<u>Der Nasse Fisch</u>',
@@ -5258,7 +5373,6 @@ verrucht: [
 	'<strong>verrucht</strong>: wicked, infamous  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verrucht" target="target1" >verrucht</a> ',
 	'<u>Märzgefallene</u>',
 	'...so ein schicker Zwirn gehörte zur Ausstattung der Türsteher, die darüber wachten, dass niemand Unbefugtes den Laden betrat, den <strong>verruchtesten</strong> und damit auch gewinnbringendsten illegalen Nachtklub, den die Nordpiraten in dieser Stadt unterhielten. (<i>Märzgefallene</i>, 112)' ,
-,
 ],
 verrußt: [
 	'<strong>verrußt</strong>: sooty, grimy; &nbsp;<strong>verrußen</strong>: get sooty <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verruszen" target="target1" >verrußen</a> ',
@@ -5939,6 +6053,7 @@ zücken: [
 	'Charly ging zu den beiden Schupos hinüber, die das Treiben vor der Bahnhofshalle aus einigem Abstand beobachteten.... Sie sprach einen der Blauen an und <strong>zückte</strong> ihren Dienstausweis.    (<i>Märzgefallene</i>, 295)' ,                   
 	'"Achim von Roddeck also", sagte die Gräfin.... "Was ist denn so interessant an dem?" "Nun..." Charly <strong>zückte</strong> ihren Reporterblock. "....unsere Zeitung möchte gerne den Menschen hinter dem unnahbaren Schriftsteller zum Vorschein bringen." (<i>Märzgefallene</i>, 336)',
 	'<i>Eva Heinen</i>: "Sie nehmen ganz schöne Mühen auf sich, nur um mich zu sprechen, Kommissar Rath." "Vielleicht lohnen sich diese Mühen ja." Er <strong>zückte</strong> sein Etui... "Darf man rauchen?"    (<i>Märzgefallene</i>, 452)' ,
+	'Magnus von Levetzow machte eine wirkungsvolle Pause und genoss es, dass alle Blicke auf ihn gerichtet waren. "Der Name des Mannes, der Benjamin Engel zur Strecke gebracht hat,.. lautet..." Alle Journalisten im Saal hatten jetzt ihre Blöcke <strong>gezückt</strong>. "...Heinrich Wosniak." (<i>Märzgefallene</i>, 498)',
 ],
 Zugehfrau: [
 	'die <strong>Zugehfrau</strong>,-<strong>en</strong>: &nbsp;cleaning lady <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Zugehfrau" target = "target1" >Zugehfrau</a> ',
@@ -6048,6 +6163,7 @@ ausreizen Märzgefallene   357
  geigen  Der Nasse Fisch 86
  'glättern'  ;   Nworte++;  Märzgefallene 419 
  Glatze  Märzgefallene 457
+ einer Sache habhaft werden   Märzgefallene 495
  hieven  Nasse Fisch 58  
  'hüllen'  ;   Nworte++;    Märzgefallene   93
  heraushauen   rausgehauen  Der Nase Fisch 31
@@ -6078,12 +6194,13 @@ Lauf  Der Nasse Fisch  28
  'Postille'  ;   Nworte++;  auf die Pelle      Märzgefallene   19
  proppe(n)voll  Der Nasse Fisch 95
  pudern Der Nasse Fisch 119                  
- 'pusten'  ;   Nworte++;   Märzgefallene   11
+ 'pusten'  ;   Nworte++;   Märzgefallene   11         
  'Rampe'  ;   Nworte++;       Märzgefallene  55
  'Reim machen'  ;   Nworte++       Märzgefallene  68
+ Ritze Märzgefallene  487
 Rohre bottom of pg 21, Der Nasse Fisch
 Rummel Märzgefallene         331
- 'Sarchnaarel'  ;   Nworte++;    Märzgefallene   36
+ 'Sarchnaarel'  ;   Nworte++;    Märzgefallene   36   
 	schmächtig           Märzgefallene       329
  'Schnauz'  ;   Nworte++;    Märzgefallene   19
  Scheißdreck   Der Nasse Fisch 122
@@ -6093,6 +6210,7 @@ Rummel Märzgefallene         331
  'schielen'  ;   Nworte++;   Märzgefallene   72
  schmachten  Der Nasse Fisch 120
  'Schnecke'  ;   Nworte++;   Märzgefallene   140
+schwemmen    Märzgefallene   494
  'sich schimpfen'  ;   Nworte++;    Märzgefallene   33
  spendable    Märzgefallene   396
  'spießig'  ;   Nworte++;    Märzgefallene   221

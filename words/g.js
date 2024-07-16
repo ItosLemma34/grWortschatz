@@ -49,6 +49,7 @@ const g = [
    'grapschen',
    'Grünschnabel',
    'grunzen',
+   'Grüßaugust',
    'gurren',
    'Gurt',       
    'gut in Schuss',       

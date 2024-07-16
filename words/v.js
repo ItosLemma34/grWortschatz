@@ -24,6 +24,7 @@ const v = [
    'verknoten',
    'verkommen',
    'verkrümeln'  ,
+   'vermasseln',
    'verminen'  ,
    'verpetzen'  ,
    'verpfeifen',

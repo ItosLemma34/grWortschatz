@@ -3,6 +3,7 @@ const m = [
    'Machwerk',
    'malochen',
    'Mangel (in die M. nehmen)' ,
+   'Manschettenknopf',
    'markieren'  ,
    'meckern'  ,
    'Melone',

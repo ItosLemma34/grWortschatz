@@ -1,4 +1,5 @@
 const a = [
+	'aalglatt',
 	'abblitzen', 
 	'abebben', 
 	'abfackeln',
@@ -17,6 +18,7 @@ const a = [
 	'abspulen', 
 	'abtrünnig', 
 	'abwimmeln', 
+	'abzocken',
 	'ächzen', 
 	'adrett',
 	'Affekthandlung', 

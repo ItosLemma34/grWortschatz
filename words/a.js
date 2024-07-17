@@ -77,6 +77,7 @@ const a = [
 	'aufs Dach steigen',
 	'aufs Korn nehmen',
 	'aufschaukeln',
+	'aufscheuchen',
 	'aufschichten',
 	'aufstieben',
 	'aufstöbern',

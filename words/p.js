@@ -32,6 +32,7 @@ const p = [
    'Pritsche',
    'Prothese',
    'Protz, protzen, protzig' ,
+   'prusten',
    'Pulle',
    'Pute',
   ];

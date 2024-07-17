@@ -9,6 +9,7 @@ const h = [
    'hapern',
    'harren',
    'hart im Nehmen sein',
+   'Hatz',
    'hausieren',
    'Hautausschlag' ,
    'hecheln',  

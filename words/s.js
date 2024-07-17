@@ -13,7 +13,7 @@ const s = [
    'schellen',
    'scheppern' ,
    'Scherbe' ,
-   'scheren'  ,
+   'scheren (sich)'  ,
    'scheuern'  ,
    'schielen'  ,
    'schikanieren'  ,

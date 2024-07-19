@@ -10,7 +10,7 @@ const p = [
    'Pfau'  ,
    'pfeffern',
    'Pfeiler',
-   'pferchen',
+   'pferchen, einpferchen',
    'pfiffig',
    'Pfropfen',
    'pfuschen (ins Handwerk pfuschen)',

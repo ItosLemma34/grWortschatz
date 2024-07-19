@@ -12,6 +12,7 @@ const l = [
    'Leinen',   
    'Leiste',  
    'lichterloh brennen',
+   'Litfaßsäule',
    'Loch in den Bauch fragen',
    'lodern',
    'loseisen',

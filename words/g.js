@@ -36,6 +36,7 @@ const g = [
    'Gewebe',
    'Gewese',
    'Gewimmel',
+   'Gewirr',
    'Gewühl',
    'gewunden',
    'Gier',

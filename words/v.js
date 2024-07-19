@@ -62,6 +62,7 @@ const v = [
    'verstockt'  ,
    'vertrackt' ,
    'vertreten (sich)',
+   'vertun, vertan',
    'verunglimpfen',
    'verunzieren' ,
    'Verwahrlosung' ,

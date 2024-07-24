@@ -8,7 +8,7 @@ const l = [
    'Laufbursche',
    'Leier',   
    'leiern',   
-   'Leim',   
+   'Leim, leimen',   
    'Leinen',   
    'Leiste',  
    'lichterloh brennen',

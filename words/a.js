@@ -92,6 +92,7 @@ const a = [
 	'Ausdünstung',
 	'Ausfallstraße',
 	'ausfressen',
+	'ausheben, Aushebung',
 	'aushorchen',
 	'ausklinken',
 	'ausquetschen',

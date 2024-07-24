@@ -21,6 +21,7 @@ const k = [
    'Kieker (auf dem Kieker haben)',
    'Kies, Kiesel',
    'Kinderficker',
+   'Kirschen essen',
    'Kittel',  
    'kitzeln', 
    'klackern',

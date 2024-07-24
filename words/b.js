@@ -16,6 +16,7 @@ const b = [
     'Beine in den Bauch',
     'beipflichten',
     'Bengel',
+    'berappen',
     'Beritt',
     'Besen',
     'Besteck',

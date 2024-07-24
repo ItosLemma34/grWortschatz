@@ -97,6 +97,7 @@ const s = [
    'Spieß',
    'spitzkriegen',
    'Sprechmuschel'  ,
+   'Spreu vom Weizen trennen',
    'Spülbürste',
    'Spüle, spülen',
    'spuren' ,

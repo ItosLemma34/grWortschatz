@@ -2,6 +2,7 @@ const d = [
    'dämlich',
    'Damm',
    'Dampframme',
+   'Dampfwalze',
    'Deckel',
    'dezent',
    'Diele',

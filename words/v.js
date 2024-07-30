@@ -13,6 +13,7 @@ const v = [
    'vergackeiern',
    'vergaloppieren (sich)',
    'vergewissern (sich)'  ,
+   'ver­grau­len, Vergraulung',
    'verhageln' ,
    'verhallen' ,
    'verheddern (sich)',
@@ -23,6 +24,8 @@ const v = [
    'verknicken' ,
    'verknoten',
    'verkommen',
+   'verkorkst, verkorken',
+   'verkriechen (sich)',
    'verkrümeln'  ,
    'vermasseln',
    'verminen'  ,
@@ -53,8 +56,8 @@ const v = [
    'verschütten' ,
    'versehen' ,
    'versehentlich' ,
+//   'versehren',   need more past examples
    'versengen' ,
-   //worte[Nworte] = 'versehrt'  ;   Nworte++;   fix this in worte_V.js     
    'versickern',
    'versiegen',
    'verstauen' ,

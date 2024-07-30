@@ -3,7 +3,7 @@ const e = [
    'einbrocken',
    'einbuchten',
    'Eindruck schinden',
-   'einfädeln',
+   'einfädeln, fädeln',
    'Eingebung',
    'einkriegen (sich)',
    'einkringeln',
@@ -12,6 +12,7 @@ const e = [
    'Einöde',
    'einreißen',
    'einrüsten',
+   'einseifen',
    'einstäuben',
    'einstecken',
    'Eintänzer',
@@ -24,6 +25,7 @@ const e = [
    'erkiesen',
    'erpicht',
    'erstehen',
+   'eruieren',
 ];
 
 export default e;

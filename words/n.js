@@ -1,6 +1,7 @@
 const n = [
    'nach dem Rechten sehen',
    'nachhaken'  ,
+   'Nachhut',
    'nachsetzen',
    'Nase (lange Nase zeigen)',
    'Nervensäge',

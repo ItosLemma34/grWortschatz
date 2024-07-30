@@ -9,7 +9,7 @@ const r = [
    'Ratsch'  ,
    'rattern' ,              
    'Räuberpistole' ,
-   'Raunen' ,
+   'Raunen, raunen' ,
    'Raureif' , 
    'recken',
    'Reinfall',

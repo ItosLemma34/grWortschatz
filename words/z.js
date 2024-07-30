@@ -44,6 +44,7 @@ const z = [
    'zurren, festzurren',
    'zupfen',
    'Zuspruch' ,
+   'Zwang (sich keinen Z. antun)',
    'zwinkern' , 
    'zwirbeln', 
    'Zwirn',

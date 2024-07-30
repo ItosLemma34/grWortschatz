@@ -1,4 +1,5 @@
 const s = [
+   'Sägemehl',
    'säumen', 
    'sausen' ,  
    'Schaben'  ,     
@@ -128,6 +129,7 @@ const s = [
    'Strickjacke',
    'Strippe'  ,
    'stromern' ,
+   'Strudel',
    'strunzdämlich'  ,
    'Stulle',
    'stümperhaft',

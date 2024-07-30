@@ -1,5 +1,6 @@
 const w = [
    'Wade' ,
+   'waghalsig',
    'wähnen',
    'wälzen (sich)',
    'Wappen' ,

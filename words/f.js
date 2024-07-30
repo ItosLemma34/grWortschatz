@@ -19,6 +19,7 @@ const f = [
    'fläzen (sich)',
    'fleddern',             
    'flehentlich',
+   'flicken',
    'flink',
    'flöten',
    'Fluse',

@@ -25,6 +25,7 @@ const h = [
    'hetzen',
    'heucheln',
    'heulen',
+   'hinters Licht führen',
    'hocken, Hocke, Hocker',
    'Hölle heißmachen',
    'hopsnehmen',

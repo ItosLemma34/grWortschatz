@@ -4,6 +4,7 @@ const n = [
    'Nachhut',
    'nachsetzen',
    'Nase (lange Nase zeigen)',
+   'Nepp',
    'Nervensäge',
    'Nessel (sich in die Nesseln setzen)'  ,
    'nesteln',

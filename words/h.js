@@ -1,6 +1,7 @@
 const h = [
    'Häkchen',  
    'haken, Haken',
+   'halbseiden',
    'Halunke',
    'hämisch',
   // 'hämmern',

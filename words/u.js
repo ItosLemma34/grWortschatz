@@ -10,6 +10,7 @@ const u = [
    'um den heißen Brei herumreden',
    'ummähen' ,  
    'umpflügen',
+   'umständlich',
    'umzingeln' ,
    'unbotmäßig',
    'ungehobelt',

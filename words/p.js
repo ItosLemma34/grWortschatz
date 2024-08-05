@@ -26,7 +26,7 @@ const p = [
    'ploppen' ,
    'plumpsen',
    'plüschig',
-   'Polster',
+   'Polster, polstern',
    'poltern' ,
    'postieren',
   // 'präparieren' ,
@@ -37,6 +37,7 @@ const p = [
    'Prothese',
    'Protz, protzen, protzig' ,
    'prusten',
+   'pudern',
    'Pulle',
    'Pute',
   ];

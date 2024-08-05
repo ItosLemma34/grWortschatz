@@ -38,6 +38,7 @@ const k = [
    'klatschen',
    'klauben',
    'Klaue',
+   'klebrig',
    'kleistern',
    'Klemme',
    'klemmen',

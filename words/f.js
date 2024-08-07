@@ -11,6 +11,7 @@ const f = [
    'Feilschen',
    'fesch',
    'Fettnäpfchen',
+   'filzen',
    'Findling',
    'fingieren',
    'Fischzug',

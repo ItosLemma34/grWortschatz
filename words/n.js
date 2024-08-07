@@ -8,6 +8,7 @@ const n = [
    'Nervensäge',
    'Nessel (sich in die Nesseln setzen)'  ,
    'nesteln',
+   'Nichts für ungut',
    'niederreißen'  ,
    'niesen'  ,
    'Nobel geht die Welt zugrunde'  ,

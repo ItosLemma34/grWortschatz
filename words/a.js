@@ -110,6 +110,7 @@ const a = [
 	'ausspucken',
 	'ausstaffieren',
 	'ausstopfen',
+	'austoben (sich)',
 	'austüfteln',
 ];
 

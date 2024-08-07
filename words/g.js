@@ -29,6 +29,7 @@ const g = [
    'Geschwafel',
    'Gesindel',
    'gesittet',
+   'gestanden',
    'Gestänge',
    'Gestell',
    'Gestöber',

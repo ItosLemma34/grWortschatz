@@ -52,7 +52,7 @@ const b = [
     'Brüstung',
     'Buche',
     'Büchse',
-    'buddeln',
+    'buddeln, ausbuddeln',
   //  'Bügel',  in Goldstein; check for in others
     'Bude, Büdchen',
     'bugsieren',

@@ -11,6 +11,8 @@ const w = [
    'weichklopfen' ,
    'Weihrauch, Weihrauchschwenker',
    'wellen (sich), Welle',
+   'wettern',
+   'Wichs',
    'Wickelgamasche' ,
    'wie aus einem Ei gepellt',
    'wie bestellt und nicht abgeholt',

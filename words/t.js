@@ -1,4 +1,5 @@
 const t = [
+   'Tacheles reden',
    'tapsen' ,
    'tätscheln',
    'taxieren' ,
@@ -9,6 +10,7 @@ const t = [
    'tönen',
    'Tonne',         
    'torkeln',
+   'tosen, tosend',
    'Tracht Prügel',
    'Trasse' ,
    'Tresen' ,

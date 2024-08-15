@@ -3,7 +3,7 @@ const q = [
    'quellen',
    'Quere (in die Q. kommen)',
    'Querschnitt',
-   'quetschen',
+   'quetschen, zerquetschen',
    'quietschen',
    'quitt'
 ];

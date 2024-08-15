@@ -1,5 +1,6 @@
 import a from './words/a.js';
 import b from './words/b.js';
+import c from './words/c.js';
 import d from './words/d.js';
 import e from './words/e.js';
 import f from './words/f.js';
@@ -21,4 +22,4 @@ import v from './words/v.js';
 import w from './words/w.js';
 import z from './words/z.js';
 
-export const allWords = [...a, ...b, ...d, ...e, ...f, ...g, ...h, ...i, ...j, ...k, ...l, ...m, ...n, ...p, ...q, ...r, ...s, ...t, ...u, ...v, ...w, ...z];
+export const allWords = [...a, ...b, ...c, ...d, ...e, ...f, ...g, ...h, ...i, ...j, ...k, ...l, ...m, ...n, ...p, ...q, ...r, ...s, ...t, ...u, ...v, ...w, ...z];

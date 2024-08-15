@@ -32,6 +32,7 @@ const p = [
   // 'präparieren' ,
    'Pranke',
    'Präsent, präsent',
+   'prasseln',
    'Prise' ,
    'Pritsche',
    'Prothese',

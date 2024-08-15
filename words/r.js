@@ -1,5 +1,6 @@
 const r = [
    'Rabauke',
+   'Rabe',
    'rabiat' ,
    'Radau, Radaubruder',
    'rammen'  ,
@@ -16,6 +17,7 @@ const r = [
    'reinsemmeln'  ,
    'reißen (sich um etwas)' ,
    'reißerisch' ,
+   'Rempler',
    'renitent' ,
    'requirieren' ,
    'reüssieren',
@@ -35,6 +37,7 @@ const r = [
    'rumpeln',
    'rümpfen',
    'rumsen',
+   'rupfen',
    ];
 
 export default r;      

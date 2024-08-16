@@ -16,6 +16,7 @@ const p = [
    'pfiffig',
    'Pfropfen',
    'pfuschen (ins Handwerk p.)',
+   'Pfütze',
    'pieksen, piksen',
    'Pinkel' ,
    'pinkeln' ,

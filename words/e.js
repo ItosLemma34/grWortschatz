@@ -20,6 +20,7 @@ const e = [
    'eintrudeln',
    'eintüten',
    'Empore',
+   'entgegenfiebern',
    'entriegeln',
    'entstellen',
    'erdreisten (sich)',

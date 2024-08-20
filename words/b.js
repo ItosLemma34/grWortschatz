@@ -26,6 +26,7 @@ const b = [
     'bibbern',
     'bieder',
     'Biege machen',
+    'Blase, Bläschen',
     'blasiert',
     'Blaumann',
     'Blech',
@@ -53,8 +54,8 @@ const b = [
     'Buche',
     'Büchse',
     'buddeln, ausbuddeln',
-  //  'Bügel',  in Goldstein; check for in others
     'Bude, Büdchen',
+    'Bügel',  
     'bugsieren',
     'buhlen',
     'Bühne (über die B. gehen)',

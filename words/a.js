@@ -1,5 +1,6 @@
 const a = [
 	'aalglatt',
+	'abbinden',
 	'abblitzen', 
 	'abebben', 
 	'abfackeln',
@@ -93,7 +94,7 @@ const a = [
 	'auftischen',
 	'aufwiegen',
 	'aus dem Konzept bringen',
-	'aus dem Staube machen (sich)',
+	'aus dem Staub machen (sich)',
 	'aus dem Häuschen sein',
 	'aus der Haut fahren',
 	'ausbüxen',

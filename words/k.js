@@ -3,6 +3,7 @@ const k = [
    'kacheln',
    'Kaffeekränzchen',
    'kahl',
+   'Kantholz',
    'Karnickel',
    'Karree',
    'karren',

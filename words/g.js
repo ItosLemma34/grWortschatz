@@ -61,6 +61,7 @@ const g = [
    'Grünschnabel',
    'grunzen',
    'Grüßaugust',
+   'Gully',
    'gurren',
    'Gurt',       
    'gut in Schuss',       

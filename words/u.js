@@ -6,6 +6,7 @@ const u = [
    'über die Stränge schlagen',
    'überrumpeln',
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
+   'übers Ohr hauen',
    'überwuchern',
    'um den heißen Brei herumreden',
    'ummähen' ,  

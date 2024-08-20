@@ -8,7 +8,7 @@ const s = [
    'Schar'  , 
    'Scharfmacher' ,   
    'schassen' ,     
-   'schaufeln'  ,    
+   'schaufeln, Schaufel'  ,    
    'schaukeln'  ,     
    'scheiteln, Scheitel',
    'Scheiterhaufen',
@@ -95,6 +95,7 @@ const s = [
    'Sore',
    'soufflieren',
    'Spalier',
+   'Spanner',
    'Spaten' ,
    'speckig' ,
    'sperrangelweit' ,
@@ -127,6 +128,7 @@ const s = [
    'stieren' ,
    'stöbern',
    'stöckeln, Stöckelschuh',
+   'stopfen, Stopfen',
    'stolzieren',
    'strampeln',
    'Strebe'  ,
@@ -139,6 +141,7 @@ const s = [
    'Stulle',
    'stümperhaft',
    'süffisant',
+   'summen',
    'Sündenpfuhl',
    ];
 

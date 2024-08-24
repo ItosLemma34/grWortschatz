@@ -17,6 +17,7 @@ const b = [
     'beipflichten',
     'Bengel',
     'berappen',
+    'beredt',
     'Beritt',
     'Besen',
     'Besteck',

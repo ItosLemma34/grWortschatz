@@ -83,6 +83,7 @@ const a = [
 	'aufpäppeln',
 	'aufplustern',
 	'aufputschen',
+	'aufs Auge drücken',
 	'aufs Dach steigen',
 	'aufs Korn nehmen',
 	'aufschaukeln',

@@ -7,6 +7,7 @@ const l = [
    'lallen',
    'lässig',
    'lasten',
+   'Lauf',
    'Laufbursche',
    'lausig',
    'Leier',   

@@ -34,6 +34,7 @@ const f = [
    'forsch',  
    'Fratze',
    'frequentieren',
+   'Frevel',
    'Frotzelei',
    'fuchteln',
    'fuhrwerken' ,

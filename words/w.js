@@ -18,6 +18,7 @@ const w = [
    'wie bestellt und nicht abgeholt',
    'wienern' ,
    'wimmern' ,
+   'Wimper',
    'winden' ,
    'Wink mit dem Zaunpfahl' ,
    'Winkel' ,

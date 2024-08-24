@@ -27,6 +27,7 @@ const t = [
    'Trubel' ,
    'Truhe' ,
    'tuckern',
+   'tumb',
    'tünchen, Tünche',
    'tunken',
    'tupfen' ,   

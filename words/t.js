@@ -1,5 +1,6 @@
 const t = [
    'Tacheles reden',
+   'Tantieme',
    'tapsen' ,
    'tätscheln',
    'taxieren' ,
@@ -15,6 +16,7 @@ const t = [
    'Trasse' ,
    'Tresen' ,
    //'ins Kreuz treten  Tritt ins Kreuz'  ;   Nworte++;    Märzgefallene   111    German definition not found; entry in worte_T.js started, not finished
+   'Trichter',
    'triezen' ,
    'trippeln',  
    'trollen (sich)' ,  

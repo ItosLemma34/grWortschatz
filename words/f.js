@@ -20,6 +20,7 @@ const f = [
    'Fittich (unter Fittiche nehmen)',
    'flapsig',
    'flattern',
+   'Flaum',
    'fläzen (sich)',
    'fleddern',             
    'flehentlich',

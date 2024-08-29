@@ -2,6 +2,7 @@ const z = [
    'zackig' ,    
    'zahm, handzahm',
    'Zange (in die Z. nehmen)',
+   'zanken (sich)',
    'Zapfen',
    'zappeln',
    'Zarge' ,

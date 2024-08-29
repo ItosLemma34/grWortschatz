@@ -18,6 +18,7 @@ const u = [
    'ungelegen' ,
    'unten durch sein',
    'unterbuttern',
+   'unterjubeln',
    'Unterschlagung, unterschlagen' ,
    'untersetzt',
    'Unterstand' ,

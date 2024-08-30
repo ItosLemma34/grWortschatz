@@ -1,8 +1,7 @@
 export const wordExamples = {              
 //'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-//'<strong>aufmucken</strong>: &nbsp;protest, be up in arms against <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufmucken"target="target1">aufmucken</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://www.wordreference.com/deen/aufmucken"target="target2">aufmucken</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufmucken"target="target3">aufmucken</a>',
-//New Format   
+//&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href=""target="target2"></a>&nbsp;&nbsp;<a href=""target="target3"></a>   
 aufmucken: [
 	'<strong>aufmucken</strong>: &nbsp;protest, be up in arms against <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufmucken"target="target1">aufmucken</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://www.wordreference.com/deen/aufmucken"target="target2">aufmucken</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufmucken"target="target3">aufmucken</a>',
 //	'<u>Der Nasse Fisch</u>',
@@ -1066,6 +1065,7 @@ Balken: [
 	'Der <strong>Balken</strong> ächzt wie unter einer schweren Last, als das Drahtseil an ihm zerrt, doch bewegen will er sich nicht. Erst als wir ein viertes Pferd anspannen, gibt er schlußendlich nach, und das Haus verliert seine letzte Stütze.  (<i>Märzgefallene</i>, 159)',
 	'Während sich der Fackelzug langsam näherte, begannen Feuerwehrmänner, den aus Holz<strong>balken</strong> aufgeschichteten Scheiterhaufen, den der Regen durch und durch eingenässt hatte, kanisterweise mit Benzin zu übergießen. (<i>Märzgefallene</i>, 555)',
 	'Reste eines alten Schützengrabens zogen sich noch durchs Gelände, die morsch gewordenen <strong>Balken</strong> eines Unterstandes ragten aus der Erde, moosbewachsen wie Baumstümpfe. Rath schaute in den Graben hinein und konnte einen rostigen Spaten endecken....  (<i>Märzgefallene</i>, 598)',
+	'Und dann sah er (<i>Rath</i>) den Treppenabsatz, der aus einem Berg von Backsteinen ragte... Ja! Genau dort, wo der verkohlte <strong>Balken</strong> lag! Thelens Beschreibung: <i>Ein Stein under der Kellertreppe, dort hat er die Sachen versteckt, bevor wir zur Inspektion aufgebrochen sind.</i> Rath räumte den <strong>Balken</strong> beiseite und noch mehr Schutt, der sich hier angesammelt hatte, bis er das Mauerwerk unter der Treppe erreichen konnte.  (<i>Märzgefallene</i>, 602)',
 ],             
 Baskenmütze: [
 	'die <strong>Baskenmütze</strong>,-<strong>n</strong>: &nbsp;beret <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Baskenmuetze" target="target1" >Baskenmütze</a>',
@@ -3122,10 +3122,11 @@ klackern: [
 	'<i>Charly</i>: "Danke, Schwester, ich brauche Sie nicht mehr." Die Oberschwester machte auf dem Absatz kehrt und <strong>klackerte</strong> mit lauten Schritten den Gang hinunter.  (<i>Märzgefallene</i>, 80) ' ,
 ],
 Kladde: [
-	'die <strong>Kladde</strong>,-<strong>n</strong>:  notebook, notepad, log  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kladde" target="target1" >Kladde</a> ' ,
+	'die <strong>Kladde</strong>,-<strong>n</strong>: &nbsp;notebook, notepad, log  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kladde"target="target1">Kladde</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://dict.leo.org/german-english/Kladde"target="target2">Kladde</a> &nbsp;<a href="https://en.langenscheidt.com/german-english/kladde"target="target3">Kladde</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Im Dezember 1916 endeten auch die Kriegstagebücher, die Rath in einem Regal entdeckte. Die <strong>Kladden</strong> weckten seine Neugier, and er blätterte sich hindurch.  (<i>Märzgefallene</i>, 284)' ,
 	'Er klopfte, und ein müdes Herein erklang. Rath betrat das Büro, dessen Anblick weitere Erinnerungen freisetzte: Weinflaschen, Mäuseohren, Katerstimmung. Paul trug gerade etwas in eine große <strong>Kladde</strong> ein. (<i>Märzgefallene</i>, 298)' ,                    
+	'Er (<i>Rath</i>) zog die Blechdose aus ihrem Versteck und öffnete sie. Fand darin einen angefangenen und nicht vollendeten handgeschriebenen Brief und eine dunkle <strong>Kladde</strong>. Ein direkter Verwandter jener <strong>Kladden</strong>, die Rath in einer Villa am Bonner Rheinufer gesehen hatte.  (<i>Märzgefallene</i>, 602)' ,
 ],
 klamm: [
 	'<strong>klamm</strong>: clammy, dank, moist <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/klamm" target="target1" >klamm</a>' ,
@@ -3304,11 +3305,12 @@ Knöchel: [
 	'<i>von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese Schmierfinken über einen Mann, der für ihresgleichen seine <strong>Knochen hingehalten</strong> hat!" (<i>Märzgefallene</i>, 132)' ,
 ],
 knirschen: [
-	'<strong>knirschen</strong>: &nbsp;crunch, grind   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/knirschen" target="target1" >knirschen</a>',
+	'<strong>knirschen</strong>: &nbsp;crunch, grind <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knirschen"target="target1">knirschen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Knirschen"target="target2">knirschen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knirschen"target="target3">knirschen</a>',
 	'<u>Der Nasse Fisch</u>',
 	'Sämtliche Gaslaternen waren mit Steinen kaputt geworfen worden, ihr Glas <strong>knirschte</strong> auf dem Pflaster. An einigen Stellen waren die Holzstapel für den U-Bahn-Bau umgeworfen und über die Fahrbahn verteilt worden.  (<i>Der Nasse Fisch</i>, 69)' ,
 	'<u>Märzgefallene</u>',
 	'...da hörte er (<i>Rath</i>) Motorengeräusche... und den <strong>knirschenden</strong> Kies des Parkplatzes, dann von der Straße her das typische Scheppern, das die Dienstwagen der preußischen Polizei verursachten. (<i>Märzgefallene</i>, 440)' ,
+	'Er (<i>Rath</i>) hörte Schritte <strong>knirschen</strong> und erschrak. Dann sah er Charlys neugieriges Gesicht. Hatte sie sich doch noch überwinden können, die Verbotsschilder zu ignorieren, und war zu ihm hinabgestiegen.  (<i>Märzgefallene</i>, 602)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

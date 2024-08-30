@@ -55,6 +55,7 @@ const b = [
     'Brüstung',
     'Buche',
     'Büchse',
+    'Buckel',
     'buddeln, ausbuddeln',
     'Bude, Büdchen',
     'Bügel',  

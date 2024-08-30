@@ -36,6 +36,7 @@ const g = [
    'Gestänge',
    'Gestell',
    'Gestöber',
+   'Gesträuch',
    'getäfelt, täfeln',
    'Getümmel',
    'Geturtel',

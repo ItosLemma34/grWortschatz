@@ -1,40 +1,40 @@
 const a = [
-	'aalglatt',
-	'abbinden',
-	'abblitzen', 
-	'abebben', 
-	'abfackeln',
-	'abgebrüht', 
-	'abgrasen', 
-	'abgreifen', 
-	'abhängen',
-	'abklappern', 
-	'abknallen', 
-	'abkommandieren', 
-	'Ablage', 
-	'abluchsen',
-	'Abschaum', 
-	'abschüssig',
-	'absegnen', 
-	'abspulen', 
-	'abtrünnig', 
-	'abwimmeln', 
-	'abzocken',
-	'ächzen', 
-	'adrett',
-	'Affekthandlung', 
-	'Allerwerteste',
-	'alteingesessen',
-	'anbändeln', 
-	'anblaffen', 
-	'anbrechen', 
-	'anecken', 
-	'anekeln', 
+	'aalglatt',   //aalglatt:    
+	'abbinden',   //abbinden:
+	'abblitzen',  //abblitzen: 
+	'abebben',    //abebben:
+	'abfackeln',  //abfackeln:
+	'abgebrüht',  //abgebrüht:
+	'abgrasen',   //abgrasen:
+	'abgreifen',  //abgreifen: 
+	'abhängen',   //abhängen:
+	'abklappern', //abklappern:
+	'abknallen',  //abknallen:
+	'abkommandieren',  //abkommandieren: 
+	'Ablage',     //Ablage:
+	'abluchsen',  //abluchsen:
+	'Abschaum',   //Abschaum: 
+	'abschüssig',  //abschüssig:  
+	'absegnen',   //absegnen:    
+	'abspulen',   //abspulen:  
+	'abtrünnig',  //abtrünnig:   
+	'abwimmeln',  //abwimmeln:     
+	'abzocken',   //abzocken:  
+	'ächzen',     //ächzen: 
+	'adrett',   //adrett:
+	'Affekthandlung',   //Affekthandlung: 
+	'Allerwerteste',   //Allerwerteste:
+	'alteingesessen',  //alteingesessen:
+	'anbändeln',    //anbändeln:
+	'anblaffen',    //anblaffen:
+	'anbrechen',    //anbrechen:
+	'anecken',      //anecken: 
+	'anekeln',      //anekeln:
 	'angeben, Angeber',
-	'angeschickert', 
-	'anhimmeln',
-	'anleinen',
-	'Anpfiff' ,
+	'angeschickert', //angeschickert:
+	'anhimmeln',    //anhimmeln:
+	'anleinen',     //anleinen:
+	'Anpfiff' ,     //Anpfiff:
 	'anpflaumen',
 	'anpumpen',
 	'anquatschen', 

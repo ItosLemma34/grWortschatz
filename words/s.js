@@ -147,6 +147,7 @@ const s = [
    'süffisant',
    'summen',
    'Sündenpfuhl',
+   'surren',   //surren:
    ];
 
 export default s;      

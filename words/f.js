@@ -12,6 +12,7 @@ const f = [
    'feilbieten',
    'Feilschen',
    'fesch',
+   'festfressen (sich)',  //
    'Fettnäpfchen',
    'filzen',
    'Findling',

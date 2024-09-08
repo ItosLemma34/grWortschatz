@@ -45,6 +45,7 @@ const v = [
    'verrutschen' ,
    'versauen',
    'verschanzen (sich)' ,
+   'verscharren',    //verscharren:
    'verscherzen',
    'verschieben',
    'verschimmeln' ,

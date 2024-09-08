@@ -1,5 +1,4 @@
 const b = [
-    'Backe, an der Backe haben',
     'Bahre',
     'Balken',
     'ballern',

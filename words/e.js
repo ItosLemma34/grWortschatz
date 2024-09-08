@@ -1,5 +1,6 @@
 const e = [
    'Ebbe',
+   'echoen',    //echoen:
    'einbrocken',
    'einbuchten',
    'Eindruck schinden',
@@ -25,6 +26,7 @@ const e = [
    'entstellen',
    'erdreisten (sich)',
    'ergattern',
+   'erhaschen',   //erhaschen:
    'erkiesen',
    'erpicht',
    'erstehen',

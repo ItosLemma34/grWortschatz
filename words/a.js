@@ -25,6 +25,7 @@ const a = [
 	'Affekthandlung',   //Affekthandlung: 
 	'Allerwerteste',   //Allerwerteste:
 	'alteingesessen',  //alteingesessen:
+	'an der Backe haben',
 	'anbändeln',    //anbändeln:
 	'anblaffen',    //anblaffen:
 	'anbrechen',    //anbrechen:
@@ -35,89 +36,89 @@ const a = [
 	'anhimmeln',    //anhimmeln:
 	'anleinen',     //anleinen:
 	'Anpfiff' ,     //Anpfiff:
-	'anpflaumen',
-	'anpumpen',
-	'anquatschen', 
-	'anraunzen', 
-	'anrempeln', 
-	'Anrichte',
+	'anpflaumen',   //anpflaumen:
+	'anpumpen',     //anpumpen:
+	'anquatschen',   //anquatschen: 
+	'anraunzen',     //anraunzen:
+	'anrempeln',    //anrempeln:
+	'Anrichte',     //Anrichte:
 	'ans Bein binden',
-	'anschmiegsam', 
-	'anschnauzen', 
-	'anschwärzen', 
-	'ansengen',
-	'Ansinnen' ,
-	'anstupsen',
-	'antanzen', 
-	'Anwesen', 
-	'anwidern',
-	'Anzeige erstatten', 
-	'anzwinkern',
-	'Armbeuge',
+	'anschmiegsam', //anschmiegsam:
+	'anschnauzen',  //anschnauzen:
+	'anschwärzen',  //anschwärzen:
+	'ansengen',     //ansengen:
+	'Ansinnen' ,    //Ansinnen:
+	'anstupsen',    //anstupsen:
+	'antanzen',     //antanzen:
+	'Anwesen',      //Anwesen:
+	'anwidern',     //anwidern:
+	'Anzeige erstatten', //
+	'anzwinkern',  //anzwinkern:
+	'Armbeuge',    //Armbeuge:
 	'Arsch, jmdm. in den A. kriechen',
-	'Attest',
-	'auf Biegen und Brechen',
-	'auf dem Sprung',
-	'auf den Arm nehmen',
-	'auf den Putz hauen',
-	'auf den Strich gehen',
-	'auf den Wecker gehen',
-	'auf den Zahn fühlen',
-	'auf die Nase binden',
-	'auf die Palme treiben/bringen',
-	'auf die Pelle rücken',
-	'auf die Schliche kommen',
-	'auf die Tube drücken',
-	'auf etwas aus sein',
-	'auf Halde legen',
-	'auf Zack sein',
-	'aufbahren',
-	'aufdonnern (sich)',
-	'auffliegen',
-	'aufgabeln',
-	'aufgekratzt',
-	'aufgelöst',
-	'aufglimmen',
-	'aufhalsen',
-	'aufjaulen',
-	'auflauern',
-	'aufmucken',
-	'aufpäppeln',
-	'aufplustern',
-	'aufputschen',
-	'aufs Auge drücken',
-	'aufs Dach steigen',
-	'aufs Korn nehmen',
-	'aufschaukeln',
-	'aufscheuchen',
-	'aufschichten',
-	'aufstieben',
-	'aufstöbern',
-	'auftakeln',
-	'auftischen',
-	'aufwiegen',
-	'aus dem Konzept bringen',
-	'aus dem Staub machen (sich)',
-	'aus dem Häuschen sein',
-	'aus der Haut fahren',
-	'ausbüxen',
-	'Ausdünstung',
-	'Ausfallstraße',
-	'ausfressen',
-	'ausheben, Aushebung',
-	'aushorchen',
-	'ausklinken',
-	'ausquetschen',
-	'Ausreißer',
-	'ausrücken',
-	'ausscheren',
-	'ausschlachten',
-	'ausschwärmen',
-	'ausspucken',
-	'ausstaffieren',
-	'ausstopfen',
-	'austoben (sich)',
-	'austüfteln',
+	'Attest',     //Attest:
+	'auf Biegen und Brechen',   //
+	'auf dem Sprung',      //
+	'auf den Arm nehmen',  //
+	'auf den Putz hauen',  //
+	'auf den Strich gehen', //
+	'auf den Wecker gehen', //
+	'auf den Zahn fühlen',  //
+	'auf die Nase binden',  //
+	'auf die Palme treiben/bringen',  //
+	'auf die Pelle rücken',   //
+	'auf die Schliche kommen',  //
+	'auf die Tube drücken',   //
+	'auf etwas aus sein',  //
+	'auf Halde legen',   //
+	'auf Zack sein',    //
+	'aufbahren',   //aufbahren:
+	'aufdonnern (sich)',  //
+	'auffliegen',  //auffliegen:
+	'aufgabeln',   //aufgabeln:
+	'aufgekratzt', //aufgekratzt:
+	'aufgelöst',   //aufgelöst:
+	'aufglimmen',  //aufglimmen:
+	'aufhalsen',   //aufhalsen:
+	'aufjaulen',   //aufjaulen:
+	'auflauern',   //auflauern:
+	'aufmucken',   //aufmucken:
+	'aufpäppeln',  //aufpäppeln:
+//	'aufplustern', //aufplustern:
+	'aufputschen',  //aufputschen:
+	'aufs Auge drücken',  //
+	'aufs Dach steigen',  //
+	'aufs Korn nehmen',  //
+	'aufschaukeln',    //aufschaukeln:
+	'aufscheuchen',    //aufscheuchen:
+	'aufschichten',   //aufschichten:
+	'aufstieben',    //aufstieben:
+	'aufstöbern',    //aufstöbern:
+	'auftakeln',     //auftakeln:
+	'auftischen',    //auftischen:
+	'aufwiegen',     //aufwiegen:
+	'aus dem Konzept bringen',   //
+	'aus dem Staub machen (sich)', //
+	'aus dem Häuschen sein',   //
+	'aus der Haut fahren',  //
+	'ausbüxen',    //ausbüxen:
+	'Ausdünstung',  //Ausdünstung:
+	'Ausfallstraße',   //Ausfallstraße:
+	'ausfressen',   //ausfressen:
+	'ausheben, Aushebung',  //
+	'aushorchen',  //aushorchen:
+	'ausklinken',  //ausklinken:
+	'ausquetschen',  //ausquetschen:
+	'Ausreißer',    //Ausreißer:
+	'ausrücken',    //ausrücken:
+	'ausscheren',   //ausscheren:
+	'ausschlachten', //ausschlachten:
+	'ausschwärmen',  //ausschwärmen:
+	'ausspucken',   //ausspucken:
+	'ausstaffieren',  //ausstaffieren:
+	'ausstopfen',    //ausstopfen:
+	'austoben (sich)',  //
+	'austüfteln',     //austüfteln:
 ];
 
 export default a;

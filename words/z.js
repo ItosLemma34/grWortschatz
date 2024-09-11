@@ -52,7 +52,7 @@ const z = [
    'zwinkern' , 
    'zwirbeln', 
    'Zwirn',
-   'zwitschern',
+   'zwitschern',  //zwitschern:
 ];
 
 export default z;         

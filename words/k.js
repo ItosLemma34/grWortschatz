@@ -19,7 +19,7 @@ const k = [
    'Kelch',
    'Kerbholz (etwas auf dem K. haben)',
    'ketten, Kette',
-   'kichern',
+   'kichern',  //kichern:
    'Kieker (auf dem Kieker haben)',
    'Kies, Kiesel',
    'Kinderficker',

@@ -37,35 +37,34 @@ const b = [
     'Blöße',   //Blöße:
     'bloßstellen',  //bloßstellen:
     'Bodensatz',  //Bodensatz:
-    'Bogen (den Bogen raushaben)',
-    'Bohle',
-    'bohnern',
-    'Bonze',
-    'borniert',
-    'Bordmittel',
-    'Bösewicht',
-    'Boulette',
-    'brandschatzen',
-    'Brause',
-    'brausen',
-    'Brett, Bretterwand, Bretterverschlag',
-    'Brimborium',
-    'bröckeln',
-    'brummig, Brummigkeit',
-    'Brüstung',
-    'Buche',
-    'Büchse',
-    'Buckel',
-    'buddeln, ausbuddeln',
-    'Bude, Büdchen',
-    'Bügel',  
-    'bugsieren',
-    'buhlen',
-    'Bühne (über die B. gehen)',
-    'bullig',
-    'bumsen',
-    'Bursche',
-    'bützen',
+    'Bogen (den Bogen raushaben)',  //
+    'Bohle',    //Bohle:
+    'bohnern',  //bohnern:
+    'Bonze',   //Bonze:
+    'borniert',  //borniert:
+    'Bordmittel', //Bordmittel:
+    'Bösewicht',  //Bösewicht:
+    'Boulette',   //Boulette:
+    'brandschatzen',  //brandschatzen:
+    'Brause',    //Brause:
+    'brausen',  //brausen:
+    'Brett, Bretterwand, Bretterverschlag',  //
+    'Brimborium',   //Brimborium:
+    'bröckeln',  //bröckeln:
+    'brummig, Brummigkeit',   //
+    'Brüstung',  //Brüstung:
+    'Buche',    //Buche:
+    'Büchse',   //Büchse:
+    'Buckel',   //Buckel:
+    'buddeln, ausbuddeln',  //
+    'Bude, Büdchen',  //
+    'Bügel',         //Bügel:
+    'bugsieren',   //bugsieren:
+    'buhlen',   // buhlen:
+    'bullig',  //bullig:
+    'bumsen',  //bumsen:
+    'Bursche',  //Bursche:
+    'bützen',   //bützen:
 ];
 
 export default b;

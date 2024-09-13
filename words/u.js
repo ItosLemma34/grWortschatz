@@ -2,6 +2,7 @@ const u = [
    'über alle Berge sein',
    'über den Haufen...',
    'über den Tisch ziehen',
+   'über die Bühne gehen',  //
    'über die Runden kommen',
    'über die Stränge schlagen',
    'überrumpeln',

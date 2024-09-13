@@ -1,6 +1,6 @@
 const d = [
-   'dämlich',
-   'Damm',
+   'dämlich',   //dämlich:
+   'Damm',     //Damm:
    'Dampframme',
    'Dampfwalze',
    'Deckel',

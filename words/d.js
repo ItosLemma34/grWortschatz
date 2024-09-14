@@ -1,29 +1,29 @@
 const d = [
    'dämlich',   //dämlich:
    'Damm',     //Damm:
-   'Dampframme',
-   'Dampfwalze',
-   'Deckel',
-   'dezent',
-   'Diele',
-   'Dietrich',
-   'dösen',
-   'drall', 
-   'draufhaben',
-   'Dreh'  ,
-   'Dreigestirn',
-   'Dreistigkeit, dreist',
-   'Druckfahne',
-   'drucksen',
+   'Dampframme',  //Dampframme:
+   'Dampfwalze',  //Dampfwalze:
+   'Deckel',   //Deckel:
+   'dezent',   //dezent:
+   'Diele',   //Diele:
+   'Dietrich',  //Dietrich:
+   'dösen',    //dösen:
+   'drall',    //drall:
+   'draufhaben',  //draufhaben:
+   'Dreh'  ,    //Dreh:
+   'Dreigestirn',  //Dreigestirn:
+   'Dreistigkeit, dreist',  //
+   'Druckfahne',   //Druckfahne:
+   'drucksen',    //drucksen:
    'drunter und drüber gehen',
    /*'den Hintern plattsitzen', */
-   'dudeln',
-   'dumpf',
-   'Dunstkreis',
-   'durch den Wind sein',
-   'durch den Wolf drehen',
-   'durchdrehen',
-   'durchkämmen',
+   'dudeln',   //dudeln:
+   'dumpf',    //dumpf:
+   'Dunstkreis',  //Dunstkreis:
+   'durch den Wind sein',  //
+   'durch den Wolf drehen',  //
+   'durchdrehen',    //durchdrehen:
+   'durchkämmen',    //durchkämmen:
 ];
 
 export default d;

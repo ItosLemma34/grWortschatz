@@ -1,57 +1,56 @@
 const z = [
-   'zackig' ,    
-   'zahm, handzahm',
-   'Zange (in die Z. nehmen)',
-   'zanken (sich)',
-   'Zapfen',
-   'zappeln',
-   'Zarge' ,
-   'zaudern',
-   'Zaunpfahlwink',
-   'zechen',
-   'Zehenspitze' ,
-   'Zeltplane' ,
-   'zerdeppern',
-   'zerfleddert' ,
-   'zerknicken' ,
-   'zerknirscht',
-   'zerknittern',
-   'zerknüllen' ,
-   'zermatschen',
-   'zerpflücken',
-   'zerren' ,
-   'zerschunden' ,
-   'zerwühlen' ,
-   'zerzausen' ,
-   'Zeug (was das Z. hält)',
-   'Zicke, Zicken machen'  ,
-   'Ziegelwand'  ,
-   'zig' ,
-   'Zinken' ,
-   'Zinnober', 
-   'Zipperlein'   ,
-   'zischen' ,     
-   'zittern' ,
-   'zittrig' ,
-   'zockeln' ,
-   'Zopf'  ,
-   'zu nahe treten',
-   'Zucht' ,
-   'züchtigen',
-   'zücken' ,       
-   'Zugehfrau' ,
-   'zügeln' ,
-   'zünftig' ,
-   'zupasskommen' ,
-   'zupfen',
-   'zuprosten',
-   'zurren, festzurren',
-   'Zuspruch' ,
-   'zuwanken',
-   'Zwang (sich keinen Z. antun)',
-   'zwinkern' , 
-   'zwirbeln', 
-   'Zwirn',
+   'zackig' ,    //zackig:   
+   'zahm, handzahm', //
+   'Zange (in die Z. nehmen)',   //
+   'zanken (sich)',  //
+   'Zapfen',   //Zapfen:
+   'zappeln',   //zappeln:
+   'Zarge' ,   //Zarge:
+   'zaudern',  //zaudern:
+   'Zaunpfahlwink',  //Zaunpfahlwink:
+   'zechen',     //zechen:
+   'Zehenspitze' ,  //Zehenspitze:
+   'Zeltplane' ,   //Zeltplane:
+   'zerdeppern',   //zerdeppern:
+   'zerfleddert' ,  //zerfleddert:
+   'zerknicken' ,   //zerknicken:
+   'zerknirscht',   //zerknirscht:
+   'zerknittern',  //zerknittern:
+   'zerknüllen' ,  //zerknüllen:
+   'zermatschen',  //zermatschen:
+   'zerpflücken',  //zerpflücken:
+   'zerren' ,      //zerren:
+   'zerschunden' ,  //zerschunden:
+   'zerwühlen' ,    //zerwühlen:
+   'zerzausen' ,    //zerzausen:
+   'Zeug (was das Z. hält)', //
+   'Zicke, Zicken machen'  ,  //
+   'Ziegelwand'  ,    //Ziegelwand:
+   'zig' ,   //zig:
+   'Zinken' ,  //Zinken:
+   'Zinnober',   //Zinnober:
+   'Zipperlein' , //Zipperlein:
+   'zischen' ,  //zischen:   
+   'zittern, zittrig' ,  //
+   'zockeln' ,  //zockeln:
+   'Zopf'  ,  //Zopf:
+   'zu nahe treten',  //
+   'Zucht' ,   //Zucht:
+   'züchtigen',  //züchtigen:
+   'zücken' ,   //zücken:      
+   'Zugehfrau' ,  //Zugehfrau:
+   'zügeln' ,   //zügeln:
+   'zünftig' ,  //zünftig:
+   'zupasskommen' ,  //zupasskommen:
+   'zupfen',  //zupfen:
+   'zuprosten',  //zuprosten:
+   'zurren, festzurren',  //
+   'Zuspruch' ,  //Zuspruch:
+   'zuwanken',   //zuwanken:
+   'Zwang (sich keinen Z. antun)', //
+   'zwinkern' ,   //zwinkern:
+   'zwirbeln',   //zwirbeln:
+   'Zwirn',  //Zwirn:
    'zwitschern',  //zwitschern:
 ];
 

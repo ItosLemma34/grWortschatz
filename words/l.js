@@ -5,6 +5,7 @@ const l = [
    'laff',
    'Laken',
    'lallen',
+   'Lappen',   //Lappen:
    'lässig',
    'lasten',
    'Lauf',

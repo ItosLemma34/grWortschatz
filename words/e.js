@@ -1,36 +1,36 @@
 const e = [
-   'Ebbe',
+   'Ebbe',   //Ebbe:
    'echoen',    //echoen:
-   'einbrocken',
-   'einbuchten',
-   'Eindruck schinden',
-   'einfädeln, fädeln',
-   'Eingebung',
-   'einkriegen (sich)',
-   'einkringeln',
-   'einlullen',
-   'einnicken',
-   'Einöde',
-   'einrasten',
-   'einreißen',
-   'einrüsten',
-   'einseifen',
-   'einstäuben',
-   'einstecken',
-   'Eintänzer',
-   'eintrudeln',
-   'eintüten',
-   'Empore',
-   'entgegenfiebern',
-   'entriegeln',
-   'entstellen',
-   'erdreisten (sich)',
-   'ergattern',
+   'einbrocken',  //einbrocken:
+   'einbuchten',  //einbuchten:
+   'Eindruck schinden',  //
+   'einfädeln, fädeln',  //
+   'Eingebung',   //Eingebung:
+   'einkriegen (sich)',  //
+   'einkringeln',  //einkringeln:
+   'einlullen',  //einlullen:
+   'einnicken',  //einnicken:
+   'Einöde',   //Einöde:
+   'einrasten',  //einrasten:
+   'einreißen',  //einreißen:
+   'einrüsten',  //einrüsten:
+   'einseifen',  //einseifen:
+   'einstäuben',  //einstäuben:
+   'einstecken',  //einstecken:
+   'Eintänzer',   //Eintänzer:
+   'eintrudeln',  //eintrudeln:
+   'eintüten',    //eintüten:
+   'Empore',     //Empore:
+   'entgegenfiebern',  //entgegenfiebern:
+   'entriegeln',  //entriegeln:
+   'entstellen',  //entstellen:
+   'erdreisten (sich)',  //
+   'ergattern',   //ergattern:
    'erhaschen',   //erhaschen:
-   'erkiesen',
-   'erpicht',
-   'erstehen',
-   'eruieren',
+   'erkiesen',   //erkiesen:
+   'erpicht',   //erpicht:
+   'erstehen',  //erstehen:
+   'eruieren',  //eruieren:
 ];
 
 export default e;

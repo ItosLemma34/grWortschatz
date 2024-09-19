@@ -1,8 +1,8 @@
 const f = [
-   'fackeln',
-   'fadenscheinig',
-   'Fahne (von der Fahne gehen)',
-   'Fahnenabzug',
+   'fackeln',  //fackeln:
+   'fadenscheinig',  //fadenscheinig:
+   'Fahne (von der Fahne gehen)',  //
+   'Fahnenabzug',  //Fahnenabzug:
    'Fall der Fälle',
    'Fasan',
    'faseln',
@@ -26,6 +26,7 @@ const f = [
    'fleddern',             
    'flehentlich',
    'flicken',
+   'Fliese',   //Fliese:
    'flink',
    'flöten',
    'flott',

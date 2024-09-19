@@ -76,6 +76,7 @@ const s = [
    'schummrig',
    'Schund'  ,
    'schunkeln' ,
+   'Schuppen',   //Schuppen:
    'schüren',            
    'Schürze' ,
    'Schüssel' ,

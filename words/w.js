@@ -5,7 +5,7 @@ const w = [
    'wälzen (sich)',
    'Wappen' ,
    'Wassern (mit allen W. gewaschen)',
-   'wedeln' ,
+   'wedeln' ,  //wedeln:
    'wegducken (sich)' ,
    'Wehwehchen',
    'weichklopfen' ,

@@ -110,6 +110,7 @@ const a = [
 	'ausklinken',  //ausklinken:
 	'ausquetschen',  //ausquetschen:
 	'Ausreißer',    //Ausreißer:
+	'auswringen',   //auswringen:
 	'ausrücken',    //ausrücken:
 	'ausscheren',   //ausscheren:
 	'ausschlachten', //ausschlachten:

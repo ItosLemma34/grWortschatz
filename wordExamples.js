@@ -2,6 +2,12 @@ export const wordExamples = {
 //'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', 
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 //&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href=""target="target2"></a>&nbsp;&nbsp;<a href=""target="target3"></a>   
+auswringen: [
+	'<strong>auswringen</strong>: &nbsp;squeeze, wring out <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/auswringen"target="target1">auswringen</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/auswringen"target="target2">auswringen</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/auswringen"target="target3">auswringen</a>',
+	'<u>Der Nasse Fisch</u>',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll <strong>auswrang</strong>.  (<i>Der Nasse Fisch</i>, 234)' ,
+//	'<u>Märzgefallene</u>', 
+],
 'an der Backe haben': [
 	'die <strong>Backe</strong>,-<strong>n</strong>: &nbsp;cheek (Wange)  &nbsp;&nbsp;<strong>an der Backe haben</strong>: have sb./sth. on one\'s hands; <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Backe_Wange"target="target1">Backe</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%252C%20etw.%20an%20der%20Backe%20haben?o=an+der+Backe+habe"target="target2">an der Backe haben</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Backe"target="target3">Backe</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=an+der+Backe+haben"target="target4">an der Backe haben</a> ',
 	'<u>Der Nasse Fisch</u>',
@@ -1243,6 +1249,7 @@ Bügel: [
 	'der <strong>Bügel</strong>,-: &nbsp;(coat) hanger; clip, clamp <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buegel"target="target1">Bügel</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/B%C3%BCgel"target="target2">Bügel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bugel"target="target3">Bügel</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Er (<i>Rath</i>) schaute sich um. Alle Fenster waren dunkel geblieben. Aber mindestens ein Mensch musste ihren Kampf beobachtet haben. Rath untersuchte die braunen Scherben. Vom Weiß der Pfütze war nichts geblieben, nur ein paar Bläschen, die auf einer Flüssigkeit trieben. Ein bekannter Geruch stieg ihm in die Nasse. Neben den nassen Scherben lag ein Metall<strong>bügel</strong> mit einem Porzellanstopfen. Eine Bierflasche. Irgendeinem schlaflosen Spanner da oben war sein Bier vor Schreck vom Fensterbrett gefallen. (<i>Der Nasse Fisch</i>, 215)' ,
+	'Der Kleiderschrank hing noch voller Kleider... Rath nahm ein herbstfarbenes Kleid vom <strong>Bügel</strong> und betrachtete es.  (<i>Der Nasse Fisch</i>, 215)' ,
 	'<u>Goldstein</u>',
 	'Wenigstens hingen keine Kleider<strong>bügel</strong> an der Stange. (<i>Goldstein</i>, 9)' ,
 ],
@@ -1680,7 +1687,7 @@ Fliese: [
 	'Während <strong>sich</strong> der Krieg <strong>festfraß</strong> und die Soldaten nicht mehr aus den Gräben ließ, ging es bei ihr (<i>Emmi, Wolters Frau</i>) in Berlin voran. Schritt für Schritt richtete sie das gemainsame Haus ein,.. während er das Vaterland für einen armseligen Sold verteidigte...  (<i>Der Nasse Fisch</i>, 224)',
 ],
 Flaum: [
-	'der <strong>Flaum</strong> (no plural): &nbsp;down (fine growth of hair), fluff  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Flaum_Federn"target="target1">Flaum</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Flaum"target="target2">Flaum</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flaum?q=Flaum"target="target3">Flaum</a>' ,
+	'der <strong>Flaum</strong> (no plural): &nbsp;down (fine growth of hair), fluff <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Flaum_Federn"target="target1">Flaum</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Flaum"target="target2">Flaum</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flaum?q=Flaum"target="target3">Flaum</a>' ,
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Wie ein pelziger <strong>Flaum</strong> überzog maigrünes Grass die Buckellandschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
@@ -1694,7 +1701,7 @@ Frevel: [
 	'Und das Schlimmste: Es waren Studenten, Menschen des Wortes und der Wissenschaft, Menschen, die eigentlich um den hohen Wert geistiger Arbeit wissen sollten, die diesen <strong>Frevel</strong> begingen.  (<i>Märzgefallene, 568)'  ,
 ],
 Fatzke: [
-	'der <strong>Fatzke</strong>,-<strong>n</strong> oder -<strong>s</strong>: &nbsp;arrogant twit  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fatzke" target="target1" >Fatzke</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/fatzke" target="target2">Fatzke</a>' ,
+	'der <strong>Fatzke</strong>,-<strong>n</strong> oder -<strong>s</strong>: &nbsp;arrogant twit  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fatzke"target="target1">Fatzke</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/fatzke"target="target2">Fatzke</a> &nbsp;<a href="https://www.wordreference.com/deen/Fatzke"target="target3">Fatzke</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
 	'"Ich hab Sie (<i>Rath</i>) was gefragt, Mann", brüllte Böhm, "sind Sie taub?" Kommissar Rath zuckte kurz zusammen und nahm Haltung an... "Hausdurchsuchungen im Unruhegebiet Neuköln", sagte er. "War zufällig vor Ort, als es die beiden Frauen erwischte." "Geht doch", meinte Böhm zufrieden. Diesem eingebildeten <strong>Fatzke</strong> würde er Manieren beibringen. (<i>Der Nasse Fisch, 84-85)'  ,
 	'<u>Märzgefallene</u>',
@@ -1702,30 +1709,30 @@ Fatzke: [
 	'Roddeck mochte ein Feigling sein, ein eitler <strong>Fatzke</strong>, aber zu unterschätzen war er nicht. Der Leutnant war in der Lage, höchst kaltblütig und gewissenlos zu handeln, wenn er das für nötig hielt. (<i>Märzgefallene, 562)'  ,
 ],
 feilbieten: [
-	'<strong>feilbieten</strong>: &nbsp;offer for sale  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/feilbieten" target="target1" >feilbieten</a> ' ,    
+	'<strong>feilbieten</strong>: &nbsp;offer for sale  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/feilbieten"target="target1">feilbieten</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/feilbieten"target="target2">feilbieten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/feilbieten"target="target3">feilbieten</a>    ' ,    
 	//'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Trotz des miserablen Wetters herrschte Volksfeststimmung, fliegende Händler <strong>boten</strong> heiße Würstchen und Getränke, Zigaretten und Schokolade <strong>feil</strong>.  (<i>Märzgefallene</i>, 554)' ,
 ],
 flapsig: [
-	'<strong>flapsig</strong>: &nbsp;flippant, boorish, rude   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flapsig" target="target1" >flapsig</a> ' ,   
+	'<strong>flapsig</strong>: &nbsp;flippant, boorish, fresh, cheeky <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flapsig"target="target1">flapsig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flapsig"target="target2">flapsig</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/flapsig"target="target3">flapsig</a>  ' ,   
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Rath zeigte auf Gräfs alten Schreibtisch. "Willkommen zurück in der Inspektion A", sagte er. "Dann gehören Sie (<i>Lange</i>) also zu den reumütigen Sündern, die ihren Ausflug zu den Politichen bereuen." "Genau wie Sie, Kommissar, oder?" Lange gab sich Mühe, <strong>flapsig</strong> zu klingen, doch in seinem Blick lag Misstrauen. (<i>Märzgefallene</i>, 545)' ,
 ], 
 filzen: [
-	'<strong>filzen</strong>: &nbsp;frisk, shake so. down; to felt (textiles)     <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/filzen_kontrollieren_stehlen" target="target1" >filzen</a> ' ,
+	'<strong>filzen</strong>: &nbsp;frisk, shake so. down; to felt (textiles) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/filzen_kontrollieren_stehlen"target="target1">filzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/filzen"target="target2">filzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/filzen"target="target3">filzen</a>    ' ,
 	'<u>Der Nasse Fisch</u>',
 	'<i>der Engel</i>: "Sie sind ein ganz Süßer, wissen Sie das?" <i>Rath</i>: "Da sind Sie nicht die Erste, der das auffällt." Er versuchte, sich von ihren Armen zu befreien, doch das war ungefähr so vergeblich wie der Kampf gegen eine Riesenkrake. "Oh, was haben Sie den da!" Zu spät. Das Schulterholster. Sie schaute ihn an, als errege sie die Waffe. "Da können Sie ja von Glück reden, dass die Gorillas am Eingang uns nicht <strong>gefilzt</strong> haben! Sind Sie etwa ein Ganove? Oder ein Bulle?"  (<i>Der Nasse Fisch</i>, 202)'  ,
 	'Auf dem Hof wartete der Gorilla von der Eingangstür mit Raths Hut und Mantel. Er drückte ihm die Sachen in den Arm und begann ihn zu <strong>filzen</strong>.  (<i>Der Nasse Fisch</i>, 204-5)'  ,
 ],
 flott: [
-	'<strong>flott</strong>: &nbsp;brisk, jaunty, lively, perky  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flott" target="target1" >flott</a> ' ,   
+	'<strong>flott</strong>: &nbsp;brisk, jaunty, lively, perky  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flott"target="target1">flott</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flott"target="target2">flott</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flott"target="target3">flott</a>   ' ,   
 	'<u>Der Nasse Fisch</u>',
 	'Der Kellner wies ihnen (<i>Gereon und Charly</i>) einen Tisch direkt an der Brüstung zu. Sie konnten von oben auf die Tanzfläche blicken, auf der sich schon einige Paare drehten. Die Musik gefiel ihr, ein <strong>flotter</strong> Swing....  (<i>Der Nasse Fisch</i>, 183)' ,
 ], 
 flicken: [
-	'<strong>flicken</strong>: &nbsp;mend, repair, patch;  &nbsp;&nbsp;der <strong>Flicken</strong>,-: &nbsp;patch  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flicken" target="target1" >flicken</a> ' ,    //&nbsp;&nbsp;also: botch, bungle sth.
+	'<strong>flicken</strong>: &nbsp;mend, repair, patch;  &nbsp;&nbsp;der <strong>Flicken</strong>,-: &nbsp;patch  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flicken"target="target1">flicken</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flicken"target="target2">flicken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flicken"target="target3">flicken</a>      ' ,   
 	//'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'So gut gekleidet wie jetzt hatte sie (<i>Hannah</i>) Felix tatsächlich nie gesehen im Sommer. Nicht gerade ein feiner Anzug.., aber alles ohne einen einzigen <strong>Flicken</strong> oder eine durchgescheuerte Stelle. (<i>Märzgefallene</i>, 322)' ,
@@ -1745,18 +1752,18 @@ fummeln: [
 	'Der Fahrer hielt vor einer roten Ampel und drehte sich nach hinten. "Dann zeigen Sie mir bitte Ihren Dienstausweis." Rath seufzte, <strong>fummelte</strong> das Ding aus seiner Brieftasche und reichte es nach vorne.    (<i>Märzgefallene</i>, 514)'  ,
 ],
 'Fall der Fälle': [
-	'für den <strong>Fall der Fälle</strong>: &nbsp;worst-case scenario, if worse comes to worst  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/Fall%20der%20F%C3%A4lle" target="target1" >Fall der Fälle</a> ' ,
+	'für den <strong>Fall der Fälle</strong>: &nbsp;worst-case scenario, if worse comes to worst  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fall%20der%20F%C3%A4lle"target="target1">Fall der Fälle</a><br>English Definitions: &nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Fall+der+F%C3%A4lle"target="target2">Fall der Fälle</a> &nbsp;&nbsp;<a href="https://tureng.com/en/german-english/fall%20der%20f%C3%A4lle"target="target3">Fall der Fälle</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Gereon schaute überrascht. Charly zuckte die Achseln und zeigte auf den verwaisten Schreibtisch von Erika Voss. "Du hast mir gestern doch Asyl versprochen. Für den <strong>Fall der Fälle</strong>. <i>Gereon</i>: "Ist der schon eingetreten?...."   (<i>Märzgefallene</i>, 373)'  ,
 	'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den <strong>Fall der Fälle</strong>. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen.  (<i>Märzgefallene</i>, 418)'  ,
 ],
 Flüstertüte: [
-	'die <strong>Flüstertüte</strong>,-<strong>n</strong>: &nbsp;megaphone, bullhorn  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fluestertuete" target="target1" >Flüstertüte</a> ' ,
+	'die <strong>Flüstertüte</strong>,-<strong>n</strong>: &nbsp;megaphone, bullhorn <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fluestertuete"target="target1">Flüstertüte</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flustertute"target="target2">Flüstertüte</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Fl%C3%BCstert%C3%BCte"target="target3">Flüstertüte</a>    ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Von der Straße hörten sie (<i>Rath und Wolter</i>) eine laute Stimme. Eine <strong>Flüstertüte</strong>. "Achtung, Achtung, hier spricht die Polizei", rief eine Stimme im Kasernhofton.   (<i>Der Nasse Fisch</i>, 70)'  ,
 ],
 fleddern: [
-	'<strong>fleddern</strong>: &nbsp;plunder, rob, rummage through; exploit    <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/fleddern" target="target1" >fleddern</a> ' ,
+	'<strong>fleddern</strong>: &nbsp;plunder, rob, rummage through; exploit <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/fleddern"target="target1">fleddern</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fleddern"target="target2">fleddern</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/fleddern"target="target3">fleddern</a> ' ,     
 	//'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "...Vielleicht hat Engel Krumbiegels Identität angenommen. Könnte doch sein. Vielleicht hat er den Wehrpass dieses Krumbiegel gefunden. Irgendeine Leiche auf dem Schlachtfeld <strong>gefleddert</strong>." (<i>Märzgefallene</i>, 412)' ,
@@ -1779,12 +1786,12 @@ fuhrwerken: [
 	'Felix lachte. Dann zog er ein Bündel Sperrhaken aus der Tasche.... Felix schwang sich mit einem Satz auf die Rampe. Er <strong>fuhrwerkte</strong> mit den Sperrhaken in einem Türschloss herum bis die Tür aufschnappte, und dann war er auch schon im Gebäude verschwunden. (<i>Märzgefallene</i>, 394)' ,
 ],
 Fischzug: [
-	'der <strong>Fischzug</strong>, die <strong>Fischzüge</strong>: &nbsp;catch of fish;  raid, foray <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fischzug" target="target1" >Fischzug</a> ' ,
+	'der <strong>Fischzug</strong>, die <strong>Fischzüge</strong>: &nbsp;catch of fish;  &nbsp;raid, foray <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fischzug"target="target1">Fischzug</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fischzug?q=Fischzug"target="target2">Fischzug</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Fischzug"target="target3">Fischzug</a>     ' ,
 	'<u>Märzgefallene</u>',
-	'Dass Felix sie (<i>Hannah</i>) einmal irgendwas in dieser Richtung fragen könnte, hatte sie befürchtet... Seit sie herausgefunden hatte, dass er seinen bescheidenen Wolstand einer Einbrecherkolonne verdankte, mit der er die Wohnungen reicher Zeitgenossen ausräumte.... Sie hatte das ziemlich schnell spitzgekriegt, er machte ihr gegenüber kein Geheimnis daraus, und sie konnte auch nichts Schlimmes daran finden. Aber selbst bei so einem <strong>Fischzug</strong> mitzumachen, das war dann schon etwas anderes.  (<i>Märzgefallene</i>, 392-93)'  ,
+	'Dass Felix sie (<i>Hannah</i>) einmal irgendwas in dieser Richtung fragen könnte, hatte sie befürchtet, seit sie bei ihm untergekommen war. Seit sie herausgefunden hatte, dass er seinen bescheidenen Wolstand einer Einbrecherkolonne verdankte, mit der er die Wohnungen reicher Zeitgenossen ausräumte... Sie hatte das ziemlich schnell spitzgekriegt, er machte ihr gegenüber kein Geheimnis daraus, und sie konnte auch nichts Schlimmes daran finden. Aber selbst bei so einem <strong>Fischzug</strong> mitzumachen, das war dann schon etwas anderes.  (<i>Märzgefallene</i>, 392-93)'  ,
 ],
-Feilschen: [
-	'das <strong>Feilschen</strong>, (no plural): &nbsp;haggling, bargaining <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Feilschen" target="target1" >Feilschen</a> ' ,
+feilschen: [
+	'<strong>feilschen</strong>: &nbsp;bargain, haggle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/feilschen"target="target1">feilschen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/feilschen?q=Feilschen"target="target2">feilschen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/feilschen"target="target3">feilschen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Fritze</i>: "Was springt denn dabei raus für mich?" "Hundert." "Zweihundert wäre besser." "Hundert." Der Junge tat so, als müsse er überlegen, ob sich das noch für ihn lohne, doch stand ihm ins Gesicht geschrieben, dass er das Geld brauchte. Und hundert Mark waren kein Pappenstiel.... "Gut, Hundert." Der Junge war nicht gut im <strong>Feilschen</strong>.   (<i>Märzgefallene</i>, 380)' ,
 ],
@@ -1808,15 +1815,16 @@ fadenscheinig: [
 	'<u>Märzgefallene</u>',
 	'Und dann dachte sie (<i>Charly</i>) an Karin van Almsick, die sie vorhin in der Burg mit einer <strong>fadenscheinigen</strong> Ausrede zurückgelassen hatte, und wusste wieder warum sie das tat: Um nicht den ganzen Tag mit sinnlosem Stumpfsinn zu verplempern. (<i>Märzgefallene</i>, 335)',
 ],
-flehentlich: [
-	'<strong>flehentlich</strong>: &nbsp;beseeching, imploringly; &nbsp;<strong>flehentlich um etw. bitten</strong>: plead for sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flehentlich" target="target1" >flehentlich</a> ',
+'flehen, flehentlich': [
+	'<strong>flehen</strong>: &nbsp;beg, beseech, implore &nbsp;&nbsp;&nbsp;<strong>flehentlich</strong>: &nbsp;beseeching(ly), imploring(ly) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flehen"target="target1">flehen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flehentlich"target="target2">flehentlich</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flehen"target="target3">flehen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flehentlich"target="target4">flehenlich</a>   ',
 	'<u>Märzgefallene</u>',
 	'Ede Schürmann sah ihn (<i>Rath</i>) <strong>flehentlich</strong> an. So bittend und betteld hatte Rath den Taschendieb nicht einmal seinerzeit bei den Vernehmungen erlebt. (<i>Märzgefallene</i>, 318)',
+	'<i>der Schupo zu Charly</i>: "Entschuldigen Sie, aber wir hatten gedacht, der Bengal sei aus einem Heim ausgebüxt." Der Junge (<i>Fritze</i>)  war immer noch mit Kirie beschäftigt, doch beim Wort Heim schaute er Charly an, und das <strong>Flehen</strong> in seinen Augen wurde noch größer. (<i>Märzgefallene</i>, 352)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 'Fittich (unter Fittiche nehmen)': [
-	'der <strong>Fittich</strong>,-<strong>e</strong>: wing [poet.]; &nbsp;jemanden <strong>unter seine Fittiche nehmen</strong>:  take so. under one\'s wing <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fittich" target="target1" >Fittich</a> &nbsp;&nbsp;<a href ="https://www.redensarten-index.de/suche.php?suchbegriff=jmdn.+unter+seine+Fittiche+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou" target="target2" >jemanden unter seine Fittiche nehmen</a>',
+	'der <strong>Fittich</strong>,-<strong>e</strong>: wing [poet.] &nbsp;&nbsp;&nbsp;jemanden <strong>unter seine Fittiche nehmen</strong>:  take so. under one\'s wing <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fittich"target="target1">Fittich</a> &nbsp;&nbsp;<a href ="https://www.redensarten-index.de/suche.php?suchbegriff=jmdn.+unter+seine+Fittiche+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou" target="target2" >unter Fittiche nehmen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdn.+unter+seine+Fittiche+nehmen"target="target3">unter Fittiche nehmen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/unter+Fittiche+nehmen"target="target4">unter Fittiche nehmen</a>   ',
 	'<u>Märzgefallene</u>',
 	'"Der Kollege möchte damit sagen", erklärte Bertrand..., "das Roddeck seinerzeit die mit Abstand höchsten Trinkgelder bekam."... <i>Charly</i>: "Er konnte also gut davon leben..." <i>Willy</i>: "Ja. Vor allem, seit die Gräfin ihn <strong>unter ihre Fittiche genommen hatte</strong>." (<i>Märzgefallene</i>, 314)',
 ],
@@ -1842,13 +1850,13 @@ Fahnenabzug: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür   für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 Fasan: [
-	'der <strong>Fasan</strong>, die <strong>Fasane</strong>\/<strong>Fasanen</strong>: pheasant <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fasan" target="target1" >Fasan</a> ',
+	'der <strong>Fasan</strong>, die <strong>Fasane</strong>\/<strong>Fasanen</strong>: &nbsp;pheasant <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fasan"target="target1">Fasan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fasan?q=Fasan"target="target2">Fasan</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fasan"target="target3">Fasan</a>    ',
 	'<u>Märzgefallene</u>',
 	'Ein Kellner kam und füllte die Champagnergläser, der Maître persönlich reichte ihnen (<i>Gereon und Charly</i>) die Speisekarten und empfahl die Spezialität des Hauses, <i>Faisan de Presse</i>, <strong>Fasan</strong>knochen, durch den Wolf gedreht, was der Soße den besonderen Geschmack gebe.  (<i>Märzgefallene</i>, 193)' ,
 	'Das Besondere am Horcher war, dass die Speisen alle direkt am Tisch zubereitet wurden. Charly hatte sich für Steak Tartar und den <strong>Fasan</strong> entschieden, Rath Räucherlachs und Hühnchen Kiew bestellt. Und so saßen sie nun da und schauten zu, wie das Huhn geschmort und der <strong>Fasan</strong> flambiert wurde. (<i>Märzgefallene</i>, 195)',
 ],
 faseln: [
-	'<strong>faseln</strong>:  &nbsp;babble, blather, talk nonsense  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/faseln" target="target1" >faseln</a>' ,
+	'<strong>faseln</strong>:  &nbsp;babble, blather, talk nonsense  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/faseln"target="target1">faseln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/faseln"target="target2">faseln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/faseln"target="target3">faseln</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Alle vier Frauen im Atelier waren kaum oder gar nicht bekleidet. Die Beamtinnen warfen ihnen Wolldecken über die Blöße, dann traten die Uniformierten in Aktion. Die ersten Handschellen klickten. König <strong>faselte</strong> irgendetwas von Erotik und Freiheit der Kunst, verstummte aber, als Wolter ihn anschnauzte.    (<i>Der Nasse Fisch</i>, 20)' ,
 	'<u>Märzgefallene</u>',
@@ -1856,24 +1864,24 @@ faseln: [
 	'"Weiß ist nur entkommen", beendete sie (<i>Charly</i>) ihren Bericht, "weil die SA zu dämlich war, einen Posten vor den Dienstbotenaufgang zu stellen." Sie nickte zum Radio hinüber. "Unglaublich, dass der Funkstunde diese ungeheuerlichen Vorgänge nicht eine einzige Nachricht wert sind. <strong>Faseln</strong> stattdessen irgendwas von ruhigem Wahlverlauf."  (<i>Märzgefallene</i>, 214)' ,
 ],
 Fass: [
-	'dass <strong>Fass</strong>, die <strong>Fässer</strong>: &nbsp;barrel, keg, cask, vat <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fass"  target="target1"  >Fass</a> ',
+	'dass <strong>Fass</strong>, die <strong>Fässer</strong>: &nbsp;barrel, keg, cask <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fass"target="target1">Fass</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fass?q=Fass"target="target2">Fass</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fass"target="target3">Fass</a>  ',
 	'<u>Märzgefallene</u>',
 	'Auf dem Hof standen Lastwagen, die gerade beladen wurden, aber nicht mit Getränkekisten, sondern mit Metall<strong>fässern</strong>. (<i>Märzgefallene</i>, 302)' ,
 ],
 fegen: [
-	'<strong>fegen</strong>: &nbsp;sweep (up), mop; rip through sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/fegen" target="target1" >fegen</a> ' ,
+	'<strong>fegen</strong>: &nbsp;sweep (up), mop; rip through sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fegen"target="target1">fegen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fegen"target="target2">fegen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fegen"target="target3">fegen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'In der Textilabteilung <strong>fegte</strong> der Junge (<i>Fritze</i>) scheinbar wahllos Klamotten von den Kleiderstangen und klemmte sie unter den Arm. (<i>Märzgefallene</i>, 172)' ,
 ],
 fesch: [
-	'<strong>fesch</strong>: &nbsp;smart, chic, stylish, posh; good-looking <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/fesch" target="target1" >fesch</a> ' ,
+	'<strong>fesch</strong>: &nbsp;chic, stylish, posh; good-looking <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fesch"target="target1">fesch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/fesch"target="target2">fesch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fesch"target="target3">fesch</a>      ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Gräf</i>: "SA und Stahlhelm helfen aus, so gut sie können.... Ich bin froh, dass wir diese Unterstüzung haben im Kampf gegen die Kommune." <i>Das glaube ich dir gern</i>, dachte Rath, <i>dass du dich über <strong>fesche</strong> SA-Jünglinge freust</i>.  (<i>Märzgefallene</i>, 181)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Fettnäpfchen: [
-	'<strong>ins Fettnäpfchen treten</strong>: &nbsp;put one\'s foot in it <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/ins%20Fettn%C3%A4pfchen%20treten" target="target1" >ins Fettnäpfchen treten</a> ' ,
+'Fettnäpfchen (ins F. treten)': [
+	'<strong>ins Fettnäpfchen treten</strong>: &nbsp;put one\'s foot in it <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ins%20Fettn%C3%A4pfchen%20treten"target="target1">ins Fettnäpfchen treten</a><br>English Definitions: &nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/search?term=ins+Fettn%C3%A4pfchen+treten&q_cat=%2F%2F"target="target2">ins Fettnäpfchen treten</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ins+Fettn%C3%A4pfchen+treten"target="target3">ins Fettnäpfchen treten</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Gleichwohl konnte er (<i>Linus Meifert</i>) in ihren Gesichtern sehen, dass sie nur darauf warteten, dass ihr Oberstudienrat <strong>ins nächste Fettnäpfchen trat</strong>. Das würde Stoff zum Erzählen geben draußen auf dem Schulhof.... (<i>Märzgefallene</i>, 127)' ,
 ],
@@ -1885,12 +1893,12 @@ Findling: [
 	'Der Stein, eher ein Felsen, ein riesiger <strong>Findling</strong>, war durch keine Artillerie der Welt von der Stelle zu bewegen gewesen. Tatsächlich die perfekte Markierung für einen vergrabenen Schatz. (<i>Märzgefallene</i>, 601)',
 ],
 fingieren: [
-	'<strong>fingieren</strong>: &nbsp;fake something <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/fingieren" target="target1" >fingieren</a> ' ,
+	'<strong>fingieren</strong>: &nbsp;fake something <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fingieren"target="target1">fingieren</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fingieren"target="target2">fingieren</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/fingieren"target="target3">fingieren</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Da war jemand unterwegs, der die Männer aus Roddecks alter Truppe meuchelte.... Ob dieser Jemand wirklich der verschollene Hauptmann war? Rath hatte eigentlich nicht daran geglaubt und Juretzkas <strong>fingierte</strong> Zeugenaussage nur deshalb auf Engel gemünzt, um ... Levetzow (<i>Nazi Polizeipräsident</i>) zur Wiederaufnahme des Falles Wosniak zu bewegen.   (<i>Märzgefallene</i>, 268)' ,                  
 ],
 flattern: [
-	'<strong>flattern</strong>: &nbsp;flap, flutter <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flattern"  target="target1">flattern</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flattern" target="target2">flattern</a>           ' ,
+	'<strong>flattern</strong>: &nbsp;flap, flutter <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flattern"target="target1">flattern</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flattern"target="target2">flattern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flattern"target="target3">flattern</a>           ' ,
 	'<u>Der Nasse Fisch</u>', 
 	'Zusammen mit den Zeitschriften waren den jungen Schupos auch die pornographischen Hochglanzfotos um die roten Ohren <strong>geflattert</strong>.  (<i>Der Nasse Fisch</i>, 15)' ,
 	'<u>Märzgefallene</u>',
@@ -1901,23 +1909,23 @@ flattern: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'fläzen (sich)': [
-	'<strong>sich fläzen</strong>: &nbsp;lounge, sprawl, slouch (in) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flaezen"  target="target1"  >fläzen (sich)</a> ' ,
+	'<strong>sich fläzen</strong>: &nbsp;lounge, sprawl, slouch (in) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flaezen"target="target1">fläzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flazen"target="target2">fläzen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/fl%C3%A4zen"target="target3">fläzen</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Kirie hatte sich in ihr Körbchen gerollt und döste vor sich hin, Charly machte das Radio an und entkorkte eine Flasche Rotwein. Mit dem Weinglass, ihren Zigaretten und einem Buch <strong>fläzte</strong> sie <strong>sich</strong> in ihren Lieblingssessel.... (<i>Märzgefallene</i>, 282)' ,
 ],
 flöten: [
-	'<strong>flöten</strong>: &nbsp;sing, whistle, play the flute; say in honeyed tones <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/floeten_musizieren" target="target1" >flöten</a> ' ,
-	'<u>Märzgefallene</u>',
+	'<strong>flöten</strong>: &nbsp;sing, whistle; play the flute; say in honeyed tones <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/floeten_musizieren"target="target1">flöten</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/floeten#fl%C3%B6ten"target="target2">flöten</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=fl%C3%B6ten"target="target3">flöten</a>    ' ,
+	'<u>Märzgefallene</u>',  
 	'Als Charly in ihr Büro zurückkehrte... telefonierte Karin van Almsick gerade und wirkte leicht überfordert. "Da kommt sie gerade rein, ich reiche weiter", <strong>flötete</strong> sie in den Hörer und legte dann eine Hand über die Sprechmuschel.  (<i>Märzgefallene</i>, 87)' ,
 	'Levetzow (<i>Nazi Polizeipräsident</i>) konnte nicht nur brüllen, er konnte auch süffisant. "Ah, Kommissar Rath", <strong>flötete</strong> er gleich zur Begrüßung, "schön, dass Sie hier sind. Ich bräuchte nur eine klitzekleine Information zu Ihrem Fall."  (<i>Märzgefallene</i>, 356-57)' ,
 ],
 flutschen: [
-	'<strong>flutschen</strong>: &nbsp;slip; go well, smoothly <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flutschen" target="target1" >flutschen</a> ' ,
+	'<strong>flutschen</strong>: &nbsp;slip; go well, smoothly <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flutschen"target="target1">flutschen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flutschen"target="target2">flutschen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flutschen"target="target3">flutschen</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Katsche... näherte sich (<i>an Leo</i>), den Mund ungefähr auf Augenhöhe. Und dann packte er Leos Kopf mit beiden Händen.... Katsche drückte seine fleischigen Lippen auf Leos rechtes Auge.... Leo hatte die Augen reflexartig geschlossen, dennoch spürte er den Sog, einen unglaublichen Sog, der einen ziehenden Schmerz in seinem Kopf auslöste, genau hinter dem Auge. Katsche saugte mit aller Macht.... Er (<i>Leo</i>) wollte sich diesem schmerzhaften Sog entziehen, doch Katsche hielt seinen Kopf mit aller Kraft, ...und dann ging es unglaublich schnell: Mit einem ploppenden Geräusch <strong>flutschte</strong> das Auge aus der Höhle. Katsche biss die Zähne aufeinander, und ein greller Schmerz...schoss durch Leos Kopf. (<i>Märzgefallene</i>, 224)' ,
 ],
 Fluse: [
-	'die <strong>Fluse</strong>,-<strong>n</strong>: &nbsp;bit of fluff; end of thread <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Fluse" target="target1" >Fluse</a> ' ,
+	'die <strong>Fluse</strong>,-<strong>n</strong>: &nbsp;bit of fluff; end of thread <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fluse"target="target1">Fluse</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fluse"target="target2">Fluse</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/fluse"target="target3">Fluse</a>   ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Seine Zunge suchte nach der Kapsel, sie schmeckte Dreck und <strong>Flusen</strong>, doch schließlich ertastete sie die glatte kühle Oberfläche. Mit den Schneidezähnen zog er sie vorsichtig aus dem Futter.  (<i>Der Nasse Fisch</i>, 12)' ,
 ],
@@ -1957,15 +1965,20 @@ funzelig: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 flink: [
-	'<strong>flink</strong>: &nbsp;nimble, quick <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/flink" target="target1" >flink</a> ',
+	'<strong>flink</strong>: &nbsp;nimble, quick <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flink"target="target1">flink</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flink"target="target2">flink</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flink"target="target3">flink</a>     ',
 	'<u>Der Nasse Fisch</u>',
-	'Er (<i>Wilhelm zwo, der falsche Kaiser</i>) machte kehrt und verschwand hinter dem Stahgerüst des Aufzugs - und dann sah Rath ihn an den Stahstreben nach oben klettern, <strong>flink</strong> wie eine Ratte.   (<i>Der Nasse Fisch</i>, 24)' ,
+	'Er (<i>Wilhelm zwo, der falsche Kaiser</i>) machte kehrt und verschwand hinter dem Stahlgerüst des Aufzugs - und dann sah Rath ihn an den Stahlstreben nach oben klettern, <strong>flink</strong> wie eine Ratte.   (<i>Der Nasse Fisch</i>, 24)' ,
 	'Der Gigolo stand auf, schaffte es tatsächlich noch, so etwas wie eine Verbeugung vor Charlotte hinzukriegen, und ging hinunter ins Vestibül, mit <strong>flinken</strong>, aber seltsamen Schritten, die aussahen, als habe er in die Hosen gemacht. (<i>Der Nasse Fisch</i>, 191-92)' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah</i>) drehte sich um, und tatsächlich: Da stand er und verzog die Narben in seinem Gesicht zu einem Grinsen.... Sie hatte keine Zeit, darüber nachzudenken, denn da war er auch schon bei ihr, erstaunlich schnell... Huckebein war immer noch <strong>flink</strong>, immer noch stark. Ein Soldat eben. Wie er schon im Krähennest der <strong>Flinkste</strong> und Stärkste gewesen war, trotz seines schlimmen Beines.  (<i>Märzgefallene</i>, 399)' ,
 ],
 //Gstart   '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>)  (<i>Böhm</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+geflissentlich: [
+	'<strong>geflissentlich</strong>: &nbsp;deliberately, intentionally <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geflissentlich"target="target1">geflissentlich</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geflissentlich"target="target2">geflissentlich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geflissentlich"target="target3">geflissentlich</a>' ,
+	'<u>Der Nasse Fisch</u>',
+	'"Meenense etwa, mit\'en Vorderhaus wär die Arbeit jetan? Na, Sie ham Nerven!" Er (<i>Rath</i>) überhörte den Vorwurf in ihrer Stimme <strong>geflissentlich</strong>. Es klang so, als ob die ganze Welt daran schuld sei, dass Margarete Schäffner Treppe putzen musste, insbesondere aber die Berliner Polizei und Kriminalkommissar Gereon Rath.    (<i>Der Nasse Fisch</i>, 234)' ,
+],
 Gesträuch: [
 	'das <strong>Gesträuch</strong>,-<strong>e</strong>: &nbsp;bushes, shrubbery <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestraeuch"target="target1">Gesträuch</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestrauch"target="target2">Gesträuch</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gestraeuch#Gestr%C3%A4uch"target="target3">Gesträuch</a>' ,
 	'<u>Märzgefallene</u>',
@@ -2741,9 +2754,10 @@ jucken: [
 	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein <strong>juckender</strong> Hautausschlag oder ein Klumpfuß."  (<i>Märzgefallene</i>, 384)' ,
 ],
 japsen: [
-	'<strong>japsen</strong>: &nbsp;pant, gasp for breath  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/japsen" target="target1" >japsen</a> ' ,
+	'<strong>japsen</strong>: &nbsp;pant, gasp for breath <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/japsen"target="target1">japsen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/japsen"target="target2">japsen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/japsen"target="target3">japsen</a>    ' ,
 	'<u>Der Nasse Fisch</u>',
 	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft <strong>japsenden</strong> Mann leise zu... "Du warst so dämlich, dich mit deinem Koks zu Bullen an den Tisch zu setzen. Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast, dann wirst du nicht nur die nächsten Wochen Schmerzen beim Pinkeln haben, dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst..."   (<i>Der Nasse Fisch</i>, 191)' ,
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie <strong>japste</strong> ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll auswrang.  (<i>Der Nasse Fisch</i>, 234)' ,
 	'<u>Märzgefallene</u>',
 	'Nie wieder, dachte Hannah, als sie (<i>Hannah und Fritze</i>) an der Mauer standen und nach Luft <strong>japsten</strong>. Nie wieder würde sie auf die dämliche Idee kommen, in einem Kaufhaus zu übernachten. (<i>Märzgefallene</i>, 173)' ,
 	'Plötzlich spürte sie, wie der Druck um ihren Hals nachließ.... Hannah <strong>japste</strong> nach Luft. (<i>Märzgefallene</i>, 401)' ,
@@ -3539,7 +3553,8 @@ Lappen: [
 	'der <strong>Lappen</strong>,-: &nbsp;rag, cloth <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target2">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target3">Lappen</a>   ' ,
 	'<u>Der Nasse Fisch</u>',
 	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie wedelte demonstrativ mit einem Staub<strong>lappen</strong> durchs Regal.   (<i>Der Nasse Fisch</i>, 231)' ,
-],
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <strong>Lappen</strong> geräuschvoll auswrang.  (<i>Der Nasse Fisch</i>, 234)' ,
+],  
 Lauf: [
 	'der <strong>Lauf</strong>, die <strong>Läufe</strong>: &nbsp;barrel (of a gun);  &nbsp;<i>many other meanings</i>   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Lauf" target="target1" >Lauf</a>&nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Lauf" target="target2">Lauf<a/> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -4933,9 +4948,9 @@ Sore: [
 	'Er (<i>Felix</i>) schaute sie (<i>Hannah</i>) an. "Du kommst mit. Schmiere stehen"... <i>Hannah</i>: "Ich weiß nicht."... <i>Felix</i>: "Wat meenste, wie die Kohle rankommt? Ick dachte, du schläfst jern in \'nem Bett. Oder willste lieber wieder Platte machen?"... Hannah war erschrocken über seine plötzliche Unfreundlichkeit. "Ich meine ja nur." Sie zuckte die Achseln. "Wie willste denn die <strong>Sore</strong> loswerden? Ohne dass die Kolonne was merkt?"  (<i>Märzgefallene</i>, 392-93)'  ,
 ],
 spitzkriegen: [
-	'<strong>spitzkriegen</strong>, (<strong>spitzbekommen</strong>): &nbsp;cotton on to, get wise to sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/spitzkriegen" target="target1" >spitzkriegen</a> ' ,
+	'<strong>spitzkriegen</strong>, (<strong>spitzbekommen</strong>): &nbsp;cotton on to, get wise to sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spitzkriegen"target="target1">spitzkriegen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spitzkriegen"target="target2">spitzkriegen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=spitzkriegen"target="target3">spitzkriegen</a>   ' ,
 	'<u>Märzgefallene</u>',
-	'Dass Felix sie (<i>Hannah</i>) einmal irgendwas in dieser Richtung fragen könnte, hatte sie befürchtet... Seit sie herausgefunden hatte, dass er seinen bescheidenen Wolstand einer Einbrecherkolonne verdankte, mit der er die Wohnungen reicher Zeitgenossen ausräumte.... Sie hatte das ziemlich schnell <strong>spitzgekriegt</strong>, er machte ihr gegenüber kein Geheimnis daraus, und sie konnte auch nichts Schlimmes daran finden. Aber selbst bei so einem Fischzug mitzumachen, das war dann schon etwas anderes.  (<i>Märzgefallene</i>, 392-93)'  ,
+	'Dass Felix sie (<i>Hannah</i>) einmal irgendwas in dieser Richtung fragen könnte, hatte sie befürchtet... Seit sie herausgefunden hatte, dass er seinen bescheidenen Wolstand einer Einbrecherkolonne verdankte, mit der er die Wohnungen reicher Zeitgenossen ausräumte... Sie hatte das ziemlich schnell <strong>spitzgekriegt</strong>, er machte ihr gegenüber kein Geheimnis daraus, und sie konnte auch nichts Schlimmes daran finden. Aber selbst bei so einem Fischzug mitzumachen, das war dann schon etwas anderes.  (<i>Märzgefallene</i>, 392-93)'  ,
 ],
 Schrippe: [
 	'die <strong>Schrippe</strong>,-<strong>n</strong>: &nbsp;bun, roll <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schrippe" target="target1" >Schrippe</a> ' ,
@@ -6702,6 +6717,12 @@ verschnüren: [
 //	'<u>Der Nasse Fisch</u>',
 //	' (<i>Der Nasse Fisch</i>, 50)' ,  
 //],
+wabbeln: [
+	'<strong>wabbeln</strong>: &nbsp;wobble <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/wabbeln"target="target1">wabbeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wabbeln"target="target2">wabbeln</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/wabbeln"target="target3">wabbeln</a> ',
+	'<u>Der Nasse Fisch</u>',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme <strong>wabbelten</strong>, als sie den Lappen geräuschvoll auswrang.  (<i>Der Nasse Fisch</i>, 234)' ,
+//	'<u>Märzgefallene</u>',
+],
 Wimper: [
 	'die <strong>Wimper</strong>,-<strong>n</strong>: &nbsp;eyelash <br>Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/Wimper" target="target1" >Wimper</a> &nbsp;&nbsp;&nbsp;English Definition: &nbsp;<a href="https://dict.leo.org/german-english/Wimper" target="target2">Wimper</a>' ,
 	'<u>Der Nasse Fisch</u>',

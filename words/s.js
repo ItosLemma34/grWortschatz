@@ -105,7 +105,7 @@ const s = [
    'Sperrhaken' ,       
    'spicken' ,
    'Spieß, spießen',
-   'spitzkriegen',
+   'spitzkriegen',  //spitzkriegen:
    'Sprechmuschel'  ,
    'Spreu vom Weizen trennen',
    'Spülbürste',

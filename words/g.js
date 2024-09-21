@@ -5,6 +5,7 @@ const g = [
    'Gebälk',
    'Gebrüll',
    'gediegen',
+   'geflissentlich',   //geflissentlich:
    'Gehabe',
    'geheftet',
    'geizen',

@@ -1,4 +1,5 @@
 const w = [
+   'wabbeln',   //wabbeln:
    'Wade' ,
    'waghalsig',
    'wähnen',

@@ -33,18 +33,18 @@ const f = [
    'Fluse',  //Fluse:
    'Flüstertüte',  //Flüstertüte:
    'flutschen',  //flutschen:
-   'Folie',
-   'forsch',  
-   'Fratze',
-   'frequentieren',
-   'Frevel',
-   'Frotzelei',
-   'fuchteln',
-   'fuhrwerken' ,
-   'fummeln',
-   'funzelig',
-   'Furz',
-   'Futter',
+   'Folie',  //Folie:
+   'forsch',  //forsch: 
+   'Fratze',  //Fratze:
+   'frequentieren',  //frequentieren:
+   'Frevel',    //Frevel:
+   'Frotzelei',  //Frotzelei:
+   'fuchteln', //fuchteln:
+   'fuhrwerken' ,  //fuhrwerken:
+   'fummeln',    //fummeln:
+   'funzelig',   //funzelig:
+   'Furz',     //Furz:
+   'Futter',  //Futter:
  ];
 
 export default f;

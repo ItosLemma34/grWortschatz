@@ -1,16 +1,16 @@
 const g = [
-   'Gage',
-   'Ganove',
-   'Geäst',
-   'Gebälk',
-   'Gebrüll',
-   'gediegen',
+   'Gage',  //Gage:
+   'Ganove', //Ganove:
+   'Geäst',  //Geäst:
+   'Gebälk', //Gebälk:
+   'Gebrüll',  //Gebrüll:
+   'gediegen',  //gediegen:
    'geflissentlich',   //geflissentlich:
-   'Gehabe',
-   'geheftet',
-   'geizen',
-   'Gekrächz',
-   'Gelände',
+   'Gehabe',     //Gehabe:
+   'geheftet, heften',  //
+   'geizen',   //geizen:
+   'Gekrächz',  //Gekrächz:
+   'Gelände',   //Gelände:
    'Geländer',
    'gelinde',
    'Gemurmel',

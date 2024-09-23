@@ -8,6 +8,7 @@ const e = [
    'Eingebung',   //Eingebung:
    'einkriegen (sich)',  //
    'einkringeln',  //einkringeln:
+   'einlochen',  //einlochen:
    'einlullen',  //einlullen:
    'einnicken',  //einnicken:
    'Einöde',   //Einöde:

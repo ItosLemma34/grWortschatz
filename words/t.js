@@ -29,7 +29,7 @@ const t = [
    'Trubel' ,
    'Truhe' ,
    'tuckern',
-   'tumb',
+   'tumb',   //tumb:
    'tünchen, Tünche',
    'tunken',
    'tupfen' ,   

@@ -11,54 +11,54 @@ const g = [
    'geizen',   //geizen:
    'Gekrächz',  //Gekrächz:
    'Gelände',   //Gelände:
-   'Geländer',
-   'gelinde',
-   'Gemurmel',
-   'gepfeffert',
-   'Geplänkel',
-   'Geplapper',
-   'gerädert (sich wie g. fühlen)',
-   'Geräuschkulisse',
-   'gerieren',
-   'gerinnen',
-   'Gerippe',
-   'gerissen',
-   'Geröll',
-   'Gerümpel',
-   'Gerüst',
-   'gesalzen',
-   'geschliffen',
-   'geschniegelt',
-   'Geschreibsel',
-   'Geschwafel',
-   'Gesindel',
-   'gesittet',
-   'gestanden',
-   'Gestänge',
-   'Gestell',
-   'Gestöber',
-   'Gesträuch',
-   'getäfelt, täfeln',
-   'Getümmel',
-   'Geturtel',
-   'Gewebe',
-   'Gewese',
-   'Gewimmel',
-   'Gewirr',
-   'Gewühl',
-   'gewunden',
-   'Gier',
-   'giften',
-   'giggeln',
-   'Gips',
-   'gleißen, gleißend',
-   'glimpflich',
-   'Glocke (an die große G. hängen)',
-   'glotzen',
-   'gluckern',
-   'goldene Nase (sich verdienen)',
-   'Gör, Göre',
-   'Gosse',
+   'Geländer',  //Geländer:
+   'gelinde',   //gelinde:
+   'Gemurmel',  //Gemurmel:
+   'gepfeffert', //gepfeffert:
+   'Geplänkel',  //Geplänkel:
+   'Geplapper',  //Geplapper:
+   'gerädert (sich wie g. fühlen)',  //
+   'Geräuschkulisse',  //Geräuschkulisse:
+   'gerieren',   //gerieren:
+   'gerinnen',   //gerinnen:
+   'Gerippe',    //Gerippe:
+   'gerissen',   //gerissen:
+   'Geröll',     //Geröll:
+   'Gerümpel',   //Gerümpel:
+   'Gerüst',     //Gerüst:
+   'gesalzen',   //gesalzen:
+   'geschliffen',  //geschliffen:
+   'geschniegelt',  //geschniegelt:
+   'Geschreibsel',  //Geschreibsel:
+   'Geschwafel',    //Geschwafel:
+   'Gesindel',    //Gesindel:
+   'gesittet',    //gesittet:
+   'gestanden',  //gestanden:
+   'Gestänge',   //Gestänge:
+   'Gestell',    //Gestell:
+   'Gestöber',   //Gestöber:
+   'Gesträuch',  //Gesträuch:
+   'getäfelt, täfeln',  //
+   'Getümmel',  //Getümmel:
+   'Geturtel',  //Geturtel:
+   'Gewebe',    //Gewebe:
+   'Gewese',    //Gewese:
+   'Gewimmel',  //Gewimmel:
+   'Gewirr',    //Gewirr:
+   'Gewühl',   //Gewühl:
+   'gewunden', //gewunden:
+   'Gier',     //Gier:
+   'giften',   //giften:
+   'giggeln',  //giggeln:
+   'Gips',   //Gips:
+   'gleißen, gleißend',  //
+   'glimpflich',  //glimpflich:
+   'Glocke (an die große G. hängen)',  //
+   'glotzen',  //glotzen:
+   'gluckern', //gluckern:
+   'goldene Nase (sich verdienen)',  //
+   'Gör, Göre',  //
+   'Gosse',  //Gosse:
    'grämen',
    'grapschen',
    'große Stücke auf jdn. halten',

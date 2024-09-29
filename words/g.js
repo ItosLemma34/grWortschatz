@@ -53,22 +53,21 @@ const g = [
    'Gips',   //Gips:
    'gleißen, gleißend',  //
    'glimpflich',  //glimpflich:
-   'Glocke (an die große G. hängen)',  //
    'glotzen',  //glotzen:
    'gluckern', //gluckern:
    'goldene Nase (sich verdienen)',  //
    'Gör, Göre',  //
    'Gosse',  //Gosse:
-   'grämen',
-   'grapschen',
-   'große Stücke auf jdn. halten',
-   'Grünschnabel',
-   'grunzen',
-   'Grüßaugust',
-   'Gully',
-   'gurren',
-   'Gurt',       
-   'gut in Schuss',       
+   'grämen',  //grämen:
+   'grapschen',  //grapschen:
+   'große Stücke auf jdn. halten',  //
+   'Grünschnabel',  //Grünschnabel:
+   'grunzen',   //grunzen:
+   'Grüßaugust',  //Grüßaugust:
+   'Gully',  //Gully:
+   'gurren',  //gurren:
+   'Gurt',   //Gurt:    
+   'gut in Schuss',  //      
  ];
 
 export default g;

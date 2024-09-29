@@ -1,43 +1,43 @@
 const w = [
    'wabbeln',   //wabbeln:
-   'Wade' ,
-   'waghalsig',
-   'wähnen',
-   'wälzen (sich)',
-   'Wappen' ,
-   'Wassern (mit allen W. gewaschen)',
+   'Wade' ,  //Wade:
+   'waghalsig',  //waghalsig:
+   'wähnen',  //wähnen:
+   'wälzen (sich)',  //
+   'Wappen' ,  //Wappen:
+   'Wassern (mit allen W. gewaschen)',  //
    'wedeln' ,  //wedeln:
-   'wegducken (sich)' ,
-   'Wehwehchen',
-   'weichklopfen' ,
-   'Weihrauch, Weihrauchschwenker',
-   'wellen (sich), Welle',
-   'wettern',
-   'Wichs',
-   'Wickelgamasche' ,
-   'wie aus einem Ei gepellt',
-   'wie bestellt und nicht abgeholt',
-   'wienern' ,
-   'wimmern' ,
-   'Wimper',
-   'winden' ,
-   'Wink mit dem Zaunpfahl' ,
-   'Winkel' ,
-   'Winkeladvokat',
-   'Wipfel',
-   'wippen' ,
-   'Witzbold',
-   'wogen' ,
-   'Wohl bekomm\'s!',
-   'Wohlgefallen (sich in W. auflösen)',
-   'wölben',
-   'wuchern',
-   'wuchten',
-   'wühlen' ,
-   'wummern, Gewummer',
-   'wuscheln',
-   'wuseln',
-   'wüten',
+   'wegducken (sich)' , //
+   'Wehwehchen',   //Wehwehchen:
+   'weichklopfen' ,  //weichklopfen:
+   'Weihrauch, Weihrauchschwenker', //
+   'wellen (sich)',  //
+   'wettern',  //wettern:
+   'Wichs',  //Wichs:
+   'Wickelgamasche' ,  //Wickelgamasche:
+   'wie aus dem Ei gepellt',  //
+   'wie bestellt und nicht abgeholt', //
+   'wienern' , //wienern:
+   'wimmern' ,  //wimmern:
+   'Wimper',   //Wimper:
+   'winden' ,  //winden:
+   'Wink mit dem Zaunpfahl' , //
+   'Winkel' ,  //Winkel:
+   'Winkeladvokat',  //Winkeladvokat:
+   'Wipfel',  //Wipfel:
+   'wippen' , //wippen:
+   'Witzbold', //Witzbold:
+   'wogen' ,  //wogen:
+   'Wohl bekomm\'s!', //
+   'Wohlgefallen (sich in W. auflösen)', //
+   'wölben',  //wölben:
+   'wuchern',  //wuchern:
+   'wuchten',  //wuchten:
+   'wühlen' ,  //wühlen:
+   'wummern, Gewummer', //
+   'wuscheln',  //wuscheln:
+   'wuseln',  //wuseln:
+   'wüten',  //wüten:
    ];
 
 export default w;      

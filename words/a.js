@@ -26,6 +26,7 @@ const a = [
 	'Allerwerteste',   //Allerwerteste:
 	'alteingesessen',  //alteingesessen:
 	'an der Backe haben',
+	'an die große Glocke hängen',  //
 	'anbändeln',    //anbändeln:
 	'anblaffen',    //anblaffen:
 	'anbrechen',    //anbrechen:
@@ -59,6 +60,7 @@ const a = [
 	'Attest',     //Attest:
 	'auf Biegen und Brechen',   //
 	'auf dem Sprung',      //
+	'auf dem Kieker haben', //
 	'auf den Arm nehmen',  //
 	'auf den Putz hauen',  //
 	'auf den Strich gehen', //

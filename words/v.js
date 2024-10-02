@@ -49,26 +49,26 @@ const v = [
    'verscherzen (sich)',  //
    'verschieben',  //verschieben:
    'verschimmeln' ,  //verschimmeln:
-   'Verschlag' ,
-   'verschmieren' ,
-   'verschnupft' ,
-   'verschnüren',
-   'verschollen' ,
-   'verschorft' ,
-   'verschrumpeln' ,
-   'verschütten' ,
-   'versehen' ,
-   'versehentlich' ,
+   'Verschlag' ,   //Verschlag:
+   'verschmieren' , //verschmieren:
+   'verschnupft' ,  //verschnupft:
+   'verschnüren',  //verschnüren:
+   'verschollen' , //verschollen:
+   'verschorft, verschorfen' ,  //
+   'verschrumpeln' ,  //verschrumpeln:
+   'verschütten' ,  //verschütten:
+   'versehen' ,  //versehen:
+   'versehentlich',  //versehentlich:
 //   'versehren',   need more past examples
-   'versengen' ,
-   'versickern',
-   'versiegen',
-   'verstauen' ,
-   'Verstellung' ,
-   'verstockt'  ,
-   'verstohlen',
-   'vertrackt' ,
-   'vertreten (sich)',
+   'versengen' ,  //versengen:
+   'versickern',  //versickern:
+   'versiegen',   //versiegen:
+   'verstauen' ,  //verstauen:
+   'Verstellung' ,  //Verstellung:
+   'verstockt'  ,  //verstockt:
+   'verstohlen',   //verstohlen:
+   'vertrackt' ,   //vertrackt:
+   'vertreten (sich)', //
    'vertun, vertan',
    'verunglimpfen',
    'verunzieren' ,

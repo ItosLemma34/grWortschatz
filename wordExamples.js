@@ -5996,7 +5996,7 @@ unterjubeln: [
 	'Grimberg hatte ihm (<i>Roddeck</i>) geholfen. Sie waren durch die schlammige Pfütze am Grund des Trichters gerobbt und hatten alle beide bei ihrer Rückkehr ausgesehen wie die Schweine und ihre Uniformen säubern müssen... Und seither hatte Friedrich Grimberg, der zwei Dienstränge unter ihm stand, ihn in der Hand gehabt. Hatte ihm seinen Willen aufgezwungen,.. hatte ihm sogar seinen besten Freund Heinrich Wosniak als Burschen <strong>untergejubelt</strong>.   (<i>Märzgefallene</i>, 573-74)',
 ],
 'übers Ohr hauen': [
-	'jemanden <strong>übers Ohr hauen</strong>: &nbsp;bamboozle/scam so., take to the cleaners  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdn.%20%C3%BCbers%20Ohr%20hauen" target="target1" >übers Ohr hauen</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/%C3%BCbers%20ohr%20hauen" target="target2">übers Ohr hauen</a>',
+	'jemanden <strong>übers Ohr hauen</strong>: &nbsp;bamboozle/scam so., take to the cleaners <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20%C3%BCbers%20Ohr%20hauen"target="target1">übers Ohr hauen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/%C3%BCbers%20ohr%20hauen"target="target2">übers Ohr hauen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn.%20%C3%BCbers%20Ohr%20hauen"target="target3">übers Ohr hauen</a>',
 	'<u>Der Nasse Fisch</u>',
 	'Er (<i>Rath</i>) versuchte, die Puzzleteile zusammenzubekommen. Lana Nikoros alias Swetlana Gräfin Sorokina erzählt ihrem Geliebten Alexej Kardakow vom Gold ihrer Familie. Sie beschließen, es nach Berlin zu schmuggeln... Sie schalten zu diesem Zweck einen Kurier ein, einen Russen namens Boris... Der Kurier stirbt, nachdem er in der fremden Stadt nach Alexej Kardakow gesucht hat. Er scheint wütend auf Kardakow zu sein. Warum? Hat der ihn <strong>übers Ohr gehauen</strong>?.. Kardakow und die Gräfin jedenfalls tauchen unter... Vielleicht haben sie Boris um seinen verdienten Lohn gebracht? Einen Mitwisser beseitigt? Und sich dann mit dem Gold aus dem Staub gemacht.  (<i>Der Nasse Fisch</i>, 210-11)',
 ],
@@ -6009,8 +6009,8 @@ umständlich: [
 	'Niemand.. wusste, das Gereon nach dem Krieg versucht hatte seinen Bruder zu finden... Nach einem <strong>umständlichen</strong> Briefwechsel mit US-Behörden, die nicht immer freundlich reagierten, hatte er 1921 schließlich einen Sevron Rath in Hoboken, New Jersey, ausgemacht.  (<i>Der Nasse Fisch</i>, 196)' ,
 //'<u>Märzgefallene</u>',
 ],
-'über den Haufen...': [
-	'jemanden <strong>über den Haufen fahren/rennen/schießen</strong>: &nbsp;knock sb. down; gun sb. down <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+den+Haufen+rennen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou" target="target1" >über den Haufen...</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+den+Haufen" target="target2">über den Haufen...</a> ',
+'über den Haufen': [
+	'jemanden <strong>über den Haufen</strong> fahren/rennen/schießen: &nbsp;knock/gun sb. down <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+den+Haufen+rennen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">über den Haufen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+den+Haufen"target="target2">über den Haufen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/%C3%BCber%20den%20haufen"target="target3">über den Haufen</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'<i>Oberkommissar Böhm zu Rath</i>: "Wo haben Sie denn Ihre Augen, Mann! Sie hätten mich ja beinah <strong>über den Haufen gerannt</strong>!"    (<i>Der Nasse Fisch</i>, 179)' ,
 	'<u>Märzgefallene</u>',
@@ -6025,7 +6025,7 @@ untersetzt: [
 	'Eigentlich hatte sie (<i>Charly</i>) Marlow gegenüber reservierter auftreten wollen, doch sein Charme hatte sie völlig überrumpelt. Dabei sah er nicht einmal gut aus. Er war vielleicht zehn Jahre älter als Gereon, leicht <strong>untersetzt</strong>, mit schütterem Haar. (<i>Märzgefallene</i>, 428)' , 
 ],
 überwuchern: [
-	'<strong>überwuchern</strong>: &nbsp;overgrow, overrun <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ueberwuchern" target="target1" >überwuchern</a> ',
+	'<strong>überwuchern</strong>: &nbsp;overgrow, overrun <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ueberwuchern"target="target1">überwuchern</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/uberwuchern"target="target2">überwuchern</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ueberwuchern#%C3%BCberwuchern"target="target3">überwuchern</a>  ',
 	//'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <strong>überwuchernden</strong> Narbengeflecht stierten, war kein Leben mehr.  (<i>Märzgefallene</i>, 412)' ,
@@ -6038,7 +6038,7 @@ ungehobelt: [
 	'Er (<i>Gereon</i>) schaute sie (<i>Charly</i>) an, angriffslustig, als wolle er gleich wieder streiten. "Sie (<i>Hannah</i>) drohte zu verbluten, verdammt, Charly, wo hättest du sie denn hingeschickt, zu deinem Ärztefreund? Eine Brandstifterin, eine ausgerissene Irre, eine mehrfache Mörderin?" Fritze hatte die Augen aufgerissen bei dem Wort Mörderin, und Charly hätte Gereon treten können für seine <strong>ungehobelte</strong> Art.  (<i>Märzgefallene</i>, 408-09)' ,
 ],
 'über alle Berge sein': [
-	'<strong>über alle Berge sein</strong>: &nbsp;be miles away, long gone <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+alle+Berge+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou" target="target1" >über alle Berge sein</a> ',
+	'<strong>über alle Berge sein</strong>: &nbsp;be miles away, long gone <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+alle+Berge+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">über alle Berge sein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20alle%20Berge%20sein"target="target2">über alle Berge sein</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+alle+Berge+sein"target="target3">über alle Berge sein</a>  ',
 	'<u>Märzgefallene</u>',
 	'<i>Kellermann</i>: "...sie (<i>Hannah</i>) ist gesehen worden. Letzte Woche... Am Bahnhof Zoo." <i>Charly</i>: "Von wem gesehen worden?" "Ein Zeuge hat sie erkannt. Wollte sie aufhalten, aber sie ist ihm entwischt. Als die Kollegen eingriffen, war sie schon <strong>über alle Berge</strong>."  (<i>Märzgefallene</i>, 289)' ,
 	'"Ist es nicht herrlich", sagte sie (<i>die wilde Hilde</i>), dass die nationale Revolution jetzt auch Köln erreicht hat? Dass Adenauer mit seiner Judenbande endlich <strong>über alle Berge ist</strong>?"   (<i>Märzgefallene</i>, 304)' ,
@@ -6046,19 +6046,19 @@ ungehobelt: [
 	'Jetzt erst fiel ihr (<i>Hannah</i>) ein, dass sie nicht allein war. Dass sie um Hilfe rufen konnte. "Felix!" Das Grinsen ließ sein (<i>Huckebeins</i>) vernarbtes Gesicht noch abschreckender aussehen. "Dein Felix ist längst <strong>über alle Berge</strong>. Was meinst du, wer dich verpfiffen hat?"   (<i>Märzgefallene</i>, 400)' ,
 ],
 'über die Stränge schlagen': [
-	'<strong>über die Stränge schlagen</strong>: &nbsp;get carried away, go overboard, run riot <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen" target="target1" >über die Stränge schlagen</a> ',
-	'<u>Der Nasse Fisch</u>',
+	'<strong>über die Stränge schlagen</strong>: &nbsp;get carried away, go overboard, run riot <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target1">über die Stränge schlagen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target2">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Str%C3%A4nge+schlagen"target="target3">über die Stränge schlagen</a> ',
+	'<u>Der Nasse Fisch</u>', 
 	'Wolters Durchwahl konnte er (<i>Rath</i>) im Schlaf runterbeten. Der Onkel nahm ab, und Rath murmelte eine Entschuldigung in die Sprechmuschel. Am anderen Ende der Leitung hörte er ein Lachen. "Du hörst dich nicht gerade gesund an, alter Junge. Wohl ein wenig <strong>über die Stränge geschlagen</strong>!"   (<i>Der Nasse Fisch</i>, 43)' ,
 ],
 ummähen: [
-	'<strong>ummähen</strong>: &nbsp;bring down  &nbsp;<strong>mähen</strong>: &nbsp;cut, mow <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ummaehen" target="target1" >ummähen</a> ',
+	'<strong>ummähen</strong>: &nbsp;bring down  &nbsp;&nbsp;<strong>mähen</strong>: &nbsp;cut, mow <br>Deutsche Definition: <a href="https://www.duden.de/rechtschreibung/ummaehen"target="target1">ummähen</a>&nbsp;&nbsp;&nbsp;&nbsp;English Definitions: <a href="https://www.wordreference.com/deen/umm%C3%A4hen"target="target2">ummähen</a>&nbsp;&nbsp;<a href="https://en.pons.com/translate-2/german-english/umm%C3%A4hen?q=umm%C3%A4hen"target="target3">ummähen</a>   ',
 	'<u>Der Nasse Fisch</u>',
-	'<i>Rath träumt</i>: Und dann fielen die Schüsse. Reihenweise kippten die Fraen um. Kaum war eine Reihe <strong>umgemäht</strong>, trat die nächste nach vorn. Wortlos, wie Schafe, die zur Schlachtbank trotteten.  (<i>Der Nasse Fisch</i>, 36)' ,
+	'<i>Rath träumt</i>: Und dann fielen die Schüsse. Reihenweise kippten die Frauen um. Kaum war eine Reihe <strong>umgemäht</strong>, trat die nächste nach vorn. Wortlos, wie Schafe, die zur Schlachtbank trotteten.  (<i>Der Nasse Fisch</i>, 36)' ,
 ],
 'um den heißen Brei herumreden': [
-	'<strong>um den heißen Brei herumreden</strong>: &nbsp;beat around the bush <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/um%20den%20hei%C3%9Fen%20Brei%20herumreden" target="target1" >um den heißen Brei herumreden</a> ' ,
+	'<strong>um den heißen Brei herumreden</strong>: &nbsp;beat around the bush <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/um%20den%20hei%C3%9Fen%20Brei%20herumreden"target="target1">um den heißen Brei herumreden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/um%20den%20hei%C3%9Fen%20Brei%20herumreden"target="target2">um den heißen Brei herumreden</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brei?q=um+den+%28hei%C3%9Fen%29+Brei+herumreden"target="target3">um den heißen Brei herumreden</a> ' ,
 	'<u>Märzgefallene</u>',
-	'"Hör mir zu", sagte Rath, "ich <strong>rede nicht gern um den heißen Brei herum</strong>. Wir wissen doch beide, dass es so nicht weitergehen kann. Du kannst nicht bis zum Sankt-Nimmerleins-Tag uns auf dem Sofa schlafen."   (<i>Märzgefallene</i>, 370)' ,
+	'"Hör mir zu", sagte Rath, "ich <strong>rede nicht gern um den heißen Brei herum</strong>. Wir wissen doch beide, dass es so nicht weitergehen kann. Du kannst nicht bis zum Sankt-Nimmerleins-Tag bei uns auf dem Sofa schlafen."   (<i>Märzgefallene</i>, 370)' ,
 ],
 'unverrichteter Dinge': [
 	'<strong>unverrichteter Dinge</strong>: &nbsp;empty handed, having achieved nothing <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/unverrichteter_Dinge" target="target1" >unverrichteter Dinge</a> ' ,
@@ -6076,7 +6076,7 @@ unterbuttern: [
 	'Roddeck nahm die Unterbrechung dankbar an. Er setzte sich wieder hin, nun schon wieder ruhiger und so charmant wie eh und je. Doch <strong>bei der Temme</strong> war er <strong>unten durch</strong>, das konnte Rath sehen. (<i>Märzgefallene</i>, 343)' ,
 ],
 'über den Tisch ziehen': [
-	'<strong>über den Tisch ziehen</strong>: &nbsp;bamboozle, take someone to the cleaners   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdn.%20%C3%BCber%20den%20Tisch%20ziehen" target="target1" >über den Tisch ziehen</a> ' ,
+	'<strong>über den Tisch ziehen</strong>: &nbsp;bamboozle, take someone to the cleaners <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20%C3%BCber%20den%20Tisch%20ziehen"target="target1">über den Tisch ziehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn.%20%C3%BCber%20den%20Tisch%20ziehen"target="target2">über den Tisch ziehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+den+Tisch+ziehen"target="target3">über den Tisch ziehen</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Doch irgendetwas musste Doktor M. mit dem <i>Plaza</i> verbinden, dachte er (<i>Rath</i>), als er, wütend über die vertane Zeit, mit einer Herde Varietébesucher zur Stadtbahn zurückstapfte. Oder aber Gloria hatte ihn gekonnt <strong>über den Tisch gezogen</strong>.  (<i>Der Nasse Fisch</i>, 155)' ,
 	'<u>Märzgefallene</u>',
@@ -6086,12 +6086,12 @@ unterbuttern: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'über die Runden kommen': [
-	'<strong>über die Runden kommen</strong>: &nbsp;make ends meet, get by, pull through  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/%C3%BCber%20die%20Runden%20kommen" target="target1" >über die Runden kommen</a> ',
-	'<u>Märzgefallene</u>',
+	'<strong>über die Runden kommen</strong>: &nbsp;make ends meet, get by, pull through <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Runden%20kommen"target="target1">über die Runden kommen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20die%20Runden%20kommen"target="target2">über die Runden kommen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Runden+kommen"target="target3">über die Runden kommen</a> ',
+	'<u>Märzgefallene</u>', 
 	'Sie (<i>Hannah</i>) war eine Diebin, ja, sie hatte nicht nur den Mantel gestohlen, um <strong>über die Runden zu kommen</strong>, ein schlechtes Gewissen aber hatte sie deswegen nicht – tiefer konnte eine wie sie sowieso nicht mehr sinken. (<i>Märzgefallene</i>, 153)' ,
 ],
 überrumpeln: [
-	'<strong>überrumpeln</strong>: take by surprise, blindside  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ueberrumpeln " target="target1"  >überrumpeln</a> ' ,
+	'<strong>überrumpeln</strong>: &nbsp;take by surprise, blindside <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ueberrumpeln"target="target1">überrumpeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/uberrumpeln?q=%C3%BCberrumpeln"target="target2">überrumpeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/uberrumpeln"target="target3">überrumpeln</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Ihre (<i>Charlys</i>) Gedanken kreisten immer wieder um die letzten Wochen, um die Bosheit und Brutalität, mit der die Nazis alle anderen <strong>überrumpelt</strong> hatten. Alle, nicht nur die Kommunisten.  (<i>Märzgefallene</i>, 282)' ,
 	'<i>Frau Heinen, Engels Witwe</i>: "Ihr Besuch wurde angekündigt, Kommissar.... Es geht um meinen verstorbenen Mann?" "Jawohl." Rath musste sich räuspern, er fühlte <strong>sich überrumpelt</strong>. Eigentlich hätte er mit einem unverfänglicheren Thema anfangen wollen.  (<i>Märzgefallene</i>, 284)' ,                  
@@ -6195,7 +6195,7 @@ versehren: [
 	'<i>Doktor Schwartz</i>: "Beurlaubung, vorzeitiger Ruhestand, Kündigung, das ist wohl das Schicksal nicht weniger Beamter in diesen Tagen... Dabei hat Hitler doch immer gesagt, er wolle die Zahl der Arbeitslosen senken. Ob Beamtenentlassungen und -<strong>vergraulungen</strong> da die richtigen Maßnahmen sind ..." (<i>Märzgefallene</i>, 506)' ,
 ],
 'vertun, vertan': [  
-	'<strong>vertun</strong>: to waste, squander; &nbsp;&nbsp;&nbsp;<strong>vertan</strong>: wasted, futile  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/vertun" target = target1" >vertun</a> ' ,
+	'<strong>vertun</strong>: &nbsp;to waste, squander; &nbsp;&nbsp;&nbsp;<strong>vertan</strong>: &nbsp;wasted, futile  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vertun"target=target1">vertun</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vertun"target="target2">vertun</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vertun"target="target3">vertun</a>   ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Doch irgendetwas musste Doktor M. mit dem <i>Plaza</i> verbinden, dachte er (<i>Rath</i>), als er, wütend über die <strong>vertane</strong> Zeit, mit einer Herde Varietébesucher zur Stadtbahn zurückstapfte.  (<i>Der Nasse Fisch</i>, 155)' ,
 //	'<u>Märzgefallene</u>',
@@ -6274,12 +6274,12 @@ versauen: [
 	'Das Wochenende, das er (<i>Gräf</i>) eigentlich mit Conny hatte verbringen wollen, hatte ihm der tote Stadtstreicher sowieso <strong>versaut</strong>.... (<i>Märzgefallene</i>, 405)' ,
 ],
 'verwittern, Verwitterung': [  
-	'<strong>verwittern</strong>: &nbsp;wear, weather, decay &nbsp;&nbsp;die <strong>Verwitterung</strong>,-<strong>en</strong>: &nbsp;weathering   <br>Deutsche Definition:&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwittern" target="target1" >verwittern</a> ' ,
+	'<strong>verwittern</strong>: &nbsp;wear, weather, decay &nbsp;&nbsp;die <strong>Verwitterung</strong>,-<strong>en</strong>: &nbsp;weathering <br>Deutsche Definition:&nbsp;<a href="https://www.duden.de/rechtschreibung/verwittern"target="target1">verwittern</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verwittern"target="target2">verwittern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwittern"target="target3">verwittern</a>   ' ,
 	'<u>Märzgefallene</u>',
 	'Fritze hatte die Gegend gut beschrieben, eine heruntergekommene Fabrikgegend an der Köpenicker Straße. Ein <strong>verwittertes</strong> Schild wies auf die Möbeltischlerei Ohligs im Hof hin....  (<i>Märzgefallene</i>, 409)'  ,
 ], 
 Vorhängeschloss: [
-	'das <strong>Vorhängeschloss</strong>, die <strong>Vorhängeschlösser</strong>: &nbsp;padlock &nbsp;&nbsp;das <strong>Schloss</strong>: lock, clasp  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Vorhaengeschloss" target="target1" >Vorhängeschloss</a> ' ,
+	'das <strong>Vorhängeschloss</strong>, die <strong>Vorhängeschlösser</strong>: &nbsp;padlock &nbsp;&nbsp;das <strong>Schloss</strong>: &nbsp;lock, clasp <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vorhaengeschloss"target="target1">Vorhängeschloss</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorhangeschloss?q=Vorh%C3%A4ngeschloss"target="target2">Vorhängeschloss</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorhangeschloss"target="target3">Vorhängeschloss</a>   ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Elisabeth Behnke hob das zerbrochene <strong>Vorhängeschloss</strong> von dem feuchten Kellerboden auf und betrachtete es. Irgendjemand hatte den Bretterverschlag aufgebrochen. (<i>Der Nasse Fisch</i>, 90)' ,
 	'<u>Märzgefallene</u>',
@@ -6344,7 +6344,7 @@ verhunzen: [
 	'<i>Nehmt eure Rechte wahr! Demonstriert am 1. Mai!</i> hatte jemand mit roter Farbe quer über den Bauzaun gepinselt und dabei gleich mehrere Werbebotschaften <strong>verhunzt</strong>. (<i>Der Nasse Fisch</i>, 23)' ,
 ],
 vögeln: [
-	'jemanden <strong>vögeln</strong>: &nbsp;bonk, shag so.  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/voegeln" target="target1" >vögeln</a> ' ,
+	'jemanden <strong>vögeln</strong>: &nbsp;bonk, shag so. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/voegeln"target="target1">vögeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vogeln?q=v%C3%B6geln"target="target2">vögeln</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/v%C3%B6geln"target="target3">vögeln</a>   ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Der falsche Wilhelm zwo brauchte keine Sekunde, um die Situation zu erfassen. Mit einem Satz war er über das Geländer und fast eine halbe Etage hinuntergesprungen.... Rath setzte hinterher. Instinktiv. Er war Blulle, er jagte Verbrecher. Und derzeit eben solche, deren Verbrechen darin bestand, einem abgedankten Kaiser ähnlich zu sehen und sich beim <strong>Vögeln</strong> fotografieren zu lassen.  (<i>Der Nasse Fisch</i>, 21)' ,
 ],
@@ -6367,9 +6367,9 @@ versickern: [
 	'Hermann Wibeau... hatte die Augen geschlossen und sah aus, als schlafe er. Nur das Blut das in einem dünnen Rinnsal aus seinem linken Nasenloch... geflossen und schließlich im Sitzpolster <strong>versickert</strong> war, deutete auf eine Gewalttat hin.  (<i>Märzgefallene</i>, 344)' ,
 ],
 verunglimpfen: [
-	'<strong>verunglimpfen</strong> &nbsp;disparage, denigrate, smear <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verunglimpfen" target="target1" >verunglimpfen</a> ' ,
+	'<strong>verunglimpfen</strong> &nbsp;disparage, denigrate, smear <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verunglimpfen"target="target1">verunglimpfen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verunglimpfen"target="target2">verunglimpfen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verunglimpfen"target="target3">verunglimpfen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'Rath schaute in den nächstbesten Spiegel. Er saw wirklich aus wie eine antisemitische Karikatur - wie eine der Isidor-Zeichnungen, mit denen die Nazi-Postille <i>Der Angriff</i> seinerzeit Berlins Vize-Polizeipräsidenten Bernard Weiß regelmäßig <strong>verunglimpft</strong> hatte.  (<i>Märzgefallene</i>, 20)' ,
+	'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur - wie eine der Isidor-Zeichnungen, mit denen die Nazi-Postille <i>Der Angriff</i> seinerzeit Berlins Vize-Polizeipräsidenten Bernard Weiß regelmäßig <strong>verunglimpft</strong> hatte.  (<i>Märzgefallene</i>, 19-20)' ,
 	'<i>Rath</i>: "Der große Saal des Amtsgerichtes Krefeld, ein Verfahren wegen Heiratsschwindels. Sie (<i>von Roddeck</i>) saßen auf der Anklagebank und warteten auf das Urteil, als...." Roddeck sprang auf, hochrot im Gesicht. "Was erlauben Sie sich? Was tut das zur Sache? Wollen Sie mich hier als Heiratsschwindler <strong>verunglimpfen</strong>?" (<i>Märzgefallene</i>, 342)' ,
 ],
 verkommen: [
@@ -6386,7 +6386,7 @@ verkommen: [
 	'<i>Gereon</i>: "... Hitler laufen doch viel mehr Frauen hinterher als Männer. Was meinst du (<i>Charly</i>) wie viele ich allein kenne, die für Hitler schwärmen?" <i>Charly</i>: "Ach ja? Wen denn?" Rath musste aufpassen, er war dabei, <strong>sich</strong> zu <strong>vergaloppieren</strong>. Hilde Sprenger (<i>die wilde Hilde</i>) aus Köln konnte er als Beispiel jedenfalls nicht aufführen. (<i>Märzgefallene</i>, 390)' ,
 ],
 vorsintflutlich: [
-	'<strong>vorsintflutlich</strong>: &nbsp;antediluvian, antiquated <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/vorsintflutlich" target="target1" >vorsintflutlich</a> ' ,
+	'<strong>vorsintflutlich</strong>: &nbsp;antediluvian, antiquated <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorsintflutlich"target="target1">vorsintflutlich</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorsintflutlich"target="target2">vorsintflutlich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorsintflutlich"target="target3">vorsintflutlich</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede zupfte seinen Kittel zurecht und betätigte einen Hebel an der <strong>vorsintflutlichen</strong> Kasse.... "Wollen Se mal sehen, Kommessar: Ebbe, nix als Ebbe...." (<i>Märzgefallene</i>, 317)' ,
 ],
@@ -6645,21 +6645,21 @@ vertrackt: [
 	'Er (<i>Rath</i>) versuchte gerade, die <strong>vertrackten</strong> Ereignisse zu rekapitulieren, die damals im Krieg zum Mord an einem Rekruten und zwei Zivilisten geführt hatten.... (<i>Märzgefallene</i>, 180)' ,
 ],
 verunzieren: [
-	'<strong>verunzieren</strong>: mar, blemish, disfigure <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verunzieren" target="target1" >verunzieren</a>' ,
+	'<strong>verunzieren</strong>: &nbsp;mar, blemish, disfigure <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verunzieren"target="target1">verunzieren</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verunzieren"target="target2">verunzieren</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=verunzieren"target="target3">verunzieren</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Die Roten Ratten, das war eine Gruppe Halbwüchsiger..., die sich mit anderen Jugendlichen gelegentlich harmlose Bandenkämpfe lieferte, manchmal allerdings auch die SA in ihrem Viertel ärgerte, deren Sturmlokal mit Parolen <strong>verunzierte</strong>.... (<i>Märzgefallene</i>, 30)' ,
-	'Auf dem Weg zum Fridensplatz kam Rath an einigen Geschäften vorbei, und nicht alle hatten das Glück wie das ehemalige Möbelhaus Engel, sich auf ihre nun nichtjüdischen Besitzer berufen zu können. Vor diesen Geschäften standen jeweils zwei oder drei SA-Leute, an den Schaufenstern klebte das Plakat, das Rath jetzt schon kannte, manche ware zusätzlich mit einem hingeschmierten Davidstern <strong>verunziert</strong>. (<i>Märzgefallene</i>, 459)' ,
+	'Auf dem Weg zum Friedensplatz kam Rath an einigen Geschäften vorbei, und nicht alle hatten das Glück wie das ehemalige Möbelhaus Engel, sich auf ihre nun nichtjüdischen Besitzer berufen zu können. Vor diesen Geschäften standen jeweils zwei oder drei SA-Leute, an den Schaufenstern klebte das Plakat, das Rath jetzt schon kannte, manche waren zusätzlich mit einem hingeschmierten Davidstern <strong>verunziert</strong>. (<i>Märzgefallene</i>, 459)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Verwahrlosung: [
-	'die <strong>Verwahrlosung</strong>, -<strong>en</strong>:  neglect, squalidness; &nbsp;&nbsp;<strong>verwahrlost</strong>: neglected <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Verwahrlosung"target="target1">Verwahrlosung</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwahrlost" target="target2" >verwahrlost</a>',
+	'die <strong>Verwahrlosung</strong>, -<strong>en</strong>: &nbsp;neglect, squalidness; &nbsp;&nbsp;<strong>verwahrlost</strong>: &nbsp;neglected <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verwahrlosung"target="target1">Verwahrlosung</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwahrlost"target="target2">verwahrlost</a><br>English Definitions: &nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwahrlosung"target="target3">Verwahrlosung</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwahrlost"target="target4">verwahrlost</a>   ',
 	'<u>Märzgefallene</u>',
 	'Weitere Symptome sind in der zunehmenden <strong>Verwahrlosung</strong> der Patientin zu sehen, die jede Körperpflege verweigert.... (<i>Märzgefallene</i>, 41)' , 
-	'Arme Teufel ware sie alle, die Kriegskrüppel genauso wie die <strong>verwahrlosten</strong> Jugendlichen, die nicht wussten, wo sie die nächste Nacht verbringen sollten.... (<i>Märzgefallene</i>, 293)' ,
+	'Arme Teufel waren sie alle, die Kriegskrüppel genauso wie die <strong>verwahrlosten</strong> Jugendlichen, die nicht wussten, wo sie die nächste Nacht verbringen sollten.... (<i>Märzgefallene</i>, 293)' ,
 ],
 verwaisen: [
-	'<strong>verwaisen</strong>: become an orphan, be deserted <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwaisen" target="target1" >verwaisen</a>',
+	'<strong>verwaisen</strong>: &nbsp;become an orphan, be deserted <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwaisen"target="target1">verwaisen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwaisen"target="target2">verwaisen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verwaisen"target="target3">verwaisen</a>    ',
 	'<u>Der Nasse Fisch</u>',
 	'Im Hof holte er (<i>Rath</i>) erst einmal tief Luft, froh, den schneidenden Putzmitteldüften entkommen zu sein. Die Teppichstange war <strong>verwaist</strong>, der Hof menschenleer, als habe sich herumgesprochen, dass Polizei im Haus war.  (<i>Der Nasse Fisch</i>, 110)',
 	'Rath trat einen Schritt näher an den Plan heran und zog die Nadel wieder heraus, die an der Kantstraße den derzeit <strong>verwaisten</strong> <i>Delphi-Palast</i> markierte, und piekste sie neben dem Anhalter Bahnhof durch das Papier....  (<i>Der Nasse Fisch</i>, 149)',
@@ -6670,37 +6670,37 @@ verwaisen: [
 	'Bevor Rath <i>Herein!</i> rufen konnte, ging die Tür auch schon auf. Es war Reinhold Gräf, der einen kurzen, beinahe erschrocken wirkenden Blick auf den unbesetzten Schreibtisch der Voss warf, und dann das <strong>verwaiste</strong> Vorzimmer durchquerte. Unterm Arm trug er einen Pappkarton. (<i>Märzgefallene</i>, 537)' ,
 ],
 verwegen: [
-	'<strong>verwegen</strong>: daring, bold; jaunty, dashing  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwegen" target="target1" >verwegen</a> ',
+	'<strong>verwegen</strong>: &nbsp;daring, bold, dashing  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwegen"target="target1">verwegen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwegen"target="target2">verwegen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verwegen"target="target3">verwegen</a>  ',
 	'<u>Der Nasse Fisch</u>',
 	'Genau das machte den Reiz für viele Nachtschwärmer aus: eine Nacht im Stralauer Viertal, neben mehr oder weniger <strong>verwegenen</strong> Verbrechern und schönen Frauen an der Bar sitzen, ihnen vom Nebentisch verstohlene Blicke zuwerfen - das war spannender, als im mondänen Westen unterwegs zu sein.   (<i>Der Nasse Fisch</i>, 152-53)' ,
 	'<u>Märzgefallene</u>',
 	'Der Chef der <i>Berolina</i> (<i>Leo</i>) trug inzwischen eine schwarze Augenklappe über der Mullbinde, die seine leere Augenhöhle bedeckte, was ihm ein <strong>verwegenes</strong> Aussehen gab.  (<i>Märzgefallene</i>, 256)' ,
 	'Kohn zeigte auf Juretzka, der, je näher er seiner Freilassung kam, immer mehr wirkte wie ein <strong>verwegener</strong> Pirat.  (<i>Märzgefallene</i>, 262)',
 ],
-verwesen: [
-	'<strong>verwesen</strong>:  decay, decompose, rot; &nbsp;die <strong>Verwesung</strong>: decay, decomposition <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwesen_verrotten" target="target1" >verwesen</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Verwesung" target="target2" >Verwesung</a>' ,
+'verwesen, Verwesung': [
+	'<strong>verwesen</strong>:  &nbsp;decay, decompose, rot &nbsp;&nbsp;&nbsp;die <strong>Verwesung</strong>: decay, decomposition <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwesen_verrotten"target="target1">verwesen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verwesung"target="target2">Verwesung</a><br>English Definitions:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwesen"target="target3">verwesen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwesung"target="target4">Verwesung</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Doktor Schwarz</i>: "Er kann da schon Tage gelegen haben, ohne dass die <strong>Verwesungs</strong>prozesse in Gang gekommen sind. Eine tiefgekühlte Leiche <strong>verwest</strong> nun mal nicht."   (<i>Märzgefallene</i>, 17)' ,
 ],
 verwetten: [
-	'<strong>verwetten</strong>: bet; lose on betting, gamble away <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwetten" target="target1" >verwetten</a> ' ,
+	'<strong>verwetten</strong>: &nbsp;bet; lose on betting, gamble away <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwetten"target="target1">verwetten</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verwetten"target="target2">verwetten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwetten"target="target3">verwetten</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Wie man sich doch irren konnte! Vierundzwanzig Stunden zuvor noch hätte er (<i>Gereon</i>) keine müde Mark darauf <strong>verwettet</strong>, an diesem Wochenende mit Charly auch nur ein Wort zu wechseln, geschweige denn mit ihr auszugehen oder ein Lächeln von ihr zu bekommen.  (<i>Märzgefallene</i>, 191)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
 verwüsten: [
-	'<strong>verwüsten</strong>: &nbsp;devastate, ravage, lay waste to <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verwuesten" target="target1" >verwüsten</a> ',
+	'<strong>verwüsten</strong>: &nbsp;devastate, ravage, lay waste to <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwuesten"target="target1">verwüsten</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verwusten?q=verw%C3%BCsten"target="target2">verwüsten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwusten"target="target3">verwüsten</a>   ',
 	'<u>Märzgefallene</u>',
 	'<i>Paul</i>: "Habe mein Büro heute Morgen wieder aufgeschlossen. Sah ein wenig … <strong>verwüstet</strong> aus. Musste ich erst mal wieder herrichten."  (<i>Märzgefallene</i>, 103)' ,
 ],
 vierschrötig: [
-	'<strong>vierschrötig</strong>: &nbsp;squarely built, burly <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/vierschroetig" target="target1" >vierschrötig</a> ' ,
+	'<strong>vierschrötig</strong>: &nbsp;squarely built, burly <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vierschroetig"target="target1">vierschrötig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/vierschroetig#vierschr%C3%B6tig"target="target2">vierschrötig</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/vierschr%C3%B6tig"target="target3">vierschrötig</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Und dann, mit einem Mal, so schnell und unerwartet, dass niemand im Raum damit gerechnet hatte, nicht einmal die <strong>vierschrötige</strong> Oberschwester Ingeborg, schoss Hannah Singers rechte Hand nach vorn, grapschte mit einem schnellen Griff das Foto ihres Vaters vom Tisch und presste es fest an sich. (<i>Märzgefallene</i>, 46-47)' ,
 ],
 vorgaukeln: [
-	'<strong>vorgaukeln</strong>: &nbsp;fool so. to believe sth.<br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/vorgaukeln" target="target1" >vorgaukeln</a>',
+	'<strong>vorgaukeln</strong>: &nbsp;fool so. to believe sth.<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorgaukeln"target="target1">vorgaukeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorgaukeln"target="target2">vorgaukeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorgaukeln"target="target3">vorgaukeln</a>  ',
 	'<u>Märzgefallene</u>',
 	'Sein Roman...war recht eigentlich eine Maßnahme, mit der er (<i>Berthold Weinert</i>) sich selbst, seiner Schreibmaschine und vor allem seiner Zimmerwirtin <strong>vorgaukelte</strong>, immer noch genug zu tun zu haben. (<i>Märzgefallene</i>, 54)' ,
 ],

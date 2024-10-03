@@ -69,21 +69,21 @@ const v = [
    'verstohlen',   //verstohlen:
    'vertrackt' ,   //vertrackt:
    'vertreten (sich)', //
-   'vertun, vertan',
-   'verunglimpfen',
-   'verunzieren' ,
-   'Verwahrlosung' ,
-   'verwaisen'  ,
-   'verwegen' ,
-   'verwesen' ,
-   'verwetten' ,
-   'verwittern, Verwitterung',
-   'verwüsten' ,
-   'vierschrötig' ,
-   'vögeln',
-   'vorgaukeln' ,
-   'Vorhängeschloss',
-   'vorsintflutlich',
+   'vertun, vertan',  //
+   'verunglimpfen',  //verunglimpfen:
+   'verunzieren' ,  //verunzieren:
+   'Verwahrlosung' , //Verwahrlosung:
+   'verwaisen'  ,  //verwaisen:
+   'verwegen' ,  //verwegen:
+   'verwesen, Verwesung' ,  //
+   'verwetten' ,  //verwetten:
+   'verwittern, Verwitterung', //
+   'verwüsten' ,  //verwüsten:
+   'vierschrötig' , //vierschrötig:
+   'vögeln',    //vögeln:
+   'vorgaukeln' ,  //vorgaukeln:
+   'Vorhängeschloss',  //Vorhängeschloss:
+   'vorsintflutlich',  //vorsintflutlich:
 ];
 
 export default v;    

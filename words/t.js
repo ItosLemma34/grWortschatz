@@ -1,9 +1,9 @@
 const t = [
-   'Tacheles reden',
-   'Tantieme',
-   'tapsen' ,
-   'tätscheln',
-   'taxieren' ,
+   'Tacheles reden', //
+   'Tantieme',  //Tantieme:
+   'tapsen' ,  //tapsen:
+   'tätscheln', //tätscheln:
+   'taxieren' , //taxieren:
    'Teufel tun' ,
    'Theke',
    'toben' ,

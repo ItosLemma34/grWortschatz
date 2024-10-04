@@ -11,21 +11,21 @@ const u = [
    'überwuchern',  //überwuchern:
    'um den heißen Brei herumreden', //
    'ummähen' ,  //ummähen:
-   'umpflügen',
-   'umständlich',
-   'umzingeln' ,
-   'unbotmäßig',
-   'ungehobelt',
-   'ungelegen' ,
-   'unten durch sein',
-   'unterbuttern',
-   'unterjubeln',
-   'Unterschlagung, unterschlagen' ,
-   'untersetzt',
-   'Unterstand' ,
-   'unverfänglich',
-   'unverrichteter Dinge',
-   'unwirsch' ,
+   'umpflügen',  //umpflügen:
+   'umständlich',  //umständlich:
+   'umzingeln' ,  //umzingeln:
+   'unbotmäßig',  //unbotmäßig:
+   'ungehobelt',  //ungehobelt:
+   'ungelegen' ,  //ungelegen:
+   'unten durch sein', //
+   'unterbuttern',  //unterbuttern:
+   'unterjubeln',  //unterjubeln:
+   'Unterschlagung, unterschlagen' , //
+   'untersetzt',  //untersetzt:
+   'Unterstand' ,  //Unterstand:
+   'unverfänglich', //unverfänglich:
+   'unverrichteter Dinge', //
+   'unwirsch' ,  //unwirsch:
 ];
 
 export default u;      

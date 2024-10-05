@@ -4,27 +4,27 @@ const t = [
    'tapsen' ,  //tapsen:
    'tätscheln', //tätscheln:
    'taxieren' , //taxieren:
-   'Teufel tun' ,
-   'Theke',
-   'toben' ,
-   'tollen',
-   'tönen',
-   'Tonne',         
-   'torkeln',
-   'tosen, tosend',
-   'Tracht Prügel',
-   'Trasse' ,
-   'Tresen' ,
+   'Teufel tun (werden)' , //
+   'Theke',  //Theke:
+   'toben' , //toben:
+   'tollen', //tollen:
+   'tönen',  //tönen:
+   'Tonne',  //Tonne:       
+   'torkeln', //torkeln:
+   'tosen, tosend', //
+   'Tracht Prügel', //
+   'Trasse' ,  //Trasse:
+   'Tresen' ,  //Tresen:
    //'ins Kreuz treten  Tritt ins Kreuz'  ;   Nworte++;    Märzgefallene   111    German definition not found; entry in worte_T.js started, not finished
-   'Trichter',
-   'triezen' ,
-   'trippeln',  
-   'trollen (sich)' ,  
-   'Tropf' ,  
-   'Tropfen' , 
-   'Tross/Troß' , 
-   'Trost (nicht ganz bei Trost sein)' ,  
-   'Trott, trotten' ,
+   'Trichter',  //Trichter:
+   'triezen' ,  //triezen:
+   'trippeln', //trippeln: 
+   'trollen (sich)' ,  //
+   'Tropf' ,  //Tropf:  
+   'Tropfen' ,  //Tropfen: 
+   'Tross/Troß' , //
+   'Trost (nicht ganz bei T. sein)' ,  //
+   'Trott, trotten' ,  //
    'Trottel' ,
    'Trubel' ,
    'Truhe' ,

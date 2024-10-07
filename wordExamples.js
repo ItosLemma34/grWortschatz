@@ -53,7 +53,7 @@ aufputschen: [
 	'Das Lob, das von allen Seiten auf ihn niederprasselte, musste ihn <strong>aufgeputscht</strong> haben, jedenfalls hatte Achim von Roddeck prompt zugesagt, die studentische Aktion zu unterstützen, wo ihn doch alle am Tisch als den idealen Repräsentanten einer neuen deutschen Literatur bezeichnet hatten.  (<i>Märzgefallene</i>, 552-53)' ,
 ],
 abbinden: [
-	'<strong>abbinden</strong>: &nbsp;bind, set, harden <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abbinden"target="target1">abbinden</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abbinden"target="target2">abbinden</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abbinden"target="target3">abbinden</a> ',
+	'<strong>abbinden</strong>: &nbsp;bind, set, harden <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abbinden"target="target1">abbinden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abbinden"target="target2">abbinden</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abbinden"target="target3">abbinden</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Er (<i>Rath</i>) schaute sich um. Weit waren sie mit der Baustelle noch nicht gekommen, gerade erst die Fundamente und die Bodenplatte. Rath stieg in die Baugrube hinunter und testete den Beton mit einem Kantholz. Noch nicht <strong>abgebunden</strong>, sie mussten ihn heute erst gegossen haben. (<i>Der Nasse Fisch</i>, 216)' ,
 //	'<u>Märzgefallene</u>', 
@@ -149,7 +149,7 @@ abzocken: [
 	'<i>Fritze</i>: "Da war eener vorm Bahnhof, der hat förmlich drum jebettelt, dass man ihm ein bisschen Moos (<i>dough</i>) <strong>abzockt</strong>".  (<i>Märzgefallene</i>, 484)'  , 
 ],
 aalglatt: [
-	'<strong>aalglatt</strong>: &nbsp;slippery, slick, glib <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aalglatt"target="target1">aalglatt</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aalglatt"target="target2">aalglatt</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aalglatt"target="target3">aalglatt</a>         ',
+	'<strong>aalglatt</strong>: &nbsp;slippery, slick, glib <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aalglatt"target="target1">aalglatt</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aalglatt"target="target2">aalglatt</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aalglatt"target="target3">aalglatt</a>         ',
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>', 
 	'<i>Roddeck</i>: "Ich fürchte, ich verstehe nicht, worauf Sie hinauswollen, Kommissar! <i>Rath</i>: "Darauf, dass Wosniak Krumbiegel umgebracht hat, weil er seinen eigenen Tod vortäuschen wollte." "Mein treuer Heinrich? Ich bitte Sie! Warum sollte er das tun?" "Das werde ich schon noch herausfinden", sagte Rath, den das <strong>aalglatte</strong> Gebaren Roddeckes immer mehr aufregte.    (<i>Märzgefallene</i>, 482)' ,
@@ -293,7 +293,7 @@ abschüssig: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>  Steinke   C  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 abgebrüht: [
-	'<strong>abgebrüht</strong>: &nbsp;cool, callous, hardened &nbsp;&nbsp;<strong>abbrühen</strong>: boil out, scald   <br> Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abbruehen#abbr%C3%BChen"target="target3">abbrühen</a>   ',
+	'<strong>abgebrüht</strong>: &nbsp;cool, callous, hardened &nbsp;&nbsp;<strong>abbrühen</strong>: boil out, scald <br> Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abbruehen#abbr%C3%BChen"target="target3">abbrühen</a>   ',
 	'<u>Der Nasse Fisch</u>',
 	'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hutkrempe in die Stirn gezogen. Rath musste ein Lachen unterdrücken. Jänicke gab sich die größte Mühe, wie ein <strong>abgebrühter</strong> Großstadtbulle auszusehen, doch die ewig roten Wangen verrieten den Jungen vom Lande.  (<i>Der Nasse Fisch</i>, 17)'  ,
 	'Während die Menschen ins Kino drängten, stand Rath an den Schaukästen und betrachtete die Werbefotos. Gustav Fröhlich als Schupo und eine Frau, die ihn ein wenig an Charlotte erinnerte, nur dass die hier viel aufgedonnerter daherkam. Aber so war das eben im Film, da legten ja sogar die Männer Lippenstift auf. Selbst wenn sie einen Schupo spielten. Er musste schmunzeln, als er sich die <strong>abgebrühten</strong> Schupos vom Alex mit rot gemalten Lippen vorstellte.  (<i>Der Nasse Fisch</i>, 181-82)' ,
@@ -348,7 +348,7 @@ anbändeln: [
 	'<i>Charly</i>: "Und die (<i>die angebliche Gräfin</i>) hatte Achim von Roddeck zu ihrem festen Tanzpartner erkoren?" "Nicht nur das, wenn Sie mich fragen", sagte Willy.... "Seine Geliebte?", fragte Charly. "So etwas wird vom Hotel nicht tolerierte", sagte Bertrand. "Dennoch kommt es vor, dass eine Kundin mit einem Tänzer <strong>anbändelt</strong>...."  (<i>Märzgefallene</i>, 314)' ,
 ],
 abblitzen: [
-	'<strong>abblitzen</strong>: &nbsp;meet with a rebuff &nbsp;&nbsp;&nbsp;jemanden <strong>abblitzen lassen</strong>: rebuff so.  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abblitzen"target="target1">abblitzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abblitzen"target="target2">abblitzen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abblitzen"target="target3">abblitzen</a>    ',
+	'<strong>abblitzen</strong>: &nbsp;meet with a rebuff &nbsp;&nbsp;&nbsp;jemanden <strong>abblitzen lassen</strong>: rebuff so.  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abblitzen"target="target1">abblitzen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abblitzen"target="target2">abblitzen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abblitzen"target="target3">abblitzen</a>    ',
 	'<u>Der Nasse Fisch</u>',
 	'"Verkauft Kardakow da auch noch anderes as Koks?", fragte er (<i>Rath</i>) den dünnen Russen... "Gibt bestimmt einige, die würden gerne mal ran an Alexej. Aber der lässt sie alle <strong>abblitzen</strong>. Sie mögen ihn trotzdem. Deswegen vermissen sie ihn ja so...."   (<i>Der Nasse Fisch</i>, 124)' ,
 	'<u>Märzgefallene</u>', 
@@ -357,20 +357,20 @@ abblitzen: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 abebben: [
-	'<strong>abebben</strong>: &nbsp;abate, die down, ebb away <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abebben"target="target1">abebben</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abebben"target="target2">abebben</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abebben"target="target3">abebben</a>',
+	'<strong>abebben</strong>: &nbsp;abate, die down, ebb away <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abebben"target="target1">abebben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abebben"target="target2">abebben</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abebben"target="target3">abebben</a>',
 	'<u>Märzgefallene</u>',
 	'Endlich hörte sie (<i>Hannah</i>) Schritte auf dem Gang, leise, aber doch zu hören, wenn die Schreie der Verrückten zwischendurch einmal <strong>abebbten</strong>. (<i>Märzgefallene</i>, 67)',
 	'Durch den Saal ging ein Raunen, das sogleich wieder <strong>abebbte</strong>, als Liebermann (<i>Nazi, Personalreferent im Innenministerium</i>) weiterredete.  (<i>Märzgefallene</i>, 182)',
 ],
 abfackeln: [
-	'<strong>abfackeln</strong>: &nbsp;torch, flare, burn off  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abfackeln"target="target1">abfackeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abfackeln"target="target2">abfackeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abfackeln"target="target3">abfackeln</a> ',
+	'<strong>abfackeln</strong>: &nbsp;torch, flare, burn off <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abfackeln"target="target1">abfackeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abfackeln"target="target2">abfackeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abfackeln"target="target3">abfackeln</a> ',
 	'<u>Märzgefallene</u>',
 	'"Das Foto gehört nicht ihr (<i>Hannah</i>)", sagte die Schwester (<i>Ingeborg</i>), "das hat man bei den Sachen ihres Vaters gefunden." <i>Charly</i>: Dann gehört es also doch ihr."  <i>Ingeborg</i>: "Haben Sie das Gutachten gelesen? Das Biest hat ihren Vater <strong>abgefackelt</strong>! Bei lebendigem Leibe." (<i>Märzgefallene</i>, 47)',
 ], 
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 abgrasen: [
-	'<strong>abgrasen</strong>: &nbsp;graze; browse, look for something <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abgrasen"target="target1">abgrasen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abgrasen"target="target2">abgrasen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abgrasen"target="target3">abgrasen</a>',
+	'<strong>abgrasen</strong>: &nbsp;graze; browse, look for something <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abgrasen"target="target1">abgrasen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abgrasen"target="target2">abgrasen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abgrasen"target="target3">abgrasen</a>',
 	'<u>Märzgefallene</u>',
 	'Gräf schüttelte den Kopf. "Fehlanzeige. Immer noch keine Spur, die Heinrich Wosniak in dieser Stadt hinterlassen hat. Habe nun alle einschlägigen Adressen rund um Bülowplatz und Nollendorfplatz <strong>abgegrast</strong> und noch niemanden getroffen, der ihn kannte." (<i>Märzgefallene</i>, 117)',
 ],
@@ -2428,7 +2428,7 @@ Gurt: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',       
 //Hstart <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Handfessel, Handschelle': [
-	'die <strong>Handfessel</strong>,-<strong>n</strong>: manacle, handcuff &nbsp;&nbsp;die <strong>Handschelle</strong>,-<strong>n</strong>: &nbsp;handcuff <br>Deutsche Definitionen: &nbsp;<a href ="https://www.duden.de/rechtschreibung/Handfessel" target="target1" >Handfessel</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Handschelle" target="target2">Handschelle</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/handfessel" target="target3">Handfessel</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/handschelle" target="target4">Handschelle</a>  ',     
+	'die <strong>Handfessel</strong>,-<strong>n</strong>: &nbsp;manacle, handcuff &nbsp;&nbsp;die <strong>Handschelle</strong>,-<strong>n</strong>: &nbsp;handcuff <br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Handfessel"target="target1">Handfessel</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Handschelle"target="target2">Handschelle</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/handfessel" target="target3">Handfessel</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/handschelle" target="target4">Handschelle</a>  ',     
 	'<u>Märzgefallene</u>',
 	'Wie bestellt kam in diesem Moment der Wachmann aus dem Zellentrakt um die Ecke, den Rath bereits telefonish angefordert hatte. "Einen Gefangenen Juretzka soll ick abholen", sagte er... Der Wachmann legte Juretzka <strong>Handschellen</strong> an.   (<i>Märzgefallene</i>, 259)',
 	'Kein Hilfspolizist weit und breit, dafür wurde Leo Juretzka pünktlich auf die Minute aus dem Polizeigewahrsam gebracht, vom selben Wachmann, der ihn auch abgeholt hatte. "Dann wollen wir mal", sagte Rath und öffnete die Tür. "Soll ick warten?", fragte der Wachmann. Rath schüttelte den Kopf. "Nicht nötig. Aber Sie könnten dem Mann die <strong>Handfesseln</strong> abnehmen." Der Wachmann tat wie geheißen und drückte Rath die <strong>Handschellen</strong> in die Hand.  (<i>Märzgefallene</i>, 262)',
@@ -2460,7 +2460,7 @@ Holzstoß: [
 	'Er (<i>Grimberg</i>) überlegte, wann er das letzte Mal einen Anruf aus Berlin erhalten hatte. Das musste der Tag gewesen sein, als Roddeck <strong>sich ins Hemd gemacht hatte</strong> aus Angst vor diesem Berliner Kommissar und sich selbst unter Mordverdacht wähnte, nur weil der Kommissar nach einem Alibi gefragt hatte. (<i>Märzgefallene</i>, 550)' ,
 ],
 halbseiden: [
-	'<strong>halbseiden</strong>: half-silk and half-cotton; rather dubious, shady  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/halbseiden" target="target1" >halbseiden</a> ',
+	'<strong>halbseiden</strong>: &nbsp;half-silk and half-cotton; rather dubious, shady  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/halbseiden"target="target1">halbseiden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/halbseiden"target="target2">halbseiden</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=halbseiden"target="target3">halbseiden</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Als er (<i>Gereon</i>) zurückkam, saß da jemand bei ihr (<i>Charly</i>) am Tisch. Ein öliger, schmieriger Typ mit Nussknackerlachen. Irgend so ein <strong>halbseidener</strong> Angeber, der sich unglaublich toll vorkam and nicht merkte, dass er Charlotte anwiderte.  (<i>Der Nasse Fisch</i>, 190-91)' ,
 ],
@@ -2469,20 +2469,20 @@ halbseiden: [
 	'<u>Märzgefallene</u>',
 	'<i>Thelen</i>: "Ich hatte doch keine Ahnung damals!.. Ich habe ihm (<i>Grimberg</i>), dem Experten, alles geglaubt..." <i>Rath</i>: "Klingt irgendwie naiv." <i>Thelen</i>: "Dann müssen Sie ähnlich naiv sein, Kommissar. Sie hat Grimberg doch offsensichtlich auch <strong>hinters Licht geführt</strong>." Rath schwieg. Thelen hatte recht. Er hatte sich von dem Sprengmeister auch einseifen lassen.     (<i>Märzgefallene</i>, 521)' ,
 ],
-Hatz : [
-	'die <strong>Hatz</strong>,-<strong>en</strong>: &nbsp;hunt  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Hatz" target="target1" >Hatz</a> ' ,
+Hatz: [
+	'die <strong>Hatz</strong>,-<strong>en</strong>: &nbsp;(witch)hunt; hurry, rush <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hatz"target="target1">Hatz</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hatz?q=Hatz"target="target2">Hatz</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Hatz"target="target3">Hatz</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Ich werde nach Ostern mit der Wieking sprechen, ich werde... kündigen." Nun war es raus. <i>Gereon</i>: "So kurz vor der Kommissarsprüfung?...Ist es... Bist du schwanger?" "Aber nein!" Sie musste lachen, wie sie ihn da sitzen sah, völlig aus dem Häuschen. Dann wurde sie wieder ernst. "Wir haben doch schon darüber gesprochen... die Wieking, diese Kommunisten<strong>hatz</strong>, überhaupt die ganze Arbeit bei der WKP."  (<i>Märzgefallene</i>, 504)',
 ],
 harren: [
-	'jds/einer Sache <strong>harren</strong>, auf jdn/etw <strong>harren</strong>: &nbsp;wait for, await so./sth.     <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/harren" target="target1" >harren</a> ' ,
+	'jds/einer Sache <strong>harren</strong>, auf jdn/etw <strong>harren</strong>: &nbsp;wait for, await so./sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/harren"target="target1">harren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/harren"target="target2">harren</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/harren"target="target3">harren</a> ' ,
 	'<u>Märzgefallene</u>',
-	'<i>von Rokkeck schreibt</i>: Ich folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer Zigelwand <strong>harren</strong>, an der bis gestern noch bis zur Decke Weinregale gestanden haben. (<i>Märzgefallene</i>, 161)' ,
+	'<i>von Roddeck schreibt</i>: Ich folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer Zigelwand <strong>harren</strong>, an der bis gestern noch bis zur Decke Weinregale gestanden haben. (<i>Märzgefallene</i>, 161)' ,
 	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, an die WKP, an Friederike Wieking, an Karin van Almsick, wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung <strong>harrten</strong>. (<i>Märzgefallene</i>, 485)' ,
 	'<i>Bernard Weiß schreibt an Charly</i>: "In Prag hält der Früling Einzug und taucht die Stadt in goldenes Licht. Da kann man eigentlich nur optimistischer Stimmung sein. Wir sind jedenfalls nun erst in Sicherheit und <strong>harren</strong> der Dinge, die da kommen.... (<i>Märzgefallene</i>, 487-88)' ,
 ],
 hapern: [
-	'es <strong>hapert</strong> an etwas: &nbsp;there\'s a problem with something, sth. is in short supply     <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hapern" target="target1" >hapern</a> ' ,
+	'es <strong>hapert</strong> an etwas: &nbsp;there\'s a problem with something, sth. is in short supply <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hapern"target="target1">hapern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hapern"target="target2">hapern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hapern"target="target3">hapern</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Es <strong>haperte</strong> so ziemlich an allem. Fehlerfrei schreiben konnte er (<i>Fritze</i>) gerade mal seinen eigenen Namen, und auch das nur, wenn er sich konzentrierte. (<i>Märzgefallene</i>, 483)' ,
 ],
@@ -2497,7 +2497,7 @@ hopsnehmen: [
 	'<i>Rath</i>: "Und wo finde ich ihn (<i>Kardakow</i>)?" <i>der Russe im Café Berlin</i>: "Keine Ahnung. Mal hier und mal dort.  Hab ihn seit über einer Woche nicht gesehen. Gehen Gerüchte um, ihr hättet ihn <strong>hopsgenommen</strong>." (<i>Der Nasse Fisch</i>, 124)' ,
 ],
 hausieren: [
-	'<strong>hausieren</strong>; &nbsp;<strong>mit etwas hausieren gehen</strong>: &nbsp;hawk, peddle sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hausieren" target="target1" >hausieren</a> ',
+	'<strong>hausieren</strong>; &nbsp;<strong>mit etwas hausieren gehen</strong>: &nbsp;hawk, peddle sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hausieren"target="target1">hausieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hausieren"target="target2">hausieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hausieren"target="target3">hausieren</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Rath schaute auf die Zeitung, die er in den Händen hielt. Der <i>Angriff</i>. Ein Hetzblatt der Völkischen, das den Vizepolizeichef regelmäßig diffamierte. Doktor Bernhard Weiß war Jude.... Nicht nur die Völkischen hatten etwas gegen Juden, aber sie waren die Einzigen, die mit ihrem Judenhass <strong>hausieren</strong> gingen.  (<i>Der Nasse Fisch</i>, 116)' ,
 ],
@@ -2507,7 +2507,7 @@ hämmern: [
 	'Als Rath am Samstagmorgen ins Büro kam, ein wenig verkatert, ein wenig verspätet und reichlich übermüdet, saß Wolter bereits an seinem Platz und <strong>hämmerte</strong> auf die Schreibmaschine ein.  (<i>Der Nasse Fisch</i>, 98)' ,
 ],
 hämisch: [
-	'<strong>hämisch</strong>: &nbsp;malicious, gloating, spiteful;  &nbsp;<strong>hämisch grinsen</strong>: smirk  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/haemisch" target="target1" >hämisch</a> ' ,
+	'<strong>hämisch</strong>: &nbsp;malicious, gloating, spiteful  &nbsp;&nbsp;<strong>hämisch grinsen</strong>: &nbsp;smirk <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/haemisch"target="target1">hämisch</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/haemisch#h%C3%A4misch"target="target2">hämisch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hamisch"target="target3">hämisch</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Schnauze, Steinke", fuhr Gräf den Kommissaranwärter an, und der zuckte zusammen... Das <strong>hämische Grinsen</strong> war aus Steinkes Gesicht verschwunden. (<i>Märzgefallene</i>, 423)' ,
 ],
@@ -2539,7 +2539,7 @@ Hornochse: [
 	'Zwecklos, diesen <strong>Hornochsen</strong> in Uniform die Methoden moderner Polizeiarbeit nahezubringen. Diesen Preußen war es immer wichtiger, am Tatort erst einmal Ordnung zu schaffen, statt Spuren zu sichern.  (<i>Der Nasse Fisch</i>, 57)' ,
 ],
 Hautausschlag: [
-	'der <strong>Hautausschlag</strong>, die <strong>Hautausschläge</strong>: &nbsp;skin rash, eczema  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Hautausschlag" target="target1" >Hautausschlag</a> ' ,
+	'der <strong>Hautausschlag</strong>, die <strong>Hautausschläge</strong>: &nbsp;skin rash, eczema  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hautausschlag"target="target1">Hautausschlag</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/hautausschlag"target="target2">Hautausschlag</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hautausschlag"target="target3">Hautausschlag</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein juckender <strong>Hautausschlag</strong> oder ein Klumpfuß."  (<i>Märzgefallene</i>, 384)' ,
 ],
@@ -2555,10 +2555,10 @@ hereinlegen: [
 	'Grimberg war längst nicht so überrascht wie Roddeck. Wenigstens wusste er jetzt, dass der Herr von und zu ihn nicht <strong>hereinlegen</strong> wollte, ahnungsloss, wie der war. Wenn sie einer <strong>hereinlegen</strong> wollte, dann war es Engel, der sie schlicht und einfach beide zum Rendezvous bestellt hatte.  (<i>Märzgefallene</i>, 570-71)' ,
 ],
 Halunke: [
-	'der <strong>Halunke</strong>,-<strong>n</strong>: &nbsp;scoundrel  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Halunke" target="target1" >Halunke</a> ' ,
+	'der <strong>Halunke</strong>,-<strong>n</strong>: &nbsp;scoundrel <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Halunke"target="target1">Halunke</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/halunke"target="target2">Halunke</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Halunke"target="target3">Halunke</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Und damals", fuhr die Gräfin fort, "hat Achim von Roddeck einer Frau genau dieselben Versprechungen gemacht wie mir. Eheversprechungen, die er nie eingehalten hat, wie sich herausstellte. Wie sich nach drei Jahren herausstellte und nach vierundfünfzigtausand Mark, die die arme Frau dem <strong>Halunken</strong> hinterhergeworfen hatte." (<i>Märzgefallene</i>, 339)' ,
-	'<i>Rath</i>: ".. Warum geht Engel in dieser Situation so blauäugig mit Grimberg zur Inspektion? Und steigt allein in den Graben? Hätte er sich nicht denken können, dass er in Gefahr ist?" <i>Thelen</i>: "Ganz einfach: Weil er nicht wusste dass Grimberg zu denen gehörte, die das Gold beiseite schaffen wollten..." <i>Rath</i>: "Er hätte die <strong>Halunken</strong> gleich anzeigen sollen. Und von der Feldpolizei abholen lassen." <i>Thelen</i>: "Das hatte er vor. Doch die Feldpolizei saß hinter der Hindenburglinie, wir ware sozusagen die letzten Mohikaner. Die Nachhut." (<i>Märzgefallene</i>, 522)' ,
+	'<i>Rath</i>: ".. Warum geht Engel in dieser Situation so blauäugig mit Grimberg zur Inspektion? Und steigt allein in den Graben? Hätte er sich nicht denken können, dass er in Gefahr ist?" <i>Thelen</i>: "Ganz einfach: Weil er nicht wusste dass Grimberg zu denen gehörte, die das Gold beiseite schaffen wollten..." <i>Rath</i>: "Er hätte die <strong>Halunken</strong> gleich anzeigen sollen. Und von der Feldpolizei abholen lassen." <i>Thelen</i>: "Das hatte er vor. Doch die Feldpolizei saß hinter der Hindenburglinie, wir waren sozusagen die letzten Mohikaner. Die Nachhut." (<i>Märzgefallene</i>, 522)' ,
 ],
 herumlungern: [
 	'<strong>herumlungern</strong>: &nbsp;linger, loiter around  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/herumlungern" target="target1" >herumlungern</a> ' ,
@@ -2569,7 +2569,7 @@ herumlungern: [
 	'Als Rath im (Hotel) Central aus dem Aufzug trat, <strong>lungerte</strong> vor der Suite des geheimnisvollen Herrn Rubens (<i>von Roddeck</i>) bereits eine Handvoll Journalisten <strong>herum</strong>, die auf Einlass warteten. Rath zündete sich eine Zigarette an und reihte sich ein.   (<i>Märzgefallene</i>, 329)'
 ],
 Häkchen: [
-	'das <strong>Häkchen</strong>,-: &nbsp;check (mark), tick; hooklet <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Haekchen" target="target1" >Häkchen</a> ' ,
+	'das <strong>Häkchen</strong>,-: &nbsp;check (mark), tick; hooklet <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haekchen"target="target1">Häkchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/haekchen#H%C3%A4kchen"target="target2">Häkchen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hakchen"target="target3">Häkchen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Bislang hatte sich allerdings noch niemand gemeldet, der den Mann erkannt hatte. Auch nicht nach dem heutigen Zeitungsartikel, wie der Pförtner ihm (<i>Rath</i>) mitteilte, nachdem er die Listen überprüft hatte. "Vielleicht können Sie Ihr <strong>Häkchen</strong> jetzt machen", sagte Rath. "Ich habe hier einen Herrn, der Heinrich Wosniak kennt." (<i>Märzgefallene</i>, 135-136)' ,
 	'<i>Daluege</i>: "Oberkommissar Wilhelm Böhm, Inspektion A?" "Jawohl." "Sie sind Sozialdemokrat?" "Nein." Daluege machte ein <strong>Häkchen</strong> in die Akte.   (<i>Märzgefallene</i>, 141)' ,                     
@@ -2578,7 +2578,7 @@ Häkchen: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) (<i>Rath</i>) Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'haken, Haken, Haken schlagen': [
-	'<strong>haken</strong>: hook, snag; &nbsp;der <strong>Haken</strong>,-: heel, hook; hitch, snag  &nbsp;einen <strong>Haken schlagen</strong>: turn on a dime, zigzag  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/haken" target="target1" >haken</a>&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Haken" target="target2" >Haken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Haken%20schlagen" target="target3">Haken schlagen</a> <br>English Definitions: &nbsp;<a href="https://dict.leo.org/german-english/haken" target="target4">haken/Haken</a> &nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/haken?q=Haken+schlagen" target="target4">Haken schlagen</a> ',
+	'<strong>haken</strong>: hook &nbsp;&nbsp;der <strong>Haken</strong>,-: heel, hook  &nbsp;&nbsp;<strong>Haken schlagen</strong>: turn on a dime <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/haken"target="target1">haken</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haken"target="target2">Haken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Haken%20schlagen"target="target3">Haken schlagen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/haken"target="target4">haken/Haken</a> &nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/haken?q=Haken+schlagen"target="target5">Haken schlagen</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Von den Tschakos an den Garderoben<strong>haken</strong> tropfte Regenwasser auf den Linoleumboden....  (<i>Der Nasse Fisch</i>, 14)' ,
 	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den Ganoven zurecht und rammte ihm seine Rechte in den Magen. Der Mann klappte augenblicklich zusammen, dennoch ließ der bullige Polizist einen linken <strong>Haken</strong> folgen, der den Kaiser endgültig auf die Bretter schickte. (<i>Der Nasse Fisch</i>, 26)' ,
@@ -2595,31 +2595,31 @@ Häkchen: [
    '<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <strong>Hacken</strong> zusammen.    (<i>Märzgefallene</i>, 232)' ,                 
 ],
 'Handwerk legen': [
-	'<strong>jemandem das Handwerk legen</strong>: uncover, put a stop to someone\'s (illegal, nefarious) game, activities  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdm.%20das%20Handwerk%20legen" target="target1" >Handwerk legen</a> ',
+	'jmdm. das <strong>Handwerk legen</strong>: uncover, stop someone\'s illegal, nefarious activities <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20das%20Handwerk%20legen"target="target1">Handwerk legen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+das+Handwerk+legen"target="target2">Handwerk legen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/handwerk?q=Handwerk+legen"target="target3">Handwerk legen</a> ',   
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "So schwer sollte es doch eigentlich nicht sein, im winterlichen Berlin ein Mädchen zu finden, das in einem Krankenhausnachthemd herumläuft."  &nbsp;<i>Gräf</i>: "Sollte es nicht. Aber die Fahndung hat im Moment Wichtigeres zu tun. Gefährlichere Brandstifter, denen wir das <strong>Handwerk legen</strong> müssen."  (<i>Märzgefallene</i>, 81)' ,
 	'Gestern am Telefon hatte es noch geklungen, als hinge es allein von ihm ab, von Gereon Rath, ob den Reichstagsbrandstiftern das <strong>Handwerk gelegt</strong> werden könne. (<i>Märzgefallene</i>, 94)' ,
-	'<i>Daluege</i>: "Wenn Sie (<i>Böhm</i>) ein besseres Deutschland wollen, dann sollte Ihnen doch daran gelegen sein, dass den kommunistischen Brandschatzern, die den Reichstag angezündet haben,...<strong>das Handwerk gelegt</strong> wird. Stattdessen jedoch verweigern Sie sich der Mitarbeit …" (<i>Märzgefallene</i>,  142)'  ,
+	'<i>Daluege</i>: "Wenn Sie (<i>Böhm</i>) ein besseres Deutschland wollen, dann sollte Ihnen doch daran gelegen sein, dass den kommunistischen Brandschatzern, die den Reichstag angezündet haben,...das <strong>Handwerk gelegt</strong> wird. Stattdessen jedoch verweigern Sie sich der Mitarbeit …" (<i>Märzgefallene</i>,  142)'  ,
 ],
 hanebüchen: [
-	'<strong>hanebüchen</strong>: outrageous, scandalous <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hanebuechen" target="target1" >hanebüchen</a> ' ,
+	'<strong>hanebüchen</strong>: &nbsp;outrageous, scandalous <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hanebuechen"target="target1">hanebüchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hanebuchen?q=haneb%C3%BCchen"target="target2">hanebüchen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/hanebuechen#haneb%C3%BCchen"target="target3">hanebüchen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Zwar war der Artikel längst nicht so reißerisch geschrieben wie Rath es aus dem <i>Tag</i> kannte..., es war eher eine Art Mitteilung in eigener Sache und passte gut zum großväterlichen Junkergehabe der <i>Kreuzzeitung</i>.... Die zum Teil <strong>hanebüchenen</strong> Vermutungen, die sich im Wesentlichen mit denen des Freiherrn von Roddeck deckte und... in den Rang von Tatsachen erhoben wurden, waren nicht einmal das Schlimmste. (<i>Märzgefallene</i>, 248)' ,
 ],
 'hart im Nehmen sein': [
-	'<strong>hart im Nehmen sein</strong>: be tough (able to take a lot); be a survivor  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/hart%20im%20Nehmen%20sein" target="target1" >hart im Nehmen sein</a> ' ,
+	'<strong>hart im Nehmen sein</strong>: be tough (able to take a lot); be a survivor <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hart%20im%20Nehmen%20sein"target="target1">hart im Nehmen sein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hart?q=hart+im+Nehmen+sein"target="target2">hart im Nehmen sein</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=hart+im+Nehmen+sein"target="target3">hart im Nehmen sein</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Ich brauche den Patienten (<i>Leo, Chef der Berolina</i>) als Zeugen in einem Mordfall. Ist er denn vernehmungsfähig?" <i>Doktor Fabritius</i>: "Es spricht jedenfalls nichts dagegen, dass sie es versuchen. Ansprechbar ist er. Scheint <strong>hart im Nehmen zu sein</strong>, der Mann." (<i>Märzgefallene</i>, 241)' ,
 ],
 hecheln: [
-	'<strong>hecheln</strong>: pant <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hecheln_keuchen" target="target1" >hecheln</a> ',
+	'<strong>hecheln</strong>: &nbsp;pant <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hecheln_keuchen"target="target1">hecheln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hecheln"target="target2">hecheln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hecheln"target="target3">hecheln</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Er krümmte sich am Boden, sein Atem <strong>hechelte</strong>, als das Pochen und Stechen wieder etwas nachließen.  (<i>Der Nasse Fisch</i>, 12)' ,
 ],
 //'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'hechten, Hechtsprung': [
-	'<strong>hechten</strong>: dive, dive headlong/for the ball;  &nbsp;der <strong>Hechtsprung</strong>, die <strong>Hechtsprünge</strong>: &nbsp;dive, header <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hechten" target="target1" >hechten</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Hechtsprung" target="target2" >Hechtsprung</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hechten" target="target3">hechten</a>' ,
+	'<strong>hechten</strong>: dive headlong/for the ball  &nbsp;der <strong>Hechtsprung</strong>, -<strong>sprünge</strong>: dive, header <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hechten"target="target1">hechten</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hechtsprung"target="target2">Hechtsprung</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hechten"target="target3">hechten</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hechtsprung"target="target4">Hechtsprung</a>' ,
 	'<u>Der Nasse Fisch</u>',
 	'Und Wilhelm zwo rannte auf die Südecke der Baustelle zu.... Um ein Haar wäre er der Straßenbahn... unter die Räder gelaufen, die gerade die Hermannstraße hinaufwollte, doch im letzten Moment kreuzte er die Fahrbahn des quietschenden Monstrums mit einem <strong>Hechtsprung</strong> und war den Blicken der beiden Polizisten entschwunden.   (<i>Der Nasse Fisch</i>, 22-23)' ,
 	'<u>Märzgefallene</u>',
@@ -5749,7 +5749,7 @@ Trichter: [
 	'Eigentlich war es eine Tiefebene, flaches, nur leicht gewelltes Küstenland, doch war diese Landschaft perforiert von Gräben und <strong>Trichtern</strong> unterschiedlicher Größe, in denen noch das Wasser des nächtlichen Regens stand. Von der einstigen Mondlandschaft, die die deutsche Armee und die englische Artillerie.. hier hinterlassen hatten, zeugten nur noch diese Krater, ansonsten hatte die Natur das Terrain weitgehend zurückerobert.   (<i>Märzgefallene</i>, 598)' ,
 ],
 tumb: [
-	'<strong>tumb</strong>: &nbsp;stupid, dumb, naive <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tumb"target="target1">tumb</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tumb"target="target2">tumb</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/tumb"target="target3">tumb</a>',
+	'<strong>tumb</strong>: &nbsp;stupid, dumb, naive <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tumb"target="target1">tumb</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tumb"target="target2">tumb</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/tumb"target="target3">tumb</a>',
 	'<u>Der Nasse Fisch</u>',
 	'Bethold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche Gebrüll von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die <strong>tumben</strong> Reden.  (<i>Märzgefallene</i>, 567)' ,
 //	'<u>Märzgefallene</u>',
@@ -5788,13 +5788,13 @@ Theke: [
 	//	'<u>Märzgefallene</u>',
 ],
 türken: [
-	'<strong>türken</strong>: &nbsp;fake, falsify   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tuerken" target="target1" >türken</a> ',
+	'<strong>türken</strong>: &nbsp;to fake, falsify <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuerken"target="target1">türken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%BCrken"target="target2">türken</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuerken#t%C3%BCrken"target="target3">türken</a> ', 
 	'<u>Der Nasse Fisch</u>',
 	'Sollte der geschickt <strong>getürkte</strong> Bericht wieder einmal so etwas wie eine Lektion gewesen sein? Schon mehrmals hatte er (<i>Rath</i>) das Gefühl gehabt, Bruno (<i>Wolter</i>) versuche, ihm etwas beizubringen, den Provinzbullen Gereon Rath mit den Berliner Gepflogenheiten vertraut zu machen.  (<i>Der Nasse Fisch</i>, 101-02)' ,
 //	'<u>Märzgefallene</u>',
 ],
 tuckern: [
-	'<strong>tuckern</strong>: &nbsp;chug, put-put     <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tuckern" target="target1" >tuckern</a>' ,
+	'<strong>tuckern</strong>: &nbsp;chug, put-put <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuckern"target="target1">tuckern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuckern"target="target2">tuckern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tuckern"target="target3">tuckern</a>  ' ,
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Eine Zeitlang <strong>tuckerte</strong> der Mercedes im Leerlauf, dann wurde der Motor abgestellt.  (<i>Märzgefallene</i>, 441)' ,
@@ -5828,13 +5828,13 @@ tönen: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 tunken: [
-	'<strong>tunken</strong>  (= <strong>eintauchen</strong>):  &nbsp;dip, dunk   <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tunken" target="target1" >tunken</a>' ,
+	'<strong>tunken</strong>  (= <strong>eintauchen</strong>): &nbsp;dip, dunk <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tunken"target="target1">tunken</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tunken"target="target2">tunken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tunken"target="target3">tunken</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah</i>) schlurfte in die Küche hinüber und traute ihren Augen nicht. Ein gedeckter Tisch, eine dampfende Kaffeekanne. Felix hatte tatsächlich Frühstück gemacht. Sogar ein paar Scrippen hatte er irgendwo besorgt.... Sie saßen eine Weile am Tisch, tranken Kaffee und <strong>tunkten</strong> ihre Schrippen ein.  (<i>Märzgefallene</i>, 392)'  ,
 	'Er (<i>Felix</i>) schaute sie (<i>Hannah</i>) an. "Du kommst mit. Schmiere stehen."... <i>Hannah</i>: "Ich weiß nicht." Felix, der gerade dabei gewesen war, ein Stück Schrippe</strong> in seinen Kaffee zu <strong>tunken</strong>, hielt mitten in der Bewegung inne und schaute sie verwundert an. Verwundert und böse.  (<i>Märzgefallene</i>, 392-93)'  ,
 ],
 'tünchen, Tünche': [
-	'<strong>tünchen</strong>:  &nbsp;whitewash;  &nbsp;die <strong>Tünche</strong>,-<strong>n</strong>: &nbsp;whitewash, veneer, varnish; make-up (Schminke)  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tuenchen" target="target1" >tünchen</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Tuenche" target="target2" >Tünche</a>' ,
+	'<strong>tünchen</strong>:  whitewash  &nbsp;&nbsp;die <strong>Tünche</strong>,-<strong>n</strong>: whitewash, veneer; make-up (Schminke)  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuenchen"target="target1">tünchen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tuenche"target="target2">Tünche</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tunchen"target="target3">tünchen</a>&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuenche#T%C3%BCnche"target="target4">Tünche</a>' ,
 	'<u>Der Nasse Fisch</u>',
 	'Als er (<i>Rath</i>) vom Treppenhaus auf den grau <strong>getünchten</strong> Korridor trat, blieb er einen Moment gedankenverloren vor der gläsernen Flügeltür stehen, auf der in großen weißen Buchstaben MORDINSPEKTION stand.  (<i>Der Nasse Fisch</i>, 34)' ,
 ],
@@ -5945,17 +5945,17 @@ Tropfen: [
    '"Wir müssen los", sagte er (<i>Fritze</i>) und streckte sich. "Bevor die hier antanzen und wieder aufschließen. Wenn die uns aus der Kiste krabbeln sehen, denn is’s aus." Daran hatte Hannah gar nicht gedacht. Sie stieg aus und folgte ihm, immer noch ziemlich verschlafen, <strong>trottete</strong> einfach hinterher durch das immer noch dunkle Kaufhaus. (<i>Märzgefallene</i>, 172)' ,
 ],
 Trottel: [
-	'der <strong>Trottel</strong>,-:  &nbsp;fool, idiot, know-nothing  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Trottel" target="target1" >Trottel</a>' ,
+	'der <strong>Trottel</strong>,-:  &nbsp;fool, idiot, know-nothing  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trottel"target="target1">Trottel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/trottel"target="target2">Trottel</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Trottel"target="target3">Trottel</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Edes brauen Hut konnte er (<i>Gereon</i>) für eine Weile nicht sehen, den Dicken aber behielt er im Blick. Der <strong>Trottel</strong> schien immer nichts bemerkt zu haben.   (<i>Märzgefallene</i>, 21)' ,
 ],
 Trubel: [
-	'der <strong>Trubel</strong>, (no plural):  fuss, excitement, hubbub  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Trubel" target="target1" >Trubel</a> ',
+	'der <strong>Trubel</strong>, (no plural): &nbsp;fuss, excitement, hubbub  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trubel"target="target1">Trubel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trubel?q=Trubel"target="target2">Trubel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trubel"target="target3">Trubel</a>  ',
 	'<u>Märzgefallene</u>',
 	'Natürlich gab es auch noch das Berlin, das sie (<i>Charly</i>) kannte, die Menschen, die Lokale, die Straßen. Aber um dorthin zu gelangen, musste sie erst mal an mindestens einem Dutzend Hakenkreuzfahnen vorbei, und das konnte sie heute nicht ertragen. Jetzt, da der Wahl<strong>trubel</strong> der letzten Wochen vorüber war, so hoffte sie, würden auch die Fahnen bald wieder verschwinden. (<i>Märzgefallene</i>, 280)' ,
 ],
 Truhe: [
-	'die <strong>Truhe</strong>,-<strong>n</strong>: chest, cabinet, foot locker <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Truhe" target="target1" >Truhe</a> ',
+	'die <strong>Truhe</strong>,-<strong>n</strong>: &nbsp;chest, cabinet, foot locker <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Truhe"target="target1">Truhe</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/truhe?q=Truhe"target="target2">Truhe</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/truhe"target="target3">Truhe</a> ',
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah</i>) schaute sich alles genau an, bis sie glaubte, den geeigneten Schlafplatz gefunden zu haben. Eine große hölzerne <strong>Truhe</strong>.... Am liebsten wäre sie sogleich dort hineingestiegen, doch das ging nicht. Schon als sie den Deckel nur kurz anhob, spürte sie ein halbes Dutzend Augenpaare neugierig auf sich gerichtet. Hannah machte ein prüfendes, abschätzendes Gesicht, als spiele sie tatsächlich mit dem Gedanken, die <strong>Truhe</strong> zu kaufen, und ließ den Deckel wieder sinken. (<i>Märzgefallene</i>, 152)' ,
 	'Sie (<i>Hannah</i>) arbeitete sich langsam vor bis zur Möbelabteilung, immer Deckung hinter irgendwelchen Regalen suchend, bis sie ihre <strong>Truhe</strong> endlich erreicht hatte. Hannah griff eins der Kissen, mit denen das Sofa neben der <strong>Truhe</strong> drapiert war, hob den Deckel an und stieg hinein. (<i>Märzgefallene</i>, 154)' ,
@@ -5965,13 +5965,13 @@ Truhe: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 tupfen: [
-	'<strong>tupfen</strong>: &nbsp;dab, swab, sponge <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tupfen" target="target1" >tupfen</a> ' ,
+	'<strong>tupfen</strong>: &nbsp;dab, swab, sponge <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tupfen"target="target1">tupfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tupfen"target="target2">tupfen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tupfen"target="target3">tupfen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Der Doktor (<i>Schwartz</i>) fluchte. Eine der Tauben, die oben in den Stahlstreben gurrten, hatte einen hellen Fleck auf seinem dunklen Wintermantel hinterlassen. Schwartz zog ein blütenweißes Taschentuch hervor und versuchte, die Sauerei wieder wegzu<strong>tupfen</strong>. (<i>Märzgefallene</i>, 17)' ,
 	'Es war zwar kein richtiger rheinischer Sauerbraten, aber mit etwas Salz ging’s. Rath nahm noch einmal nach und freute sich über ihr (<i>Charlys</i>) glückliches Gesicht. "Und jetzt?", sagte er und <strong>tupfte sich</strong> den Mund mit der Serviette ab. "Lust auf ein wenig Nachtisch?...." (<i>Märzgefallene</i>, 105-106)' ,
 ],
 tuscheln: [
-	'<strong>tuscheln</strong>: &nbsp;whisper  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tuscheln" target="target1" >tuscheln</a> ',
+	'<strong>tuscheln</strong>: &nbsp;whisper <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuscheln"target="target1">tuscheln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tuscheln"target="target2">tuscheln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tuscheln"target="target3">tuscheln</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Die Schupos <strong>tuschelten</strong>. Ab und an warf ein Blauer dem Kriminalkommissar einen verstohlenen Blick zu. (<i>Der Nasse Fisch</i>, 14)' ,
 	'Der Kellner kam mit zwei Speisekarten und zwei Gläsern <i>Heidsieck Monopol</i> an ihren Tisch zurück. "Ich habe mir erlaubt, schon etwas zu bestellen", sagte Rath und hob sein Glas. Deswegen also hatte er vorhin mit dem Kellner <strong>getuschelt</strong>. (<i>Der Nasse Fisch</i>, 183)' ,
@@ -7392,7 +7392,7 @@ If you can't find a word with a common prefix, such as an-, auf-, etc, search fo
 Phrases can be hard to find as "stand alone" definitions, but may be embedded as examples of usage of the key word. For example, the phrase "sich keinen Zwang antun" is defined in WordReference within the usage examples for "Zwang".
 On some of the websites that give English definitions you may have to scroll down to find the appropriate definition. For example, a website for "Schuppen" might first treat the verb "schuppen", then the very different noun "Schuppen"
 Wie warme Semmeln = etwas verkauft sich sehr gut, sehr schnell, große Nachfrage   große Stücke
-For some definitions you must scroll down a bit to find the right expression. For example, the Cambridge dictionary shows the definition of "mit allen Wassern gewaschen" under "Wasser", but way down the page, among many expressions with "Wasser".
+For some definitions you must scroll down a bit to find the right expression. For example, the Cambridge dictionary shows the definition of "mit allen Wassern gewaschen" under "Wasser", but way down the page, among many expressions with "Wasser". Same for "Handwerk legen", under "Handwerk"
 ä  Ä  ö  Ö  ü  Ü   ß                             an die große Glocke hängen       
  'abaschen'  ;   Nworte++;    Märzgefallene   37 
  abgelten   Märzgefallene  542 

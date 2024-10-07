@@ -1,12 +1,12 @@
 const a = [
 	'aalglatt',   //aalglatt:    
-	'abbinden',   //abbinden:
+	'abbinden',   //abbinden:  
 	'abblitzen',  //abblitzen: 
-	'abebben',    //abebben:
-	'abfackeln',  //abfackeln:
-	'abgebrüht',  //abgebrüht:
-	'abgrasen',   //abgrasen:
-	'abgreifen',  //abgreifen: 
+	'abebben',    //abebben:  
+	'abfackeln',  //abfackeln:  
+	'abgebrüht',  //abgebrüht:   
+	'abgrasen',   //abgrasen:   
+	'abgreifen',  //abgreifen: next
 	'abhängen',   //abhängen:
 	'abklappern', //abklappern:
 	'abknallen',  //abknallen:

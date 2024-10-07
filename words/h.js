@@ -1,20 +1,20 @@
 const h = [
-   'Häkchen',  
-   'haken, Haken, Haken schlagen',
-   'halbseiden',
-   'Halunke',
-   'hämisch',
+   'Häkchen',  //Häkchen:
+   'haken, Haken, Haken schlagen', //
+   'halbseiden',  //halbseiden:
+   'Halunke',  //Halunke:
+   'hämisch',  //hämisch:
   // 'hämmern',
-   'Handfessel, Handschelle',
-   'Handwerk legen',
-   'hanebüchen',
-   'hapern',
-   'harren',
-   'hart im Nehmen sein',
-   'Hatz',
-   'hausieren',
-   'Hautausschlag' ,
-   'hecheln',  
+   'Handfessel, Handschelle', //
+   'Handwerk legen', //
+   'hanebüchen',  //hanebüchen:
+   'hapern',  //hapern:
+   'harren',  //harren:
+   'hart im Nehmen sein', //
+   'Hatz',  //Hatz:
+   'hausieren', //hausieren:
+   'Hautausschlag' , //Hautausschlag:
+   'hecheln', //hecheln: 
    'hechten, Hechtsprung',
    'Heckenschütze',
    'Heft des Handelns nehmen',

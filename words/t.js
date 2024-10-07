@@ -25,16 +25,16 @@ const t = [
    'Tross/Troß' , //
    'Trost (nicht ganz bei T. sein)' ,  //
    'Trott, trotten' ,  //
-   'Trottel' ,
-   'Trubel' ,
-   'Truhe' ,
-   'tuckern',
+   'Trottel' ,  //Trottel:
+   'Trubel' ,  //Trubel:
+   'Truhe' ,  //Truhe:
+   'tuckern', //tuckern:
    'tumb',   //tumb:
-   'tünchen, Tünche',
-   'tunken',
-   'tupfen' ,   
-   'türken',
-   'tuscheln' , 
+   'tünchen, Tünche', //
+   'tunken',  //tunken:
+   'tupfen' ,  //tupfen: 
+   'türken',  //türken:
+   'tuscheln' ,  //tuscheln:
 ];
 
 export default t;      

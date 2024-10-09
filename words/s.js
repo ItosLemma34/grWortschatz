@@ -52,7 +52,7 @@ const s = [
    'Schnapsidee' ,
    'schnarchen' ,
    'schnarren',
-   'schnattern'  ,
+   'schnattern, in einem fort'  ,  //
    'schneidig'  , 
    'schnieke',
    'schnippen',

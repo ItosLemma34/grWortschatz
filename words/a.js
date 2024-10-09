@@ -6,13 +6,13 @@ const a = [
 	'abfackeln',  //abfackeln:  
 	'abgebrüht',  //abgebrüht:   
 	'abgrasen',   //abgrasen:   
-	'abgreifen',  //abgreifen: next
-	'abhängen',   //abhängen:
-	'abklappern', //abklappern:
-	'abknallen',  //abknallen:
+	'abgreifen',  //abgreifen: 
+	'abhängen',   //abhängen:  
+	'abklappern', //abklappern:  
+	'abknallen',  //abknallen:  
 	'abkommandieren',  //abkommandieren: 
-	'Ablage',     //Ablage:
-	'abluchsen',  //abluchsen:
+	'Ablage',     //Ablage:  
+	'abluchsen',  //abluchsen: next
 	'Abschaum',   //Abschaum: 
 	'abschüssig',  //abschüssig:  
 	'absegnen',   //absegnen:    

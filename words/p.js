@@ -15,7 +15,7 @@ const p = [
    'pferchen, einpferchen',
    'pfiffig',
    'Pfropfen',
-   'pfuschen (ins Handwerk p.)',
+   'pfuschen (ins Handwerk p.)', //review this, make conincide with "ins Handwerk pfuschen" under "i"
    'Pfütze',    
    'pieksen, piksen',
    'Pinkel' ,

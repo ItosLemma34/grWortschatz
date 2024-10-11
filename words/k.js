@@ -1,18 +1,18 @@
 const k = [
-   'Kabuff',
-   'kacheln',
-   'Kaffeekränzchen',
-   'kahl',
-   'Kantholz',
-   'Karnickel',
-   'Karree',
-   'karren',
-   'Kaschemme',
-   'kaschieren',
-   'Kassiber',
-   'katzbuckeln',
-   'kauern',
-   'kauzig',
+   'Kabuff',  //Kabuff:
+   'kacheln', //kacheln:
+   'Kaffeekränzchen',  //Kaffeekränzchen:
+   'kahl',  //kahl:
+   'Kantholz',  //Kantholz:
+   'Karnickel', //Karnickel:
+   'Karree',   //Karree:
+   'karren',  //karren:
+   'Kaschemme',  //Kaschemme:
+   'kaschieren', //kaschieren:
+   'Kassiber',  //Kassiber:
+   'katzbuckeln',  //katzbuckeln:
+   'kauern',  //kauern:
+   'kauzig',  //kauzig:
    'kegeln',
    'keilen, Keil',
    'keinen Reim machen können',

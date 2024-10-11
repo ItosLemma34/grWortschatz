@@ -12,19 +12,17 @@ const a = [
 	'abknallen',  //abknallen:  
 	'abkommandieren',  //abkommandieren: 
 	'Ablage',     //Ablage:  
-	'abluchsen',  //abluchsen: next
-	'Abschaum',   //Abschaum: 
+	'abluchsen',  //abluchsen: 
 	'abschüssig',  //abschüssig:  
-	'absegnen',   //absegnen:    
-	'abspulen',   //abspulen:  
-	'abtrünnig',  //abtrünnig:   
+	'abspulen',   //abspulen: 
+	'abtrünnig',  //abtrünnig:    
 	'abwimmeln',  //abwimmeln:     
 	'abzocken',   //abzocken:  
 	'ächzen',     //ächzen: 
-	'adrett',   //adrett:
+	'adrett',   //adrett:  
 	'Affekthandlung',   //Affekthandlung: 
-	'Allerwerteste',   //Allerwerteste:
-	'alteingesessen',  //alteingesessen:
+	'Allerwerteste',   //Allerwerteste:  
+	'alteingesessen',  //alteingesessen: next
 	'an der Backe haben',
 	'an die große Glocke hängen',  //
 	'anbändeln',    //anbändeln:

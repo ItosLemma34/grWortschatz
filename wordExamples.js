@@ -3,7 +3,7 @@ export const wordExamples = {
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 /*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href=""target="target2"></a>&nbsp;&nbsp;<a href=""target="target3"></a>   
-<br>English Definitions: &nbsp;&nbsp;<a href=""target="target2"></a>&nbsp;&nbsp;<a href=""target="target3"></a>   
+<br>English Definitions: &nbsp;&nbsp;<a href="X"target="target2"></a>&nbsp;&nbsp;<a href="X"target="target3"></a>   
 */
 'auf dem Kieker haben': [
 	'<strong>auf dem Kieker haben</strong>: have it in for sb; keep close watch on sb. &nbsp;der <strong>Kieker</strong>,-: binoculars, telescope <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20auf%20dem%20Kieker%20haben?o=auf+dem+Kieker+haben"target="target1">auf dem Kieker haben</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9261-rtkl-redewendung-auf-dem-kieker-haben"target="target2">auf dem Kieker haben</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+dem+Kieker+haben"target="target3">auf dem Kieker haben</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9261-rtkl-redewendung-auf-dem-kieker-haben"target="target4">auf dem Kieker haben</a>',
@@ -85,7 +85,7 @@ anwidern: [
 //	'<u>Märzgefallene</u>',
 ],
 Allerwerteste: [
-	'der <strong>Allerwerteste</strong>,-<strong>n</strong>: &nbsp;bottom, rear end, posterior (of a person) <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Allerwerteste"target="target1">Allerwerteste</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Allerwerteste"target="target2">Allerwerteste</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/allerwerteste"target="target3">Allerwerteste</a>',
+	'der <strong>Allerwerteste</strong>,-<strong>n</strong>: &nbsp;bottom, rear end, posterior (of a person) <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Allerwerteste"target="target1">Allerwerteste</a><br>English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Allerwerteste"target="target2">Allerwerteste</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/allerwerteste"target="target3">Allerwerteste</a>',
 	'<u>Der Nasse Fisch</u>',
 	'<i>Charly</i>: "..Sie (<i>Gereon</i>) gehören da nicht gerade zu den beliebtesten Kollegen. Man erzählt sich, Sie seien Zörgiebel in den <strong>Allerwertesten</strong> gekrochen, und deswegen würde der PP (<i>Polizeipräsident</i>) Sie protegieren."   (<i>Der Nasse Fisch</i>, 188)' ,
 //	'<u>Märzgefallene</u>',
@@ -143,7 +143,7 @@ aufscheuchen: [
 	'<i>Rath</i>: "...Und noch nervöser ist er (<i>Roddeck</i>), weil nun, nach dem vermeintlichen Tod des Alberich-Mörders (<i>Engel</i>) der Polizeischutz für ihn wegfällt. Und er sich nun wirklich in Gefahr wähnt, weil er davon ausgeht, dass Benjamin Engel lebt. Und weil er die Wahrscheinlichkeit, dass er ihn - wie beabsichtigt - durch seinen Lügenroman <strong>aufgescheucht</strong> haben könnte, für ziemlich groß halten dürfte."  (<i>Märzgefallene</i>, 503)' ,
 ],
 abzocken: [
-	'<strong>abzocken</strong>: &nbsp;rip off, fleese, gouge so.  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abzocken"target="target1">abzocken</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abzocken"target="target2">abzocken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abzocken"target="target3">abzocken</a>',
+	'<strong>abzocken</strong>: &nbsp;rip off, fleese, gouge so.  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abzocken"target="target1">abzocken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abzocken"target="target2">abzocken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abzocken"target="target3">abzocken</a>',
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'<i>Fritze</i>: "Da war eener vorm Bahnhof, der hat förmlich drum jebettelt, dass man ihm ein bisschen Moos (<i>dough</i>) <strong>abzockt</strong>".  (<i>Märzgefallene</i>, 484)'  , 
@@ -162,7 +162,7 @@ aalglatt: [
 //	'<u>Märzgefallene</u>', 
 ],
 abluchsen: [
-	'jemandem etwas <strong>abluchsen</strong>: &nbsp;wangle sth out of sb, bamboozle sb out of sth  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abluchsen"target="target1">abluchsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abluchsen"target="target2">abluchsen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/abluchsen"target="target3">abluchsen</a>',
+	'jmdm. etwas <strong>abluchsen</strong>: &nbsp;wangle sth, out of sb., bamboozle sb. out of sth.  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abluchsen"target="target1">abluchsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abluchsen"target="target2">abluchsen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/abluchsen"target="target3">abluchsen</a>',
 	'<u>Der Nasse Fisch</u>',
 	'Er (<i>Rath</i>) zog die Geldbörse aus der Schublade, die er vor drei Sekunden dort hatte hineinfallen lassen. "Puh!" Er tat erleichtert. "Und ich dachte schon, einer von den Taschendieben am Alex hätte sie mir <strong>abgeluchst</strong>. Hatte mich schon auf ein Wochenende ohne Geld eingestellt."  (<i>Der Nasse Fisch</i>, 143)' ,
 //	'<u>Märzgefallene</u>', 
@@ -237,7 +237,7 @@ anpflaumen: [
 	'<i>Wolter</i>: "...Und ihre Waffen lagern die Thälmanns (<i>die Kommunisten</i>) irgendwo in geheimen Verstecken. Da müsste die IA mal etwas mehr <strong>auf Zack sein</strong>. Waffenlager sollten wir ausräumen, stattdessen durchsuchen wir Proletenwohnungen."  (<i>Der Nasse Fisch</i>, 68)'  ,
 ],
 adrett: [
-	'<strong>adrett</strong>: &nbsp;neat, dapper, smart  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/adrett"target="target1">adrett</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/adrett"target="target2">adrett</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/adrett"target="target3">adrett</a>',
+	'<strong>adrett</strong>: &nbsp;neat, dapper, smart <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/adrett"target="target1">adrett</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/adrett"target="target2">adrett</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/adrett"target="target3">adrett</a>',
 	'<u>Märzgefallene</u>',
 	'Rath leuchtete die Leiche an. Das Gesicht war schrecklich vernarbt. Eine gewisse Ähnlichkeit mit dem Fahndungsbild aus Magdeburg war nicht zu leugnen. Eine Ähnlichkeit mit dem Vorkriegsfoto des <strong>adretten</strong> Hauptmanns Benjamin Engel konnte er nicht feststellen.   (<i>Märzgefallene, 411-12)'  ,
 ],
@@ -286,7 +286,7 @@ anstupsen: [
 	'Unter dem großen Werbeschild über der Gegengeraden.. erblickte Hannah einen weißen Damenhut, der aus den vielen dunklen Herrenhüten hervorstach. Da standen sie. Alle vier. (<i>Gereon, Charly, Paul, Greta</i>) Als hätten sie sich dort verabredet. Sie <strong>stupste</strong> Fritze <strong>an</strong> und zeigte hinüber. Der Junge grinste.   (<i>Märzgefallene</i>, 597)'  ,
 ],
 abschüssig: [
-	'<strong>abschüssig</strong>: &nbsp;(steeply) sloping, precipitous <br> Deutsche Definition: &nbsp;<a href = "https://www.duden.de/rechtschreibung/abschuessig"target="target1">abschüssig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abschussig"target="target2">abschüssig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abschuessig#absch%C3%BCssig"target="target3">abschüssig</a>',
+	'<strong>abschüssig</strong>: &nbsp;(steeply) sloping, precipitous <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abschuessig"target="target1">abschüssig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abschussig"target="target2">abschüssig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abschuessig#absch%C3%BCssig"target="target3">abschüssig</a>',
 	'<u>Der Nasse Fisch</u>',
 	'Rath war erstaunt, wie schnell der kräftig gebaute Wolter trotz seines Körpergewichts die leicht <strong>abschüssige</strong> Hermannstraße hinunterlief.   (<i>Der Nasse Fisch</i>, 22)'  ,
 ],
@@ -419,19 +419,19 @@ absegnen: [
 	'<i>Rath</i>: "Dann geben Sie das mal an Gennat weiter, ist mir lieber, der <strong>segnet</strong> das <strong>ab</strong>, wenn Böhm schon nirgends aufzutreiben ist. (<i>Märzgefallene</i>, 148)',
 ],
 abspulen: [
-	'<strong>abspulen</strong>: &nbsp;unreel, unwind, uncoil <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/abspulen"target="target1">abspulen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abspulen_1"target="target2">abspulen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abspulen"target="target3">abspulen</a> ',
+	'<strong>abspulen</strong>: &nbsp;unreel, unwind, uncoil <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abspulen"target="target1">abspulen</a><br>English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abspulen_1"target="target2">abspulen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abspulen"target="target3">abspulen</a> ',
 	'<u>Märzgefallene</u>',
 	'Kohn  <i>(Leos Anwalt</i>) hatte direkt neben seinem Mandanten Platz genommen, der immer noch leicht lädiert wirkte, aber nicht mehr so apathisch wie im Krankenhaus. Leo Juretzka, dessen Stimme schon besser klang als gestern, <strong>spulte</strong> seinen Text <strong>ab</strong>, als habe er ein Drehbuch studiert.... (<i>Märzgefallene</i>, 256)',
 ], 
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 abtrünnig: [
-	'<strong>abtrünnig</strong>: &nbsp;renegade, rebel, apostate, disloyal <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abtruennig"target="target1">abtrünnig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abtrunnig"target="target2">abtrünnig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abtruennig#abtr%C3%BCnnig"target="target3">abtrünnig</a> ' ,
+	'<strong>abtrünnig</strong>: &nbsp;renegade, rebel, apostate, disloyal <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abtruennig"target="target1">abtrünnig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abtrunnig"target="target2">abtrünnig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abtruennig#abtr%C3%BCnnig"target="target3">abtrünnig</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Ich bin gar nicht aus Köln. Bin ein Berliner." <i>Hilde</i>: "Hörst dich gar nicht wie einer an." <i>Rath</i>: "Zugezogen." Rath zuckte die Achseln. "Aufgewachsen bin ich in Klettenberg." <i>Hilde</i>: "Aha, also doch ein kölscher Jung." <i>Rath</i>: "Ein <strong>abtrünniger</strong>."  (<i>Märzgefallene</i>, 303)',
 ],
 abwimmeln: [
-	'<strong>abwimmeln</strong>: &nbsp;fob off, get rid of <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abwimmeln"target="target1">abwimmeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abwimmeln"target="target2">abwimmeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abwimmeln"target="target3">abwimmeln</a> ',
+	'<strong>abwimmeln</strong>: &nbsp;fob off, get rid of <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abwimmeln"target="target1">abwimmeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abwimmeln"target="target2">abwimmeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abwimmeln"target="target3">abwimmeln</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'<i>Charly</i>: "Ich denke, dass ich gegen zwei rauskomme. Noch einen Kaffee in der <i>Letzten Instanz</i>? Eigentlich keine schlecte Idee. Die <i>Letzten Instanz</i>.. lag in der Nähe des Präsidiums und wurde trotz ihres Namens kaum von Polizeibeamten frequentiert. Doch Rath <strong>wimmelte</strong> sie <strong>ab</strong>. Er hoffte, nicht so kalt zu klingen, wie er sich gerade fühlte. (<i>Der Nasse Fisch</i>, 228)',
 	'<u>Märzgefallene</u>',
@@ -442,17 +442,17 @@ abwimmeln: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 ächzen: [
-	'<strong>ächzen</strong>: &nbsp;groan, moan <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aechzen"target="target1">ächzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/achzen"target="target2">ächzen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/achzen?q=%C3%A4chzen"target="target3">ächzen</a> ',
+	'<strong>ächzen</strong>: &nbsp;groan, moan <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aechzen"target="target1">ächzen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/achzen"target="target2">ächzen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/achzen?q=%C3%A4chzen"target="target3">ächzen</a> ',
 	'<u>Märzgefallene</u>',
 	'Der Balken <strong>ächzt</strong> wie unter einer schweren Last, als das Drahtseil an ihm zerrt, doch bewegen will er sich nicht. Erst als wir ein viertes Pferd anspannen, gibt er schlußendlich nach, und das Haus verliert seine letzte Stütze.  (<i>Märzgefallene</i>, 159) ',
 ],                                                                             
 Affekthandlung: [
-	'die <strong>Affekthandlung</strong>,-<strong>en</strong>: &nbsp;im Affekt (emotion) handeln: emotional act, in the heat of the moment <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Affekthandlung"target="target1">Affekthandlung</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/affekthandlung"target="target2">Affekthandlung</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/affekthandlung"target="target3">Affekthandlung</a> ',
+	'die <strong>Affekthandlung</strong>,-<strong>en</strong>: &nbsp;emotional act, in the heat of the moment <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Affekthandlung"target="target1">Affekthandlung</a><br>English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/affekthandlung"target="target2">Affekthandlung</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/affekthandlung"target="target3">Affekthandlung</a> ',
 	'<u>Märzgefallene</u>',
 	'<i>Böhm</i>: "Gegen eine <strong>Affekthandlung</strong> spricht die Art der Wunde. Ein gezielter Stich genau durchs Nasenloch, so etwas passiert nicht im Eifer des Gefechts, das war eine gezielte Tötung." (<i>Märzgefallene</i>, 99)',
 ],
 alteingesessen: [
-	'<strong>alteingesessen</strong>: &nbsp;old, long-established <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/alteingesessen"target="target1">alteingesessen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/alteingesessen"target="target2">alteingesessen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/alteingesessen"target="target3">alteingesessen</a> ',
+	'<strong>alteingesessen</strong>: &nbsp;old, long-established <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/alteingesessen"target="target1">alteingesessen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/alteingesessen"target="target2">alteingesessen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/alteingesessen"target="target3">alteingesessen</a> ',
 	'<u>Märzgefallene</u>',
 	'Das Weinhaus Brungs, ganz in der Nähe des Rathauses, hatte in den Räumen einer <strong>alteingesessenen</strong> Hausbrauerei eröffnet, die vor wenigen Jahren ihren Betrieb eingestellt hatte. Die Sitzmöbel und Tische waren aus Weinkisten gezimmert, was dem Ganzen ein zünftiges Ambiente gab.   (<i>Märzgefallene</i>, 298)',
 ],
@@ -2758,7 +2758,7 @@ inspizieren: [
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Straße   für über überhaupt  schön  zurück können würde <strong>  ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß Straße  für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  Straße    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 //Jstart
 jucken: [
-	'<strong>jucken</strong>: &nbsp;itch  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/jucken" target="target1" >jucken</a> ' ,
+	'<strong>jucken</strong>: &nbsp;itch <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/jucken"target="target1">jucken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/jucken"target="target2">jucken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/jucken"target="target3">jucken</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein <strong>juckender</strong> Hautausschlag oder ein Klumpfuß."  (<i>Märzgefallene</i>, 384)' ,
 ],
@@ -2772,7 +2772,7 @@ japsen: [
 	'Plötzlich spürte sie, wie der Druck um ihren Hals nachließ.... Hannah <strong>japste</strong> nach Luft. (<i>Märzgefallene</i>, 401)' ,
 ],
 johlen: [
-	'<strong>johlen</strong>: &nbsp;hoot, jeer  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/johlen" target="target1">johlen</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/johlen" target="target2">johlen</a>',
+	'<strong>johlen</strong>: &nbsp;hoot, jeer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/johlen"target="target1">johlen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/johlen"target="target2">johlen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/johlen"target="target3">johlen</a>',
 	'<u>Märzgefallene</u>',
 	'Erst als das Alaaf immer leiser wurde und mit einem Raunen, das sich durch die Menge fraß, schließlich verstummte, konnte man verstehen, was die SA-Männer riefen. "Adenauer an die Mauer!" Rath glaubte zunächst, sich verhört zu haben, aber die Braunhemden <strong>johlten</strong> es erneut, es gab keinen Zweifel. (<i>Märzgefallene</i>, 51-51)' ,
 	'Katsche drückte seine fleischigen Lippen auf Leos rechtes Auge.... Katsche saugte mit aller Macht.... Er (<i>Leo</i>) wollte sich diesem schmerzhaften Sog entziehen, doch Katsche hielt seinen Kopf mit aller Kraft, ...und dann ging es unglaublich schnell: Mit einem ploppenden Geräusch flutschte das Auge aus der Höhle. Katsche biss die Zähne aufeinander, und ein greller Schmerz...schoss durch Leos Kopf.... Leo hörte einige Männer <strong>johlen</strong> und applaudieren, den meisten aber schien es die Sprache verschlagen zu haben. (<i>Märzgefallene</i>, 224)' ,
@@ -2786,7 +2786,7 @@ knarzen: [
 	'Der einzige Fehler war.. dass sie (<i>Charly und Gereon</i>) Charlys Mutter in der Nähe des Telefunken-Musikschranks plaziert hatten. "Das ist ja.. Ihr habt Radio?", rief Luise Ritter aus und öffnete die Klappe. "Ich darf doch?", fragte sie, und noch bevor irgendjemand antworten konnte, hatte sie das Gerät auch schon eingeschaltet. Es <strong>knarzte</strong> und rauschte einen Moment, dann meldete sich die Funkstunde Berlin.   (<i>Märzgefallene</i>, 589)' ,
 ],
 Kantholz: [
-	'das <strong>Kantholz</strong>, die <strong>Kanthölzer</strong>: &nbsp;squared timber, beam  <br>Deutsche Definition&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kantholz" target="target1" >Kantholz</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Kantholz" target=target2>Kantholz</a>' ,
+	'das <strong>Kantholz</strong>, die <strong>Kanthölzer</strong>: &nbsp;squared timber, beam <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kantholz"target="target1">Kantholz</a><br>English Definition: &nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Kantholz"target=target2>Kantholz</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kantholz"target=target3>Kantholz</a>' ,
 	'<u>Der Nasse Fisch</u>',
 	'Er (<i>Rath</i>) schaute sich um. Weit waren sie mit der Baustelle noch nicht gekommen, gerade erst die Fundamente und die Bodenplatte. Rath stieg in die Baugrube hinunter und testete den Beton mit einem <strong>Kantholz</strong>. Noch nicht abgebunden, sie mussten ihn heute erst gegossen haben. (<i>Märzgefallene</i>, 546)' ,
 //	'<u>Märzgefallene</u>',
@@ -2838,7 +2838,7 @@ Klacks: [
 	'Jahrelang war es Charlys Traum gewesen, als Polizeibeamtin zu arbeiten, und jetzt, wo sie kurz davor war, Kriminalkommissarin zu werden, wo nur noch die Prüfung zu überwinden war - im Vergleich zum juristischen Staatsexamen ein <strong>Klacks</strong> -, hatte Charly plötzlich Zweifel, ob das wirklich der richtige Beruf für sie wäre.    (<i>Märzgefallene</i>, 485)' ,
 ],
 Karnickel: [
-	'das <strong>Karnickel</strong>,-: &nbsp;nasty little rabbit  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Karnickel" target="target1" >Karnickel</a> ' ,
+	'das <strong>Karnickel</strong>,-: &nbsp;(nasty littel) rabbit; stupid ass <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Karnickel"target="target1">Karnickel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/karnickel"target="target2">Karnickel</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Karnickel"target="target3">Karnickel</a> ' ,
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Und dann waren da natürlich die unvermeidbaren Uniformen, die braunen mit den schwarz-weiß-roten Armbinden,... als seien die Nazis irgendwelche <strong>Karnickel</strong>, die sich nun im Frühjahr rasend schnell vermehrten.  (<i>Märzgefallene</i>, 476)' ,
@@ -2875,7 +2875,7 @@ Kralle: [
 //	'<u>Märzgefallene</u>',
 ],
 Kabuff: [
-	'das <strong>Kabuff</strong>,-<strong>s</strong>: &nbsp;cubbyhole, tiny den, little corner  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kabuff" target="target1" >Kabuff</a> ' ,
+	'das <strong>Kabuff</strong>,-<strong>s</strong>: &nbsp;cubbyhole, tiny den, little corner <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kabuff"target="target1">Kabuff</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kabuff?q=Kabuff"target="target2">Kabuff</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kabuff"target="target3">Kabuff</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'"Overstolz, fünf Sechserpackungen", sagte er (<i>Rath</i>), nachdem er die Gestalt im Dunkel des Bretterverschlags</strong> mit einem kurzen Nicken begrüßt hatte. Der Mann war ziemlich dick und wirkte, als sei er in seinem <strong>Kabuff</strong> festgewachsen. (<i>Der Nasse Fisch</i>, 113)' ,
 //	'<u>Märzgefallene</u>',   
@@ -2897,7 +2897,7 @@ Kreissäge: [
 //	'<u>Märzgefallene</u>',
 ],
 Kaffeekränzchen: [
-	'das <strong>Kaffeekränzchen</strong>,-: &nbsp;coffee party, coffee klatsch  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kaffeekraenzchen" target="target1" >Kaffeekränzchen</a> ' ,
+	'das <strong>Kaffeekränzchen</strong>,-: &nbsp;coffee party, coffee klatsch <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kaffeekraenzchen"target="target1">Kaffeekränzchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kaffeekranzchen?q=Kaffeekr%C3%A4nzchen"target="target2">Kaffeekränzchen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Kaffeekränzchen"target="target3">Kaffeekränzchen</a> ' ,
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Ja, der Doktor sagt, Ruhe sei das Wichtigste." Charly kam sich vor wie ihre eigene Großmutter, die mit ihrem <strong>Kaffeekränzchen</strong> auch immer nur die jeweils aktuellen Zipperlein und Wehwehchen zu besprechen hatte. (<i>Märzgefallene</i>, 447)',
@@ -2908,7 +2908,7 @@ klammheimlich: [
 	'Elisabeth Behnke hob das zerbrochene Vorhängeschloss von dem feuchten Kellerboden auf und betrachtete es. Irgendjemand hatte den Bretterverschlag aufgebrochen. "Das ist mein Schloss", erklärte sie... "Ich hab seinen Keller zugesperrte, vor zwei, drei Wochen erst. - Schließlich soll er seine Sachen hier nicht <strong>klammheimlich</strong> rausholen, ohne mir die letze Miete bezahlt zu haben." (<i>Der Nasse Fisch</i>, 90)' ,
 ],
 kacheln: [
-	'<strong>kacheln</strong>: &nbsp;tile sth. &nbsp;die <strong>Kachel</strong>,-<strong>n</strong>: &nbsp;tile  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kacheln" target="target1" >kacheln</a> ' ,
+	'<strong>kacheln</strong>: &nbsp;tile sth. &nbsp;die <strong>Kachel</strong>,-<strong>n</strong>: &nbsp;tile <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kacheln"target="target1">kacheln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kacheln"target="target2">kacheln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kacheln"target="target3">kacheln</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'(<i>Doktor</i>) Völcker schien die Ironie in Schwartz\' Worten nicht bemerkt zu haben... Jedenfalls gab er sich mit diesen Worten zufrieden und setzte sich auf eine Holzbank, die an der <strong>gekachelten</strong> Wand stand.  (<i>Der Nasse Fisch</i>, 86)' ,
 ],
@@ -2952,11 +2952,11 @@ Knäuel: [
 	'Rath deutete auf sein Jackett, das ordentlich über dem Herrendiener hing. Anders als sein Hausmantel, der mit dem Pyjama ein wirres <strong>Knäuel</strong> auf dem Boden bildette.... (<i>Der Nasse Fisch</i>, 45)' ,
 ],
 Karree: [
-	'das <strong>Karree</strong>,-<strong>s</strong>: &nbsp;square, block  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Karree" target="target1" >Karree</a> ' ,
+	'das <strong>Karree</strong>,-<strong>s</strong>: &nbsp;square, block <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Karree"target="target1">Karree</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/karree"target="target2">Karree</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/karree"target="target3">Karree</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Heute Morgen hatten sie damit begonnen, im <strong>Karree</strong> zwischen Möckernstraße, Tempelhofer Ufer und Großbeerenstraße nach weiteren Zeugen des Unfalls zu suchen. (<i>Der Nasse Fisch</i>, 82)' ,
 	'<u>Märzgefallene</u>',
-	'... sie (<i>Felix und Hannah</i>) unterquerten die Hochbahn am Schlesischen Tor, bis sie schließlich, in einem der <strong>Karrees</strong> zwischen der Köpenicker Straße end der Spree, in eine Sackasse abbogen, in der es nicht mehr weiterging.  (<i>Märzgefallene</i>, 394)' ,
+	'... sie (<i>Felix und Hannah</i>) unterquerten die Hochbahn am Schlesischen Tor, bis sie schließlich, in einem der <strong>Karrees</strong> zwischen der Köpenicker Straße und der Spree, in eine Sackasse abbogen, in der es nicht mehr weiterging.  (<i>Märzgefallene</i>, 394)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',       
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -3052,7 +3052,7 @@ Köder: [
 	'"Der Tanzleiter hat ihm (<i>von Roddek als Eintänzer</i>) andere Tische zugeteilt, weniger lukrative. Und wenn Sie auch von diesen Kundinnen immer häufiger <strong>einen Korb bekommen</strong>, dann wissen Sie, was die Stunde geschlagen hat." (<i>Märzgefallene</i>, 315)' ,
 ],
 kahl: [
-	'<strong>kahl</strong>:  bare, bleak, bald, barren <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kahl" target="target1" >kahl</a>' ,
+	'<strong>kahl</strong>: &nbsp;bleak, bald, barren <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kahl"target="target1">kahl</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kahl"target="target2">kahl</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kahl"target="target3">kahl</a>' ,
 	'<u>Märzgefallene</u>',
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die <strong>kahlen</strong> Kronen schaukeln.  (<i>Märzgefallene</i>, 39)' ,  
 	'Auch wenn er draußen vor dem Fenster nicht viel mehr als eine nackte Backsteinwand und ein paar <strong>kahle</strong> Bäume erkennen konnte, war ihm der Ausblick vertraut. (<i>Märzgefallene</i>, 71)' ,
@@ -3061,14 +3061,14 @@ kahl: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 karren: [
-	'<strong>karren</strong>: cart sth. somewhere  &nbsp;&nbsp;der <strong>Karren</strong>,-: cart, (wheel)barrow, trolley  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/karren" target="target1" >karren</a>' ,
+	'<strong>karren</strong>: cart sth. somewhere  &nbsp;der <strong>Karren</strong>,-: cart, (wheel)barrow, trolley <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/karren"target="target1">karren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/karren"target="target2">karren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/karren"target="target3">karren</a>' ,
 	'<u>Der Nasse Fisch</u>',
 	'<i>Wolter</i>: "Solche Aktionen (<i>Razzien</i>) hat\'s früher regelmäßig gegeben. Damals haben wir die Leute lastwagenweise zum Alex <strong>gekarrt</strong>.  (<i>Der Nasse Fisch</i>, 160)' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Die SA hat eigene Gefängnisse?...." <i>Zientek</i>: "Davon können Sie ausgehen." "Und was sind das für Gefängnisse?" "Oft ganz normale Keller. Manchmal <strong>karren</strong> sie die Thälmanns auch einfach in ihr Sturmlokal und bringen ihnen dort Manieren bei."  (<i>Märzgefallene</i>, 217-18)' ,
 ],
 Kaschemme: [
-	'die <strong>Kaschemme</strong>,-<strong>n</strong>: &nbsp;dive, gin palace <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kaschemme" target="target1" >Kaschemme</a>' ,
+	'die <strong>Kaschemme</strong>,-<strong>n</strong>: &nbsp;dive, gin palace <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kaschemme"target="target1">Kaschemme</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kaschemme"target="target2">Kaschemme</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kaschemme"target="target3">Kaschemme</a> ' ,
 	'<u>Märzgefallene</u>',
 	'...(<i>Hannah</i>) war am Morgen von einem Lokal zum nächsten gezogen, um sich aufzuwärmen, so lange, bis man sie hinauswarf. Und man warf sie immer hinaus, so armselig die <strong>Kaschemme</strong> auch sein mochte, in der sie Schutz suchte. (<i>Märzgefallene</i>, 151)' ,
 	'Die <strong>Kaschemme</strong> in der Flughafenstraße, die sie (<i>Hannah</i>) an diesem Morgan besuchte, war eine, in der sie sich waschen konnte, allerdings hing das Waschbecken draußen auf dem Hof, man musste sich schon gehörig zusammenreißen, um nicht laut aufzuschreien bei jeder Berührung des kalten Wassers mit der Haut.  (<i>Märzgefallene</i>, 320)',
@@ -3079,23 +3079,23 @@ Kaschemme: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 kaschieren: [
-	'<strong>kaschieren</strong>: coat, laminate sth; conceal, cover sth <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kaschieren" target="target1" >kaschieren</a>',
+	'<strong>kaschieren</strong>: &nbsp;coat, laminate sth; conceal, cover sth <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kaschieren"target="target1">kaschieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kaschieren"target="target2">kaschieren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/kaschieren"target="target3">kaschieren</a> ',
 	'<u>Märzgefallene</u>',
 	'Eine unerklärliche Unruhe hatte das Restaurant ergriffen. Obwohl die Kellner sich alle Mühe gaben, dies zu <strong>kaschieren</strong>, war nicht zu übersehen, dass das Personal mit einem Mal von einer nervösen Hektik ergriffen war.  (<i>Märzgefallene</i>, 197)',
 ],
 Kassiber: [
-	'der <strong>Kassiber</strong>,-: secret message <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kassiber" target="target1" >Kassiber</a>',
+	'der <strong>Kassiber</strong>,-: &nbsp;secret message <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kassiber"target="target1">Kassiber</a><br>English Definitions: &nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kassiber"target="target2">Kassiber</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Kassiber"target="target3">Kassiber</a> ',
 	'<u>Märzgefallene</u>',
 	'Die Kommunisten, die den Großteil der Gefangenen hier ausmachten, hatten schon einige <strong>Kassiber</strong> nach draußen schmuggeln können, die waren gut organisiert, aber ihm, dem Ringvereinler, trauten sie nicht. Und so hatte Leo immer noch keine Botschaft an Marlow absetzen können. (<i>Märzgefallene</i>, 219)' ,
 ],
 katzbuckeln: [
-	'<strong>katzbuckeln</strong>: kowtow, bow & scrape  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/katzbuckeln" target="target1" >katzbuckeln</a>' ,
+	'<strong>katzbuckeln</strong>: &nbsp;kowtow, bow & scrape <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/katzbuckeln"target="target1">katzbuckeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/katzbuckeln"target="target2">katzbuckeln</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/katzbuckeln"target="target3">katzbuckeln</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Gereon</i>) hatte ihr (<i>Charly</i>) nicht verraten, wohin er sie ausführen wollte, lediglich erzählt, dass elegante Abendgarderobe nötig sein würde.... Der Empfangskellner, der zunächst einen arrogant blasierten Eindruck gemacht hatte, konnte sich vor lauter <strong>Katzbuckeln</strong> gar nicht mehr einkriegen, kaum hatte er den Namen Rath vernommen.  (<i>Märzgefallene</i>, 191-92)' ,
 	'Er (<i>Rath</i>) konnte Charlys Unwillen immer mehr nachvollziehen, auch ihm machte die Arbeit in der Burg keinen richtigen Spaß mehr, seit die Politik alles andere beherrschte... Ernst Gennat schien es ähnlich zu gehen, jedenfalls <strong>katzbuckelte</strong> der Kriminalrat nicht vor dem neuen Polizeipräsidenten wie so viele andere.  (<i>Märzgefallene</i>, 536)' ,
 ],
 kauern: [
-	'<strong>kauern</strong>:  crouch (down); cower <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kauern" target="target1" >kauern</a>' ,
+	'<strong>kauern</strong>: &nbsp;crouch (down); cower <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kauern"target="target1">kauern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kauern"target="target2">kauern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kauern"target="target3">kauern</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Man hätte denken können, er schlafe seinen Rausch aus, so <strong>kauerte</strong> er da, in einem alten, geflickten Soldatenmantel....  (<i>Märzgefallene</i>, 9) ' ,
 	'Karin hatte mit bleichem Gesicht auf dem Beifahrersitz <strong>gekauert</strong>, mit einer Hand den Türgriff festgehalten, mit der anderen ihren Hut....  (<i>Märzgefallene</i>, 41)' ,
@@ -3104,7 +3104,7 @@ kauern: [
    'Dass er diesem Menschen noch einmal begegnen würde, hätte Rath nicht gedacht, aber da saß er. Die hagere Gestalt <strong>kauerte</strong> zusammengesunken auf dem Stuhl....  (<i>Märzgefallene</i>, 225)' ,
 ],
 kauzig: [
-	'<strong>kauzig</strong>: odd, strange  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kauzig" target="target1" >kauzig</a>' ,
+	'<strong>kauzig</strong>: &nbsp;odd, strange <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kauzig"target="target1">kauzig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kauzig"target="target2">kauzig</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/kauzig"target="target3">kauzig</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Diese Träume waren alles, was ihn (<i>Linus Meifert</i>) noch mit dem Krieg verband, und er war stolz darauf, ein normales Leben zu führen, als geachteter, womöglich ein wenig <strong>kauziger</strong> Oberstudienrat in Potsdam. (<i>Märzgefallene</i>, 127)' ,
 ],

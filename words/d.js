@@ -13,6 +13,7 @@ const d = [
    'Dreh'  ,    //Dreh:
    'Dreigestirn',  //Dreigestirn:
    'Dreistigkeit, dreist',  //
+   'drosseln',  //drosseln:
    'Druckfahne',   //Druckfahne:
    'drucksen',    //drucksen:
    'drunter und drüber gehen',

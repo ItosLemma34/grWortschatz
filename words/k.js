@@ -13,17 +13,17 @@ const k = [
    'katzbuckeln',  //katzbuckeln:
    'kauern',  //kauern:
    'kauzig',  //kauzig:
-   'kegeln',
-   'keilen, Keil',
-   'keinen Reim machen können',
-   'Kelch',
-   'Kerbholz (etwas auf dem K. haben)',
-   'ketten, Kette',
+   'kegeln',  //kegeln:
+   'keilen, Keil', //
+   'keinen Reim machen können', //
+   'Kelch',  //Kelch:
+   'Kerbholz (auf dem K. haben)',//
+   'ketten, Kette', //
    'kichern',  //kichern:
 //   'Kieker (auf dem Kieker haben)',
-   'Kies, Kiesel',
-   'Kinderficker',
-   'Kipplaster',
+   'Kies, Kiesel', //
+   'Kinderficker',  //Kinderficker:
+   'Kipplaster',  //Kipplaster:
    'Kirschen essen',
    'Kittel',  
    'kitzeln', 
@@ -103,7 +103,7 @@ const k = [
    'krümmen (sich)',
    'kullern',
    'Kuppel',
-   'kurbeln',
+   'kurbeln', //kurbeln:
    'kuscheln (sich)',
    'kuschen',
 ];

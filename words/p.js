@@ -27,7 +27,7 @@ const p = [
    'ploppen' ,
    'plumpsen',
    'plüschig',
-   'Polster, polstern',
+   'Polster, polstern', //
    'poltern' ,
    'postieren',
   // 'präparieren' ,

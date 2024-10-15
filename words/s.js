@@ -25,6 +25,7 @@ const s = [
    'schimmern'  ,
    'Schinder, schinden' ,
    'Schlamassel',
+   'schlampig',
    'Schlauberger',
    'Schlauch' ,
    'schleifen' ,
@@ -51,7 +52,7 @@ const s = [
    'Schnalle, schnallen'  ,
    'Schnapsidee' ,
    'schnarchen' ,
-   'schnarren',
+   'schnarren',  //schnarren:
    'schnattern, in einem fort'  ,  //
    'schneidig'  , 
    'schnieke',
@@ -69,7 +70,7 @@ const s = [
    'schrappen',
    'Schraubstock',
    'Schrippe',
-   'Schritt',
+   'Schritt',  // Schritt:
    'Schrott'  ,
    'Schrubber'  ,
    'schubsen' ,
@@ -96,7 +97,7 @@ const s = [
    'Sippenhaft',
    'skandieren' ,
    'Sore',
-   'soufflieren',
+   'soufflieren',  //soufflieren:
    'Spalier',
    'Spanner',
    'Spaten' ,
@@ -117,10 +118,10 @@ const s = [
    'Standpauke' ,
    'Stange'  ,
    'Stapel, stapeln' ,
-   'stapfen'  ,
+   'stapfen',  //stapfen:
    'starren (vor Schmutz starren)' ,
    'Statist' ,
-   'Stativ'  ,
+   'Stativ',  //Stativ:
    'statuieren'  ,
    'Steckbrief',
    'Stecknadel im Heuhaufen'  ,
@@ -144,6 +145,7 @@ const s = [
    'Strudel',
    'strunzdämlich'  ,
    'Stulle',
+	'stülpen (sich)', //
    'stümperhaft',
    'süffisant',
    'summen',

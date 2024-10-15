@@ -1,7 +1,7 @@
 const m = [
    'mäandern',
    'Machwerk',
-   'malochen',
+   'malochen', //malochen:
    'Mangel (in die M. nehmen)' ,
    'Manschettenknopf',
    'markieren'  ,

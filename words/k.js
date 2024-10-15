@@ -24,28 +24,28 @@ const k = [
    'Kies, Kiesel', //
    'Kinderficker',  //Kinderficker:
    'Kipplaster',  //Kipplaster:
-   'Kirschen essen',
-   'Kittel',  
-   'kitzeln', 
-   'klackern',
-   'Klacks',
-   'Kladde',
-   'klaffen',
-   'klamm',
-   'Klammer',
-   'klammern',
-   'klammheimlich',
-   'klappern',  
-   'klapprig',
-   'Klapsmühle',
-   'klatschen',
-   'klauben',
-   'Klaue',
-   'klebrig',
-   'kleistern',
-   'Klemme',
-   'klemmen',
-   'Klette',
+   'Kirschen essen', //
+   'Kittel',  //Kittel:
+   'kitzeln', //kitzeln:
+   'klackern', //klackern:
+   'Klacks',  //Klacks:
+   'Kladde',  //Kladde:
+   'klaffen', //klaffen:
+   'klamm',  //klamm:
+   'Klammer', //Klammer:
+   'klammern', //klammern:
+   'klammheimlich', //klammheimlich:
+   'klappern',  //klappern:
+   'klapprig',  //klapprig:
+   'Klapsmühle', //Klapsmühle:
+   'klatschen',  //klatschen:
+   'klauben', //klauben:
+   'Klaue',  //Klaue:
+   'klebrig', //klebrig:
+   'kleistern', //kleistern:
+   'Klemme',  //Klemme:
+   'klemmen', //klemmen:
+   'Klette',  //Klette:
    'klimpern',
    'Klinge',
    'Klippe',
@@ -69,7 +69,7 @@ const k = [
    'knirschen',  
    'knistern', 
    'Knöchel',  
-   'Knochen hinhalten', 
+   'Knochen/Kopf hinhalten', //
    'knuffen',
    'Knüller',
    'Knüppel',

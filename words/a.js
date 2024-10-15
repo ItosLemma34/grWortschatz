@@ -29,39 +29,39 @@ const a = [
 	'anblaffen',    //anblaffen:    
 	'anbrechen',    //anbrechen:  
 	'anecken',      //anecken:   
-	'anekeln',      //anekeln:  next
-	'angeben, Angeber',    //next
-	'angeschickert', //angeschickert:  next
-	'anhimmeln',    //anhimmeln:  next
-	'anleinen',     //anleinen:  next
-	'Anpfiff' ,     //Anpfiff:  next
-	'anpflaumen',   //anpflaumen:  next
-	'anpumpen',     //anpumpen:  next
-	'anquatschen',   //anquatschen: next
-	'anraunzen',     //anraunzen:  next
-	'anrempeln',    //anrempeln:  next
-	'Anrichte',     //Anrichte:  next
-	'ans Bein binden',          //next
-	'anschmiegsam', //anschmiegsam:  next
-	'anschnauzen',  //anschnauzen:  next
-	'anschwärzen',  //anschwärzen:  next
-	'ansengen',     //ansengen:  next
-	'Ansinnen' ,    //Ansinnen:  next
-	'anstupsen',    //anstupsen:  next
-	'antanzen',     //antanzen:  next
-	'Anwesen',      //Anwesen:  next
-	'anwidern',     //anwidern:  next
-	'Anzeige erstatten', //  next
-	'anzwinkern',  //anzwinkern:  next
-	'Armbeuge',    //Armbeuge:   next
-	'Arsch, jmdm. in den A. kriechen',  //next
-	'Attest',     //Attest:  next
-	'auf Biegen und Brechen',   //next
-	'auf dem Sprung',      //next
-	'auf dem Kieker haben', //next
-	'auf den Arm nehmen',  //next
-	'auf den Putz hauen',  //next
-	'auf den Strich gehen', //next
+	'anekeln',      //anekeln:  
+	'angeben, Angeber',    
+	'angeschickert', //angeschickert:  
+	'anhimmeln',    //anhimmeln:  
+	'anleinen',     //anleinen:  
+	'Anpfiff' ,     //Anpfiff:  
+	'anpflaumen',   //anpflaumen:  
+	'anpumpen',     //anpumpen: 
+	'anquatschen',   //anquatschen: 
+	'anraunzen',     //anraunzen:  
+	'anrempeln',    //anrempeln: 
+	'Anrichte',     //Anrichte:  
+	'ans Bein binden',  //
+	'anschmiegsam', //anschmiegsam: 
+	'anschnauzen',  //anschnauzen: 
+	'anschwärzen',  //anschwärzen:  
+	'ansengen',     //ansengen:  
+	'Ansinnen' ,    //Ansinnen:  
+	'anstupsen',    //anstupsen:  
+	'antanzen',     //antanzen:  
+	'Anwesen',      //Anwesen: 
+	'anwidern',     //anwidern:  
+	'Anzeige erstatten', //  
+	'anzwinkern',  //anzwinkern:  
+	'Armbeuge',    //Armbeuge:   
+	'Arsch, jmdm. in den A. kriechen',  //
+	'Attest',     //Attest: 
+	'auf Biegen und Brechen',  // 
+	'auf dem Sprung',      //
+	'auf dem Kieker haben', //
+	'auf den Arm nehmen',  //
+	'auf den Putz hauen',  //
+	'auf den Strich gehen', //
 	'auf den Wecker gehen', //next
 	'auf den Zahn fühlen',  //next
 	'auf die Nase binden',  //next
@@ -74,6 +74,7 @@ const a = [
 	'auf Zack sein',    //next
 	'aufbahren',   //aufbahren:   next
 	'aufdonnern (sich)',  //next
+	'auffächern', //auffächern:
 	'auffliegen',  //auffliegen:   next
 	'aufgabeln',   //aufgabeln:  next
 	'aufgekratzt', //aufgekratzt:  next

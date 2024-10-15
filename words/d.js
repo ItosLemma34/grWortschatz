@@ -25,6 +25,7 @@ const d = [
    'durch den Wolf drehen',  //
    'durchdrehen',    //durchdrehen:
    'durchkämmen',    //durchkämmen:
+   'durchmogeln (sich)',  //
 ];
 
 export default d;

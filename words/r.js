@@ -8,8 +8,9 @@ const r = [
    'Rangelei',
    'rascheln',
    'Ratsch'  ,
-   'rattern' ,              
+   'rattern' ,  //rattern:              
    'Räuberpistole' ,
+   'Rauflust',  //Rauflust:
    'Raunen, raunen' ,
    'Raureif' , 
    'recken',
@@ -29,9 +30,10 @@ const r = [
    'Rinnsal' ,
    'Ritze'  ,
    'robben' ,
-   'röcheln',
+   'röcheln', //röcheln:
    'roden' ,
    'rosten' ,
+   'Rottenführer',  //Rottenführer:
    'rührig',
    'Rummel',
    'rumpeln',

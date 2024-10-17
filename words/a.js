@@ -23,14 +23,14 @@ const a = [
 	'Affekthandlung',   //Affekthandlung: 
 	'Allerwerteste',   //Allerwerteste:  
 	'alteingesessen',  //alteingesessen: 
-	'an der Backe haben',
+	'an der Backe haben', //
 	'an die große Glocke hängen',  
 	'anbändeln',    //anbändeln:
 	'anblaffen',    //anblaffen:    
 	'anbrechen',    //anbrechen:  
 	'anecken',      //anecken:   
 	'anekeln',      //anekeln:  
-	'angeben, Angeber',    
+	'angeben, Angeber',  //  
 	'angeschickert', //angeschickert:  
 	'anhimmeln',    //anhimmeln:  
 	'anleinen',     //anleinen:  
@@ -60,31 +60,32 @@ const a = [
 	'auf dem Sprung',      //
 	'auf dem Kieker haben', //
 	'auf den Arm nehmen',  //
+	'auf den Leim gehen',  //
 	'auf den Putz hauen',  //
 	'auf den Strich gehen', //
-	'auf den Wecker gehen', //next
-	'auf den Zahn fühlen',  //next
-	'auf die Nase binden',  //next
-	'auf die Palme treiben/bringen',  //next
-	'auf die Pelle rücken',   //next
-	'auf die Schliche kommen',  //next
-	'auf die Tube drücken',   //next
-	'auf etwas aus sein',  //next
-	'auf Halde legen',   //next
-	'auf Zack sein',    //next
-	'aufbahren',   //aufbahren:   next
-	'aufdonnern (sich)',  //next
+	'auf den Wecker gehen', //
+	'auf den Zahn fühlen',  //
+	'auf die Nase binden',  //
+	'auf die Palme treiben/bringen',  
+	'auf die Pelle rücken',   //
+	'auf die Schliche kommen',  //
+	'auf die Tube drücken',   //
+	'auf etwas aus sein',  //
+	'auf Halde legen',   //
+	'auf Zack sein',    //
+	'aufbahren',   //aufbahren:   
+	'aufdonnern (sich)',  //
 	'auffächern', //auffächern:
-	'auffliegen',  //auffliegen:   next
-	'aufgabeln',   //aufgabeln:  next
-	'aufgekratzt', //aufgekratzt:  next
-	'aufgelöst',   //aufgelöst:  next
-	'aufglimmen',  //aufglimmen:  next
-	'aufhalsen',   //aufhalsen:  next
-	'aufjaulen',   //aufjaulen:  next
-	'auflauern',   //auflauern:  next
-	'aufmucken',   //aufmucken:  next
-	'aufpäppeln',  //aufpäppeln:  next
+	'auffliegen',  //auffliegen:   
+	'aufgabeln',   //aufgabeln:  
+	'aufgekratzt', //aufgekratzt:  
+	'aufgelöst',   //aufgelöst:  
+	'aufglimmen',  //aufglimmen:  
+	'aufhalsen',   //aufhalsen:  
+	'aufjaulen',   //aufjaulen:  
+	'auflauern',   //auflauern:  
+	'aufmucken',   //aufmucken:  
+	'aufpäppeln',  //aufpäppeln:  
 //	'aufplustern', //aufplustern:  next
 	'aufputschen',  //aufputschen:  next
 	'aufs Auge drücken',  //  next

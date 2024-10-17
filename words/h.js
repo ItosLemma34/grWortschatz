@@ -1,4 +1,5 @@
 const h = [
+  // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
    'Häkchen',  //Häkchen:
    'haken, Haken, Haken schlagen', //
    'halbseiden',  //halbseiden:

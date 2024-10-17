@@ -46,7 +46,7 @@ const k = [
    'Klemme',  //Klemme:
    'klemmen', //klemmen:
    'Klette',  //Klette:
-   'klimpern',
+   'klimpern', //klimpern:
    'Klinge',
    'Klippe',
    'klirren',
@@ -67,7 +67,7 @@ const k = [
    'kneten', 
    'Knirps',
    'knirschen',  
-   'knistern', 
+   'knistern', // knistern:
    'Knöchel',  
    'Knochen/Kopf hinhalten', //
    'knuffen',
@@ -99,7 +99,9 @@ const k = [
    'Krempe',
    'Krempel',
    'Kribbeln',
+   'Kringel',  //Kringel:
    'kritzeln' ,
+   'Krümel',  //Krümel:
    'krümmen (sich)',
    'kullern',
    'Kuppel',

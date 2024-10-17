@@ -6,7 +6,9 @@ const r = [
    'rammen'  ,
    'ramponiert' ,
    'Rangelei',
+   'Ranzen',  // Ranzen:
    'rascheln',
+   'rasen',  //rasen:
    'Ratsch'  ,
    'rattern' ,  //rattern:              
    'Räuberpistole' ,

@@ -11,6 +11,7 @@ const n = [
    'nesteln',
    'Nichts für ungut',
    'niederreißen'  ,
+   'niegelnagelneu',  //niegelnagelneu:
    'niesen'  ,
    'Nobel geht die Welt zugrunde'  ,
    'nuscheln', //nuscheln:

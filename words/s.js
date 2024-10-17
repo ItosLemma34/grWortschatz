@@ -1,6 +1,7 @@
 const s = [
    'Sägemehl',
    'säumen', 
+   'Sause',  //Sause:
    'sausen' ,  
    'schaben'  ,     
    'schade (zu schade sein)'  ,     
@@ -17,15 +18,15 @@ const s = [
    'Scherbe' ,
    'scheren (sich)'  ,
    'scheuern'  ,
-   'schielen'  ,
+   'schielen'  ,  // schielen:
    'schikanieren'  ,
    'Schilde (etwas im S. führen)',
    'Schimmel, (ver)schimmeln',
-   'Schimmer (keinen blassen S.)',
+   'Schimmer (keinen blassen S.)', //
    'schimmern'  ,
    'Schinder, schinden' ,
    'Schlamassel',
-   'schlampig',
+   'schlampig',  //schlampig:
    'Schlauberger',
    'Schlauch' ,
    'schleifen' ,

@@ -24,6 +24,7 @@ const w = [
    'Wink mit dem Zaunpfahl' , //
    'Winkel' ,  //Winkel:
    'Winkeladvokat',  //Winkeladvokat:
+   'winseln',  //winseln:
    'Wipfel',  //Wipfel:
    'wippen' , //wippen:
    'Witzbold', //Witzbold:

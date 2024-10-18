@@ -86,42 +86,42 @@ const a = [
 	'auflauern',   //auflauern:  
 	'aufmucken',   //aufmucken:  
 	'aufpäppeln',  //aufpäppeln:  
-//	'aufplustern', //aufplustern:  next
-	'aufputschen',  //aufputschen:  next
-	'aufs Auge drücken',  //  next
-	'aufs Dach steigen',  //  next
-	'aufs Korn nehmen',  //  next
-	'aufschaukeln',    //aufschaukeln:  next
-	'aufscheuchen',    //aufscheuchen:  next
-	'aufschichten',   //aufschichten:  next
-	'aufstieben',    //aufstieben:  next
-	'aufstöbern',    //aufstöbern:  next
-	'auftakeln',     //auftakeln:  next
-	'auftischen',    //auftischen:  next
-	'aufwiegen',     //aufwiegen:  next
-	'aus dem Konzept bringen',   //  next
-	'aus dem Staub machen (sich)', //  next
-	'aus dem Häuschen sein',   //  next
-	'aus der Haut fahren',  //  next
-	'ausbüxen',    //ausbüxen:  next
-	'Ausdünstung',  //Ausdünstung:  next
-	'Ausfallstraße',   //Ausfallstraße:  next
-	'ausfressen',   //ausfressen:  next
-	'ausheben, Aushebung',  //  next
-	'aushorchen',  //aushorchen:  next
-	'ausklinken',  //ausklinken:  next
-	'ausquetschen',  //ausquetschen:  next
-	'Ausreißer',    //Ausreißer:  next
-	'auswringen',   //auswringen:  next
-	'ausrücken',    //ausrücken:  next
-	'ausscheren',   //ausscheren:  next
-	'ausschlachten', //ausschlachten:  next
-	'ausschwärmen',  //ausschwärmen:  next
-	'ausspucken',   //ausspucken:  next
-	'ausstaffieren',  //ausstaffieren:  next
-	'ausstopfen',    //ausstopfen:  next
-	'austoben (sich)',  //  next
-	'austüfteln',     //austüfteln:  next
+//	'aufplustern', //aufplustern:  
+	'aufputschen',  //aufputschen:  
+	'aufs Auge drücken',  //  
+	'aufs Dach steigen',  //  
+	'aufs Korn nehmen',  //  
+	'aufschaukeln',    //aufschaukeln:  
+	'aufscheuchen',    //aufscheuchen:  
+	'aufschichten',   //aufschichten:  
+	'aufstieben',    //aufstieben:  
+	'aufstöbern',    //aufstöbern:  
+	'auftakeln',     //auftakeln:  
+	'auftischen',    //auftischen:  
+	'aufwiegen',     //aufwiegen:  
+	'aus dem Konzept bringen',   //  
+	'aus dem Staub machen (sich)', //  
+	'aus dem Häuschen sein',   //  
+	'aus der Haut fahren',  // 
+	'ausbüxen',    //ausbüxen:  
+	'Ausdünstung',  //Ausdünstung:  
+	'Ausfallstraße',   //Ausfallstraße:  
+	'ausfressen',   //ausfressen:  
+	'ausheben, Aushebung',  //  
+	'aushorchen',  //aushorchen:  
+	'ausklinken',  //ausklinken:  
+	'ausquetschen',  //ausquetschen:  
+	'Ausreißer',    //Ausreißer:  
+	'ausrücken',    //ausrücken:  
+	'ausscheren',   //ausscheren:  
+	'ausschlachten', //ausschlachten:  
+	'ausschwärmen',  //ausschwärmen:  
+	'ausspucken',   //ausspucken:  
+	'ausstaffieren',  //ausstaffieren:  
+	'ausstopfen',    //ausstopfen: 
+	'austoben (sich)',  //  
+	'austüfteln',     //austüfteln:  
+	'auswringen',   //auswringen:  
 ];
 
 export default a;

@@ -1,24 +1,23 @@
 const b = [
     'Bahre',  //Bahre:
-    'Balken', //Balken:
-    'ballern',  //ballern:
+    'Balken', //Balken:  
+    'ballern',  //ballern:  
     'barsch',   //barsch:
-    'Bartstoppeln', //Bartstoppeln:
-    'Baskenmütze',  //Baskenmütze:
-    'bauschen',    //bauschen:
-    'bedröppelt',  //bedröppelt:
-    'begrapschen',  //begrapschen:
-    'behelligen',   //behelligen:
-    'beherzt',     //beherzt:
-    'beichten',    //beichten:
-    'beikommen',   //beikommen:
+    'Bartstoppeln', //Bartstoppeln: 
+    'Baskenmütze',  //Baskenmütze:  
+    'bauschen',    //bauschen: 
+    'bedröppelt',  //bedröppelt: 
+    'begrapschen',  //begrapschen: 
+    'behelligen',   //behelligen:  
+    'beherzt',     //beherzt:  
+    'beikommen',   //beikommen:  
     'Beine in den Bauch',  //
-    'beipflichten',   //beipflichten:
-    'Bengel',     //Bengel:
-    'benommen',   //benommen:
-    'berappen',   //berappen:
-    'beredt',     //beredt:
-    'Beritt',     //Beritt:
+    'beipflichten',   //beipflichten:  
+    'Bengel',     //Bengel:  
+    'benommen',   //benommen: 
+    'berappen',   //berappen:  
+    'beredt',     //beredt:  
+    'Beritt',     //Beritt:  next
     'bescheuert',  //bescheuert:
     'Besen',      //Besen:
     'Besteck',    //Besteck:

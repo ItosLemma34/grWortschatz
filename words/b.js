@@ -17,53 +17,52 @@ const b = [
     'benommen',   //benommen: 
     'berappen',   //berappen:  
     'beredt',     //beredt:  
-    'Beritt',     //Beritt:  next
-    'bescheuert',  //bescheuert:
-    'Besen',      //Besen:
-    'Besteck',    //Besteck:
-    'betreten',   //betreten:
-    'betupfen',   //betupfen:
-    'Beule',      //Beule:
-    'bibbern',    //bibbern:
-    'bieder',     //bieder:
-    'Biege machen',  //
-    'Blase',  //Blase:
-    'blasiert',  //blasiert:
-    'Blaumann',  //Blaumann:
-    'Blech',   //Blech:
-    'blendend',  //blendend:
-    'blinzeln',  //blinzeln:
-    'Blöße',   //Blöße:
-    'bloßstellen',  //bloßstellen:
-    'Bodensatz',  //Bodensatz:
-    'Bogen (den Bogen raushaben)',  //
-    'Bohle',    //Bohle:
-    'bohnern',  //bohnern:
+    'Beritt',     //Beritt:  
+    'bescheuert',  //bescheuert: 
+    'Besen',      //Besen:  
+    'Besteck',    //Besteck:    
+    'betreten',   //betreten:  
+    'betupfen',   //betupfen:  
+    'Beule',      //Beule:  
+    'bibbern',    //bibbern: 
+    'bieder',     //bieder: 
+    'Biege machen',  //  
+    'Blase',  //Blase:  
+    'blasiert',  //blasiert: 
+    'Blaumann',  //Blaumann:  
+    'Blech',   //Blech: 
+    'blendend',  //blendend:  
+    'blinzeln',  //blinzeln:  
+    'Blöße',   //Blöße: 
+    'bloßstellen',  //bloßstellen:  
+    'Bodensatz',  //Bodensatz:  
+    'Bogen (den B. raushaben)',  // 
+    'Bohle',    //Bohle:  
+    'bohnern',  //bohnern:  
     'Bonze',   //Bonze:
-    'borniert',  //borniert:
-    'Bordmittel', //Bordmittel:
-    'Bösewicht',  //Bösewicht:
+    'borniert',  //borniert: 
+    'Bösewicht',  //Bösewicht:  
     'Boulette',   //Boulette:
-    'brandschatzen',  //brandschatzen:
-    'Brause',    //Brause:
-    'brausen',  //brausen:
-    'Brett, Bretterwand, Bretterverschlag',  //
-    'Brimborium',   //Brimborium:
-    'bröckeln',  //bröckeln:
-    'brummig, Brummigkeit',   //
-    'Brüstung',  //Brüstung:
-    'Buche',    //Buche:
-    'Büchse',   //Büchse:
-    'Buckel',   //Buckel:
-    'buddeln, ausbuddeln',  //
-    'Bude, Büdchen',  //
-    'Bügel',         //Bügel:
-    'bugsieren',   //bugsieren:
-    'buhlen',   // buhlen:
-    'bullig',  //bullig:
-    'bumsen',  //bumsen:
-    'Bursche',  //Bursche:
-    'bützen',   //bützen:
+    'brandschatzen',  //brandschatzen: 
+    'Brause',    //Brause:  
+    'brausen',  //brausen: 
+    'Brett, Bretterwand, Bretterverschlag',  // 
+    'Brimborium',   //Brimborium:  
+    'bröckeln',  //bröckeln: 
+    'brummig, Brummigkeit',   // 
+    'Brüstung',  //Brüstung: 
+    'Buche',    //Buche: 
+    'Büchse',   //Büchse: 
+    'Buckel',   //Buckel: 
+    'buddeln, ausbuddeln',  // 
+    'Bude, Büdchen',  // 
+    'Bügel',         //Bügel: 
+    'bugsieren',   //bugsieren: 
+    'buhlen',   // buhlen: 
+    'bullig',  //bullig: 
+    'bumsen',  //bumsen: 
+    'Bursche',  //Bursche: 
+    'bützen',   //bützen: 
 ];
 
 export default b;

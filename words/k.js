@@ -47,10 +47,10 @@ const k = [
    'klemmen', //klemmen:
    'Klette',  //Klette:
    'klimpern', //klimpern:
-   'Klinge',
-   'Klippe',
-   'klirren',
-   'klitzeklein',
+   'Klinge', //  Klinge:
+   'Klippe', //  Klippe:
+   'klirren', //klirren:
+   'klitzeklein', //klitzeklein:
    'Kloß',
    'Klumpen, Klumpfuß',
    'Klüngel',

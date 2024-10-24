@@ -71,42 +71,42 @@ const k = [
    'Knochen/Kopf hinhalten', //
    'knuffen',  // knuffen:
    'Knüller',  // Knüller:
-   'Knüppel',
-   'knurren',    
-   'Köder',
+   'Knüppel', // Knüppel:
+   'knurren',  // knurren:  
+   'Köder',   // Köder:
   // 'Kontor',
-   'Konterfei',
-   'köpfen',
-   'Korb (einen Korb bekommen)',
-   'Korbstuhl',
-   'Kordel',
-   'Kot, Kotflügel',
-   'koten',
-   'krabbeln',
-   'krachen', 
-   'Krähe, krähen',  
-   'Krake',  
-   'krakelig/kraklig',
-   'Kralle',
-   'Kram (in den Kram passen)',
-   'kramen',
-   'Kran',
-   'Kratzbürstigkeit',
-   'kraulen',
-   'Kreisel',
-   'Kreissäge',
-   'Krempe',
-   'Krempel',
-   'Kribbeln',
+   'Konterfei',  // Konterfei:
+   'köpfen',  // köpfen:
+   'Korb (einen K. bekommen)', //
+   'Korbstuhl',  // Korbstuhl:
+   'Kordel',  // Kordel:
+   'Kot, Kotflügel', //
+   'koten',  // koten:
+   'krabbeln',  //krabbeln:
+   'krachen', // krachen:
+   'Krähe, krähen', //  
+   'Krake', // Krake: 
+   'krakelig/kraklig', //
+   'Kralle',  // Kralle:
+   'Kram (in den K. passen)', //
+   'kramen',  // kramen:
+   'Kran',  // Kran:
+   'Kratzbürstigkeit',  // Kratzbürstigkeit:
+   'kraulen',   // kraulen:
+   'Kreisel',  // Kreisel:
+   'Kreissäge',  // Kreissäge:
+   'Krempe',  // Krempe:
+   'Krempel',  // Krempel:
+   'Kribbeln',  // Kribbeln:
    'Kringel',  //Kringel:
-   'kritzeln' ,
+   'kritzeln' ,  // kritzeln:
    'Krümel',  //Krümel:
-   'krümmen (sich)',
-   'kullern',
-   'Kuppel',
+   'krümmen (sich)',//
+   'kullern', // kullern:
+   'Kuppel',  // Kuppel:
    'kurbeln', //kurbeln:
    'kuscheln (sich)',
-   'kuschen',
+   'kuschen',  // kuschen:
 ];
 
 export default k;   

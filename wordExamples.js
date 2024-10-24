@@ -1,6 +1,6 @@
 export const wordExamples = {              
 // '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // <br>English Definitions: &nbsp;&nbsp;<a href="X"target="target2"></a>&nbsp;&nbsp;<a href="X"target="target3"></a>   
 'auf den Leim gehen': [
 	'jmdm. <strong>auf den Leim gehen</strong>: be hoodwinked, be taken in by so. &nbsp;&nbsp;der <strong>Leim</strong>,-<strong>e</strong>: glue, paste <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20etw.%20auf%20den%20Leim%20gehen"target="target1">auf den Leim gehen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leim?q=auf+den+Leim+gehen"target="target2">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Leim+gehen"target="target3">auf den Leim gehen</a>   ',
@@ -2468,8 +2468,14 @@ Gurt: [
 	'<u>Märzgefallene</u>',
 	'Den Mantel behielt sie (<i>Hannah</i>), der war ganz <strong>gut in Schuss</strong>, doch ihre Gummistiefel musste sie ebenfalls loswerden, sie hatte schon wunde Stellen an den Waden, so sehr scheuerten die.  (<i>Märzgefallene</i>, 172)' ,
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-// Hstart <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
+// Hstart <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Habgier: [
+	'die <strong>Habgier</strong> (no plural): &nbsp;greed, avarice <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Habgier"target="target1">Habgier</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/habgier?q=Habgier"target="target2">Habgier</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Habgier"target="target3">Habgier</a>' ,
+//	'<u>Märzgefallene</u>',
+	'<u>Lunapark</u>',
+	'<i>Gräf</i>: "Wenn ein SA-Mann ermordet wird, ist das immer eine politische Tat". <i>Rath</i>: "Auch SA-Leute sind Menschen. Und können aus ganz gewöhnlichen Motiven umgebracht werden: Hass, Liebe, Eifersucht, <strong>Habgier</strong> - das Übliche halt."    (<i>Lunapark</i>, 24)',
+],
 'Hacken (sich die H. ablaufen)': [
 	'<strong>sich die Haken ablaufen</strong>: &nbsp;run oneself ragged <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Handfessel"target="target1">Handfessel</a>  ',     
 	'<u>Lunapark</u>',
@@ -2842,6 +2848,11 @@ johlen: [
 ],
 // Kstart '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Kreisel: [
+	'der <strong>Kreisel</strong>,-: &nbsp;gyroscope, spinning top <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kreisel"target="target1">Kreisel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kreisel"target=target2>Kreisel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kreisel"target="target3">Kreisel</a>' ,
+	'<u>Märzgefallene</u>',
+	'Mit einem klirrenden Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben... Jedenfalls blieb das Scheißding ein paar Meter hinter ihnen auf dem Pflaster liegen, ebenso wie Huckebeins Melone, die durch die Gegend kullerte wie ein betrunkener <strong>Kreisel</strong>.  (<i>Märzgefallene</i>, 399)',
+],
 Krümel: [
 	'der <strong>Krümel</strong>,-: &nbsp;crumb &nbsp;&nbsp;&nbsp;<strong>krümelig</strong>: &nbsp;crumbly <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kruemel"target="target1">Krümel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/krumel?q=Kr%C3%BCmel"target=target2>Krümel</a>&nbsp;&nbsp;<a href=https://www.collinsdictionary.com/dictionary/german-english/krumel""target=target3>Krümel</a>' ,
 	'<u>Lunapark</u>',
@@ -2887,7 +2898,7 @@ keuchen: [
 //	'<u>Märzgefallene</u>',
 ],
 Krake: [
-	'der <strong>Krake</strong>,-<strong>n</strong>: &nbsp;octopus <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Krake" target="target1" >Krake</a> ' ,
+	'der <strong>Krake</strong>,-<strong>n</strong>: &nbsp;octopus <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Krake"target="target1">Krake</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krake"target="target2">Krake</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Krake"target="target3">Krake</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'<i>der Engel</i>: "Sie sind ein ganz Süßer, wissen Sie das?" <i>Rath</i>: "Da sind Sie nicht die Erste, der das auffällt." Er versuchte, sich von ihren Armen zu befreien, doch das war ungefähr so vergeblich wie der Kampf gegen eine Riesen<strong>krake</strong>.   (<i>Der Nasse Fisch</i>, 202)'  ,
 ],
@@ -2922,7 +2933,7 @@ Knauf: [
 //	'<u>Märzgefallene</u>',
 ],
 Korbstuhl: [
-	'der <strong>Korbstuhl</strong>, die <strong>Korbstühle</strong>: &nbsp;wicker chair, basket chair  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Korbstuhl" target="target1" >Korbstuhl</a> ' ,
+	'der <strong>Korbstuhl</strong>,-<strong>stühle</strong>: &nbsp;wicker chair, basket chair <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Korbstuhl"target="target1">Korbstuhl</a><br>English Definitions: &nbsp;&nbsp;<a href="https://glosbe.com/de/en/Korbstuhl"target="target2">Korbstuhl</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Korbstuhl"target="target3">Korbstuhl</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Aber das <i>Delphi</i> (<i>der Delphi-Palast</i>) wirkte wie ausgestorben. Die Pflanzen, die den Weg zum Hauptportal flankierten, machten einen jämmerlichen Eindruck. Ein paar exotisch anmutende <strong>Korbstühle</strong>, lieblos aufeinandergestapelt und vom Wetter gezeichnet, standen in der Gartenecke und schimmelten vor sich hin.  (<i>Der Nasse Fisch</i>, 133)' ,
 //	'<u>Märzgefallene</u>',
@@ -2941,7 +2952,7 @@ kleistern: [
 //	'<u>Märzgefallene</u>',
 ],
 Kralle: [
-	'die <strong>Kralle</strong>,-<strong>n</strong>: &nbsp;claw, talon  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kralle" target="target1" >Kralle</a> ' ,
+	'die <strong>Kralle</strong>,-<strong>n</strong>: &nbsp;claw, talon <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kralle"target="target1">Kralle</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kralle"target="target2">Kralle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kralle"target="target3">Kralle</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Sie (<i>Gloria, in Eldorado</i>) ließ sich beim Bierzapfen nicht stören. Ihre langen Fingernägel wirkten wie Raubtier<strong>krallen</strong>.... Er (<i>Rath</i>) hielt ihr seine Zigarettenschachtel hin. "Lust auf eine Zigarettenpause?" Sie griff zu mit ihren Raubtier<strong>krallen</strong>.   (<i>Der Nasse Fisch</i>, 125)' ,
 //	'<u>Märzgefallene</u>',
@@ -2963,7 +2974,7 @@ klaffen: [
 //'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Kreissäge: [
-	'die <strong>Kreissäge</strong>,-<strong>n</strong>: &nbsp;buzz saw  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kreissaege" target="target1" >Kreissäge</a> ' ,
+	'die <strong>Kreissäge</strong>,-<strong>n</strong>: &nbsp;buzz saw <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kreissaege"target="target1">Kreissäge</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Kreiss%C3%A4ge"target="target2">Kreissäge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kreiss%C3%A4ge"target="target3">Kreissäge</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Im Hof holte er (<i>Rath</i>) erst einmal tief Luft, froh, den schneidenden Putzmitteldüften entkommen zu sein. Die Teppichstange war verwaist, der Hof menschenleer, als habe sich herumgesprochen, dass Polizei im Haus war. Im zweiten Hof hörte er eine <strong>Kreissäge</strong>. (<i>Der Nasse Fisch</i>, 110)',
 //	'<u>Märzgefallene</u>',
@@ -3007,14 +3018,14 @@ Kotflügel: [
 	'Sie (<i>Charly</i>) ging nah an den Fahrzeugen vorbei. Das Licht der Straßenlaternen reichte kaum bis hierhin, sie musste ihre Augen anstrengen. Und doch fand sie es schließlichl. Am <strong>Kotflügel</strong> eines pechschwarzen BMW. Heller Lackabrieb. (<i>Der Nasse Fisch</i>, 61)',
 ],
 Kran: [
-	'der <strong>Kran</strong>, die <strong>Kräne</strong>/die <strong>Krane</strong>: &nbsp;crane <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kran" target="target1" >Kran</a> ' ,
+	'der <strong>Kran</strong>, die <strong>Kräne</strong>/die <strong>Krane</strong>: &nbsp;crane <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kran"target="target1">Kran</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kran"target="target2">Kran</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kran"target="target3">Kran</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Das Auto hing am Haken des Bergungs<strong>krans</strong> wie ein zu groß geratener Fisch. Durch die Türritzen floss schmutzigbraunes Wasser zurück in den Landwehrkanal. Der Scheinwerfer des <strong>Kran</strong>wagens ließ das helle Auto in der dunklen Nacht gespenstisch leuchten.      (<i>Der Nasse Fisch</i>, 56)' ,
 	'Bei dem Wagen, der von dem <strong>Kran</strong> gerade behutsam auf den nassgetropften Asphalt der Möckernbrücke gesetzt wurde, handelte es sich um einen cremefarbenen Horch 350.  (<i>Der Nasse Fisch</i>, 57)' ,
 	'"Ritter?" rief er (<i>Böhm</i>) laut in die Dunkelheit. Die Stenotypistin trat ins Scheinwerferlicht des <strong>Kran</strong>wagens.  (<i>Der Nasse Fisch</i>, 59)' ,
 ],
 Konterfei: [
-	'das <strong>Konterfei</strong>,-<strong>s</strong>: &nbsp;image, likeness <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Konterfei" target="target1" >Konterfei</a> ' ,
+	'das <strong>Konterfei</strong>,-<strong>s</strong>: &nbsp;image, likeness <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Konterfei"target="target1">Konterfei</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/konterfei"target="target2">Konterfei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Konterfei"target="target3">Konterfei</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Vereinzelt ragten Transparente aus der Menschenmenge. Rath erkannte die drei <strong>Konterfeis</strong>, die auch die Fassade der KPD-Zentrale am nah gelegenen Bülowplatz schmückten: Lenin, Liebknecht, Luxemburg. Die heiligen drei L. Seit er in Berlin war, hatte er sich über die Dreistigkeit der Kommunisten geärgert. (<i>Der Nasse Fisch</i>, 54)' ,
 ],
@@ -3112,16 +3123,16 @@ knarren: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Köder: [
-	'der <strong>Köder</strong>,-: &nbsp;bait, lure  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Koeder" target="target1" >Köder</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/koder?q=K%C3%B6der" target="target2">Köder</a> ' ,
+	'der <strong>Köder</strong>,-: &nbsp;bait, lure <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Koeder"target="target1">Köder</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/koder?q=K%C3%B6der"target="target2">Köder</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=K%C3%B6der"target="target3">Köder</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Ja, sie (<i>Hannah</i>) hatte tatsächlich so was wie Sehnsucht nach ihm (<i>Fritze</i>) gespürt, wäre am liebsten zu ihm hingelaufen.... Aber das ging nicht. Huckebein hatte sie womöglich zusammen gesehen. Benutzte Fritze vielleicht als <strong>Köder</strong>, um an sie heranzukommen. (<i>Märzgefallene</i>, 320)' ,
-	'Hätte Grimberg ihn nicht dazu ermuntert, er hätte das Manuskript wohl erst in ein paar Jahren beendet. Oder nie. Erst die Aussicht, über eine Veröffentlichung vielleicht doch noch an das Alberichgold zu kommen, hatte ihn das Werk vollenden lassen. Ein <strong>Köder</strong> hatte es sein sollen, doch wenn das Buch sich weiterhin so gut verkaufte, würde er das Gold gar nicht mehr brauchen. (<i>Märzgefallene</i>, 556)' ,
+	'Hätte Grimberg ihn (<i>Roddeck</i>) nicht dazu ermuntert, er hätte das Manuskript wohl erst in ein paar Jahren beendet. Oder nie. Erst die Aussicht, über eine Veröffentlichung vielleicht doch noch an das Alberichgold zu kommen, hatte ihn das Werk vollenden lassen. Ein <strong>Köder</strong> hatte es sein sollen, doch wenn das Buch sich weiterhin so gut verkaufte, würde er das Gold gar nicht mehr brauchen. (<i>Märzgefallene</i>, 556)' ,
 	'Er (<i>Roddeck</i>) hatte sich verdammt weit aus dem Fenster gelehnt mit seinen Lügen, die er der Welt als Wahrheit verkauft hatte. Grimbers tolle Idee. "Wer fischen will, braucht den richtigen <strong>Köder</strong>", hatte der Feldwebel gesagt. (<i>Märzgefallene</i>, 564)' ,
 ],
-'Korb (einen Korb bekommen)': [
-	'<strong>einen Korb bekommen</strong>: get the brush-off; &nbsp;<strong>jmdm. einen Korb geben</strong>: turn so. down  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/einen%20Korb%20bekommen" target="target1" >einen Korb bekommen</a> ' ,
+'Korb (einen K. bekommen)': [
+	'<strong>einen Korb bekommen</strong>: get the brush-off; &nbsp;<strong>jmdm. einen Korb geben</strong>: turn so. down <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Korb%20bekommen"target="target1">einen Korb bekommen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=einen+Korb+bekommen"target="target2">einen Korb bekommen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/einen%20korb%20bekommen"target="target3">einen Korb bekommen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'"Der Tanzleiter hat ihm (<i>von Roddek als Eintänzer</i>) andere Tische zugeteilt, weniger lukrative. Und wenn Sie auch von diesen Kundinnen immer häufiger <strong>einen Korb bekommen</strong>, dann wissen Sie, was die Stunde geschlagen hat." (<i>Märzgefallene</i>, 315)' ,
+	'"Der Tanzleiter hat ihm (<i>Roddek als Eintänzer</i>) andere Tische zugeteilt, weniger lukrative. Und wenn Sie auch von diesen Kundinnen immer häufiger <strong>einen Korb bekommen</strong>, dann wissen Sie, was die Stunde geschlagen hat." (<i>Märzgefallene</i>, 315)' ,
 ],
 kahl: [
 	'<strong>kahl</strong>: &nbsp;bleak, bald, barren <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kahl"target="target1">kahl</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kahl"target="target2">kahl</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kahl"target="target3">kahl</a>' ,
@@ -3425,7 +3436,7 @@ knirschen: [
 	'...da hörte er (<i>Rath</i>) Motorengeräusche... und den <strong>knirschenden</strong> Kies des Parkplatzes, dann von der Straße her das typische Scheppern, das die Dienstwagen der preußischen Polizei verursachten. (<i>Märzgefallene</i>, 440)' ,
 	'Er (<i>Rath</i>) hörte Schritte <strong>knirschen</strong> und erschrak. Dann sah er Charlys neugieriges Gesicht. Hatte sie sich doch noch überwinden können, die Verbotsschilder zu ignorieren, und war zu ihm hinabgestiegen.  (<i>Märzgefallene</i>, 602)' ,
 ],
-//'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
+//'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 knistern: [
 	'<strong>knistern</strong>: crackle, creak, rustle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knistern"target="target1">knistern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knistern"target="target2">knistern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knistern"target="target3">knistern</a> ' ,
@@ -3436,7 +3447,7 @@ knistern: [
 	'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, <strong>knisterndes</strong> Zeitungspapier, das Klimpern eines Löffels, der leise gegen den Tassenrand schlug.  (<i>Lunapark</i>, 28)' ,
 ],
 Knüppel: [
-	'der <strong>Knüppel</strong>,-: cudgel, club, truncheon  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Knueppel" target="target1" >Knüppel</a>' ,
+	'der <strong>Knüppel</strong>,-: cudgel, club, truncheon <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueppel"target="target1">Knüppel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knuppel"target="target2">Knüppel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/knueppel#Kn%C3%BCppel"target="target3">Knüppel</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Aber dann, als der Anführer eine schlüpfrige Bemerkung zu Vera machte, hatte er (<i>Leo</i>) den Mund doch nicht halten können, und der Mann hatte ihm mit Freude seinen Gummi<strong>knüppel</strong> durchs Gesicht gezogen. (<i>Märzgefallene</i>, 109)' ,
 	'Dem Anführer war es gleichwohl nicht schnell genug gegangen, und als Leo zu lange brauchte, um in seine Hosen zu steigen, hatte der Mann ihm mit dem <strong>Knüppel</strong> auf die Fingerknöchel geschlagen.... (<i>Märzgefallene</i>, 109)' ,
@@ -3446,26 +3457,26 @@ Knüppel: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 knurren: [
-	'<strong>knurren</strong>: growl, snarl, rumble <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/knurren" target="target1" >knurren</a>',
+	'<strong>knurren</strong>: &nbsp;growl, snarl, rumble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knurren"target="target1">knurren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=knurren"target="target2">knurren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knurren"target="target3">knurren</a>',
 	'<u>Der Nasse Fisch</u>',
 	'"Wir gehen jetzt erst mal in die Hermannstraße...", meinte Wolter. "Da gibt es auch einen Versorgungsposten für die Einsatzkräfte, gute alte Feldküche. Mir <strong>knurrt</strong> vielleicht der Magen!" (<i>Der Nasse Fisch</i>, 68)' ,
 	'<u>Märzgefallene</u>',
 	'Essenszeit. In den Gängen der Wittenauer Heilstätten roch es nach Kohl und Bratwurst, und ihr Magen  <strong>knurrte</strong>. Sie (<i>Charly</i>) eilte den blankgebohnerten Flur entlang, im Bemühen, mit Oberschwester Ingeborg Schritt zu halten.  (<i>Märzgefallene</i>, 78)' ,
 ],
 köpfen: [
-	'<strong>köpfen</strong>: behead  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/koepfen" target="target1" >köpfen</a>' ,
+	'<strong>köpfen</strong>: &nbsp;behead; open (eine Flasche) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/koepfen"target="target1">köpfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://glosbe.com/de/en/k%C3%B6pfen"target="target2">köpfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=k%C3%B6pfen"target="target3">köpfen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) selbst war es gewesen, der ihr Hose und Strümpfe ausgezogen hatte. Und noch mehr. Nachdem er eine von Pauls Kisten geöffnet und eine Flasche Rotwein <strong>geköpft</strong> hatte. Mein Gott, hatte er hier gewütet! Abwechselnd hatten sie aus der Flasche getrunken, sich zwischendurch geküsst und begrapscht und ausgezogen. Sie (<i>die wilde Hilde</i>) hatte gegiggelt und gekichert.... (<i>Märzgefallene</i>, 73)' ,
 ],
 Kordel: [
-	'die <strong>Kordel</strong>,-<strong>n</strong>: cord, string   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kordel" target="target1" >Kordel</a>' ,
+	'die <strong>Kordel</strong>,-<strong>n</strong>: &nbsp;cord, string <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kordel"target="target1">Kordel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kordel"target="target2">Kordel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kordel"target="target3">Kordel</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Auf seinem Schreibtisch fand Rand ein Paket vor. Als er die fremden Aufkleber erkannte, wusste er sofort Bescheid. Es gab nur einen, von dem er Post aus Übersee bekam... Für einen Moment vergaß Rath sogar Charly, als er die <strong>Kordel</strong> aufschnitt und das Paket öffnete. Zeitungsseiten quollen heraus, englishsprachige Zeitungsseiten. Das Paket war gut gepolstert. (<i>Der Nasse Fisch</i>, 195)' ,
 	'<u>Märzgefallene</u>',
 	'"Herr von Roddeck drückt sich schriftlich besser aus als mündlich", sagte der Verleger und griff in seine Aktentasche. Er zog einen schweren, flexiblen Papierstapel heraus, der mit einer Paket<strong>kordel</strong> zusammengehalten wurde. "Hier", sagte er und reichte Rath den Stapel, "die Druckfahnen von <i>Märzgefallene</i>. Lesen Sie den Roman, und Sie werden alles verstehen." (<i>Märzgefallene</i>, 146)' ,
 ],
 'Kot, Kotflügel': [
-	'der <strong>Kot</strong>,-: mud, dung, shit &nbsp;&nbsp;<strong>koten</strong>: defecate &nbsp;&nbsp;der <strong>Kotflügel</strong>,-: fender, mud guard; <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kot" target="target1" >Kot</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kotfluegel" target="target2" >Kotflügel</a> ' ,
+	'der <strong>Kot</strong>,-: mud, dung, shit &nbsp;&nbsp;<strong>koten</strong>: defecate &nbsp;&nbsp;der <strong>Kotflügel</strong>,-: fender, mud guard <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kot"target="target1">Kot</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kotfluegel"target="target2">Kotflügel</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kot"target="target3">Kot</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kotfl%C3%BCgel"target="target4">Kotflügel</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Sie (<i>Charly</i>) ging nah an den Fahrzeugen vorbei. Das Licht der Straßenlaternen reichte kaum bis hierhin, sie musste ihre Augen anstrengen. Und doch fand sie es schließlich. Am <strong>Kotflügel</strong> eines pechschwarzen BMW. Heller Lackabrieb. (<i>Der Nasse Fisch</i>, 61)',
 	'<u>Märzgefallene</u>',
@@ -3476,26 +3487,26 @@ Kordel: [
 	'Rath.. ging an dem Bettler vorbei ein Stück die Treppe hoch. Dann machte er kehrt und stieg die Stufen langsam wieder hinab, dabei immer die Stelle im Blick haltend, wo er vor gut einem Monat die mit Tauben<strong>kot</strong> besprenkelten Leinwände eingesammelt hatte. Den Pfeiler, an dem die Leiche von Gerhard Krumbiegel gefunden worden war, den alle Welt für Heinrich Wosniak hielt. (<i>Märzgefallene</i>, 472)' ,
 ],
 koten: [
-	'<strong>koten</strong>: defecate, shit; &nbsp;der <strong>Kot</strong>: excrement   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/koten" target="target1" >koten</a> ' ,
+	'<strong>koten</strong>: defecate, shit; &nbsp;der <strong>Kot</strong>: excrement <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/koten"target="target1">koten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=koten"target="target2">koten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/koten"target="target3">koten</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Rath steckte sich eine Zigarette an und betrachtete die voll<strong>gekoteten</strong> Leinwände.  (<i>Märzgefallene</i>, 94)' ,
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
 krabbeln: [
-	'<strong>krabbeln</strong>: crawl, creep   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/krabbeln" target="bank" >krabbeln</a>' ,
+	'<strong>krabbeln</strong>: &nbsp;crawl, creep <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/krabbeln"target="bank">krabbeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krabbeln"target="target2">krabbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=krabbeln"target="target3">krabbeln</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Der Junge hob den Deckel hoch, und es wurde hell.... Er schaute sich im Verkaufsraum um, dann stieg er aus der Truhe. "Wir müssen los", sagte er und streckte sich. "Bevor die hier antanzen und wieder aufschließen. Wenn die uns aus der Kiste <strong>krabbeln</strong> sehen, denn is’s aus." (<i>Märzgefallene</i>, 172)' ,
 	'Pastor Warszawski hatte über den tieferen Sinn des Ehesakraments gesprochen,... er hatte ihre Personalien aufgenommen und war gerade dabei, sie einzutragen. "Ist das eigentlich eine Spinne, die da as dem Kelch <strong>krabbelt</strong>?", fragte Charly plötzlich in die Stille hinein und zeigte auf das Heiligenbild an der Wand hinter dem Pastor. (<i>Märzgefallene</i>, 382)' ,
 ],
 krachen: [
-	'<strong>krachen</strong>: crack, crash, crunch <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/krachen" target="target1" >krachen</a>',
+	'<strong>krachen</strong>: &nbsp;crack, crash, crunch <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/krachen"target="target1">krachen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/krachen"target="target2">krachen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=krachen"target="target3">krachen</a>  ',
 	'<u>Märzgefallene</u>',
 	'Hier im Halbdunkel hörte sich das Gewummer ihres (<i>Hannahs</i>) Verfolgers noch lauter an. Und jetzt wummerte es nicht mehr, es <strong>krachte</strong>, Holz splitterte und Glas klirrte.  (<i>Märzgefallene</i>, 69)' ,
 	'Rath begann die Kurbel zu drehen. Während die Bohnen in der Kaffeemühle <strong>krachten</strong>, dachte er über die bizarre Situation nach. (<i>Märzgefallene</i>, 118)' ,
 ],
 'Krähe, krähen': [
-	'die <strong>Krähe</strong>,-<strong>n</strong>:  crow; &nbsp;&nbsp;<strong>krähen</strong>: to crow <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kraehe" target="target1">Krähe</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kraehen" target="target2">krähen</a>' ,
+	'die <strong>Krähe</strong>,-<strong>n</strong>: crow; &nbsp;&nbsp;<strong>krähen</strong>: to crow <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kraehe"target="target1">Krähe</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kraehen"target="target2">krähen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krahe"target="target3">Krähe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kr%C3%A4hen"target="target4">krähen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Nun sind fast alle tot", fuhr Charly fort, "fast alle Männer, die damals am Bülowplatz gelebt haben. Im <strong>Krähen</strong>nest." Den Namen hatte sie aus der Polizeiakte. <strong>Krähen</strong>nest. So wurde die Bretterbude seinerzeit von ihren Bewohnern genannt, den <strong>Krähen</strong>, einer Bande von Bettlern und Tagedieben... Du warst doch eine von den <strong>Krähen</strong>, oder?    (<i>Märzgefallene</i>, 45)' ,
 	'Seit die Polizistin ihr das Foto der toten <strong>Krähe</strong> gezeigt hatte, wusste Hannah, dass sie in Gefahr war, dass Huckebein, wie sie ihn damals nur genannt hatten, wieder in der Stadt sein musste, auch wenn sie sich auf die ganze Sache noch keinen Reim machen konnte. (<i>Märzgefallene</i>, 67-68)' ,
@@ -3514,12 +3525,12 @@ krachen: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 'krakelig/kraklig': [
-	'<strong>krakelig/kraklig</strong>:  spidery, scrawly  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/krakelig" target="target1" >krakelig</a>' ,
+	'<strong>krakelig/kraklig</strong>: &nbsp;scrawly, scribbly <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/krakelig"target="target1">krakelig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krakelig"target="target2">krakelig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=krakelig"target="target3">krakelig</a>' ,
 	'<u>Märzgefallene</u>',
 	'Als sie (<i>Charly</i>) die Fotografie wieder zurückstecken wollte, fiel ihr ein Zettel auf, der zusammen mit einer Büroklammer noch im Umschlag lag. <i>Heinz Singer als Uffz. der Reserve</i> hatte dort jemand mit <strong>krakeliger</strong> Handschrift hingeschrieben....(<i>Märzgefallene</i>, 42)' ,
 ],
-'Kram (in den Kram passen)': [
-	'der <strong>Kram</strong> (no plural): stuff, odds and ends; &nbsp;&nbsp;jmdm. <strong>in den Kram passen</strong>: be useful, suit one\'s plans <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kram" target="target1" >Kram</a> &nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen" target="target2" >jmdm. in den Kram passen</a> ' ,
+'Kram (in den K. passen)': [
+	'der <strong>Kram</strong> (no plural): stuff, odds and ends; &nbsp;&nbsp;jmdm. <strong>in den Kram passen</strong>: be useful, suit one\'s plans <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kram"target="target1">Kram</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen"target="target2">jmdm. in den Kram passen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kram"target="target3">Kram</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+in+den+Kram+passen"target="target4">jmdm. in den Kram passen</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
 	'<i>Rath</i>: ...mit dem Ergebnis kann Völcker (<i>der kommunistische Arzt</i>) auch zufrieden sein. Genau so, wie es <strong>ihm in den Kram passt</strong>: <i>Ein</i> einziges Geschoss hat tatsächlich gereicht, um beide Frauen zu töten..." ' ,
 	'<u>Märzgefallene</u>',
@@ -3528,7 +3539,7 @@ krachen: [
 	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, ...wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung harrten. Akten über Kinder und Jugendliche... die der Regierung nicht <strong>in den Kram passten</strong>, die vor allem Friederike Wieking nicht <strong>in den Kram passten</strong>. (<i>Märzgefallene</i>, 485)' ,
 ],
 kramen: [
-	'<strong>kramen</strong>:  &nbsp;rummage about, fish sth. out of sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kramen" target = "target1" >kramen</a>',
+	'<strong>kramen</strong>: &nbsp;rummage about, fish sth. out of sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kramen"target="target1">kramen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kramen"target="target2">kramen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kramen"target="target3">kramen</a> ',
 	'<u>Der Nasse Fisch</u>',
 	'Erst die frische Luft hatte seinen Kater restlos verscheuchen können. Rath atmete tief durch und <strong>kramte</strong> den Zettel hervor, den ihm die Behnke geschrieben hatte.  (<i>Der Nasse Fisch</i>, 47)' ,
 	'<u>Märzgefallene</u>',
@@ -3544,26 +3555,26 @@ kramen: [
 	'Dann <strong>kramte</strong> sie (<i>Eva Heinen</i>) in ihrer Manteltasche und holte einen kleinen weißen Stein hervor, betrachtete ihn einen Moment, hockte sich dann langsam hin und legte ihn zu den vielen anderen, die dort bereits lagen. (<i>Märzgefallene</i>, 441)' ,
 	'Ede <strong>kramte</strong> umständlich in seiner Manteltasche... Endlich war Schürmann fündig geworden. Er fischte einen völlig zerknitterten Geldschein aus seinem Mantel.   (<i>Märzgefallene</i>, 543)' ,
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Kratzbürstigkeit: [
-	'die <strong>Kratzbürstigkeit</strong> (no plural): &nbsp;prickliness, brusqueness, crabbiness  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kratzbuerstigkeit" target="target1" >Kratzbürstigkeit</a>' ,
+	'die <strong>Kratzbürstigkeit</strong> (no plural): &nbsp;prickliness, brusqueness, crabbiness <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kratzbuerstigkeit"target="target1">Kratzbürstigkeit</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Kratzb%C3%BCrstigkeit"target="target2">Kratzbürstigkeit</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/kratzb%C3%BCrstigkeit"target="target3">Kratzbürstigkeit</a>   ' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Gereon</i>) hatte sie (<i>Charly</i>) in den Arm genommen, und sie hatte sich an ihn geschmiegt. Da war nichts mehr von der <strong>Kratzbürstigkeit</strong> der letzten Tage, und er hatte sie geküsst, das erste Mal richtig geküsst, seit er wieder in Berlin war. (<i>Märzgefallene</i>, 195)' ,
 ],
 kraulen: [
-	'<strong>kraulen</strong>: &nbsp;ruffle, tickle; swim the crawl  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kraulen_streicheln" target="target1" >kraulen</a>' ,
+	'<strong>kraulen</strong>: &nbsp;ruffle, tickle; swim the crawl <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kraulen_streicheln"target="target1">kraulen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kraulen"target="target2">kraulen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kraulen"target="target3">kraulen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'In der Küche blickte Kirie ihn schlaftrunken an, und Rath <strong>kraulte</strong> ihr das schwarze Fell.   (<i>Märzgefallene</i>, 114)' ,
 	'<i>Charly</i>: "Ich werde dich (<i>Fritze</i>) bestimmt nicht zurück ins Heim bringen, keine Sorge." Sie versuchte, ihn mit einem Lächeln zu beruhigen. "Aber weißt du denn, wo du bleiben kannst?" Er <strong>kraulte</strong> Kirie. "Ich finde schon was." (<i>Märzgefallene</i>, 354)' ,
 	'Er (<i>Fritze</i>) <strong>kraulte</strong> Kirie durchs Fell, der Hund wedelte mit dem Schwanz. Hoffte wahrscheinlich auf einen Spaziergang mit dem Jungen und tapste mit zur Wohnungstür. (<i>Märzgefallene</i>, 371)' ,
 ], 
 Krempe: [
-	'die <strong>Krempe</strong>,-<strong>n</strong>:  &nbsp;brim, rim <br>Deutsche Definition:&nbsp;&nbsp;<a href = "https://www.duden.de/rechtschreibung/Krempe" target="target1" >Krempe</a>' ,
+	'die <strong>Krempe</strong>,-<strong>n</strong>: &nbsp;brim, rim <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Krempe"target="target1">Krempe</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krempe"target="target2">Krempe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Krempe"target="target3">Krempe</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hut<strong>krempe</strong> in die Stirn gezogen.  (<i>Der Nasse Fisch</i>, 17)'  ,
 	'<u>Märzgefallene</u>',
-	'Die Augen under der <strong>Krempe</strong> des eleganten Filzhutes zogen Lachfalten.  (<i>Märzgefallene</i>, 18)'  ,
+	'Die Augen unter der <strong>Krempe</strong> des eleganten Filzhutes zogen Lachfalten.  (<i>Märzgefallene</i>, 18)'  ,
 ],
 Krempel: [
 	'der <strong>Krempel</strong> (no plural): junk, stuff  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Krempel_Plunder" target="target1" >Krempel</a>' ,
@@ -3573,7 +3584,7 @@ Krempel: [
 	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen Pappkarton, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis aum Rand mit <strong>Krempel</strong> and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)' ,
 ],
 Kribbeln: [
-	'das <strong>Kribbeln</strong>, (no plural); <strong>kribbeln</strong> (verb): tingle, tickle, itch  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kribbeln" target="target1" >kribbeln</a> ',
+	'das <strong>Kribbeln</strong>, (no plural): tingle, prickle &nbsp;&nbsp;<strong>kribbeln</strong>: to tingle, tickle, itch <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kribbeln"target="target1">kribbeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kribbeln"target="target2">kribbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kribbeln"target="target3">kribbeln</a>  ',
 	'<u>Der Nasse Fisch</u>',
 	'"Ich habe mich noch gar nicht für die Einladung bedankt", sagte sie (<i>Charly</i>) und holte eine Juno aus der Schachtel. Er (<i>Gereon</i>) gab ihr Feuer und schaute ihr dabei kurz in die Augen. Sie spürte ein kleines <strong>Kribbeln</strong>. (<i>Der Nasse Fisch</i>, 187)' ,
 	'<u>Märzgefallene</u>',
@@ -3584,24 +3595,24 @@ Kribbeln: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 kritzeln: [
-	'<strong>kritzeln</strong>: doodle, scribble   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kritzeln" target="target1" >kritzeln</a>' ,
+	'<strong>kritzeln</strong>: &nbsp;doodle, scribble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kritzeln"target="target1">kritzeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kritzeln"target="target2">kritzeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kritzeln"target="target3">kritzeln</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Als Rath endlich wieder sein Büro betrat, saß Erika Voss in Hut und Mantel an ihrem Schreibtisch und <strong>kritzelte</strong> etwas auf ein Stück Papier, das sie zerknüllte, als sie ihren Chef erblickte. (<i>Märzgefallene</i>, 147)' ,
 ],
 'krümmen (sich)': [
-	'<strong>sich krümmen</strong>: bend, double over, convulse, squirm, writhe; curve, twist   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kruemmen" target="target1" >krümmen (sich)</a>' ,
+	'<strong>sich krümmen</strong>: &nbsp;bend, double over, squirm, writhe; curve, twist <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kruemmen"target="target1">krümmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krummen"target="target2">krümmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kr%C3%BCmmen"target="target3">krümmen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Der SA-Mann baute sich vor ihm auf und rammte ihm, ohne den Blick abzuwenden, ansatzlos den Gummiknüppel in die Magengrube. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 111)' ,
 	'Während er (<i>der Mappenmann</i>) seine Mappe auf den Schreibtisch legte, trat Katsche aus seiner dunklen Ecke und stellte sich neben Leos Stuhl. Ohne Vorwarnung gab er dem Gefangenen einen trockenen Schlag auf die Leber. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 112)' ,
 ],
 kullern: [
-	'<strong>kullern</strong>: roll around <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kullern" target="target1" >kullern</a>' ,
+	'<strong>kullern</strong>: &nbsp;roll around <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kullern"target="target1">kullern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kullern"target="target2">kullern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kullern"target="target3">kullern</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Eine leere Rotweinflasche <strong>kullerte</strong> über den Boden, als er (<i>Gereon</i>) sie versehentlich mit dem Fuß anstieß.  (<i>Märzgefallene</i>, 71)' ,
 	'Mit einem klirrenden Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben... Jedenfalls blieb das Scheißding ein paar Meter hinter ihnen auf dem Pflaster liegen, ebenso wie Huckebeins Melone, die durch die Gegend <strong>kullerte</strong> wie ein betrunkener Kreisel.  (<i>Märzgefallene</i>, 399)',
 ],
 Kuppel: [
-	'die <strong>Kuppel</strong>,-<strong>n</strong>: dome   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kuppel" target="target1" >Kuppel</a>' ,
+	'die <strong>Kuppel</strong>,-<strong>n</strong>: dome <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kuppel"target="target1">Kuppel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kuppel"target="target2">Kuppel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kuppel"target="target3">Kuppel</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Weinert hatte die Leiter noch nicht erreicht, da wurde sein Blick nach oben gezogen wie von einem Magneten, und er sah die gläserne <strong>Kuppel</strong>, die über dem massiven Reichstagsgebäude thronte, mit einem Mal aufleuchten, als habe jemand eine riesige Glühbirne eingeschaltet.... Inzwischen war es auch kaum noch zu übersehen, so hell leuchtete die <strong>Kuppel</strong> in die diesige Winternacht. (<i>Märzgefallene</i>, 55-56)' ,
 	'Er schaute nach oben. Die Flammen hatten die <strong>Kuppel</strong> erreicht und leckten von innen am Glas, bis es splitterte, eine Scheibe nach der anderen. (<i>Märzgefallene</i>, 56)' ,
@@ -3619,13 +3630,13 @@ kurbeln: [
 	'Einer der Braunhemden, ein hageres, unscheinbares Kerlchen, das ohne Uniform ausgesehen hätte wie ein harmloser Buchhalter, klopfte an die Scheibe. Schulze <strong>kurbelte</strong> das Fenster herunter. (<i>Lunapark</i>, 8-9)' ,
 ],
 'kuscheln (sich)': [
-	'<strong>kuscheln (sich)</strong>: &nbsp;snuggle, cuddle up to  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kuscheln" target="target1" >kuscheln (sich)</a>',
+	'<strong>kuscheln (sich)</strong>: &nbsp;snuggle, cuddle up to <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuscheln"target="target1">kuscheln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kuscheln"target="target2">kuscheln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuscheln"target="target3">kuscheln</a> ',
 	'<u>Märzgefallene</u>',
 	'Die Augen fielen ihm (<i>Gereon</i>) bereits zu, außerdem war die Cognacflasche leer, und er wollte keine neue anbrechen. Er drückte die Zigarette aus und machte sich auf den Weg ins Bett. Dort <strong>kuschelte</strong> er <strong>sich</strong> an Charly, die irgendetwas Unverständliches murmelte und so gut roch, dass er sofort einschlief. (<i>Märzgefallene</i>, 171)' ,
 	'Charly stand auf. Sie torkelte ein wenig. Er (<i>Gereon</i>) stellte seinen Koffer ab und nahm sie in den Arm. Sie <strong>kuschelte sich</strong> richtiggehend in ihn hinein, so anhänglich hatte er sie lange schon nicht mehr erlebt. (<i>Märzgefallene</i>, 323-24)' ,
 ],
 kuschen: [
-	'<strong>kuschen</strong>: &nbsp;kowtow, submit, knuckle under; lie down  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kuschen" target="target1" >kuschen</a>' ,
+	'<strong>kuschen</strong>: &nbsp;kowtow, submit, knuckle under; lie down <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuschen"target="target1">kuschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kuschen"target="target2">kuschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuschen"target="target3">kuschen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Vogelsang, nun antworten Sie schon, wenn ich Sie aufrufe!" Der Schüler Vogelsang erhob sich und stand stramm wie auf dem Kasernenhof. Einen Moment wirkte es, als wolle er protestieren gegen diese Ungerechtigkeit, ließ es dann aber bleiben. Aus diesem Grunde hatte Meifert ihn ja auch ausgewählt. Vogelsang <strong>kuschte</strong> immer.   (<i>Märzgefallene</i>, 128)' ,
 ],
@@ -3731,14 +3742,14 @@ lodern: [
 	'Das Feuer <strong>loderte</strong> immer höher. Die Flammen spiegelten sich in den Fenstern des Opernhauses und der Kommode, der einstigen königlichen Bibliothek, die nun der Universität als Aulagebäude diente. (<i>Märzgefallene</i>, 556)' ,
 ],
 Lack: [
-	'der <strong>Lack</strong>,-<strong>e</strong>: &nbsp;varnish, paint, finish  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Lack" target="target1" >Lack</a> ' ,
+	'der <strong>Lack</strong>,-<strong>e</strong>: &nbsp;varnish, paint, finish <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lack"target="target1">Lack</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lack?q=Lack"target="target2">Lack</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Lack"target="target3">Lack</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Sein (<i>Raths</i>) grauer Hut wirkte zwischen all dem schwarzen <strong>Lack</strong> und den glitzernden Polizeisternen wie ein Fremdkörper.... (<i>Der Nasse Fisch</i>, 15)' ,
 	'Sie (<i>Charly</i>) ging nah an den Fahrzeugen vorbei. Das Licht der Straßenlaternen reichte kaum bis hierhin, sie musste ihre Augen anstrengen. Und doch fand sie es schließlich. Am Kotflügel eines pechschwarzen BMW. Heller <strong>Lack</strong>abrieb. (<i>Der Nasse Fisch</i>, 61)',
 	'<u>Goldstein</u>',
 	'Es roch nach Holz und Leim und frischem <strong>Lack</strong>.  (<i>Goldstein</i>, 9)' ,
 	'<u>Märzgefallene</u>',
-	'<i>Charly</i>: "Wie kommt es? Andere Menschen shildern Roddeck als durchaus charmant und liebenswert." <i>Die Gräfin</i>: "Das kann er auch sein. Wenn er etwas damit erreichen will. Aber im Grunde seines Herzens ist er ein durch und durch verkommenes Subjekt. Darüber täuschen der äußere Glanz und <strong>Lack</strong> und Charme nur hinweg." (<i>Märzgefallene</i>, 337)' ,
+	'<i>Charly</i>: "Wie kommt es? Andere Menschen schildern Roddeck als durchaus charmant und liebenswert." <i>Die Gräfin</i>: "Das kann er auch sein. Wenn er etwas damit erreichen will. Aber im Grunde seines Herzens ist er ein durch und durch verkommenes Subjekt. Darüber täuschen der äußere Glanz und <strong>Lack</strong> und Charme nur hinweg." (<i>Märzgefallene</i>, 337)' ,
 ],
 Laken: [
 	'das <strong>Laken</strong>,-<strong>n</strong>: &nbsp;sheet <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Laken" target="target1" >Laken</a> ' ,
@@ -4466,7 +4477,7 @@ quellen: [
 	'<i>der Polizeipräsident</i>: "Klappern Sie (<i>Rath</i>) sämtliche Personen ab, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!... Irgendwo muss der Mordjude doch sein. Und irgendwer wird es wissen, und den <strong>quetschen</strong> Sie aus." (<i>Märzgefallene</i>, 358)' ,
 	'"Hallo, Hannah", sagte Tante Charly, wie Fritze sie genannte hatte... "Wie geht\'s dir?" "Gut." Hannah <strong>quetschte</strong> das Wort förmlich aus sich heraus. Nur ein Wort, eine einzige Silbe, aber unendlich schwer auszusprechen.  (<i>Märzgefallene</i>, 465)' ,
 ],
-// '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',    Kribbeln:  
+// '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Quast: [
 	'der <strong>Quast</strong>,-<strong>e</strong>: wide paint brush  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Quast" target="target1" >Quast</a> ' ,
@@ -4561,7 +4572,7 @@ Rummel: [
 	'In der Kantine herrschte der übliche Rummel. Rath suchte sich einen einsamen Tisch etwas abseits, um Ruhe für Roddecks Roman zu haben.   (<i>Märzgefallene</i>, 260)',
 	'Friedrich Grimberg fragte sich, ob das alles Zufall sein konnte. Warum augerechnet hier? Warum ausgerechnet heute? Warum ausgerechnet zu einer Zeit, da hier solch ein <strong>Rummel</strong> herrschte?  (<i>Märzgefallene</i>, 258-59)',
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',    Kribbeln:  
+//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rührig: [
 	'<strong>rührig</strong>: &nbsp;entrepreneurial, strenuous, active  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/ruehrig" target="target1" >rührig</a> ' ,
@@ -4600,7 +4611,7 @@ recken: [
 	'<u>Märzgefallene</u>',
 	'Wie ein pelziger Flaum überzog maigrünes Grass die Buckellandschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe <strong>reckten</strong>. (<i>Märzgefallene</i>, 598)',
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',    Kribbeln:  
+//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rieseln: [
 	'<strong>rieseln</strong>: &nbsp;trickle, drizzle, dribble <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/rieseln" target="target1" >rieseln</a> ' ,
@@ -7684,6 +7695,7 @@ lasten Märzgefallene  535
  Polypen  Der Nasse Fisch  199
  'Postille'  ;   Nworte++;  auf die Pelle      Märzgefallene   19
  proppe(n)voll  Der Nasse Fisch 95
+ Prokurist  Lunapark 7
  pudern Der Nasse Fisch 119                  
  'pusten'  ;   Nworte++;   Märzgefallene   11   
  quittieren   Märzgefallene  509    

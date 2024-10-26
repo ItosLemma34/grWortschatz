@@ -1,5 +1,5 @@
 const m = [
-   'mäandern',
+   'mäandern',  // 'mäandern:
    'Machwerk',
    'malochen', //malochen:
    'Mangel (in die M. nehmen)' ,

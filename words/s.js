@@ -4,8 +4,9 @@ const s = [
    'Sause',  //Sause:
    'sausen' ,  
    'schaben'  ,     
-   'schade (zu schade sein)'  ,     
+   'schade (zu schade sein)'  , 
    'schälen' ,     
+ //  'Schank',  // Schank: needs work; remove ad blocker
    'Schar'  , 
    'Scharfmacher' ,   
    'schassen' ,     

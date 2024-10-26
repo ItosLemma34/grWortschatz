@@ -1,33 +1,33 @@
 const l = [
    'Lack',  // Lack:
-   'Lackaffe',
-   'lädieren',
-   'laff',
-   'Laken',
-   'lallen',
+   'Lackaffe',  // Lackaffe:
+   'lädieren',  // lädieren:
+   'laff',  // laff:
+   'Laken', // Laken:
+   'lallen',  // lallen:
    'Lappen',   //Lappen:
-   'lässig',
-   'lasten',
-   'Lauf',
-   'Laufbursche',
-   'lausig',
+   'lässig',  // lässig:
+   'lasten',  // lasten:
+   'Lauf',    // Lauf:
+   'Laufbursche',  // Laufbursche:
+   'lausig',  // lausig:
    'Leier',  // Leier: 
-   'leiern',   
-   'Leim, leimen',   
-   'Leinen',   
-   'Leiste', 
-   'Lenz' ,
-   'lichterloh brennen',
-   'Litfaßsäule',
-   'Lobhudelei, Hudelei',
-   'Loch in den Bauch fragen',
-   'lodern',
-   'loseisen',
-   'lotsen',
-   'Luder',
-   'lugen',             
-   'lumpen lassen (sich nicht)',
-   'Lunte riechen',
+   'leiern', // leiern:  
+   'Leim, leimen',  //  
+   'Leinen',  // Leinen:  
+   'Leiste',  // Leiste:
+   'Lenz' ,  // Lenz:
+   'lichterloh brennen',  //
+   'Litfaßsäule',  // Litfaßsäule:
+   'Lobhudelei, Hudelei',  //
+   'Loch in den Bauch fragen', //
+   'lodern',  // lodern:
+   'loseisen',  // loseisen:
+   'lotsen',  // lotsen:
+   'Luder',  // Luder:
+   'lugen',  // lugen:           
+   'lumpen lassen (sich nicht)', //
+   'Lunte riechen', //
 ];
 
 export default l;      

@@ -1479,11 +1479,17 @@ dumpf: [
 	'Er (<i>Scholten</i>) hatte es nicht einmal für nötig befunden, ihr (<i>Hannah</i>) den Mund zuzuhalten.... Weil er wusste, dass Hannahs Schreie ... niemanden stören würden. Und den Menschen, der sich mit <strong>dumpfen</strong> Schnaufen auf ihr bewegte, am allerwenigsten....  (<i>Märzgefallene</i>, 254)' ,
 	'Sie wusste nicht, ob die Bullen Fotos hatten, mit denen sie nach ihr suchten, damals nach dem Feuer hatten sie welche gemacht, aber die sahen ihr nicht ähnlich, so <strong>dumpf</strong> hatte Hannah damals in die Kamera geschaut. (<i>Märzgefallene</i>, 254)' ,
 ],
-Dunstkreis: [
-	'der <strong>Dunstkreis</strong>, -<strong>e</strong>: &nbsp;atmosphere, orbit, milieu <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dunstkreis"target="target1">Dunstkreis</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Dunstkreis"target="target2">Dunstkreis</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Dunstkreis"target="target3">Dunstkreis</a> ',
+'Dunst, Dunstkreis': [
+	'der <strong>Dunst</strong>, die <strong>Dünste</strong>: mist, haze  &nbsp;der <strong>Dunstkreis</strong>,-<strong>e</strong>: atmosphere, milieu <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dunstkreis"target="target1">Dunst</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dunstkreis"target="target2">Dunstkreis</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dunst"target="target3">Dunst</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dunstkreis"target="target4">Dunstkreis</a> ',
+	'<u>Der Nasse Fisch</u>',
+	'Die Tanzfläche des <i>Eldorado</i> füllte sich bereits, die Kapelle spielte schmissige Tanzmusik. Der blaue <strong>Dunst</strong> ungezählter Zigaretten hing in dem plüschigen.. Raum.  (<i>Der nasse Fisch</i>, 125)' ,
 	'<u>Märzgefallene</u>',
-	'Der Oberkommisar stemmte seinen schweren Körper in die Höhe und richtete sich auf.  Dem unmittelbaren <strong>Dunstkreis</strong> des Toten entkommen, konnte er endlich wieder frei atmen.  (<i>Märzgefallene</i>,  11)' ,
+	'Der Oberkommisar stemmte seinen schweren Körper in die Höhe und richtete sich auf.  Dem unmittelbaren <strong>Dunstkreis</strong> des Toten entkommen, konnte er endlich wieder frei atmen.  (<i>Märzgefallene</i>, 11)' ,
+	'<u>Lunapark</u>',
+	'Der Bier<strong>dunst</strong> und der Zigarettenrauch des gestrigen Abends lagen noch in der Luft.  (<i>Lunapark</i>, 32)' ,
 ],
+//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'durch den Wolf drehen': [
 	'<strong>durch den Wolf drehen</strong>: &nbsp;put through the grinder; give somebody a hard time <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=durch+den+Wolf+drehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">durch den Wolf drehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fleischwolf?q=jdn+durch+den+Fleischwolf+drehen"target="target2">durch den Wolf drehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+den+Wolf+drehen"target="target3">durch den Wolf drehen</a>     ' ,
 	'<u>Märzgefallene</u>',
@@ -3849,12 +3855,12 @@ Mumpitz: [
 	'Harald Hefner griff zu seiner Zigarrenkiste, fischte eine heraus und bot dann seinem Reporter eine an. "Zehn Minuten", sagte er... Weinert schaffte es in sieben. Der Chef vom Dienst hörte sich die Geschichte in aller Ruhe an, dann polterte er los. "Soll das heißen, all das, was wir... was <i>Sie</i> vor ein, zwei Wochen geschrieben haben, das war völliger <strong>Mumpitz</strong>?" <i>Weinert</i>: "Dieser <strong>Mumpitz</strong> war die offizielle Verlautbarung des Polizeipräsidiums Berlin..."   (<i>Märzgefallene</i>, 533)' ,
 ],
 mickrig: [
-	'<strong>mickrig</strong>: &nbsp;puny, pathethic, measly <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/mickrig" target="target1" >mickrig</a> ' ,
+	'<strong>mickrig</strong>: &nbsp;puny, pathethic, measly <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/mickrig"target="target1">mickrig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/mickerig"target="target2">mickrig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=mickrig"target="target3">mickrig</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Doktor Schwartz</i>: ".. Das ist das Berliner Leichenschauhaus. Was, frage ich Sie, was spricht dagegen, dass ich dort arbeite?" Rath wusste nicht, was er darauf antworten sollte... Verdammt, dachte er und erschrak über sich selbst, wenn das so weitergeht machen die Nazis aus uns noch ein Volk von misstrauischen, <strong>mickrigen</strong>, zitternden Angsthasen!     (<i>Märzgefallene</i>, 509)' ,
 ],
 Manschettenknopf: [
-	'der <strong>Manschettenknopf</strong>,-<strong>knöpfe</strong>: &nbsp;cuff link(s) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Manschettenknopf" target="target1" >Manschettenknopf</a> ' ,
+	'der <strong>Manschettenknopf</strong>,-<strong>knöpfe</strong>: &nbsp;cuff link(s) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Manschettenknopf"target="target1">Manschettenknopf</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/manschettenknopf"target="target2">Manschettenknopf</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Manschettenknopf"target="target3">Manschettenknopf</a>  ' ,
 //	'<u>Der Nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Achim Freiherr von Roddeck stand mit ausgestreckten Armen vor dem Spiegel und ließ sich gerade von einem Bediensteten die <strong>Manschettenknöpfe</strong> anlegen, als einer der wachhabenden Schupos den Kommissar (<i>Rath</i>) in die Suite führte.  (<i>Märzgefallene</i>, 479)' ,
@@ -3867,7 +3873,7 @@ munkeln: [
 	'<i>General Seegers</i>: "...Jedenfalls ist es (<i>das Gold</i>) wohl nicht da angekommen, wo es ankommen sollte." (<i>Rath</i>): "Bei den Sorokins." <i>Seegers</i>: "Oder bei ihren politischen Freunden. Man <strong>munkelt</strong>, die liberalen Sorokins hätten sich mit der <i> Krasnaja Krepost</i> zusammengetan, um Stalin gemeinsam die Macht zu entreißen."    (<i>Der Nasse Fisch</i>, 170)' ,
 ],
 'miefig, Mief': [
-	'<strong>miefig</strong>:  &nbsp;stuffy, stinky  &nbsp;der <strong>Mief</strong> (no plural): stuffiness, stink, bad air  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/miefig" target="target1" >miefig</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Mief" target="target1" >Mief</a>' ,
+	'<strong>miefig</strong>:  stuffy, stinky  &nbsp;der <strong>Mief</strong> (no plural): stuffiness, stink, bad air <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/miefig"target="target1">miefig</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Mief"target="target2">Mief</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=miefig"target="target3">miefig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Mief"target="target4">Mief</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Sie führte ihn (<i>Rath</i>) in ein altmodisch plüschig eingerichtetes Wohnzimmer. Obwohl es auch hier nach Putzmittel roch, kam Rath die Wohnung irgendwie <strong>miefig</strong> vor.  (<i>Der Nasse Fisch</i>, 107)' ,
 //	'<u>Märzgefallene</u>',
@@ -3880,14 +3886,14 @@ mäandern: [
 //'<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 malochen: [
-	'<strong>malochen</strong>: &nbsp; sweat, slave away <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/malochen"target="target1">malochen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/malochen"target="target2">malochen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/malochen"target="target3">malochen</a> ' ,
+	'<strong>malochen</strong>: &nbsp; sweat, slave away <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/malochen"target="target1">malochen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/malochen"target="target2">malochen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=malochen"target="target3">malochen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Keene Bange", sagte Felix, der ihren (<i>Hannahs</i>) Blick bemerkt hatte, und gab sich keine Mühe, die Stimme zu senken. "Hier is nur wochentags was los, wenn <strong>malocht</strong> wird. Jetzt is hier keene Menschenseele."  (<i>Märzgefallene</i>, 394)' ,
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: ".. Warum sind Sie denn nicht alle zur Wache? Ihre Kollegen sind ebenfalls Zeugen eines Mordfalls, da kann man sich doch nicht einfach so verdrücken. War Ihnen das nicht klar?" <i>der Arbeiter</i>: "Meenen Se, unsereins kann sich erlauben, hier stundenlang rumzustehen statt zu <strong>malochen</strong>?"  (<i>Lunapark</i>, 18)' ,
 ],
 Melone: [
-	'die <strong>Melone</strong>,-<strong>n</strong>: &nbsp;bowler hat; cantaloupe <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Melone" target="target1" >Melone</a> ' ,
+	'die <strong>Melone</strong>,-<strong>n</strong>: &nbsp;bowler hat; cantaloupe<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Melone"target="target1">Melone</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/melone"target="target2">Melone</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Melone"target="target3">Melone</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Oberkommissar Wilhelm Böhm schälte sich missmutig aus dem großen schwarzen Mercedes, der gerade am Tempelhofer Ufer angehalten hatte, und setzte seine <strong>Melone</strong> auf.  (<i>Der Nasse Fisch</i>, 56)' ,
 	'<u>Märzgefallene</u>',
@@ -3897,13 +3903,13 @@ Melone: [
 	'Mit einem klirrenden Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben... Jedenfalls blieb das Scheißding ein paar Meter hinter ihnen auf dem Pflaster liegen, ebenso wie Huckebeins <strong>Melone</strong>, die durch die Gegend kullerte wie ein betrunkener Kreisel.  (<i>Märzgefallene</i>, 399)',
 ],
 Meute: [
-	'die <strong>Meute</strong>,-<strong>n</strong>: &nbsp;mob, pack, rabble <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Meute" target="target1" >Meute</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/meute?q=Meute">Meute</a>' ,
+	'die <strong>Meute</strong>,-<strong>n</strong>: &nbsp;mob, pack, rabble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Meute"target="target1">Meute</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/meute"target="target2">Meute</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Meute"target="target3">Meute</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Sie wollen auch alle zu Herrn Rubens (<i>von Roddek</i>)?", fragte er die wartende Journalisten<strong>meute</strong>. (<i>Märzgefallene</i>, 329)' ,
 	'Und dann hatte Roddeck noch nicht einmal geredet wie angekündigt, sonder war einfach von der Bildfläche verschwunden. Geradezu geflüchtet... Als ob er geahnt habe, das da einer in der <strong>Meute</strong> der Journalisten lauere, der ihn in den vergangenen Wochen schon mit seinen Fragen belästigt hatte.   (<i>Märzgefallene</i>, 569)' ,
 ],
 Machwerk: [
-	'das <strong>Machwerk</strong>,-<strong>e</strong>: &nbsp;concoction, shoddy piece of work <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Machwerk" target="target1" >Machwerk</a> ' ,
+	'das <strong>Machwerk</strong>,-<strong>e</strong>: &nbsp;concoction; shoddy piece of work <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Machwerk"target="target1">Machwerk</a><br>English Definitions: &nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Machwerk"target="target2">Machwerk</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Machwerk"target="target3">Machwerk</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Weinert musste sich sogar einen Fahnenabzug von <i>Märzgefallene</i> besorgt haben, vielleicht gab es auch schon Vorabexemplare des Buches, jedenfalls zitierte er fröhlich aus Roddecks <strong>Machwerk</strong>. (<i>Märzgefallene</i>, 247)',
 	'Er (<i>Gereon</i>) erzählte Charly von seinem Besuch bei Sprengmeister Grimberg und dessen geringer Meinung von seinem ehemaligen Leutnant. Und von der Witwe Engel, die ihren Mann ebenfalls völlig anders geschildert hatte, als Roddeck das in seinem <strong>Machwerk</strong> tat. (<i>Märzgefallene</i>, 326)' ,
@@ -3911,7 +3917,7 @@ Machwerk: [
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Mangel (in die M. nehmen)': [
-	'jemanden <strong>in die Mangel nehmen</strong>: &nbsp;to grill someone, put through the wringer  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen" target="target1" >Mangel (in die Mangel nehmen)</a> ' ,
+	'jmdn: <strong>in die Mangel nehmen</strong>: &nbsp;grill someone, put through the wringer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target2">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target3">in die Mangel nehmen</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <strong>in die Mangel zu nehmen</strong>. (<i>Der Nasse Fisch</i>, 30)' ,
 	'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <strong>in die Mangel nehmen</strong> können. (<i>Der Nasse Fisch</i>, 102)' ,
@@ -3920,33 +3926,33 @@ Machwerk: [
 	'<i>Rath</i>:  "Was liegt denn so an heute?" Zientek schaute ihn an, als habe er gefragt, ob der Papst katholisch sei. "Na, was wohl? Wir machen da weiter, wo wir gestern aufgehört haben. Suchen uns einen freien Vernehmungsraum und <strong>nehmen</strong> Kommunisten <strong>in die Mangel</strong>."  (<i>Märzgefallene</i>, 215)' ,
 	'Hieß es nicht, Rache sei am besten kalt zu genießen? Und Leo merkte, wie sehr er es schon genoss, sich das Ganze in seiner Phantasie auszumalen. Wie er Katsche <strong>in die Mangel nehmen</strong> würde, Lapke und auch diesen Sperling. Und nicht zu vergessen diesen Kommissar. (<i>Märzgefallene</i>, 387)' ,
 ],
-'markieren': [
-	'<strong>markieren</strong>:  &nbsp;mark, tag, select; pretend to be<br><strong>den dicken Max markieren</strong>: &nbsp;show off, act like big shots<br><strong>den Magenkranken markieren</strong>: pretend to be sick (stomach ache) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/den%20dicken%20Max%20markieren" target="target1" >den dicken Max markieren</a>' ,
+'markieren (den dicken Max M.)': [
+	'<strong>markieren</strong>: &nbsp;mark, tag, select; &nbsp;pretend to be<br><strong>den dicken Max markieren</strong>: &nbsp;show off, act like big shots<br><strong>den Magenkranken markieren</strong>: pretend to be sick (stomach ache) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/markieren"target="target1">markieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/den%20dicken%20Max%20markieren"target="target2">den dicken Max markieren</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/markieren"target="target3">markieren</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=den+starken+Mann+markieren"target="target4">den starken Mann markieren</a> ', //&nbsp;&nbsp;<a href="X"target="target3"></a>  ' ,
 	'<u>Märzgefallene</u>',
-	'Er (<i>Rath</i>) war so in Gedanken, dass er jetzt erst merkte, welche Schlagzeile er da las. <i>Reichstag in Flammen. Holländischer Kommunist verhaftet</i>. Er musste sich die Augen reiben. Was war denn da los in Berlin...? Schlug die Rotfront jetzt zurück, nachdem die Nazis wochenlang <strong>den dicken Max markiert</strong> hatten? (<i>Märzgefallene</i>,  76)',
+	'Er (<i>Rath</i>) war so in Gedanken, dass er jetzt erst merkte, welche Schlagzeile er da las... <i>Reichstag in Flammen. Holländischer Kommunist verhaftet</i>. Er musste sich die Augen reiben. Was war denn da los in Berlin...? Schlug die Rotfront jetzt zurück, nachdem die Nazis wochenlang <strong>den dicken Max markiert</strong> hatten? (<i>Märzgefallene</i>,  76)',
 	'Es klingelte an der Tür, und sie (<i>Charly</i>) hielt überrascht inne. Wer konnte das sein. Für Gereon war es noch zu früh, es sei denn, er wäre in ihre Fußstapfen getreten und <strong>markierte den Magenkranken</strong>. (<i>Märzgefallene</i>, 351)',
 ],
 //'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 meckern: [
-	'<strong>meckern</strong>: grip, bellyache, bitch about   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/meckern" target="target1" >meckern</a> ' ,
+	'<strong>meckern</strong>: &nbsp;gripe, bellyache, bitch about <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/meckern"target="target1">meckern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/meckern"target="target2">meckern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=meckern"target="target3">meckern</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
-	'Der schwarze Wagen fuhr so schnell, als sei den beiden Frauen hinten in den Zinksärgen noch zu helfen... "Langsam", meinte Rath, "zwei Leichen reichen doch wohl." Der Fahrer nuschelte eine unverständliche Antwort und ging ein wenig vom Gas. Eher widerwillig. Vorhin schon hatte er <strong>gemeckert</strong>, als er hörte, dass es in die Hannoverche Straße ging. (<i>Der Nasse Fisch</i>, 76)' ,
+	'Der schwarze Wagen fuhr so schnell, als sei den beiden Frauen hinten in den Zinksärgen noch zu helfen... "Langsam", meinte Rath, "zwei Leichen reichen doch wohl." Der Fahrer nuschelte eine unverständliche Antwort und ging ein wenig vom Gas. Eher widerwillig. Vorhin schon hatte er <strong>gemeckert</strong>, als er hörte, dass es in die Hannoversche Straße ging. (<i>Der Nasse Fisch</i>, 76)' ,
 	'<u>Märzgefallene</u>',
 	'<i>Gereon</i>: "Du warst mit Kirie in Moabit?" <i>Charly</i>: "Greta nimmt sie, wenn ich arbeite. Irgendwo muss das arme Tier ja hin....Ich kann doch nicht jeden Tag den Portier fragen, ob er deinen Hund versorgt."  <i>Gereon</i>: "Aber Greta kannst du jeden Tag fragen?" <i>Charly</i>: "Sie ist meine Freundin, natürlich kann ich sie fragen. Sie <strong>meckert</strong> auch nicht, wenn es einmal später wird." (<i>Märzgefallene</i>, 89)' ,
 	'Der Kriminalsekretär (<i>Zientek</i>) guckte misstrauisch. "Suchen Sie (<i>Rath</i>) denn einen bestimmten? Dann können wir eine Anfrage stellen an die SA-Führung. Normalerweise kriegen wir die Leute dann einen Tag später frei Haus." Wieder ließ er sein <strong>meckerndes</strong> Lachen hören. "Manchmal allerdings etwas lädiert. Was für eine Befragung wiederum nicht das Verkehrteste ist." (<i>Märzgefallene</i>, 218)' ,
 ],
 'meucheln, Meuchelmord': [
-	'<strong>meucheln</strong>: assassinate &nbsp;&nbsp;der <strong>Meuchelmord</strong>,-<strong>e</strong>: assassination <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/meucheln" target="target1" >meucheln</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Meuchelmord" target="target2" >Meuchelmord</a> ', 
+	'<strong>meucheln</strong>: &nbsp;assassinate &nbsp;&nbsp;der <strong>Meuchelmord</strong>,-<strong>e</strong>: &nbsp;assassination <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/meucheln"target="target1">meucheln</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Meuchelmord"target="target2">Meuchelmord</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=meucheln"target="target3">meucheln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Meuchelmord"target="target4">Meuchelmord</a>  ', 
 	'<u>Märzgefallene</u>',
 	'"Ich rede nicht von Ermittlungsforschritten, Kommissar", unterbrach ihn (<i>Rath</i>) Magnus von Levetzow (<i>Nazi Polizeipräsident</i>). "So etwas interessiert mich nicht! Ich möchte, dass Sie diesen jüdischen <strong>Meuchelmörder</strong> aufspüren und zum Alex schaffen!"  (<i>Märzgefallene</i>, 252)' ,
 	'Leutnant Achim von Roddeck litt nicht under Verfolgungswahn, seine Befürchtungen trafen zu. Da war jemand unterwegs, der die Männer aus Roddecks alter Truppe <strong>meuchelte</strong>.   (<i>Märzgefallene</i>, 268)' ,                   
 	'Also hatte der Polizeipräsident (<i>Levetzow</i>) den unbotmäßigen Kommissar, der ihm den jüdischen <strong>Meuchelmörder</strong> trotz ausdrücklichen Befehls immer noch nicht geliefert hatte, weder tot noch lebendig, am Montagmorgen erneut zum Rapport befohlen. (<i>Märzgefallene</i>, 356)' ,
 ],
 Messing: [
-	'das <strong>Messing</strong> (no plural): &nbsp;brass   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Messing" target="target1" >Messing</a> ' ,
+	'das <strong>Messing</strong> (no plural): &nbsp;brass <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Messing"target="target1">Messing</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/messing"target="target2">Messing</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Messing"target="target3">Messing</a>  ' ,
 	'<u>Der Nasse Fisch</u>',
-	'Sie (<i>die Witwe Behnke</i>) hielt ihm (<i>Rath</i>) das billige, vergogene <strong>Messing</strong>schloss hin. "Wer es wohl aufgebrochen hat?", fragte sie und schaute ihn an, als wüsste ein Polizist auf solche Dinge immer eine Antwort. (<i>Der Nasse Fisch</i>, 90)' ,
+	'Sie (<i>die Witwe Behnke</i>) hielt ihm (<i>Rath</i>) das billige, verbogene <strong>Messing</strong>schloss hin. "Wer es wohl aufgebrochen hat?", fragte sie und schaute ihn an, als wüsste ein Polizist auf solche Dinge immer eine Antwort. (<i>Der Nasse Fisch</i>, 90)' ,
 	'<u>Märzgefallene</u>',
 	'Der (<i>Fritze</i>) schaute sich um und holte einen großen <strong>Messing</strong>aschenbecher aus einem der Warenregale, schleuderte ihn weit durch das Dämmerlicht, so dass er mit lautem Scheppern irgendwo am anderen Ende des riesigen Verkaufsraumes einschlug. (<i>Märzgefallene</i>, 173)' ,
 ],
@@ -4217,10 +4223,12 @@ Prothese: [
 	'Die hell erleuchteten Fassaden der Großstadt glitten an ihm vorüber, und er (<i>Osterberg</i>) lehnte sich zurück in die Leder<strong>polster</strong>. Mehr als zwei Stunden Fahrt lagen noch vor ihm...  (<i>Lunapark</i>, 7)' ,
 ],
 plüschig: [
-	'<strong>plüschig</strong>: &nbsp;plush, ostentatious &nbsp;der <strong>Plüsch</strong>,-<strong>e</strong>: &nbsp;plush (fabric) <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/plueschig" target="target1" >plüschig</a> ' ,
+	'<strong>plüschig</strong>: &nbsp;plush, ostentatious &nbsp;der <strong>Plüsch</strong>,-<strong>e</strong>: &nbsp;plush (fabric) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plueschig"target="target1">plüschig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pluschig"target="target2">plüschig</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/pl%C3%BCschig"target="target3">plüschig</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Sie führte ihn (<i>Rath</i>) in ein altmodisch <strong>plüschig</strong> eingerichtetes Wohnzimmer. Obwohl es auch hier nach Putzmittel roch, kam Rath die Wohnung irgendwie miefig vor.  (<i>Der Nasse Fisch</i>, 107)' ,
 //	'<u>Märzgefallene</u>',
+	'<u>Lunapark</u>',
+	'Die Tanzfläche des <i>Eldorado</i> füllte sich bereits, die Kapelle spielte schmissige Tanzmusik. Der blaue Dunst ungezählter Zigaretten hing in dem <strong>plüschigen</strong>.. Raum.  (<i>Der nasse Fisch</i>, 125)' ,
 ],
 paktieren: [
 	'<strong>paktieren</strong>: &nbsp;make a agreement/pact with so. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/paktieren" target="target1" >paktieren</a> ' ,

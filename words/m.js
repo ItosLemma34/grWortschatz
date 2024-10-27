@@ -1,17 +1,17 @@
 const m = [
-   'mäandern',  // 'mäandern:
-   'Machwerk',
+   'mäandern',  // mäandern:
+   'Machwerk',  // Machwerk:
    'malochen', //malochen:
-   'Mangel (in die M. nehmen)' ,
-   'Manschettenknopf',
-   'markieren'  ,
-   'meckern'  ,
-   'Melone',
-   'Messing' ,
-   'meucheln, Meuchelmord'  ,
-   'Meute',
-   'mickrig',
-   'miefig, Mief',
+   'Mangel (in die M. nehmen)' ,  //
+   'Manschettenknopf',  // Manschettenknopf:
+   'markieren (den dicken Max M.)',  // 
+   'meckern' ,  // meckern:
+   'Melone',  // Melone:
+   'Messing' ,  // Messing:
+   'meucheln, Meuchelmord' , //
+   'Meute',  // Meute:
+   'mickrig',  // mickrig:
+   'miefig, Mief',  //
    'mimen'  ,
    'Mohrrübe'  ,
    'Muffel'  ,

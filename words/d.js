@@ -19,7 +19,7 @@ const d = [
    /*'den Hintern plattsitzen', */
    'dudeln',   //dudeln: 
    'dumpf',    //dumpf: 
-   'Dunstkreis',  //Dunstkreis: 
+   'Dunst, Dunstkreis',  //
    'durch den Wind sein',  // 
    'durch den Wolf drehen',  // 
    'durchdrehen',    //durchdrehen: 

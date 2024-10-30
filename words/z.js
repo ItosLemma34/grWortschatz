@@ -45,6 +45,7 @@ const z = [
    'zupfen',  //zupfen:
    'zuprosten',  //zuprosten:
    'zurren, festzurren',  //
+   'zuschanzen',  // zuschanzen:
    'Zuspruch' ,  //Zuspruch:
    'zuwanken',   //zuwanken:
    'Zwang (sich keinen Z. antun)', //

@@ -20,7 +20,7 @@ const p = [
    'pieksen, piksen',
    'Pinkel' ,
    'pinkeln' ,
-   'pinseln' ,
+   'pinseln' ,  // pinseln:
    'Plackerei',
    'platschen',
    'Platzhirsch',

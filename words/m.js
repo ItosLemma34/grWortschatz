@@ -8,19 +8,19 @@ const m = [
    'meckern' ,  // meckern:
    'Melone',  // Melone:
    'Messing' ,  // Messing:
-   'meucheln, Meuchelmord' , //
+   'meucheln, Meuchelmord', //
    'Meute',  // Meute:
    'mickrig',  // mickrig:
    'miefig, Mief',  //
-   'mimen'  ,
-   'Mohrrübe'  ,
-   'Muffel'  ,
-   'Mühle' ,
-   'Mullbinde' ,
-   'Mumpitz',
-   'munkeln',
-   'Murmel' ,
-   'murren' ,
+   'mimen', // mimen:
+   'Mohrrübe', // Mohrrübe:
+   'Muffel',  // Muffel:
+   'Mühle',  // Mühle:
+   'Mullbinde', // Mullbinde:
+   'Mumpitz',  // Mumpitz:
+   'munkeln',  // munkeln:
+   'Murmel' , // Murmel:
+   'murren' , // murren:
 ];
 
 export default m;      

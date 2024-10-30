@@ -7,6 +7,7 @@ const b = [
     'Baskenmütze',  //Baskenmütze:  
     'bauschen',    //bauschen: 
     'bedröppelt',  //bedröppelt: 
+    'beflissen',  //beflissen:
     'begrapschen',  //begrapschen: 
     'behelligen',   //behelligen:  
     'beherzt',     //beherzt:  

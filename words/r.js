@@ -29,13 +29,14 @@ const r = [
    'rieseln',
    'Rinde',
    'Rindvieh' ,
+   'Rinne',  // Rinne:
    'Rinnsal' ,
    'Ritze'  ,
    'robben' ,
    'röcheln', //röcheln:
    'roden' ,
    'rosten' ,
-   'Rottenführer',  //Rottenführer:
+   'Rottenführer',  // Rottenführer:
    'rührig',
    'Rummel',
    'rumpeln',

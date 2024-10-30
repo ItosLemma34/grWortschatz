@@ -26,7 +26,7 @@ const f = [
    'fleddern',  //fleddern:             
    'flehen, flehentlich',  //  
    'flicken',  //flicken:  
-   'Fliese',   //Fliese:  
+   'Fliese, fliesen',   //  
    'flink',  //flink:  
    'flöten', //flöten:  
    'flott',  //flott:    

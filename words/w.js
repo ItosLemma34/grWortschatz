@@ -4,6 +4,7 @@ const w = [
    'waghalsig',  //waghalsig:
    'wähnen',  //wähnen:
    'wälzen (sich)',  //
+   'Wampe', // Wampe:
    'Wappen' ,  //Wappen:
    'Wassern (mit allen W. gewaschen)',  //
    'wedeln' ,  //wedeln:

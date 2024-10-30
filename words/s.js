@@ -19,6 +19,7 @@ const s = [
    'Scherbe' ,
    'scheren (sich)'  ,
    'scheuern'  ,
+   'Schiefertafel', // Schiefertafel:
    'schielen'  ,  // schielen:
    'schikanieren'  ,
    'Schilde (etwas im S. führen)',
@@ -56,13 +57,14 @@ const s = [
    'schnarchen' ,
    'schnarren',  //schnarren:
    'schnattern, in einem fort'  ,  //
+   'schnaufen',  // schnaufen: 
    'schneidig'  , 
    'schnieke',
    'schnippen',
    'schnippisch'  ,  
    'schnörkelig'  ,
    'schnorren, anschnorren' ,
-   'Schnösel'  ,
+   'Schnösel' ,  // Schnösel:
    'schnuppern'  ,
    'Schnur'  ,
    'schnurstracks' ,
@@ -76,7 +78,7 @@ const s = [
    'Schrott'  ,
    'Schrubber'  ,
    'schubsen' ,
-   'schummrig',
+   'schummrig',  // schummrig:
    'Schund'  ,
    'schunkeln' ,
    'Schuppen',   //Schuppen:
@@ -148,6 +150,7 @@ const s = [
    'strunzdämlich'  ,
    'Stulle',
 	'stülpen (sich)', //
+   'Stummel',  // Stummel:
    'stümperhaft',
    'süffisant',
    'summen',

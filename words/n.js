@@ -1,21 +1,20 @@
 const n = [
-   'nach dem Rechten sehen',
-   'nachhaken'  ,
-   'Nachhut',
-   'nachsetzen',
-   'Nase (lange Nase zeigen)',
-   'nässen, durchnässen',
-   'Nepp',
-   'Nervensäge',
-   'Nessel (sich in die Nesseln setzen)'  ,
-   'nesteln',
-   'Nichts für ungut',
-   'niederreißen'  ,
+   'nach dem Rechten sehen', //
+   'nachhaken',  // nachhaken:
+   'Nachhut', // Nachhut:
+   'nachsetzen',  // nachsetzen:
+   'Nase (lange N. zeigen/machen)', //
+   'Nepp',  // Nepp:
+   'Nervensäge', // Nervensäge:
+   'Nessel (sich in die Nesseln setzen)', //
+   'nesteln', // nesteln:
+   'Nichts für ungut', //
+   'niederreißen'  ,  // niederreißen:
    'niegelnagelneu',  //niegelnagelneu:
-   'niesen'  ,
-   'Nobel geht die Welt zugrunde'  ,
+   'niesen',  // niesen:
+   'Nobel geht die Welt zugrunde' , //
    'nuscheln', //nuscheln:
-   'Nutte',        
+   'Nutte',  // Nutte:        
  ];
 
 export default n;      

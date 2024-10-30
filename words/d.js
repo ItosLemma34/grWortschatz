@@ -25,6 +25,7 @@ const d = [
    'durchdrehen',    //durchdrehen: 
    'durchkämmen',    //durchkämmen: 
    'durchmogeln (sich)',  // 
+   'durchnässen',  //  durchnässen:
 ];
 
 export default d;

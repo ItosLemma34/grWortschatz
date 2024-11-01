@@ -15,7 +15,7 @@ const s = [
    'scheiteln, Scheitel',
    'Scheiterhaufen',
    'schellen',
-   'scheppern' ,
+   'scheppern' ,  // scheppern:
    'Scherbe' ,
    'scheren (sich)'  ,
    'scheuern'  ,
@@ -71,7 +71,7 @@ const s = [
    'schnurz­pie­pe, schnurzegal',
    'Schotter' ,
    'schrammen',
-   'schrappen',
+   'schrappen',  // schrappen:
    'Schraubstock',
    'Schrippe',
    'Schritt',  // Schritt:
@@ -114,14 +114,14 @@ const s = [
    'Sprechmuschel'  ,
    'Spreu vom Weizen trennen',
    'Spülbürste',
-   'Spüle, spülen',
+   'Spüle, spülen', //
    'spuren' ,
    'sputen (sich)' ,
    'Stadtstreicher' ,
    'staksen'  ,
    'Standpauke' ,
    'Stange'  ,
-   'Stapel, stapeln' ,
+   'Stapel, stapeln' , //
    'stapfen',  //stapfen:
    'starren (vor Schmutz starren)' ,
    'Statist' ,
@@ -138,6 +138,7 @@ const s = [
    'stöckeln, Stöckelschuh',
    'stöhnen',
    'stopfen, Stopfen',
+   'Stöpsel',   // Stöpsel:
    'stolzieren',
    'strampeln',
    'Strebe'  ,
@@ -153,9 +154,9 @@ const s = [
    'Stummel',  // Stummel:
    'stümperhaft',
    'süffisant',
-   'summen',
+   'summen', // summen:
    'Sündenpfuhl',
-   'surren',   //surren:
+   'surren',   //surren:  
    ];
 
 export default s;      

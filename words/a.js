@@ -65,6 +65,7 @@ const a = [
 	'auf den Strich gehen', //
 	'auf den Wecker gehen', //
 	'auf den Zahn fühlen',  //
+	'auf der Hut sein',  //
 	'auf die Nase binden',  //
 	'auf die Palme treiben/bringen',  
 	'auf die Pelle rücken',   //

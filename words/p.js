@@ -2,7 +2,7 @@ const p = [
    'Pächter',
    'paktieren',
    'Pantoffel (unter dem P. stehen)',
-   'Pappe',
+   'Pappe', // Pappe:
    'Pappenstiel',
    'Pegel',
    'Pest an den Hals',

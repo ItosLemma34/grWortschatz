@@ -64,7 +64,7 @@ const g = [
    'Grünschnabel',  //Grünschnabel:  x
    'grunzen',   //grunzen:  x
    'Grüßaugust',  //Grüßaugust:  x
-   'Gully',  //Gully:  x
+   'Gully',  //Gully:  
    'gurren',  //gurren:  x
    'Gurt',   //Gurt:  x    
    'gut in Schuss',  //     x   

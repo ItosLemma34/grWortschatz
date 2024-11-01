@@ -12,6 +12,7 @@ const k = [
    'Kassiber',  //Kassiber:
    'katzbuckeln',  //katzbuckeln:
    'kauern',  //kauern:
+   'Kauz',  // Kauz:
    'kauzig',  //kauzig:
    'kegeln',  //kegeln:
    'keilen, Keil', //
@@ -70,6 +71,7 @@ const k = [
    'Knöchel',  // Knöchel: 
    'Knochen/Kopf hinhalten', //
    'knuffen',  // knuffen:
+   'knüllen',  // knüllen:
    'Knüller',  // Knüller:
    'Knüppel', // Knüppel:
    'knurren',  // knurren:  

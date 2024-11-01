@@ -1,6 +1,7 @@
 const v = [
    'Ventil',  //Ventil:
    'Verband' ,  //Verband:
+   'verblassen', // verblassen:
    'verbeulen', //verbeulen:
    'verbocken' , //verbocken:
    'verdampfen',  //verdampfen:
@@ -72,7 +73,7 @@ const v = [
    'vertun, vertan',  //
    'verunglimpfen',  //verunglimpfen:
    'verunzieren' ,  //verunzieren:
-   'Verwahrlosung' , //Verwahrlosung:
+   'Verwahrlosung, verwahrlosen' , //
    'verwaisen'  ,  //verwaisen:
    'verwegen' ,  //verwegen:
    'verwesen, Verwesung' ,  //

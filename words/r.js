@@ -21,7 +21,7 @@ const r = [
    'reißen (sich um etwas)' ,
    'reißerisch' ,
    'Rempler',
-   'renitent' ,
+   'renitent' ,  // renitent:
    'requirieren' ,
    'reüssieren',
    'Revers',
@@ -30,7 +30,7 @@ const r = [
    'Rinde',
    'Rindvieh' ,
    'Rinne',  // Rinne:
-   'Rinnsal' ,
+   'Rinnsal' , // Rinnsal:
    'Ritze'  ,
    'robben' ,
    'röcheln', //röcheln:

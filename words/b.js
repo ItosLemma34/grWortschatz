@@ -35,7 +35,8 @@ const b = [
     'blendend',  //blendend:  
     'blinzeln',  //blinzeln:  
     'Blöße',   //Blöße: 
-    'bloßstellen',  //bloßstellen:  
+    'bloßstellen',  //bloßstellen:
+    'bockig' ,  // bockig: 
     'Bodensatz',  //Bodensatz:  
     'Bogen (den B. raushaben)',  // 
     'Bohle',    //Bohle:  

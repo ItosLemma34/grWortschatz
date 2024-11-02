@@ -2,6 +2,7 @@ const b = [
     'Bahre',  //Bahre:
     'Balken', //Balken:  
     'ballern',  //ballern:  
+    'Banderole', // Banderole:
     'barsch',   //barsch:
     'Bartstoppeln', //Bartstoppeln: 
     'Baskenmütze',  //Baskenmütze:  

@@ -4,6 +4,7 @@ const p = [
    'Pantoffel (unter dem P. stehen)',
    'Pappe', // Pappe:
    'Pappenstiel',
+   'Patrone', // Patrone:
    'Pegel',
    'Pest an den Hals',
    'petzen',
@@ -42,6 +43,7 @@ const p = [
    'pudern',
    'Pulle',
    'Pute',
+   'Putz', // Putz:
   ];
 
 export default p;      

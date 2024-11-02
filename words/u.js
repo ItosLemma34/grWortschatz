@@ -10,6 +10,7 @@ const u = [
    'übers Ohr hauen', //
    'überwuchern',  //überwuchern:
    'um den heißen Brei herumreden', //
+   'umkrempeln', // umkrempeln:
    'ummähen' ,  //ummähen:
    'umpflügen',  //umpflügen:
    'umständlich',  //umständlich:

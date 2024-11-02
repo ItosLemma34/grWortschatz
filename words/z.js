@@ -20,6 +20,7 @@ const z = [
    'zermatschen',  //zermatschen:
    'zerpflücken',  //zerpflücken:
    'zerren' ,      //zerren:
+   'zerschießen',  // zerschießen:
    'zerschunden' ,  //zerschunden:
    'zerwühlen' ,    //zerwühlen:
    'zerzausen' ,    //zerzausen:

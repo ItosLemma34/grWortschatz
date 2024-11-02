@@ -15,7 +15,8 @@ const e = [
    'einrasten',  //einrasten:  
    'einreißen',  //einreißen:  
    'einrüsten',  //einrüsten:  
-   'einseifen',  //einseifen:  
+   'einseifen',  //einseifen: 
+   'Einstand' ,  // Einstand:
    'einstäuben',  //einstäuben:  
    'einstecken',  //einstecken:  
    'Eintänzer',   //Eintänzer:  

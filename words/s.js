@@ -26,7 +26,7 @@ const s = [
    'Schimmel, (ver)schimmeln',
    'Schimmer (keinen blassen S.)', //
    'schimmern'  ,
-   'Schinder, schinden' ,
+   'Schinder, schinden' , //
    'Schlamassel',
    'schlampig',  //schlampig:
    'Schlauberger',
@@ -120,7 +120,7 @@ const s = [
    'Stadtstreicher' ,
    'staksen'  ,
    'Standpauke' ,
-   'Stange'  ,
+   'Stange',  // Stange:
    'Stapel, stapeln' , //
    'stapfen',  //stapfen:
    'starren (vor Schmutz starren)' ,

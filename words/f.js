@@ -1,4 +1,5 @@
 const f = [
+   'fächern', // fächern:
    'fackeln',  //fackeln:  
    'fadenscheinig',  //fadenscheinig:  
    'Fahne (von der F. gehen)',  // 

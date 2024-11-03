@@ -18,6 +18,7 @@ const u = [
    'unbotmäßig',  //unbotmäßig:
    'ungehobelt',  //ungehobelt:
    'ungelegen' ,  //ungelegen:
+   'ungestüm',  // ungestüm:
    'unten durch sein', //
    'unterbuttern',  //unterbuttern:
    'unterjubeln',  //unterjubeln:

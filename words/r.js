@@ -10,6 +10,7 @@ const r = [
    'rascheln',
    'rasen',  //rasen:
    'Ratsch'  ,
+   'Rätselraten', // Rätselraten:
    'rattern' ,  //rattern:              
    'Räuberpistole' ,
    'Rauflust',  //Rauflust:

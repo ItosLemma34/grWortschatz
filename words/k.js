@@ -24,6 +24,7 @@ const k = [
 //   'Kieker (auf dem Kieker haben)',
    'Kies, Kiesel', //
    'Kinderficker',  //Kinderficker:
+   'Kinkerlitzchen', // Kinkerlitzchen:
    'Kipplaster',  //Kipplaster:
    'Kirschen essen', //
    'Kittel',  //Kittel:
@@ -102,6 +103,7 @@ const k = [
    'Kribbeln',  // Kribbeln:
    'Kringel',  //Kringel:
    'kritzeln' ,  // kritzeln:
+   'Kröte schlucken', //
    'Krümel',  //Krümel:
    'krümmen (sich)',//
    'kullern', // kullern:

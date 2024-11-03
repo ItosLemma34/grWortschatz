@@ -20,6 +20,7 @@ const f = [
    'fingieren',  //fingieren:  
    'Fischzug',   //Fischzug:  
    'Fittich (unter Fittiche nehmen)', //  
+   'Flachpfeife', // Flachpfeife:
    'flapsig',  //flapsig:  
    'flattern', //flattern:  
    'Flaum',  //Flaum:  

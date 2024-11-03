@@ -351,13 +351,15 @@ ausquetschen: [
 	'<u>Märzgefallene</u>',
 	'Inzwischen hatte er (<i>Rath</i>) sich in seinen Fall hineingebissen. Drei Tote, das war enschieden zu viel. Dass der Polizeipräsident <strong>ihm</strong> deswegen noch <strong>aufs Dach steigen</strong> würde, war nicht einmal das Schlimmste.... (<i>Märzgefallene</i>, 351)',
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+// '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 anhimmeln: [
 	'<strong>anhimmeln</strong>: &nbsp;idolize, adore, gaze lovingly at <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/anhimmeln"target="target1">anhimmeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anhimmeln"target="target2">anhimmeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/anhimmeln"target="target3">anhimmeln</a>',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Reinhold ist ein netter Kerl, ich kann mir überhaupt nicht vorstellen, dass er Nazi ist." <i>Gereon</i>: "Keiner von den brutalen, böswilligen. Eher einer von den schwärmerischen. Wie die vielen Frauen, die Hitler <strong>anhimmeln</strong>.  (<i>Märzgefallene</i>, 325)',
 	'Roddeck blizte ihn (<i>Rath</i>) zornfunkelnd an. Die Temme hatte aufgehört, den Leutnant <strong>anzuhimmeln</strong>, und kozentrierte sich nun ganz auf ihren Stenoblock und ihren Bleistift.  (<i>Märzgefallene</i>, 342)',
+	'<u>Lunapark</u>',
+	'"Danke, Mettmann", sagte Gräf. "Stellen Sie die Sachen doch bitte auf den Besuchertisch." Die Mettmann reagierte mit einem Lächeln, das nahelegte, dass die junge Sekretärin ihren Chef <strong>anhimmelte</strong>.  (<i>Lunapark</i>, 56)',
 ],
 austüfteln: [
 	'<strong>austüfteln</strong>: &nbsp;puzzle out, work out <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/austuefteln"target="target1">austüfteln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/austuefteln#aust%C3%BCfteln"target="target2">austüfteln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/austufteln"target="target3">austüfteln</a>   ',
@@ -1789,6 +1791,11 @@ ergattern: [
 ],
 // Fstart '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Flachpfeife: [
+	'die <strong>Flachpfeife</strong>,-<strong>n</strong>: &nbsp;windbag <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flachpfeife"target="target1">Flachpfeife</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Flachpfeife"target="target2">Flachpfeife</a>&nbsp;&nbsp;<a href="https://en.wiktionary.org/wiki/Flachpfeife"target="target3">Flachpfeife</a>' ,
+	'<u>Lunapark</u>',
+	'<i>Gräf</i>: ".. Der Mordinspektion werden bei der Gelegenheit auch die Mörder des armen Kameraden Kaczmarek in die Hände fallen.. Es ist wichtig, dass wir zusammenarbeiten und nicht gegeneinander." Das solltest du deiner <strong>Flachpfeife</strong> (<i>SS-Truppführer Pfeiffer</i>) besser mal einimpfen, hätte Rath am liebsten gesagt, doch er biss sich auf die Zunge. (<i>Lunapark</i>, 60)',
+],
 fächern: [
 	'<strong>fächern</strong>: &nbsp;spread, fan out <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/faechern_einteilen"target="target1">fächern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fachern"target="target2">fächern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=fächern"target="target3">fächern</a>' ,
 	'<u>Lunapark</u>',
@@ -2942,7 +2949,17 @@ johlen: [
 	'Die Feuersprüche gingen weiter, immer mehr Bücher flogen ins Feuer. Als der Name Remarque fiel, erhob sich zum ersten Mal eine Art Applaus oder eher ein <strong>Johlen</strong>. Einer von Roddecks Konkurrenten, die fortan keine Bücher mehr in Deutschland verkaufen würden.   (<i>Märzgefallene</i>, 561)' ,
 ],
 // Kstart '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Kinkerlitzchen: [
+	'die <strong>Kinkerlitzchen</strong>,-: &nbsp;trifles, knicknacks  <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kinkerlitzchen"target="target1">Kinkerlitzchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kinkerlitzchen"target=target2>Kinkerlitzchen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Kinkerlitzchen"target="target3">Kinkerlitzchen</a>' ,
+	'<u>Lunapark</u>',
+	'"Du (<i>Gräf</i>) hast was?", unterbrach Rath. "Du lässt deine eigene kriminaltechnische Untersuchung neben der unseren laufen? <i>Gräf</i>: "Ich lass nur Proben untersuchen. Ich hätte meine Leute Morgen auch mitbringen können, Gereon! Ich wollte Kronberg aber nicht damit düpieren, dass Kreutzmann am Tatort auftaucht und mit seinen Männern ebenfalls Spuren sichert. Obwohl ich jedes Recht dazu gehabt hätte..." <i>Rath</i>: "Du behinderst meine Ermittlungen mit solchen <strong>Kinkerlitzchen</strong>...:   (<i>Lunapark</i>, 55)' ,
+],
+'Kröte schlucken': [
+	'<strong>Kröte schlucken</strong>,-: bite the bullet &nbsp;&nbsp;die <strong>Kröte</strong>,-<strong>n</strong>: toad <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eine%20Kr%C3%B6te%20schlucken"target="target1">Kröte schlucken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=die+Kr%C3%B6te+schlucken"target=target2>Kröte schlucken</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/kr%C3%B6te%20schlucken"target="target3">Kröte schlucken</a>' ,
+	'<u>Lunapark</u>',
+	'Vielleicht, dachte Rath,..  vielleicht hätte er im März 33 doch bei der Politischen Polizei bleiben sollen, sosehr es ihm auch widerstrebt hatte. Aber musste man im Berufsleben nicht manchmal <strong>Kröten schlucken</strong>?  (<i>Lunapark</i>, 55)',
+],
 Kauz: [
 	'der <strong>Kauz</strong>,-: &nbsp;oddball; screech owl <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kauz"target="target1">Kauz</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kauz"target=target2>Kauz</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kauz"target="target3">Kauz</a>' ,
 	'<u>Lunapark</u>',
@@ -3404,14 +3421,16 @@ klauben: [
 	'<strong>klauben</strong>: &nbsp;gather, collect, select, pick out <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klauben"target="target1">klauben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klauben"target="target2">klauben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klauben"target="target3">klauben</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Während einer der Wärter Hannahs Arme nach hinten auf den Boden drückte und der andere sich mit seinem ganzen Gewicht auf ihre zappelnden Beine warf, <strong>klaubte</strong> Oberschwester Ingeborg dem Mädchen das Foto aus der Hand. (<i>Märzgefallene</i>, 48)' ,
+	'<u>Lunapark</u>',
+	'Gräf <strong>klaubte</strong> die Fotos vom Schreibtisch, stauchte sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück.  (<i>Lunapark</i>, 60)' ,
 ],
 Klaue: [
 	'die <strong>Klaue</strong>,-<strong>n</strong>: &nbsp;claw <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klaue_Kralle"target="target1">Klaue</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klaue?q=Klaue"target="target2">Klaue</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klaue"target="target3">Klaue</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Herr Juretzka ist ein wichtiger Zeuge in einer Mordermittlung, die ich gerade führe", sagte Rath und wusste selbst nicht, welcher Teufel ihn ritt. Er wusste nur, das er den armen Kerl da auf dem Stuhl irgendwie aus den <strong>Klauen</strong> der SA befreien musste. (<i>Märzgefallene</i>, 231)' ,
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä dudeln: ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Klemme: [
 	'die <strong>Klemme</strong>,-<strong>n</strong>: &nbsp;clip, fastener, clamp; &nbsp;awkward position, tight spot, dilemma <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klemme"target="target1">Klemme</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klemme?q=Klemme"target="target2">Klemme</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klemme"target="target3">Klemme</a> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -3808,8 +3827,8 @@ lotsen: [
 	'Nachdem das Mädchen in der Carmerstraße allen die Garderobe abgenommen hatte, <strong>lotste</strong> Rath die Hochzeitsgesellschaft in den Salon, wie sie das Wohnzimmer heute nannte, und schloss die Tür, bevor Kirie hindurchschlüpfen konnte.  (<i>Märzgefallene</i>, 583)' ,
 	'Ohne Greta hätte Rath wohl nie herausgefunden, wohin Paul mit Charly gefahren war. Sie hatte ihn mit schlafwandlerischer Sicherheit zum Poststadion <strong>gelost</strong>, wo sie Charly und Paul gerade noch aus einem Taxi hatten steigen sehen. (<i>Märzgefallene</i>, 599)' ,
 ],
-//'<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 lausig: [
 	'<strong>lausig</strong>: &nbsp;crummy, dreadful, awful <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lausig"target="target1">lausig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lausig"target="target2">lausig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lausig"target="target3">lausig</a> ' ,
 	'<u>Märzgefallene</u>',
@@ -3826,7 +3845,9 @@ Litfaßsäule: [
 	'die <strong>Litfaßsäule</strong>,-<strong>n</strong>: &nbsp;advertising pillar/column <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Litfaszsaeule"target="target1">Litfaßsäule</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/litfasssaule"target="target2">Litfaßsäule</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Litfa%C3%9Fs%C3%A4ule"target="target3">Litfaßsäule</a> ' ,
 	'<u>Der Nasse Fisch</u>',
 	'Die Ampel am Verkehrsturm sprang gerade wieder auf Grün, als er (<i>Rath</i>) das Plakat an der <strong>Litfaßsäule</strong> sah... Vor der haushohen Plakatwand, die einen Bauplatz vom Gehweg abschirmte, stand die <strong>Litfaßsäule</strong>. (<i>Der Nasse Fisch</i>, 148)' ,
-],
+	'<u>Lunapark</u>',
+	'Die Akte enthielt Fotos, die - jeweils auf ein gelochtes Blatt Papier geklebt, auf dem ein Datum und eine Adresse vermerkt waren - kommunistische Parolen zeigten, an Hauswänden, Mauern, Baustellenzäunen, sogar <strong>Litfaßsäulen</strong>.. ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHISTEN! (<i>Lunapark</i>, 54)' ,
+], 
 lallen: [
 	'<strong>lallen</strong>: &nbsp;mumble, babble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lallen"target="target1">lallen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lallen"target="target2">lallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lallen"target="target3">lallen</a> ' ,
 	'<u>Der Nasse Fisch</u>',
@@ -4235,6 +4256,8 @@ Ordner: [
 	'der <strong>Ordner</strong>,-: &nbsp;binder, folder, file; steward, marshal <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ordner"target="target1">Ordner</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ordner?q=Ordner"target="target2">Ordner</a> &nbsp;<a href="https://www.verbformen.com/?w=Ordner"target="target3">Ordner</a>' ,
 	'<u>Lunapark</u>',
 	'Gräf grinste und öffnete einen Schrank neben der Fahne. Er musste nur ein paar <strong>Ordner</strong> durchgehen, dann hatte er gefunden, was er suchte. Er öffnete eine dicke Aktenmappe und fächerte deren Inhalt auf den Schreibtisch wie ein Kartenspiel.  (<i>Lunapark</i>, 54)' ,
+	'Gräf zog eine Personenakte aus einem anderen Ordner und breitete sie vor Rath aus.   (<i>Lunapark</i>, 55)' ,
+	'Er (<i>Gräf</i>) zog eine weitere Mappe aus dem Ordner.   (<i>Lunapark</i>, 56)' ,
 ],
 
 //Pstart
@@ -4527,6 +4550,8 @@ pinseln: [
 	'Deswegen waren die Fotos auf ihrem (<i>Charlys</i>) Schreibtisch gelandet. Weil die Politische Polizei vermutete, dass die Parole von irgendeiner wilden Clique dorthin <strong>gepinselt</strong> worden war, und Jugendbanden fielen in den Bereich der Weiblichen Kriminalpolizei.  (<i>Märzgefallene</i>, 30)',
 	'<u>Lunapark</u>',
 	'Alles deutete darauf hin, dass Rottenführer Kaczmarek auf dem Heimweg von Kneipe und Kumpanen einen Trupp kommunistischer Widerständler beim Parolen<strong>pinseln</strong> erwischt und das mit dem Leben bezahlt hatte. (<i>Lunapark</i>, 36)' ,
+	'Die Akte enthielt Fotos, die.. kommunistische Parolen zeigten, an Hauswänden, Mauern, Baustellenzäunen, sogar Litfaßsäulen.. ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHISTEN! Sogar die Handschrift war identisch, wenn man bei meterhoch <strong>gepinselten</strong> Buchstaben überhaupt von so etwas wie einer Handschrift sprechen konnte.  (<i>Lunapark</i>, 54)' ,
+	'"Verstehe", sagte Rath. "Ihr (<i>Gräf und die Staatspolizei</i>) hofft also, das ihr, wenn ihr diesem Wolff auf die Spur kommt, gleich eine ganze Bande Rotfrontkämpfer schnappt, die auf Stalins Geheiß in Berlin Wände <strong>bepinselt</strong>. (<i>Lunapark</i>, 57)' ,
 ],
 platschen: [
 	'<strong>platschen</strong>: splash  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/platschen" target="target1" >platschen</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/platschen" target="target2">platschen</a>' ,
@@ -4651,6 +4676,11 @@ quitt: [
 ],
 // Rstart '<u>Der Nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Rätselraten: [
+	'das <strong>Rätselraten</strong>, (no plural): &nbsp; speculation, guessing game <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Raetselraten"target="target1">Rätselraten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ratselraten"target="target2">Rätselraten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rätselraten"target="target3">Rätselraten</a> ' ,
+	'<u>Lunapark</u>',
+	'<i>Rath</i>: "Ersparnisse, SA-Eigentum - haben Sie noch mehr Vermutungen? Genau deswegen sollten die Scheine untersucht werden! Damit wir hier kein <strong>Rätselraten</strong> veranstalten müssen."  (<i>Lunapark</i>, 59)' ,  
+], 
 Rinne: [
 	'die <strong>Rinne</strong>,-<strong>n</strong>: &nbsp; channel, gutter <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rinne"target="target1">Rinne</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rinne"target="target2">Rinne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rinne"target="target3">Rinne</a> ' ,
 	'<u>Lunapark</u>',
@@ -4963,6 +4993,11 @@ rumpeln:[
 ],
 // Sstart '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö ü Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können  würde <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+stauchen: [
+	'<strong>stauchen</strong>: &nbsp;compress <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stauchen"target="target1">stauchen</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stauchen"target="target2">stauchen</a> &nbsp;<a href="https://www.verbformen.com/?w=stauchen"target="target3">stauchen</a> ',
+	'<u>Lunapark</u>',  
+  'Gräf klaubte die Fotos vom Schreibtisch, <strong>stauchte</strong> sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück.  (<i>Lunapark</i>, 60)' ,
+],
 Stöpsel: [
 	'der <strong>Stöpsel</strong>,-: cork, plug, stopper &nbsp;&nbsp;&nbsp;<strong>Watte</strong>: cotton, padding <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stoepsel"target="target1">Stöpsel</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stopsel_2"target="target2">Stöpsel</a> &nbsp;<a href="https://www.verbformen.com/?w=Stöpsel"target="target3">Stöpsel</a> ',
 	'<u>Lunapark</u>', 
@@ -6006,6 +6041,7 @@ Stange: [
 	'Sie (<i>Charly und Gereon</i>) folgten dem leicht gewundenen Weg. Überall am Wegesrand <strong>stapelte sich</strong> Gerümpel, das die Sicht versperrte.  (<i>Märzgefallene</i>, 410-11)' ,
 	'<u>Lunapark</u>',
 	'Er (<i>Lange</i>) legte das Heft zurück auf den <strong>Stapel</strong> und begann, die Schubladen zu durchsuchen.  (<i>Lunapark</i>, 45)' ,
+	'Gräf klaubte die Fotos vom Schreibtisch, stauchte sie zu einem <strong>Stapel</strong> zusammen und legte sie dann einzeln auf die Tischplatte zurück.  (<i>Lunapark</i>, 60)' ,
 ],
 stapfen: [
 	'(<strong>los</strong>)<strong>stapfen</strong>: &nbsp;plod, trudge, tramp <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stapfen"target="target1">stapfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stapfen"target="target2">stapfen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stapfen"target="target3">stapfen</a> ' ,
@@ -6382,6 +6418,11 @@ tuscheln: [
 // Ustart  
 // '<u>Der Nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+ungestüm: [
+	'<strong>ungestüm</strong>: impetuous, boisterous; vehement &nbsp;&nbsp;das <strong>Ungestüm</strong>: impetuosity <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ungestuem"target="target1">ungestüm</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ungestuem#ungest%C3%BCm"target="target2">ungestüm</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/ungest%C3%BCm"target="target3">ungestüm</a> ',
+	'<u>Lunapark</u>',
+	'Er (<i>Gräf</i>) brach ab, denn die Tür wurde aufgerissen, und Pfeiffer stürzte ins Büro, in einer derart <strong>ungestümen</strong> Art und Weise, dass man hätte meinen können, der SS-Truppführer beabsichtige, die Kaffeekasse des Dezernats IIIB1 auszurauben.  (<i>Lunapark</i>, 58)' , 
+],
 umkrempeln: [
 	'<strong>umkrempeln</strong>: &nbsp;roll/turn up, turn sth. inside out <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/umkrempeln"target="target1">umkrempeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/umkrempeln"target="target2">umkrempeln</a> &nbsp;<a href="https://www.verbformen.com/?w=umkrempeln"target="target3">umkrempeln</a> ',
 	'<u>Lunapark</u>',
@@ -7571,6 +7612,8 @@ zackig: [
 	'<u>Lunapark</u>',
 	'"Lange, Sie suchen die Wohnung des Toten gemeinam mit dem Kollegen Pfeiffer auf", hatte Rath gesagt, so laut und <strong>zackig</strong> militärisch, wie er seine Befehle sonst nie zu erteilen pflegte.  (<i>Lunapark</i>, 45)',
 	'Schweigend gingen Rath und Gräf die breiten Treppen hinauf. Anzugträger kamen ihnen entgegen, in geschäftiger Hektik, ab und zu auch einmal ein Schwarzuniformierter. Gräf grüßte jeden <strong>zackig</strong> mit dem Deutschen Gruß, Rath ließ jeweils eine Art Echo folgen mit seinem lustlos angewinkelten rechten Arm. (<i>Lunapark</i>, 52)',
+	'Es klopfte an der Tür, die sich erst öffnete, als Gräf ebenso <strong>zackig</strong> wie freundlich "Bitte!" sagte.  (<i>Lunapark</i>, 56)',
+	'"Das einzig Verdächtige, was mir heute aufgefallen ist", sagte Pfeiffer mit einem schnippischen Unterton, der überhaupt nicht zu seinem sonstigen militärisch-<strong>zackigen</strong> Gehabe passen wollte, "das sind die kommunistischen Parolen unter der Eisenbahnbrücke.   (<i>Lunapark</i>, 59)',
 ],
 Zapfen: [
 	'der <strong>Zapfen</strong>,-: &nbsp;cone; tap, plug, spigot &nbsp;&nbsp;&nbsp;<strong>zapfen</strong>: &nbsp;tap, draw  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zapfen"target="target1">Zapfen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zapfen"target="target2">zapfen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Zapfen"target="target3">Zapfen</a> &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zapfen"target="target4">zapfen</a> ',
@@ -7908,6 +7951,7 @@ auswringen  Der Nasse Fisch 234  included in "Lappen"
  'Garderobenleiste'  ;   Nworte++;   83        coat rack, hanger
  Geballere  Der Nasse Fisch 72  
  gefliest  Lunapark 39 
+ Geheiß  Lunapark 57
  geigen  Der Nasse Fisch 86
  gelost,  losen  Lunapark 18
  Gesäß    Märzgefallene  508
@@ -7967,6 +8011,7 @@ lasten Märzgefallene  535
  quittieren   Märzgefallene  509    
  'Rampe'  ;   Nworte++;       Märzgefallene  55      
  ranken  Der Nasse Fisch 177
+ raunzen Lunapark 59
  'Reim machen'  ;   Nworte++       Märzgefallene  68
  Rempler   Märzgefallene   544
  Ritze Märzgefallene  487

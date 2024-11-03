@@ -127,6 +127,7 @@ const s = [
    'Statist' ,
    'Stativ',  //Stativ:
    'statuieren'  ,
+   'stauchen', // stauchen:
    'Steckbrief',
    'Stecknadel im Heuhaufen'  ,
    'Steg' ,

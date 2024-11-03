@@ -8,6 +8,7 @@ const l = [
    'Lappen',   //Lappen:
    'lässig',  // lässig:
    'lasten',  // lasten:
+   'Laubenkolonie', // Laubenkolonie:
    'Lauf',    // Lauf:
    'Laufbursche',  // Laufbursche:
    'lausig',  // lausig:

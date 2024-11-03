@@ -55,6 +55,7 @@ const a = [
 	'anzwinkern',  //anzwinkern:  
 	'Armbeuge',    //Armbeuge:   
 	'Arsch, jmdm. in den A. kriechen',  //
+	'Asservat',  // Asservat:
 	'Attest',     //Attest: 
 	'auf Biegen und Brechen',  // 
 	'auf dem Sprung',      //
@@ -77,7 +78,7 @@ const a = [
 	'aufbahren',   //aufbahren:   
 	'aufdonnern (sich)',  //
 	'auffächern', //auffächern:
-	'auffliegen',  //auffliegen:   
+	'auffliegen',  // auffliegen:   
 	'aufgabeln',   //aufgabeln:  
 	'aufgekratzt', //aufgekratzt:  
 	'aufgelöst',   //aufgelöst:  

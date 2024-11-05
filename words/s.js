@@ -27,6 +27,7 @@ const s = [
    'Schimmer (keinen blassen S.)', //
    'schimmern'  ,
    'Schinder, schinden' , //
+   'Schlagseite',  // Schlagseite:
    'Schlamassel',
    'schlampig',  //schlampig:
    'Schlauberger',

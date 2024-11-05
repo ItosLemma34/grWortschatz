@@ -1,18 +1,17 @@
 const p = [
-   'Pächter',
-   'paktieren',
-   'Pantoffel (unter dem P. stehen)',
+   'Pächter',  // Pächter:
+   'paktieren', // paktieren:
    'Pappe', // Pappe:
-   'Pappenstiel',
+   'Pappenstiel', // Pappenstiel:
    'Patrone', // Patrone:
-   'Pegel',
-   'Pest an den Hals',
-   'petzen',
-   'Pfaffe',
-   'Pfanne (in die P. hauen)',
-   'Pfau'  ,
-   'pfeffern',
-   'Pfeiler',
+   'Pegel',  // Pegel:
+   'Pest an den Hals', // Only one English definition
+   'petzen', // petzen:
+   'Pfaffe', // Pfaffe:
+   'Pfanne (in die P. hauen)',  // also:  'in die Pfanne hauen'
+   'Pfau',  // Pfau:
+   'pfeffern',  // pfeffern:
+   'Pfeiler',  // Pfeiler:
    'pferchen, einpferchen',
    'pfiffig',
    'Pfropfen',

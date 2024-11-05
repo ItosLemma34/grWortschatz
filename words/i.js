@@ -1,5 +1,6 @@
 const i = [
    'in die Parade fahren', //
+   'in die Pfanne hauen',  //
    'in drei Teufels Namen', //
    'in einem fort, schnattern', //
    'ins Handwerk pfuschen',  //

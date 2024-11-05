@@ -20,6 +20,8 @@ const u = [
    'ungelegen' ,  //ungelegen:
    'ungestüm',  // ungestüm:
    'unten durch sein', //
+   'unter dem Pantoffel stehen', //
+   'unter Fittiche nehmen',  //
    'unterbuttern',  //unterbuttern:
    'unterjubeln',  //unterjubeln:
    'Unterschlagung, unterschlagen' , //

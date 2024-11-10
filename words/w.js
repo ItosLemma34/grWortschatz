@@ -16,6 +16,7 @@ const w = [
    'wettern',  //wettern:
    'Wichs',  //Wichs:
    'Wickelgamasche' ,  //Wickelgamasche:
+   'Widerhaken', // Widerhaken:
    'wie aus dem Ei gepellt',  //
    'wie bestellt und nicht abgeholt', //
    'wienern' , //wienern:

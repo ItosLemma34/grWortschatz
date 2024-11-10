@@ -43,6 +43,7 @@ const b = [
     'Bohle',    //Bohle:  
     'bohnern',  //bohnern:  
     'Bonze',   //Bonze:
+    'Bordstein', // Bordstein:
     'borniert',  //borniert: 
     'Bösewicht',  //Bösewicht:  
     'Boulette',   //Boulette:

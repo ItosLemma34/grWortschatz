@@ -102,6 +102,7 @@ const k = [
    'Krempel',  // Krempel:
    'Kribbeln',  // Kribbeln:
    'Kringel',  //Kringel:
+   'Kritikaster',  // Kritikaster:
    'kritzeln' ,  // kritzeln:
    'Kröte schlucken', //
    'Krümel',  //Krümel:

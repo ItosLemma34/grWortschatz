@@ -39,7 +39,7 @@ const r = [
    'rosten' ,
    'Rottenführer',  // Rottenführer:
    'rührig',
-   'Rummel',
+   'Rummel', // Rummel:
    'rumpeln',
    'rümpfen',
    'rumsen',

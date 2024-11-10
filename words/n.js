@@ -13,6 +13,7 @@ const n = [
    'niegelnagelneu',  //niegelnagelneu:
    'niesen',  // niesen:
    'Nobel geht die Welt zugrunde' , //
+   'Nörgler',  // Nörgler:
    'nuscheln', //nuscheln:
    'Nutte',  // Nutte:        
  ];

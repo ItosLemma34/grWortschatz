@@ -28,6 +28,7 @@ const v = [
    'verknoten',  //verknoten:
    'verkommen',  //verkommen:
    'verkorkst, verkorken',  //
+   'verköstigen, beköstigen', //  
    'verkriechen (sich)',  //
    'verkrümeln'  ,  //verkrümeln:
    'vermasseln',  //vermasseln:
@@ -44,6 +45,7 @@ const v = [
    'verrufen', //verrufen:
    'verrußt' , //verrußt:
    'verrutschen' ,  //verrutschen:
+   'versacken',  // versacken:
    'versauen',   //versauen:
    'verschanzen (sich)' , //
    'verscharren',    //verscharren:
@@ -74,14 +76,16 @@ const v = [
    'verunglimpfen',  //verunglimpfen:
    'verunzieren' ,  //verunzieren:
    'Verwahrlosung, verwahrlosen' , //
-   'verwaisen'  ,  //verwaisen:
+   'verwaisen'  ,  // verwaisen:
    'verwegen' ,  //verwegen:
    'verwesen, Verwesung' ,  //
    'verwetten' ,  //verwetten:
    'verwittern, Verwitterung', //
    'verwüsten' ,  //verwüsten:
+   'verzückt' , // verzückt:
    'vierschrötig' , //vierschrötig:
    'vögeln',    //vögeln:
+   'Vollwaise', // Vollwaise:
    'vorgaukeln' ,  //vorgaukeln:
    'Vorhängeschloss',  //Vorhängeschloss:
    'vorliebnehmen',   //vorliebnehmen:

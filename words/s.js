@@ -34,7 +34,7 @@ const s = [
    'Schlauch' ,
    'schleifen' ,
    'schlendern'  ,
-   'Schleuse',
+   'Schleuse, schleusen', //
    'Schliere, schlieren'  ,
    'schliddern, schlittern',
    'schluchzen'  ,
@@ -48,7 +48,8 @@ const s = [
    'Schminke' ,
    'schmissig',
    'Schmonzette',
-   'schmoren'  ,
+   'schmoren' ,
+   'schmökern', // schmökern:
    'Schmuck, schmuck' ,
    'Schmuddel, Schmuddelwetter',
    'Schmunzeln, schmunzeln'  ,
@@ -66,7 +67,7 @@ const s = [
    'schnörkelig'  ,
    'schnorren, anschnorren' ,
    'Schnösel' ,  // Schnösel:
-   'schnuppern'  ,
+   'schnuppern' ,  // schnuppern:
    'Schnur'  ,
    'schnurstracks' ,
    'schnurz­pie­pe, schnurzegal',
@@ -108,7 +109,8 @@ const s = [
    'Spaten' ,
    'speckig' ,
    'sperrangelweit' ,
-   'Sperrhaken' ,       
+   'Sperrhaken' ,
+   'sperrig',  // sperrig:       
    'spicken' ,
    'Spieß, spießen',
    'spitzkriegen',  //spitzkriegen:

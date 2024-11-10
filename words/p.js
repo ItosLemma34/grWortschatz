@@ -1,6 +1,7 @@
 const p = [
    'Pächter',  // Pächter:
    'paktieren', // paktieren:
+   'pampig',  // pampig:
    'Pappe', // Pappe:
    'Pappenstiel', // Pappenstiel:
    'Patrone', // Patrone:
@@ -12,26 +13,26 @@ const p = [
    'Pfau',  // Pfau:
    'pfeffern',  // pfeffern:
    'Pfeiler',  // Pfeiler:
-   'pferchen, einpferchen',
-   'pfiffig',
-   'Pfropfen',
-   'pfuschen (ins Handwerk p.)', //review this, make conincide with "ins Handwerk pfuschen" under "i"
-   'Pfütze',    
-   'pieksen, piksen',
-   'Pinkel' ,
-   'pinkeln' ,
+   'pferchen, einpferchen', //
+   'pfiffig',  // pfiffig:
+   'Pfropfen',  // Pfropfen:
+   'pfuschen (ins Handwerk p.)', //
+   'Pfütze',  // Pfütze:    
+   'pieksen, piksen', //
+   'Pinkel' , // Pinkel:
+   'pinkeln' ,  // pinkeln:
    'pinseln' ,  // pinseln:
-   'Plackerei',
-   'platschen',
-   'Platzhirsch',
-   'ploppen' ,
+   'Plackerei', // Plackerei:
+   'platschen', // platschen:
+   'Platzhirsch', // Platzhirsch:
+   'ploppen' ,  // ploppen:
    'plumpsen',
    'plüschig',  // plüschig:
    'Polster, polstern', //
-   'poltern' ,
-   'postieren',
+   'poltern' ,  // poltern:
+   'postieren', // postieren:
   // 'präparieren' ,
-   'Pranke',
+   'Pranke',  // Pranke:
    'Präsent, präsent',
    'prasseln',
    'Prise' ,

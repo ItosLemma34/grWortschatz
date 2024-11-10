@@ -3,7 +3,8 @@ const f = [
    'fackeln',  //fackeln:  
    'fadenscheinig',  //fadenscheinig:  
    'Fahne (von der F. gehen)',  // 
-   'Fahnenabzug',  //Fahnenabzug:    
+   'Fahnenabzug',  //Fahnenabzug: 
+   'Faible' ,  // Faible:  
    'Fall der Fälle',  //  
    'Fasan',  //Fasan:  
    'faseln',  //faseln:  
@@ -36,7 +37,8 @@ const f = [
    'Flüstertüte',  //Flüstertüte:  
    'flutschen',  //flutschen:  
    'Folie',  //Folie:  
-   'forsch',  //forsch:   
+   'forsch',  //forsch: 
+   'Fraktur', // Fraktur:  
    'Fratze',  //Fratze:  
    'frequentieren',  //frequentieren:  
    'Frevel',    //Frevel:  

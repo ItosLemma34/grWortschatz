@@ -3,7 +3,7 @@ const n = [
    'nachhaken',  // nachhaken:
    'Nachhut', // Nachhut:
    'nachsetzen',  // nachsetzen:
-   'Nase (lange N. zeigen/machen)', //
+   'Nase (lange N. zeigen/machen)', // also as  'lange Nase zeigen/machen'
    'Nepp',  // Nepp:
    'Nervensäge', // Nervensäge:
    'Nessel (sich in die Nesseln setzen)', //

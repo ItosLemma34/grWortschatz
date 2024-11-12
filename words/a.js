@@ -82,6 +82,7 @@ const a = [
 	'aufgabeln',   //aufgabeln:  
 	'aufgekratzt', //aufgekratzt:  
 	'aufgelöst',   //aufgelöst:  
+	'aufgießen, Aufguss', //
 	'aufglimmen',  //aufglimmen:  
 	'aufhalsen',   //aufhalsen:  
 	'aufjaulen',   //aufjaulen:  

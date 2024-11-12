@@ -4,7 +4,7 @@ const t = [
    'tapsen' ,  //tapsen:
    'tätscheln', //tätscheln:
    'taxieren' , //taxieren:
-   'Teufel tun (werden)' , //
+   'Teufel tun' , //
    'Theke',  //Theke:
    'toben' , //toben:
    'tollen', //tollen:

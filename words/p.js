@@ -26,7 +26,7 @@ const p = [
    'platschen', // platschen:
    'Platzhirsch', // Platzhirsch:
    'ploppen' ,  // ploppen:
-   'plumpsen',
+   'plumpsen',  // plumpsen:
    'plüschig',  // plüschig:
    'Polster, polstern', //
    'poltern' ,  // poltern:

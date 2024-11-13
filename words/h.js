@@ -37,7 +37,7 @@ const h = [
    'Holzstoß',  //Holzstoß:
    'hopsnehmen', //hopsnehmen:
    'Hornochse',  //Hornochse:
-   'Hose (in die Hosen machen)', //
+   'Hose (in die H. machen)', //
    'Hosenmatz',  //Hosenmatz:
    'Hosennaht',  //Hosennaht:
    'Hühnerauge', //Hühnerauge:

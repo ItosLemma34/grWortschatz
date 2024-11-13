@@ -5,7 +5,7 @@ const u = [
    'über die Bühne gehen',  //
    'über die Runden kommen', //
    'über die Stränge schlagen', //
-   'überrumpeln',  //überrumpeln:
+   'überrumpeln, Überrumpelung',  //
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
    'übers Ohr hauen', //
    'überwuchern',  //überwuchern:

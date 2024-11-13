@@ -116,9 +116,10 @@ const s = [
    'spitzkriegen',  //spitzkriegen:
    'Sprechmuschel'  ,
    'Spreu vom Weizen trennen',
+   'Sprosse',  // Sprosse:
    'Spülbürste',
    'Spüle, spülen', //
-   'spuren' ,
+   'spuren' ,  // spuren:
    'sputen (sich)' ,
    'Stadtstreicher' ,
    'staksen'  ,

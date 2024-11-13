@@ -1,4 +1,5 @@
 const i = [
+   'in die Hose machen', //
    'in die Parade fahren', //
    'in die Pfanne hauen',  //
    'in drei Teufels Namen', //

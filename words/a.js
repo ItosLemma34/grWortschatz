@@ -7,7 +7,8 @@ const a = [
 	'abgebrüht',  //abgebrüht:   
 	'abgrasen',   //abgrasen:   
 	'abgreifen',  //abgreifen: 
-	'abhängen',   //abhängen:  
+	'abhängen',   //abhängen: 
+	'abkanzeln' , // abkanzeln:
 	'abklappern', //abklappern:  
 	'abknallen',  //abknallen:  
 	'abkommandieren',  //abkommandieren: 
@@ -17,7 +18,8 @@ const a = [
 	'abspulen',   //abspulen: 
 	'abtrünnig',  //abtrünnig:    
 	'abwimmeln',  //abwimmeln:     
-	'abzocken',   //abzocken:  
+	'abzocken',   //abzocken: 
+	'achtkantig hinauswerfen', // 
 	'ächzen',     //ächzen: 
 	'adrett',   //adrett:  
 	'Affekthandlung',   //Affekthandlung: 

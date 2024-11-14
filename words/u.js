@@ -25,6 +25,7 @@ const u = [
    'unterbuttern',  //unterbuttern:
    'unterjubeln',  //unterjubeln:
    'Unterschlagung, unterschlagen' , //
+   'unterschlüpfen, Unterschlupf', //
    'untersetzt',  //untersetzt:
    'Unterstand' ,  //Unterstand:
    'unverfänglich', //unverfänglich:

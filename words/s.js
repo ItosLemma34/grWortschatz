@@ -86,7 +86,7 @@ const s = [
    'Schuppen',   //Schuppen:
    'schüren',            
    'Schürze' ,
-   'Schüssel' ,
+   'Schüssel' ,  // Schüssel:
    'schütten' ,          
    'schütter' ,
    'Schütze',
@@ -154,6 +154,7 @@ const s = [
    'stromern' ,
    'Strudel',
    'strunzdämlich'  ,
+   'Stuck', // Stuck:
    'Stulle',
 	'stülpen (sich)', //
    'Stummel',  // Stummel:

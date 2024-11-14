@@ -13,6 +13,7 @@ const w = [
    'weichklopfen' ,  //weichklopfen:
    'Weihrauch, Weihrauchschwenker', //
    'wellen (sich)',  //
+   'werkeln', // werkeln:
    'wettern',  //wettern:
    'Wichs',  //Wichs:
    'Wickelgamasche' ,  //Wickelgamasche:

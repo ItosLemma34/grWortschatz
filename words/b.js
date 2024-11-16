@@ -1,5 +1,5 @@
 const b = [
-    'Bahre',  //Bahre:
+    'Bahre',  // Bahre:
     'Balken', //Balken:  
     'ballern',  //ballern:  
     'Banderole', // Banderole:

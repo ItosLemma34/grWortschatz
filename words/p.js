@@ -28,6 +28,7 @@ const p = [
    'ploppen' ,  // ploppen:
    'plumpsen',  // plumpsen:
    'plüschig',  // plüschig:
+   'pöbeln', // pöbeln:
    'Polster, polstern', //
    'poltern' ,  // poltern:
    'postieren', // postieren:

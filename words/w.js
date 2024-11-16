@@ -7,6 +7,7 @@ const w = [
    'Wampe', // Wampe:
    'Wappen' ,  //Wappen:
    'Wassern (mit allen W. gewaschen)',  //
+   'Wecker (auf den W. gehen)',  //  repeated
    'wedeln' ,  //wedeln:
    'wegducken (sich)' , //
    'Wehwehchen',   //Wehwehchen:

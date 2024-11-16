@@ -32,7 +32,7 @@ const s = [
    'schlampig',  //schlampig:
    'Schlauberger',
    'Schlauch' ,
-   'schleifen' ,
+   'schleifen' ,  // schleifen:
    'schlendern'  ,
    'Schleuse, schleusen', //
    'Schliere, schlieren'  ,
@@ -62,7 +62,7 @@ const s = [
    'schnaufen',  // schnaufen: 
    'schneidig'  , 
    'schnieke',
-   'schnippen',
+   'schnippen',  // schnippen:
    'schnippisch'  ,  
    'schnörkelig'  ,
    'schnorren, anschnorren' ,
@@ -140,6 +140,7 @@ const s = [
    'Stiefel, stiefeln' ,
    'stieren' ,
    'stöbern',
+   'stochern',  // stochern:
    'stöckeln, Stöckelschuh',
    'stöhnen',
    'stopfen, Stopfen',

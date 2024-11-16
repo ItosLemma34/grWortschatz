@@ -54,7 +54,8 @@ const a = [
 	'Anwesen',      //Anwesen: 
 	'anwidern',     //anwidern:  
 	'Anzeige erstatten', //  
-	'anzwinkern',  //anzwinkern:  
+	'anzwinkern',  //anzwinkern: 
+	'Areal' ,  // Areal:
 	'Armbeuge',    //Armbeuge:   
 	'Arsch, jmdm. in den A. kriechen',  //
 	'Asservat',  // Asservat:
@@ -66,7 +67,7 @@ const a = [
 	'auf den Leim gehen',  //
 	'auf den Putz hauen',  //
 	'auf den Strich gehen', //
-	'auf den Wecker gehen', //
+	'auf den Wecker gehen', // repeated
 	'auf den Zahn fühlen',  //
 	'auf der Hut sein',  //
 	'auf die Nase binden',  //

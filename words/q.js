@@ -1,6 +1,6 @@
 const q = [
    'Quast',
-   'quellen',
+   'quellen, gequollen',  // 
    'Quere (in die Q. kommen)',
    'Querschläger',
    'Querschnitt',

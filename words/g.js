@@ -16,7 +16,8 @@ const g = [
    'Gemurmel',  //Gemurmel:  
    'gepfeffert', //gepfeffert:  
    'Geplänkel',  //Geplänkel:  
-   'Geplapper',  //Geplapper:  
+   'Geplapper',  //Geplapper: 
+   'gequollen, quellen', // 
    'gerädert (sich wie g. fühlen)',  //
    'Geräuschkulisse',  //Geräuschkulisse:  
    'gerieren',   //gerieren:  

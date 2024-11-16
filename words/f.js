@@ -22,7 +22,8 @@ const f = [
    'Fischzug',   //Fischzug:  
    'Flachpfeife', // Flachpfeife:
    'flapsig',  //flapsig:  
-   'flattern', //flattern:  
+   'flattern', //flattern:
+   'flau' ,  // flau:
    'Flaum',  //Flaum:  
    'fläzen (sich)',  //  
    'fleddern',  //fleddern:             

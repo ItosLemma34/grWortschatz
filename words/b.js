@@ -58,6 +58,7 @@ const b = [
     'Buche',    //Buche: 
     'Büchse',   //Büchse: 
     'Buckel',   //Buckel: 
+    'bücken (sich)',  // 
     'buddeln, ausbuddeln',  // 
     'Bude, Büdchen',  // 
     'Bügel',         //Bügel: 

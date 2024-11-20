@@ -43,6 +43,7 @@ const w = [
    'wuscheln',  //wuscheln:
    'wuseln',  //wuseln:
    'wüten',  //wüten:
+   'wutschnaubend', // wutschnaubend:
    ];
 
 export default w;      

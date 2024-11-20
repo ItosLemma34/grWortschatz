@@ -5,7 +5,7 @@ const q = [
    'Querschläger',
    'Querschnitt',
    'quetschen, zerquetschen',
-   'quietschen',
+   'quietschen',  // quietschen:
    'quitt'
 ];
 

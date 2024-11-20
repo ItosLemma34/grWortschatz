@@ -37,8 +37,9 @@ const k = [
    'Klammer', //Klammer:
    'klammern', //klammern:
    'klammheimlich', //klammheimlich:
+   'Klappe', // Klappe:
    'klappern',  //klappern:
-   'klapprig',  //klapprig:
+   'klapprig',  //klapprig: 
    'Klapsmühle', //Klapsmühle:
    'klatschen',  //klatschen:
    'klauben', //klauben:

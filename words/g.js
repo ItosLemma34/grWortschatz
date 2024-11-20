@@ -5,7 +5,8 @@ const g = [
    'Gebälk', //Gebälk:  
    'Gebrüll',  //Gebrüll:  
    'gediegen',  //gediegen:  
-   'geflissentlich',   //geflissentlich:  
+   'geflissentlich',   //geflissentlich: 
+   'gefügig', // gefügig:
    'Gehabe',     //Gehabe:  
    'geheftet, heften',  //  
    'geizen',   //geizen:  
@@ -45,7 +46,8 @@ const g = [
    'Gewebe',    //Gewebe:  
    'Gewese',    //Gewese:  
    'Gewimmel',  //Gewimmel:  
-   'Gewirr',    //Gewirr:  
+   'Gewirr',    //Gewirr:
+   'Gewölbe',  // Gewölbe: 
    'Gewühl',   //Gewühl:  
    'gewunden', //gewunden:  
    'Gier',     //Gier:  

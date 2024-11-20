@@ -5,6 +5,7 @@ const v = [
    'verbeulen', //verbeulen:
    'verbocken' , //verbocken:
    'verbohrt',  // verbohrt:
+   'verbuddeln',  // verbuddeln:
    'verdampfen',  //verdampfen:
    'Verdeck',  //Verdeck:
    'verdenken' ,  //verdenken:

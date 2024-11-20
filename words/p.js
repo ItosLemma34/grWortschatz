@@ -34,8 +34,8 @@ const p = [
    'postieren', // postieren:
   // 'präparieren' ,
    'Pranke',  // Pranke:
-   'Präsent, präsent',
-   'prasseln',
+   'Präsent, präsent',  //
+   'prasseln',  // prasseln:
    'Prise' ,
    'Pritsche',
    'Prothese',

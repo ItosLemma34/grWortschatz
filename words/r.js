@@ -16,7 +16,7 @@ const r = [
    'Rauflust',  //Rauflust:
    'Raunen, raunen' ,
    'Raureif' , 
-   'recken',
+   'recken',  // recken:
    'Reinfall',
    'reinsemmeln'  ,
    'reißen (sich um etwas)' ,
@@ -44,6 +44,7 @@ const r = [
    'rümpfen',
    'rumsen',
    'rupfen',
+   'rüstig',
    ];
 
 export default r;      

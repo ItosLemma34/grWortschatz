@@ -4,7 +4,7 @@ const e = [
    'einbrocken',  //einbrocken:  
    'einbuchten',  //einbuchten:  
    'Eindruck schinden',  //  
-   'einfädeln, fädeln',  //  
+   'einfädeln',  // einfädeln: 
    'Eingebung',   //Eingebung:  
    'einkriegen (sich)',  //  
    'einkringeln',  //einkringeln:  

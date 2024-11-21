@@ -12,6 +12,7 @@ const w = [
    'wegducken (sich)' , //
    'Wehwehchen',   //Wehwehchen:
    'weichklopfen' ,  //weichklopfen:
+   'weichkochen', // weichkochen:
    'Weihrauch, Weihrauchschwenker', //
    'wellen (sich)',  //
    'werkeln', // werkeln:

@@ -1,5 +1,5 @@
 const i = [
-   'in die Hose machen', //
+   'in die Hose machen/gehen', //
    'in die Mangel nehmen', //  repeated from Mangel
    'in die Parade fahren', //
    'in die Pfanne hauen',  //

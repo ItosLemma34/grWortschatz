@@ -16,7 +16,7 @@ const p = [
    'pferchen, einpferchen', //
    'pfiffig',  // pfiffig:
    'Pfropfen',  // Pfropfen:
-   'pfuschen (ins Handwerk p.)', //
+   'pfuschen (ins Handwerk p.)', // also: ins Handwerk pfuschen
    'Pfütze',  // Pfütze:    
    'pieksen, piksen', //
    'Pinkel' , // Pinkel:
@@ -36,10 +36,10 @@ const p = [
    'Pranke',  // Pranke:
    'Präsent, präsent',  //
    'prasseln',  // prasseln:
-   'Prise' ,
-   'Pritsche',
-   'Prothese',
-   'Protz, protzen, protzig' ,
+   'Prise' ,  // Prise:
+   'Pritsche', // Pritsche:
+   'Prothese', // Prothese:
+   'Protz, protzen, protzig' , //
    'prusten',
    'pudern',
    'Pulle',

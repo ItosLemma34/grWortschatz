@@ -40,10 +40,10 @@ const p = [
    'Pritsche', // Pritsche:
    'Prothese', // Prothese:
    'Protz, protzen, protzig' , //
-   'prusten',
-   'pudern',
-   'Pulle',
-   'Pute',
+   'prusten',  // prusten:
+   'pudern',  // pudern:
+   'Pulle',  // Pulle:
+   'Pute',  // Pute:
    'Putz', // Putz:
   ];
 

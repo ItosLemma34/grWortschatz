@@ -169,6 +169,7 @@ ausschwärmen: [
 	'<i>Rath</i>: "Hast du (<i>Wolter</i>) irgendeinen Grund dich zu beschweren? Wir werden einen Haufen illegaler Nachtlokale <strong>ausheben</strong>, das ist doch was, oder?..."   (<i>Der nasse Fisch</i>, 162)' ,
 	'<i>Rath</i>: "Immerhin haben sie (<i>die Sozen</i>) jetzt den Rotfrontkämpferbund verboten." <i>Generalmajor Seegers</i>: "Ja, toller Witz, nicht wahr! Die Roten lachen sich doch ins Fäustchen! Die Sozen sind nicht imstande, auch nur ein einziges Waffenlager <strong>auszuheben</strong>, aber mit einem Verbot glauben sie, der Sache Herr zu werden...."  (<i>Der nasse Fisch</i>, 168)' ,
 	'Diese Razzia war ihre letzte heute gewesen. Insgesamt neun illegale Nachtlokale hatten sie (<i>Wolter und Rath</i>) in dieser Nacht <strong>ausgehoben</strong>, bei den meisten Einsätzen waren sie selbst vor Ort gewesen, von einer <strong>Aushebung</strong> zur nächsten gerast, einem minutiösen Zeitplan folgend.  (<i>Der nasse Fisch</i>, 247)' , 
+	'Den Sinn einer solchen Aktion sah Rath allerdings immer noch nicht ein. Verbrecherkaschemmen <strong>ausheben</strong>, Drogenverstecke, Waffenlager, das alles ergab Sinn. Aber Nachtlokale? Wenn die Leute sich vergnügen wollten, sollten sie sich vergnügen! (<i>Der nasse Fisch</i>, 248)' ,
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'auf dem Sprung': [
@@ -3453,7 +3454,9 @@ karren: [
 	'<i>Rath</i>: "Die SA hat eigene Gefängnisse?...." <i>Zientek</i>: "Davon können Sie ausgehen." "Und was sind das für Gefängnisse?" "Oft ganz normale Keller. Manchmal <strong>karren</strong> sie die Thälmanns auch einfach in ihr Sturmlokal und bringen ihnen dort Manieren bei."  (<i>Märzgefallene</i>, 217-18)' ,
 ],
 Kaschemme: [
-	'die <strong>Kaschemme</strong>,-<strong>n</strong>: &nbsp;dive, gin palace <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kaschemme"target="target1">Kaschemme</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kaschemme"target="target2">Kaschemme</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kaschemme"target="target3">Kaschemme</a> ' ,
+	'die <strong>Kaschemme</strong>,-<strong>n</strong>: &nbsp;dive, gin palace <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kaschemme"target="target1">Kaschemme</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kaschemme"target="target2">Kaschemme</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kaschemme"target="target3">Kaschemme</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Den Sinn einer solchen Aktion sah Rath allerdings immer noch nicht ein. Verbrecher<strong>kaschemmen</strong> ausheben, Drogenverstecke, Waffenlager, das alles ergab Sinn. Aber Nachtlokale? Wenn die Leute sich vergnügen wollten, sollten sie sich vergnügen! (<i>Der nasse Fisch</i>, 248)' ,
 	'<u>Märzgefallene</u>',
 	'...(<i>Hannah</i>) war am Morgen von einem Lokal zum nächsten gezogen, um sich aufzuwärmen, so lange, bis man sie hinauswarf. Und man warf sie immer hinaus, so armselig die <strong>Kaschemme</strong> auch sein mochte, in der sie Schutz suchte. (<i>Märzgefallene</i>, 151)' ,
 	'Die <strong>Kaschemme</strong> in der Flughafenstraße, die sie (<i>Hannah</i>) an diesem Morgan besuchte, war eine, in der sie sich waschen konnte, allerdings hing das Waschbecken draußen auf dem Hof, man musste sich schon gehörig zusammenreißen, um nicht laut aufzuschreien bei jeder Berührung des kalten Wassers mit der Haut.  (<i>Märzgefallene</i>, 320)',
@@ -4216,11 +4219,12 @@ Manschettenknopf: [
 	'Achim Freiherr von Roddeck stand mit ausgestreckten Armen vor dem Spiegel und ließ sich gerade von einem Bediensteten die <strong>Manschettenknöpfe</strong> anlegen, als einer der wachhabenden Schupos den Kommissar (<i>Rath</i>) in die Suite führte.  (<i>Märzgefallene</i>, 479)' ,
 ],
 munkeln: [
-	'<strong>munkeln</strong>: &nbsp;whisper, spread rumors <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/munkeln"target="target1">munkeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/munkeln"target="target2">munkeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/munkeln"target="target3">munkeln</a>  ' ,
+	'<strong>munkeln</strong>: whisper; spread rumors <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/munkeln"target="target1">munkeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/munkeln"target="target2">munkeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/munkeln"target="target3">munkeln</a>  ' ,
 	'<u>Der nasse Fisch</u>',
-	'Es gab Kollegen, die Bruno den Luxus eines eigenen Autos missgönnten. Einige <strong>munkelten</strong>, Emmi Wolter hätte Geld mit in die Ehe gebracht.    (<i>Der nasse Fisch</i>, 136)' ,
+	'Es gab Kollegen, die Bruno den Luxus eines eigenen Autos missgönnten. Einige <strong>munkelten</strong>, Emmi Wolter hätte Geld mit in die Ehe gebracht.  (<i>Der nasse Fisch</i>, 136)' ,
 	'<i>General Seegers</i>: "...Gold im Wert von rund achzig Millionen Reichsmark soll außer Landes (<i>Russland</i>) geschafft worden sein. Und wissen Sie wohin?" Rath hatte keine Ahnung und zuckte mit den Schultern. Seegers schaffte es, noch etwas leiser zu sprechen. "Man <strong>munkelt</strong>, das Sorokin-Gold sei in Berlin!"    (<i>Der nasse Fisch</i>, 169)' ,
 	'<i>General Seegers</i>: "...Jedenfalls ist es (<i>das Gold</i>) wohl nicht da angekommen, wo es ankommen sollte." (<i>Rath</i>): "Bei den Sorokins." <i>Seegers</i>: "Oder bei ihren politischen Freunden. Man <strong>munkelt</strong>, die liberalen Sorokins hätten sich mit der <i> Krasnaja Krepost</i> zusammengetan, um Stalin gemeinsam die Macht zu entreißen."    (<i>Der nasse Fisch</i>, 170)' ,
+	'Bruno war es schließlich, der die Stille unterbrach. "Hast du (<i>Rath</i>) dich schon bei (<i>Inspektion</i>) A beworben?", fragte er unvermittelt.. "Man <strong>munkelt</strong>, dass da bald eine Stelle frei wird, nachdem der Kollege Roeder es vorzieht, seine Heldentaten in Buchform unters Volk zu bringen, anstatt weiter die Drecksarbeit für Gennat zu machen."  (<i>Der nasse Fisch</i>, 250)' ,
 ],
 'miefig, Mief': [
 	'<strong>miefig</strong>:  stuffy, stinky  &nbsp;der <strong>Mief</strong> (no plural): stuffiness, stink, bad air <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/miefig"target="target1">miefig</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Mief"target="target2">Mief</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=miefig"target="target3">miefig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Mief"target="target4">Mief</a>  ' ,
@@ -4271,7 +4275,7 @@ Machwerk: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Mangel (in die M. nehmen)': [
-	'jmdn <strong>in die Mangel nehmen</strong>: grill someone, put through the wringer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target2">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target3">in die Mangel nehmen</a> ' ,
+	'jmdn <strong>in die Mangel nehmen</strong>: grill so., put thru the wringer  (also: <i>durch die Mangel drehen</i>) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target2">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target3">in die Mangel nehmen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <strong>in die Mangel zu nehmen</strong>. (<i>Der nasse Fisch</i>, 30)' ,
 	'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <strong>in die Mangel nehmen</strong> können. (<i>Der nasse Fisch</i>, 102)' ,
@@ -4284,7 +4288,7 @@ Machwerk: [
 	'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <strong>in die Mangel nehmen</strong>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte.   (<i>Lunapark</i>, 99)' ,
 ],
 'in die Mangel nehmen': [
-	'jmdn <strong>in die Mangel nehmen</strong>: grill someone, put through the wringer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target2">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target3">in die Mangel nehmen</a> ' ,
+	'jmdn <strong>in die Mangel nehmen</strong>: grill so., put thru the wringer  (also: <i>durch die Mangel drehen</i>) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target2">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target3">in die Mangel nehmen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <strong>in die Mangel zu nehmen</strong>. (<i>Der nasse Fisch</i>, 30)' ,
 	'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <strong>in die Mangel nehmen</strong> können. (<i>Der nasse Fisch</i>, 102)' ,
@@ -4295,6 +4299,17 @@ Machwerk: [
 	'<u>Lunapark</u>',
 	'Für Pornographie dieser Art konnte die Sitte einen ganz schön <strong>in die Mangel nehmen</strong>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)' ,
 	'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <strong>in die Mangel nehmen</strong>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte.   (<i>Lunapark</i>, 99)' ,
+
+],
+'Mangel (durch die M. drehen)': [
+	'jmdn <strong>durch die Mangel drehen</strong>: grill so., put thru the wringer (also: <i>in die Mangel nehmen</i>) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=durch+die+Mangel+drehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">durch die Mangel drehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Mangel+drehen"target="target2">durch die Mangel drehen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn. durch die Mangel drehen"target="target3">durch die Mangel drehen</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Wolter schaute auf die Uhr. "In zwei Stunden müssten wir durch sein. Hältst du dich so lange noch auf den Beinen?" <i>Rath</i>: Eine Kanne starker Kaffee, ein paar Zigaretten, und ich <strong>dreh</strong> dir bis übermorgen die härtesten Kerle <strong>durch die Mangel</strong>!" (<i>Der nasse Fisch</i>, 248)' ,
+],
+'durch die Mangel drehen': [
+	'jmdn <strong>durch die Mangel drehen</strong>: grill so., put thru the wringer (also: <i>in die Mangel nehmen</i>) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=durch+die+Mangel+drehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">durch die Mangel drehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Mangel+drehen"target="target2">durch die Mangel drehen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn. durch die Mangel drehen"target="target3">durch die Mangel drehen</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Wolter schaute auf die Uhr. "In zwei Stunden müssten wir durch sein. Hältst du dich so lange noch auf den Beinen?" <i>Rath</i>: Eine Kanne starker Kaffee, ein paar Zigaretten, und ich <strong>dreh</strong> dir bis übermorgen die härtesten Kerle <strong>durch die Mangel</strong>!" (<i>Der nasse Fisch</i>, 248)' ,
 ],
 'markieren (den dicken Max M.)': [
 	'<strong>markieren</strong>: &nbsp;mark, tag, select; &nbsp;pretend to be<br><strong>den dicken Max markieren</strong>: &nbsp;show off, act like big shots<br><strong>den Magenkranken markieren</strong>: pretend to be sick (stomach ache) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/markieren"target="target1">markieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/den%20dicken%20Max%20markieren"target="target2">den dicken Max markieren</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/markieren"target="target3">markieren</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=den+starken+Mann+markieren"target="target4">den starken Mann markieren</a> ', //&nbsp;&nbsp;<a href="X"target="target3"></a>  ' ,
@@ -4450,10 +4465,11 @@ nachsetzen: [
 	'Zusammen mit den Zeitschriften waren den jungen Schupos auch die pornographischen Hochglanzfotos um die roten Ohren geflattert. Ihre Bewunderung für die Kunstfertigkeiten der Fotomodelle hätte sie beinah vergessen lassen, dem flüchtigen Händler <strong>nachzusetzen</strong>.  (<i>Der nasse Fisch</i>, 15)' ,
 ],
 Nutte: [
-	'die <strong>Nutte</strong>,-<strong>n</strong>: &nbsp;whore <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Nutte"target="target1">Nutte</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Nutte"target="target2">Nutte</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Nutte"target="target3">Nutte</a> ',
+	'die <strong>Nutte</strong>,-<strong>n</strong>: whore <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Nutte"target="target1">Nutte</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Nutte"target="target2">Nutte</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Nutte"target="target3">Nutte</a> ',
 	'<u>Der nasse Fisch</u>',
 	'Rath kannte sich aus. Aus diesem Laden hatten sie vor zwei Wochen ein paar Zuhälter samt <strong>Nutten</strong> vertrieben, die in dem gerade neu eröffneten <i>Café Berlin</i> die Geschäftsaussichten hatten sondieren wollen.  (<i>Der nasse Fisch</i>, 121)' ,
 	'Der Engel guckte gelangweilt. Rath war sich nun sicher dass sie keine Luxus<strong>nutte</strong> war, sondern eine verwöhnte höhere Tochter auf Abenteuerkurs, die der Alte da aufgegabelt hatte. Seine Frau war sie jedenfalls nicht. (<i>Der nasse Fisch</i>, 200)',
+	'<i>Wolter</i>: "Froh, dass es vorbei ist?" Rath nickte. "So \'ne Aktion ist schließlich auch nicht alltäglich." <i>Wolter</i>: "Stimmt. Hätte auch voll in die Hose gehen können. Kein Laden dabei, den wir nicht zu Recht auseinandergenommen haben. Keiner, der Lunte gerochen hat. Und den ollen Lanke haben wir auch nicht beim Bumsen erwischt.." Rath musste grinsen, als er sich den Chef der Inspektion E mit einer <strong>Nutte</strong> in Aktion vorstellte.  (<i>Der nasse Fisch</i>, 248)' ,
 	'<u>Märzgefallene</u>',
 	'Auf dem Eigelstein standen die <strong>Nutten</strong> vor den Eckkneipen und quatschten wie eh und je sämtliche Wesen männlichen Geschlechts an, die vorbeikammen, ganz gleich wie alt dieselben sein mochten.  (<i>Märzgefallene</i>, 316)' ,
 ],
@@ -4553,10 +4569,9 @@ prasseln: [
 	'Die Fassade der Bank lag dunkel und still, nur die Lichter des Scheiterhaufens und der Wochenschauscheinwerfer spiegelten sich in den Scheiben, vom Platz her waren das <strong>Prasseln</strong> der Flammen und die Stimmen der Studenten zu hören.  (<i>Märzgefallene</i>, 562)',
 ],
 pudern: [
-	'<strong>pudern</strong>: &nbsp;powder  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/pudern" target="target1" >pudern</a> ' ,
+	'<strong>pudern</strong>: powder (eg, nose); fuck <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pudern"target="target1">pudern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pudern"target="target2">pudern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pudern"target="target3">pudern</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Schnucki</i>: "Du hast recht, mein Engel... Das hier ist ja ein ganz biederer Amüsierbetrieb... Nicht mal Champagner, nur klebriger Sekt. Wir sollten austrinken und gehen..." "Vor allem müsste ich mir dringend mal die Nase <strong>pudern</strong>", sagte der Engel und lachte nervös... Rath wurde hellhörig. <i>Nasse <strong>pudern</strong></i> war eines der Stichwörter, auf die er gewartet hatte.  (<i>Der nasse Fisch</i>, 198-99)' ,
-//	'<u>Märzgefallene</u>',
 ],
 'Präsent, präsent': [
 	'das <strong>Präsent</strong>,-<strong>e</strong>: gift &nbsp;&nbsp;&nbsp;<strong>präsent</strong>: present, attentive (adj) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Praesent"target="target1">Präsent</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/praesent"target="target2">präsent</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Pr%C3%A4sent"target="target3">präsent/Präsent</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pr%C3%A4sent"target="target4">präsent</a> ' ,
@@ -4604,8 +4619,7 @@ Pegel: [
 	'Momentan saßen die Damen alle im Polizeigewahrsam und waren damit beschäftigt, sich gegenseitig die <strong>Pest an den Hals</strong> zu wünschen.   (<i>Der nasse Fisch</i>, 160)' ,
 ],
 prusten: [
-	'<strong>prusten</strong>: &nbsp;snort  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/prusten" target="target1" >prusten</a> ' ,
-//	'<u>Der nasse Fisch</u>',
+	'<strong>prusten</strong>: snort <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/prusten"target="target1">prusten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/prusten"target="target2">prusten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=prusten"target="target3">prusten</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Ein lautes, <strong>prustendes</strong> Lachen ließ Charly aufblicken. Zuerst dachte sie, Fritze habe über einen Witz gelacht, aber er schaute sie beide an und schüttelte den Kopf. "Sacht mal, merkt ihr beeden eijentlich dass ihr völlig aneinander vorbeiredet?"  (<i>Märzgefallene</i>, 500)' ,
 ],
@@ -4687,7 +4701,7 @@ Pritsche: [
 	'Der Mannschaftswagen hielt direkt vor einer großen Mietskaserne in der Hermannstraße. Misstrauisch schauten die passanten zu, wie die jungen Uniformierten von der <strong>Pritsche</strong> sprangen.  (<i>Der nasse Fisch</i>, 17)' ,
 ],
 Pute: [
-	'die <strong>Pute</strong>,-<strong>n</strong>: &nbsp;turkey, hen; silly goose <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Pute" target="target1" >Pute</a> ' ,
+	'die <strong>Pute</strong>,-<strong>n</strong>: turkey, hen; silly goose <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pute"target="target1">Pute</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pute"target="target2">Pute</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pute"target="target3">Pute</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Er (<i>von Roddek</i>) ist als Heiratsschwindler verurteilt worden? Dann wäre er ja vorbestraft!" <i>Die Gräfin</i>: "Er ist nicht verurteilt worden. Die dumme <strong>Pute</strong>, die er über den Tisch gezogen hat, hat ihre Aussage zurückgezogen, als sie ihm im Gerichtssaal gegenübersaß. Das Verfahren wurde eingestellt." (<i>Märzgefallene</i>, 339)' ,
 ],
@@ -4881,7 +4895,7 @@ Prise: [
 	'Trotz der braunen Uniform und der kurzgeschorenen Haare erkannte Leo den Kerl sofort, er hatte ihn oft genug gesehen, meist vor der Tür des <i>Neunundsechzig</i> und in einem Abendanzug, in dem der Muskel<strong>protz</strong> seltsam deplaziert wirkte. (<i>Märzgefallene</i>, 112)' ,
 ],
 Pulle: [
-	'die <strong>Pulle</strong>,-<strong>n</strong>: bottle (colloquial) &nbsp;<strong>pullen</strong>: pull, row   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Pulle" target="target1" >Pulle</a> ' ,
+	'die <strong>Pulle</strong>,-<strong>n</strong>: bottle (colloquial) &nbsp;&nbsp;<strong>pullen</strong>: pull, row <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pulle"target="target1">Pulle</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pulle?q=Pulle"target="target2">Pulle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pulle"target="target3">Pulle</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'"Der frühe Vogel trinkt die Milch", sagte Fritze, nachdem sie die <strong>Pullen</strong> in einem Gebüsch an der Immanuelkirche geleert hatten, und grinste unter seinem Milchbart. Gar nicht so doof, der Knirps.  (<i>Märzgefallene</i>, 174)' ,
 ],
@@ -7616,6 +7630,13 @@ verschnüren: [
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+wurmen: [
+	'<strong>wurmen</strong>: rankle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wurmen"target="target1">wurmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wurmen"target="target2">wurmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=wurmen"target="target3">wurmen</a> ',
+	'<u>Der nasse Fisch</u>',
+ 	'Keine Heimlichkeiten mehr in ständiger Angst, erwischt zu werden, wie er (<i>Rath</i>) gegen Dienstvorschriften verstieß und seine Kompetenzen überschritt. Das alles war vorbei. Auch wenn es ihn <strong>wurmte</strong>, diesen Fall aufzugeben, gerade jetzt, wo er einer Lösung offenbar einen großen Schritt näher gekommen war.  (<i>Der nasse Fisch</i>, 251)' ,
+	'<u>Märzgefallene</u>',
+	'Er (<i>Rath</i>) tröstete sich damit, dass diese Ermittlung die größte Farce war, die jemals in der Inspektion A für Überstunden gesorgt hatte, und dass er der Einzige war, der das durchschaute. Um so mehr <strong>wurmte</strong> es ihn, dass er nicht einfach aufstehen konnte, wie der kleine Junge in <i>Des Kaisers neue Kleider</i>, und allen die Augen öffnete.  (<i>Märzgefallene</i>, 511)' ,
+],
 wutschnaubend: [
 	'<strong>wutschnaubend</strong>: 	in a mad fury, rage <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wutschnaubend"target="target1">wutschnaubend</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wutschnaubend"target="target2">wutschnaubend</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=wutschnaubend"target="target3">wutschnaubend</a> ',
 	'<u>Der nasse Fisch</u>',
@@ -8477,6 +8498,7 @@ lau Der nasse Fisch 239
  muffig   Der nasse Fisch 16   43       
  'Napf'  ;   Nworte++;   Märzgefallene   281
  nicht auf den Mund gefallen  Lunapark 48
+ Niete Der nasse Fisch 248
  'Oberschenkel'  ;   Nworte++;   Märzgefallene   69
  'Pappe'  ;   Nworte++;   Märzgefallene   10
  Parlamentär Lunapark 101

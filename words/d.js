@@ -22,6 +22,7 @@ const d = [
    'Dunst, Dunstkreis',  //
    'durch den Wind sein',  // 
    'durch den Wolf drehen',  // 
+   'durch die Mangel drehen', //
    'durchdrehen',    //durchdrehen: 
    'durchkämmen',    //durchkämmen: 
    'durchmogeln (sich)',  // 

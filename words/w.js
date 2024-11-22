@@ -41,6 +41,7 @@ const w = [
    'wuchten',  //wuchten:
    'wühlen' ,  //wühlen:
    'wummern, Gewummer', //
+   'wurmen', // wurmen:
    'wuscheln',  //wuscheln:
    'wuseln',  //wuseln:
    'wüten',  //wüten:

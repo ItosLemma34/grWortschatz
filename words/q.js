@@ -1,12 +1,12 @@
 const q = [
-   'Quast',
+   'Quast', // Quast:
    'quellen, gequollen',  // 
-   'Quere (in die Q. kommen)',
-   'Querschläger',
-   'Querschnitt',
-   'quetschen, zerquetschen',
+   'Quere (in die Q. kommen)', // duplicated
+   'Querschläger',  // Querschläger:
+   'Querschnitt', // Querschnitt:
+   'quetschen, zerquetschen', // duplicated
    'quietschen',  // quietschen:
-   'quitt'
+   'quitt',  // quitt:
 ];
 
 export default q;      

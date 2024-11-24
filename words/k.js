@@ -45,7 +45,7 @@ const k = [
    'klauben', //klauben:
    'Klaue',  //Klaue:
    'klebrig', //klebrig:
-   'kleistern', //kleistern:
+   'kleistern, Kleister', //
    'Klemme',  //Klemme:
    'klemmen', //klemmen:
    'Klette',  //Klette:
@@ -105,6 +105,7 @@ const k = [
    'Kringel',  //Kringel:
    'Kritikaster',  // Kritikaster:
    'kritzeln' ,  // kritzeln:
+   'Kroppzeug', // Kroppzeug:
    'Kröte schlucken', //
    'Krümel',  //Krümel:
    'krümmen (sich)',//

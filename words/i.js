@@ -3,6 +3,7 @@ const i = [
    'in die Mangel nehmen', //  repeated from Mangel
    'in die Parade fahren', //
    'in die Pfanne hauen',  //
+   'in die Quere kommen', //
    'in drei Teufels Namen', //
    'in einem fort, schnattern', //
    'ins Handwerk pfuschen',  //

@@ -7,7 +7,8 @@ const d = [
    'Diele',   //Diele:  
    'Dietrich',  //Dietrich: 
    'dösen',    //dösen:  
-   'drall',    //drall:  
+   'drall',    //drall: 
+   'drängeln (sich)',  // 
    'draufhaben',  //draufhaben: 
    'Dreh'  ,    //Dreh: 
    'Dreigestirn',  //Dreigestirn: 

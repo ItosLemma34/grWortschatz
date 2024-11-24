@@ -15,6 +15,7 @@ const u = [
    'umpflügen',  //umpflügen:
    'umständlich',  //umständlich:
    'umzingeln' ,  //umzingeln:
+   'unbescholten', //unbescholten:
    'unbotmäßig',  //unbotmäßig:
    'ungehobelt',  //ungehobelt:
    'ungelegen' ,  //ungelegen:

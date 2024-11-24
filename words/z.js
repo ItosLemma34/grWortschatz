@@ -19,6 +19,7 @@ const z = [
    'zerknüllen' ,  //zerknüllen:
    'zermatschen',  //zermatschen:
    'zerpflücken',  //zerpflücken:
+   'zerquetschen, quetschen',  // duplicate
    'zerren' ,      //zerren:
    'zerschießen',  // zerschießen:
    'zerschunden' ,  //zerschunden:

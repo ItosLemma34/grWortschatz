@@ -1,8 +1,8 @@
 const r = [
    'Rabauke', // Rabauke:
-   'Rabe',
-   'rabiat' ,
-   'Radau, Radaubruder',
+   'Rabe',  // Rabe:
+   'rabiat' , // rabiat:
+   'Radau, Radaubruder', //
    'rammen'  ,
    'ramponiert' ,
    'Rangelei',

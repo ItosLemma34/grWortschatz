@@ -3,9 +3,9 @@ const r = [
    'Rabe',  // Rabe:
    'rabiat' , // rabiat:
    'Radau, Radaubruder', //
-   'rammen'  ,
-   'ramponiert' ,
-   'Rangelei',
+   'rammen' ,  // rammen:
+   'ramponiert, ramponieren' ,  // 
+   'Rangelei',  // Rangelei:
    'Ranzen',  // Ranzen:
    'rascheln',
    'rasen',  //rasen:

@@ -44,6 +44,7 @@ const a = [
 	'anrempeln',    //anrempeln: 
 	'Anrichte',     //Anrichte:  
 	'ans Bein binden',  //
+	'anschleichen (sich)', //
 	'anschmiegsam', //anschmiegsam: 
 	'anschnauzen',  //anschnauzen: 
 	'anschwärzen',  //anschwärzen:  

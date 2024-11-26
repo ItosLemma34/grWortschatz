@@ -7,21 +7,21 @@ const r = [
    'ramponiert, ramponieren' ,  // 
    'Rangelei',  // Rangelei:
    'Ranzen',  // Ranzen:
-   'rascheln',
+   'rascheln', // rascheln:
    'rasen',  //rasen:
-   'Ratsch'  ,
+   'Ratsch' , // Ratsch:
    'Rätselraten', // Rätselraten:
    'rattern' ,  //rattern:              
-   'Räuberpistole' ,
+   'Räuberpistole' ,  // Räuberpistole:
    'Rauflust',  //Rauflust:
-   'Raunen, raunen' ,
-   'Raureif' , 
+   'Raunen, raunen' , //
+   'Raureif' , // Raureif:
    'recken',  // recken:
-   'Reinfall',
-   'reinsemmeln'  ,
-   'reißen (sich um etwas)' ,
-   'reißerisch' ,
-   'Rempler',
+   'Reinfall', // Reinfall:
+   'reinsemmeln' , // reinsemmeln:
+   'reißen (sich um etwas)' , //
+   'reißerisch' ,  // reißerisch:
+   'Rempler',  // Rempler:
    'renitent' ,  // renitent:
    'requirieren' ,
    'reüssieren',

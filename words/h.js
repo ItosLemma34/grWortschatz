@@ -26,6 +26,7 @@ const h = [
    'heiser',  //heiser:
    'Hemd (sich ins H. machen)', //
    'hereinlegen',  //hereinlegen:
+   'herumfuhrwerken',  // herumfuhrwerken:
    'herumlungern', //herumlungern:
    'hetzen',  //hetzen:
    'heucheln', //heucheln:

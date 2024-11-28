@@ -23,28 +23,28 @@ const r = [
    'reißerisch' ,  // reißerisch:
    'Rempler',  // Rempler:
    'renitent' ,  // renitent:
-   'requirieren' ,
-   'reüssieren',
-   'Revers',
-   'Riegel'  ,
-   'rieseln',
-   'Rinde',
-   'Rindvieh' ,
+   'requirieren' , // requirieren:
+   'reüssieren',  // reüssieren:
+   'Revers',  // Revers:
+   'Riegel'  , // Riegel:
+   'rieseln',  // rieseln:
+   'Rinde',  // Rinde:
+   'Rindvieh' , // Rindvieh:
    'Rinne',  // Rinne:
    'Rinnsal' , // Rinnsal:
-   'Ritze'  ,
-   'robben' ,
+   'Ritze'  ,  // Ritze:
+   'robben' ,  // robben:
    'röcheln', //röcheln:
-   'roden' ,
-   'rosten' ,
+   'roden' , // roden:
+   'rosten' , // rosten:
    'Rottenführer',  // Rottenführer:
-   'rührig',
+   'rührig',  // rührig:
    'Rummel', // Rummel:
-   'rumpeln',
-   'rümpfen',
-   'rumsen',
-   'rupfen',
-   'rüstig',
+   'rumpeln', // rumpeln:
+   'rümpfen', // rümpfen:
+   'rumsen',  // rumsen:
+   'rupfen', // rupfen:
+   'rüstig', // rüstig:
    ];
 
 export default r;      

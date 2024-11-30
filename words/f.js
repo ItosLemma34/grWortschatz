@@ -9,7 +9,8 @@ const f = [
    'Fasan',  //Fasan:  
    'faseln',  //faseln:  
    'Fass',  //Fass:  
-   'Fatzke', //Fatzke:  
+   'Fatzke', //Fatzke:
+   'fauchen, anfauchen', // duplicated 
    'fegen',  //fegen:  
    'feilbieten',  //feilbieten:  
    'feilschen',  //feilschen:  

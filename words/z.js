@@ -37,6 +37,7 @@ const z = [
    'zockeln' ,  //zockeln:
    'Zopf'  ,  //Zopf:
    'zu nahe treten',  //
+   'zu schade sein',  // duplicated
    'Zucht' ,   //Zucht:
    'züchtigen',  //züchtigen:
    'zücken' ,   //zücken:      

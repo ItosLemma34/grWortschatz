@@ -1,14 +1,14 @@
 const s = [
-   'Sägemehl',
+   'Sägemehl', // Sägemehl:
    'Sauklaue', // Sauklaue:
-   'säumen', 
+   'säumen', // säumen:
    'Sause',  //Sause:
-   'sausen' ,  
-   'schaben'  ,     
-   'schade (zu schade sein)'  , 
-   'schälen' ,     
+   'sausen' , // sausen:  
+   'schaben' , // schaben:    
+   'schade (zu schade sein)',  //duplicated
+   'schälen' , // schälen:    
  //  'Schank',  // Schank: needs work; remove ad blocker
-   'Schar'  , 
+   'Schar'  ,  // Schar:
    'Scharfmacher' ,   
    'schassen' ,     
    'schaufeln, Schaufel'  ,    
@@ -38,15 +38,15 @@ const s = [
    'Schleuse, schleusen', //
    'Schliere, schlieren'  ,
    'schliddern, schlittern',
-   'schluchzen'  ,
-   'Schlüpfer',
-   'schlüpfrig'  ,
-   'schmettern' ,
-   'schmiegen (sich)' ,
-   'Schmiere stehen',
-   'Schmiererei, schmieren, schmierig'  ,
-   'Schmierfink'  ,
-   'Schminke' ,
+   'schluchzen' ,  // schluchzen:
+   'Schlüpfer',  // Schlüpfer:
+   'schlüpfrig', // schlüpfrig:
+   'schmettern', // schmettern:
+   'schmiegen (sich)', //
+   'Schmiere stehen', //
+   'Schmiererei, schmieren, schmierig', //
+   'Schmierfink', // Schmierfink:
+   'Schminke', // Schminke:
    'schmissig',
    'Schmonzette',
    'schmoren' , // schmoren:

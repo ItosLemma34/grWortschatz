@@ -32,6 +32,7 @@ const a = [
 	'anbrechen',    //anbrechen:  
 	'anecken',      //anecken:   
 	'anekeln',      //anekeln:  
+	'anfauchen, fauchen', //
 	'angeben, Angeber',  //  
 	'angeschickert', //angeschickert:  
 	'anhimmeln',    //anhimmeln:  

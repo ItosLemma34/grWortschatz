@@ -3,12 +3,12 @@ const s = [
    'Sauklaue', // Sauklaue:
    'säumen', // säumen:
    'Sause',  //Sause:
-   'sausen' , // sausen:  
-   'schaben' , // schaben:    
+   'sausen', // sausen:  
+   'schaben', // schaben:    
    'schade (zu schade sein)',  //duplicated
-   'schälen' , // schälen:    
+   'schälen', // schälen:    
  //  'Schank',  // Schank: needs work; remove ad blocker
-   'Schar'  ,  // Schar:
+   'Schar',  // Schar:
    'Scharfmacher' ,   
    'schassen' ,     
    'schaufeln, Schaufel'  ,    
@@ -47,86 +47,87 @@ const s = [
    'Schmiererei, schmieren, schmierig', //
    'Schmierfink', // Schmierfink:
    'Schminke', // Schminke:
-   'schmissig',
-   'Schmonzette',
+   'schmissig', // schmissig:
+   'Schmonzette', // Schmonzette:
    'schmoren' , // schmoren:
    'schmökern', // schmökern:
-   'Schmuck, schmuck' ,
-   'Schmuddel, Schmuddelwetter',
-   'Schmunzeln, schmunzeln'  ,
-   'Schmutzfink',
-   'Schnalle, schnallen'  ,
-   'Schnapsidee' ,
-   'schnarchen' ,
+   'Schmuck, schmuck' ,  //
+   'Schmuddel, Schmuddelwetter', //
+   'Schmunzeln, schmunzeln' , //
+   'Schmutzfink',  // Schmutzfink:
+   'Schnalle, schnallen', //
+   'Schnapsidee' ,  // Schnapsidee:
+   'schnarchen' ,  // schnarchen:
    'schnarren',  //schnarren:
    'schnattern, in einem fort'  ,  //
    'schnaufen',  // schnaufen: 
-   'schneidig'  , 
-   'schnieke',
+   'schneidig',  // schneidig:
+   'schnieke',  // schnieke:
    'schnippen',  // schnippen:
-   'schnippisch'  ,  
-   'schnörkelig'  ,
-   'schnorren, anschnorren' ,
+   'schnippisch' , // schnippisch: 
+   'schnörkelig' , // schnörkelig:
+   'schnorren, anschnorren', // duplicated
    'Schnösel' ,  // Schnösel:
    'schnuppern' ,  // schnuppern:
-   'Schnur'  ,
-   'schnurstracks' ,
-   'schnurz­pie­pe, schnurzegal',
-   'Schotter' ,
-   'schrammen',
-   'schrappen',  // schrappen:
-   'Schraubstock',
-   'Schrippe',
-   'Schritt',  // Schritt:
-   'Schrott'  ,
-   'Schrubber'  ,
-   'schubsen' ,
-   'schummrig',  // schummrig:
-   'Schund'  ,
-   'schunkeln' ,
-   'Schuppen',   //Schuppen:
-   'schüren',            
-   'Schürze' ,
-   'Schüssel' ,  // Schüssel:
-   'schütten' ,          
-   'schütter' ,
-   'Schütze',
-   'schwanen'  ,
-   'Schwanz einziehen/einkneifen',
-   'Schwebebahn'  ,
-   'schwelgen',
-   'schwirren',
-   'Schwitzkasten' ,
-   'schwülstig',  // schwülstig:
-   'Seil'  ,
-   'Sichtblende',
-   'sickern' ,
-   'Sippenhaft',
-   'skandieren' ,
-   'Sore',
-   'soufflieren',  //soufflieren:
-   'Spalier',
-   'Spanner',
-   'Spaten' ,
-   'speckig' ,
-   'sperrangelweit' ,
-   'Sperrhaken' ,
-   'sperrig',  // sperrig:       
-   'spicken' ,
-   'Spieß, spießen',
-   'spitzkriegen',  //spitzkriegen:
-   'Sprechmuschel'  ,
-   'Spreu vom Weizen trennen',
-   'Sprosse',  // Sprosse:
-   'Spülbürste',
-   'Spüle, spülen', //
-   'spuren' ,  // spuren:
-   'sputen (sich)' ,
-   'Stadtstreicher' ,
-   'staksen'  ,
-   'Standpauke' ,
-   'Stange',  // Stange:
-   'Stapel, stapeln' , //
+   'Schnur', //  Schnur:
+   'schnurstracks', // schnurstracks:
+//   'schnurzegal, schnurz­pie­pe', // make duplicate if example of "schnurzegal found"
+   'schnurz­pie­pe, schnurzegal', // make duplicate if example of "schnurzegal found"
+   'Schotter', // Schotter:
+   'schrammen', // schrammen:  *
+   'schrappen',  // schrappen: *
+   'Schraubstock', // Schraubstock:  *
+   'Schrippe', // Schrippe:  *
+   'Schritt',  // Schritt:  *
+   'Schrott',  // Schrott:  *
+   'Schrubber, schrubben', // *  make duplicate if schrubben found
+   'schubsen',  // schubsen:  *
+   'schummrig',  // schummrig: *
+   'Schund',  // Schund: *
+   'schunkeln', // schunkeln: *
+   'Schuppen',  // Schuppen:  *
+   'schüren',  // schüren:  *          
+   'Schürze',  // Schürze:  *
+   'Schüssel',  // Schüssel: *
+   'schütten',  // schütten:  *       
+   'schütter',  // schütter:  *
+   'Schütze',  // Schütze:  *
+   'schwanen', // schwanen:  *
+   'Schwanz einziehen/einkneifen', // *
+   'Schwebebahn',  // Schwebebahn: *
+   'schwelgen', // schwelgen: *
+   'schwirren', // schwirren: *
+   'Schwitzkasten', // Schwitzkasten: *
+   'schwülstig',  // schwülstig:  *
+   'Seil',  // Seil: *
+   'Sichtblende', // Sichtblende:  *
+   'sickern', // sickern: *
+   'Sippenhaft', // Sippenhaft: *
+   'skandieren', //skandieren:  *
+   'Sore',  // Sore: *
+   'soufflieren',  //soufflieren: *
+   'Spalier',  // Spalier:  *
+   'Spanner', // Spanner:  *
+   'Spaten',  // Spaten:  *
+   'speckig', // speckig: *
+   'sperrangelweit',  // sperrangelweit:  *
+   'Sperrhaken',  // Sperrhaken:  *
+   'sperrig',  // sperrig:  *     
+   'spicken',  // spicken:  *
+   'Spieß, spießen',  // 'Spieß, spießen' *
+   'spitzkriegen',  //spitzkriegen:  *
+   'Sprechmuschel',  // Sprechmuschel:
+   'Spreu vom Weizen trennen',  // 'Spreu vom Weizen trennen' *
+   'Sprosse',  // Sprosse:  *
+   'Spülbürste',  // Spülbürste: *
+   'Spüle, spülen', // *
+   'spuren',  // spuren: *
+   'sputen (sich)', // *
+   'Stadtstreicher', // Stadtstreicher:  *
+   'staksen',  // staksen:  *
+   'Standpauke',  // Standpauke: *
+   'Stange',  // Stange:  *
+   'Stapel, stapeln', //  *
    'stapfen',  //stapfen:
    'starren (vor Schmutz starren)' ,
    'Statist' ,

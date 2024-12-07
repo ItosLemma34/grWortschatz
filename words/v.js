@@ -89,7 +89,7 @@ const v = [
    'vögeln',    //vögeln:
    'Vollwaise', // Vollwaise:
    'vorgaukeln' ,  //vorgaukeln:
-   'Vorhängeschloss',  //Vorhängeschloss:
+   'Vorhängeschloss',  //Vorhängeschloss: *
    'vorliebnehmen',   //vorliebnehmen:
    'vorsintflutlich',  //vorsintflutlich:
 ];

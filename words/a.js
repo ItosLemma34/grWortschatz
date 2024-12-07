@@ -48,6 +48,7 @@ const a = [
 	'anschleichen (sich)', //
 	'anschmiegsam', //anschmiegsam: 
 	'anschnauzen',  //anschnauzen: 
+	'anschnorren, schnorren', // duplicated
 	'anschwärzen',  //anschwärzen:  
 	'ansengen',     //ansengen:  
 	'Ansinnen' ,    //Ansinnen:  

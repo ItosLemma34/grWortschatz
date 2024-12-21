@@ -105,6 +105,7 @@ const a = [
 	'aufschichten',   //aufschichten:  
 	'aufstieben',    //aufstieben:  
 	'aufstöbern',    //aufstöbern:  
+	'aufsummen, summen', // * duplicated
 	'auftakeln',     //auftakeln:  
 	'auftischen',    //auftischen:  
 	'aufwiegen',     //aufwiegen:  

@@ -1,13 +1,13 @@
 const s = [
-   'Sägemehl', // Sägemehl:
-   'Sauklaue', // Sauklaue:
+   'Sägemehl', // Sägemehl: *
+   'Sauklaue', // Sauklaue:  *
    'säumen', // säumen:
    'Sause',  //Sause:
    'sausen', // sausen:  
    'schaben', // schaben:    
    'schade (zu schade sein)',  //duplicated
    'schälen', // schälen:    
- //  'Schank',  // Schank: needs work; remove ad blocker
+ //  'Schank',  // Schank: needs work
    'Schar',  // Schar:
    'Scharfmacher' ,   
    'schassen' ,     
@@ -128,44 +128,44 @@ const s = [
    'Standpauke',  // Standpauke: *
    'Stange',  // Stange:  *
    'Stapel, stapeln', //  *
-   'stapfen',  //stapfen:
-   'starren (vor Schmutz starren)' ,
-   'Statist' ,
-   'Stativ',  //Stativ:
-   'statuieren'  ,
-   'stauchen', // stauchen:
-   'Steckbrief',
-   'Stecknadel im Heuhaufen'  ,
-   'Steg' ,
-   'stibitzen'  ,
-   'Stich (einen Stich versetzen)',
-   'Stiefel, stiefeln' ,
-   'stieren' ,
-   'stöbern',
-   'stochern',  // stochern:
-   'stöckeln, Stöckelschuh',
-   'stöhnen', // stöhnen:
-   'stopfen, Stopfen',
-   'Stöpsel',   // Stöpsel:
-   'stolzieren',
-   'strampeln',
-   'Strebe'  ,
-   'Streich spielen',
-   'Strickjacke',
-   'Striemen',
-   'Strippe'  ,
-   'stromern' ,
-   'Strudel',
-   'strunzdämlich'  ,
-   'Stuck', // Stuck:
-   'Stulle',
-	'stülpen (sich)', //
-   'Stummel',  // Stummel:
-   'stümperhaft',
-   'süffisant',
-   'summen', // summen:
-   'Sündenpfuhl',
-   'surren',   //surren:  
+   'stapfen',  //stapfen:  *
+   'starren (vor Schmutz starren)', // *
+   'Statist', // Statist:  *
+   'Stativ',  // Stativ:  *
+   'statuieren', // statuieren:  *
+   'stauchen', // stauchen:  *
+   'Steckbrief', // Steckbrief:  *
+   'Stecknadel im Heuhaufen',  // *
+   'Steg', // Steg: *
+   'stibitzen', // stibitzen:
+   'Stich (einen Stich versetzen)', // *
+   'Stiefel, stiefeln', // *
+   'stieren',  // stieren:  *
+   'stöbern',  // stöbern:  *
+   'stochern',  // stochern: *
+   'stöckeln, Stöckelschuh', // *
+   'stöhnen', // stöhnen: *
+   'stopfen, Stopfen', // *
+   'Stöpsel',   // Stöpsel: *
+   'stolzieren', // stolzieren: *
+   'strampeln',  // strampeln: *
+   'Strebe', // Strebe: *
+   'Streich spielen', // *
+   'Strickjacke', // Strickjacke: *
+   'Striemen',  // Striemen: *
+   'Strippe',  // Strippe: *
+   'stromern',  // stromern: *
+   'Strudel',  // Strudel:
+   'strunzdämlich',   // strunzdämlich:   include Duden
+   'Stuck', // Stuck: *
+   'Stulle',  // Stulle: *
+	'stülpen (sich)', // *
+   'Stummel',  // Stummel: *
+   'stümperhaft', // stümperhaft: *
+   'süffisant',  // süffisant: *
+   'summen, aufsummen', // * duplicated
+   'Sündenpfuhl', // Sündenpfuhl: *
+   'surren',   //surren:  *
    ];
 
 export default s;      

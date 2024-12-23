@@ -1,43 +1,43 @@
 const s = [
    'Sägemehl', // Sägemehl: *
    'Sauklaue', // Sauklaue:  *
-   'säumen', // säumen:
-   'Sause',  //Sause:
-   'sausen', // sausen:  
-   'schaben', // schaben:    
-   'schade (zu schade sein)',  //duplicated
-   'schälen', // schälen:    
+   'säumen', // säumen:  *
+   'Sause',  //Sause:  *
+   'sausen', // sausen:  *
+   'schaben', // schaben:  * 
+   'schade (zu schade sein)',   //duplicated *
+   'schälen', // schälen:  *  
  //  'Schank',  // Schank: needs work
-   'Schar',  // Schar:
-   'Scharfmacher' ,   
-   'schassen' ,     
-   'schaufeln, Schaufel'  ,    
-   'schaukeln'  ,     
-   'scheiteln, Scheitel',
-   'Scheiterhaufen',
-   'schellen',
-   'scheppern' ,  // scheppern:
-   'Scherbe' ,
-   'scheren (sich)'  ,
-   'scheuern'  ,
-   'Schiefertafel', // Schiefertafel:
-   'schielen'  ,  // schielen:
-   'schikanieren'  ,
-   'Schilde (etwas im S. führen)',
-   'Schimmel, (ver)schimmeln',
-   'Schimmer (keinen blassen S.)', //
-   'schimmern'  ,
-   'Schinder, schinden' , //
-   'Schlagseite',  // Schlagseite:
-   'Schlamassel',
-   'schlampig',  //schlampig:
-   'Schlauberger',
-   'Schlauch' ,
-   'schleifen' ,  // schleifen:
-   'schlendern' , // schlendern:
-   'Schleuse, schleusen', //
-   'Schliere, schlieren'  ,
-   'schliddern, schlittern',
+   'Schar',  // Schar:  *
+   'Scharfmacher', // Scharfmacher:  * 
+   'schassen',   // schassen:  *
+   'schaufeln, Schaufel',  // *  
+   'schaukeln',   // schaukeln: *
+   'scheiteln, Scheitel', // *
+   'Scheiterhaufen',  // Scheiterhaufen: *
+   'schellen',  // schellen: *
+   'scheppern',  // scheppern: *
+   'Scherbe',  // Scherbe:  *
+   'scheren (sich)',  // *
+   'scheuern',  // scheuern: *
+   'Schiefertafel', // Schiefertafel: *
+   'schielen',  // schielen: *
+   'schikanieren', // schikanieren: *
+   'Schilde (etwas im S. führen)', // *
+   'Schimmel, (ver)schimmeln', // *
+   'Schimmer (keinen blassen S.)', // *
+   'schimmern', // schimmern:  *
+   'Schinder, schinden' , // *
+   'Schlagseite',  // Schlagseite: *
+   'Schlamassel', // Schlamassel: *
+   'schlampig',  //schlampig: *
+   'Schlauberger', // Schlauberger: *
+   'Schlauch', // Schlauch: *
+   'schleifen' ,  // schleifen: *
+   'schlendern' , // schlendern: *
+   'Schleuse, schleusen', // *
+   'Schliere, schlieren', // *
+   'schliddern, schlittern', // *
    'schluchzen' ,  // schluchzen:
    'Schlüpfer',  // Schlüpfer:
    'schlüpfrig', // schlüpfrig:

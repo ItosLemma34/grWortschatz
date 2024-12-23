@@ -5415,7 +5415,9 @@ sperrig: [
 	'Rath wurde seine Wut einfact nicht los. Wie ein <strong>sperriger</strong> Widerhaken saß sie fest und wollte nicht weichen, sosehr er das Gaspedal auch durchtrat. (<i>Lunapark</i>, 66)' ,
 ],
 Schlagseite: [
-	'die <strong>Schlagseite</strong>,-<strong>n</strong>: &nbsp;list (nautical) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlagseite"target="target1">Schlagseite</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlagseite"target="target2">Schlagseite</a> &nbsp;<a href="https://www.verbformen.com/?w=Schlagseite"target="target3">Schlagseite</a> ',
+	'die <strong>Schlagseite</strong>,-<strong>n</strong>: list (nautical) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlagseite"target="target1">Schlagseite</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlagseite"target="target2">Schlagseite</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlagseite"target="target3">Schlagseite</a> &nbsp;<a href="https://www.verbformen.com/?w=Schlagseite"target="target4">Schlagseite</a> ',
 	'<u>Lunapark</u>', 
 	'"Also?", fragte Rath. "Irgendetwas Besonderes gestern Abend?" <i>der Wirt</i>: "Nich dass ick wüsste. Die Kameraden waren alle bester Laune. Haben irgendwas gefeiert." "Was denn gefreiert?" "Keene Ahnung. Bin nur der Wirt. Da müssen Se den Sturmführer fragen. Katsche hatte jedenfalls schon ziemliche <strong>Schlagseite</strong>, als er ging."  (<i>Lunapark</i>, 33-34)' ,
 ],
@@ -5455,7 +5457,9 @@ schnaufen: [
 	'Er (<i>Rath</i>) hörte Bestmanns <strong>Schnaufen</strong> von der Tür.  (<i>Lunapark</i>, 37)' ,
 ],
 Schiefertafel: [
-	'die <strong>Schiefertafel</strong>,-<strong>n</strong>: &nbsp;slate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schiefertafel"target="target1">Schiefertafel</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Schiefertafel"target="target2">Schiefertafel</a> &nbsp;<a href="https://www.verbformen.com/?w=Schiefertafel"target="target3">Schiefertafel</a> ',
+	'die <strong>Schiefertafel</strong>,-<strong>n</strong>: slate' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schiefertafel"target="target1">Schiefertafel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schiefertafel"target="target2">Schiefertafel</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Schiefertafel"target="target3">Schiefertafel</a> &nbsp;<a href="https://www.verbformen.com/?w=Schiefertafel"target="target4">Schiefertafel</a> ',
 	'<u>Lunapark</u>', 
 	'Eingetrocknete Bierlachen auf dem Boden ließen die Schuhsohlen bei jedem Schritt kleben. Neben der Theke eine Tür, die weiter nach hinten führte. An der Wand eine <strong>Schiefertafel</strong>, auf der noch das gestrige Tagesgericht angekündigt war: <i>Gulaschsuppe 30 Pf</i>. (<i>Lunapark</i>, 35)' ,
 ],
@@ -5471,12 +5475,14 @@ Schank: [
 	'Als Rath von der sonnenhellen Straße in den <strong>Schank</strong>raum trat, konnte er zunächts nichts erkennen, nicht einal die massige Gestalt des Wirts, der vorangegangen war und ihnen aufgeschlossen hatte.  (<i>Lunapark</i>, 32)' ,
 ],
 Sause: [
-	'die <strong>Sause</strong>,-<strong>n</strong>: &nbsp;party, bash, pub crawl <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Sause"target="target1">Sause</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/sause?q=Sause"target="target2">Sause</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sause"target="target3">Sause</a> ',
+	'die <strong>Sause</strong>,-<strong>n</strong>: party, bash, pub crawl <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Sause"target="target1">Sause</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sause"target="target2">Sause</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/sause?q=Sause"target="target3">Sause</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sause"target="target4">Sause</a> ',
 	'<u>Lunapark</u>', 
 	'Fritze ließ die Zeitung sinken und schaute sie (<i>Charly</i>) an. "Hier steht schon wieder was vom Tempelhofer Feld drin", sagte er.. "Wird \'ne Riesen<strong>sause</strong>!".. In zwei Wochen war auf dem Tempelhofer Feld ein großes Zeltlager der Hitlerjugend anberaumt.. "Schön", sagte Charly. "Wenn das so eine Riesen<strong>sause</strong> wird, dann steht am nächsten Tag bestimmt auch genug darüber in der Zeitung."  (<i>Lunapark</i>, 29)' ,
 ],
 schlampig: [
-	'<strong>schlampig</strong>: &nbsp;sloppy, slipshod, untidy <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target2">schlampig</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/schlampig"target="target3">schlampig</a> ',
+	'<strong>schlampig</strong>: sloppy, slipshod, untidy ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlampig"target="target2">schlampig</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target3">schlampig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlampig"target="target4">schlampig</a> ',
 	'<u>Lunapark</u>',
 	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können....  (<i>Lunapark</i>, 20)' ,
 	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante.  (<i>Lunapark</i>, 23)' , 
@@ -5540,8 +5546,9 @@ Spanner: [
 //	'<u>Märzgefallene</u>',
 ],
 Scheiterhaufen: [
-	'der <strong>Scheiterhaufen</strong>,-: &nbsp;funeral pyre, stake 	<br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Scheiterhaufen" target="target1" >Scheiterhaufen</a>  &nbsp;&nbsp;<a href ="https://de.wikipedia.org/wiki/Scheiterhaufen" target="target2" >wikipedia</a>',
-//	'<u>Der nasse Fisch</u>', 
+	'der <strong>Scheiterhaufen</strong>,-: funeral pyre, stake' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Scheiterhaufen"target="target1">Scheiterhaufen</a>  &nbsp;<a href="https://de.wikipedia.org/wiki/Scheiterhaufen"target="target2">Scheiterhaufen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/scheiterhaufen"target="target3">Scheiterhaufen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Scheiterhaufen"target="target4">Scheiterhaufen</a>',
 	'<u>Märzgefallene</u>',
 	'Auch ein paar Studenten waren bereits da, Polizei und Feuerwehr und die Wochenschau, die alles mit ihren Scheinwerfern, ganzen Batterien von Scheinwerfern, taghell ausleuchtete: den bereits aufgestapelten <strong>Scheiterhaufen</strong>, das fahnendrapierte Redenerpult hinter einem Strauß von Mikrofonen und die Schaulustigen.   (<i>Märzgefallene</i>, 553-54)' ,
 	'Während sich der Fackelzug langsam näherte, begannen Feuerwehrmänner, den aus Holzbalken aufgeschichteten <strong>Scheiterhaufen</strong>, den der Regen durch und durch eingenässt hatte, kanisterweise mit Benzin zu übergießen. (<i>Märzgefallene</i>, 555)',
@@ -5550,15 +5557,18 @@ Scheiterhaufen: [
 	'Jedenfalls grämte Weinert sich nicht mehr über seine langsame Arbeitsweise, inzwischen war er sogar froh, dass <i>Abblende</i> - so der Arbeitstitel - nicht schon erschienen war, denn in diesem Fall, da war er sich sicher, wäre sein erster Roman.. heute auch zum Futter für den <strong>Scheiterhaufen</strong> geworden.   (<i>Märzgefallene</i>, 568)' ,
 ],
 'Schilde (etwas im S. führen)': [
-	'<strong>etwas im Schilde führen</strong>: &nbsp;be up to something  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.dwds.de/wb/etw.%20im%20Schilde%20f%C3%BChren" target="target1" >etwas im Schilde führen</a>',
-//	'<u>Der nasse Fisch</u>', 
+	'<strong>etwas im Schilde führen</strong>: be up to something ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20im%20Schilde%20f%C3%BChren"target="target1">etwas im Schilde führen</a>&nbsp;&nbsp;<a href="&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=etwas+im+Schilde+f%C3%BChren&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">etwas im Schilde führen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/etwas%20im%20Schilde%20f%C3%BChren"target="target3">etwas im Schilde führen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=im+Schilde+f%C3%BChren"target="target4">etwas im Schilde führen</a>' ,
 	'<u>Märzgefallene</u>',
 	'Die ganze Zeit hatte er (<i>Grimberg</i>) geahnt, dass irgendetwas nicht stimmte, dass Roddeck <strong>irgendwas im Schilde führt</strong>. Dass er nicht mit offenen Karten spielt. Er hatte es geahnt. Jetzt aber wusste er es.   (<i>Märzgefallene</i>, 552)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Schimmer (keinen blassen S.)': [
-	'der <strong>Schimmer</strong>,-: shimmer, shine; &nbsp;&nbsp;<strong>schimmern</strong>: to shimmer, shine  <br><strong>keinen blassen Schimmer haben</strong>: &nbsp;not have the foggiest idea  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.redensarten-index.de/suche.php?suchbegriff=keinen+blassen+Schimmer&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou" target="target1" >keinen blassen Schimmer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=keinen+blassen+Schimmer+haben"target="target2">keinen blassen Schimmer</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/keinen%20blassen%20Schimmer%20haben"target="target3">keinen blassen Schimmer</a>  ',
+	'der <strong>Schimmer</strong>,-: shimmer, shine; &nbsp;&nbsp;<strong>schimmern</strong>: to shimmer, shine  <br><strong>keinen blassen Schimmer haben</strong>: not have the foggiest idea ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=keinen+blassen+Schimmer&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">keinen blassen Schimmer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/keinen%20Schimmer%20haben"target="target2">keinen Schimmer</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=keinen+blassen+Schimmer+haben"target="target3">keinen blassen Schimmer</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/keinen%20blassen%20Schimmer%20haben"target="target4">keinen blassen Schimmer</a>  ',
 	'<u>Der nasse Fisch</u>', 
 	'Er (<i>Gereon</i>) wollte neben ihr (<i>Charly</i>) einschlafen und neben ihr aufwachen. Und nun hatte er <strong>keinen blassen Schimmer</strong>, wie er sie unbemerkt an Elisabeth Behnke vorbeischmuggeln sollte. (<i>Der nasse Fisch</i>, 193)' ,
 	'<u>Märzgefallene</u>',
@@ -5613,7 +5623,9 @@ Steckbrief: [
 	'<i>Rath</i>: "Was, wenn ich dir sage, dass nicht Engel, sondern Leutnant von Roddek selbst hinter diesen Morden stekt?" <i>Weinert</i>: "Der Schriftsteller? Aber das passt doch nicht zu dem <strong>Steckbrief</strong>. Außerdem wurde die Mordwaffe bei der Spreeleiche gefunden."   (<i>Märzgefallene</i>, 531)'  ,
 ],
 'Schleuse, schleusen': [  
-	'die <strong>Schleuse</strong>,-<strong>n</strong>: sluice &nbsp;&nbsp;<strong>schleusen</strong>: pass through, filter; smuggle <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schleuse"target="target1">Schleuse</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schleusen"target="target2">schleusen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Schleuse"target="target3">Schleuse</a> &nbsp;<a href="https://www.verbformen.com/?w=schleusen"target="target4">schleusen</a>   ',
+	'die <strong>Schleuse</strong>,-<strong>n</strong>: lock, gate, sluice <br><strong>schleusen</strong>: pass through, filter; smuggle ' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schleuse"target="target1">Schleuse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schleusen"target="target2">schleusen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schleuse"target="target3">Schleuse</a> &nbsp;<a href="https://www.verbformen.com/?w=schleusen"target="target4">schleusen</a>   ',
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Er (<i>Gräf</i>) hat Engel gefunden?" <i>Erika Voss</i>: "Tot oder lebendig wollte der Polizeipräsident ihn haben. Nun hat er ihn tot. In der Spree haben sie seine Leiche gefunden."... Bis zur Mühlendamm<strong>schleuse</strong> hatte es Heinrich Wosniak nicht geschafft; seine sterblichen Überreste waren von der Strömung der Spree nur bis kurz hinter die Schillingbrücke geschwemmt worden....  (<i>Märzgefallene</i>, 494)'  ,
 	'<u>Lunapark</u>',  
@@ -5643,7 +5655,9 @@ stümperhaft: [
 	'Der Großeinsatz der Berliner Polizei hatte keine guten Kritiken bekommen. Die konservative und die nationale Presse hielten ihn im Grunde für richtig, die Ausführung aber für <strong>stümperhaft</strong>, Sozis traute man ein richtiges Durchgreifen eben nicht zu.    (<i>Der nasse Fisch</i>, 104)',
 ],
 schellen: [
-	'<strong>schellen</strong>: &nbsp;ring the bell  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schellen" target="target1" >schellen</a> ' ,
+	'<strong>schellen</strong>: ring the bell' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schellen"target="target1">schellen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schellen"target="target2">schellen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schellen"target="target3">schellen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schellen"target="target4">schellen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Ganz unten machte er (<i>Rath</i>) den Anfang. Die Portierswohnung. <i>Schäffner</i> stand auf dem Klingelschild. Er <strong>schellte</strong>. Nichts passierte. Nach einer Weile drückte er die Klingel noch einmal.   (<i>Der nasse Fisch</i>, 106)',
 	'Rath ging die Treppe hinauf in den ersten Stock und <strong>schellte</strong>. In der Wohnung blieb alles ruhig.  (<i>Der nasse Fisch</i>, 110)',
@@ -5713,7 +5727,9 @@ schrammen: [
 	'Wenigstens hatte Charly entdeckt, dass der Wagen schon in der Möckernstraße an einem parkenden Auto entlang<strong>geschrammt</strong> war.   (<i>Der nasse Fisch</i>, 81)',
 ],
 Schlauberger: [
-	'der <strong>Schlauberger</strong>,-<strong>in</strong>; die <strong>Schlauberger</strong>,-<strong>innen</strong>: &nbsp;know-it-all, wise guy  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schlauberger" target="target1" >Schlauberger</a> ' ,
+	'der <strong>Schlauberger</strong>,-<strong>in</strong>; die <strong>Schlauberger</strong>,-<strong>innen</strong>: know-it-all, wise guy ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlauberger"target="target1">Schlauberger</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlauberger"target="target2">Schlauberger</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Schlauberger"target="target3">Schlauberger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlauberger"target="target4">Schlauberger</a>',
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) ärgerte sich, ohne Not ein Gespräch mit diesem intellektuellen <strong>Schlauberger</strong> (<i>Doktor Völcker</i>) angefangen zu haben.  (<i>Der nasse Fisch</i>, 78)',
 ],
@@ -5763,7 +5779,9 @@ strampeln: [
 	'Und dann meinte er (<i>Fritze</i>), etwas gesehen zu haben, das ihm bekannt vorkam.... Einen Mann mit schwarzem Wintermantel und Melone. Mit einem seltsamen, unrhythmisch schiefen Gang. Er schaute noch einmal hin, doch die Menschenmenge hatte sich schon wieder geschlossen. Hatten seine Augen ihm <strong>einen Streich gespielt</strong>, weil er gerade an den Mann gedacht hatte?  (<i>Märzgefallene</i>, 396-97)',
 ],
 'schliddern, schlittern': [
-	'<strong>schliddern</strong> (= <strong>schlittern</strong>): &nbsp;slide, slither <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schlittern" target="target1" >schlittern</a> ' ,
+	'<strong>schliddern</strong> (= <strong>schlittern</strong>): slide, slither ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlittern"target="target1">schlittern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlittern"target="target2">schlittern</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schlittern"target="target3">schlittern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlittern"target="target4">schlittern</a>',
 	'<u>Märzgefallene</u>',
 	'Mit einem klirrenden Geräusch <strong>schlidderte</strong> der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben.'
 ],
@@ -5773,7 +5791,7 @@ strampeln: [
 	'"Bislang haben wir die Roten immer noch kleingekriegt, oder?", meinte Schultes. "Vor zehn Jahren wollten die auch schon Revolution machen. Und was ist dareaus geworden? Nein, das sind Maulhelden, wenn\'s ernst wird <strong>kneifen</strong> die <strong>den Schwanz ein</strong>."  (<i>Der nasse Fisch</i>, 55)' ,
 ],
 sausen: [
-	'<strong>sausen</strong>: whizz, rush, buzz; roar <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sausen"target="target1">sausen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sausen"target="target2">sausen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sausen"target="target3">sausen</a> ' ,
+	'<strong>sausen</strong>: whizz, rush, buzz; roar <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sausen"target="target1">sausen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sausen"target="target2">sausen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sausen"target="target3">sausen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sausen"target="target4">sausen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'...ein Raunen ging durch die Menge. Gummiknüppel <strong>sausten</strong> nieder. Die Demonstranten in der ersten Reihe duckten sich unter den Schlägen.... (<i>Der nasse Fisch</i>, 54)' ,
 ],
@@ -5794,7 +5812,7 @@ Schütze: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Scharfmacher: [
-	'der <strong>Scharfmacher</strong>,-; die <strong>Scharfmacherin</strong>,-<strong>nin</strong>: &nbsp;firebrand, rabble-rouser, agitator  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Scharfmacher" target="target1" >Scharfmacher</a> ' ,
+	'der <strong>Scharfmacher</strong>,-; die <strong>Scharfmacherin</strong>,-<strong>nin</strong>: firebrand, rabble-rouser, agitator <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Scharfmacher"target="target1">Scharfmacher</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Scharfmacher"target="target2">Scharfmacher</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/scharfmacher"target="target3">Scharfmacher</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Scharfmacher"target="target4">Scharfmacher</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Der Großeinatz der Berliner Polizei hatte keine guten Kritiken bekommen... Die Kritik der liberalen Blätter hatte sich zunächst konzentriert auf rechts- und linksradikale <strong>Scharfmacher</strong>, <i>die sich an der Vorstellung berauschten, dass aus den schweren Krawallen mit der Zeit ein frischer fröhlicher Bürgerkrieg werden könnte</i>, wie es die <i>Vossische Zeitung</i> formuliert hatte.  (<i>Der nasse Fisch</i>, 104)' ,
 ],
@@ -5878,9 +5896,11 @@ süffisant: [
 	'Levetzow (<i>Nazi Polizeipräsident</i>) konnte nicht nur brüllen, er konnte auch <strong>süffisant</strong>. "Ah, Kommissar Rath", flötete er gleich zur Begrüßung, "schön, dass Sie hier sind. Ich bräuchte nur eine klitzekleine Information zu Ihrem Fall."  (<i>Märzgefallene</i>, 356-57)' ,
 ],
 Schlamassel: [
-	'der (oder das) <strong>Schlamassel</strong> (no plural): &nbsp;jam, fix, mess, predicament    <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schlamassel" target="target1" >Schlamassel</a> ' ,
+	'der (oder das) <strong>Schlamassel</strong> (no plural): jam, muddle, mess, fiasco ' +   
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlamassel"target="target1">Schlamassel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlamassel"target="target2">Schlamassel</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schlamassel"target="target3">Schlamassel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlamassel"target="target4">Schlamassel</a>',
 	'<u>Märzgefallene</u>',
-	'<i>Charly</i>: "Ich helfe dir (<i>Fritze</i>) aus dem <strong>Schlamassel</strong>, wenn die Bullen dich aufgabeln, ich mache diese (dieses?) Tante-Spielchen mit, ich gebe dir zu essen und zu trinken, und du sagst mir nicht einmal deinen Namen! Du sagst mir gar nichts!"  (<i>Märzgefallene</i>, 355)' ,
+	'<i>Charly</i>: "Ich helfe dir (<i>Fritze</i>) aus dem <strong>Schlamassel</strong>, wenn die Bullen dich aufgabeln, ich mache diese (<i>dieses</i>?) Tante-Spielchen mit, ich gebe dir zu essen und zu trinken, und du sagst mir nicht einmal deinen Namen! Du sagst mir gar nichts!"  (<i>Märzgefallene</i>, 355)' ,
 	'Es überraschte ihn (<i>Gereon</i>) selbst, wie laut er geworden war, doch er machte weiter, er kam gerade erst in Fahrt, und es musste aus ihm hinaus. "Wer hat uns denn diesen ganzen <strong>Schlamassel</strong> hier eingebrockt? Deine (<i>Charlys</i>) Demokratie! Weswegen haben die Nazis denn die Mehrheit im Reichstag? Wegen der ach so tollen Demokratie...."  (<i>Märzgefallene</i>, 390)' ,
 ],
 Stulle: [
@@ -5920,7 +5940,7 @@ soufflieren: [
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 säumen: [
-	'<strong>säumen</strong>: hem, trim, border, edge, line sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/saeumen_einfassen"target="target1">säumen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/s%C3%A4umen"target="target2">säumen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=s%C3%A4umen"target="target3">säumen</a> ' ,
+	'<strong>säumen</strong>: hem, trim, border, edge, line sth. <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/saeumen_einfassen"target="target1">säumen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/s%C3%A4umen"target="target2">säumen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/s%C3%A4umen"target="target3">säumen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=s%C3%A4umen"target="target4">säumen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Rath fummelte seine letzte Overstolz aus der Packung, als er am Ufer angekommen war, und schaute auf die Uhr. Im Schatten der Bäume, die die Uferpromenade <strong>säumten</strong>, stand eine Bank, auf die er sich setzte.   (<i>Der nasse Fisch</i>, 112)'  ,
 	'Zur Adresse der Wolters war es vom Bahnhof aus nicht weit, nur ein kurzer Fußweg. Die Fregestraße, eine ruhige Straße, von Bäumen <strong>gesäumt</strong>, die Hausfassaden strahlten solide Bürgerlichkeit aus.  (<i>Der nasse Fisch</i>, 165)'  ,
@@ -5929,31 +5949,31 @@ säumen: [
 	'"Da steht doch allet leer. Da verirren sich höchstens ein paar Penner hin." Damit hatte er (<i>Fritze</i>) wohl recht. Die Gebäude, die den Hof <strong>säumten</strong>, sahen allesamt aus, als werde hier schon seit Jahren nicht mehr gearbeitet, als warte alles nur noch auf den Abriss. (<i>Märzgefallene</i>, 411)' ,
 ],
 schassen: [
-	'<strong>schassen</strong>: kick out, expel  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schassen" target="target1" >schassen</a> ',
+	'<strong>schassen</strong>: kick out, expel <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schassen"target="target1">schassen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schassen"target="target2">schassen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schassen"target="target3">schassen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schassen"target="target4">schassen</a> ',
 	'<u>Märzgefallene</u>',
 	'Der Komplex war größer, als er von der Straße her wirkte, aber Rath hatte das Krankenhaus nicht wegen seiner Größer ausgesucht..., sondern vor allem deshalb, weil es ein katholisches Krankenhaus war. Die würden bestimmit nicht mit der SA kooperieren.... Im Hedwig-Krankenhaus hatte sogar Ex-Kanzler Brüning Asyl gefunden, nachdem Hindenburg ihn vor einem Jahr <strong>geschasst</strong> hatte.  (<i>Märzgefallene</i>, 240)' ,
 ],
 schaben: [
-	'<strong>schaben</strong> (<strong>sich</strong>): shave, rub, scrape  &nbsp;&nbsp;&nbsp;das <strong>Schaben</strong>: scraping, rubbing <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaben"target="target1">schaben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schaben"target="target2">schaben</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schaben"target="target3">schaben</a>',
+	'<strong>schaben</strong> (sich): shave, rub, scrape &nbsp;&nbsp;das <strong>Schaben</strong>: scraping, rubbing <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaben"target="target1">schaben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schaben"target="target2">schaben</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schaben"target="target3">schaben</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schaben"target="target4">schaben</a>',
 	'<u>Der nasse Fisch</u>',
 	'Wie im Schlaf <strong>schabte</strong> er (<i>Wolter</i>) <strong>sich</strong> den Rasierschaum aus dem Gesicht und dachte nach. Die Anrufe von gestern Abend hatten ihn bis in seine Träume verfolgt und schwirrten ihm auch jetzt noch durch den Kopf. (<i>Der nasse Fisch</i>, 223)'  ,
 	'<u>Märzgefallene</u>', 
 	'Ihre Tür hatte von innen keine Klinke, dennoch wusste sie (<i>Hannah</i>), dass er jetzt draußen stand und die Klinke drückte. Sie sah den Schatten vor dem kleinen Glasfenster und hörte das heisere <strong>Schaben</strong>, als die Tür sich  öffnete.  (<i>Märzgefallene</i>, 67)'  ,
 ],
 'schade (zu schade sein)': [
-	'<strong>sich für etwas zu schade sein</strong>: consider oneself too good for sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+f%C3%BCr+etwas+zu+schade+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">zu schade sein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=zu+schade+sein"target="target2">zu schade sein</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/zu%20schade%20sein"target="target3">zu schade sein</a> ' ,
+	'<strong>sich für etwas zu schade sein</strong>: consider oneself too good for sth. <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+f%C3%BCr+etwas+zu+schade+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">zu schade sein</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/zu%20schade%20sein"target="target2">zu schade sein</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zu+schade+sein"target="target3">zu schade sein</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/zu%20schade%20sein"target="target4">zu schade sein</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Aber er (<i>Weinert</i>) hatte wieder einen Fuß in der Tür, er musste die Chance nur nutzen und zeigen, was er konnte. Dass er auch nicht meckerte, wenn es darum ging, Wahlergebnisse einzusammeln.... <strong>Für so etwas</strong> durfte man <strong>sich nicht zu schade sein</strong>. (<i>Märzgefallene</i>, 207-08)' ,
 ],
 'zu schade sein': [
-	'<strong>sich für etwas zu schade sein</strong>: consider oneself too good for sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+f%C3%BCr+etwas+zu+schade+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">zu schade sein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=zu+schade+sein"target="target2">zu schade sein</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/zu%20schade%20sein"target="target3">zu schade sein</a> ' ,
+	'<strong>sich für etwas zu schade sein</strong>: consider oneself too good for sth. <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+f%C3%BCr+etwas+zu+schade+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">zu schade sein</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/zu%20schade%20sein"target="target2">zu schade sein</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zu+schade+sein"target="target3">zu schade sein</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/zu%20schade%20sein"target="target4">zu schade sein</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Aber er (<i>Weinert</i>) hatte wieder einen Fuß in der Tür, er musste die Chance nur nutzen und zeigen, was er konnte. Dass er auch nicht meckerte, wenn es darum ging, Wahlergebnisse einzusammeln.... <strong>Für so etwas</strong> durfte man <strong>sich nicht zu schade sein</strong>. (<i>Märzgefallene</i>, 207-08)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 schälen: [
-	'<strong>schälen (sich)</strong>: peel off, skin, husk <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaelen"target="target1">schälen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schalen?q=sch%C3%A4len"target="target2">schälen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sch%C3%A4len"target="target3">schälen</a>  ',
+	'<strong>schälen</strong> (sich): peel off, skin, husk <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaelen"target="target1">schälen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sch%C3%A4len"target="target2">schälen</a>  <br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schalen?q=sch%C3%A4len"target="target3">schälen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sch%C3%A4len"target="target4">schälen</a>  ',
 	'<u>Der nasse Fisch</u>',
 	'Der Oberkommissar (<i>Wolter</i>) zückte ein Taschenmesser, klappte es auf und machte sich an dem großen Querbalken hinter Rath zu schaffen. Nach einiger Zeit hatte er die Kugel aus dem Holz <strong>geschält</strong>. (<i>Der nasse Fisch</i>, 27)' ,
 	'Der Wecker auf dem Nachttisch zeigte halbe zwei. Rath <strong>schälte sich</strong> aus dem Bett, warf seinen Hausmantel über  und schaute hinaus.  (<i>Der nasse Fisch</i>, 37)' ,
@@ -5962,31 +5982,37 @@ schälen: [
 	'Charly hörte selten Radio, immer noch öfter als Gereon, der eigentlich nur seine Platten auflegte, vorhin aber hatte sie das Gerät anwerfen müssen, hatte den Senderknopf so lange gedreht, bis <strong>sich</strong> aus dem Fiepen und Rauschen eine Stimme <strong>geschält</strong> hatte.... (<i>Märzgefallene</i>, 210-11)' ,
 ],
 Schar: [
-	'die <strong>Schar</strong>,-<strong>en</strong>: troop, band, regiment; flock, gaggle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schar_Menge"target="target1">Schar</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schar"target="target2">Schar</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schar"target="target3">Schar</a> ',
+	'die <strong>Schar</strong>,-<strong>en</strong>: troop, band, regiment; flock, gaggle <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schar_Menge"target="target1">Schar</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schar"target="target2">Schar</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schar"target="target3">Schar</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schar"target="target4">Schar</a> ',
 	'<u>Märzgefallene</u>',
 	'<i>Leo</i>: "Habe eure neuen Polizeiuniformen einfach nicht erkannt. Waren die früher nicht blau?" Der nächste Schlag. Diesmal in die Rippen. "Das heißt Sie und Herr <strong>Schar</strong>führer, du Stück Scheiße!" "Jawohl." "Wie?" "Jawohl, Herr <strong>Schar</strong>führer." Der <strong>Schar</strong>führer guckte zufrieden.  (<i>Märzgefallene</i>, 112-113)' ,
 	'Nachdem das Mädchen in der Carmerstraße allen die Garderobe abgenommen hatte, lotste Rath die Hochzeitsgesellschaft in den Salon,..und schloss die Tür, bevor Kirie hindurchschlüpfen konnte. Dann ließ er seinen Blick kurz über die überschaubare <strong>Schar</strong> der Gäste schweifen und atmete einmal dief durch. So weit hätten sie es also schon einmal geschafft.  (<i>Märzgefallene</i>, 583)' ,
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 'schaufeln, Schaufel': [
-	'<strong>schaufeln</strong> (<strong>sich</strong>):  to scoop, shovel  &nbsp;&nbsp;die <strong>Schaufel</strong>,-<strong>n</strong>: shovel <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schaufeln" target="target1" >schaufeln</a> &nbsp;&nbsp;&nbsp;&nbsp;English definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schaufel?q=Schaufel" target="target2">Schaufel</a>',
+	'<strong>schaufeln</strong> (sich): to scoop, shovel &nbsp;&nbsp;die <strong>Schaufel</strong>,-<strong>n</strong>: shovel' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaufeln"target="target1">schaufeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schaufel"target="target2">Schaufel</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schaufeln"target="target3">schaufeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schaufel?q=Schaufel"target="target4">Schaufel</a>',
 	'<u>Der nasse Fisch</u>',
 	'Wie im Rausch grub er (<i>Rath</i>) ein Loch in den frischen Beton, legte den Mann hinein und <strong>schaufelte</strong> den Beton wieder darauf. Ein bisschen was blieb übrig, das verteilte er. Dann brachte er die <strong>Schaufel</strong> wieder zurück in den Bauwagen und wischte auch den Griff mit dem Taschentuch ab. (<i>Der nasse Fisch</i>, 216)' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) ließ kaltes Wasser laufen und schimpfte lautlos mit seinem Spiegelbild. Immerhin, er konnte sich wiedererkennen. Unrasiert, die Haare zerzaust, grell gekleidet, aber sonst ganz passabel. So sahen die meisten Kölner am Tag nach Rosenmontag aus. Er <strong>schaufelte sich</strong> kaltes Wasser ins Gesicht und fuhr sich schließlich mit nassen Händen durch die Haare, um sie einigermaßen in Form zu bringen. (<i>Märzgefallene</i>, 75)' ,
 ],
 schaukeln: [
-	'<strong>schaukeln</strong>: &nbsp;swing, rock, sway; &nbsp;&nbsp;<strong>Eier schaukeln</strong>: &nbsp;scratch one\'s balls, waste time <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schaukeln" target="target1" >schaukeln</a> &nbsp;&nbsp;<a href ="https://praxistipps.focus.de/eier-schaukeln-daher-kommt-die-redewendung_106367" target="target2" >Eier schaukeln</a>' ,
+	'<strong>schaukeln</strong>: swing, rock, sway <br><strong>Eier schaukeln</strong>: scratch one\'s balls; waste time' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaukeln"target="target1">schaukeln</a> &nbsp;&nbsp;<a href="https://praxistipps.focus.de/eier-schaukeln-daher-kommt-die-redewendung_106367"target="target2">Eier schaukeln</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schaukeln"target="target3">schaukeln</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Eier+schaukeln"target="target4">Eier schaukeln</a>',
 	'<u>Der nasse Fisch</u>',
 	'Das Pärchen schien sehr beschäftigt gewesen zu sein, beide hatten kaum etwas gesehen.... Die beiden waren ausgestiegen und ans Ufer gelaufen. Sie konnten nichts mehr tun, nur ohnmächtig zuschauen, wie der Horch kurz auf dem Wasser <strong>schaukelte</strong>, dann nach vorne kippte und schnell unterging. (<i>Der nasse Fisch</i>, 62-63)' ,
 	'Der Beifahrer hatte geschimpft, als er hörte, wer den Transport alles begleiten sollte: "Det is keen Mannschaftswagen, det issen Leichenwagen!" Murrend hatte er seinen Platz geräumt und saß nun hinten zwischen den <strong>schaukelnden</strong> Zinksärgen. (<i>Der nasse Fisch</i>, 76)' ,
 	'<u>Märzgefallene</u>',
-	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>?   (<i>Märzgefallene</i>, 387)' ,
+	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>?   (<i>Märzgefallene</i>, 387)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'scheiteln, Scheitel': [
-	'<strong>scheiteln</strong>: &nbsp;to part (hair) &nbsp;&nbsp;der <strong>Scheitel</strong>,-: &nbsp;parting (hair); crest, apex, peak <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/scheiteln" target="target1" >scheiteln</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Scheitel" target="target2" >Scheitel</a>' ,
+	'<strong>scheiteln</strong>: to part (hair) <br>der <strong>Scheitel</strong>,-: parting (hair); crest, apex, peak' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheiteln"target="target1">scheiteln</a> &nbsp;<a href="https://www.dwds.de/wb/Scheitel"target="target2">Scheitel</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/scheiteln"target="target3">scheiteln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Scheitel"target="target4">Scheitel</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast,...dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst. Hast du mich verstanden?" Die letzte Frage unterstrich er, indem er seinen Schraubstockgriff noch fester anzog. Der Lackaffe nickte eifrig. Er war blaurot angelaufen, selbst der Kopfhautstreifen, den sein schnurgerader <strong>Scheitel</strong> sehen ließ, hatte sich verfärbt.   (<i>Der nasse Fisch</i>, 191)' ,
 	'<u>Märzgefallene</u>',
@@ -5996,7 +6022,9 @@ schaukeln: [
 	'Ein paarmal fuhr er (<i>Rath</i>) sich mit den nassen Händen durch die Haare, setzte sich dann vor den Autospiegel und zog seinen <strong>Scheitel</strong> mit dem Kamm nach. Bis auf seinen zerknitterten Anzug und die Bartstoppeln, die sich schon zu zeigen begannen, sah er nun wieder ganz manierlich aus. (<i>Märzgefallene</i>, 439)' ,
 ],
 scheppern: [
-	'<strong>scheppern</strong>: clash, clang, rattle, jar <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheppern"target="target1">scheppern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scheppern"target="target2">scheppern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=scheppern"target="target3">scheppern</a> ' ,
+	'<strong>scheppern</strong>: clash, clang, rattle, jar' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheppern"target="target1">scheppern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheppern"target="target2">scheppern</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scheppern"target="target3">scheppern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=scheppern"target="target4">scheppern</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Auf dem Hof spielten fünf Jungen mit einer Blechdose Fußball. Als sie das Polizeiaufgebot sahen, blieben sie stehen und ließen die Dose eine letzte <strong>scheppernde</strong> Pirouette drehen.  (<i>Der nasse Fisch</i>, 17)' ,
 	'Niemand in der illustren Runde hatte bemerkt, dass gut ein Dutzend Polizisten mit gezogenen Pistolen das Atelier betreten hatte. Die jungen Bereitschaftspolizisten verrenkten sich die Hälse, um genug sehen zu können, und schoben weiter in den Raum. Es <strong>shepperte</strong>, als ein Scheinwerfer in dem Gedränge zu Boden ging.  (<i>Der nasse Fisch</i>, 19)' ,
@@ -6020,7 +6048,9 @@ scheppern: [
 	'Zum Umziehen ging sie (<i>Hannah</i>) in eine Kabine, ihre alten Klamotten <strong>stopfte</strong> sie kurzerhand in einen Papierkorb.   (<i>Märzgefallene</i>, 172)' ,
 ],
 Scherbe: [
-	'die <strong>Scherbe</strong>,-<strong>n</strong>: &nbsp;broken fragment, piece of glass &nbsp; <br>Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/Scherbe" target="target1" >Scherbe</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scherbe?q=Scherbe" target="target2">Scherbe</a> ',
+	'die <strong>Scherbe</strong>,-<strong>n</strong>: broken fragment, piece of glass' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Scherbe"target="target1">Scherbe</a> &nbsp;<a href="https://www.dwds.de/wb/Scherbe"target="target2">Scherbe</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scherbe?q=Scherbe"target="target3">Scherbe</a> &nbsp;<a href="https://www.verbformen.com/?w=Scherbe"target="target4">Scherbe</a> ',
 	'<u>Der nasse Fisch</u>',
 	'Hinter sich hörte er (<i>Rath</i>) ein sattes Klirren, eine kleine, nasse Explosion. Instinktive drehte er den Kopf. Kein Mensch zu sehen, nur eine weiße, zischende Pfüze auf dem Pflaster und rotbraun leuchtende <strong>Scherben</strong>. (<i>Der nasse Fisch</i>, 213)' ,
 	'Er (<i>Rath</i>) schaute sich um. Alle Fenster waren dunkel geblieben. Aber mindestens ein Mensch musste ihren Kampf beobachtet haben. Rath untersuchte die braunen <strong>Scherben</strong>. Vom Weiß der Pfütze war nichts geblieben, nur ein paar Bläschen, die auf einer Flüssigkeit trieben. Ein bekannter Geruch stieg ihm in die Nasse. Neben den nassen <strong>Scherben</strong> lag ein Metallbügel mit einem Porzellanstopfen. Eine Bierflasche. Irgendeinem schlaflosen Spanner da oben war sein Bier vor Schreck vom Fensterbrett gefallen. (<i>Der nasse Fisch</i>, 215)' ,
@@ -6032,7 +6062,9 @@ Scherbe: [
 	'Die Putzfrau holte etwas hervor, das sie wie ein Überraschungsgeschenk hinter dem Rücken versteckt gehalten hatte. Eine blutige, längliche Glas<strong>scherbe</strong>. Das dickere Ende war mit einem Band umwickelt und wirkte wie ein Messergriff.... Charly nahm ihr das Glasmesser - denn das war es: eine zur Waffe umfunktionierte Glas<strong>scherbe</strong> - aus der Hand.  (<i>Märzgefallene</i>, 83)' ,
 ],
 'scheren (sich)': [
-	'<strong>scheren</strong>: clip, shear, shave;   &nbsp;<strong>sich scheren</strong> um etwas: bother, care about; &nbsp;<strong>sich zum Teufel scheren</strong>: get lost, go to hell <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/scheren_kuemmern" target="target1" >scheren</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/scheren" target="target2">scheren</a> ' ,
+	'<strong>scheren</strong>: clip, shear, shave <br><strong>sich scheren</strong> um etwas: bother, care about <br><strong>sich zum Teufel scheren</strong>: get lost, go to hell' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheren_kuemmern"target="target1">scheren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheren"target="target2">scheren</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/scheren"target="target3">scheren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=scheren"target="target4">scheren</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) ging zum Buick hinüber, entriegelte den Notsitz und klappte ihn hoch. Der Adler (<i>Marlows Auto</i>) <strong>scherte</strong> aus der Parklücke und rollte langsam vorbei. (<i>Märzgefallene</i>, 150)' ,
 	'Rath ließ Kirie, die einen Moment zögerte, ins Auto springen, stieg selbst ein und <strong>scherte</strong> so schnell aus der Parklücke, dass beim Anfahren die Reifen quietschten.  (<i>Märzgefallene</i>, 178)' ,
@@ -6043,7 +6075,9 @@ Scherbe: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 scheuern: [
-	'<strong>scheuern</strong>: rub, wear, chafe, scrub  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/scheuern" target="target1" >scheuern</a> ' ,
+	'<strong>scheuern</strong>: rub, scrub, scour, scrape' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheuern"target="target1">scheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheuern"target="target2">scheuern</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scheuern"target="target3">scheuern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=scheuern"target="target4">scheuern</a>',
 	'<u>Der nasse Fisch</u>',
 	'Er zitterte. Nur die Seile in den Armbeugen hielten ihn aufrecht.... Er legte seine ganze Kraft in die Arme und vermied es, den Boden zu berühren. Das Seil <strong>scheuerte</strong>, er schwitzte am ganzen Körper. (<i>Der nasse Fisch</i>, 9)' ,
 	'<u>Märzgefallene</u>',
@@ -6051,7 +6085,9 @@ scheuern: [
 	'"Was machsten so?", fragte sie (<i>Hannah</i>) ihn (<i>Felix</i>). "Siehst schnieke aus." So gut gekleidet wie jetzt hatte sie Felix tatsächlich nie gesehen im Sommer. Nicht gerade ein feiner Anzug - ein grober Wollmantel, Manchesterhosen, eine Schirmmütze -, aber alles ohne einen einzigen Flicken oder eine durch<strong>gescheuerte</strong> Stelle. (<i>Märzgefallene</i>, 322)' ,
 ],
 schielen: [
-	'<strong>schielen</strong>: &nbsp;squint, peer; lear at; be cross-eyed  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schielen"target="target1">schielen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schielen"target="target2">schielen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schielen"target="target3">schielen</a> ',
+	'<strong>schielen</strong>: squint, peer; lear at; be cross-eyed' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schielen"target="target1">schielen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schielen"target="target2">schielen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schielen"target="target3">schielen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schielen"target="target4">schielen</a> ',
 	'<u>Märzgefallene</u>',
 	'Die dunklen braunen Augen waren nach wie vor auf den Boden gerichtet. Hannah <strong>schielte</strong> nicht einmal zu dem Foto hinüber, das direkt vor ihr an der Tischkante lag. (<i>Märzgefallene</i>, 44)' ,
 	'Rath <strong>schielte</strong> zu dem verschmierten Gesicht hinüber. Sie (<i>die wilde Hilde</i>) sah nicht schlecht aus, soweit er das erkennen konnte. Blond und drall, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte?  (<i>Märzgefallene</i>, 72)' ,
@@ -6069,12 +6105,16 @@ schielen: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schikanieren: [
-	'<strong>schikanieren</strong>: bully, harass someone  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schikanieren" target="target1" >schikanieren</a> ' ,
+	'<strong>schikanieren</strong>: bully, harass so. <br>die <strong>Schikane</strong>,-<strong>n</strong>: harassment, bullying  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schikanieren"target="target1">schikanieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schikane"target="target2">Schikane</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schikanieren"target="target3">schikanieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schikane"target="target4">Schikane</a>',
 	'<u>Märzgefallene</u>',
 	'Eine kommunistische Verschwörung, das wurde Rath immer klarer, gab es nicht.... warum dann diese Spielchen (<i>Verhöre</i>), die mit Polizeiarbeit aber auch rein gar nichts zu tun hatten? Nur Göring zuliebe, der für seinen Reichstagsbrandprozess dringend noch ein paar Tatverdächtige brauchte? Oder einfach nur, um die Kommunisten weiter zu <strong>schikanieren</strong> und einzuschüchtern? (<i>Märzgefallene</i>, 226)' ,  
 ],
 'Schimmel, (ver)schimmeln': [
-	'der <strong>Schimmel</strong>, (no plural): mildew, mold;  &nbsp;<strong>schimmeln, verschimmeln</strong>: mildew, get moldy  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schimmel" target="target1" >Schimmel</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schimmeln" target="target2" >schimmeln</a>' ,
+	'der <strong>Schimmel</strong>, (no plural): mildew, mold  <br><strong>schimmeln, verschimmeln</strong>: mildew, get moldy ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schimmel"target="target1">Schimmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schimmeln"target="target2">schimmeln</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schimmel"target="target3">Schimmel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schimmeln"target="target4">schimmeln</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Waren Sie schon einmal in einem dieser <strong>verschimmelten</strong> Dreckslöcher, für die man den Abeitern in dieser Stadt sogar noch Geld abknöpft?", hakte Völcker nach, als Rath schwieg. "Wissen Sie, unter welchen Bedingungen manche Menschen hier leben? Leben müssen?"  (<i>Der nasse Fisch</i>, 78)' ,
 	'Aber das <i>Delphi</i> (<i>der Delphi-Palast</i>) wirkte wie ausgestorben. Die Pflanzen, die den Weg zum Hauptportal flankierten, machten einen jämmerlichen Eindruck. Ein paar exotisch anmutende Korbstühle, lieblos aufeinandergestapelt und vom Wetter gezeichnet, standen in der Gartenecke und <strong>schimmelten</strong> vor sich hin.  (<i>Der nasse Fisch</i>, 133)' ,
@@ -6084,7 +6124,9 @@ schikanieren: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schimmern: [
-	'<strong>schimmern</strong>: gleam, glimmer, shimmer; shed a dim light  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schimmern" target="target1" >schimmern</a>&nbsp;&nbsp;&nbsp;&nbsp;English Definition:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schimmern" target="target2">schimmern</a> ' ,
+	'<strong>schimmern</strong>: glimmer, shimmer; shed a dim light ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schimmern"target="target1">schimmern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schimmern"target="target2">schimmern</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schimmern"target="target3">schimmern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schimmern"target="target4">schimmern</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Er hatte keine Ahnung, wohin sie ihn verschleppt hatten.... Ein Keller, vermutete er. Oder eine Lagerhalle? Jedenfalls ein fensterloser Raum. Hier hinein drang kein Lichtstrahl, nur ein leises <strong>Schimmern</strong>. (<i>Der nasse Fisch</i>, 9)' ,
 	'Seit der Leichenwagen... losgefahren war, hatte Rath noch kein Wort mit Völcker gewechselt. Er betrachtete den Arzt aus den Augenwinkeln, eine hagere Gestalt in einem zerknitterten grauen Mantel, der ein wenig zu groß wirkte. Graue Bartstoppeln <strong>schimmerten</strong> an seinem spitzen Kinn.... (<i>Der nasse Fisch</i>, 77)' ,
@@ -6092,7 +6134,9 @@ schimmern: [
 	'Roddeck blickte sich um. Als sich seine Augen an die Dunkelheit gewöhnt hatten, konnte er den Lichtschein erkennen, der von der Abzweigung her in den Tunnel glimmte und die Pfützen auf dem Betonboden gelblich <strong>schimmern</strong> ließ. (<i>Märzgefallene</i>, 566)' ,
 ],
 'Schinder, schinden': [
-	'der <strong>Schinder</strong>,-<strong>in</strong>; die <strong>Schinder</strong>,-<strong>innen</strong></strong>: oppressor, bully; <strong>schinden</strong>: maltreat; skin, flay; <br> <strong>Eindruck schinden</strong>: do something (only) to impress <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schinder"target="target1">Schinder</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schinden" target="target2">schinden</a> &nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Eindruck+schinden&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target3">Eindruck schinden</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schinder"target="target4">Schinder</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schinden"target="target5">schinden</a> &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target6">Eindruck schinden</a>  ' ,
+	'der <strong>Schinder</strong>,-<strong>in</strong>; die <strong>Schinder</strong>,-<strong>innen</strong></strong>: oppressor, bully <br><strong>schinden</strong>: maltreat; skin, flay<br><strong>Eindruck schinden</strong>: do something (only) to impress ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schinder"target="target1">Schinder</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schinden" target="target2">schinden</a> &nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Eindruck+schinden&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target3">Eindruck schinden</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schinder"target="target4">Schinder</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schinden"target="target5">schinden</a> &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target6">Eindruck schinden</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Wenn er (<i>Rath</i>) all dies in die Waagschale warf, erschien es weitaus vernünftiger, sich wie alle anderen auch, denen an ihrer Karriere gelegen war, an der Kommunistenjagd zu beteiligen, um beim neuen Polizeipräsidenten <strong>Eindruck zu schinden</strong>.   (<i>Märzgefallene</i>, 184)' ,                
 	'<i>Rath</i>: "Unbeliebt, da muss man einen doch nicht gleich töten." <i>Sprengmeister Grimberg</i>: "Wenn es ein Mann ist der ohne Rüchsicht auf Verluste seine Leute ins Feuer schickt. Oder ein brutaler <strong>Schinder</strong>...." <i>Rath</i>: "Und Engel? War der ein brutaler <strong>Schinder</strong>?" (<i>Märzgefallene</i>, 278)' ,
@@ -6100,7 +6144,9 @@ schimmern: [
 	'Schon die Eingangshalle des Geheimen Staatspolizeiamtes <strong>schindete Eindruck</strong>.  (<i>Lunapark</i>, 52)' , 
 ],
 Schlauch: [
-	'der <strong>Schlauch</strong>, die <strong>Schläuche</strong>: hose, tube, pipe <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schlauch" target="target1" >Schlauch</a>' ,
+	'der <strong>Schlauch</strong>, die <strong>Schläuche</strong>: hose, tube, pipe ' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlauch"target="target1">Schlauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlauch"target="target2">Schlauch</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schlauch?q=Schlauch"target="target3">Schlauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlauch"target="target4">Schlauch</a>',
 	'<u>Der nasse Fisch</u>', 
 	'An der Straßenhaltestelle vor dem UFA-Kino hatten sich zwei Schupos an einem Hydranten zu schaffen gemacht und schlossen einen Feuerwehr<strong>schlauch</strong> an.... Kaum hatten die beiden Beamten den <strong>Schlauch</strong> angeschlossen, hieß es: Wasser marsch! Der Polizist am Strahlrohr hielt mitten in die Menge, die überrascht auseinanderstob. (<i>Der nasse Fisch</i>, 55)' ,
 	'Die Kollegen unten auf dem Platz gingen beherzt zur Sache. Nicht nur mit Feuerwehr<strong>schläuchen</strong>. Er (<i>Rath</i>) hätte in diesem Moment jedenfalls nicht in Zivil auf dem Alex stehen wollen. (<i>Der nasse Fisch</i>, 56)' ,
@@ -6112,7 +6158,9 @@ Schlauch: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schleifen: [
-	'<strong>schleifen</strong>: drag sth; sharpen, grind, sand <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schleifen_wetzen"target="target1">schleifen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schleifen"target="target2">schleifen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schleifen"target="target3">schleifen</a> ' ,
+	'<strong>schleifen</strong>: drag sth; sharpen, grind, sand ' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schleifen_wetzen"target="target1">schleifen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schleifen"target="target2">schleifen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schleifen"target="target3">schleifen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schleifen"target="target4">schleifen</a> ' ,
 	'<u>Goldstein</u>',
 	'Kurz nach neun, eigentlich müsste der Nachtwächter seine Runde auch oben in der sechsten Etage nun bald beendet haben. Die Antwort gab ihr (<i>Alex</i>) das <strong>schleifende</strong> Geräusch des Aufzugs, das so laut durch die Dunkelheit dröhnte, dass sie zusammenzuckte. (<i>Goldstein</i>, 9)' , 
 	'<u>Märzgefallene</u>',
@@ -6122,7 +6170,9 @@ schleifen: [
 	'"Kronbergs Leute haben ebenfalls Splitter gefunden", sagte Rath. "An der Bordsteinkante. Könnte also wirklich von der Tatwaffe stammen. Auf was für einen Gegenstand tippen Sie?" Karthaus überlegte. "Eine Art Keule, würde ich sagen. Fein <strong>geshliffen</strong>, kein grobes Holz. Dann hätte ich größere Splitter gefunden."  (<i>Lunapark</i>, 109)',
 ],
 schlendern: [
-	'<strong>schlendern</strong>: saunter, stroll, amble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlendern"target="target1">schlendern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlendern"target="target2">schlendern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlendern"target="target3">schlendern</a> ' ,
+	'<strong>schlendern</strong>: saunter, stroll, amble ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlendern"target="target1">schlendern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlendern"target="target2">schlendern</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlendern"target="target3">schlendern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlendern"target="target4">schlendern</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Das <i>Theater am Nollendorfplatz</i> spuckte gerade das Publikum der letzten Vorstellung aus, als zwei Lastwagen um die Ecke bogen und in die Motzstraße rasten. Die Kinobesucher sahen den Wagen nach, die wenige Meter hinter der amerikanischen Kirche mit quietschenden Reifen hielten.. Da schien etwas los zu sein! Einige Kinogänger erwarteten offensichtlich eine Fortsetzung des Films im richtigen Leben und <strong>schlenderten</strong> neugierig dorthin.  (<i>Der nasse Fisch</i>, 240)' ,
 	'<u>Märzgefallene</u>',
@@ -6130,7 +6180,9 @@ schlendern: [
 	'<i>Hannah</i>: "Was willste?" Er (<i>Fritze</i>) legte den Kopf schief wie ein Hund. "Frühstücken?" <i>Hannah</i>: "Bisten Witzbold, wa? Wo soll’s denn hingehen, zu Kranzler oder lieber zu Josty?" "Bolle", sagte Fritze. Was er damit meinte, begriff Hannah, als sie kurz darauf über die noch menschenleere Winsstraße <strong>schlenderten</strong> und ein paar von den Milchflaschen einsammelten, die der Milchmann vor wenigen Minuten gerade dort abgestellt haben musste.  (<i>Märzgefallene</i>, 174)' ,
 ],
 'Schliere, schlieren': [
-	'die <strong>Schliere</strong>,-<strong>n</strong>: streak, smear; &nbsp;<strong>schlieren</strong>: slide, drag  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schliere" target="target1" >Schliere</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/schlieren" target="target2" >schlieren</a>' ,
+	'die <strong>Schliere</strong>,-<strong>n</strong>: streak, smear &nbsp;&nbsp;<strong>schlieren</strong>: slide, drag ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schliere"target="target1">Schliere</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlieren"target="target2">schlieren</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schliere?q=Schliere"target="target3">Schliere</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlieren"target="target4">schlieren</a>',
 	'<u>Märzgefallene</u>',
 	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blut<strong>schlieren</strong> bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige Murmel.... Der Sehnerv hing an seinem blutverschmierten Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)' ,
 	'Aus den verschwommenen Licht<strong>schlieren</strong> löste sich der große Schatten von Huckebein, und sie (<i>Hannah</i>) sah ihn herumfuchteln, als wolle er einen unsichtbaren Schwarm bösartiger Wespen vertreiben. (<i>Märzgefallene</i>, 401)' ,

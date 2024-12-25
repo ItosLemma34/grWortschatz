@@ -5405,7 +5405,9 @@ Sprosse: [
 	'"Glückwunsch zur Beförderung, Sturmbannführer", sagte Rath. "Wie viele <strong>Sprossen</strong> auf der Karriereleiter haben Sie denn erklommen?"  (<i>Lunapark</i>, 94)' ,
 ],
 schmökern: [
-	'<strong>schmökern</strong>: browse <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmoekern"target="target1">schmökern</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmokern"target="target2">schmökern</a> &nbsp;<a href="https://www.verbformen.com/?w=schmökern"target="target3">schmökern</a> ',
+	'<strong>schmökern</strong>: browse,  bury oneself in (book, magazine)'  +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmoekern"target="target1">schmökern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schm%C3%B6kern"target="target2">schmökern</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmokern"target="target3">schmökern</a> &nbsp;<a href="https://www.verbformen.com/?w=schmökern"target="target4">schmökern</a> ',
 	'<u>Lunapark</u>',  
   'Drei Menschen am Frühstückstisch, und keiner sagte ein Wort. Charly kannte das: Fritze <strong>schmökerte</strong> lieber erst mal in Ruhe in der Zeitung.  (<i>Lunapark</i>, 74)' ,
 ],
@@ -5595,7 +5597,9 @@ Schritt: [
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Schmonzette: [
-	'die <strong>Schmonzette</strong>,-<strong>n</strong>: trifle, trivial work, kitschy film/book <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmonzette"target="target1">Schmonzette</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Schmonzette"target="target2">Schmonzette</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmonzette"target="target3">Schmonzette</a> ',
+	'die <strong>Schmonzette</strong>,-<strong>n</strong>: trifle, trivial work, kitschy film/book ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmonzette"target="target1">Schmonzette</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schmonzette"target="target2">Schmonzette</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Schmonzette"target="target3">Schmonzette</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmonzette"target="target4">Schmonzette</a> ',
 	'<u>Der nasse Fisch</u>', 
 	'<i>Asphalt</i> hieß der Film... Umso besser, dass es ein Film mit Polizisten war. Obwohl es mehr nach Liebes<strong>schmonzette</strong> als nach Kriminalfilm aussah.   (<i>Der nasse Fisch</i>, 182)' ,
 ],
@@ -5639,13 +5643,17 @@ schwülstig: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
 'Schmuddel, Schmuddelwetter': [
-	'der <strong>Schmuddel</strong> (no plural): grime, filth, muck <br>das <strong>Schmuddelwetter</strong>: nasty weather <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuddel"target="target1">Schmuddel</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuddelwetter"target="target2">Schmuddelwetter</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmuddel"target="target3">Schmuddel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmuddelwetter"target="target4">Schmuddelwetter</a>  ',
+	'der <strong>Schmuddel</strong> (no plural): grime, filth, muck <br>das <strong>Schmuddelwetter</strong>: nasty weather' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuddel"target="target1">Schmuddel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schmuddelwetter"target="target2">Schmuddelwetter</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmuddel"target="target3">Schmuddel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmuddelwetter"target="target4">Schmuddelwetter</a>  ',
 	'<u>Märzgefallene</u>',
 	'Am Sonntagmorgen hatte sich der Winter noch einmal zurückgemeldet, mit <strong>Schmuddelwetter</strong>, einem Schneeregen, der nach Erkältung roch, und einem ungemütlichen Wind. (<i>Märzgefallene</i>, 461)'  ,
 	'Der Mann saß genau da, wo Rath ihn das letzte Mal gesehen hatte: an einem der Treppenaufgänge zum Hochbahnhof Nollendorfplatz,... den Spendenhut mit dem Pappschild vor sich. Damals hatte ihn nicht einmal die Minustemperaturen davon abgehalten, an seinem Platz zu verharren, das <strong>Schmuddelwetter</strong> heute konnte das ebensowenig.  (<i>Märzgefallene</i>, 472)' ,
 ],
 schmissig: [
-	'<strong>schmissig</strong>: rousing, snappy, dashing, spirited <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmissig"target="target1">schmissig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/schmissig"target="target2">schmissig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmissig"target="target3">schmissig</a> ' ,
+	'<strong>schmissig</strong>: rousing, snappy, dashing, spirited ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmissig"target="target1">schmissig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmissig"target="target2">schmissig</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/schmissig"target="target3">schmissig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmissig"target="target4">schmissig</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Die Tanzfläche des <i>Eldorado</i> füllte sich bereits, die Kapelle spielte <strong>schmissige</strong> Tanzmusik. Der blaue Dunst ungezählter Zigaretten hing in dem plüschigen, von Goldtönen dominierten Raum.    (<i>Der nasse Fisch</i>, 125)',
 ],
@@ -5865,7 +5873,9 @@ Spalier: [
 	'<i>Rath</i>: "Entschuldigen Sie, dass ich noch mal unterbrechen muss, Herr Bestmann,.. aber da ist Blut auf Ihrem Hof... Irgendjemand hat Blut in den Gully <strong>gespült</strong>..."  (<i>Lunapark</i>, 40)',
 ],
 Schlüpfer: [
-	'der <strong>Schlüpfer</strong>,-: briefs, underpants <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schluepfer"target="target1">Schlüpfer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schluepfer#Schl%C3%BCpfer"target="target2">Schlüpfer</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schl%C3%BCpfer"target="target3">Schlüpfer</a> ' ,
+	'der <strong>Schlüpfer</strong>,-: briefs, underpants ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schluepfer"target="target1">Schlüpfer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schl%C3%BCpfer"target="target2">Schlüpfer</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schluepfer#Schl%C3%BCpfer"target="target3">Schlüpfer</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schl%C3%BCpfer"target="target4">Schlüpfer</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Wolter</i>: "Du (<i>der Pornokaiser</i>) kommst nach Plötzensee, und da sorgen wir dafür, dass du zu den richtig harten Jungs gesperrt wirst. Und denen erzählen wir, du bist ein gottverdammter <strong>Schlüpfer</strong>fresser. Weißt du, was die mit Kinderfickern machen in Plötzensee?"  (<i>Der nasse Fisch</i>, 27)' ,
 ],
@@ -5886,7 +5896,9 @@ schummrig: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Schmutzfink: [
-	'der <strong>Schmutzfink</strong>,-<strong>en</strong>: dirty slob, filthy person; depraved type <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmutzfink"target="target1">Schmutzfink</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Schmutzfink"target="target2">Schmutzfink</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmutzfink"target="target3">Schmutzfink</a>  ' ,
+	'der <strong>Schmutzfink</strong>,-<strong>en</strong>: dirty slob, filthy person; depraved type ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmutzfink"target="target1">Schmutzfink</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schmutzfink"target="target2">Schmutzfink</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Schmutzfink"target="target3">Schmutzfink</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmutzfink"target="target4">Schmutzfink</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'...der Fotograf (<i>Johann König</i>) war ein unbeschriebenes Blatt, polizeilich gesehen. Er fertigte preiswerte Passfotos für die wenig zahlungskräftige Neuköllner Kundschaft an, ab und an auch die obligatorischen Familienfotos.... Als <strong>Schmutzfink</strong> war er noch nicht in Erscheinung getreten.  (<i>Der nasse Fisch</i>, 17-18)' ,
 ],
@@ -6188,7 +6200,9 @@ schlendern: [
 	'Aus den verschwommenen Licht<strong>schlieren</strong> löste sich der große Schatten von Huckebein, und sie (<i>Hannah</i>) sah ihn herumfuchteln, als wolle er einen unsichtbaren Schwarm bösartiger Wespen vertreiben. (<i>Märzgefallene</i>, 401)' ,
 ],
 schluchzen: [
-	'<strong>schluchzen</strong>: sob; &nbsp;&nbsp;der <strong>Schluchzer</strong>,-: the sob <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schluchzen"target="target1">schluchzen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schluchzer"target="target2">Schluchzer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schluchzen"target="target3">schluchzen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schluchzer?q=Schluchzer"target="target4">Schluchzer</a> ',
+	'<strong>schluchzen</strong>: sob; &nbsp;&nbsp;der <strong>Schluchzer</strong>,-: the sob ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schluchzen"target="target1">schluchzen</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schluchzer"target="target2">Schluchzer</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schluchzen"target="target3">schluchzen</a> &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schluchzer?q=Schluchzer"target="target4">Schluchzer</a> ',
 	'<u>Der nasse Fisch</u>',
 	'"Mörder!", rief er (<i>der Witwer</i>) und stürzte sich auf Wolter. Rath riss ihn zurück und nahm ihn in den Polizeigriff. "Beruhigen Sie sich doch", sagte er. Der Mann zappelte noch, wurde aber ruhiger and fing schließlich an zu <strong>schluchzen</strong>. (<i>Der nasse Fisch</i>, 75)' ,
 	'Plötzlich fing sie (<i>Elisabeth Behnke</i>) an zu <strong>schluchzen</strong> und hielt sich ihre rußgeschwärzten Hände vors Gesicht. (<i>Der nasse Fisch</i>, 263)' ,
@@ -6201,13 +6215,17 @@ schluchzen: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schlüpfrig: [
-	'<strong>schlüpfrig</strong>: bawdy, lewd, off color; slippery <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schluepfrig"target="target1">schlüpfrig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schluepfrig#schl%C3%BCpfrig"target="target2">schlüpfrig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schl%C3%BCpfrig"target="target3">schlüpfrig</a> ',
+	'<strong>schlüpfrig</strong>: bawdy, lewd, off color; slippery ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schluepfrig"target="target1">schlüpfrig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schl%C3%BCpfrig"target="target2">schlüpfrig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schluepfrig#schl%C3%BCpfrig"target="target3">schlüpfrig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schl%C3%BCpfrig"target="target4">schlüpfrig</a> ',
 	'<u>Märzgefallene</u>',
 	'Aber dann, als der Anführer eine <strong>schlüpfrige</strong> Bemerkung zu Vera machte, hatte er (<i>Leo</i>) den Mund doch nicht halten können, und der Mann hatte ihm mit Freude seinen Gummiknüppel durchs Gesicht gezogen. (<i>Märzgefallene</i>, 109)', 
-	'"Fräulein Charlotte Ritter?", fragte er (<i>der Postbote</i>)..."Ein Schreiben für Sie. Aus Prag." Er betonte den Namen der Stadt selsam, wie ein <strong>schlüpfriges</strong> Wort, und guckte dabei so argwöhnisch, als sei ein Brief aus Prag das Obszönste, was man heutzutage als aufrechter Deutscher per Post geschickt bekommen könne.  (<i>Märzgefallene</i>, 486)',
+	'"Fräulein Charlotte Ritter?", fragte er (<i>der Postbote</i>)..."Ein Schreiben für Sie. Aus Prag." Er betonte den Namen der Stadt seltsam, wie ein <strong>schlüpfriges</strong> Wort, und guckte dabei so argwöhnisch, als sei ein Brief aus Prag das Obszönste, was man heutzutage als aufrechter Deutscher per Post geschickt bekommen könne.  (<i>Märzgefallene</i>, 486)',
 ],
 schmettern: [
-	'<strong>schmettern</strong>: blare, belt/bellow out (eg, a song) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmettern"target="target1">schmettern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schmettern"target="target2">schmettern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmettern"target="target3">schmettern</a>   ', 
+	'<strong>schmettern</strong>: blare, belt/bellow out (eg, a song) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmettern"target="target1">schmettern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmettern"target="target2">schmettern</a><br>  ' +
+	'English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schmettern"target="target3">schmettern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmettern"target="target4">schmettern</a>   ', 
 	'<u>Märzgefallene</u>',
 	'<span style="font-weight: normal; font-style: italic; text-decoration: none;">Es war einmal ein treuer Husar</span> <strong>schmetterte</strong> aus den Lautsprechern.  (<i>Märzgefallene</i>, 19)', 
    'Er (<i>Gereon</i>) konnte sich noch an das Lied der Monacos erinnern, das gerade aus dem Lautsprecher <strong>schmetterte</strong>, als er die Kneipe mit dem Mädchen verließ. (<i>Märzgefallene</i>, 72)',
@@ -6215,32 +6233,42 @@ schmettern: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 'Schmiere stehen': [
-	'<strong>Schmiere stehen</strong>: be a lookout <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Schmiere+stehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Schmiere stehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Schmiere+stehen"target="target2">Schmiere stehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Schmiere+stehen"target="target3">Schmiere stehen</a>  ' ,
+	'<strong>Schmiere stehen</strong>: be a lookout ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Schmiere+stehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Schmiere stehen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/Schmiere+stehen"target="target2">Schmiere stehen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Schmiere+stehen"target="target3">Schmiere stehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Schmiere+stehen"target="target4">Schmiere stehen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Felix</i>: "Hab \'nen Tipp bekommen. Muss die Kolonne nich wissen. Dann lohnt sich der janze Aufwand wenigstens mal. <i>Hannah</i>: "Aber wie willst du das schaffen? So janz aleene..." <i>Felix</i>: "Nich <i>janz aleene</i>." Er schaute sie an. "Du kommst mit. <strong>Schmiere stehen</strong>."  (<i>Märzgefallene</i>, 392)', 
 ],
 'schmiegen (sich)': [
-	'<strong>schmiegen (sich)</strong>: cuddle, nuzzle up to <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmiegen"target="target1">schmiegen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmiegen"target="target2">schmiegen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmiegen"target="target3">schmiegen</a> ' ,
+	'<strong>schmiegen</strong> (sich): cuddle, nuzzle up to ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmiegen"target="target1">schmiegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmiegen"target="target2">schmiegen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmiegen"target="target3">schmiegen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmiegen"target="target4">schmiegen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Es roch nach Holz, und langsam kam die Erinnerung. Das Kaufhaus Jonass. Die Truhe. Der Junge, den sie schließlich doch hineingelassen hatte. Es war ziemlich eng, aber irgendwie hatten sie <strong>sich</strong> aneinander <strong>geschmiegt</strong>, und dann war Hannah auch schnell eingeschlafen. (<i>Märzgefallene</i>, 172)' ,
 	'Er (<i>Gereon</i>) hatte sie (<i>Charly</i>) in den Arm genommen, und sie hatte <strong>sich</strong> an ihn <strong>geschmiegt</strong>. Da war nichts mehr von der Kratzbürstigkeit der letzten Tage, und er hatte sie geküsst, das erste Mal richtig geküsst, seit er wieder in Berlin war. (<i>Märzgefallene</i>, 195)' ,
 	'Die Platte war an ihrem Ende angelangt, Rath setzte den Tonarm noch einmal auf Anfang. Dann ging er zurück zu Charly... und tanzte mit ihr langsam durch den Raum. "Und nun", sagte er, "will ich doch mal sehen, was du bei den Eintänzern im Eden so gelernt hast." <i>Charly</i>: "Ich habe da eigentlich kaum getanzt", sagte sie und <strong>schmiegte sich</strong> an ihn. (<i>Märzgefallene</i>, 325-26)' ,
 ],
 'Schmiererei, schmieren, schmierig': [
-	'die <strong>Schmiererei</strong>,-<strong>en</strong>: scribbling, graffiti <br><strong>schmieren</strong>: smear, grease &nbsp;&nbsp;<strong>schmierig</strong>: greasy, oily  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Schmiererei"target="target1">Schmiererei</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmieren"target="target2">schmieren</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmierig"target="target3">schmierig</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schmiererei?q=Schmiererei"target="target4">Schmiererei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmieren"target="target5">schmieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmierig"target="target6">schmierig</a>' ,
+	'die <strong>Schmiererei</strong>,-<strong>en</strong>: scribbling, graffiti <br><strong>schmieren</strong>: smear, grease &nbsp;&nbsp;<strong>schmierig</strong>: greasy, oily ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmiererei"target="target1">Schmiererei</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmieren"target="target2">schmieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmierig"target="target3">schmierig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schmiererei?q=Schmiererei"target="target4">Schmiererei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmieren"target="target5">schmieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmierig"target="target6">schmierig</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Als er (<i>Gereon</i>) zurückkam, saß da jemand bei ihr (<i>Charly</i>) am Tisch. Ein öliger, <strong>schmieriger</strong> Typ mit Nussknackerlachen. Irgend so ein halbseidener Angeber, der sich unglaublich toll vorkam and nicht merkte, dass er Charlotte anwiderte.  (<i>Der nasse Fisch</i>, 190-91)' ,
 	'<u>Märzgefallene</u>',
 	'<i>Kriminalrätin Wieking</i>: "Der Bericht kann warten. Kümmern Sie sich lieber um diese Bande, die Roten Ratten. Würde mich nicht wundern, wenn die auch mit dem kommunistischen Aufstand zu tun haben. Solche <strong>Schmierereien</strong>, und wenige Tage später brennt der Reichstag....  (<i>Märzgefallene</i>, 92)' ,
 ],
 Schmierfink: [
-	'der <strong>Schmierfink</strong>,-<strong>en</strong>: muckraker, scandalmonger <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmierfink"target="target1">Schmierfink</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmierfink"target="target2">Schmierfink</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmierfink"target="target3">Schmierfink</a> ',
+	'der <strong>Schmierfink</strong>,-<strong>en</strong>: muckraker, scandalmonger ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmierfink"target="target1">Schmierfink</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schmierfink"target="target2">Schmierfink</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmierfink"target="target3">Schmierfink</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmierfink"target="target4">Schmierfink</a> ',
 	'<u>Märzgefallene</u>',
 	'<i>Von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>Von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese <strong>Schmierfinken</strong> über einen Mann, der für ihresgleichen seine Knochen hingehalten hat!" (<i>Märzgefallene</i>, 132)' ,
 	'"Sie sind sich doch darüber im Klaren, dass die Polizei sich solche Schlagzeilen nicht erlauben kann", hatte Magnus von Levetzow ihn angeschnauzt.... <i>Böhm</i>: "Mit Verlaub, Herr Polizeipräsident, aber ich habe diese Schlagzeilen nicht zu verantworten. Ich weiß nicht, wie diese <strong>Schmierfinken</strong> an meinen Namen gekommen sind." (<i>Märzgefallene</i>, 139)' ,
 ],
 Schminke: [
-	'die <strong>Schminke</strong>,-<strong>n</strong>: make-up <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schminke"target="target1">Schminke</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schminke?q=Schminke"target="target2">Schminke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schminke"target="target3">Schminke</a>  ' ,
+	'die <strong>Schminke</strong>,-<strong>n</strong>: make-up ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schminke"target="target1">Schminke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schminke"target="target2">Schminke</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schminke?q=Schminke"target="target3">Schminke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schminke"target="target4">Schminke</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Das Bündel auf dem Sofa seufzte und drehte sich auf die andere Seite. Eine junge Frau, in deren Gesicht schwarze und weiße <strong>Schminke</strong> zu einem abstrakten Kunstwerk verschmiert war. (<i>Märzgefallene</i>, 71)' ,
 	'"Was ist das?", fragte Rath, als sie sich setzte. Die verschmierte Karnevals<strong>schminke</strong> war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)' ,
@@ -6248,7 +6276,9 @@ Schminke: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schmoren: [
-	'<strong>schmoren</strong>: braise (cooking); roast, swelter;  &nbsp;&nbsp;in der Hölle <strong>schmoren</strong>: roast in hell <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmoren"target="target1">schmoren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmoren"target="target2">schmoren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmoren"target="target3">schmoren</a> ',
+	'<strong>schmoren</strong>: braise (cooking), roast; swelter  <br>in der Hölle <strong>schmoren</strong>: roast in hell ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmoren"target="target1">schmoren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmoren"target="target2">schmoren</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmoren"target="target3">schmoren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmoren"target="target4">schmoren</a> ',
 	'<u>Der nasse Fisch</u>',
 	'Die Bande <strong>schmorte</strong> in den Zellen, Frischling Jänicke hatte sie vor einer Stunde in der Grünen Minna zum Alex begleitet. Im Polizeigewahrsam würden sie König und seine Leute noch ein wenig weichkocken, bevor die Arbeit begänne. (<i>Der nasse Fisch</i>, 29)' ,
 	'Sie (<i>Wolter, Rath</i>) würden erst einmal in aller Ruhe essen und sich dann auf die Verhöre vorbereiten. Bis sie den ersten Kandidaten aus seiner Zelle holten, würde noch etwas Zeit vergehen. Die Bande sollte <strong>schmoren</strong>.  (<i>Der nasse Fisch</i>, 34)' ,
@@ -6259,14 +6289,18 @@ schmoren: [
 	'Rath hatte ein mulmiges Gefühl, als er den Kasernenhof (<i>des SA-Feldjägerkorps</i>) betrat... er fragte sich, wie viele Gefangene hier wohl in den Kellern <strong>schmoren</strong> mochten und malträtiert wurden.  (<i>Lunapark</i>, 92)' ,
 ],
 'Schmuck, schmuck': [
-	'der <strong>Schmuck</strong>,-<strong>e</strong>: ornament, jewelry, embellishment <br><strong>schmuck</strong>: neat, tidy, smart <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuck"target="target1">Schmuck</a> &nbsp;&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmuck"target="target2">schmuck</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmuck"target="target3">Schmuck</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schmuck"target="target4">schmuck</a> ' ,
+	'der <strong>Schmuck</strong>,-<strong>e</strong>: ornament, jewelry, embellishment <br><strong>schmuck</strong>: neat, tidy, smart ' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuck"target="target1">Schmuck</a> &nbsp;<a href="https://www.duden.de/rechtschreibung/schmuck"target="target2">schmuck</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmuck"target="target3">Schmuck</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schmuck"target="target4">schmuck</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Zum zweiten Mal, seit sie den Raum betreten hatte, hob Hannah Singer ihr Gesicht. Immer noch wich sie möglichst allen Blicken aus, ihre Augen schauten zum Boden, zur Wand, zur Decke.... Immer wieder aber kehrten sie zurück zu dem Foto auf dem Tisch, das Bild von dem <strong>schmucken</strong> Weltkriegssoldaten. (<i>Märzgefallene</i>, 46)' ,
   'Auf die Kaufhausidee hatte sie (<i>Hannah</i>) eine Geschichte aus der Märchenbrunnenclique gebracht. Von einem Mädchen hatten sie da erzählt, das sich in Kaufhäusern hatte einschließen lassen, um dort dann allen <strong>Schmuck</strong> mitgehen zu lassen und andere Dinge. Hannah wollte nichts rauben, keinen <strong>Schmuck</strong> jedenfalls, höchstens etwas zu beißen und vielleicht etwas Warmes gegen die Kälte.... (<i>Märzgefallene</i>, 152)' ,                    
 	'Etwas abseits des Dorfes liegt ein stattliches Anwesen, an dem der Krieg wie durch ein Wunder noch keinerlei Spuren hinterlassen hat, eine <strong>schmucke</strong> Villa mitsamt Dienstbotenunterkünften und einem kleinen Park. (<i>Märzgefallene</i>, 160)' ,
 ],
 'Schmunzeln, schmunzeln': [
-	'das <strong>Schmunzeln</strong>: smirk, amused smile <br><strong>schmunzeln</strong>: to smile, smirk  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmunzeln"target="target1">schmunzeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmunzeln"target="target2">schmunzeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmunzeln"target="target3">schmunzeln</a> ' ,
+	'das <strong>Schmunzeln</strong>: smirk, amused smile <br><strong>schmunzeln</strong>: to smile, smirk ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmunzeln"target="target1">schmunzeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schmunzeln"target="target2">schmunzeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmunzeln"target="target3">schmunzeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schmunzeln"target="target4">schmunzeln</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Die Fotos zeigten allesamt dasselbe. Eine nackte Ziegelwand, eine Brandmauer.... Und quer darüber hatte jemand mit weißer Farbe gepinselt: <i>Deutschland erwache, Juda verrecke</i>!.... Und diese Parole hatte jemand durchgestrichen, mit roter Farbe, und mit schnellem Pinsel darunter geschrieben: <i>Deutschland, mach die Augen auf, Hitler hat ein Ar(i)schgesicht</i>! Das i in Arisch war durchgestrichen. Charly hatte schon beim ersten Mal <strong>schmunzeln</strong> müssen, als sie den Satz gelesen hatte.  (<i>Märzgefallene</i>, 29)' ,
 	'Die drei SA-Leute begannen zu tuscheln. Dann zeigte der in der Mitte auf Weiß. "Das ist doch der Isidor", rief er. "Was will der denn noch hier?".... Bevor Weiß irgendetwas entgegnen konnte, war Charly aus der Schlange ausgeschert und hatte sich vor den SA-Männern aufgestellt. "Dieser Herr heißt nicht Isidor, sondern Doktor Bernhard Weiß und ist der beste Polizeibeamte, den Berlin jemals hatte." Rath schaute Weiß an. Dem schien die forsche Art der Kommissaranwärterin zu gefallen. Trotz der Beleidigung, die er eben hatte hören müssen, spielte ein <strong>Schmunzeln</strong> um seine Mundwinkel.   (<i>Märzgefallene</i>, 200)' ,
@@ -6274,13 +6308,17 @@ schmoren: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Schnalle, schnallen': [
-	'die <strong>Schnalle</strong>,-<strong>n</strong>: buckle, clasp &nbsp;&nbsp;<strong>schnallen</strong>: to buckle, strap  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnalle"target="target1">Schnalle</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnallen"target="page2">schnallen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schnalle?q=Schnalle"target="target3">Schnalle</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnallen"target="target4">schnallen</a>  ' ,
+	'die <strong>Schnalle</strong>,-<strong>n</strong>: buckle, clasp <br><strong>schnallen</strong>: to buckle, strap ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnalle"target="target1">Schnalle</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnallen"target="page2">schnallen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schnalle?q=Schnalle"target="target3">Schnalle</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnallen"target="target4">schnallen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Als Hannah tags darauf wieder los<strong>geschnallt</strong> worden war, hatte die Scherbe noch unter dem Bett gelegen, ganz hinten an der Wand.  (<i>Märzgefallene</i>, 24) ' ,
 	'Beinahe wäre Charly in die Blutlache getreten, die sich auf dem Boden gebildet hatte. Die Blutspur zog sich von der Tür bis zum Bett, an dem gerade ein Mann die <strong>Schnallen</strong> der Gurte in Augenschein nahm. (<i>Märzgefallene</i>, 80)' ,
 ],
 Schnapsidee: [  
-	'die <strong>Schnapsidee</strong>,-<strong>n</strong>: crazy idea <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnapsidee"target="target1">Schnapsidee</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnapsidee"target="target2">Schnapsidee</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schnapsidee"target="target3">Schnapsidee</a> ' ,
+	'die <strong>Schnapsidee</strong>,-<strong>n</strong>: crazy idea ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnapsidee"target="target1">Schnapsidee</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schnapsidee"target="target2">Schnapsidee</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnapsidee"target="target3">Schnapsidee</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schnapsidee"target="target4">Schnapsidee</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Was hast du vor?, dachte er (<i>Gereon</i>). Bei Greta an der Tür klingeln und fragen, ob du Charly mit zum Alex nehmen kannst? Schöne <strong>Schnapsidee</strong>. (<i>Märzgefallene</i>, 115)',
 	'"Du bis aber ein lieber Bello", fing der Junge (<i>Fritze</i>) an, doch Charly unterbrach ihn. "Bello heißt Kirie", schimpfte sie, "und du erzählst mir jetzt sofort, was für eine <strong>Schnapsidee</strong> dich zu mir geführt hat!" Er zuckte die Achseln. "Keine <strong>Schnapsidee</strong>. Eine Eingebung. Hatte doch noch Ihre Adresse." Er grinste. "Und hat ja funktioniert." (<i>Märzgefallene</i>, 353-54)',
@@ -6289,7 +6327,9 @@ Schnapsidee: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schnarchen: [
-	'<strong>schnarchen</strong>: snore <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnarchen"target="target1">schnarchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnarchen"target="target2">schnarchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnarchen"target="target3">schnarchen</a> ' ,
+	'<strong>schnarchen</strong>: snore ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnarchen"target="target1">schnarchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnarchen"target="target2">schnarchen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnarchen"target="target3">schnarchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnarchen"target="target4">schnarchen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Auf dem Sofa lag jemand unter einer Bettdecke und <strong>schnarchte</strong> leise. (<i>Märzgefallene</i>, 71)' ,
 ],

@@ -38,27 +38,27 @@ const s = [
    'Schleuse, schleusen', // *
    'Schliere, schlieren', // *
    'schliddern, schlittern', // *
-   'schluchzen' ,  // schluchzen:
-   'Schlüpfer',  // Schlüpfer:
-   'schlüpfrig', // schlüpfrig:
-   'schmettern', // schmettern:
-   'schmiegen (sich)', //
-   'Schmiere stehen', //
-   'Schmiererei, schmieren, schmierig', //
-   'Schmierfink', // Schmierfink:
-   'Schminke', // Schminke:
-   'schmissig', // schmissig:
-   'Schmonzette', // Schmonzette:
-   'schmoren' , // schmoren:
-   'schmökern', // schmökern:
-   'Schmuck, schmuck' ,  //
-   'Schmuddel, Schmuddelwetter', //
-   'Schmunzeln, schmunzeln' , //
-   'Schmutzfink',  // Schmutzfink:
-   'Schnalle, schnallen', //
-   'Schnapsidee' ,  // Schnapsidee:
+   'schluchzen' ,  // schluchzen: *
+   'Schlüpfer',  // Schlüpfer: *
+   'schlüpfrig', // schlüpfrig: *
+   'schmettern', // schmettern: *
+   'schmiegen (sich)', // *
+   'Schmiere stehen', // *
+   'Schmiererei, schmieren, schmierig', // *
+   'Schmierfink', // Schmierfink: *
+   'Schminke', // Schminke:  *
+   'schmissig', // schmissig: *
+   'Schmonzette', // Schmonzette: *
+   'schmoren' , // schmoren: *
+   'schmökern', // schmökern: *
+   'Schmuck, schmuck' ,  // *
+   'Schmuddel, Schmuddelwetter', // *
+   'Schmunzeln, schmunzeln' , // *
+   'Schmutzfink',  // Schmutzfink:  *
+   'Schnalle, schnallen', //  *
+   'Schnapsidee' ,  // Schnapsidee:  *
    'schnarchen' ,  // schnarchen:
-   'schnarren',  //schnarren:
+   'schnarren',  //schnarren:  *S
    'schnattern, in einem fort'  ,  //
    'schnaufen',  // schnaufen: 
    'schneidig',  // schneidig:

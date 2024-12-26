@@ -58,22 +58,22 @@ const s = [
    'Schnalle, schnallen', //  *
    'Schnapsidee' ,  // Schnapsidee:  *
    'schnarchen' ,  // schnarchen:
-   'schnarren',  //schnarren:  *S
-   'schnattern, in einem fort'  ,  //
-   'schnaufen',  // schnaufen: 
-   'schneidig',  // schneidig:
-   'schnieke',  // schnieke:
-   'schnippen',  // schnippen:
-   'schnippisch' , // schnippisch: 
-   'schnörkelig' , // schnörkelig:
-   'schnorren, anschnorren', // duplicated
-   'Schnösel' ,  // Schnösel:
-   'schnuppern' ,  // schnuppern:
-   'Schnur', //  Schnur:
-   'schnurstracks', // schnurstracks:
-//   'schnurzegal, schnurz­pie­pe', // make duplicate if example of "schnurzegal found"
-   'schnurz­pie­pe, schnurzegal', // make duplicate if example of "schnurzegal found"
-   'Schotter', // Schotter:
+   'schnarren',  //schnarren:  *
+   'schnattern (in einem fort)',  // * duplicated
+   'schnaufen',  // schnaufen: *
+   'schneidig',  // schneidig: *
+   'schnieke',  // schnieke:  *
+   'schnippen',  // schnippen: *
+   'schnippisch' , // schnippisch: *
+   'schnörkelig' , // schnörkelig: *
+   'schnorren, anschnorren', // *  duplicated
+   'Schnösel' ,  // Schnösel:  *
+   'schnuppern' ,  // schnuppern: *
+   'Schnur', //  Schnur: *
+   'schnurstracks', // schnurstracks: *
+//   'schnurzegal, schnurz­pie­pe', //  make duplicate if example of "schnurzegal found"
+   'schnurz­pie­pe, schnurzegal', // *  make duplicate if example of "schnurzegal found"
+   'Schotter', // Schotter: *
    'schrammen', // schrammen:  *
    'schrappen',  // schrappen: *
    'Schraubstock', // Schraubstock:  *
@@ -117,7 +117,7 @@ const s = [
    'Spieß, spießen',  // 'Spieß, spießen' *
    'spitzkriegen',  //spitzkriegen:  *
    'Sprechmuschel',  // Sprechmuschel:
-   'Spreu vom Weizen trennen',  // 'Spreu vom Weizen trennen' *
+   'Spreu vom Weizen trennen',  //  *
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *
    'Spüle, spülen', // *
@@ -137,7 +137,7 @@ const s = [
    'Steckbrief', // Steckbrief:  *
    'Stecknadel im Heuhaufen',  // *
    'Steg', // Steg: *
-   'stibitzen', // stibitzen:
+   'stibitzen', // stibitzen: *
    'Stich (einen Stich versetzen)', // *
    'Stiefel, stiefeln', // *
    'stieren',  // stieren:  *

@@ -1,11 +1,11 @@
 const z = [
-   'zackig' ,    //zackig:   
-   'zahm, handzahm', //
-   'Zange (in die Z. nehmen)',   //
-   'zanken (sich)',  //
-   'Zapfen',   //Zapfen:
-   'zappeln',   //zappeln:
-   'Zarge' ,   //Zarge:
+   'zackig', // zackig:  *
+   'zahm, handzahm', // *
+   'Zange (in die Z. nehmen)', // * duplicated
+   'zanken (sich)',  // *
+   'Zapfen', // Zapfen: *
+   'zappeln', // zappeln:  *
+   'Zarge' , // Zarge: *
    'zaudern',  //zaudern:
    'Zaunpfahlwink',  //Zaunpfahlwink:
    'zechen',     //zechen:

@@ -16,7 +16,7 @@ const l = [
    'lausig',  // lausig:
    'Leibesvisitation', // Leibesvisitation:
    'Leier',  // Leier: 
-   'leiern', // leiern:  
+   'leiern', // leiern:  *
    'Leim, leimen',  //  
    'Leinen',  // Leinen:  
    'Leiste',  // Leiste:

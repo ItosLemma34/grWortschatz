@@ -3117,13 +3117,6 @@ huschen: [
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'in einem fort, schnattern': [
-	'<strong>in einem fort</strong>: on and on, constantly &nbsp;&nbsp;&nbsp;<strong>schnattern</strong>: chatter, babble <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target1">in einem fort</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target2">schnattern</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fort?q=in+einem+fort"target="target3">in einem fort</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target4">schnattern</a> ' ,
-	'<u>Märzgefallene</u>',
-	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, <strong>schnatterte in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten.  (<i>Märzgefallene</i>, 187)' ,
-	'...mit dem nötigen Kleingeld in der Tasche konnte man sich hier (<i>in der Kadadu-Bar</i>) prima von der Welt da draußen ablenken. Und genau das hatte er (<i>Rath</i>) auch vorgehabt, hatte ein paar neue Drinks ausprobiert, der Musik gelauscht und dem einlullende Geplapper der Barbesucher. Un hatte dennoch <strong>in einem fort</strong> an Charly denken müssen.  (<i>Märzgefallene</i>, 401-02)' ,
-	'<i>Achim Freiherr von Roddeck</i>: "Wäre der deutsche Soldat ohne Juden in diesen Krieg gezogen, niemals hätte er sich zu solchen Schandtaten verleiten lassen. Zu Schandtaten, für die man sich schämen muss und die uns das Ausland nun <strong>in einem fort</strong> unter die Nasse reibt."  (<i>Märzgefallene</i>, 478)' ,
-],
 inspizieren: [
 	'<strong>inspizieren</strong>: &nbsp;inspect, scrutinize, examine <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/inspizieren"target="target1">inspizieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/inspizieren"target="target2">inspizieren</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/inspizieren"target="target3">inspizieren</a> ' ,
 	'<u>Der nasse Fisch</u>',
@@ -4205,12 +4198,15 @@ Leier: [
 	'"Hat Kronberg (<i>der ED-Chef</i>) Sie mal wieder nicht rangelassen, Doktor", sagte Rath also nur. <i>Doktor Karthaus, Gerichtsmediziner</i>: "Die übliche <strong>Leier</strong>. Durfte bislang nur einen kurzen Blick auf die Leiche werfen..." (<i>Lunapark</i>, 26)' ,
 ],
 leiern: [
-	'<strong>leiern</strong>: &nbsp;drone on; turn a crank; wheedle sth. out of sb. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/leiern"target="target1">leiern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/leiern"target="target2">leiern</a>&nbsp;&nbsp;<a href="https://www.woerter.net/verbs/?w=leiern"target="target3">leiern</a> ' ,
-//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+	'<strong>leiern</strong>: drone on; turn a crank; wheedle sth. out of sb. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/leiern"target="target1">leiern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/leiern"target="target2">leiern</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=leiern"target="target3">leiern</a>&nbsp;&nbsp;<a href="https://www.woerter.net/verbs/?w=leiern"target="target4">leiern</a>',
 	'<u>Der nasse Fisch</u>',
 	'Das Ende des Gewölbegangs markierte eine Stahltür, hinter der das <strong>Leiern</strong> einer Orgel zu hören war.   (<i>Der nasse Fisch</i>, 244)' ,	
 	'<u>Märzgefallene</u>',
-	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel stibitz oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie <strong>geleiert</strong> hatte.  (<i>Märzgefallene</i>, 252-53)' ,
+	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel stibitzt oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie <strong>geleiert</strong> hatte.  (<i>Märzgefallene</i>, 252-53)' +
+	'<br><i>Note: &nbsp;The idiomatic meaning of "leiern" as "wheedle" is not easily found online. ChatGPT renders this sentence as: ' +
+	'"At times, it was nice not to have to roam through the city alone; sometimes, Fritze had even managed to coax a smile out of her (Hannah) with his cheeky way of swiping an apple or <strong>wheedling</strong> a mark out of someone with a fur collar."</i> ',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -5450,7 +5446,9 @@ Stöpsel: [
 	'Kleidung lag verstreut auf dem Boden.. Vor dem Bett leere Bierflaschen und ein überquellender Aschenbecher, eine zusammengeknüllte Papiertüte.., daneben eine fettgetränkte Bratwurstpappe, auf der ein Klacks Senf eingetrocknet war. Fliegen <strong>summten auf</strong>, als Lange dem Tisch zu nahe kam.   (<i>Lunapark</i>, 42-43)' ,
 ],
 schnaufen: [
-	'<strong>schnaufen</strong>: &nbsp;puff, pant, wheeze <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnaufen"target="target1">schnaufen</a> <br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnaufen"target="target2">schnaufen</a> &nbsp;<a href="https://www.verbformen.com/?w=schnaufen"target="target3">schnaufen</a> ',
+	'<strong>schnaufen</strong>: puff, pant, wheeze ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnaufen"target="target1">schnaufen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnaufen"target="target2">schnaufen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnaufen"target="target3">schnaufen</a> &nbsp;<a href="https://www.verbformen.com/?w=schnaufen"target="target4">schnaufen</a> ',
 	'<u>Märzgefallene</u>',
 	'Weil er (<i>Scholten</i>) wusste, dass Hannahs Schreie keine Hilfe herbeiholen würden, dass sie lediglich ihren Teil zum allnächtlichen Dalldorfer Schreikonzert beitragen und niemanden stören würden. Und den Menschen, der sich mit dumpfem <strong>Schnaufen</strong> auf ihr bewegte, am allerwenigsten... (<i>Märzgefallene</i>, 65)' ,
 	'Hannah stieß den Stuhl beiseite und war draußen, hörte das <strong>Schnaufen</strong> ihres Verfolgers, der sich wieder aufgerichtet hatte, und seine Schritte. (<i>Märzgefallene</i>, 69)' ,
@@ -5707,7 +5705,9 @@ Strickjacke: [
 	'Oben auf der Freitreppe stand ein Mann, der keinen Mantel trug und keinen Hut, sondern eine helle Leinenhose, Hemd und Krawatte und darüber eine <strong>Strickjacke</strong>. Seine ganze Haltung ließ keinen Zweifel daran, dass es sich um den Hausherrn handeln musste.  (<i>Märzgefallene</i>, 427-28)'  ,
 ],
 'schnurz­pie­pe, schnurzegal': [
-	'<strong>schnurz­pie­pe</strong> = <strong>schnurzegal</strong>: not give a damn <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnurzpiepe"target="target1">schnurz­pie­pe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnurzegal"target="target2">schnurzegal</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/schnurz%C2%ADegal"target="target3">schnurzegal</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnurzegal"target="target4">schnurzegal</a>  ' ,
+	'<strong>schnurz­pie­pe</strong> = <strong>schnurzegal</strong>: not give a damn ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnurzpiepe"target="target1">schnurz­pie­pe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnurzegal"target="target2">schnurzegal</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/schnurz%C2%ADegal"target="target3">schnurzegal</a> &nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnurzegal"target="target4">schnurzegal</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Was soll denn das werden?" "Wir führen die drei Akten zu einem Vorgang zusammen", sagte Steinke. "Akte Alberich, hat der Polizeipräsident vorgeschlagen, ich denke, so werden wir sie auch nennen, nicht wahr, Herr Kriminalsekretär (<i>Gräf</i>)?" <i>Rath</i>: "Das ist mir <strong>schnurzpiepe</strong>, wie ihr die Akte nennt, meinetwegen könnt ihr sie Akte Arschloch taufen."   (<i>Märzgefallene</i>, 422)',
 ],
@@ -5718,7 +5718,9 @@ Strickjacke: [
 	'<i>Rath</i>: "Was soll denn das werden?" "Wir führen die drei Akten zu einem Vorgang zusammen", sagte Steinke. "Akte Alberich, hat der Polizeipräsident vorgeschlagen, ich denke, so werden wir sie auch nennen, nicht wahr, Herr Kriminalsekretär (<i>Gräf</i>)?" <i>Rath</i>: "Das ist mir <strong>schnurzpiepe</strong>, wie ihr die Akte nennt, meinetwegen könnt ihr sie Akte Arschloch taufen."   (<i>Märzgefallene</i>, 422)',
 ],
 schnippen: [
-	'<strong>schnippen</strong>: snap, click (one\'s fingers); flick sth. (off sth.) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnippen"target="target1">schnippen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schnippen"target="target2">schnippen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnippen"target="target3">schnippen</a> ' ,
+	'<strong>schnippen</strong>: snap, click (one\'s fingers); flick off sth. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnippen"target="target1">schnippen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnippen"target="target2">schnippen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schnippen"target="target3">schnippen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnippen"target="target4">schnippen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) <strong>schnippte</strong> seine Zigarettenkippe in die Spree und bahnte sich einen Weg durch die Menge.     (<i>Der nasse Fisch</i>, 90)',
 	'Als er (<i>Rath</i>) wieder auf der Straße stand, zündete er sich eine Zigarette an, um besser nachdenken zu können. Er wollte das Streichholz vor dem Haus auf die Straße <strong>schnippen</strong>, ließ es aber sein, als er hinter einem Erdgeschossfenster die Konturen eines dicken Kopfes bemerkte.   (<i>Der nasse Fisch</i>, 110-11)',
@@ -5931,7 +5933,9 @@ Spülbürste: [
 	'Sie (<i>Charly</i>) tanzte durch die Küche, die <strong>Spülbürste</strong> wie ein Mikrofon haltend, und versuchte, ihr Publikum zu etwas mehr Begeisterung hinzureißen. Doch Kirie dachte gar nicht daran, einen begeisterten Eindruck zu machen. (<i>Märzgefallene</i>, 351)' ,
 ],
 schnieke: [
-	'<strong>schnieke</strong>: stylish, snazzy, swish <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnieke"target="target1">schnieke</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnieke"target="target2">schnieke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnieke"target="target3">schnieke</a> ' ,
+	'<strong>schnieke</strong>: stylish, snazzy, swish ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnieke"target="target1">schnieke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnieke"target="target2">schnieke</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnieke"target="target3">schnieke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnieke"target="target4">schnieke</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah</i>) hatte sich so sehr auf die Bullen konzentriert, dass sie den hinkenden Mann, der gerade die Treppe von den Bahnsteigen hinunterkam, zunächst nicht bemerkt hatte. Diesmal nicht im Kittel eines Irrenanstaltwärters, sondern in einem <strong>schnieken</strong> dunklen Mantel....  (<i>Märzgefallene</i>, 254)' ,
 	'"Was machsten so?", fragte sie (<i>Hannah</i>) ihn (<i>Felix</i>). "Siehst <strong>schnieke</strong> aus." So gut gekleidet wie jetzt hatte sie Felix tatsächlich nie gesehen im Sommer. (<i>Märzgefallene</i>, 322)' ,
@@ -6333,31 +6337,48 @@ schnarchen: [
 	'<u>Märzgefallene</u>',
 	'Auf dem Sofa lag jemand unter einer Bettdecke und <strong>schnarchte</strong> leise. (<i>Märzgefallene</i>, 71)' ,
 ],
-'schnattern, in einem fort': [
-	'<strong>schnattern</strong>: &nbsp;chatter, babble &nbsp;&nbsp;<strong>in einem fort</strong>: on and on, constantly <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target1">schnattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target2">in einem fort</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target3">schnattern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fort?q=in+einem+fort"target="target4">in einem fort</a>&nbsp;&nbsp;' ,
+'schnattern (in einem fort)': [
+	'<strong>schnattern</strong>: chatter, babble &nbsp;&nbsp;<strong>in einem fort</strong>: on and on, constantly ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target1">schnattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target2">in einem fort</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target3">schnattern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fort?q=in+einem+fort"target="target4">in einem fort</a>&nbsp;&nbsp;' ,
+	'<u>Märzgefallene</u>',
+	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, <strong>schnatterte in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten.  (<i>Märzgefallene</i>, 187)' ,
+],
+'in einem fort (schnattern)': [
+	'<strong>schnattern</strong>: chatter, babble &nbsp;&nbsp;<strong>in einem fort</strong>: on and on, constantly ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target1">schnattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target2">in einem fort</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target3">schnattern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fort?q=in+einem+fort"target="target4">in einem fort</a>&nbsp;&nbsp;' ,
 	'<u>Märzgefallene</u>',
 	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, <strong>schnatterte in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten.  (<i>Märzgefallene</i>, 187)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schneidig: [
-	'<strong>schneidig</strong>: dashing, spirited, rousing <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schneidig"target="target1">schneidig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schneidig"target="target2">schneidig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schneidig"target="target3">schneidig</a> ',
+	'<strong>schneidig</strong>: dashing, spirited, rousing ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schneidig"target="target1">schneidig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schneidig"target="target2">schneidig</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schneidig"target="target3">schneidig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schneidig"target="target4">schneidig</a> ',
 	'<u>Märzgefallene</u>',
 	'"Sie sind sich doch darüber im Klaren, dass die Polizei sich solche Schlagzeilen nicht erlauben kann", hatte Magnus von Levetzow (<i>Nazi Polizeipräsident</i>)  ihn (<i>Böhm</i>) angeschnauzt, im <strong>schneidigen</strong> Ton des ehemaligen Marineoffiziers.  (<i>Märzgefallene</i>, 139)' ,
 ],
 schnippisch: [
-	'<strong>schnippisch</strong>: cheeky, sassy, flippant <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnippisch"target="target1">schnippisch</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnippisch"target="target2">schnippisch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnippisch"target="target3">schnippisch</a> ' ,
+	'<strong>schnippisch</strong>: cheeky, sassy, flippant ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnippisch"target="target1">schnippisch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnippisch"target="target2">schnippisch</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnippisch"target="target3">schnippisch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnippisch"target="target4">schnippisch</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Schön, dass du dich auch mal meldest", sagte sie (<i>Charly</i>). Der Satz war draußen, bevor sie ihn zurückhalten konnte.... "Ich war da, als es gebrannt hat", sagte sie, und hoffte, er (<i>Gereon</i>) möge ihre <strong>schnippische</strong> Bemerkung ebenso vergessen, wie sie seinen müden Rechtfertigungsversuch.  (<i>Märzgefallene</i>, 87-88)' ,
 	'"Mein Mann war kein Mensch, mit dem man schnell warm werden konnte." Eva Heinen klang barsch, beinahe <strong>schnippisch</strong>. "Das hat nichts damit zu tun, ob er Jude war order nicht." (<i>Märzgefallene</i>, 287)' ,
 ],
 schnörkelig: [
-	'<strong>schnörkelig</strong>: decorative, fancy, quirky, ornate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnoerkelig"target="target1">schnörkelig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnorkelig"target="target2">schnörkelig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schn%C3%B6rkelig"target="target3">schnörkelig</a> ' ,
+	'<strong>schnörkelig</strong>: decorative, fancy, ornate ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnoerkelig"target="target1">schnörkelig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schn%C3%B6rkelig"target="target2">schnörkelig</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnorkelig"target="target3">schnörkelig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schn%C3%B6rkelig"target="target4">schnörkelig</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Neben seinem Duzfreund Konrad, der direkt am <strong>schnörkelig</strong> geschmiedeten Balkongeländer auf die Menschenmenge blickte, stand allerdings auch Engelbert Rath nicht, dieser Platz war dem Dreigestirn vorbehalten, das den eigentlich als Karnevalsmuffel bekannten Oberbürgermeister eingerahmt hatte. (<i>Märzgefallene</i>, 49)',
 ],
 'schnorren, anschnorren': [
-	'<strong>schnorren, anschnorren</strong>: mooch, bum sth. (off so.) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnorren"target="target1">schnorren</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anschnorren"target="target2">anschnorren</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnorren"target="target3">schnorren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnorren"target="target4">anschnorren</a> ' ,
+	'<strong>schnorren, anschnorren</strong>: mooch, bum sth. (off so.) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnorren"target="target1">schnorren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschnorren"target="target2">anschnorren</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnorren"target="target3">schnorren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnorren"target="target4">anschnorren</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Warten Se mal!" Breitzke hörte sich mit einem Mal deutlich weniger gelangweilt an und zeigte auf die vernarbte Haut, die unterhalb der Mütze der Leiche zu sehen war. "Vielleicht könnte det Kartoffel (<i>Spitzname</i>) sein.  Der steht mal am Nolle rum, drüben bei der U-Bahn, und <strong>schnorrt</strong> die Leute <strong>an</strong>".  (<i>Märzgefallene</i>, 12) ',
 	'Aber findig war er (<i>Fritze</i>), nicht nur in Sachen Frühstück, auch Schlafgelegenheiten wusste er aufzutreiben. In einer klammen Sandkiste hatte Hannah nicht mehr bibbern müssen, seit sie Fritze über den Weg gelaufen war. Und Geld <strong>schnorren</strong> konnte er wie kein Zweiter. (<i>Märzgefallene</i>, 253)' ,
@@ -6367,7 +6388,9 @@ schnörkelig: [
 	'Und als der Mann im Soldatenmantel (<i>Wosniak</i>), der die Fahrgäste viel zu deutlich an den Krieg erinnerte und daran, dass man ihn verloren hatte,..als der arme Kerl plötzlich die Augen aufgerissen hatte und aufgestanden war, auf ihn, Friedrich Grimberg, zugewankt war, hatte der Sprengmeister gedacht, der Kerl wolle ihn <strong>anschnorren</strong>. Kurz darauf hatten sich die beiden Männer in den Armen gelegen, misstrauisch beäugt von den übrigen Fahrgästen.   (<i>Märzgefallene</i>, 548)' ,
 ],
 'anschnorren, schnorren': [
-	'<strong>schnorren, anschnorren</strong>: mooch, bum sth. (off so.) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnorren"target="target1">schnorren</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anschnorren"target="target2">anschnorren</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnorren"target="target3">schnorren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnorren"target="target4">anschnorren</a> ' ,
+	'<strong>schnorren, anschnorren</strong>: mooch, bum sth. (off so.) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnorren"target="target1">schnorren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschnorren"target="target2">anschnorren</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnorren"target="target3">schnorren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnorren"target="target4">anschnorren</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Warten Se mal!" Breitzke hörte sich mit einem Mal deutlich weniger gelangweilt an und zeigte auf die vernarbte Haut, die unterhalb der Mütze der Leiche zu sehen war. "Vielleicht könnte det Kartoffel (<i>Spitzname</i>) sein.  Der steht mal am Nolle rum, drüben bei der U-Bahn, und <strong>schnorrt</strong> die Leute <strong>an</strong>".  (<i>Märzgefallene</i>, 12) ',
 	'Aber findig war er (<i>Fritze</i>), nicht nur in Sachen Frühstück, auch Schlafgelegenheiten wusste er aufzutreiben. In einer klammen Sandkiste hatte Hannah nicht mehr bibbern müssen, seit sie Fritze über den Weg gelaufen war. Und Geld <strong>schnorren</strong> konnte er wie kein Zweiter. (<i>Märzgefallene</i>, 253)' ,
@@ -6379,7 +6402,9 @@ schnörkelig: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Schnösel: [
-	'der <strong>Schnösel</strong>,-: &nbsp;snotty-nosed brat, arrogant prig <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnoesel"target="target1">Schnösel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schnosel?q=Schn%C3%B6sel"target="target2">Schnösel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schn%C3%B6sel"target="target3">Schnösel</a> ' ,
+	'der <strong>Schnösel</strong>,-: snotty-nosed brat, arrogant prig ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnoesel"target="target1">Schnösel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schn%C3%B6sel"target="target2">Schnösel</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schnosel?q=Schn%C3%B6sel"target="target3">Schnösel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schn%C3%B6sel"target="target4">Schnösel</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Was bildeten sich diese <strong>Schnösel</strong> eigentlich ein? Er (<i>Böhm</i>) hatte weiß Gott Besseres zu tun, als sich vor den neuen Herren für seine Arbeit zu rechtfertigen.  (<i>Märzgefallene</i>, 138)' ,
 	'<i>Charly</i>.. holte ein Foto aus der Tasche. "Kennst du diesen Mann?" Hannah schüttelte den Kopf. "Er heißt Achim von Roddeck. Vielleicht hast du ihn mal zusammen mit Wosniak gesehen. Oder er ist ins Krähennest gekommen..." "Nein", sagte Hannah... Den blonden arrogant guckenden <strong>Schnösel</strong> in der Leutnantsuniform hatte sie wirklich noch nie gesehen. Unvorstellbar, dass so einer jemals im Krähennest aufgetaucht wäre, geradezu lachhaft. Im Krähennest hatten andere Leute gehaust, ehemalige einfache Frontsoldaten, von Leuten wie diesem <strong>Schnösel</strong>... immer wieder in die Schlacht geworfen und zu körperlichen und seelischen Krüppeln gemacht.... (<i>Märzgefallene</i>, 466-67)' ,
@@ -6388,7 +6413,9 @@ Schnösel: [
 	'Rath fand das Büro sofort. Er klopfte an und wartete nicht lange auf das "Herein". Als er die Tür öffnete, saß da jedoch nicht Sperling hinter einem Schreibtisch, sondern ein geschniegelter SA-Mann.. "Ja bitte?", sagte der <strong>Schnösel</strong>.  (<i>Lunapark</i>, 93)' ,
 ],
 schnuppern: [
-	'<strong>schnuppern</strong>: sniff <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnuppern"target="target1">schnuppern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnuppern"target="target2">schnuppern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnuppern"target="target3">schnuppern</a>' ,
+	'<strong>schnuppern</strong>: sniff ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnuppern"target="target1">schnuppern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnuppern"target="target2">schnuppern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnuppern"target="target3">schnuppern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnuppern"target="target4">schnuppern</a>' ,
 	'<u>Märzgefallene</u>',
 	'Der Hund <strong>shnupperte</strong> an jeder Laterne, pinkelte dann aber, wie es sich gehörte, an einen Baum.  (<i>Märzgefallene</i>, 62)' ,
 	'Charly <strong>schnupperte</strong> die kühle Nachtluft. "Das riecht doch auch irgendwie verbrannt."  (<i>Märzgefallene</i>, 64)' ,
@@ -6399,12 +6426,16 @@ schnuppern: [
 	'Sie (<i>Charly</i>) zerrte den Hund von der Straßenlaterne weg, an der er gerade <strong>schnupperte</strong>, und betrat die Mietskaserne. (<i>Lunapark</i>, 114)' ,
 ],
 Schnur: [
-	'die <strong>Schnur</strong>,- <strong>nüre</strong>: string, cord, tie; laces <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnur_Strick"target="target1">Schnur</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnur"target="target2">Schnur</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schnur"target="target3">Schnur</a> ' ,
+	'die <strong>Schnur</strong>,- <strong>nüre</strong>: string, cord, tie; laces ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnur_Strick"target="target1">Schnur</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schnur"target="target2">Schnur</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnur"target="target3">Schnur</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schnur"target="target4">Schnur</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Mit vereinten Kräften gelang es den beiden Wärtern, die arme Hannah Singer in die Zwangsjacke zu stecken, die sie mitgebracht hatten. Es schien ihnen Spaß zu machen, einer der beiden hatte tatsächlich so etwas wie ein zufriedenes Grinsen im Gesicht, als er an den <strong>Schnüren</strong> zog. (<i>Märzgefallene</i>, 48)' , 
 ],
 schnurstracks: [
-	'<strong>schnurstracks</strong>: straightaway <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnurstracks"target="target1">schnurstracks</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnurstracks"target="target2">schnurstracks</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnurstracks"target="target3">schnurstracks</a> ' ,
+	'<strong>schnurstracks</strong>: straightaway, directly ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnurstracks"target="target1">schnurstracks</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnurstracks"target="target2">schnurstracks</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnurstracks"target="target3">schnurstracks</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/schnurstracks"target="target4">schnurstracks</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) ging <strong>schnurstracks</strong> in sein Zimmer und hängte den Mantel auf. (<i>Der nasse Fisch</i>, 149)' ,
 	'<u>Märzgefallene</u>',
@@ -6413,7 +6444,9 @@ schnurstracks: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
 Schotter: [
-	'der <strong>Schotter</strong>,-: crushed rock, macadam <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schotter"target="target1">Schotter</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schotter"target="target2">Schotter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schotter"target="target3">Schotter</a> ' ,
+	'der <strong>Schotter</strong>,-: crushed rock, macadam ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schotter"target="target1">Schotter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schotter"target="target2">Schotter</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schotter"target="target3">Schotter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schotter"target="target4">Schotter</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Und diesmal, als er (<i>Leo</i>) wieder an einen bösen Scherz glaubte, hatten sie ihn wirklich aus dem Auto, das noch ausrollte, geworfen, auf spitzen <strong>Schotter</strong>, der ihn ins Fleisch schnitt und stach.  (<i>Märzgefallene</i>, 109)' ,
 	'Es war das erste Mal, dass sie ihn (<i>Leo</i>) am helllichten Tag nach oben führten, zum ersten Mal konnte er draußen vor den Fenstern etwas sehen. Er blickte auf einen <strong>schotter</strong>bedeckten Hof, auf dem ein paar Autos parkten. (<i>Märzgefallene</i>, 220)' ,
@@ -6682,9 +6715,11 @@ Steg: [
 	'Auf dem <strong>Steg</strong>, der hinüber zum Bellevue führte, musste Charly an Gereon denken.  (<i>Märzgefallene</i>, 62)' ,
 ],
 stibitzen: [
-	'<strong>stibitzen</strong>: pinch, swipe, nick <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stibitzen"target="target1">stibitzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stibitzen"target="target2">stibitzen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stibitzen"target="target3">stibitzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stibitzen"target="target4">stibitzen</a> ' ,
+	'<strong>stibitzen</strong>: pinch, swipe, nick ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stibitzen"target="target1">stibitzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stibitzen"target="target2">stibitzen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stibitzen"target="target3">stibitzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stibitzen"target="target4">stibitzen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel <strong>stibitz</strong> oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie geleiert hatte.  (<i>Märzgefallene</i>, 252-53)' ,
+	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel <strong>stibitzt</strong> oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie geleiert hatte.  (<i>Märzgefallene</i>, 252-53)' ,
 ],
 'Stiefel, stiefeln': [
 	'der <strong>Stiefel</strong>,-: boot; &nbsp;<strong>stiefeln</strong>: stride, march <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stiefel"target="target1">Stiefel</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/stiefeln"target="target2">stiefeln</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/stiefel"target="target3">Stiefel</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stiefeln"target="target4">stiefeln</a>   ',    
@@ -6732,9 +6767,11 @@ Strippe: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 stromern: [
-	'<strong>stromern</strong>: roam <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stromern"target="target1">stromern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stromern"target="target2">stromern</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stromern"target="target3">stromern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stromern"target="target4">stromern</a> ' , 
+	'<strong>stromern</strong>: roam ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stromern"target="target1">stromern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stromern"target="target2">stromern</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stromern"target="target3">stromern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stromern"target="target4">stromern</a> ' , 
 	'<u>Märzgefallene</u>',
-	'In manchen Stunden war es schön, nicht allein durch die Stadt <strong>stromern</strong> zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können.... (<i>Märzgefallene</i>, 252-53)' ,
+	'In manchen Stunden war es schön, nicht allein durch die Stadt <strong>stromern</strong> zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel stibitzt oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie geleiert hatte.  (<i>Märzgefallene</i>, 252-53)' ,
 	'Nach zwei Nächten unter einer warmen Decke mit einem richtigen Dach über dem Kopf war es nicht leicht, sich wieder an das Leben auf der Straße zu gewöhnen. Nach zwei Tagen... wieder allein durch die Gegend zu <strong>stromern</strong>. (<i>Märzgefallene</i>, 395)' ,
 ],
 strunzdämlich: [
@@ -8222,8 +8259,9 @@ zuschanzen: [
 	'Und nun arbeiteten sie (<i>Rath und Gräf</i>) wieder zusammen. Nur das der Kriminalsekretär nun Kommissar der Staatspolizei war und sich nichts mehr sagen ließ. Früher hatte er Gräf einfach wegschicken können, wenn der Mann ihm nicht in den Kram passte, jetzt hatte er ihn am Hals. Wenigstens diesen SS-Schnösel war er losgeworden, den hatte er Andreas Lange <strong>zugeschanzt</strong>.  (<i>Lunapark</i>, 35-36)' ,
 ],
 'zanken (sich)': [
-	'<strong>zanken</strong>: &nbsp;quarrel, wrangle &nbsp;&nbsp;&nbsp;<strong>sich zanken</strong>: &nbsp;squabble, bicker with so. <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/zanken"target="target1">zanken</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://en.langenscheidt.com/german-english/zanken"target="target2">zanken</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zanken"target="target3">zanken</a>   ' ,
-//	'<u>Der nasse Fisch</u>', 
+	'<strong>zanken</strong>: quarrel, wrangle <br><strong>sich zanken</strong>: squabble, bicker with so. ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zanken"target="target1">zanken</a> &nbsp;<a href="https://www.dwds.de/wb/zanken"target="target2">zanken</a> ' +
+	'<br>English Definitions: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<a href="https://en.langenscheidt.com/german-english/zanken"target="target3">zanken</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zanken"target="target4">zanken</a>   ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Hannah denkt</i>: Erwachsene waren irgendwie alle blöd. Jeder auf seine eigene Weise, aber blöd waren sie doch alle... Jetzt <strong>zankten</strong> die sich wie die Kesselflicker, nur weil irgendein Mann im Radio irgendwas Doofes erzählt hatte oder so. Politik. Immer <strong>zankten</strong> die Erwachsenen <strong>sich</strong> wegen Politik.   (<i>Märzgefallene</i>, 593)' ,
 	'Sie (<i>Hannah</i>) hatte die Flasche und den Kühler hingestellt und war schnell wieder in der Küche verschwunden. Hier hatte sie ihre Ruhe... Sollten die da drinnen doch <strong>zanken</strong>.  (<i>Märzgefallene</i>, 594)' ,
@@ -8237,7 +8275,18 @@ zwitschern: [
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Zange (in die Z. nehmen)': [
-	'<strong>in die Zange nehmen</strong>: grill, put the screws on sb.; encircle &nbsp;&nbsp;die <strong>Zange</strong>,-<strong>n</strong>: pliers <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Zange%20nehmen"target="target1">in die Zange nehmen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zange?q=in+die+Zange+nehmen"target="target2">in die Zange nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Zange+nehmen"target="target3">in die Zange nehmen</a> ' ,
+	'die <strong>Zange</strong>,-<strong>n</strong>: pliers <br><strong>in die Zange nehmen</strong>: grill, put the screws on sb.; encircle ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Zange%20nehmen"target="target1">in die Zange nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Zange+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Zange nehmen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zange?q=in+die+Zange+nehmen"target="target3">in die Zange nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Zange+nehmen"target="target4">in die Zange nehmen</a> ' ,
+	'<u>Märzgefallene</u>',
+	'Roddeck, <strong>in die Zange genommen</strong> von seinen Gastgebern, wagte nicht mehr, auf die Uhr zu schauen, nicht mit diesen beiden an seiner Seite. Bestimmt schon elf, die Zeit rannte ihm davon.  (<i>Märzgefallene</i>, 555)' ,
+	'<u>Lunapark</u>',
+	'Aus dem Hanomag (<i>ein Auto</i>) stiegen vier Männer, allesamt in braunen Uniformen. Osterberg seufzte... Hinten ihnen hielt auch der andere Wagen, aus dem ebenfalls SA-Männer stiegen. Man hatte sie <strong>in die Zange genommen</strong>. (<i>Lunapark</i>, 8)'
+],
+'in die Zange nehmen': [
+	'die <strong>Zange</strong>,-<strong>n</strong>: pliers <br><strong>in die Zange nehmen</strong>: grill, put the screws on sb.; encircle ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Zange%20nehmen"target="target1">in die Zange nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Zange+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Zange nehmen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zange?q=in+die+Zange+nehmen"target="target3">in die Zange nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Zange+nehmen"target="target4">in die Zange nehmen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Roddeck, <strong>in die Zange genommen</strong> von seinen Gastgebern, wagte nicht mehr, auf die Uhr zu schauen, nicht mit diesen beiden an seiner Seite. Bestimmt schon elf, die Zeit rannte ihm davon.  (<i>Märzgefallene</i>, 555)' ,
 	'<u>Lunapark</u>',
@@ -8345,7 +8394,9 @@ Zinnober: [
 	'An der Wand stand eine seltsame Apparatur... Der Apparat surrte leise, und Rath schaltete ihn ab. "Habe ich mir von einem befreundeten Filmproduzenten ausgeliehen", erklärte er und zeigte auf den Kasten. "Das ist eine Klangfilmkamera..." <i>Roddeck</i>: "Ich fürchte, ich verstehe nicht, was der ganze <strong>Zinnober</strong> hier soll." (<i>Märzgefallene</i>, 579)'  ,
 ],
 zackig: [
-	'<strong>zackig</strong>: &nbsp;snappy, smart, dashing; jagged &nbsp;&nbsp;die <strong>Zacke</strong>,-<strong>n</strong>: &nbsp;sharp point, spike <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zackig"target="target1">zackig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zackig"target="target2">zackig</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zackig"target="target3">zackig</a>    ' ,
+	'<strong>zackig</strong>: snappy, smart, dashing; jagged &nbsp;&nbsp;die <strong>Zacke</strong>,-<strong>n</strong>: sharp point, spike ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zackig"target="target1">zackig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zackig"target="target2">zackig</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zackig"target="target3">zackig</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zackig"target="target4">zackig</a>    ' ,
 	'<u>Der nasse Fisch</u>',
 	'Inzwischen hatte sich auch der Schupo von dem Anpfiff erholt and trat zum Oberkommissar, <strong>zackig</strong> salutierend. (<i>Der nasse Fisch</i>, 58)'  ,
 	'<u>Märzgefallene</u>', 
@@ -8359,14 +8410,18 @@ zackig: [
 	'"Das einzig Verdächtige, was mir heute aufgefallen ist", sagte Pfeiffer mit einem schnippischen Unterton, der überhaupt nicht zu seinem sonstigen militärisch-<strong>zackigen</strong> Gehabe passen wollte, "das sind die kommunistischen Parolen unter der Eisenbahnbrücke.   (<i>Lunapark</i>, 59)',
 ],
 Zapfen: [
-	'der <strong>Zapfen</strong>,-: &nbsp;cone; tap, plug, spigot &nbsp;&nbsp;&nbsp;<strong>zapfen</strong>: &nbsp;tap, draw  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zapfen"target="target1">Zapfen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zapfen"target="target2">zapfen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Zapfen"target="target3">Zapfen</a> &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zapfen"target="target4">zapfen</a> ',
+	'der <strong>Zapfen</strong>,-: cone; tap, plug, spigot &nbsp;&nbsp;<strong>zapfen</strong>: tap, draw ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zapfen"target="target1">Zapfen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zapfen"target="target2">zapfen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Zapfen"target="target3">Zapfen</a> &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zapfen"target="target4">zapfen</a> ',
 	'<u>Märzgefallene</u>', 
 	'Erinnerungen an warme Nächte im Park hatten sie (<i>Hannah</i>) auch jetzt, gleich nach ihrer Flucht, zum Märchenbrunnen getrieben, doch an den Nasen von Hänsel und Gretel hingen Eis<strong>zapfen</strong>, und weit und breit war kein Jugendlicher zu sehen.  (<i>Märzgefallene</i>, 153)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zappeln: [
-	'<strong>zappeln</strong>: &nbsp;fidget, struggle, kick, wriggle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zappeln"target="target1">zappeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zappeln"target="target2">zappeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zappeln"target="target3">zappeln</a>   ',
+	'<strong>zappeln</strong>: fidget, struggle, kick, wriggle ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zappeln"target="target1">zappeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zappeln"target="target2">zappeln</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zappeln"target="target3">zappeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zappeln"target="target4">zappeln</a>   ',
 	'<u>Der nasse Fisch</u>',
 	'Sie (<i>Rath und Wolter</i>) konnten es Krajewske (<i>den Pornokaiser</i>) ansehen, dass ihm das Herz bis in die grauen Unterhosen rutschte, als ein ganzer Haufen Uniformierter an ihm vorbei in seine Wohnung stiefelte. Mit großen Augen hatte er Rath und Wolter angestarrt. Sie hatten ihn einen Moment <strong>zappeln</strong> lassen.  (<i>Der nasse Fisch</i>, 67)' ,
 	'"Mörder!", rief er (<i>der Witwer</i>) und stürzte sich auf Wolter. Rath riss ihn zurück und nahm ihn in den Polizeigriff. "Beruhigen Sie sich doch", sagte er. Der Mann <strong>zappelte</strong> noch, wurde aber ruhiger and fing schließlich an zu schluchzen. (<i>Der nasse Fisch</i>, 75)' ,
@@ -8379,7 +8434,9 @@ zappeln: [
 	'Gretta... hatte Gereon abwimmeln wollen und in so etwas war sie nun einmal ausgesprochen gut. Charly hatte geschimpft mit der Freundin, aber die hatte nur mit den Ackseln gezuckt. "Du musst ihn einfach mal <strong>zappeln</strong> lassen", hatte sie gesagt, "glaub mir, das hilft." (<i>Märzgefallene</i>, 407)',
 ],
 Zarge: [
-	'die <strong>Zarge</strong>,-<strong>n</strong>: &nbsp;(door)frame, border, edge; shroud <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zarge"target="target1">Zarge</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Zarge"target="target2">Zarge</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Zarge"target="target3">Zarge</a>    ',
+	'die <strong>Zarge</strong>,-<strong>n</strong>: (door)frame, border, edge; shroud ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zarge"target="target1">Zarge</a> &nbsp;<a href="https://www.dwds.de/wb/Zarge"target="target2">Zarge</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Zarge"target="target3">Zarge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Zarge"target="target4">Zarge</a>    ',
 	'<u>Märzgefallene</u>', 
 	'Die Tür hing schief in den Angeln, sie war regelrecht zertrümmert, das Glas des kleinen Sichtfensters herausgesplittert, der Riegel hatte die Tür<strong>zarge</strong> aus ihrer Verankerung gerissen. Es sah aus, als sei hier ein wütender Gorilla am Werk gewesen, nicht aber ein sechzehnjähriges Mädchen. (<i>Märzgefallene</i>, 80)' ,
 ],
@@ -8631,7 +8688,9 @@ Zwirn: [
 	'"Danke", sagte sie (<i>Charly</i>) und schüttelte seine (<i>Bertrands</i>) Hand. "Hoffentlich ist Ihr Kollege nicht so diskret wie Sie." "Diskret", sagte er.... "diskret sind wir Eintänzer nur, was unsere Kundinnen angeht..... Über Kollegen klatschen wir, <strong>was das Zeug hält</strong>...."     (<i>Märzgefallene</i>, 308)' ,
 ],
 'zahm, handzahm': [
-	'<strong>zahm</strong>: &nbsp;tame, docile  &nbsp;&nbsp;<strong>handzahm</strong>: &nbsp;tame enough to be handled <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/handzahm"target="target1">handzahm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/handzahm"target="target2">handzahm</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=handzahm"target="target3">handzahm</a>  ' ,
+	'<strong>zahm</strong>: tame, docile  <br><strong>handzahm</strong>: tame enough to be handled (by hand) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zahm"target="target1">zahm</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/handzahm"target="target2">handzahm</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zahm"target="target3">zahm</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=handzahm"target="target4">handzahm</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Das <i>Zentralkomitee zur Abwehr der jüdischen Hetz- und Greuelpropaganda</i> hatte immer wieder seinen Boykottaufruf an die Redaktionen geschickt. Und die Zeitungen, inzwischen allesamt <strong>handzahm</strong>, hatten den Text gehorsamst abgedruckt, selbst die <i>Vossische</i>.   (<i>Märzgefallene</i>, 424)' ,
 ],

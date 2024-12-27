@@ -6,33 +6,33 @@ const z = [
    'Zapfen', // Zapfen: *
    'zappeln', // zappeln:  *
    'Zarge' , // Zarge: *
-   'zaudern',  //zaudern:
-   'Zaunpfahlwink',  //Zaunpfahlwink:
-   'zechen',     //zechen:
-   'Zehenspitze' ,  //Zehenspitze:
-   'Zeltplane' ,   //Zeltplane:
-   'zerdeppern',   //zerdeppern:
-   'zerfleddert' ,  //zerfleddert:
-   'zerknicken' ,   //zerknicken:
-   'zerknirscht',   //zerknirscht:
-   'zerknittern',  //zerknittern:
-   'zerknüllen' ,  //zerknüllen:
-   'zermatschen',  //zermatschen:
-   'zerpflücken',  //zerpflücken:
-   'zerquetschen, quetschen',  // duplicate
-   'zerren' ,      //zerren:
-   'zerschießen',  // zerschießen:
-   'zerschunden' ,  //zerschunden:
-   'zerwühlen' ,    //zerwühlen:
-   'zerzausen' ,    //zerzausen:
-   'Zeug (was das Z. hält)', //
-   'Zicke, Zicken machen'  ,  //
-   'Ziegelwand'  ,    //Ziegelwand:
-   'zig' ,   //zig:
-   'Zinken' ,  //Zinken:
+   'zaudern', // zaudern: *
+   'Zaunpfahlwink',  // Zaunpfahlwink: * duplicated
+   'zechen',     // zechen: *
+   'Zehenspitze',  // Zehenspitze: *
+   'Zeltplane' ,   // Zeltplane: *
+   'zerdeppern',   // zerdeppern: *
+   'zerfleddert',  // zerfleddert: *
+   'zerknicken' ,  // zerknicken: *
+   'zerknirscht',  // zerknirscht: *
+   'zerknittern',  // zerknittern: *
+   'zerknüllen' ,  // zerknüllen: *
+   'zermatschen',  // zermatschen: *
+   'zerpflücken',  // zerpflücken: *
+   'zerquetschen, quetschen',  // * duplicated
+   'zerren',      // zerren:  *
+   'zerschießen',  // zerschießen:  *
+   'zerschunden',  // zerschunden:  *
+   'zerwühlen',    // zerwühlen:  *
+   'zerzausen',    // zerzausen:  *
+   'Zeug (was das Z. hält)', // * duplicated
+   'Zicke, Zicken machen',  //
+   'Ziegelwand',    //Ziegelwand:
+   'zig',   //zig:
+   'Zinken',  //Zinken:
    'Zinnober',   //Zinnober:
-   'Zipperlein' , //Zipperlein:
-   'zischen' ,  //zischen:   
+   'Zipperlein', //Zipperlein:
+   'zischen',  //zischen:   
    'zittern, zittrig' ,  //
    'zockeln' ,  //zockeln:
    'Zopf'  ,  //Zopf:

@@ -7,6 +7,7 @@ const i = [
    'in die Zange nehmen', // * duplicated
    'in drei Teufels Namen', //
    'in einem fort (schnattern)', // *  duplicated
+   'ins Fettnäpfchen treten', // * duplicated
    'ins Handwerk pfuschen',  //
    'ins Haus stehen', //
    'inspizieren',  //inspizieren:

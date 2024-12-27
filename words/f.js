@@ -16,7 +16,7 @@ const f = [
    'feilschen',  //feilschen:  
    'fesch',  //fesch:  
    'festfressen (sich)',  //  
-   'Fettnäpfchen (ins F. treten)',  //  
+   'Fettnäpfchen (ins F. treten)',  // * duplicated 
    'filzen',  //filzen:  
    'Findling',   //Findling:  
    'fingieren',  //fingieren:  

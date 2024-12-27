@@ -6,6 +6,7 @@ const w = [
    'wälzen (sich)',  //
    'Wampe', // Wampe:
    'Wappen' ,  //Wappen:
+   'was das Zeug hält', // * duplicated 
    'Wassern (mit allen W. gewaschen)',  //
    'Wecker (auf den W. gehen)',  //  repeated
    'wedeln' ,  //wedeln:
@@ -26,7 +27,7 @@ const w = [
    'wimmern' ,  //wimmern:
    'Wimper',   //Wimper:
    'winden' ,  //winden:
-   'Wink mit dem Zaunpfahl' , //
+   'Wink mit dem Zaunpfahl' , // * duplicated
    'Winkel' ,  //Winkel:
    'Winkeladvokat',  //Winkeladvokat:
    'winseln',  //winseln:

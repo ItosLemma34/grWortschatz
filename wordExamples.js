@@ -8262,7 +8262,9 @@ zerschießen: [
 	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen Einstand, mit dem er die Befragung des Zeugen Egerland <strong>zerschossen</strong> hatte, nicht weiter gestört.  (<i>Lunapark</i>, 46)' ,
 ],
 zuschanzen: [
-	'<strong>zuschanzen</strong>: &nbsp;shove sth. off onto so. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuschanzen"target="target1">zuschanzen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zuschanzen"target="target2">zuschanzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zuschanzen"target="target3">zuschanzen</a>   ' ,
+	'<strong>zuschanzen</strong>: assign sth. to sb., dump sth. on sb. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuschanzen"target="target1">zuschanzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zuschanzen"target="target2">zuschanzen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/zuschanzen"target="target3">zuschanzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zuschanzen"target="target4">zuschanzen</a>   ' ,
 	'<u>Lunapark</u>',
 	'Und nun arbeiteten sie (<i>Rath und Gräf</i>) wieder zusammen. Nur das der Kriminalsekretär nun Kommissar der Staatspolizei war und sich nichts mehr sagen ließ. Früher hatte er Gräf einfach wegschicken können, wenn der Mann ihm nicht in den Kram passte, jetzt hatte er ihn am Hals. Wenigstens diesen SS-Schnösel war er losgeworden, den hatte er Andreas Lange <strong>zugeschanzt</strong>.  (<i>Lunapark</i>, 35-36)' ,
 ],
@@ -8275,7 +8277,9 @@ zuschanzen: [
 	'Sie (<i>Hannah</i>) hatte die Flasche und den Kühler hingestellt und war schnell wieder in der Küche verschwunden. Hier hatte sie ihre Ruhe... Sollten die da drinnen doch <strong>zanken</strong>.  (<i>Märzgefallene</i>, 594)' ,
 ],
 zwitschern: [
-	'<strong>zwitschern</strong>: chirp, twitter <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwitschern"target="target1">zwitschern</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwitschern"target="target2">zwitschern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwitschern"target="target3">zwitschern</a>' ,
+	'<strong>zwitschern</strong>: chirp, twitter ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwitschern"target="target1">zwitschern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zwitschern"target="target2">zwitschern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwitschern"target="target3">zwitschern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwitschern"target="target4">zwitschern</a>' ,
 	'<u>Der nasse Fisch</u>', 
 	'Ein schöner Morgen. In der Nacht musste es geregnet haben, einige Pfützen glänzten noch auf dem Asphalt. In der Fregestraße <strong>zwitscherten</strong> die Vögel in den Bäumen und taten alles, um einen sonnigen Frühlingstag einzuleiten....   (<i>Der nasse Fisch</i>, 223)' ,
 	'Der Fahrrad hatte er (<i>Rath</i>) am Lützowufer in den Landwehrkanal geworfen und den Rest des Weges zu Fuß zurückgelegt. Die Vögel hatten <strong>gezwitschert</strong>, als er endlich in der Nürnberger Straße vor der Tür stand.  (<i>Der nasse Fisch</i>, 229)' ,
@@ -8301,8 +8305,9 @@ zwitschern: [
 	'Aus dem Hanomag (<i>ein Auto</i>) stiegen vier Männer, allesamt in braunen Uniformen. Osterberg seufzte... Hinten ihnen hielt auch der andere Wagen, aus dem ebenfalls SA-Männer stiegen. Man hatte sie <strong>in die Zange genommen</strong>. (<i>Lunapark</i>, 8)'
 ],
 zuwanken: [
-	'<strong>zuwanken</strong>: &nbsp;stagger towards &nbsp;&nbsp;<strong>wanken</strong>: stagger, sway; vacillate, waver <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuwanken"target="target1">zuwanken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wanken"target="target2">wanken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zuwanken"target="target3">zuwanken</a>   ' ,
-//	'<u>Der nasse Fisch</u>', 
+	'<strong>wanken</strong>: stagger, sway; vacillate, waver <br><strong>zuwanken</strong>: stagger towards ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wanken"target="target1">wanken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zuwanken"target="target2">zuwanken</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wanken"target="target3">wanken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zuwanken"target="target4">zuwanken</a>   ' ,
 	'<u>Märzgefallene</u>',
 	'Und als der Mann im Soldatenmantel (<i>Wosniak</i>), der die Fahrgäste viel zu deutlich an den Krieg erinnerte und daran, dass man ihn verloren hatte,..als der arme Kerl plötzlich die Augen aufgerissen hatte und aufgestanden war, auf ihn, Friedrich Grimberg, <strong>zugewankt</strong> war, hatte der Sprengmeister gedacht, der Kerl wolle ihn anschnorren. Kurz darauf hatten sich die beiden Männer in den Armen gelegen, misstrauisch beäugt von den übrigen Fahrgästen.   (<i>Märzgefallene</i>, 548)' ,
 ],
@@ -8313,15 +8318,19 @@ zaudern: [
 	'<u>Märzgefallene</u>',
 	'Leutnant von Roddeck hatte seine Truppen in den verbleibenden anderthalb Kriegsjahren nicht geschont. Ganz bewusst nicht geschont, Grimberg hatte es dem wie immer zögernden und <strong>zaudernden</strong> Leutnant geraten: Je weniger Männer überleben, desto mehr bleibt für uns übrig.   (<i>Märzgefallene</i>, 547)' ,
 ],
-'Zwang (sich keinen Z. antun)': [
-	'<strong>sich keinen Zwang antun</strong>: &nbsp;Feel Free (to do sth.)! Be my guest!  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+keinen+Zwang+antun&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">sich keinen Zwang antun</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=keinen+Zwang+antun"target="target2">sich keinen Zwang antun</a> &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Zwang"target="target3">sich keinen Zwang antun</a>      ' ,
+'Zwang (keinen Z. antun)': [
+	'(sich) <strong>keinen Zwang antun</strong>: Feel Free (to do sth.)! Be my guest! ' +
+	'<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=keinen+Zwang+antun&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">keinen Zwang antun</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=keinen+Zwang+antun"target="target3">keinen Zwang antun</a> &nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/keinen+Zwang+antun"target="target4">keinen Zwang antun</a>      ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Ist das hier eigentlich ein Rauchertaxi?", fragte er. <i>Thelen</i>: "<strong>Tun Sie sich keinen Zwang an</strong>." Rath griff zu einem Zigarettenetui und zündete sich eine an. (<i>Märzgefallene</i>, 516)' ,
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: "Ich ermittle gerade in einem Mordfall.".. <i>Sturmbannführer Sperling</i>: "Und was hat das Feldjägerkorps damit zu tun?" "Das hier ist kein offizieller Besuch der Kriminalpolizei", sagte Rath. "Nur ein zwangloses Gespräch." <i>Sperling</i>: "Na, dann <strong>tun Sie sich keinen Zwang an</strong>."   (<i>Lunapark</i>, 95)' ,
 ],
 'zu nahe treten': [
-	'<strong>zu nahe tretten</strong>: &nbsp;offend, speak ill of sb.; get too close to <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=zu+nahe+treten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">zu nahe tretten</a><br>English Definitions:&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zu+nahe+tretten"target="target2">zu nahe tretten</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/zu%20nahe%20tretend"target="target3">zu nahe trettend</a>      ' ,
+	'<strong>zu nahe tretten</strong>: offend, speak ill of sb.; get too close to ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=zu+nahe+treten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">zu nahe tretten</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/%28jemandem%29+zu+nahe+treten"target="target2">zu nahe tretten</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zu+nahe+tretten"target="target3">zu nahe tretten</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/zu+nahe+treten"target="target4">zu nahe trettend</a>      ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Rath</i>: "Ich bin Polizist geworden, weil ich für Recht und Ordnung und für sichere Straßen sorgen möchte, und nicht, um Soldat zu spielen oder Krieg... Seegers hob beschwichtigend die Hände. "Ich wollte Ihnen nicht <strong>zu nahe treten</strong>, junger Freund. Niemand will Krieg.... (<i>Der nasse Fisch</i>, 171)' ,
 	'"Ich habe mich noch gar nicht für die Einladung bedankt", sagte sie (<i>Charly</i>) und holte eine Juno aus der Schachtel...: "Vielen Dank für Ihre Gesellschaft", sagte er (<i>Gereon</i>) und zündete sich selbst eine Zigarette an. "Ohne Ihnen <strong>zu nahe treten</strong> zu wollen, aber Sie sind die netteste Kollegin, die ich bislang in der Burg getroffen habe."  (<i>Der nasse Fisch</i>, 187-88)' ,
@@ -8332,7 +8341,9 @@ zaudern: [
 	'"Gereon! Hast du den Beruf gewechselt oder warum stehst du bei den Reportern?" Weinert zeigte auf das Podium. "Solltest du nicht da oben sitzen?" <i>Rath</i>: "Ist nicht mein Fall. Nicht mehr." <i>Weinert</i>: "Oh, tut mir leid. Wollte dir nicht <strong>zu nahe treten</strong>." (<i>Märzgefallene</i>, 495)' ,
 ],
 zuprosten: [
-	'jemandem <strong>zuprosten</strong>: &nbsp;drink a toast to  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuprosten"target="target1">zuprosten</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zuprosten"target="target2">zuprosten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuprosten"target="target3">zuprosten</a>  ' ,
+	'jmdm. <strong>zuprosten</strong>: drink a toast to ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuprosten"target="target1">zuprosten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zuprosten"target="target2">zuprosten</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zuprosten"target="target3">zuprosten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuprosten"target="target4">zuprosten</a>  ' ,
 	'<u>Der nasse Fisch</u>', 
 	'"Auf den Gastgeber (<i>Wolter</i>)", sagte er (<i>Rath</i>) und hob das Glas. "Auf den besten Scharfschützen, den die deutsche Armee je hatte", ergänzte der hagere Generalmajor. Offensichtlich meinte er Bruno. Die Männer <strong>prosteten sich zu</strong>. (<i>Der nasse Fisch</i>, 168)' ,
 	'Rath ging zu dem Frischling, der ein wenig verloren mit seinem Glas im Raum stand. "Hallo, Gereon!" Jänicke wirkte erleichert, ihn zu sehen. Rath <strong>prostete</strong> ihm <strong>zu</strong>.  (<i>Der nasse Fisch</i>, 172)' ,
@@ -8359,7 +8370,9 @@ Zaunpfahlwink: [
 	'"Fritze, das ist Fräulein van Almsick, meine Kollegin", sagte Charly... "Einfach nur Almsick", sagte Karin... "Ohne <i>van</i>."... "Friedrich von Thormann", sagte er (<i>Fritze</i>) und zwinkerte. "Aber ohne <i>von</i>." Karin guckte pikiert, Charly musste sich zusammenreißen, um nicht laut loszulachen. Sie hoffte, dass Fritze den <strong>Zaunpfahlwink</strong> mit der Kollegin mitbekommen hatte und sich nicht verplapperte. (<i>Märzgefallene</i>, 448)',
 ],
 Zipperlein: [
-	'das <strong>Zipperlein</strong>,-: &nbsp;minor ailment, aches and pains  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zipperlein"target="target1">Zipperlein</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zipperlein?q=Zipperlein"target="target2">Zipperlein</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Zipperlein"target="target3">Zipperlein</a>   ' ,
+	'das <strong>Zipperlein</strong>,-: minor ailment, aches and pains ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zipperlein"target="target1">Zipperlein</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/Zipperlein"target="target2">Zipperlein</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zipperlein?q=Zipperlein"target="target3">Zipperlein</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Zipperlein"target="target4">Zipperlein</a>   ' ,
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>', 
 	'<i>Charly</i>: "Ja, der Doktor sagt, Ruhe sei das Wichtigste." Charly kam sich vor wie ihre eigene Großmutter, die mit ihrem Kaffeekränzchen auch immer nur die jeweils aktuellen <strong>Zipperlein</strong> und Wehwehchen zu besprechen hatte. (<i>Märzgefallene</i>, 447)',
@@ -8373,7 +8386,19 @@ zermatschen: [
 	'Als Doktor Schwartz das Laken zurückwarf, starrte die Nervensäge (<i>Rath</i>) auf die <strong>zermatschten</strong> Hände des Toten.  (<i>Der nasse Fisch</i>, 86)' ,
 ],
 'zurren, festzurren': [
-	'<strong>zurren</strong>: &nbsp;lash down, bind sth. &nbsp;&nbsp;<strong>festzurren</strong>: &nbsp;tie/clamp something securely; finalize something  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zurren"target="target1">zurren</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/zurren"target="target2">zurren</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zurren"target="target3">zurren</a>   ' ,
+	'<strong>zurren</strong>: lash down, bind sth. <br><strong>festzurren</strong>: tie/clamp something securely; finalize something ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zurren"target="target1">zurren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/festzurren"target="target2">festzurren</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zurren"target="target3">zurren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=festzurren"target="target4">festzurren</a>   ' ,
+	'<u>Der nasse Fisch</u>',
+	'Das Grau und Braun der Arbeitermützen waren umzingelt vom Schwarz der Tschakos und dem Blau der Uniformen. Aus der Königstraße kam gerade ein weiterer Lastwagen, von dem ein Trupp Uniformierter absprang, die Kinnriemen <strong>festgezurrt</strong>. (<i>Der nasse Fisch</i>, 54)' ,
+	'<u>Märzgefallene</u>',
+	'Der nach Wochen und Monaten des Hin und Her endlich <strong>festgezurrte</strong> Hochzeitstermin bereitete ihm, je näher er rückte, desto mehr Bauchschmerzen. (<i>Märzgefallene</i> 20-21)' ,
+	'Frauen hatte sie (<i>Hannah</i>) hier immer noch keine einzige gesehen, bis auf die Polizistin, die vor ein paar Tagen neben ihrem Bett gesessen und Fragen gestellt hatte. Fragen, die den Knoten in ihrer Zunge nur fester <strong>gezurrt</strong> hatten. (<i>Märzgefallene</i> 462)' ,
+],
+'festzurren, zurren': [
+	'<strong>zurren</strong>: lash down, bind sth. <br><strong>festzurren</strong>: tie/clamp something securely; finalize something ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zurren"target="target1">zurren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/festzurren"target="target2">festzurren</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zurren"target="target3">zurren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=festzurren"target="target4">festzurren</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'Das Grau und Braun der Arbeitermützen waren umzingelt vom Schwarz der Tschakos und dem Blau der Uniformen. Aus der Königstraße kam gerade ein weiterer Lastwagen, von dem ein Trupp Uniformierter absprang, die Kinnriemen <strong>festgezurrt</strong>. (<i>Der nasse Fisch</i>, 54)' ,
 	'<u>Märzgefallene</u>',
@@ -8397,21 +8422,27 @@ zechen: [
 	'<i>die Witwe Behnke</i>: "Jedenfalls hat Ihr (<i>Raths</i>) Vormieter öfter mal für unruhige Nächte gesorgt... Da hat es in Ihrem Zimmer manchmal von Russen gewimmelt. Und immer haben sie bis tief in die Nacht <strong>gezecht</strong> und wurden dann laut."  (<i>Der nasse Fisch</i>, 40)' ,
 ],
 züchtigen: [
-	'<strong>züchtigen</strong>: &nbsp;beat, flog; punish, castigate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuechtigen"target="target1">züchtigen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuchtigen"target="target2">züchtigen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zuechtigen#z%C3%BCchtigen"target="target3">züchtigen</a>     ' ,
+	'<strong>züchtigen</strong>: beat, flog; punish, castigate ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuechtigen"target="target1">züchtigen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCchtigen"target="target2">züchtigen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuchtigen"target="target3">züchtigen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=z%C3%BCchtigen"target="target4">züchtigen</a>     ' ,
 	'<u>Märzgefallene</u>', 
 	'Der Schupo wirkte, als sei er drauf and dran, den Jungen (<i>Fritze</i>) wieder zu <strong>züchtigen</strong>, dann aber stoppte die Hand, die bereits ausgeholt hatte, und er beließ es bei einem Räuspern. "Entschuldigen Sie, aber wir hatten gedacht, der Bengel sei aus einem Heim ausgebüxt." (<i>Märzgefallene</i>, 352)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zupfen: [
-	'<strong>zupfen</strong>: pick, pluck, pull (up) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zupfen"target="target1">zupfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zupfen"target="target2">zupfen</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/zupfen"target="target3">zupfen</a>   ' ,
+	'<strong>zupfen</strong>: pick, pluck, pull (up) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zupfen"target="target1">zupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zupfen"target="target2">zupfen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zupfen"target="target3">zupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zupfen"target="target4">zupfen</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'Frauen, die offensichtlich in den Tiefen der Kinositze gehockt hatten, sprangen auf und <strong>zupften sich</strong> die Kleidung zurecht. (<i>Der nasse Fisch</i>, 245)' ,
 	'<u>Märzgefallene</u>', 
 	'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede <strong>zupfte</strong> seinen Kittel zurecht und betätigte einen Hebel an der vorsintflutlichen Kasse.... "Wollen Se mal sehen, Kommessar: Ebbe, nix als Ebbe...." (<i>Märzgefallene</i>, 317)' ,
 ],
 Zinnober: [
-	'der <strong>Zinnober</strong> (no plural): &nbsp;fuss, rubbish, nonsense; vermillion, red cinnabar  <br>Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/Zinnober"target="target1">Zinnober</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zinnober?q=Zinnober"target="target2">Zinnober</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zinnober"target="target3">Zinnober</a>  ' ,
+	'der <strong>Zinnober</strong> (no plural): rubbish, junk, nonsense; vermillion ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zinnober"target="target1">Zinnober</a> &nbsp;<a href="https://www.dwds.de/wb/Zinnober"target="target2">Zinnober</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zinnober?q=Zinnober"target="target3">Zinnober</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zinnober"target="target4">Zinnober</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Was soll denn der <strong>Zinnober</strong> überhaupt?", fragte Krajewski (<i>der Pornokaiser, apropos der Hausdurchsuchungen</i>). <i>Rath</i>: "Du wohnst in der falschen Gegend. Zu viele Kommunisten. Da sollte man aufpassen, was man in der Küche versteckt."  (<i>Der nasse Fisch</i>, 67)' ,
 	'<u>Märzgefallene</u>', 
@@ -8577,7 +8608,9 @@ zerzausen: [
 	'Er (<i>Gereon</i>) entschuldigte sich und verschwand seinerseits auf der Toilette. Er ließ kaltes Wasser laufen und schimpfte lautlos mit seinem Spiegelbild. Immerhin, er konnte sich wiedererkennen. Unrasiert, die Haare <strong>zerzaust</strong>, grell gekleidet, aber sonst ganz passabel. So sahen die meisten Kölner am Tag nach Rosenmontag aus. (<i>Märzgefallene</i>, 75)' ,
 ],
 'Zicke, Zicken machen': [
-	'die <strong>Zicke</strong>,-<strong>n</strong>: nanny goat; silly girl &nbsp;&nbsp;&nbsp;<strong>Zicken machen</strong>: make trouble <br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zicke"target="target1">Zicke</a> &nbsp;&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Zicken+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Zicken machen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zicke"target="target3">Zicke</a> &nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Zicken+machen"target="target4">Zicken machen</a>          ',
+	'die <strong>Zicke</strong>,-<strong>n</strong>: nanny goat; silly girl <br><strong>Zicken machen</strong>: make trouble ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zicke"target="target1">Zicke</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Zicken+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Zicken machen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zicke"target="target3">Zicke</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Zicken+machen"target="target4">Zicken machen</a>          ',
 	'<u>Märzgefallene</u>',
 	'<i>Engel</i>: "Leutnant?" <i>von Roddeck</i>: "Herr Hauptmann?" <i>Engel</i>: "Schreiben Sie in Ihren Bericht: Deutscher Soldat von französischen Partisanen ermordet. Täter in Notwehr gerichtet." "Mit Verlaub, Herr Hauptmann, aber das entspricht nicht der Wahrheit." "Wollen Sie <strong>Zicken machen</strong> wie dieses Nervenbündel da?" Engel zeigt auf den toten Wegener. "Die Wahrheit ist, was ich Ihnen sage." (<i>Märzgefallene</i>, 170)' ,
 	'Dann stellte Warszawski weitere Fragen, nach früheren Ehen, nach der Freiwilligkeit ihrer Heirat... und so weiter und hakte alles nacheinander ab. Charly <strong>machte</strong> keine weiteren <strong>Zicken</strong>, und Rath schlug innerlich drei Kreuze. (<i>Märzgefallene</i>, 382-83)' ,
@@ -8587,26 +8620,34 @@ zerzausen: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Ziegelwand: [
-	'der <strong>Ziegel</strong>,-: &nbsp;brick &nbsp;&nbsp;&nbsp;die <strong>Ziegelwand</strong>, die <strong>Ziegelwände</strong>: &nbsp;brick wall <br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ziegel"target="target1">Ziegel</a>  &nbsp;<a href ="https://www.dwds.de/wb/Ziegelwand?o=Zigelwand"target="target2">Ziegelwand</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ziegel"target="target3">Ziegel</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Ziegelwand"target="target4">Ziegelwand</a>    ',
+	'der <strong>Ziegel</strong>,-: brick <br>die <strong>Ziegelwand</strong>,-<strong>wände</strong>: brick wall ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ziegel"target="target1">Ziegel</a> &nbsp;<a href ="https://www.dwds.de/wb/Ziegelwand?o=Zigelwand"target="target2">Ziegelwand</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ziegel"target="target3">Ziegel</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Ziegelwand"target="target4">Ziegelwand</a>    ',
 	'<u>Märzgefallene</u>',
 	'Die Fotos zeigten allesamt dasselbe. Eine nackte <strong>Ziegelwand</strong>, eine Brandmauer, wie sie zu Hunderten im Wedding, in Friedrichshain, Neukölln oder anderen Arbeitergegenden zu sehen waren. Und quer darüber hatte jemand mit weißer Farbe gepinselt: <i>Deutschland erwache, Juda verrecke</i>! (<i>Märzgefallene</i>, 29)' ,
-	'Ich (<i>von Roddeck</i>) folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer <strong>Ziegelwand</strong> harren, an der bis gestern noch bis zur Decke Weinregale gestanden haben.  (<i>Märzgefallene</i>, 161)' ,
-	'Ich (<i>von Roddeck</i>) sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne Murren meine Befehle. Sie reißen die <strong>Ziegelwand</strong> komplett ein und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind.  (<i>Märzgefallene</i>, 162)' ,
+	'Ich (<i>Roddeck</i>) folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer <strong>Ziegelwand</strong> harren, an der bis gestern noch bis zur Decke Weinregale gestanden haben.  (<i>Märzgefallene</i>, 161)' ,
+	'Ich (<i>Roddeck</i>) sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne Murren meine Befehle. Sie reißen die <strong>Ziegelwand</strong> komplett ein und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind.  (<i>Märzgefallene</i>, 162)' ,
 ],
 zig: [	
-	'<strong>zig</strong>: &nbsp;umpteen, dozens, hundreds of  <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/zig"target="target1">zig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zig"target="target2">zig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zig_1"target="target3">zig</a>        ' ,
+	'<strong>zig</strong>: umpteen, dozens, hundreds of ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zig"target="target1">zig</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/zig"target="target2">zig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zig"target="target3">zig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zig_1"target="target4">zig</a>        ' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah und Fritze</i>) waren durch eine Tür in den riesigen Bürotrakt gelaufen, waren irgendwo die Treppen runter und im Hinterhof durch ein Fenster raus. Waren irgendwie auf einem Hof gelandet, auf dem <strong>zig</strong> Aschinger-Lieferwagen standen....  (<i>Märzgefallene</i>, 173)' ,
 ],
 Zinken: [
-	'der <strong>Zinken</strong>,- :  &nbsp;nose, beak <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zinken"target="target1">Zinken</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zinken#Zinken"target="target2">Zinken</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Zinken"target="target3">Zinken</a>        ' ,
+	'der <strong>Zinken</strong>,-:  nose, beak ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zinken"target="target1">Zinken</a> &nbsp;<a href="https://www.dwds.de/wb/Zinken"target="target2">Zinken</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zinken#Zinken"target="target3">Zinken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/declension/nouns/Zinken.htm"target="target4">Zinken</a>        ' ,
 	'<u>Märzgefallene</u>',
 	'Gedankenverloren betrachtete Rath die Gumminase, einen unglaublichen <strong>Zinken</strong>, an dem eine dicke schwarze Brille und ein falscher Schnauz befestigt waren.  (<i>Märzgefallene</i>, 19)'  ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zischen: [
-	'<strong>zischen</strong>: &nbsp;hiss, sizzle <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/zischen"target="target1">zischen</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zischen"target="target2">zischen</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zischen"target="target3">zischen</a>  ' ,
+	'<strong>zischen</strong>: hiss, sizzle ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zischen"target="target1">zischen</a> &nbsp;<a href="https://www.dwds.de/wb/zischen"target="target2">zischen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zischen"target="target3">zischen</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zischen"target="target4">zischen</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Mein lieber Doktor (<i>Völcker</i>)!" Wolter wurde laut. Er wirkte wie ein Dampfkessel, bei dem sich die Sicherheitsventile öffneten und den Überdruck zu einem zivilisierten <strong>Zischen</strong> bändigten.  (<i>Der nasse Fisch</i>, 75)' ,
 	'Hinter sich hörte er (<i>Rath</i>) ein sattes Klirren, eine kleine, nasse Explosion. Instinktive drehte er den Kopf. Kein Mensch zu sehen, nur eine weiße, <strong>zischende</strong> Pfüze auf dem Pflaster und rotbraun leuchtende Scherben. (<i>Der nasse Fisch</i>, 213)' ,
@@ -8618,7 +8659,9 @@ zischen: [
 	'Die Augen ihres (<i>Charlys</i>) Tanzpartners (<i>Bernard, der Eintänzer</i>) funkelten böse, als er sie zum Tisch zurückbegleitete, aber sein Mund lächelte. "Warum fragen Sie mich über einen Kollegen aus?", <strong>zischte</strong> er, ohne sein Lächeln zu verlieren.  (<i>Märzgefallene</i>, 307)' ,                  
 ],
 'zittern, zittrig': [
-	'<strong>zittern</strong>: &nbsp;tremble, quiver  &nbsp; &nbsp;<strong>zittrig</strong>: &nbsp;shaky, trembly <br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zittern"target="target1">zittern</a> &nbsp;<a href="https://www.duden.de/rechtschreibung/zittrig"target="target2">zittrig</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zittern"target="target3">zittern</a> &nbsp;<a href="https://glosbe.com/de/en/zittrig"target="target4">zittrig</a>',  
+	'<strong>zittern</strong>: tremble, quiver  &nbsp;&nbsp;<strong>zittrig</strong>: shaky, trembly ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zittern"target="target1">zittern</a> &nbsp;<a href="https://www.dwds.de/wb/zittrig"target="target2">zittrig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zittern"target="target3">zittern</a> &nbsp;<a href="https://www.verbformen.com/?w=zittrig"target="target4">zittrig</a>',  
 	'<u>Märzgefallene</u>',
 	'Charly glaubte, ein leichtes <strong>Zittern</strong> zu beobachten, ein kaum merkliches, wie Bäume, die im Wind <strong>zitterten</strong>, ohne zu schwanken.... Das <strong>Zittern</strong> wurde stärker, es wirkte wie ein Erdbeben, das sich langsam aufschaukelte, ...eine ungeahnte Kraft, die, viel zu lange zurückgehalten, kurz vor der Explosion stand.  (<i>Märzgefallene</i>, 46)' ,
 	'Meiferts Stimme hatte unsicher und <strong>zittrig</strong> aus dem Telefon geklungen. Die Begegnung mit seiner Vergangenheit musste ihn aus dem Konzept gebracht haben. (<i>Märzgefallene</i>, 244)' ,
@@ -8626,7 +8669,9 @@ zischen: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zockeln: [
-	'<strong>zockeln</strong> (= <strong>zuckeln</strong>): &nbsp; saunter, plod, rattle along <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zockeln"target="target1">zockeln</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuckeln"target="target2">zuckeln</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zockeln"target="target3">zockeln</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuckeln"target="target4">zuckeln</a>    ',
+	'<strong>zockeln</strong> = <strong>zuckeln</strong>: saunter, plod, rattle along ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zockeln"target="target1">zockeln</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/zockeln"target="target2">zockeln</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zockeln"target="target3">zockeln</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zockeln"target="target4">zockeln</a>    ',
 	'<u>Der nasse Fisch</u>',
 	'Der schwarze Ford A schoss mit geschlossenem Verdeck über den Kottbusser Damm. Wolter steuerte seinen Wagen an langsam <strong>zockelnden</strong> Sonntagsfahrern vorbei. (<i>Der nasse Fisch</i>, 29)' ,
 	'<u>Märzgefallene</u>',
@@ -8634,13 +8679,17 @@ zockeln: [
 	'Und dann sah sie (<i>Hannah</i>) die Elektrische die Joachimsthaler Straße hinunter<strong>zockeln</strong>, nahm Anlauf und sprang, ein junger Mann reichte ihr die Hand und half ihr hinauf. (<i>Märzgefallene</i>, 255)',
 ],
 Zopf: [
-	'der <strong>Zopf</strong>, die <strong>Zöpfe</strong>: &nbsp;pigtail <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zopf"target="target1">Zopf</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zopf?q=Zopf"target="target2">Zopf</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zopf"target="target3">Zopf</a>      ' ,
+	'der <strong>Zopf</strong>, die <strong>Zöpfe</strong>: pigtail ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zopf"target="target1">Zopf</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Zopf"target="target2">Zopf</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zopf?q=Zopf"target="target3">Zopf</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zopf"target="target4">Zopf</a>      ' ,
 	'<u>Märzgefallene</u>',
 	'Oder einer von ihnen (<i>den Nazis</i>) käme einfach so auf die Idee, eine harmlose Passantin (<i>Charly</i>) mit Hund anzurempeln, nur weil sie ihm zu jüdisch aussah.... Ihr (<i>Charlys</i>) dunkles kurzes Haar machte sie verdächtig genug; SA-Männer schwärmten für blonde <strong>Zöpfe</strong>.  (<i>Märzgefallene</i>, 204)' ,
 	'Hilde sah gar nicht aus wie eine Nazischwärmerin, er (<i>Gereon</i>) hatte sie für ein modernes Mädchen gehalten, lebenslustig, keinem Abenteuer abgeneigt. Er hatte immer gedacht, Nazimädels trügen geflochte <strong>Zöpfe</strong> und keinen Bubikopf.   (<i>Märzgefallene</i>, 304)' ,                   
 ],
 Zucht: [
-	'die <strong>Zucht</strong> (no plural): &nbsp;breeding, rearing, culture; discipline <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zucht"target="target1">Zucht</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zucht"target="target2">Zucht</a> &nbsp;<a href="https://en.langenscheidt.com/german-english/zucht"target="target3">Zucht</a>    ' ,
+	'die <strong>Zucht</strong> (no plural): breeding, rearing, culture; discipline ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Zucht"target="target1">Zucht</a> &nbsp;<a href="https://www.dwds.de/wb/Zucht"target="target2">Zucht</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zucht"target="target3">Zucht</a> &nbsp;<a href="https://en.langenscheidt.com/german-english/zucht"target="target4">Zucht</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Jedesmal, wenn es einem Trupp wieder gelungen ist, ein Gebäude endgültig zum Einsturz zu bringen, sparen die anderen nicht mit Anerkennung, versuchen gleich darauf, ihren Kameraden einen noch spektakuläreren Akt der Zerstörung zu bieten. Ich lasse sie gewähren, achte nur darauf, daß die Mannes<strong>zucht</strong> keinen Schaden leidet, daß sie nicht in einen regelrechten Rausch der Zerstörung und Vernichtung geraten. (<i>Märzgefallene</i>, 159)' ,
 	'Und dann hatte sie den Platz erreicht, Corpsstudenten in vollem Wichs, andere in den Uniformen von SA und SS, alle in geordneter Marschformation... Das iebte Roddeck an dieser deutschen Revolution: Sie war so gut organisiert, es herrschte <strong>Zucht</strong> und Ordnung!  (<i>Märzgefallene</i>, 555)',
@@ -8649,7 +8698,9 @@ Zucht: [
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zücken: [
-	'<strong>zücken</strong>: &nbsp;draw, pull, take something out <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuecken"target="target1">zücken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zuecken#z%C3%BCcken"target="target2">zücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zucken_2"target="target3">zücken</a>   ',
+	'<strong>zücken</strong>: draw, pull, take something out ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuecken"target="target1">zücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCcken"target="target2">zücken</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zuecken#z%C3%BCcken"target="target3">zücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zucken_2"target="target4">zücken</a>',
 	'<u>Der nasse Fisch</u>',
 	'Der Mann errinnerte ein wenig an Wilhelm zwo.... Wie auf dem Porträt, das zu Kaisers Zeit in der Stube eines jeden guten Deutschen gehangen hatte - und in manch einer immer noch hing, obwohl der Kaiser vor über zehn Jahren abgedankt hatte und seitdem in Holland Tulpen <strong>züchtete</strong>.  (<i>Der nasse Fisch</i>, 13)' ,
 	'Der Oberkommissar (<i>Wolter</i>) <strong>zückte</strong> ein Taschenmesser, klappte es auf und machte sich an dem großen Querbalken hinter Rath zu schaffen. Nach einiger Zeit hatte er die Kugel aus dem Holz geschält. (<i>Der nasse Fisch</i>, 27)' ,
@@ -8671,39 +8722,51 @@ zücken: [
 	'Zwei Männer in Zivil sprachen gerade mit einem Hauptwachtmeister, einer hatte einen altertümlichen Fotoapparat mitsamt Holzstativ geschultert, der andere einen Notizblock <strong>gezückt</strong>. (<i>Lunapark</i>, 15)',
 	'<i>Rath</i>: ".. setzen Sie doch bitte die Befragung des Zeugen Egerland fort." Andreas Lange hatte seinen Block bereits <strong>gezückt</strong>, diensteifrig wie immer.  (<i>Lunapark</i>, 18-19)',
 ],
-//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
+//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Zugehfrau: [
-	'die <strong>Zugehfrau</strong>,-<strong>en</strong>: &nbsp;cleaning lady <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zugehfrau"target="target1">Zugehfrau</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zugehfrau?q=Zugehfrau"target="target2">Zugehfrau</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Zugehfrau"target="target3">Zugehfrau</a>     ',
+	'die <strong>Zugehfrau</strong>,-<strong>en</strong>: maid, cook, cleaning lady ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zugehfrau"target="target1">Zugehfrau</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Zugehfrau"target="target2">Zugehfrau</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Zugehfrau"target="target3">Zugehfrau</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Zugehfrau"target="target4">Zugehfrau</a>     ',
 	'<u>Märzgefallene</u>',
 	'"Du hast … gekocht?", fragte er (<i>Gereon</i>). So oft kam das nicht vor. Wenn überhaupt mal etwas Warmes bei ihnen auf dem Tisch landete, sorgte meist ihre <strong>Zugehfrau</strong> dafür, Lina, eine junge Schlesierin, die zweimal in der Woche nach dem Rechten sah.  (<i>Märzgefallene</i>, 101)' ,
 ],
 zügeln: [
-	'<strong>zügeln</strong>: &nbsp;rein in, curb, check <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuegeln_bremsen"target="target1">zügeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zugeln?q=z%C3%BCgeln"target="target2">zügeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zugeln"target="target3">zügeln</a>      ' ,
+	'<strong>zügeln</strong>: rein in, curb, check, restrain ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuegeln_bremsen"target="target1">zügeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCgeln"target="target2">zügeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zugeln?q=z%C3%BCgeln"target="target3">zügeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=z%C3%BCgeln"target="target4">zügeln</a>      ' ,
 	'<u>Märzgefallene</u>',
 	'Erika Voss konnte ihre Neugier nicht länger <strong>zügeln</strong>. "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch, das allein schon deshalb wie ein Fremdkörper wirkte, weil es ungleich dicker war als jeder andere Papierstapel, der dort lag. (<i>Märzgefallene</i>, 147)' ,
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zünftig: [
-	'<strong>zünftig</strong>: &nbsp;belonging to a guild; proper, good, competent <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuenftig"target="target1">zünftig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zunftig?q=z%C3%BCnftig"target="target2">zünftig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zunftig"target="target3">zünftig</a>      ',
+	'die <strong>Zunft</strong>, die <strong>Zünfte</strong>: guild <br><strong>zünftig</strong>: belonging to a guild; proper, good, competent ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuenftig"target="target1">zünftig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCnftig"target="target2">zünftig</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zunftig?q=z%C3%BCnftig"target="target3">zünftig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zunftig"target="target4">zünftig</a> ',
 	'<u>Märzgefallene</u>',
 	'Das Weinhaus Brungs, ganz in der Nähe des Rathauses, hatte in den Räumen einer alteingesessenen Hausbrauerei eröffnet, die vor wenigen Jahren ihren Betrieb eingestellt hatte. Die Sitzmöbel und Tische waren aus Weinkisten gezimmert, was dem Ganzen ein <strong>zünftiges</strong> Ambiente gab.   (<i>Märzgefallene</i>, 298)' ,
 ],
 zupasskommen: [
-	'<strong>zupasskommen</strong>: &nbsp;come at the right time, be just what one needs <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zupasskommen"target="target1">zupasskommen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zupasskommen"target="target2">zupasskommen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zupasskommen"target="target3">zupasskommen</a> ',
+	'<strong>zupasskommen</strong>: be just what one needs, be convenient ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zupasskommen"target="target1">zupasskommen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zupasskommen"target="target2">zupasskommen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zupasskommen"target="target3">zupasskommen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zupasskommen"target="target4">zupasskommen</a> ',
 	'<u>Der nasse Fisch</u>',
 	'Eine Zeit lang herrschte betretenes Schweigen. Rath tat nichts dagegen, das <strong>kam</strong> ihm gerade sehr <strong>zupass</strong>. Sollte sie (<i>Charly</i>) ruhig glaubeh, der Dicke (<i>Kioskbetreiber</i>) hätte ihn in Verlegenheit gebracht. Dann merkte sie wenighstens nicht, dass eigentlich sie die Ursache dafür war. (<i>Der nasse Fisch</i>, 119)' ,
 	'<u>Märzgefallene</u>',
 	'<i>Doktor Schwartz, der alte Gerichtsmediziner, zu Rath</i>: "Wissen Sie, was Doktor Karthaus (<i>sein jüngere Kollege</i>) mir gestern nahegelegt hat? Den vorzeitigen Ruhestand!.... Hat geredet, als gebe er mir einen Rat unter Kollegen.... Dabei ist Karthaus nicht mal Nazi,... aber auf deren Antisemitismuswelle mitschwimmen, das <strong>kommt</strong> ihm <strong>zupass</strong>!"  (<i>Märzgefallene</i>, 270)' ,
 ],
 Zuspruch: [
-	'der <strong>Zuspruch</strong>, die <strong>Zusprüche</strong>: &nbsp;words of comfort, encouragement <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zuspruch"target="target1">Zuspruch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zuspruch?q=Zuspruch"target="target2">Zuspruch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuspruch"target="target3">Zuspruch</a>  ' ,
+	'der <strong>Zuspruch</strong>,-<strong>sprüche</strong>: words of comfort, encouragement ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zuspruch"target="target1">Zuspruch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Zuspruch"target="target2">Zuspruch</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zuspruch?q=Zuspruch"target="target3">Zuspruch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuspruch"target="target4">Zuspruch</a>  ' ,
 	'<u>Märzgefallene</u>',
-	'"Unter alten Freunden ist so etwas doch selbstverständlich, nicht wahr, Leo", sagte der Nordpiratenchef (<i>Hermann Lapke</i>). "Da legt man gern mal ein gutes Wort ein." Leo spuckte aus. "Auf so einen <strong>Zuspruch</strong> kann ich verzichten. Dann bleibe ich lieber hier." .... <i>Lapke</i>: "Du wirst auf diesen <strong>Zuspruch</strong> nicht verzichten, glaube mir. Wenn du hier jemals wieder rauskommen willst, bin ich der Einzige, der deinen Arsch retten kann." (<i>Märzgefallene</i>, 221)' ,
+	'"Unter alten Freunden ist so etwas doch selbstverständlich, nicht wahr, Leo", sagte der Nordpiratenchef (<i>Hermann Lapke</i>). "Da legt man gern mal ein gutes Wort ein." Leo spuckte aus. "Auf so einen <strong>Zuspruch</strong> kann ich verzichten. Dann bleibe ich lieber hier." .... <i>Lapke</i>: "Du wirst auf diesen <strong>Zuspruch</strong> nicht verzichten, glaube mir. Wenn du hier jemals wieder rauskommen willst, bin ich der Einzige, der deinen Arsch retten kann." (<i>Märzgefallene</i>, 221-22)' ,
 ],
 zwinkern: [
-	'<strong>zwinkern</strong>: &nbsp;blink, wink <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwinkern"target="target1">zwinkern</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwinkern"target="target2">zwinkern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwinkern"target="target3">zwinkern</a>    ',
+	'<strong>zwinkern</strong>: blink, wink ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwinkern"target="target1">zwinkern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zwinkern"target="target2">zwinkern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwinkern"target="target3">zwinkern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwinkern"target="target4">zwinkern</a>    ',
 	'<u>Der nasse Fisch</u>',
 	'"Ist dein Mädchen weg", fragte der Jounalist (<i>Weinert</i>), während er die Innentasche nach der Geldböse durchsuchte, und <strong>zwinkerte</strong> ihm (<i>Rath</i>) noch einmal zu. Die Verschwöremiene ging Rath langsam auf die Nerven.... Mit einem letzten <strong>Zwinkern</strong> verließ er (<i>Weinert</i>) das Zimmer.   (<i>Der nasse Fisch</i>, 45)' ,
 	'<i>Rath</i>: "Ach, übrigens, ich habe dir doch neulich einen Zehner geliehen..." <i>Weinert</i>: "...bekommst du morgen zurück..." Weinert wirkte tatsächlich ein wenig verlegen... Offene Schulden waren manchmal eine gute Sache. Rath nutzte die Gelegenheit. "Vielleicht kannst du mir heute auch einen Gefallen tun...", sagte er beiläufig.  "Jederzeit." Weinert klang erleichtert. Er hat die Falle nicht bemerkt. <i>Rath</i>: "... ich könnte deinen Wagen für ein paar Stunden gebrauchen." Weinert lachte laut auf. "Eins zu null", sagte er und <strong>zwinkerte</strong> Rath <strong>zu</strong>. "Bis vier kannst du ihn haben, dann brauche ich ihn selbst." Er wedelte mit dem Schlüssel.   (<i>Der nasse Fisch</i>, 132-33)' ,
@@ -8718,14 +8781,18 @@ zwinkern: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zwirbeln: [
-	'<strong>zwirbeln</strong>: &nbsp;twirl <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwirbeln"target="target1">zwirbeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwirbeln"target="target2">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwirbeln"target="target3">zwirbeln</a>    ' ,
+	'<strong>zwirbeln</strong>: twirl ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwirbeln"target="target1">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zwirbeln"target="target2">zwirbeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwirbeln"target="target3">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwirbeln"target="target4">zwirbeln</a>    ' ,
 	'<u>Der nasse Fisch</u>',
 	'Dieser Mann trug nichts außer dem nach oben <strong>gezwirbelten</strong> Schnurrbart und einer imposanten Erektion. (<i>Der nasse Fisch</i>, 13)' ,
 	'<u>Märzgefallene</u>',
 	'Die Reichswehr hatte tatsächlich noch etwas in ihren Archiven gefunden, sogar ein Foto dieses Hauptmanns Engel war beigefügt, das Foto eines stolzen Hauptmanns mit <strong>gezwirbeltem</strong> Schnurrbart.... (<i>Märzgefallene</i>, 257)' ,
 ],
 Zwirn: [
-	'der <strong>Zwirn</strong>,-<strong>e</strong>: &nbsp;strong thread, cloth; suit (clothes) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zwirn"target="target1">Zwirn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwirn?q=Zwirn"target="target2">Zwirn</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwirn"target="target3">Zwirn</a>    ' ,
+	'der <strong>Zwirn</strong>,-<strong>e</strong>: strong thread, cloth; suit (clothes) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zwirn"target="target1">Zwirn</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Zwirn"target="target2">Zwirn</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwirn?q=Zwirn"target="target3">Zwirn</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwirn"target="target4">Zwirn</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Trotz der braunen Uniform und der kurzgeschorenen Haare erkannte Leo den Kerl sofort, er hatte ihn oft genug gesehen, meist vor der Tür des <i>Neunundsechzig</i> und in einem Abendanzug, in dem der Muskelprotz seltsam deplaziert wirkte. Doch so ein schicker <strong>Zwirn</strong> gehörte zur Ausstattung der Türsteher, die darüber wachten, dass niemand Unbefugtes den Laden betrat.... (<i>Märzgefallene</i>, 112)' ,
 ],

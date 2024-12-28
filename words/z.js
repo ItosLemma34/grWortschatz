@@ -26,36 +26,36 @@ const z = [
    'zerwühlen',    // zerwühlen:  *
    'zerzausen',    // zerzausen:  *
    'Zeug (was das Z. hält)', // * duplicated
-   'Zicke, Zicken machen',  //
-   'Ziegelwand',    //Ziegelwand:
-   'zig',   //zig:
-   'Zinken',  //Zinken:
-   'Zinnober',   //Zinnober:
-   'Zipperlein', //Zipperlein:
-   'zischen',  //zischen:   
-   'zittern, zittrig' ,  //
-   'zockeln' ,  //zockeln:
-   'Zopf'  ,  //Zopf:
-   'zu nahe treten',  //
+   'Zicke, Zicken machen',  // *
+   'Ziegelwand', // Ziegelwand: *
+   'zig',   // zig: *
+   'Zinken',  // Zinken: *
+   'Zinnober',  // Zinnober:  *
+   'Zipperlein', // Zipperlein: *
+   'zischen',  // zischen: *  
+   'zittern, zittrig',  // *
+   'zockeln',  // zockeln: *
+   'Zopf',  // Zopf: *
+   'zu nahe treten',  // *
    'zu schade sein',  // * duplicated
-   'Zucht' ,   //Zucht:
-   'züchtigen',  //züchtigen:
-   'zücken' ,   //zücken:      
-   'Zugehfrau' ,  //Zugehfrau:
-   'zügeln' ,   //zügeln:
-   'zünftig' ,  //zünftig:
-   'zupasskommen' ,  //zupasskommen:
-   'zupfen',  //zupfen:
-   'zuprosten',  //zuprosten:
-   'zurren, festzurren',  //
-   'zuschanzen',  // zuschanzen:
-   'Zuspruch' ,  //Zuspruch:
-   'zuwanken',   //zuwanken:
-   'Zwang (sich keinen Z. antun)', //
-   'zwinkern' ,   //zwinkern:
-   'zwirbeln',   //zwirbeln:
-   'Zwirn',  //Zwirn:
-   'zwitschern',  //zwitschern:
+   'Zucht',   // Zucht: *
+   'züchtigen',  // züchtigen: *
+   'zücken',   // zücken: *    
+   'Zugehfrau',  // Zugehfrau: *
+   'zügeln',   // zügeln: *
+   'zünftig',  // zünftig: *
+   'zupasskommen',  // zupasskommen: *
+   'zupfen',  // zupfen: *
+   'zuprosten',  // zuprosten: *
+   'zurren, festzurren',  // * duplicated
+   'zuschanzen',  // zuschanzen: *
+   'Zuspruch',  // Zuspruch: *
+   'zuwanken',   // zuwanken: *
+   'Zwang (keinen Z. antun)', // *
+   'zwinkern',  // zwinkern: *
+   'zwirbeln',  // zwirbeln: *
+   'Zwirn',  // Zwirn: *
+   'zwitschern',  // zwitschern: *
 ];
 
 export default z;         

@@ -9,7 +9,7 @@ const a = [
 	'abgreifen',  //abgreifen: 
 	'abhängen',   //abhängen: 
 	'abkanzeln' , // abkanzeln:
-	'abklappern', //abklappern:  
+	'abklappern', //abklappern: *
 	'abknallen',  //abknallen:  
 	'abkommandieren',  //abkommandieren: 
 	'Ablage',     //Ablage:  
@@ -70,7 +70,7 @@ const a = [
 	'auf den Leim gehen',  //
 	'auf den Putz hauen',  //
 	'auf den Strich gehen', //
-	'auf den Wecker gehen', // repeated
+	'auf den Wecker gehen', // * duplicated
 	'auf den Zahn fühlen',  //
 	'auf der Hut sein',  //
 	'auf die Nase binden',  //

@@ -43,6 +43,7 @@ const p = [
    'prusten',  // prusten:
    'pudern',  // pudern:
    'Pulle',  // Pulle:
+   'Puste, pusten', // *
    'Pute',  // Pute:
    'Putz', // Putz:
   ];

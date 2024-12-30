@@ -40,7 +40,7 @@ const g = [
    'Gestell',    //Gestell:  
    'Gestöber',   //Gestöber:  
    'Gesträuch',  //Gesträuch:  
-   'getäfelt, täfeln',  //  
+   'getäfelt, täfeln', //  * duplicated
    'Getümmel',  //Getümmel:  
    'Geturtel',  //Geturtel:  
    'Gewebe',    //Gewebe:  

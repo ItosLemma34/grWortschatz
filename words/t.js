@@ -1,5 +1,6 @@
 const t = [
    'Tacheles reden', //
+   'täfeln, getäfelt', // * duplicated
    'Tantieme',  //Tantieme:
    'tapsen' ,  //tapsen:
    'tätscheln', //tätscheln:

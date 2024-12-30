@@ -1,29 +1,29 @@
 const w = [
-   'wabbeln',   //wabbeln:
-   'Wade' ,  //Wade:
-   'waghalsig',  //waghalsig:
-   'wähnen',  //wähnen:
-   'wälzen (sich)',  //
-   'Wampe', // Wampe:
-   'Wappen' ,  //Wappen:
+   'wabbeln', // wabbeln: *
+   'Wade' ,  // Wade: *
+   'waghalsig', // waghalsig: *
+   'wähnen',  // wähnen: *
+   'wälzen (sich)',  // *
+   'Wampe', // Wampe: *
+   'Wappen' ,  //Wappen: *
    'was das Zeug hält', // * duplicated 
-   'Wassern (mit allen W. gewaschen)',  //
-   'Wecker (auf den W. gehen)',  //  repeated
-   'wedeln' ,  //wedeln:
-   'wegducken (sich)' , //
-   'Wehwehchen',   //Wehwehchen:
-   'weichklopfen' ,  //weichklopfen:
-   'weichkochen', // weichkochen:
-   'Weihrauch, Weihrauchschwenker', //
-   'wellen (sich)',  //
-   'werkeln', // werkeln:
-   'wettern',  //wettern:
-   'Wichs',  //Wichs:
-   'Wickelgamasche' ,  //Wickelgamasche:
-   'Widerhaken', // Widerhaken:
-   'wie aus dem Ei gepellt',  //
-   'wie bestellt und nicht abgeholt', //
-   'wienern' , //wienern:
+   'Wassern (mit allen W. gewaschen)',  // * duplicated
+   'Wecker (auf den W. gehen)',  // * duplicated
+   'wedeln',  // wedeln: *
+   'wegducken (sich)', // *
+   'Wehwehchen',  // Wehwehchen:  *
+   'weichklopfen',  // weichklopfen: *
+   'weichkochen', // weichkochen: *
+   'Weihrauch, Weihrauchschwenker', // *
+   'wellen, Welle',  // *
+   'werkeln', // werkeln: *
+   'wettern',  // wettern: *
+   'Wichs',  // Wichs: *
+   'Wickelgamasche',  // Wickelgamasche: *
+   'Widerhaken', // Widerhaken: *
+   'wie aus dem Ei gepellt',  // *
+   'wie bestellt und nicht abgeholt', // *
+   'wienern' , // wienern: *
    'wimmern' ,  //wimmern:
    'Wimper',   //Wimper:
    'winden' ,  //winden:
@@ -39,8 +39,8 @@ const w = [
    'Wohlgefallen (sich in W. auflösen)', //
    'wölben',  //wölben:
    'wuchern',  //wuchern:
-   'wuchten',  //wuchten:
-   'wühlen' ,  //wühlen:
+   'wuchten',  // wuchten: *
+   'wühlen' ,  // wühlen:
    'wummern, Gewummer', //
    'wurmen', // wurmen:
    'wuscheln',  //wuscheln:

@@ -18,7 +18,7 @@ const f = [
    'festfressen (sich)',  //
    'festzurren, zurren', // * duplicated  
    'Fettnäpfchen (ins F. treten)',  // * duplicated 
-   'filzen',  //filzen:  
+   'filzen',  //filzen: * 
    'Findling',   //Findling:  
    'fingieren',  //fingieren:  
    'Fischzug',   //Fischzug:  

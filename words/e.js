@@ -31,7 +31,8 @@ const e = [
    'ergattern',   //ergattern:  
    'erhaschen',   //erhaschen:  
    'erkiesen',   //erkiesen:  
-   'erpicht',   //erpicht:  
+   'erpicht',   //erpicht: 
+   'erschnuppern, schnuppern', // * duplicated 
    'erstehen',  //erstehen:  
    'eruieren',  //eruieren:  
 ];

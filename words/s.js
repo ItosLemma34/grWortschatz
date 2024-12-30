@@ -68,7 +68,7 @@ const s = [
    'schnörkelig' , // schnörkelig: *
    'schnorren, anschnorren', // *  duplicated
    'Schnösel' ,  // Schnösel:  *
-   'schnuppern' ,  // schnuppern: *
+   'schnuppern, erschnuppern' ,  //  * duplicated
    'Schnur', //  Schnur: *
    'schnurstracks', // schnurstracks: *
 //   'schnurzegal, schnurz­pie­pe', //  make duplicate if example of "schnurzegal found"

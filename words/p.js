@@ -5,6 +5,7 @@ const p = [
    'Pappe', // Pappe:
    'Pappenstiel', // Pappenstiel:
    'Patrone', // Patrone:
+   'pauken', // pauken: *
    'Pegel',  // Pegel:
    'Pest an den Hals', // Only one English definition
    'petzen', // petzen:
@@ -16,12 +17,12 @@ const p = [
    'pferchen, einpferchen', //
    'pfiffig',  // pfiffig:
    'Pfropfen',  // Pfropfen:
-   'pfuschen (ins Handwerk p.)', // also: ins Handwerk pfuschen
+   'pfuschen (ins Handwerk p.)', // duplicated: ins Handwerk pfuschen
    'Pfütze',  // Pfütze:    
    'pieksen, piksen', //
    'Pinkel' , // Pinkel:
    'pinkeln' ,  // pinkeln:
-   'pinseln' ,  // pinseln:
+   'pinseln, bepinseln' ,  // * duplicated
    'Plackerei', // Plackerei:
    'platschen', // platschen:
    'Platzhirsch', // Platzhirsch:
@@ -30,7 +31,7 @@ const p = [
    'plüschig',  // plüschig:
    'pöbeln', // pöbeln:
    'Polster, polstern', //
-   'poltern' ,  // poltern:
+   'poltern' ,  // poltern: *
    'postieren', // postieren:
   // 'präparieren' ,
    'Pranke',  // Pranke:
@@ -43,6 +44,7 @@ const p = [
    'prusten',  // prusten:
    'pudern',  // pudern:
    'Pulle',  // Pulle:
+   'pumpen', // pumpen: *
    'Puste, pusten', // *
    'Pute',  // Pute:
    'Putz', // Putz:

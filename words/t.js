@@ -2,11 +2,11 @@ const t = [
    'Tacheles reden', //
    'täfeln, getäfelt', // * duplicated
    'Tantieme',  //Tantieme:
-   'tapsen' ,  //tapsen:
+   'tapsen' ,  // tapsen: *
    'tätscheln', //tätscheln:
    'taxieren' , //taxieren:
    'Teufel tun' , //
-   'Theke',  //Theke:
+   'Theke',  // Theke: *
    'toben' , //toben:
    'tollen', //tollen:
    'tönen',  //tönen:

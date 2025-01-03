@@ -79,6 +79,7 @@ const s = [
    'Schraubstock', // Schraubstock:  *
    'Schrippe', // Schrippe:  *
    'Schritt',  // Schritt:  *
+   'Schrotflinte', // Schrotflinte: *
    'Schrott',  // Schrott:  *
    'Schrubber, schrubben', // *  make duplicate if schrubben found
    'schubsen',  // schubsen:  *

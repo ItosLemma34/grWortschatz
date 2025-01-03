@@ -13,6 +13,7 @@ const r = [
    'Rätselraten', // Rätselraten:
    'rattern' ,  //rattern:              
    'Räuberpistole' ,  // Räuberpistole:
+   'Raufbold', // Raufbold: * 
    'Rauflust',  //Rauflust:
    'Raunen, raunen' , //
    'Raureif' , // Raureif:
@@ -32,6 +33,7 @@ const r = [
    'Rindvieh' , // Rindvieh:
    'Rinne',  // Rinne:
    'Rinnsal' , // Rinnsal:
+   'Ritter (arme)', // * duplicated
    'Ritze'  ,  // Ritze:
    'robben' ,  // robben:
    'röcheln', //röcheln:

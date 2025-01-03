@@ -30,6 +30,7 @@ const z = [
    'Ziegelwand', // Ziegelwand: *
    'zig',   // zig: *
    'Zinken',  // Zinken: *
+   'Zinne', // Zinne: * 
    'Zinnober',  // Zinnober:  *
    'Zipperlein', // Zipperlein: *
    'zischen',  // zischen: *  

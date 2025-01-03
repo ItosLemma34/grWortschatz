@@ -24,29 +24,29 @@ const w = [
    'wie aus dem Ei gepellt',  // *
    'wie bestellt und nicht abgeholt', // *
    'wienern' , // wienern: *
-   'wimmern' ,  //wimmern:
-   'Wimper',   //Wimper:
-   'winden' ,  //winden:
+   'wimmern' , // wimmern: *
+   'Wimper',   // Wimper: *
+   'winden' ,  // winden: *
    'Wink mit dem Zaunpfahl' , // * duplicated
-   'Winkel' ,  //Winkel:
-   'Winkeladvokat',  //Winkeladvokat:
-   'winseln',  //winseln:
-   'Wipfel',  //Wipfel:
-   'wippen' , //wippen:
-   'Witzbold', //Witzbold:
-   'wogen' ,  //wogen:
-   'Wohl bekomm\'s!', //
-   'Wohlgefallen (sich in W. auflösen)', //
-   'wölben',  //wölben:
-   'wuchern',  //wuchern:
+   'Winkel' ,  // Winkel: *
+   'Winkeladvokat',  // Winkeladvokat: *
+   'winseln',  // winseln: *
+   'Wipfel',  // Wipfel: *
+   'wippen' , // wippen: *
+   'Witzbold', // Witzbold: *
+   'wogen' ,  // wogen: *
+   'Wohl bekomm\'s!', // *
+   'Wohlgefallen (sich in W. auflösen)', // *
+   'wölben',  // wölben: *
+   'wuchern',  // wuchern: *
    'wuchten',  // wuchten: *
-   'wühlen' ,  // wühlen:
-   'wummern, Gewummer', //
-   'wurmen', // wurmen:
-   'wuscheln',  //wuscheln:
-   'wuseln',  //wuseln:
-   'wüten',  //wüten:
-   'wutschnaubend', // wutschnaubend:
+   'wühlen' ,  // wühlen: *
+   'wummern, Gewummer', // * duplicated
+   'wurmen', // wurmen: *
+   'wuscheln',  // wuscheln: *
+   'wuseln',  // wuseln: *
+   'wüten',  // wüten: *
+   'wutschnaubend', // wutschnaubend: *
    ];
 
 export default w;      

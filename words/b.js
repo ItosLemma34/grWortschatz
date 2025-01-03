@@ -17,6 +17,7 @@ const b = [
     'beipflichten',   //beipflichten:  
     'Bengel',     //Bengel:  
     'benommen',   //benommen: 
+    'bepinseln, pinseln', // * duplicated
     'berappen',   //berappen:  
     'beredt',     //beredt:  
     'Beritt',     //Beritt:  

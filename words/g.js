@@ -8,7 +8,8 @@ const g = [
    'geflissentlich',   //geflissentlich: 
    'gefügig', // gefügig:
    'Gehabe',     //Gehabe:  
-   'geheftet, heften',  //  
+   'geheftet, heften',  //
+   'Geheiß', // Geheiß: *  
    'geizen',   //geizen:  
    'Gekrächz',  //Gekrächz:  
    'Gelände',   //Gelände:  
@@ -48,7 +49,8 @@ const g = [
    'Gewimmel',  //Gewimmel:  
    'Gewirr',    //Gewirr:
    'Gewölbe',  // Gewölbe: 
-   'Gewühl',   //Gewühl:  
+   'Gewühl',   //Gewühl:
+   'Gewummer, wummern', // * duplicated  
    'gewunden', //gewunden:  
    'Gier',     //Gier:  
    'giften',   //giften:  
@@ -62,7 +64,8 @@ const g = [
    'Gör, Göre',  //  
    'Gosse',  //Gosse:  
    'grämen',  //grämen:  
-   'grapschen',  //grapschen:  
+   'grapschen',  //grapschen:
+   'Grimm', //  Grimm: *
    'große Stücke auf jmdn. halten',  //  
    'Grünschnabel',  //Grünschnabel:  x
    'grunzen',   //grunzen:  x

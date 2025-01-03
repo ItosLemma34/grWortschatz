@@ -16,13 +16,16 @@ const a = [
 	'abluchsen',  //abluchsen: 
 	'abschüssig',  //abschüssig:  
 	'abspulen',   //abspulen: 
+	'abstottern', // abstottern: *
 	'abtrünnig',  //abtrünnig:    
 	'abwimmeln',  //abwimmeln:     
 	'abzocken',   //abzocken: 
 	'achtkantig hinauswerfen', // 
-	'ächzen',     //ächzen: 
+	'ächzen',     //ächzen:
+	'Ader',  // Ader: *
 	'adrett',   //adrett:  
 	'Affekthandlung',   //Affekthandlung: 
+	'alle naselang', // *
 	'Allerwerteste',   //Allerwerteste:  
 	'alteingesessen',  //alteingesessen: 
 	'an der Backe haben', //
@@ -54,12 +57,13 @@ const a = [
 	'Ansinnen' ,    //Ansinnen:  
 	'anstupsen',    //anstupsen:  
 	'antanzen',     //antanzen:  
-	'Anwesen',      //Anwesen: 
+	'Anwesen',      // Anwesen: *
 	'anwidern',     //anwidern:  
 	'Anzeige erstatten', //  
 	'anzwinkern',  //anzwinkern: 
 	'Areal' ,  // Areal:
 	'Armbeuge',    //Armbeuge:   
+	'arme Ritter', // *  duplicated
 	'Arsch, jmdm. in den A. kriechen',  //
 	'Asservat',  // Asservat:
 	'Attest',     //Attest: 
@@ -86,6 +90,7 @@ const a = [
 	'auffächern', //auffächern:
 	'auffliegen',  // auffliegen:   
 	'aufgabeln',   //aufgabeln:  
+	'aufgedunsen', // aufgedunsen:  *
 	'aufgekratzt', //aufgekratzt:  
 	'aufgelöst',   //aufgelöst:  
 	'aufgießen, Aufguss', //
@@ -104,7 +109,7 @@ const a = [
 	'aufscheuchen',    //aufscheuchen:  
 	'aufschichten',   //aufschichten:  
 	'aufstieben',    //aufstieben:  
-	'aufstöbern',    //aufstöbern:  
+	'aufstöbern',    // aufstöbern: * 
 	'aufsummen, summen', // * duplicated
 	'auftakeln',     //auftakeln:  
 	'auftischen',    //auftischen:  

@@ -11,7 +11,7 @@ const l = [
    'lässig',  // lässig:
    'lasten',  // lasten:
    'Laubenkolonie', // Laubenkolonie:
-   'Lauf',    // Lauf:
+   'Lauf',    // Lauf: *
    'Laufbursche',  // Laufbursche:
    'lausig',  // lausig:
    'Leibesvisitation', // Leibesvisitation:

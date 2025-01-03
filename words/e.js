@@ -29,7 +29,8 @@ const e = [
    'entstellen',  //entstellen:  
    'erdreisten (sich)',  //  
    'ergattern',   //ergattern:  
-   'erhaschen',   //erhaschen:  
+   'erhaschen',   //erhaschen: 
+   'Erker', // Erker: *  
    'erkiesen',   //erkiesen:  
    'erpicht',   //erpicht: 
    'erschnuppern, schnuppern', // * duplicated 

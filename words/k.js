@@ -54,10 +54,10 @@ const k = [
    'Klippe', //  Klippe:
    'klirren', //klirren:
    'klitzeklein', //klitzeklein:
-   'Kloß',   //Kloß:
+   'Kloß',   // Kloß: *
    'Klumpen, Klumpfuß',  //
    'Klüngel',  //Klüngel:
-   'knallen', // knallen:
+   'knallen', // knallen: *
    'Knarre',  // Knarre:
    'knarren', // knarren:
    'knarzen', // knarzen:

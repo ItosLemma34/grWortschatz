@@ -1,16 +1,16 @@
 const v = [
-   'Ventil',  //Ventil:
-   'Verband' ,  //Verband:
-   'verblassen', // verblassen:
-   'verbeulen', //verbeulen:
-   'verbocken' , //verbocken:
-   'verbohrt',  // verbohrt:
-   'verbuddeln',  // verbuddeln:
-   'verdampfen',  //verdampfen:
-   'Verdeck',  //Verdeck:
-   'verdenken' ,  //verdenken:
-   'verdonnern' ,  //verdonnern:
-   'verdruckst',  //verdruckst:
+   'Ventil',  // Ventil: *
+   'Verband' ,  // Verband: *
+   'verblassen', // verblassen: *
+   'verbeulen', // verbeulen: *
+   'verbocken' , // verbocken: *
+   'verbohrt',  // verbohrt: *
+   'verbuddeln',  // verbuddeln: *
+   'verdampfen',  // verdampfen: *
+   'Verdeck',  // Verdeck: *
+   'verdenken' ,  // verdenken: *
+   'verdonnern' , // verdonnern: *
+   'verdruckst',  //verdruckst: *
    'verdünnisieren (sich)' , //
    'verfilzen' ,  //verfilzen:
   // 'verflixt',  open with more examples
@@ -25,7 +25,7 @@ const v = [
    'verhexen' ,  //verhexen:
    'verhunzen',  //verhunzen:
    'verkatert, Kater',  // 
-   'verkneifen (sich), verkniffen' , //
+   'verkneifen (sich), verkniffen' , // *
    'verknicken, verknickt' ,  //
    'verknoten',  //verknoten:
    'verkommen',  //verkommen:

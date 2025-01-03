@@ -20,7 +20,8 @@ const f = [
    'Fettnäpfchen (ins F. treten)',  // * duplicated 
    'filzen',  //filzen: * 
    'Findling',   //Findling:  
-   'fingieren',  //fingieren:  
+   'fingieren',  //fingieren: 
+   'Firlefanz',  // Firlefanz: *
    'Fischzug',   //Fischzug:  
    'Flachpfeife', // Flachpfeife:
    'flapsig',  //flapsig:  

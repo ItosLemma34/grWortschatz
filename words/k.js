@@ -10,6 +10,7 @@ const k = [
    'Kaschemme',  //Kaschemme:
    'kaschieren', //kaschieren:
    'Kassiber',  //Kassiber:
+   'Kater, verkatert', // *
    'katzbuckeln',  //katzbuckeln:
    'kauern',  //kauern:
    'Kauz',  // Kauz:

@@ -1,5 +1,5 @@
 const a = [
-	'aalglatt',   //aalglatt:    
+	'aalglatt',   // aalglatt:  *   
 	'abbinden',   //abbinden:  
 	'abblitzen',  //abblitzen: 
 	'abebben',    //abebben:  
@@ -64,6 +64,7 @@ const a = [
 	'Areal' ,  // Areal:
 	'Armbeuge',    //Armbeuge:   
 	'arme Ritter', // *  duplicated
+	'armer Schlucker', // * duplicated
 	'Arsch, jmdm. in den A. kriechen',  //
 	'Asservat',  // Asservat:
 	'Attest',     //Attest: 

@@ -11,7 +11,7 @@ const v = [
    'verdenken' ,  // verdenken: *
    'verdonnern' , // verdonnern: *
    'verdruckst',  //verdruckst: *
-   'verdünnisieren (sich)' , //
+   'verdünnisieren (sich)' , // *
    'verfilzen' ,  //verfilzen:
   // 'verflixt',  open with more examples
    'vergackeiern',  //vergackeiern:
@@ -24,7 +24,7 @@ const v = [
    'verheddern (sich)', //
    'verhexen' ,  //verhexen:
    'verhunzen',  //verhunzen:
-   'verkatert, Kater',  // 
+   'verkatert, Kater',  // * duplicated
    'verkneifen (sich), verkniffen' , // *
    'verknicken, verknickt' ,  //
    'verknoten',  //verknoten:

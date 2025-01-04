@@ -33,12 +33,13 @@ const s = [
    'schlampig',  //schlampig: *
    'Schlauberger', // Schlauberger: *
    'Schlauch', // Schlauch: *
-   'schleifen' ,  // schleifen: *
+   'schleifen, Schleifer' ,  //  *
    'schlendern' , // schlendern: *
    'Schleuse, schleusen', // *
    'Schliere, schlieren', // *
    'schliddern, schlittern', // *
    'schluchzen' ,  // schluchzen: *
+   'Schlucker (armer)', // * duplicated
    'Schlüpfer',  // Schlüpfer: *
    'schlüpfrig', // schlüpfrig: *
    'schmettern', // schmettern: *

@@ -39,7 +39,7 @@ const p = [
    'prasseln',  // prasseln:
    'Prise' ,  // Prise:
    'Pritsche', // Pritsche:
-   'Prothese', // Prothese:
+   'Prothese', // Prothese: *
    'Protz, protzen, protzig' , //
    'prusten',  // prusten:
    'pudern',  // pudern:

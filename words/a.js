@@ -54,7 +54,7 @@ const a = [
 	'anschnorren, schnorren', // * duplicated
 	'anschwärzen',  //anschwärzen:  
 	'ansengen',     //ansengen:  
-	'Ansinnen' ,    //Ansinnen:  
+	'Ansinnen' ,    // Ansinnen: * 
 	'anstupsen',    //anstupsen:  
 	'antanzen',     //antanzen:  
 	'Anwesen',      // Anwesen: *
@@ -86,7 +86,8 @@ const a = [
 	'auf etwas aus sein',  //
 	'auf Halde legen',   //
 	'auf Zack sein',    //
-	'aufbahren',   //aufbahren:   
+	'aufbahren',   //aufbahren:  
+	'aufbauschen', // aufbauschen:  * 
 	'aufdonnern (sich)',  //
 	'auffächern', //auffächern:
 	'auffliegen',  // auffliegen:   

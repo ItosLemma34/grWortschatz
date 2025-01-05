@@ -20,6 +20,7 @@ const s = [
    'Scherbe',  // Scherbe:  *
    'scheren (sich)',  // *
    'scheuern',  // scheuern: *
+   'Schieblehre', // Schieblehre:  *
    'Schiefertafel', // Schiefertafel: *
    'schielen',  // schielen: *
    'schikanieren', // schikanieren: *

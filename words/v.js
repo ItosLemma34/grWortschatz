@@ -12,11 +12,11 @@ const v = [
    'verdonnern' , // verdonnern: *
    'verdruckst',  //verdruckst: *
    'verdünnisieren (sich)' , // *
-   'verfilzen' ,  //verfilzen:
+   'verfilzen' ,  //verfilzen:  *
   // 'verflixt',  open with more examples
-   'vergackeiern',  //vergackeiern:
-   'vergaloppieren (sich)', //
-   'vergewissern (sich)', //
+   'vergackeiern',  //vergackeiern:  *
+   'vergaloppieren (sich)', // *
+   'vergewissern (sich)', // *
    'ver­grau­len, Vergraulung', //
    'verhageln' ,  //verhageln:
    'verhallen' ,  //verhallen:

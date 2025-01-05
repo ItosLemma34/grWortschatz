@@ -13,7 +13,7 @@ const h = [
    'hapern',  //hapern:
    'harren',  //harren:
    'hart im Nehmen sein', //
-   'Hatz',  //Hatz:
+   'Hatz',  // Hatz: *
    'hausieren', //hausieren:
    'Hautausschlag' , //Hautausschlag:
    'hecheln', //hecheln: 

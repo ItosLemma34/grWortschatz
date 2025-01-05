@@ -32,7 +32,7 @@ const k = [
    'kitzeln', //kitzeln:
    'klackern', //klackern:
    'Klacks',  //Klacks:
-   'Kladde',  //Kladde:
+   'Kladde',  //Kladde:  *
    'klaffen', //klaffen:
    'klamm',  //klamm:
    'Klammer', //Klammer:

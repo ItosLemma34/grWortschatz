@@ -47,7 +47,7 @@ const b = [
     'Bordstein', // Bordstein:
     'borniert',  //borniert: 
     'Bösewicht',  //Bösewicht:  
-    'Boulette',   //Boulette:
+    'Boulette',   //Boulette:  *
     'brandschatzen',  //brandschatzen: 
     'Brause',    //Brause:  
     'brausen',  //brausen: 

@@ -4,7 +4,8 @@ const g = [
    'Geäst',  //Geäst:  
    'Gebälk', //Gebälk:  
    'Gebrüll',  //Gebrüll:  
-   'gediegen',  //gediegen:  
+   'gediegen',  //gediegen:
+   'gefasst',  // gefasst: *
    'geflissentlich',   //geflissentlich: 
    'gefügig', // gefügig:
    'Gehabe',     //Gehabe:  

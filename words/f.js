@@ -48,8 +48,8 @@ const f = [
    'Frevel',    //Frevel:
    'frösteln', // frösteln:  
    'Frotzelei',  //Frotzelei:  
-   'fuchteln', //fuchteln:  
-   'fuhrwerken' ,  //fuhrwerken:  
+   'fuchteln, Fuchtel', //  *
+   'fuhrwerken' ,  //fuhrwerken:   
    'fummeln',    //fummeln:  
    'funzelig',   //funzelig:  
    'Furz',     //Furz:  

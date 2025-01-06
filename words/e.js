@@ -26,7 +26,8 @@ const e = [
    'entbieten',  //entbieten:  
    'entgegenfiebern',  //entgegenfiebern:  
    'entriegeln',  //entriegeln:  
-   'entstellen',  //entstellen:  
+   'entstellen',  //entstellen: 
+   'entwinden',  // entwinden:  *
    'erdreisten (sich)',  //  
    'ergattern',   //ergattern:  
    'erhaschen',   //erhaschen: 

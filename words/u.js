@@ -30,6 +30,7 @@ const u = [
    'untersetzt',  //untersetzt:
    'Unterstand' ,  //Unterstand:
    'unverfänglich', //unverfänglich:
+   'unverfroren',  // unverfroren:  *
    'unverrichteter Dinge', //
    'unwirsch' ,  //unwirsch:
 ];

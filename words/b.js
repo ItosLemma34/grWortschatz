@@ -10,6 +10,7 @@ const b = [
     'bedröppelt',  //bedröppelt: 
     'beflissen',  //beflissen:
     'begrapschen',  //begrapschen: 
+    'Begriffsstutzigkeit', // Begriffsstutzigkeit:  *
     'behelligen',   //behelligen:  
     'beherzt',     //beherzt:  
     'beikommen',   //beikommen:  

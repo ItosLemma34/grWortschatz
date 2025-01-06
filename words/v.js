@@ -17,8 +17,8 @@ const v = [
    'vergackeiern',  //vergackeiern:  *
    'vergaloppieren (sich)', // *
    'vergewissern (sich)', // *
-   'ver­grau­len, Vergraulung', //
-   'verhageln' ,  //verhageln:
+   'ver­grau­len, Vergraulung', // *
+   'verhageln' ,  // verhageln:  *
    'verhallen' ,  //verhallen:
    'verheben (sich)', //
    'verheddern (sich)', //

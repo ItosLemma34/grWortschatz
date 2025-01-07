@@ -17,7 +17,8 @@ const a = [
 	'abschüssig',  //abschüssig:  
 	'abspulen',   //abspulen: 
 	'abstottern', // abstottern: *
-	'abtrünnig',  //abtrünnig:    
+	'abtrünnig',  //abtrünnig: 
+	'abwiegeln',  // abwiegeln:  *    
 	'abwimmeln',  //abwimmeln:     
 	'abzocken',   //abzocken: 
 	'achtkantig hinauswerfen', // 

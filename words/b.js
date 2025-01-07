@@ -13,6 +13,7 @@ const b = [
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  *
     'behelligen',   //behelligen:  
     'beherzt',     //beherzt:  
+    'beichten',  // beichten: * 
     'beikommen',   //beikommen:  
     'Beine in den Bauch',  //
     'beipflichten',   //beipflichten:  

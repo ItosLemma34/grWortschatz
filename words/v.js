@@ -19,8 +19,8 @@ const v = [
    'vergewissern (sich)', // *
    'ver­grau­len, Vergraulung', // *
    'verhageln' ,  // verhageln:  *
-   'verhallen' ,  //verhallen:
-   'verheben (sich)', //
+   'verhallen' ,  // verhallen: *
+   'verheben (sich)', // *
    'verheddern (sich)', //
    'verhexen' ,  //verhexen:
    'verhunzen',  //verhunzen:

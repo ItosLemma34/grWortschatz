@@ -20,6 +20,7 @@ const h = [
    'hechten, Hechtsprung', //
    'Heckenschütze',  //Heckenschütze:
    'Heft des Handelns nehmen', //
+   'Heidenarbeit', // Heidenarbeit:  *
    'Heidenrespekt/angst', //
    'Heimtücke, heimtückisch', //
    'heimzahlen',  //heimzahlen:

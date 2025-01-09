@@ -2,8 +2,8 @@ const m = [
    'mäandern',  // mäandern:
    'Machwerk',  // Machwerk:
    'malochen', //malochen:
-   'Mangel (durch die M. drehen)', //
-   'Mangel (in die M. nehmen)' ,  //
+   'Mangel (durch die M. drehen)', // * duplicated
+   'Mangel (in die M. nehmen)' ,  // * duplicated
    'Manschettenknopf',  // Manschettenknopf:
    'markieren (den dicken Max M.)',  // 
    'meckern' ,  // meckern:

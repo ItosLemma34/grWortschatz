@@ -22,8 +22,8 @@ const d = [
    'dumpf',    //dumpf: 
    'Dunst, Dunstkreis',  //
    'durch den Wind sein',  // 
-   'durch den Wolf drehen',  // 
-   'durch die Mangel drehen', //
+   'durch den Wolf drehen',  //  
+   'durch die Mangel drehen', // * duplicated
    'durchdrehen',    //durchdrehen: 
    'durchkämmen',    //durchkämmen: 
    'durchmogeln (sich)',  // 

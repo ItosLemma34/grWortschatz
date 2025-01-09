@@ -6,7 +6,7 @@ const k = [
    'Kantholz',  //Kantholz:
    'Karnickel', //Karnickel:
    'Karree',   //Karree:
-   'karren',  //karren:
+   'karren',  //karren: *
    'Kaschemme',  //Kaschemme:
    'kaschieren', //kaschieren:
    'Kassiber',  //Kassiber:
@@ -50,7 +50,7 @@ const k = [
    'Klemme',  //Klemme:
    'klemmen', //klemmen:
    'Klette',  //Klette:
-   'klimpern', //klimpern:
+   'klimpern', // klimpern: *
    'Klinge', //  Klinge:
    'Klippe', //  Klippe:
    'klirren', //klirren:

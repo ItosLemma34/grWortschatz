@@ -6,6 +6,7 @@ const w = [
    'wälzen (sich)',  // *
    'Wampe', // Wampe: *
    'Wappen' ,  //Wappen: *
+   'warm anziehen (sich)', // *
    'was das Zeug hält', // * duplicated 
    'Wassern (mit allen W. gewaschen)',  // * duplicated
    'Wecker (auf den W. gehen)',  // * duplicated

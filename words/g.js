@@ -7,8 +7,8 @@ const g = [
    'gediegen',  //gediegen:
    'gefasst',  // gefasst: *
    'geflissentlich',   //geflissentlich: 
-   'gefügig', // gefügig:
-   'Gehabe',     //Gehabe:  
+   'gefügig', // gefügig: *
+   'Gehabe',  // Gehabe:  *  
    'geheftet, heften',  //
    'Geheiß', // Geheiß: *  
    'geizen',   //geizen:  

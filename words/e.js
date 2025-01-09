@@ -28,7 +28,7 @@ const e = [
    'entriegeln',  //entriegeln:  
    'entstellen',  //entstellen: 
    'entwinden',  // entwinden:  *
-   'erdreisten (sich)',  //  
+   'erdreisten (sich)',  // *  
    'ergattern',   //ergattern:  
    'erhaschen',   //erhaschen: 
    'Erker', // Erker: *  

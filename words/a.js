@@ -39,14 +39,14 @@ const a = [
 	'anfauchen, fauchen', //
 	'angeben, Angeber',  //  
 	'angeschickert', //angeschickert:  
-	'anhimmeln',    //anhimmeln:  
+	'anhimmeln',    // anhimmeln: *  
 	'anleinen',     //anleinen:  
 	'Anpfiff' ,     //Anpfiff:  
 	'anpflaumen',   //anpflaumen:  
 	'anpumpen',     //anpumpen: 
 	'anquatschen',   //anquatschen: 
 	'anraunzen',     //anraunzen:  
-	'anrempeln',    //anrempeln: 
+	'anrempeln',    // anrempeln: *
 	'Anrichte',     //Anrichte:  
 	'ans Bein binden',  //
 	'anschleichen (sich)', //
@@ -85,6 +85,7 @@ const a = [
 	'auf die Schliche kommen',  //
 	'auf die Tube drücken',   //
 	'auf etwas aus sein',  //
+	'auf Granit beißen', // *
 	'auf Halde legen',   //
 	'auf Zack sein',    //
 	'aufbahren',   //aufbahren:  

@@ -21,26 +21,26 @@ const v = [
    'verhageln' ,  // verhageln:  *
    'verhallen' ,  // verhallen: *
    'verheben (sich)', // *
-   'verheddern (sich)', //
-   'verhexen' ,  //verhexen:
-   'verhunzen',  //verhunzen:
+   'verheddern (sich)', // *
+   'verhexen',   // verhexen: *
+   'verhunzen',  // verhunzen: *
    'verkatert, Kater',  // * duplicated
-   'verkneifen (sich), verkniffen' , // *
-   'verknicken, verknickt' ,  //
-   'verknoten',  //verknoten:
-   'verkommen',  //verkommen:
-   'verkorkst, verkorken',  //
-   'verköstigen, beköstigen', //  
-   'verkriechen (sich)',  //
-   'verkrümeln'  ,  //verkrümeln:
-   'vermasseln',  //vermasseln:
-   'verminen'  ,  //verminen:
-   'verpetzen'  , //verpetzen:
+   'verkneifen (sich), verkniffen', // *
+   'verknicken',  // verknicken: *
+   'verknoten',  // verknoten:  *
+   'verkommen',  // verkommen: *
+   'verkorkst, verkorken',  // *
+   'verköstigen, beköstigen', // *  
+   'verkriechen (sich)',  // *
+   'verkrümeln',  // verkrümeln:  *
+   'vermasseln',  // vermasseln: *
+   'verminen',  //verminen:
+   'verpetzen' , //verpetzen:
    'verpfeifen',  //verpfeifen:
    'verplappern (sich)', //
-   'verplempern' ,  //verplempern:
+   'verplempern',  //verplempern:
    'verrammeln',  //verrammeln:
-   'verrecken' ,  //verrecken:
+   'verrecken',  //verrecken:
    'verrenken (sich)', //
    'verrennen (sich)' , //
    'verrucht' ,  //verrucht:
@@ -55,6 +55,7 @@ const v = [
    'verschieben',  //verschieben:
    'verschimmeln' ,  //verschimmeln:
    'Verschlag' ,   //Verschlag:
+   'verschleißen', // verschleißen *
    'verschmieren' , //verschmieren:
    'verschnupft' ,  //verschnupft:
    'verschnüren',  //verschnüren:

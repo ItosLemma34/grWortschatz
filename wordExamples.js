@@ -1825,6 +1825,20 @@ durchdrehen: [
 ],
 //Estart  '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+entsorgen: [
+	'<strong>entsorgen</strong>:  dispose of sth., clean sth. up' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entsorgen"target="target1">entsorgen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entsorgen"target="target2">entsorgen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/entsorgen"target="target3">entsorgen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=entsorgen"target="target4">entsorgen</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Elisabeth Behnke war an sein (<i>Raths</i>) Telefon gegangen! Was hatte sie in seinem Zimmer zu suchen? Neugierige Kuh! Gut dass er den kleinen Koffer heute Morgen mitgenommen und <strong>entsorgt</strong> hatte.    (<i>Der nasse Fisch</i>, 237)',
+	'Seine (<i>Raths</i>) Neugier in Sachen Kardakow war noch nicht versiegt. In seinem Kopf tauchte das Bild auf, wie Alexej Kardakow und Swetlana Sorokina gemeinsam die Leiche von Boris <strong>entsorgten<strong>, nachdem sie ihm das Sorokin-Gold abgenommen hatten.    (<i>Der nasse Fisch</i>, 274)',
+//	'<u>Der stumme Tod</u>',
+//	'<u>Märzgefallene</u>',
+//	'<u>Lunapark</u>',
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 entwinden: [
 	'<strong>entwinden</strong>: wrest sth. from so.; extricate ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entwinden"target="target1">entwinden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entwinden"target="target2">entwinden</a>  ' +
@@ -2771,10 +2785,25 @@ Gerüst: [
 ],   
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Geplänkel: [
-	'das <strong>Geplänkel</strong>,-: &nbsp;banter; skirmish <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geplaenkel"target="target1">Geplänkel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geplaenkel#Gepl%C3%A4nkel"target="target2">Geplänkel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geplankel"target="target3">Geplänkel</a>  ' ,
+'Geplänkel, Vorgeplänkel': [
+	'das <strong>Geplänkel</strong>,-: banter, chit-chat; skirmish ' +
+	'<br>das <strong>Vorgeplänkel</strong>,-: preliminary chit-chat; skirmish ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vorgeplaenkel"target="target1">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gepl%C3%A4nkel"target="target2">Geplänkel</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vorgepl%C3%A4nkel"target="target3">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gepl%C3%A4nkel"target="target4">Geplänkel</a>  ' ,
 	'<u>Märzgefallene</u>',
-	'"So, Kommissar, dann legen Sie mal los", sagte Roddeck.... "Gut, legen wir los." Rath fühlte sich angriffslustig.... Also fragte er ohne Vor<strong>geplänkel</strong>. "Was haben Sie denn am einundzwanzigsten un zweiundzwansigsten Februar gemacht?" (<i>Märzgefallene</i>, 340-41)' ,
+	'"So, Kommissar, dann legen Sie mal los", sagte Roddeck.... "Gut, legen wir los." Rath fühlte sich angriffslustig.... Also fragte er ohne <strong>Vorgeplänkel</strong>. "Was haben Sie denn am einundzwanzigsten un zweiundzwansigsten Februar gemacht?" (<i>Märzgefallene</i>, 340-41)' ,
+	'<u>Lunapark</u>',
+	'Charly drückte die Klingel. Sie hatte damit gerechnet, Martha Reinhold anzutreffen, doch Helmut Reinhold öffnete selbst. Der Mann erkannte sie sofort, obwohl sie sich nur ein einziges Mal gesehen hatten. Womöglich hatte Alex ihn auch vorgewarnt, jedenfalls bat er sie ohne langes <strong>Vorgeplänkel</strong> in die Wohnung, nachdem er einen kurzen Blick ins Treppenhaus geworfen hatte.  (<i>Lunapark</i>, 100)' ,
+],
+'Vorgeplänkel, Geplänkel': [
+	'das <strong>Geplänkel</strong>,-: banter, chit-chat; skirmish ' +
+	'<br>das <strong>Vorgeplänkel</strong>,-: preliminary chit-chat; skirmish ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vorgeplaenkel"target="target1">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gepl%C3%A4nkel"target="target2">Geplänkel</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vorgepl%C3%A4nkel"target="target3">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gepl%C3%A4nkel"target="target4">Geplänkel</a>  ' ,
+	'<u>Märzgefallene</u>',
+	'"So, Kommissar, dann legen Sie mal los", sagte Roddeck.... "Gut, legen wir los." Rath fühlte sich angriffslustig.... Also fragte er ohne <strong>Vorgeplänkel</strong>. "Was haben Sie denn am einundzwanzigsten un zweiundzwansigsten Februar gemacht?" (<i>Märzgefallene</i>, 340-41)' ,
+	'<u>Lunapark</u>',
+	'Charly drückte die Klingel. Sie hatte damit gerechnet, Martha Reinhold anzutreffen, doch Helmut Reinhold öffnete selbst. Der Mann erkannte sie sofort, obwohl sie sich nur ein einziges Mal gesehen hatten. Womöglich hatte Alex ihn auch vorgewarnt, jedenfalls bat er sie ohne langes <strong>Vorgeplänkel</strong> in die Wohnung, nachdem er einen kurzen Blick ins Treppenhaus geworfen hatte.  (<i>Lunapark</i>, 100)' ,
 ],
 geschliffen: [
 	'<strong>geschliffen</strong>:  &nbsp;polished, refined &nbsp;&nbsp;&nbsp;die <strong>Geschliffenheit</strong>,-<strong>en</strong>: &nbsp;refinement, polish <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geschliffen_perfekt_scharf"target="target1">geschliffen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschliffenheit"target="target2">Geschliffenheit</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschliffen"target="target3">geschliffen</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschliffenheit"target="target4">Geschliffenheit</a>     ' ,
@@ -8039,7 +8068,9 @@ verschieben: [
 //	'<u>Märzgefallene</u>',
 ],
 'verplappern (sich)': [  
-	'<strong>verplappern (sich)</strong>: blab <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verplappern"target=target1">verplappern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verplappern"target="target2">verplappern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verplappern"target="target3">verplappern</a> ' ,
+	'<strong>sich verplappern</strong>: blab  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verplappern"target=target1">verplappern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verplappern"target=target2">verplappern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verplappern"target="target3">verplappern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verplappern"target="target4">verplappern</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Warum wusste Marlow von dem Gold? Zufall? Hatte Kardakow <strong>sich verplappert</strong>? Oder hatte er den Unterweltkönig bewusst eingespannt?  (<i>Der nasse Fisch</i>, 211)',
 	'Rath stieß Wolter an und deutete verstohlen auf den Chef (<i>Lanke</i>). "Jetzt wundert mich auch nicht mehr, dass wir Lanke nicht in einem der Bumslokale erwischt haben", flüsterte er, "der wusste Bescheid." <i>Wolter</i>: "Tja, da hab ich <strong>mich</strong> wohl <strong>verplappert</strong>. Kann passieren, wenn der Chef einen zu Hause anruft." (<i>Der nasse Fisch</i>, 257)',
@@ -8109,12 +8140,14 @@ verrammeln: [
 	'Fritze führte ihn (<i>Rath</i>) zu einem alten, stillgelegten Kino, das entweder die Wirtschaftskrise oder den Tonfilm nicht überlebt hatte, oder beides. Die komplette Eingangsfront war mit dicken Ketten und Vorhängeschlössern <strong>verrammelt</strong>. (<i>Märzgefallene</i>, 405)' ,
 ],
 verpfeifen: [  
-	'<strong>verpfeifen</strong>: &nbsp;snitch/rat on so. &nbsp;&nbsp;Britishism: &nbsp;grass on so. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verpfeifen"target="target1">verpfeifen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verpfeifen"target="target2">verpfeifen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verpfeifen"target="target3">verpfeifen</a>   ' ,
+	'<strong>verpfeifen</strong>: snitch/rat on so., grass on so. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verpfeifen"target="target1">verpfeifen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verpfeifen"target="target1">verpfeifen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verpfeifen"target="target3">verpfeifen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verpfeifen"target="target4">verpfeifen</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Wolter</i>: "Probieren wir gleich mal aus, ob du verstanden hast. Wenn du dich gut anstellst, dann musst du nicht mal mit aufs Präsidium." <i>der Pornokaiser</i>: "Ick hab noch nie eenen <strong>verpfiffen</strong>! Sucht euch eure Achtjroschenjungs woanders!"   (<i>Der nasse Fisch</i>, 29)' ,
 	'<i>der Pornokaiser (Krajewski)</i>: "Die Pille, \'n jeheimet Kellerlokal...Un da issen Hinterzimmer, da jeht\'s an den Abend rund, wa."... "Hört sich gut an", meinte er (<i>Rath</i>). "Aber wenn du mir Scheiß erzählt hast, gibt\'s Ärger. Wenn wir da am Samstag erscheinen und nichts finden, dann geh ich davon aus, dass du uns <strong>verpfiffen</strong> hast, ist dir das klar?"     (<i>Der nasse Fisch</i>, 178)' ,
 	'<u>Märzgefallene</u>',
-	'Jetzt erst fiel ihr (<i>Hannah</i>) ein, dass sie nicht allein war. Dass sie um Hilfe rufen konnte. "Fexlix!" Das Grinsen ließ sein (<i>Huckebeins</i>) vernarbtes Gesicht noch abschreckender aussehen. "Dein Felix ist längst über alle Berge. Was meinst du, wer dich <strong>verpfiffen</strong> hat?"   (<i>Märzgefallene</i>, 400)' ,
+	'Jetzt erst fiel ihr (<i>Hannah</i>) ein, dass sie nicht allein war. Dass sie um Hilfe rufen konnte. "Felix!" Das Grinsen ließ sein (<i>Huckebeins</i>) vernarbtes Gesicht noch abschreckender aussehen. "Dein Felix ist längst über alle Berge. Was meinst du, wer dich <strong>verpfiffen</strong> hat?"   (<i>Märzgefallene</i>, 400)' ,
 ],
 verflixt: [  
 	'<strong>verflixt</strong> (<strong>verdammt</strong>): &nbsp;damned   <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/verflixt" target="target1" >verflixt</a> ' ,
@@ -8378,20 +8411,26 @@ verkrümeln: [
 	'Sie (<i>Hannah</i>) wollte auf die Toiletten <strong>verkrümeln</strong>, doch er (<i>Huckebein</i>) schaute schon zu ihr herüber. Hatte er sie auch erkannt? (<i>Märzgefallene</i>, 254)' ,
 ],
 verminen: [
-	'<strong>verminen</strong>: &nbsp;to mine <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verminen"target="target1">verminen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verminen"target="target2">verminen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verminen"target="target3">verminen</a>    ',
+	'<strong>verminen</strong>: to mine ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verminen"target="target1">verminen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verminen"target="target2">verminen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verminen"target="target3">verminen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verminen"target="target4">verminen</a>    ',
 	'<u>Märzgefallene</u>',
 	'"Die Operation Alberich", sagte Roddeck. »Ich war seinerzeit mittendrin. Wir haben das Gebiet evakuiert, Straßen <strong>vermint</strong> und Schienen zerstört, ...Sprengfallen gelegt, Brunnen vergiftet, und was sonst noch alles nötig war."  (<i>Märzgefallene</i>, 133)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verpetzen: [
-	'jemanden <strong>verpetzen</strong>: &nbsp;squeal, tattle, grass on so. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verpetzen"target="target1">verpetzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verpetzen"target="target2">verpetzen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verpetzen"target="target3">verpetzen</a>  ' ,
+	'jemanden <strong>verpetzen</strong>: squeal, tattle, grass on so. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verpetzen"target="target1">verpetzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verpetzen"target="target2">verpetzen</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verpetzen"target="target3">verpetzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verpetzen"target="target4">verpetzen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Punkt fünf Uhr begann der Tanztee im Hotel Eden. Charly hatte sich in Schale geworfen. Die Gefahr, hier, in diesem piekfeinen Hotel in der Nähe des Zoos, einer Kollegin über den Weg zu laufen, die sie bei der Wieking <strong>verpetzen</strong> könnte, war nicht sonderlich groß.  (<i>Märzgefallene</i>, 305)' ,
 	'<i>Kriminalrätin Wieking</i>: "Sie (<i>Charly</i>) haben Ihre Kollegin mit der ganzen Arbeit alleingelassen, für Stunden, und stattdessen das Büro Ihres Verlobten aufgesucht! Weiß der Teufel, was Sie dort gemacht haben!"...Charly schwieg. Schuldbewusst. Hatte Karin van Almsick sie <strong>verpetzt</strong>? Vielleicht, aber auch in der Mordinspektion musste es irgendjemanden geben, der seinen Mund nicht halten konnte. (<i>Märzgefallene</i>, 527)' ,
 ],
 verplempern: [
-	'<strong>verplempern</strong>: &nbsp;waste, fritter away <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verplempern"target="target1">verplempern</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verplempern"target="target2">verplempern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verplempern"target="target3">verplempern</a> ',
+	'<strong>verplempern</strong>: waste, fritter away ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verplempern"target="target1">verplempern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verplempern"target="target2">verplempern</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verplempern"target="target3">verplempern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verplempern"target="target4">verplempern</a> ',
 	'<u>Der nasse Fisch</u>',
 	'Der freie Tag hatte ihm (<i>Rath</i>) gutgetan, auch wenn er ihn mit sinnlosen Nachforschungen <strong>verplempert</strong> hatte. (<i>Der nasse Fisch</i>, 50-51)' ,
 	'<u>Märzgefallene</u>',
@@ -9726,8 +9765,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  'einschägig'  ;   Nworte++;    Märzgefallene   117
  'entkorken'  ;   Nworte++;    Märzgefallene   282
  entsinnen Lunapark 87
- entsorgen Der nasse Fisch 237
- erstehen  Märzgefallene   436
+  erstehen  Märzgefallene   436
  Fahrtwind        Märzgefallene   519
  Feuergarbe   Der nasse Fisch 69
  Fensterladen  Lunapark 32

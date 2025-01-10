@@ -34,12 +34,12 @@ const v = [
    'verkriechen (sich)',  // *
    'verkrümeln',  // verkrümeln:  *
    'vermasseln',  // vermasseln: *
-   'verminen',  //verminen:
-   'verpetzen' , //verpetzen:
-   'verpfeifen',  //verpfeifen:
-   'verplappern (sich)', //
-   'verplempern',  //verplempern:
-   'verrammeln',  //verrammeln:
+   'verminen',  // verminen:  *
+   'verpetzen' , // verpetzen:  *
+   'verpfeifen',  // verpfeifen: *
+   'verplappern (sich)', //  *
+   'verplempern',  // verplempern: *
+   'verrammeln',  // verrammeln:
    'verrecken',  //verrecken:
    'verrenken (sich)', //
    'verrennen (sich)' , //
@@ -55,7 +55,7 @@ const v = [
    'verschieben',  //verschieben:
    'verschimmeln' ,  //verschimmeln:
    'Verschlag' ,   //Verschlag:
-   'verschleißen', // verschleißen *
+   'verschleißen', // verschleißen: *
    'verschmieren' , //verschmieren:
    'verschnupft' ,  //verschnupft:
    'verschnüren',  //verschnüren:
@@ -90,6 +90,7 @@ const v = [
    'vögeln',    //vögeln:
    'Vollwaise', // Vollwaise:
    'vorgaukeln' ,  //vorgaukeln:
+   'Vorgeplänkel, Geplänkel',  //  *  duplicated
    'Vorhängeschloss',  //Vorhängeschloss: *
    'vorliebnehmen',   //vorliebnehmen:
    'vorsintflutlich',  //vorsintflutlich:

@@ -18,7 +18,7 @@ const g = [
    'gelinde',   //gelinde:  
    'Gemurmel',  //Gemurmel:  
    'gepfeffert', //gepfeffert:  
-   'Geplänkel',  //Geplänkel:  
+   'Geplänkel, Vorgeplänkel',  // *  duplicated  
    'Geplapper',  //Geplapper: 
    'gequollen, quellen', // 
    'gerädert (sich wie g. fühlen)',  //

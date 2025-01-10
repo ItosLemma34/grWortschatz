@@ -25,7 +25,8 @@ const e = [
    'Empore',     //Empore:  
    'entbieten',  //entbieten:  
    'entgegenfiebern',  //entgegenfiebern:  
-   'entriegeln',  //entriegeln:  
+   'entriegeln',  //entriegeln: 
+   'entsorgen',  // entsorgen:  * 
    'entstellen',  //entstellen: 
    'entwinden',  // entwinden:  *
    'erdreisten (sich)',  // *  

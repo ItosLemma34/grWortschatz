@@ -39,30 +39,30 @@ const v = [
    'verpfeifen',  // verpfeifen: *
    'verplappern (sich)', //  *
    'verplempern',  // verplempern: *
-   'verrammeln',  // verrammeln:
-   'verrecken',  //verrecken:
-   'verrenken (sich)', //
-   'verrennen (sich)' , //
-   'verrucht' ,  //verrucht:
-   'verrufen', //verrufen:
-   'verrußt' , //verrußt:
-   'verrutschen' ,  //verrutschen:
-   'versacken',  // versacken:
-   'versauen',   //versauen:
-   'verschanzen (sich)' , //
-   'verscharren',    //verscharren:
-   'verscherzen (sich)',  //
-   'verschieben',  //verschieben:
-   'verschimmeln' ,  //verschimmeln:
-   'Verschlag' ,   //Verschlag:
+   'verrammeln',  // verrammeln:  *
+   'verrecken',  // verrecken:  *
+   'verrenken (sich)', //  *
+   'verrennen (sich)' , //  *
+   'verrucht' ,  // verrucht:  *
+   'verrufen', // verrufen:  *
+   'verrußt' , // verrußt:  *  duplicate if Ruß or verrußen found
+   'verrutschen' ,  // verrutschen:  *
+   'versacken',  // versacken:  *
+   'versauen',   // versauen:  *
+   'verschanzen (sich)' , //  *
+   'verscharren',    // verscharren: *
+   'verscherzen (sich)',  //  *
+   'verschieben',  // verschieben:  *
+   'verschimmeln' ,  // verschimmeln:  *
+   'Verschlag' ,   // Verschlag:  *
    'verschleißen', // verschleißen: *
-   'verschmieren' , //verschmieren:
-   'verschnupft' ,  //verschnupft:
-   'verschnüren',  //verschnüren:
-   'verschollen' , //verschollen:
-   'verschorft, verschorfen' ,  //
-   'verschrumpeln' ,  //verschrumpeln:
-   'verschütten' ,  //verschütten:
+   'verschmieren' , // verschmieren: *
+   'verschnupft' ,  // verschnupft:  *
+   'verschnüren',  // verschnüren:  *
+   'verschollen' , // verschollen:  *
+   'verschorft, verschorfen' ,  // *
+   'verschrumpeln' ,  // verschrumpeln:  *
+   'verschütten' ,  // verschütten:  *
    'versehen' ,  //versehen:
    'versehentlich',  //versehentlich:
 //   'versehren',   need more past examples

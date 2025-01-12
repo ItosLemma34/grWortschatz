@@ -68,6 +68,7 @@ const k = [
    'knebeln', //knebeln:
    'kneifen', // kneifen:
    'kneten', // kneten:
+   'kniff(e)lig', // 'kniff(e)lig'   *
    'Knirps', // Knirps:
    'knirschen', // knirschen  
    'knistern', // knistern:

@@ -468,11 +468,14 @@ abschüssig: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 abgebrüht: [
-	'<strong>abgebrüht</strong>: &nbsp;cool, callous, hardened &nbsp;&nbsp;<strong>abbrühen</strong>: boil out, scald <br> Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abbr%C3%BChen"target="target3">abbrühen</a>   ',
+	'<strong>abgebrüht</strong>: cool, callous, hardened <br><strong>abbrühen</strong>: scald, boil out ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a> &nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht"target="target2">abgebrüht</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abbr%C3%BChen"target="target3">abbrühen</a> ',
 	'<u>Der nasse Fisch</u>',  
 	'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hutkrempe in die Stirn gezogen. Rath musste ein Lachen unterdrücken. Jänicke gab sich die größte Mühe, wie ein <strong>abgebrühter</strong> Großstadtbulle auszusehen, doch die ewig roten Wangen verrieten den Jungen vom Lande.  (<i>Der nasse Fisch</i>, 17)'  ,
 	'Während die Menschen ins Kino drängten, stand Rath an den Schaukästen und betrachtete die Werbefotos. Gustav Fröhlich als Schupo und eine Frau, die ihn ein wenig an Charlotte erinnerte, nur dass die hier viel aufgedonnerter daherkam. Aber so war das eben im Film, da legten ja sogar die Männer Lippenstift auf. Selbst wenn sie einen Schupo spielten. Er musste schmunzeln, als er sich die <strong>abgebrühten</strong> Schupos vom Alex mit rot gemalten Lippen vorstellte.  (<i>Der nasse Fisch</i>, 181-82)' ,
 	'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine Meute Hunde wartete. Scharfe Hunde.. Dort wartete ein Trupp <strong>abgebrühter</strong> Uniformierter, die nicht lange fackelten, denn dorthin würden vor allem die fliehen, die sich in diesem Kellerlabyrinth bestens auskannten. Die harten Jungs.  (<i>Der nasse Fisch</i>, 242)' ,
+	'Meist blieb Gennat in seinem fast wie ein Wohnzimmer eingerichteten Büro sitzen, aß Kuchen und zog die Fäden. Er wusste über alle Ermittlungen Bescheid, besonders knifflige Verhöre übernahm er immer noch selbst, sein psychologischer Scharfsinn war berüchtigt. Er hatte schon die <strong>abgebrühtesten</strong> Kerle dazu gebracht, ihm ihr Herz auszuschütten. (<i>Der nasse Fisch</i>, 276)',
 ],
 ausquetschen: [
 	'<strong>ausquetschen</strong>: &nbsp;pump so. for information, shake so. down; squeeze sth. <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/ausquetschen"target="target1">ausquetschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausquetschen"target="target2">ausquetschen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausquetschen"target="target3">ausquetschen</a>   ',
@@ -3480,6 +3483,19 @@ johlen: [
 ],
 // Kstart '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+'kniff(e)lig': [
+	'<strong>knifflig</strong> (auch <strong>kniffelig</strong> ): tricky, delicate, difficult, intricate' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knifflig"target="target1">knifflig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knifflig"target="target2">knifflig</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knifflig"target="target3">knifflig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=knifflig"target="target4">knifflig</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Meist blieb Gennat in seinem fast wie ein Wohnzimmer eingerichteten Büro sitzen, aß Kuchen und zog die Fäden. Er wusste über alle Ermittlungen Bescheid, besonders <strong>knifflige</strong> Verhöre übernahm er immer noch selbst, sein psychologischer Scharfsinn war berüchtigt. Er hatte schon die abgebrühtesten Kerle dazu gebracht, ihm ihr Herz auszuschütten.    (<i>Der nasse Fisch</i>, 276)',
+//	'<u>Der stumme Tod</u>',
+//	'<u>Märzgefallene</u>',
+///	'<u>Lunapark</u>',
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 kräuseln: [
 	'<strong>kräuseln</strong>: ripple, curl, ruffle  ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kraeuseln"target="target1">kräuseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kr%C3%A4useln"target="target2">kräuseln</a>  ' +
@@ -7943,7 +7959,9 @@ verzückt: [
 	'"Ja", sagte sie (<i>Charly</i>).., "weil Herr Goebbels alle, die nicht seiner Meinung sind, für Nörgler hält. Früher konnte jeder sagen, was er denkt, ohne gleich schief angesehen zu werden. Heute machtst du dich ja schon verdächtig, wenn du beim Anblick eines Hakenkreuzes nicht gleich in <strong>verzückte</strong> Jubelstürme ausbrichst." (<i>Lunapark</i>, 77)' ,
 ],
 versacken: [  
-	'<strong>versacken</strong>: sink; stay out late boozing <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versacken"target=target1">versacken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versacken"target="target2">versacken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versacken"target="target3">versacken</a> ' ,
+	'<strong>versacken</strong>: sink, submerge; go downhill, stay out boozing ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versacken"target=target1">versacken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versacken"target=target2">versacken</a>  ' +
+	'<br>English Definitions:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versacken"target="target3">versacken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versacken"target="target4">versacken</a> ' ,
 	'<u>Lunapark</u>',
 	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den deselben Trott fallen wollen wie seinerzeit with Reihold Gräf, mit dem er viel zu oft im Nassen Dreieck <strong>versackt</strong> war.  (<i>Lunapark</i>, 69-70)' ,
 ],
@@ -7972,7 +7990,9 @@ vorliebnehmen: [
 // '<u>Der nasse Fisch</u>', Der nasse Fisch '<u>Der Stumme Tod</u>', '<u>Goldstein</u>', '<u>Die Ackte Vaterland</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verscharren: [  
-	'<strong>verscharren</strong>: &nbsp;bury <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verscharren"target="target1">verscharren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verscharren"target="target2">verscharren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verscharren"target="target3">verscharren</a> ' ,
+	'<strong>verscharren</strong>: bury  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verscharren"target="target1">verscharren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verscharren"target="target2">verscharren</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verscharren"target="target3">verscharren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verscharren"target="target4">verscharren</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Charly</i>: "..Ich hab auch genug zu tun. Trotzdem wäre ich jetzt gern bei dir." "Ich auch bei dir", echote er (<i>Gereon</i>) eine Antwort, von der er wusste, dass sie nicht stimmte... Von irgendeiner Besprechung hatte er ihr gestern etwas vorgelogen. Stattdessen hatte er sich mit einem Verbrecher getroffen und einen toten Menschen <strong>verscharrt</strong>. (<i>Der nasse Fisch</i>, 228)',
 	'<i>Engelbert Rath</i>: "Na, siehst du! Und was gibt\'s bei dir Neues?" <i>Gereon</i>: <i>Ich habe gestern einen Menschen <strong>verscharrt</strong>, aber sonst geht alles seinen gewohnten Gang</i>.  (<i>Der nasse Fisch</i>, 237)',
@@ -8062,7 +8082,9 @@ versiegen: [
 //	'<u>Märzgefallene</u>',
 ],
 verschieben: [  
-	'<strong>verschieben</strong>: &nbsp;delay, postpone, move sth. &nbsp;<i>also</i>: traffic in, black-market sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschieben"target=target1">verschieben</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschieben"target="target2">verschieben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschieben"target="target3">verschieben</a>    ' ,
+	'<strong>verschieben</strong>: delay, defer; black-market, move illegally ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschieben"target=target1">verschieben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschieben"target=target2">verschieben</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschieben"target="target3">verschieben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschieben"target="target4">verschieben</a>    ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>der dicke Kioskbetreiber, zu Rath</i>: "Glauben Sie nicht, dass es in Kreuzberg kein Verbrechen gibt, mein Freund!... Ich möchte zum Beispiel nicht wissen, wie viel Diebesgut Tag für Tag da hinten auf dem Anhalter Bahnhof <strong>verschoben</strong> wird. Fragen Sie mal einen Arbeiter, was für zwielichtige Gestalten auf einem Güterbahnhof so rumlaufen!"   (<i>Der nasse Fisch</i>, 115-16)' ,
 //	'<u>Märzgefallene</u>',
@@ -8099,7 +8121,9 @@ verknoten: [
 	'Die Frau (<i>Charly</i>) war schon an der Tür, als Hannah doch endlich den Satz sagen konnte, der ihr die ganze Zeit auf der <strong>verknoteten</strong> Zunge lag, die Frage, die auch Fritze ihr nicht hatte beantworten können. "Was wird eigentlich aus mir?" (<i>Märzgefallene</i>, 467)' ,
 ],
 'verscherzen (sich)': [  
-	'<strong>sich verscherzen</strong>: &nbsp;lose/forfeit sth., throw away one\’s chances, spoil things with sb. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verscherzen"target="target1">verscherzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verscherzen"target="target2">verscherzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verscherzen"target="target3">verscherzen</a>    ' ,
+	'<strong>sich verscherzen</strong>: lose/forfeit sth., spoil things with sb. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verscherzen"target="target1">verscherzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verscherzen"target="target2">verscherzen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verscherzen"target="target3">verscherzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verscherzen"target="target4">verscherzen</a>    ' ,
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'<i>von Levetzow</i>: "Herr Kommissar (<i>Rath</i>), dieser Fall ist Ihnen mit sofortiger Wirkung entzogen. Kriminalsekretär Gräf und Kommissaranwärter Steinke werden die Sache übernehmen." Ausgerechnet Gräf! Sollte es ihn (<i>Rath</i>) demütigen, von einem niederrangigen Beamten abgelöst zu werden? Der Ärger darüber half Rath, so zerknirscht zu tun, wie man es von ihm erwartete... Auch wenn er es <strong>sich</strong> mit dem neuen PP (<i>Polizeipräsident</i>) nun wohl ein für allemal <strong>verscherzt</strong> hatte. (<i>Märzgefallene</i>, 420-21)' ,
@@ -8112,7 +8136,9 @@ Ventil: [
 	'"Mein lieber Doktor (<i>Völcker</i>)!" Wolter wurde laut. Er wirkte wie ein Dampfkessel, bei dem sich die Sicherheits<strong>ventile</strong> öffneten und den Überdruck zu einem zivilisierten Zischen bändigten.  (<i>Der nasse Fisch</i>, 75)' ,
 ],
 versauen: [  
-	'<strong>versauen</strong>: &nbsp;ruin, screw up, make a mess of <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versauen"target="target1">versauen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/versauen"target="target2">versauen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versauen"target="target3">versauen</a>  ' ,
+	'<strong>versauen</strong>: ruin, mess up, botch things  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versauen"target="target1">versauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versauen"target="target2">versauen</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versauen"target="target3">versauen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versauen"target="target4">versauen</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'Von wegen: meine (<i>Böhms</i>) Schuld! Nein, es ist ganz allein seine Schuld, die Schuld eines unbekannten Mannes, den man aus dem Landwehrkanal gefischt hat. Er ist es, der uns (<i>Böhm, Charly</i>) den Abend <strong>versaut</strong> hat.(<i>Der nasse Fisch</i>, 62)' ,
 	'Wenigstens hatte er (<i>Rath</i>) bei Tietz am Alex einen neuen Anzug erstanden. Ein brauner Cheviotanzug für achtundsechzig Mark. Ein typischer Bullenanzug, nicht zu teuer, falls man sich das gute Stück im Dienst <strong>versaut</strong>.  (<i>Der nasse Fisch</i>, 236)', 
@@ -8135,7 +8161,9 @@ Vorhängeschloss: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verrammeln: [  
-	'<strong>verrammeln</strong>: &nbsp;to bar, barricade <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrammeln"target="target1">verrammeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.dict.cc/?s=verrammeln"target="target2">verrammeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verrammeln"target="target3">verrammeln</a> ' ,
+	'<strong>verrammeln</strong>: to bar, barricade ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrammeln"target="target1">verrammeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrammeln"target="target2">verrammeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=verrammeln"target="target3">verrammeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrammeln"target="target4">verrammeln</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Fritze führte ihn (<i>Rath</i>) zu einem alten, stillgelegten Kino, das entweder die Wirtschaftskrise oder den Tonfilm nicht überlebt hatte, oder beides. Die komplette Eingangsfront war mit dicken Ketten und Vorhängeschlössern <strong>verrammelt</strong>. (<i>Märzgefallene</i>, 405)' ,
 ],
@@ -8172,7 +8200,9 @@ verfrachten: [
 	'...der Kerl im Spiegel erinnerte an jemanden, der sich für einen Faschingsball als scheiß Pirat verkleidet hatte und das Kostüm schon unter Hut und Mantel trug. Oder an einen beschissenen Kriegs<strong>versehrten</strong>. War er deshalb heil durch den Krieg gekommen, um den Rest seines Lebens nun doch als Krüppel zu verbringen?  (<i>Märzgefallene</i>, 386)' ,
 ],
 verrufen: [  
-	'<strong>verrufen</strong>: &nbsp;disreputable, louche; &nbsp;&nbsp;die <strong>Verrufenheit</strong>,-<strong>en</strong>: &nbsp;disrepute <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrufen_beruechtigt_uebel_schlecht"target="target1">verrufen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verrufen"target="target2">verrufen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrufen"target="target3">verrufen</a>    ' ,
+	'<strong>verrufen</strong>: disreputable, louche  <br>die <strong>Verrufenheit</strong>,-<strong>en</strong>: disrepute ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrufen_beruechtigt_uebel_schlecht"target="target1">verrufen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrufen"target="target2">verrufen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verrufen"target="target3">verrufen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrufen"target="target4">verrufen</a>    ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Wolter</i>: "...Uns geht\'s doch nicht schlecht! Wir treiben uns beruftlich im Nachtleben der spannendsten Stadt der Welt herum. Und der <strong>verrufensten</strong>. Das hat doch was....."   (<i>Der nasse Fisch</i>, 32)' ,
 	'Das Viertel rund um den Schlesischen Bahnhof gehörte zu den <strong>verrufensten</strong> der Stadt. Schupos trauten sich nur in Kleingruppenstärke auf die Straße... Das Viertel war fest in der Hand des Verbrechens, die Polizei konnte da nicht viel ausrichten, sie überließ es den Ringvereinen, eine gewisse Ordnung aufrechtzuerhalten.     (<i>Der nasse Fisch</i>, 138)' ,
@@ -8186,6 +8216,7 @@ Verdeck: [
 	'Bei dem Wagen, der von dem Kran gerade behutsam auf den nassgetropften Asphalt der Möckernbrücke gesetzt wurde, handelte es sich um einen cremefarbenen Horch 350. Das <strong>Verdeck</strong> war offen. Am Steuer saß ein nasser, bleicher Mann.  (<i>Der nasse Fisch</i>, 57)' ,
 	'Nach dem langen, kalten Winter schien der Mai endlich angenehmere Temperaturen zu bringen. Rarh fuhr mit offenem <strong>Verdeck</strong> durch die Budaperster Straße und ließ sich den Wind um die Nase wehen.  (<i>Der nasse Fisch</i>, 136)' ,
 	'Er (<i>Gereon</i>) nahm die Touristenstrecke, chauffierte sie (<i>Charly</i>) am Schloss vorbei und dann über die Linden durchs Brandenburger Tor, vorbei an Reichstag und Siegessäule über die Spree. Sie fuhren mit offenem <strong>Verdeck</strong>, und er wäre vor Freude lieber geflogen als gefahren, wie er sie da neben sich sitzen sah, wie ihr das schwarze Haar ins Gesicht wehte und sie vor Vergnügen jauchzte. (<i>Der nasse Fisch</i>, 270)' ,
+	'Er zog den Schlüssel ab, nachdem er den Buick direkt vor der Haustür geparkt hatte, und klappte das <strong>Verdeck<strong> zu. In den vergangenen Nächten hatte es so häufig Gewitter gegeben, man konnte nie wissen. (<i>Der nasse Fisch</i>, 274)' ,
 	'<u>Märzgefallene</u>',
 	'Es war schon weit nach Mitternacht, als Rah den Buick in der Einmündung eines Feldweges am Straßenrand parkte und seiner Müdigkeit endlich nachgab... Kaum war er eingenickt, so kam es ihm jedenfalls vor, weckte ihn ein Wolkenbruch der aufs <strong>Verdeck</strong> und gegen die Windschutzscheibe trommelte.  (<i>Märzgefallene</i>, 439)' ,
 ],
@@ -8204,9 +8235,11 @@ vögeln: [
 	'Der falsche Wilhelm zwo brauchte keine Sekunde, um die Situation zu erfassen. Mit einem Satz war er über das Geländer und fast eine halbe Etage hinuntergesprungen.... Rath setzte hinterher. Instinktiv. Er war Blulle, er jagte Verbrecher. Und derzeit eben solche, deren Verbrechen darin bestand, einem abgedankten Kaiser ähnlich zu sehen und sich beim <strong>Vögeln</strong> fotografieren zu lassen.  (<i>Der nasse Fisch</i>, 21)' ,
 ],
 'verrenken (sich)': [
-	'<strong>verrenken (sich)</strong>: &nbsp;contort, wrench, sprain <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrenken"target="target1">verrenken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verrenken"target="target2">verrenken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrenken"target="target3">verrenken</a>    ' ,
+	'<strong>verrenken (sich)</strong>: contort, wrench, sprain ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrenken"target="target1">verrenken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrenken"target="target2">verrenken</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verrenken"target="target3">verrenken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrenken"target="target4">verrenken</a>    ' ,
 	'<u>Der nasse Fisch</u>',
-	'Niemand in der illustren Runde hatte bemerkt, dass gut ein Dutzend Polizisten mit gezogenen Pistolen das Atelier betreten hatte. Die jungen Bereitschaftspolizisten <strong>verrenkten sich</strong> die Hälse, um genug sehen zu können, und schoben weiter in den Raum. Es shepperte, als ein Scheinwerfer in dem Gedränge zu Boden ging.  (<i>Der nasse Fisch</i>, 19)' ,
+	'Niemand in der illustren Runde hatte bemerkt, dass gut ein Dutzend Polizisten mit gezogenen Pistolen das Atelier betreten hatte. Die jungen Bereitschaftspolizisten <strong>verrenkten sich</strong> die Hälse, um genug sehen zu können, und schoben weiter in den Raum. Es schepperte, als ein Scheinwerfer in dem Gedränge zu Boden ging.  (<i>Der nasse Fisch</i>, 19)' ,
 	'<u>Lunapark</u>',
 	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und <strong>verrenkt</strong>, als habe man dem armen Kerl sämtliche Knochen gebrochen.   (<i>Lunapark</i>, 17)' ,
 	'Die Spurensicherer hielten in ihrer Arbeit inne, Czerwinski blickte von der Kamera auf, Lange ließ seinen Notizblock sinken, und auch AEG-Arbeiter Egerland, ihr bislang einziger Zeuge, <strong>verrenkte sich</strong> den Hals, um zu sehen, wer da angekommen war.   (<i>Lunapark</i>, 22)' ,        
@@ -8440,19 +8473,23 @@ verplempern: [
 	'Und dann dachte sie (<i>Charly</i>) an Karin van Almsick, die sie vorhin in der Burg mit einer fadenscheinigen Ausrede zurückgelassen hatte, und wusste wieder warum sie das tat: Um nicht den ganzen Tag mit sinnlosem Stumpfsinn zu <strong>verplempern</strong>. (<i>Märzgefallene</i>, 335)',
 ],
 verrecken: [
-	'<strong>verrecken</strong>: &nbsp;die a miserable death <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrecken"target="target1">verrecken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrecken"target="target2">verrecken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrecken"target="target3">verrecken</a> ' ,
+	'<strong>verrecken</strong>: die a miserable death ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrecken"target="target1">verrecken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrecken"target="target2">verrecken</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrecken"target="target3">verrecken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrecken"target="target4">verrecken</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Die Fotos zeigten allesamt dasselbe. Eine nackte Ziegelwand, eine Brandmauer, wie sie zu Hunderten im Wedding...oder anderen Arbeitergegenden zu sehen waren. Und quer darüber hatte jemand mit weißer Farbe gepinselt: <i>Deutschland erwache, Juda <strong>verrecke</strong></i>! (<i>Märzgefallene</i>, 29)' ,
 	'Einmal soll er (<i>Engel</i>) einen französischen Soldaten, der, nach einem Bauchschuß zusammengebrochen, sich im Draht kurz vor unseren Linien verfangen hatte..., mit einem aufgesetzten Kopfschuß ruhiggestellt haben.... (Z)urück im Unterstand erzählte Engel, er habe das nur getan, damit der Franzose durch sein Wimmern und sein Rufen die Moral der Einheit nicht untergrabe, ansonsten hätte er seinetwegen jämmerlich <strong>verrecken</strong> können.  (<i>Märzgefallene</i>, 168-69)' ,
 	'<i>Rath</i>: "Wurde denn später noch mal nach Engel gesucht?" <i>Grimberg</i>: "Das war nicht mehr möglich.... Bis Kriegsende war das Gebiet nicht mehr in deutscher Hand. Was meinen Sie, wie viele unidentifizierbare Leichen... auf den Schlachtfeldern zurückgeblieben sind? Oder Verwundete, die über Tage qualvoll <strong>verreck</strong> sind, weil niemand sie holen konnte?"  (<i>Märzgefallene</i>, 279)' ,                   
-	'Und endlich konnte Roddeck die Geräusche hören, auf die er wartete: Blasmusik vn ferne, Sprechchöre, die durch die Nacht hallten. <i>Deutschland erwache, Juda <strong>errecke</strong></i>. (<i>Märzgefallene</i>, 554)' ,
+	'Und endlich konnte Roddeck die Geräusche hören, auf die er wartete: Blasmusik vn ferne, Sprechchöre, die durch die Nacht hallten. <i>Deutschland erwache, Juda <strong>verrecke</strong></i>. (<i>Märzgefallene</i>, 554)' ,
 	'<u>Lunapark</u>',
 	'<i>Helmut Reinhold</i>: "Ich war Sozialdemokrat. Meinen Sie (<i>Charly</i>), so einen weihen die Kommunisten in ihre Widerstandspläne ein? Für die bin ich immer noch ein Sozialfaschist, auch wenn die mit unsereinem in denselben SA-Kellerlöchern <strong>verrecken</strong>."  (<i>Lunapark</i>, 103-104)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'verrennen (sich)': [
-	'<strong>sich verrennen</strong>: &nbsp;get on the wrong track, go astray <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrennen"target="target1">verrennen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verrennen"target="target2">verrennen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verrennen"target="target3">verrennen</a> ' ,
+	'<strong>sich verrennen</strong>: get on the wrong track, go astray ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrennen"target="target1">verrennen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrennen"target="target2">verrennen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrennen"target="target3">verrennen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrennen"target="target4">verrennen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Wenn der Kollege Böhm <strong>sich</strong> in irgendetwas <strong>verrennt</strong>", fuhr die Wieking fort, "dann ist das seine Sache. Aber ich möchte nicht, dass er meine Beamtinnen da hineinzieht." (<i>Märzgefallene</i>, 91)' ,
 ],
@@ -8465,38 +8502,52 @@ verstohlen: [
 //	'<u>Märzgefallene</u>',
 ],
 verrucht: [
-	'<strong>verrucht</strong>: &nbsp;wicked, infamous <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrucht"target="target1">verrucht</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrucht"target="target2">verrucht</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verrucht"target="target3">verrucht</a>   ',
+	'<strong>verrucht</strong>: wicked, debauched, disreputable  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrucht"target="target1">verrucht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrucht"target="target2">verrucht</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verrucht"target="target3">verrucht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrucht"target="target4">verrucht</a>   ',
 	'<u>Der nasse Fisch</u>',
 	'Den meisten Leuten, die sich im Foyer betranken, konnte man ansehen, dass sie Besucher aus dem Westen waren. Obwohl das <i>Plaza</i> eine harmlose Insel inmitten einer Gegend <strong>verruchter</strong> Lokale war, schauten sie sich immer wieder verstohlen um, als erwarteten sie jeden Augenblick eine Messerstecherei, mindestens aber eine Schlägerei oder eine Polizeirazzia. Dieses Volksvarieté hatte allerdings ganz und gar nichts <strong>Verruchtes</strong>. Eine Enttäuschung.  (<i>Der nasse Fisch</i>, 198)' ,
 	'<u>Märzgefallene</u>', 
 	'...so ein schicker Zwirn gehörte zur Ausstattung der Türsteher, die darüber wachten, dass niemand Unbefugtes den Laden betrat, den <strong>verruchtesten</strong> und damit auch gewinnbringendsten illegalen Nachtklub, den die Nordpiraten in dieser Stadt unterhielten. (<i>Märzgefallene</i>, 112)' ,
 ],
 verrußt: [
-	'<strong>verrußt</strong>: &nbsp;sooty, grimy; &nbsp;&nbsp;<strong>verrußen</strong>: &nbsp;get sooty <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verruszen"target="target1">verrußen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/verru%C3%9Fen"target="target2">verrußen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrussen"target="target3">verrußen</a>   ',
+	'<strong>verrußt</strong>: sooty, grimy ' +
+	'<br>der <strong>Ruß</strong>,-<strong>e</strong>: grime, soot <br><strong>verrußen</strong>: become sooty  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verruszen"target="target1">verrußen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verru%C3%9Fen"target="target2">verrußen</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrussen"target="target3">verrußen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verru%C3%9Fen"target="target4">verrußen</a>   ',
 	'<u>Märzgefallene</u>',
 	'Auf dem Weg nach Dalldorf war sie (<i>Charly</i>)...am Reichstag vorbeigefahren, um sich die Sache mal bei Tag anzuschauen. Immer noch lag Brandgeruch in der Luft, die kitschige wilhelminische Glaskuppel hatte sich in ein kahles, schwarz <strong>verrußtes</strong> Stahlgerippe verwandelt. (<i>Märzgefallene</i>, 78)',
 ],
 verrutschen: [
-	'<strong>verrutschen</strong>: &nbsp;shift, slip to one side, get out of place <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrutschen"target="target1">verrutschen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verrutschen"target="target2">verrutschen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verrutschen"target="target3">verrutschen</a>  ' ,
+	'<strong>verrutschen</strong>: shift, slip to one side, get out of place ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrutschen"target="target1">verrutschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrutschen"target="target2">verrutschen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=verrutschen"target="target3">verrutschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrutschen"target="target4">verrutschen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Nun konnte er (<i>Rath</i>) das missmutige Gesicht des Schupos verstehen. Er musste sich zusammenreißen, damit ihm die eigenen Gesichtszüge nicht <strong>verrutschten</strong>. Deswegen hatte er seinen Karnevalsurlaub abbrechen und nach Berlin zurückkehren müssen? Für so eine – im wahrsten Sinne des Wortes – Scheißarbeit?  (<i>Märzgefallene</i>, 93)' ,
+	'Rath zögerte einen Augenblick, holte noch einmal tief Luft, und dann öffnete er, bemüht, einen möglichst gleichgültigen Gesichtsausdruck zu machen. Den er allerdings nicht lange durchhielt. Eher war es so, dass ihm die Mimik ein wenig <strong>verrutschte</strong>. Da draußen stand ein Junge. Fritze. (<i>Märzgefallene</i>, 402)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'verschanzen (sich)': [
-	'<strong>verschanzen</strong>: fortify, entrench &nbsp;&nbsp;<strong>sich verschanzen</strong>: barricade oneself, take shelter <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschanzen"target="target1">verschanzen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschanzen"target="target2">verschanzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschanzen"target="target3">verschanzen</a>   ' ,
+	'<strong>verschanzen</strong>: fortify, entrench <br><strong>sich verschanzen</strong>: barricade oneself, take shelter ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschanzen"target="target1">verschanzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschanzen"target="target2">verschanzen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschanzen"target="target3">verschanzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschanzen"target="target4">verschanzen</a>   ' ,
 	'<u>Märzgefallene</u>',
 	'Wir werden zu den Letzten gehören, die das Alberich-Gebiet verlassen. Vier komplette Armeen haben <strong>sich</strong> bereits, vom Feinde unbemerkt, von den vordersten Frontlinien zurückgezogen und im unbezwingbaren Stahlbeton der Siegfried-Stellung <strong>verschanzt</strong>. (<i>Märzgefallene</i>, 160)' ,
 ],
 verschimmeln: [
-	'<strong>verschimmeln</strong>: get moldy, mildewed &nbsp;&nbsp;der <strong>Schimmel</strong>: mold, mildew <br>Deutsche Definition: <a href="https://www.duden.de/rechtschreibung/verschimmeln"target="target1">verschimmeln</a><br>English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschimmeln"target="target2">verschimmeln</a>&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschimmeln"target="target3">verschimmeln</a>   ',
+	'<strong>verschimmeln</strong>: get moldy, mildewed <br>der <strong>Schimmel</strong>: mold, mildew ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/verschimmeln"target="target1">verschimmeln</a> &nbsp;<a href="https://www.dwds.de/wb/verschimmeln"target="target2">verschimmeln</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschimmeln"target="target3">verschimmeln</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschimmeln"target="target4">verschimmeln</a> ',
 	'<u>Märzgefallene</u>',
 	'Vor allem im Norden und Osten Berlins gab es das: arme Würstchen (<i>gemeint: poor souls</i>), die ihre armseligen, feucht <strong>verschimmelten</strong> Kellerwohnungen an noch ärmere Würstchen nächteweise vermieteten, um die Miete Woche für Woche zusammenkratzen zu können.... (<i>Märzgefallene</i>, 122)' ,
 	'<u>Lunapark</u>',
 	'Doktor Karthaus schaute auf, als Rath den Obduktionssaal betrat. Auf dem Marmortisch lag die bereits in Verwesung begriffene Leiche einer alten Frau, der er gerade den Brustkorb geöffnet hatte. Es sah aus, als habe man ein übergroßes Hänchen tranchiert. Ein graues <strong>verschimmeltes</strong> Hänchen.   (<i>Lunapark</i>, 105-06)' ,
 ],
 Verschlag: [
-	'der <strong>Verschlag</strong>,-<strong>läge</strong>: shed, schack, crate; partitioned area <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target1">Verschlag</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschlag?q=Verschlag"target="target2">Verschlag</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target3">Verschlag</a> ' ,
+	'der <strong>Verschlag</strong>,-<strong>läge</strong>: shed, schack, crate; partitioned area ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target1">Verschlag</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Verschlag"target="target2">Verschlag</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschlag?q=Verschlag"target="target3">Verschlag</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target4">Verschlag</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Rath zuckte mit den Schultern und trat... in den Keller seines Vormieters.... Der <strong>Verschlag</strong> war dunkel. Von der schummrigen 40-Watt-Birne der Kellerlampe drang kaum Licht hinein.  (<i>Der nasse Fisch</i>, 90)' ,
 	'<u>Märzgefallene</u>',
@@ -8505,39 +8556,57 @@ Verschlag: [
 	'Rath ließ den Gerichtsmediziner mit der Frauenleiche allein und ging zu dessen Schreibtisch, der sich in einem kleinen Glas<strong>verschlag</strong> befand.  (<i>Lunapark</i>, 106)' ,
 ],
 verschmieren: [
-	'<strong>verschmieren</strong>: smear, smudge <br>Deutsche Definition:&nbsp;<a href="https://www.duden.de/rechtschreibung/verschmieren"target="target1">verschmieren</a>&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschmieren"target="target2">verschmieren</a>&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschmieren"target="target3">verschmieren</a>  ',
+	'<strong>verschmieren</strong>: smear, smudge ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/verschmieren"target="target1">verschmieren</a> &nbsp;<a href="https://www.dwds.de/wb/verschmieren"target="target2">verschmieren</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschmieren"target="target3">verschmieren</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschmieren"target="target4">verschmieren</a>  ',
+	'<u>Der nasse Fisch</u>',
+	'"Hau ab, Bulle", sagte er (<i>der Pornokaiser</i>). Seine Stimme klang nervös und schrill. Alles andere als majestätisch. Seine Augen hatten etwas Wahnsinniges, ein Eindruck, den die <strong>verschmierte</strong> Theaterschminke noch verstärkte.   (<i>Der nasse Fisch </i>, 25)' ,
 	'<u>Märzgefallene</u>',
+	'Der Doktor (<i>Schwartz</i>) fluchte. Eine der Tauben, die oben in den Stahlstreben gurrten, hatte einen hellen Fleck auf seinem dunklen Wintermantel hinterlassen. Schwartz zog ein blütenweißes Taschentuch hervor und versuchte, die Sauerei wieder wegzutupfen. Was ihm eher schlecht gelang, der Fleck war nun ein weiß <strong>verschmierter</strong> Streifen auf seiner linken Schulter.  (<i>Märzgefallene</i>, 17)' ,
+	'Das Bündel auf dem Sofa seufzte und drehte sich auf die andere Seite. Eine junge Frau, in deren Gesicht schwarze und weiße Schminke zu einem abstrakten Kunstwerk <strong>verschmiert</strong> war.. Rath schielte zu dem <strong>verschmierten</strong> Gesicht hinüber.. Blond und drall, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte?  (<i>Märzgefallene</i>, 71-72)' ,
+	'"Was ist das?", fragte Rath, als sie sich setzte. Die <strong>verschmierte</strong> Karnevalsschminke war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)' ,
 	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blutschlieren bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige Murmel, bis sein Verstand bereit war, die Wahrheit zu akzeptieren. Der Sehnerv hing an seinem blut<strong>verschmierten</strong> Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verschnupft: [
-	'<strong>verschnupft</strong>: annoyed, irritated, peeved; have a cold <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnupft"target="target1">verschnupft</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschnupft"target="target2">verschnupft</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschnupft"target="target3">verschnupft</a>  ' ,
+	'<strong>verschnupft</strong>: annoyed, irritated; have a cold ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnupft"target="target1">verschnupft</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschnupfen?o=verschnupft"target="target2">verschnupft</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschnupft"target="target3">verschnupft</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschnupft"target="target4">verschnupft</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Kann man denn davon leben? Vom Tanzen, meine ich?" Diesmal schaffte Bertrand es nicht einmal, säuerlich zu lächeln. Er guckte reichlich <strong>verschnupft</strong>. "Ich tanze mit Ihnen, weil ich nichts auf der Welt mehr liebe als tanzen", sagte er. (<i>Märzgefallene</i>, 307)' ,
 	'<u>Lunapark</u>',
 	'<i>Doktor Karthaus</i>: "Könnten Sie (<i>Rath</i>) es einrichten, in die Hannoversche Straße zu kommen? So gegen elf?" <i>Rath</i>: "Sind Sie etwa schon durch mit dem toten SA-Mann?" <i>Karthaus</i>: "Sie wissen doch, dass solche Fälle Vorrang haben." <i>Rath</i>: "Klar, wenn einem die Staatspolizei im Nacken sitzt. Haben Sie sich selbst zuzuschreiben, Doktor." "Mir sitzt niemand im Nacken." Karthaus klang <strong>verschnupft</strong>.  (<i>Lunapark</i>, 88)' ,
 ],
 verschollen: [
-	'<strong>verschollen</strong>: missing, lost, forgotten; &nbsp;Kafkas erster Roman: <strong>Der Verschollene</strong> <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschollen"target="target1">verschollen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschollen"target="target2">verschollen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschollen"target="target3">verschollen</a>    ' ,
+	'<strong>verschollen</strong>: missing, lost, forgotten <br>Kafkas erster Roman: <strong>Der Verschollene</strong> ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschollen"target="target1">verschollen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschollen"target="target2">verschollen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschollen"target="target3">verschollen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschollen"target="target4">verschollen</a>    ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Rath</i>: "..Mir hat er (<i>General Seegers</i>) was von einem russischen Goldschatz erzählt, der in Berlin <strong>verschollen</strong> ist und den sich angeblich die Kommis unter den Nagel reißen wollen..."  (<i>Der nasse Fisch</i>, 174)' ,
 	'<u>Märzgefallene</u>',
 	'Das würde tatsächlich ein wenig den Zeitdruck von den Ermittlungen nehmen. So haben wir nur eine gute Woche, um nach diesem <strong>verschollenen</strong> Hauptmann zu fahnden. (<i>Märzgefallene</i>, 146)' ,
-	'Leutnant Achim von Roddeck litt nicht under Verfolgungswahn, seine Befürchtungen trafen zu. Da war jemand unterwegs, der die Männer aus Roddecks alter Truppe meuchelte.... Ob dieser Jemand wirklich der <strong>verschollene</strong> Hauptmann war?   (<i>Märzgefallene</i>, 268)' ,                  
+	'Leutnant Achim von Roddeck litt nicht unter Verfolgungswahn, seine Befürchtungen trafen zu. Da war jemand unterwegs, der die Männer aus Roddecks alter Truppe meuchelte.... Ob dieser Jemand wirklich der <strong>verschollene</strong> Hauptmann war?   (<i>Märzgefallene</i>, 268)' ,                  
 ],
 'verschorft, verschorfen': [
-	'<strong>verschorft</strong>: crusted-over, covered with a scab &nbsp;&nbsp;<strong>verschorfen</strong>: form a scab <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschorfen"target="target1">verschorfen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschorfen"target="target2">verschorfen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/verschorfen"target="target3">verschorfen</a>  ',
+	'<br>der <strong>Schorf</strong>,-<strong>e</strong>: scab &nbsp;<strong>verschorfen</strong>: form a scab ' +
+	'<br><strong>verschorft</strong>: crusted-over, covered with a scab ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschorfen"target="target1">verschorfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschorfen"target="target2">verschorfen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschorfen"target="target3">verschorfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschorfen"target="target4">verschorfen</a>  ',
 	'<u>Märzgefallene</u>',
 	'Linus Meifert sah deutlich weniger gruselig aus als der von Brandwunden entstellte Heinrich Wosniak, außerdem besser genährt. Rath beugte sich hinunter. Das linke Nasenloch des Toten war eine einzige <strong>verschorfte</strong> Wunde. (<i>Märzgefallene</i>, 267)' ,
 ],
 verschrumpeln: [
-	'<strong>verschrumpeln</strong>: &nbsp;shrivel <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschrumpeln"target="target1">verschrumpeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschrumpeln"target="target2">verschrumpeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verschrumpeln"target="target3">verschrumpeln</a>    ' ,
+	'<strong>verschrumpeln</strong>: shrivel ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschrumpeln"target="target1">verschrumpeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschrumpeln"target="target2">verschrumpeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschrumpeln"target="target3">verschrumpeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verschrumpeln"target="target4">verschrumpeln</a>    ' ,
 	'<u>Märzgefallene</u>',
 	'Seine rechte Gesichtshälfte war vernarbt und erinnerte auf unappetitliche Weise tatsächlich an eine <strong>verschrumpelte</strong> Kartoffel.  (<i>Märzgefallene</i>, 15) ' ,
 ],
 verschütten: [
-	'<strong>verschütten</strong>: &nbsp;spill; bury (person: alive) &nbsp;&nbsp;&nbsp;<strong>schütten</strong>: &nbsp;pour, dump, spill <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/verschuetten"target="target1">verschütten</a> &nbsp;&nbsp;&nbsp;&nbsp;English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschutten?q=versch%C3%BCtten"target="target2">verschütten</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschutten"target="target3">verschütten</a>',
+	'<strong>schütten</strong>: pour, dump, spill <br><strong>verschütten</strong>: spill; bury (alive) ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/verschuetten"target="target1">verschütten</a> &nbsp;<a href="https://www.dwds.de/wb/versch%C3%BCtten"target="target2">verschütten</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschutten?q=versch%C3%BCtten"target="target3">verschütten</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschutten"target="target4">verschütten</a>',
 	'<u>Märzgefallene</u>',
 	'Alles sei eingestürzt, berichteten sie, die Trümmer des Unterstands hätten Engel völlig unter sich begraben. Thelen habe eine Schaufel aus dem Wagen geholt, um die Stelle, an der er seinen Hauptmann <strong>verschüttet</strong> vermutete, freizuschaufeln, dann aber habe englische Artillerie eingesetz und sie hätten abbrechen müssen. (<i>Märzgefallene</i>, 273)' ,
 	'<i>Charly dachte</i>: Was Hannah beim Anblick des toten Heinrich Wosniak empfunden haben mochte? Und beim Anblick ihres unversehrten Vaters, einem Blick in Zeiten, in denen alles noch in Ordnung war? Charly war keine Psychologin, aber irgendwelche <strong>verschütteten</strong> Errinnerungen mussten so nach oben gespült worden sein, mussten den Anfall ausgelöst haben, den Charly erlebt hatte.     (<i>Märzgefallene</i>, 290)' ,               
@@ -8668,9 +8737,11 @@ vorgaukeln: [
 	'Sein Roman...war recht eigentlich eine Maßnahme, mit der er (<i>Berthold Weinert</i>) sich selbst, seiner Schreibmaschine und vor allem seiner Zimmerwirtin <strong>vorgaukelte</strong>, immer noch genug zu tun zu haben. (<i>Märzgefallene</i>, 54)' ,
 ],
 verschnüren: [
-	'<strong>verschnüren</strong>: tie, lash sth.<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnueren"target="target1">verschnüren</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschnuren"target="target2">verschnüren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verschn%C3%BCren"target="target3">verschnüren</a>',
+	'<strong>verschnüren</strong>: tie, lash sth. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnueren"target="target1">verschnüren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschn%C3%BCren"target="target2">verschnüren</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschnuren"target="target3">verschnüren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verschn%C3%BCren"target="target4">verschnüren</a>',
 	'<u>Der nasse Fisch</u>',
-	'Doch wenn der Kerl (<i>Wilhelm zwo, der Pornokaiser</i>) noch hier oben rumturnte, dann wäre es <i>seine</i> Aufgabe, die Ratte zu <strong>verschnüren</strong>, die Aufgabe von Gereon Rath, Höhenangst hin oder her. (<i>Der nasse Fisch</i>, 25)' ,
+	'Doch wenn der Kerl (<i>der Pornokaiser</i>) noch hier oben rumturnte, dann wäre es <i>seine</i> Aufgabe, die Ratte zu <strong>verschnüren</strong>, die Aufgabe von Gereon Rath, Höhenangst hin oder her. (<i>Der nasse Fisch</i>, 25)' ,
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9765,7 +9836,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  'einschägig'  ;   Nworte++;    Märzgefallene   117
  'entkorken'  ;   Nworte++;    Märzgefallene   282
  entsinnen Lunapark 87
-  erstehen  Märzgefallene   436
+ erstehen  Märzgefallene   436
  Fahrtwind        Märzgefallene   519
  Feuergarbe   Der nasse Fisch 69
  Fensterladen  Lunapark 32

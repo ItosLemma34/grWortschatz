@@ -61,35 +61,35 @@ const v = [
    'verschnüren',  // verschnüren:  *
    'verschollen' , // verschollen:  *
    'verschorft, verschorfen' ,  // *
-   'verschrumpeln' ,  // verschrumpeln:  *
-   'verschütten' ,  // verschütten:  *
-   'versehen' ,  //versehen:
-   'versehentlich',  //versehentlich:
+   'verschrumpeln',  // verschrumpeln:  *
+   'verschütten',  // verschütten:  *
+   'versehen',  // versehen: *
+   'versehentlich',  // versehentlich:  *
 //   'versehren',   need more past examples
-   'versengen' ,  //versengen:
-   'versickern',  //versickern:
-   'versiegen',   //versiegen:
-   'verstauen' ,  //verstauen:
-   'Verstellung' ,  //Verstellung:
-   'verstockt'  ,  //verstockt:
-   'verstohlen',   //verstohlen:
-   'vertrackt' ,   //vertrackt:
-   'vertreten (sich)', //
-   'vertun, vertan',  //
-   'verunglimpfen',  //verunglimpfen:
-   'verunzieren' ,  //verunzieren:
-   'Verwahrlosung, verwahrlosen' , //
-   'verwaisen'  ,  // verwaisen:
-   'verwegen' ,  //verwegen:
-   'verwesen, Verwesung' ,  //
-   'verwetten' ,  //verwetten:
-   'verwittern, Verwitterung', //
-   'verwüsten' ,  //verwüsten:
-   'verzückt' , // verzückt:
-   'vierschrötig' , //vierschrötig:
+   'versengen',  // versengen:  *
+   'versickern',  // versickern:  *
+   'versiegen',   // versiegen:  * 
+   'verstauen',  // verstauen:  *
+   'Verstellung',  // Verstellung: *  combine with verstellen if verstellen found
+   'verstockt' ,  // verstockt:  *
+   'verstohlen',   // verstohlen:  *
+   'vertrackt',   // vertrackt:  *   combine with Vertrackt if found
+   'vertreten (sich die Beine)', //  *
+   'vertun, vertan',  // *
+   'verunglimpfen',  // verunglimpfen:  *
+   'verunzieren',  // verunzieren:  *
+   'Verwahrlosung, verwahrlosen', // *
+   'verwaisen',  // verwaisen: *
+   'verwegen',  // verwegen:  *
+   'verwesen, Verwesung',  // *
+   'verwetten',  // verwetten: *
+   'verwittern', // verwittern: * 
+   'verwüsten',  // verwüsten:  *
+   'verzückt', // verzückt:  *
+   'vierschrötig', // vierschrötig:  *
    'vögeln',    //vögeln:
    'Vollwaise', // Vollwaise:
-   'vorgaukeln' ,  //vorgaukeln:
+   'vorgaukeln',  //vorgaukeln:
    'Vorgeplänkel, Geplänkel',  //  *  duplicated
    'Vorhängeschloss',  //Vorhängeschloss: *
    'vorliebnehmen',   //vorliebnehmen:

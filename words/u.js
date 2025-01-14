@@ -1,16 +1,16 @@
 const u = [
-   'über alle Berge sein',  //
-   'über den Haufen', //
-   'über den Tisch ziehen', //
-   'über die Bühne gehen',  //
-   'über die Runden kommen', //
+   'über alle Berge',  //  *
+   'über den Haufen', //  *
+   'über den Tisch ziehen', //  *
+   'über die Bühne gehen',  // *
+   'über die Runden kommen', // *
    'über die Stränge schlagen', //
    'überrumpeln, Überrumpelung',  //
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
    'übers Ohr hauen', //
-   'überwuchern',  //überwuchern:
+   'überwuchern',  //überwuchern:  *
    'um den heißen Brei herumreden', //
-   'umkrempeln', // umkrempeln:
+   'umkrempeln', // umkrempeln: *
    'ummähen' ,  //ummähen:
    'umpflügen',  //umpflügen:
    'umständlich',  //umständlich:

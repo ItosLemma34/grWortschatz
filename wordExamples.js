@@ -5061,7 +5061,9 @@ Patrone: [
 	'Lange stellte die Lackschuhe wieder ab und stutzte. Der Boden des Kleiderschranks schien nicht ganz fest zu sitzen, ein Brett hatte sich verschoben.. Unter dem Boden befand sich ein Hohlraum, in dem etwas metallisch glänzte. Lange holte ein weiteres Brett aus der Führung, dann noch eines und glaubte, seinen Augen nicht zu trauen. Im doppelten Boden von Horst Kaczmareks Kleiderschrank lagerten eine Weltkriegsmauser und eine moderne Walther PPK nebst einem beachtlichen <strong>Patronen</strong>vorrat... (<i>Lunapark</i>, 47)' ,
 ],
 Pfütze: [
-	'die <strong>Pfütze</strong>,-<strong>n</strong>: puddle <br>Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/Pfuetze"target="target1">Pfütze</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pfutze"target="target2">Pfütze</a> &nbsp;<a href="https://www.verbformen.com/?w=Pf%C3%BCtze"target="target3">Pfütze</a>' ,
+	'die <strong>Pfütze</strong>,-<strong>n</strong>: puddle ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href ="https://www.duden.de/rechtschreibung/Pfuetze"target="target1">Pfütze</a> &nbsp;<a href ="https://www.dwds.de/wb/Pf%C3%BCtze"target="target2">Pfütze</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pfutze"target="target3">Pfütze</a> &nbsp;<a href="https://www.verbformen.com/?w=Pf%C3%BCtze"target="target4">Pfütze</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Sind Sie Kavalier?", fragte sie (<i>Charly</i>) den Schupo... Der Mann schien schwer von Begriff. "Wieso?", frage er. "Sind Sie\'s oder sind Sie\'s nicht?" "Natürlich..." "Das trifft sich gut! Dann können Sie mir Ihren Mantel leihen... Keine Angst, Sie müssen ihn nicht über eine <strong>Pfüze</strong> legen! Nur zum Anziehen!..."   (<i>Der nasse Fisch</i>, 60)',
 	'Hinter sich hörte er (<i>Rath</i>) ein sattes Klirren, eine kleine, nasse Explosion. Instinktive drehte er den Kopf. Kein Mensch zu sehen, nur eine weiße, zischende <strong>Pfüze</strong> auf dem Pflaster und rotbraun leuchtende Scherben. (<i>Der nasse Fisch</i>, 213)' ,
@@ -7739,12 +7741,22 @@ ungestüm: [
 	'Er (<i>Gräf</i>) brach ab, denn die Tür wurde aufgerissen, und Pfeiffer stürzte ins Büro, in einer derart <strong>ungestümen</strong> Art und Weise, dass man hätte meinen können, der SS-Truppführer beabsichtige, die Kaffeekasse des Dezernats IIIB1 auszurauben.  (<i>Lunapark</i>, 58)' , 
 ],
 umkrempeln: [
-	'<strong>umkrempeln</strong>: &nbsp;roll/turn up, turn sth. inside out <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/umkrempeln"target="target1">umkrempeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/umkrempeln"target="target2">umkrempeln</a> &nbsp;<a href="https://www.verbformen.com/?w=umkrempeln"target="target3">umkrempeln</a> ',
+	'<strong>umkrempeln</strong>: roll/turn up, turn sth. inside out ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/umkrempeln"target="target1">umkrempeln</a> &nbsp;<a href="https://www.dwds.de/wb/umkrempeln"target="target2">umkrempeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/umkrempeln"target="target3">umkrempeln</a> &nbsp;<a href="https://www.verbformen.com/?w=umkrempeln"target="target4">umkrempeln</a> ',
+	'<u>Der nasse Fisch</u>',
+	'Sind Sie Kavalier?", fragte sie (<i>Charly</i>) den Schupo.. "Wieso?", frage er. "Sind Sie\'s oder sind Sie\'s nicht?" "Natürlich..." "Das trifft sich gut! Dann können Sie mir Ihren Mantel leihen... Keine Angst, Sie müssen ihn nicht über eine Pfüze legen! Nur zum Anziehen!.." Sie (<i>Charly</i>) musste die Ärmel des schweren blauen Mantels zweimal <strong>umkrempeln</strong>, dann ging es.    (<i>Der nasse Fisch</i>, 60)',
 	'<u>Lunapark</u>',
 	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen Einstand, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört.. <i>Die Pfeife mit drei F</i> war nicht einmal Polizeibeamter: ein SS-Truppführer ohne jede Polizeiausbildung, mit seinen Kameraden von München nach Berlin versetzt, um die preußische Geheime Staatspolizei im Sinne Himmlers <strong>umzukrempeln</strong>.  (<i>Lunapark</i>, 46)' ,
 ],
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 'über die Bühne gehen': [
-	'<strong>über die Bühne gehen/sein</strong>: &nbsp;take place <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20B%C3%BChne%20gehen"target="target1">über die Bühne gehen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+B%C3%BChne+gehen"target="target2">über die Bühne gehen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/%C3%BCber%20die%20b%C3%BChne%20gehen"target="target3">über die Bühne gehen</a>    ',
+	'<strong>über die Bühne gehen/sein</strong>: take place ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20B%C3%BChne%20gehen"target="target1">über die Bühne gehen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+B%C3%BChne+gehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Bühne gehen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+B%C3%BChne+gehen"target="target3">über die Bühne gehen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/%C3%BCber%20die%20b%C3%BChne%20gehen"target="target4">über die Bühne gehen</a>    ',
+	'<u>Der nasse Fisch</u>',
+	'Gut, dass er (<i>Rath</i>) morgen nicht ins Büro musste. Erst am Abend war er wieder im Dienst - wenn die Aktion Nachtfalke <strong>über die Bühne gehen</strong> sollte.   (<i>Der nasse Fisch</i>, 210)' , 
 	'<u>Märzgefallene</u>', 
 	'"Vielleicht sollten wir heute mal ins Grüne", sagte sie (<i>Hannah</i>) also. "So schön wie es heute ist." Er (<i>Felix</i>) schüttelte den Kopf. "Ne, jeht nicht. Hab da \'ne lohnende Sache. Muss heute Morgen noch <strong>über die Bühne jehen</strong>. (<i>Märzgefallene</i>, 392)' ,
 	'<i>Felix</i>: "Keene Angst, is allet ohne jedet Risiko." Er zwinkerte ihr (<i>Hannah</i>) zu. "Und wenn die Sache jut <strong>über die Bühne is</strong>, dann jehn wir schick aus, wir zwee. Versprochen.... Kino, Essen, Schwoofen (<i>Schwofen: tanzen</i>)."  (<i>Märzgefallene</i>, 393)' ,
@@ -7771,7 +7783,9 @@ umständlich: [
 //'<u>Märzgefallene</u>',
 ],
 'über den Haufen': [
-	'jemanden <strong>über den Haufen</strong> fahren/rennen/schießen: &nbsp;knock/gun sb. down <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+den+Haufen+rennen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">über den Haufen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+den+Haufen"target="target2">über den Haufen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/%C3%BCber%20den%20haufen"target="target3">über den Haufen</a> ',
+	'jmdn. <strong>über den Haufen</strong> fahren/rennen/schießen: knock/run/gun sb. down ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+den+Haufen+rennen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">über den Haufen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20%C3%BCber%20den%20Haufen%20fahren"target="target2">über den Haufen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+den+Haufen"target="target3">über den Haufen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/%C3%BCber%20den%20haufen"target="target4">über den Haufen</a> ',
 	'<u>Der nasse Fisch</u>',
 	'<i>Oberkommissar Böhm zu Rath</i>: "Wo haben Sie denn Ihre Augen, Mann! Sie hätten mich ja beinah <strong>über den Haufen gerannt</strong>!"    (<i>Der nasse Fisch</i>, 179)' ,
 	'<u>Märzgefallene</u>',
@@ -7786,7 +7800,9 @@ untersetzt: [
 	'Eigentlich hatte sie (<i>Charly</i>) Marlow gegenüber reservierter auftreten wollen, doch sein Charme hatte sie völlig überrumpelt. Dabei sah er nicht einmal gut aus. Er war vielleicht zehn Jahre älter als Gereon, leicht <strong>untersetzt</strong>, mit schütterem Haar. (<i>Märzgefallene</i>, 428)' , 
 ],
 überwuchern: [
-	'<strong>überwuchern</strong>: &nbsp;overgrow, overrun <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ueberwuchern"target="target1">überwuchern</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/uberwuchern"target="target2">überwuchern</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ueberwuchern#%C3%BCberwuchern"target="target3">überwuchern</a>  ',
+	'<strong>überwuchern</strong>: overgrow, overrun ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ueberwuchern"target="target1">überwuchern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/uberwuchern"target="target3">überwuchern</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ueberwuchern#%C3%BCberwuchern"target="target4">überwuchern</a>  ',
 	//'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <strong>überwuchernden</strong> Narbengeflecht stierten, war kein Leben mehr.  (<i>Märzgefallene</i>, 412)' ,
@@ -7798,11 +7814,13 @@ ungehobelt: [
 	'<u>Märzgefallene</u>',
 	'Er (<i>Gereon</i>) schaute sie (<i>Charly</i>) an, angriffslustig, als wolle er gleich wieder streiten. "Sie (<i>Hannah</i>) drohte zu verbluten, verdammt, Charly, wo hättest du sie denn hingeschickt, zu deinem Ärztefreund? Eine Brandstifterin, eine ausgerissene Irre, eine mehrfache Mörderin?" Fritze hatte die Augen aufgerissen bei dem Wort Mörderin, und Charly hätte Gereon treten können für seine <strong>ungehobelte</strong> Art.  (<i>Märzgefallene</i>, 408-09)' ,
 ],
-'über alle Berge sein': [
-	'<strong>über alle Berge sein</strong>: &nbsp;be miles away, long gone <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+alle+Berge+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">über alle Berge sein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20alle%20Berge%20sein"target="target2">über alle Berge sein</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+alle+Berge+sein"target="target3">über alle Berge sein</a>  ',
+'über alle Berge': [
+	'<strong>über alle Berge</strong>: be miles away, long gone ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+alle+Berge+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">über alle Berge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20alle%20Berge"target="target2">über alle Berge</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20alle%20Berge%20sein"target="target3">über alle Berge</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+alle+Berge+sein"target="target4">über alle Berge</a>  ',
 	'<u>Märzgefallene</u>',
 	'<i>Kellermann</i>: "...sie (<i>Hannah</i>) ist gesehen worden. Letzte Woche... Am Bahnhof Zoo." <i>Charly</i>: "Von wem gesehen worden?" "Ein Zeuge hat sie erkannt. Wollte sie aufhalten, aber sie ist ihm entwischt. Als die Kollegen eingriffen, war sie schon <strong>über alle Berge</strong>."  (<i>Märzgefallene</i>, 289)' ,
-	'"Ist es nicht herrlich", sagte sie (<i>die wilde Hilde</i>), dass die nationale Revolution jetzt auch Köln erreicht hat? Dass Adenauer mit seiner Judenbande endlich <strong>über alle Berge ist</strong>?"   (<i>Märzgefallene</i>, 304)' ,
+	'"Ist es nicht herrlich", sagte sie (<i>die wilde Hilde</i>), dass die nationale Revolution jetzt auch Köln erreicht hat? Dass Adenauer mit seiner Judenbande endlich <strong>über alle Berge</strong> ist?"   (<i>Märzgefallene</i>, 304)' ,
 	'Dass er (<i>Fritze</i>) sie (<i>Hannah</i>) jemals wiedersehen würde, diese Hoffnung hatte er inzwischen aufgegeben. Hannah war längst <strong>über alle Berge</strong>.   (<i>Märzgefallene</i>, 395)' ,
 	'Jetzt erst fiel ihr (<i>Hannah</i>) ein, dass sie nicht allein war. Dass sie um Hilfe rufen konnte. "Felix!" Das Grinsen ließ sein (<i>Huckebeins</i>) vernarbtes Gesicht noch abschreckender aussehen. "Dein Felix ist längst <strong>über alle Berge</strong>. Was meinst du, wer dich verpfiffen hat?"   (<i>Märzgefallene</i>, 400)' ,
 ],
@@ -7837,7 +7855,9 @@ unterbuttern: [
 	'Roddeck nahm die Unterbrechung dankbar an. Er setzte sich wieder hin, nun schon wieder ruhiger und so charmant wie eh und je. Doch bei der Temme <strong>war</strong> er <strong>unten durch</strong>, das konnte Rath sehen. (<i>Märzgefallene</i>, 343)' ,
 ],
 'über den Tisch ziehen': [
-	'<strong>über den Tisch ziehen</strong>: &nbsp;bamboozle, take someone to the cleaners <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20%C3%BCber%20den%20Tisch%20ziehen"target="target1">über den Tisch ziehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn.%20%C3%BCber%20den%20Tisch%20ziehen"target="target2">über den Tisch ziehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+den+Tisch+ziehen"target="target3">über den Tisch ziehen</a> ' ,
+	'<strong>über den Tisch ziehen</strong>: bamboozle, take so. to the cleaners ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20%C3%BCber%20den%20Tisch%20ziehen"target="target1">über den Tisch ziehen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+den+Tisch+ziehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über den Tisch ziehen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/%C3%BCber%20den%20tisch%20ziehen"target="target3">über den Tisch ziehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/%C3%BCber+den+Tisch+ziehen"target="target4">über den Tisch ziehen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Doch irgendetwas musste Doktor M. mit dem <i>Plaza</i> verbinden, dachte er (<i>Rath</i>), als er, wütend über die vertane Zeit, mit einer Herde Varietébesucher zur Stadtbahn zurückstapfte. Oder aber Gloria hatte ihn gekonnt <strong>über den Tisch gezogen</strong>.  (<i>Der nasse Fisch</i>, 155)' ,
 	'<u>Märzgefallene</u>',
@@ -7847,7 +7867,9 @@ unterbuttern: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'über die Runden kommen': [
-	'<strong>über die Runden kommen</strong>: &nbsp;make ends meet, get by, pull through <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Runden%20kommen"target="target1">über die Runden kommen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20die%20Runden%20kommen"target="target2">über die Runden kommen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Runden+kommen"target="target3">über die Runden kommen</a> ',
+	'<strong>über die Runden kommen</strong>: make ends meet, get by ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Runden%20kommen"target="target1">über die Runden kommen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Runden+kommen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Runden kommen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/%C3%BCber%20die%20Runden%20kommen"target="target3">über die Runden kommen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Runden+kommen"target="target4">über die Runden kommen</a> ',
 	'<u>Märzgefallene</u>', 
 	'Sie (<i>Hannah</i>) war eine Diebin, ja, sie hatte nicht nur den Mantel gestohlen, um <strong>über die Runden zu kommen</strong>, ein schlechtes Gewissen aber hatte sie deswegen nicht – tiefer konnte eine wie sie sowieso nicht mehr sinken. (<i>Märzgefallene</i>, 153)' ,
 ],
@@ -7949,7 +7971,9 @@ verbohrt: [
 	'"Hat Karl denn noch Freunde in Berlin?", fragte sie (<i>Charly</i>).. <i>Helmut Reinhold</i>: "Da sind Alex und ich möglicherweise die einzigen. Und ich weiß nicht einmal, ob ihm meine Freundschaft überhaupt passen würde, die Freundschaft eines Sozen. Kalle (<i>Karl</i>) ist manchmal genauso <strong>verbohrt</strong> wie der Alte. Aber ich liebe ihn trotzdem. Ist doch mein verdammter kleiner Bruder!"  (<i>Lunapark</i>, 101)' ,
 ],
 Vollwaise: [  
-	'die <strong>Vollwaise</strong>,-<strong>n</strong>: orphan <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vollwaise"target=target1">Vollwaise</a><br>English Definitions: &nbsp;&nbsp;<a href="https://glosbe.com/de/en/Vollwaise"target="target2">Vollwaise</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vollwaise"target="target3">Vollwaise</a> ' ,
+	'die <strong>Vollwaise</strong>,-<strong>n</strong>: orphan ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vollwaise"target=target1">Vollwaise</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Vollwaise"target=target2">Vollwaise</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Vollwaise"target="target3">Vollwaise</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vollwaise"target="target4">Vollwaise</a> ' ,
 	'<u>Lunapark</u>',
 	'Weswegen hatten sie sich denn überhaupt gestritten, er (<i>Gereon</i>) und Charly? Doch wegen Fritze. Wieder einmal. Friedrich Thormann, der <strong>Vollwaise</strong>, den Charly auf der Straße aufgegabelt hatte, der gedroht hatte, sich umzubringen, wenn sie ihn zurück ins Heim schickten. Der nur deswegen in der Carmerstraße hatte bleiben dürfen. Charly und ihr Faibel für Straßenkinder!   (<i>Lunapark</i>, 80)' ,
 ],
@@ -7983,7 +8007,9 @@ verblassen: [
 	'<i>Rath</i>: "Aber das Blut", sagte er dann und zeigte auf die <strong>verblassende</strong> Spur auf dem Boden, "ist offensichtlich aus dieser Richtung in den Gully geflossen. Nicht aus der Fleischerei." (<i>Lunapark</i>, 41)',
 ],
 vorliebnehmen: [  
-	'<strong>vorliebnehme n</strong>: &nbsp;make do, be satisfied with <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorliebnehmen"target="target1">vorliebnehmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorliebnehmen"target="target2">vorliebnehmen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorliebnehmen"target="target3">vorliebnehmen</a> ' ,
+	'<strong>vorliebnehmen</strong>: make do, be satisfied with  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorliebnehmen"target="target1">vorliebnehmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vorliebnehmen"target="target2">vorliebnehmen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorliebnehmen"target="target3">vorliebnehmen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorliebnehmen"target="target4">vorliebnehmen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Charly hatte ihn (<i>Gereon</i>) an der Wohnungstür abgefangen..., hatte ihn auf Zehenspitzen ins Wohnzimmer geführt, wo ein Junger unter der Wolldecke auf dem Sofa lag... "Das ist Fritze", hatte Charly geflüstert, bevor sie Rath - wieder auf Zehenspitzen - in die Küche bugsiert und die Wohnzimmertür leise geschlossen hatte. Auf einen Cognac in seinem Lieblingssessel hatte Rath verzichten, stattdessen mit aufgewärmten Bouletten und einem Glas Wasser <strong>vorliebnehmen</strong> müssen. (<i>Märzgefallene</i>, 361)' ,
 	'<u>Lunapark</u>',
@@ -8241,7 +8267,9 @@ verhunzen: [
 	'<i>Nehmt eure Rechte wahr! Demonstriert am 1. Mai!</i> hatte jemand mit roter Farbe quer über den Bauzaun gepinselt und dabei gleich mehrere Werbebotschaften <strong>verhunzt</strong>. (<i>Der nasse Fisch</i>, 23)' ,
 ],
 vögeln: [
-	'jemanden <strong>vögeln</strong>: &nbsp;bonk, shag so. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/voegeln"target="target1">vögeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vogeln?q=v%C3%B6geln"target="target2">vögeln</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/v%C3%B6geln"target="target3">vögeln</a>   ' ,
+	'jmdn. <strong>vögeln</strong>: bonk, shag so. ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/voegeln"target="target1">vögeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/v%C3%B6geln"target="target2">vögeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vogeln?q=v%C3%B6geln"target="target3">vögeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=v%C3%B6geln"target="target4">vögeln</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'Der falsche Wilhelm zwo brauchte keine Sekunde, um die Situation zu erfassen. Mit einem Satz war er über das Geländer und fast eine halbe Etage hinuntergesprungen.... Rath setzte hinterher. Instinktiv. Er war Blulle, er jagte Verbrecher. Und derzeit eben solche, deren Verbrechen darin bestand, einem abgedankten Kaiser ähnlich zu sehen und sich beim <strong>Vögeln</strong> fotografieren zu lassen.  (<i>Der nasse Fisch</i>, 21)' ,
 ],
@@ -8306,7 +8334,9 @@ Ruined or wasted: Nach all den Jahren des Drogenmissbrauchs war sein Leben völl
 	'<i>Gereon</i>: "... Hitler laufen doch viel mehr Frauen hinterher als Männer. Was meinst du wie viele ich allein kenne, die für Hitler schwärmen?" <i>Charly</i>: "Ach ja? Wen denn?" Rath musste aufpassen, er war dabei, <strong>sich</strong> zu <strong>vergaloppieren</strong>. Hilde Sprenger (<i>die wilde Hilde</i>) aus Köln konnte er als Beispiel jedenfalls nicht aufführen. (<i>Märzgefallene</i>, 390)' ,
 ],
 vorsintflutlich: [
-	'<strong>vorsintflutlich</strong>: &nbsp;antediluvian, antiquated <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorsintflutlich"target="target1">vorsintflutlich</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorsintflutlich"target="target2">vorsintflutlich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorsintflutlich"target="target3">vorsintflutlich</a>  ' ,
+	'<strong>vorsintflutlich</strong>: antediluvian, antiquated ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorsintflutlich"target="target1">vorsintflutlich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vorsintflutlich"target="target2">vorsintflutlich</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorsintflutlich"target="target3">vorsintflutlich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorsintflutlich"target="target4">vorsintflutlich</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede zupfte seinen Kittel zurecht und betätigte einen Hebel an der <strong>vorsintflutlichen</strong> Kasse.... "Wollen Se mal sehen, Kommessar: Ebbe, nix als Ebbe...." (<i>Märzgefallene</i>, 317)' ,
 ],
@@ -8788,7 +8818,9 @@ vierschrötig: [
 	'Rath klappte das Papier auf und blickte in das Gesicht des Toten, der sich mit einer Miene hatte fotografieren lassen, als wolle er gleich kleine Kinder fressen. Ein <strong>vierschrötiger</strong> Kerl, der im Zivilberuf entweder Möbelpacker oder Preisboxer gewesen sein musste. (<i>Lunapark</i>, 21)' ,
 ],
 vorgaukeln: [
-	'<strong>vorgaukeln</strong>: &nbsp;fool so. to believe sth.<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorgaukeln"target="target1">vorgaukeln</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorgaukeln"target="target2">vorgaukeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorgaukeln"target="target3">vorgaukeln</a>  ',
+	'<strong>vorgaukeln</strong>: fool so. to believe sth.  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorgaukeln"target="target1">vorgaukeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vorgaukeln"target="target2">vorgaukeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vorgaukeln"target="target3">vorgaukeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorgaukeln"target="target4">vorgaukeln</a>  ',
 	'<u>Märzgefallene</u>',
 	'Sein Roman...war recht eigentlich eine Maßnahme, mit der er (<i>Berthold Weinert</i>) sich selbst, seiner Schreibmaschine und vor allem seiner Zimmerwirtin <strong>vorgaukelte</strong>, immer noch genug zu tun zu haben. (<i>Märzgefallene</i>, 54)' ,
 ],

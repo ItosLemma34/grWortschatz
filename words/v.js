@@ -86,14 +86,14 @@ const v = [
    'verwittern', // verwittern: * 
    'verwüsten',  // verwüsten:  *
    'verzückt', // verzückt:  *
-   'vierschrötig', // vierschrötig:  *
-   'vögeln',    //vögeln:
-   'Vollwaise', // Vollwaise:
-   'vorgaukeln',  //vorgaukeln:
+   'vierschrötig', // vierschrötig:  * 
+   'vögeln',    // vögeln:  *
+   'Vollwaise', // Vollwaise:  *
+   'vorgaukeln',  // vorgaukeln:  *
    'Vorgeplänkel, Geplänkel',  //  *  duplicated
    'Vorhängeschloss',  //Vorhängeschloss: *
-   'vorliebnehmen',   //vorliebnehmen:
-   'vorsintflutlich',  //vorsintflutlich:
+   'vorliebnehmen',   // vorliebnehmen: *
+   'vorsintflutlich',  // vorsintflutlich: *
 ];
 
 export default v;    

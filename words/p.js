@@ -18,7 +18,7 @@ const p = [
    'pfiffig',  // pfiffig:
    'Pfropfen',  // Pfropfen:
    'pfuschen (ins Handwerk p.)', // duplicated: ins Handwerk pfuschen
-   'Pfütze',  // Pfütze:    
+   'Pfütze',  // Pfütze:  *   
    'pieksen, piksen', //
    'Pinkel' , // Pinkel:
    'pinkeln' ,  // pinkeln:

@@ -38,7 +38,8 @@ const a = [
 	'anekeln',      //anekeln:  
 	'anfauchen, fauchen', //
 	'angeben, Angeber',  //  
-	'angeschickert', //angeschickert:  
+	'angeschickert', //angeschickert: 
+	'anheuern',  // anheuern: *
 	'anhimmeln',    // anhimmeln: *  
 	'anleinen',     //anleinen:  
 	'Anpfiff' ,     //Anpfiff:  
@@ -95,7 +96,7 @@ const a = [
 	'auffliegen',  // auffliegen:   
 	'aufgabeln',   //aufgabeln:  
 	'aufgedunsen', // aufgedunsen:  *
-	'aufgekratzt', //aufgekratzt:  
+	'aufgekratzt', // aufgekratzt: * 
 	'aufgelöst',   //aufgelöst:  
 	'aufgießen, Aufguss', //
 	'aufglimmen',  //aufglimmen:  

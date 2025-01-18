@@ -5,7 +5,7 @@ const e = [
    'einbuchten',  //einbuchten:  
    'Eindruck schinden',  //  
    'einfädeln',  // einfädeln: 
-   'Eingebung',   //Eingebung:  
+   'Eingebung',   // Eingebung: * 
    'einkriegen (sich)',  //  
    'einkringeln',  //einkringeln:  
    'einlochen',  //einlochen:  

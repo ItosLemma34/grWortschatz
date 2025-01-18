@@ -22,7 +22,7 @@ const h = [
    'Heft des Handelns nehmen', //
    'Heidenarbeit', // Heidenarbeit:  *
    'Heidenrespekt/angst', //
-   'Heimtücke, heimtückisch', //
+   'Heimtücke, heimtückisch', // *
    'heimzahlen',  //heimzahlen:
    'heiser',  //heiser:
    'Hemd (sich ins H. machen)', //

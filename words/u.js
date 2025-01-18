@@ -4,35 +4,35 @@ const u = [
    'über den Tisch ziehen', //  *
    'über die Bühne gehen',  // *
    'über die Runden kommen', // *
-   'über die Stränge schlagen', //
-   'überrumpeln, Überrumpelung',  //
+   'über die Stränge schlagen', // *
+   'überrumpeln, Überrumpelung',  // *
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
-   'übers Ohr hauen', //
+   'übers Ohr hauen', // *
    'überwuchern',  //überwuchern:  *
-   'um den heißen Brei herumreden', //
+   'um den heißen Brei herumreden', // *
    'umkrempeln', // umkrempeln: *
-   'ummähen' ,  //ummähen:
-   'umpflügen',  //umpflügen:
-   'umständlich',  //umständlich:
-   'umzingeln' ,  //umzingeln:
-   'unbescholten', //unbescholten:
-   'unbotmäßig',  //unbotmäßig:
-   'ungehobelt',  //ungehobelt:
-   'ungelegen' ,  //ungelegen:
-   'ungestüm',  // ungestüm:
-   'unten durch sein', //
-   'unter dem Pantoffel stehen', //
-   'unter Fittiche nehmen',  //
-   'unterbuttern',  //unterbuttern:
-   'unterjubeln',  //unterjubeln:
-   'Unterschlagung, unterschlagen' , //
-   'unterschlüpfen, Unterschlupf', //
-   'untersetzt',  //untersetzt:
-   'Unterstand' ,  //Unterstand:
-   'unverfänglich', //unverfänglich:
+   'ummähen' ,  // ummähen: *
+   'umpflügen',  // umpflügen:  *
+   'umständlich',  // umständlich: *
+   'umzingeln' ,  // umzingeln: *
+   'unbescholten', // unbescholten: *
+   'unbotmäßig',  // unbotmäßig: *
+   'ungehobelt',  // ungehobelt: *
+   'ungelegen',  // ungelegen: *
+   'ungestüm',  // ungestüm: *
+   'unten durch sein', // *
+   'unter dem Pantoffel stehen', // *
+   'unter Fittiche nehmen',  // *
+   'unterbuttern',  // unterbuttern: *
+   'unterjubeln',  // unterjubeln: *
+   'Unterschlagung, unterschlagen', // *
+   'unterschlüpfen, Unterschlupf', // *
+   'untersetzt',  // untersetzt: *
+   'Unterstand',  // Unterstand: *
+   'unverfänglich', // unverfänglich: *
    'unverfroren',  // unverfroren:  *
-   'unverrichteter Dinge', //
-   'unwirsch' ,  //unwirsch:
+   'unverrichteter Dinge', // *
+   'unwirsch',  // unwirsch: *
 ];
 
 export default u;      

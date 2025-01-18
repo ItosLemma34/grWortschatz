@@ -45,7 +45,7 @@ const f = [
    'Fraktur', // Fraktur:  
    'Fratze',  //Fratze:  
    'frequentieren',  //frequentieren:  
-   'Frevel',    //Frevel:
+   'Frevel',    // Frevel: *
    'frösteln', // frösteln:  
    'Frotzelei',  //Frotzelei:  
    'fuchteln, Fuchtel', //  *

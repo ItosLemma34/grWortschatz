@@ -1,15 +1,15 @@
 const t = [
-   'Tacheles reden', //
+   'Tacheles reden', // *
    'täfeln, getäfelt', // * duplicated
-   'Tantieme',  //Tantieme:
+   'Tantieme',  // Tantieme: *
    'tapsen' ,  // tapsen: *
-   'tätscheln', //tätscheln:
-   'taxieren' , //taxieren:
-   'Teufel tun' , //
+   'tätscheln', // tätscheln: *
+   'taxieren' , // taxieren: *
+   'Teufel tun' , //  *
    'Theke',  // Theke: *
-   'toben' , //toben:
-   'tollen', //tollen:
-   'tönen',  //tönen:
+   'toben' , // toben: *
+   'tollen', // tollen: *
+   'tönen',  // tönen: *
    'Tonne',  //Tonne:       
    'torkeln', //torkeln:
    'tosen, tosend', //
@@ -27,16 +27,16 @@ const t = [
    'Tross/Troß' , //
    'Trost (nicht ganz bei T. sein)' ,  //
    'Trott, trotten' ,  //
-   'Trottel' ,  //Trottel:
-   'Trubel' ,  //Trubel:
-   'Truhe' ,  //Truhe:
+   'Trottel',  // Trottel: *
+   'Trubel',  // Trubel: *
+   'Truhe',  //Truhe:
    'tuckern', //tuckern:
    'tumb',   //tumb:
    'tünchen, Tünche', //
    'tunken',  //tunken:
    'tupfen' ,  //tupfen: 
    'türken',  //türken:
-   'tuscheln' ,  //tuscheln:
+   'tuscheln' ,  // tuscheln: *
 ];
 
 export default t;      

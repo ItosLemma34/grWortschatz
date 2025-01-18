@@ -53,7 +53,7 @@ const k = [
    'klimpern', // klimpern: *
    'Klinge', //  Klinge:
    'Klippe', //  Klippe:
-   'klirren', //klirren:
+   'klirren', // klirren:
    'klitzeklein', //klitzeklein:
    'Kloß',   // Kloß: *
    'Klumpen, Klumpfuß',  //
@@ -104,6 +104,7 @@ const k = [
    'Kreissäge',  // Kreissäge:
    'Krempe',  // Krempe:
    'Krempel',  // Krempel:
+   'kreuzfidel', // kreuzfidel: *
    'Kribbeln',  // Kribbeln:
    'Kringel',  //Kringel:
    'Kritikaster',  // Kritikaster:

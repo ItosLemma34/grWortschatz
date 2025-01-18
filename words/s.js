@@ -62,6 +62,7 @@ const s = [
    'schnarchen' ,  // schnarchen:
    'schnarren',  //schnarren:  *
    'schnattern (in einem fort)',  // * duplicated
+   'schnauben', // schnauben: *
    'schnaufen',  // schnaufen: *
    'schneidig',  // schneidig: *
    'schnieke',  // schnieke:  *
@@ -99,6 +100,7 @@ const s = [
    'Schwanz einziehen/einkneifen', // *
    'Schwebebahn',  // Schwebebahn: *
    'schwelgen', // schwelgen: *
+   'Schwenker', // Schwenker: *
    'schwirren', // schwirren: *
    'Schwitzkasten', // Schwitzkasten: *
    'schwülstig',  // schwülstig:  *

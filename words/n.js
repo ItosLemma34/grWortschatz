@@ -9,6 +9,7 @@ const n = [
    'Nervensäge', // Nervensäge:
    'Nessel (sich in die Nesseln setzen)', //
    'nesteln', // nesteln:
+   'nicht bei Trost sein', // *  duplicated
    'Nichts für ungut', //
    'niederreißen'  ,  // niederreißen:
    'niegelnagelneu',  //niegelnagelneu:

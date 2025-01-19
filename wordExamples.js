@@ -2586,9 +2586,15 @@ grämen: [
 	'Jedenfalls <strong>grämte</strong> Weinert <strong>sich</strong> nicht mehr über seine langsame Arbeitsweise, inzwischen war er sogar froh, dass <i>Abblende</i> - so der Arbeitstitel - nicht schon erschienen war, denn in diesem Fall, da war er sich sicher, wäre sein erster Roman.. heute auch zum Futter für den Scheiterhaufen geworden.   (<i>Märzgefallene</i>, 568)' ,
 ],
 Gebrüll: [
-	'das <strong>Gebrüll</strong> (no plural): &nbsp;roaring, shouting <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gebruell"target="target1">Gebrüll</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gebrull?q=Gebr%C3%BCll"target="target2">Gebrüll</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gebrull"target="target3">Gebrüll</a>' ,
+	'das <strong>Gebrüll</strong> (no plural): roaring, shouting ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gebruell"target="target1">Gebrüll</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gebr%C3%BCll"target="target2">Gebrüll</a>  ' + 
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gebrull?q=Gebr%C3%BCll"target="target3">Gebrüll</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gebrull"target="target4">Gebrüll</a>' ,
+//	'<u>Der nasse Fisch</u>',
+//	' yet to come  (<i>Der nasse Fisch</i>, 301)' ,
 	'<u>Märzgefallene</u>',
-	'Bethold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche <strong>Gebrüll</strong> von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die tumben Reden.  (<i>Märzgefallene</i>, 567)' ,
+	'Berthold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche <strong>Gebrüll</strong> von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die tumben Reden.  (<i>Märzgefallene</i>, 567)' ,
+	'<u>Lunapark</u>',
+	'In der Alexanderkaserne hörte er (<i>Rath</i>) nichts außer ein paar <strong>gebrüllten<strong> Kommandos, als er den Hof überquerte.   (<i>Lunapark</i>, 92)' ,
 ],
 Gully: [
 	'der <strong>Gully</strong>,-<strong>s</strong>: &nbsp;manhole, street drain <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gully"target="target1">Gully</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gully?q=Gully"target="target2">Gully</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gully"target="target3">Gully</a>' ,
@@ -5663,9 +5669,12 @@ rupfen: [
 	'Er (<i>Grimberg</i>) <strong>rupfte</strong> die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen Krempel zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden.   (<i>Märzgefallene</i>, 549)' ,  
 ],
 Rabe: [
-	'der <strong>Rabe</strong>,-<strong>n</strong>: raven <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rabe"target="target1">Rabe</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rabe"target="target2">Rabe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rabe"target="target3">Rabe</a>  ' ,
+	'der <strong>Rabe</strong>,-<strong>n</strong>: raven <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rabe"target="target1">Rabe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rabe"target="target2">Rabe</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rabe"target="target3">Rabe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rabe"target="target4">Rabe</a>  ' ,
 	'<u>Märzgefallene</u>',
+	'"Herr Kommessar", sagte Schürmann und zeigte ein misslungenes Lächeln, "han Se jar nit erkannt. Man erzählt, Se hätte Ihren Beruf an den Naarel jehängt." <i>Rath</i>: "Du den deinen offensichtlich nicht." Rath musterte den Man von oben bis unten. "Arbeitest du ohne <strong>Raben</strong>? Oder war ich zu schnell für euch?"     (<i>Märzgefallene</i>, 22)' ,  
 	'Experten wie Ede waren normalerweise in einer Truppe zu dritt unterwegs: Der Rempler lenkte das Opfer ab, indem er es anstieß oder auflaufen ließ, der Zieher griff blitzschnell zu und leitete die Beute an den <strong>Raben</strong> weiter, der schleunigst das Weite suchte... Rath spürte eine plötzliche Unruhe, als er darüber nachdachte... Grimberg, Wosniak, Roddeck. Rempler, Zieher und <strong>Rabe</strong>.   (<i>Märzgefallene</i>, 544)' ,  
+//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
 Rempler: [
 	'der <strong>Rempler</strong>,-<strong>n</strong>: push, shove, bump  &nbsp;&nbsp;<strong>rempeln</strong>: jostle, barge into <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rempler"target="target1">Rempler</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rempeln"target="target2">rempeln</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rempler"target="target3">Rempler</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rempeln"target="target4">rempeln</a> ' ,
@@ -7468,12 +7477,16 @@ strunzdämlich: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 tranchieren: [
-	'<strong>tranchieren</strong>: carve, slice <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tranchieren"target="target1">tranchieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tranchieren"target="target2">tranchieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tranchieren"target="target3">tranchieren</a>  ',
+	'<strong>tranchieren</strong>: carve, slice ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tranchieren"target="target1">tranchieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tranchieren"target="target2">tranchieren</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tranchieren"target="target3">tranchieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tranchieren"target="target4">tranchieren</a>  ',
 	'<u>Lunapark</u>',
 	'Doktor Karthaus schaute auf, als Rath den Obduktionssaal betrat. Auf dem Marmortisch lag die bereits in Verwesung begriffene Leiche einer alten Frau, der er gerade den Brustkorb geöffnet hatte. Es sah aus, als habe man ein übergroßes Hänchen <strong>tranchiert</strong>. Ein graues verschimmeltes Hänchen.   (<i>Lunapark</i>, 105-06)' ,
 ],
 'tosen, tosend': [
-	'<strong>tosen</strong>: &nbsp;roar  &nbsp;&nbsp;&nbsp;<strong>tosend</strong>: &nbsp;thunderous; boisterous <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tosen"target="target1">tosen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tosen"target="target2">tosen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tosen"target="target3">tosen</a> ',
+	'<strong>tosen</strong>: roar  &nbsp;&nbsp;<strong>tosend</strong>: thunderous, roaring ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tosen"target="target1">tosen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tosen"target="target2">tosen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tosen"target="target3">tosen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/tosen"target="target4">tosen</a> ',
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Für den winzigen Bruchteil einer Sekunde sah es so aus, als wolle die gesamte Felswand, massiv und solide, um ein paar Meter nach vorn hüpfen in ihrer gesamten, ungeheuren Masse, dann aber brach sie, plöztlich von nichts mehr gehalten, in sich zusammen und bröckelte staubend und <strong>tosend</strong> zu Tal.   (<i>Märzgefallene</i>,  549)' ,
@@ -7486,7 +7499,9 @@ Tantieme: [
 	'Roddeck überflog den Vertragstext und erbleichte. "Das ist..." Er stockte. "Sie wollen, dass ich sämtliche Rechte an meinem Roman abtrete?" Rath nickte. "So ist es. Und sämtliche sich daraus ergebenden <strong>Tantiemen</strong>. Wenn Sie nicht wollen, dass dieses nette Tondokument in die falschen Hände gerät."  (<i>Märzgefallene</i>, 580)' ,
 ],
 Trichter: [
-	'der <strong>Trichter</strong>,-: &nbsp;crater; funnel <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trichter"target="target1">Trichter</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trichter?q=Trichter"target="target2">Trichter</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trichter"target="target3">Trichter</a> ',
+	'der <strong>Trichter</strong>,-: crater; funnel, cone ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trichter"target="target1">Trichter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Trichter"target="target2">Trichter</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trichter?q=Trichter"target="target3">Trichter</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trichter"target="target4">Trichter</a> ',
 //	'<u>Der nasse Fisch</u>',  
 	'<u>Märzgefallene</u>',
 	'Eigentlich hatte er (<i>Roddeck</i>) den Kerl (<i>Grimberg</i>) immer gehasst. Seit jenem Augenblick vor fast zwanzig Jahren, als der Feldwebel Friedrich Grimberg Zeuge geworden war, wie er, Leutnant Achim von Roddeck, sich bei seinem ersten Fronteinsatz in die Hosen gemacht hatte. In einem Granat<strong>trichter</strong> war das gewesen, in dem nur sie beide Schutz gesucht hatten. (<i>Märzgefallene</i>, 573)' ,
@@ -7495,17 +7510,13 @@ Trichter: [
 	'Eigentlich war es eine Tiefebene, flaches, nur leicht gewelltes Küstenland, doch war diese Landschaft perforiert von Gräben und <strong>Trichtern</strong> unterschiedlicher Größe, in denen noch das Wasser des nächtlichen Regens stand. Von der einstigen Mondlandschaft, die die deutsche Armee und die englische Artillerie.. hier hinterlassen hatten, zeugten nur noch diese Krater, ansonsten hatte die Natur das Terrain weitgehend zurückerobert.   (<i>Märzgefallene</i>, 598)' ,
 ],
 tumb: [
-	'<strong>tumb</strong>: &nbsp;stupid, dumb, naive <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tumb"target="target1">tumb</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tumb"target="target2">tumb</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/tumb"target="target3">tumb</a>',
-	'<u>Der nasse Fisch</u>',
-	'Bethold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche Gebrüll von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die <strong>tumben</strong> Reden.  (<i>Märzgefallene</i>, 567)' ,
-//	'<u>Märzgefallene</u>',
-],
-'tosen, tosend': [
-	'<strong>tosen</strong>: &nbsp;roar  &nbsp;&nbsp;&nbsp;<strong>tosend</strong>: &nbsp;thunderous; boisterous <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/tosen"target="target1">tosen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tosen"target="target2">tosen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tosen"target="target3">tosen</a> ',
-//	'<u>Der nasse Fisch</u>',
+	'<strong>tumb</strong>: stupid, dumb, naive ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tumb"target="target1">tumb</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tumb"target="target2">tumb</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://glosbe.com/de/en/tumb"target="target3">tumb</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tumb"target="target4">tumb</a>',
 	'<u>Märzgefallene</u>',
-	'Für den winzigen Bruchteil einer Sekunde sah es so aus, als wolle die gesamte Felswand, massiv und solide, um ein paar Meter nach vorn hüpfen in ihrer gesamten, ungeheuren Masse, dann aber brach sie, plöztlich von nichts mehr gehalten, in sich zusammen und bröckelte staubend und <strong>tosend</strong> zu Tal.   (<i>Märzgefallene</i>,  549)' ,
+	'Berthold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche Gebrüll von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die <strong>tumben</strong> Reden.  (<i>Märzgefallene</i>, 567)' ,
 ],
+// ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 'Tacheles reden': [
 	'(mit jmdm.) <strong>Tacheles reden</strong>: talk straight, talk turkey ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tacheles%20reden"target="Tacheles reden">Tacheles reden</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/3049-rtkl-redewendung-tacheles-reden"target="target2">Tacheles reden</a> ' +
@@ -7547,25 +7558,33 @@ Theke: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 türken: [
-	'<strong>türken</strong>: &nbsp;to fake, falsify <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuerken"target="target1">türken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%BCrken"target="target2">türken</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuerken#t%C3%BCrken"target="target3">türken</a> ', 
+	'<strong>türken</strong>: fake, falsify ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuerken"target="target1">türken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%BCrken"target="target2">türken</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%BCrken"target="target3">türken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%BCrken"target="target4">türken</a> ', 
 	'<u>Der nasse Fisch</u>',
 	'Sollte der geschickt <strong>getürkte</strong> Bericht wieder einmal so etwas wie eine Lektion gewesen sein? Schon mehrmals hatte er (<i>Rath</i>) das Gefühl gehabt, Bruno (<i>Wolter</i>) versuche, ihm etwas beizubringen, den Provinzbullen Gereon Rath mit den Berliner Gepflogenheiten vertraut zu machen.  (<i>Der nasse Fisch</i>, 101-02)' ,
 //	'<u>Märzgefallene</u>',
 ],
 tuckern: [
-	'<strong>tuckern</strong>: &nbsp;chug, put-put <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuckern"target="target1">tuckern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuckern"target="target2">tuckern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tuckern"target="target3">tuckern</a>  ' ,
+	'<strong>tuckern</strong>: put-put, chug along' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuckern"target="target1">tuckern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tuckern"target="target2">tuckern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tuckern"target="target3">tuckern</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/tuckern"target="target4">tuckern</a>  ' ,
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Eine Zeitlang <strong>tuckerte</strong> der Mercedes im Leerlauf, dann wurde der Motor abgestellt.  (<i>Märzgefallene</i>, 441)' ,
 ],
 trippeln: [
-	'<strong>trippeln</strong>: &nbsp;tapp, toddle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/trippeln"target="target1">trippeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trippeln"target="target2">trippeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trippeln"target="target3">trippeln</a>  ' ,
+	'<strong>trippeln</strong>: toddle, tapp ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/trippeln"target="target1">trippeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/trippeln"target="target2">trippeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trippeln"target="target3">trippeln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trippeln"target="target4">trippeln</a>  ' ,
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Hannah hatte die Schritte gehört und gleich gewusst, dass etwas anders war. Das waren Damenschuhe, dieses <strong>Trippeln</strong> und Stöckeln, das war nicht einer der Männer, die sonst immer kamen und ihr ein Tablett mit Essen hinstellten.  (<i>Märzgefallene</i>, 433)' ,
 ],
 Tonne: [
-	'die <strong>Tonne</strong>,-<strong>n</strong>: &nbsp;barrel, drum, bin, trash can; ton <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tonne"target="target1">Tonne</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tonne?q=Tonne"target="target2">Tonne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Tonne"target="target3">Tonne</a> ' ,
+	'die <strong>Tonne</strong>,-<strong>n</strong>: barrel, bin, drum, trash can; ton ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tonne"target="target1">Tonne</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tonne"target="target2">Tonne</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tonne?q=Tonne"target="target3">Tonne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Tonne"target="target4">Tonne</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Das ist doch keine Arbeit für die Kripo. Das hier können die Blauen eine Zeit lang auch alleine", sagte er (<i>Wolter</i>) und stiefelte zu den Müll<strong>tonnen</strong> hinüber, wo ein junger Polizist mit einem großen Schürhaken in Asche und Abfällen wühlte.  (<i>Der nasse Fisch</i>, 68)' ,
 	'<u>Märzgefallene</u>',
@@ -7575,7 +7594,9 @@ Tonne: [
 	'Obwohl er (<i>Rath</i>) dem Wirt das mit den Schlachtabfällen nun glaubte, musste Rath gegen den Würgereiz ankämpfen, der ihn mit aller Wucht überfiel. Er ließ den Deckel zurück auf die <strong>Tonne</strong> scheppern. (<i>Lunapark</i>, 42)' ,
 ],
 torkeln: [
-	'<strong>torkeln</strong>: &nbsp;lurch, stagger, reel <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/torkeln"target="target1">torkeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/torkeln"target="target2">torkeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/torkeln"target="target3">torkeln</a> ' ,
+	'<strong>torkeln</strong>: lurch, stagger, reel ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/torkeln"target="target1">torkeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/torkeln"target="target2">torkeln</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/torkeln"target="target3">torkeln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/torkeln"target="target4">torkeln</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Der Mann stieß ihn (<i>Rath</i>) beiseite und stürmte hinein. Eine Tür in dem geräumigen Flur stand offen, die von Raths Zimmer. Und genau dort hinein <strong>tokelte</strong> der Betrunkene. (<i>Der nasse Fisch</i>, 39)' ,
 	'<u>Märzgefallene</u>',
@@ -7592,18 +7613,24 @@ tönen: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 tunken: [
-	'<strong>tunken</strong>  (= <strong>eintauchen</strong>): &nbsp;dip, dunk <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tunken"target="target1">tunken</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tunken"target="target2">tunken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tunken"target="target3">tunken</a> ' ,
+	'<strong>tunken</strong>  (= <strong>eintauchen</strong>): dip, dunk ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tunken"target="target1">tunken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tunken"target="target2">tunken</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tunken"target="target3">tunken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tunken"target="target4">tunken</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah</i>) schlurfte in die Küche hinüber und traute ihren Augen nicht. Ein gedeckter Tisch, eine dampfende Kaffeekanne. Felix hatte tatsächlich Frühstück gemacht. Sogar ein paar Scrippen hatte er irgendwo besorgt.... Sie saßen eine Weile am Tisch, tranken Kaffee und <strong>tunkten</strong> ihre Schrippen ein.  (<i>Märzgefallene</i>, 392)'  ,
 	'Er (<i>Felix</i>) schaute sie (<i>Hannah</i>) an. "Du kommst mit. Schmiere stehen."... <i>Hannah</i>: "Ich weiß nicht." Felix, der gerade dabei gewesen war, ein Stück Schrippe</strong> in seinen Kaffee zu <strong>tunken</strong>, hielt mitten in der Bewegung inne und schaute sie verwundert an. Verwundert und böse.  (<i>Märzgefallene</i>, 392-93)'  ,
 ],
 'tünchen, Tünche': [
-	'<strong>tünchen</strong>:  whitewash  &nbsp;&nbsp;die <strong>Tünche</strong>,-<strong>n</strong>: whitewash, veneer; make-up (Schminke)  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuenchen"target="target1">tünchen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tuenche"target="target2">Tünche</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tunchen"target="target3">tünchen</a>&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuenche#T%C3%BCnche"target="target4">Tünche</a>' ,
+	'<strong>tünchen</strong>:  whitewash <br>die <strong>Tünche</strong>,-<strong>n</strong>: whitewash, veneer; make-up ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuenchen"target="target1">tünchen</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/T%C3%BCnche"target="target2">Tünche</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tuenche#T%C3%BCnche"target="target3">tünchen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=T%C3%BCnche"target="target4">Tünche</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Als er (<i>Rath</i>) vom Treppenhaus auf den grau <strong>getünchten</strong> Korridor trat, blieb er einen Moment gedankenverloren vor der gläsernen Flügeltür stehen, auf der in großen weißen Buchstaben MORDINSPEKTION stand.  (<i>Der nasse Fisch</i>, 34)' ,
 ],
 'Tracht Prügel': [
-	'eine <strong>Tracht Prügel</strong>: &nbsp;spanking, thrashing <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Tracht+Pr%C3%BCgel&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Tracht Prügel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Tracht%20Pr%C3%BCgel"target="target2">Tracht Prügel</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Tracht+Pr%C3%BCgel"target="target3">Tracht Prügel</a> ' ,
+	'eine <strong>Tracht Prügel</strong>: spanking, thrashing ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Tracht+Pr%C3%BCgel&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Tracht Prügel</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/Tracht Prügel"target="target2">Tracht Prügel</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Tracht+Pr%C3%BCgel"target="target2">Tracht Prügel</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/tracht-pruegel"target="target3">Tracht Prügel</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Erich!" (<i>Deckname für Fritze</i>), sagte sie (<i>Charly</i>) also streng. "Wie kannst du deinen Eltern nur so eine Schande machen! Die Leute anbetteln! Schäm dich!".... Sie bekam sein Ohrläppchen zu fassen und zog ihn von Kirie weg. "Eine <strong>Tracht Prügel</strong> hast du verdient!" (<i>Märzgefallene</i>, 352)' ,
 ],
@@ -7660,10 +7687,12 @@ toben: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Trasse: [
-	'die <strong>Trasse</strong>,-<strong>n</strong>: &nbsp;line, route, track (eg, for trains);  embankment <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trasse"target="target1">Trasse</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trasse?q=Trasse"target="target2">Trasse</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trasse"target="target3">Trasse</a> ', 
+	'die <strong>Trasse</strong>,-<strong>n</strong>: line, route, track; embankment ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trasse"target="target1">Trasse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Trasse"target="target2">Trasse</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Trasse"target="target3">Trasse</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trasse"target="target4">Trasse</a> ', 
 	'<u>Märzgefallene</u>',
 	'Der Mann saß an einem stählernen Pfeiler im Schatten der Hochbahn<strong>trasse</strong>, das Kinn auf die Brust gesunken, als sei er kurz eingenickt.  (<i>Märzgefallene</i>, 9)',
-	'Jetzt erkannte Roddeck auch, links neben sich, eine Reihe von Stahträgern und dahinter eine weitere Straßenbahn<strong>trasse</strong>.  (<i>Märzgefallene</i>, 565)',
+	'Jetzt erkannte Roddeck auch, links neben sich, eine Reihe von Stahträgern und dahinter eine weitere Straßenbahn<strong>trasse</strong>.. Er blieb stehen und drehte sich um, leuchtete zurück in die Richtung, aus der er gekommen war. Die Stahlträger reichten bis zu einer massiven Wand, an der sich die <strong>Trassen</strong> teilten.  (<i>Märzgefallene</i>, 565)',
 	'Roddeck stieg zwischen zwei Stahlträgern über ein niedriges Mäuerchen auf die andere <strong>Trasse</strong> und folgte den arbeitslosen Schienen auf der anderen Seite zurück in die Dunkelheit.  (<i>Märzgefallene</i>, 565)',
 ],
 Tresen: [
@@ -7701,27 +7730,42 @@ triezen: [
 	'<i>Gereon</i>: "Da gab\'s an der Luxemburger Straße ein Uhren- und Schmuckgeschäft. Höhne hieß der Mann. Den konnten wir (<i>Gereon und Paul</i>) nicht leiden. Hatte uns als Kinder schon immer <strong>getriezt</strong>.  (<i>Lunapark</i>, 147)' ,
 ],
 'trollen (sich)': [
-	'<strong>sich trollen</strong>: &nbsp;push off, buzz off, beat it  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/trollen_entfernen"target="target1">trollen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trollen"target="target2">trollen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/trollen"target="target3">trollen</a>' ,
+	'<strong>sich trollen</strong>: buzz off, beat it  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/trollen_entfernen"target="target1">trollen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/trollen"target="target2">trollen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/trollen"target="target3">trollen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trollen"target="target4">trollen</a>' ,
 	'<u>Märzgefallene</u>',
 	'Rath arbeitete sich durch die Menge zum Balkon zurück, um etwas zu unternehmen.... Doch bevor er eingreifen konnte, hatten ein paar Männer in roten Uniformen die Braunhemden bereits umzingelt. Die Parolen verstummten, es gab ein kurzes, heftiges Wortgefecht,...und dann <strong>trollten sich</strong> die SA-Männer, von den missbilligenden Blicken der Feiernden verfolgt, die den Rotröcken spontan applaudierten.   (<i>Märzgefallene</i>, 52-53)'  ,
+	'Rath schaute dem Ringvereinler in das verbliebene Auge. Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte.. Nach einer ganzen Weile erst ließ er Raths Hand los und <strong>trollte sich</strong>. Rath hätte ihm am liebsten einen Tritt hinterhergeschickt.  (<i>Märzgefallene</i>, 431)'  ,
 	'Damit hatte er (<i>Fritze</i>) <strong>sich</strong> in die Küche <strong>getrollt</strong>, wo er zwei weitere Tüchen Brausepulver ausgepackt hatte.  (<i>Märzgefallene</i>, 484)'  , 
-	'Grimberg warf Jüppchen einen bösen Blick zu, und der <strong>trollte sich</strong>.  (<i>Märzgefallene</i>, 550)'  ,
+	'Was wollte der Mann noch von ihm? Grimberg warf Jüppchen einen bösen Blick zu, und der <strong>trollte sich</strong>.  (<i>Märzgefallene</i>, 550)'  ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Tropf: [
-	'der <strong>Tropf</strong>, die <strong>Tröpfe</strong>: twit, rascal, simpleton &nbsp;&nbsp;<strong>armer Tropf</strong>: poor devil  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tropf_Dummkopf"target="target1">Tropf</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tropf"target="target2">Tropf</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Tropf"target="target3">Tropf</a> ' ,
+	'der <strong>Tropf</strong>, die <strong>Tröpfe</strong>: twit, rascal, simpleton; drip <br><strong>armer Tropf</strong>: poor devil  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tropf_Dummkopf"target="target1">Tropf</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tropf"target="target2">Tropf</a>   ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Tropf"target="target3">Tropf</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/tropf"target="target4">Tropf</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Sprengmeister Grimberg</i>: "Wosniak hat sogar Meifert beschuldigt, sich das Gold selbst unter den Nagel gerissen zu haben." <i>Rath</i>: "Den Mathematiklehrer? So einen harmlosen <strong>Tropf</strong>?" (<i>Märzgefallene</i>, 276)' ,
 ],
 Tropfen: [
-	'der <strong>Tropfen</strong>,-: drop, drip; tear &nbsp;&nbsp;<strong>tropfen</strong>: to seep, trickle, drip  <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tropfen"target="target1">Tropfen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tropfen"target="target2">tropfen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tropfen"target="target3">Tropfen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tropfen"target="target4">tropfen</a>     ' ,
+	'der <strong>Tropfen</strong>,-: drop, drip <br><strong>tropfen</strong>: seep, trickle, drip  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tropfen"target="target1">Tropfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tropfen"target="target2">tropfen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tropfen"target="target3">Tropfen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tropfen"target="target4">tropfen</a>     ' ,
+	'<u>Der nasse Fisch</u>',
+	'Das Geräusch der <strong>Tropfen</strong> nicht beachten, so laut es auch war. <strong>Tropfen</strong>, die auf einen harten, feuchten Boden fielen. Er wusste, dass es sein eigenes Blut war, das da auf den Beton <strong>tropfte</strong>. (<i>Der nasse Fisch</i>, 9)' ,
+	'Rath blies Zigarettenrauch über den Schriebtisch. Von den Tschakos an den Garderobenhaken <strong>tropfte</strong> Regenwasser auf den Linoleumboden, grünes Linoleum, wie es auch in den Büros der Kriminalpolizei am Alexanderplatz verlegt war.  (<i>Der nasse Fisch</i>, 14-15)' ,
+	'Er (<i>Rath</i>) lauschte in die Nacht. Er hörte Regen<strong>tropfen</strong>, die von Dachrinnen oder Fenstervorsprüngen auf den Asphalt <strong>tropften</strong>.  (<i>Der nasse Fisch</i>, 212)' ,
 	'<u>Märzgefallene</u>',
 	'Abwasserrohre und Stromkabel verliefen unter der niedrigen Decke, ab und zu löste sich ein Wasser<strong>tropfen</strong> und platschte mit einem leisen Geräusch auf den Betonboden.  (<i>Märzgefallene</i>, 108)' ,
 	'Wieder platschte ein Wasser<strong>tropfen</strong> auf den Boden. Eine halbe Ewigkeit schon hörte Leo nun dieses <strong>Tropfen</strong>. (<i>Märzgefallene</i>, 110)' ,
+	'Minus (<i>Linus Meifert</i>) saß auf der Parkbank, als sei er über der Zeitungslektüre eingenickt. Ein idyllisches Bild, bis auf das Blut, das aus dem linken Nasenloch sickerte und rot auf die Zeitung <strong>tropfte</strong>.   (<i>Märzgefallene</i>, 246)' ,
+	'Der Weinauswahl überließ Rath dem Freund, und Paul orderte ohne lange zu suchen eine Flasche Moselwein. "Aus dem Hause Wittkampf?", fragte Rath, als der Kellner wieder verschwunden war. Paul nickte. "Der beste <strong>Tropfen</strong>, den ich verfaufe."    (<i>Märzgefallene</i>, 299)' ,
 ],
 'Tross/Troß': [
-	'der <strong>Tross/Troß</strong>, die <strong>Trosse</strong>:  baggage train, hangers-on; company, crowd <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tross"target="target1">Tross</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tross#Tross%20(Tro%C3%9F)"target="target2">Tross</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Tross"target="target3">Tross</a>  ' ,
+	'der <strong>Tross/Troß</strong>, die <strong>Trosse</strong>: entourage, hangers-on; crowd ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tross"target="target1">Tross</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tross"target="target2">Tross</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tross#Tross%20(Tro%C3%9F)"target="target3">Tross</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Tross"target="target4">Tross</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Rath führte seinen Nachbarn mit dem Bärbelchen zusammen, murmelte eine Entschuldigung und schloss sich dem <strong>Tross</strong> des Dreigestirns an.   (<i>Märzgefallene</i>, 50)' ,
 	'Unten im Kellergang wartete ein grimmig grinsender Horst Kaczmarek. Hinter ihm standen alle Gefangenen in Reih und Glied. Sogar die Frauen hatten sie aus den Zellen geholt. Alle schauten ängstlich auf Leo und den <strong>Tross</strong>, der ihn begleitete. (<i>Märzgefallene</i>, 223)' ,
@@ -7729,23 +7773,38 @@ Tropfen: [
 	'<u>Lunapark</u>',
 	'Der neue Stapo-Chef kam aus München und hieß Reinhard Heydrich, tanzte nach der Pfeife von SS-Chef Heinrich Himmler und hatte gleich einen ganzen <strong>Tross</strong> Mitarbeiter aus der Nazi-Stadt mit nach Berlin gebracht.  (<i>Lunapark</i>, 24)' ,
 ],
-'Trost (nicht ganz bei T. sein)': [
-	'der <strong>Trost</strong>: comfort, consolation &nbsp;&nbsp;<strong>nicht ganz bei Trost sein</strong>: be out of one\'s mind; <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trost"target="target1">Trost</a> &nbsp;&nbsp;<a href ="https://www.wortbedeutung.info/nicht_ganz_bei_Trost_sein/"target="target2">nicht ganz bei Trost sein</a><br>English Definitions: &nbsp;<a href="https://www.dict.cc/?s=nicht+%28ganz+%2F+recht%29+bei+Trost+sein"target="target3">nicht ganz bei Trost sein</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trost?q=nicht+ganz+bei+Trost+sein"target="target4">nicht ganz bei Trost sein</a> ' ,
+'Trost (nicht bei T. sein)': [
+	'der <strong>Trost</strong>: comfort, consolation <br><strong>nicht bei Trost sein</strong>: be out of one\'s mind ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trost"target="target1">Trost</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nicht%20bei%20Trost%20sein"target="target2">nicht bei Trost sein</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=nicht+%28ganz+%2F+recht%29+bei+Trost+sein"target="target3">nicht bei Trost sein</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trost?q=nicht+ganz+bei+Trost+sein"target="target4">nicht bei Trost sein</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Kannst du kurz unterbrechen?", fragte Rath. Wolter.. ging mit Rath nach draußen. Der Onkel zog ihn in eine Nische.. "<strong>Bist</strong> du noch <strong>bei Trost</strong>?", zischte er, als sie unter sich waren. "Du kannst doch nicht einfach so in mein Büro stürmen und ein Verhör unterbrechen."  (<i>Der nasse Fisch</i>, 266)' ,
 	'<u>Märzgefallene</u>',
-	'"Gibt es etwas Neues von Hannah Singer?", fragte Charly, als sie ihm (<i>Gereon</i>) den Salzstreuer reichte. "Wie?" Sie guckte ihn an, als sei er <strong>nicht ganz bei Trost</strong>.  (<i>Märzgefallene</i>, 105)' ,
+	'"Gibt es etwas Neues von Hannah Singer?", fragte Charly, als sie ihm (<i>Gereon</i>) den Salzstreuer reichte. "Wie?" Sie guckte ihn an, als sei er <strong>nicht</strong> ganz <strong>bei Trost</strong>.  (<i>Märzgefallene</i>, 105)' ,
+],
+'nicht bei Trost sein': [
+	'der <strong>Trost</strong>: comfort, consolation <br><strong>nicht bei Trost sein</strong>: be out of one\'s mind ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trost"target="target1">Trost</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nicht%20bei%20Trost%20sein"target="target2">nicht bei Trost sein</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=nicht+%28ganz+%2F+recht%29+bei+Trost+sein"target="target3">nicht bei Trost sein</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/trost?q=nicht+ganz+bei+Trost+sein"target="target4">nicht bei Trost sein</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Kannst du kurz unterbrechen?", fragte Rath. Wolter.. ging mit Rath nach draußen. Der Onkel zog ihn in eine Nische.. "<strong>Bist</strong> du noch <strong>bei Trost</strong>?", zischte er, als sie unter sich waren. "Du kannst doch nicht einfach so in mein Büro stürmen und ein Verhör unterbrechen."  (<i>Der nasse Fisch</i>, 266)' ,
+	'<u>Märzgefallene</u>',
+	'"Gibt es etwas Neues von Hannah Singer?", fragte Charly, als sie ihm (<i>Gereon</i>) den Salzstreuer reichte. "Wie?" Sie guckte ihn an, als sei er <strong>nicht</strong> ganz <strong>bei Trost</strong>.  (<i>Märzgefallene</i>, 105)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Trott, trotten': [
-	'der <strong>Trott</strong>,-<strong>e</strong>: jog, trot; daily grind/routine &nbsp;&nbsp;<strong>trotten</strong>: trot, plod, amble <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trott"target="target1">Trott</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/trotten"target="target2">trotten</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trott"target="target3">Trott</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/trotten"target="target4">trotten</a>   ' ,
+	'der <strong>Trott</strong>,-<strong>e</strong>: jog, trot; daily grind <br><strong>trotten</strong>: trot, plod, amble ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trott"target="target1">Trott</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/trotten"target="target2">trotten</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/trott"target="target3">Trott</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=trotten"target="target4">trotten</a>   ' ,
+	'<u>Der nasse Fisch</u>',
+	'<i>Rath träumt</i>: Und dann fielen die Schüsse. Reihenweise kippten die Frauen um. Kaum war eine Reihe umgemäht, trat die nächste nach vorn. Wortlos, wie Schafe, die zur Schlachtbank <strong>trotteten</strong>.  (<i>Der nasse Fisch</i>, 36)' ,
 	'<u>Märzgefallene</u>',
 	'Was für ein Tag! Da durfte sie (<i>Charly</i>) ausnahmsweise mal raus aus ihrem Alltags<strong>trott</strong> bei der WKP, und dann ging das derart daneben.  (<i>Märzgefallene</i>, 61)' ,
    'Er (<i>Gereon</i>) klinkte Kiries Halsband aus, und der Hund <strong>trottete</strong> gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch.  (<i>Märzgefallene</i>, 147)' ,
    '"Wir müssen los", sagte er (<i>Fritze</i>) und streckte sich. "Bevor die hier antanzen und wieder aufschließen. Wenn die uns aus der Kiste krabbeln sehen, denn is’s aus." Daran hatte Hannah gar nicht gedacht. Sie stieg aus und folgte ihm, immer noch ziemlich verschlafen, <strong>trottete</strong> einfach hinterher durch das immer noch dunkle Kaufhaus. (<i>Märzgefallene</i>, 172)' ,
 	'<u>Lunapark</u>', 
-	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den deselben <strong>Trott</strong> fallen wollen wie seinerzeit with Reihold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war.  (<i>Lunapark</i>, 69-70)' ,
+	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den denselben <strong>Trott</strong> fallen wollen wie seinerzeit with Reihold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war.  (<i>Lunapark</i>, 69-70)' ,
 ],
 Trottel: [
 	'der <strong>Trottel</strong>,-: fool, idiot, know-nothing  ' +
@@ -7768,17 +7827,23 @@ Trubel: [
 	'Rath verspürte einen Stich. Das ganze lag schon eine halbe Ewigkeit zurück, doch sah er dieses Bild vor sich, als sei es erst gestern geschehen: Hochbetrieb im wiedereröffneten Aschinger. Charly, die sich inmitten dieses <strong>Trubels</strong> mit einem fremden Mann traf.. Er konnte es nicht ertragen, wenn andere Männer Charly zum Lachen brachten.  (<i>Lunapark</i>, 158)' ,
 ],
 Truhe: [
-	'die <strong>Truhe</strong>,-<strong>n</strong>: &nbsp;chest, cabinet, foot locker <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Truhe"target="target1">Truhe</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/truhe?q=Truhe"target="target2">Truhe</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/truhe"target="target3">Truhe</a> ',
+	'die <strong>Truhe</strong>,-<strong>n</strong>: chest, cabinet, foot locker ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Truhe"target="target1">Truhe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Truhe"target="target2">Truhe</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/truhe?q=Truhe"target="target3">Truhe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Truhe"target="target4">Truhe</a> ', 
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah</i>) schaute sich alles genau an, bis sie glaubte, den geeigneten Schlafplatz gefunden zu haben. Eine große hölzerne <strong>Truhe</strong>.... Am liebsten wäre sie sogleich dort hineingestiegen, doch das ging nicht. Schon als sie den Deckel nur kurz anhob, spürte sie ein halbes Dutzend Augenpaare neugierig auf sich gerichtet. Hannah machte ein prüfendes, abschätzendes Gesicht, als spiele sie tatsächlich mit dem Gedanken, die <strong>Truhe</strong> zu kaufen, und ließ den Deckel wieder sinken. (<i>Märzgefallene</i>, 152)' ,
 	'Sie (<i>Hannah</i>) arbeitete sich langsam vor bis zur Möbelabteilung, immer Deckung hinter irgendwelchen Regalen suchend, bis sie ihre <strong>Truhe</strong> endlich erreicht hatte. Hannah griff eins der Kissen, mit denen das Sofa neben der <strong>Truhe</strong> drapiert war, hob den Deckel an und stieg hinein. (<i>Märzgefallene</i>, 154)' ,
 	'Es roch nach Holz, und langsam kam die Erinnerung. Das Kaufhaus Jonass. Die <strong>Truhe</strong>. Der Junge, den sie schließlich doch hineingelassen hatte. Es war ziemlich eng, aber irgendwie hatten sie sich aneinandergeschmiegt, und dann war Hannah auch schnell eingeschlafen. Seit Ewigkeiten hatte sie nicht mehr so gut geschlafen wie in dieser Holz<strong>truhe</strong>. Der Junge hob den Deckel hoch, und es wurde hell. Sie konnte sein Gesicht jetzt deutlicher sehen.... Er schaute sich im Verkaufsraum um, dann stieg er aus der <strong>Truhe</strong>. (<i>Märzgefallene</i>, 172)' ,
 	'Seit jener Nach bei Jonass zu zweit in der engen <strong>Truhe</strong> war Hannah keinen Augenblick mehr ohne Fritze unterwegs gewesen.    (<i>Märzgefallene</i>, 253)' ,                   
+	'<u>Lunapark</u>',
+	'Viel erkennen konnte er nicht, es sah alles gleichförmig aus. Und dann begriff er, warum: Über sämtliche Tische und Stühle, Sessel und Sofas, Schränke und <strong>Truhen</strong> hatte man weiße Tücher geworfen. Es wirkte wie eine Versammlung regloser Gespenster. Möbelgespenster.  (<i>Lunapark</i>, 253)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 tupfen: [
-	'<strong>tupfen</strong>: &nbsp;dab, swab, sponge <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tupfen"target="target1">tupfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/tupfen"target="target2">tupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tupfen"target="target3">tupfen</a> ' ,
+	'<strong>tupfen</strong>: dab, swab, sponge ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tupfen"target="target1">tupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tupfen"target="target2">tupfen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/tupfen"target="target3">tupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tupfen"target="target4">tupfen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Der Doktor (<i>Schwartz</i>) fluchte. Eine der Tauben, die oben in den Stahlstreben gurrten, hatte einen hellen Fleck auf seinem dunklen Wintermantel hinterlassen. Schwartz zog ein blütenweißes Taschentuch hervor und versuchte, die Sauerei wieder wegzu<strong>tupfen</strong>. (<i>Märzgefallene</i>, 17)' ,
 	'Es war zwar kein richtiger rheinischer Sauerbraten, aber mit etwas Salz ging’s. Rath nahm noch einmal nach und freute sich über ihr (<i>Charlys</i>) glückliches Gesicht. "Und jetzt?", sagte er und <strong>tupfte sich</strong> den Mund mit der Serviette ab. "Lust auf ein wenig Nachtisch?...." (<i>Märzgefallene</i>, 105-106)' ,

@@ -3,7 +3,7 @@ const g = [
    'Ganove', //Ganove:  
    'Geäst',  //Geäst:  
    'Gebälk', //Gebälk:  
-   'Gebrüll',  //Gebrüll:  
+   'Gebrüll',  // Gebrüll:  
    'gediegen',  //gediegen:
    'gefasst',  // gefasst: *
    'geflissentlich',   //geflissentlich: 

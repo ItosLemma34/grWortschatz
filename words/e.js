@@ -12,7 +12,7 @@ const e = [
    'einlullen',  //einlullen:  
    'einnicken',  //einnicken:  
    'Einöde',   //Einöde:  
-   'einrasten',  //einrasten:  
+   'einrasten',  // einrasten: * 
    'einreißen',  //einreißen:  
    'einrüsten',  //einrüsten:  
    'einseifen',  //einseifen: 

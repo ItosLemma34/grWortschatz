@@ -1,9 +1,9 @@
 const r = [
    'Rabauke', // Rabauke:  *
    'Rabe',  // Rabe: *
-   'rabiat' , // rabiat:
-   'Radau, Radaubruder', //
-   'rammen' ,  // rammen:
+   'rabiat', // rabiat: *
+   'Radau, Radaubruder', // *
+   'rammen',  // rammen:
    'ramponiert, ramponieren' ,  // 
    'Rangelei',  // Rangelei:
    'Ranzen',  // Ranzen:
@@ -11,12 +11,12 @@ const r = [
    'rasen',  //rasen:
    'Ratsch' , // Ratsch:
    'Rätselraten', // Rätselraten:
-   'rattern' ,  //rattern:              
+   'rattern',  //rattern:              
    'Räuberpistole' ,  // Räuberpistole:
    'Raufbold', // Raufbold: * 
    'Rauflust',  //Rauflust:
    'Raunen, raunen' , //
-   'Raureif' , // Raureif:
+   'Raureif', // Raureif:
    'recken',  // recken:
    'Reinfall', // Reinfall:
    'reinsemmeln' , // reinsemmeln:

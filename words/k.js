@@ -98,6 +98,7 @@ const k = [
    'kramen',  // kramen:
    'Kran',  // Kran:
    'Kratzbürstigkeit',  // Kratzbürstigkeit:
+   'kratzen',  // kratzen: * 
    'kraulen',   // kraulen:
    'kräuseln',  // kräuseln:  *
    'Kreisel',  // Kreisel:

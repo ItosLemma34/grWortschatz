@@ -3,7 +3,7 @@ const g = [
    'Ganove', //Ganove:  
    'Geäst',  //Geäst:  
    'Gebälk', //Gebälk:  
-   'Gebrüll',  // Gebrüll:  
+   'Gebrüll, brüllen',  // * duplicated  
    'gediegen',  //gediegen:
    'gefasst',  // gefasst: *
    'geflissentlich',   //geflissentlich: 
@@ -53,7 +53,7 @@ const g = [
    'Gewühl',   //Gewühl:
    'Gewummer, wummern', // * duplicated  
    'gewunden', //gewunden:  
-   'Gier',     //Gier:  
+   'Gier, gieren',  //  * 
    'giften',   //giften:  
    'giggeln',  //giggeln:  
    'Gips',   //Gips:  

@@ -7,6 +7,7 @@ const b = [
     'Bartstoppeln', //Bartstoppeln: 
     'Baskenmütze',  //Baskenmütze:  
     'bauschen',    //bauschen: 
+    'beäugen',  // beäugen: *
     'bedröppelt',  //bedröppelt: 
     'beflissen',  //beflissen:
     'begrapschen',  //begrapschen: 
@@ -56,6 +57,7 @@ const b = [
     'Brett, Bretterwand, Bretterverschlag',  // 
     'Brimborium',   //Brimborium:  
     'bröckeln',  //bröckeln: 
+    'brüllen, Gebrüll', // *  duplicated
     'brummig, Brummigkeit',   // 
     'Brüstung',  //Brüstung: 
     'Buche',    //Buche: 

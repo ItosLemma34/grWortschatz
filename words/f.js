@@ -50,7 +50,7 @@ const f = [
    'Frotzelei',  //Frotzelei:  
    'fuchteln, Fuchtel', //  *
    'fuhrwerken' ,  //fuhrwerken:   
-   'fummeln',    //fummeln:  
+   'fummeln',    // fummeln:  
    'funzelig',   //funzelig:  
    'Furz',     //Furz:  
    'Futter',  //Futter:  

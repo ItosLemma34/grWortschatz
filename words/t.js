@@ -23,7 +23,7 @@ const t = [
    'trippeln', // trippeln:  *
    'trollen (sich)',  // *
    'Tropf',  // Tropf: * 
-   'Tropfen',  // Tropfen:  *
+   'Tropfen, tropfen',  //   *
    'Tross/Troß', // *
    'Trost (nicht bei T. sein)',  // *  duplicated
    'Trott, trotten',  // *

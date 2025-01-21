@@ -2,7 +2,7 @@ const h = [
   'Habgier',  //Habgier:
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
    'Häkchen',  //Häkchen:
-   'haken, Haken, Haken schlagen', //
+   'haken, Haken, Haken schlagen', // Review the definitions
    'halbseiden',  //halbseiden:
    'Halunke',  //Halunke:
    'hämisch',  //hämisch:

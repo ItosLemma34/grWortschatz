@@ -46,7 +46,7 @@ const a = [
 	'anpflaumen',   //anpflaumen:  
 	'anpumpen',     //anpumpen: 
 	'anquatschen',   //anquatschen: 
-	'anraunzen',     //anraunzen:  
+	'anraunzen',     // anraunzen: *
 	'anrempeln',    // anrempeln: *
 	'Anrichte',     //Anrichte:  
 	'ans Bein binden',  //
@@ -54,7 +54,7 @@ const a = [
 	'anschmiegsam', //anschmiegsam: 
 	'anschnauzen',  //anschnauzen: 
 	'anschnorren, schnorren', // * duplicated
-	'anschwärzen',  //anschwärzen:  
+	'anschwärzen',  // anschwärzen:  *
 	'ansengen',     //ansengen:  
 	'Ansinnen' ,    // Ansinnen: * 
 	'anstupsen',    //anstupsen:  

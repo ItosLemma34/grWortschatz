@@ -38,7 +38,7 @@ const p = [
    'Präsent, präsent',  //
    'prasseln',  // prasseln:
    'Prise' ,  // Prise:
-   'Pritsche', // Pritsche:
+   'Pritsche', // Pritsche: *
    'Prothese', // Prothese: *
    'Protz, protzen, protzig' , //
    'prusten',  // prusten:

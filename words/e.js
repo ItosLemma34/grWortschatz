@@ -1,6 +1,6 @@
 const e = [
    'Ebbe',   //Ebbe:  
-   'echoen',    //echoen:  
+   'echoen',  // echoen:  
    'einbrocken',  //einbrocken:  
    'einbuchten',  //einbuchten:  
    'Eindruck schinden',  //  

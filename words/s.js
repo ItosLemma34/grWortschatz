@@ -60,7 +60,7 @@ const s = [
    'Schnalle, schnallen', //  *
    'Schnapsidee' ,  // Schnapsidee:  *
    'schnarchen' ,  // schnarchen:
-   'schnarren',  //schnarren:  *
+   'schnarren',  // schnarren:  *
    'schnattern (in einem fort)',  // * duplicated
    'schnauben', // schnauben: *
    'schnaufen',  // schnaufen: *
@@ -110,7 +110,7 @@ const s = [
    'Sippenhaft', // Sippenhaft: *
    'skandieren', //skandieren:  *
    'Sore',  // Sore: *
-   'soufflieren',  //soufflieren: *
+   'soufflieren',  // soufflieren: *
    'Spalier',  // Spalier:  *
    'Spanner', // Spanner:  *
    'Spaten',  // Spaten:  *
@@ -122,6 +122,7 @@ const s = [
    'Spieß, spießen',  // 'Spieß, spießen' *
    'spitzkriegen',  //spitzkriegen:  *
    'Sprechmuschel',  // Sprechmuschel:
+   'spreizen', // spreizen: *
    'Spreu vom Weizen trennen',  //  *
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *

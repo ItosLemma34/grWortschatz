@@ -3,16 +3,16 @@ const r = [
    'Rabe',  // Rabe: *
    'rabiat', // rabiat: *
    'Radau, Radaubruder', // *
-   'rammen',  // rammen:
-   'ramponiert, ramponieren' ,  // 
-   'Rangelei',  // Rangelei:
+   'rammen',  // rammen: *
+   'ramponiert, ramponieren' , // * 
+   'Rangelei',  // Rangelei: *
    'Ranzen',  // Ranzen:
    'rascheln', // rascheln:
    'rasen',  //rasen:
-   'Ratsch' , // Ratsch:
+   'Ratsch', // Ratsch:
    'Rätselraten', // Rätselraten:
    'rattern',  //rattern:              
-   'Räuberpistole' ,  // Räuberpistole:
+   'Räuberpistole',  // Räuberpistole:
    'Raufbold', // Raufbold: * 
    'Rauflust',  //Rauflust:
    'Raunen, raunen' , //

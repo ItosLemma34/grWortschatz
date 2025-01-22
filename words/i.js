@@ -10,7 +10,7 @@ const i = [
    'ins Fettnäpfchen treten', // * duplicated
    'ins Handwerk pfuschen',  // * duplicated
    'ins Haus stehen', //
-   'inspizieren',  //inspizieren:
+   'inspizieren',  // inspizieren: *
 ];
 
 export default i;   

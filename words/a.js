@@ -52,7 +52,7 @@ const a = [
 	'ans Bein binden',  //
 	'anschleichen (sich)', //
 	'anschmiegsam', //anschmiegsam: 
-	'anschnauzen',  //anschnauzen: 
+	'anschnauzen',  // anschnauzen: 
 	'anschnorren, schnorren', // * duplicated
 	'anschwärzen',  // anschwärzen:  *
 	'ansengen',     //ansengen:  

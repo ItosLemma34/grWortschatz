@@ -6,10 +6,10 @@ const r = [
    'rammen',  // rammen: *
    'ramponiert, ramponieren' , // * 
    'Rangelei',  // Rangelei: *
-   'Ranzen',  // Ranzen:
-   'rascheln', // rascheln:
-   'rasen',  //rasen:
-   'Ratsch', // Ratsch:
+   'Ranzen',  // Ranzen:  *
+   'rascheln', // rascheln: *
+   'rasen',  // rasen: *
+   'Ratsch', // Ratsch: *
    'Rätselraten', // Rätselraten:
    'rattern',  //rattern:              
    'Räuberpistole',  // Räuberpistole:

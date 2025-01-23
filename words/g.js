@@ -38,7 +38,7 @@ const g = [
    'Gesindel',    //Gesindel:  
    'gesittet',    //gesittet:  
    'gestanden',  //gestanden:  
-   'Gestänge',   //Gestänge:  
+   'Gestänge',   // Gestänge:  
    'Gestell',    //Gestell:  
    'Gestöber',   //Gestöber:  
    'Gesträuch',  //Gesträuch:  

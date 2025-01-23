@@ -12,7 +12,7 @@ const k = [
    'Kassiber',  //Kassiber:
    'Kater, verkatert', // *
    'katzbuckeln',  //katzbuckeln:
-   'kauern',  //kauern:
+   'kauern',  // kauern: *
    'Kauz',  // Kauz:
    'kauzig',  //kauzig:
    'kegeln',  //kegeln:
@@ -20,7 +20,7 @@ const k = [
    'keinen Reim machen können', //
    'Kelch',  //Kelch:
    'Kerbholz (auf dem K. haben)',//
-   'ketten, Kette', //
+   'ketten, Kette', // *
    'kichern',  //kichern:
 //   'Kieker (auf dem Kieker haben)',
    'Kies, Kiesel', //
@@ -60,7 +60,7 @@ const k = [
    'Klüngel',  //Klüngel:
    'knallen', // knallen: *
    'Knarre',  // Knarre:
-   'knarren', // knarren:
+   'knarren', // knarren: *
    'knarzen', // knarzen:
    'knattern', // knattern:
    'Knäuel',  // Knäuel:

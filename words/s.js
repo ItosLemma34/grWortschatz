@@ -96,6 +96,7 @@ const s = [
    'schütten',  // schütten:  *       
    'schütter',  // schütter:  *
    'Schütze',  // Schütze:  *
+   'schwafeln', // schwafeln *
    'schwanen', // schwanen:  *
    'Schwanz einziehen/einkneifen', // *
    'Schwebebahn',  // Schwebebahn: *

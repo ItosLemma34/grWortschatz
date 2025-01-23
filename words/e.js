@@ -10,7 +10,7 @@ const e = [
    'einkringeln',  //einkringeln:  
    'einlochen',  //einlochen:  
    'einlullen',  //einlullen:  
-   'einnicken',  //einnicken:  
+   'einnicken',  // einnicken: * 
    'Einöde',   //Einöde:  
    'einrasten',  // einrasten: * 
    'einreißen',  //einreißen:  

@@ -15,6 +15,7 @@ const m = [
    'miefig, Mief',  //
    'mimen', // mimen:
    'mit allen Wassern gewaschen', // * duplicated
+   'mitgenommen',  // mitgenommen: *
    'Mohrrübe', // Mohrrübe:
    'Muffel',  // Muffel:
    'Mühle',  // Mühle:

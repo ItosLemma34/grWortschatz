@@ -79,11 +79,12 @@ const v = [
    'verunglimpfen',  // verunglimpfen:  *
    'verunzieren',  // verunzieren:  *
    'Verwahrlosung, verwahrlosen', // *
-   'verwaisen',  // verwaisen: *
+   'verwaisen, verwaist',  //  *
    'verwegen',  // verwegen:  *
    'verwesen, Verwesung',  // *
    'verwetten',  // verwetten: *
    'verwittern', // verwittern: * 
+   'verwuscheln, verwuschelt', // *
    'verwüsten',  // verwüsten:  *
    'verzückt', // verzückt:  *
    'vierschrötig', // vierschrötig:  * 

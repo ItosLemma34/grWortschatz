@@ -9,7 +9,7 @@ const a = [
 	'abgreifen',  //abgreifen: 
 	'abhängen',   //abhängen: 
 	'abkanzeln' , // abkanzeln:
-	'abklappern', //abklappern: *
+	'abklappern', // abklappern: *
 	'abknallen',  //abknallen:  
 	'abkommandieren',  //abkommandieren: 
 	'Ablage',     //Ablage:  
@@ -127,7 +127,7 @@ const a = [
 	'Ausdünstung',  //Ausdünstung:  
 	'Ausfallstraße',   //Ausfallstraße:  
 	'ausfressen',   //ausfressen:  
-	'ausheben, Aushebung',  //  
+	'ausheben, Aushebung',  //  * 
 	'aushorchen',  //aushorchen:  
 	'ausklinken',  //ausklinken:  
 	'ausquetschen',  // ausquetschen:  

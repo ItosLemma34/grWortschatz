@@ -1,5 +1,5 @@
 const d = [
-   'dämlich, Dämlichkeit',   //
+   'dämlich, Dämlichkeit',  // *
    'Dampframme',  //Dampframme:  
    'Dampfwalze',  //Dampfwalze:  
    'Deckel',   //Deckel: 

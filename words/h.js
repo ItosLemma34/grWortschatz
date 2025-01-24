@@ -24,7 +24,7 @@ const h = [
    'Heidenrespekt/angst', //
    'Heimtücke, heimtückisch', // *
    'heimzahlen',  //heimzahlen:
-   'heiser',  //heiser:
+   'heiser',  // heiser: *
    'Hemd (sich ins H. machen)', //
    'hereinlegen',  //hereinlegen:
    'herumfuhrwerken',  // herumfuhrwerken:

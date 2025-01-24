@@ -1,6 +1,6 @@
 const n = [
    'nach dem Rechten sehen', //
-   'nachhaken',  // nachhaken:
+   'nachhaken',  // nachhaken: *
    'Nachhut', // Nachhut:
    'nachsetzen',  // nachsetzen:
    'nagen',  // nagen: * 
@@ -16,7 +16,7 @@ const n = [
    'niesen',  // niesen:
    'Nobel geht die Welt zugrunde' , //
    'Nörgler',  // Nörgler:
-   'nuscheln', //nuscheln:
+   'nuscheln', // nuscheln: *
    'Nutte',  // Nutte:        
  ];
 

@@ -2400,10 +2400,16 @@ fadenscheinig: [
 	'Und dann dachte sie (<i>Charly</i>) an Karin van Almsick, die sie vorhin in der Burg mit einer <strong>fadenscheinigen</strong> Ausrede zurückgelassen hatte, und wusste wieder warum sie das tat: Um nicht den ganzen Tag mit sinnlosem Stumpfsinn zu verplempern. (<i>Märzgefallene</i>, 335)',
 ],
 'flehen, flehentlich': [
-	'<strong>flehen</strong>: beg, beseech, implore &nbsp;&nbsp;&nbsp;<strong>flehentlich</strong>: beseeching(ly), imploring(ly) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flehen"target="target1">flehen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flehentlich"target="target2">flehentlich</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flehen"target="target3">flehen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flehentlich"target="target4">flehenlich</a>   ',
+	'<strong>flehen</strong>: beg, beseech, implore <br><strong>flehentlich</strong>: beseeching(ly), imploring(ly) ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flehen"target="target1">flehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/flehentlich"target="target2">flehentlich</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flehen"target="target3">flehen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flehentlich"target="target4">flehenlich</a>',
 	'<u>Märzgefallene</u>',
 	'Ede Schürmann sah ihn (<i>Rath</i>) <strong>flehentlich</strong> an. So bittend und betteld hatte Rath den Taschendieb nicht einmal seinerzeit bei den Vernehmungen erlebt. (<i>Märzgefallene</i>, 318)',
+	'Charly schaute den Jungen (<i>Fritze</i>) an, der sie <strong>flehentlich</strong> anstarrte. Sein Mund lächelte, aber in seinen Augen stand die nackte Angst.   (<i>Märzgefallene</i>, 352)',
 	'<i>der Schupo zu Charly</i>: "Entschuldigen Sie, aber wir hatten gedacht, der Bengal sei aus einem Heim ausgebüxt." Der Junge (<i>Fritze</i>)  war immer noch mit Kirie beschäftigt, doch beim Wort Heim schaute er Charly an, und das <strong>Flehen</strong> in seinen Augen wurde noch größer. (<i>Märzgefallene</i>, 352)',
+	'<u>Lunapark</u>',
+	'Sie (<i>Frau Brachwitz</i>) blickte sich um, als müsse sie sichergehen, dass niemand mithörte. "Ich wollte da nicht reingezogen werden", sagte sie und schaute Rath mit <strong>flehentlichem</strong> Blick an. "Herr Kommissar, ich habe es gesehen!"   (<i>Lunapark</i>, 171)',
+	'Der Blick des Mannes (<i>Herr Brachwitz</i>) wanderte von Rath zu seiner Frau und wieder zurück. "Und du Schlampe", fuhr er sie an, "läufst um diese Zeit noch im Morgenmantel rum? Mach, dass du rauskommst, und zieh dir was an!" Die Frau raffte ihren Mantel zusammen, warf Rath noch einen <strong>flehentlichen</strong> Blick zu und verschwand dann nach hinten.     (<i>Lunapark</i>, 189)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -6024,7 +6030,9 @@ Ratsch: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 rattern: [
-	'<strong>rattern</strong>: &nbsp;rattle, clatter, chatter <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rattern"target="target1">rattern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rattern"target="target2">rattern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rattern"target="target3">rattern</a>  ' ,
+	'<strong>rattern</strong>: rattle, clatter, chatter ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rattern"target="target1">rattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rattern"target="target2">rattern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rattern"target="target3">rattern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rattern"target="target4">rattern</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'Das Haus direkt neben der Milchwirtschaft war das richtige. Über die Hochbahn am Wassertorplatz <strong>ratterte</strong> ein Zug, als Rath in den Hauseingang trat.  (<i>Der nasse Fisch</i>, 48)' ,
 	'Sein Blick wanderte aus dem Fenster über die Stadtbahngleise auf die dunkle Mauer des Gerichtsgebäudes. Ein Zug <strong>ratterte</strong> vorbei.  (<i>Der nasse Fisch</i>, 50)' ,
@@ -8420,6 +8428,20 @@ unverfänglich: [
 ],
 // Vstart '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+'vergreifen (sich)': [
+	'<strong>sich</strong> an jmdm. <strong>vergreifen</strong>: assault so.' +
+	'<br><strong>sich</strong> in etw. <strong>vergreifen</strong>: make a mistake in sth.' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vergreifen"target="target1">vergreifen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vergreifen"target="target2">vergreifen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/vergreifen#sense-1.4.1"target="target3">vergreifen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=vergreifen"target="target4">vergreifen</a> ' ,
+//	'<u>Der nasse Fisch</u>',
+//	'<u>Der stumme Tod</u>',
+//	'<u>Märzgefallene</u>',
+	'<u>Lunapark</u>',
+	'<i>Rath</i>: "Nichts für ungut, Herr Brachwitz", sagte Rath.., "aber ich denke, Sie sollten Ihre Frau besser behandeln." <i>Brachwitz</i>: "Ich wüsste nicht, was die Polizei das angeht." "Nichts. Solange Sie <strong>sich</strong> nicht an ihr <strong>vergreifen</strong>. Oder sie umbringen." Rath tippte an seine Hutkrempe und ging zur Tür. "Sehen Sie es einfach als gut gemeinten Ratschlag. Von Ehemann zu Ehemann."   (<i>Lunapark</i>,189)',
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 'verwuscheln, verwuschelt': [
 	'<strong>verwuscheln</strong>: tousle, ruffle  &nbsp;<strong>verwuschelt</strong>: tousled  ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwuscheln"target="target1">verwuscheln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verwuscheln?o=verwuschelt"target="target2">verwuschelt</a>  ' +
@@ -10510,7 +10532,8 @@ lau Der nasse Fisch 239
  Prokurist  Lunapark 7
  pudern Der nasse Fisch 119      
  puffen Lunapark 157            
- quittieren   Märzgefallene  509    
+ quittieren   Märzgefallene  509   
+ raffen (zusammen) Lunapark 189
  'Rampe'  ;   Nworte++;       Märzgefallene  55 
  Rangieren Lunapark 80     
  ranken  Der nasse Fisch 177

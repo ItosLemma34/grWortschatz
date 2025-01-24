@@ -11,7 +11,7 @@ const r = [
    'rasen',  // rasen: *
    'Ratsch', // Ratsch: *
    'Rätselraten', // Rätselraten: *
-   'rattern',  //rattern:              
+   'rattern',  // rattern: *             
    'Räuberpistole',  // Räuberpistole:
    'Raufbold', // Raufbold: * 
    'Rauflust',  //Rauflust:

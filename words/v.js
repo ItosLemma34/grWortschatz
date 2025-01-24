@@ -18,6 +18,7 @@ const v = [
    'vergaloppieren (sich)', // *
    'vergewissern (sich)', // *
    'ver­grau­len, Vergraulung', // *
+   'vergreifen (sich)', // *
    'verhageln' ,  // verhageln:  *
    'verhallen' ,  // verhallen: *
    'verheben (sich)', // *

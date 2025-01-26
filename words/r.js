@@ -12,32 +12,32 @@ const r = [
    'Ratsch', // Ratsch: *
    'Rätselraten', // Rätselraten: *
    'rattern',  // rattern: *             
-   'Räuberpistole',  // Räuberpistole:
+   'Räuberpistole',  // Räuberpistole: *
    'Raufbold', // Raufbold: * 
-   'Rauflust',  //Rauflust:
-   'Raunen, raunen' , //
-   'Raureif', // Raureif:
-   'recken',  // recken:
-   'Reinfall', // Reinfall:
-   'reinsemmeln' , // reinsemmeln:
-   'reißen (sich um etwas)' , //
-   'reißerisch' ,  // reißerisch:
-   'Rempler',  // Rempler:
-   'renitent' ,  // renitent:
-   'requirieren' , // requirieren:
-   'reüssieren',  // reüssieren:
-   'Revers',  // Revers:
-   'Riegel'  , // Riegel:
-   'rieseln',  // rieseln:
-   'Rinde',  // Rinde:
-   'Rindvieh' , // Rindvieh:
-   'Rinne',  // Rinne:
-   'Rinnsal' , // Rinnsal:
+   'Rauflust',  // Rauflust: *
+   'Raunen, raunen', // *
+   'Raureif', // Raureif: *
+   'recken',  // recken:  *
+   'Reinfall', // Reinfall:  *
+   'reinsemmeln', // reinsemmeln:  *
+   'reißen (sich um etwas)', //
+   'reißerisch',  // reißerisch:
+   'Rempler',  // Rempler: *
+   'renitent',  // renitent: *
+   'requirieren', // requirieren: *
+   'reüssieren',  // reüssieren: *
+   'Revers',  // Revers:  *
+   'Riegel, riegeln', // *
+   'rieseln',  // rieseln: *
+   'Rinde',  // Rinde: *
+   'Rindvieh' , // Rindvieh:  *
+   'Rinne',  // Rinne: *
+   'Rinnsal', // Rinnsal: *
    'Ritter (arme)', // * duplicated
-   'Ritze'  ,  // Ritze:
-   'robben' ,  // robben:
-   'röcheln', //röcheln:
-   'roden' , // roden:
+   'Ritze',  // Ritze:  *
+   'robben',  // robben: *
+   'röcheln', // röcheln: *
+   'roden', // roden:
    'rosten' , // rosten:
    'Rottenführer',  // Rottenführer:
    'rührig',  // rührig:

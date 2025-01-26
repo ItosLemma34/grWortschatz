@@ -12,7 +12,7 @@ const b = [
     'beflissen',  //beflissen:
     'begrapschen',  //begrapschen: 
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  *
-    'behelligen',   //behelligen:  
+    'behelligen',   // behelligen:  *
     'beherzt',     //beherzt:  
     'beichten',  // beichten: * 
     'beikommen',   //beikommen:  
@@ -54,7 +54,7 @@ const b = [
     'brandschatzen',  //brandschatzen: 
     'Brause',    //Brause:  
     'brausen',  //brausen: 
-    'Brett, Bretterwand, Bretterverschlag',  // 
+    'Brett, Bretterwand, Bretterverschlag',  // * 
     'Brimborium',   //Brimborium:  
     'bröckeln',  //bröckeln: 
     'brüllen, Gebrüll', // *  duplicated

@@ -30,6 +30,7 @@ const s = [
    'schimmern', // schimmern:  *
    'Schinder, schinden' , // *
    'Schlagseite',  // Schlagseite: *
+   'schlaksig', // schlaksig *
    'Schlamassel', // Schlamassel: *
    'schlampig',  //schlampig: *
    'Schlauberger', // Schlauberger: *

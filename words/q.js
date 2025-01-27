@@ -1,5 +1,5 @@
 const q = [
-   'Quast', // Quast:
+   'Quast', // Quast: *
    'quellen, gequollen',  // 
    'Quere (in die Q. kommen)', // * duplicated
    'Querschläger',  // Querschläger:

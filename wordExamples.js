@@ -4549,11 +4549,15 @@ Krempe: [
 	'Die Augen unter der <strong>Krempe</strong> des eleganten Filzhutes zogen Lachfalten.  (<i>Märzgefallene</i>, 18)'  ,
 ],
 Krempel: [
-	'der <strong>Krempel</strong> (no plural): junk, stuff  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Krempel_Plunder" target="target1" >Krempel</a>' ,
+	'der <strong>Krempel</strong>: junk, stuff, clutter' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Krempel_Plunder"target="target1">Krempel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Krempel"target="target2">Krempel</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/krempel"target="target3">Krempel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Krempel"target="target4">Krempel</a> ' ,
 	'<u>Märzgefallene</u>',
+	'Klaßen zeigte auf den Mantel und die Leinwände, die im warmen Büro immer heftiger zu stinken begannen. "Dann nimm den <strong>Krempel</strong> man wieder mit." "Ich?" Rath hob beide Hände. "Tut mir leid, das ist Beweismaterial, was soll ich damit?"   (<i>Märzgefallene</i>, 97)' ,
 	'...jetzt fiel es ihm (<i>Gereon</i>) auf, vielleicht weil er genau dieses Zeichen trauter Zweisamkeit gestern Abend in seinem eigenen Badezimmer vermisst hatte. Als Charly ihren <strong>Krempel</strong> mit zu Greta genommen hatte. Aber hier, bei Reinhold Gräf im Bad, sah es so aus, wie es bei Gereon Rath gestern hätte aussehen sollen: Auf der Ablage vor dem Spiegel standen zwei Zahnputzgläser. Und in jedem eine Zahnbürste.  (<i>Märzgefallene</i>, 120)' ,
 	'<i>Rath</i>: "Wenn du (<i>Gräf</i>) mein Assistent bist, hast du deinen Schreibtisch hier, wenn du dich mit einem anderen...Partner irgendwo breitmachen willst, musst du dir einen anderen Arbeitsplatz suchen...." Gräf sagte nichts mehr. Wortlos packte er seinen persönlichen <strong>Krempel</strong> zurück in den Pappkarton.... (<i>Märzgefallene</i>, 423)' ,
-	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen Pappkarton, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis aum Rand mit <strong>Krempel</strong> and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)' ,
+	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen Pappkarton, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis zum Rand mit <strong>Krempel</strong> and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)' ,
+	'Er (<i>Grimberg</i>) rupfte die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen <strong>Krempel</strong> zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden.   (<i>Märzgefallene</i>, 549)' ,  
 ],
 Kribbeln: [
 	'das <strong>Kribbeln</strong>, (no plural): tingle, prickle &nbsp;&nbsp;<strong>kribbeln</strong>: to tingle, tickle, itch <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kribbeln"target="target1">kribbeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kribbeln"target="target2">kribbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kribbeln"target="target3">kribbeln</a>  ',
@@ -5758,7 +5762,9 @@ Querschläger: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können würde <strong>  ä  Ä  ö  Ö  ü  Ü   ß  für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Quast: [
-	'der <strong>Quast</strong>,-<strong>e</strong>: wide paint brush <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Quast"target="target1">Quast</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Quast"target="target2">Quast</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Quast"target="target3">Quast</a> ' ,
+	'der <strong>Quast</strong>,-<strong>e</strong>: wide paint brush ' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Quast"target="target1">Quast</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Quast"target="target2">Quast</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Quast"target="target3">Quast</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Quast"target="target4">Quast</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Dann ging sie (<i>Eva Heinen</i>) hinaus vor die Tür... Mit dem Öffnen der Glastür brachte sie den SA-Mann, der mit dem Kleben noch nicht ganz fertig war, aus dem Gleichgewicht, so dass er aus Versehen in seinen Kleister<strong>quast</strong> fasste. "Was machen Sie da?", fragte sie den Plakatekleber, doch der fluchte nur leise vor sich hin und zog ein Taschentuch hervor, um sich die vollgekleisterte Hand zu säubern. (<i>Märzgefallene</i>, 457)' ,
 ],
@@ -5846,7 +5852,9 @@ rasen: [
 ], 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Rottenführer: [
-	'der <strong>Rottenführer</strong>,-: foreman &nbsp;&nbsp;SS-Rottenführer: Waffen-SS corporal<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rottenfuehrer"target="target1">Rottenführer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Rottenf%C3%BChrer"target="target2">Rottenführer</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/rottenf%C3%BChrer"target="target3">Rottenführer</a> ' ,
+	'der <strong>Rottenführer</strong>,-: foreman <br>SS-Rottenführer: Waffen-SS corporal ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rottenfuehrer"target="target1">Rottenführer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rottenf%C3%BChrer"target="target2">Rottenführer</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Rottenf%C3%BChrer"target="target3">Rottenführer</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/rottenfuehrer"target="target4">Rottenführer</a> ' ,
 	'<u>Lunapark</u>',
 	'Der bullige SA-Mann.., seinem Kragenspiegel nach ein <strong>Rottenführer</strong>, beugte sich zu Schulze hinunter... "Schulze hört sich nicht besonders jüdisch an", sagte der <strong>Rottenführer</strong>, dem die Rauflust gerade aus den Augen sprang. (<i>Lunapark</i>, 10)',
 	'Bevor er (<i>Osterberg</i>) den Satz zu Ende bringen konnte, trat der <strong>Rottenführer</strong> einen Schritt näher und rammte ihm seine Faust.. in die Magengrube....  (<i>Lunapark</i>, 10)',
@@ -5873,7 +5881,9 @@ robben: [
 	'Grimberg hatte ihm (<i>Roddeck</i>) geholfen. Sie waren durch die schlammige Pfütze am Grund des Trichters <strong>gerobbt</strong> und hatten alle beide bei ihrer Rückkehr ausgesehen wie die Schweine und ihre Uniformen säubern müssen.   (<i>Märzgefallene</i>, 573)',
 ],
 rupfen: [
-	'<strong>rupfen</strong>: pluck, pull out <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rupfen_entfernen_zupfen_ziehen"target="target1">rupfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rupfen"target="target2">rupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rupfen"target="target3">rupfen</a>' ,
+	'<strong>rupfen</strong>: pluck, pull out ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rupfen_entfernen_zupfen_ziehen"target="target1">rupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rupfen"target="target2">rupfen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rupfen"target="target3">rupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rupfen"target="target4">rupfen</a>' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Grimberg</i>) <strong>rupfte</strong> die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen Krempel zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden.   (<i>Märzgefallene</i>, 549)' ,  
 ],
@@ -5904,7 +5914,9 @@ Reinfall: [
 ],
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Rummel: [
-	'der <strong>Rummel</strong> (no plural): commotion, hubbub; amusement park, fairground <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Rummel_Betriebsamkeit__Jahrmarkt"target="target1">Rummel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rummel?q=Rummel"target="target2">Rummel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rummel"target="target3">Rummel</a> ' ,
+	'der <strong>Rummel</strong>: commotion, hubbub; amusement park, fair ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rummel_Betriebsamkeit__Jahrmarkt"target="target1">Rummel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rummel"target="target2">Rummel</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rummel?q=Rummel"target="target3">Rummel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rummel"target="target4">Rummel</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'An beschlagnahmten Waffen hatten die Beamten weniger zu zählen gehabt... Ein gutes Dutzend Revolver und Pistolen, zwei Gewehre. In jeder Schießbude auf dem <strong>Rummel</strong> gab es mehr Waffen. (<i>Der nasse Fisch</i>, 156)',
 	'Das <i>Haus Vaterland</i> war ein riesiger Vergnügungstempel in der Nähe des Potsdamer Platzes... Die Berliner mieden das <i>Vaterland</i>, dennoch herrschte dort jeden Abend ein unglaublicher <strong>Rummel</strong>.     (<i>Der nasse Fisch</i>, 176)',
@@ -5916,13 +5928,18 @@ Rummel: [
 	'Rath fand seinen Kollegen an einem kleinen Tisch in der Ecke, etwas abseits des <strong>Rummels</strong>, der ansonsten hier herrschte.  (<i>Lunapark</i>, 68)',
 ],
 rührig: [
-	'<strong>rührig</strong>: busy, active, enterprising <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruehrig"target="target1">rührig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ruehrig#r%C3%BChrig"target="target2">rührig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=r%C3%BChrig"target="target3">rührig</a> ' ,
+	'<strong>rührig</strong>: busy, active, enterprising ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruehrig"target="target1">rührig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/r%C3%BChrig"target="target2">rührig</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ruehrig#r%C3%BChrig"target="target3">rührig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=r%C3%BChrig"target="target4">rührig</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Von dem schriftstellernden Leutnant war noch nichts zu sehen. Als die Musik endete, sprang jemand anders aufs Podium und stellte sich hinter das Rednerpult. Doktor Hildebrandt, Roddecks <strong>rühriger</strong> Verleger. (<i>Märzgefallene</i>, 477)',
 ],
 rümpfen: [
-	'<strong>rümpfen</strong>: turn up, look down one\'s nose at <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruempfen"target="target1">rümpfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rumpfen?q=r%C3%BCmpfen"target="target2">rümpfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=r%C3%BCmpfen"target="target3">rümpfen</a> ' ,
+	'<strong>rümpfen</strong>: turn up, look down one\'s nose at ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruempfen"target="target1">rümpfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/r%C3%BCmpfen"target="target2">rümpfen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rumpfen?q=r%C3%BCmpfen"target="target3">rümpfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=r%C3%BCmpfen"target="target4">rümpfen</a> ' ,
 	'<u>Der nasse Fisch</u>',
+	'<i>Wolter</i>: "...Uns geht\'s doch nicht schlecht! Wir treiben uns beruftlich im Nachtleben der spannendsten Stadt der Welt herum. Und der verrufensten. Das hat doch was. Also, ich möchte nicht tauschen. Dass manche Kollegen schon mal die Nase <strong>rümpfen</strong> über unsereinen, daran gewöhnt man sich."   (<i>Der nasse Fisch</i>, 32)' ,
 	'"<i>Die Berolina</i>?" Rath pfiff leise durch die Zähne. Die <i>Berolina</i> war einer der ältesten Ringvereine Berlins, da galt der Ehrenkodex noch etwas. Mord war tabu. Über Schlägertruppen und Zuhälterbanden wie <i>Norden</i> oder <i>Immertreu</i>, die beiden Ringvereine, die der Polizeipräsident nach dem Blutbad in der Breslauer Straße verboten hatte, <strong>rümpfte</strong> man bei der <i>Berolina</i> nur die Nase.  (<i>Der nasse Fisch</i>, 127)',
 ],
 Rinde: [
@@ -5965,7 +5982,9 @@ recken: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rüstig: [
-	'<strong>rüstig</strong>: spry, robust, vigorous <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruestig"target="target1">rüstig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ruestig#r%C3%BCstig"target="target2">rüstig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=r%C3%BCstig"target="target3">rüstig</a> ' ,
+	'<strong>rüstig</strong>: spry, robust, vigorous ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruestig"target="target1">rüstig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/r%C3%BCstig"target="target2">rüstig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ruestig#r%C3%BCstig"target="target3">rüstig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=r%C3%BCstig"target="target4">rüstig</a> ' ,
 	'<u>Der nasse Fisch</u>', 
 	'Ein noch ziemlich <strong>rüstiger</strong> Kaiser Wilhelm, diesmal der Erste, trieb es mit einer Frau, die der französischen Kaiserin Eugénie sehr ähnlich sah, während Napoleon III. daneben auf einem Stuhl saß und wutschnaubend und gefesselt zuschaute. (<i>Der nasse Fisch</i>, 244-45)' ,
 ],
@@ -6000,9 +6019,11 @@ Rabauke: [
 ],
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä Ä ö Ö ü Ü ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rumsen: [
-	'<strong>rumsen</strong>: bang <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rumsen"target="target1">rumsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/rumsen"target="target2">rumsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rumsen"target="target3">rumsen</a> ' ,
+	'<strong>rumsen</strong>: bang, crash ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rumsen"target="target1">rumsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rumsen"target="target2">rumsen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/rumsen"target="target3">rumsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rumsen"target="target4">rumsen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?".... <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig <strong>gerumst</strong>."  (<i>Märzgefallene</i>, 333)',
+	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?"... <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig <strong>gerumst</strong>."  (<i>Märzgefallene</i>, 333)',
 ],
 reüssieren: [
 	'<strong>reüssieren</strong>: succeed ' +
@@ -6130,8 +6151,11 @@ reinsemmeln: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 reißerisch: [
-	'<strong>reißerisch</strong>: sensational <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/reiszerisch"target="target1">reißerisch</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/reisserisch"target="target2">reißerisch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rei%C3%9Ferisch"target="target3">reißerisch</a> ',
+	'<strong>reißerisch</strong>: lurid, sensational' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/reiszerisch"target="target1">reißerisch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rei%C3%9Ferisch"target="target2">reißerisch</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/reisserisch"target="target3">reißerisch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rei%C3%9Ferisch"target="target4">reißerisch</a> ',
 	'<u>Märzgefallene</u>',
+	'Dass die Braunen sich über die Brandstiftung so echauffierten, wo sie den alten Wallotbau doch immer nur Schwatzbude genannt hatten, das fand nicht nur Berthold Weinert seltsam. Aber er hütete sich, das auch zu schreiben... Er hatte die ganze Sache einfach möglichst spannend geschildert, manchmal vielleicht etwas <strong>reißerisch</strong>, jedenfalls möglichst sinnlich und anschaulich... (<i>Märzgefallene</i>, 207)' ,
 	'Zwar war der Artikel längst nicht so <strong>reißerisch</strong> geschrieben wie Rath es aus dem <i>Tag</i> kannte..., es war eher eine Art Mitteilung in eigener Sache und passte gut zum großväterlichen Junkergehabe der <i>Kreuzzeitung</i>. (<i>Märzgefallene</i>, 248)' ,
 ],
 renitent: [
@@ -6207,24 +6231,30 @@ röcheln: [
 	'Langsam kniete sich der bullige Kerl auf den boden und beugte sich über sein blutüberströmtes Opfer (<i>Schulze</i>), das reglos und <strong>röchelnd</strong> am Boden lag....   (<i>Lunapark</i>, 11)' ,
 ],
 roden: [
-	'<strong>roden</strong>: uproot, dig up; clear, harvest <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/roden"target="target1">roden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/roden"target="target2">roden</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=roden"target="target3">roden</a> ',
+	'<strong>roden</strong>: uproot, dig up; clear, harvest ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/roden"target="target1">roden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/roden"target="target2">roden</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/roden"target="target3">roden</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=roden"target="target4">roden</a> ',
 	'<u>Märzgefallene</u>',
 	'Wir sprengen Schienen, Brücken und Straßen, wir verseuchen Brunnen und versengen Felder, wir verarbeiten Obstbäume zu Kleinholz und lassen Chausseebäume quer über die Straßen stürzen, ja, wir <strong>roden</strong> und versengen ganze Wälder.  (<i>Märzgefallene</i>, 160)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rosten: [
-	'<strong>rosten</strong>: rust, corrode <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rosten"target="target1">rosten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rosten"target="target2">rosten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rosten"target="target3">rosten</a> ' ,
+	'<strong>rosten</strong>: rust, corrode ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rosten"target="target1">rosten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rosten"target="target2">rosten</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rosten"target="target3">rosten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rosten"target="target4">rosten</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Gold <strong>rostet</strong> nicht", sagt er (<i>Engel</i>). "Wir werden es nach dem Kriege holen."  (<i>Märzgefallene</i>, 164)' ,
 ],
 rumpeln:[
-	'<strong>rumpeln</strong>: rumble, bump, clatter  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rumpeln_ruetteln"target="target1">rumpeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rumpeln"target="target2">rumpeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rumpeln"target="target3">rumpeln</a> ' ,
+	'<strong>rumpeln</strong>: rumble, bump, clatter ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rumpeln_ruetteln"target="target1">rumpeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rumpeln"target="target2">rumpeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rumpeln"target="target3">rumpeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rumpeln"target="target4">rumpeln</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Keine zehn Minuten später betrat er (<i>Rath</i>) das Präsidium über den Eingang Dircksenstraße. Hier, an der Stadtbahnseite, hatte die Kriminalpolizei ihre Büros. Das regelmäßige Rauschen und <strong>Rumpeln</strong> der Bahnen, die an seinem Fenster vorbeirollten, trommelten ihm Tag für Tag den Rhythmus.   (<i>Der nasse Fisch</i>, 33)' ,
 	'<u>Märzgefallene</u>',
 	'Friedrich Grimberg, Roddecks ehemaliger Sprengmeister, lebte in der Tannenbergstraße..., in einer Wohnung im zweiten Stock, vor deren Fenstern die Schwebebahn in Augenhöhe entlang<strong>rumpelte</strong>. (<i>Märzgefallene</i>, 273)' ,
-	'Grimberg musste eine Pause Machen, denn eine Schwebebahn fuhr gerade an seinem Fenster vorbei. Es war höllisch laut, ein einziges Quietschen und <strong>Rumpeln</strong>.  (<i>Märzgefallene</i>, 276)' ,                    
+	'Grimberg musste eine Pause machen, denn eine Schwebebahn fuhr gerade an seinem Fenster vorbei. Es war höllisch laut, ein einziges Quietschen und <strong>Rumpeln</strong>.  (<i>Märzgefallene</i>, 276)' ,                    
 	'"Du (<i>Gereon</i>) solltest die Vorhänge schließen", sagte sie (<i>Charly</i>) und zeigte auf das Fenster. Draußen <strong>rumpelte</strong> gerade eine S-Bahn vorbei. Wahrscheinlich die nach Potsdam. (<i>Märzgefallene</i>, 374)' ,
 ],
 // Sstart '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',

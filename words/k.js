@@ -104,7 +104,7 @@ const k = [
    'Kreisel',  // Kreisel:
    'Kreissäge',  // Kreissäge:
    'Krempe',  // Krempe:
-   'Krempel',  // Krempel:
+   'Krempel',  // Krempel: *
    'kreuzfidel', // kreuzfidel: *
    'Kribbeln',  // Kribbeln:
    'Kringel',  //Kringel:

@@ -20,8 +20,8 @@ const r = [
    'recken',  // recken:  *
    'Reinfall', // Reinfall:  *
    'reinsemmeln', // reinsemmeln:  *
-   'reißen (sich um etwas)', //
-   'reißerisch',  // reißerisch:
+   'reißen (sich um etwas)', // *
+   'reißerisch',  // reißerisch: *
    'Rempler',  // Rempler: *
    'renitent',  // renitent: *
    'requirieren', // requirieren: *
@@ -37,16 +37,16 @@ const r = [
    'Ritze',  // Ritze:  *
    'robben',  // robben: *
    'röcheln', // röcheln: *
-   'roden', // roden:
-   'rosten' , // rosten:
-   'Rottenführer',  // Rottenführer:
-   'rührig',  // rührig:
-   'Rummel', // Rummel:
-   'rumpeln', // rumpeln:
-   'rümpfen', // rümpfen:
-   'rumsen',  // rumsen:
-   'rupfen', // rupfen:
-   'rüstig', // rüstig:
+   'roden', // roden:  *
+   'rosten' , // rosten: *
+   'Rottenführer',  // Rottenführer: *
+   'rührig',  // rührig: *
+   'Rummel', // Rummel: *
+   'rumpeln', // rumpeln: *
+   'rümpfen', // rümpfen: *
+   'rumsen',  // rumsen: *
+   'rupfen', // rupfen: *
+   'rüstig', // rüstig: *
    ];
 
 export default r;      

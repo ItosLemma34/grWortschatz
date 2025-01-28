@@ -1,8 +1,8 @@
 const p = [
-   'Pächter',  // Pächter:
-   'paktieren', // paktieren:
-   'pampig',  // pampig:
-   'Pappe', // Pappe:
+   'Pächter',  // Pächter: *
+   'paktieren', // paktieren: *
+   'pampig',  // pampig: *
+   'Pappe', // Pappe: *
    'Pappenstiel', // Pappenstiel:
    'Patrone', // Patrone:
    'pauken', // pauken: *

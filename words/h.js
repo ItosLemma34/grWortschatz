@@ -7,7 +7,7 @@ const h = [
    'Halunke',  //Halunke:
    'hämisch',  //hämisch:
   // 'hämmern',
-   'Handfessel, Handschelle', //
+   'Handfessel, Handschelle', // *
    'Handwerk legen', //
    'hanebüchen',  //hanebüchen:
    'hapern',  //hapern:

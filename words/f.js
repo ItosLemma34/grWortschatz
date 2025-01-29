@@ -8,7 +8,7 @@ const f = [
    'Fall der Fälle',  //  
    'Fasan',  //Fasan:  
    'faseln',  //faseln:  
-   'Fass',  //Fass:  
+   'Fass',  // Fass: *  
    'Fatzke', //Fatzke:
    'fauchen, anfauchen', // duplicated 
    'fegen',  //fegen:  
@@ -30,7 +30,7 @@ const f = [
    'Flaum',  //Flaum:  
    'fläzen (sich)',  //  
    'fleddern',  //fleddern:             
-   'flehen, flehentlich',  //  
+   'flehen, flehentlich',  // *  
    'flicken',  //flicken:  
    'Fliese, fliesen',   //  
    'flink',  //flink: 
@@ -40,7 +40,8 @@ const f = [
    'Fluse',  //Fluse:  
    'Flüstertüte',  //Flüstertüte:  
    'flutschen',  //flutschen:  
-   'Folie',  //Folie:  
+   'Folie',  //Folie: 
+   'formvollendet', // formvollendet: * 
    'forsch',  //forsch: 
    'Fraktur', // Fraktur:  
    'Fratze',  //Fratze:  

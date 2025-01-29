@@ -57,7 +57,7 @@ const g = [
    'giften',   //giften:  
    'giggeln',  //giggeln:  
    'Gips',   //Gips:  
-   'gleißen, gleißend',  //  
+   'gleißen, gleißend',  // *  
    'glimpflich',  //glimpflich:  
    'glotzen',  //glotzen:  
    'gluckern', //gluckern:  

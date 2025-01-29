@@ -3,6 +3,7 @@ const r = [
    'Rabe',  // Rabe: *
    'rabiat', // rabiat: *
    'Radau, Radaubruder', // *
+   'raffen',  // raffen:  *
    'rammen',  // rammen: *
    'ramponiert, ramponieren' , // * 
    'Rangelei',  // Rangelei: *

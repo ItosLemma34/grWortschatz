@@ -32,7 +32,8 @@ const b = [
     'Beule',      //Beule:  
     'bibbern',    //bibbern: 
     'bieder',     //bieder: 
-    'Biege machen',  //  
+    'Biege machen',  // 
+    'bis in die Puppen', // *  duplicated 
     'Blase',  //Blase:  
     'blasiert',  //blasiert: 
     'Blaumann',  //Blaumann:  

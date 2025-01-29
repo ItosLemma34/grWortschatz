@@ -16,6 +16,7 @@ const n = [
    'niesen',  // niesen:
    'Nobel geht die Welt zugrunde' , //
    'Nörgler',  // Nörgler:
+   'Nu (im N.)', // * duplicated
    'nuscheln', // nuscheln: *
    'Nutte',  // Nutte:        
  ];

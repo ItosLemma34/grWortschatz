@@ -45,6 +45,7 @@ const p = [
    'pudern',  // pudern:
    'Pulle',  // Pulle:
    'pumpen', // pumpen: *
+   'Puppen (bis in die P.)',  // *  duplicated
    'Puste, pusten', // *
    'Pute',  // Pute:
    'Putz', // Putz:

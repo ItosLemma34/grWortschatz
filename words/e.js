@@ -11,7 +11,8 @@ const e = [
    'einlochen',  //einlochen:  
    'einlullen',  //einlullen:  
    'einnicken',  // einnicken: * 
-   'Einöde',   //Einöde:  
+   'Einöde',   //Einöde: 
+   'einpferchen, pferchen', // * duplicated 
    'einrasten',  // einrasten: * 
    'einreißen',  //einreißen:  
    'einrüsten',  //einrüsten:  

@@ -3,20 +3,20 @@ const p = [
    'paktieren', // paktieren: *
    'pampig',  // pampig: *
    'Pappe', // Pappe: *
-   'Pappenstiel', // Pappenstiel:
-   'Patrone', // Patrone:
+   'Pappenstiel', // Pappenstiel: *
+   'Patrone', // Patrone: *
    'pauken', // pauken: *
-   'Pegel',  // Pegel:
-   'Pest an den Hals', // Only one English definition
-   'petzen', // petzen:
-   'Pfaffe', // Pfaffe:
-   'Pfanne (in die P. hauen)',  // also:  'in die Pfanne hauen'
-   'Pfau',  // Pfau:
+   'Pegel',  // Pegel: *
+   'Pest an den Hals', // *
+   'petzen', // petzen: *
+   'Pfaffe', // Pfaffe: *
+   'Pfanne (in die P. hauen)',  // *   duplicated
+   'Pfau',  // Pfau: *
    'pfeffern',  // pfeffern:  *
-   'Pfeiler',  // Pfeiler:
-   'pferchen, einpferchen', //
-   'pfiffig',  // pfiffig:
-   'Pfropfen',  // Pfropfen:
+   'Pfeiler',  // Pfeiler:  *
+   'pferchen, einpferchen', // * duplicated
+   'pfiffig',  // pfiffig: *
+   'Pfropfen',  // Pfropfen: *
    'pfuschen (ins Handwerk p.)', // duplicated: ins Handwerk pfuschen
    'Pfütze',  // Pfütze:  *   
    'pieksen, piksen', //

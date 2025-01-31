@@ -17,6 +17,19 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+ausreizen: [  
+	'<strong>ausreizen</strong>: use up, exhaust ' +  // bid up to strength
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausreizen"target="target1">ausreizen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausreizen"target="target2">ausreizen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausreizen"target="target3">ausreizen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreizen"target="target4">ausreizen</a> ' ,
+//	'<u>Der nasse Fisch</u>',
+//	'<u>Der stumme Tod</u>',
+	'<u>Märzgefallene</u>',
+	'<i>Levetzow, Nazi Polizeipräsident</i>: "... Sie (<i>Rath</i>) stehen hier, weil Sie Ihre polizeilichen Befugnisse und die damit verbundene Machtposition in einer Weise <strong>ausgereizt</strong> haben, die ich nicht dulden kann." <i>Rath</i>: "Ich verstehe nicht ganz, was Herr Polizeipräsident meinen." Rath ahnte durchaus, worauf Levetzow anspielte: Roddeck hatte doch gepetzt>.  (<i>Märzgefallene</i>, 357)' ,
+//	'<u>Lunapark</u>',
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 anheuern: [
 	'<strong>anheuern</strong>: hire; sign on/up (for)  ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anheuern"target="target1">anheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anheuern"target="target2">anheuern</a>  ' +
@@ -5372,7 +5385,11 @@ pampig: [
 	'<i>Fritze</i>: "... wir waren auf dem Gruppenabend. Und ich war nich der einzije Neue." "Welcher Gruppenabend?" fragte Charly, obwohl sie es bereits ahnte. "Na, welcher wohl?" Fritzes Stimme klang <strong>pampig</strong>. "Die HJ, wat denn sonst? Ich war beim Jungvolk!" (<i>Lunapark</i>, 76)' ,
 ],
 Patrone: [
-	'die <strong>Patrone</strong>,-<strong>n</strong>: &nbsp;cartridge, round (munition); ink cartridge <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Patrone"target="target1">Patrone</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/patrone"target="target2">Patrone</a> &nbsp;<a href="https://www.verbformen.com/?w=Patrone"target="target3">Patrone</a>' ,
+	'die <strong>Patrone</strong>,-<strong>n</strong>: cartridge, round (munition); ink cartridge ' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Patrone"target="target1">Patrone</a> &nbsp;<a href="https://www.dwds.de/wb/Patrone"target="target2">Patrone</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/patrone"target="target3">Patrone</a> &nbsp;<a href="https://www.verbformen.com/?w=Patrone"target="target4">Patrone</a>' ,
+	'<u>Der nasse Fisch</u>',
+	'Auch Rath hatte seine Mauser gezogen und folgte dem Kollegen. Erst jetzt fiel ihm ein, dass er sie seit dem Zwischenfall gestern nicht nach geladen hatte. Er betete, bei diesem Einsatz hier keinen Schuss abgeben zu müssen, sonst würde am Ende noch auffallen, dass in seinem Magazin eine <strong>Patrone</strong> fehlte.   (<i>Der nasse Fisch</i>, 242)' ,
 	'<u>Lunapark</u>',
 	'Lange stellte die Lackschuhe wieder ab und stutzte. Der Boden des Kleiderschranks schien nicht ganz fest zu sitzen, ein Brett hatte sich verschoben.. Unter dem Boden befand sich ein Hohlraum, in dem etwas metallisch glänzte. Lange holte ein weiteres Brett aus der Führung, dann noch eines und glaubte, seinen Augen nicht zu trauen. Im doppelten Boden von Horst Kaczmareks Kleiderschrank lagerten eine Weltkriegsmauser und eine moderne Walther PPK nebst einem beachtlichen <strong>Patronen</strong>vorrat... (<i>Lunapark</i>, 47)' ,
 ],
@@ -5441,13 +5458,17 @@ Putz: [
 	'Rath hatte sich für Henning und Czerwinski entschieden.... Von den beiden war kein über die Befehlslage hinausgehendes Engagement zu erwarten, was auch bedeutete, dass sie <strong>ihm</strong> nicht <strong>ins Handwerk pfuschen</strong> und keine störenden Fragen stellen würden. (<i>Märzgefallene</i>, 256-57)' ,
 ],
 Pegel: [
-	'der <strong>Pegel</strong>,-: water level, depth gauge  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pegel"target="target1">Pegel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pegel?q=Pegel"target="target2">Pegel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pegel"target="target3">Pegel</a> ' ,
+	'der <strong>Pegel</strong>,-: water level, depth gauge ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pegel"target="target1">Pegel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pegel"target="target2">Pegel</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pegel?q=Pegel"target="target3">Pegel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pegel"target="target4">Pegel</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Rath ließ die Kirche rechts liegen und ging den Kurfürstendamm hoch, quetschte sich durch eine Gruppe laut lachender Touristen, denen ihr Alkohol<strong>pegel</strong> deutlich anzumerken war.  (<i>Der nasse Fisch</i>, 93)' ,
 	'Wolter wirkte nicht enttäuscht, als sich die beiden Kollegen wenige Minuten später von ihm verabschiedeten. Die leichte Rötung seines Gesichts verriet den Alkohol<strong>pegel</strong>, den er inzwischen erreicht hatte.   (<i>Der nasse Fisch</i>, 173)' ,
 ],
-'Pest an den Hals': [
-	'jmdm. die <strong>Pest an den Hals</strong> wünschen: &nbsp;curse sb., wish sb. would drop dead <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20die%20Pest%20an%20den%20Hals%20w%C3%BCnschen"target="target1">Pest an den Hals</a><br>English Definition: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.reverso.net/german-english/jdm+die+Pest+an+den+Hals+w%C3%BCnschen"target="target2">Pest an den Hals</a>',   //    &nbsp;&nbsp;<a href="X"target="target3">Pest an den Hals</a> ' ,
+'Pest an den Hals': [  
+	'jmdm. die <strong>Pest an den Hals</strong> wünschen: curse sb., wish sb. would drop dead ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20die%20Pest%20an%20den%20Hals%20w%C3%BCnschen"target="target1">Pest an den Hals</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Pest+an+den+Hals&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Pest an den Hals</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=jemandem+Pest+an+den+Hals+w%C3%BCnschen"target="target3">Pest an den Hals</a>&nbsp;&nbsp;<a href="https://dictionary.reverso.net/german-english/jdm+die+Pest+an+den+Hals+w%C3%BCnschen"target="target4">Pest an den Hals</a>',   //  https://dictionary.reverso.net/german-english/jdm+die+Pest+an+den+Hals+w%C3%BCnschen"target="target3">Pest an den Hals</a>&nbsp;&nbsp;<a href=""target="target4">Pest an den Hals</a>',   //https://www.dict.cc/?s=jemandem+Pest+an+den+Hals+w%C3%BCnschen
 	'<u>Der nasse Fisch</u>',
 	'Momentan saßen die Damen alle im Polizeigewahrsam und waren damit beschäftigt, sich gegenseitig die <strong>Pest an den Hals</strong> zu wünschen.   (<i>Der nasse Fisch</i>, 160)' ,
 ],
@@ -5469,7 +5490,9 @@ Pächter: [
 	'<i>Schneid</i>: "...Dieser Kleinkrieg, den Sehring mir aufgezwungen hat, nimmt mich derzeit ganz in Anspruch, fragen Sie mich nicht, wo meine Künstler sind. Die hat er alle vor die Tür gesetzt, ebenso das Personal. Den Konkurs hat er doch nur inszeniert, weil er mich loswerden will. Stehe seinem neuen <strong>Pächter</strong> im Weg.  (<i>Der nasse Fisch</i>, 137)' ,
 ],
 Pfropfen: [
-	'der <strong>Pfropfen</strong>,-: plug, stopper, cork  &nbsp;&nbsp;<strong>pfropfen</strong>: to cork, plug <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfropfen"target="target1">Pfropfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pfropfen"target="target2">Pfropfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfropfen"target="target3">Pfropfen</a> ' ,
+	'der <strong>Pfropfen</strong>,-: plug, stopper, cork <br><strong>pfropfen</strong>: to cork, plug ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfropfen"target="target1">Pfropfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pfropfen"target="target2">pfropfen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pfropfen#Pfropfen"target="target3">Pfropfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfropfen"target="target4">pfropfen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'"Wie geht\'s dir?, fragte er (<i>Fritze</i>). Sie (<i>Hannah</i>) sagte nichts, sondern nahm ihn in den Arm, zog ihn regelrecht an sich... "Schon besser", sagte sie und merkte, wie ihre Stimme kratzte. "Schon besser." Der Knoten in ihrer Zunge, der <strong>Pfropfen</strong> in ihrem Hals - sie waren weg, als wäre da nie etwas gewesen.  (<i>Märzgefallene</i>, 463)' ,
 ],
@@ -5528,12 +5551,16 @@ Pranke: [
 	'Hannah stieß einen Schrei aus, und er hielt ihr den Mund mit seiner <strong>Pranke</strong> zu.  (<i>Märzgefallene</i>, 400)' ,
 ],
 Pfaffe: [
-	'der <strong>Pfaffe</strong>,-<strong>n</strong>: &nbsp;priest, cleric <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfaffe"target="target1">Pfaffe</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pfaffe?q=Pfaffe"target="target2">Pfaffe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfaffe"target="target3">Pfaffe</a> ' ,
+	'der <strong>Pfaffe</strong>,-<strong>n</strong>: priest, cleric ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfaffe"target="target1">Pfaffe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pfaffe"target="target2">Pfaffe</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pfaffe?q=Pfaffe"target="target3">Pfaffe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfaffe"target="target4">Pfaffe</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Charly lächelte. Das, was der Pfarrer gesagt hatte, schien ihr zu gefallen. Jedenfalls unterschrieb sie das Brautexamen, und Rath dankte Gott, dass er an Johannes Warszawski geraten war und nicht an einen der engstirnigen <strong>Pfaffen</strong>, die er aus seiner Kindheit kannte.  (<i>Märzgefallene</i>, 383)' ,
 ],
 Pappenstiel: [
-	'der <strong>Pappenstiel</strong>, (no plural): &nbsp;trifle, chicken feed, peanuts <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pappenstiel"target="target1">Pappenstiel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pappenstiel"target="target2">Pappenstiel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pappenstiel"target="target3">Pappenstiel</a> ' ,
+	'der <strong>Pappenstiel</strong>: trifle, chicken feed, peanuts' + 
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pappenstiel"target="target1">Pappenstiel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pappenstiel"target="target2">Pappenstiel</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pappenstiel"target="target3">Pappenstiel</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Pappenstiel"target="target4">Pappenstiel</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Fritze</i>: "Was springt denn dabei raus für mich?" "Hundert." "Zweihundert wäre besser." "Hundert." Der Junge tat so, als müsse er überlegen, ob sich das noch für ihn lohne, doch stand ihm ins Gesicht geschrieben, dass er das Geld brauchte. Und hundert Mark waren kein <strong>Pappenstiel</strong>.... "Gut, Hundert." Der Junge war nicht gut im Feilschen.   (<i>Märzgefallene</i>, 380)' ,
 ],
@@ -5599,27 +5626,35 @@ Pappe: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 petzen: [
-	'<strong>petzen</strong>: squeal, snitch, tattle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/petzen_verraten"target="target1">petzen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/petzen"target="target2">petzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=petzen"target="target3">petzen</a> ' ,
+	'<strong>petzen</strong>: squeal, snitch, tattle ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/petzen_verraten"target="target1">petzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/petzen"target="target2">petzen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/petzen"target="target3">petzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=petzen"target="target4">petzen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Als sich ihre Blicke das erste Mal trafen, zuckte sie (<i>Karin</i>) die Achseln, als wolle sie sagen: <i>Tschuldigung, wollte nicht <strong>petzen</strong></i>. Was Charly ihr nicht glaubte. (<i>Märzgefallene</i>, 90)' ,
 	'<i>Levetzow, Nazi Polizeipräsident</i>: "... Sie (<i>Rath</i>) stehen hier, weil Sie Ihre polizeilichen Befugnisse und die damit verbundene Machtposition in einer Weise ausgereizt haben, die ich nicht dulden kann." <i>Rath</i>: "Ich verstehe nicht ganz, was Herr Polizeipräsident meinen." Rath ahnte durchaus, worauf Levetzow anspielte: Roddeck hatte doch <strong>gepetzt</strong>.  (<i>Märzgefallene</i>, 357)' ,
 ],
 'Pfanne (in die P. hauen)': [
-	'<strong>in die Pfanne hauen</strong>: sell out, backstab, skewer so. &nbsp;&nbsp;die <strong>Pfanne</strong>,-<strong>n</strong>: pan <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target1">in die Pfanne hauen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target2">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/in%20die%20pfanne%20hauen"target="target3">in die Pfanne hauen</a> ' ,
+	'die <strong>Pfanne</strong>,-<strong>n</strong>: pan <br><strong>in die Pfanne hauen</strong>: sell out, backstab, skewer so.  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Pfanne+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target2">in die Pfanne hauen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target3">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Pfanne+hauen"target="target4">in die Pfanne hauen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Weinert</i>: "Gereon, schön, dass du anrufst, aber leider ist das jetzt gerade etwas ungünstig, wir blockieren hier eine Leitung." <i>Gereon</i>: "Es ist auch ziemlich ungünstig, jemanden als Informanten zu missbrauchen, der gar nicht weiß, dass er einer ist." <i>Weinert</i>: "Er? Meinst du nicht eher: sie?" <i>Gereon</i>: "Ich sehe, du weißt, worum es geht." <i>Weinert</i>: "Wir haben uns am Reichstag getroffen.... Haben uns lange nicht gesehen, da erzählt man sich doch, was man gerade so macht." <i>Gereon</i>: "Toll, wenn Leute so viel erzählen, nicht wahr? Dann kann man sie schön <strong>in die Pfanne hauen</strong>." <i>Weinert</i>: "Ich habe Charly doch nicht <strong>in die Pfanne gehauen</strong>. Lediglich Oberkommissar Böhm...." (<i>Märzgefallene</i>, 208-09)' ,
 	'<i>Gereon zu Gräf</i>:  "Dieser Redakteur Frank hat mich ziemlich <strong>in die Pfanne gehauen</strong>, ich weiß nicht, wie du auf die Idee kommst, dass ich an so etwas interessiert sein könnte."   (<i>Märzgefallene</i>, 260)',              
 	'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten ans Bein zu binden... Wilhelm Böhm hatte den Fall viel zu früh abgegeben.. und Reinhold Gräf konnte er nicht <strong>in die Pfanne hauen</strong>, der hatte nun einen Posten bei der Staatspolizei, und mit der legte man sich besser nicht an.   (<i>Märzgefallene</i>, 569)',
 ],
 'in die Pfanne hauen': [
-	'<strong>in die Pfanne hauen</strong>: sell out, backstab, skewer so. &nbsp;&nbsp;die <strong>Pfanne</strong>,-<strong>n</strong>: pan <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target1">in die Pfanne hauen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target2">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/in%20die%20pfanne%20hauen"target="target3">in die Pfanne hauen</a> ' ,
+	'die <strong>Pfanne</strong>,-<strong>n</strong>: pan <br><strong>in die Pfanne hauen</strong>: sell out, backstab, skewer so.  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Pfanne+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target2">in die Pfanne hauen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target3">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Pfanne+hauen"target="target4">in die Pfanne hauen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Weinert</i>: "Gereon, schön, dass du anrufst, aber leider ist das jetzt gerade etwas ungünstig, wir blockieren hier eine Leitung." <i>Gereon</i>: "Es ist auch ziemlich ungünstig, jemanden als Informanten zu missbrauchen, der gar nicht weiß, dass er einer ist." <i>Weinert</i>: "Er? Meinst du nicht eher: sie?" <i>Gereon</i>: "Ich sehe, du weißt, worum es geht." <i>Weinert</i>: "Wir haben uns am Reichstag getroffen.... Haben uns lange nicht gesehen, da erzählt man sich doch, was man gerade so macht." <i>Gereon</i>: "Toll, wenn Leute so viel erzählen, nicht wahr? Dann kann man sie schön <strong>in die Pfanne hauen</strong>." <i>Weinert</i>: "Ich habe Charly doch nicht <strong>in die Pfanne gehauen</strong>. Lediglich Oberkommissar Böhm...." (<i>Märzgefallene</i>, 208-09)' ,
 	'<i>Gereon zu Gräf</i>:  "Dieser Redakteur Frank hat mich ziemlich <strong>in die Pfanne gehauen</strong>, ich weiß nicht, wie du auf die Idee kommst, dass ich an so etwas interessiert sein könnte."   (<i>Märzgefallene</i>, 260)',              
 	'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten ans Bein zu binden... Wilhelm Böhm hatte den Fall viel zu früh abgegeben.. und Reinhold Gräf konnte er nicht <strong>in die Pfanne hauen</strong>, der hatte nun einen Posten bei der Staatspolizei, und mit der legte man sich besser nicht an.   (<i>Märzgefallene</i>, 569)',
 ],
 Pfau: [
-	'der <strong>Pfau</strong>,-<strong>en</strong>: peacock <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfau"target="target1">Pfau</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pfau"target="target2">Pfau</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfau"target="target3">Pfau</a>  ' ,
+	'der <strong>Pfau</strong>,-<strong>en</strong>: peacock ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfau"target="target1">Pfau</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pfau"target="target2">Pfau</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pfau"target="target3">Pfau</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfau"target="target4">Pfau</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) drückte ihre Juno aus, versuchte den sehnsüchtigen Blick der anderen nachzumachen, und tatsächlich steuerte ein pomadiger, südländisch wirkender Typ... zielsicher ihren Tisch an, stellte sich vor ihr auf und zelebrierte eine perfekte Verbeugung. Ein <strong>Pfau</strong>, den Charly unter anderen Umständen hätte abblitzen lassen.  (<i>Märzgefallene</i>, 306)' ,
 ],
@@ -5640,19 +5675,34 @@ pfeffern: [
 	'Sie (<i>Frau Brachwitz</i>) zuckte zusammen, denn ein Schlüssel drehte sich draußen in der Wohnungstür. Kurz darauf stand ein breitschultriger Mann im Zimmer, der große Augen machte, als er Rath erblickte. "Was zum Teufel suchen Sie in meiner Wohnung? Gertraud, was geht hier vor?" Der Mann <strong>pfefferte</strong> seine Aktentasche in den freien Sessel, dann auch sein Jackett und schien sich tatsächlich prügeln zu wollen.  (<i>Lunapark</i>, 189)' ,
 ],
 'pferchen, einpferchen': [
-	'<strong>pferchen</strong>: cram, pack  &nbsp;&nbsp;<strong>einpferchen</strong>: cram/squeeze in; coop up, pen in <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pferchen"target="target1">pferchen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einpferchen"target="target2">einpferchen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pferchen"target="target3">pferchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einpferchen"target="target4">einpferchen</a> ' ,
+	'<strong>pferchen</strong>: cram, pack <br><strong>einpferchen</strong>: cram/squeeze in; coop up, pen in ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pferchen"target="target1">pferchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einpferchen"target="target2">einpferchen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pferchen"target="target3">pferchen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einpferchen"target="target4">einpferchen</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Die Straße, die er (<i>Rath</i>) gerade gefahren war, wäre etwas für seinen Vater, wenn der ihn tatsächlich einmal besuchen kommen sollte, die ideale Route für Provinzbesucher wie Engelbert Rath... Eine geballte Ladung Preußen für den preußischen Musterbeamten... Und in Weinerts Buick fuhr es sich besser als in einem von <i>Käses</i> Ausflugsbussen, <strong>eingepfercht</strong> in einer Menge lärmender Touristen.    (<i>Der nasse Fisch</i>, 148)',
+	'<u>Märzgefallene</u>',
+	'Aus Häusern und Kellern holen wir alles heraus, was herauszuholen ist, bevor wir sie endgültig in Trümmer legen, Lebensmittel sowieso, aber auch die anderen Dinge, die die Leute zurücklassen mußten, als wir sie, gleich zu Beginn der Operation, abgeschoben haben, die Männer zum Arbeitseinsatz hinter unseren Linien, Frauen, Kinder und Alte zusammen <strong>gepfercht</strong> in Keller und Verschläge am Rande des Alberich-Gebiets, wo sie nun hausen wie Vieh. (<i>Märzgefallene</i>, 160)' ,
+],
+'einpferchen, pferchen': [
+	'<strong>pferchen</strong>: cram, pack <br><strong>einpferchen</strong>: cram/squeeze in; coop up, pen in ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pferchen"target="target1">pferchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einpferchen"target="target2">einpferchen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pferchen"target="target3">pferchen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einpferchen"target="target4">einpferchen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Die Straße, die er (<i>Rath</i>) gerade gefahren war, wäre etwas für seinen Vater, wenn der ihn tatsächlich einmal besuchen kommen sollte, die ideale Route für Provinzbesucher wie Engelbert Rath... Eine geballte Ladung Preußen für den preußischen Musterbeamten... Und in Weinerts Buick fuhr es sich besser als in einem von <i>Käses</i> Ausflugsbussen, <strong>eingepfercht</strong> in einer Menge lärmender Touristen.    (<i>Der nasse Fisch</i>, 148)',
 	'<u>Märzgefallene</u>',
 	'Aus Häusern und Kellern holen wir alles heraus, was herauszuholen ist, bevor wir sie endgültig in Trümmer legen, Lebensmittel sowieso, aber auch die anderen Dinge, die die Leute zurücklassen mußten, als wir sie, gleich zu Beginn der Operation, abgeschoben haben, die Männer zum Arbeitseinsatz hinter unseren Linien, Frauen, Kinder und Alte zusammen <strong>gepfercht</strong> in Keller und Verschläge am Rande des Alberich-Gebiets, wo sie nun hausen wie Vieh. (<i>Märzgefallene</i>, 160)' ,
 ],
 pfiffig: [
-	'<strong>pfiffig</strong>: sharp, shrewd, cunning, roguish <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pfiffig"target="target1">pfiffig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pfiffig"target="target2">pfiffig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pfiffig"target="target3">pfiffig</a> ' ,
+	'<strong>pfiffig</strong>: sharp, shrewd, cunning, roguish ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pfiffig"target="target1">pfiffig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pfiffig"target="target2">pfiffig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pfiffig"target="target3">pfiffig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pfiffig"target="target4">pfiffig</a> ' ,
 	'<u>Märzgefallene</u>',
-	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner <strong>pfiffigen</strong> Art einen Apfel stibitz oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie geleiert hatte.  (<i>Märzgefallene</i>, 252-53)' ,
+	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner <strong>pfiffigen</strong> Art einen Apfel stibitzt oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie geleiert hatte.  (<i>Märzgefallene</i>, 252-53)' ,
 ],
 Pfeiler: [
-	'<strong>der Pfeiler</strong>,-:  column, buttress, pillar, pylon <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfeiler"target="target1">Pfeiler</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pfeiler?q=Pfeiler"target="target2">Pfeiler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfeiler"target="target3">Pfeiler</a>  ' ,
+	'<strong>der Pfeiler</strong>,-: column, buttress, pillar, pylon' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pfeiler"target="target1">Pfeiler</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pfeiler"target="target2">Pfeiler</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pfeiler?q=Pfeiler"target="target3">Pfeiler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pfeiler"target="target4">Pfeiler</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'Der Raum erstreckte sich über drei Etagen, ebenso die abstrakte Lichtskulptur an dem großen Wand<strong>pfeiler</strong>.  (<i>Der nasse Fisch</i>, 119)' ,
 	'<u>Märzgefallene</u>',

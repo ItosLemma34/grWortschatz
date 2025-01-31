@@ -3,7 +3,7 @@ const i = [
    'in die Hose machen/gehen', //
    'in die Mangel nehmen', //  * duplicated
    'in die Parade fahren', //
-   'in die Pfanne hauen',  //
+   'in die Pfanne hauen',  // * duplicated
    'in die Quere kommen', // * duplicated
    'in die Zange nehmen', // * duplicated
    'in drei Teufels Namen', //

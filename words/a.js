@@ -132,6 +132,7 @@ const a = [
 	'ausklinken',  //ausklinken:  
 	'ausquetschen',  // ausquetschen:  
 	'Ausreißer',    //Ausreißer:  
+	'ausreizen',  // ausreizen: *
 	'ausrücken',    //ausrücken:  
 	'Ausschachtung',  // Ausschachtung:
 	'ausscheren',   //ausscheren:  

@@ -17,17 +17,17 @@ const p = [
    'pferchen, einpferchen', // * duplicated
    'pfiffig',  // pfiffig: *
    'Pfropfen',  // Pfropfen: *
-   'pfuschen (ins Handwerk p.)', // duplicated: ins Handwerk pfuschen
+   'pfuschen (ins Handwerk p.)', // *   duplicated
    'Pfütze',  // Pfütze:  *   
-   'pieksen, piksen', //
-   'Pinkel' , // Pinkel:
-   'pinkeln' ,  // pinkeln:
-   'pinseln, bepinseln' ,  // * duplicated
-   'Plackerei', // Plackerei:
-   'platschen', // platschen:
-   'Platzhirsch', // Platzhirsch:
-   'ploppen' ,  // ploppen:
-   'plumpsen',  // plumpsen:
+   'pieksen, piksen', // *
+   'Pinkel', // Pinkel: *
+   'pinkeln',  // pinkeln: *
+   'pinseln, bepinseln',  // * duplicated
+   'Plackerei', // Plackerei: *
+   'platschen', // platschen: *
+   'Platzhirsch', // Platzhirsch: *
+   'ploppen',  // ploppen: *
+   'plumpsen',  // plumpsen: *
    'plüschig',  // plüschig:
    'pöbeln', // pöbeln:
    'Polster, polstern', //

@@ -3721,7 +3721,9 @@ jucken: [
 	'Es <strong>juckte</strong> ihn (<i>Rath</i>) richtiggehend, ein paar Beweise dafür zu sammeln, das es sich bei Horst Kaczmarek keineswegs um einen aufrechten Kämpfer für die nationale Revolution handelte, sondern um eine zwielichtige Type, die mit einem der schlimmsten Gangster Umgang gepflegt hatte, die man in Berlin finden konnte. (<i>Lunapark</i>, 85)' ,
 ],
 japsen: [
-	'<strong>japsen</strong>: &nbsp;pant, gasp for breath <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/japsen"target="target1">japsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/japsen"target="target2">japsen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/japsen"target="target3">japsen</a>    ' ,
+	'<strong>japsen</strong>: pant, gasp for breath ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/japsen"target="target1">japsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/japsen"target="target2">japsen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/japsen"target="target3">japsen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/japsen"target="target4">japsen</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft <strong>japsenden</strong> Mann leise zu... "Du warst so dämlich, dich mit deinem Koks zu Bullen an den Tisch zu setzen. Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast, dann wirst du nicht nur die nächsten Wochen Schmerzen beim Pinkeln haben, dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst..."   (<i>Der nasse Fisch</i>, 191)' ,
 	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie <strong>japste</strong> ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll auswrang.  (<i>Der nasse Fisch</i>, 234)' ,
@@ -5429,7 +5431,9 @@ pudern: [
 	'...Marlow selbst war von ausnehmender Höflichkeit, vor allem aber kümmerte er sich rührend um Hannah, hatte ihr sogar ein kleines Oster<strong>präsent</strong> ins Zimmer gelegt.   (<i>Märzgefallene</i>, 526)' ,
 ],
 Plackerei: [
-	'die <strong>Plackerei</strong>,-<strong>en</strong>: drudgery, grind, rough going <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Plackerei"target="target1">Plackerei</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/plackerei"target="target2">Plackerei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Plackerei"target="target3">Plackerei</a> ' ,
+	'die <strong>Plackerei</strong>,-<strong>en</strong>: drudgery, grind, rough going' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Plackerei"target="target1">Plackerei</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Plackerei/"target="target2">Plackerei</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/plackerei"target="target3">Plackerei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Plackerei"target="target4">Plackerei</a>' ,
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Sie (<i>Thelen</i>) wollten mir von Ihrem Plan erzälen... Wie Sie das Gold nach Bonn geschafft haben." "Ganz einfach... Wir haben Möbel bestellt... In einer französischen Möbelfabrik bei Cambrai. Und sind mit einem großen Möbelwagen über die Grenze... Ich habe Walther mitgenommen. Der war damals erst sechzehn, konnte aber schon gut anpacken. War eine ganz schöne <strong>Plackerei</strong>, bei Nacht und Nebel. Hat aber funktioniert, wir haben die Barren hinter die Möbel gepackt, hat kein Mensch gemerkt."     (<i>Märzgefallene</i>, 519)' ,
 ],
@@ -5444,14 +5448,18 @@ Putz: [
 	'Schon die Eingangshalle des Geheimen Staatspolizeiamtes schindete Eindruck. Riesige Finster ließen viel Licht ein, an der Stirnwand hingen Hakenkreuzfahnen auf dem hellen <strong>Putz</strong>, darunter war eine Hitlerbüste plaziert, die dem Besucher streng und grimmig entgegenblickte.  (<i>Lunapark</i>, 52)' , 
 ],
 'pfuschen (ins Handwerk p.)': [
-	'jmdm <strong>ins Handwerk pfuschen</strong>: intefere in sb\'s business &nbsp;&nbsp;<strong>pfuschen</strong>: bungle, botch things <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/jemandem_ins_Handwerk_pfuschen/"target="target1">ins Handwerk pfuschen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pfuschen"target="target2">pfuschen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=ins+Handwerk+pfuschen"target="target3">ins Handwerk pfuschen</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pfuschen"target="target4">pfuschen</a>  ' ,
+	'<strong>pfuschen</strong>: bungle, botch things <br>jmdm <strong>ins Handwerk pfuschen</strong>: intefere in sb\'s business ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pfuschen"target="target1">pfuschen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ins+Handwerk+pfuschen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">ins Handwerk pfuschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pfuschen"target="target3">pfuschen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=ins+Handwerk+pfuschen"target="target4">ins Handwerk pfuschen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) holte das Bild von Boris aus der Tasche... Böhm schaute noch eine Spur brummiger drein. "Schön", sagte er schließlich, "aber meine Freude hält sich in Grenzen, wenn Sie dieses Foto nur mit sich herumtragen, ohne dass ich auch etwas von Ihnen höre. Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man <strong>mir ins Handwerk pfuscht</strong>!"  (<i>Der nasse Fisch</i>, 180)' ,
 	'<u>Märzgefallene</u>',
 	'Rath hatte sich für Henning und Czerwinski entschieden.... Von den beiden war kein über die Befehlslage hinausgehendes Engagement zu erwarten, was auch bedeutete, dass sie <strong>ihm</strong> nicht <strong>ins Handwerk pfuschen</strong> und keine störenden Fragen stellen würden. (<i>Märzgefallene</i>, 256-57)' ,
 ],
 'ins Handwerk pfuschen': [
-	'jmdm <strong>ins Handwerk pfuschen</strong>: intefere in sb\'s business &nbsp;&nbsp;<strong>pfuschen</strong>: bungle, botch things <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/jemandem_ins_Handwerk_pfuschen/"target="target1">ins Handwerk pfuschen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pfuschen"target="target2">pfuschen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=ins+Handwerk+pfuschen"target="target3">ins Handwerk pfuschen</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pfuschen"target="target4">pfuschen</a>  ' ,
+	'<strong>pfuschen</strong>: bungle, botch things <br>jmdm <strong>ins Handwerk pfuschen</strong>: intefere in sb\'s business ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pfuschen"target="target1">pfuschen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ins+Handwerk+pfuschen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">ins Handwerk pfuschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pfuschen"target="target3">pfuschen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=ins+Handwerk+pfuschen"target="target4">ins Handwerk pfuschen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) holte das Bild von Boris aus der Tasche... Böhm schaute noch eine Spur brummiger drein. "Schön", sagte er schließlich, "aber meine Freude hält sich in Grenzen, wenn Sie dieses Foto nur mit sich herumtragen, ohne dass ich auch etwas von Ihnen höre. Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man <strong>mir ins Handwerk pfuscht</strong>!"  (<i>Der nasse Fisch</i>, 180)' ,
 	'<u>Märzgefallene</u>',
@@ -5539,9 +5547,13 @@ paktieren: [
 ],
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 plumpsen: [
-	'<strong>plumpsen</strong>: &nbsp;flop, plop, tumble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plumpsen"target="target1">plumpsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/plumpsen"target="target2">plumpsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=plumpsen"target="target3">plumpsen</a> ' ,
-	'<u>Der nasse Fisch</u>',
+	'<strong>plumpsen</strong>: flop, plop, tumble' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plumpsen"target="target1">plumpsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/plumpsen"target="target2">plumpsen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/plumpsen"target="target3">plumpsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=plumpsen"target="target4">plumpsen</a> ' ,
+	'<u>Der nasse Fisch</u>', 
 	'<i>Böhm</i>: "Wann ist er gestorben? Und wie?" <i>Doktor Schwartz</i>: "Der genaue Todeszeitpunkt ist nicht festzustellen..." <i>Böhm</i>: "Also war er in jedem Fall bereits tot, als er gestern in den Landwehrkanal <strong>plumpste</strong>?"  (<i>Der nasse Fisch</i>, 87)' ,
+	'<u>Märzgefallene</u>', 
+	'Katsche ließ ihn wieder auf den Stuhl <strong>plumpsen</strong>, und Leo (<i>Juretzka</i>) unterdrückte den Würgereiz. "Wir stellen hier die Fragen", sagte der Scharführer, "von dir wollen wir nur Antworten hören. Kapiert?"  (<i>Märzgefallene</i>, 113)' ,
 ],
 Pranke: [
 	'die <strong>Pranke</strong>,-<strong>n</strong>: &nbsp;paw <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pranke"target="target1">Pranke</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pranke?q=Pranke"target="target2">Pranke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pranke"target="target3">Pranke</a> ' ,
@@ -5595,7 +5607,9 @@ postieren: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'pieksen, piksen': [
-	'<strong>pieksen oder piksen</strong>: prick <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/piksen"target="target1">pieksen/piksen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/piksen"target="target2">pieksen/piksen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=piksen"target="target3">pieksen/piksen</a> ' ,
+	'<strong>pieksen oder piksen</strong>: prick ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/piksen"target="target1">pieksen/piksen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/piken"target="target2">pieksen/piksen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/piksen"target="target3">pieksen/piksen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=piksen"target="target4">pieksen/piksen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Ja, sie (<i>Hannah</i>) hatte tatsächlich so was wie Sehnsucht nach ihm (<i>Fritze</i>) gespürt, wäre am liebsten zu ihm hingelaufen, hätte ihn in die Seite <strong>gepiekst</strong> und sich über sein dummes Gesicht gefreut. Aber das ging nicht. Huckebein hatte sie womöglich zusammen gesehen. Benutzte Fritze vielleicht als Köder, um an sie heranzukommen. (<i>Märzgefallene</i>, 320)' ,
 ],
@@ -5720,15 +5734,24 @@ Pfeiler: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Pinkel: [
-	'der <strong>Pinkel</strong>,-: dandy, toff, pretentious person <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pinkel_Herr"target="target1">Pinkel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Pinkel"target="target2">Pinkel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pinkel"target="target3">Pinkel</a> ' ,
+	'der <strong>Pinkel</strong>,-: dandy, toff, pretentious person ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pinkel_Herr"target="target1">Pinkel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pinkel"target="target2">Pinkel</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pinkel"target="target3">Pinkel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pinkel"target="target4">Pinkel</a>' ,
 	'<u>Märzgefallene</u>',
 	'<i>Voss</i>: "Was wollten Sie denn von dem Mann in der Limousine?", fragte sie.... <i>Rath</i>: "Ich habe den Herrn höflich darauf hingewiesen, dass er im Halteverbot steht und dass das auch für reiche <strong>Pinkel</strong> mit Chauffeur gilt."  (<i>Märzgefallene</i>, 150)' ,
 ],
 pinkeln: [
-	'<strong>pinkeln</strong>: urinate, pee <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pinkeln"target="target1">pinkeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pinkeln"target="target2">pinkeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pinkeln"target="target3">pinkeln</a> ' ,
+	'<strong>pinkeln</strong>: pee, urinate ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pinkeln"target="target1">pinkeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pinkeln"target="target2">pinkeln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pinkeln"target="target3">pinkeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pinkeln"target="target4">pinkeln</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu.. "Du warst so dämlich, dich mit deinem Koks zu Bullen an den Tisch zu setzen. Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast, dann wirst du nicht nur die nächsten Wochen Schmerzen beim <strong>Pinkeln</strong> haben, dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst..."   (<i>Der nasse Fisch</i>, 191)' ,
+	'"Wo steckt denn Johnny?" Die Stimme klang plötzlich misstrauisch und gar nicht mehr einlandend. "Der is mal eben <strong>pinkeln</strong>", sagte Wolter und steckte im selben Moment den Lauf seiner P 08 durch die Klappe.  (<i>Der nasse Fisch</i>, 241)' ,
 	'<u>Märzgefallene</u>',
 	'Der Hund schnupperte an jeder Laterne, <strong>pinkelte</strong> dann aber, wie es sich gehörte, an einen Baum.  (<i>Märzgefallene</i>, 62)' ,
 	'Charly ließ Kirie in die Grünanlagen im Steinplatz <strong>pinkeln</strong>.  (<i>Märzgefallene</i>, 293)' ,
+	'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie gerädert.  Er hielt an, um zu <strong>pinkeln</strong>, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen Einöde, ein unerfüllbarer Wunsch.  (<i>Märzgefallene</i>, 439)' ,
+	'<i>Thelen</i>: "Wir sind ausgestiegen, und Grimberg hat sich ein Stückchen entfernt von meinem Wagen vor einem Busch auf den Boden gehockt. Ich dachte damals, was stellt der sich so an wie \'ne keusche Jungfrau, nur weil er sich die Schuhe bindet, zuerst hatte es so ausgesehen, als wollte er da <strong>pinkeln</strong>..."   (<i>Märzgefallene</i>, 521)' ,
 ],
 'pinseln, bepinseln': [ 
 	'<strong>pinseln</strong>: paint, brush &nbsp;&nbsp;<i>similar</i>: <strong>bepinseln</strong> ' +
@@ -5759,7 +5782,9 @@ pinkeln: [
 	'"Verstehe", sagte Rath. "Ihr (<i>Gräf und die Staatspolizei</i>) hofft also, das ihr, wenn ihr diesem Wolff auf die Spur kommt, gleich eine ganze Bande Rotfrontkämpfer schnappt, die auf Stalins Geheiß in Berlin Wände <strong>bepinselt</strong>. (<i>Lunapark</i>, 57)' ,
 ],
 platschen: [
-	'<strong>platschen</strong>: splash  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/platschen"target="target1">platschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/platschen"target="target2">platschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=platschen"target="target3">platschen</a>  ' ,
+	'<strong>platschen</strong>: splash ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/platschen"target="target1">platschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/platschen"target="target2">platschen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/platschen"target="target3">platschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=platschen"target="target4">platschen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Abwasserrohre und Stromkabel verliefen unter der niedrigen Decke, ab und zu löste sich ein Wassertropfen und <strong>platschte</strong> mit einem leisen Geräusch auf den Betonboden.  (<i>Märzgefallene</i>, 108)' ,
 	'Wieder <strong>platschte</strong> ein Wassertropfen auf den Boden. Eine halbe Ewigkeit schon hörte Leo nun dieses Tropfen. (<i>Märzgefallene</i>, 110)',
@@ -5768,14 +5793,18 @@ platschen: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Platzhirsch: [
-	'der <strong>Platzhirsch</strong>,-<strong>e</strong>: old bull, top dog; dominant stag <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Platzhirsch"target="target1">Platzhirsch</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/platzhirsch?q=Platzhirsch"target="target2">Platzhirsch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Platzhirsch"target="target3">Platzhirsch</a>  ' ,
+	'der <strong>Platzhirsch</strong>,-<strong>e</strong>: old bull, top dog, dominant stag ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Platzhirsch"target="target1">Platzhirsch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Platzhirsch"target="target2">Platzhirsch</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/platzhirsch?q=Platzhirsch"target="target3">Platzhirsch</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/platzhirsch"target="target4">Platzhirsch</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Sie haben Glück, dass Sie Polizist sind", sagte das Narbengesicht, "wir respektieren die Ordnungskräfte. Ansonsten würden Sie jetzt in Schwierigkeiten stecken.... Beten Sie, dass Sie mir nie privat begegnen." <i>Rath</i>: "Ich bin immer im Dienst." "Ein guter Polizist trinkt nicht im Dienst", sagte der Russe.... "Dann bin ich vielleicht ein böser Polizist", meinte Rath und trank einen Schluck. So lächerlich dieses <strong>Platzhirsch</strong>gebaren war, er sah nicht ein, vor diesem Muskelaffen den Schwanz einzuziehen. (<i>Der nasse Fisch</i>, 97)' ,
 	'<u>Märzgefallene</u>',
 	'Die <strong>Platzhirsche</strong> in den Redaktionen verteidigten ihre Reviere eifersüchtig.   (<i>Märzgefallene</i>, 56)' ,
 ],
 ploppen: [
-	'<strong>ploppen</strong>: plop, plonk, pop <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ploppen"target="target1">ploppen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.online-translator.com/translation/german-english/ploppen"target="target2">ploppen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ploppen"target="target3">ploppen</a> ' ,
+	'<strong>ploppen</strong>: plop, plonk, pop ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ploppen"target="target1">ploppen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ploppen"target="target2">ploppen</a><br>' +
+	'English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ploppen"target="target3">ploppen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ploppen"target="target4">ploppen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Katsche... näherte sich (<i>an Leo</i>), den Mund ungefähr auf Augenhöhe. Und dann packte er Leos Kopf mit beiden Händen.... Katsche drückte seine fleischigen Lippen auf Leos rechtes Auge.... Leo hatte die Augen reflexartig geschlossen, dennoch spürte er den Sog... der einen ziehenden Schmerz in seinem Kopf auslöste, genau hinter dem Auge. Katsche saugte mit aller Macht, ...und dann ging es unglaublich schnell: Mit einem <strong>ploppenden</strong> Geräusch flutschte das Auge aus der Höhle. (<i>Märzgefallene</i>, 224)' ,
 ],

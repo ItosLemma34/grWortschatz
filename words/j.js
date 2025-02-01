@@ -1,6 +1,6 @@
 const j = [
-   'japsen',  // japsen:
-   'jauchzen', // jauchzen:  *
+   'japsen',  // japsen: *
+   'jauchzen', // jauchzen: *
    'johlen',  // johlen:
    'jucken',  // jucken:
 ];

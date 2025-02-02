@@ -5412,7 +5412,9 @@ Pfütze: [
 	'Sie (<i>Hannah und Fritze</i>) waren eine ganze Weile vor Anpfiff im Stadio. Das Rund füllte sich langsam. Der Regen hatte ein wenig nachgelassen, auf dem Platz hatten sich dennoch schon <strong>Pfützen</strong> gebildet.  (<i>Märzgefallene</i>, 597)',
 ],
 prasseln: [
-	'<strong>prasseln</strong>: patter, rain/beat/drum down on; crackle (Feuer) <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/prasseln"target="target1">prasseln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/prasseln"target="target2">prasseln</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/prasseln"target="target3">prasseln</a>   ' ,
+	'<strong>prasseln</strong>: patter, rain down on; crackle (Feuer)' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/prasseln"target="target1">prasseln</a> &nbsp;<a href="https://www.dwds.de/wb/prasseln"target="target2">prasseln</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/prasseln"target="target3">prasseln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/prasseln"target="target4">prasseln</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'Sein trockener Mund machte ihn wahnsinnig. Fast hätte er (<i>Rath</i>) eine Flasche Bier aus dem Kasten genommen, der dort neben einem rostigen Fahrrad an der Wand stand, doch er beherrschte sich. Lieber streckte er die Zunge in den Regen, der nun laut <strong>prasselte</strong>.  (<i>Der nasse Fisch</i>, 216)' ,
 	'<u>Märzgefallene</u>',
@@ -5426,7 +5428,9 @@ pudern: [
 	'<i>Schnucki</i>: "Du hast recht, mein Engel... Das hier ist ja ein ganz biederer Amüsierbetrieb... Nicht mal Champagner, nur klebriger Sekt. Wir sollten austrinken und gehen..." "Vor allem müsste ich mir dringend mal die Nase <strong>pudern</strong>", sagte der Engel und lachte nervös... Rath wurde hellhörig. <i>Nasse <strong>pudern</strong></i> war eines der Stichwörter, auf die er gewartet hatte.  (<i>Der nasse Fisch</i>, 198-99)' ,
 ],
 'Präsent, präsent': [
-	'das <strong>Präsent</strong>,-<strong>e</strong>: gift &nbsp;&nbsp;&nbsp;<strong>präsent</strong>: present, attentive (adj) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Praesent"target="target1">Präsent</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/praesent"target="target2">präsent</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Pr%C3%A4sent"target="target3">präsent/Präsent</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pr%C3%A4sent"target="target4">präsent</a> ' ,
+	'das <strong>Präsent</strong>,-<strong>e</strong>: gift<br><strong>präsent</strong>: present, fully alert/attentive' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Praesent"target="target1">Präsent</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pr%C3%A4sent"target="target2">präsent</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Pr%C3%A4sent"target="target3">Präsent</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pr%C3%A4sent"target="target4">präsent</a> ' ,
 	'<u>Märzgefallene</u>',
 	'...Marlow selbst war von ausnehmender Höflichkeit, vor allem aber kümmerte er sich rührend um Hannah, hatte ihr sogar ein kleines Oster<strong>präsent</strong> ins Zimmer gelegt.   (<i>Märzgefallene</i>, 526)' ,
 ],
@@ -5483,9 +5487,11 @@ Pegel: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>)  (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Tür Straße für über überhaupt schön zurück können würde <strong> ä Ä ö Ö ü Ü ß für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü  ß <strong> (<i>Charly</i>) (<i>Gereon</i>) ä Ä ö Ö ü Ü ß           
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 prusten: [
-	'<strong>prusten</strong>: snort <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/prusten"target="target1">prusten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/prusten"target="target2">prusten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=prusten"target="target3">prusten</a> ' ,
+	'<strong>prusten</strong>: snort' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/prusten"target="target1">prusten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/prusten"target="target2">prusten</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/prusten"target="target3">prusten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=prusten"target="target4">prusten</a> ' ,
 	'<u>Der nasse Fisch</u>',
-	'"Und?", fragte er <i>Wolter</i> mit einer Kopfbewegung in Richtung Lanke.. "Wann ist es so weit?" "Wie?" Rath schaute den Kollegen fragend an. Was sollte das jetzt? "Na, wann heiratet ihr?", fragte der Onkel (<i>Wolter</i>) mit bierernster Miene. Dann <strong>prustete</strong> er los. In sein Lachen fielen auch die beiden anderen Beamten ein.   (<i>Der nasse Fisch</i>, 260-61)' ,
+	'"Und?", fragte er (<i>Wolter</i>) mit einer Kopfbewegung in Richtung Lanke.. "Wann ist es so weit?" "Wie?" Rath schaute den Kollegen fragend an. Was sollte das jetzt? "Na, wann heiratet ihr?", fragte der Onkel mit bierernster Miene. Dann <strong>prustete</strong> er los. In sein Lachen fielen auch die beiden anderen Beamten ein.   (<i>Der nasse Fisch</i>, 260-61)' ,
 	'<u>Märzgefallene</u>',
 	'Ein lautes, <strong>prustendes</strong> Lachen ließ Charly aufblicken. Zuerst dachte sie, Fritze habe über einen Witz gelacht, aber er schaute sie beide an und schüttelte den Kopf. "Sacht mal, merkt ihr beeden eijentlich dass ihr völlig aneinander vorbeiredet?"  (<i>Märzgefallene</i>, 500)' ,
 ],
@@ -5520,22 +5526,25 @@ Prothese: [
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Polster, polstern': [
-	'das <strong>Polster</strong>,- (österreichisch: der <strong>Polster</strong>, die <strong>Pölster</strong>): cushion, pillow; &nbsp;<strong>polstern</strong>: upholster, pad <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Polster"target="target1">Polster</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/polstern"target="target2">polstern</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/polster?q=Polster"target="target3">Polster</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/polstern"target="target4">polstern</a> ' ,
+	'<strong>polstern</strong>: upholster, pad <br>das (oder der) <strong>Polster</strong>,-: cushion, pillow' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Polster"target="target1">Polster</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/polstern"target="target2">polstern</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/polster?q=Polster"target="target3">Polster</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/polstern"target="target4">polstern</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Staunend beobachtete er (<i>Rath</i>), wie ihr (<i>Frau Schäffners</i>) Gewicht das <strong>Polster</strong> des Sofas fast bis auf den Boden drückte. (<i>Der nasse Fisch</i>, 108)' ,
 	'Rath wunderte sich, wie schnell sie (<i>Frau Schäffner</i>) aus den <strong>Polstern</strong> kam. Er hatte größere Mühe mit seinem Sessel, in dem er beinah ertrunken wäre. (<i>Der nasse Fisch</i>, 110)' ,
 	'Auf seinem Schreibtisch fand Rath ein Paket vor. Als er die fremden Aufkleber erkannte, wusste er sofort Bescheid. Es gab nur einen, von dem er Post aus Übersee bekam... Für einen Moment vergaß Rath sogar Charly, als er die Kordel aufschnitt und das Paket öffnete. Zeitungsseiten quollen heraus, englishsprachige Zeitungsseiten. Das Paket war gut <strong>gepolstert</strong>. (<i>Der nasse Fisch</i>, 195)' ,
-	//	'<u>Märzgefallene</u>',
+	'Während sie (<i>Gennats Sekretärin</i>) den Männern den Tee einschenkte, übernahm Gennat selbst das Verteilen des Kuchens. Rath bat um Nusskuchen... Gennat schaufelte sich selbst ein riesiges Stück Stachelbeertorte auf den Teller. "Danke, Trudchen." Gennat sank zurück in die grünen <strong>Polster</strong>.   (<i>Der nasse Fisch</i>, 277)' ,
+	//'<u>Märzgefallene</u>',
 	'<u>Lunapark</u>',
 	'Die hell erleuchteten Fassaden der Großstadt glitten an ihm vorüber, und er (<i>Osterberg</i>) lehnte sich zurück in die Leder<strong>polster</strong>. Mehr als zwei Stunden Fahrt lagen noch vor ihm...  (<i>Lunapark</i>, 7)' ,
 ],
 plüschig: [
-	'<strong>plüschig</strong>: &nbsp;plush, ostentatious &nbsp;der <strong>Plüsch</strong>,-<strong>e</strong>: &nbsp;plush (fabric) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plueschig"target="target1">plüschig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pluschig"target="target2">plüschig</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/pl%C3%BCschig"target="target3">plüschig</a> ' ,
+	'<strong>plüschig</strong>: plush, ostentatious <br>der <strong>Plüsch</strong>,-<strong>e</strong>: plush (fabric), velvet' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plueschig"target="target1">plüschig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pl%C3%BCschig"target="target2">plüschig</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pl%C3%BCschig"target="target3">plüschig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/plueschig"target="target4">plüschig</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Sie führte ihn (<i>Rath</i>) in ein altmodisch <strong>plüschig</strong> eingerichtetes Wohnzimmer. Obwohl es auch hier nach Putzmittel roch, kam Rath die Wohnung irgendwie miefig vor.  (<i>Der nasse Fisch</i>, 107)' ,
-//	'<u>Märzgefallene</u>',
-	'<u>Lunapark</u>',
-	'Die Tanzfläche des <i>Eldorado</i> füllte sich bereits, die Kapelle spielte schmissige Tanzmusik. Der blaue Dunst ungezählter Zigaretten hing in dem <strong>plüschigen</strong>.. Raum.  (<i>Der nasse Fisch</i>, 125)' ,
+	'Die Tanzfläche des <i>Eldorado</i> füllte sich bereits, die Kapelle spielte schmissige Tanzmusik. Der blaue Dunst ungezählter Zigaretten hing in dem <strong>plüschigen</strong>, von Goldtönen dominierten Raum.  (<i>Der nasse Fisch</i>, 125)' ,
 ],
 paktieren: [
 	'<strong>paktieren</strong>: make a agreement/pact with so. ' +
@@ -5556,7 +5565,9 @@ plumpsen: [
 	'Katsche ließ ihn wieder auf den Stuhl <strong>plumpsen</strong>, und Leo (<i>Juretzka</i>) unterdrückte den Würgereiz. "Wir stellen hier die Fragen", sagte der Scharführer, "von dir wollen wir nur Antworten hören. Kapiert?"  (<i>Märzgefallene</i>, 113)' ,
 ],
 Pranke: [
-	'die <strong>Pranke</strong>,-<strong>n</strong>: &nbsp;paw <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pranke"target="target1">Pranke</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pranke?q=Pranke"target="target2">Pranke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pranke"target="target3">Pranke</a> ' ,
+	'die <strong>Pranke</strong>,-<strong>n</strong>: paw' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pranke"target="target1">Pranke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pranke"target="target2">Pranke</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pranke?q=Pranke"target="target3">Pranke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pranke"target="target4">Pranke</a>',
 	'<u>Der nasse Fisch</u>',
 	'Böhm war es gar nicht mehr gewohnt, sich selbst Notizen zu machen. Den Block, den er in seinen dicken <strong>Pranken</strong> hielt, hatte er sich von Gräf leihen müssen. (<i>Der nasse Fisch</i>, 62)' ,
 	'<u>Märzgefallene</u>',
@@ -5577,7 +5588,9 @@ Pappenstiel: [
 	'<i>Fritze</i>: "Was springt denn dabei raus für mich?" "Hundert." "Zweihundert wäre besser." "Hundert." Der Junge tat so, als müsse er überlegen, ob sich das noch für ihn lohne, doch stand ihm ins Gesicht geschrieben, dass er das Geld brauchte. Und hundert Mark waren kein <strong>Pappenstiel</strong>.... "Gut, Hundert." Der Junge war nicht gut im Feilschen.   (<i>Märzgefallene</i>, 380)' ,
 ],
 pöbeln: [
-	'<strong>pöbeln</strong>: swear, slander  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/poebeln"target="target1">pöbeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pobeln?q=p%C3%B6beln"target="target2">pöbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=p%C3%B6beln"target="target3">pöbeln</a>',
+	'<strong>pöbeln</strong>: swear, slander' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/poebeln"target="target1">pöbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pöbeln"target="target2">pöbeln</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pobeln?q=p%C3%B6beln"target="target3">pöbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=p%C3%B6beln"target="target4">pöbeln</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Halt, stehen bleiben! Polizei!", rief Rath. Sein Ruf wirkte auf Wilhelm zwo wie ein Startschuss. Der Mann richtete sich auf und schoss nach vorn, quer über die Fahrbahn zum Bürgersteig, auf dem er sich rüde an ein paar Passanten vorbei<strong>pöbelte</strong>.    (<i>Der nasse Fisch</i>, 22)' ,
 	'<u>Lunapark</u>', 
@@ -5598,11 +5611,21 @@ Pute: [
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Er (<i>von Roddek</i>) ist als Heiratsschwindler verurteilt worden? Dann wäre er ja vorbestraft!" <i>Die Gräfin</i>: "Er ist nicht verurteilt worden. Die dumme <strong>Pute</strong>, die er über den Tisch gezogen hat, hat ihre Aussage zurückgezogen, als sie ihm im Gerichtssaal gegenübersaß. Das Verfahren wurde eingestellt." (<i>Märzgefallene</i>, 339)' ,
 ],
-postieren: [
-	'<strong>postieren</strong>: &nbsp;post, position <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/postieren"target="target1">postieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/postieren"target="target2">postieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=postieren"target="target3">postieren</a> ' ,
+postieren: [ 
+	'<strong>postieren</strong>: post, position' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/postieren"target="target1">postieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/postieren"target="target2">postieren</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/postieren"target="target3">postieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=postieren"target="target4">postieren</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'Einem jungen Bereitschaftspolizisten schienen ähnliche Gedanken durch den Kopf zu gehen. "Der Kaiser bumst beim König", witzelte er und schaute nervös grinsend in die Runde. Niemand lachte. Wolter <strong>postierte</strong> den Witzbold vor dem Eingang zum Hinterhaus...  (<i>Der nasse Fisch</i>, 18)' ,
+	'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine Meute Hunde wartete. Scharfe Hunde. Einen Lastwagen hatten sie an der Kleiststraße <strong>postiert</strong>...  (<i>Der nasse Fisch</i>, 242)' ,
 	'<u>Märzgefallene</u>',
 	'Auch der dritte SA-Mann, gleich neben dem Haupteingang <strong>postiert</strong>, trug ein Plakat,... thronend über einem Menschenmeer mit Hakenkreuzfahnen.... (<i>Märzgefallene</i>, 199)' ,
 	'Unten auf der Friedrichstraße standen zwei Schupos vor dem Hauptportal des Central, in der Halle hatte er (<i>Rath</i>) einen Uniformierten bei den Aufzügen gesehen, und selbst hier oben in Roddecks geräumiger Suite hatte man einen Beamten <strong>postiert</strong>. (<i>Märzgefallene</i>, 330)' ,  
+	'Bis zum Fenster schaffte sie (<i>Hannah</i>) es schon ohne fremde Hilfe.. Hatte hinausgeschaut auf den Park, der von einer hohen Mauer umgeben war, hatte die bewaffneten Männer gesehen, die überall <strong>postiert</strong> waren.  (<i>Märzgefallene</i>, 462)' ,
+	'Überall waren Schupos postiert, die ihre Blicke über das buntgewürfelte Publikum im Saal schweifen ließen...  (<i>Märzgefallene</i>, 476)' ,
+	'Erst als auch der Letzte im Saal mit Klatschen aufgehört hatte, trat Roddeck an das Rednerpult, zu dessen Füßen sich zwei Schupos <strong>postiert</strong> hatten, und ergriff das Wort. (<i>Märzgefallene</i>, 477)' ,
+	'<u>Lunapark</u>',
+	'Ein paar Meter weiter, im Halbdunkel unter der Bahnbrücke, waren so viele Schupos <strong>postiert</strong>, dass Rath vor lauter Uniformblau kaum etwas von dem erkennen konnte, was sich dahinter abspielte.  (<i>Lunapark</i>, 15)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -5843,7 +5866,9 @@ poltern: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür   für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 Prise: [
-	'die <strong>Prise</strong>,-<strong>n</strong>: &nbsp;<i>cooking</i>: pinch, dash; &nbsp;<i>nautical</i>: prize, captured ship  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Prise"target="target1">Prise</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/prise"target="target2">Prise</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Prise"target="target3">Prise</a>  ' ,
+	'die <strong>Prise</strong>,-<strong>n</strong>: pinch, dash; &nbsp;prize, captured ship' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Prise"target="target1">Prise</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Prise"target="target2">Prise</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/prise"target="target3">Prise</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Prise"target="target4">Prise</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Sie sehen: Hier steht Kakao auf der Karte", sagte er (<i>der Generaldirektor</i>), "und zwar sehr guter! Probieren Sie ruhig, lieber Freund. Rath zögerte. Er hatte noch nie Kokain genommen. Andererseits durfte er jetzt nicht kneifen. Da konnte er genauso gut gleich seine Marke vorzeigen oder wieder nach Hause gehen... Rath gab sich einen Ruck and nahm eine kleine <strong>Prise</strong> aus der Dose. Da musste er nun durch.   (<i>Der nasse Fisch</i>, 201)' ,
 	'<u>Märzgefallene</u>',
@@ -7209,7 +7234,7 @@ Schar: [
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) zerrte den Toten zur Baugrube hinunter und besorgte sich eine <strong>Schaufel</strong> aus dem Bauwagen.  (<i>Der nasse Fisch</i>, 216)' ,
 	'Wie im Rausch grub er (<i>Rath</i>) ein Loch in den frischen Beton, legte den Mann hinein und <strong>schaufelte</strong> den Beton wieder darauf. Ein bisschen was blieb übrig, das verteilte er. Dann brachte er die <strong>Schaufel</strong> wieder zurück in den Bauwagen und wischte auch den Griff mit dem Taschentuch ab. (<i>Der nasse Fisch</i>, 216)' ,
-	'Während sie (<i>Gertrud Steiner, Gennats Sekretärin</i>) den Männern den Tee einschenkte, übernahm Gennat selbst das Verteilen des Kuchens. Rath bat um Nusskuchen... Gennat <strong>schaufelte sich</strong> selbst ein riesiges Stück Stachelbeertorte auf den Teller.   (<i>Der nasse Fisch</i>, 277)' ,
+	'Während sie (<i>Gennats Sekretärin</i>) den Männern den Tee einschenkte, übernahm Gennat selbst das Verteilen des Kuchens. Rath bat um Nusskuchen... Gennat <strong>schaufelte sich</strong> selbst ein riesiges Stück Stachelbeertorte auf den Teller.   (<i>Der nasse Fisch</i>, 277)' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) ließ kaltes Wasser laufen und schimpfte lautlos mit seinem Spiegelbild. Immerhin, er konnte sich wiedererkennen. Unrasiert, die Haare zerzaust, grell gekleidet, aber sonst ganz passabel. So sahen die meisten Kölner am Tag nach Rosenmontag aus. Er <strong>schaufelte sich</strong> kaltes Wasser ins Gesicht und fuhr sich schließlich mit nassen Händen durch die Haare, um sie einigermaßen in Form zu bringen. (<i>Märzgefallene</i>, 75)' ,
 	'Alles sei eingestürzt, berichteten sie, die Trümmer des Unterstands hätten Engel völlig unter sich begraben. Thelen habe eine <strong>Schaufel</strong> aus dem Wagen geholt, um die Stelle, an der er seinen Hauptmann verschüttet vermutete, freizu<strong>schaufeln</strong>, dann aber habe englische Artillerie eingesetz und sie hätten abbrechen müssen. (<i>Märzgefallene</i>, 273)' ,
@@ -9853,9 +9878,11 @@ Witzbold: [
 	'der <strong>Witzbold</strong>,-<strong>e</strong>: joker, prankster ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Witzbold"target="target1">Witzbold</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Witzbold"target="target2">Witzbold</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/witzbold?q=Witzbold"target="target3">Witzbold</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Witzbold"target="target4">Witzbold</a>    ' ,
+	'<u>Der nasse Fisch</u>',
+	'Einem jungen Bereitschaftspolizisten schienen ähnliche Gedanken durch den Kopf zu gehen. "Der Kaiser bumst beim König", witzelte er und schaute nervös grinsend in die Runde. Niemand lachte. Wolter postierte den <strong>Witzbold</strong> vor dem Eingang zum Hinterhaus...  (<i>Der nasse Fisch</i>, 18)' ,
 	'<u>Märzgefallene</u>',
 	'<i>Hannah</i>: "Was willste?" Er (<i>Fritze</i>) legte den Kopf schief wie ein Hund. "Frühstücken?" <i>Hannah</i>: "Bisten <strong>Witzbold</strong>, wa? Wo soll’s denn hingehen, zu Kranzler oder lieber zu Josty?" "Bolle", sagte Fritze. Was er damit meinte, begriff Hannah, als sie kurz darauf über die noch menschenleere Winsstraße schlenderten und ein paar von den Milchflaschen einsammelten, die der Milchmann vor wenigen Minuten gerade dort abgestellt haben musste.  (<i>Märzgefallene</i>, 174)' ,
-	'"Man merkt doch immer gleich, wenn einer von der Kripo kommt", sagte Zientek. "Was für <strong>Witzbolde</strong>..." (<i>Märzgefallene</i>, 271)' ,
+	'"Man merkt doch immer gleich, wenn einer von der Kripo kommt", sagte Zientek. "Was für <strong>Witzbolde</strong>..." (<i>Märzgefallene</i>, 217)' ,
 	'<i>Rath</i>: "Bis wann kannst du (<i>Ede</i>) das Geld denn besorgen?" "Eine Woche, vielleicht zwei. Bitte, Herr Kommessar, Se kriejen dat Jeld! Aber zeijen Se mich nit an!" <i>Rath</i>: "Du bist vielleicht ein <strong>Witzbold</strong>, da bin ich längst wieder in Berlin."  (<i>Märzgefallene</i>, 318)' ,
 	'<i>Rath</i>: "Was soll denn das werden?" "Wir führen die drei Akten zu einem Vorgang zusammen", sagte Steinke. "Akte Alberich, hat der Polizeipräsident vorgeschlagen, ich denke, so werden wir sie auch nennen, nicht wahr, Herr Kriminalsekretär (<i>Gräf</i>)?" "Das ist mir schnurzpiepe, wie ihr die Akte nennt, meinetwegen könnt ihr sie Akte Arschloch taufen." Rath drehte sich auf seinem Stuhl um und schaute Steinke herausfordernd an... "Ich will wissen warum ihr beiden <strong>Witzbolde</strong> glaubt, ihr könntet euch in meinem Büro ausbreiten."   (<i>Märzgefallene</i>, 422-23)',
 ],
@@ -10837,6 +10864,7 @@ lau Der nasse Fisch 239
  'Pelle'  ;   Nworte++;  auf die Pelle      Märzgefallene   15
  pikiert  Lunapark 27
  Pleitegeier  Der nasse Fisch 136
+ Pöbel search for
  'plumpsen'  ;   Nworte++;       Märzgefallene   113
  Polente Lunapark 181
  Polypen  Der nasse Fisch  199

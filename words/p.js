@@ -28,20 +28,20 @@ const p = [
    'Platzhirsch', // Platzhirsch: *
    'ploppen',  // ploppen: *
    'plumpsen',  // plumpsen: *
-   'plüschig',  // plüschig:
-   'pöbeln', // pöbeln:
-   'Polster, polstern', //
+   'plüschig',  // plüschig: *
+   'pöbeln', // pöbeln: *
+   'Polster, polstern', // *
    'poltern' ,  // poltern: *
-   'postieren', // postieren:
+   'postieren', // postieren: *
   // 'präparieren' ,
-   'Pranke',  // Pranke:
-   'Präsent, präsent',  //
-   'prasseln',  // prasseln:
-   'Prise' ,  // Prise:
+   'Pranke',  // Pranke: *
+   'Präsent, präsent',  // *
+   'prasseln',  // prasseln: *
+   'Prise' ,  // Prise: *
    'Pritsche', // Pritsche: *
    'Prothese', // Prothese: *
    'Protz, protzen, protzig' , //
-   'prusten',  // prusten:
+   'prusten',  // prusten:  *
    'pudern',  // pudern:
    'Pulle',  // Pulle:
    'pumpen', // pumpen: *

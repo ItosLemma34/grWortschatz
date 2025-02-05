@@ -30,6 +30,7 @@ const p = [
    'plumpsen',  // plumpsen: *
    'plüschig',  // plüschig: *
    'pöbeln', // pöbeln: *
+   'Polente', // Polente: *
    'Polster, polstern', // *
    'poltern' ,  // poltern: *
    'postieren', // postieren: *
@@ -40,15 +41,15 @@ const p = [
    'Prise' ,  // Prise: *
    'Pritsche', // Pritsche: *
    'Prothese', // Prothese: *
-   'Protz, protzen, protzig' , //
+   'Protz, protzen, protzig' , // *
    'prusten',  // prusten:  *
-   'pudern',  // pudern:
-   'Pulle',  // Pulle:
+   'pudern',  // pudern: *
+   'Pulle',  // Pulle: *
    'pumpen', // pumpen: *
    'Puppen (bis in die P.)',  // *  duplicated
    'Puste, pusten', // *
-   'Pute',  // Pute:
-   'Putz', // Putz:
+   'Pute',  // Pute: *
+   'Putz', // Putz: *
   ];
 
 export default p;      

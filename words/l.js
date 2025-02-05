@@ -6,7 +6,7 @@ const l = [
    'laff',  // laff:
    'Laken', // Laken:
    'lallen',  // lallen:
-   'lange Nase zeigen/machen', // also as 'Nase (lange N. zeigen/machen)'
+   'lange Nase zeigen/machen', // * duplicated
    'Lappen',   //Lappen:
    'lässig',  // lässig:
    'lasten',  // lasten:

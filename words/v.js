@@ -76,6 +76,7 @@ const v = [
    'verstohlen',   // verstohlen:  *
    'vertrackt',   // vertrackt:  *   combine with Vertrackt if found
    'vertreten (sich die Beine)', //  *
+   'vertrödeln',  // vertrödeln *
    'vertun, vertan',  // *
    'verunglimpfen',  // verunglimpfen:  *
    'verunzieren',  // verunzieren:  *

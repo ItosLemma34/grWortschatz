@@ -4,7 +4,7 @@ const h = [
    'Häkchen',  //Häkchen:
    'haken, Haken, Haken schlagen', // Review the definitions
    'halbseiden',  //halbseiden:
-   'Halunke',  //Halunke:
+   'Halunke',  // Halunke: *
    'hämisch',  //hämisch:
   // 'hämmern',
    'Handfessel, Handschelle', // *

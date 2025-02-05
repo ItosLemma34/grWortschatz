@@ -5,13 +5,14 @@ const m = [
    'Mangel (durch die M. drehen)', // * duplicated
    'Mangel (in die M. nehmen)' ,  // * duplicated
    'Manschettenknopf',  // Manschettenknopf:
-   'markieren (den dicken Max M.)',  // 
+   'markieren (den dicken Max M.)',  //
+   'mau', // mau: *
    'meckern' ,  // meckern:
    'Melone',  // Melone:
    'Messing' ,  // Messing:
    'meucheln, Meuchelmord', //
    'Meute',  // Meute:
-   'mickrig',  // mickrig:
+   'mickrig',  // mickrig: *
    'miefig, Mief',  //
    'mimen', // mimen:
    'mit allen Wassern gewaschen', // * duplicated

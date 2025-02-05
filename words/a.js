@@ -38,7 +38,8 @@ const a = [
 	'anekeln',      //anekeln:  
 	'anfauchen, fauchen', //
 	'angeben, Angeber',  //  
-	'angeschickert', //angeschickert: 
+	'angeschickert', //angeschickert:
+	'anglotzen, glotzen', // * duplicated 
 	'anheuern',  // anheuern: *
 	'anhimmeln',    // anhimmeln: *  
 	'anleinen',     //anleinen:  
@@ -88,7 +89,7 @@ const a = [
 	'auf etwas aus sein',  //
 	'auf Granit beißen', // *
 	'auf Halde legen',   //
-	'auf Zack sein',    //
+	'auf Zack sein',    // *
 	'aufbahren',   //aufbahren:  
 	'aufbauschen', // aufbauschen:  * 
 	'aufdonnern (sich)',  //
@@ -141,7 +142,7 @@ const a = [
 	'ausspucken',   //ausspucken:  
 	'ausstaffieren',  //ausstaffieren:  
 	'ausstopfen',    //ausstopfen: 
-	'austoben (sich)',  //  
+	'austoben (sich)',  // *  
 	'austüfteln',     //austüfteln:  
 	'auswringen',   //auswringen:  
 ];

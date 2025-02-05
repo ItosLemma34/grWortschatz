@@ -15,7 +15,8 @@ const b = [
     'behelligen',   // behelligen:  *
     'beherzt',     //beherzt:  
     'beichten',  // beichten: * 
-    'beikommen',   //beikommen:  
+    'beikommen',   //beikommen: 
+    'Beil',  // Beil: * 
     'Beine in den Bauch',  //
     'beipflichten',   //beipflichten:  
     'Bengel',     //Bengel:  
@@ -33,6 +34,7 @@ const b = [
     'bibbern',    //bibbern: 
     'bieder',     //bieder: 
     'Biege machen',  // 
+    'bimmeln', // *
     'bis in die Puppen', // *  duplicated 
     'Blase',  //Blase:  
     'blasiert',  //blasiert: 
@@ -73,6 +75,7 @@ const b = [
     'bullig',  //bullig: 
     'bumsen',  //bumsen: 
     'Bursche',  //Bursche: 
+    'Busch, Gebüsch', // * duplicated
     'bützen',   //bützen: 
 ];
 

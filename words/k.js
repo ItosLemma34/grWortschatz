@@ -78,7 +78,7 @@ const k = [
    'knüllen',  // knüllen:
    'Knüller',  // Knüller:
    'Knüppel', // Knüppel:
-   'knurren',  // knurren:  
+   'knurren',  // knurren: *  
    'Köder',   // Köder:
   // 'Kontor',
    'Konterfei',  // Konterfei:

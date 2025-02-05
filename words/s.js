@@ -125,6 +125,7 @@ const s = [
    'spitzkriegen',  //spitzkriegen:  *
    'Sprechmuschel',  // Sprechmuschel:
    'spreizen', // spreizen: *
+   'Sprenkel', // Sprenkel: *
    'Spreu vom Weizen trennen',  //  *
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *

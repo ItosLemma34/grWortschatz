@@ -1,16 +1,16 @@
 const n = [
-   'nach dem Rechten sehen', //
+   'nach dem Rechten sehen', // *
    'nachhaken',  // nachhaken: *
-   'Nachhut', // Nachhut:
-   'nachsetzen',  // nachsetzen:
+   'Nachhut', // Nachhut: *
+   'nachsetzen',  // nachsetzen: *
    'nagen',  // nagen: * 
-   'Nase (lange N. zeigen/machen)', // also as  'lange Nase zeigen/machen'
-   'Nepp',  // Nepp:
+   'Nase (lange N. zeigen/machen)', // * duplicated
+   'Nepp',  // Nepp: *
    'Nervensäge', // Nervensäge:
    'Nessel (sich in die Nesseln setzen)', //
    'nesteln', // nesteln:
    'nicht bei Trost sein', // *  duplicated
-   'Nichts für ungut', //
+   'Nichts für ungut', // *
    'niederreißen'  ,  // niederreißen:
    'niegelnagelneu',  //niegelnagelneu:
    'niesen',  // niesen:

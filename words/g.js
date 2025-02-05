@@ -3,7 +3,8 @@ const g = [
    'Ganove', //Ganove:  
    'Geäst',  //Geäst:  
    'Gebälk', //Gebälk:  
-   'Gebrüll, brüllen',  // * duplicated  
+   'Gebrüll, brüllen',  // * duplicated 
+   'Gebüsch, Busch',  // * duplicated 
    'gediegen',  //gediegen:
    'gefasst',  // gefasst: *
    'geflissentlich',   //geflissentlich: 
@@ -16,11 +17,12 @@ const g = [
    'Gelände',   //Gelände:  
    'Geländer',  //Geländer:  
    'gelinde',   //gelinde:  
+   'Gemächt',  // Gemächt: *
    'Gemurmel',  //Gemurmel:  
    'gepfeffert', //gepfeffert:  
    'Geplänkel, Vorgeplänkel',  // *  duplicated  
    'Geplapper',  //Geplapper: 
-   'gequollen, quellen', // 
+    'gequollen, quellen', // 
    'gerädert (sich wie g. fühlen)',  //
    'Geräuschkulisse',  //Geräuschkulisse:  
    'gerieren',   //gerieren:  
@@ -59,7 +61,7 @@ const g = [
    'Gips',   //Gips:  
    'gleißen, gleißend',  // *  
    'glimpflich',  //glimpflich:  
-   'glotzen',  //glotzen:  
+   'glotzen, anglotzen',  // * duplicated  
    'gluckern', //gluckern:  
    'goldene Nase (sich verdienen)',  //
    'Gör, Göre',  //  

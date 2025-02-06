@@ -12,6 +12,42 @@ zzz: [
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 */
+Schmach: [
+	'die <strong>Schmach</strong>: ignominy, mortification, humiliation, dishonor  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmach"target="target1">Schmach</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schmach"target="target2">Schmach</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schmach"target="target3">Schmach</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmach"target="target4">Schmach</a> ' ,
+//	'<u>Der nasse Fisch</u>',  // (<i>Der nasse Fisch</i>, 000)',
+//	'<u>Der stumme Tod</u>',  // (<i>Der stumme Tod</i>, 000)',
+//	'<u>Märzgefallene</u>',  //  (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',  // 
+	'Charly blätterte weiter duch bis zum Sportteil, aber selbst der war nicht frei von Politik...  Charly konnte das nicht beurteilen, aber es hörte sich so an, als könne die regierungshörige Presse die <strong>Schmach</strong> nicht ertragen, ausgerechnet gegen die Tschechloslowakei, einer der letzten demokratischen Leuchttürme in Europa, aus dem Turnier geflogen zu sein.   (<i>Lunapark</i>, 205-06)',
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+vergeigen: [
+	'<strong>vergeigen</strong>: bungle, botch, mess up sth.  ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vergeigen"target="target1">vergeigen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vergeigen"target="target2">vergeigen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vergeigen"target="target3">vergeigen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/vergeigen"target="target4">vergeigen</a> ' ,
+//	'<u>Der nasse Fisch</u>',  // (<i>Der nasse Fisch</i>, 000)',
+//	'<u>Der stumme Tod</u>',  // (<i>Der stumme Tod</i>, 000)',
+//	'<u>Märzgefallene</u>',  //  (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',  
+	'(<i>Charly</i>): "Einmal Verbrecher, immer Verbrecher..?" <i>Gereon</i>: "Wenn du so willst." "Du denkst wie ein Nazi." "Nur weil ich glaube, dass es so etwas wie Gewohnheitsverbrecher gibt? Charly, meiner Meinung nach sollte jeder eine zweite Chance bekommen, aber Lapke - der hat schon so viele zweite Chancen <strong>vergeigt</strong>..."   (<i>Lunapark</i>, 203)', 
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+ausräuchern: [
+	'<strong>ausräuchern</strong>: fumigate, smoke so./sth. out, clear out ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausraeuchern"target="target1">ausräuchern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausr%C3%A4uchern"target="target2">ausräuchern</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausrauchern"target="target3">ausräuchern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausr%C3%A4uchern"target="target4">ausräuchern</a> ' ,
+//	'<u>Der nasse Fisch</u>',  // (<i>Der nasse Fisch</i>, 000)',
+//	'<u>Der stumme Tod</u>',  // (<i>Der stumme Tod</i>, 000)',
+//	'<u>Märzgefallene</u>',  //  (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',  
+	'<i>Gereon</i>: "Wenn wir Lapke nachweisen können, dass sein sauberer SA-Sturm weiterhin die Geschäfte der Nordpiraten betreibt, dann wird nicht einmal Ernst Röhm etwas dagegen haben, die Bande <strong>auszuräuchern</strong>.   (<i>Lunapark</i>, 203)',
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 bimmeln: [
 	'<strong>bimmeln</strong>: ring, jingle' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bimmeln"target="target1">bimmeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bimmeln"target="target2">bimmeln</a>  ' +
@@ -208,10 +244,15 @@ Areal: [
 	'Berlin war eine Bierstadt, und auch in dieser Gegend gab es eine große Bauerei. Das Böhmische Brauhaus zwängte sich zwischen die Wohnhäuser der Landsberger Allee, ein <strong>Areal</strong>, mindestens so groß wie das von Schultheiß an der Schönhauser, aber längst nicht so auffällig.  (<i>Lunapark</i>, 113)' ,
 ],  
 'achtkantig hinauswerfen': [
-	'<strong>achtkantig</strong>: octagonal &nbsp;&nbsp;<strong>achtkantig hinauswerfen</strong>: throw so. out on his/her ear <br>Deutsche Definition: &nbsp;<a href="https://www.dwds.de/wb/achtkantig"target="target1">achtkantig hinauswerfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=achtkantig"target="target2">achtkantig hinauswerfen</a> &nbsp;<a href="https://tureng.com/en/german-english/achtkantig%20hinauswerfen"target="target3">achtkantig hinauswerfen</a>',
+	'<strong>achtkantig</strong>: octagonal <br><strong>achtkantig hinauswerfen (rauswerfen)</strong>: throw so. out on his/her ear' +
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.dwds.de/wb/achtkantig"target="target1">achtkantig hinauswerfen</a> &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=achtkantig+hinauswerfen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">achtkantig hinauswerfen</a>  ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=achtkantig"target="target3">achtkantig hinauswerfen</a> &nbsp;<a href="https://tureng.com/en/german-english/achtkantig%20hinauswerfen"target="target4">achtkantig hinauswerfen</a>',
 	'<u>Lunapark</u>',
 	'Sperling hatte nichts vergessen. Rath hatte den wenig kooperationswilligen Mann seinerzeit abgekanzelt und schlankweg behauptet, ein Kriminalkommissar sei einem SA-Sturmführer gegenüber selbstverständlich weisungsbefugt. Und Sperling hatte gespurt. Bis sein Vorgesetzter aufgekreuzt war und Rath <strong>achtkantig hinausgeworfen</strong> hatte.  (<i>Lunapark</i>, 94)' ,
+	'"Und was ist mit den anderen?" fragte Charly. Rath schaute sie fragend an. "Die anderen... Die SA hat alle Anwesenen mitgenommen, selbst die Serviermädchen... Ich habe Guido noch nicht erreichen können. Manfred auch nicht." <i>Gereon</i>: "Vielleicht lassen sie die noch ein bisschen schmoren... Die SA lässt die Muskeln spielen." "Du warst doch da, oder nicht? Und hast dich nicht um die anderen gekümmert?.. "Charly, ich habe nach dir gesucht. Was hätte ich denn tun sollen? Lapke hat mich <strong>achtkantig rauswerfen</strong> lassen, als ich ein bisschen rumgeschnüffelt habe in seinem Sturmlokal.    (<i>Lunapark</i>, 202)' ,
 ],  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 abkanzeln: [
 	'<strong>abkanzeln</strong>: chew out, dress down <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abkanzeln"target="target1">abkanzeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abkanzeln"target="target2">abkanzeln</a> &nbsp;<a href="https://www.verbformen.com/?w=abkanzeln"target="target3">abkanzeln</a>',
 	'<u>Lunapark</u>',
@@ -3704,7 +3745,9 @@ heulen: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 'hocken, Hocke, Hocker': [
-	'(<strong>sich</strong>) <strong>hocken</strong>: squat/crouch (down)<br>die <strong>Hocke</strong>: squat, crouch &nbsp;der <strong>Hocker</strong>,-: stool <br>Deutsche Definitionen:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/hocken"target="target1">hocken</a> &nbsp;<a href="https://www.duden.de/rechtschreibung/Hocke_Haltung"target="target2">Hocke</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hocker"target="target3">Hocker</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocken"target="target4">hocken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocke?q=Hocke"target="target5">Hocke</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocker?q=Hocker"target="target6">Hocker</a>  ',
+	'(<strong>sich</strong>) <strong>hocken</strong>: squat/crouch (down)<br>die <strong>Hocke</strong>: squat, crouch &nbsp;der <strong>Hocker</strong>,-: stool' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hocken"target="target1">hocken</a> &nbsp;<a href="https://www.dwds.de/wb/Hocke"target="target2">Hocke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Hocker"target="target3">Hocker</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocken"target="target4">hocken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocke?q=Hocke"target="target5">Hocke</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocker?q=Hocker"target="target6">Hocker</a>',
 	'<u>Der nasse Fisch</u>',
 	'Die übrigen Darsteller, die Hälfte davon nackt, betrachteten die mit mehreren Scheinwerfern ausgeleuchtete Szene.... Ein Mann mit Ziegenbart <strong>hockte</strong> hinter einem Fotoapparat und gab dem Generalfeldmarschall Befehle.  (<i>Der nasse Fisch</i>, 19)' ,
 	'Wolter verpasste ihm (<i>dem Pornokaiser</i>) eine derart kräftige Ohrfeige, dass die Nase zu bluten begann. Erschrocken schaute der Mann den Polizisten an, der sich direkt vor ihn auf die Bohlen <strong>gehockt</strong> hatte und ihm das Projektil vor die Nase hielt. (<i>Der nasse Fisch</i>, 27)' ,
@@ -3733,6 +3776,7 @@ heulen: [
 	'Verdammt! Was machte Gereon in der Landsberger Allee? Wie lange er wohl schon hier war? Ob er sie bemerkt hatte? Ohne darüber nachzudenken, was sie tat, dass sie dabei war sich gerade vor ihrem eigenen Ehemann zu verstecken, huschte Charly in einen Hauseingang und zog den Hund hinter sich her.. Sie <strong>hockte sich</strong> hin und hielt Kirie die Schnauze zu.  (<i>Lunapark</i>, 117-18)'  ,
 	'Rath wandte sich an einen Spurensicherer, der gerade neben der Leiche <strong>hockte</strong> und vorsichtig die Uniformtaschen untersuchte.. Der Spurensicherer stand auf und gab die Leiche für Doktor Karthaus frei, der <strong>sich</strong> seinerseits hin<strong>hockte</strong> und den Toten vorsichtig untersuchte.   (<i>Lunapark</i>, 170)'  ,
 	'Und nun <strong>hockte</strong> sie (<i>Charly</i>) hier auf dem Betonboden und versuchte zu schlafen, was ihr nicht gelang.   (<i>Lunapark</i>, 177)'  ,
+	'Rath legte auf und betrachtete seine Hand. Die zitterte immer noch. Er <strong>hockte sich</strong> in die Telefonzelle und atmete tief aus. Langsam fiel die Anspannung von ihm ab. (<i>Lunapark</i>, 200)'  ,
 ],
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>, die <strong>Hosenmätze</strong>/<strong>Hosenmatze</strong>: &nbsp;tiny tot <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hosenmatz"target="target1">Hosenmatz</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Hosenmatz?side=both"target="target2">Hosenmatz</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Hosenmatz"target="target3">Hosenmatz</a> ' ,
@@ -3913,6 +3957,7 @@ kräuseln: [
 //	'<u>Märzgefallene</u>',
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) betrachtete Gereon, der an der Overstolz zog und dem Rauch nachblickte, der sich zur Zimmerdecke empor<strong>kräuselte</strong>.  (<i>Lunapark</i>, 146)',
+	'Er (<i>Gereon</i>) schaute zu Charly hinüber, die dem Zigarettenqualm hinterherblickte, der in feinen <strong>Kräuseln</strong> nach oben stieg, bis er sich verflüchtigte.  (<i>Lunapark</i>, 204)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -4708,7 +4753,9 @@ krachen: [
 	'Als sie (<i>Charly</i>) die Fotografie wieder zurückstecken wollte, fiel ihr ein Zettel auf, der zusammen mit einer Büroklammer noch im Umschlag lag. <i>Heinz Singer als Uffz. der Reserve</i> hatte dort jemand mit <strong>krakeliger</strong> Handschrift hingeschrieben....(<i>Märzgefallene</i>, 42)' ,
 ],
 'Kram (in den K. passen)': [
-	'der <strong>Kram</strong> (no plural): stuff, odds and ends; &nbsp;&nbsp;jmdm. <strong>in den Kram passen</strong>: be useful, suit one\'s plans <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kram"target="target1">Kram</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen"target="target2">jmdm. in den Kram passen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kram"target="target3">Kram</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+in+den+Kram+passen"target="target4">jmdm. in den Kram passen</a>  ' ,
+	'der <strong>Kram</strong>: stuff, odds and ends <br>jmdm. <strong>in den Kram passen</strong>: be useful, suit one\'s plans' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kram"target="target1">Kram</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen"target="target2">jmdm. in den Kram passen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kram"target="target3">Kram</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+in+den+Kram+passen"target="target4">jmdm. in den Kram passen</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Rath</i>: ...mit dem Ergebnis kann Völcker (<i>der kommunistische Arzt</i>) auch zufrieden sein. Genau so, wie es <strong>ihm in den Kram passt</strong>: <i>Ein</i> einziges Geschoss hat tatsächlich gereicht, um beide Frauen zu töten..." ' ,
 	'<u>Märzgefallene</u>',
@@ -4717,6 +4764,21 @@ krachen: [
 	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, ...wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung harrten. Akten über Kinder und Jugendliche... die der Regierung nicht <strong>in den Kram passten</strong>, die vor allem Friederike Wieking nicht <strong>in den Kram passten</strong>. (<i>Märzgefallene</i>, 485)' ,
 	'<u>Lunapark</u>',
 	'Und nun arbeiteten sie (<i>Rath und Gräf</i>) wieder zusammen. Nur das der Kriminalsekretär nun Kommissar der Staatspolizei war und sich nichts mehr sagen ließ. Früher hatte er Gräf einfach wegschicken können, wenn der Mann ihm nicht <strong>in den Kram passte</strong>, jetzt hatte er ihn am Hals.  (<i>Lunapark</i>, 35-36)' ,
+	'<i>Charly</i>: "Aber da müsst ihr doch einschreiten!" <i>Rath</i>: "Erst einmal brauchen wir Beweise. Dass die immer noch Verbrechen begehen." "Freiheitsberaubung <i>ist</i> ein Verbrechen! Da muss man doch etwas tun!" "Charly, das ist die SA. Die haben <i>überall</i> in der Stadt Leute einsitzen. Alle, die <strong>ihnen nicht in den Kram passen</strong>."   (<i>Lunapark</i>, 203)' ,
+],
+'in den Kram passen': [
+	'der <strong>Kram</strong>: stuff, odds and ends <br>jmdm. <strong>in den Kram passen</strong>: be useful, suit one\'s plans' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kram"target="target1">Kram</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Kram%20passen"target="target2">jmdm. in den Kram passen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kram"target="target3">Kram</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+in+den+Kram+passen"target="target4">jmdm. in den Kram passen</a>' ,
+	'<u>Der nasse Fisch</u>',
+	'<i>Rath</i>: ...mit dem Ergebnis kann Völcker (<i>der kommunistische Arzt</i>) auch zufrieden sein. Genau so, wie es <strong>ihm in den Kram passt</strong>: <i>Ein</i> einziges Geschoss hat tatsächlich gereicht, um beide Frauen zu töten..." ' ,
+	'<u>Märzgefallene</u>',
+	'Rath zeigte auf die Leinwände. "Tun Sie mir noch einen Gefallen: Bringen Sie den <strong>Kram</strong> in mein Auto. Steht da drüben."  (<i>Märzgefallene</i>, 95)' ,
+	'Er hatte niemanden kritisiert in seiner Reportage, er hatte auch nicht die Gerüchte aufgegriffen,... die Nazis hätten den Reichstag selbst angezündet, weil es <strong>ihnen</strong> so gut <strong>in den Kram passte</strong>. Dass die Braunen sich über die Brandstiftung so echauffierten, wo sie den alten Wallotbau doch immer nur Schwatzbude genannt hatten, das fand nicht nur Berthold Weinert seltsam. (<i>Märzgefallene</i>, 207)' ,
+	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, ...wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung harrten. Akten über Kinder und Jugendliche... die der Regierung nicht <strong>in den Kram passten</strong>, die vor allem Friederike Wieking nicht <strong>in den Kram passten</strong>. (<i>Märzgefallene</i>, 485)' ,
+	'<u>Lunapark</u>',
+	'Und nun arbeiteten sie (<i>Rath und Gräf</i>) wieder zusammen. Nur das der Kriminalsekretär nun Kommissar der Staatspolizei war und sich nichts mehr sagen ließ. Früher hatte er Gräf einfach wegschicken können, wenn der Mann ihm nicht <strong>in den Kram passte</strong>, jetzt hatte er ihn am Hals.  (<i>Lunapark</i>, 35-36)' ,
+	'<i>Charly</i>: "Aber da müsst ihr doch einschreiten!" <i>Rath</i>: "Erst einmal brauchen wir Beweise. Dass die immer noch Verbrechen begehen." "Freiheitsberaubung <i>ist</i> ein Verbrechen! Da muss man doch etwas tun!" "Charly, das ist die SA. Die haben <i>überall</i> in der Stadt Leute einsitzen. Alle, die <strong>ihnen nicht in den Kram passen</strong>."   (<i>Lunapark</i>, 203)' ,
 ],
 kramen: [
 	'<strong>kramen</strong>: rummage about, fish sth. out of sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kramen"target="target1">kramen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kramen"target="target2">kramen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kramen"target="target3">kramen</a> ',
@@ -5203,6 +5265,7 @@ Machwerk: [
 	'<u>Lunapark</u>',
 	'Für Pornographie dieser Art konnte die Sitte einen ganz schön <strong>in die Mangel nehmen</strong>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)' ,
 	'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <strong>in die Mangel nehmen</strong>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte.   (<i>Lunapark</i>, 99)' ,
+	'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten <strong>in die Mangel genommen</strong> zu werden.   (<i>Lunapark</i>, 204)' ,
 ],
 'in die Mangel nehmen': [
 	'jmdn <strong>in die Mangel nehmen</strong>: grill so., put thru the wringer  <br>also: <strong>durch die Mangel drehen</strong> ' +
@@ -5219,6 +5282,7 @@ Machwerk: [
 	'<u>Lunapark</u>',
 	'Für Pornographie dieser Art konnte die Sitte einen ganz schön <strong>in die Mangel nehmen</strong>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)' ,
 	'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <strong>in die Mangel nehmen</strong>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte.   (<i>Lunapark</i>, 99)' ,
+	'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten <strong>in die Mangel genommen</strong> zu werden.   (<i>Lunapark</i>, 204)' ,
 ],
 'Mangel (durch die M. drehen)': [
 	'jmdn. <strong>durch die Mangel drehen</strong>: grill so., put thru the wringer <br>also: <strong>in die Mangel nehmen</strong> ' +
@@ -5374,7 +5438,9 @@ nesteln: [
 	//'<u>Märzgefallene</u>',
 ],
 Nervensäge: [
-	'die <strong>Nervensäge</strong>,-<strong>n</strong>: &nbsp;pain in the neck <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Nervensaege"target="target1">Nervensäge</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/nervensaege#Nervens%C3%A4ge"target="target2">Nervensäge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Nervens%C3%A4ge"target="target3">Nervensäge</a>  ',
+	'die <strong>Nervensäge</strong>,-<strong>n</strong>: pain in the neck ' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Nervensaege"target="target1">Nervensäge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Nervens%C3%A4ge"target="target2">Nervensäge</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/nervensaege#Nervens%C3%A4ge"target="target3">Nervensäge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Nervens%C3%A4ge"target="target4">Nervensäge</a>  ',
 	'<u>Der nasse Fisch</u>',
 	'Als Doktor Schwartz das Laken zurückwarf, starrte die <strong>Nervensäge</strong> (<i>Rath</i>) auf die zermatschten Hände des Toten.  (<i>Der nasse Fisch</i>, 86)' ,
 	'Böhms Zorn war fast verraucht, als er sich wieder Doktor Schwartz zuwandte. Der Sittenkommissar  (<i>Rath</i>) hatte sich neben den roten Doktor auf eine Bank gesetzt. Die beiden <strong>Nervensägen</strong> schwiegen sich an.  (<i>Der nasse Fisch</i>, 87)' ,
@@ -5454,8 +5520,10 @@ nachhaken: [
 	'Ein toter SA-Mann war da (<i>in der Morgenlage der Kriminalgruppe M</i>) schon spektakulärer, gleichwohl hatte Rath seinen Fall so langweilig wie möglich geschildert. Erwähnt, dass die Geheime Staatspolizei die Fingerabdrücke vom Tatort mit ihrer Kommunistendatei abgleiche, aber selbstverständlich in alle Richtungen ermittelt werde.. Gennat hatte nicht <strong>nachgehakt</strong>. Ein skeptischer Blick hatte Rath gestreift, aber so schaute der Budda ihn eigentlich immer an.  (<i>Lunapark</i>, 89)' ,
 	 '"Die sind alle abjeholt!" Er (<i>Rath</i>) drehte sich um. Ein alter Mann stand im Treppenhaus und deutete auf das Messingschild an der Tür. RECHTSANWÄLTE BLUM UND SCHERER. <i>Rath</i>: "Was meinen Sie?" "Na, was wohl? Eine Aushebung." "Eine Razzia? Hier in diesen Räumen?" Der Alte nickte. "Und warum?" "Wird wohl seine Gründe haben", sagte der Mann vieldeutig.. "Was wissen Sie darüber?", <strong>hakte</strong> Rath <strong>nach</strong>.   (<i>Lunapark</i>, 181) ',
 ],
-'Nessel (sich in die Nesseln setzen)': [
-	'<strong>sich in die Nesseln setzen</strong>: get in hot water &nbsp;&nbsp;<strong>Nessel</strong>: nettle (botany) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+in+die+Nesseln+setzen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">sich in die Nesseln setzen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+in+die+Nesseln+setzen"target="target2">sich in die Nesseln setzen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/in%20die%20nesseln%20setzen"target="target3">sich in die Nesseln setzen</a> ' ,
+'Nessel (sich in die N. setzen)': [
+	'die <strong>Nessel</strong>,-<strong>n</strong>: nettle (botany) <br><strong>sich in die Nesseln setzen</strong>: get in hot water' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+in+die+Nesseln+setzen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">sich in die Nesseln setzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20in%20die%20Nesseln%20setzen"target="target2">sich in die Nesseln setzen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+in+die+Nesseln+setzen"target="target3">sich in die Nesseln setzen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/sich-in-die-nesseln-setzen"target="target4">sich in die Nesseln setzen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'<i>Kellermann</i>: "Ich habe noch nie so viele Kommunisten gejagt.... Ich weiß nicht, ob da überhaupt noch welche übrig sind, die Revolution machen können." <i>Charly</i>: "Revolution machen heutzutage ja auch andere. Die nationale Revolution, meine ich." Kellermann wechselte lieber das Thema. Hatte wahrscheinlich Angst, <strong>sich in die Nesseln zu setzen</strong>. Deutschland war wirklich zu einem Angsthasenland geworden.  (<i>Märzgefallene</i>, 288-89)' ,
 ],
@@ -5804,7 +5872,9 @@ postieren: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/piksen"target="target1">pieksen/piksen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/piken"target="target2">pieksen/piksen</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/piksen"target="target3">pieksen/piksen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=piksen"target="target4">pieksen/piksen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'Ja, sie (<i>Hannah</i>) hatte tatsächlich so was wie Sehnsucht nach ihm (<i>Fritze</i>) gespürt, wäre am liebsten zu ihm hingelaufen, hätte ihn in die Seite <strong>gepiekst</strong> und sich über sein dummes Gesicht gefreut. Aber das ging nicht. Huckebein hatte sie womöglich zusammen gesehen. Benutzte Fritze vielleicht als Köder, um an sie heranzukommen. (<i>Märzgefallene</i>, 320)' ,
+	'Ja, sie (<i>Hannah</i>) hatte tatsächlich so was wie Sehnsucht nach ihm (<i>Fritze</i>) gespürt, wäre am liebsten zu ihm hingelaufen, hätte ihn in die Seite <strong>gepiekst</strong> und sich über sein dummes Gesicht gefreut. Aber das ging nicht. Huckebein hatte sie womöglich zusammen gesehen. Benutzte Fritze vielleicht als Köder, um an sie heranzukommen. (<i>Märzgefallene</i>, 320)',
+	'<u>Lunapark</u>',
+	'Da klingelte das Telefon, mitten hinein in die Stille, die Rath immer unangenehmer wurde. Charly schreckte hoch, als habe jemand sie mit einer Nadel <strong>gepiekst</strong>. (<i>Lunapark</i>, 204)',
 ],
 Pappe: [
 	'die <strong>Pappe</strong>,-<strong>n</strong>: cardboard, pasteboard; posters &nbsp;der <strong>Papp</strong>karton: cardboard box'+
@@ -7707,6 +7777,7 @@ schmoren: [
 	'Das Besondere am Horcher war, dass die Speisen alle direkt am Tisch zubereitet wurden. Charly hatte sich für Steak Tartar und den Fasan entschieden, Rath Räucherlachs und Hühnchen Kiew bestellt. Und so saßen sie nun da und schauten zu, wie das Huhn <strong>geschmort</strong> und der Fasan flambiert wurde. (<i>Märzgefallene</i>, 195)' ,
 	'<u>Lunapark</u>',
 	'Rath hatte ein mulmiges Gefühl, als er den Kasernenhof (<i>des SA-Feldjägerkorps</i>) betrat... er fragte sich, wie viele Gefangene hier wohl in den Kellern <strong>schmoren</strong> mochten und malträtiert wurden.  (<i>Lunapark</i>, 92)' ,
+	'"Und was ist mit den anderen?" fragte Charly. Rath schaute sie fragend an. "Die anderen. Guido. Manfred. Mohamed Husen. Die SA hat alle Anwesenen mitgenommen, selbst die Serviermädchen... Ich habe Guido noch nicht erreichen können. Manfred auch nicht." <i>Gereon</i>: "Vielleicht lassen sie die noch ein bisschen <strong>schmoren</strong>. Das geschieht doch immer mal wieder. Die SA lässt die Muskeln spielen."    (<i>Lunapark</i>, 202)' ,
 ],
 'Schmuck, schmuck': [
 	'der <strong>Schmuck</strong>,-<strong>e</strong>: ornament, jewelry, embellishment <br><strong>schmuck</strong>: neat, tidy, smart ' + 
@@ -10929,6 +11000,7 @@ Some very common words are included because they have, in addition to their norm
 For some idioms, the dictionary entry starts with a single word, but includes the entire idiom further down the web page. An example: a web page for "nach dem Rechten sehen" starts with the definition of  "Recht", but further down includes the whole phrase. Same for WordReference with "sich keinen Zwang antun"
 For "was das Zeug hält", the English translation begins with "Zeug", but if you scroll down enough you find the phrase "was das Zeug hält". Same for "mit allen Wassern gewaschen", way down under "Wasser" in Eng def
 For "nach dem Rechten sehen" one of the English websites opens with "Recht", scroll down to find "nach dem Rechten sehen"
+jmdn. achtkantig rausschmeißen = jmdn. achtkanig hinauswerfen, given as usage example in dwde under "achtkantig"
 ä  Ä  ö  Ö  ü  Ü   ß                             an die große Glocke hängen       
  'abaschen'  ;   Nworte++;    Märzgefallene   37 
  abgelten   Märzgefallene  542 
@@ -11124,6 +11196,7 @@ Taxe  Der nasse Fisch  153
  'Verschlüsse'  ;   Nworte++;      Märzgefallene   11
  'Vorabveröffentlichung'  ;   Nworte++;   Märzgefallene   137
    vorliebnehmen   Märzgefallene    361
+	 wacker Lunapark 206
  'Wagenschlag'  ;   Nworte++;    Märzgefallene   38
  weltläufig    Märzgefallene   351
  weihen    Märzgefallene   518

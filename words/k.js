@@ -94,7 +94,7 @@ const k = [
    'Krake', // Krake: 
    'krakelig/kraklig', //
    'Kralle',  // Kralle:
-   'Kram (in den K. passen)', //
+   'Kram (in den K. passen)', // * duplicated
    'kramen',  // kramen:
    'Kran',  // Kran:
    'Kratzbürstigkeit',  // Kratzbürstigkeit:

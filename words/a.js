@@ -131,7 +131,8 @@ const a = [
 	'ausheben, Aushebung',  //  * 
 	'aushorchen',  //aushorchen:  
 	'ausklinken',  //ausklinken:  
-	'ausquetschen',  // ausquetschen:  
+	'ausquetschen',  // ausquetschen: 
+	'ausräuchern', // ausräuchern: * 
 	'Ausreißer',    //Ausreißer:  
 	'ausreizen',  // ausreizen: *
 	'ausrücken',    //ausrücken:  

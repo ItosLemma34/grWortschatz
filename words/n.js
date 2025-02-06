@@ -6,8 +6,8 @@ const n = [
    'nagen',  // nagen: * 
    'Nase (lange N. zeigen/machen)', // * duplicated
    'Nepp',  // Nepp: *
-   'Nervensäge', // Nervensäge:
-   'Nessel (sich in die Nesseln setzen)', //
+   'Nervensäge', // Nervensäge: *
+   'Nessel (sich in die N. setzen)', // *
    'nesteln', // nesteln:
    'nicht bei Trost sein', // *  duplicated
    'Nichts für ungut', // *

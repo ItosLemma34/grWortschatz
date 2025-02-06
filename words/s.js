@@ -44,6 +44,7 @@ const s = [
    'Schlucker (armer)', // * duplicated
    'Schlüpfer',  // Schlüpfer: *
    'schlüpfrig', // schlüpfrig: *
+   'Schmach', // Schmach:  *
    'schmettern', // schmettern: *
    'schmiegen (sich)', // *
    'Schmiere stehen', // *

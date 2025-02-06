@@ -16,6 +16,7 @@ const v = [
   // 'verflixt',  open with more examples
    'vergackeiern',  //vergackeiern:  *
    'vergaloppieren (sich)', // *
+   'vergeigen', // *
    'vergewissern (sich)', // *
    'ver­grau­len, Vergraulung', // *
    'vergreifen (sich)', // *

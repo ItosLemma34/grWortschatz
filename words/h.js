@@ -35,7 +35,7 @@ const h = [
    'hinterlistig',  //hinterlistig:
    'hinters Licht führen', //
    'hochgestochen', // hochgestochen: *
-   'hocken, Hocke, Hocker', //
+   'hocken, Hocke, Hocker', // *
    'Hölle heißmachen',  //
    'Holzstoß',  //Holzstoß:
    'hopsnehmen', //hopsnehmen:

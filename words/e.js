@@ -1,6 +1,7 @@
 const e = [
    'Ebbe',   //Ebbe:  
-   'echoen',  // echoen:  
+   'echoen',  // echoen:
+   'Ei (wie aus dem Ei gepellt)', // * duplicated  
    'einbrocken',  //einbrocken:  
    'einbuchten',  //einbuchten:  
    'Eindruck schinden',  //  

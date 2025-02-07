@@ -9,7 +9,7 @@ const k = [
    'karren',  //karren: *
    'Kaschemme',  //Kaschemme:
    'kaschieren', //kaschieren:
-   'Kassiber',  //Kassiber:
+   'Kassiber',  // Kassiber:
    'Kater, verkatert', // *
    'katzbuckeln',  //katzbuckeln:
    'kauern',  // kauern: *
@@ -37,7 +37,7 @@ const k = [
    'klamm',  //klamm:
    'Klammer', //Klammer:
    'klammern', //klammern:
-   'klammheimlich', //klammheimlich:
+   'klammheimlich', // klammheimlich:
    'Klappe', // Klappe:
    'klappern',  //klappern:
    'klapprig',  //klapprig: 

@@ -1,5 +1,6 @@
 const w = [
    'wabbeln', // wabbeln: *
+   'wacker', // wacker: *
    'Wade' ,  // Wade: *
    'waghalsig', // waghalsig: *
    'wähnen',  // wähnen: *
@@ -22,7 +23,7 @@ const w = [
    'Wichs',  // Wichs: *
    'Wickelgamasche',  // Wickelgamasche: *
    'Widerhaken', // Widerhaken: *
-   'wie aus dem Ei gepellt',  // *
+   'wie aus dem Ei gepellt',  // * duplicated
    'wie bestellt und nicht abgeholt', // *
    'wienern' , // wienern: *
    'wimmern' , // wimmern: *

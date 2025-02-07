@@ -8,15 +8,15 @@ const n = [
    'Nepp',  // Nepp: *
    'Nervensäge', // Nervensäge: *
    'Nessel (sich in die N. setzen)', // *
-   'nesteln', // nesteln:
+   'nesteln', // nesteln: *
    'nicht bei Trost sein', // *  duplicated
    'Nichts für ungut', // *
-   'niederreißen'  ,  // niederreißen:
-   'niegelnagelneu',  //niegelnagelneu:
+   'niederreißen'  ,  // niederreißen: *
+   'niegelnagelneu',  // niegelnagelneu: *
    'niesen',  // niesen:
    'Nobel geht die Welt zugrunde' , //
    'Nörgler',  // Nörgler:
-   'Nu (im N.)', // * duplicated
+   'Nu (im Nu)', // * duplicated
    'nuscheln', // nuscheln: *
    'Nutte',  // Nutte:        
  ];

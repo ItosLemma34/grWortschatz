@@ -92,7 +92,8 @@ const s = [
    'Schund',  // Schund: *
    'schunkeln', // schunkeln: *
    'Schuppen',  // Schuppen:  *
-   'schüren',  // schüren:  *          
+   'schüren',  // schüren:  *  
+   'schurigeln', // schurigeln: *        
    'Schürze',  // Schürze:  *
    'Schüssel',  // Schüssel: *
    'schütten',  // schütten:  *       

@@ -13,6 +13,7 @@ const k = [
    'Kater, verkatert', // *
    'katzbuckeln',  //katzbuckeln:
    'kauern',  // kauern: *
+   'Kaution', // Kaution: *
    'Kauz',  // Kauz:
    'kauzig',  //kauzig:
    'kegeln',  //kegeln:
@@ -92,7 +93,7 @@ const k = [
    'krachen', // krachen:
    'Krähe, krähen', //  
    'Krake', // Krake: 
-   'krakelig/kraklig', //
+   'krakelig/kraklig', // krakelig/kraklig: *
    'Kralle',  // Kralle:
    'Kram (in den K. passen)', // * duplicated
    'kramen',  // kramen:

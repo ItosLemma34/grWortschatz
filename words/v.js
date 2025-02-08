@@ -97,6 +97,7 @@ const v = [
    'Vorgeplänkel, Geplänkel',  //  *  duplicated
    'Vorhängeschloss',  //Vorhängeschloss: *
    'vorliebnehmen',   // vorliebnehmen: *
+   'Vornehm/Nobel geht die Welt zugrunde', // * duplicated
    'vorsintflutlich',  // vorsintflutlich: *
 ];
 

@@ -20,7 +20,8 @@ const e = [
    'einseifen',  //einseifen: 
    'Einstand' ,  // Einstand:
    'einstäuben',  //einstäuben:  
-   'einstecken',  //einstecken:  
+   'einstecken',  //einstecken: 
+   'einstielen', // einstielen: * 
    'Eintänzer',   //Eintänzer:  
    'eintrudeln',  //eintrudeln:  
    'eintüten',    //eintüten:  

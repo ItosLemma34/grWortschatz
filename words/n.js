@@ -13,8 +13,8 @@ const n = [
    'Nichts für ungut', // *
    'niederreißen'  ,  // niederreißen: *
    'niegelnagelneu',  // niegelnagelneu: *
-   'niesen',  // niesen:
-   'Nobel geht die Welt zugrunde' , //
+   'niesen',  // niesen: *
+   'Nobel/Vornehm geht die Welt zugrunde' , // * duplicated
    'Nörgler',  // Nörgler:
    'Nu (im Nu)', // * duplicated
    'nuscheln', // nuscheln: *

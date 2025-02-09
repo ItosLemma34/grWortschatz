@@ -5405,10 +5405,13 @@ Meute: [
 	'Und dann hatte Roddeck noch nicht einmal geredet wie angekündigt, sonder war einfach von der Bildfläche verschwunden. Geradezu geflüchtet... Als ob er geahnt habe, das da einer in der <strong>Meute</strong> der Journalisten lauere, der ihn in den vergangenen Wochen schon mit seinen Fragen belästigt hatte.   (<i>Märzgefallene</i>, 569)' ,
 ],
 Machwerk: [
-	'das <strong>Machwerk</strong>,-<strong>e</strong>: &nbsp;concoction; shoddy piece of work <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Machwerk"target="target1">Machwerk</a><br>English Definitions: &nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Machwerk"target="target2">Machwerk</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Machwerk"target="target3">Machwerk</a>  ' ,
+	'das <strong>Machwerk</strong>,-<strong>e</strong>: shoddy piece of work' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Machwerk"target="target1">Machwerk</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Machwerk"target="target2">Machwerk</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/machwerk?q=Machwerk"target="target3">Machwerk</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/machwerk"target="target4">Machwerk</a>' ,
 	'<u>Märzgefallene</u>',
 	'Weinert musste sich sogar einen Fahnenabzug von <i>Märzgefallene</i> besorgt haben, vielleicht gab es auch schon Vorabexemplare des Buches, jedenfalls zitierte er fröhlich aus Roddecks <strong>Machwerk</strong>. (<i>Märzgefallene</i>, 247)',
 	'Er (<i>Gereon</i>) erzählte Charly von seinem Besuch bei Sprengmeister Grimberg und dessen geringer Meinung von seinem ehemaligen Leutnant. Und von der Witwe Engel, die ihren Mann ebenfalls völlig anders geschildert hatte, als Roddeck das in seinem <strong>Machwerk</strong> tat. (<i>Märzgefallene</i>, 326)' ,
+	'Grimber faltete das engbeschriebene Papier, das er mit nach Berlin genommen hatte, noch einmal auseinander und lass, obwohl er die Zeilen mittlerweile fast auswendig hätte herunterbeten können... <i>Sie, lieber Grimberg, waren leider nicht zugegen bei den Ereignissen, die Roddeck in seinem <strong>Machwerk</strong> so wahrheitswidrig schildert, aber glauben Sie mir: Nicht ich war es, der die Unschuldigen Kinder erschossen, der den Soldaten Wegener getötet hat</i>...  (<i>Märzgefallene</i>, 559)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -5460,11 +5463,15 @@ Machwerk: [
 	'<u>Der nasse Fisch</u>',
 	'Wolter schaute auf die Uhr. "In zwei Stunden müssten wir durch sein. Hältst du dich so lange noch auf den Beinen?" <i>Rath</i>: Eine Kanne starker Kaffee, ein paar Zigaretten, und ich <strong>dreh</strong> dir bis übermorgen die härtesten Kerle <strong>durch die Mangel</strong>!" (<i>Der nasse Fisch</i>, 248)' ,
 ],
-'markieren (den dicken Max M.)': [
-	'<strong>markieren</strong>: &nbsp;mark, tag, select; &nbsp;pretend to be<br><strong>den dicken Max markieren</strong>: &nbsp;show off, act like big shots<br><strong>den Magenkranken markieren</strong>: pretend to be sick (stomach ache) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/markieren"target="target1">markieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/den%20dicken%20Max%20markieren"target="target2">den dicken Max markieren</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/markieren"target="target3">markieren</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=den+starken+Mann+markieren"target="target4">den starken Mann markieren</a> ', //&nbsp;&nbsp;<a href="X"target="target3"></a>  ' ,
+'markieren (den dicken Max m.)': [
+	'<strong>markieren</strong>: mark, tag, select; &nbsp;pretend to be<br><strong>den dicken Max markieren</strong>: show off, act like big shots<br><strong>den Magenkranken markieren</strong>: pretend to be sick (stomach ache)' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/markieren"target="target1">markieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/den%20dicken%20Max%20markieren"target="target2">den dicken Max markieren</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/markieren"target="target3">markieren</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=den+starken+Mann+markieren"target="target4">den starken Mann markieren</a> ', 
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) war so in Gedanken, dass er jetzt erst merkte, welche Schlagzeile er da las... <i>Reichstag in Flammen. Holländischer Kommunist verhaftet</i>. Er musste sich die Augen reiben. Was war denn da los in Berlin...? Schlug die Rotfront jetzt zurück, nachdem die Nazis wochenlang <strong>den dicken Max markiert</strong> hatten? (<i>Märzgefallene</i>,  76)',
 	'Es klingelte an der Tür, und sie (<i>Charly</i>) hielt überrascht inne. Wer konnte das sein. Für Gereon war es noch zu früh, es sei denn, er wäre in ihre Fußstapfen getreten und <strong>markierte den Magenkranken</strong>. (<i>Märzgefallene</i>, 351)',
+	'<u>Lunapark</u>',
+	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den denselben Trott fallen wollen wie seinerzeit mit Reinhold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war. Gräf, mit dem er sich duzte... Gräf, der jetzt mit der Staaspolizei im Rücken <strong>den dicken Max markierte</strong>.  (<i>Lunapark</i>, 69-70)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8842,7 +8849,7 @@ Tropf: [
    'Er (<i>Gereon</i>) klinkte Kiries Halsband aus, und der Hund <strong>trottete</strong> gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch.  (<i>Märzgefallene</i>, 147)' ,
    '"Wir müssen los", sagte er (<i>Fritze</i>) und streckte sich. "Bevor die hier antanzen und wieder aufschließen. Wenn die uns aus der Kiste krabbeln sehen, denn is’s aus." Daran hatte Hannah gar nicht gedacht. Sie stieg aus und folgte ihm, immer noch ziemlich verschlafen, <strong>trottete</strong> einfach hinterher durch das immer noch dunkle Kaufhaus. (<i>Märzgefallene</i>, 172)' ,
 	'<u>Lunapark</u>', 
-	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den denselben <strong>Trott</strong> fallen wollen wie seinerzeit with Reihold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war.  (<i>Lunapark</i>, 69-70)' ,
+	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den denselben <strong>Trott</strong> fallen wollen wie seinerzeit mit Reinhold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war.  (<i>Lunapark</i>, 69-70)' ,
 ],
 Trottel: [
 	'der <strong>Trottel</strong>,-: fool, idiot, know-nothing  ' +
@@ -9288,7 +9295,7 @@ versacken: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versacken"target=target1">versacken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versacken"target=target2">versacken</a>  ' +
 	'<br>English Definitions:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versacken"target="target3">versacken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versacken"target="target4">versacken</a> ' ,
 	'<u>Lunapark</u>',
-	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den deselben Trott fallen wollen wie seinerzeit with Reihold Gräf, mit dem er viel zu oft im Nassen Dreieck <strong>versackt</strong> war.  (<i>Lunapark</i>, 69-70)' ,
+	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den deselben Trott fallen wollen wie seinerzeit mit Reinhold Gräf, mit dem er viel zu oft im Nassen Dreieck <strong>versackt</strong> war.  (<i>Lunapark</i>, 69-70)' ,
 ],
 'verköstigen, beköstigen': [  
 	'<strong>verköstigen</strong> = <strong>beköstigen</strong>: feed, cater for so. ' +

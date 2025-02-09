@@ -22,7 +22,7 @@ const g = [
    'gepfeffert', //gepfeffert:  
    'Geplänkel, Vorgeplänkel',  // *  duplicated  
    'Geplapper',  //Geplapper: 
-    'gequollen, quellen', // 
+   'gequollen, quellen', // 
    'gerädert (sich wie g. fühlen)',  //
    'Geräuschkulisse',  //Geräuschkulisse:  
    'gerieren',   //gerieren:  

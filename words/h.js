@@ -8,7 +8,7 @@ const h = [
    'hämisch',  //hämisch:
   // 'hämmern',
    'Handfessel, Handschelle', // *
-   'Handwerk legen', //
+   'Handwerk legen', // *
    'hanebüchen',  //hanebüchen:
    'hapern',  //hapern:
    'harren',  //harren:
@@ -45,7 +45,7 @@ const h = [
    'Hosennaht',  //Hosennaht:
    'Hühnerauge', //Hühnerauge:
    'humpeln',  //humpeln:
-   'huschen',  //huschen:
+   'huschen',  // huschen: *
  ];
 
 export default h;

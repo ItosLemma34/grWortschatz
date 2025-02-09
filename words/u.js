@@ -17,6 +17,7 @@ const u = [
    'umzingeln' ,  // umzingeln: *
    'unbescholten', // unbescholten: *
    'unbotmäßig',  // unbotmäßig: *
+   'unflätig',  // unflätig: *
    'ungehalten',  // ungehalten: *
    'ungehobelt',  // ungehobelt: *
    'ungelegen',  // ungelegen: *

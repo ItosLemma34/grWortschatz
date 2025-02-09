@@ -56,7 +56,7 @@ const s = [
    'schmoren' , // schmoren: *
    'schmökern', // schmökern: *
    'Schmuck, schmuck' ,  // *
-   'Schmuddel, Schmuddelwetter', // *
+   'Schmuddel, -wetter, schmuddelig', // *
    'Schmunzeln, schmunzeln' , // *
    'Schmutzfink',  // Schmutzfink:  *
    'Schnalle, schnallen', //  *

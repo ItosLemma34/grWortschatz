@@ -109,7 +109,7 @@ const k = [
    'kreuzfidel', // kreuzfidel: *
    'Kribbeln',  // Kribbeln:
    'Kringel',  //Kringel:
-   'Kritikaster',  // Kritikaster:
+   'Kritikaster',  // Kritikaster: *
    'kritzeln' ,  // kritzeln:
    'Kroppzeug', // Kroppzeug:
    'Kröte schlucken', //

@@ -1,5 +1,5 @@
 const m = [
-   'mäandern',  // mäandern:
+   'mäandern',  // mäandern: *
    'Machwerk',  // Machwerk:
    'malochen', //malochen:
    'Mangel (durch die M. drehen)', // * duplicated

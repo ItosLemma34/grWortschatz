@@ -15,10 +15,10 @@ const n = [
    'niegelnagelneu',  // niegelnagelneu: *
    'niesen',  // niesen: *
    'Nobel/Vornehm geht die Welt zugrunde' , // * duplicated
-   'Nörgler',  // Nörgler:
+   'Nörgler',  // Nörgler: *
    'Nu (im Nu)', // * duplicated
    'nuscheln', // nuscheln: *
-   'Nutte',  // Nutte:        
+   'Nutte',  // Nutte: *       
  ];
 
 export default n;      

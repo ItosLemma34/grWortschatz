@@ -51,6 +51,7 @@ const v = [
    'verrutschen' ,  // verrutschen:  *
    'versacken',  // versacken:  *
    'versauen',   // versauen:  *
+   'versaufen', // versaufen: *
    'verschanzen (sich)' , //  *
    'verscharren',    // verscharren: *
    'verscherzen (sich)',  //  *

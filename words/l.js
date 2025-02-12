@@ -1,5 +1,5 @@
 const l = [
-   'Lache',  // Lache:
+   'Lache',  // Lache: *
    'Lack',  // Lack:
    'Lackaffe',  // Lackaffe:  *
    'lädieren',  // lädieren:

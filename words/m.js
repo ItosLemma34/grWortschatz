@@ -1,32 +1,32 @@
 const m = [
    'mäandern',  // mäandern: *
    'Machwerk',  // Machwerk: *
-   'malochen', //malochen:
+   'malochen', // malochen: *
    'Mangel (durch die M. drehen)', // * duplicated
    'Mangel (in die M. nehmen)' ,  // * duplicated
-   'Manschettenknopf',  // Manschettenknopf:
+   'Manschettenknopf',  // Manschettenknopf: *
    'markieren (den dicken Max m.)', // *
    'mau', // mau: *
    'Maulwurf',  // Maulwurf: *
-   'meckern' ,  // meckern:
-   'Melone',  // Melone:
-   'Messing' ,  // Messing:
-   'meucheln, Meuchelmord', //
-   'Meute',  // Meute:
+   'meckern' ,  // meckern: *
+   'Melone',  // Melone: *
+   'Messing' ,  // Messing: *
+   'meucheln, Meuchelmord', // *
+   'Meute',  // Meute: *
    'mickrig',  // mickrig: *
-   'miefig, Mief',  //
-   'mimen', // mimen:
+   'miefig, Mief',  // *
+   'mimen', // mimen: *
    'mit allen Wassern gewaschen', // * duplicated
    'mitgenommen',  // mitgenommen: *
-   'Mohrrübe', // Mohrrübe:
-   'Muffel',  // Muffel:
-   'Mühle',  // Mühle:
-   'Mullbinde', // Mullbinde:
-   'mulmig',  // mulmig:
-   'Mumpitz',  // Mumpitz:
-   'munkeln',  // munkeln:
-   'Murmel' , // Murmel:
-   'murren' , // murren:
+   'Mohrrübe', // Mohrrübe: *
+   'Muffel',  // Muffel: *
+   'Mühle',  // Mühle: *
+   'Mullbinde', // Mullbinde: *
+   'mulmig',  // mulmig: *
+   'Mumpitz',  // Mumpitz: *
+   'munkeln',  // munkeln: *
+   'Murmel' , // Murmel: *
+   'murren' , // murren: *
 ];
 
 export default m;      

@@ -7,7 +7,7 @@ const k = [
    'Karnickel', //Karnickel:
    'Karree',   //Karree:
    'karren',  //karren: *
-   'Kaschemme',  //Kaschemme:
+   'Kaschemme',  //Kaschemme: *
    'kaschieren', //kaschieren:
    'Kassiber',  // Kassiber:
    'Kater, verkatert', // *
@@ -90,7 +90,7 @@ const k = [
    'Kot, Kotflügel', //
    'koten',  // koten:
    'krabbeln',  //krabbeln:
-   'krachen', // krachen:
+   'krachen, Krach', // *
    'Krähe, krähen', //  
    'Krake', // Krake: 
    'krakelig/kraklig', // krakelig/kraklig: *

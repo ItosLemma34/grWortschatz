@@ -39,6 +39,7 @@ const r = [
    'robben',  // robben: *
    'röcheln', // röcheln: *
    'roden', // roden:  *
+   'Rohrkrepierer', // *
    'rosten' , // rosten: *
    'Rottenführer',  // Rottenführer: *
    'rührig',  // rührig: *

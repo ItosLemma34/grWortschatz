@@ -105,9 +105,6 @@ Maulwurf: [
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: "Wenn ich einen Vorschlag machen darf, Kriminaldirektor: Wir sollten die ganze Sache zunächst nicht an die große Glocke hängen und den korrupten FJK-Offizier außen vor lassen. Lassen Sie mich ausreichend Beweise sammeln, die eine Aushebung rechtfertigen. Dann schlagen wir zu, ohne dem <strong>Maulwurf</strong> im FJK Gelegenheit zu geben, seinen Freund Lapke zu warnen. Der Rest wird sich dann schon finden."   (<i>Lunapark</i>, 211)' ,
 ],
-// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
 einstielen: [
 	'<strong>einstielen</strong>: organize, set up ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einstielen"target="target1">einstielen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einstielen"target="target2">einstielen</a>  ' +
@@ -3505,11 +3502,14 @@ gluckern: [
 	'Sie (<i>Charly und Gereon</i>) schleiften die Leiche zur Uferbefestigung, dann gaben sie ihr einen Schubs, und langsam kippte das blutfleckige Baumwollbündel nach vorne und rutschte in die schwarze Tiefe. Es sah aus wie eine Seebestattung. Ein dunkles <strong>Gluckern</strong> sagte ihnen, dass die Leiche im Wasser angekommen sein musste. Rath hatte in die Dunkelheit gehorcht. Erst als er dieses <strong>Gluckern</strong> hörte, mit dem die Spree ihren neuen Gast aufnahm, war ihm klar geworden, dass es nun kein Zurück mehr gab.   (<i>Märzgefallene</i>, 419)' ,
 ],
 'Gör, Göre': [
-	'das <strong>Gör</strong>,-<strong>en</strong> oder die <strong>Göre</strong>,-<strong>n</strong>: &nbsp;brat, guttersnipe gal <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Goer"target="target1">Gör</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/goer#G%C3%B6r"target="target2">Gör</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gor_2"target="target3">Gör</a>     ',
+	'das <strong>Gör</strong>,-<strong>en</strong> oder die <strong>Göre</strong>,-<strong>n</strong>: brat, guttersnipe gal' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Goer"target="target1">Gör</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/G%C3%B6r"target="target2">Gör</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gor_2"target="target3">Gör</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=G%C3%B6r"target="target4">Gör</a>',
 	'<u>Märzgefallene</u>',
 	'So schnell sie konnte, rannte Hannah zur Tür, Huckebein humpelte mit einem wütenden Schrei hinter ihr her...."Dich mach ich fertig, du blödes <strong>Gör</strong>!" (<i>Märzgefallene</i>, 69)' ,
 	'"Hier ist es", sagte Oberschwester Ingeborg überflüssigerweise und schenkte Charly einen abschätzigen Blick. <i>Deinetwegen ist das <strong>Gör</strong> ausgerückt</i>, sagte dieser Blick, <i>wärest du nicht gekommen und hättest unseren Frieden gestört, hätten wir den ganzen Ärger nicht</i>! (<i>Märzgefallene</i>, 80)' ,
 	'<i>Kriminalrätin Wieking</i>: "Einem verrückten Juden<strong>gör</strong> eine vernünftige Aussage entlocken zu wollen, ich habe das von Anfang an für sinnlos gehalten. Aber ich wollte Kriminalrat Gennat die Bitte nicht abschlagen …" (<i>Märzgefallene</i>, 91)' ,
+	'Sie (<i>Charly</i>) sprach einen der Blauen an und zückte ihren Dienstausweis. <i>der Schupo</i>: "Sind Se von der Fahndung? Die haben uns vorjestern schon Löcher in den Bauch jefragt. Jefunden haben se det <strong>Gör</strong> (<i>Hannah</i>) aber ooch nich." (<i>Märzgefallene</i>, 295-96)' ,
 	'Er hatte die <strong>Göre</strong> genau gesehen am Banhof Zoo, jedes einzelne Kleidungsstück, das sie trug, hatte sich ihm eingeprägt. Und so beschrieb er sie auch. Vergaß nicht darauf hinzuweisen, das es sich bei Hannah Singer um eine gefährliche Irre handelte. (<i>Märzgefallene</i>, 379)' ,
 	'Er (<i>Huckebein</i>) hatte sie (<i>Hannah</i>) in die Ecke gedrängt. In seiner Rechten hielt er den langen Dolch, mit dem er vor den Krähen immer geprahlt hatte... "Da guckste, was, blödes <strong>Gör</strong>? Noch mal entkommste mir nicht."  (<i>Märzgefallene</i>, 399)' ,
 ],
@@ -4290,7 +4290,9 @@ Kralle: [
 //	'<u>Märzgefallene</u>',
 ],
 Kabuff: [
-	'das <strong>Kabuff</strong>,-<strong>s</strong>: &nbsp;cubbyhole, tiny den, little corner <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kabuff"target="target1">Kabuff</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kabuff?q=Kabuff"target="target2">Kabuff</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kabuff"target="target3">Kabuff</a> ' ,
+	'das <strong>Kabuff</strong>,-<strong>s</strong>: cubbyhole, tiny den, little corner' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kabuff"target="target1">Kabuff</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kabuff"target="target2">Kabuff</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kabuff"target="target3">Kabuff</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kabuff"target="target4">Kabuff</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Overstolz, fünf Sechserpackungen", sagte er (<i>Rath</i>), nachdem er die Gestalt im Dunkel des Bretterverschlags</strong> mit einem kurzen Nicken begrüßt hatte. Der Mann war ziemlich dick und wirkte, als sei er in seinem <strong>Kabuff</strong> festgewachsen. (<i>Der nasse Fisch</i>, 113)' ,
 //	'<u>Märzgefallene</u>',   
@@ -5120,9 +5122,13 @@ Laster: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 Leibesvisitation: [
-	'die <strong>Leibesvisitation</strong>,-<strong>en</strong>: strip search <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leibesvisitation"target="target1">Leibesvisitation</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/leibesvisitation"target="target2">Leibesvisitation<a/> &nbsp;<a href="https://www.verbformen.com/?w=Leibesvisitation"target="target3">Leibesvisitation</a>   ' ,
+	'die <strong>Leibesvisitation</strong>,-<strong>en</strong>: strip search' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leibesvisitation"target="target1">Leibesvisitation</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Leibesvisitation"target="target2">Leibesvisitation</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/leibesvisitation"target="target3">Leibesvisitation<a/> &nbsp;<a href="https://www.verbformen.com/?w=Leibesvisitation"target="target4">Leibesvisitation</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'Die Zellen füllten sich nur langsam, der größte Teil ihres Fangs befand sich noch im Konferenzsaal. Was wie Chaos wirkte, hatte durchaus System: War einer in der Schlange ganz vorn angelangt, folgte immer die gleiche Prozedur: Ausweispapiere vorlegen, <strong>Leibesvisitation</strong>, ein paar Fragen.   (<i>Der nasse Fisch</i>, 253)' ,
+	'<u>Märzgefallene</u>',
+	'"Mein Freund wird den Dicken aufhalten, den du bestohlen hast", sagte Rath zu Ede. "Und ich werde ihm seine Brieftasche zurückgeben." <i>Ede</i>: "Ich weiß nit, wovun Se reden." <i>Rath</i>: "Es ist ein Vorschlag zur Güte. Gib mir die Brieftasche, und alles ist vergessen. Oder wir zwei spazieren doch noch zur Krebsgasse und ich lasse dich einer <strong>Leibesvisitation</strong> unterziehen."  (<i>Märzgefallene</i>, 23)' ,
 ],  
 Lache: [
 	'die <strong>Lache</strong>,-<strong>n</strong>: puddle, pool' +
@@ -5136,17 +5142,26 @@ Lache: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 ],  
 Laubenkolonie: [
-	'die <strong>Laubenkolonie</strong>,-<strong>n</strong>: allotment gardens (with cabins) &nbsp;&nbsp;die <strong>Laube</strong>,-<strong>n</strong>: arbor    <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laubenkolonie"target="target1">Laubenkolonie</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laubenkolonie"target="target2">Laubenkolonie<a/> &nbsp;<a href="https://www.verbformen.com/?w=Laubenkolonie"target="target3">Laubenkolonie</a>   ' ,
+	'die <strong>Laube</strong>,-<strong>n</strong>: arbor <br>die <strong>Laubenkolonie</strong>,-<strong>n</strong>: allotment gardens' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laubenkolonie"target="target1">Laubenkolonie</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laubenkolonie"target="target2">Laubenkolonie</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laubenkolonie"target="target3">Laubenkolonie<a/> &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/laubenkolonie"target="target4">Laubenkolonie</a>   ' ,
 	'<u>Lunapark</u>',
 	'"Vielleicht ist sie (<i>die Gruppe Wolff</i>) ja auch kreuz und quer in der ganzen Stadt verteilt", sagte Rath. "In irgendwelchen Wohnungen, die die Kommunisten für genau solche Zwecke vorhalten.." <i>Gräf</i>: " Die meisten dieser Wohnungen sind schon dreiunddreißig aufgeflogen.. Es ist natürlich nicht auszuschließ, dass die Bolschewiken diese zerschlagenen Strukturen wenigstens zum Teil wiederaufgebaut haben, aber ich glaube das nicht. Ich vermute, dass sie eher in irgendwelchen <strong>Laubenkolonien</strong> hausen, in Kellern oder auf Dachböden."   (<i>Lunapark</i>, 60-61)',
+	'"Was können Sie denn zur Sache beitragen?", fragte sie (<i>Charly</i>). "Ick kenn \'n paar Ecken, wo illegale Rote sich versteckt halten", sagte Herr Tutnüschtzursache, "könnt ick ihnen zeigen. <strong>Laubenkolonien</strong> vor allem." "Hören Sie, ich hatte nicht vor, die ganze Stadt zu durchkämmen, ich hatte eigentlich auf konkrete Hinweise gehofft.. Das sich in den <strong>Laubenkolonien</strong> Kommunisten verstecken, weiß doch jedes Kind."   (<i>Lunapark</i>, 226)',
 ],  
 Lappen: [
-	'der <strong>Lappen</strong>,-: &nbsp;rag, cloth <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target2">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target3">Lappen</a>   ' ,
+	'der <strong>Lappen</strong>,-: rag, cloth <br>jmdm. <strong>durch die Lappen gehen</strong>: slip through so.\'s fingers' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lappen"target="target2">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20durch%20die%20Lappen%20gehen"target="target3">durch die Lappen gehen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target4">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target5">Lappen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Lappen+gehen"target="target6">durch die Lappen gehen<a/>',
 	'<u>Der nasse Fisch</u>',
-	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie wedelte demonstrativ mit einem Staub<strong>lappen</strong> durchs Regal.   (<i>Der nasse Fisch</i>, 231)' ,
-	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <strong>Lappen</strong> geräuschvoll auswrang.  (<i>Der nasse Fisch</i>, 234)' ,
-	'<i>Rath</i>: "Gönnen Sie sich mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putz<strong>lappen</strong> zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab.  (<i>Der nasse Fisch</i>, 234)' ,
+	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie wedelte demonstrativ mit einem Staub<strong>lappen</strong> durchs Regal.   (<i>Der nasse Fisch</i>, 231)',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <strong>Lappen</strong> geräuschvoll auswrang.  (<i>Der nasse Fisch</i>, 234)',
+	'<i>Rath</i>: "Gönnen Sie sich mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putz<strong>lappen</strong> zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab.  (<i>Der nasse Fisch</i>, 234)',
+	'<i>Elisabeth Behnke</i>: "Kannst du mir mal verraten, warum du Putz<strong>lappen</strong> in den Badeofen steckst?.. <i>Rath</i>: "Tut mir leid." Er bedauerte es tatsächlich.. "Komm, lass mal, ich mach das schon weg.".. Plötzlich fing sie an zu schluchzen und hielt sich ihre rußgeschwärzten Hände vors Gesicht.. <i>Rath</i>: "Elisabeth, ist doch schon gut. Ich hab nicht nachgedacht, der alte <strong>Lappen</strong> musste weg und..." Sie stand auf und sah ihn aus verweinten und schwarzverschmierten Augen an. "Warum kannst du nicht einfach ein Arschloch sein?", sagte sie und verschwand durch die Tür. (<i>Der nasse Fisch</i>, 263)',
+	'<u>Märzgefallene</u>',
+	'"Ach, Charly", sagte er (<i>Kellermann</i>), "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden?" "Das nicht. Aber sie ist gesehen worden.. Ich hab den Fall nicht betreut. Aber sehen Sie doch im Bericht nach.. Liegt alles bei Kommissar Rath auf dem Schribtisch." <i>Charly</i>: "Dann werde ich mir das bei Gelegeneit mal anschauen.." Sie sagte das möglichst beiläufig, sie wollte sich nicht anerken lassen, wie sehr sie Kellermanns Nachricht aufwülhlte. Und wie erleichtert sie war, dass Hannah den Fahndern <strong>durch die Lappen</strong> gegangen war.   (<i>Märzgefallene</i>, 289)',
 ],  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)  ä Ä ö Ö ü Ü ß <strong> für über                                                                                           ä Ä ö Ö ü Ü ß <strong> für über
 Lauf: [
 	'der <strong>Lauf</strong>, die <strong>Läufe</strong>: barrel (of a gun) &nbsp;(<i>many other meanings</i>) ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lauf"target="target1">Lauf</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lauf"target="target2">Lauf</a>  ' +
@@ -5161,13 +5176,17 @@ Lauf: [
 	'"Keine Bewegung", sagte eine heisere Stimme. Rath wagte nicht, sich zu rühren. "Hände hoch." Er nahm die Hände hoch. "Waffe fallen lassen." Rath klickte den Sicherungshebel zurück und gehorchte. Die Walther landete mit einem Poltern auf dem Parkett. "Umdrehen." Rath drehte sich um. Er blickte in den <strong>Lauf</strong> einer Schrotflinte...  (<i>Lunapark</i>, 123)' ,
 ],
 Lenz: [
-	'der <strong>Lenz</strong>,-<strong>e</strong>: &nbsp;spring <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lenz"target="target1">Lenz</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lenz?q=Lenz"target="target2">Lenz<a/>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lenz#Lenz"target="target3">Lenz<a/> ' ,
+	'der <strong>Lenz</strong>,-<strong>e</strong>: spring (Frühling) <br><strong>sich einen Lenz machen</strong>: laze about' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lenz"target="target1">Lenz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lenz"target="target2">Lenz</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Lenz"target="target3">Lenz<a/>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lenz"target="target4">Lenz<a/> ' ,
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'In ihren SA-Uniformen sahen sie gar nicht aus wie Studenten, doch ihre Milchgesichter verrieten, dass sie kaum mehr als zwanzig <strong>Lenze</strong> zählten.  (<i>Märzgefallene</i>, 555)' ,
 ],
-lasten: [
-	'<strong>lasten</strong>: &nbsp;be a burden, weigh heavily on so./sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lasten"target="target1">lasten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lasten"target="target2">lasten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lasten"target="target3">lasten</a> ' ,
+lasten: [ 
+	'<strong>lasten</strong>: be a burden, weigh heavily on so./sth. <br>die <strong>Last</strong>,-<strong>en</strong>: burden, weight' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lasten"target="target1">lasten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lasten"target="target2">lasten</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lasten"target="target3">lasten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lasten"target="target4">lasten</a> ' ,
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
 	'Ein grauer wolkenschwerer Himmel <strong>lastete</strong> auf der Stadt. Rath saß in seinem Büro, die Tür zum Vorzimmer geschlossen, schaute über den verwaisten Schreibtisch von Reinhold Gräf hinweg aus dem Fenster und spielte mit einem Bleistift.  (<i>Märzgefallene</i>, 535)' ,
@@ -5183,75 +5202,108 @@ Lackaffe: [
 	'"Heil Hitler", sagte Gräf und schaute ihn (<i>Rath</i>) dabei gar nicht an, nur die beiden <strong>Lackaffen</strong>, die Rath hergebracht hatten.  (<i>Lunapark</i>, 149)' ,
 ],
 'Lobhudelei, Hudelei': [
-	'die <strong>Lobhudelei</strong>,-<strong>en</strong>: adulation, extravagant praise &nbsp;&nbsp;die <strong>Hudelei</strong>,-<strong>en</strong>: sloppiness <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lobhudelei"target="target1">Lobhudelei</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hudelei"target="target2">Hudelei</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Lobhudelei"target="target3">Lobhudelei</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hudelei"target="target4">Hudelei</a> ' ,
+	'die <strong>Hudelei</strong>,-<strong>en</strong>: sloppiness<br>die <strong>Lobhudelei</strong>,-<strong>en</strong>: adulation, extravagant praise' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hudelei"target="target1">Hudelei</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lobhudelei"target="target2">Lobhudelei</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hudelei"target="target3">Hudelei</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Lobhudelei"target="target4">Lobhudelei</a>',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Harald Hefner</i>) schob eine Pressemitteilung über den Tisch, die den Briefkopf des Reichspressechefs der NSDAP trug. Weinert überflog den Text. Otto Dietrich persönlich hatte den abgesondert, eine <strong>Lobhudelei</strong> über das bekannteste Geburtstagskind dieser Tage (<i>Hitler</i>), dessen Wiegenfest... jede deutsche Zeitung gleich mehrere Artikel widmete.      (<i>Märzgefallene</i>, 534)' ,
+	'Er (<i>Harald Hefner</i>) schob eine Pressemitteilung über den Tisch, die den Briefkopf des Reichspressechefs der NSDAP trug. Weinert überflog den Text. Otto Dietrich persönlich hatte den abgesondert, eine <strong>Lobhudelei</strong> über das bekannteste Geburtstagskind dieser Tage (<i>Hitler</i>), dessen Wiegenfest... jede deutsche Zeitung gleich mehrere Artikel widmete. (<i>Märzgefallene</i>, 534)',
+],
+'Hudelei, Lobhudelei': [
+	'die <strong>Hudelei</strong>,-<strong>en</strong>: sloppiness<br>die <strong>Lobhudelei</strong>,-<strong>en</strong>: adulation, extravagant praise' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hudelei"target="target1">Hudelei</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lobhudelei"target="target2">Lobhudelei</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hudelei"target="target3">Hudelei</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Lobhudelei"target="target4">Lobhudelei</a>',
+	'<u>Märzgefallene</u>',
+	'Er (<i>Harald Hefner</i>) schob eine Pressemitteilung über den Tisch, die den Briefkopf des Reichspressechefs der NSDAP trug. Weinert überflog den Text. Otto Dietrich persönlich hatte den abgesondert, eine <strong>Lobhudelei</strong> über das bekannteste Geburtstagskind dieser Tage (<i>Hitler</i>), dessen Wiegenfest... jede deutsche Zeitung gleich mehrere Artikel widmete. (<i>Märzgefallene</i>, 534)',
 ],
 lotsen: [
-	'<strong>lotsen</strong>: &nbsp;drag sb. somewhere; guide, pilot (Schiff) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lotsen"target="target1">lotsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lotsen"target="target2">lotsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lotsen"target="target3">lotsen</a>' ,
+	'<strong>lotsen</strong>: drag sb. somewhere; guide, pilot (Schiff)' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lotsen"target="target1">lotsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lotsen"target="target2">lotsen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lotsen"target="target3">lotsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lotsen"target="target4">lotsen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Dass er (<i>Gereon</i>) eigentlich keinen Damenbesuch empfangen durfte, hatte er Charly gestern bereits gestanden. "Ich wollte immer schon mal etwas illegales tun", hatte sie nur gesagt. Und so hatte er sie leise in sein Zimmer <strong>gelotst</strong>.  (<i>Der nasse Fisch</i>, 193)' ,
+	'Dass er (<i>Gereon</i>) eigentlich keinen Damenbesuch empfangen durfte, hatte er Charly gestern bereits gestanden. "Ich wollte immer schon mal etwas illegales tun", hatte sie nur gesagt. Und so hatte er sie leise in sein Zimmer <strong>gelotst</strong>.  (<i>Der nasse Fisch</i>, 193)',
 	'<u>Märzgefallene</u>',
-	'Berthold Weinert fühlte sich nicht wohl in der Kaschemme, in die Gereon Rath ihn <strong>gelotst</strong> hatte. Es war nicht das erste Mal, dass sie sich im Nassen Dreieck am Wassertorplatz trafen, und Weinert hatte die Kneipe noch nie gemocht.   (<i>Märzgefallene</i>, 530)' ,
-	'Auf dem Besucherstuhl im Vorzimmer saß ein Mann in kauernder Haltung, wie ein Bittsteller, und faltete einen Hut. Rath konnte seine Überraschung nicht verbergen. "Ede!", entfuhr es ihm. "Du in Berlin?".. Erika Voss schaute zunehmend neugierig, und Rath <strong>lotste</strong> Eduard Schürmann nach hinten in sein Büro und schloss die Zwischentür.   (<i>Märzgefallene</i>, 543)' ,
-	'Nachdem das Mädchen in der Carmerstraße allen die Garderobe abgenommen hatte, <strong>lotste</strong> Rath die Hochzeitsgesellschaft in den Salon, wie sie das Wohnzimmer heute nannte, und schloss die Tür, bevor Kirie hindurchschlüpfen konnte.  (<i>Märzgefallene</i>, 583)' ,
-	'Ohne Greta hätte Rath wohl nie herausgefunden, wohin Paul mit Charly gefahren war. Sie hatte ihn mit schlafwandlerischer Sicherheit zum Poststadion <strong>gelost</strong>, wo sie Charly und Paul gerade noch aus einem Taxi hatten steigen sehen. (<i>Märzgefallene</i>, 599)' ,
+	'Berthold Weinert fühlte sich nicht wohl in der Kaschemme, in die Gereon Rath ihn <strong>gelotst</strong> hatte. Es war nicht das erste Mal, dass sie sich im Nassen Dreieck am Wassertorplatz trafen, und Weinert hatte die Kneipe noch nie gemocht.   (<i>Märzgefallene</i>, 530)',
+	'Auf dem Besucherstuhl im Vorzimmer saß ein Mann in kauernder Haltung, wie ein Bittsteller, und faltete einen Hut. Rath konnte seine Überraschung nicht verbergen. "Ede!", entfuhr es ihm. "Du in Berlin?".. Erika Voss schaute zunehmend neugierig, und Rath <strong>lotste</strong> Eduard Schürmann nach hinten in sein Büro und schloss die Zwischentür. (<i>Märzgefallene</i>, 543)',
+	'Nachdem das Mädchen in der Carmerstraße allen die Garderobe abgenommen hatte, <strong>lotste</strong> Rath die Hochzeitsgesellschaft in den Salon, wie sie das Wohnzimmer heute nannte, und schloss die Tür, bevor Kirie hindurchschlüpfen konnte.  (<i>Märzgefallene</i>, 583)',
+	'Ohne Greta hätte Rath wohl nie herausgefunden, wohin Paul mit Charly gefahren war. Sie hatte ihn mit schlafwandlerischer Sicherheit zum Poststadion <strong>gelost</strong>, wo sie Charly und Paul gerade noch aus einem Taxi hatten steigen sehen. (<i>Märzgefallene</i>, 599)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 lausig: [
-	'<strong>lausig</strong>: &nbsp;crummy, dreadful, awful <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lausig"target="target1">lausig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lausig"target="target2">lausig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lausig"target="target3">lausig</a> ' ,
+	'<strong>lausig</strong>: crummy, dreadful, awful' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lausig"target="target1">lausig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lausig"target="target2">lausig</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lausig"target="target3">lausig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lausig"target="target4">lausig</a>',
 	'<u>Märzgefallene</u>',
-	'Während Gräf sich in der neugewonnenen Bewunderung sonnte, und sogar Steinke, der <strong>lausige</strong> Kommissaranwärter, ein paar Strahlen abbekam, empfand Rath nur Neid.   (<i>Märzgefallene</i>, 511)' ,
+	'Während Gräf sich in der neugewonnenen Bewunderung sonnte, und sogar Steinke, der <strong>lausige</strong> Kommissaranwärter, ein paar Strahlen abbekam, empfand Rath nur Neid.   (<i>Märzgefallene</i>, 511)',
 ],
-'Leim, leimen': [
-	'der <strong>Leim</strong>,-<strong>e</strong>: glue, paste &nbsp;&nbsp;<strong>leimen</strong>: to glue, paste &nbsp;&nbsp;jmdn. <strong>leimen</strong>: take sb. in/for a ride <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leim"target="target1">Leim</a> &nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/leimen"target="target2">leimen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Leim"target="target3">Leim</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/leimen"target="target4">leimen</a> ' ,
+'Leim, leimen': [  
+	'der <strong>Leim</strong>,-<strong>e</strong>: glue, paste <br><strong>leimen</strong>: to glue, paste: take sb. in/for a ride' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leim"target="target1">Leim</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/leimen"target="target2">leimen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Leim"target="target3">Leim</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/leimen"target="target4">leimen</a> ' ,
 	'<u>Der nasse Fisch</u>',
-	'Er (<i>Rath</i>) hatte noch einmal mit Gloria gesprochen, gestern Abend, bevor er nach Hause gefahren und todmüde ins Bett gefallen war. Sie hatte ihn nicht <strong>geleimt</strong>, da war er sich jetzt sicher. "Wenn er mit dir sprehen will, dann wird er mit dir sprechen", hatte sie gesagt... "Wenn nicht, dann kannst du nichts machen."  (<i>Der nasse Fisch</i>, 163)' ,
+	'Er (<i>Rath</i>) hatte noch einmal mit Gloria gesprochen, gestern Abend, bevor er nach Hause gefahren und todmüde ins Bett gefallen war. Sie hatte ihn nicht <strong>geleimt</strong>, da war er sich jetzt sicher. "Wenn er (<i>Marlow</i>) mit dir sprehen will, dann wird er mit dir sprechen", hatte sie gesagt... "Wenn nicht, dann kannst du nichts machen."  (<i>Der nasse Fisch</i>, 163)' ,
 	'<u>Goldstein</u>',
 	'Es roch nach Holz und <strong>Leim</strong> und frischem Lack.  (<i>Goldstein</i>, 9)' ,
 ],
 Litfaßsäule: [
-	'die <strong>Litfaßsäule</strong>,-<strong>n</strong>: &nbsp;advertising pillar/column <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Litfaszsaeule"target="target1">Litfaßsäule</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/litfasssaule"target="target2">Litfaßsäule</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Litfa%C3%9Fs%C3%A4ule"target="target3">Litfaßsäule</a> ' ,
+	'die <strong>Litfaßsäule</strong>,-<strong>n</strong>: advertising pillar/column' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Litfaszsaeule"target="target1">Litfaßsäule</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Litfa%C3%9Fs%C3%A4ule"target="target2">Litfaßsäule</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/litfasssaule"target="target3">Litfaßsäule</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/litfasssaeule"target="target4">Litfaßsäule</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'Die Ampel am Verkehrsturm sprang gerade wieder auf Grün, als er (<i>Rath</i>) das Plakat an der <strong>Litfaßsäule</strong> sah... Vor der haushohen Plakatwand, die einen Bauplatz vom Gehweg abschirmte, stand die <strong>Litfaßsäule</strong>. (<i>Der nasse Fisch</i>, 148)' ,
 	'<u>Lunapark</u>',
 	'Die Akte enthielt Fotos, die - jeweils auf ein gelochtes Blatt Papier geklebt, auf dem ein Datum und eine Adresse vermerkt waren - kommunistische Parolen zeigten, an Hauswänden, Mauern, Baustellenzäunen, sogar <strong>Litfaßsäulen</strong>.. ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHISTEN! (<i>Lunapark</i>, 54)' ,
 ], 
 lallen: [
-	'<strong>lallen</strong>: &nbsp;mumble, babble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lallen"target="target1">lallen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lallen"target="target2">lallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lallen"target="target3">lallen</a> ' ,
+	'<strong>lallen</strong>: mumble, babble' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lallen"target="target1">lallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lallen"target="target2">lallen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lallen"target="target3">lallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lallen"target="target4">lallen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Sie (<i>die Frau Behnke</i>) musste sich am Türpfosten abstützen und schaute ihn (<i>Rath</i>) vorwurfsvoll an. Was sie ihm sagen wollte, verstand er kaum, sie <strong>lallte</strong> nur noch. (<i>Der nasse Fisch</i>, 129)' ,
+	'Sie (<i>Frau Behnke</i>) musste sich am Türpfosten abstützen und schaute ihn (<i>Rath</i>) vorwurfsvoll an. Was sie ihm sagen wollte, verstand er kaum, sie <strong>lallte</strong> nur noch. (<i>Der nasse Fisch</i>, 129)',
 ],
-'Loch in den Bauch fragen': [
-	'jmdm. ein <strong>Loch</strong> (oder <strong>Löcher</strong>) <strong>in den Bauch fragen</strong>: &nbsp;pester so. with questions <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20ein%20Loch%20in%20den%20Bauch%20fragen"target="target1">Loch in den Bauch fragen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Loch+in+den+Bauch+fragen"target="target2">Loch in den Bauch fragen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/jemandem%20l%C3%B6cher%20in%20den%20bauch%20fragen"target="target3">Loch in den Bauch fragen</a> ' ,
+'Loch in den Bauch fragen': [ 
+	'jmdm. ein <strong>Loch</strong> (oder <strong>Löcher</strong>) <strong>in den Bauch fragen</strong>: pester so. with questions' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20ein%20Loch%20in%20den%20Bauch%20fragen"target="target1">Loch in den Bauch fragen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Loch+in+den+Bauch+fragen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Loch in den Bauch fragen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Loch+in+den+Bauch+fragen"target="target3">Loch in den Bauch fragen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/jemandem%20l%C3%B6cher%20in%20den%20bauch%20fragen"target="target4">Loch in den Bauch fragen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>der dicke Kioskbetreiber</i>: "Aber am nächsten Morgen gegen fünf, als ich wieder aufmachen wollte, standen immer noch zwei Schupos da in der Gegend rum und taten so, als bewachten sie etwas. Die Kriminalen vom Alex kamen erst viel später. Haben mir ganz schöne <strong>Löcher in den Bauch gefragt</strong>...." (<i>Der nasse Fisch</i>, 114)' ,
+	'<u>Märzgefallene</u>',
+	'Sie (<i>Charly</i>) sprach einen der Blauen an und zückte ihren Dienstausweis. <i>der Schupo</i>: "Sind Se von der Fahndung? Die haben uns vorjestern schon <strong>Löcher in den Bauch jefragt</strong>. Jefunden haben se det Gör (<i>Hannah</i>) aber ooch nich." (<i>Märzgefallene</i>, 295-96)' ,
 ],
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Land gewinnen': [
 	'<strong>Land gewinnen</strong>: &nbsp;scram <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.redensarten-index.de/suche.php?suchbegriff=Land+gewinnen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou" target="target1" >Land gewinnen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Was wollen Sie noch hier?", schnauzte Böhm den Mann (<i>Rath</i>) an. "Habe ich Sie etwa gebeten, die Leiche zu identifizieren? "Natürlich nicht, Herr Oberkommissar!" Kommissar Rath stand wieder stramm. "Na, dann sehen Si mal zu, dass Sie endlich <strong>Land gewinnen</strong>! Sie halten den Betrieb auf!" (<i>Der nasse Fisch</i>, 85)' ,
 ],
 Laufbursche: [
-	'der <strong>Laufbursche</strong>,-<strong>e</strong>: &nbsp;gofer, errand boy <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laufbursche"target="target1">Laufbursche</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/laufbursche?q=Laufbursche"target="target2">Laufbursche</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufbursche"target="target3">Laufbursche</a>  ' ,
+	'der <strong>Laufbursche</strong>,-<strong>n</strong>: gofer, errand boy' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laufbursche"target="target1">Laufbursche</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufbursche"target="target2">Laufbursche</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/laufbursche?q=Laufbursche"target="target3">Laufbursche</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufbursche"target="target4">Laufbursche</a>' ,
 	'<u>Der nasse Fisch</u>',
 	'"Halt!" (<i>Doktor</i>) Völcker unterbrach ihn (<i>Doktor Schwartz</i>).... "Entschuldigen Sie, Kollege Schwartz" fuhr Völcker etwas ruhiger fort, "ich wollte Sie nicht unterbrechen. Aber eigentlich bin ich hier nicht as <strong>Laufbursche</strong>, sondern um der Untersuchung der beiden Frauenleichen beizuwohnen."   (<i>Der nasse Fisch</i>, 85)' ,
 ],
 'Lunte riechen': [
-	'<strong>Lunte riechen</strong>: smell a rat  &nbsp;&nbsp;die <strong>Lunte</strong>,-<strong>n</strong>: fuse, match <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lunte%20riechen"target="target1">Lunte riechen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://tureng.com/en/german-english/lunte%20riechen"target="target2">Lunte riechen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Lunte+riechen"target="target3">Lunte riechen</a> ' ,
+	'<strong>Lunte riechen</strong>: smell a rat  &nbsp;&nbsp;die <strong>Lunte</strong>,-<strong>n</strong>: fuse, match' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lunte%20riechen"target="target1">Lunte riechen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Lunte+riechen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Lunte riechen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/lunte%20riechen"target="target3">Lunte riechen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Lunte+riechen"target="target4">Lunte riechen</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Weinert</i>) blickte sich um, als könne Elisabeth Behnke jeden Augenblick durch die Tür kommen, und fuhr dann im Flüsterton fort: "Vor allem solltest du (<i>Gereon</i>) deinem Mädchen sagen, dass es beim nächsten Mal ein bisschen leiser ist. Die hat ja vielleicht gekichert!".. Mit einem letzten Zwinkern verließ er das Zimmer... "Mein Gott, hoffentlich hat dieses Klatschmaul keine <strong>Lunte gerochen</strong>", sagte sie (<i>die Behnke</i>). "Hat sich nicht so angehört", meinte Rath. "Haben Sie wirklich so viel gekichert letze Nacht?"  (<i>Der nasse Fisch</i>, 45)' ,
 	'<i>Wolter</i>: "Froh, dass es vorbei ist?" Rath nickte. "So \'ne Aktion ist schließlich auch nicht alltäglich." <i>Wolter</i>: "Stimmt. Hätte auch voll in die Hose gehen können. Kein Laden dabei, den wir nicht zu Recht auseinandergenommen haben. Keiner, der <strong>Lunte gerochen</strong> hat. (<i>Der nasse Fisch</i>, 248)' ,
 ],
 lodern: [
-	'<strong>lodern</strong>: &nbsp;blaze, flare up <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lodern"target="target1">lodern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lodern"target="target2">lodern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lodern"target="target3">lodern</a> ' ,
+	'<strong>lodern</strong>: blaze, flare up' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lodern"target="target1">lodern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lodern"target="target2">lodern</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lodern"target="target3">lodern</a> &nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lodern"target="target4">lodern</a>' ,
 	'<u>Märzgefallene</u>',
-	'<i>Fritze</i>: "Und was, wenn ick Hannah nich finde? Stecken Se mich dann doch ins Heim? <i>Charly</i>: "Niemals. Ehrensache!" Sie schaute den Jungen an, dessen Misstrauen immer noch <strong>loderte</strong>. (<i>Märzgefallene</i>, 356)' ,
-	'Das Feuer <strong>loderte</strong> immer höher. Die Flammen spiegelten sich in den Fenstern des Opernhauses und der Kommode, der einstigen königlichen Bibliothek, die nun der Universität als Aulagebäude diente. (<i>Märzgefallene</i>, 556)' ,
+	'<i>Fritze</i>: "Und was, wenn ick Hannah nich finde? Stecken Se mich dann doch ins Heim? <i>Charly</i>: "Niemals. Ehrensache!" Sie schaute den Jungen an, dessen Misstrauen immer noch <strong>loderte</strong>. (<i>Märzgefallene</i>, 356)',
+	'Das Feuer <strong>loderte</strong> immer höher. Die Flammen spiegelten sich in den Fenstern des Opernhauses und der Kommode, der einstigen königlichen Bibliothek, die nun der Universität als Aulagebäude diente. (<i>Märzgefallene</i>, 556)',
 ],
 Lack: [
-	'der <strong>Lack</strong>,-<strong>e</strong>: &nbsp;varnish, paint, finish <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lack"target="target1">Lack</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lack?q=Lack"target="target2">Lack</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Lack"target="target3">Lack</a> ' ,
+	'der <strong>Lack</strong>,-<strong>e</strong>: lacquer, varnish' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lack"target="target1">Lack</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lack"target="target2">Lack</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lack?q=Lack"target="target3">Lack</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Lack"target="target4">Lack</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'Sein (<i>Raths</i>) grauer Hut wirkte zwischen all dem schwarzen <strong>Lack</strong> und den glitzernden Polizeisternen wie ein Fremdkörper.... (<i>Der nasse Fisch</i>, 15)' ,
 	'Sie (<i>Charly</i>) ging nah an den Fahrzeugen vorbei. Das Licht der Straßenlaternen reichte kaum bis hierhin, sie musste ihre Augen anstrengen. Und doch fand sie es schließlich. Am Kotflügel eines pechschwarzen BMW. Heller <strong>Lack</strong>abrieb. (<i>Der nasse Fisch</i>, 61)',
@@ -5261,40 +5313,55 @@ Lack: [
 	'<i>Charly</i>: "Wie kommt es? Andere Menschen schildern Roddeck als durchaus charmant und liebenswert." <i>Die Gräfin</i>: "Das kann er auch sein. Wenn er etwas damit erreichen will. Aber im Grunde seines Herzens ist er ein durch und durch verkommenes Subjekt. Darüber täuschen der äußere Glanz und <strong>Lack</strong> und Charme nur hinweg." (<i>Märzgefallene</i>, 337)' ,
 ],
 Laken: [
-	'das <strong>Laken</strong>,-<strong>n</strong>: sheet <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laken"target="target1">Laken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laken"target="target2">Laken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laken"target="target3">Laken</a> ' ,
+	'das <strong>Laken</strong>: sheet' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laken"target="target1">Laken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laken"target="target2">Laken</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laken"target="target3">Laken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laken"target="target4">Laken</a>',
 	'<u>Der nasse Fisch</u>',
-	'Als Doktor Schwartz das <strong>Laken</strong> zurückwarf, starrte die Nervensäge (<i>Rath</i>) auf die zermatschten Hände des Toten.  (<i>Der nasse Fisch</i>, 86)' ,
+	'Als Doktor Schwartz das <strong>Laken</strong> zurückwarf, starrte die Nervensäge (<i>Rath</i>) auf die zermatschten Hände des Toten.  (<i>Der nasse Fisch</i>, 86)',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen Pappschildchen baumelten. Der Doktor setzte seine Brille auf, überprüfte die Zettel gewissenhaft and lüftete schießlich das <b>Laken</b> der vorletzten Bahre. (<i>Märzgefallene</i>, 267)' ,
-	'Sie (<i>Charly und Gereon</i>) hatten eine Wäscheleine mitgebracht und ein Bett<strong>laken</strong>, in das sie die Leiche legten. Obwohl das Blut längst geronnen sein musste, färbte sich das weiße Baumwolltuch an einigen Stellen ein. (<i>Märzgefallene</i>, 418)' ,
-	'Und als man in dem Bett<strong>laken</strong>, das man mitsamt einiger Pflastersteine... ebenfalls geborgen hatte, auch noch einen Grabendolch fand, dessen Klinge einen dreieckigen Querschnitt aufwies, war der Fall für die Kollegen Gräf und Steinke ein eindeutiger gewesen...: Der gesuchte mehrfache Mörder Benjamin Engel sei aufgetaucht, im wahrsten Sinne des Wortes, als Leiche aus dem Tiefen der Spree.  (<i>Märzgefallene</i>, 495)' ,
+	'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen Pappschildchen baumelten. Der Doktor setzte seine Brille auf, überprüfte die Zettel gewissenhaft and lüftete schießlich das <b>Laken</b> der vorletzten Bahre. (<i>Märzgefallene</i>, 267)',
+	'Sie (<i>Charly und Gereon</i>) hatten eine Wäscheleine mitgebracht und ein Bett<strong>laken</strong>, in das sie die Leiche legten. Obwohl das Blut längst geronnen sein musste, färbte sich das weiße Baumwolltuch an einigen Stellen ein. (<i>Märzgefallene</i>, 418)',
+	'Und als man in dem Bett<strong>laken</strong>, das man mitsamt einiger Pflastersteine... ebenfalls geborgen hatte, auch noch einen Grabendolch fand, dessen Klinge einen dreieckigen Querschnitt aufwies, war der Fall für die Kollegen Gräf und Steinke ein eindeutiger gewesen...: Der gesuchte mehrfache Mörder Benjamin Engel sei aufgetaucht, im wahrsten Sinne des Wortes, als Leiche aus dem Tiefen der Spree.  (<i>Märzgefallene</i>, 495)',
 	'<u>Lunapark</u>',
-	'"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karhaus eine Rollbahre, die an der Wand geparkt war, unter eine der großen Lampen und schlug das <strong>Laken</strong> zurück.  (<i>Lunapark</i>, 108)' ,
+	'"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karthaus eine Rollbahre, die an der Wand geparkt war, unter eine der großen Lampen und schlug das <strong>Laken</strong> zurück.  (<i>Lunapark</i>, 108)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 lädieren: [
-	'<strong>lädieren</strong>: &nbsp;damage, harm, injure  &nbsp;<strong>lädiert</strong>: damaged, worse for wear <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laedieren"target="target1">lädieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ladieren"target="target2">lädieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=l%C3%A4dieren"target="target3">lädieren</a> ',
+	'<strong>lädieren</strong>: damage, harm, injure <br><strong>lädiert</strong>: damaged, worse for wear' +
+	'<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laedieren"target="target1">lädieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/l%C3%A4dieren"target="target2">lädieren</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ladieren"target="target2">lädieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=l%C3%A4dieren"target="target3">lädieren</a>',
 	'<u>Märzgefallene</u>',
-	'Der Kriminalsekretär (<i>Zientek</i>) guckte misstrauisch. "Suchen Sie (<i>Rath</i>) denn einen bestimmten? Dann können wir eine Anfrage stellen an die SA-Führung. Normalerweise kriegen wir die Leute dann einen Tag später frei Haus." Wieder ließ er sein meckerndes Lachen hören. "Manchmal allerdings etwas <strong>lädiert</strong>. Was für eine Befragung wiederum nicht das Verkehrteste ist." (<i>Märzgefallene</i>, 218)' ,
-	'Kohn (<i>Leos Anwalt</i>) hatte direkt neben seinem Mandanten (<i>Leo</i>) Platz genommen, der immer noch leicht <strong>lädiert</strong> wirkte, aber nicht mehr so apathisch wie im Krankenhaus. (<i>Märzgefallene</i>, 256)' ,                     
+	'Der Kriminalsekretär (<i>Zientek</i>) guckte misstrauisch. "Suchen Sie (<i>Rath</i>) denn einen bestimmten? Dann können wir eine Anfrage stellen an die SA-Führung. Normalerweise kriegen wir die Leute dann einen Tag später frei Haus." Wieder ließ er sein meckerndes Lachen hören. "Manchmal allerdings etwas <strong>lädiert</strong>. Was für eine Befragung wiederum nicht das Verkehrteste ist." (<i>Märzgefallene</i>, 218)',
+	'Kohn (<i>Leos Anwalt</i>) hatte direkt neben seinem Mandanten (<i>Leo</i>) Platz genommen, der immer noch leicht <strong>lädiert</strong> wirkte, aber nicht mehr so apathisch wie im Krankenhaus. (<i>Märzgefallene</i>, 256)',                     
 ],
 lässig: [
-	'<strong>lässig</strong>: &nbsp;casual, nonchalant, easygoing <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laessig"target="target1">lässig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lassig?q=l%C3%A4ssig"target="target2">lässig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/declension/nouns/La3ssigkeit.htm"target="target3">lässig</a>  ' ,
+	'<strong>lässig</strong>: casual, nonchalant, easygoing' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laessig"target="target1">lässig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/l%C3%A4ssig"target="target2">lässig</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lassig?q=l%C3%A4ssig"target="target3">lässig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/declension/nouns/La3ssigkeit.htm"target="target4">lässig</a>',
+	'<u>Der nasse Fisch</u>',
+	'Das Foto trug er zusammen mit dem Programmheft wieder <strong>lässig</strong> in der Hand und schlenderte so durch die Gruppen rauchender, trinkender und schwatzender Menschen. (<i>Der nasse Fisch</i>, 154)',
+	'Er (<i>Rath</i>) holte das Bild von Boris aus der Tasche... Böhm schaute noch eine Spur brummiger drein. "Schön", sagte er schließlich, "aber meine Freude hält sich in Grenzen, wenn Sie dieses Foto nur mit sich herumtragen, ohne dass ich auch etwas von Ihnen höre. Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!" Rath zog ungerührt eine Overstolz aus der Schachtel. Jetzt einfach <strong>lässig</strong> bleiben.. Böhm nutzte nur jede Gelegenheit, die er fand, um Untergebene anzuschnauzen.  (<i>Der nasse Fisch</i>, 180)' ,
 	'<u>Märzgefallene</u>',
-	'Lapke stellte sich direkt vor ihn (<i>Leo</i>) und stützte sich <strong>lässig</strong> auf dem Schreibtisch ab, was Sturmführer Sperling, den Ranghöheren, zum Statisten degradierte. Es sah aus, als übernehme Lapke jetzt die Regie in diesem Vernehmungsraum. (<i>Märzgefallene</i>, 221)' ,
+	'Lapke stellte sich direkt vor ihn (<i>Leo</i>) und stützte sich <strong>lässig</strong> auf dem Schreibtisch ab, was Sturmführer Sperling, den Ranghöheren, zum Statisten degradierte. Es sah aus, als übernehme Lapke jetzt die Regie in diesem Vernehmungsraum. (<i>Märzgefallene</i>, 221)',
+	'Er (<i>von Roddeck</i>) umfasste den Griff der Pistole und entsicherte sie, setzte seinen Weg fort, die Hände scheinbar <strong>lässig</strong> in den Manteltaschen, aber jederzeit bereit, sich zu wehren, sollte er angegriffen werden.   (<i>Märzgefallene</i>, 562-63)',
+//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
 laff: [
-	'<strong>laff</strong>: bland, weak, slack <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/laff/"target="target1">laff</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=laff"target="target2">laff</a>&nbsp;&nbsp;<a href="https://en.wiktionary.org/wiki/laff"target="target3">laff</a> ',
+	'<strong>laff</strong>: bland, weak, slack' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/laff/"target="target1">laff</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=laff&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">laff</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=laff"target="target3">laff</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/laff"target="target4">laff</a> ',
 	'<u>Märzgefallene</u>',
 	'Der Braten ließ sich gut schneiden und duftete, als habe Frieda ihn zubereitet. Leider schmeckte er nicht so, wie er roch. Zu sauer...und zu <strong>laff</strong> gesalzen. (<i>Märzgefallene</i>, 105)', 
 ],
 Leier: [
-	'die (alte) <strong>Leier</strong>,-<strong>n</strong>: same old story; lyre <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leier"target="target1">Leier</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leier?q=Leier"target="target2">Leier</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/leier"target="target3">Leier</a> ' ,
+	'die <strong>Leier</strong>,-<strong>n</strong>: lyre <br>die (<strong>alte</strong>/<strong>übliche</strong>) <strong>Leier</strong>: same old story' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leier"target="target1">Leier</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/die%20alte%20Leier"target="target2">die alte Leier</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leier?q=Leier"target="target3">Leier</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/leier"target="target4">Leier</a>' ,
 	'<u>Märzgefallene</u>',
-	'<i>SA-Mann</i>: "Der Gefangene Juretzka befindet sich in Schutzhaft, er kann nicht auf freien Fuß gesetzt werden." <i>Marlows Anwalt Kohn</i>: "Dann zeigen Sie mir bitte den Haftbefehl!" <i>SA-Mann</i>: "Brauche ich nicht. Laut Verordnung des Reichspräsidenten vom achtundzwanzigsten Februar ist der Artikel hundertvierzehn bis auf Weiteres außer Kraft...." <i>Kohn</i>: "Hören Se uff!... Ick kenn die <strong>Leier</strong>."  (<i>Märzgefallene</i>, 243)' , 
+	'<i>SA-Mann</i>: "Der Gefangene Juretzka befindet sich in Schutzhaft, er kann nicht auf freien Fuß gesetzt werden." <i>Marlows Anwalt Kohn</i>: "Dann zeigen Sie mir bitte den Haftbefehl!" <i>SA-Mann</i>: "Brauche ich nicht. Laut Verordnung des Reichspräsidenten vom achtundzwanzigsten Februar ist der Artikel hundertvierzehn bis auf Weiteres außer Kraft...." <i>Kohn</i>: "Hören Se uff!... Ick kenn die <strong>Leier</strong>."  (<i>Märzgefallene</i>, 243)', 
 	'<u>Lunapark</u>',
-	'"Hat Kronberg (<i>der ED-Chef</i>) Sie mal wieder nicht rangelassen, Doktor", sagte Rath also nur. <i>Doktor Karthaus, Gerichtsmediziner</i>: "Die übliche <strong>Leier</strong>. Durfte bislang nur einen kurzen Blick auf die Leiche werfen..." (<i>Lunapark</i>, 26)' ,
+	'"Hat Kronberg (<i>der ED-Chef</i>) Sie mal wieder nicht rangelassen, Doktor", sagte Rath also nur. <i>Doktor Karthaus, Gerichtsmediziner</i>: "Die übliche <strong>Leier</strong>. Durfte bislang nur einen kurzen Blick auf die Leiche werfen..." (<i>Lunapark</i>, 26)',
 ],
 leiern: [
 	'<strong>leiern</strong>: drone on; turn a crank; wheedle sth. out of sb. ' +
@@ -5310,25 +5377,33 @@ leiern: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Leinen: [
-	'das <strong>Leinen</strong>,-: linen (textiles) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leinen"target="target1">Leinen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/leinen#Leinen"target="target2">Leinen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Leinen"target="target3">Leinen</a>  ' ,
+	'das <strong>Leinen</strong>,-: canvas, cloth, linen (textiles)' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leinen"target="target1">Leinen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Leinen"target="target2">Leinen</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leinen?q=Leinen"target="target3">Leinen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Leinen"target="target4">Leinen</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Und sie waren lange gefahren, so lange, dass das Blut aus seinen Kopfwunden Zeit hatte, mit dem groben <strong>Leinen</strong>stoff zu verkleben, so dass alle Wunden gleich wieder aufrissen, als sie ihm (<i>Leo</i>)...den Sack mit einem brutalen Ruck vom Kopf zogen, und er in das funzelige Licht einer 40-Watt-Glühbirne blinzelte. (<i>Märzgefallene</i>, 108)' ,
    'Als er (<i>Leo</i>) wieder zu sich gekommen war, mit dröhnendem Kopf, konnte er nichts mehr sehen, und das Atmen durch das stinkende <strong>Leinen</strong>gewebe fiel ihm schwer. (<i>Märzgefallene</i>, 109)' ,
 ],
 Leiste: [
-	'die <strong>Leiste</strong>,-<strong>n</strong>: strip (of wood etc), trim, border, rail, bar <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leiste"target="target1">Leiste</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/leiste"target="target2">Leiste</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Leiste"target="target3">Leiste</a> ' ,
+	'die <strong>Leiste</strong>,-<strong>n</strong>: strip (of wood etc), trim, border, rail, bar' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Leiste"target="target1">Leiste</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Leiste"target="target2">Leiste</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Leiste"target="target3">Leiste</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Leiste"target="target4">Leiste</a>',
 	'<u>Märzgefallene</u>',
-	'Die Putzfrau stand an einer Garderoben<strong>leiste</strong>, an der zwei Kittlelsschürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)' ,
+	'Die Putzfrau stand an einer Garderoben<strong>leiste</strong>, an der zwei Kittlelsschürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
 ],
 'lichterloh brennen': [
-	'<strong>lichterloh brennen</strong>: &nbsp;be ablaze <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/lichterloh%20brennen"target="target1">lichterloh brennen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lichterloh"target="target2">lichterloh</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lichterloh"target="target3">lichterloh</a> ' ,  
+	'<strong>lichterloh brennen</strong>: be ablaze' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lichterloh"target="target1">lichterloh</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lichterloh"target="target2">lichterloh</a> ' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lichterloh"target="target3">lichterloh</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lichterloh"target="target4">lichterloh</a>',  
 	'<u>Märzgefallene</u>',
-	'Gräf schaute in seinen Notizblock. "Heinrich Wosniak wurde.. Opfer einer Brandstiftung. Sieben Tote, drei Schwerverletzte... Allesamt Bettler und Obdachlose. Die Holzbaracke am Bülowplatz, in der sie gehaust hatten, <strong>brannte lichterloh</strong>." (<i>Märzgefallene</i>, 26)' ,
+	'Gräf schaute in seinen Notizblock. "Heinrich Wosniak wurde.. Opfer einer Brandstiftung. Sieben Tote, drei Schwerverletzte... Allesamt Bettler und Obdachlose. Die Holzbaracke am Bülowplatz, in der sie gehaust hatten, <strong>brannte lichterloh</strong>." (<i>Märzgefallene</i>, 26)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
 loseisen: [
-	'<strong>loseisen</strong>: unglue, extricate; clear of ice, dig out of the ice <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/loseisen"target="target1">loseisen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/loseisen"target="target2">loseisen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=loseisen"target="target3">loseisen</a> ' ,
+	'<strong>loseisen</strong>: unglue, extricate; dig out of the ice' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/loseisen"target="target1">loseisen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/loseisen"target="target2">loseisen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/loseisen"target="target3">loseisen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=loseisen"target="target4">loseisen</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Hatte Böhm also sogar Gennat bemüht, um sie aus der Inspektion G <strong>loszueisen</strong>, dachte Charly. (<i>Märzgefallene</i>, 91)' ,
 	'Die Tür öffnete sich, und ein narbengesichtiger, drahtiger Mann kam aus dem Büro des Polizeipräsidenten. Rudolf Diels, der neue Chef der Abteilung 1A.... Rath fragte sich, was Diels vom Polizeipräsidenten wollte. Noch mehr Kriminalbeamte für seine Zwecke <strong>loseisen</strong>?   (<i>Märzgefallene</i>, 250)' ,                     
@@ -5338,12 +5413,16 @@ loseisen: [
 	'Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte. Und dafür hatte Rath sich den Wosniak-Fall wieder ans Bein gebunden, nur um einen Vorwand zu haben, diesen undankbaren Drecksack aus der SA-Haft <strong>loszueisen</strong>? (<i>Märzgefallene</i>, 431)'  ,
 ],
 Luder: [
-	'das <strong>Luder</strong>,-: &nbsp;hussy, bitch, slut; little rascal <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Luder"target="target1">Luder</a><br>English Definitions: &nbsp;&nbsp;<a href="https://glosbe.com/de/en/Luder"target="target2">Luder</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Luder"target="target3">Luder</a> ' ,
+	'das <strong>Luder</strong>,-: hussy, bitch; little rascal' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Luder"target="target1">Luder</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Luder"target="target2">Luder</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/luder"target="target3">Luder</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Luder"target="target4">Luder</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Im Kadewe hatte einer der uniformierten Portiers sie (<i>Hannah</i>) schon nach einer halben Minute wieder vor die Tür gesetzt. Aber hier bei Jonass fiel sie unter den anderen armen <strong>Ludern</strong> längst nicht so auf....  (<i>Märzgefallene</i>, 152)' ,
 ],
 lugen: [
-	'<strong>lugen</strong>: &nbsp;look, peep, peer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lugen"target="target1">lugen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lugen"target="target2">lugen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lugen"target="target3">lugen</a>  ' ,
+	'<strong>lugen</strong>: look, peep, peer' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lugen"target="target1">lugen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lugen"target="target2">lugen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lugen"target="target3">lugen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lugen"target="target4">lugen</a>  ' ,
 	'<u>Der nasse Fisch</u>',
 	'Wolter machte Räuberleiter, Rath zog sich an dem glitschig nassen Holz hoch und <strong>lugte</strong> über die Bretterwand.  (<i>Der nasse Fisch</i>, 23)' ,
 	'Hier auf dem Tisch sah der tote Mann anders aus als gestern draußen am Kanal. Böhm warf einen Blick auf die Leiche, nur der Kopf über das weiße Baumwolltuch <strong>lugte</strong>.... (<i>Der nasse Fisch</i>, 81)' ,
@@ -5353,9 +5432,11 @@ lugen: [
 	'Porzellan klimperte, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das Knistern des Papiers zu hören. Charly <strong>lugte</strong> über den Rand ihrer Zeitung und sah Fritze, der seine letzte Schrippe für diesen Morgen verdrückte.... (<i>Märzgefallene</i>, 500)' ,
 ],
 'lumpen lassen (sich nicht)': [
-	'sich nicht <strong>lumpen lassen</strong>: &nbsp;live it up, do in style <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20nicht%20lumpen%20lassen?o=lumpen+lassen"target="target1">lumpen lassen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+nicht+lumpen+lassen"target="target2">lumpen lassen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/lumpen%20lassen"target="target3">lumpen lassen</a> ',
+	'<strong>sich nicht lumpen lassen</strong>: live it up, do in style' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20nicht%20lumpen%20lassen?o=lumpen+lassen"target="target1">lumpen lassen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=lumpen+lassen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">lumpen lassen</a>' +
+	'<br>English Definitions: &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;;<a href="https://www.dict.cc/?s=sich+nicht+lumpen+lassen"target="target3">lumpen lassen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/lumpen%20lassen"target="target4">lumpen lassen</a>',
 	'<u>Märzgefallene</u>',
-	'Rath hatte <strong>sich nicht lumpen lassen</strong>, vielleicht auch, um sein schlechtes Gewissen zu besänftigen.  (<i>Märzgefallene</i>, 20)' ,
+	'Rath hatte <strong>sich nicht lumpen lassen</strong>, vielleicht auch, um sein schlechtes Gewissen zu besänftigen.  (<i>Märzgefallene</i>, 20)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9160,9 +9241,11 @@ ungehobelt: [
 	'<u>Märzgefallene</u>',
 	'<i>Kellermann</i>: "...sie (<i>Hannah</i>) ist gesehen worden. Letzte Woche... Am Bahnhof Zoo." <i>Charly</i>: "Von wem gesehen worden?" "Ein Zeuge hat sie erkannt. Wollte sie aufhalten, aber sie ist ihm entwischt. Als die Kollegen eingriffen, war sie schon <strong>über alle Berge</strong>."  (<i>Märzgefallene</i>, 289)' ,
 	'"Ist es nicht herrlich", sagte sie (<i>die wilde Hilde</i>), dass die nationale Revolution jetzt auch Köln erreicht hat? Dass Adenauer mit seiner Judenbande endlich <strong>über alle Berge</strong> ist?"   (<i>Märzgefallene</i>, 304)' ,
+	'"Ach, Charly", sagte er, "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden? "Das nicht. Aber sie ist gesehen worden.. Ein Zeuge hat sie erkannt. Wollte sie aufhalten, aber sie ist ihm entwischt. Als die Kollegen eingriffen, war sie schon <strong>über alle Berge</strong>."  (<i>Märzgefallene</i>, 289)',
 	'Dass er (<i>Fritze</i>) sie (<i>Hannah</i>) jemals wiedersehen würde, diese Hoffnung hatte er inzwischen aufgegeben. Hannah war längst <strong>über alle Berge</strong>.   (<i>Märzgefallene</i>, 395)' ,
 	'Jetzt erst fiel ihr (<i>Hannah</i>) ein, dass sie nicht allein war. Dass sie um Hilfe rufen konnte. "Felix!" Das Grinsen ließ sein (<i>Huckebeins</i>) vernarbtes Gesicht noch abschreckender aussehen. "Dein Felix ist längst <strong>über alle Berge</strong>. Was meinst du, wer dich verpfiffen hat?"   (<i>Märzgefallene</i>, 400)' ,
-],
+], 
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'über die Stränge schlagen': [
 	'<strong>über die Stränge schlagen</strong>: get carried away, go overboard, run riot ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target1">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Stränge schlagen</a>   ' +
@@ -11329,6 +11412,7 @@ jmdn. achtkantig rausschmeißen = jmdn. achtkanig hinauswerfen, given as usage e
  'abheften'  ;   Nworte++;    Märzgefallene   27     
  Abreibung  Märzgefallene   458
  abserviert Lunapark 24
+ absondern  in Lobhudelei;  Märzgefallene
  abstehen Lunapark 104
  anberaumen  Lunapark 29   
  'anfauchen'  ;   Nworte++;    'Brett, Bretterwand, Bretterverschlag'Märzgefallene   87

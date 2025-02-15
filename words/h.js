@@ -43,6 +43,7 @@ const h = [
    'Hose (in die H. machen/gehen)', //
    'Hosenmatz',  //Hosenmatz:
    'Hosennaht',  //Hosennaht:
+   'Hudelei, Lobhudelei', // * duplicated
    'Hühnerauge', //Hühnerauge:
    'humpeln',  //humpeln:
    'huschen',  // huschen: *

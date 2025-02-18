@@ -1,7 +1,7 @@
 const h = [
   'Habgier',  //Habgier:
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
-   'Häkchen',  //Häkchen:
+   'Häkchen',  // Häkchen: *
    'haken, Haken, Haken schlagen', // Review the definitions
    'halbseiden',  //halbseiden:
    'Halunke',  // Halunke: *
@@ -34,6 +34,7 @@ const h = [
    'heulen',  //heulen:
    'hinterlistig',  //hinterlistig:
    'hinters Licht führen', //
+   'hobeln', // hobeln: *
    'hochgestochen', // hochgestochen: *
    'hocken, Hocke, Hocker', // *
    'Hölle heißmachen',  //
@@ -46,6 +47,7 @@ const h = [
    'Hudelei, Lobhudelei', // * duplicated
    'Hühnerauge', //Hühnerauge:
    'humpeln',  //humpeln:
+   'Hüne',  // Hüne: *
    'huschen',  // huschen: *
  ];
 

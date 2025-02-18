@@ -1,7 +1,8 @@
 const d = [
    'dämlich, Dämlichkeit',  // *
    'Dampframme',  //Dampframme:  
-   'Dampfwalze',  //Dampfwalze:  
+   'Dampfwalze',  //Dampfwalze:
+   'dazwischenfunken', // dazwischenfunken: *  
    'Deckel',   //Deckel: 
    'dezent',   //dezent: 
    'Diele',   //Diele:  

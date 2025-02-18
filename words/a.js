@@ -72,8 +72,9 @@ const a = [
 	'Asservat',  // Asservat:
 	'Attest',     //Attest: 
 	'auf Biegen und Brechen',  // 
-	'auf dem Sprung',      //
+	'auf dem Kerbholz haben', // * duplicated
 	'auf dem Kieker haben', //
+	'auf dem Sprung',      //
 	'auf den Arm nehmen',  //
 	'auf den Leim gehen',  //
 	'auf den Putz hauen',  //

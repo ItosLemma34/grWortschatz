@@ -42,6 +42,7 @@ const s = [
    'schliddern, schlittern', // *
    'schluchzen' ,  // schluchzen: *
    'Schlucker (armer)', // * duplicated
+   'Schlund',  // Schlund: *
    'Schlüpfer',  // Schlüpfer: *
    'schlüpfrig', // schlüpfrig: *
    'Schmach', // Schmach:  *
@@ -70,7 +71,7 @@ const s = [
    'schnieke',  // schnieke:  *
    'schnippen',  // schnippen: *
    'schnippisch' , // schnippisch: *
-   'schnörkelig' , // schnörkelig: *
+   'schnörkelig, Schnörkel' , //  *
    'schnorren, anschnorren', // *  duplicated
    'Schnösel' ,  // Schnösel:  *
    'schnuppern, erschnuppern' ,  //  * duplicated
@@ -116,6 +117,7 @@ const s = [
    'Sore',  // Sore: *
    'soufflieren',  // soufflieren: *
    'Spalier',  // Spalier:  *
+   'Span, Späne', // *
    'Spanner', // Spanner:  *
    'Spaten',  // Spaten:  *
    'speckig', // speckig: *

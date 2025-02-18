@@ -19,6 +19,7 @@ const r = [
    'Raunen, raunen', // *
    'Raureif', // Raureif: *
    'recken',  // recken:  *
+   'Reim (keinen R. machen', // * duplicated
    'Reinfall', // Reinfall:  *
    'reinsemmeln', // reinsemmeln:  *
    'reißen (sich um etwas)', // *

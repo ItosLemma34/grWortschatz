@@ -36,6 +36,7 @@ const t = [
    'tunken',  // tunken: *
    'tupfen',  // tupfen: *
    'türken',  // türken: *
+   'türmen', // türmen *
    'tuscheln',  // tuscheln: *
 ];
 

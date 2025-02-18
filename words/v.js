@@ -12,6 +12,7 @@ const v = [
    'verdonnern' , // verdonnern: *
    'verdruckst',  //verdruckst: *
    'verdünnisieren (sich)' , // *
+   'verdunsten',  // verdunsten:  *
    'verfilzen' ,  //verfilzen:  *
   // 'verflixt',  open with more examples
    'vergackeiern',  //vergackeiern:  *
@@ -76,6 +77,7 @@ const v = [
    'Verstellung',  // Verstellung: *  combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  *
    'verstohlen',   // verstohlen:  *
+   'Verstümmelung', // Verstümmelung: *
    'vertrackt',   // vertrackt:  *   combine with Vertrackt if found
    'vertreten (sich die Beine)', //  *
    'vertrödeln',  // vertrödeln *

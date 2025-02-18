@@ -1,30 +1,30 @@
 const k = [
    'Kabuff',  // Kabuff:  *
-   'kacheln', //kacheln:
-   'Kaffeekränzchen',  //Kaffeekränzchen:
-   'kahl',  //kahl:
-   'Kantholz',  //Kantholz:
-   'Karnickel', //Karnickel:
-   'Karree',   //Karree:
-   'karren',  //karren: *
-   'Kaschemme',  //Kaschemme: *
-   'kaschieren', //kaschieren:
-   'Kassiber',  // Kassiber:
+   'kacheln', // kacheln: *
+   'Kaffeekränzchen',  // Kaffeekränzchen: *
+   'kahl',  // kahl: *
+   'Kantholz',  // Kantholz: *
+   'Karnickel', // Karnickel: *
+   'Karree',   // Karree: *  
+   'karren',  // karren: *
+   'Kaschemme',  // Kaschemme: *
+   'kaschieren', // kaschieren: *
+   'Kassiber',  // Kassiber: *
    'Kater, verkatert', // *
-   'katzbuckeln',  //katzbuckeln:
+   'katzbuckeln',  // katzbuckeln: *
    'kauern',  // kauern: *
    'Kaution', // Kaution: *
-   'Kauz',  // Kauz:
-   'kauzig',  //kauzig:
-   'kegeln',  //kegeln:
-   'keilen, Keil', //
-   'keinen Reim machen können', //
-   'Kelch',  //Kelch:
-   'Kerbholz (auf dem K. haben)',//
+   'Kauz, kauzig',  // *
+   'kegeln',  // kegeln: *
+   'keilen, Keil', // *
+   'keinen Reim machen können', // * duplicated
+   'Kelch',  // Kelch: *
+   'Kerbholz (auf dem K. haben)',// * duplicated
    'ketten, Kette', // *
+   'Keule', // Keule: *
    'kichern',  // kichern: *
 //   'Kieker (auf dem Kieker haben)',
-   'Kies, Kiesel', //
+   'Kies, Kiesel', // *
    'Kinderficker',  //Kinderficker:
    'Kinkerlitzchen', // Kinkerlitzchen:
    'Kipplaster',  //Kipplaster:
@@ -104,7 +104,7 @@ const k = [
    'kräuseln',  // kräuseln:  *
    'Kreisel',  // Kreisel:
    'Kreissäge',  // Kreissäge:
-   'Krempe',  // Krempe:
+   'Krempe',  // Krempe: *
    'Krempel',  // Krempel: *
    'kreuzfidel', // kreuzfidel: *
    'Kribbeln',  // Kribbeln:

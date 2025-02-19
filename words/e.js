@@ -7,6 +7,7 @@ const e = [
    'Eindruck schinden',  //  
    'einfädeln',  // einfädeln: 
    'Eingebung',   // Eingebung: * 
+   'Eingeweide', // Eingeweide: *
    'einkriegen (sich)',  //  
    'einkringeln',  //einkringeln:  
    'einlochen',  //einlochen:  

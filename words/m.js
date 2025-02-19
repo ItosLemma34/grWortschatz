@@ -6,6 +6,7 @@ const m = [
    'Mangel (in die M. nehmen)' ,  // * duplicated
    'Manschettenknopf',  // Manschettenknopf: *
    'markieren (den dicken Max m.)', // *
+   'Marotte',  // Marotte: *
    'mau', // mau: *
    'Maulwurf',  // Maulwurf: *
    'meckern' ,  // meckern: *

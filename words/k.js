@@ -25,11 +25,11 @@ const k = [
    'kichern',  // kichern: *
 //   'Kieker (auf dem Kieker haben)',
    'Kies, Kiesel', // *
-   'Kinderficker',  //Kinderficker:
-   'Kinkerlitzchen', // Kinkerlitzchen:
-   'Kipplaster',  //Kipplaster:
-   'Kirschen essen', //
-   'Kittel',  //Kittel:
+   'Kinderficker',  // Kinderficker: *
+   'Kinkerlitzchen', // Kinkerlitzchen: *
+   'Kipplaster',  // Kipplaster: *
+   'Kirschen essen', // *
+   'Kittel',  // Kittel: *
    'kitzeln', //kitzeln:
    'klackern', //klackern:
    'Klacks',  //Klacks:

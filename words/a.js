@@ -12,6 +12,7 @@ const a = [
 	'abklappern', // abklappern: *
 	'abknallen',  //abknallen:  
 	'abkommandieren',  //abkommandieren: 
+	'Achterbahn', // Achterbahn: *
 	'Ablage',     //Ablage:  
 	'abluchsen',  //abluchsen: 
 	'abschüssig',  //abschüssig:  

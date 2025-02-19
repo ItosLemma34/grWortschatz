@@ -14,7 +14,7 @@ const g = [
    'Geheiß', // Geheiß: *  
    'geizen',   //geizen:  
    'Gekrächz',  //Gekrächz:  
-   'Gelände',   //Gelände:  
+   'Gelände',   // Gelände:  *
    'Geländer',  //Geländer:  
    'gelinde',   //gelinde:  
    'Gemächt',  // Gemächt: *

@@ -96,6 +96,7 @@ const s = [
    'schüren',  // schüren:  *  
    'schurigeln', // schurigeln: *        
    'Schürze',  // Schürze:  *
+   'Schuss (in S. sein)', // * duplicated
    'Schüssel',  // Schüssel: *
    'schütten',  // schütten:  *       
    'schütter',  // schütter:  *
@@ -126,7 +127,7 @@ const s = [
    'sperrig',  // sperrig:  *     
    'spicken',  // spicken:  *
    'Spieß, spießen',  // 'Spieß, spießen' *
-   'spitzkriegen',  //spitzkriegen:  *
+   'spitzkriegen',  // spitzkriegen:  *
    'Sprechmuschel',  // Sprechmuschel:
    'spreizen', // spreizen: *
    'Sprenkel', // Sprenkel: *

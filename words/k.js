@@ -30,11 +30,11 @@ const k = [
    'Kipplaster',  // Kipplaster: *
    'Kirschen essen', // *
    'Kittel',  // Kittel: *
-   'kitzeln', //kitzeln:
-   'klackern', //klackern:
-   'Klacks',  //Klacks:
-   'Kladde',  //Kladde:  *
-   'klaffen', //klaffen:
+   'kitzeln', // kitzeln: *
+   'klackern', // klackern: *
+   'Klacks',  // Klacks: *
+   'Kladde',  // Kladde: *
+   'klaffen', // klaffen: *
    'klamm',  //klamm:
    'Klammer', //Klammer:
    'klammern', //klammern:

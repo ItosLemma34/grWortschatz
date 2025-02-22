@@ -13,8 +13,55 @@ zzz: [
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
 */
 /* deutsche Übersetzung nicht gefunden; appears in Tresen
+
 gerappelt: [
 ], */
+entriegeln: [
+	'<strong>entriegeln</strong>: unlock, release, disconnect'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entriegeln"target="target1">entriegeln</a>&nbsp;&nbsp;<a href=""target="target2">entriegeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/entriegeln"target="target3">entriegeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=entriegeln"target="target4">entriegeln</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',    
+	'Er (<i>Rath</i>) ging zum Buick hinüber, <strong>entriegelte</strong> den Notsitz und klappte ihn hoch. (<i>Märzgefallene</i>, 150)' , 
+	'<u>Lunapark</u>',   
+	'Gut Ding will Weile haben, tröstete er sich, als er das lose Brett im Zaun <strong>entriegelte</strong> und zur Seite schob. Der Kerl, den er (<i>Leo</i>) gerade beschattete, hatte den Tod tausendfach verdient.  (<i>Lunapark</i>, 252)' ,
+],
+einkerben: [
+	'<strong>kerben</strong>: notch, indent, mark'+
+	'<strong>einkerben</strong>: indent, nick, notch; engrave'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einkerben"target="target1">einkerben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einkerben"target="target2">einkerben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einkerben"target="target3">einkerben</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einkerben"target="target4">einkerben</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',
+	'<u>Lunapark</u>',
+	'Sie (<i>Leos Kollegen</i>) wussten, dass es heute Nacht keinen weiteren toten SA-Mann geben würden, denn Leo ließ den Schläger an der Wand stehen. Den Schläger, der schon <strong>eingekerbt</strong> und an einer Stelle sogar zersplittert war. Dort, wo Leos Schlag Katsche verfehlt und die Bordsteinkante getroffen hatte. An dieser Stelle hatte sich das Holz mit Blut vollgesaugt.  (<i>Lunapark</i>, 252)',   
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
+'Klumpen, Klumpfuß': [
+	'der <strong>Klumpen</strong>,-: clump, lump; clot <br>der <strong>Klumpfuß</strong>,-<strong>füße</strong>: club foot'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klumpen"target="target1">Klumpen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klumpfusz"target="target2">Klumpfuß</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klumpen"target="target3">Klumpen</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klumpfuss"target="target4">Klumpfuß</a>',
+	'<u>Märzgefallene</u>',
+	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein juckender Hautausschlag oder ein <strong>Klumpfuß</strong>."  (<i>Märzgefallene</i>, 384)',
+],
+kreischen: [
+	'<strong>kreischen</strong>: shriek, squel, scream  '+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kreischen"target="target1">kreischen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kreischen"target="target2">kreischen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kreischen"target="target3">kreischen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kreischen"target="target4">kreischen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Dann hörte Rath ein paar Frauen <strong>kreischen</strong> und schimpfen...(<i>Der nasse Fisch</i>, 121-22)',  
+	'<u>Märzgefallene</u>',
+	'Der Zug (<i>Karnevalszug</i>) schien sich in Bewegung zu setzen, die Alaafrute wurden zahlreicher und lauter, auch das <strong>Kreischen</strong> der Kinder nach Kamelle, doch mit einem Mal mischte sich etwas anderes darunter, etwas, das da nicht hingehörte.  (<i>Märzgefallene</i>, 51)',    
+	'Die anderen Gebäude der früheren Kaserne wurden ebenfalls genutzt, allerdings nicht von der SA, sondern von ganz gewöhnlichen Gewerbebetrieben. Ab und zu hatte Leo das <strong>Kreischen</strong> einer Säge gehört, immer wieder Hammerschläge auf Metall, und manchmal auch Schritte, Rufen, Lachen und Stimmengemurmel. (<i>Märzgefallene</i>, 219)' ,
+	'<u>Lunapark</u>', 
+	'Sie (<i>Charly</i>) schenkte Husen, der ebenfalls nicht mitsang, ein Lächeln und tanzte schweigend weiter. Bis ein <strong>Kreischen</strong> sie aufschrecken ließ. Ein <strong>Kreischen</strong>, gefolgt von einem Poltern.   (<i>Lunapark</i>, 164)' ,
+	'Leo musste daran denken, wie oft er mit Vera dort (<i>im Lunapark</i>) gesessen hatte. Die Rummelvergnügungen hatten sie nie sonerlich interessiert, sie wollte einfach nur auf den See blicken und das <strong>Kreischen</strong> und Lachen und Rufen der Besucher hören...  (<i>Lunapark</i>, 250)',  
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
 Klacks: [
 	'der <strong>Klacks</strong>,-<strong>e</strong>: dollop, dab'+
 	'<br>ein <strong>Klacks</strong>: a cinch, peanuts'+
@@ -440,9 +487,6 @@ Gemächt: [
 	'<u>Lunapark</u>',
 	'Conny war aufgestanden und stand nun hinter ihm. Bevor Gräf wusste, wie ihm geschah, hatte der Mann ihn vom Stuhl gezerrt und ihn von hinten gepackt, eine Hand um die Brust gelegt, die andere um sein <strong>Gemächt</strong>. (<i>Lunapark</i>,191)',
 ],
-// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 ausreizen: [  
 	'<strong>ausreizen</strong>: use up, exhaust ' +  // bid up to strength
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausreizen"target="target1">ausreizen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausreizen"target="target2">ausreizen</a>  ' +
@@ -1632,12 +1676,17 @@ Begriffsstutzigkeit: [
 	'<u>Lunapark</u>', 
 	'Charly konnte nicht verstehen, was der Truppführer genau sagte, jedenfalls hatte er sich vor dem alten Herrn aufgebaut und schnauzte ihn an. Der Alte hatte seinen Fehler offensichtlich erkannt, er stand stramm und reckte den rechten Arm in die Höhe. Der Truppführer nahm den Gruß entgegen, dann fegte er dem Alten den Hut vom Kopf und trat den Filz, als sein Besitzer <strong>sich</strong> danach <strong>bückte</strong>, wie einen Fußball auf den Fahrdamm.  (<i>Lunapark</i>, 116) ',
 ],
-Bordstein: [
-	'der <strong>Bordstein</strong>,-<strong>e</strong>: road curb <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bordstein"target="target1">Bordstein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bordstein?q=Bordstein"target="target2">Bordstein</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bordstein"target="target3">Bordstein</a>',
+Bordstein: [  
+	'der <strong>Bordstein</strong>,-<strong>e</strong>: road curb'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bordstein"target="target1">Bordstein</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bordstein"target="target2">Bordstein</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bordstein?q=Bordstein"target="target3">Bordstein</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bordstein"target="target4">Bordstein</a>',
 	'<u>Märzgefallene</u>',
 	'Am <strong>Bordstein</strong> der Grunerstraße parkte ein Großtarifwagen, das einzige Taxi weit und breit. (<i>Märzgefallene</i>, 513)',
 	'<u>Lunapark</u>',
+	'Rath fand seinen Buick am Straßenrand, ein wenig schief und nur mit einem Rad auf dem <strong>Bordstein</strong>, so wie er den Wagen gestern Abend dort geparkt hatte.  (<i>Lunapark</i>, 80)',
 	'Wirklich nur vorläufige Ergebnisse, nichts gerichtlich Verwertbares.. Das Auffälligste waren noch die Holzsplitter, die der Erkenningsdienst an einer <strong>Bordstein</strong>kante am Tatort gefunden hatte und die aller Wahrscheinlichkeit nach von der Tatwaffe stammten.  (<i>Lunapark</i>, 82)',
+	'Raths Blick fiel auf eine blassgrüne Karte, die im Schatten des <strong>Bordsteins</strong> lag. Ohne darüber nachzudenken, hob er sie auf und drehte sie um. <i>Madame Luna blickt in ihre Zukunft</i>, las er.  (<i>Lunapark</i>, 192)',
+	'Sie (<i>Leos Kollegen</i>) wussten, dass es heute Nacht keinen weiteren toten SA-Mann geben würden, denn Leo ließ den Schläger an der Wand stehen. Den Schläger, der schon eingekerbt und an einer Stelle sogar zersplittert war. Dort, wo Leos Schlag Katsche verfehlt und die <strong>Bordstein</strong>kante getroffen hatte. An dieser Stelle hatte sich das Holz mit Blut vollgesaugt.  (<i>Lunapark</i>, 252)',   
 ],
 Banderole: [
 	'die <strong>Banderole</strong>,-<strong>n</strong>: &nbsp;package band, pasted label; excise stamp <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Banderole"target="target1">Banderole</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Banderole"target="target2">Banderole</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Banderole"target="target3">Banderole</a>',
@@ -1828,7 +1877,7 @@ Bohle: [
 ],	
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'Brett, Bretterwand, Bretterverschlag': [
+'Brett, Bretterwand, Bretterverschlag': [  
 	'das <strong>Brett</strong>,-<strong>er</strong>: board, plank; shelf, tray <br>die <strong>Bretterwand</strong>,-<strong>wände</strong>: wooden wall, billboard <br>der <strong>Verschlag</strong>,-<strong>schläge</strong>: crate, shed, shack <br>der <strong>Bretterverschlag</strong>: wooden shed, crate ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brett"target="target1">Brett</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bretterwand"target="target2">Bretterwand</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target3">Verschlag</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bretterverschlag"target="target4">Bretterverschlag</a> ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brett?q=Brett"target="target5">Brett</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bretterwand"target="target6">Bretterwand</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target7">Verschlag</a> &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/bretterverschlag"target="target8">Bretterverschlag</a> ',
@@ -1853,6 +1902,7 @@ Bohle: [
 	'Charly versuchte, die Stelle zu lokalisieren, an der Heinz Singer und sieben andere Bettler in der Silvesternacht 1931 zum Opfer vom Rauch und Flammen geworden waren. <strong>Bretterverschläge</strong> standen hier keine mehr, rund um die Volksbühne waren in den letzten Jahren Neubauten hochgezogen worden.   (<i>Märzgefallene</i>, 364)' ,
 	'<u>Lunapark</u>',
 	'Lange stellte die Lackschuhe wieder ab und stutzte. Der Boden des Kleiderschranks schien nicht ganz fest zu sitzen, ein <strong>Brett</strong> hatte sich verschoben. Er wollte es wieder richten und hielt es unversehens in der Hand. Unter dem Boden befand sich ein Hohlraum, in dem etwas metallisch glänzte. Lange holte ein weiteres <strong>Brett</strong> aus der Führung, dann noch eines und glaubte, seinen Augen nicht zu trauen.  (<i>Lunapark</i>, 47)' ,
+	'Gut Ding will Weile haben, tröstete er sich, als er das lose <strong>Brett</strong> im Zaun entriegelte und zur Seite schob. Der Kerl, den er (<i>Leo</i>) gerade beschattete, hatte den Tod tausendfach verdient.  (<i>Lunapark</i>, 252)' ,
 ],	
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2007,9 +2057,13 @@ betreten: [
 	'Der einzige Fehler war.. dass sie (<i>Charly und Gereon</i>) Charlys Mutter in der Nähe des Telefunken-Musikschranks plaziert hatten... "Ich darf doch?", fragte sie, und noch bevor irgendjemand antworten konnte, hatte sie das Gerät auch schon eingeschaltet. Es knarzte und rauschte einen Moment, dann meldete sich die Funkstunde Berlin. Eine Übertragung aus dem Reichstag. Und mit einem Mal, zum Ensetzen fast aller, schnarrte die Stimme von Adolf Hitler durch den Raum... Alle am Tisch schauten sich <strong>betreten</strong> an.    (<i>Märzgefallene</i>, 589)' ,
 ],
 bibbern: [
-	'<strong>bibbern</strong>: &nbsp;tremble, quake, shiver <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bibbern"target="target1">bibbern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bibbern"target="target2">bibbern</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bibbern"target="target3">bibbern</a>   ',
-	'<u>Märzgefallene</u>',
+	'<strong>bibbern</strong>: tremble, quake, shiver'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bibbern"target="target1">bibbern</a>&nbsp;&nbsp;<a href=""target="target2">bibbern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bibbern"target="target3">bibbern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bibbern"target="target4">bibbern</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',    
 	'Aber findig war er (<i>Fritze</i>), nicht nur in Sachen Frühstück, auch Schlafgelegenheiten wusste er aufzutreiben. In einer klammen Sandkiste hatte Hannah nicht mehr <strong>bibbern</strong> müssen, seit sie Fritze über den Weg gelaufen war. (<i>Märzgefallene</i>, 253)',
+//	'<u>Lunapark</u>',   
 ],
 'Biege machen': [
 	'die <strong>Biege machen</strong>: &nbsp;take off, scram  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Biege+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Biege machen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://glosbe.com/de/en/die%20Biege%20machen"target="target2">Biege machen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/die+Biege+machen"target="target3">Biege machen</a>    ',  // https://glosbe.com/de/en/die%20Biege%20machen
@@ -2623,11 +2677,6 @@ eintüten: [
 	'<u>Märzgefallene</u>',
 	'"Und aus so einem soll mal ein Kriminalkommissar werden", brummte der Oberkommissar, <strong>tütete</strong> den ersten Abdruck <strong>ein</strong> und schüttelte den Kopf.    (<i>Märzgefallene</i>, 14)' ,
 ], 
-entriegeln: [
-	'<strong>entriegeln</strong>: &nbsp;unlock, release, disconnect <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entriegeln"target="target1">entriegeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/entriegeln"target="target2">entriegeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/entriegeln"target="target3">entriegeln</a>   ' ,
-	'<u>Märzgefallene</u>',
-	'Er (<i>Rath</i>) ging zum Buick hinüber, <strong>entriegelte</strong> den Notsitz und klappte ihn hoch. (<i>Märzgefallene</i>, 150)' , 
-],
 'erdreisten (sich)': [
 	'<strong>sich erdreisten</strong>: presume, dare to do something ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erdreisten"target="target1">erdreisten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erdreisten"target="target2">erdreisten</a>  ' +
@@ -3577,7 +3626,7 @@ Gemurmel: [
 	'Es dauerte einen Moment, bis die Kapelle die Situation erfasst hatte. Die Klarinette hörte als Letztes auf zu spielen. Dann brauchte es noch eine Weile, bis das allgemeine <strong>Gemurmel</strong> abebbte und Wolters Stimme verständlich wurde.   (<i>Der nasse Fisch</i>, 243)', 
 	'<u>Märzgefallene</u>',
 	'Die anderen Gebäude der früheren Kaserne wurden ebenfalls genutzt, allerdings nicht von der SA, sondern von ganz gewöhnlichen Gewerbebetrieben. Ab und zu hatte Leo das Kreischen einer Säge gehört, immer wieder Hammerschläge auf Metall, und manchmal auch Schritte, Rufen, Lachen und Stimmen<strong>gemurmel</strong>. (<i>Märzgefallene</i>, 219)' ,
-	'Damit was das Gespräch wider abgewürgt. Eine Weile war nichts zu hören außer dem Klimpern des Bestecks und dem Stimmen<strong>gemurmel</strong> von den anderen Tischen. (<i>Märzgefallene</i>, 261)',                      
+	'Damit was das Gespräch wieder abgewürgt. Eine Weile war nichts zu hören außer dem Klimpern des Bestecks und dem Stimmen<strong>gemurmel</strong> von den anderen Tischen. (<i>Märzgefallene</i>, 261)',                      
 	'Rath zog Charly an seine Seite und hielt sein Sektglas in die Höhe, das <strong>Gemurmel</strong> verstummte... "Ihr Lieben! Willkommen bei der Familie Rath, neueröffnete Außenstelle Berlin!"   (<i>Märzgefallene</i>, 584)',
 ],
 gerinnen: [
@@ -4626,11 +4675,6 @@ knuffen: [
 	'<u>Märzgefallene</u>',
 	'<i>das ärztliches Attest für Charly</i>: "Zwei Wochen arbeitsunfähig." Er (<i>Gereon</i>) schüttelte den Kopf. "Habe gar nicht gemerkt, dass du so krank bist. Gestern Abend jedenfalls nicht." Er <strong>knuffte</strong> sie in die Seite, doch sie wehrte ihn ab. "Lass deine Witze."  (<i>Märzgefallene</i>, 385)' ,
 ],
-'Klumpen, Klumpfuß': [
-	'der <strong>Klumpen</strong>,-: clump, lump; clot &nbsp;&nbsp;der <strong>Klumpfuß</strong>,-<strong>füße</strong>: club foot <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klumpen"target="target1">Klumpen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klumpfusz"target="target2">Klumpfuß</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klumpen"target="target3">Klumpen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klumpfuss"target="target4">Klumpfuß</a>  ' ,
-	'<u>Märzgefallene</u>',
-	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein juckender Hautausschlag oder ein <strong>Klumpfuß</strong>."  (<i>Märzgefallene</i>, 384)' ,
-],
 Kelch: [
 	'der <strong>Kelch</strong>,-<strong>e</strong>: cup, goblet, chalice (for Eucharist)' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kelch"target="target1">Kelch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kelch"target="target2">Kelch</a>' +
@@ -4863,10 +4907,16 @@ Kittel: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-klamm: [
-	'<strong>klamm</strong>: &nbsp;clammy, dank, moist <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klamm"target="target1">klamm</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klamm"target="target2">klamm</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klamm"target="target3">klamm</a>' ,
-	'<u>Märzgefallene</u>',
-	'In der Eingangsebene (<i>des Reichtags</i>) war von der Hitze so gut wie nichts mehr zu spüren, lediglich der Brandgeruch kündete von dem, was sich weiter innen im Gebäude abspielte. Der Schweißfilm auf seiner Haut kühlte langsam ab in der Februarkälte und verbreitete ein unangenehm <strong>klammes</strong> Gefühl. (<i>Märzgefallene</i>. 57-58)' ,
+klamm: [  
+	'<strong>klamm</strong>: clammy, dank, moist'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klamm"target="target1">klamm</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klamm"target="target2">klamm</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klamm"target="target3">klamm</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klamm"target="target4">klamm</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Während der Ofen langsam heiß wurde, zog er (<i>Rath</i>) sich aus. Dann rollte er das Handtuch auseinander, und seine verschmutzten Sachen fielen auf die Bodenfliesen. Aus seiner Badetasche holte er eine Schere und schnitt den nach Regen riechenden <strong>klammen</strong> Stoff in Streifen... Fetzen um Fetzen wanderten in den Ofen, bis schließlich alles in den Flammen verschwunden war.  (<i>Der nasse Fisch, 230)',
+	'<u>Märzgefallene</u>',    
+	'In der Eingangsebene (<i>des Reichtags</i>) war von der Hitze so gut wie nichts mehr zu spüren, lediglich der Brandgeruch kündete von dem, was sich weiter innen im Gebäude abspielte. Der Schweißfilm auf seiner (<i>Weinerts</i>) Haut kühlte langsam ab in der Februarkälte und verbreitete ein unangenehm <strong>klammes</strong> Gefühl. (<i>Märzgefallene</i>. 57-58)',
+	'Aber findig war er (<i>Fritze</i>), nicht nur in Sachen Frühstück, auch Schlafgelegenheiten wusste er aufzutreiben. In einer <strong>klammen</strong> Sandkiste hatte Hannah nicht mehr bibbern müssen, seit sie Fritze über den Weg gelaufen war. (<i>Märzgefallene</i>, 253)',
+//	'<u>Lunapark</u>',   
 ],
 Klammer: [
 	'die <strong>Klammer</strong>,-<strong>n</strong>: &nbsp;clip, brace, fastener; &nbsp;&nbsp;<strong>Büroklammer</strong>: &nbsp;paperclip <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klammer"target="target1">Klammer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klammer?q=Klammer"target="target2">Klammer</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klammer"target="target3">Klammer</a>' ,
@@ -6701,8 +6751,8 @@ poltern: [
 	'Hanna stieß den Stuhl beiseite und war draußen, hörte hinter sich den  Stuhl <strong>poltern</strong>... (<i>Märzgefallene</i>, 69)'  ,
 	'Mitten in der Nacht waren sie gekommen, hatten gegen die Wohnungstür <strong>gepoltert</strong> und sie eingetreten, noch bevor er (<i>Leo</i>) sie öffnen konnte, und wenige Sekunden später schon im Schlafzimmer gestanden. (<i>Märzgefallene</i>, 108)' ,
 	'Böhm sprang von seinem Schreibtischsessel auf. "Was erlauben Sie sich?", <strong>polterte</strong> er gegen die Eindringlinge los. "Sie unterbrechen eine dienstliche Unterredung!" (<i>Märzgefallene</i>, 125)' ,
-  'Der Gefreite Wibeau...hält den Vorschlaghammer bereits in der Hand. Mit kräftigem Schwunge holt er aus, und schon beim ersten Schlage brechen rund ein Dutzend Backsteine aus der Mauer. Sie fallen nach hinten, man hört ihr hohles <strong>Poltern</strong>. (<i>Märzgefallene</i>, 161-162)' ,
-  'Sie reißen die Ziegelwand komplett ein und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind. All meine Männer halten mitten in der Arbeit inne, nehmen Haltung an und salutieren. Wegener,...der vor wenigen Tagen erst an die Front geschickt wurde, fällt beim Salutieren ein Goldbarren aus der Hand und <strong>poltert</strong> zu Boden, doch niemand lacht.  (<i>Märzgefallene</i>, 162)' ,
+  	'Der Gefreite Wibeau...hält den Vorschlaghammer bereits in der Hand. Mit kräftigem Schwunge holt er aus, und schon beim ersten Schlage brechen rund ein Dutzend Backsteine aus der Mauer. Sie fallen nach hinten, man hört ihr hohles <strong>Poltern</strong>. (<i>Märzgefallene</i>, 161-162)' ,
+  	'Sie reißen die Ziegelwand komplett ein und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind. All meine Männer halten mitten in der Arbeit inne, nehmen Haltung an und salutieren. Wegener,...der vor wenigen Tagen erst an die Front geschickt wurde, fällt beim Salutieren ein Goldbarren aus der Hand und <strong>poltert</strong> zu Boden, doch niemand lacht.  (<i>Märzgefallene</i>, 162)' ,
 	'Sie (<i>Charly</i>) hörte die Wohnungstür ins Schloss fallen und seine <strong>polternden</strong> Schritte im Treppenhaus. Fast fühlte sie sich, als sei er (<i>Fritze</i>) ihr eigenes Kind, das zum Spielen nach draußen lief.  (<i>Märzgefallene</i>, 449-50)' ,
 	'Harald Hefner griff zu seiner Zigarrenkiste, fischte eine heraus und bot dann seinem Reporter eine an. "Zehn Minuten", sagte er... Weinert schaffte es in sieben. Der Chef vom Dienst hörte sich die Geschichte in aller Ruhe an, dann <strong>polterte</strong> er los. "Soll das heißen, all das, was wir... was <i>Sie</i> vor ein, zwei Wochen geschrieben haben, das war völliger Mumpitz?" <i>Weinert</i>: "Dieser Mumpitz war die offizielle Verlautbarung des Polizeipräsidiums Berlin..."   (<i>Märzgefallene</i>, 533)' ,
 	'<u>Lunapark</u>',
@@ -6996,13 +7046,17 @@ Rummel: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rummel?q=Rummel"target="target3">Rummel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rummel"target="target4">Rummel</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'An beschlagnahmten Waffen hatten die Beamten weniger zu zählen gehabt... Ein gutes Dutzend Revolver und Pistolen, zwei Gewehre. In jeder Schießbude auf dem <strong>Rummel</strong> gab es mehr Waffen. (<i>Der nasse Fisch</i>, 156)',
-	'Das <i>Haus Vaterland</i> war ein riesiger Vergnügungstempel in der Nähe des Potsdamer Platzes... Die Berliner mieden das <i>Vaterland</i>, dennoch herrschte dort jeden Abend ein unglaublicher <strong>Rummel</strong>.     (<i>Der nasse Fisch</i>, 176)',
+	'Das <i>Haus Vaterland</i> war ein riesiger Vergnügungstempel in der Nähe des Potsdamer Platzes... Die Berliner mieden das <i>Vaterland</i>, dennoch herrschte dort jeden Abend ein unglaublicher <strong>Rummel</strong>. (<i>Der nasse Fisch</i>, 176)',
+	'Der <strong>Rummel</strong> um ihn (<i>Rath</i>) herum wurde immer lebhafter. Im <i>Europahaus</i> waren außer dem Kino auch mehrere Restaurants, Cafés und Tanzdielen unter einem Dach untergebracht. Fast wie im <i>Haus Vaterland</i>...  (<i>Der nasse Fisch</i>, 182)' ,
 	'Die Uhr im großen Konferenzsal des Polizeipräsidiums zeigte halb eins, und es herrschte ein <strong>Rummel</strong> wie im Wartesaal des Anhalter Bahnhofs...  (<i>Der nasse Fisch</i>, 252)',
 	'<u>Märzgefallene</u>',
 	'In der Kantine herrschte der übliche <strong>Rummel</strong>. Rath suchte sich einen einsamen Tisch etwas abseits, um Ruhe für Roddecks Roman zu haben.   (<i>Märzgefallene</i>, 260)',
 	'Friedrich Grimberg fragte sich, ob das alles Zufall sein konnte. Warum augerechnet hier? Warum ausgerechnet heute? Warum ausgerechnet zu einer Zeit, da hier solch ein <strong>Rummel</strong> herrschte?  (<i>Märzgefallene</i>, 558-59)',
 	'<u>Lunapark</u>',
 	'Rath fand seinen Kollegen an einem kleinen Tisch in der Ecke, etwas abseits des <strong>Rummels</strong>, der ansonsten hier herrschte.  (<i>Lunapark</i>, 68)',
+	'Leo musste daran denken, wie oft er mit Vera dort (<i>im Lunapark</i>) gesessen hatte. Die <strong>Rummel</strong>vergnügungen hatten sie nie sonerlich interessiert, sie wollte einfach nur auf den See blicken und das Kreischen und Lachen und Rufen der Besucher hören...  (<i>Lunapark</i>, 250)',  
+	'Im Sommer hatten sie (<i>Leo und Vera</i>) den Park fast jede Woche besucht.. Hier zu sitzen, bei einem Glas Sekt, das war ihre Vorstellung vom Glück, und auch Leo war das, obwohl er den <strong>Rummel</strong> eigentlich nicht mochte, viel lieber gewesen als die mondänen Nachtclubs, in denen seinesgleichen sonst die Nächte verbrachte.  (<i>Lunapark</i>, 250)',  
+//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
 rührig: [
 	'<strong>rührig</strong>: busy, active, enterprising ' +
@@ -10537,6 +10591,7 @@ verunzieren: [
 	'Sein Büro war bereits <strong>verwaist</strong>, als er (<i>Rath</i>) in der Burg ankam, auch der Schreibtisch seiner Sekretärin im Vorzimmer. (<i>Lunapark</i>, 66)' ,
 	'Und am alten Ostbahnhof, wo Marlow direkt hinter dem Varietè <i>Plaza</i> Hof gehalten hatte, kam Rath sich vor wie in einer anderen Welt. Früher hatten bullige Wächter jeden Besucher bereits auf der Straße abgefangen und gefilzt, doch diesmal hatte er den Komplex ungehindert betreten können. Und eine <strong>verwaiste</strong> Lagerhalle vorgefunden, die nicht anders aussah als die vielen anderen Hallen aus Kaisers Zeiten...  (<i>Lunapark</i>, 120)',
 	'"Hallo?", rief er (<i>Rath</i>). Keine Antwort.. Er suchte sämtliche Räume ab, sogar die Toiletten, doch die Kanzlei war <strong>verwaist</strong>.  (<i>Lunapark</i>, 181)',
+	'Die <strong>verwaisten</strong> Terrassen, die zum See hin abstiegen, sahen in der Abendsonne richtiggehend idyllisch aus.  (<i>Lunapark</i>, 250)',
 ],
 verwegen: [
 	'<strong>verwegen</strong>: daring, bold, dashing ' +
@@ -11755,6 +11810,7 @@ Geheiß:   Lunapark 57
  Glatze  Märzgefallene 595
  glitschig  Lunapark  41  Sstart
  Grimasse  Märzgefallene 457
+ grollen Lunapark 250
  einer Sache habhaft werden   Märzgefallene 495
  Habgier  Lunapark 24
  Haube Lunapark 233 included in murren
@@ -11781,7 +11837,6 @@ Geheiß:   Lunapark 57
  'Kommissköppe'  ;   Nworte++;    Märzgefallene   139
  krächzen Märzgefallene  558  included in durchnssenä
  krake Der nasse Fisch 202
- 'Kreischen'  ;   Nworte++;    Märzgefallene   51
  Kröte   Märzgefallene  528
  'Krücken'  ;   Nworte++;    Märzgefallene   244
  Krummes  Märzgefallene  574

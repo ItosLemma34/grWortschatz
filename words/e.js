@@ -8,6 +8,7 @@ const e = [
    'einfädeln',  // einfädeln: 
    'Eingebung',   // Eingebung: * 
    'Eingeweide', // Eingeweide: *
+   'einkerben',  // einkerben: *
    'einkriegen (sich)',  //  
    'einkringeln',  //einkringeln:  
    'einlochen',  //einlochen:  
@@ -29,7 +30,7 @@ const e = [
    'Empore',     //Empore:  
    'entbieten',  //entbieten:  
    'entgegenfiebern',  //entgegenfiebern:  
-   'entriegeln',  //entriegeln: 
+   'entriegeln',  // entriegeln: *
    'entsorgen',  // entsorgen:  * 
    'entstellen',  //entstellen: 
    'entwinden',  // entwinden:  *

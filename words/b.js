@@ -31,7 +31,7 @@ const b = [
     'betreten',   //betreten:  
     'betupfen',   //betupfen:  
     'Beule',      //Beule:  
-    'bibbern',    //bibbern: 
+    'bibbern',    // bibbern: *
     'bieder',     //bieder: 
     'Biege machen',  // 
     'bimmeln', // *
@@ -50,7 +50,7 @@ const b = [
     'Bohle',    //Bohle:  
     'bohnern',  //bohnern:  
     'Bonze',   //Bonze:
-    'Bordstein', // Bordstein:
+    'Bordstein', // Bordstein: *
     'borniert',  //borniert: 
     'Bösewicht',  //Bösewicht:  
     'Boulette',   //Boulette:  *

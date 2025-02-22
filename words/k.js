@@ -35,7 +35,7 @@ const k = [
    'Klacks',  // Klacks: *
    'Kladde',  // Kladde: *
    'klaffen', // klaffen: *
-   'klamm',  //klamm:
+   'klamm',  // klamm: *
    'Klammer', //Klammer:
    'klammern', //klammern:
    'klammheimlich', // klammheimlich:
@@ -57,7 +57,7 @@ const k = [
    'klirren', // klirren:
    'klitzeklein', //klitzeklein:
    'Kloß',   // Kloß: *
-   'Klumpen, Klumpfuß',  //
+   'Klumpen, Klumpfuß',  // *
    'Klüngel',  //Klüngel:
    'knallen', // knallen: *
    'Knarre',  // Knarre:
@@ -102,6 +102,7 @@ const k = [
    'kratzen',  // kratzen: * 
    'kraulen',   // kraulen:
    'kräuseln',  // kräuseln:  *
+   'kreischen', // kreischen: *
    'Kreisel',  // Kreisel:
    'Kreissäge',  // Kreissäge:
    'Krempe',  // Krempe: *

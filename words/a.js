@@ -105,7 +105,7 @@ const a = [
 	'aufglimmen',  //aufglimmen:  
 	'aufhalsen',   //aufhalsen:  
 	'aufjaulen',   //aufjaulen:  
-	'auflauern',   //auflauern:  
+	'auflauern',   // auflauern:  
 	'aufmucken',   //aufmucken:  
 	'aufpäppeln',  //aufpäppeln:  
 //	'aufplustern', //aufplustern:  

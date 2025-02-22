@@ -16,6 +16,18 @@ zzz: [
 
 gerappelt: [
 ], */
+kundschaften: [
+	'<strong>kundschaften</strong>: scout, reconnoiter'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kundschaften"target="target1">kundschaften</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kundschaften"target="target2">kundschaften</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kundschaften"target="target3">kundschaften</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kundschaften"target="target4">kundschaften</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'Eine brauchbare Spur hatte ihm (<i>Rath</i>) auch der Besuch bei Gertraud Brachwitz nicht gebracht, aber immerhin wusste er nun: Juretzka ging nicht planlos vor. Er <strong>kundschaftete</strong> den Tagesablauf seines Opfers aus und suchte sich den geeigneten Ort, um aufzulauern.  (<i>Lunapark</i>, 257)',   
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
 entriegeln: [
 	'<strong>entriegeln</strong>: unlock, release, disconnect'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entriegeln"target="target1">entriegeln</a>&nbsp;&nbsp;<a href=""target="target2">entriegeln</a>'+
@@ -36,9 +48,6 @@ einkerben: [
 	'<u>Lunapark</u>',
 	'Sie (<i>Leos Kollegen</i>) wussten, dass es heute Nacht keinen weiteren toten SA-Mann geben würden, denn Leo ließ den Schläger an der Wand stehen. Den Schläger, der schon <strong>eingekerbt</strong> und an einer Stelle sogar zersplittert war. Dort, wo Leos Schlag Katsche verfehlt und die Bordsteinkante getroffen hatte. An dieser Stelle hatte sich das Holz mit Blut vollgesaugt.  (<i>Lunapark</i>, 252)',   
 ],
-// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
 'Klumpen, Klumpfuß': [
 	'der <strong>Klumpen</strong>,-: clump, lump; clot <br>der <strong>Klumpfuß</strong>,-<strong>füße</strong>: club foot'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klumpen"target="target1">Klumpen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klumpfusz"target="target2">Klumpfuß</a>'+
@@ -1482,6 +1491,7 @@ auflauern: [
 	'<i>Engel</i>: "Also: Wie wird Ihr Bericht lauten, Leutnant?" <i>von Roddeck</i>: "Zwei Partisanen haben dem im Kampfe noch unerfahrenen Gefreiten Wegener <strong>aufgelauert</strong>, seine Kameraden konnten die Angreifer jedoch außer Gefecht setzen."  (<i>Märzgefallene</i>, 171)',
 	'<u>Lunapark</u></u>',
 	'Nach dem Gespräch bei Gertraud Brachwitz war er mehr als sicher, dass Hans Dewald nicht von auf frischer Tat ertappten kommunistischen Propagandisten erschlagen worden war, sondern von jemandem, der die Gewohnheiten des SA-Mannes über Tage beobachtet und ihm dann <strong>aufgelauert</strong> hatte.   (<i>Lunapark</i>, 192)',
+	'Eine brauchbare Spur hatte ihm (<i>Rath</i>) auch der Besuch bei Gertraud Brachwitz nicht gebracht, aber immerhin wusste er nun: Juretzka ging nicht planlos vor. Er kundschaftete den Tagesablauf seines Opfers aus und suchte sich den geeigneten Ort, um <strong>aufzulauern</strong>.  (<i>Lunapark</i>, 257)',   
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2458,7 +2468,6 @@ Erker: [
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 //(<i>Der nasse Fisch</i>, 000) (<i>Der stumme Tod</i>, 000) (<i>Märzgefallene</i>, 000) (<i>Lunapark</i>, 000) 
-
 Einstand: [
 	'der <strong>Einstand</strong>,-<strong>stände</strong>: &nbsp;first day, start of new job <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Einstand"target="target1">Einstand</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einstand"target="target2">Einstand</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Einstand"target="target3">Einstand</a>  ' ,
 	'<u>Lunapark</u>',
@@ -4919,11 +4928,13 @@ klamm: [
 //	'<u>Lunapark</u>',   
 ],
 Klammer: [
-	'die <strong>Klammer</strong>,-<strong>n</strong>: &nbsp;clip, brace, fastener; &nbsp;&nbsp;<strong>Büroklammer</strong>: &nbsp;paperclip <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klammer"target="target1">Klammer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klammer?q=Klammer"target="target2">Klammer</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klammer"target="target3">Klammer</a>' ,
+	'die <strong>Klammer</strong>,-<strong>n</strong>: clip, brace, fastener <br><strong>Büroklammer</strong>: paperclip'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klammer"target="target1">Klammer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klammer"target="target2">Klammer</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klammer?q=Klammer"target="target3">Klammer</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klammer"target="target4">Klammer</a>',
 	'<u>Märzgefallene</u>',
-	'Als sie (<i>Charly</i>) die Fotografie wieder zurückstecken wollte, fiel ihr ein Zettel auf, der zusammen mit einer <strong>Büroklammer</strong> noch im Umschlag lag. <i>Heinz Singer als Uffz. der Reserve</i> hatte dort jemand mit krakeliger Handschrift hingeschrieben....(<i>Märzgefallene</i>, 42)' ,
-	'Die <strong>Büroklammer</strong> hatte sie (<i>Hannah</i>) dem heutigen Zwischenfall zu verdanken, sie hatte an Vaters Foto geklemmt, das die Polizistin (<i>Charly</i>) ihr über dem Tisch gereicht hatte. Als die Wärter sie überwältigten und Oberschwester Ingeborg ihr das Bild aus der Hand wand, hatte Hannah die <strong>Klammer</strong> längst zwischen ihren Fingern gehalten... Hannah hatte weiter getobt, hatte die <strong>Klammer</strong> in der Hand behalten, als sie ihr die Arme in die Zwangsjacke gedrückt hatten. Erst als die Pfleger sie aus der Jacke befreit und ans Bett geschnallt hatten, war die <strong>Büroklammer</strong> mit einer schnellen Bewegung in Hannahs Mund verschwunden. (<i>Märzgefallene</i>, 65-66)' ,
-	'Das Schloss, mit dem ihre Bettgurte gesichert waren, hatte sie (<i>Hannah</i>) mit Hilfe der <strong>Klammer</strong>, die sie ausgespuckt und aufgebogen hatte, vor knapp einer Stunde schon aufbekommen, kurz nach dem letzten Kontrollgang.  (<i>Märzgefallene</i>, 66)' ,  
+	'Als sie (<i>Charly</i>) die Fotografie wieder zurückstecken wollte, fiel ihr ein Zettel auf, der zusammen mit einer <strong>Büroklammer</strong> noch im Umschlag lag. <i>Heinz Singer als Uffz. der Reserve</i> hatte dort jemand mit krakeliger Handschrift hingeschrieben....(<i>Märzgefallene</i>, 42)',
+	'Die <strong>Büroklammer</strong> hatte sie (<i>Hannah</i>) dem heutigen Zwischenfall zu verdanken, sie hatte an Vaters Foto geklemmt, das die Polizistin (<i>Charly</i>) ihr über dem Tisch gereicht hatte. Als die Wärter sie überwältigten und Oberschwester Ingeborg ihr das Bild aus der Hand wand, hatte Hannah die <strong>Klammer</strong> längst zwischen ihren Fingern gehalten... Hannah hatte weiter getobt, hatte die <strong>Klammer</strong> in der Hand behalten, als sie ihr die Arme in die Zwangsjacke gedrückt hatten. Erst als die Pfleger sie aus der Jacke befreit und ans Bett geschnallt hatten, war die <strong>Büroklammer</strong> mit einer schnellen Bewegung in Hannahs Mund verschwunden. (<i>Märzgefallene</i>, 65-66)',
+	'Das Schloss, mit dem ihre Bettgurte gesichert waren, hatte sie (<i>Hannah</i>) mit Hilfe der <strong>Klammer</strong>, die sie ausgespuckt und aufgebogen hatte, vor knapp einer Stunde schon aufbekommen, kurz nach dem letzten Kontrollgang.  (<i>Märzgefallene</i>, 66)',  
 ],
 klammern: [
 	'<strong>klammern</strong>: &nbsp;clamp, clasp  &nbsp;&nbsp;<strong>sich an etwas klammern</strong>: &nbsp;clutch at something <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klammern"target="target1">klammern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klammern"target="target2">klammern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klammern"target="target3">klammern</a> ',
@@ -5696,12 +5707,14 @@ loseisen: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/loseisen"target="target1">loseisen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/loseisen"target="target2">loseisen</a>' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/loseisen"target="target3">loseisen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=loseisen"target="target4">loseisen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'Hatte Böhm also sogar Gennat bemüht, um sie aus der Inspektion G <strong>loszueisen</strong>, dachte Charly. (<i>Märzgefallene</i>, 91)' ,
+	'Hatte Böhm also sogar Gennat bemüht, um sie aus der Inspektion G <strong>loszueisen</strong>, dachte Charly. (<i>Märzgefallene</i>, 91)',
 	'Die Tür öffnete sich, und ein narbengesichtiger, drahtiger Mann kam aus dem Büro des Polizeipräsidenten. Rudolf Diels, der neue Chef der Abteilung 1A.... Rath fragte sich, was Diels vom Polizeipräsidenten wollte. Noch mehr Kriminalbeamte für seine Zwecke <strong>loseisen</strong>?   (<i>Märzgefallene</i>, 250)' ,                     
 	'Rath... faltete das Vernehmungsprotokoll auseinander. "Dann will ich Ihnen (<i>Leo Juretzka</i>) mal vorlesen, was Sie unterschreiben, bevor Sie hier hinausspazieren", sagte er und begann.... "Klingt ja wie gedruckt", unterbrach Juretzka Raths Redefluss. "Und was machen Sie damit?" <i>Rath</i>: "Das kommt in die Fallakte.... Ist mein Argument, um Sie von der SA <strong>loszueisen</strong>." <i>Juretzka</i>: "Sie haben mich ja jetzt <strong>losgeeist</strong>. Dann muss ich da doch auch nicht meinen Friedrich Wilhelm druntersetzen, oder?"  (<i>Märzgefallene</i>, 262)' ,                   
 	'Aber Gereon hatte ja recht: Offiziell würde er sie (<i>Charly</i>) niemals für eine Mordermittlung von der Weiblichen Kiminalpolizei <strong>loseisen</strong> können.     (<i>Märzgefallene</i>, 305)' ,               
 	'Marlow hatte ihm (<i>Leo</i>) erklärt, warum er einen Bullen (<i>Rath</i>) hatte einspannen müssen, um Leo aus der Haft herauszuhauen.... Dass es verdammt schwierig sei, jemanden von der SA wieder <strong>loszueisen</strong>.   (<i>Märzgefallene</i>, 387)' ,
 	'Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte. Und dafür hatte Rath sich den Wosniak-Fall wieder ans Bein gebunden, nur um einen Vorwand zu haben, diesen undankbaren Drecksack aus der SA-Haft <strong>loszueisen</strong>? (<i>Märzgefallene</i>, 431)'  ,
+	'<u>Lunapark</u>',
+	'Marlow hatte recht: Leo Jurezka durfte niemals in die Hände der Polizei fallen. Was, wenn herauskäme, dass Rath es war, der ihn damals mit ein paar faulen Tricks von der SA <strong>losgeeist</strong> hatte? Im Auftrag Johann Marlows?  (<i>Lunapark</i>, 257)',
 ],
 Luder: [
 	'das <strong>Luder</strong>,-: hussy, bitch; little rascal' +
@@ -5748,7 +5761,6 @@ mitgenommen: [
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
-
 mulmig: [
 	'<strong>mulmig</strong>: queasy, decayed, rotten <br><strong>mulmiges Gefühl</strong>: queasy, uneasy feeling' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/mulmig"target="target1">mulmig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/mulmig"target="target2">mulmig</a>' +
@@ -9824,10 +9836,9 @@ vorliebnehmen: [
 	'<u>Lunapark</u>',
 	'"Ich fürchte, Sie müssen mit uns <strong>vorliebnehmen</strong>, Kriminalrat", sagte Rath. "Die Kollegen Lange und Czerwinske sind Ihnen ja bekannt. Mehr Leute habe ich erst mal nicht."  (<i>Lunapark</i>, 20)',
 ],
-// '<u>Der nasse Fisch</u>', Der nasse Fisch '<u>Der Stumme Tod</u>', '<u>Goldstein</u>', '<u>Die Ackte Vaterland</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verscharren: [  
-	'<strong>verscharren</strong>: bury  ' +
+	'<strong>verscharren</strong>: bury'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verscharren"target="target1">verscharren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verscharren"target="target2">verscharren</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verscharren"target="target3">verscharren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verscharren"target="target4">verscharren</a> ' ,
 	'<u>Der nasse Fisch</u>',
@@ -9835,7 +9846,9 @@ verscharren: [
 	'<i>Engelbert Rath</i>: "Na, siehst du! Und was gibt\'s bei dir Neues?" <i>Gereon</i>: <i>Ich habe gestern einen Menschen <strong>verscharrt</strong>, aber sonst geht alles seinen gewohnten Gang</i>.  (<i>Der nasse Fisch</i>, 237)',
 	'<u>Lunapark</u>',
 	'Fünf Jahre war das her, doch tauchten die Bilder immer noch aus den Tiefen seines Unterbewusstseins nach oben, erst letzte Nacht hatte er (<i>Rath</i>) davon geträumt, von der Leiche, die er hatte <strong>verscharren</strong> müssen. (<i>Lunapark</i>, 39)',
+	'<i>Gennat</i>: "Ihr Chauffeur ist seit den Ereignisen vor drei Wochen nicht mehr aufgetaucht, und das macht ihn verdächtig." <i>Osterberg</i>: "Nicht mehr aufgetaucht? Das ist ja auch kein Wunder.  Weil sie ihn wahrscheinlich totgeschlagen und <strong>verscharrt</strong> haben!.."    (<i>Lunapark</i>, 254)',
 ],
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verdampfen: [  
 	'<strong>verdampfen</strong>: evaporate, boil away; &nbsp;steam sth. ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verdampfen"target=target1">verdampfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verdampfen"target=target2">verdampfen</a>  ' +

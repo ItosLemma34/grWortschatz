@@ -36,7 +36,7 @@ const k = [
    'Kladde',  // Kladde: *
    'klaffen', // klaffen: *
    'klamm',  // klamm: *
-   'Klammer', //Klammer:
+   'Klammer', // Klammer:
    'klammern', //klammern:
    'klammheimlich', // klammheimlich:
    'Klappe', // Klappe:
@@ -117,6 +117,7 @@ const k = [
    'Krümel',  //Krümel:
    'krümmen (sich)',//
    'kullern', // kullern:
+   'kundschaften', // kundschaften:  *
    'Kuppel',  // Kuppel:
    'kurbeln', //kurbeln:
    'kuscheln (sich)',

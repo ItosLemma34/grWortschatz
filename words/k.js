@@ -36,11 +36,10 @@ const k = [
    'Kladde',  // Kladde: *
    'klaffen', // klaffen: *
    'klamm',  // klamm: *
-   'Klammer', // Klammer:
-   'klammern', //klammern:
-   'klammheimlich', // klammheimlich:
-   'Klappe', // Klappe:
-   'klappern',  //klappern:
+   'Klammer, klammern', // *
+   'klammheimlich', // klammheimlich: *
+   'Klappe', // Klappe: *
+   'klappern',  // klappern:
    'klapprig',  //klapprig: 
    'Klapsmühle', //Klapsmühle:
    'klatschen',  //klatschen:

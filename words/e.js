@@ -24,7 +24,7 @@ const e = [
    'einstäuben',  //einstäuben:  
    'einstecken',  //einstecken: 
    'einstielen', // einstielen: * 
-   'Eintänzer',   //Eintänzer:  
+   'Eintänzer',   // Eintänzer: * 
    'eintrudeln',  //eintrudeln:  
    'eintüten',    //eintüten:  
    'Empore',     //Empore:  

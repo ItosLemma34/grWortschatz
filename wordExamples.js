@@ -1,4 +1,8 @@
 export const wordExamples = {              
+/* deutsche Übersetzung nicht gefunden; appears in Tresen
+
+gerappelt: [
+], */
 /*
 zzz: [
 	'<strong>...</strong>:  '+
@@ -11,11 +15,56 @@ zzz: [
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
-*/
-/* deutsche Übersetzung nicht gefunden; appears in Tresen
 
-gerappelt: [
-], */
+/*klauben: [
+	'<strong>klauben</strong>: &nbsp;gather, collect, select, pick out <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klauben"target="target1">klauben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klauben"target="target2">klauben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klauben"target="target3">klauben</a> ' ,
+	'<u>Märzgefallene</u>',
+	'Während einer der Wärter Hannahs Arme nach hinten auf den Boden drückte und der andere sich mit seinem ganzen Gewicht auf ihre zappelnden Beine warf, <strong>klaubte</strong> Oberschwester Ingeborg dem Mädchen das Foto aus der Hand. (<i>Märzgefallene</i>, 48)' ,
+	'<u>Lunapark</u>',
+	'Gräf <strong>klaubte</strong> die Fotos vom Schreibtisch, stauchte sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück.  (<i>Lunapark</i>, 60)' ,
+	'Der alte Herr hatte seinen Homburg inzwiscen von der Straße <strong>geklaubt</strong> und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den verbeulten, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+],
+*/
+klauben: [
+	'<strong>klauben</strong>: gather, collect, select, pick out'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klauben"target="target1">klauben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klauben"target="target2">klauben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klauben"target="target3">klauben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klauben"target="target4">klauben</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',
+	'Während einer der Wärter Hannahs Arme nach hinten auf den Boden drückte und der andere sich mit seinem ganzen Gewicht auf ihre zappelnden Beine warf, <strong>klaubte</strong> Oberschwester Ingeborg dem Mädchen das Foto aus der Hand. (<i>Märzgefallene</i>, 48)' ,
+	'<u>Lunapark</u>',
+	'Gräf <strong>klaubte</strong> die Fotos vom Schreibtisch, stauchte sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück.  (<i>Lunapark</i>, 60)' ,
+	'Der alte Herr hatte seinen Homburg inzwiscen von der Straße <strong>geklaubt</strong> und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den verbeulten, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+Eintänzer: [
+	'<strong>Eintänzer</strong>: professional male dancing partner'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Eintaenzer"target="target1">Eintänzer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Eint%C3%A4nzer"target="target2">Eintänzer</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Eint%C3%A4nzer"target="target3">Eintänzer</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Eint%C3%A4nzer"target="target4">Eintänzer</a>',
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Na, die letzten Jahre hat der Leutnant sich aber nicht mehr allzusehr um seinen treuen Heinrich gekümmert." <i>Grimberg</i>: "Das glaube ich gerne. Der hatte doch selber genug zu tun, um sich über Wasser zu halten, unser Herr Gigolo." Rath: "Roddeck ist <strong>Eintänzer</strong>?" (<i>Märzgefallene</i>, 275)',
+	'Die Musik spielte bereits, und auch der Saal war schon gut gefüllt.... An den Tischen saßen überwiegend Damen, von denen die meisten erwartungsfrohe Gesichter aufgesetzt hatten. Sie sollten nicht enttäuscht werden, schon bald standen die ersten Kavaliere vor ihnen und führten sie zum Parkett. Es schien Charly, als würden sich die <strong>Eintänzer</strong> genau die Frauen herauspicken, die am sehnsüchtigsten auf einen Tanz warteten.  (<i>Märzgefallene</i>, 275)' ,
+	'"Danke", sagte sie (<i>Charly</i>) und schüttelte seine (<i>Bertrands</i>) Hand. "Hoffentlich ist Ihr Kollege nicht so diskret wie Sie." "Diskret", sagte er... "diskret sind wir <strong>Eintänzer</strong> nur, was unsere Kundinnen angeht... Über Kollegen <strong>klatschen</strong> wir, was das Zeug hält...."  (<i>Märzgefallene</i>, 308)' ,
+	'Die <strong>Eintänzer</strong> im Hotel Eden waren ein bunt zusammengewürfelter Haufen, das Einzige, was sie alle miteinander gemain hatten, waren geschliffene Manieren und ein mehr oder weniger angenehmes Äußeres.  (<i>Märzgefallene</i>, 313)' ,
+	'<u>Lunapark</u>',
+	'<i>Lange</i>: "Da war noch etwas. Bei Kaczmarek. In seinem Kleiderschrank. Ein Abendanzug. Maßgeschneidert und vom Feinsten. Und wie ein <strong>Eintänzer</strong> sah der Mann ja nich unbedingt aus. Oder wie jemand, der regelmäßig in die Oper geht."  (<i>Lunapark</i>, 71)' ,
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+'Klatsch, klatschen': [
+	'der <strong>Klatsch</strong>,-<strong>e</strong>: gossip'+
+	'<br><strong>klatschen</strong>: clap, applaud; smack; blabber, gossip'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klatsch"target="target1">Klatsch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klatschen"target="target2">klatschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/>Klatsch"target="target3">Klatsch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klatschen"target="target4">klatschen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Er schrie, noch bevor er mit dem Oberkörper auf den Betonboden <strong>klatschte</strong> und die Erschütterung des Aufpralls den Schmerz auch in seinen Händen zu alter Größe heranwachsen ließ. (<i>Der nasse Fisch</i>, 11-12)' ,
+	'Der Wagen musste ohne Licht aus dem Dunkel gekommen sein, erst ein lautes Krachen hatte sie aufgeschreckt. Fräulein Wegener hatte gerade noch mitbekommen, wie der Motor aufheulte und die Räder durchdrehten, bevor der Wagen mit einem lauten <strong>Klatschen</strong> auf die Wasseroberfläche prallte.  (<i>Der nasse Fisch</i>, 62)',
+	'<u>Märzgefallene</u>',   
+	'"Danke", sagte sie (<i>Charly</i>) und schüttelte seine (<i>Bertrands</i>) Hand. "Hoffentlich ist Ihr Kollege nicht so diskret wie Sie." "Diskret", sagte er.... "diskret sind wir Eintänzer nur, was unsere Kundinnen angeht... Über Kollegen <strong>klatschen</strong> wir, was das Zeug hält..."  (<i>Märzgefallene</i>, 308)' ,
+	'Dann erst, in den Applaus hinein, mit dem das Publikum die Lesung belohnte, betrat Achim Freiherr von Roddeck die Bühne... Er verbeugte sich, was den Applaus sofort wieder anschwellen ließ. Erst als auch der Letzte im Saal mit <strong>Klatschen</strong> aufgehört hatte, trat Roddeck an das Rednerpult.. und ergriff das Wort.  (<i>Märzgefallene</i>, 477)' ,
+	'Erika Voss brachte die Neuigkeit mit, als sie von der Mittagspause zurück ins Büro kam. Keine amtliche Nachricht, nur der normale <strong>Klatsch</strong> aus der Kantine.  (<i>Märzgefallene</i>, 494)' ,
+//	'<u>Lunapark</u>',   
+],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 kundschaften: [
 	'<strong>kundschaften</strong>: scout, reconnoiter'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kundschaften"target="target1">kundschaften</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kundschaften"target="target2">kundschaften</a>'+
@@ -2670,16 +2719,6 @@ einstecken: [
 	'<u>Märzgefallene</u>',
 	'Totschlagen wollten sie (<i>SA-Leute</i>) ihn (<i>Leo</i>) wohl nicht, obwohl es ein paarmal fast danach ausgesehen hatte und sie gerade noch rechtzeitig aufgehört hatten mit ihren Tritten und den Eisenstangenschlägen. Leo konnte <strong>einstecken</strong>, das war sein Glück. So schnell würden die ihn nicht kleinkriegen. (<i>Märzgefallene</i>, 218)' ,
 ],
-Eintänzer: [
-	'der <strong>Eintänzer</strong>,-: &nbsp;professional male dancing partner <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Eintaenzer"target="target1">Eintänzer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Eint%C3%A4nzer"target="target2">Eintänzer</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Eint%C3%A4nzer"target="target3">Eintänzer</a>    ' ,
-	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Na, die letzten Jahre hat der Leutnant sich aber nicht mehr allzusehr um seinen treuen Heinrich gekümmert." <i>Grimberg</i>: "Das glaube ich gerne. Der hatte doch selber genug zu tun, um sich über Wasser zu halten, unser Herr Gigolo." Rath: "Roddeck ist <strong>Eintänzer</strong>?"   (<i>Märzgefallene</i>, 275)',
-	'Die Musik spielte bereits, und auch der Saal war schon gut gefüllt.... An den Tischen saßen überwiegend Damen, von denen die meisten erwartungsfrohe Gesichter aufgesetzt hatten. Sie sollten nicht enttäuscht werden, schon bald standen die ersten Kavaliere vor ihnen und führten sie zum Parkett. Es schien Charly, als würden sich die <strong>Eintänzer</strong> genau die Frauen herauspicken, die am sehnsüchtigsten auf einen Tanz warteten.  (<i>Märzgefallene</i>, 275)' ,
-	'"Danke", sagte sie (<i>Charly</i>) und schüttelte seine (<i>Bertrands</i>) Hand. "Hoffentlich ist Ihr Kollege nicht so diskret wie Sie." "Diskret", sagte er.... "diskret sind wir <strong>Eintänzer</strong> nur, was unsere Kundinnen angeht..... Über Kollegen klatschen wir, was das Zeug hält...."     (<i>Märzgefallene</i>, 308)' ,
-	'Die <strong>Eintänzer</strong> im Hotel Eden waren ein bunt zusammengewürfelter Haufen, das Einzige, was sie alle miteinander gemain hatten, waren geschliffene Manieren und ein mehr oder weniger angenehmes Äußeres.  (<i>Märzgefallene</i>, 313)' ,
-	'<u>Lunapark</u>',
-	'<i>Lange</i>: "Da war noch etwas. Bei Kaczmarek. In seinem Kleiderschrank. Ein Abendanzug. Maßgeschneidert und vom Feinsten. Und wie ein <strong>Eintänzer</strong> sah der Mann ja nich unbedingt aus. Oder wie jemand, der regelmäßig in die Oper geht."  (<i>Lunapark</i>, 71)' ,
-],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Tür Straße für über überhaupt schön zurück können würde <strong> ä Ä ö Ö ü Ü ß für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü  ß <strong> (<i>Charly</i>) (<i>Gereon</i>) ä Ä ö Ö ü Ü ß           
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 eintüten: [
@@ -4505,9 +4544,11 @@ Krake: [
 	'<i>der Engel</i>: "Sie sind ein ganz Süßer, wissen Sie das?" <i>Rath</i>: "Da sind Sie nicht die Erste, der das auffällt." Er versuchte, sich von ihren Armen zu befreien, doch das war ungefähr so vergeblich wie der Kampf gegen eine Riesen<strong>krake</strong>.   (<i>Der nasse Fisch</i>, 202)'  ,
 ],
 klebrig: [
-	'<strong>klebrig</strong>: &nbsp;sticky, gluey, syrupy; dubious, shady; adhesive <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klebrig"target="target1">klebrig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klebrig"target="target2">klebrig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klebrig"target="target3">klebrig</a> ' ,
+	'<strong>klebrig</strong>: sticky, gluey; dubious, shady'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klebrig"target="target1">klebrig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klebrig"target="target2">klebrig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klebrig"target="target3">klebrig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klebrig"target="target3">klebrig</a>',
 	'<u>Der nasse Fisch</u>',
-	'<i>Schnucki</i>: "Du hast recht, mein Engel... Das hier ist ja ein ganz biederer Amüsierbetrieb... Nicht mal Champagner, nur <strong>klebriger</strong> Sekt.  (<i>Der nasse Fisch</i>, 198)' ,
+	'<i>Schnucki</i>: "Du hast recht, mein Engel... Das hier ist ja ein ganz biederer Amüsierbetrieb... Nicht mal Champagner, nur <strong>klebriger</strong> Sekt.  (<i>Der nasse Fisch</i>, 198)',
 //	'<u>Märzgefallene</u>',
 ],
 'Kirschen essen': [
@@ -4541,7 +4582,9 @@ Korbstuhl: [
 //	'<u>Märzgefallene</u>',
 ],
 'kleistern, Kleister': [
-	'<strong>kleistern</strong>: to paste, glue  &nbsp;&nbsp;der <strong>Kleister</strong>,-: paste, glue, cement <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/kleistern"target="target1">kleistern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kleistern"target="target2">kleistern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kleistern"target="target3">kleistern</a> ',
+	'<strong>kleistern</strong>: to paste, glue; slap so. <br>der <strong>Kleister</strong>,-: paste, glue, cement'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kleistern"target="target1">kleistern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kleister"target="target2">Kleister</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kleistern"target="target3">kleistern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kleister"target="target4">Kleister</a> ',
 	'<u>Märzgefallene</u>',
 	'Im Verkaufsraum standen Belegschaft und Kunden dicht beisammen und tuschelten. Der Grund für die Aufregung befand sich draußen. Vor dem Schaufenster hatten sich zwei Braunhemden aufgestellt. Einer rollte ein Plakat aus und machte Anstalten, es an die Eingangstür zu <strong>kleistern</strong>.  (<i>Märzgefallene</i>, 457)' ,
 	'Dann ging sie (<i>Eva Heinen</i>) hinaus vor die Tür... Mit dem Öffnen der Glastür brachte sie den SA-Mann, der mit dem Kleben noch nicht ganz fertig war, aus dem Gleichgewicht, so dass er aus Versehen in seinen <strong>Kleister</strong>quast fasste. "Was machen Sie da?", fragte sie den Plakatekleber, doch der fluchte nur leise vor sich hin und zog ein Taschentuch hervor, um sich die voll<strong>gekleisterte</strong> Hand zu säubern. (<i>Märzgefallene</i>, 457)' ,
@@ -4742,9 +4785,11 @@ Knarre: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klapprig: [
-	'<strong>klapprig</strong> oder <strong>klapperig</strong>: &nbsp;shaky, rickety; weak, feeble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klapprig"target="target1">klapprig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klapprig"target="target2">klapprig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klapprig"target="target3">klapprig</a> ' ,
+	'<strong>klapprig</strong>/<strong>klapperig</strong>: shaky, rickety; weak, feeble'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klapprig"target="target1">klapprig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klapprig"target="target2">klapprig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klapprig"target="target3">klapprig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klapprig"target="target4">klapprig</a>',
 	'<u>Der nasse Fisch</u>',
-	'Ein kräftiger Tritt hätte gereicht, um die <strong>klapprige</strong> Tür in den Raum fliegen zu lassen, doch Wolter schob den Bereitschaftsführer beiseite. Rath sah, wie der Onkel einen Dietrich aus der Manteltasche zog und sich am Schloss zu schaffen machte.  (<i>Der nasse Fisch</i>, 18-19)' ,
+	'Ein kräftiger Tritt hätte gereicht, um die <strong>klapprige</strong> Tür in den Raum fliegen zu lassen, doch Wolter schob den Bereitschaftsführer beiseite. Rath sah, wie der Onkel einen Dietrich aus der Manteltasche zog und sich am Schloss zu schaffen machte.  (<i>Der nasse Fisch</i>, 18-19)',
 ],
 klitzeklein: [
 	'<strong>klitzeklein</strong>: &nbsp;tiny, teensy-weensy  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klitzeklein"target="target1">klitzeklein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klitzeklein"target="target2">klitzeklein</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klitzeklein"target="target3">klitzeklein</a> ' ,
@@ -4951,43 +4996,38 @@ klamm: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klappern: [
-	'<strong>klappern</strong>: &nbsp;rattle, clatter, click <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klappern"target="target1">klappern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klappern"target="target2">klappern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klappern"target="target3">klappern</a> ',
+	'<strong>klappern</strong>: rattle, clatter, click'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klappern"target="target1">klappern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klappern"target="target2">klappern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klappern"target="target3">klappern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klappern"target="target4">klappern</a>',
 	'<u>Der nasse Fisch</u>',
-	'Ihre (<i>Charlys</i>) Schritte <strong>klapperten</strong> schnell und energisch über den Steinboden des langen Korridors. (<i>Der nasse Fisch</i>, 34)' ,
-	'Als Rath am Samstagmorgen ins Burö kam... saß Wolter bereits an seinem Platz und hämmerte auf die Schreibmaschine ein.... <i>Rath</i>: "Stephan noch nicht da?" <i>Wolter</i>: "Kommt heute nicht. Die Politischen riefen eben an." Die Schreibmaschine <strong>klapperte</strong> weiter, während Wolter redete. (<i>Der nasse Fisch</i>, 98-99)' ,
-	'Schnell drehte er (<i>Rath</i>) sich um und ging in den Trakt der Sittenpolizei... Auch auf ihrem Gang war alles ruhig, kein Geräusch drang aus den Büros, keine Stimmen, kein Schreibmaschinen<strong>klappern</strong>.  (<i>Der nasse Fisch</i>, 142)' ,
-	'Schmittchen, ihre Sekretärin, hatte bereits Kaffee gekocht. Aus dem Vorzimmer hörte man das unentwegte <strong>Klappern</strong> ihrer Schreibmaschine. (<i>Der nasse Fisch</i>, 175)' ,
+	'Ihre (<i>Charlys</i>) Schritte <strong>klapperten</strong> schnell und energisch über den Steinboden des langen Korridors. (<i>Der nasse Fisch</i>, 34)',
+	'Als Rath am Samstagmorgen ins Burö kam... saß Wolter bereits an seinem Platz und hämmerte auf die Schreibmaschine ein.... <i>Rath</i>: "Stephan noch nicht da?" <i>Wolter</i>: "Kommt heute nicht. Die Politischen riefen eben an." Die Schreibmaschine <strong>klapperte</strong> weiter, während Wolter redete. (<i>Der nasse Fisch</i>, 98-99)',
+	'Schnell drehte er (<i>Rath</i>) sich um und ging in den Trakt der Sittenpolizei... Auch auf ihrem Gang war alles ruhig, kein Geräusch drang aus den Büros, keine Stimmen, kein Schreibmaschinen<strong>klappern</strong>.  (<i>Der nasse Fisch</i>, 142)',
+	'Schmittchen, ihre Sekretärin, hatte bereits Kaffee gekocht. Aus dem Vorzimmer hörte man das unentwegte <strong>Klappern</strong> ihrer Schreibmaschine. (<i>Der nasse Fisch</i>, 175)',
 	'<u>Märzgefallene</u>',
-	'In der Küche zischte irgendetwas, und Charly verschwand so schnell, wie sie erschienen war. Rath hörte Töpfe <strong>klappern</strong> und leises Fluchen. Er beschloss, besser nicht zu stören, und ging direkt ins Wohnzimmer.  (<i>Märzgefallene</i>, 101-102)' ,
-	'In der Küche <strong>klapperte</strong> Geschirr. (<i>Märzgefallene</i>, 103)' ,
-	'Als sie (<i>Hannah</i>) aufwachte, kitzelte die Sonne, die durchs Fenster schien, ihre Nase, und sie hörte Geschirr <strong>klappern</strong>. Aus der Küche nebenan zog Kaffeeduft zu ihr ins Bett. (<i>Märzgefallene</i>, 391)' ,
-	'Geräusche, die sie (<i>Hannah</i>) bislang gar nicht bemerkt hatte, kamen ihr mit einem Mal sehr laut vor. Der Wind, der irgendwo ein Blech <strong>klappern</strong> ließ. (<i>Märzgefallene</i>, 397)' ,
+	'In der Küche zischte irgendetwas, und Charly verschwand so schnell, wie sie erschienen war. Rath hörte Töpfe <strong>klappern</strong> und leises Fluchen. Er beschloss, besser nicht zu stören, und ging direkt ins Wohnzimmer.  (<i>Märzgefallene</i>, 101-102)',
+	'In der Küche <strong>klapperte</strong> Geschirr. (<i>Märzgefallene</i>, 103)',
+	'Als sie (<i>Hannah</i>) aufwachte, kitzelte die Sonne, die durchs Fenster schien, ihre Nase, und sie hörte Geschirr <strong>klappern</strong>. Aus der Küche nebenan zog Kaffeeduft zu ihr ins Bett. (<i>Märzgefallene</i>, 391)',
+	'Geräusche, die sie (<i>Hannah</i>) bislang gar nicht bemerkt hatte, kamen ihr mit einem Mal sehr laut vor. Der Wind, der irgendwo ein Blech <strong>klappern</strong> ließ. (<i>Märzgefallene</i>, 397)',
 ],
 Klapsmühle: [
-	'die <strong>Klapsmühle</strong>,-<strong>n</strong>: &nbsp;looney bin, nuthouse <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klapsmuehle"target="target1">Klapsmühle</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klapsmuhle?q=Klapsm%C3%BChle"target="target2">Klapsmühle</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klapsmuhle"target="target3">Klapsmühle</a> ' ,
+	'die <strong>Klapsmühle</strong>,-<strong>n</strong>: looney bin, nuthouse'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klapsmuehle"target="target1">Klapsmühle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klapsm%C3%BChle"target="target2">Klapsmühle</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klapsmuhle?q=Klapsm%C3%BChle"target="target3">Klapsmühle</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klapsmuhle"target="target4">Klapsmühle</a>',
 	'<u>Märzgefallene</u>',
-	'Sie (<i>Hannah</i>) musste raus hier, raus aus dem Gebäude, raus aus der Anstalt, bevor ein Wärter aufkreuzte.  Sie musste endlich raus aus dieser beschissenen <strong>Klapsmühle</strong>, in die sie  überhaupt nicht gehörte.  (<i>Märzgefallene</i>, 69) ' ,
-],
-klatschen: [
-	'<strong>klatschen</strong>: &nbsp;clap, applaud; smack; blabber, gossip <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klatschen"target="target1">klatschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klatschen"target="target2">klatschen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klatschen"target="target3">klatschen</a> ' ,
-	'<u>Der nasse Fisch</u>',
-	'Er schrie, noch bevor er mit dem Oberkörper auf den Betonboden <strong>klatschte</strong> und die Erschütterung des Aufpralls den Schmerz auch in seinen Händen zu alter Größe heranwachsen ließ. (<i>Der nasse Fisch</i>, 11-12)' ,
-],
-klauben: [
-	'<strong>klauben</strong>: &nbsp;gather, collect, select, pick out <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klauben"target="target1">klauben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klauben"target="target2">klauben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klauben"target="target3">klauben</a> ' ,
-	'<u>Märzgefallene</u>',
-	'Während einer der Wärter Hannahs Arme nach hinten auf den Boden drückte und der andere sich mit seinem ganzen Gewicht auf ihre zappelnden Beine warf, <strong>klaubte</strong> Oberschwester Ingeborg dem Mädchen das Foto aus der Hand. (<i>Märzgefallene</i>, 48)' ,
-	'<u>Lunapark</u>',
-	'Gräf <strong>klaubte</strong> die Fotos vom Schreibtisch, stauchte sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück.  (<i>Lunapark</i>, 60)' ,
-	'Der alte Herr hatte seinen Homburg inzwiscen von der Straße <strong>geklaubt</strong> und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den verbeulten, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+	'Sie (<i>Hannah</i>) musste raus hier, raus aus dem Gebäude, raus aus der Anstalt, bevor ein Wärter aufkreuzte.  Sie musste endlich raus aus dieser beschissenen <strong>Klapsmühle</strong>, in die sie  überhaupt nicht gehörte.  (<i>Märzgefallene</i>, 69)',
 ],
 Klaue: [
-	'die <strong>Klaue</strong>,-<strong>n</strong>: &nbsp;claw <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klaue_Kralle"target="target1">Klaue</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klaue?q=Klaue"target="target2">Klaue</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klaue"target="target3">Klaue</a> ' ,
+	'die <strong>Klaue</strong>,-<strong>n</strong>: claw'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klaue_Kralle"target="target1">Klaue</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klaue"target="target2">Klaue</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klaue?q=Klaue"target="target3">Klaue</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klaue"target="target4">Klaue</a>',
+//	'<u>Der nasse Fisch</u>',   
 	'<u>Märzgefallene</u>',
 	'"Herr Juretzka ist ein wichtiger Zeuge in einer Mordermittlung, die ich gerade führe", sagte Rath und wusste selbst nicht, welcher Teufel ihn ritt. Er wusste nur, das er den armen Kerl da auf dem Stuhl irgendwie aus den <strong>Klauen</strong> der SA befreien musste. (<i>Märzgefallene</i>, 231)' ,
+//	'<u>Lunapark</u>',   
 ],
-// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 Klemme: [
 	'die <strong>Klemme</strong>,-<strong>n</strong>: &nbsp;clip, fastener, clamp; &nbsp;awkward position, tight spot, dilemma <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klemme"target="target1">Klemme</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klemme?q=Klemme"target="target2">Klemme</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klemme"target="target3">Klemme</a> ' ,
 	'<u>Der nasse Fisch</u>',

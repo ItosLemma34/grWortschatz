@@ -39,14 +39,14 @@ const k = [
    'Klammer, klammern', // *
    'klammheimlich', // klammheimlich: *
    'Klappe', // Klappe: *
-   'klappern',  // klappern:
-   'klapprig',  //klapprig: 
-   'Klapsmühle', //Klapsmühle:
-   'klatschen',  //klatschen:
-   'klauben', //klauben:
-   'Klaue',  //Klaue:
-   'klebrig', //klebrig:
-   'kleistern, Kleister', //
+   'klappern',  // klappern: *
+   'klapprig',  // klapprig:  *
+   'Klapsmühle', // Klapsmühle: *
+   'Klatsch, klatschen',  // *
+   'klauben', // klauben:  *
+   'Klaue',  // Klaue: *
+   'klebrig', // klebrig: *
+   'kleistern, Kleister', // *
    'Klemme',  //Klemme:
    'klemmen', //klemmen:
    'Klette',  //Klette:

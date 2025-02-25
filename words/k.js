@@ -47,11 +47,10 @@ const k = [
    'Klaue',  // Klaue: *
    'klebrig', // klebrig: *
    'kleistern, Kleister', // *
-   'Klemme',  //Klemme:
-   'klemmen', //klemmen:
-   'Klette',  //Klette:
+   'Klemme, klemmen',  // *
+   'Klette',  // Klette: *
    'klimpern', // klimpern: *
-   'Klinge', //  Klinge:
+   'Klinge', //  Klinge: *
    'Klippe', //  Klippe:
    'klirren', // klirren:
    'klitzeklein', //klitzeklein:

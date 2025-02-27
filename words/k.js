@@ -51,25 +51,25 @@ const k = [
    'Klette',  // Klette: *
    'klimpern', // klimpern: *
    'Klinge', //  Klinge: *
-   'Klippe', //  Klippe:
-   'klirren', // klirren:
-   'klitzeklein', //klitzeklein:
+   'Klippe', //  Klippe: *
+   'klirren', // klirren: *
+   'klitzeklein', // klitzeklein: *
    'Kloß',   // Kloß: *
    'Klumpen, Klumpfuß',  // *
-   'Klüngel',  //Klüngel:
+   'Klüngel',  // Klüngel: *  
    'knallen', // knallen: *
-   'Knarre',  // Knarre:
+   'Knarre',  // Knarre: *
    'knarren', // knarren: *
-   'knarzen', // knarzen:
-   'knattern', // knattern:
-   'Knäuel',  // Knäuel:
-   'Knauf',  // Knauf:
-   'knebeln', //knebeln:
-   'kneifen', // kneifen:
-   'kneten', // kneten:
-   'kniff(e)lig', // 'kniff(e)lig'   *
-   'Knirps', // Knirps:
-   'knirschen', // knirschen  
+   'knarzen', // knarzen: *
+   'knattern', // knattern: *
+   'Knäuel',  // Knäuel: *
+   'Knauf',  // Knauf: *
+   'knebeln', //knebeln: *
+   'kneifen', // kneifen: *
+   'kneten', // kneten: *
+   'kniff(e)lig', // 'kniff(e)lig' *
+   'Knirps', // Knirps: *
+   'knirschen', // knirschen: * 
    'knistern', // knistern:
    'Knöchel',  // Knöchel: 
    'Knochen/Kopf hinhalten', //

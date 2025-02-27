@@ -1,6 +1,6 @@
 import { allWords } from './getWordsList.js';
 import { wordExamples } from './wordExamples.js';
-
+"use strict";
 document.addEventListener('DOMContentLoaded', function () {
 	const dropdown = document.getElementById('wordDropdown');
 

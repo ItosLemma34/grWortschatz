@@ -10,9 +10,9 @@
 <body>
     <header>
         <div class="main-header">
-            <a class="return" href="help.html" onclick="saveCurrentWord()"><i>Info/Help</i></a>
+            <a class="return" href="help.html" onclick="saveCurrentWord()"><i>INFO</i></a>
             <h3>Gereon-Rath-Krimis: Wortschatz und Redewendungen</h3>
-            <a class="return" href="help.html" onclick="saveCurrentWord()"><i>Info/Help</i></a>
+            <a class="return" href="help.html" onclick="saveCurrentWord()"><i>INFO</i></a>
         </div>
     </header>
     
@@ -30,6 +30,7 @@
 
     <script src="script.js" type="module"></script>
     <script>
+        "use strict";
         function saveCurrentWord() {
             const currentWord = document.getElementById('wordDropdown').value;
             sessionStorage.setItem('returnWord', currentWord);

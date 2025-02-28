@@ -12,6 +12,18 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)',
 */
+
+knistern: [
+	'<strong>knistern</strong>: crackle, creak, rustle'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knistern"target="target1">knistern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knistern"target="target2">knistern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knistern"target="target3">knistern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knistern"target="target4">knistern</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',
+	'Auf dem Holzsitz gegenüber lag eine Zeitung, die ein Fahrgast dort liegengelassen haben musste. Charly griff danach und faltete das <strong>knisternde</strong> Papier auseinander. (<i>Märzgefallene</i>, 190)' ,
+	'Porzellan klimperte, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das <strong>Knistern</strong> des Papiers zu hören.  (<i>Märzgefallene</i>, 500)' ,
+	'<u>Lunapark</u>',
+	'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, <strong>knisterndes</strong> Zeitungspapier, das Klimpern eines Löffels, der leise gegen den Tassenrand schlug.  (<i>Lunapark</i>, 28)' ,
+],
 kneifen: [
 	'<strong>kneifen (sich)</strong>: pinch; chicken out'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kneifen"target="target1">kneifen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kneifen"target="target2">kneifen</a>'+
@@ -4522,7 +4534,9 @@ Kinkerlitzchen: [
 	'Endlich machte auch Pfeiffer einen Schritt ins Zimmer hinein, wirkte jedoch immer noch unschlüssig, was zu tun war und ob er sich an der Durchsuchung überhaupt beteiligen sollte. Ein komischer <strong>Kauz</strong>, wie Lange fand. Aber einer von der SS, man musste auf der Hut sein.   (<i>Lunapark</i>, 45)' ,
 ],
 knüllen: [
-	'<strong>knüllen</strong>: &nbsp;crease, crumple <br>Deutsche Definition: &nbsp;<a href ="https://www.duden.de/rechtschreibung/knuellen"target="target1">knüllen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/kn%C3%BCllen"target=target2>knüllen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kn%C3%BCllen"target=target3>knüllen</a>',
+	'<strong>knüllen</strong>: wrinkle, crease, crumple'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/knuellen"target="target1">knüllen</a> &nbsp;<a href="https://www.dwds.de/wb/kn%C3%BCllen"target="target2">knüllen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/kn%C3%BCllen"target=target3>knüllen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/kn%C3%BCllen"target=target4>knüllen</a>',
 	'<u>Lunapark</u>',
 	'Kleidung lag verstreut auf dem Boden.. Vor dem Bett leere Bierflaschen und ein überquellender Aschenbecher, eine zusammen<strong>geknüllte</strong> Papiertüte...   (<i>Lunapark</i>, 42-43)' ,
 ],
@@ -4764,11 +4778,13 @@ kitzeln: [
 	'Als sie (<i>Hannah</i>) aufwachte, <strong>kitzelte</strong> die Sonne, die durchs Fenster schien, ihr Nase, und sie hörte Gechirr klappern.  (<i>Märzgefallene</i>, 391)',
 ],
 knuffen: [
-	'<strong>knuffen</strong>: to poke, nudge  &nbsp;&nbsp;der <strong>Knuff</strong>, die <strong>Knüffe</strong>: poke, nudge <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knuffen"target="target1">knuffen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knuffen"target="target2">knuffen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=knuffen"target="target3">knuffen</a> ' ,
+	'<strong>knuffen</strong>: to poke, nudge<br>der <strong>Knuff</strong>, die <strong>Knüffe</strong>: a poke, nudge'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knuffen"target="target1">knuffen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knuffen"target="target2">knuffen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/knuffen"target="target3">knuffen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=knuffen"target="target4">knuffen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath drehte sich um. Oppenberg, der Filmfritze aus dem <i>Venuskeller</i>, strahlte ihn an.. "Machen Sie sich mal keine Sorgen", flüsterte er. "Die Bullen lassen uns schon wieder gehen.. Der Kerl war genauso redselig wie bei ihrer ersten Begegung. <i>Oppenberg</i>: "Wo hat man Sie (<i>Rath</i>) aufgegabelt?..." Er <strong>knuffte</strong> Rath in die Seite, während er sich umschaute.  (<i>Der nasse Fisch</i>, 254)',
 	'<u>Märzgefallene</u>',
-	'<i>das ärztliches Attest für Charly</i>: "Zwei Wochen arbeitsunfähig." Er (<i>Gereon</i>) schüttelte den Kopf. "Habe gar nicht gemerkt, dass du so krank bist. Gestern Abend jedenfalls nicht." Er <strong>knuffte</strong> sie in die Seite, doch sie wehrte ihn ab. "Lass deine Witze."  (<i>Märzgefallene</i>, 385)' ,
+	'<i>das ärztliches Attest für Charly</i>: "Zwei Wochen arbeitsunfähig." Er (<i>Gereon</i>) schüttelte den Kopf. "Habe gar nicht gemerkt, dass du so krank bist. Gestern Abend jedenfalls nicht." Er <strong>knuffte</strong> sie in die Seite, doch sie wehrte ihn ab. "Lass deine Witze."  (<i>Märzgefallene</i>, 385)',
 ],
 Kelch: [
 	'der <strong>Kelch</strong>,-<strong>e</strong>: cup, goblet, chalice (for Eucharist)' +
@@ -4796,7 +4812,9 @@ Kelch: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',       
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Knüller: [
-	'der <strong>Knüller</strong>,-: &nbsp; success, big hit, sensation; (press): scoop <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueller"target="target1">Knüller</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knuller"target="target2">Knüller</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kn%C3%BCller"target="target3">Knüller</a> ' ,
+	'der <strong>Knüller</strong>,-: big hit, sensation; (press) scoop'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueller"target="target1">Knüller</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kn%C3%BCller"target="target2">Knüller</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/knueller#Kn%C3%BCller"target="target3">Knüller</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/knueller"target="target4">Knüller</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Wolter</i>: "Ist aber gar nicht so einfach, da (<i>in die Mordkommission</i>) reinzukommen, Gennats Leute sind handverlesen. Da musst du schon einen <strong>Knüller</strong> hinlegen. Einen echten <strong>Knüller</strong>. Ein fickener Kaiser reicht da nicht."   (<i>Der nasse Fisch</i>, 32)' ,
 	'Vielleicht war das seine Chance. Warum sollte er (<i>Rath</i>) die nicht nutzen? Darauf kam es doch an im Leben. Die Chancen sehen und sie ergreifen. Er musste an Brunos Worte denken. <i>Gennats Truppe ist handverlesen. Um da reinzukommen, muss man einen echten <strong>Knüller</strong> landen</i>.  (<i>Der nasse Fisch</i>, 91)' ,
@@ -4851,11 +4869,13 @@ knarren: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür übehaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Köder: [
-	'der <strong>Köder</strong>,-: &nbsp;bait, lure <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Koeder"target="target1">Köder</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/koder?q=K%C3%B6der"target="target2">Köder</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=K%C3%B6der"target="target3">Köder</a> ' ,
+	'der <strong>Köder</strong>,-: bait, lure'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Koeder"target="target1">Köder</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/K%C3%B6der"target="target2">Köder</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/koder?q=K%C3%B6der"target="target3">Köder</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=K%C3%B6der"target="target4">Köder</a> ' ,
 	'<u>Märzgefallene</u>',
 	'Ja, sie (<i>Hannah</i>) hatte tatsächlich so was wie Sehnsucht nach ihm (<i>Fritze</i>) gespürt, wäre am liebsten zu ihm hingelaufen.... Aber das ging nicht. Huckebein hatte sie womöglich zusammen gesehen. Benutzte Fritze vielleicht als <strong>Köder</strong>, um an sie heranzukommen. (<i>Märzgefallene</i>, 320)' ,
 	'Hätte Grimberg ihn (<i>Roddeck</i>) nicht dazu ermuntert, er hätte das Manuskript wohl erst in ein paar Jahren beendet. Oder nie. Erst die Aussicht, über eine Veröffentlichung vielleicht doch noch an das Alberichgold zu kommen, hatte ihn das Werk vollenden lassen. Ein <strong>Köder</strong> hatte es sein sollen, doch wenn das Buch sich weiterhin so gut verkaufte, würde er das Gold gar nicht mehr brauchen. (<i>Märzgefallene</i>, 556)' ,
-	'Er (<i>Roddeck</i>) hatte sich verdammt weit aus dem Fenster gelehnt mit seinen Lügen, die er der Welt als Wahrheit verkauft hatte. Grimbers tolle Idee. "Wer fischen will, braucht den richtigen <strong>Köder</strong>", hatte der Feldwebel gesagt. (<i>Märzgefallene</i>, 564)' ,
+	'Er (<i>Roddeck</i>) hatte sich verdammt weit aus dem Fenster gelehnt mit seinen Lügen, die er der Welt als Wahrheit verkauft hatte. Grimbergs tolle Idee. "Wer fischen will, braucht den richtigen <strong>Köder</strong>", hatte der Feldwebel gesagt. (<i>Märzgefallene</i>, 564)' ,
 ],
 'Korb (einen K. bekommen)': [
 	'<strong>einen Korb bekommen</strong>: get the brush-off; &nbsp;<strong>jmdm. einen Korb geben</strong>: turn so. down <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Korb%20bekommen"target="target1">einen Korb bekommen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=einen+Korb+bekommen"target="target2">einen Korb bekommen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/einen%20korb%20bekommen"target="target3">einen Korb bekommen</a> ' ,
@@ -5196,14 +5216,22 @@ knallen: [
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Knöchel: [
-	'der <strong>Knöchel</strong>,-: &nbsp;ankle (Fuß<strong>knöchel</strong>); &nbsp;knuckle (Finger<strong>knöchel</strong>) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knoechel"target="target1">Knöchel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kn%C3%B6chel"target="target2">Knöchel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knochel"target="target3">Knöchel</a> ' ,
+Knöchel: [  
+	'der <strong>Knöchel</strong>,-: ankle; knuckle'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knoechel"target="target1">Knöchel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kn%C3%B6chel"target="target2">Knöchel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kn%C3%B6chel"target="target3">Knöchel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knochel"target="target4">Knöchel</a>',
+	'<u>Der nasse Fisch</u>',
+	'Wie sollte er (<i>Gereon</i>) ihr (<i>Charly</i>) aus dem Weg gehen, wenn er nicht wusste, wohin sie gegangen war? Und dann hatte sich die Frage erübrigt. Zuerst sah er nur ihren Mantel und ihre schlanken <strong>Knöchel</strong> unter dem Zeitungsständer näherkommen, dann stand sie in Gänze vor ihm.  (<i>Der nasse Fisch</i>, 117)',
+	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 	'<u>Märzgefallene</u>',
-	'Die Schwester erwischte Hannahs <strong>Knöchel</strong>, umklammerte sie mit beiden Armen und brachte das zierliche Mädchen zu Fall. Hannah schrie und zappelte, doch es half ihr nichts.  (<i>Märzgefallene</i>, 48)' ,
-   '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummiknüppelschlag auf die ohnehin schon geschwollenen Finger<strong>knöchel</strong>. (<i>Märzgefallene</i>, 112)' ,
+	'Die Schwester erwischte Hannahs <strong>Knöchel</strong>, umklammerte sie mit beiden Armen und brachte das zierliche Mädchen zu Fall. Hannah schrie und zappelte, doch es half ihr nichts.  (<i>Märzgefallene</i>, 48)',
+    '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummiknüppelschlag auf die ohnehin schon geschwollenen Finger<strong>knöchel</strong>. (<i>Märzgefallene</i>, 112)',
+	'Wenigstens zeigten ihm (<i>Rath</i>) die Mündungsblitze (<i>der Pistole</i>), dass Roddeck nicht weit war, Rath sah dessen Silhouette, wie sie sich vor dem schummrigen Licht am Ende des Tunnels abzeichnete... Er beschleunigte und setzte zu einem Hechtsprung an, bekam die <strong>Knöchel</strong> des Fliehenden zu fassen und brachte ihn zu Fall.  (<i>Märzgefallene</i>, 577)' ,
 ],
 'Knochen/Kopf hinhalten': [
-	'<strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck <br>Deutsche Definition:&nbsp;&nbsp;<a href="https:www.openthesaurus.de/synonyme/seine%20Knochen%20hinhalten"target="target1">Knochen hinhalten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://tureng.com/en/german-english/knochen%20hinhalten"target="target2">Knochen hinhalten</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/knochen%20hinhalten"target="target3">Knochen hinhalten</a>  ' ,
+	'<strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https:www.openthesaurus.de/synonyme/seine%20Knochen%20hinhalten"target="target1">Knochen hinhalten</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Knochen+hinhalten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Knochen hinhalten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/knochen%20hinhalten"target="target3">Knochen hinhalten</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=seine+Knochen+f%C3%BCr+etw.++hinhalten"target="target4">Knochen hinhalten</a>  ' ,
 	'<u>Märzgefallene</u>',
 	'Sie hatten ihre Gesundheit geopfert für das Vaterland, und nun kümmerte sich kein Mensch mehr um sie. Selbst den Leuten, die sie anbettelten, war ihr Anblick eher lästig, als dass sie Mitleid empfanden. Und schon gar keine Dankbarkeit. Dafür, dass diese Männer ihre <strong>Knochen hingehalten</strong> hatten für den Patriotismus der Daheimgebliebenen. (<i>Märzgefallene</i>, 10)' ,
 	'<i>von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese Schmierfinken über einen Mann, der für ihresgleichen seine <strong>Knochen hingehalten</strong> hat!" (<i>Märzgefallene</i>, 132)' ,
@@ -5222,22 +5250,21 @@ knirschen: [
 	'Er (<i>Rath</i>) hörte Schritte <strong>knirschen</strong> und erschrak. Dann sah er Charlys neugieriges Gesicht. Hatte sie sich doch noch überwinden können, die Verbotsschilder zu ignorieren, und war zu ihm hinabgestiegen.  (<i>Märzgefallene</i>, 602)',
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',  
+
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-knistern: [
-	'<strong>knistern</strong>: crackle, creak, rustle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knistern"target="target1">knistern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knistern"target="target2">knistern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knistern"target="target3">knistern</a> ' ,
-	'<u>Märzgefallene</u>',
-	'Auf dem Holzsitz gegenüber lag eine Zeitung, die ein Fahrgast dort liegengelassen haben musste. Charly griff danach und faltete das <strong>knisternde</strong> Papier auseinander. (<i>Märzgefallene</i>, 190)' ,
-	'Porzellan klimperte, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das <strong>Knistern</strong> des Papiers zu hören.  (<i>Märzgefallene</i>, 500)' ,
-	'<u>Lunapark</u>',
-	'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, <strong>knisterndes</strong> Zeitungspapier, das Klimpern eines Löffels, der leise gegen den Tassenrand schlug.  (<i>Lunapark</i>, 28)' ,
-],
 Knüppel: [
-	'der <strong>Knüppel</strong>,-: cudgel, club, truncheon <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueppel"target="target1">Knüppel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knuppel"target="target2">Knüppel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/knueppel#Kn%C3%BCppel"target="target3">Knüppel</a> ' ,
+	'der <strong>Knüppel</strong>,-: cudgel, club, truncheon'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueppel"target="target1">Knüppel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kn%C3%BCppel"target="target2">Knüppel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knuppel"target="target3">Knüppel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/knueppel#Kn%C3%BCppel"target="target4">Knüppel</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'An der Straßenhaltestelle vor dem UFA-Kino hatten sich zwei Schupos an einem Hydranten zu schaffen gemacht und schlossen einen Feuerwehrschlauch an. "Neue Taktik", erwiderte Wolter. "Wasser statt <strong>Knüppel</strong>. Pass auf, gleich werden die Demonstranten nass gemacht." (<i>Der nasse Fisch</i>, 55)',
 	'<u>Märzgefallene</u>',
-	'Aber dann, als der Anführer eine schlüpfrige Bemerkung zu Vera machte, hatte er (<i>Leo</i>) den Mund doch nicht halten können, und der Mann hatte ihm mit Freude seinen Gummi<strong>knüppel</strong> durchs Gesicht gezogen. (<i>Märzgefallene</i>, 109)' ,
-	'Dem Anführer war es gleichwohl nicht schnell genug gegangen, und als Leo zu lange brauchte, um in seine Hosen zu steigen, hatte der Mann ihm mit dem <strong>Knüppel</strong> auf die Fingerknöchel geschlagen.... (<i>Märzgefallene</i>, 109)' ,
-   'Der SA-Mann baute sich vor ihm auf und rammte ihm (<i>Leo</i>), ohne den Blick abzuwenden, ansatzlos den Gummi<strong>knüppel</strong> in die Magengrube. Leo krümmte sich vor Schmerz. (<i>Märzgefallene</i>, 111)' ,
-   '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummi<strong>knüppel</strong>schlag auf die ohnehin schon geschwollenen Fingerknöchel. (<i>Märzgefallene</i>, 112)' ,
+	'Aber dann, als der Anführer eine schlüpfrige Bemerkung zu Vera machte, hatte er (<i>Leo</i>) den Mund doch nicht halten können, und der Mann hatte ihm mit Freude seinen Gummi<strong>knüppel</strong> durchs Gesicht gezogen. (<i>Märzgefallene</i>, 109)',
+	'Dem Anführer war es gleichwohl nicht schnell genug gegangen, und als Leo zu lange brauchte, um in seine Hosen zu steigen, hatte der Mann ihm mit dem <strong>Knüppel</strong> auf die Fingerknöchel geschlagen.... (<i>Märzgefallene</i>, 109)',
+    'Der SA-Mann baute sich vor ihm auf und rammte ihm (<i>Leo</i>), ohne den Blick abzuwenden, ansatzlos den Gummi<strong>knüppel</strong> in die Magengrube. Leo krümmte sich vor Schmerz. (<i>Märzgefallene</i>, 111)',
+   '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummi<strong>knüppel</strong>schlag auf die ohnehin schon geschwollenen Fingerknöchel. (<i>Märzgefallene</i>, 112)',
+   '<u>LunaPark</u>',
+   '<i>Doktor Karthaus</i>: "Aber wie ich Sie kenne, Kommissar Rath, wollen Sie trotzdem schon eine erste Einschätzung, nicht wahr?" <i>Rath</i>: "Sie würden mir eine große Freude machen. Haben Sie schon irgendeine Idee, was den armen Kerl (<i>Kaczmarek</i>) so zugerichtet haben könnte?" "Ein stumpfer Gegenstand, irgendein <strong>Knüppel</strong>, würde ich vermuten." "Ein Schlagstock?" "Eher etwas Schwereres..."  (<i>Lunapark</i>, 26-27)',
 ],
 // '<u>Der nasse Fisch</u>', Der nasse Fisch '<u>Der Stumme Tod</u>', '<u>Goldstein</u>', '<u>Die Ackte Vaterland</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

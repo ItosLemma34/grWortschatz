@@ -70,15 +70,15 @@ const k = [
    'kniff(e)lig', // 'kniff(e)lig' *
    'Knirps', // Knirps: *
    'knirschen', // knirschen: * 
-   'knistern', // knistern:
-   'Knöchel',  // Knöchel: 
-   'Knochen/Kopf hinhalten', //
-   'knuffen',  // knuffen:
-   'knüllen',  // knüllen:
-   'Knüller',  // Knüller:
-   'Knüppel', // Knüppel:
+   'knistern', // knistern: *
+   'Knöchel',  // Knöchel: *
+   'Knochen/Kopf hinhalten', // *
+   'knuffen',  // knuffen:  *
+   'knüllen',  // knüllen: *
+   'Knüller',  // Knüller: *
+   'Knüppel', // Knüppel: *
    'knurren',  // knurren: *  
-   'Köder',   // Köder:
+   'Köder',   // Köder: *
   // 'Kontor',
    'Konterfei',  // Konterfei:
    'köpfen',  // köpfen:

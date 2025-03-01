@@ -135,6 +135,7 @@ const s = [
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *
    'Spüle, spülen', // *
+   'Spund', // Spund:  *
    'spuren',  // spuren: *
    'sputen (sich)', // *
    'Stadtstreicher', // Stadtstreicher:  *

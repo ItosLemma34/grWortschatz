@@ -80,6 +80,7 @@ const v = [
    'Verstümmelung', // Verstümmelung: *
    'vertrackt',   // vertrackt:  *   combine with Vertrackt if found
    'vertreten (sich die Beine)', //  *
+   'Vertriebsweg', // Vertriebsweg:  *
    'vertrödeln',  // vertrödeln *
    'vertun, vertan',  // *
    'verunglimpfen',  // verunglimpfen:  *

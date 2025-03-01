@@ -80,28 +80,27 @@ const k = [
    'knurren',  // knurren: *  
    'Köder',   // Köder: *
   // 'Kontor',
-   'Konterfei',  // Konterfei:
-   'köpfen',  // köpfen:
-   'Korb (einen K. bekommen)', //
-   'Korbstuhl',  // Korbstuhl:
-   'Kordel',  // Kordel:
-   'Kot, Kotflügel', //
-   'koten',  // koten:
-   'krabbeln',  //krabbeln:
+   'Konterfei',  // Konterfei: *
+   'köpfen',  // köpfen: *
+   'Korb (einen K. bekommen)', // *
+   'Korbstuhl',  // Korbstuhl:  *
+   'Kordel',  // Kordel: *
+   'Kot, koten, Kotflügel', // *
+   'krabbeln',  // krabbeln: *
    'krachen, Krach', // *
-   'Krähe, krähen', //  
-   'Krake', // Krake: 
+   'Krähe, krähen', // *  
+   'Krake', // Krake: *
    'krakelig/kraklig', // krakelig/kraklig: *
-   'Kralle',  // Kralle:
+   'Kralle',  // Kralle: *
    'Kram (in den K. passen)', // * duplicated
-   'kramen',  // kramen:
-   'Kran',  // Kran:
-   'Kratzbürstigkeit',  // Kratzbürstigkeit:
+   'kramen',  // kramen: *
+   'Kran',  // Kran: *
+   'Kratzbürstigkeit',  // Kratzbürstigkeit: *
    'kratzen',  // kratzen: * 
-   'kraulen',   // kraulen:
+   'kraulen',   // kraulen: *
    'kräuseln',  // kräuseln:  *
    'kreischen', // kreischen: *
-   'Kreisel',  // Kreisel:
+   'Kreisel',  // Kreisel:  *
    'Kreissäge',  // Kreissäge:
    'Krempe',  // Krempe: *
    'Krempel',  // Krempel: *

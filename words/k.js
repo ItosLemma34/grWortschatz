@@ -101,11 +101,11 @@ const k = [
    'kräuseln',  // kräuseln:  *
    'kreischen', // kreischen: *
    'Kreisel',  // Kreisel:  *
-   'Kreissäge',  // Kreissäge:
+   'Kreissäge',  // Kreissäge: *
    'Krempe',  // Krempe: *
    'Krempel',  // Krempel: *
    'kreuzfidel', // kreuzfidel: *
-   'Kribbeln',  // Kribbeln:
+   'Kribbeln',  // Kribbeln: *
    'Kringel',  //Kringel:
    'Kritikaster',  // Kritikaster: *
    'kritzeln' ,  // kritzeln:

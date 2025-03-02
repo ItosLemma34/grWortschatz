@@ -4502,9 +4502,13 @@ kräuseln: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000), (<i>Der stumme Tod</i>, 000), (<i>Märzgefallene</i>, 000), (<i>Lunapark</i>, 000)', 
 Kroppzeug: [
-	'das <strong>Kroppzeug</strong>, (no plural): small animals; rubbish, rabble <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kroppzeug"target="target1">Kroppzeug</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kroppzeug"target=target2>Kroppzeug</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kroppzeug"target="target3">Kroppzeug</a>' ,
+	'das <strong>Kroppzeug</strong>: small animals; rubbish, rabble'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kroppzeug"target="target1">Kroppzeug</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kroppzeug"target="target2">Kroppzeug</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kroppzeug"target=target3>Kroppzeug</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kroppzeug"target="target4">Kroppzeug</a>',
 	'<u>Der nasse Fisch</u>',
 	'<i>Wolter</i>: "Jawohl, Herr Kriminalrat (<i>Lanke</i>)." Wolter wusste was sich gehörte, und machte Meldung. "Aktion <i>Nachtfalke</i> erflogreich verlaufen." <i>Lanke</i>: "Da habense ja \'ne janze Menge <strong>Kroppzeug</strong> aufgegabelt. Sind sogar ein paar dicke Fische dabei, wie mir Kronberg vom ED eben sagte. Die Läden, die Se da ausgehoben haben, scheinen ja die reinsten Verbrecherhöhlen zu sein." (<i>Der nasse Fisch</i>, 258)',
+	'<u>Lunapark</u>',
+	'"Friedrichsen", brummte der Meister und nickte entschieden. "Det is eins von Friedrichsen." <i>Rath</i>: "Das können Sie so genau sehen?" Kessler nickte. "Friedrichsens Prothesen erkenne ich immer. Gibt kaum bessere in Berlin. Bis auf meine vielleicht. Hab nie verstanden, warum er seine Glasaugen nur an die armen Schlucker verkauft, Kriegsblinde und so \'n <strong>Kroppzeug</strong>..."  (<i>Lunapark</i>, 135)',
 ],
 Kritikaster: [
 	'der <strong>Kritikaster</strong>,-; die <strong>Kritikasterin</strong>,-<strong>innen</strong>: faultfinder, carper, nitpicker' +
@@ -4537,8 +4541,14 @@ Kinkerlitzchen: [
 	'<u>Lunapark</u>',
 	'"Du (<i>Gräf</i>) hast was?", unterbrach Rath. "Du lässt deine eigene kriminaltechnische Untersuchung neben der unseren laufen? <i>Gräf</i>: "Ich lass nur Proben untersuchen. Ich hätte meine Leute Morgen auch mitbringen können, Gereon! Ich wollte Kronberg aber nicht damit düpieren, dass Kreutzmann am Tatort auftaucht und mit seinen Männern ebenfalls Spuren sichert. Obwohl ich jedes Recht dazu gehabt hätte..." <i>Rath</i>: "Du behinderst meine Ermittlungen mit solchen <strong>Kinkerlitzchen</strong>..."   (<i>Lunapark</i>, 55)',
 ],
-'Kröte schlucken': [
-	'<strong>Kröte schlucken</strong>,-: bite the bullet &nbsp;&nbsp;die <strong>Kröte</strong>,-<strong>n</strong>: toad <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eine%20Kr%C3%B6te%20schlucken"target="target1">Kröte schlucken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=die+Kr%C3%B6te+schlucken"target=target2>Kröte schlucken</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/kr%C3%B6te%20schlucken"target="target3">Kröte schlucken</a>' ,
+'Kröte (K. schlucken)': [
+	'die <strong>Kröte</strong>,-<strong>n</strong>: toad'+
+	'<br><strong>Kröte schlucken</strong>,-: bite the bullet'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kroete"target="target1">Kröte</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Kr%C3%B6te+schlucken&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Kröte schlucken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kr%C3%B6te"target=target3>Kröte</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Kr%C3%B6te+schlucken"target="target4">Kröte schlucken</a>',
+	'<u>Märzgefallene</u>',
+	'"<i>Paroxysmale Neutrasthenie</i>." Friederike Wieking sprach die Worte aus, als handele es sich um den leiteinischen Namen einer widerlichen, schleimigen <strong>Kröte</strong>. "Der Arzt, der das bei Ihnen diagnostiziert hat, ist Jude, wussten Sie das? Die lieben das ja, alles auf seelische Probleme zurückzuführen."  (<i>Märzgefallene</i>, 528)',
+	'<i>Charly</i>: "Ich kann für Sie und Ihre Behörde nicht mehr arbeiten, Frau Kriminalrätin.. Ein entsprechendes Schreiben werde ich noch aufsetzen." "Das wird nicht nötig sein". Die Wieking hatte die mütterliche Maske wieder abgelegt und wirkte nun wie eine giftige <strong>Kröte</strong>.  (<i>Märzgefallene</i>, 529)',
 	'<u>Lunapark</u>',
 	'Vielleicht, dachte Rath,..  vielleicht hätte er im März 33 doch bei der Politischen Polizei bleiben sollen, sosehr es ihm auch widerstrebt hatte. Aber musste man im Berufsleben nicht manchmal <strong>Kröten schlucken</strong>?  (<i>Lunapark</i>, 55)',
 ],
@@ -4566,9 +4576,11 @@ Kreisel: [
 	'Mit einem klirrenden Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben... Jedenfalls blieb das Scheißding ein paar Meter hinter ihnen auf dem Pflaster liegen, ebenso wie Huckebeins Melone, die durch die Gegend kullerte wie ein betrunkener <strong>Kreisel</strong>.  (<i>Märzgefallene</i>, 399)',
 ],
 Krümel: [
-	'der <strong>Krümel</strong>,-: &nbsp;crumb &nbsp;&nbsp;&nbsp;<strong>krümelig</strong>: &nbsp;crumbly <br>Deutsche Definition&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kruemel"target="target1">Krümel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/krumel?q=Kr%C3%BCmel"target=target2>Krümel</a>&nbsp;&nbsp;<a href=https://www.collinsdictionary.com/dictionary/german-english/krumel""target=target3>Krümel</a>' ,
+	'der oder das <strong>Krümel</strong>,-: crumb &nbsp;&nbsp;<strong>krümelig</strong>: crumbly'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kruemel"target="target1">Krümel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kr%C3%BCmel"target="target2">Krümel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/krumel?q=Kr%C3%BCmel"target=target3>Krümel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krumel"target=target4>Krümel</a>',
 	'<u>Lunapark</u>',
-	'Wenn sie (<i>Charly</i>) die Augen öffnete, sah sie Gereons leeren Stuhl, den kalten Rest Kaffee in seiner Tasse, die verbliebenen <strong>Krümel</strong> auf seinem Teller. (<i>Lunapark</i>, 28)' ,
+	'Wenn sie (<i>Charly</i>) die Augen öffnete, sah sie Gereons leeren Stuhl, den kalten Rest Kaffee in seiner Tasse, die verbliebenen <strong>Krümel</strong> auf seinem Teller. (<i>Lunapark</i>, 28)',
 ],
 Kringel: [
 	'der <strong>Kringel</strong>,-: curl, ring, squiggle<br><strong>sich kringeln</strong>: to curl, coil'+
@@ -5516,55 +5528,78 @@ Kribbeln: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 kritzeln: [
-	'<strong>kritzeln</strong>: &nbsp;doodle, scribble <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kritzeln"target="target1">kritzeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kritzeln"target="target2">kritzeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kritzeln"target="target3">kritzeln</a>  ' ,
+	'<strong>kritzeln</strong>: doodle, scribble'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kritzeln"target="target1">kritzeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kritzeln"target="target2">kritzeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kritzeln"target="target3">kritzeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kritzeln"target="target4">kritzeln</a>',
 	'<u>Märzgefallene</u>',
-	'Als Rath endlich wieder sein Büro betrat, saß Erika Voss in Hut und Mantel an ihrem Schreibtisch und <strong>kritzelte</strong> etwas auf ein Stück Papier, das sie zerknüllte, als sie ihren Chef erblickte. (<i>Märzgefallene</i>, 147)' ,
+	'Als Rath endlich wieder sein Büro betrat, saß Erika Voss in Hut und Mantel an ihrem Schreibtisch und <strong>kritzelte</strong> etwas auf ein Stück Papier, das sie zerknüllte, als sie ihren Chef erblickte. (<i>Märzgefallene</i>, 147)',
 ],
 'krümmen (sich)': [
-	'<strong>sich krümmen</strong>: &nbsp;bend, double over, squirm, writhe; curve, twist <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kruemmen"target="target1">krümmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krummen"target="target2">krümmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kr%C3%BCmmen"target="target3">krümmen</a> ' ,
+	'<strong>sich krümmen</strong>: bend, squirm, writhe; curve, twist'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kruemmen"target="target1">krümmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kr%C3%BCmmen"target="target2">krümmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krummen"target="target3">krümmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kr%C3%BCmmen"target="target4">krümmen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Er schrie, noch bevor er mit dem Oberkörper auf den Betonboden klatschte.. Er <strong>krümmte sich</strong> am Boden, sein Atem hechelte, als das Pochen und Stechen wieder etwas nachließen.  (<i>Der nasse Fisch</i>, 12)' ,
+	'<i>Rath träumt</i>: Er konnte nicht anders, er musste schießen.. Immer wieder zog sein Zeigefinger den Abzug durch, doch die Mauser gab nur ein Klacken von sich. Klack, klack, klack, machte es, während der andere seelenruhig zielte und den Zeigefinger <strong>krümmte</strong>. Langsam.. zog er den Abzug zurück...  (<i>Der nasse Fisch</i>, 37)' ,
 	'<u>Märzgefallene</u>',
-	'Der SA-Mann baute sich vor ihm auf und rammte ihm, ohne den Blick abzuwenden, ansatzlos den Gummiknüppel in die Magengrube. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 111)' ,
-	'Während er (<i>der Mappenmann</i>) seine Mappe auf den Schreibtisch legte, trat Katsche aus seiner dunklen Ecke und stellte sich neben Leos Stuhl. Ohne Vorwarnung gab er dem Gefangenen einen trockenen Schlag auf die Leber. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 112)' ,
+	'Der SA-Mann baute sich vor ihm auf und rammte ihm, ohne den Blick abzuwenden, ansatzlos den Gummiknüppel in die Magengrube. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 111)',
+	'Während er (<i>der Mappenmann</i>) seine Mappe auf den Schreibtisch legte, trat Katsche aus seiner dunklen Ecke und stellte sich neben Leos Stuhl. Ohne Vorwarnung gab er dem Gefangenen einen trockenen Schlag auf die Leber. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 112)',
 ],
 kullern: [
-	'<strong>kullern</strong>: &nbsp;roll around <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kullern"target="target1">kullern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kullern"target="target2">kullern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kullern"target="target3">kullern</a> ' ,
+	'<strong>kullern</strong>: roll around, tumble'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kullern"target="target1">kullern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kullern"target="target2">kullern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kullern"target="target3">kullern</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kullern"target="target4">kullern</a>',
 	'<u>Märzgefallene</u>',
-	'Eine leere Rotweinflasche <strong>kullerte</strong> über den Boden, als er (<i>Gereon</i>) sie versehentlich mit dem Fuß anstieß.  (<i>Märzgefallene</i>, 71)' ,
-	'Mit einem klirrenden Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben... Jedenfalls blieb das Scheißding ein paar Meter hinter ihnen auf dem Pflaster liegen, ebenso wie Huckebeins Melone, die durch die Gegend <strong>kullerte</strong> wie ein betrunkener Kreisel.  (<i>Märzgefallene</i>, 399)',
+	'Eine leere Rotweinflasche <strong>kullerte</strong> über den Boden, als er (<i>Gereon</i>) sie versehentlich mit dem Fuß anstieß. (<i>Märzgefallene</i>, 71)',
+	'Mit einem klirrenden Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben... Jedenfalls blieb das Scheißding ein paar Meter hinter ihnen auf dem Pflaster liegen, ebenso wie Huckebeins Melone, die durch die Gegend <strong>kullerte</strong> wie ein betrunkener Kreisel. (<i>Märzgefallene</i>, 399)',
 ],
 Kuppel: [
-	'die <strong>Kuppel</strong>,-<strong>n</strong>: dome <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kuppel"target="target1">Kuppel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kuppel"target="target2">Kuppel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kuppel"target="target3">Kuppel</a> ' ,
+	'die <strong>Kuppel</strong>,-<strong>n</strong>: dome'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kuppel"target="target1">Kuppel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kuppel"target="target2">Kuppel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kuppel"target="target3">Kuppel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kuppel"target="target4">Kuppel</a>',
 	'<u>Märzgefallene</u>',
-	'Weinert hatte die Leiter noch nicht erreicht, da wurde sein Blick nach oben gezogen wie von einem Magneten, und er sah die gläserne <strong>Kuppel</strong>, die über dem massiven Reichstagsgebäude thronte, mit einem Mal aufleuchten, als habe jemand eine riesige Glühbirne eingeschaltet.... Inzwischen war es auch kaum noch zu übersehen, so hell leuchtete die <strong>Kuppel</strong> in die diesige Winternacht. (<i>Märzgefallene</i>, 55-56)' ,
+	'Weinert hatte die Leiter noch nicht erreicht, da wurde sein Blick nach oben gezogen wie von einem Magneten, und er sah die gläserne <strong>Kuppel</strong>, die über dem massiven Reichstagsgebäude thronte, mit einem Mal aufleuchten, als habe jemand eine riesige Glühbirne eingeschaltet.... Inzwischen war es auch kaum noch zu übersehen, so hell leuchtete die <strong>Kuppel</strong> in die diesige Winternacht. (<i>Märzgefallene</i>, 55-56)',
 	'Er schaute nach oben. Die Flammen hatten die <strong>Kuppel</strong> erreicht und leckten von innen am Glas, bis es splitterte, eine Scheibe nach der anderen. (<i>Märzgefallene</i>, 56)' ,
-	'Auf dem Weg nach Dalldorf war sie (<i>Charly</i>)...am Reichstag vorbeigefahren, um sich die Sache mal bei Tag anzuschauen. Immer noch lag Brandgeruch in der Luft, die kitschige wilhelminische Glas<strong>kuppel</strong> hatte sich in ein kahles, schwarz verrußtes</strong> Stahlgerippe verwandelt. (<i>Märzgefallene</i>, 78)' ,
-   'Bis auf die völlig zersplitterte und verbogene Glas<strong>kuppel</strong> wirkte das Gebäude (<i>der Reichstag</i>) wie immer; fast hätte man denken können, es sei gar nichts passiert. (<i>Märzgefallene</i>, 115)' ,
+	'Auf dem Weg nach Dalldorf war sie (<i>Charly</i>)...am Reichstag vorbeigefahren, um sich die Sache mal bei Tag anzuschauen. Immer noch lag Brandgeruch in der Luft, die kitschige wilhelminische Glas<strong>kuppel</strong> hatte sich in ein kahles, schwarz verrußtes</strong> Stahlgerippe verwandelt. (<i>Märzgefallene</i>, 78)',
+    'Bis auf die völlig zersplitterte und verbogene Glas<strong>kuppel</strong> wirkte das Gebäude (<i>der Reichstag</i>) wie immer; fast hätte man denken können, es sei gar nichts passiert. (<i>Märzgefallene</i>, 115)',
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 kurbeln: [
-	'<strong>kurbeln</strong>: &nbsp;crank, turn <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kurbeln"target="target1">kurbeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kurbeln"target="target2">kurbeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kurbeln"target="target3">kurbeln</a> ' ,
+	'<strong>kurbeln</strong>: crank, turn'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kurbeln"target="target1">kurbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kurbeln"target="target2">kurbeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kurbeln"target="target3">kurbeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kurbeln"target="target4">kurbeln</a>',
+	'<u>Der nasse Fisch</u>',
+	'Doch heute Morgen hatte nur Weinert in der Küche gesessen, als Rath seinen müden, verkaterten Kopf durch die Tür gesteckt hatte. Nun saß er am Küchentisch und <strong>kurbelte</strong> an der Kaffeemühle, während Weinert den Wasserkessel auf den Herd stellte. (<i>Der nasse Fisch</i>, 128)',
 	'<u>Märzgefallene</u>',
-	'"Setzen Sie sich schon mal in den Wagen, Erika", sagte er (<i>Rath</i>) und schloss die Beifahrertür auf.... Erika Voss tat wie geheißen. Bevor Rath den Notsitz ausklappte, ging er zu der schwarzen Limousine hinüber, deren Scheibe im selben Moment herunter<strong>gekurbelt</strong> wurde.  (<i>Märzgefallene</i>, 149)',
-	'<i>Marlow</i>: "Ich warte gleich um die Ecke, am Wasserturm, da können Sie zusteigen, und wir unterhalten uns im Wagen.... " Die Scheibe wurde wieder nach oben <strong>gekurbelt</strong>, bevor Rath irgendetwas erwidern konnte. (<i>Märzgefallene</i>, 150)' ,
+	'Während er (<i>Rath</i>) an der Kaffeemühle <strong>kurbelte</strong>, fiel sein Blick auf den Tisch, und er bemerkte, dass bereits für zwei Personen eingedeckt war.  (<i>Märzgefallene</i>, 119)',
+	'"Setzen Sie sich schon mal in den Wagen, Erika", sagte er (<i>Rath</i>) und schloss die Beifahrertür auf.... Erika Voss tat wie geheißen. Bevor Rath den Notsitz ausklappte, ging er zu der schwarzen Limousine hinüber, deren Scheibe im selben Moment herunter<strong>gekurbelt</strong> wurde. (<i>Märzgefallene</i>, 149)',
+	'<i>Marlow</i>: "Ich warte gleich um die Ecke, am Wasserturm, da können Sie zusteigen, und wir unterhalten uns im Wagen.... " Die Scheibe wurde wieder nach oben <strong>gekurbelt</strong>, bevor Rath irgendetwas erwidern konnte. (<i>Märzgefallene</i>, 150)',
 	'<u>Lunapark</u>',
-	'Einer der Braunhemden, ein hageres, unscheinbares Kerlchen, das ohne Uniform ausgesehen hätte wie ein harmloser Buchhalter, klopfte an die Scheibe. Schulze <strong>kurbelte</strong> das Fenster herunter. (<i>Lunapark</i>, 8-9)' ,
+	'Einer der Braunhemden, ein hageres, unscheinbares Kerlchen, das ohne Uniform ausgesehen hätte wie ein harmloser Buchhalter, klopfte an die Scheibe. Schulze <strong>kurbelte</strong> das Fenster herunter. (<i>Lunapark</i>, 8-9)',
+	'Dann ging er zum Wagenfond und schaute hinein. Osterberg <strong>kurbelte</strong> seine Scheibe herunter. "Heil Hiter, Sturmführer!", sagte er und streckte vorschriftsgemäßig den rechten Arm aus, so gut es in dem engen Innenraum ging. (<i>Lunapark</i>, 9)',
+	'Er (<i>Rath</i>) zündete sich eine Zigarette an und schlenderte, scheinbar ziellos, die Boyenstraße hinunter. Noch bevor er den Wagen erreicht hatte, <strong>kurbelte</strong> der Mann (<i>Marlow</i>) im Fond die Scheibe herunter. "Herr Kommissar! Lange nicht gesehen."  (<i>Lunapark</i>, 222)',
+	'"Lassen Sie uns morgen weiterplaudern, Kommissar! Seien Sie um acht im Boxhagener Krug." Mit diesen Worten <strong>kurbelte</strong> Johann Marlow die Scheibe hoch, und die Limousine setzte sich langsam in Bewegung.  (<i>Lunapark</i>, 223)',
 ],
 'kuscheln (sich)': [
-	'<strong>kuscheln (sich)</strong>: &nbsp;snuggle, cuddle up to <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuscheln"target="target1">kuscheln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kuscheln"target="target2">kuscheln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuscheln"target="target3">kuscheln</a> ',
+	'<strong>kuscheln (sich)</strong>: snuggle, cuddle up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuscheln"target="target1">kuscheln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kuscheln"target="target2">kuscheln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kuscheln"target="target3">kuscheln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuscheln"target="target4">kuscheln</a>',
 	'<u>Märzgefallene</u>',
-	'Die Augen fielen ihm (<i>Gereon</i>) bereits zu, außerdem war die Cognacflasche leer, und er wollte keine neue anbrechen. Er drückte die Zigarette aus und machte sich auf den Weg ins Bett. Dort <strong>kuschelte</strong> er <strong>sich</strong> an Charly, die irgendetwas Unverständliches murmelte und so gut roch, dass er sofort einschlief. (<i>Märzgefallene</i>, 171)' ,
-	'Charly stand auf. Sie torkelte ein wenig. Er (<i>Gereon</i>) stellte seinen Koffer ab und nahm sie in den Arm. Sie <strong>kuschelte sich</strong> richtiggehend in ihn hinein, so anhänglich hatte er sie lange schon nicht mehr erlebt. (<i>Märzgefallene</i>, 323-24)' ,
+	'Die Augen fielen ihm (<i>Gereon</i>) bereits zu, außerdem war die Cognacflasche leer, und er wollte keine neue anbrechen. Er drückte die Zigarette aus und machte sich auf den Weg ins Bett. Dort <strong>kuschelte</strong> er <strong>sich</strong> an Charly, die irgendetwas Unverständliches murmelte und so gut roch, dass er sofort einschlief. (<i>Märzgefallene</i>, 171)',
+	'Charly stand auf. Sie torkelte ein wenig. Er (<i>Gereon</i>) stellte seinen Koffer ab und nahm sie in den Arm. Sie <strong>kuschelte sich</strong> richtiggehend in ihn hinein, so anhänglich hatte er sie lange schon nicht mehr erlebt. (<i>Märzgefallene</i>, 323-24)',
 	'<u>Lunapark</u>',
-	'Sie (<i>Charly</i>) hatte nichts gesagt, als er (<i>Gereon</i>) zu ihr ins Bett kam, weil sie sich aus ihrem Halbschlaf nicht aufwecken wollte, und sich nur an ihn <strong>gekuschelt</strong>.  (<i>Lunapark</i>, 74)' ,
+	'Sie (<i>Charly</i>) hatte nichts gesagt, als er (<i>Gereon</i>) zu ihr ins Bett kam, weil sie sich aus ihrem Halbschlaf nicht aufwecken wollte, und sich nur an ihn <strong>gekuschelt</strong>.  (<i>Lunapark</i>, 74)',
 ],
 kuschen: [
-	'<strong>kuschen</strong>: &nbsp;kowtow, submit, knuckle under; lie down <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuschen"target="target1">kuschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kuschen"target="target2">kuschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuschen"target="target3">kuschen</a> ' ,
+	'<strong>kuschen</strong>: kowtow, submit, knuckle under; lie down'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuschen"target="target1">kuschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kuschen"target="target2">kuschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kuschen"target="target3">kuschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuschen"target="target4">kuschen</a>',
 	'<u>Märzgefallene</u>',
-	'"Vogelsang, nun antworten Sie schon, wenn ich Sie aufrufe!" Der Schüler Vogelsang erhob sich und stand stramm wie auf dem Kasernenhof. Einen Moment wirkte es, als wolle er protestieren gegen diese Ungerechtigkeit, ließ es dann aber bleiben. Aus diesem Grunde hatte Meifert ihn ja auch ausgewählt. Vogelsang <strong>kuschte</strong> immer. (<i>Märzgefallene</i>, 128)' ,
+	'"Vogelsang, nun antworten Sie schon, wenn ich Sie aufrufe!" Der Schüler Vogelsang erhob sich und stand stramm wie auf dem Kasernenhof. Einen Moment wirkte es, als wolle er protestieren gegen diese Ungerechtigkeit, ließ es dann aber bleiben. Aus diesem Grunde hatte Meifert ihn ja auch ausgewählt. Vogelsang <strong>kuschte</strong> immer. (<i>Märzgefallene</i>, 128)',
 	'<u>Lunapark</u>',
-	'<i>Rath</i>: "..Wenn Sie (<i>Sturmbannführer Sperling</i>) sich also wegen der Beschlagnahme (<i>des Geldes</i>) beschweren wollen, wenden Sie sich an die Geheime Staatspolizei. Das Geld befindet sich in der Prinz-Albrecht-Straße." Rath konnte sehen, wie der eben noch puterrote Sperling blass wurde. Damit hatte der Sturmbannführer nicht gerechnet. Vor der Geheimen Staatspolizei <strong>kuschte</strong> sogar die SA.  (<i>Lunapark</i>, 96-97)' ,
-	'Wo es ihr (<i>Charly</i>) eben möglich war, versuchte sie, die Begegnung mit der SA zu vermeiden. Die jungen Männer in den braunen Uniformen pöbelten einfach zu gerne. Und in diesen Zeiten hatten sie zu allem Überfluss auch noch das Recht auf ihrer Seite.  Charly hasste es. Diese Gefühl, dauernd Angst zu haben und <strong>kuschen</strong> zu müssen. (<i>Lunapark</i>, 115)' ,
+	'<i>Rath</i>: "..Wenn Sie (<i>Sturmbannführer Sperling</i>) sich also wegen der Beschlagnahme (<i>des Geldes</i>) beschweren wollen, wenden Sie sich an die Geheime Staatspolizei. Das Geld befindet sich in der Prinz-Albrecht-Straße." Rath konnte sehen, wie der eben noch puterrote Sperling blass wurde. Damit hatte der Sturmbannführer nicht gerechnet. Vor der Geheimen Staatspolizei <strong>kuschte</strong> sogar die SA.  (<i>Lunapark</i>, 96-97)',
+	'Wo es ihr (<i>Charly</i>) eben möglich war, versuchte sie, die Begegnung mit der SA zu vermeiden. Die jungen Männer in den braunen Uniformen pöbelten einfach zu gerne. Und in diesen Zeiten hatten sie zu allem Überfluss auch noch das Recht auf ihrer Seite.  Charly hasste es. Diese Gefühl, dauernd Angst zu haben und <strong>kuschen</strong> zu müssen. (<i>Lunapark</i>, 115)',
 ],
 //Lstart  
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',

@@ -106,19 +106,19 @@ const k = [
    'Krempel',  // Krempel: *
    'kreuzfidel', // kreuzfidel: *
    'Kribbeln',  // Kribbeln: *
-   'Kringel',  //Kringel:
+   'Kringel',  //Kringel: *
    'Kritikaster',  // Kritikaster: *
-   'kritzeln' ,  // kritzeln:
-   'Kroppzeug', // Kroppzeug:
-   'Kröte schlucken', //
-   'Krümel',  //Krümel:
-   'krümmen (sich)',//
-   'kullern', // kullern:
+   'kritzeln' ,  // kritzeln: *
+   'Kroppzeug', // Kroppzeug: *
+   'Kröte (K. schlucken)', // *
+   'Krümel',  // Krümel: *
+   'krümmen (sich)',// *
+   'kullern', // kullern: *
    'kundschaften', // kundschaften:  *
-   'Kuppel',  // Kuppel:
-   'kurbeln', //kurbeln:
-   'kuscheln (sich)',
-   'kuschen',  // kuschen:
+   'Kuppel',  // Kuppel: *
+   'kurbeln', // kurbeln: *
+   'kuscheln (sich)', // *
+   'kuschen',  // kuschen: *
 ];
 
 export default k;   

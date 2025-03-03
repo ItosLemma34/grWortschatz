@@ -1,18 +1,18 @@
 const i = [
    'im Nu', // * duplicated
    'in den Kram passen', // * duplicated
-   'in die Hose machen/gehen', //
+   'in die Hosen machen/gehen', // *
    'in die Mangel nehmen', //  * duplicated
-   'in die Parade fahren', //
+   'in die Parade fahren', // *
    'in die Pfanne hauen',  // * duplicated
    'in die Quere kommen', // * duplicated
    'in die Zange nehmen', // * duplicated
-   'in drei Teufels Namen', //
+   'in drei Teufels Namen', // *
    'in einem fort (schnattern)', // *  duplicated
    'in Schuss sein', // * duplicated
    'ins Fettnäpfchen treten', // * duplicated
    'ins Handwerk pfuschen',  // * duplicated
-   'ins Haus stehen', //
+   'ins Haus stehen', // *
    'inspizieren',  // inspizieren: *
 ];
 

@@ -1427,6 +1427,7 @@ anschwärzen: [
 	'<i>Gräf</i>: "Seit Kurzen wissen wir, dass das erste Opfer von Benjamin Engel nicht Heinrich Wosniak war, wie ...die Ermittlungsgruppe um Oberkommissar Böhm anfangs fälschlich vermutet hat." Gräf wirkte nicht glücklich, als er das sagte; Rath vermutete, dass es Levetzows Weisung war, Böhm bei dieser Gelegenheit <strong>anzuschwärzen</strong>. (<i>Märzgefallene</i>, 499)',
 	'<u>Lunapark</u>',
 	'<i>SA-Führer</i>: "Außerdem liegt eine Beschwerde wegen Störung der Nachtruhe vor." "Wie bitte?", fragte Guido. Auch Charly konnte sich nicht vorstellen, wer im Haus sie <strong>angeschwärzt</strong> haben sollte.   (<i>Lunapark</i>, 166)',
+//	'  (<i>Lunapark</i>, 265)',
 ],
 ansengen: [
 	'<strong>ansengen</strong>: &nbsp;singe <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ansengen"target="target1">ansengen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/ansengen"target="target2">ansengen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ansengen"target="target3">ansengen</a> ', 
@@ -1950,10 +1951,16 @@ Buche: [
 	'Einen Moment fürchtete Rath, sie (<i>Eva Heinen</i>) werde an der <strong>Buche</strong> vorübergehen und wirklich nur ein Stückchen in den Wald, dann aber blieb sie genau vor dem Baum mit den vielen kleinen Kieselsteinen stehen. (<i>Märzgefallene</i>, 441)' ,
 ],	
 Beule: [ 
-	'die <strong>Beule</strong>,-<strong>n</strong>: &nbsp;dent, blister, bump, bruise <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Beule"target="target1">Beule</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beule"target="target2">Beule</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/beule?q=Beule"target="target3">Beule</a>   ',
-	'<u>Der nasse Fisch</u>','Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der nasse Fisch</i>, 81-82)' ,
+	'die <strong>Beule</strong>,-<strong>n</strong>: dent, blister, bump, bruise'+
+	'<br><strong>sich beulen</strong>: bulge'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beule"target="target1">Beule</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beulen"target="target2">beulen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beule"target="target3">Beule</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Beulen"target="target4">beulen</a>',
+	'<u>Der nasse Fisch</u>','Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der nasse Fisch</i>, 81-82)',
 	'<u>Märzgefallene</u>',
-	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt.  (<i>Märzgefallene</i>, 220)' ,
+	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt.  (<i>Märzgefallene</i>, 220)',
+	'Roddeck schwieg. Er gab ein trostloses Bild ab mit der blutenden <strong>Beule</strong> an der Stirn, den wirren Haarsträhnen im Gesicht und dem vom Wasser fleckigen Regenmantel.  (<i>Märzgefallene</i>, 578)',
+	'<u>Lunapark</u>',
+	'Wenn er die Akten zuhause in Ruhe durchging und morgen wieder zurückstellte, würde schon niemand etwas merken. Dem Beamten am Ausgang fiel jedenfalls nicht auf, dass sich Raths Tasche beim Hinausgehen ein wenig mehr <strong>beulte</strong> als beim Hineingehen.  (<i>Lunapark</i>, 578)',
 ],	
 Bartstoppeln: [
 	'die <strong>Bartstoppeln</strong>, oder der <strong>Stop­pel­bart</strong>, die <strong>Stoppelbärte</strong>: &nbsp;stubble, 	five o\'clock shadow <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stoppelbart"target="target1">Stoppelbart</a>&nbsp;<br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bartstoppeln"target="target2">Bartstoppeln</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Bartstoppeln"target="target3">Bartstoppeln</a>    ',
@@ -4005,8 +4012,11 @@ Holzstoß: [
 	'Die Feldpolizei wollte den unrühmlichen Tod des SA-Mannes Sax lieber unter der Decke halten. Ein SA-Mann, der einen solchen Tod starb - und <strong>sich</strong> zu allem Überfluss dabei noch <strong>in die Hosen gemacht</strong> hatte - taugte nicht zum Märtyrer für die Bewegung.  (<i>Lunapark</i>, 94)' ,
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'in die Hose machen/gehen': [
-	'(<strong>sich</strong>) <strong>in die Hosen machen</strong>: wet oneself, shit in one\'s pants <br><strong>in die Hosen gehen</strong>: tank, go south <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+in+die+Hosen+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Hosen machen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20die%20Hosen%20gehen"target="target2">in die Hosen gehen</a> <br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/in%20die%20Hosen%20machen"target="target3">in die Hosen machen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/in%20die%20Hosen%20gehen"target="target4">in die Hosen gehen</a>   ' ,
+'in die Hosen machen/gehen': [
+	'(<strong>sich</strong>) <strong>in die Hosen machen</strong>: wet oneself, shit in one\'s pants'+
+	'<br><strong>in die Hose gehen</strong>: flop, go down the drain'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20in%20die%20Hose%20machen"target="target1">in die Hosen machen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20die%20Hosen%20gehen"target="target2">in die Hose gehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Hosen+machen"target="target3">in die Hosen machen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Hose+gehen"target="target4">in die Hose gehen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Der Gigolo stand auf, schaffte es tatsächlich noch, so etwas wie eine Verbeugung vor Charlotte hinzukriegen, und ging hinunter ins Vestibül, mit flinken, aber seltsamen Schritten, die aussahen, als habe er <strong>in die Hosen gemacht</strong>. (<i>Der nasse Fisch</i>, 191-92)' ,
 	'<i>Wolter</i>: "Froh, dass es vorbei ist?" Rath nickte. "So \'ne Aktion ist schließlich auch nicht alltäglich." <i>Wolter</i>: "Stimmt. Hätte auch voll <strong>in die Hose gehen</strong> können. (<i>Der nasse Fisch</i>, 248)' ,
@@ -4372,17 +4382,23 @@ huschen: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 'in die Parade fahren': [
-	'jmdm. <strong>in die Parade fahren</strong>: &nbsp;rain on someone\'s parade; get in the way, bother so. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20die%20Parade%20fahren"target="target1">in die Parade fahren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Parade+fahren"target="target2">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Parade+fahren"target="target3">in die Parade fahren</a>' ,
+	'jmdm. <strong>in die Parade fahren</strong>: rain on so.\'s parade; get in the way, bother so.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20die%20Parade%20fahren"target="target1">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/2497-rtkl-redewendung-jemandem-die-parade-fahren"target="target2">in die Parade fahren</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Parade+fahren"target="target3">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Parade+fahren"target="target4">in die Parade fahren</a>',
 	'<u>Lunapark</u>',
-	'<i>Rath</i>: "Und deine (<i>Gräfs</i>) Pfeife mit drei F? (<i>gemeint ist Truppführer Pfeiffer</i>) Die da drüben gerade dem Kollegen Lange <strong>in die Parade fährt</strong> und die Zeugenvernehmung stört? Hat die auch nur einen blassen Schimmer von Polizeiarbeit?"  (<i>Lunapark</i>, 25)'  ,
+	'<i>Rath</i>: "Und deine (<i>Gräfs</i>) Pfeife mit drei F? (<i>gemeint ist Truppführer Pfeiffer</i>) Die da drüben gerade dem Kollegen Lange <strong>in die Parade fährt</strong> und die Zeugenvernehmung stört? Hat die auch nur einen blassen Schimmer von Polizeiarbeit?"  (<i>Lunapark</i>, 25)',
 ],
 'ins Haus stehen': [
-	'<strong>ins Haus stehen</strong>: &nbsp;be in store (for sb.), be imminent <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ins%20Haus%20stehen"target="target1">ins Haus stehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=ins+Haus+stehen"target="target2">ins Haus stehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ins+Haus+stehen"target="target3">ins Haus stehen</a>' ,
+	'<strong>ins Haus stehen</strong>: be in store (for sb.), be imminent'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ins%20Haus%20stehen"target="target1">ins Haus stehen&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ins+Haus+stehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">ins Haus stehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=ins+Haus+stehen"target="target3">ins Haus stehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ins+Haus+stehen"target="target4">ins Haus stehen</a>' ,
 	'<u>Märzgefallene</u>',
 	'<i>Marlow</i>: "Ich kann nicht riskieren, dass du (<i>Leo</i>) ...der SA noch einmal in die Hände fällst!" Das hatte Leo weiß Gott nicht vor. Im Gegenteil. Er wollte, dass die Arschlöcher <i>ihm</i> in die Hände fielen. Die Arschlöcher, die ihm das angetan hatten.... All die Männer auf der Liste in seinem Kopf, denen noch eine unliebsame Begegnung mit Leo Jurezka <strong>ins Haus stand</strong>.  (<i>Märzgefallene</i>, 387)'  ,
 ],
 'in drei Teufels Namen': [
-	'<strong>in drei Teufels Namen</strong>: &nbsp;for heaven\'s sake; who\\what\\how the hell <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20drei%20Teufels%20Namen"target="target1">in drei Teufels Namen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+drei+Teufels+Namen"target="target2">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+drei+Teufels+Namen"target="target3">in drei Teufels Namen</a>' ,
+	'<strong>in drei Teufels Namen</strong>: for heaven\'s sake; who\\what\\how the hell'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20drei%20Teufels%20Namen"target="target1">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+drei+Teufels+Namen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in drei Teufels Namen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+drei+Teufels+Namen"target="target3">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+drei+Teufels+Namen"target="target4">in drei Teufels Namen</a>' ,
 	'<u>Märzgefallene</u>',
 	'Er (<i>Paul</i>) schlug Rath auf die Schulter. "Lass dir das Nasenfahrad da <strong>in drei Teufels Namen</strong> einpacken.  Und dann gehen wir zu mir und wühlen uns durch die Karnevalskisten."  (<i>Märzgefallene</i>, 20)'  ,
 	'<i>Rath</i>: "Ich bin Polizist, ich muss von jeder Möglichkeit ausgehen, auch von den unwahrscheinlichen." <i>Walter Engel</i>: "Dann stellen Sie <strong>in drei Teufels Namen</strong> Ihre Fragen...."   (<i>Märzgefallene</i>, 376-77)'  ,
@@ -4421,11 +4437,15 @@ jauchzen: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 jucken: [
-	'<strong>jucken</strong>: itch, be itching to do sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/jucken"target="target1">jucken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/jucken"target="target2">jucken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/jucken"target="target3">jucken</a> ' ,
+	'<strong>jucken</strong>: itch, be itching to do sth.'+
+	'<strong>jucken</strong>: <i>colloquial</i>: tease, tickle; irritate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/jucken"target="target1">jucken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jucken"target="target2">jucken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/jucken"target="target3">jucken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/jucken"target="target4">jucken</a>',
 	'<u>Märzgefallene</u>',
-	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein <strong>juckender</strong> Hautausschlag oder ein Klumpfuß."  (<i>Märzgefallene</i>, 384)' ,
+	'"Mein Gorilla hat \'ne Villa im Zoo..", sang Charly.. Das Lied, so blöd es war, ging ihr nicht aus dem Kopf. Ein Lied aus dem Film,.. eine erfrischend alberne Komödie mit entsprechenden Nonsense-Schlagern.. ".. er kennt keine Politik, und es ist sein höchstes Glück, die Gemahlin zu <strong>jucken</strong>..."   (<i>Märzgefallene</i>, 350)',
+	'"Meine eigentliche Arbeit." Sie (<i>Charly</i>) sagte das so verächtlich, als rede sie von irgendwelchen ansteckenden Krankheiten. "Die is so sinnvol wie ein <strong>juckender</strong> Hautausschlag oder ein Klumpfuß." (<i>Märzgefallene</i>, 384)',
 	'<u>Lunapark</u>',
-	'Es <strong>juckte</strong> ihn (<i>Rath</i>) richtiggehend, ein paar Beweise dafür zu sammeln, das es sich bei Horst Kaczmarek keineswegs um einen aufrechten Kämpfer für die nationale Revolution handelte, sondern um eine zwielichtige Type, die mit einem der schlimmsten Gangster Umgang gepflegt hatte, die man in Berlin finden konnte. (<i>Lunapark</i>, 85)' ,
+	'Es <strong>juckte</strong> ihn (<i>Rath</i>) richtiggehend, ein paar Beweise dafür zu sammeln, das es sich bei Horst Kaczmarek keineswegs um einen aufrechten Kämpfer für die nationale Revolution handelte, sondern um eine zwielichtige Type, die mit einem der schlimmsten Gangster Umgang gepflegt hatte, die man in Berlin finden konnte. (<i>Lunapark</i>, 85)',
 ],
 japsen: [
 	'<strong>japsen</strong>: pant, gasp for breath ' +
@@ -4439,13 +4459,16 @@ japsen: [
 	'Plötzlich spürte sie, wie der Druck um ihren Hals nachließ.... Hannah <strong>japste</strong> nach Luft. (<i>Märzgefallene</i>, 401)' ,
 ],
 johlen: [
-	'<strong>johlen</strong>: &nbsp;hoot, jeer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/johlen"target="target1">johlen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/johlen"target="target2">johlen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/johlen"target="target3">johlen</a>',
+	'<strong>johlen</strong>: hoot, jeer, howl'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/johlen"target="target1">johlen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/johlen"target="target2">johlen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/johlen"target="target3">johlen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/johlen"target="target4">johlen</a>',
 	'<u>Märzgefallene</u>',
-	'Erst als das Alaaf immer leiser wurde und mit einem Raunen, das sich durch die Menge fraß, schließlich verstummte, konnte man verstehen, was die SA-Männer riefen. "Adenauer an die Mauer!" Rath glaubte zunächst, sich verhört zu haben, aber die Braunhemden <strong>johlten</strong> es erneut, es gab keinen Zweifel. (<i>Märzgefallene</i>, 51-51)' ,
-	'Katsche drückte seine fleischigen Lippen auf Leos rechtes Auge.... Katsche saugte mit aller Macht.... Er (<i>Leo</i>) wollte sich diesem schmerzhaften Sog entziehen, doch Katsche hielt seinen Kopf mit aller Kraft, ...und dann ging es unglaublich schnell: Mit einem ploppenden Geräusch flutschte das Auge aus der Höhle. Katsche biss die Zähne aufeinander, und ein greller Schmerz...schoss durch Leos Kopf.... Leo hörte einige Männer <strong>johlen</strong> und applaudieren, den meisten aber schien es die Sprache verschlagen zu haben. (<i>Märzgefallene</i>, 224)' ,
-	'Die Feuersprüche gingen weiter, immer mehr Bücher flogen ins Feuer. Als der Name Remarque fiel, erhob sich zum ersten Mal eine Art Applaus oder eher ein <strong>Johlen</strong>. Einer von Roddecks Konkurrenten, die fortan keine Bücher mehr in Deutschland verkaufen würden.   (<i>Märzgefallene</i>, 561)' ,
+	'Erst als das Alaaf immer leiser wurde und mit einem Raunen, das sich durch die Menge fraß, schließlich verstummte, konnte man verstehen, was die SA-Männer riefen. "Adenauer an die Mauer!" Rath glaubte zunächst, sich verhört zu haben, aber die Braunhemden <strong>johlten</strong> es erneut, es gab keinen Zweifel. (<i>Märzgefallene</i>, 51-52)',
+	'Katsche drückte seine fleischigen Lippen auf Leos rechtes Auge.... Katsche saugte mit aller Macht.... Er (<i>Leo</i>) wollte sich diesem schmerzhaften Sog entziehen, doch Katsche hielt seinen Kopf mit aller Kraft, ...und dann ging es unglaublich schnell: Mit einem ploppenden Geräusch flutschte das Auge aus der Höhle. Katsche biss die Zähne aufeinander, und ein greller Schmerz...schoss durch Leos Kopf.... Leo hörte einige Männer <strong>johlen</strong> und applaudieren, den meisten aber schien es die Sprache verschlagen zu haben. (<i>Märzgefallene</i>, 224)',
+	'Die Feuersprüche gingen weiter, immer mehr Bücher flogen ins Feuer. Als der Name Remarque fiel, erhob sich zum ersten Mal eine Art Applaus oder eher ein <strong>Johlen</strong>. Einer von Roddecks Konkurrenten, die fortan keine Bücher mehr in Deutschland verkaufen würden. (<i>Märzgefallene</i>, 561)',
+	'Die Geräusche von draußen klangen seltsam unwirklich hier unten, der Hall ließ sie bis zur Unkenntlichkeit zu einem einzigen Brei verschwimmen, die Blasmusik mit den Verkehrsgeräuschen und dem zwischenzeitlichen <strong>Johlen</strong> der Menschenmenge.  (<i>Märzgefallene</i>, 565)',
 ],
-// Kstart '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
+	// '<u>Der nvonasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', "Mein Gorilla hat \'ne Villa im Zoo..", sang Charly.. Das Lied, so blöd es war, ging ihr nicht aus dem Kopf. Ein Lied aus dem Film,.. eine erfrischend alberne Komödie mit entsprechenden Nonsense-Schlagern.. ".. er kennt keine Politik, und es ist sein höchstes Glück, die Gemahlin zu <strong>jucken</strong>..."
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 kratzen: [
 	'<strong>kratzen</strong>: scratch, scrape, grate ' +
@@ -6005,12 +6028,14 @@ munkeln: [
 	'Bruno war es schließlich, der die Stille unterbrach. "Hast du (<i>Rath</i>) dich schon bei (<i>Inspektion</i>) A beworben?", fragte er unvermittelt.. "Man <strong>munkelt</strong>, dass da bald eine Stelle frei wird, nachdem der Kollege Roeder es vorzieht, seine Heldentaten in Buchform unters Volk zu bringen, anstatt weiter die Drecksarbeit für Gennat zu machen."  (<i>Der nasse Fisch</i>, 250)' ,
 ],
 'miefig, Mief': [
-	'<strong>miefig</strong>: stuffy, stinky  <br>der <strong>Mief</strong>: stuffiness, stink, bad air' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/miefig"target="target1">miefig</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Mief"target="target2">Mief</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=miefig"target="target3">miefig</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Mief"target="target4">Mief</a>' ,
+	'<strong>miefig</strong>: stuffy, stinky  <br>der <strong>Mief</strong>: stuffiness, stink, bad air'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/miefig"target="target1">miefig</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/Mief"target="target2">Mief</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=miefig"target="target3">miefig</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Mief"target="target4">Mief</a>',
 	'<u>Der nasse Fisch</u>',
 	'Sie führte ihn (<i>Rath</i>) in ein altmodisch plüschig eingerichtetes Wohnzimmer. Obwohl es auch hier nach Putzmittel roch, kam Rath die Wohnung irgendwie <strong>miefig</strong> vor.  (<i>Der nasse Fisch</i>, 107)',
 //	'<u>Märzgefallene</u>',
+	'<u>Lunapark</u>',
+	'Rath mochte die Registratur nicht. Das Gedächtnis des Polizeipräsidiums war in dunklen, fensterlosen Räumen untergebracht, in der stickigen <strong>Luft</strong> hing der Mief von Aktenstraub und Spinnweben.  (<i>Lunapark</i>, 261)',
 ],
 mäandern: [
 	'<strong>mäandern</strong>: meander ' +

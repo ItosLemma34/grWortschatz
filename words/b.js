@@ -30,7 +30,7 @@ const b = [
     'Besteck',    //Besteck:    
     'betreten',   //betreten:  
     'betupfen',   //betupfen:  
-    'Beule',      //Beule:  
+    'Beule',      //Beule:  *
     'bibbern',    // bibbern: *
     'bieder',     //bieder: 
     'Biege machen',  // 

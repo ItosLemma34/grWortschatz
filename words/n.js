@@ -3,7 +3,8 @@ const n = [
    'nachhaken',  // nachhaken: *
    'Nachhut', // Nachhut: *
    'nachsetzen',  // nachsetzen: *
-   'nagen',  // nagen: * 
+   'nagen',  // nagen: *
+   'Napf',  // Napf: * 
    'Nase (lange N. zeigen/machen)', // * duplicated
    'Nepp',  // Nepp: *
    'Nervensäge', // Nervensäge: *

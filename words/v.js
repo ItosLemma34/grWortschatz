@@ -100,6 +100,7 @@ const v = [
    'vorgaukeln',  // vorgaukeln:  *
    'Vorgeplänkel, Geplänkel',  //  *  duplicated
    'Vorhängeschloss',  //Vorhängeschloss: *
+   'vorknöpfen (sich)',  //  *
    'vorliebnehmen',   // vorliebnehmen: *
    'Vornehm/Nobel geht die Welt zugrunde', // * duplicated
    'vorsintflutlich',  // vorsintflutlich: *

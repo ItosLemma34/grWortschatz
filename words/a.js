@@ -20,7 +20,7 @@ const a = [
 	'abstottern', // abstottern: *
 	'abtrünnig',  //abtrünnig: 
 	'abwiegeln',  // abwiegeln:  *    
-	'abwimmeln',  //abwimmeln:     
+	'abwimmeln',  // abwimmeln:  *   
 	'abzocken',   //abzocken: 
 	'achtkantig hinauswerfen', // 
 	'ächzen',     //ächzen:

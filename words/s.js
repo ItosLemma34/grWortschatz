@@ -170,6 +170,7 @@ const s = [
    'Striemen',  // Striemen: *
    'Strippe',  // Strippe: *
    'stromern',  // stromern: *
+   'strubbelig', // strubbelig: *
    'Strudel',  // Strudel:
    'strunzdämlich',   // strunzdämlich:   include Duden
    'Stuck', // Stuck: *

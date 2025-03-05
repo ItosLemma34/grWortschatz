@@ -3,7 +3,7 @@ const h = [
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
    'Häkchen',  // Häkchen: *
    'haken, Haken, Haken schlagen', // Review the definitions
-   'halbseiden',  //halbseiden:
+   'halbseiden',  // halbseiden: *  but find reference in Marzgefallene
    'Halunke',  // Halunke: *
    'hämisch',  //hämisch:
   // 'hämmern',

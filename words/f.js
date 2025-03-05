@@ -14,7 +14,7 @@ const f = [
    'fegen',  //fegen:  
    'feilbieten',  //feilbieten:  
    'feilschen',  //feilschen:  
-   'fesch',  //fesch:  
+   'fesch',  // fesch: *
    'festfressen (sich)',  //
    'festzurren, zurren', // * duplicated  
    'Fettnäpfchen (ins F. treten)',  // * duplicated 

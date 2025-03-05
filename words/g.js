@@ -1,6 +1,6 @@
 const g = [
    'Gage',  //Gage:  
-   'Ganove', //Ganove: * 
+   'Ganove', // Ganove: * 
    'Geäst',  //Geäst:  
    'Gebälk', //Gebälk:  
    'Gebrüll, brüllen',  // * duplicated 
@@ -49,7 +49,7 @@ const g = [
    'Geturtel',  //Geturtel:  
    'Gewebe',    //Gewebe:  
    'Gewese',    //Gewese:  
-   'Gewimmel',  //Gewimmel:  
+   'Gewimmel, wimmeln',  // * duplicated 
    'Gewirr',    //Gewirr:
    'Gewölbe',  // Gewölbe: 
    'Gewühl',   //Gewühl:

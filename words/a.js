@@ -33,7 +33,7 @@ const a = [
 	'an der Backe haben', //
 	'an die große Glocke hängen',  
 	'anbändeln',    //anbändeln:
-	'anblaffen',    //anblaffen:    
+	'anblaffen',    // anblaffen:    
 	'anbrechen',    //anbrechen:  
 	'anecken',      //anecken:   
 	'anekeln',      //anekeln:  
@@ -105,7 +105,7 @@ const a = [
 	'aufglimmen',  //aufglimmen:  
 	'aufhalsen',   //aufhalsen:  
 	'aufjaulen',   //aufjaulen:  
-	'auflauern',   // auflauern:  
+	'auflauern',   // auflauern: *
 	'aufmucken',   //aufmucken:  
 	'aufpäppeln',  //aufpäppeln:  
 //	'aufplustern', //aufplustern:  
@@ -121,6 +121,7 @@ const a = [
 	'aufsummen, summen', // * duplicated
 	'auftakeln',     //auftakeln:  
 	'auftischen',    //auftischen:  
+	'Aufwartung machen', // *
 	'aufwiegen',     //aufwiegen:  
 	'aus dem Konzept bringen',   //  
 	'aus dem Staub machen (sich)', //  

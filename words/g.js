@@ -5,7 +5,7 @@ const g = [
    'Gebälk', //Gebälk:  
    'Gebrüll, brüllen',  // * duplicated 
    'Gebüsch, Busch',  // * duplicated 
-   'gediegen',  //gediegen:
+   'gediegen',  // gediegen: *
    'gefasst',  // gefasst: *
    'geflissentlich',   //geflissentlich: 
    'gefügig', // gefügig: *
@@ -31,7 +31,7 @@ const g = [
    'gerissen',   //gerissen:  
    'Geröll',     //Geröll:  
    'Gerümpel',   //Gerümpel:  
-   'Gerüst',     //Gerüst:  
+   'Gerüst',     // Gerüst:  
    'gesalzen',   //gesalzen:  
    'geschliffen',  //geschliffen:  
    'geschniegelt',  //geschniegelt:  
@@ -39,7 +39,7 @@ const g = [
    'Geschwafel',    //Geschwafel:  
    'Gesindel',    //Gesindel:  
    'gesittet',    //gesittet:  
-   'gestanden',  //gestanden:  
+   'gestanden',  // gestanden:  *
    'Gestänge',   // Gestänge:  
    'Gestell',    //Gestell:  
    'Gestöber',   //Gestöber:  

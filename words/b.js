@@ -27,7 +27,7 @@ const b = [
     'Beritt',     //Beritt:  
     'bescheuert',  //bescheuert: 
     'Besen',      //Besen:  
-    'Besteck',    // Besteck:    
+    'Besteck',    // Besteck:  *  
     'betreten',   //betreten:  
     'betupfen',   //betupfen:  
     'Beule',      // Beule:  *

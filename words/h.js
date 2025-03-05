@@ -1,5 +1,5 @@
 const h = [
-  'Habgier',  //Habgier:
+  'Habgier',  // Habgier: *
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
    'Häkchen',  // Häkchen: *
    'haken, Haken, Haken schlagen', // Review the definitions
@@ -41,7 +41,7 @@ const h = [
    'Hölle heißmachen',  //
    'Holzstoß',  //Holzstoß:
    'hopsnehmen', //hopsnehmen:
-   'Hornochse',  //Hornochse:
+   'Hornochse',  // Hornochse:
    'Hose (in die H. machen/gehen)', //
    'Hosenmatz',  //Hosenmatz:
    'Hosennaht',  //Hosennaht:

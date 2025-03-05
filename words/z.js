@@ -1,5 +1,5 @@
 const z = [
-   'zackig', // zackig:  * „ “
+   'zackig', // zackig:  * 
    'zahm, handzahm', // *
    'Zange (in die Z. nehmen)', // * duplicated
    'zanken (sich)',  // *

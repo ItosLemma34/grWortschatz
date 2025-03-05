@@ -28,7 +28,7 @@ const e = [
    'eintrudeln',  //eintrudeln:  
    'eintüten',    //eintüten:  
    'Empore',     //Empore:  
-   'entbieten',  //entbieten:  
+   'entbieten',  // entbieten:  
    'entgegenfiebern',  //entgegenfiebern:  
    'entriegeln',  // entriegeln: *
    'entsorgen',  // entsorgen:  * 

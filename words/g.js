@@ -1,6 +1,7 @@
 const g = [
    'Gage',  //Gage:  
    'Ganove', // Ganove: * 
+   'Gassi gehen',  // 'Gassi gehen' *
    'Geäst',  //Geäst:  
    'Gebälk', //Gebälk:  
    'Gebrüll, brüllen',  // * duplicated 
@@ -65,7 +66,7 @@ const g = [
    'gluckern', //gluckern:  
    'goldene Nase (sich verdienen)',  //
    'Gör, Göre',  //  
-   'Gosse',  //Gosse:  
+   'Gosse',  // Gosse:  *
    'grämen',  //grämen:  
    'grapschen',  //grapschen:
    'Grimm', //  Grimm: *

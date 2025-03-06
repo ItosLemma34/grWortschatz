@@ -20,6 +20,7 @@ const m = [
    'mit allen Wassern gewaschen', // * duplicated
    'mitgenommen',  // mitgenommen: *
    'Mohrrübe', // Mohrrübe: *
+   'Mucks',  // Mucks:  *
    'Muffel',  // Muffel: *
    'Mühle',  // Mühle: *
    'Mullbinde', // Mullbinde: *

@@ -5,7 +5,7 @@ const h = [
    'haken, Haken, Haken schlagen', // Review the definitions
    'halbseiden',  // halbseiden: *  but find reference in Marzgefallene
    'Halunke',  // Halunke: *
-   'hämisch',  //hämisch:
+   'hämisch',  // hämisch: *
   // 'hämmern',
    'Handfessel, Handschelle', // *
    'Handwerk legen', // *

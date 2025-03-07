@@ -77,7 +77,8 @@ const g = [
    'Gully',  //Gully:  
    'gurren',  //gurren:  x
    'Gurt',   //Gurt:  x    
-   'gut in Schuss',  //     x   
+   'gut in Schuss',  //     x 
+   'guten Mutes sein', // *  
  ];
 
 export default g;

@@ -28,6 +28,7 @@ const z = [
    'zerzausen',    // zerzausen:  *
    'Zeug (was das Z. hält)', // * duplicated
    'Zicke, Zicken machen',  // *
+   'zickig',  // zickig *
    'Ziegelwand', // Ziegelwand: *
    'zig',   // zig: *
    'Zinken',  // Zinken: *

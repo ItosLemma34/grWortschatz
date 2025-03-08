@@ -9,12 +9,12 @@ const h = [
   // 'hämmern',
    'Handfessel, Handschelle', // *
    'Handwerk legen', // *
-   'hanebüchen',  //hanebüchen:
-   'hapern',  //hapern:
-   'harren',  //harren:
+   'hanebüchen',  // hanebüchen: *
+   'hapern',  // hapern: *
+   'harren',  // harren: *
    'hart im Nehmen sein', //
    'Hatz',  // Hatz: *
-   'hausieren', //hausieren:
+   'hausieren', // hausieren: *
    'Hautausschlag' , //Hautausschlag:
    'hecheln', //hecheln: 
    'hechten, Hechtsprung', //

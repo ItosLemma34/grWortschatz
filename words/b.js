@@ -51,12 +51,13 @@ const b = [
     'bohnern',  //bohnern:  
     'Bonze',   //Bonze:
     'Bordstein', // Bordstein: *
-    'borniert',  //borniert: 
+    'borniert',  // borniert: *
     'Bösewicht',  //Bösewicht:  
     'Boulette',   //Boulette:  *
     'brandschatzen',  //brandschatzen: 
     'Brause',    //Brause:  
     'brausen',  //brausen: 
+    'brenzlig', // brenzlig: *
     'Brett, Bretterwand, Bretterverschlag',  // * 
     'Brimborium',   //Brimborium:  
     'bröckeln',  //bröckeln: 

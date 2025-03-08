@@ -36,7 +36,8 @@ const e = [
    'entwinden',  // entwinden:  *
    'erdreisten (sich)',  // *  
    'ergattern',   //ergattern:  
-   'erhaschen',   //erhaschen: 
+   'erhaschen',   //erhaschen:
+   'erheblich, unerheblich', // * duplicated 
    'Erker', // Erker: *  
    'erkiesen',   //erkiesen:  
    'erpicht',   //erpicht: 

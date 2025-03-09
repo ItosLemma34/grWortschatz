@@ -12,11 +12,11 @@ const h = [
    'hanebüchen',  // hanebüchen: *
    'hapern',  // hapern: *
    'harren',  // harren: *
-   'hart im Nehmen sein', //
+   'hart im Nehmen sein', // *
    'Hatz',  // Hatz: *
    'hausieren', // hausieren: *
-   'Hautausschlag' , //Hautausschlag:
-   'hecheln', //hecheln: 
+   'Hautausschlag' , // Hautausschlag: *
+   'hecheln', // hecheln: *
    'hechten, Hechtsprung', //
    'Heckenschütze',  //Heckenschütze:
    'Heft des Handelns nehmen', //

@@ -13,6 +13,7 @@ const g = [
    'Gehabe',  // Gehabe:  *  
    'geheftet, heften',  //
    'Geheiß', // Geheiß: *  
+   'gehetzt, hetzen', // * duplicated
    'geizen',   //geizen:  
    'Gekrächz',  //Gekrächz:  
    'Gelände',   // Gelände:  *

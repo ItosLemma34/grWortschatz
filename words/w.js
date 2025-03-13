@@ -26,6 +26,7 @@ const w = [
    'wie aus dem Ei gepellt',  // * duplicated
    'wie bestellt und nicht abgeholt', // *
    'wienern' , // wienern: *
+   'wimmeln, Gewimmel',  // *  duplicated
    'wimmern' , // wimmern: *
    'Wimper',   // Wimper: *
    'winden' ,  // winden: *

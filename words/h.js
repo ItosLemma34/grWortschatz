@@ -2,8 +2,8 @@ const h = [
   'Habgier',  // Habgier: *
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
    'Häkchen',  // Häkchen: *
-   'haken, Haken, Haken schlagen', // Review the definitions
-   'halbseiden',  // halbseiden: *  but find reference in Marzgefallene
+   'haken, Haken, Haken schlagen', // *
+   'halbseiden',  // halbseiden: *  
    'Halunke',  // Halunke: *
    'hämisch',  // hämisch: *
   // 'hämmern',
@@ -17,20 +17,20 @@ const h = [
    'hausieren', // hausieren: *
    'Hautausschlag' , // Hautausschlag: *
    'hecheln', // hecheln: *
-   'hechten, Hechtsprung', //
-   'Heckenschütze',  //Heckenschütze:
-   'Heft des Handelns nehmen', //
+   'hechten, Hechtsprung', // *
+   'Heckenschütze',  // Heckenschütze:  *
+   'Heft des Handelns nehmen', // *
    'Heidenarbeit', // Heidenarbeit:  *
-   'Heidenrespekt/angst', //
+   'Heidenrespekt/angst', // *
    'Heimtücke, heimtückisch', // *
-   'heimzahlen',  //heimzahlen:
+   'heimzahlen',  // heimzahlen: *
    'heischen', // heischen: *
    'heiser',  // heiser: *
-   'Hemd (sich ins H. machen)', //
-   'hereinlegen',  //hereinlegen:
-   'herumfuhrwerken',  // herumfuhrwerken:
-   'herumlungern', //herumlungern:
-   'hetzen',  //hetzen:
+   'Hemd (sich ins H. machen)', // *
+   'hereinlegen',  // hereinlegen:  *
+   'herumfuhrwerken',  // herumfuhrwerken: *
+   'herumlungern', // herumlungern:  *
+   'hetzen, gehetzt',  // hetzen: * duplicated 
    'heucheln', //heucheln:
    'heulen',  //heulen:
    'hinterlistig',  //hinterlistig:

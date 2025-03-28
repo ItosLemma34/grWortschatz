@@ -1,9 +1,9 @@
 const g = [
-   'Gage',  //Gage:  
+   'Gage',  // Gage:  *
    'Ganove', // Ganove: * 
    'Gassi gehen',  // 'Gassi gehen' *
-   'Geäst',  //Geäst:  
-   'Gebälk', //Gebälk:  
+   'Geäst, Ast',  // * duplicated  
+   'Gebälk, Balken', // * duplicated  
    'Gebrüll, brüllen',  // * duplicated 
    'Gebüsch, Busch',  // * duplicated 
    'gediegen',  // gediegen: *

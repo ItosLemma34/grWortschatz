@@ -1,6 +1,7 @@
 const h = [
   'Habgier',  // Habgier: *
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
+   'hadern',  // hadern: * 
    'Häkchen',  // Häkchen: *
    'haken, Haken, Haken schlagen', // *
    'halbseiden',  // halbseiden: *  
@@ -31,23 +32,23 @@ const h = [
    'herumfuhrwerken',  // herumfuhrwerken: *
    'herumlungern', // herumlungern:  *
    'hetzen, gehetzt',  // hetzen: * duplicated 
-   'heucheln', //heucheln:
-   'heulen',  //heulen:
-   'hinterlistig',  //hinterlistig:
-   'hinters Licht führen', //
+   'heucheln', // heucheln: *
+   'heulen',  // heulen:  *
+   'hinterlistig',  // hinterlistig: *
+   'hinters Licht führen', // *
    'hobeln', // hobeln: *
    'hochgestochen', // hochgestochen: *
    'hocken, Hocke, Hocker', // *
-   'Hölle heißmachen',  //
-   'Holzstoß',  //Holzstoß:
-   'hopsnehmen', //hopsnehmen:
-   'Hornochse',  // Hornochse:
-   'Hose (in die H. machen/gehen)', //
-   'Hosenmatz',  //Hosenmatz:
-   'Hosennaht',  //Hosennaht:
+   'Hölle heißmachen',  //  *
+   'Holzstoß',  // Holzstoß: *
+   'hopsnehmen', // hopsnehmen: *
+   'Hornochse',  // Hornochse:  *
+   'Hose (in die H. machen/gehen)', // *   find under: Hose xxx
+   'Hosenmatz',  // Hosenmatz:  *
+   'Hosennaht',  // Hosennaht:  *
    'Hudelei, Lobhudelei', // * duplicated
-   'Hühnerauge', //Hühnerauge:
-   'humpeln',  //humpeln:
+   'Hühnerauge', // Hühnerauge: *
+   'humpeln',  // humpeln:  *
    'Hüne',  // Hüne: *
    'huschen',  // huschen: *
  ];

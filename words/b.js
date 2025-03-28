@@ -1,7 +1,7 @@
 const b = [
     'Bahre',  // Bahre:
-    'Balken', //Balken:  
-    'ballern',  //ballern:  
+    'Balken, Gebälk', // *  duplicated  
+    'ballern',  // ballern:  
     'Banderole', // Banderole:
     'barsch',   //barsch:
     'Bartstoppeln', //Bartstoppeln: 

@@ -71,6 +71,7 @@ const a = [
 	'armer Schlucker', // * duplicated
 	'Arsch, jmdm. in den A. kriechen',  //
 	'Asservat',  // Asservat:
+	'Ast, Geäst', // * duplicated
 	'Attest',     //Attest: 
 	'auf Biegen und Brechen',  // 
 	'auf dem Kerbholz haben', // * duplicated

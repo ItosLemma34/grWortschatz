@@ -3,7 +3,8 @@ const e = [
    'echoen',  // echoen:
    'Ei (wie aus dem Ei gepellt)', // * duplicated  
    'einbrocken',  //einbrocken:  
-   'einbuchten',  //einbuchten:  
+   'einbuchten',  //einbuchten:
+   'eindösen', // *  
    'Eindruck schinden',  //  
    'einfädeln',  // einfädeln: 
    'Eingebung',   // Eingebung: * 
@@ -19,7 +20,7 @@ const e = [
    'einrasten',  // einrasten: * 
    'einreißen',  //einreißen:  
    'einrüsten',  //einrüsten:  
-   'einseifen',  //einseifen: 
+   'einseifen',  // einseifen:  *
    'Einstand' ,  // Einstand:
    'einstäuben',  //einstäuben:  
    'einstecken',  //einstecken: 

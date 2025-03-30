@@ -30,7 +30,8 @@ const l = [
    'loseisen',  // loseisen: *
    'lotsen',  // lotsen: *
    'Luder',  // Luder: *
-   'lugen',  // lugen: *         
+   'lugen',  // lugen: *
+   'Lümmel', // Lümmel: *         
    'lumpen lassen (sich nicht)', // *
    'Lunte riechen', // *
 ];

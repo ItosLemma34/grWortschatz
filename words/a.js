@@ -124,7 +124,7 @@ const a = [
 	'auftischen',    //auftischen:  
 	'Aufwartung machen', // *
 	'aufwiegen',     //aufwiegen:  
-	'aus dem Konzept bringen',   //  
+	'aus dem Konzept bringen',   // *  
 	'aus dem Staub machen (sich)', //  
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 

@@ -6,7 +6,7 @@ const e = [
    'einbuchten',  //einbuchten:
    'eindösen', // *  
    'Eindruck schinden',  //  
-   'einfädeln',  // einfädeln: 
+   'einfädeln',  // einfädeln: *
    'Eingebung',   // Eingebung: * 
    'Eingeweide', // Eingeweide: *
    'einkerben',  // einkerben: *

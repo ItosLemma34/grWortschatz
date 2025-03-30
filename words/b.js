@@ -1,4 +1,5 @@
 const b = [
+    'Backfisch', // Backfisch: *
     'Bahre',  // Bahre:
     'Balken, Gebälk', // *  duplicated  
     'ballern',  // ballern:  
@@ -19,6 +20,7 @@ const b = [
     'Beil',  // Beil: * 
     'Beine in den Bauch',  //
     'beipflichten',   //beipflichten:  
+  //  'beköstigen, verköstigen', // * duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     'Bengel',     //Bengel:  
     'benommen',   //benommen: 
     'bepinseln, pinseln', // * duplicated

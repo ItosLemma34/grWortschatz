@@ -1,34 +1,33 @@
 const g = [
    'Gage',  // Gage:  *
    'Ganove', // Ganove: * 
-   'Gassi gehen',  // 'Gassi gehen' *
+   'Gassi gehen',  //  *
    'Geäst, Ast',  // * duplicated  
    'Gebälk, Balken', // * duplicated  
    'Gebrüll, brüllen',  // * duplicated 
    'Gebüsch, Busch',  // * duplicated 
    'gediegen',  // gediegen: *
    'gefasst',  // gefasst: *
-   'geflissentlich',   //geflissentlich: 
+   'geflissentlich',  // geflissentlich: *
    'gefügig', // gefügig: *
    'Gehabe',  // Gehabe:  *  
-   'geheftet, heften',  //
    'Geheiß', // Geheiß: *  
    'gehetzt, hetzen', // * duplicated
-   'geizen',   //geizen:  
-   'Gekrächz',  //Gekrächz:  
+   'geizen',   // geizen:  *
+   'Gekrächz',  // Gekrächz:  * 
    'Gelände',   // Gelände:  *
-   'Geländer',  //Geländer:  
-   'gelinde',   //gelinde:  
+   'Geländer',  // Geländer: * 
+   'gelinde',   // gelinde:  *
    'Gemächt',  // Gemächt: *
-   'Gemurmel',  //Gemurmel:  
-   'gepfeffert', //gepfeffert:  
+   'Gemurmel',  // Gemurmel:  *
+   'gepfeffert, pfeffern', // *  duplicated 
    'Geplänkel, Vorgeplänkel',  // *  duplicated  
-   'Geplapper',  //Geplapper: 
-   'gequollen, quellen', // 
-   'gerädert (sich wie g. fühlen)',  //
-   'Geräuschkulisse',  //Geräuschkulisse:  
-   'gerieren',   //gerieren:  
-   'gerinnen',   //gerinnen:  
+   'Geplapper',  // Geplapper: *
+   'gequollen, quellen',  // * duplicated
+   'gerädert',  // *
+   'Geräuschkulisse', // Geräuschkulisse:  *
+   'gerieren (sich)',   // * 
+   'gerinnen',   // gerinnen:  *
    'Gerippe',    //Gerippe:  
    'gerissen',   //gerissen:  
    'Geröll',     //Geröll:  
@@ -71,6 +70,7 @@ const g = [
    'grämen',  //grämen:  
    'grapschen',  //grapschen:
    'Grimm', //  Grimm: *
+   'grölen', // grölen:  *
    'große Stücke auf jmdn. halten',  //  
    'Grünschnabel',  //Grünschnabel:  x
    'grunzen',   //grunzen:  x

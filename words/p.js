@@ -12,7 +12,7 @@ const p = [
    'Pfaffe', // Pfaffe: *
    'Pfanne (in die P. hauen)',  // *   duplicated
    'Pfau',  // Pfau: *
-   'pfeffern',  // pfeffern:  *
+   'pfeffern, gepfeffert',  //  *  duplicated
    'Pfeiler',  // Pfeiler:  *
    'pferchen, einpferchen', // * duplicated
    'pfiffig',  // pfiffig: *

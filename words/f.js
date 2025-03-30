@@ -9,7 +9,7 @@ const f = [
    'Fasan',  //Fasan:  
    'faseln',  //faseln:  
    'Fass',  // Fass: *  
-   'Fatzke', //Fatzke:
+   'Fatzke', // Fatzke: *
    'fauchen, anfauchen', // duplicated 
    'fegen',  //fegen:  
    'feilbieten',  //feilbieten:  
@@ -38,7 +38,7 @@ const f = [
    'Floskel', // Floskel: 
    'flöten', //flöten:  
    'flott',  //flott:    
-   'Fluse',  //Fluse:  
+   'Fluse',  // Fluse:  
    'Flüstertüte',  //Flüstertüte:  
    'flutschen',  //flutschen:  
    'Folie',  //Folie: 

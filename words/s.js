@@ -178,6 +178,7 @@ const s = [
 	'stülpen (sich)', // *
    'Stummel',  // Stummel: *
    'stümperhaft', // stümperhaft: *
+   'stutzig', // stutzig: *
    'süffisant',  // süffisant: *
    'summen, aufsummen', // * duplicated
    'Sündenpfuhl', // Sündenpfuhl: *

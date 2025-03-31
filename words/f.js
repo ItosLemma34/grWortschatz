@@ -37,7 +37,7 @@ const f = [
    'flink',  //flink: 
    'Floskel', // Floskel: 
    'flöten', //flöten:  
-   'flott',  //flott:    
+   'flott',  // flott: *    
    'Fluse',  // Fluse:  
    'Flüstertüte',  //Flüstertüte:  
    'flutschen',  //flutschen:  

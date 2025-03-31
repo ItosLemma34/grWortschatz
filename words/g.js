@@ -28,9 +28,9 @@ const g = [
    'Geräuschkulisse', // Geräuschkulisse:  *
    'gerieren (sich)',   // * 
    'gerinnen',   // gerinnen:  *
-   'Gerippe',    //Gerippe:  
-   'gerissen',   //gerissen:  
-   'Geröll',     //Geröll:  
+   'Gerippe',    // Gerippe: * 
+   'gerissen',   // gerissen:  *
+   'Geröll',     // Geröll: * 
    'Gerümpel',   //Gerümpel:  
    'Gerüst',     // Gerüst:  
    'gesalzen',   //gesalzen:  
@@ -45,6 +45,7 @@ const g = [
    'Gestell',    //Gestell:  
    'Gestöber',   //Gestöber:  
    'Gesträuch',  //Gesträuch:  
+   'Gestrüpp',  // Gestrüpp: *
    'getäfelt, täfeln', //  * duplicated
    'Getümmel',  //Getümmel:  
    'Geturtel',  //Geturtel:  

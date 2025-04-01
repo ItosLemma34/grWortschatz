@@ -33,6 +33,7 @@ const a = [
 	'an der Backe haben', //
 	'an die große Glocke hängen',  
 	'anbändeln',    //anbändeln:
+	'Anbiederung', // Anbiederung:  *
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    //anbrechen:  
 	'anecken',      //anecken:   
@@ -98,7 +99,7 @@ const a = [
 	'aufdonnern (sich)',  //
 	'auffächern', //auffächern:
 	'auffliegen',  // auffliegen:   
-	'aufgabeln',   //aufgabeln:  
+	'aufgabeln',   // aufgabeln:  
 	'aufgedunsen', // aufgedunsen:  *
 	'aufgekratzt', // aufgekratzt: * 
 	'aufgelöst',   //aufgelöst:  
@@ -128,13 +129,15 @@ const a = [
 	'aus dem Staub machen (sich)', //  
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
+	'ausbaldowern', // ausbaldowern:  *
 	'ausbüxen',    //ausbüxen:  
 	'Ausdünstung',  //Ausdünstung:  
 	'Ausfallstraße',   //Ausfallstraße:  
 	'ausfressen',   //ausfressen:  
 	'ausheben, Aushebung',  //  * 
 	'aushorchen',  //aushorchen:  
-	'ausklinken',  //ausklinken:  
+	'ausklinken',  //ausklinken:
+	'ausmisten',  // ausmisten: *  
 	'ausquetschen',  // ausquetschen: 
 	'ausräuchern', // ausräuchern: * 
 	'Ausreißer',    //Ausreißer:  

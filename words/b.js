@@ -68,7 +68,7 @@ const b = [
     'Brüstung',  //Brüstung: 
     'Buche',    //Buche: 
     'Büchse',   //Büchse: 
-    'Buckel',   //Buckel: 
+    'Buckel, bucklig',  // *  
     'bücken (sich)',  // 
     'buddeln, ausbuddeln',  // 
     'Bude, Büdchen',  // 

@@ -23,6 +23,7 @@ const u = [
    'ungehobelt',  // ungehobelt: *
    'ungelegen',  // ungelegen: *
    'ungestüm',  // ungestüm: *
+   'ungesühnt', // ungesühnt: *
    'unten durch sein', // *
    'unter dem Pantoffel stehen', // *
    'unter Fittiche nehmen',  // *

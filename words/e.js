@@ -4,7 +4,7 @@ const e = [
    'Ei (wie aus dem Ei gepellt)', // * duplicated  
    'einbrocken',  //einbrocken:  
    'einbuchten',  //einbuchten:
-   'eindösen', // *  
+   'eindösen, dösen', // *  duplicated
    'Eindruck schinden',  //  
    'einfädeln',  // einfädeln: *
    'Eingebung',   // Eingebung: * 

@@ -31,11 +31,11 @@ const g = [
    'Gerippe',    // Gerippe: * 
    'gerissen',   // gerissen:  *
    'Geröll',     // Geröll: * 
-   'Gerümpel',   //Gerümpel:  
-   'Gerüst',     // Gerüst:  
-   'gesalzen',   //gesalzen:  
-   'geschliffen',  //geschliffen:  
-   'geschniegelt',  //geschniegelt:  
+   'Gerümpel',   // Gerümpel:  *
+   'Gerüst',     // Gerüst:  * 
+   'gesalzen',   // gesalzen:  *
+   'geschliffen',  // geschliffen: * 
+   'geschniegelt',  // geschniegelt: * 
    'Geschreibsel',  //Geschreibsel:  
    'Geschwafel',    //Geschwafel:  
    'Gesindel',    //Gesindel:  

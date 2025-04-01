@@ -164,6 +164,7 @@ const s = [
    'Stöpsel',   // Stöpsel: *
    'stolzieren', // stolzieren: *
    'strampeln',  // strampeln: *
+   'Strauch',  // Strauch: *
    'Strebe', // Strebe: *
    'Streich spielen', // *
    'Strickjacke', // Strickjacke: *

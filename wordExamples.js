@@ -11,10 +11,27 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+Strauch: [
+	'der <strong>Strauch</strong>, die Sträucher: bushes, shrubbery'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strauch"target="target2">Strauch</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strauch"target="target3">Strauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Strauch"target="target4">Strauch</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',   
+	'Wie ein pelziger Flaum überzog maigrünes Grass die Buckellandschaft, dazwischen <strong>Sträucher</strong> und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+	'<u>Lunapark</u>', 
+	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte.  (<i>Lunapark</i>, 80)',
+	'Da tat sich etwas. Die <strong>Sträucher</strong> an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks wucherte, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 ausbaldowern: [
 	'<strong>ausbaldowern</strong>: spy, find out '+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">ausbaldowern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausbaldowern"target="target2">ausbaldowern</a>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausbaldowern"target="target1">ausbaldowern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausbaldowern"target="target2">ausbaldowern</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausbaldowern"target="target3">ausbaldowern</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausbaldowern"target="target4">ausbaldowern</a>',
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
@@ -23,7 +40,7 @@ ausbaldowern: [
 ],
 Anbiederung: [
 	'<strong>Anbiederung</strong>: ingratiation, sucking up to'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">Anbiederung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anbiederung"target="target2">Anbiederung</a>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anbiederung"target="target1">Anbiederung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anbiederung"target="target2">Anbiederung</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anbiederung"target="target3">Anbiederung</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anbiederung"target="target4">Anbiederung</a>',
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
@@ -32,7 +49,7 @@ Anbiederung: [
 ],
 ausmisten: [
 	'<strong>ausmisten</strong>: clean sth. out'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">ausmisten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausmisten"target="target2">ausmisten</a>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausmisten"target="target1">ausmisten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausmisten"target="target2">ausmisten</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausmisten"target="target3">ausmisten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausmisten"target="target4">ausmisten</a>',
 	'<u>Der nasse Fisch</u>',   
 	'<u>Märzgefallene</u>',    
@@ -45,7 +62,7 @@ ausmisten: [
 ungesühnt: [
 	'<strong>sühnen</strong>: atone for, expiate'+
 	'<br><strong>ungesühnt</strong>: unpunished, unavenged'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">ungesühnt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unges%C3%BChnt"target="target2">ungesühnt</a>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ungesuehnt"target="target1">ungesühnt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unges%C3%BChnt"target="target2">ungesühnt</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ungesuehnt#unges%C3%BChnt"target="target3">ungesühnt</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=unges%C3%BChnt"target="target4">ungesühnt</a>',
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
@@ -117,7 +134,7 @@ Backfisch: [
 'eindösen, dösen': [
 	'<strong>dösen</strong>: doze, drowse'+
 	'<br><strong>eindösen</strong>: doze off, nap'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">dösen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eind%C3%B6sen"target="target2">eindösen</a>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/doesen"target="target1">dösen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eind%C3%B6sen"target="target2">eindösen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dosen_2"target="target3">dösen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eind%C3%B6sen"target="target4">eindösen</a>',
 	'<u>Märzgefallene</u>',
 	'Kirie hatte sich in ihr Körbchen gerollt und <strong>döste</strong> vor sich hin, Charly machte das Radio an und entkorkte eine Flasche Rotwein. (<i>Märzgefallene</i>, 282)',
@@ -128,7 +145,7 @@ Backfisch: [
 'dösen, eindösen': [
 	'<strong>dösen</strong>: doze, drowse'+
 	'<br><strong>eindösen</strong>: doze off, nap'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">dösen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eind%C3%B6sen"target="target2">eindösen</a>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/doesen"target="target1">dösen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eind%C3%B6sen"target="target2">eindösen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dosen_2"target="target3">dösen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eind%C3%B6sen"target="target4">eindösen</a>',
 	'<u>Märzgefallene</u>',
 	'Kirie hatte sich in ihr Körbchen gerollt und <strong>döste</strong> vor sich hin, Charly machte das Radio an und entkorkte eine Flasche Rotwein. (<i>Märzgefallene</i>, 282)',
@@ -6617,6 +6634,7 @@ lugen: [
 	'<u>Lunapark</u>',
 	'Er (<i>Leo Juretska</i>) hatte an der Litfaßsäule.. gestanden, nicht weit von Katsches Haus, und gewartet. Schon Mitternacht durch,.. da erschienen die andere (<i>seine kommunistischen Kollegen</i>) auf der Bildfläche, von der Ackerstraße her,.. wo Leo auf Katsche wartete, und er hatte sich hinter der Litfaßsäule versteckt und gehofft, die Kerle mochten so schnell als möglich weiterziehen. Doch sie waren stehen geblieben,.. hatten getuschelt, und als Leo einmal um die Säule <strong>lugte</strong>, sah er, dass sie zu pinseln begonnen hatten, ganz langsam und aufreizend.  (<i>Lunapark</i>, 248)' ,
 	'"Warten Sie hier", sagte er (<i>Rath</i>) dem Taxifahrer und stieg aus. Ging hinüber zu der Einfahrt und <strong>lugte</strong> vorsichtig um die Ecke.  (<i>Lunapark</i>, 283)',
+	'Da tat sich etwas. Die Sträucher an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad <strong>lugen</strong> konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks wucherte, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
 ],
 'lumpen lassen (sich nicht)': [
 	'<strong>sich nicht lumpen lassen</strong>: live it up, do in style' +
@@ -11705,15 +11723,17 @@ wuchten: [
 	'<u>Lunapark</u>',
 	'Rath betrachtete die Mauer, die das Anwesen (<i>Marlows Villa</i>) umgab. Gut zweieinhalb Meter hoch. Er brauchte vier Anläufe, bis er die obere Kante mit den Händen erreicht hatte und sich langsam hochziehen konnte, und war völlig außer Puste, als er endlich mit einem Fuß Halt fand und sich komplett auf die Mauerkrone <strong>wuchten</strong> konnte. (<i>Lunapark</i>, 121)',
 ],
-// ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 wuchern: [
 	'<strong>wuchern</strong>: proliferate, be rampant; profiteer, practise usury ' +
 	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;<a href="https://www.dwds.de/wb/wuchern"target="target2">wuchern</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wuchern"target="target4">wuchern</a>    ',
 	'<u>Der nasse Fisch</u>',
 	'Unten (<i>im Café Berlin</i>) war das Tanzcafé mit der Weinstube verbunden, die als besondere Attraktion einen subtropischen Dschungel im Erdgeschoss wachsen ließ, der wirkte, als sei der benachbarte Zoologische Garten über seine Grenzen <strong>gewuchert</strong>. (<i>Der nasse Fisch</i>, 119-20)' ,
-	//'<u>Märzgefallene</u>',
+	//'<u>Märzgefallene</u>',  
+	'<u>Lunapark</u>',
+	'Da tat sich etwas. Die Sträucher an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks <strong>wucherte</strong>, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)' ,
 ],
+// ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 'wälzen (sich)': [
 	'<strong>wälzen</strong>: toss, roll; pore over <br><strong>sich wälzen</strong>: roll, writhe, toss and turn  ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/waelzen"target="target1">wälzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/w%C3%A4lzen"target="target2">wälzen</a>  ' +

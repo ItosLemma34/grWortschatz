@@ -32,7 +32,8 @@ const s = [
    'Schlagseite',  // Schlagseite: *
    'schlaksig', // schlaksig *
    'Schlamassel', // Schlamassel: *
-   'schlampig',  //schlampig: *
+   'Schlampe', // Schlampe: *
+   'schlampig',  // schlampig: *
    'Schlauberger', // Schlauberger: *
    'Schlauch', // Schlauch: *
    'schleifen, Schleifer' ,  //  *

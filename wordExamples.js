@@ -11,10 +11,27 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+Schlampe: [
+	'die <strong>Schlampe</strong>,-<strong>n</strong>: slut'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlampe"target="target1">Schlampe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlampe"target="target2">Schlampe</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schlampe"target="target3">Schlampe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlampe"target="target4">Schlampe</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'Der Blick des Mannes (<i>Herr Brachwitz</i>) wanderte von Rath zu seiner Frau und wieder zurück. "Und du <strong>Schlampe</strong>", fuhr er sie an, "läufst um diese Zeit noch im Morgenmantel rum? Mach, dass du rauskommst, und zieh dir was an!" (<i>Lunapark</i>, 189)',
+	'"Was ist passiert?", zischte Alex, während sie ins Schaufenster starrte. "Hat diese <strong>Schlampe</strong> meinen Bruder verraten?" "So soll es vielleicht aussehen", sagte Charly, "aber das glaube ich nicht. Wenn Else wirklich eine Verräterin wäre, hätte man uns auch verhaftet. (<i>Lunapark</i>, 321-22)',   
+],
+jaulen: [
+	'<strong>jaulen</strong>: howl, whine, caterwaul'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/jaulen"target="target1">jaulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jaulen"target="target2">jaulen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/jaulen"target="target3">jaulen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=jaulen"target="target4">jaulen</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',   
+	'<u>Lunapark</u>',  
+	'Verdammt! Was machte Gereon in der Landsberger Allee? Wie lange er wohl schon hier war? Ob er sie bemerkt hatte? Ohne darüber nachzudenken, was sie tat, dass sie dabei war, sich gerade vor ihrem eigenen Ehemann zu verstecken, huschte Charly in einen Hauseingang und zog den Hund hinter sich her, der ein kurzes, überraschtes <strong>jaulen</strong> hören ließ. (<i>Lunapark</i>, 117-18)',
+	'Die Kellnerin hatte gerade zwei Kännchen Kaffee gebracht, da <strong>jaulte</strong> das Signal eines Überfallwagens über die Schlesische Straße. Das <strong>Jaulen</strong> wurde immer lauter, und kurz darauf war der Wagen zu sehen.  (<i>Lunapark</i>, 319)',  
+],
 Strauch: [
 	'der <strong>Strauch</strong>, die Sträucher: bushes, shrubbery'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strauch"target="target2">Strauch</a>'+
@@ -1449,14 +1466,16 @@ abschüssig: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 abgebrüht: [
-	'<strong>abgebrüht</strong>: cool, callous, hardened <br><strong>abbrühen</strong>: scald, boil out ' +
-	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a> &nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht"target="target2">abgebrüht</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abbr%C3%BChen"target="target3">abbrühen</a> ',
+	'<strong>abgebrüht</strong>: cool, callous, hardened <br><strong>abbrühen</strong>: scald, boil out'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a> &nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht"target="target2">abgebrüht</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abbr%C3%BChen"target="target3">abbrühen</a>',
 	'<u>Der nasse Fisch</u>',  
-	'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hutkrempe in die Stirn gezogen. Rath musste ein Lachen unterdrücken. Jänicke gab sich die größte Mühe, wie ein <strong>abgebrühter</strong> Großstadtbulle auszusehen, doch die ewig roten Wangen verrieten den Jungen vom Lande.  (<i>Der nasse Fisch</i>, 17)'  ,
-	'Während die Menschen ins Kino drängten, stand Rath an den Schaukästen und betrachtete die Werbefotos. Gustav Fröhlich als Schupo und eine Frau, die ihn ein wenig an Charlotte erinnerte, nur dass die hier viel aufgedonnerter daherkam. Aber so war das eben im Film, da legten ja sogar die Männer Lippenstift auf. Selbst wenn sie einen Schupo spielten. Er musste schmunzeln, als er sich die <strong>abgebrühten</strong> Schupos vom Alex mit rot gemalten Lippen vorstellte.  (<i>Der nasse Fisch</i>, 181-82)' ,
-	'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine Meute Hunde wartete. Scharfe Hunde.. Dort wartete ein Trupp <strong>abgebrühter</strong> Uniformierter, die nicht lange fackelten, denn dorthin würden vor allem die fliehen, die sich in diesem Kellerlabyrinth bestens auskannten. Die harten Jungs.  (<i>Der nasse Fisch</i>, 242)' ,
+	'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hutkrempe in die Stirn gezogen. Rath musste ein Lachen unterdrücken. Jänicke gab sich die größte Mühe, wie ein <strong>abgebrühter</strong> Großstadtbulle auszusehen, doch die ewig roten Wangen verrieten den Jungen vom Lande. (<i>Der nasse Fisch</i>, 17)',
+	'Während die Menschen ins Kino drängten, stand Rath an den Schaukästen und betrachtete die Werbefotos. Gustav Fröhlich als Schupo und eine Frau, die ihn ein wenig an Charlotte erinnerte, nur dass die hier viel aufgedonnerter daherkam. Aber so war das eben im Film, da legten ja sogar die Männer Lippenstift auf. Selbst wenn sie einen Schupo spielten. Er musste schmunzeln, als er sich die <strong>abgebrühten</strong> Schupos vom Alex mit rot gemalten Lippen vorstellte.  (<i>Der nasse Fisch</i>, 181-82)',
+	'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine Meute Hunde wartete. Scharfe Hunde.. Dort wartete ein Trupp <strong>abgebrühter</strong> Uniformierter, die nicht lange fackelten, denn dorthin würden vor allem die fliehen, die sich in diesem Kellerlabyrinth bestens auskannten. Die harten Jungs.  (<i>Der nasse Fisch</i>, 242)',
 	'Meist blieb Gennat in seinem fast wie ein Wohnzimmer eingerichteten Büro sitzen, aß Kuchen und zog die Fäden. Er wusste über alle Ermittlungen Bescheid, besonders knifflige Verhöre übernahm er immer noch selbst, sein psychologischer Scharfsinn war berüchtigt. Er hatte schon die <strong>abgebrühtesten</strong> Kerle dazu gebracht, ihm ihr Herz auszuschütten. (<i>Der nasse Fisch</i>, 276)',
+	'<u>Lunapark</u>',
+	'Sie (<i>Charly</i>) hatte Alex an den Armen gepackt und drehte sie zu den Schaufenstern um. Charlys rüde, etwas brutale Art wirkte wie ein Eimer kaltes Wasser bei einem hysterischen Anfall: Aus der besorgten kleine Schwester wurde in Sekundenbruchteilen wieder die <strong>abgebrüte</strong> Alex, die sich jederzeit in Griff hatte und mit allen Härten des Lebens umzugehen gelernt hatte. (<i>Lunapark</i>, 321)',
 ],
 ausquetschen: [
 	'<strong>ausquetschen</strong>: &nbsp;pump so. for information, shake so. down; squeeze sth. <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/ausquetschen"target="target1">ausquetschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausquetschen"target="target2">ausquetschen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausquetschen"target="target3">ausquetschen</a>   ',
@@ -4388,6 +4407,7 @@ giggeln: [
 	'Charly konnte es nicht glauben, als sie das Gesicht sah, doch es gab keinen Zweifel: Sie kannte den Mann, der da in die Kamera <strong>glotzte</strong>, als sei er betrunken. (<i>Märzgefallene</i>, 450)',
 	'<u>Lunapark</u>',
 	'Vor dem Sturmlokal parkte eine große dunkelblaue Hanomag-Limousine. Rath stellte seinen Wagen auf der anderen Straßenseite ab und betrat das Lokal. Walter Bestmann stand hinter dem Tresen, polierte Gläser und <strong>glotzte</strong> den Eindringling mit großen Augen <strong>an</strong>.  (<i>Lunapark</i>, 195)' ,
+	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen schielten sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige tuschelten miteinander, andere <strong>glotzten</strong> einfach nur. (<i>Lunapark</i>, 320)',
 ],
 'anglotzen, glotzen': [
 	'<strong>(an)glotzen</strong>: gape, stare' +
@@ -4398,6 +4418,7 @@ giggeln: [
 	'Charly konnte es nicht glauben, als sie das Gesicht sah, doch es gab keinen Zweifel: Sie kannte den Mann, der da in die Kamera <strong>glotzte</strong>, als sei er betrunken. (<i>Märzgefallene</i>, 450)',
 	'<u>Lunapark</u>',
 	'Vor dem Sturmlokal parkte eine große dunkelblaue Hanomag-Limousine. Rath stellte seinen Wagen auf der anderen Straßenseite ab und betrat das Lokal. Walter Bestmann stand hinter dem Tresen, polierte Gläser und <strong>glotzte</strong> den Eindringling mit großen Augen <strong>an</strong>.  (<i>Lunapark</i>, 195)' ,
+	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen schielten sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige tuschelten miteinander, andere <strong>glotzten</strong> einfach nur. (<i>Lunapark</i>, 320)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -4969,7 +4990,7 @@ heulen: [
 	'<u>Lunapark</u>',
 	'Kronberg persönlich <strong>hockte</strong> bei der Leiche, auch die Spurensicherer nahmen einen toten SA-Mann ernst.  (<i>Lunapark</i>, 19)' ,
 	'Und so glaubte Rath auch in diesem Moment zunächst an Einbildung, als er das eingetrocknete rostbraune Rinnsal bemerkte, das sich, über ein paar Umwege mäandernd, zum Gully hinzog. Doch es war keine Einbildung, die Spur war schon ein wenig verblasst, aber noch gut zu erkennen. Rath <strong>hockte sich</strong> hin und tippte mit dem Finger hinein. Als er die Fingerspitze unter das fließende Wasser hielt, leuchtete es blutrot vor dem Emailleweiß des Waschbeckens. (<i>Lunapark</i>, 39)',
-	'Verdammt! Was machte Gereon in der Landsberger Allee? Wie lange er wohl schon hier war? Ob er sie bemerkt hatte? Ohne darüber nachzudenken, was sie tat, dass sie dabei war sich gerade vor ihrem eigenen Ehemann zu verstecken, huschte Charly in einen Hauseingang und zog den Hund hinter sich her.. Sie <strong>hockte sich</strong> hin und hielt Kirie die Schnauze zu. (<i>Lunapark</i>, 117-18)',
+	'Verdammt! Was machte Gereon in der Landsberger Allee? Wie lange er wohl schon hier war? Ob er sie bemerkt hatte? Ohne darüber nachzudenken, was sie tat, dass sie dabei war, sich gerade vor ihrem eigenen Ehemann zu verstecken, huschte Charly in einen Hauseingang und zog den Hund hinter sich her.. Sie <strong>hockte sich</strong> hin und hielt Kirie die Schnauze zu. (<i>Lunapark</i>, 117-18)',
 	'Rath wandte sich an einen Spurensicherer, der gerade neben der Leiche <strong>hockte</strong> und vorsichtig die Uniformtaschen untersuchte.. Der Spurensicherer stand auf und gab die Leiche für Doktor Karthaus frei, der <strong>sich</strong> seinerseits hin<strong>hockte</strong> und den Toten vorsichtig untersuchte.  (<i>Lunapark</i>, 170)',
 	'Und nun <strong>hockte</strong> sie (<i>Charly</i>) hier auf dem Betonboden und versuchte zu schlafen, was ihr nicht gelang.   (<i>Lunapark</i>, 177)',
 	'Rath legte auf und betrachtete seine Hand. Die zitterte immer noch. Er <strong>hockte sich</strong> in die Telefonzelle und atmete tief aus. Langsam fiel die Anspannung von ihm ab. (<i>Lunapark</i>, 200)',
@@ -7421,6 +7442,7 @@ Pritsche: [
 	'<u>Lunapark</u>',
 	'Draußen auf der Antonstraße standen zwei <strong>Pritschen</strong>wagen, auf die sie verfrachtet wurden, auf den einen die Männer, auf den anderen die Frauen. Selbst die Garderoben- und Serviermädchen hatte die SA aus der Kanzlei geholt.  (<i>Lunapark</i>, 17)' ,
 	'Sie (<i>Charly</i>) war mit rund einem Dutzend Frauen in einem dunklen Raum untergebracht, in dem es auf eine penetrante Weise nach Blut roch, nach alten Kartoffeln und Urin. An der Wand stand ein Blechfass, in das sie ihre Notdurft verrichten konnten. Betten oder <strong>Pritschen</strong> gab es keine, nicht einmal Stroh. (<i>Lunapark</i>, 177)' ,
+	'Er (<i>ein Überfallwagen</i>) kam mit hohem Tempo vom Schlesischen Tor her und hielt direkt gegenüber. Sechs, sieben Schutzpolizisten sprangen ab und sicherten die Einfahrt des Industriepalastes, ließen niemanden mehr hinein order hinaus. Dann folgte ein <strong>Pritschen</strong>wagen voller Blauuniformierter, die ebenfalls absaßen, kaum dass der Wagen zum Stehen gekommen war... (<i>Lunapark</i>, 319-20)' ,
 ],
 Pute: [
 	'die <strong>Pute</strong>,-<strong>n</strong>: turkey, hen; silly goose ' +
@@ -8520,12 +8542,12 @@ Sause: [
 	'Fritze ließ die Zeitung sinken und schaute sie (<i>Charly</i>) an. "Hier steht schon wieder was vom Tempelhofer Feld drin", sagte er.. "Wird \'ne Riesen<strong>sause</strong>!".. In zwei Wochen war auf dem Tempelhofer Feld ein großes Zeltlager der Hitlerjugend anberaumt.. "Schön", sagte Charly. "Wenn das so eine Riesen<strong>sause</strong> wird, dann steht am nächsten Tag bestimmt auch genug darüber in der Zeitung."  (<i>Lunapark</i>, 29)' ,
 ],
 schlampig: [
-	'<strong>schlampig</strong>: sloppy, slipshod, untidy ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlampig"target="target2">schlampig</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target3">schlampig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlampig"target="target4">schlampig</a> ',
+	'<strong>schlampig</strong>: sloppy, slipshod, untidy'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlampig"target="target2">schlampig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target3">schlampig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlampig"target="target4">schlampig</a>',
 	'<u>Lunapark</u>',
-	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können....  (<i>Lunapark</i>, 20)' ,
-	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante.  (<i>Lunapark</i>, 23)' , 
+	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können....  (<i>Lunapark</i>, 20)',
+	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante.  (<i>Lunapark</i>, 23)', 
 ],
 'stülpen (sich)': [
 	'(sich) <strong>stülpen</strong>: turn sth. up, inside out; put sth. on/over sth. <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stuelpen"target="target1">stülpen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/st%C3%BClpen"target="target2">stülpen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stulpen?q=st%C3%BClpen"target="target3">stülpen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stulpen"target="target4">stülpen</a>',
@@ -9174,14 +9196,14 @@ Scherbe: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 scheuern: [
-	'<strong>scheuern</strong>: rub, scrub, scour, scrape' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheuern"target="target1">scheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheuern"target="target2">scheuern</a>' +
+	'<strong>scheuern</strong>: rub, scrub, scour, scrape'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheuern"target="target1">scheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheuern"target="target2">scheuern</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scheuern"target="target3">scheuern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=scheuern"target="target4">scheuern</a>',
 	'<u>Der nasse Fisch</u>',
-	'Er zitterte. Nur die Seile in den Armbeugen hielten ihn aufrecht.... Er legte seine ganze Kraft in die Arme und vermied es, den Boden zu berühren. Das Seil <strong>scheuerte</strong>, er schwitzte am ganzen Körper. (<i>Der nasse Fisch</i>, 9)' ,
+	'Er zitterte. Nur die Seile in den Armbeugen hielten ihn aufrecht... Er legte seine ganze Kraft in die Arme und vermied es, den Boden zu berühren. Das Seil <strong>scheuerte</strong>, er schwitzte am ganzen Körper. (<i>Der nasse Fisch</i>, 9)',
 	'<u>Märzgefallene</u>',
-	'Den Mantel behielt sie (<i>Hannah</i>), der war ganz gut in Schuss, doch ihre Gummistiefel musste sie ebenfalls loswerden, sie hatte schon wunde Stellen an den Waden, so sehr <strong>scheuerten</strong> die.  (<i>Märzgefallene</i>, 172)' ,
-	'"Was machsten so?", fragte sie (<i>Hannah</i>) ihn (<i>Felix</i>). "Siehst schnieke aus." So gut gekleidet wie jetzt hatte sie Felix tatsächlich nie gesehen im Sommer. Nicht gerade ein feiner Anzug - ein grober Wollmantel, Manchesterhosen, eine Schirmmütze -, aber alles ohne einen einzigen Flicken oder eine durch<strong>gescheuerte</strong> Stelle. (<i>Märzgefallene</i>, 322)' ,
+	'Den Mantel behielt sie (<i>Hannah</i>), der war ganz gut in Schuss, doch ihre Gummistiefel musste sie ebenfalls loswerden, sie hatte schon wunde Stellen an den Waden, so sehr <strong>scheuerten</strong> die.  (<i>Märzgefallene</i>, 172)',
+	'"Was machsten so?", fragte sie (<i>Hannah</i>) ihn (<i>Felix</i>). "Siehst schnieke aus." So gut gekleidet wie jetzt hatte sie Felix tatsächlich nie gesehen im Sommer. Nicht gerade ein feiner Anzug - ein grober Wollmantel, Manchesterhosen, eine Schirmmütze -, aber alles ohne einen einzigen Flicken oder eine durch<strong>gescheuerte</strong> Stelle. (<i>Märzgefallene</i>, 322)',
 ],
 schielen: [
 	'<strong>schielen</strong>: squint, peer; lear at; be cross-eyed'+
@@ -9204,6 +9226,7 @@ schielen: [
 	'"Kann ich dich einen Moment sprechen?", sagte er (<i>Rath</i>) zu Gräf und <strong>schielte</strong> kurz zu den Spurensicherern hinüber. "Under vier Augen, meine ich."   (<i>Lunapark</i>, 184)',
 	'Rath wusste nicht, wie lang er im Auto gesessen hatte, ob ein oder zwei Stunden, aber das Warten hatte sich gelohnt. Vor der Kaserne tat sich was. Ein schwarzer Hanomag Rekord rollte aus der Einfahrt, die Kettenhunde in den Wachhäuschen rechts und links salutierten zackig und entboten den Deutschen Gruß. Rath rutschte tiefer in den Autositz und <strong>schielte</strong> über das Lenkrad.. Rath konnte Erich Sperling auf der Rückbank gut erkennen. (<i>Lunapark</i>, 275)',
 	'Direkt vor dem Mietshaus parkte ein schwarzer Ford, dennoch war der Mann nicht zuhause. Eine Zugehfrau öffnete und <strong>schielte</strong> neugierig auf Raths Dienstausweis, wagte aber nicht, eine der vielen Fragen, die ihr offensichtlich auf der Zunge lagen, auch zu stellen. (<i>Lunapark</i>, 301)',
+	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen <strong>schielten</strong> sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige tuschelten miteinander, andere glotzten einfach nur. (<i>Lunapark</i>, 320)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -10344,6 +10367,7 @@ tuscheln: [
 	'Auch in ihrem Freundeskreis, der eigentlich recht liberal eingestellt war, wurde es offensichtlich mit einem gewissen Argwohn beäugt, wenn ein schwarzer Mann mit einer weißen Frau tanzte. Sie (<i>Charly</i>) wusste, dass sie hinter ihrem Rücken <strong>tuscheln</strong> würde, gerade weil ihr Ehemann die Feier bereits verlassen hatte, aber das war ihr egal.  (<i>Lunapark</i>, 163)',
 	'Er (<i>Leo Juretska</i>) hatte an der Litfaßsäule.. gestanden, nicht weit von Katsches Haus, und gewartet. Schon Mitternacht durch,.. da erschienen die andere (<i>seine kommunistischen Kollegen</i>) auf der Bildfläche, von der Ackerstraße her,.. wo Leo auf Katsche wartete, und er hatte sich hinter der Litfaßsäule versteckt und gehofft, die Kerle mochten so schnell als möglich weiterziehen. Doch sie waren stehen geblieben,.. hatten <strong>getuschelt</strong>, und als Leo einmal um die Säule lugte, sah er, dass sie zu pinseln begonnen hatten, ganz langsam und aufreizend.  (<i>Lunapark</i>, 248)',
 	'"Also schön, meine Herren", sagte er (<i>Gräf</i>) dann in die Runde, "Sie kennen Ihre Aufgaben. Dann wollen wir mal." Die Männer begannen zu <strong>tuscheln</strong>, Stühle rückten. (<i>Lunapark</i>, 287)',
+	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen schielten sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige <strong>tuschelten</strong> miteinander, andere glotzten einfach nur. (<i>Lunapark</i>, 320)',
 ],
 // Ustart  
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',

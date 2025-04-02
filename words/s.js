@@ -1,5 +1,6 @@
 const s = [
    'Sägemehl', // Sägemehl: *
+   'Samt', // Samt:  *
    'Sauklaue', // Sauklaue:  *
    'säumen', // säumen:  *
    'Sause',  //Sause:  *
@@ -131,8 +132,9 @@ const s = [
    'spitzkriegen',  // spitzkriegen:  *
    'Sprechmuschel',  // Sprechmuschel:
    'spreizen', // spreizen: *
-   'Sprenkel', // Sprenkel: *
+//   'Sprenkel', // Sprenkel: *
    'Spreu vom Weizen trennen',  //  *
+   'Speichel',  // Speichel:  *
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *
    'Spüle, spülen', // *
@@ -140,6 +142,7 @@ const s = [
    'spuren',  // spuren: *
    'sputen (sich)', // *
    'Stadtstreicher', // Stadtstreicher:  *
+   'Staffage', // Staffage: *
    'staksen',  // staksen:  *
    'Standpauke',  // Standpauke: *
    'Stange',  // Stange:  *

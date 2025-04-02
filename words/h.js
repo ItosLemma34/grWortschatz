@@ -10,6 +10,7 @@ const h = [
   // 'hämmern',
    'Handfessel, Handschelle', // *
    'Handwerk legen', // *
+   'handzahm, zahm', // * duplicated
    'hanebüchen',  // hanebüchen: *
    'hapern',  // hapern: *
    'harren',  // harren: *

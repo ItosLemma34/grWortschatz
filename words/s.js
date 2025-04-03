@@ -111,6 +111,7 @@ const s = [
    'Schwenker', // Schwenker: *
    'schwirren', // schwirren: *
    'Schwitzkasten', // Schwitzkasten: *
+   'schwül, Schwüle', // *
    'schwülstig',  // schwülstig:  *
    'Seil',  // Seil: *
    'Sichtblende', // Sichtblende:  *
@@ -168,7 +169,7 @@ const s = [
    'Stöpsel',   // Stöpsel: *
    'stolzieren', // stolzieren: *
    'strampeln',  // strampeln: *
-   'Strauch',  // Strauch: *
+   'Strauch, Gesträuch',  //  * duplicated
    'Strebe', // Strebe: *
    'Streich spielen', // *
    'Strickjacke', // Strickjacke: *

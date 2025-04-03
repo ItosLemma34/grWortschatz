@@ -4,6 +4,7 @@ const p = [
    'pampig',  // pampig: *
    'Pappe', // Pappe: *
    'Pappenstiel', // Pappenstiel: *
+   'Parade (in die P. fahren)', // * duplicated
    'Patrone', // Patrone: *
    'pauken', // pauken: *
    'Pegel',  // Pegel: *

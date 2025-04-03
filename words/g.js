@@ -36,15 +36,15 @@ const g = [
    'gesalzen',   // gesalzen:  *
    'geschliffen',  // geschliffen: * 
    'geschniegelt',  // geschniegelt: * 
-   'Geschreibsel',  //Geschreibsel:  
-   'Geschwafel',    //Geschwafel:  
-   'Gesindel',    //Gesindel:  
-   'gesittet',    //gesittet:  
+   'Geschreibsel',  // Geschreibsel:  * 
+   'Geschwafel',    // Geschwafel:  *
+   'Gesindel',    // Gesindel: * 
+   'gesittet',    // gesittet:  *
    'gestanden',  // gestanden:  *
-   'Gestänge',   // Gestänge:  
-   'Gestell',    //Gestell:  
-   'Gestöber',   //Gestöber:  
-   'Gesträuch',  //Gesträuch:  
+   'Gestänge',   // Gestänge:  *
+   'Gestell',    // Gestell:  *
+   'Gestöber',   // Gestöber: *
+   'Gesträuch, Strauch',  // *  duplicated  
    'Gestrüpp',  // Gestrüpp: *
    'getäfelt, täfeln', //  * duplicated
    'Getümmel',  //Getümmel:  

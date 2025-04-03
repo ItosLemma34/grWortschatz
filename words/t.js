@@ -5,6 +5,7 @@ const t = [
    'tapsen' ,  // tapsen: *
    'tätscheln', // tätscheln: *
    'taxieren' , // taxieren: *
+   'Teufel (in drei T. Namen)', // * duplicated
    'Teufel tun' , //  *
    'Theke',  // Theke: *
    'toben' , // toben: *

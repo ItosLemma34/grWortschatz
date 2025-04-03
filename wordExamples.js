@@ -12,6 +12,31 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+Jeton: [
+	'der <strong>Jeton</strong>,-<strong>s</strong>: chip (eg, gambling), token'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Jeton"target="target1">Jeton</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Jeton"target="target2">Jeton</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/jeton"target="target3">Jeton</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/jeton"target="target4">Jeton</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'Rath nahm die Brieftasche aus Langes Hand und schaute sich den Inhalt an. Neben dem SA-Ausweis (<i>von Erich Sperling</i>), drei, vier Mark Münzgeld und einem Familienfoto fand er auch einen grünen runden <strong>Jeton</strong>, in dessen Mitte die Zahl 50 geprägt war. (<i>Lunapark</i>, 329)',   
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
+'schwül, Schwüle': [
+	'<strong>schwül</strong>: muggy, sultry, hot and humid'+
+	'<br>die <strong>Schwüle</strong>: mugginess'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schwuel"target="target1">schwül</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schw%C3%BCle"target="target2">Schwüle</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schwul?q=schw%C3%BCl"target="target3">schwül</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schw%C3%BCle"target="target4">Schwüle</a>',
+	'<u>Der nasse Fisch</u>',  
+	'Er (<i>Rath</i>) zog den Schlüssel ab, nachdem er den Buick direkt vor der Haustür geparkt hatte, und klappte das Verdeck zu. In den vergangenen Nächten hatte es so häufig Gewitter gegeben, man konnte nie wissen. Auch jetzt lag wieder eine unangenehme <strong>Schwüle</strong> in der Luft. (<i>Der nasse Fisch</i>, 274)',
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'Obwohl es erst kurz nach acht war und der Himmel bewölkt, lag schon eine drückende Hitze in der Luft. Wieder ein Tag mit Kopfschmerzen. Wenn Andreas Lange eines nicht vertragen konnte, dann was es <strong>schwüles</strong> Wetter.  (<i>Lunapark</i>, 323)',  
+	'Wie groß die Sorgen tatsächlich waren, die sich Karl Reinhold machen musste, sollte Rath erst an diesem <strong>schwülen</strong> Montagmorgen erfahren.   (<i>Lunapark</i>, 326)',  
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+],
 Samt: [                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 	'der <strong>Samt</strong>,-<strong>e</strong>: saliva, spittle'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Samt"target="target1">Samt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Samt"target="target2">Samt</a>'+
@@ -59,19 +84,35 @@ jaulen: [
 	'Verdammt! Was machte Gereon in der Landsberger Allee? Wie lange er wohl schon hier war? Ob er sie bemerkt hatte? Ohne darüber nachzudenken, was sie tat, dass sie dabei war, sich gerade vor ihrem eigenen Ehemann zu verstecken, huschte Charly in einen Hauseingang und zog den Hund hinter sich her, der ein kurzes, überraschtes <strong>jaulen</strong> hören ließ. (<i>Lunapark</i>, 117-18)',
 	'Die Kellnerin hatte gerade zwei Kännchen Kaffee gebracht, da <strong>jaulte</strong> das Signal eines Überfallwagens über die Schlesische Straße. Das <strong>Jaulen</strong> wurde immer lauter, und kurz darauf war der Wagen zu sehen.  (<i>Lunapark</i>, 319)',  
 ],
-Strauch: [
-	'der <strong>Strauch</strong>, die Sträucher: bushes, shrubbery'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strauch"target="target2">Strauch</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strauch"target="target3">Strauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Strauch"target="target4">Strauch</a>',
+'Strauch, Gesträuch': [
+	'das <strong>Gesträuch</strong>,-<strong>e</strong>: bushes, shrubbery'+
+	'<br>der <strong>Strauch</strong>, die <strong>Sträucher</strong>: bushes, shrubbery'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gesträuch"target="target2">Gesträuch</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strauch"target="target3">Strauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gesträuch"target="target4">Gesträuch</a>',
 //	'<u>Der nasse Fisch</u>',   
 	'<u>Märzgefallene</u>',   
 	'Wie ein pelziger Flaum überzog maigrünes Grass die Buckellandschaft, dazwischen <strong>Sträucher</strong> und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+	'Und dann, mitten in der Landschaft, weit weg vom nächsten Dorf, wussten sie (<i>Gereon und Charly</i>) wieder, wo sie waren. Der Stein war schon von Weitem zu sehen, der Wald, von dem Roddeck geschrieben hatte, war wohl den letzten beiden Kriegsjahren noch zum Opfer gefallen. Auch hier nur Grasflaum, ein bisschen <strong>Gesträuch</strong>, junge Birken. (<i>Märzgefallene</i>, 600-601)',
 	'<u>Lunapark</u>', 
 	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte.  (<i>Lunapark</i>, 80)',
 	'Da tat sich etwas. Die <strong>Sträucher</strong> an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks wucherte, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
 	'Lange schaute sich um. Der Platz war riesig, fast schon ein kleiner Park. Jede Menge Bäume und <strong>Sträucher</strong> und mittendrin die Brunnenbaustelle. (<i>Lunapark</i>, 323)',
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+'Gesträuch, Strauch': [
+	'das <strong>Gesträuch</strong>,-<strong>e</strong>: bushes, shrubbery'+
+	'<br>der <strong>Strauch</strong>, die <strong>Sträucher</strong>: bushes, shrubbery'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gesträuch"target="target2">Gesträuch</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strauch"target="target3">Strauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gesträuch"target="target4">Gesträuch</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',   
+	'Wie ein pelziger Flaum überzog maigrünes Grass die Buckellandschaft, dazwischen <strong>Sträucher</strong> und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+	'Und dann, mitten in der Landschaft, weit weg vom nächsten Dorf, wussten sie (<i>Gereon und Charly</i>) wieder, wo sie waren. Der Stein war schon von Weitem zu sehen, der Wald, von dem Roddeck geschrieben hatte, war wohl den letzten beiden Kriegsjahren noch zum Opfer gefallen. Auch hier nur Grasflaum, ein bisschen <strong>Gesträuch</strong>, junge Birken. (<i>Märzgefallene</i>, 600-601)',
+	'<u>Lunapark</u>', 
+	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte.  (<i>Lunapark</i>, 80)',
+	'Da tat sich etwas. Die <strong>Sträucher</strong> an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks wucherte, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
+	'Lange schaute sich um. Der Platz war riesig, fast schon ein kleiner Park. Jede Menge Bäume und <strong>Sträucher</strong> und mittendrin die Brunnenbaustelle. (<i>Lunapark</i>, 323)',
+],
+// ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 ausbaldowern: [
@@ -2833,22 +2874,22 @@ dudeln: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/damlich"target="target3">dämlich</a> &nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/daemlichkeit"target="target4">Dämlichkeit</a>',
 	'<u>Der nasse Fisch</u>',
 	'Wolter tippte zu Gruß an seinen Hut, Rath hob noch einmal die Papiertüten. Und kam sich im selben Augenblick ziemlich <strong>dämlich</strong> vor. Die Frau (<i>Charly</i>) blickte ihn neugierig, beinahe belustigt an. (<i>Der nasse Fisch</i>, 34)',
-	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Du warst so <strong>dämlich</strong>, dich mit deinem Koks zu Bullen an den Tisch zu setzen. Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast, dann wirst du nicht nur die nächsten Wochen Schmerzen beim Pinkeln haben, dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst..."   (<i>Der nasse Fisch</i>, 191)',
+	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Du warst so <strong>dämlich</strong>, dich mit deinem Koks zu Bullen an den Tisch zu setzen. Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast, dann wirst du nicht nur die nächsten Wochen Schmerzen beim Pinkeln haben, dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst..." (<i>Der nasse Fisch</i>, 191)',
 	'<u>Märzgefallene</u>',
 	'Während das Dreigestirn mit großem Hallo empfangen wurde, konnte Rath sich unauffällig unters Volk mischen. Er schaute auf die Uhr: noch genügend Zeit, sich zu Paul und den anderen zum Dom durchzuschlagen, sogar dafür, die <strong>dämliche</strong> Narrenkappe loszuwerden und sich richtig zu verkleiden. (<i>Märzgefallene</i>, 50)',
 	'Hannah umfasste die Scherbe in ihrer Hand, die sie eigentlich Scholtens in seinen <strong>dämlichen</strong> Arsch hatte rammen wollen.    (<i>Märzgefallene</i>, 67)' ,
 	'Er fand seine Hose schließlich unter dem Sofa..., daneben auch sein Hemd. Jackett und Mantel lagen unter dem Schreibtisch. Nur die <strong>dämliche</strong> Nasenschnurrbartbrille, die er bei Tietz erstanden hatte, konnte er nicht finden. (<i>Märzgefallene</i>, 73)',
-	'Erst in Berlin hatte er Ruhe gefunden. Dort gehörte er hin, zu Charly, und nicht nach Köln, diese von sich selbst besoffene Stadt mit ihren <strong>dämlichen</strong> Exzessen konnte ihn mal! (<i>Märzgefallene</i>, 76)' ,
+	'Erst in Berlin hatte er Ruhe gefunden. Dort gehörte er hin, zu Charly, und nicht nach Köln, diese von sich selbst besoffene Stadt mit ihren <strong>dämlichen</strong> Exzessen konnte ihn mal! (<i>Märzgefallene</i>, 76)',
 	'Jeder Gedanke führte irgendwann zu Charly, ganz gleich, was er sich durch den Kopf gehen ließ, selbst der <strong>dämliche</strong> Mordfall, mit dem er seine Zeit verplemperte, hatte mit ihr zu tun. (<i>Märzgefallene</i>, 114)',
 	'...als er (<i>Gräf</i>) ins Schlafzimmer zurückgegangen war, um sich anzuziehen – und natürlich...das zerwühlte Bett zu richten, hatte Gräf vor lauter Wut über sich selbst und seine eigene <strong>Dämlichkeit</strong> mit der Faust auf die Matratze eingeschlagen. (<i>Märzgefallene</i>, 121)',
 	'Nie wieder, dachte Hannah, als sie (<i>Hannah und Fritze</i>) an der Mauer standen und nach Luft japsten. Nie wieder würde sie auf die <strong>dämliche</strong> Idee kommen, in einem Kaufhaus zu übernachten. (<i>Märzgefallene</i>, 173)',
 	'<i>Gereon</i>: "Diese <strong>dämliche</strong> Politik! Ich weiß schon, warum ich diesen Mist so hasse, das führt nur zu Streit!" (<i>Märzgefallene</i>, 177)',
-	'Dann hatte sie (<i>Charly</i>) von Kirie abgelassen und sich Gereon vorsichtig genähert, bevor sie ihn einfach in den Arm genommen hatte. So, dass er ihr nicht mehr böse sein konnte. "Tut mir leid wegen heute Morgen, Gereon. Ich bin eine selten <strong>dämliche</strong> Idiotin."  (<i>Märzgefallene</i>, 194)',
+	'Dann hatte sie (<i>Charly</i>) von Kirie abgelassen und sich Gereon vorsichtig genähert, bevor sie ihn einfach in den Arm genommen hatte. So, dass er ihr nicht mehr böse sein konnte. "Tut mir leid wegen heute Morgen, Gereon. Ich bin eine selten <strong>dämliche</strong> Idiotin." (<i>Märzgefallene</i>, 194)',
 	'Die drei SA-Leute begannen zu tuscheln. Dann zeigte der in der Mitte auf Weiß. "Das ist doch der Isidor", rief er. "Was will der denn noch hier? Ich dachte, der ist längst in Palästina." Die anderen Braunhemden lachten <strong>dämlich</strong>. (<i>Märzgefallene</i>, 200)',
 	'<i>Gereon</i>: "Du (<i>Weinert</i>) hättest Charly wenigstens sagen können, dass du über diesen <strong>dämlichen</strong> toten Penner schreiben willst." (<i>Märzgefallene</i>, 209)',
 	'"Weiß ist nur entkommen«, beendete sie (<i>Charly</i>) ihren Bericht, "weil die SA zu <strong>dämlich</strong> war, einen Posten vor den Dienstbotenaufgang zu stellen." (<i>Märzgefallene</i>, 214)',
 	'Beim zufälligen Blick in den Garderobenspiegel bemerkte sie (<i>Charly</i>), was für ein selten <strong>dämliches</strong> Lächeln sie aufgesetzt hatte, während Karin (<i>van Almsick</i>) ihren Mantel aufhängte.(<i>Märzgefallene</i>, 446)',
-	'...der SA-Mann stand plötzlich stramm. Was mit dem Pappschild vor der Brust ziemlich <strong>dämlich</strong> aussah.  (<i>Märzgefallene</i>, 459)' ,
+	'...der SA-Mann stand plötzlich stramm. Was mit dem Pappschild vor der Brust ziemlich <strong>dämlich</strong> aussah.  (<i>Märzgefallene</i>, 459)',
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Du (<i>Fritze</i>) willst allen Ernstes Hitlerjunge werden? Nur um da (<i>Zeltlager der Hitlerjugend</i>) hingehen zu können? Überleg doch mal, wie <strong>dämlich</strong> das ist. Du gehst denen auf den Leim!"   (<i>Lunapark</i>, 29)',
 	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen Einstand, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört. Solange er nur <strong>dämlich</strong> in der Gegend herumstand, sollte es Lange recht sein.  (<i>Lunapark</i>, 46)',
@@ -2856,6 +2897,7 @@ dudeln: [
 	'Er (<i>Gereon</i>) hatte kaum ein Auge zugetan.. Wo zum teufel blieb Charly?.. Hatte sie sich auf der <strong>dämlichen</strong> Juristenfeier derart amüsiert, dass sie lieber mit einem anderen Mann gegangen war?   (<i>Lunapark</i>, 179)',
 	'"Hallo?", rief er (<i>Rath</i>). Keine Antwort.. Er suchte sämtliche Räume ab, sogar die Toiletten, doch die Kanzlei war verwaist. Hatten alle die Feier verlassen, um irgendwo anders in der Stadt weiterzufeiern?.. Wie in alten Studentenzeiten? Und der Grinsemann war zu <strong>dämlich</strong> gewesen oder zu betrunken, um abzuschließen?  (<i>Lunapark</i>, 181)',
 	'"Kantstraße hundertsechsundzwanzig". Mehr als diese beiden Worte sprach Rath nicht, bis sie Charlottenburg erreicht hatten. Die ganze Fahrt zerbrach er sich den Kopf darüber, was Charly in Kreuzberg zu erledigen haben mochte, and der Fahrer wagte es nicht, auch nur eine <strong>dämliche</strong> Frage zu stellen.  (<i>Lunapark</i>, 283)',
+	'Er (<i>Gräf</i>) sagte das derart triumphierend, als habe er Karl Reinhold eigenhändig festgenommen und all diese Informationen aus ihm herausgeholt. Dabei war es nichts anderes als ein <strong>dämlicher</strong> Zufall. (<i>Lunapark</i>, 283)',
 ],
 Damm: [
 	'der <strong>Damm</strong>, die <strong>Dämme</strong>: &nbsp;dam, levy, causeway, embankment <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Damm"target="target1">Damm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/damm"target="target2">Damm</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/damm?q=Damm"target="target3">Damm</a>    ',
@@ -3775,11 +3817,15 @@ geflissentlich: [
 	'War Gereon Rath eigentlich der einzige Beamte im ganzen Präsidium, der niemals befördert wurde? Die Sozis hatten ihn schon <strong>geflissentlich</strong> übersehen, und seit der Nazi Magnus von Levetzow Polizeipräsident war, hatten sich Raths Aussichten auf Beförderung nicht gerade verbessert.  (<i>Lunapark</i>, 000)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+/*
 Gesträuch: [
-	'das <strong>Gesträuch</strong>,-<strong>e</strong>: &nbsp;bushes, shrubbery <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestraeuch"target="target1">Gesträuch</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestrauch"target="target2">Gesträuch</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gestraeuch#Gestr%C3%A4uch"target="target3">Gesträuch</a>' ,
+	'das <strong>Gesträuch</strong>,-<strong>e</strong>: bushes, shrubbery'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestraeuch"target="target1">Gesträuch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gestr%C3%A4uch"target="target2">Gesträuch</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestrauch"target="target3">Gesträuch</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gestraeuch#Gestr%C3%A4uch"target="target4">Gesträuch</a>',
 	'<u>Märzgefallene</u>',
 	'Und dann, mitten in der Landschaft, weit weg vom nächsten Dorf, wussten sie (<i>Gereon und Charly</i>) wieder, wo sie waren. Der Stein war schon von Weitem zu sehen, der Wald, von dem Roddeck geschrieben hatte, war wohl den letzten beiden Kriegsjahren noch zum Opfer gefallen. Auch hier nur Grasflaum, ein bisschen <strong>Gesträuch</strong>, junge Birken. (<i>Märzgefallene</i>, 600-601)',
 ],
+*/
 grämen: [
 	'<strong>grämen (sich)</strong>: &nbsp;grieve over, worry about <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/graemen"target="target1">grämen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gramen?q=gr%C3%A4men"target="target2">grämen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gramen"target="target3">grämen</a>' ,
 	'<u>Märzgefallene</u>',
@@ -3877,9 +3923,11 @@ Geröll: [
 	'Achim von Roddeck war ein Schauspieler, sonst nichts. Nichts, was er zu sein vorgab, war er jemals wirklich gewesen: kein Soldat, kein Offizier, kein Salonlöwe... Aber all diese Rollen verstand er hervorragend zu spielen. Und jetz eben die des Schriftstellers. Kaum zu glauben, dass er <strong>sich</strong> mit diesem Geschreibsel <strong>eine goldene Nase verdiente</strong>!   (<i>Märzgefallene</i>, 546)' ,
 ],
 Geschreibsel: [
-	'das <strong>Geschreibsel</strong>, (no plural): &nbsp;trashy writing, balderdash <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschreibsel"target="target1">Geschreibsel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geschreibsel"target="target2">Geschreibsel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschreibsel"target="target3">Geschreibsel</a>    ' ,
+	'das <strong>Geschreibsel</strong>: trashy writing, balderdash'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschreibsel"target="target1">Geschreibsel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geschreibsel"target="target2">Geschreibsel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Geschreibsel"target="target3">Geschreibsel</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschreibsel"target="target4">Geschreibsel</a>',
 	'<u>Märzgefallene</u>',
-	'Achim von Roddeck war ein Schauspieler, sonst nichts. Nichts, was er zu sein vorgab, war er jemals wirklich gewesen: kein Soldat, kein Offizier, kein Salonlöwe... Aber all diese Rollen verstand er hervorragend zu spielen. Und jetzt eben die des Schriftstellers. Kaum zu glauben, dass er sich mit diesem <strong>Geschreibsel</strong> eine goldene Nase verdiente!   (<i>Märzgefallene</i>, 546)' ,
+	'Achim von Roddeck war ein Schauspieler, sonst nichts. Nichts, was er zu sein vorgab, war er jemals wirklich gewesen: kein Soldat, kein Offizier, kein Salonlöwe... Aber all diese Rollen verstand er hervorragend zu spielen. Und jetzt eben die des Schriftstellers. Kaum zu glauben, dass er sich mit diesem <strong>Geschreibsel</strong> eine goldene Nase verdiente!  (<i>Märzgefallene</i>, 546)',
 ],
 gestanden: [
 	'<strong>gestanden</strong>: experienced, seasoned  &nbsp;&nbsp;&nbsp;pp of <strong>stehen</strong>'+
@@ -3962,9 +4010,11 @@ Gage: [
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gesittet: [
-	'<strong>gesittet</strong>: &nbsp;civilized, courteous, well-mannered <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/gesittet"target="target1">gesittet</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gesittet"target="target2">gesittet</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gesittet"target="target3">gesittet</a>    ',
+	'<strong>gesittet</strong>: civilized, courteous, well-mannered'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/gesittet"target="target1">gesittet</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gesittet"target=target2>gesittet</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gesittet"target="target3">gesittet</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gesittet"target="target4">gesittet</a>',
 	'<u>Der nasse Fisch</u>',
-	'Wer sich von dem lauten Treiben ein wenig erholen wollte, der suchte den Teeraum auf... Getanzt wurde nur im zweiten Stockwerk, doch die Musik war überall zu hören... Ein Plakat wies darauf hin, das die <i>Excellos Seven</i> hier so <strong>gesittet</strong> spielten. (<i>Der nasse Fisch</i>, 120)' ,
+	'Wer sich von dem lauten Treiben ein wenig erholen wollte, der suchte den Teeraum auf... Getanzt wurde nur im zweiten Stockwerk, doch die Musik war überall zu hören... Ein Plakat wies darauf hin, das die <i>Excellos Seven</i> hier so <strong>gesittet</strong> spielten. (<i>Der nasse Fisch</i>, 120)',
 //	'<u>Märzgefallene</u>',
 ],
 'Geäst, Ast': [
@@ -4020,9 +4070,11 @@ glimpflich: [
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Geschwafel: [
-	'das <strong>Geschwafel</strong> (no plural): &nbsp;gibberish, drivel, blather <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschwafel"target="target1">Geschwafel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geschwafel"target="target2">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschwafel"target="target3">Geschwafel</a>    ' ,
+	'das <strong>Geschwafel</strong>: gibberish, drivel, blather'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschwafel"target="target1">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geschwafel"target="target2">Geschwafel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geschwafel"target="target3">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschwafel"target="target4">Geschwafel</a>' ,
 	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Es tut mir leid wenn ich Sie enttäuscht habe, Herr Polizeipräsident, aber ich habe guten Grund anzunehmen, dass dieser Engel... abgetaucht ist." <i>von Levetzow</i>: "Wie kommen Sie zu dieser Ansicht?..." <i>Rath</i>: "Nur so ein Gefühl... Nicht die kleinste Spur ist von ihm zu finden...." <i>von Levetzow</i>: "Ihre Wischiwaschi-Aussagen, ihr <strong>Geschwafel</strong> über Instinkt und Gefühl... bestärken mich nur in meiner Entscheidung!... Herr Komissar, dieser Fall ist Ihnen mit sofortiger Wirkung entzogen...."  (<i>Märzgefallene</i>, 420-21)' ,
+	'<i>Rath</i>: "Es tut mir leid wenn ich Sie enttäuscht habe, Herr Polizeipräsident, aber ich habe guten Grund anzunehmen, dass dieser Engel... abgetaucht ist." <i>von Levetzow</i>: "Wie kommen Sie zu dieser Ansicht?..." <i>Rath</i>: "Nur so ein Gefühl... Nicht die kleinste Spur ist von ihm zu finden...." <i>von Levetzow</i>: "Ihre Wischiwaschi-Aussagen, ihr <strong>Geschwafel</strong> über Instinkt und Gefühl... bestärken mich nur in meiner Entscheidung!... Herr Komissar, dieser Fall ist Ihnen mit sofortiger Wirkung entzogen...."  (<i>Märzgefallene</i>, 420-21)',
 ],
 gewunden: [
 	'<strong>gewunden</strong>: &nbsp;winding, twisting; &nbsp;convoluted, tortuous &nbsp;&nbsp;&nbsp;pp of <strong>winden</strong> <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/gewunden"target="target1">gewunden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gewunden"target="target2">gewunden</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gewunden"target="target3">gewunden</a>   ',
@@ -4046,14 +4098,18 @@ Gewese: [
 	'Nachdem er (<i>Gereon</i>)... mit dem Hund vor die Tür gegangen war, ihn gefüttert und anschließend in die Obhut des Portiers gegeben hatte, war er wieder hinaus auf die Straße... um als einer der ersten Gäste die Kakadu-Bar aufzusuchen. Dort hatte sich, trotz all des <strong>Geweses</strong>, das um die nationale Erhebung gemacht wurde, nicht viel geändert.  (<i>Märzgefallene</i>, 401)' ,
 ],
 Gesindel: [
-	'das <strong>Gesindel</strong> (no plural): &nbsp;mob, rabble, riff-raff <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gesindel"target="target1">Gesindel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gesindel?q=Gesindel"target="target2">Gesindel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gesindel"target="target3">Gesindel</a>    ' ,
+	'das <strong>Gesindel</strong>: mob, rabble, riff-raff'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gesindel"target="target1">Gesindel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gesindel"target="target2">Gesindel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gesindel?q=Gesindel"target="target3">Gesindel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gesindel"target="target4">Gesindel</a>',
 	'<u>Der nasse Fisch</u>',
-	'"Bislang haben wir die Roten immer noch kleingekriegt, oder?", meinte Schultes. "... das sind Maulhelden, wenn\'s ernst wird kneifen die den Schwanz ein." "Wollen wir\'s hoffen", meinte Wolter und machte ein besorgtes Gesicht. "Solchem <strong>Gesindel</strong> darf man jedenfalls nicht widerstandslos die Straße überlassen."  (<i>Der nasse Fisch</i>, 55-56)' ,
+	'"Bislang haben wir die Roten immer noch kleingekriegt, oder?", meinte Schultes. "... das sind Maulhelden, wenn\'s ernst wird kneifen die den Schwanz ein." "Wollen wir\'s hoffen", meinte Wolter und machte ein besorgtes Gesicht. "Solchem <strong>Gesindel</strong> darf man jedenfalls nicht widerstandslos die Straße überlassen."  (<i>Der nasse Fisch</i>, 55-56)',
 ],
 Gestöber: [
-	'das <strong>Gestöber</strong>,-: &nbsp;snow flurry/storm <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestoeber"target="target1">Gestöber</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gestoeber#Gest%C3%B6ber"target="target2">Gestöber</a>&nbsp;&nbsp;<a href=""target="target3">Gestöber</a> ' ,
+	'das <strong>Gestöber</strong>,-: snow flurry/storm'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestoeber"target="target1">Gestöber</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gest%C3%B6ber"target="target2">Gestöber</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestober"target="target3">Gestöber</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gest%C3%B6ber"target="target4">Gestöber</a>',
 	'<u>Der nasse Fisch</u>',
-	'Den Berliner Winter hatte Rath gehasst, seit er an einem viel zu kalten Märztag am Potsdamer Bahnhof aus dem Fernzug gestiegen war und ihn der Potsdamer Platz mit Schnee<strong>gestöber</strong> und Verkehrschaos empfangen hatte. (<i>Der nasse Fisch</i>, 48)' ,
+	'Den Berliner Winter hatte Rath gehasst, seit er an einem viel zu kalten Märztag am Potsdamer Bahnhof aus dem Fernzug gestiegen war und ihn der Potsdamer Platz mit Schnee<strong>gestöber</strong> und Verkehrschaos empfangen hatte. (<i>Der nasse Fisch</i>, 48)',
 ],
 geizen: [
 	'<strong>geizen</strong>: be sparing, stingy, miserly with sth.'+
@@ -4290,14 +4346,15 @@ heften: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 Gelände:[
-	'das <strong>Gelände</strong>,-: ground, area, field, tract of land' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gelaende"target="target1">Gelände</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gel%C3%A4nde"target="target2">Gelände</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp<a href="https://dictionary.cambridge.org/dictionary/german-english/gelande?q=Gel%C3%A4nde"target="target3">Gelände</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gelande"target="target4">Gelände</a>     ' ,
+	'das <strong>Gelände</strong>,-: ground, area, field, tract of land'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gelaende"target="target1">Gelände</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gel%C3%A4nde"target="target2">Gelände</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp<a href="https://dictionary.cambridge.org/dictionary/german-english/gelande?q=Gel%C3%A4nde"target="target3">Gelände</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gelande"target="target4">Gelände</a>',
 	'<u>Märzgefallene</u>',
 	'Der gepflasterte Weg, auf dem sie&nbsp;&nbsp (<i>Felix und Hannah</i>) stehengeblieben waren, sah aus wie eine Mischung aus Fabrik<strong>gelände</strong> und Hinterhof.... (<i>Märzgefallene</i>, 394)',
 	'<u>Lunapark</u>',
 	'Der sicherste Weg war der über die Trabener Straße, keine Wohnhäuser, nur der Bahndamm und ein paar Bäume. Durch den präparierten Zaun aufs <strong>Gelände</strong>, dann durch die Eingeweide der Achterbahn bis zu ihrem Versteck.  (<i>Lunapark</i>, 247)',
-	'.. der Park (<i>Lunapark</i>) hatte nach der letzten Winterpause nicht mehr geöffnet, sein Abriss war beschlossene Sache. Eine Straße war geplant, die quer über das <strong>Gelände</strong> führen und den Ku\'damm mit der Kantstraße und der Messe verbinden sollte. Eingefriedetes <strong>Gelände</strong>, keine Nachtwächter, jede Menge leer stehende Gebäude - ein ideales Verstech für Menschen, die zur Fahndung ausgeschrieben waren...   (<i>Lunapark</i>, 312)',
+	'.. der Park (<i>Lunapark</i>) hatte nach der letzten Winterpause nicht mehr geöffnet, sein Abriss war beschlossene Sache. Eine Straße war geplant, die quer über das <strong>Gelände</strong> führen und den Ku\'damm mit der Kantstraße und der Messe verbinden sollte. Eingefriedetes <strong>Gelände</strong>, keine Nachtwächter, jede Menge leer stehende Gebäude - ein ideales Verstech für Menschen, die zur Fahndung ausgeschrieben waren... (<i>Lunapark</i>, 312)',
+	'Rath war überrascht. "Das heißt, er (<i>der ermorderte Erich Sperling</i>) hat den ganzen Sonntag hier gelegen, ohne dass einer was gemerkt hat?" <i>Gräf</i>: "Warum nicht? Das ist eine Baustelle, die war das ganze Wochenende abgesperrt. Die Bauarbeiter waren die Ersten, die das <strong>Gelände</strong> heute Morgen wieder betreten haben."  (<i>Lunapark</i>, 329)',
 ],
 Geländer:[
 	'das <strong>Geländer</strong>,-: handrail, balustrade, bannister, guardrail'+
@@ -4381,21 +4438,23 @@ geschniegelt: [
 	'Rath fand das Büro sofort. Er klopfte an und wartete nicht lange auf das "Herein". Als er die Tür öffnete, saß da jedoch nicht Sperling hinter einem Schreibtisch, sondern ein <strong>geschniegelter</strong> SA-Mann.  (<i>Lunapark</i>, 93)',
 ],
 Gestänge: [
-	'das <strong>Gestänge</strong>,-: bars, struts, frame; linkage ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestaenge"target="target1">Gestänge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gest%C3%A4nge"target="target2">Gestänge</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestange"target="target3">Gestänge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gest%C3%A4nge"target="target4">Gestänge</a>' ,
+	'das <strong>Gestänge</strong>,-: bars, struts, frame; linkage'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestaenge"target="target1">Gestänge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gest%C3%A4nge"target="target2">Gestänge</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestange"target="target3">Gestänge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gest%C3%A4nge"target="target4">Gestänge</a>',
 	'<u>Märzgefallene</u>',
-	'Hannah Singer schlief nur deshalb nicht, weil sie nicht schlafen wollte.  Immer noch, seit heute Nachmittag, lag sie in ihrem Zimmer im Bett, immer noch war sie mit ledernen Gurten an das Metall<strong>gestänge</strong> gefesselt.  (<i>Märzgefallene</i>, 64-65)' ,
-	'Bis zum Fenster schaffte sie es schon ohne fremde Hilfe. Ein paarmal hatte sie sich bereits auf den Weg gemacht, das Infusions<strong>gestänge</strong> wie einen Hund hinter sich hergezogen. (<i>Märzgefallene</i>, 462)' ,
+	'Hannah Singer schlief nur deshalb nicht, weil sie nicht schlafen wollte.  Immer noch, seit heute Nachmittag, lag sie in ihrem Zimmer im Bett, immer noch war sie mit ledernen Gurten an das Metall<strong>gestänge</strong> gefesselt. (<i>Märzgefallene</i>, 64-65)',
+	'Bis zum Fenster schaffte sie es schon ohne fremde Hilfe. Ein paarmal hatte sie sich bereits auf den Weg gemacht, das Infusions<strong>gestänge</strong> wie einen Hund hinter sich hergezogen. (<i>Märzgefallene</i>, 462)',
 	'<u>Lunapark</u>',
-	'"Jetzt seien Sie mal still", hatte ihr Wächter sie (<i>Charly</i>) angeschnauzt.. Mit Handschellen waren sie für den Transport ans <strong>Gestänge</strong> des Lkw gekettet worden...   (<i>Lunapark</i>, 177) ',
+	'"Jetzt seien Sie mal still", hatte ihr Wächter sie (<i>Charly</i>) angeschnauzt.. Mit Handschellen waren sie für den Transport ans <strong>Gestänge</strong> des Lkw gekettet worden... (<i>Lunapark</i>, 177)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Gestell: [
-	'das <strong>Gestell</strong>, -<strong>e</strong>: &nbsp;stand, shelf, rack, frame <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestell"target="target1">Gestell</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gestell?q=Gestell"target="target2">Gestell</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestell"target="target3">Gestell</a>  ' ,
+	'das <strong>Gestell</strong>,-<strong>e</strong>: stand, shelf, rack, frame'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestell"target="target1">Gestell</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gestell"target="target2">Gestell</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gestell?q=Gestell"target="target3">Gestell</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestell"target="target4">Gestell</a>',
 	'<u>Märzgefallene</u>',
-	'"Suchst du das hier?" Die Blondine holte etwas unter der Decke hervor. Rath erkannte die Nasenschnurrbartbrille, sie sah ziemlich ramponiert aus, das Draht<strong>gestell</strong> (wire rim) war verbogen. (<i>Märzgefallene</i>, 73)' ,
+	'"Suchst du das hier?" Die Blondine holte etwas unter der Decke hervor. Rath erkannte die Nasenschnurrbartbrille, sie sah ziemlich ramponiert aus, das Draht<strong>gestell</strong> (<i>wire rim</i>) war verbogen. (<i>Märzgefallene</i>, 73)' ,
 ],
 Getümmel: [
 	'das <strong>Getümmel</strong>,-: &nbsp;turmoil, tumult, hustle and bustle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Getuemmel"target="target1">Getümmel</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/getuemmel#Get%C3%BCmmel"target="target2">Getümmel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/getummel"target="target3">Getümmel</a>     ' ,
@@ -5090,12 +5149,26 @@ huschen: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 'in die Parade fahren': [
-	'jmdm. <strong>in die Parade fahren</strong>: rain on so.\'s parade; get in the way, bother so.'+
+	'jmdm. <strong>in die Parade fahren</strong>: rain on so.\'s parade; bother so.'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20die%20Parade%20fahren"target="target1">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/2497-rtkl-redewendung-jemandem-die-parade-fahren"target="target2">in die Parade fahren</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Parade+fahren"target="target3">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Parade+fahren"target="target4">in die Parade fahren</a>',
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: "Und deine (<i>Gräfs</i>) Pfeife mit drei F? (<i>gemeint ist Truppführer Pfeiffer</i>) Die da drüben gerade dem Kollegen Lange <strong>in die Parade fährt</strong> und die Zeugenvernehmung stört? Hat die auch nur einen blassen Schimmer von Polizeiarbeit?"  (<i>Lunapark</i>, 25)',
+	'"Das hier ist seine (<i>Erich Sperlings</i>) Brieftasche", sagte Lange. "Nicht viel drin. Vielleicht doch Raubmord.." "Natürlich nicht!", unterbrach ihn Gräf. "Das ist ein politischer Mord! Passt eindeutig in die Reihe." "Nur dass der Tote hier keine Uniform trägt", warf Rath ein. Nicht, dass er glaubte, dass der Mord hier nicht in die Reihe passte, er war sich sogar ziemlich sicher – aber es ärgerte ihn, wie Gräf dem Kollegen vom Alex (<i>Lange</i>) <strong>in die Parade fuhr</strong>. (<i>Lunapark</i>, 329)',
 ],
+'Parade (in die P. fahren)': [
+	'jmdm. <strong>in die Parade fahren</strong>: rain on so.\'s parade; bother so.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20die%20Parade%20fahren"target="target1">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/2497-rtkl-redewendung-jemandem-die-parade-fahren"target="target2">in die Parade fahren</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Parade+fahren"target="target3">in die Parade fahren</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Parade+fahren"target="target4">in die Parade fahren</a>',
+	'<u>Lunapark</u>',
+	'<i>Rath</i>: "Und deine (<i>Gräfs</i>) Pfeife mit drei F? (<i>gemeint ist Truppführer Pfeiffer</i>) Die da drüben gerade dem Kollegen Lange <strong>in die Parade fährt</strong> und die Zeugenvernehmung stört? Hat die auch nur einen blassen Schimmer von Polizeiarbeit?"  (<i>Lunapark</i>, 25)',
+	'"Das hier ist seine (<i>Erich Sperlings</i>) Brieftasche", sagte Lange. "Nicht viel drin. Vielleicht doch Raubmord.." "Natürlich nicht!", unterbrach ihn Gräf. "Das ist ein politischer Mord! Passt eindeutig in die Reihe." "Nur dass der Tote hier keine Uniform trägt", warf Rath ein. Nicht, dass er glaubte, dass der Mord hier nicht in die Reihe passte, er war sich sogar ziemlich sicher – aber es ärgerte ihn, wie Gräf dem Kollegen vom Alex (<i>Lange</i>) <strong>in die Parade fuhr</strong>. (<i>Lunapark</i>, 329)',
+],
+/* copied:
+»Das hier ist seine Brieftasche«, sagte Lange. »Nicht viel drin. Vielleicht doch Raubmord …« »Natürlich nicht!«, unterbrach ihn Gräf. »Das ist ein politischer Mord! Passt eindeutig in die Reihe.« »Nur dass der Tote hier keine Uniform trägt«, warf Rath ein. Nicht, dass er glaubte, dass der Mord hier nicht in die Reihe passte, er war sich sogar ziemlich sicher – aber es ärgerte ihn, wie Gräf dem Kollegen vom Alex in die Parade fuhr. Rath nahm die Brieftasche aus Langes Hand und schaute sich den Inhalt an. Neben dem SA-Ausweis, drei, vier Mark Münzgeld und einem Familienfoto fand er auch einen grünen runden Jeton, in dessen Mitte die Zahl 50 geprägt war.
+
+
+*/
 'ins Haus stehen': [
 	'<strong>ins Haus stehen</strong>: be in store (for sb.), be imminent'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ins%20Haus%20stehen"target="target1">ins Haus stehen&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ins+Haus+stehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">ins Haus stehen</a>'+
@@ -5104,6 +5177,14 @@ huschen: [
 	'<i>Marlow</i>: "Ich kann nicht riskieren, dass du (<i>Leo</i>) ...der SA noch einmal in die Hände fällst!" Das hatte Leo weiß Gott nicht vor. Im Gegenteil. Er wollte, dass die Arschlöcher <i>ihm</i> in die Hände fielen. Die Arschlöcher, die ihm das angetan hatten.... All die Männer auf der Liste in seinem Kopf, denen noch eine unliebsame Begegnung mit Leo Jurezka <strong>ins Haus stand</strong>.  (<i>Märzgefallene</i>, 387)'  ,
 ],
 'in drei Teufels Namen': [
+	'<strong>in drei Teufels Namen</strong>: for heaven\'s sake; who\\what\\how the hell'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20drei%20Teufels%20Namen"target="target1">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+drei+Teufels+Namen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in drei Teufels Namen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+drei+Teufels+Namen"target="target3">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+drei+Teufels+Namen"target="target4">in drei Teufels Namen</a>' ,
+	'<u>Märzgefallene</u>',
+	'Er (<i>Paul</i>) schlug Rath auf die Schulter. "Lass dir das Nasenfahrad da <strong>in drei Teufels Namen</strong> einpacken.  Und dann gehen wir zu mir und wühlen uns durch die Karnevalskisten."  (<i>Märzgefallene</i>, 20)'  ,
+	'<i>Rath</i>: "Ich bin Polizist, ich muss von jeder Möglichkeit ausgehen, auch von den unwahrscheinlichen." <i>Walter Engel</i>: "Dann stellen Sie <strong>in drei Teufels Namen</strong> Ihre Fragen...."   (<i>Märzgefallene</i>, 376-77)'  ,
+],
+'Teufel (in drei T. Namen)': [
 	'<strong>in drei Teufels Namen</strong>: for heaven\'s sake; who\\what\\how the hell'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20drei%20Teufels%20Namen"target="target1">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+drei+Teufels+Namen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in drei Teufels Namen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+drei+Teufels+Namen"target="target3">in drei Teufels Namen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+drei+Teufels+Namen"target="target4">in drei Teufels Namen</a>' ,
@@ -8470,12 +8551,15 @@ Sauklaue: [
 	'Während Wolter mit dem Kollegen sprach, schaute Rath dem ED-Beamten unaffällig über die Schulter. <strong>Sauklaue</strong>. Die beiden Namen auf der Liste waren gar nicht so einfach zu entzifferen.  (<i>Der nasse Fisch</i>, 257)' ,
 ],
 stochern: [
-	'<strong>stochern</strong>: poke <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stochern"target="target1">stochern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stochern"target="target2">stochern</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stochern"target="target3">stochern</a> &nbsp;<a href="https://www.verbformen.com/?w=stochern"target="target4">stochern</a> ',
+	'<strong>stochern</strong>: poke, pick at'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stochern"target="target1">stochern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stochern"target="target2">stochern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stochern"target="target3">stochern</a> &nbsp;<a href="https://www.verbformen.com/?w=stochern"target="target4">stochern</a>',
 	'<u>Der nasse Fisch</u>',
-	'Sie (<i>Elisabeth Behnke</i>) war ernsthaft wütend. "Kannst du mir mal sagen was diese Sauerei hier soll?" Er (<i>Rath</i>) verstand immer noch nicht, was sie meinte. Sie hockte sich wieder vor den Ofen, <strong>stocherte</strong> wütend mit dem Haken herum und zog schließlich einen langen, nur halb verbrannten Stoffstreifen hervor. Rath erschrak. Der letzte Rest seines Anzugs!   (<i>Der nasse Fisch</i>, 262-63)' ,
+	'Sie (<i>Elisabeth Behnke</i>) war ernsthaft wütend. "Kannst du mir mal sagen was diese Sauerei hier soll?" Er (<i>Rath</i>) verstand immer noch nicht, was sie meinte. Sie hockte sich wieder vor den Ofen, <strong>stocherte</strong> wütend mit dem Haken herum und zog schließlich einen langen, nur halb verbrannten Stoffstreifen hervor. Rath erschrak. Der letzte Rest seines Anzugs!  (<i>Der nasse Fisch</i>, 262-63)',
 	'<u>Lunapark</u>',  
- 	'"Zu niemandem ein Wort von diesen Dingen, Erika", sagte er (<i>Rath</i>). "Zu wirklich niemandem. Sie berichten allein mir. Ich fürchte, wir <strong>stochern</strong> da in einem Wespennest." "Sie haben schon fleißig <strong>gestochert</strong>, nicht wahr, Kommissar? Hier haben einige wichtige Leute angerufen, die Sie sprechen wollten. Das SA-Feldjägerkorps...   (<i>Lunapark</i>, 107)' ,
+ 	'"Zu niemandem ein Wort von diesen Dingen, Erika", sagte er (<i>Rath</i>). "Zu wirklich niemandem. Sie berichten allein mir. Ich fürchte, wir <strong>stochern</strong> da in einem Wespennest." "Sie haben schon fleißig <strong>gestochert</strong>, nicht wahr, Kommissar? Hier haben einige wichtige Leute angerufen, die Sie sprechen wollten. Das SA-Feldjägerkorps...  (<i>Lunapark</i>, 107)',
  	'Charly <strong>stocherte</strong> in ihrem Essen. Hunger hatte sie. Aber überhaupt keinen Appetit. (<i>Lunapark</i>, 271)' ,
+	'Rath hatte im selben Moment gewusst, welches Souvenir (<i>einen Baseballschläger</i>) Leo Juretska aus den Vereinigten Staaten mitgebracht hatte. Welchen Gegenstand er am Westkreuz in das Taxi geworfen hatte. Womit die beiden SA-Männer erschlagen worden waren. Er sagte nichts dazu. Es war ihm nur recht, wenn Gräfs Soko (<i>Sonderkommission</i>) im Nebel <strong>stocherte</strong> und völlig falsche Spuren verfolgte. (<i>Lunapark</i>, 327-28)',
 ],
 Stuck: [
 	'der <strong>Stuck</strong>, (no plural): stucco, plastering <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stuck"target="target1">Stuck</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Stuck"target="target2">Stuck</a> <br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stuck_1"target="target3">Stuck</a> &nbsp;<a href="https://www.verbformen.com/?w=Stuck"target="target4">Stuck</a> ',
@@ -11034,6 +11118,7 @@ verpfeifen: [
 	'<u>Lunapark</u>',
 	'"Die (<i>Charly</i>) ist schon in Ordnung", sagte Rambow. "Vor\'n paar Jahren hat ick mal Ärger mit Kralle, kennste doch?" "Der SA-Kralle?" "Damals war er noch nich bei die Braunen, aber ja, jenau der." "Ja un?" "Nix un. Det Frollein hier hat mir nich <strong>verpfiffen</strong>. Janz im Jejenteil: Hat uns allen jeholfen." (<i>Lunapark</i>, 225)' ,
 	'"Aber...", sagte Landvogt, und seine Augen wanderten von Gennat zu Lange und wieder zurück.. "Nix da", sagte Wilhelm Landvogt schließlich und verschränkte die Arme. "Ick <strong>verpfeif</strong> doch keenen!" "Es geht doch nicht um <strong>Verpfeifen</strong>." Gennats Stimme klang wie die eines netten Onkels. "Sie sind SA-Mann, ich bin Polizeibeamter. Bei Ihnen sind da ein paar Dinge aus dem Ruder gelaufen, das müssen wir aufklären..."  (<i>Lunapark</i>, 232)',
+	'<i>Charly</i>: "Alex fürchtet, das Karl glaubt, sie habe ihn <strong>verpfiffen</strong>."  (<i>Lunapark</i>, 326)',
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
 verflixt: [  

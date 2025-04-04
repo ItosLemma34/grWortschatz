@@ -29,7 +29,7 @@ const w = [
    'wimmeln, Gewimmel',  // *  duplicated
    'wimmern' , // wimmern: *
    'Wimper',   // Wimper: *
-   'winden' ,  // winden: *
+   'winden, gewunden',  // * duplicated
    'Wink mit dem Zaunpfahl' , // * duplicated
    'Winkel' ,  // Winkel: *
    'Winkeladvokat',  // Winkeladvokat: *

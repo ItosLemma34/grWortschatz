@@ -38,6 +38,7 @@ const t = [
    'tupfen',  // tupfen: *
    'türken',  // türken: *
    'türmen', // türmen *
+//   'turteln', // turteln:  duplicate with Geturtel
    'tuscheln',  // tuscheln: *
 ];
 

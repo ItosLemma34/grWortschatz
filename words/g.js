@@ -47,19 +47,19 @@ const g = [
    'Gesträuch, Strauch',  // *  duplicated  
    'Gestrüpp',  // Gestrüpp: *
    'getäfelt, täfeln', //  * duplicated
-   'Getümmel',  //Getümmel:  
-   'Geturtel',  //Geturtel:  
-   'Gewebe',    //Gewebe:  
-   'Gewese',    //Gewese:  
+   'Getümmel',  // Getümmel: *
+   'Geturtel',  // Geturtel:  *  duplicate, if found with turteln
+   'Gewebe',    // Gewebe:  *
+   'Gewese',    // Gewese:  *
    'Gewimmel, wimmeln',  // * duplicated 
-   'Gewirr',    //Gewirr:
-   'Gewölbe',  // Gewölbe: 
-   'Gewühl',   //Gewühl:
+   'Gewirr',    // Gewirr: *
+   'Gewölbe',  // Gewölbe: *
+   'Gewühl',   // Gewühl: *
    'Gewummer, wummern', // * duplicated  
-   'gewunden', //gewunden:  
+   'gewunden, winden', //  *  duplicated
    'Gier, gieren',  //  * 
-   'giften',   //giften:  
-   'giggeln',  //giggeln:  
+   'giften',   // giften:  *
+   'giggeln',  // giggeln:  *
    'Gips',   //Gips:  
    'gleißen, gleißend',  // *  
    'glimpflich',  // glimpflich:  
@@ -76,7 +76,7 @@ const g = [
    'Grünschnabel',  //Grünschnabel:  x
    'grunzen',   //grunzen:  x
    'Grüßaugust',  //Grüßaugust:  x
-   'Gully',  //Gully:  
+   'Gully',  // Gully: * 
    'gurren',  //gurren:  x
    'Gurt',   //Gurt:  x    
    'gut in Schuss',  //     x 

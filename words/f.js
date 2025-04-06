@@ -3,7 +3,7 @@ const f = [
    'fackeln',  // fackeln: * 
    'fadenscheinig',  // fadenscheinig: *
    'Fahne (von der F. gehen)',  // * duplicated 
-   'Fahnenabzug',  //Fahnenabzug: 
+   'Fahnenabzug',  // Fahnenabzug: *
    'Faible' ,  // Faible:  
    'Fall der Fälle',  //  
    'Fasan',  //Fasan:  
@@ -24,7 +24,7 @@ const f = [
    'Firlefanz',  // Firlefanz: *
    'Fischzug',   //Fischzug:  
    'Flachpfeife', // Flachpfeife:
-   'flapsig',  //flapsig:  
+   'flapsig, Flapsigkeit',  // * 
    'Flaschenzug', // Flaschenzug: *
    'flattern', //flattern:
    'flau' ,  // flau:

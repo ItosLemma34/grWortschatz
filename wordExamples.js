@@ -15,6 +15,24 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+'Flappe (eine F. ziehen)': [
+	'<strong>eine Flappe ziehen</strong>: sulk'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Flappe+ziehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Flappe ziehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flappe#d-1-1-1"target="target2">Flappe ziehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""target="target3">Flappe ziehen</a>&nbsp;&nbsp;<a href=""target="target4">Flappe ziehen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',   
+],
+Sündenbock: [
+	'<strong>Sündenbock</strong>: scapegoat'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Suendenbock"target="target1">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/S%C3%BCndenbock"target="target2">Sündenbock</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/suendenbock#S%C3%BCndenbock"target="target3">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=S%C3%BCndenbock"target="target4">Sündenbock</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',  
+	'Lapkes Männer hatten so viel Übles auf Horst Kaczmarek abgewälzt, dass Lange sich zwischenzeitlich gefragt hatte, ob der Mord im Wedding womöglich auf ihr Konto ging. Ob sie womöglich mit einer Polizeiaktion gerechtnet und deswegen rechtzeitig für einen <strong>Sündenbock</strong> gesorgt hatten. Einen <strong>Sündenbock</strong>, der sich nicht mehr wehren konnte.  (<i>Lunapark</i>, 259-60)', 
+	'<i>Charly</i>: "Aber er (<i>Karl Reinhold</i>) war\'s nicht! Er hat sich doch nur versteckt, er war an keiner politischen Aktion beteiligt. Nur seiner Freundin wegen ist er nach Berlin zurückgekehrt." <i>Gereon</i>: "Das sagst du. Für die Staatspolizei ist er der Hauptverdächtige. "Die brauchen einen <strong>Sündenbock</strong>, das ist alles." (<i>Lunapark</i>, 338)', 
+],
 schmächtig: [
 	'<strong>schmächtig</strong>: lank, slight, slim'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmaechtig"target="target1">schmächtig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schm%C3%A4chtig"target="target2">schmächtig</a>'+
@@ -3474,12 +3492,15 @@ feilbieten: [
 	'<u>Märzgefallene</u>',
 	'Trotz des miserablen Wetters herrschte Volksfeststimmung, fliegende Händler <strong>boten</strong> heiße Würstchen und Getränke, Zigaretten und Schokolade <strong>feil</strong>.  (<i>Märzgefallene</i>, 554)' ,
 ],
-flapsig: [
-	'<strong>flapsig</strong>: flippant, fresh, cheeky <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flapsig"target="target1">flapsig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flapsig"target="target2">flapsig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=flapsig"target="target3">flapsig</a>  ' ,   
+'flapsig, Flapsigkeit': [
+	'<strong>flapsig</strong>: flippant, fresh, cheeky'+
+	'<br>die <strong>Flapsigkeit</strong>: flippancy'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flapsig"target="target1">flapsig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/flapsig"target="target2">flapsig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flapsig"target="target3">flapsig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=flapsig"target="target4">flapsig</a>',   
 	'<u>Märzgefallene</u>',
-	'Rath zeigte auf Gräfs alten Schreibtisch. "Willkommen zurück in der Inspektion A", sagte er. "Dann gehören Sie (<i>Lange</i>) also zu den reumütigen Sündern, die ihren Ausflug zu den Politichen bereuen." "Genau wie Sie, Kommissar, oder?" Lange gab sich Mühe, <strong>flapsig</strong> zu klingen, doch in seinem Blick lag Misstrauen. (<i>Märzgefallene</i>, 545)' ,
+	'Rath zeigte auf Gräfs alten Schreibtisch. "Willkommen zurück in der Inspektion A", sagte er. "Dann gehören Sie (<i>Lange</i>) also zu den reumütigen Sündern, die ihren Ausflug zu den Politichen bereuen." "Genau wie Sie, Kommissar, oder?" Lange gab sich Mühe, <strong>flapsig</strong> zu klingen, doch in seinem Blick lag Misstrauen. (<i>Märzgefallene</i>, 545)',
 	'<u>Lunapark</u>',
-	'Der SA-Mann studierte den Dienstausweis, den sein Kollege aus Raths Westentasche gefischt hatte. "Was wollen Sie von Sturmbannführer Sperling?".. <i>Rath</i>: "Sturm<i>bann</i>führer? Da hat der Mann es aber in wenigen Monaten weit gebracht", sagte er. "Ich habe Herrn Sperling zuletzt vor einem Jahr gesehen... Bei der Feldpolizei. Aber ist ja noch dieselbe Truppe, oder? Nur die Uniformen sind schicker." Der Brüllaffe zog die Augenbrauen hoch, und für einen Moment befürchtete Rath, mit seiner <strong>Flapsigkeit</strong> zu weit gegangen zu sein.  (<i>Lunapark</i>, 92)' ,
+	'Der SA-Mann studierte den Dienstausweis, den sein Kollege aus Raths Westentasche gefischt hatte. "Was wollen Sie von Sturmbannführer Sperling?".. <i>Rath</i>: "Sturm<i>bann</i>führer? Da hat der Mann es aber in wenigen Monaten weit gebracht", sagte er. "Ich habe Herrn Sperling zuletzt vor einem Jahr gesehen... Bei der Feldpolizei. Aber ist ja noch dieselbe Truppe, oder? Nur die Uniformen sind schicker." Der Brüllaffe zog die Augenbrauen hoch, und für einen Moment befürchtete Rath, mit seiner <strong>Flapsigkeit</strong> zu weit gegangen zu sein. (<i>Lunapark</i>, 92)',
 ], 
 filzen: [
 	'<strong>filzen</strong>: frisk, shake so. down; to felt (textiles) ' +
@@ -3649,7 +3670,9 @@ fackeln: [
 	'Kommissaranwärter Steinke war Böhm schon <strong>von der Fahne gegangen</strong>, indem er sich freiwillig zur Sonderkommission Reichstagsbrand gemeldet hatte. (<i>Märzgefallene</i>, 94)',
 ],
 Fahnenabzug: [
-	'der <strong>Fahnenabzug</strong>, die <strong>Fahnenabzüge</strong>: &nbsp;galley (proof) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fahnenabzug"target="target1">Fahnenabzug</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Fahnenabzug"target="target2">Fahnenabzug</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fahnenabzug"target="target3">Fahnenabzug</a>    ',
+	'der <strong>Fahnenabzug</strong>,-<strong>abzüge</strong>: galley (proof)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fahnenabzug"target="target1">Fahnenabzug</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fahnenabzug"target="target2">Fahnenabzug</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Fahnenabzug"target="target3">Fahnenabzug</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fahnenabzug"target="target4">Fahnenabzug</a>',
 	'<u>Märzgefallene</u>',
 	'Weinert musste sich sogar einen <strong>Fahnenabzug</strong> von <i>Märzgefallene</i> besorgt haben, vielleicht gab es auch schon Vorabexemplare des Buches, jedenfalls zitierte er fröhlich aus Roddecks Machwerk. (<i>Märzgefallene</i>, 247)',
 ],
@@ -6888,7 +6911,9 @@ loseisen: [
 	'Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte. Und dafür hatte Rath sich den Wosniak-Fall wieder ans Bein gebunden, nur um einen Vorwand zu haben, diesen undankbaren Drecksack aus der SA-Haft <strong>loszueisen</strong>? (<i>Märzgefallene</i>, 431)'  ,
 	'<u>Lunapark</u>',
 	'Marlow hatte recht: Leo Jurezka durfte niemals in die Hände der Polizei fallen. Was, wenn herauskäme, dass Rath es war, der ihn damals mit ein paar faulen Tricks von der SA <strong>losgeeist</strong> hatte? Im Auftrag Johann Marlows?  (<i>Lunapark</i>, 257)',
+	'<i>Gereon</i>: "..Beckmann hat er (<i>Karl Reinhold</i>) auf dem Gewissen, ganz unabhängig davon, ob er nun zu Unrecht verdächtigt wird. Und du verlangst im Ernst von mir, dass ich so einen laufen lasse?" <i>Charly</i>: "Du sollst ihn nicht laufen lassen. Du sollst mir nur helfen, ihn von der Stapo <strong>loszueisen</strong>." (<i>Lunapark</i>, 337)',
 ],
+//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Luder: [
 	'das <strong>Luder</strong>,-: hussy, bitch; little rascal' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Luder"target="target1">Luder</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Luder"target="target2">Luder</a>' +
@@ -10511,6 +10536,7 @@ triezen: [
 	'Was wollte der Mann noch von ihm? Grimberg warf Jüppchen einen bösen Blick zu, und der <strong>trollte sich</strong>.  (<i>Märzgefallene</i>, 550)'  ,
 	'<u>Lunapark</u>',
 	'<i>Steinmetz</i>: "Herr Kommissar, das ist Fräulein Jäger, von der ich Ihnen erzählt habe.".. Rath lächelte. Er sah ihr an, dass sie aufgeregt war. "Sie sind Garderobenfräulein, begann er. Sie nickte. "Für die Dannhoff." "Unsere Hauptdarstellerin", soufflierte der Steinmetz. "Wenn Sie mich und Fräulein Jäger bitte einen Moment allein lassen könnten", bat Rath. Der Steinmetz <strong>trollte sich</strong> und wirkte ein kleines bisschen beleidigt. (<i>Lunapark</i>, 171)' ,
+	'Fritze zog eine Flappe und <strong>trollte sich</strong>, Kirie legte sich in ihre Kiste. (<i>Lunapark</i>, 340)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

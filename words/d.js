@@ -3,7 +3,8 @@ const d = [
    'Dampframme',  //Dampframme:  
    'Dampfwalze',  //Dampfwalze:
    'dazwischenfunken', // dazwischenfunken: *  
-   'Deckel',   //Deckel: 
+   'Deckel',   //Deckel:
+   'deichseln', // deichseln:  * 
    'dezent',   //dezent: 
    'Diele',   //Diele:  
    'Dietrich',  //Dietrich: 

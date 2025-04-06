@@ -60,26 +60,26 @@ const g = [
    'Gier, gieren',  //  * 
    'giften',   // giften:  *
    'giggeln',  // giggeln:  *
-   'Gips',   //Gips:  
+   'Gips',   // Gips:  *
    'gleißen, gleißend',  // *  
-   'glimpflich',  // glimpflich:  
+   'glimpflich',  // glimpflich: * 
    'glotzen, anglotzen',  // * duplicated  
-   'gluckern', //gluckern:  
-   'goldene Nase (sich verdienen)',  //
-   'Gör, Göre',  //  
+   'gluckern', // gluckern:  *
+   'goldene Nase (sich verdienen)',  // *
+   'Gör, Göre',  // * 
    'Gosse',  // Gosse:  *
-   'grämen',  //grämen:  
-   'grapschen',  //grapschen:
+   'grämen',  // grämen:  *
+   'grapschen',  // grapschen: *
    'Grimm', //  Grimm: *
    'grölen', // grölen:  *
-   'große Stücke auf jmdn. halten',  //  
-   'Grünschnabel',  //Grünschnabel:  x
-   'grunzen',   //grunzen:  x
-   'Grüßaugust',  //Grüßaugust:  x
+   'große Stücke auf jmdn. halten',  // * 
+   'Grünschnabel', // Grünschnabel:  *
+   'grunzen',   // grunzen:  *
+   'Grüßaugust', // Grüßaugust: *
    'Gully',  // Gully: * 
-   'gurren',  //gurren:  x
-   'Gurt',   //Gurt:  x    
-   'gut in Schuss',  //     x 
+   'gurren',  // gurren:  *
+   'Gurt',   // Gurt:  *    
+//   'gut in Schuss',  //    rework this
    'guten Mutes sein', // *  
  ];
 

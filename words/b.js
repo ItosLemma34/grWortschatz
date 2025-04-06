@@ -7,6 +7,7 @@ const b = [
     'barsch',   //barsch:
     'Bartstoppeln', //Bartstoppeln: 
     'Baskenmütze',  //Baskenmütze:  
+    'bäuchlings', // bäuchlings: *
     'bauschen',    //bauschen: 
     'beäugen',  // beäugen: *
     'bedröppelt',  //bedröppelt: 
@@ -30,7 +31,8 @@ const b = [
     'bescheuert',  //bescheuert: 
     'Besen',      //Besen:  
     'Besteck',    // Besteck:  *  
-    'betreten',   //betreten:  
+    'betreten',   //betreten:
+    'Bettfeder',  // Bettfeder: *  
     'betupfen',   //betupfen:  
     'Beule',      // Beule:  *
     'bibbern',    // bibbern: *

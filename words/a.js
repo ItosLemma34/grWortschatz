@@ -83,7 +83,7 @@ const a = [
 	'auf den Putz hauen',  //
 	'auf den Strich gehen', //
 	'auf den Wecker gehen', // * duplicated
-	'auf den Zahn fühlen',  //
+	'auf den Zahn fühlen',  // * duplicated
 	'auf der Hut sein',  //
 	'auf die Nase binden',  //
 	'auf die Palme treiben/bringen',  
@@ -97,7 +97,7 @@ const a = [
 	'aufbahren',   //aufbahren:  
 	'aufbauschen', // aufbauschen:  * 
 	'aufdonnern (sich)',  //
-	'auffächern', //auffächern:
+	'auffächern, fächern', // * duplicated
 	'auffliegen',  // auffliegen:   
 	'aufgabeln',   // aufgabeln:  
 	'aufgedunsen', // aufgedunsen:  *

@@ -97,6 +97,7 @@ const v = [
    'vierschrötig', // vierschrötig:  * 
    'vögeln',    // vögeln:  *
    'Vollwaise', // Vollwaise:  *
+   'von der Fahne gehen', // * duplicated
    'vorgaukeln',  // vorgaukeln:  *
    'Vorgeplänkel, Geplänkel',  //  *  duplicated
    'Vorhängeschloss',  //Vorhängeschloss: *

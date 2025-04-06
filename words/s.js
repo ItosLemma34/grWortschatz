@@ -48,6 +48,7 @@ const s = [
    'Schlüpfer',  // Schlüpfer: *
    'schlüpfrig', // schlüpfrig: *
    'Schmach', // Schmach:  *
+   'schmächtig', // schmächtig:  *
    'schmettern', // schmettern: *
    'schmiegen (sich)', // *
    'Schmiere stehen', // *

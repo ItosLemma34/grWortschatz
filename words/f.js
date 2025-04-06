@@ -1,8 +1,8 @@
 const f = [
-   'fächern', // fächern:
-   'fackeln',  //fackeln:  
-   'fadenscheinig',  //fadenscheinig:  
-   'Fahne (von der F. gehen)',  // 
+   'fächern, auffächern', // * duplicated
+   'fackeln',  // fackeln: * 
+   'fadenscheinig',  // fadenscheinig: *
+   'Fahne (von der F. gehen)',  // * duplicated 
    'Fahnenabzug',  //Fahnenabzug: 
    'Faible' ,  // Faible:  
    'Fall der Fälle',  //  

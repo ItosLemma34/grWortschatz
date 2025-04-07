@@ -4,8 +4,8 @@ const f = [
    'fadenscheinig',  // fadenscheinig: *
    'Fahne (von der F. gehen)',  // * duplicated 
    'Fahnenabzug',  // Fahnenabzug: *
-   'Faible' ,  // Faible:  
-   'Fall der Fälle',  //  
+   'Faible' ,  // Faible: *
+   'Fall der Fälle',  // *  
    'Fasan',  //Fasan:  
    'faseln',  //faseln:  
    'Fass',  // Fass: *  
@@ -24,6 +24,7 @@ const f = [
    'Firlefanz',  // Firlefanz: *
    'Fischzug',   //Fischzug:  
    'Flachpfeife', // Flachpfeife:
+   'Flappe (eine F. ziehen)', // *
    'flapsig, Flapsigkeit',  // * 
    'Flaschenzug', // Flaschenzug: *
    'flattern', //flattern:

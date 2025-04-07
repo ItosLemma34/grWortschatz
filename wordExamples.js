@@ -16,19 +16,16 @@ zzz: [
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
 'Flappe (eine F. ziehen)': [
-	'<strong>eine Flappe ziehen</strong>: sulk'+
+	'<strong>eine Flappe ziehen</strong>: sulk, pout'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Flappe+ziehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Flappe ziehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flappe#d-1-1-1"target="target2">Flappe ziehen</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""target="target3">Flappe ziehen</a>&nbsp;&nbsp;<a href=""target="target4">Flappe ziehen</a>',
-	'<u>Der nasse Fisch</u>',   
-	'<u>Märzgefallene</u>',    
-	'<u>Lunapark</u>',   
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Flappe%20ziehen"target="target3">Flappe ziehen</a>&nbsp;&nbsp;<a href="https://de.pons.com/%C3%BCbersetzung-2/deutsch-englisch/Flappe"target="target4">Flappe ziehen</a>',
+	'<u>Lunapark</u>', 
+	'Fritze <strong>zog eine Flappe</strong> und trollte sich, Kirie legte sich in ihre Kiste. (<i>Lunapark</i>, 340)' ,
 ],
 Sündenbock: [
 	'<strong>Sündenbock</strong>: scapegoat'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Suendenbock"target="target1">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/S%C3%BCndenbock"target="target2">Sündenbock</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/suendenbock#S%C3%BCndenbock"target="target3">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=S%C3%BCndenbock"target="target4">Sündenbock</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',  
 	'Lapkes Männer hatten so viel Übles auf Horst Kaczmarek abgewälzt, dass Lange sich zwischenzeitlich gefragt hatte, ob der Mord im Wedding womöglich auf ihr Konto ging. Ob sie womöglich mit einer Polizeiaktion gerechtnet und deswegen rechtzeitig für einen <strong>Sündenbock</strong> gesorgt hatten. Einen <strong>Sündenbock</strong>, der sich nicht mehr wehren konnte.  (<i>Lunapark</i>, 259-60)', 
 	'<i>Charly</i>: "Aber er (<i>Karl Reinhold</i>) war\'s nicht! Er hat sich doch nur versteckt, er war an keiner politischen Aktion beteiligt. Nur seiner Freundin wegen ist er nach Berlin zurückgekehrt." <i>Gereon</i>: "Das sagst du. Für die Staatspolizei ist er der Hauptverdächtige. "Die brauchen einen <strong>Sündenbock</strong>, das ist alles." (<i>Lunapark</i>, 338)', 
@@ -50,8 +47,6 @@ deichseln: [
 	'<strong>deichseln</strong>: manage, pull off, engineer sth.'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=deichseln&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">deichseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/deichseln"target="target2">deichseln</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/deichseln"target="target3">deichseln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=deichseln"target="target4">deichseln</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'<i>Charly</i>: "Kannst du nicht zusehen, dass du persönlich ihn (<i>Karl Reinhold</i>) vernimmst?" <i>Gereon</i>: "Und dann?" "Was weiß ich? Wenn du erst mal mit ihm allein bist, wird sich schon irgendetwas <strong>deichseln</strong> lassen..."  (<i>Lunapark</i>, 337)',  
 ],
@@ -746,8 +741,6 @@ verdunsten: [
 	'<strong>verdunsten</strong>: evaporate, vaporize' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verdunsten"target="target1">verdunsten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verdunsten"target="target2">verdunsten</a>' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verdunsten"target="target3">verdunsten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verdunsten"target="target4">verdunsten</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'"Vielleicht, mein lieber Marlow", sagte er (<i>Rath</i>) und atmete heftig, "sollte ich lieber <i>Sie</i> erschießen. Dafür werde ich womöglich sogar befördert." Marlows Lächeln <strong>verdunstete</strong>. "Da wäre ich mir", sagte er, "an Ihrer Stelle nicht so sicher."  (<i>Lunapark</i>, 244)',  
 ],
@@ -758,8 +751,6 @@ dazwischenfunken: [
 	'<strong>dazwischenfunken</strong>: butt in, put a wrench in the works' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/dazwischenfunken"target="target1">dazwischenfunken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/dazwischenfunken"target="target2">dazwischenfunken</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/dazwischenfunken"target="target3">dazwischenfunken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=dazwischenfunken"target="target4">dazwischenfunken</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',
 	'<i>Marlow</i>: "Ein Leo Juretzka in den Händen der SA könnte alles zerstören, was ich in den vergangenen Jahren aufgebaut habe." <i>Rath</i>: "Na, viel ist davon ohnehin nicht mehr übrig." "Täuschen Sie sich da mal nicht, Kommissar. Die Welt wird bald wieder anders aussehen. Und gerade deshalb kann ich es mir nicht erlauben, dass Leo weiter <strong>dazwischenfunkt</strong>."  (<i>Lunapark</i>, 243)',   
 ],
@@ -770,7 +761,6 @@ Keule: [
 	'die <strong>Keule</strong>,-<strong>n</strong>: cudgel, club' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Keule"target="target1">Keule</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Keule"target="target2">Keule</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/keule?q=Keule"target="target3">Keule</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/keule"target="target4">Keule</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
 	'<u>Lunapark</u>',
 	'"Kronbergs Leute haben ebenfalls Splitter gefunden", sagte Rath. "An der Bordsteinkante. Könnte also wirklich von der Tatwaffe stammen. Auf was für einen Gegenstand tippen Sie?" Karthaus überlegte. "Eine Art <strong>Keule</strong>, würde ich sagen. Fein geschliffen, kein grobes Holz..." (<i>Lunapark</i>, 109)',   
 	'<i>Rath</i>: "Sie haben was gesehen? Den Mord?" <i>Isolde Jäger</i>: "An Mord habe ich ja gar nicht gedacht. Ich hab nur gesehen, wie ein Mann auf einen anderen eingeprügelt hat. Mit einer <strong>Keule</strong>. Und dann verschwunden ist.".. <i>Rath</i>: "Er hat eine <strong>Keule</strong> benutzt, sagen Sie?.. Ein Schlagstock?" "Nein, Größer. Mit einem dickeren und einem dünneren Ende eben. Sah irgendwie elegant aus..."   (<i>Lunapark</i>, 171-72)',   
@@ -784,8 +774,6 @@ Hüne: [
 	'der <strong>Hüne</strong>,-<strong>n</strong>: giant, titan ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Huene"target="target1">Hüne</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/H%C3%BCne"target="target2">Hüne</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hune"target="target3">Hüne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=H%C3%BCne"target="target4">Hüne</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',   
 	'Sie hatten immer noch keine Erklärung dafür, wie das Glasauge in die Luftröhre des Toten gelangt war.. Hatte Walter Spindler seinem Gegner das eigenge Glasauge in den Schlund gestoßen? War so etwas möglich? Spindler war..schon über fünfzig - hätte der gegen einen kampferprobten <strong>Hünen</strong> wie Kaczmarek überhaupt eine Chance gehabt?  (<i>Lunapark</i>, 235)',  
 ],
@@ -796,8 +784,6 @@ Schlund: [
 	'der <strong>Schlund</strong>,-<strong>lünde</strong>: throat, pharynx; chasm, abyss  ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlund"target="target1">Schlund</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlund"target="target2">Schlund</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlund"target="target3">Schlund</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schlund"target="target4">Schlund</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'Sie hatten immer noch keine Erklärung dafür, wie das Glasauge in die Luftröhre des Toten gelangt war.. Hatte Walter Spindler seinem Gegner das eigenge Glasauge in den <strong>Schlund</strong> gestoßen? War so etwas möglich? Spindler war..schon über fünfzig - hätte der gegen einen kampferprobten Hünen wie Kaczmarek überhaupt eine Chance gehabt?  (<i>Lunapark</i>, 235)',  
 ],
@@ -805,8 +791,6 @@ türmen: [
 	'<strong>türmen</strong>: pile up; abscond' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuermen_aufschichten"target="target1">türmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%BCrmen"target="target2">türmen</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/turmen"target="target3">türmen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/tuermen"target="target4">türmen</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'Die Sache mit dem vermeintlichen Fluchtwagen war so ungefähr die dünnste Spur, die sie hatten. Dass es sich überhaupt um einen Ford handelte, war eigentlich auch nur eine Vermutung. Und ob der Mörder von Hans Dewald nicht doch mit der U-Bahn <strong>getürmt</strong> war, stand ebenfalls nicht fest.  (<i>Lunapark</i>, 234-35)',  
 ],
@@ -814,7 +798,6 @@ Verstümmelung: [
 	'die <strong>Verstümmelung</strong>,-<strong>en</strong>:  mutilation, disfigurement' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verstuemmelung"target="target1">Verstümmelung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Verst%C3%BCmmelung"target="target2">Verstümmelung</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verstummelung"target="target3">Verstümmelung</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Verst%C3%BCmmelung"target="target4">Verstümmelung</a> ' ,
-//	'<u>Der nasse Fisch</u>',   
 	'<u>Lunapark</u>',
 	'Gennats Stimme klang wie die eines netten Onkels. "Sie (<i>Landvogt</i>) sind SA-Mann, ich bin Polizeibeamter. Bei Ihnen sind da ein paar Dinge aus dem Ruder gelaufen, das müssen wir aufklären... Darunter," fuhr Gennat ungerührt fort, "fallen nicht nur Schläge und Tritte, der Gastronom Ferdinand Meyerheim hat sein rechtes Auge verloren, eine <strong>Verstümmelung</strong>, die ..." "Aber das war doch nicht ich! Das haben Sie falsch verstanden. Das war Katsche!.."  (<i>Lunapark</i>, 232)',
 ],
@@ -3407,7 +3390,11 @@ flau: [
 	'Rath wich unwillkürlich zurück, als er in die Dose blickte. Denn aus der Dose blickte es zurück. Ein blaues Auge schaute ihn an. Kein kompletter Augapfel, eher eine Halbschale... Rath musste unwillkürlich an das blutige Auge denken, das im Mülleimer des Sturmlokals gelegen hatte, und ihm wurde <strong>flau</strong> im Magen.   (<i>Lunapark</i>, 111)' ,
 ], 
 Faible: [
-	'das <strong>Faible</strong>,-<strong>s</strong>: <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Faible"target="target1">Faible</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Faible"target="target2">Faible</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Faible"target="target3">Faible</a>' ,
+	'das <strong>Faible</strong>,-<strong>s</strong>: liking, weakness (for sth.)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Faible"target="target1">Faible</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Faible"target="target2">Faible</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Faible"target="target3">Faible</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Faible"target="target4">Faible</a>',
+	'<u>Märzgefallene</u>', 
+	'"Hannah Singer, Fritze Fragmichnich, damals diese Alex...." Rath seufzte. "Kann es sein, dass du ein <strong>Faible</strong> für Straßenkinder hast?" Charly zuckte nur die Schultern, "Jede Frau hat ihre Geheimnisse," sagte sie, wedelte noch einmal mit der Akte und verschwand. (<i>Märzgefallene</i>, 363)' ,
 	'<u>Lunapark</u>', 
 	'Weswegen hatten sie sich denn überhaupt gestritten, er (<i>Gereon</i>) und Charly? Doch wegen Fritze. Wieder einmal. Friedrich Thormann, der Vollwaise, den Charly auf der Straße aufgegabelt hatte, der gedroht hatte, sich umzubringen, wenn sie ihn zurück ins Heim schickten. Der nur deswegen in der Carmerstraße hatte bleiben dürfen. Charly und ihr <strong>Faibel</strong> für Straßenkinder!   (<i>Lunapark</i>, 80)' ,
 ],
@@ -3547,10 +3534,12 @@ fummeln: [
 	'Rath überlegte kurz, dann holte er sein Portemonnaie aus der Manteltasche und <strong>fummelte</strong> das Foto heraus, das er immer bei sich trug... (<i>Lunapark</i>, 291)',
 ],
 'Fall der Fälle': [
-	'für den <strong>Fall der Fälle</strong>: &nbsp;worst-case scenario; just in case  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fall%20der%20F%C3%A4lle"target="target1">Fall der Fälle</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Fall+der+F%C3%A4lle"target="target2">Fall der Fälle</a> &nbsp;&nbsp;<a href="https://tureng.com/en/german-english/fall%20der%20f%C3%A4lle"target="target3">Fall der Fälle</a>    ' ,
+	'<strong>Fall der Fälle</strong>: worst-case scenario; just in case'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Fall+der+F%C3%A4lle&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Fall der Fälle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fall%20der%20F%C3%A4lle"target="target1">Fall der Fälle</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Fall+der+F%C3%A4lle"target="target3">Fall der Fälle</a> &nbsp;&nbsp;<a href="https://tureng.com/en/german-english/fall%20der%20f%C3%A4lle"target="target4">Fall der Fälle</a>',
 	'<u>Märzgefallene</u>',
-	'Gereon schaute überrascht. Charly zuckte die Achseln und zeigte auf den verwaisten Schreibtisch von Erika Voss. "Du hast mir gestern doch Asyl versprochen. Für den <strong>Fall der Fälle</strong>. <i>Gereon</i>: "Ist der schon eingetreten?...."   (<i>Märzgefallene</i>, 373)'  ,
-	'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den <strong>Fall der Fälle</strong>. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen.  (<i>Märzgefallene</i>, 418)'  ,
+	'Gereon schaute überrascht. Charly zuckte die Achseln und zeigte auf den verwaisten Schreibtisch von Erika Voss. "Du hast mir gestern doch Asyl versprochen. Für den <strong>Fall der Fälle</strong>. <i>Gereon</i>: "Ist der schon eingetreten?...." (<i>Märzgefallene</i>, 373)',
+	'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den <strong>Fall der Fälle</strong>. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen.  (<i>Märzgefallene</i>, 418)',
 	'<u>Lunapark</u>',
 	'Er (<i>Rath</i>) hatte mit Lange vereinbart, dass sie ihre Vermutungen erst einmal für sich behielten: dass es etwas zu bedeuten haben musste, dass Horst Kaczmarek dem SA-Sturm angehörte, den die ehemalige Unterweltgröße Hermann Lapke befehligte. Dass der SA-Sturm 101 kein normaler SA-Sturm war, das da irgendwas nicht stimmte. Dass für den <strong>Fall der Fälle</strong> ein Freund beim SA-Feldjägerkorps bereitstand, die Dinge wieder zu richten. (<i>Lunapark</i>, 83-84)',
 ],
@@ -12191,7 +12180,7 @@ wedeln: [
 	'<i>Schupo zu Charly</i>: "Entschuldigen Se nochmals die Störung, Gnädigste. Sagen Se Ihrer Schwester bitte, se soll demnächst besser auf den kleinen Rabauken aufpassen!" Er wandte sich an den Jungen (<i>Fritze</i>) und <strong>wedelte</strong> mit dem Finger vor dessen Nase. "Dass du dich ja nie wieder beim Betteln erwischen lässt!" (<i>Märzgefallene</i>, 353)',
 	'Erst als das Türschloss einschnappte, ließ Charly den Jungen (<i>Fritze</i>) los.... Kirie beschnupperte den unerwarteten Gast immer noch und <strong>wedelte</strong> mit dem Schwanz. (<i>Märzgefallene</i>, 353)' ,
 	'Charly erwiderte seinen Kuss, entzog sich ihm aber, als er sie umarmen wollte. "Nicht jetzt, Gereon", sagte sie und <strong>wedelte</strong> mit der Mappe. "Keine Zeit." (<i>Märzgefallene</i>, 363)' ,
-	'"Hannah Singer, Fritze Fragmichnich, damals diese Alex...." Rath seufzte. "Kann es sein, dass ein Faible für Straßenkinder hast?" Charly zuckte nur die Schultern, "Jede Frau hat ihre Geheimnisse," sagte sie, <strong>wedelte</strong> noch einmal mit der Akte und verschwand. (<i>Märzgefallene</i>, 363)' ,
+	'"Hannah Singer, Fritze Fragmichnich, damals diese Alex...." Rath seufzte. "Kann es sein, dass du ein Faible für Straßenkinder hast?" Charly zuckte nur die Schultern, "Jede Frau hat ihre Geheimnisse," sagte sie, <strong>wedelte</strong> noch einmal mit der Akte und verschwand. (<i>Märzgefallene</i>, 363)' ,
 	'"Hier", sagte er (<i>Rath</i>), für dich!" Fritze schaute den Zehner zögerlich an, als traue er dem Braten nicht. Rath <strong>wedelte</strong> mit dem Schein. "Nimm", sagte er, "für deine Hilfe." (<i>Märzgefallene</i>, 370)' ,
 	'Er (<i>Fritze</i>) kraulte Kirie durchs Fell, der Hund <strong>wedelte</strong> mit dem Schwanz. Hoffte wahrscheinlich auf einen Spaziergang mit dem Jungen und tapste mit zur Wohnungstür. (<i>Märzgefallene</i>, 371)' ,
 	'...dann ging er (<i>Rath</i>) zur Wohnungstür, an der Kirie schon stand und erwartugsvoll mit dem Schwanz <strong>wedelte</strong>. (<i>Märzgefallene</i>, 402)' ,

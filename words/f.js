@@ -6,14 +6,14 @@ const f = [
    'Fahnenabzug',  // Fahnenabzug: *
    'Faible' ,  // Faible: *
    'Fall der Fälle',  // *  
-   'Fasan',  //Fasan:  
-   'faseln',  //faseln:  
+   'Fasan',  // Fasan: * 
+   'faseln',  // faseln: * 
    'Fass',  // Fass: *  
    'Fatzke', // Fatzke: *
-   'fauchen, anfauchen', // duplicated 
-   'fegen',  //fegen:  
-   'feilbieten',  //feilbieten:  
-   'feilschen',  //feilschen:  
+   'fauchen, anfauchen', // * duplicated 
+   'fegen',  // fegen: * 
+   'feilbieten',  // feilbieten: * 
+   'feilschen',  // feilschen:  
    'fesch',  // fesch: *
    'festfressen (sich)',  //
    'festzurren, zurren', // * duplicated  

@@ -56,6 +56,7 @@ const b = [
     'Bonze',   //Bonze:
     'Bordstein', // Bordstein: *
     'borniert',  // borniert: *
+    'Böschung', // Böschung: *
     'Bösewicht',  //Bösewicht:  
     'Boulette',   //Boulette:  *
     'brandschatzen',  //brandschatzen: 
@@ -71,7 +72,7 @@ const b = [
     'Buche',    //Buche: 
     'Büchse',   //Büchse: 
     'Buckel, bucklig',  // *  
-    'bücken (sich)',  // 
+    'bücken (sich)',  // *
     'buddeln, ausbuddeln',  // 
     'Bude, Büdchen',  // 
     'Bügel',         //Bügel: 

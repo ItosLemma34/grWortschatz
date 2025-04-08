@@ -16,7 +16,7 @@ const a = [
 	'Ablage',     //Ablage:  
 	'abluchsen',  //abluchsen: 
 	'abschüssig',  //abschüssig:  
-	'abspulen',   //abspulen: 
+	'abspulen',   // abspulen: 
 	'abstottern', // abstottern: *
 	'abtrünnig',  //abtrünnig: 
 	'abwiegeln',  // abwiegeln:  *    
@@ -39,7 +39,7 @@ const a = [
 	'anecken',      //anecken:   
 	'anekeln',      //anekeln:  
 	'anfauchen, fauchen', //
-	'angeben, Angeber',  //  
+	'angeben, Angeber',  //  * duplicated
 	'angeschickert', //angeschickert:
 	'anglotzen, glotzen', // * duplicated 
 	'anheuern',  // anheuern: *

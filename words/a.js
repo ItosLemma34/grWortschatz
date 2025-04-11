@@ -130,6 +130,7 @@ const a = [
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
 	'ausbaldowern', // ausbaldowern:  *
+	'ausbuddeln', // ausbuddeln:  *   pair with "einbuddeln" if found
 	'ausbüxen',    //ausbüxen:  
 	'Ausdünstung',  //Ausdünstung:  
 	'Ausfallstraße',   //Ausfallstraße:  

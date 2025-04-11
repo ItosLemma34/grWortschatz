@@ -36,6 +36,7 @@ const p = [
    'poltern' ,  // poltern: *
    'postieren', // postieren: *
   // 'präparieren' ,
+   'prangen', // prangen: *
    'Pranke',  // Pranke: *
    'Präsent, präsent',  // *
    'prasseln',  // prasseln: *

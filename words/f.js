@@ -13,43 +13,43 @@ const f = [
    'fauchen, anfauchen', // * duplicated 
    'fegen',  // fegen: * 
    'feilbieten',  // feilbieten: * 
-   'feilschen',  // feilschen:  
+   'feilschen',  // feilschen:  *
    'fesch',  // fesch: *
-   'festfressen (sich)',  //
+   'festfressen (sich)',  // *
    'festzurren, zurren', // * duplicated  
    'Fettnäpfchen (ins F. treten)',  // * duplicated 
    'filzen',  //filzen: * 
-   'Findling',   //Findling:  
-   'fingieren',  //fingieren: 
+   'Findling',   // Findling: *
+   'fingieren',  // fingieren: *
    'Firlefanz',  // Firlefanz: *
-   'Fischzug',   //Fischzug:  
-   'Flachpfeife', // Flachpfeife:
+   'Fischzug',   // Fischzug: * 
+   'Flachpfeife', // Flachpfeife: *
    'Flappe (eine F. ziehen)', // *
    'flapsig, Flapsigkeit',  // * 
    'Flaschenzug', // Flaschenzug: *
-   'flattern', //flattern:
-   'flau' ,  // flau:
-   'Flaum',  //Flaum:  
-   'fläzen (sich)',  //  
-   'fleddern',  //fleddern:             
+   'flattern', // flattern: *
+   'flau' ,  // flau: *
+   'Flaum',  // Flaum:  *
+   'fläzen (sich)',  // *
+   'fleddern',  // fleddern:  *           
    'flehen, flehentlich',  // *  
-   'flicken',  //flicken:  
-   'Fliese, fliesen',   //  
-   'flink',  //flink: 
-   'Floskel', // Floskel: 
-   'flöten', //flöten:  
+   'flicken',  // flicken: // * 
+   'Fliese, fliesen',   //  *
+   'flink',  // flink:  *
+   'Floskel', // Floskel: *
+   'flöten', // flöten: * 
    'flott',  // flott: *    
-   'Fluse',  // Fluse:  
-   'Flüstertüte',  //Flüstertüte:  
-   'flutschen',  //flutschen:  
-   'Folie',  //Folie: 
+   'Fluse',  // Fluse: *
+   'Flüstertüte',  // Flüstertüte:  * 
+   'flutschen',  // flutschen: * 
+   'Folie',  // Folie: *
    'formvollendet', // formvollendet: * 
-   'forsch',  //forsch: 
-   'Fraktur', // Fraktur:  
-   'Fratze',  //Fratze:  
-   'frequentieren',  //frequentieren:  
+   'forsch',  // forsch: *
+   'Fraktur', // Fraktur:  * 
+   'Fratze',  // Fratze:  *
+   'frequentieren',  // frequentieren:  *
    'Frevel',    // Frevel: *
-   'frösteln', // frösteln:  
+   'frösteln', // frösteln:  *
    'Frotzelei',  //Frotzelei:  
    'fuchteln, Fuchtel', //  *
    'fuhrwerken' ,  //fuhrwerken:   

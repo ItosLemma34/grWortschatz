@@ -2,6 +2,7 @@ const g = [
    'Gage',  // Gage:  *
    'Ganove', // Ganove: * 
    'Gassi gehen',  //  *
+   'Gauner', // Gauner: *
    'Geäst, Ast',  // * duplicated  
    'Gebälk, Balken', // * duplicated  
    'Gebrüll, brüllen',  // * duplicated 
@@ -70,7 +71,7 @@ const g = [
    'Gosse',  // Gosse:  *
    'grämen',  // grämen:  *
    'grapschen',  // grapschen: *
-   'Grimm', //  Grimm: *
+   'Grimm, grimmig', //  *
    'grölen', // grölen:  *
    'große Stücke auf jmdn. halten',  // * 
    'Grünschnabel', // Grünschnabel:  *

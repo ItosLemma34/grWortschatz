@@ -1,5 +1,5 @@
 const e = [
-   'Ebbe',   //Ebbe:  
+   'Ebbe',   // Ebbe:  * 
    'echoen',  // echoen:
    'Ei (wie aus dem Ei gepellt)', // * duplicated  
    'einbrocken',  //einbrocken:  

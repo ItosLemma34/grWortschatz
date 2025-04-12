@@ -50,13 +50,13 @@ const f = [
    'frequentieren',  // frequentieren:  *
    'Frevel',    // Frevel: *
    'frösteln', // frösteln:  *
-   'Frotzelei',  //Frotzelei:  
+   'Frotzelei, frotzeln',  // * 
    'fuchteln, Fuchtel', //  *
-   'fuhrwerken' ,  //fuhrwerken:   
+   'fuhrwerken', // fuhrwerken:  *  
    'fummeln',    // fummeln:  *
-   'funzelig',   //funzelig:  
-   'Furz',     //Furz:  
-   'Futter',  //Futter:  
+   'funzelig',   // funzelig:  * 
+   'Furz',     // Furz:  *
+   'Futter',  // Futter: *
  ];
 
 export default f;

@@ -3302,10 +3302,12 @@ entstellen: [
 	'<u>Lunapark</u>',
 	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und verrenkt, als habe man dem armen Kerl sämtliche Knochen gebrochen. Sein Gesicht war <strong>entstellt</strong> von Platzwunden, die Nase gebrochen und blutig....   (<i>Lunapark</i>, 17)' ,
 ],
-Ebbe: [
-	'die <strong>Ebbe</strong>,-<strong>n</strong>: &nbsp;low, ebb tide <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ebbe"target="target1">Ebbe</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ebbe?q=Ebbe"target="target2">Ebbe</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ebbe"target="target3">Ebbe</a>      ' ,
+Ebbe: [ 
+	'die <strong>Ebbe</strong>,-<strong>n</strong>: low, ebb tide'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ebbe"target="target1">Ebbe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ebbe"target="target2">Ebbe</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ebbe?q=Ebbe"target="target3">Ebbe</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ebbe"target="target4">Ebbe</a>' ,
 	'<u>Märzgefallene</u>',
-	'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede zupfte seinen Kittel zurecht und betätigte einen Hebel an der vorsintflutlichen Kasse.... "Wollen Se mal sehen, Kommessar: <strong>Ebbe</strong>, nix als <strong>Ebbe</strong>...." (<i>Märzgefallene</i>, 317)' ,
+	'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede zupfte seinen Kittel zurecht und betätigte einen Hebel an der vorsintflutlichen Kasse... "Wollen Se mal sehen, Kommessar: <strong>Ebbe</strong>, nix als <strong>Ebbe</strong>, ich han kaum Wechseljeld, wie soll ich Ihnen dann fuffzich Marrek..." (<i>Märzgefallene</i>, 317)' ,
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -3687,10 +3689,12 @@ Fratze: [
 	'Lankes rotes Gesicht dagegen war eine einzige sadistisch grinsende <strong>Fratze</strong>. (<i>Der nasse Fisch</i>, 36)',
 	'Das Gesicht des Toten trat trotz der Betonspuren nun schon deutlich hervor, aber der Beton hatte der Physiognomie übel mitgespielt, und das fehlende linke Auge tat ein Übriges, um es mehr wie eine <strong>Fratze</strong> aussehen zu lassen. (<i>Der nasse Fisch</i>, 286)',
 ],
-fuhrwerken: [
-	'<strong>fuhrwerken</strong>: &nbsp;be busy, bustle around  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fuhrwerken"target="target1">fuhrwerken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/fuhrwerken"target="target2">fuhrwerken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fuhrwerken"target="target3">fuhrwerken</a>  ' ,
+fuhrwerken: [ 
+	'<strong>fuhrwerken</strong>: be busy, bustle around'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fuhrwerken"target="target1">fuhrwerken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/fuhrwerken"target="target2">fuhrwerken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/fuhrwerken"target="target3">fuhrwerken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fuhrwerken"target="target4">fuhrwerken</a>  ' ,
 	'<u>Märzgefallene</u>',
-	'Felix lachte. Dann zog er ein Bündel Sperrhaken aus der Tasche.... Felix schwang sich mit einem Satz auf die Rampe. Er <strong>fuhrwerkte</strong> mit den Sperrhaken in einem Türschloss herum bis die Tür aufschnappte, und dann war er auch schon im Gebäude verschwunden. (<i>Märzgefallene</i>, 394)' ,
+	'Felix lachte. Dann zog er ein Bündel Sperrhaken aus der Tasche.... Felix schwang sich mit einem Satz auf die Rampe. Er <strong>fuhrwerkte</strong> mit den Sperrhaken in einem Türschloss herum bis die Tür aufschnappte, und dann war er auch schon im Gebäude verschwunden. (<i>Märzgefallene</i>, 394)',
 ],
 Fischzug: [
 	'der <strong>Fischzug</strong>,-<strong>züge</strong>: catch of fish; raid, foray'+
@@ -3708,17 +3712,22 @@ feilschen: [
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Frotzelei: [
-	'die <strong>Frotzelei</strong>,-<strong>en</strong>: &nbsp;teasing, banter &nbsp;&nbsp;&nbsp;jmdn. <strong>frotzeln</strong>: &nbsp;tease, make fun of <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Frotzelei"target="target1">Frotzelei</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/frotzeln"target="target2">frotzeln</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/frotzelei"target="target3">Frotzelei</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/frotzeln"target="target4">frotzeln</a>  ',
+'Frotzelei, frotzeln': [  
+	'die <strong>Frotzelei</strong>,-<strong>en</strong>: teasing, banter'+
+	'<br>jmdn. <strong>frotzeln</strong>: tease, make fun of'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Frotzelei"target="target1">Frotzelei</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/frotzeln"target="target2">frotzeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/frotzelei"target="target3">Frotzelei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=frotzeln"target="target4">frotzeln</a>',
 	'<u>Der nasse Fisch</u>',
-	'Auch Kriminalassistent Stephan Jänicke war direkt von der Polizeischule Eiche zum Dienst am Alex beordert worden. Doch der blonde, wortkarge Ostpreuße ließ sich von den <strong>Frotzeleien</strong> der älteren Kollegen nicht beirren, er nahm seinen Beruf ernst.  (<i>Der nasse Fisch</i>, 16)',
+	'Auch Kriminalassistent Stephan Jänicke war direkt von der Polizeischule Eiche zum Dienst am Alex beordert worden. Doch der blonde, wortkarge Ostpreuße ließ sich von den <strong>Frotzeleien</strong> der älteren Kollegen nicht beirren, er nahm seinen Beruf ernst. (<i>Der nasse Fisch</i>, 16)',
 	'<u>Lunapark</u>',
-	'Adolf Osterberg war irritiert. Was hatte er falsh gemacht? Er hatte den Deutschen Gruß entboten und auch sonst jeden Respekt gezeigt, den die SA verdiente. Männer wie diese hier hatten im Kampf gegen die Kommune an vorderster Front gestanden, sie hatten ganz in seinem Sinne gehandelt. Über ihre antisemitischen <strong>Frotzeleien</strong> konnte er hinwegsehen.   (<i>Lunapark</i>, 9)' ,
+	'Adolf Osterberg war irritiert. Was hatte er falsh gemacht? Er hatte den Deutschen Gruß entboten und auch sonst jeden Respekt gezeigt, den die SA verdiente. Männer wie diese hier hatten im Kampf gegen die Kommune an vorderster Front gestanden, sie hatten ganz in seinem Sinne gehandelt. Über ihre antisemitischen <strong>Frotzeleien</strong> konnte er hinwegsehen. (<i>Lunapark</i>, 9)',
 ],
-Furz: [
-	'der <strong>Furz</strong>, die <strong>Fürze</strong>: &nbsp;fart <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Furz"target="target1">Furz</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/furz?q=Furz"target="target2">Furz</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/furz"target="target3">Furz</a>     ',
+Furz: [ 
+	'der <strong>Furz</strong>, die <strong>Fürze</strong>: fart'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Furz"target="target1">Furz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Furz"target="target2">Furz</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/furz?q=Furz"target="target3">Furz</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Furz"target="target4">Furz</a>',
 	'<u>Der nasse Fisch</u>',
-	'"Wenn du so eine Ratte einlochst, bekommst du gar nichts mehr aus ihr heraus", sagte er (<i>Wolter</i>). "Ist viel sinnvoller, wenn der jetzt durch Berlin läuft und weiß, dass wir ihn jederzeit einlochen <i>können</i>. Wenn wir ihn so in der Hand haben, dass er es nicht mal mehr wagt, einen <strong>Furz</strong> zu lassen, ohne uns zu fragen...."   (<i>Der nasse Fisch</i>, 30)' ,
+	'"Wenn du so eine Ratte einlochst, bekommst du gar nichts mehr aus ihr heraus", sagte er (<i>Wolter</i>). "Ist viel sinnvoller, wenn der jetzt durch Berlin läuft und weiß, dass wir ihn jederzeit einlochen <i>können</i>. Wenn wir ihn so in der Hand haben, dass er es nicht mal mehr wagt, einen <strong>Furz</strong> zu lassen, ohne uns zu fragen...."  (<i>Der nasse Fisch</i>, 30)',
 ],
 fadenscheinig: [
 	'<strong>fadenscheinig</strong>: threadbare, shabby, flimsy'+
@@ -3956,19 +3965,26 @@ frequentieren: [
 	'Rath schüttelte den Kopf. "Manchmal schon erschreckend, wie gleichgültig die Berliner sein können. Da liegt ein Mann seit Tagen leblos in der Nähe eines stark <strong>frequentierten</strong> Bahnhofs, und kein Mensch fühlt sich zuständig." (<i>Märzgefallene</i>, 96)',                
 	'Fünf Minuten später war sie (<i>Charly</i>) wieder am Bahnhof Zoo, einem der hässlichsten, aber meist<strong>frequentierten</strong> Bahnhöfe Berlins.  (<i>Märzgefallene</i>, 293)',                     
 ],
-Futter: [
-	'das <strong>Futter</strong> (no plural): &nbsp;lining (textiles); feed, fodder, forage <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Futter_Stoff"target="target1">Futter</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/futter?q=Futter"target="target2">Futter</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/futter"target="target3">Futter</a>   ',
+Futter: [ 
+	'das <strong>Futter</strong>: lining (textiles); feed, fodder, forage'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Futter_Stoff"target="target1">Futter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Futter"target="target2">Futter</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/futter?q=Futter"target="target3">Futter</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/futter"target="target4">Futter</a>',
 	'<u>Der nasse Fisch</u>',
-	'Die Jacke. Er musste an seine Jacke kommen.... Er hatte eine Kapsel dabei. ...er hatte die Falle nicht erkannt, sonst hätte er die Kapsel längst zerbissen. So aber war sie immer noch ins <strong>Futter</strong> eingenäht. In seiner Jacke, die dort auf dem Stuhl lag.... (<i>Der nasse Fisch</i>, 11)' ,
-	'Schnell war er am Stuhl und hatte seine Jacke mit den Zähnen heruntergerissen.... Mit dem rechten Ellbogen fixierte er die Jacke und riss mit den Zähnen am <strong>Futter</strong>.... Schließlich hatte er das <strong>Futter</strong> mit einem lauten Ratsch geöffnet.  (<i>Der nasse Fisch</i>, 12)',
+	'Die Jacke. Er musste an seine Jacke kommen.... Er hatte eine Kapsel dabei. ...er hatte die Falle nicht erkannt, sonst hätte er die Kapsel längst zerbissen. So aber war sie immer noch ins <strong>Futter</strong> eingenäht. In seiner Jacke, die dort auf dem Stuhl lag.... (<i>Der nasse Fisch</i>, 11)',
+	'Schnell war er am Stuhl und hatte seine Jacke mit den Zähnen heruntergerissen.... Mit dem rechten Ellbogen fixierte er die Jacke und riss mit den Zähnen am <strong>Futter</strong>.... Schließlich hatte er das <strong>Futter</strong> mit einem lauten Ratsch geöffnet. (<i>Der nasse Fisch</i>, 12)',
 	'Seine Zunge suchte nach der Kapsel, sie schmeckte Dreck und Flusen, doch schließlich ertastete sie die glatte kühle Oberfläche. Mit den Schneidezähnen zog er sie vorsichtig aus dem <strong>Futter</strong>.  (<i>Der nasse Fisch</i>, 12)',
+	'Der Mantel musste älter sein, als er aussah, das <strong>Futter</strong> war an einer Stelle eingerissen. Nein, nicht eingerissen, sondern sauber aufgetrennt. Rath untersuchte die Stelle genauer. Es sah aus, als habe jemand etwas aus dem <strong>Futter</strong> holen wollen. (<i>Der nasse Fisch</i>, 234)',
+	'Für den winzigen Bruchteil einer Sekunde sah es so aus, als wolle die gesamte Felswand, massiv und solide, um ein paar Meter nach vorn hüpfen in ihrer gesamten, ungeheuren Masse, dann aber brach sie, plöztlich von nichts mehr gehalten, in sich zusammen und bröckelte staubend und tosend zu Tal. Nur noch ein Geröllhaufen blieb übrig, ein riesiger Geröllhaufen, Arbeit für mehrere Tage, <strong>Futter</strong> für die Kalköfen. (<i>Märzgefallene</i>,  549)',
+	'Jedenfalls grämte Weinert sich nicht mehr über seine langsame Arbeitsweise, inzwischen war er sogar froh, dass <i>Abblende</i> - so der Arbeitstitel - nicht schon erschienen war, denn in diesem Fall, da war er sich sicher, wäre sein erster Roman.. heute auch zum <strong>Futter</strong> für den Scheiterhaufen geworden. (<i>Märzgefallene</i>, 568)',
 ],
-funzelig: [
-	'<strong>funzelig</strong>: &nbsp;dim <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/funzelig"target="target1">funzelig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/funzelig"target="target2">funzelig</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=funzelig"target="target3">funzelig</a>  ',
+funzelig: [ 
+	'<strong>funzelig</strong>: dim'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/funzelig"target="target1">funzelig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/funzelig"target="target2">funzelig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/funzelig"target="target3">funzelig</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=funzelig"target="target4">funzelig</a>',
 	'<u>Märzgefallene</u>',
-	'Und sie waren lange gefahren, so lange, dass das Blut aus seinen Kopfwunden Zeit hatte, mit dem groben Leinenstoff zu verkleben, so dass alle Wunden gleich wieder aufrissen, als sie ihm (<i>Leo</i>)...den Sack mit einem brutalen Ruck vom Kopf zogen, und er in das <strong>funzelige</strong> Licht einer 40-Watt-Glühbirne blinzelte. (<i>Märzgefallene</i>, 108)' ,
+	'Und sie waren lange gefahren, so lange, dass das Blut aus seinen Kopfwunden Zeit hatte, mit dem groben Leinenstoff zu verkleben, so dass alle Wunden gleich wieder aufrissen, als sie ihm (<i>Leo</i>)...den Sack mit einem brutalen Ruck vom Kopf zogen, und er in das <strong>funzelige</strong> Licht einer 40-Watt-Glühbirne blinzelte. (<i>Märzgefallene</i>, 108)',
 	'<u>Lunapark</u>',
-	'Der Wirt.. schaltete das elektrische Licht ein, eine Handvoll <strong>funzeliger</strong> 40-Watt-Birnen, die den Raum kaum heller werden ließen, und stellte sich hinter den Tresen, als wolle er den Beamten ein Bier zapfen.  (<i>Lunapark</i>, 32)' ,
+	'Der Wirt.. schaltete das elektrische Licht ein, eine Handvoll <strong>funzeliger</strong> 40-Watt-Birnen, die den Raum kaum heller werden ließen, und stellte sich hinter den Tresen, als wolle er den Beamten ein Bier zapfen. (<i>Lunapark</i>, 32)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -4098,9 +4114,9 @@ geflissentlich: [
 grämen: [
 	'<strong>grämen (sich)</strong>: grieve over, worry about'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/graemen"target="target1">grämen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gr%C3%A4men"target="target2">grämen</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gramen?q=gr%C3%A4men"target="target3">grämen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gramen"target="target4">grämen</a>' ,
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gramen?q=gr%C3%A4men"target="target3">grämen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gramen"target="target4">grämen</a>',
 	'<u>Märzgefallene</u>',
-	'Jedenfalls <strong>grämte</strong> Weinert <strong>sich</strong> nicht mehr über seine langsame Arbeitsweise, inzwischen war er sogar froh, dass <i>Abblende</i> - so der Arbeitstitel - nicht schon erschienen war, denn in diesem Fall, da war er sich sicher, wäre sein erster Roman.. heute auch zum Futter für den Scheiterhaufen geworden.   (<i>Märzgefallene</i>, 568)' ,
+	'Jedenfalls <strong>grämte</strong> Weinert <strong>sich</strong> nicht mehr über seine langsame Arbeitsweise, inzwischen war er sogar froh, dass <i>Abblende</i> - so der Arbeitstitel - nicht schon erschienen war, denn in diesem Fall, da war er sich sicher, wäre sein erster Roman.. heute auch zum Futter für den Scheiterhaufen geworden.  (<i>Märzgefallene</i>, 568)',
 ],
 'Gebrüll, brüllen': [
 	'das <strong>Gebrüll</strong> (no plural): roaring, shouting <br><strong>brüllen</strong>: yell, bellow, roar ' +

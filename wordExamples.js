@@ -3180,20 +3180,22 @@ entbieten: [
 	'<i>Charly</i>: "Was meinst du, wie viele Deutsche heute herumlaufen, brav den Hitlergruß <strong>enbieten</strong> und eine Hakenkreuzfahne aus dem Fenster hängen, die gar keine Nazis sind?.." (<i>Lunapark</i>, 78)' ,
 	'Rath wusste nicht, wie lang er im Auto gesessen hatte, ob ein oder zwei Stunden, aber das Warten hatte sich gelohnt. Vor der Kaserne tat sich was. Ein schwarzer Hanomag Rekord rollte aus der Einfahrt, die Kettenhunde in den Wachhäuschen rechts und links salutierten zackig und <strong>entboten</strong> den Deutschen Gruß. (<i>Lunapark</i>, 275)' ,
 ],
-einlochen: [
-	'<strong>einlochen</strong>: &nbsp;put so. behind bars; &nbsp;putt, hole (golf) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einlochen"target="target1">einlochen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einlochen"target="target2">einlochen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einlochen"target="target3">einlochen</a>  ' ,
+einlochen: [ 
+	'<strong>einlochen</strong>: put so. behind bars; &nbsp;make a hole (golf)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einlochen"target="target1">einlochen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einlochen"target="target2">einlochen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einlochen"target="target3">einlochen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einlochen"target="target4">einlochen</a>',
 	'<u>Der nasse Fisch</u>',
-	'"Wenn du so eine Ratte <strong>einlochst</strong>, bekommst du gar nichts mehr aus ihr heraus", sagte er (<i>Wolter</i>). "Ist viel sinnvoller, wenn der jetzt durch Berlin läuft und weiß, dass wir ihn jederzeit <strong>einlochen</strong> <i>können</i>. Wenn wir ihn so in der Hand haben, dass er es nicht mal mehr wagt, einen Furz zu lassen, ohne uns zu fragen...."   (<i>Der nasse Fisch</i>, 30)' ,
+	'"Wenn du so eine Ratte <strong>einlochst</strong>, bekommst du gar nichts mehr aus ihr heraus", sagte er (<i>Wolter</i>). "Ist viel sinnvoller, wenn der jetzt durch Berlin läuft und weiß, dass wir ihn jederzeit <strong>einlochen</strong> <i>können</i>. Wenn wir ihn so in der Hand haben, dass er es nicht mal mehr wagt, einen Furz zu lassen, ohne uns zu fragen...."  (<i>Der nasse Fisch</i>, 30)',
 //	'<u>Märzgefallene</u>',
 ],
 echoen: [
-	'<strong>echoen</strong>: echo ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/echoen"target="target1">echoen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/echoen"target="target2">echoen</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/echoen"target="target3">echoen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/echoen"target="target4">echoen</a>  ' ,
+	'<strong>echoen</strong>: echo'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/echoen"target="target1">echoen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/echoen"target="target2">echoen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/echoen"target="target3">echoen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/echoen"target="target4">echoen</a>',
 	'<u>Der nasse Fisch</u>',
-	'<i>Charly</i>: "..Ich hab auch genug zu tun. Trotzdem wäre ich jetzt gern bei dir." "Ich auch bei dir", <strong>echote</strong> er (<i>Gereon</i>) eine Antwort, von der er wusste, dass sie nicht stimmte... Von irgendeiner Besprechung hatte er ihr gestern etwas vorgelogen. Stattdessen hatte er sich mit einem Verbrecher getroffen und einen toten Menschen verscharrt.  (<i>Der nasse Fisch</i>, 228)',
+	'<i>Charly</i>: "..Ich hab auch genug zu tun. Trotzdem wäre ich jetzt gern bei dir." "Ich auch bei dir", <strong>echote</strong> er (<i>Gereon</i>) eine Antwort, von der er wusste, dass sie nicht stimmte... Von irgendeiner Besprechung hatte er ihr gestern etwas vorgelogen. Stattdessen hatte er sich mit einem Verbrecher getroffen und einen toten Menschen verscharrt. (<i>Der nasse Fisch</i>, 228)',
 	'<u>Lunapark</u>',
-	'"Nein, nein", fuhr Fritsch (<i>Chef des SA-Feldjägerkorps</i>) fort. "Dewald wird zufällig vorbeigekommen sein.. Und irgendeine rote Sau hat ihn hinterrücks überfallen." "Oder ein Jude", warf Steinke dienstbeflissen ein.. "Richtig", <strong>echote</strong> Fritsch. Nehmen Sie einfach alle Roten und Itzigs hier in der Gegend fest und quetschen die Kerle so lange aus, bis Sie den Täter haben. Das Feldjägerkorps unterstützt Sie gerne bei einer Aushebung.   (<i>Lunapark</i>, 175)',
+	'"Nein, nein", fuhr Fritsch (<i>Chef des SA-Feldjägerkorps</i>) fort. "Dewald wird zufällig vorbeigekommen sein.. Und irgendeine rote Sau hat ihn hinterrücks überfallen." "Oder ein Jude", warf Steinke dienstbeflissen ein.. "Richtig", <strong>echote</strong> Fritsch. Nehmen Sie einfach alle Roten und Itzigs hier in der Gegend fest und quetschen die Kerle so lange aus, bis Sie den Täter haben. Das Feldjägerkorps unterstützt Sie gerne bei einer Aushebung. (<i>Lunapark</i>, 175)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -3238,10 +3240,12 @@ eruieren: [
 	'<u>Märzgefallene</u>',
 	'"Sie waren doch schon einmal in Bonn, Kommissar", hatte Gennat besagt (<i>zu Rath</i>), "<strong>eruieren</strong> Sie doch bitte, ob und inwieweit es Geschäftsbeziehungen zwischen dieser Berliner Möbeltischlerei und dem Bonner Möbelhaus gegeben hat."  (<i>Märzgefallene</i>, 511)' ,
 ],
-Einöde: [
-	'die <strong>Einöde</strong>,-<strong>n</strong>: &nbsp;wilderness, desert; isolation  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Einoede"target="target1">Einöde</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einode?q=Ein%C3%B6de"target="target2">Einöde</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einode"target="target3">Einöde</a>    ' ,
+Einöde: [ 
+	'die <strong>Einöde</strong>,-<strong>n</strong>: wilderness, desert; isolation'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Einoede"target="target1">Einöde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ein%C3%B6de"target="target2">Einöde</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einode?q=Ein%C3%B6de"target="target3">Einöde</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einode"target="target4">Einöde</a>',
 	'<u>Märzgefallene</u>',
-	'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie gerädert.  Er hielt an, um zu pinkeln, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen <strong>Einöde</strong>, ein unerfüllbarer Wunsch.  (<i>Märzgefallene</i>, 439)' ,
+	'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie gerädert.  Er hielt an, um zu pinkeln, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen <strong>Einöde</strong>, ein unerfüllbarer Wunsch.  (<i>Märzgefallene</i>, 439)',
 ],
 eintrudeln: [
 	'<strong>eintrudeln</strong>: &nbsp;arrive, drift in <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/eintrudeln"target="target1">eintrudeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/eintrudeln"target="target2">eintrudeln</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eintrudeln"target="target3">eintrudeln</a>' ,
@@ -3266,17 +3270,21 @@ einfädeln: [
 	'<i>Charly</i>: "Karl Reinhold will seine Schwester treffen. Unter einer Bedingung: dass sie sich dem kommunistischen Widerstand anschließt.. Alex hat sich bereit erklärt. Obwohl sie überhaupt keine Kommunistin ist. Aber sie würde alles dafür tun, ihren Bruder wiederzusehen. Und ich habe versprochen, das für sie <strong>einzufädeln</strong>."  (<i>Lunapark</i>, 299-300)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-einbrocken: [
-	'sich/jmdm. etw. <strong>einbrocken</strong>: &nbsp;get so. into trouble, a mess  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einbrocken"target="target1">einbrocken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einbrocken"target="target2">einbrocken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einbrocken"target="target3">einbrocken</a>      ' ,
+einbrocken: [ 
+	'sich/jmdm. <strong>einbrocken</strong>: get into trouble, create problems'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einbrocken"target="target1">einbrocken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einbrocken"target="target2">einbrocken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einbrocken"target="target3">einbrocken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einbrocken"target="target4">einbrocken</a>',
 	'<u>Märzgefallene</u>',
-	'Es überraschte ihn (<i>Gereon</i>) selbst, wie laut er geworden war, doch er machte weiter, er kam gerade erst in Fahrt, und es musste aus ihm hinaus. "Wer hat uns denn diesen ganzen Schlamassel hier <strong>eingebrockt</strong>? Deine (<i>Charlys</i>) Demokratie! Weswegen haben die Nazis denn die Mehrheit im Reichstag? Wegen der ach so tollen Demokratie...."  (<i>Märzgefallene</i>, 390)' ,
+	'Es überraschte ihn (<i>Gereon</i>) selbst, wie laut er geworden war, doch er machte weiter, er kam gerade erst in Fahrt, und es musste aus ihm hinaus. "Wer hat uns denn diesen ganzen Schlamassel hier <strong>eingebrockt</strong>? Deine (<i>Charlys</i>) Demokratie! Weswegen haben die Nazis denn die Mehrheit im Reichstag? Wegen der ach so tollen Demokratie...."  (<i>Märzgefallene</i>, 390)',
 ],
-einlullen: [
-	'<strong>einlullen</strong>: &nbsp;lull to sleep; allay  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einlullen"target="target1">einlullen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einlullen"target="target2">einlullen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einlullen"target="target3">einlullen</a>    ' ,
+einlullen: [ 
+	'<strong>einlullen</strong>: lull to sleep; allay'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einlullen"target="target1">einlullen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einlullen"target="target2">einlullen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einlullen"target="target3">einlullen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einlullen"target="target4">einlullen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Die Waffe in der Hand zitterte leicht. Rath sah, dass es ein kleines Kaliber sein musste, aber sie standen nicht weit voneinander entfernt, für einen Polizistenmord würde es im Zweifelsfall reichen. <i>Wilhelm zwo, der Pornokaiser</i>: "Du willst mir nur <strong>einlullen</strong>, Scheißbulle! Bis dein Kumpel dir helfen kommt!" Der Kokser wusste gar nicht, wie recht er hatte: Rath sah, wie Wolter langsam hinter dem Mann auf die Bohlen kletterte.   (<i>Der nasse Fisch</i>, 26)' ,
+	'Die Waffe in der Hand zitterte leicht. Rath sah, dass es ein kleines Kaliber sein musste, aber sie standen nicht weit voneinander entfernt, für einen Polizistenmord würde es im Zweifelsfall reichen. <i>Wilhelm zwo, der Pornokaiser</i>: "Du willst mir nur <strong>einlullen</strong>, Scheißbulle! Bis dein Kumpel dir helfen kommt!" Der Kokser wusste gar nicht, wie recht er hatte: Rath sah, wie Wolter langsam hinter dem Mann auf die Bohlen kletterte.  (<i>Der nasse Fisch</i>, 26)',
 	'<u>Märzgefallene</u>',
-	'...mit dem nötigen Kleingeld in der Tasche konnte man sich hier (<i>in der Kadadu-Bar</i>) prima von der Welt da draußen ablenken. Und genau das hatte er (<i>Gereon</i>) auch vorgehabt, hatte ein paar neue Drinks ausprobiert, der Musik gelauscht und dem <strong>einlullende</strong> Geplapper der Barbesucher.  (<i>Märzgefallene</i>, 401-02)' ,
+	'...mit dem nötigen Kleingeld in der Tasche konnte man sich hier (<i>in der Kadadu-Bar</i>) prima von der Welt da draußen ablenken. Und genau das hatte er (<i>Gereon</i>) auch vorgehabt, hatte ein paar neue Drinks ausprobiert, der Musik gelauscht und dem <strong>einlullenden</strong> Geplapper der Barbesucher. (<i>Märzgefallene</i>, 401-02)',
 ],
 Eingebung: [  
 	'die <strong>Eingebung</strong>,-<strong>n</strong>: bright idea, inspiration; intuition ' +  
@@ -3311,15 +3319,19 @@ Ebbe: [
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-einbuchten: [
-	'<strong>einbuchten</strong>: &nbsp;nick, lock someone up; check/log in <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einbuchten"target="target1">einbuchten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einbuchten"target="target2">einbuchten</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einbuchten"target="target3">einbuchten</a>   ' ,
+einbuchten: [ 
+	'<strong>einbuchten</strong>: nick, lock someone up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einbuchten"target="target1">einbuchten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einbuchten"target="target2">einbuchten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=einbuchten"target="target3">einbuchten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einbuchten"target="target4">einbuchten</a>',
 	'<u>Märzgefallene</u>',
 	'Vor zehn Jahren hab ich (<i>Rath</i>) dich (<i>Ede</i>) wegen Taschendiebstahls in mehreren Fällen <strong>einbuchten</strong> lassen, und du willst mir erzählen, dass du jetzt in deinem Lehrberuf arbeitest?  (<i>Märzgefallene</i>, 22)',
 ],
-'Eindruck schinden': [
-	'bei jmdm. <strong>Eindruck schinden</strong>: &nbsp;make an impression (on someone) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https:www.redensarten-index.de/suche.php?suchbegriff=Eindruck+schinden&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Eindruck schinden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target2">Eindruck schinden</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Eindruck+schinden"target="target3">Eindruck schinden</a>  ',
+'Eindruck schinden': [ 
+	'bei jmdm. <strong>Eindruck schinden</strong>: make an impression (on so.)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https:www.redensarten-index.de/suche.php?suchbegriff=Eindruck+schinden&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Eindruck schinden</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/Eindruck%20schinden"target="target2">Eindruck schinden</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target3">Eindruck schinden</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Eindruck+schinden"target="target4">Eindruck schinden</a>',
 	'<u>Märzgefallene</u>',
-	'Wenn er (<i>Rath</i>) all dies in die Waagschale warf, erschien es weitaus vernünftiger, sich wie alle anderen auch, denen an ihrer Karriere gelegen war, an der Kommunistenjagd zu beteiligen, um beim neuen Polizeipräsidenten <strong>Eindruck zu schinden</strong>.   (<i>Märzgefallene</i>, 184)' ,
+	'Wenn er (<i>Rath</i>) all dies in die Waagschale warf, erschien es weitaus vernünftiger, sich wie alle anderen auch, denen an ihrer Karriere gelegen war, an der Kommunistenjagd zu beteiligen, um beim neuen Polizeipräsidenten <strong>Eindruck zu schinden</strong>. (<i>Märzgefallene</i>, 184)',
 ],
 'einhaken (sich)': [
 	'<strong>sich einhaken</strong>:  &nbsp;link arms with somebody; &nbsp;<strong>einhaken</strong>: hook, hitch sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/einhaken" target="target1" >einhaken</a>' ,
@@ -3335,12 +3347,17 @@ einbuchten: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'einkriegen (sich)': [
-	'<strong>einkriegen</strong>: &nbsp;catch up; &nbsp;&nbsp;<strong>sich einkriegen</strong>: &nbsp;control oneself <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einkriegen"target="target1">einkriegen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einkriegen"target="target2">einkriegen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einkriegen"target="target3">einkriegen</a> ',
+	'<strong>einkriegen</strong>: catch up with'+
+	'<br><strong>sich einkriegen</strong>: control oneself'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einkriegen"target="target1">einkriegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einkriegen"target="target2">einkriegen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einkriegen"target="target3">einkriegen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einkriegen"target="target4">einkriegen</a>',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Gereon</i>) hatte ihr (<i>Charly</i>) nicht verraten, wohin er sie ausführen wollte, lediglich erzählt, dass elegante Abendgarderobe nötig sein würde.... Der Empfangskellner, der zunächst einen arrogant blasierten Eindruck gemacht hatte, konnte <strong>sich</strong> vor lauter Katzbuckeln gar nicht mehr <strong>einkriegen</strong>, kaum hatte er den Namen Rath vernommen.  (<i>Märzgefallene</i>, 191-92)',
+	'Er (<i>Gereon</i>) hatte ihr (<i>Charly</i>) nicht verraten, wohin er sie ausführen wollte, lediglich erzählt, dass elegante Abendgarderobe nötig sein würde.... Der Empfangskellner, der zunächst einen arrogant blasierten Eindruck gemacht hatte, konnte <strong>sich</strong> vor lauter Katzbuckeln gar nicht mehr <strong>einkriegen</strong>, kaum hatte er den Namen Rath vernommen. (<i>Märzgefallene</i>, 191-92)',
 ],
-einkringeln: [
-	'<strong>einkringeln</strong>: &nbsp;circle, put a ring around <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einkringeln"target="target1">einkringeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einkringeln"target="target2">einkringeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/einkringeln"target="target3">einkringeln</a>     ' ,
+einkringeln: [ 
+	'<strong>einkringeln</strong>: circle, put a ring around'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einkringeln"target="target1">einkringeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einringeln?o=einkringeln"target="target2">einkringeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einkringeln"target="target3">einkringeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/einkringeln"target="target4">einkringeln</a>',
 	'<u>Märzgefallene</u>',
 	'Hannah Singer hatte Charly nicht losgelassen, seit sie das Mädchen in Dalldorf hatte sitzen sehen. Sie hatte seither alle Informationen zusammengetragen, an die sie herankommen konnte.... Charly hatte den Namen Wosniak <strong>eingekringelt</strong>, als sie darauf gestoßen war. (<i>Märzgefallene</i>, 289-90)',
 ],
@@ -3353,11 +3370,33 @@ einnicken: [
 	'<u>Lunapark</u>',
 	'Sie hatte versucht, im Sitzen zu schlafen, an die Wand gelehnt, und zwei-, dreimal war sie auch <strong>eingenickt</strong>, aber immer war sie wieder aufgeschreckt.  (<i>Lunapark</i>, 9)',
 ],
-einreißen: [
-	'<strong>einreißen</strong>: &nbsp;dismantle, take apart; destroy; &nbsp;&nbsp;similar: &nbsp;<strong>niederreißen</strong> <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einreiszen"target="target1">einreißen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einreissen?q=einrei%C3%9Fen"target="target2">einreißen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einreissen"target="target3">einreißen</a> ' ,
+'einreißen, niederreißen': [ 
+	'<strong>einreißen</strong>: rip, demolish, tear down'+
+	'<br>similar: <strong>niederreißen</strong>: dismantle, tear down'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einreiszen"target="target1">einreißen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/niederrei%C3%9Fen"target="target2">niederreißen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einreissen"target="target3">einreißen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=niederrei%C3%9Fen"target="target4">niederreißen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Rath schaute Wolter an. Der musste es im gleichen Moment entdeckt haben. Sie gingen auf die <i>Sinalco</i>-Werbung zu und untersuchten sie aus der Nähe. Über dem <i>S</i> und unter dem <i>C</i> war das Papier <strong>eingerissen</strong>. Schmutzabrieb wie von Schuhen.. Kletterspuren. (<i>Der nasse Fisch</i>, 23)',
+	'Der Mantel musste älter sein, als er aussah, das Futter war an einer Stelle <strong>eingerissen</strong>. Nein, nicht <strong>eingerissen</strong>, sondern sauber aufgetrennt. Rath untersuchte die Stelle genauer. Es sah aus, als habe jemand etwas aus dem Futter holen wollen. (<i>Der nasse Fisch</i>, 234)',
 	'<u>Märzgefallene</u>',
-	'Ich (<i>von Roddeck</i>) sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne Murren meine Befehle. Sie <strong>reißen</strong> die Ziegelwand komplett <strong>ein</strong> und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind.  (<i>Märzgefallene</i>, 162)' ,
-	'Dabei rede ich (<i>von Roddeck</i>) nicht von dem Spaß, den meine Männer sich daraus machen, ein feindliches Haus niederzureißen. Mag der gemeine Soldat Vergnügen beim Zerstören empfinden, beim <strong>Einreißen</strong> von Häusern und Sprengen von Brücken, so ist schon das Verseuchen von Brunnen ein Befehl, dem wir allein aus soldatischer Pflicht nachkommen.  (<i>Märzgefallene</i>, 163)',
+	'Ich (<i>von Roddeck</i>) sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne Murren meine Befehle. Sie <strong>reißen</strong> die Ziegelwand komplett <strong>ein</strong> und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind.  (<i>Märzgefallene</i>, 162)',
+	'Dabei rede ich (<i>von Roddeck</i>) nicht von dem Spaß, den meine Männer sich daraus machen, ein feindliches Haus <strong>niederzureißen</strong>. Mag der gemeine Soldat Vergnügen beim Zerstören empfinden, beim <strong>Einreißen</strong> von Häusern und Sprengen von Brücken, so ist schon das Verseuchen von Brunnen ein Befehl, dem wir allein aus soldatischer Pflicht nachkommen.  (<i>Märzgefallene</i>, 163)',
+	'<u>Lunapark</u>',
+	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und verrenkt, als habe man dem armen Kerl sämtliche Knochen gebrochen. Sein Gesicht war entstellt von Platzwunden, die Nase gebrochen und blutig, die fleischige Oberlippe <strong>eingerissen</strong>, sodass man die lückenhafte Zahnreihe dahinter sehen konnte. (<i>Lunapark</i>, 17)' ,
+],
+'niederreißen, einreißen': [ 
+	'<strong>einreißen</strong>: rip, demolish, tear down'+
+	'<br>similar: <strong>niederreißen</strong>: dismantle, tear down'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einreiszen"target="target1">einreißen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/niederrei%C3%9Fen"target="target2">niederreißen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einreissen"target="target3">einreißen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=niederrei%C3%9Fen"target="target4">niederreißen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Rath schaute Wolter an. Der musste es im gleichen Moment entdeckt haben. Sie gingen auf die <i>Sinalco</i>-Werbung zu und untersuchten sie aus der Nähe. Über dem <i>S</i> und unter dem <i>C</i> war das Papier <strong>eingerissen</strong>. Schmutzabrieb wie von Schuhen.. Kletterspuren. (<i>Der nasse Fisch</i>, 23)',
+	'Der Mantel musste älter sein, als er aussah, das Futter war an einer Stelle <strong>eingerissen</strong>. Nein, nicht <strong>eingerissen</strong>, sondern sauber aufgetrennt. Rath untersuchte die Stelle genauer. Es sah aus, als habe jemand etwas aus dem Futter holen wollen. (<i>Der nasse Fisch</i>, 234)',
+	'<u>Märzgefallene</u>',
+	'Ich (<i>von Roddeck</i>) sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne Murren meine Befehle. Sie <strong>reißen</strong> die Ziegelwand komplett <strong>ein</strong> und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind.  (<i>Märzgefallene</i>, 162)',
+	'Dabei rede ich (<i>von Roddeck</i>) nicht von dem Spaß, den meine Männer sich daraus machen, ein feindliches Haus <strong>niederzureißen</strong>. Mag der gemeine Soldat Vergnügen beim Zerstören empfinden, beim <strong>Einreißen</strong> von Häusern und Sprengen von Brücken, so ist schon das Verseuchen von Brunnen ein Befehl, dem wir allein aus soldatischer Pflicht nachkommen.  (<i>Märzgefallene</i>, 163)',
+	'<u>Lunapark</u>',
+	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und verrenkt, als habe man dem armen Kerl sämtliche Knochen gebrochen. Sein Gesicht war entstellt von Platzwunden, die Nase gebrochen und blutig, die fleischige Oberlippe <strong>eingerissen</strong>, sodass man die lückenhafte Zahnreihe dahinter sehen konnte. (<i>Lunapark</i>, 17)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -7572,13 +7611,6 @@ nachhaken: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-niederreißen: [
-	'<strong>niederreißen</strong>: dismantle, demolish, tear down <br>similar: <strong>einreißen</strong>' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/niederreiszen"target="target1">niederreißen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/niederrei%C3%9Fen"target="target2">niederreißen</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/niederreissen"target="target3">niederreißen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=niederrei%C3%9Fen"target="target4">niederreißen</a> ' ,
-	'<u>Märzgefallene</u>',
-	'Dabei rede ich (<i>von Roddeck</i>) nicht von dem Spaß, den meine Männer sich daraus machen, ein feindliches Haus <strong>niederzureißen</strong>. Mag der gemeine Soldat Vergnügen beim Zerstören empfinden, beim Einreißen von Häusern und Sprengen von Brücken, so ist schon das Verseuchen von Brunnen ein Befehl, dem wir allein aus soldatischer Pflicht nachkommen.  (<i>Märzgefallene</i>, 163)' ,
-],
 niesen: [
 	'<strong>niesen</strong>:  sneeze ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/niesen"target="target1">niesen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/niesen"target="target2">niesen</a>  ' +

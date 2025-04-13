@@ -12,7 +12,7 @@ const n = [
    'nesteln', // nesteln: *
    'nicht bei Trost sein', // *  duplicated
    'Nichts für ungut', // *
-   'niederreißen'  ,  // niederreißen: *
+   'niederreißen, einreißen',  //  * duplicated
    'niegelnagelneu',  // niegelnagelneu: *
    'niesen',  // niesen: *
    'Nobel/Vornehm geht die Welt zugrunde' , // * duplicated

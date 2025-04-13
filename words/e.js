@@ -1,25 +1,25 @@
 const e = [
    'Ebbe',   // Ebbe:  * 
-   'echoen',  // echoen:
+   'echoen',  // echoen: *
    'Ei (wie aus dem Ei gepellt)', // * duplicated  
-   'einbrocken',  //einbrocken:  
-   'einbuchten',  //einbuchten:
+   'einbrocken',  // einbrocken:  *
+   'einbuchten',  // einbuchten:  *
  //  'einbuddeln'  pair with 'ausbuddeln'
    'eindösen, dösen', // *  duplicated
-   'Eindruck schinden',  //  
+   'Eindruck schinden',  // * 
    'einfädeln',  // einfädeln: *
    'Eingebung',   // Eingebung: * 
    'Eingeweide', // Eingeweide: *
    'einkerben',  // einkerben: *
-   'einkriegen (sich)',  //  
-   'einkringeln',  //einkringeln:  
-   'einlochen',  //einlochen:  
-   'einlullen',  //einlullen:  
+   'einkriegen (sich)',  //  *
+   'einkringeln',  // einkringeln: * 
+   'einlochen',  // einlochen:  *
+   'einlullen',  // einlullen: * 
    'einnicken',  // einnicken: * 
-   'Einöde',   //Einöde: 
+   'Einöde',   // Einöde: *
    'einpferchen, pferchen', // * duplicated 
    'einrasten',  // einrasten: * 
-   'einreißen',  //einreißen:  
+   'einreißen, niederreißen',  // * duplicated  
    'einrüsten',  //einrüsten:  
    'einseifen',  // einseifen:  *
    'Einstand' ,  // Einstand:

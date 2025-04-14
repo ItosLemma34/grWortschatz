@@ -20,32 +20,32 @@ const e = [
    'einpferchen, pferchen', // * duplicated 
    'einrasten',  // einrasten: * 
    'einreißen, niederreißen',  // * duplicated  
-   'einrüsten',  //einrüsten:  
+   'einrüsten, Gerüst',  // * duplicated  
    'einseifen',  // einseifen:  *
-   'Einstand' ,  // Einstand:
-   'einstäuben',  //einstäuben:  
-   'einstecken',  //einstecken: 
+   'Einstand' ,  // Einstand: *
+   'einstäuben',  // einstäuben:  *
+   'einstecken',  // einstecken: *
    'einstielen', // einstielen: * 
    'Eintänzer',   // Eintänzer: * 
-   'eintrudeln',  //eintrudeln:  
-   'eintüten',    //eintüten:  
-   'Empore',     //Empore:  
-   'entbieten',  // entbieten:  
-   'entgegenfiebern',  //entgegenfiebern:  
+   'eintrudeln',  // eintrudeln:  *
+   'eintüten',    // eintüten:  *
+   'Empore',     // Empore: * 
+   'entbieten',  // entbieten: * 
+   'entgegenfiebern',  // entgegenfiebern: * 
    'entriegeln',  // entriegeln: *
    'entsorgen',  // entsorgen:  * 
-   'entstellen',  //entstellen: 
+   'entstellen',  // entstellen: *
    'entwinden',  // entwinden:  *
    'erdreisten (sich)',  // *  
-   'ergattern',   //ergattern:  
-   'erhaschen',   //erhaschen:
+   'ergattern',   // ergattern: * 
+   'erhaschen',   // erhaschen: *
    'erheblich, unerheblich', // * duplicated 
    'Erker', // Erker: *  
-   'erkiesen',   //erkiesen:  
-   'erpicht',   //erpicht: 
+   'erkiesen',   // erkiesen: * 
+   'erpicht',   // erpicht: *
    'erschnuppern, schnuppern', // * duplicated 
-   'erstehen',  //erstehen:  
-   'eruieren',  //eruieren:  
+   'erstehen',  // erstehen: * 
+   'eruieren',  // eruieren: * 
 ];
 
 export default e;

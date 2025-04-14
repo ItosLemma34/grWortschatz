@@ -3166,19 +3166,21 @@ Erker: [
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 //(<i>Der nasse Fisch</i>, 000) (<i>Der stumme Tod</i>, 000) (<i>Märzgefallene</i>, 000) (<i>Lunapark</i>, 000) 
-Einstand: [
-	'der <strong>Einstand</strong>,-<strong>stände</strong>: &nbsp;first day, start of new job <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Einstand"target="target1">Einstand</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einstand"target="target2">Einstand</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Einstand"target="target3">Einstand</a>  ' ,
+Einstand: [ 
+	'der <strong>Einstand</strong>,-<strong>stände</strong>: first day, start of new job'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Einstand"target="target1">Einstand</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Einstand"target="target2">Einstand</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einstand"target="target3">Einstand</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Einstand"target="target4">Einstand</a>',
 	'<u>Lunapark</u>',
-	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen <strong>Einstand</strong>, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört.  (<i>Lunapark</i>, 46)' ,
+	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen <strong>Einstand</strong>, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört. (<i>Lunapark</i>, 46)',
 ],
 entbieten: [  
-	'jmdm. einen Gruß <strong>entbieten</strong>: express; bid so. (eg, a good day), present one’s compliments'+
+	'einen Gruß <strong>entbieten</strong>: express a greeting; present one’s compliments'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entbieten"target="target1">entbieten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entbieten"target="target2">entbieten</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=entbieten"target="target3">entbieten</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/entbieten"target="target4">entbieten</a>  ' ,
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/entbieten"target="target3">entbieten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/entbieten"target="target4">entbieten</a>',
 	'<u>Lunapark</u>',
-	'Adolf Osterberg war irritiert. Was hatte er falsh gemacht? Er hatte den Deutschen Gruß <strong>entboten</strong> und auch sonst jeden Respekt gezeigt, den die SA verdiente.  (<i>Lunapark</i>, 9)' ,
-	'<i>Charly</i>: "Was meinst du, wie viele Deutsche heute herumlaufen, brav den Hitlergruß <strong>enbieten</strong> und eine Hakenkreuzfahne aus dem Fenster hängen, die gar keine Nazis sind?.." (<i>Lunapark</i>, 78)' ,
-	'Rath wusste nicht, wie lang er im Auto gesessen hatte, ob ein oder zwei Stunden, aber das Warten hatte sich gelohnt. Vor der Kaserne tat sich was. Ein schwarzer Hanomag Rekord rollte aus der Einfahrt, die Kettenhunde in den Wachhäuschen rechts und links salutierten zackig und <strong>entboten</strong> den Deutschen Gruß. (<i>Lunapark</i>, 275)' ,
+	'Adolf Osterberg war irritiert. Was hatte er falsh gemacht? Er hatte den Deutschen Gruß <strong>entboten</strong> und auch sonst jeden Respekt gezeigt, den die SA verdiente.  (<i>Lunapark</i>, 9)',
+	'<i>Charly</i>: "Was meinst du, wie viele Deutsche heute herumlaufen, brav den Hitlergruß <strong>enbieten</strong> und eine Hakenkreuzfahne aus dem Fenster hängen, die gar keine Nazis sind?.." (<i>Lunapark</i>, 78)',
+	'Rath wusste nicht, wie lang er im Auto gesessen hatte, ob ein oder zwei Stunden, aber das Warten hatte sich gelohnt. Vor der Kaserne tat sich was. Ein schwarzer Hanomag Rekord rollte aus der Einfahrt, die Kettenhunde in den Wachhäuschen rechts und links salutierten zackig und <strong>entboten</strong> den Deutschen Gruß. (<i>Lunapark</i>, 275)',
 ],
 einlochen: [ 
 	'<strong>einlochen</strong>: put so. behind bars; &nbsp;make a hole (golf)'+
@@ -3199,22 +3201,32 @@ echoen: [
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-erhaschen: [
-	'<strong>erhaschen</strong>: catch, snatch sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erhaschen"target="target1">erhaschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erhaschen"target="target2">erhaschen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/erhaschen"target="target3">erhaschen</a>  ' ,
+erhaschen: [ 
+	'<strong>erhaschen</strong>: catch, snatch sth.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erhaschen"target="target1">erhaschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erhaschen"target="target2">erhaschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erhaschen"target="target3">erhaschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erhaschen"target="target4">erhaschen</a>',
 	'<u>Der nasse Fisch</u>',
-	'<i>Charly</i>: "Du hörst dich an, als hätte ich dich geweckt?".. Rath fühlte sich wie ertappt. Als sei der Projektor auch für Charly gelaufen, als habe sie einen Blick in die entlegensten Winkel seiner Seele <strong>erhaschen</strong> können und seine dunkle Seite gesehen.   (<i>Der nasse Fisch</i>, 226-27)' ,
+	'<i>Charly</i>: "Du hörst dich an, als hätte ich dich geweckt?".. Rath fühlte sich wie ertappt. Als sei der Projektor auch für Charly gelaufen, als habe sie einen Blick in die entlegensten Winkel seiner Seele <strong>erhaschen</strong> können und seine dunkle Seite gesehen.  (<i>Der nasse Fisch</i>, 226-27)',
 //	'<u>Märzgefallene</u>',
 ],
-entgegenfiebern: [
-	'<strong>entgegenfiebern</strong>: await with fear and trembling; with great anticipation&nbsp;&nbsp;<strong>fiebern</strong>: have a fever <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entgegenfiebern"target="target1">entgegenfiebern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/entgegenfiebern"target="target2">entgegenfiebern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/entgegenfiebern"target="target3">entgegenfiebern</a> ' ,
+entgegenfiebern: [ 
+	'<strong>fiebern</strong>: have a fever'+
+	'<br><strong>entgegenfiebern</strong>: await with fear and trembling; with great anticipation'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entgegenfiebern"target="target1">entgegenfiebern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entgegenfiebern"target="target2">entgegenfiebern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/entgegenfiebern"target="target3">entgegenfiebern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/entgegenfiebern"target="target4">entgegenfiebern</a>',
 	'<u>Märzgefallene</u>',
-	'Mitternacht wollte Engel ihn treffen, im stillgelegten Arm des Lindentunnels... Roddeck <strong>fieberte</strong> der Begegnung <strong>entgegen</strong>. Was hat Engel geschrieben? <i>Zeit abzurechnen</i>.  (<i>Märzgefallene</i>, 563)' ,
+	'Mitternacht wollte Engel ihn treffen, im stillgelegten Arm des Lindentunnels... Roddeck <strong>fieberte</strong> der Begegnung <strong>entgegen</strong>. Was hat Engel geschrieben? <i>Zeit abzurechnen</i>.  (<i>Märzgefallene</i>, 563)',
+	'<u>Lunapark</u>',
+	'In zwei Wochen war auf dem Tempelhofer Feld ein großes Zeltlager der Hitlerjugend anberaumt. In Fritzes Schule schien man über nichts anderes mehr zu sprechen, alle <strong>fieberten</strong> dem großen Tag <strong>entgegen</strong>.   (<i>Lunapark</i>, 29)',
 ],
-Empore: [
-	'die <strong>Empore</strong>,-<strong>n</strong>: &nbsp;gallery, balcony, choir <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Empore"target="target1">Empore</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/empore?q=Empore"target="target2">Empore</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/empore"target="target3">Empore</a> ' ,
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+Empore: [ 
+	'die <strong>Empore</strong>,-<strong>n</strong>: gallery, balcony, choir'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Empore"target="target1">Empore</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Emporen"target="target2">Empore</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/empore"target="target3">Empore</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Empore"target="target4">Empore</a>',
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) wusste nicht, was er suchte, er wusste ja nicht einmal, wie Marlow aussah. Was erwartete er? Einen Gangsterboss wie Al Capone? Irgendeinen feisten Mann im weißen Anzug... So einer würde bestimmt oben auf der <strong>Empore</strong> sitzen. Aber auch dort entdeckte er niemanden, bei dem sein Polizisteninstinkt Alarm geschlagen hätte. (<i>Der nasse Fisch</i>, 154)' ,
-	'Auch der <i>Europa-Pavillon</i> gefiel ihr (<i>Charly</i>). Restaurant und Tanzraum gingen über zwei Etagen, Goldorange war die dominierende Farbe, durchsetzt von silbernen Ornamenten, die Möbel aus Mahagoni. Der Kellner führte sie (<i>Charly und Gereon</i>) die Treppe hinauf auf die <strong>Empore</strong>.  (<i>Der nasse Fisch</i>, 202)' ,
+	'Auch der <i>Europa-Pavillon</i> gefiel ihr (<i>Charly</i>). Restaurant und Tanzraum gingen über zwei Etagen, Goldorange war die dominierende Farbe, durchsetzt von silbernen Ornamenten, die Möbel aus Mahagoni. Der Kellner führte sie (<i>Charly und Gereon</i>) die Treppe hinauf auf die <strong>Empore</strong>.  (<i>Der nasse Fisch</i>, 183)' ,
 	'Da zog der Engel ihn (<i>Rath</i>) schon vom Tisch. Die Tanzfläche befand sich am anderen Ende des Saals, direkt vor der <strong>Empore</strong> mit der Kapelle. Ekstatisch tanzende Menschen zappelten neben eng umschlungenen Liebespaaren. (<i>Der nasse Fisch</i>, 202)' ,
 	'Der Geschäftsführer öffnete eine Tür direkt neben der Tanzfläche. Dort zog Engel Vivian inzwischen mehr Blicke auf sich als die drei Akteure auf der Bühne. Sie hatte sich ihr Kleid nach unten geschoben und tanzte barbusig auf der Orchester<strong>empore</strong>. (<i>Der nasse Fisch</i>, 204)' ,
 	//	'<u>Märzgefallene</u>',
@@ -3235,10 +3247,12 @@ einseifen: [
 	'<u>Märzgefallene</u>',
 	'<i>Thelen</i>: "Ich hatte doch keine Ahnung damals!.. Ich habe ihm (<i>Grimberg</i>), dem Experten, alles geglaubt..." <i>Rath</i>: "Klingt irgendwie naiv." <i>Thelen</i>: "Dann müssen Sie ähnlich naiv sein, Kommissar. Sie hat Grimberg doch offsensichtlich auch hinters Licht geführt." Rath schwieg. Thelen hatte recht. Er hatte sich von dem Sprengmeister auch <strong>einseifen</strong> lassen.  (<i>Märzgefallene</i>, 521)',
 ],
-eruieren: [
-	'<strong>eruieren</strong>: &nbsp;investigate, trace, find out; &nbsp;elicit <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/eruieren"target="target1">eruieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/eruieren"target="target2">eruieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eruieren"target="target3">eruieren</a>   ' ,
+eruieren: [ 
+	'<strong>eruieren</strong>: investigate, trace, find out; elicit'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/eruieren"target="target1">eruieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eruieren"target="target2">eruieren</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/eruieren"target="target3">eruieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eruieren"target="target4">eruieren</a>',
 	'<u>Märzgefallene</u>',
-	'"Sie waren doch schon einmal in Bonn, Kommissar", hatte Gennat besagt (<i>zu Rath</i>), "<strong>eruieren</strong> Sie doch bitte, ob und inwieweit es Geschäftsbeziehungen zwischen dieser Berliner Möbeltischlerei und dem Bonner Möbelhaus gegeben hat."  (<i>Märzgefallene</i>, 511)' ,
+	'"Sie waren doch schon einmal in Bonn, Kommissar", hatte Gennat besagt (<i>zu Rath</i>), "<strong>eruieren</strong> Sie doch bitte, ob und inwieweit es Geschäftsbeziehungen zwischen dieser Berliner Möbeltischlerei und dem Bonner Möbelhaus gegeben hat." (<i>Märzgefallene</i>, 511)',
 ],
 Einöde: [ 
 	'die <strong>Einöde</strong>,-<strong>n</strong>: wilderness, desert; isolation'+
@@ -3247,11 +3261,13 @@ Einöde: [
 	'<u>Märzgefallene</u>',
 	'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie gerädert.  Er hielt an, um zu pinkeln, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen <strong>Einöde</strong>, ein unerfüllbarer Wunsch.  (<i>Märzgefallene</i>, 439)',
 ],
-eintrudeln: [
-	'<strong>eintrudeln</strong>: &nbsp;arrive, drift in <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/eintrudeln"target="target1">eintrudeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/eintrudeln"target="target2">eintrudeln</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eintrudeln"target="target3">eintrudeln</a>' ,
+eintrudeln: [ 
+	'<strong>eintrudeln</strong>: arrive, drift in'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/eintrudeln"target="target1">eintrudeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eintrudeln"target="target2">eintrudeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eintrudeln"target="target3">eintrudeln</a> &nbsp;<a href="https://www.verbformen.com/?w=eintrudeln"target="target4">eintrudeln</a>' ,
 	'<u>Märzgefallene</u>',
-	'Die Bonner Kollegen, die Eva Heinen überwachten, wussten nicht, dass der Polizeipräsident ihm (<i>Rath</i>) den Fall entzogen hatte, und so hatte Rath weiterhin mit ihnen telefoniert, während Gräf sich mit den schriftlichen Observierungsprotokollen zufriedengab, die nach wie vor täglich mit der Dienstpost in der Burg <strong>eintrudelten</strong>. (<i>Märzgefallene</i>, 438)' ,
-	'Geschenke waren schon die ganzen letzten Tage <strong>eingetrudelt</strong>, sie hatten eigens das Buffetregal im Wohnzimmer dafür freigeräumt.  (<i>Märzgefallene</i>, 589)' ,
+	'Die Bonner Kollegen, die Eva Heinen überwachten, wussten nicht, dass der Polizeipräsident ihm (<i>Rath</i>) den Fall entzogen hatte, und so hatte Rath weiterhin mit ihnen telefoniert, während Gräf sich mit den schriftlichen Observierungsprotokollen zufriedengab, die nach wie vor täglich mit der Dienstpost in der Burg <strong>eintrudelten</strong>. (<i>Märzgefallene</i>, 438)',
+	'Geschenke waren schon die ganzen letzten Tage <strong>eingetrudelt</strong>, sie hatten eigens das Buffetregal im Wohnzimmer dafür freigeräumt. (<i>Märzgefallene</i>, 589)',
 ],
 einfädeln: [
 	'<strong>fädeln</strong>: thread'+
@@ -3295,20 +3311,22 @@ Eingebung: [
 	'<u>Märzgefallene</u>',
 	'"Du bis aber ein lieber Bello", fing der Junge (<i>Fritze</i>) an, doch Charly unterbrach ihn. "Bello heißt Kirie", schimpfte sie, "und du erzählst mir jetzt sofort, was für eine Schnapsidee dich zu mir geführt hat!" Er zuckte die Achseln. "Keine Schnapsidee. Eine <strong>Eingebung</strong>. Hatte doch noch Ihre Adresse." Er grinste. "Und hat ja funktioniert." (<i>Märzgefallene</i>, 353-54)',
 ],
-entstellen: [
-	'<strong>entstellen</strong>: &nbsp;scar, disfigure; distort, misrepresent <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entstellen"target="target1">entstellen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/entstellen"target="target2">entstellen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/entstellen"target="target3">entstellen</a>    ' ,
+entstellen: [ 
+	'<strong>entstellen</strong>: scar, disfigure; distort, misrepresent'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entstellen"target="target1">entstellen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entstellen"target="target2">entstellen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/entstellen"target="target3">entstellen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=entstellen"target="target4">entstellen</a>',
 	'<u>Der nasse Fisch</u>',
-	'<i>Doktor Schwartz</i>: "...was soll man mit so einer Kiste (<i>dem Horch</i>), wenn sie nicht auf der Straße bleib und im Kanal landet..." <i>Böhm</i>: "Ich glaube, das hat weniger mit dem Wagen zu tun als mit der Fahrtüchtigkeit des Fahrers." Böhm zeigte auf die <strong>entstellten</strong> Hände des Toten. "Kann man an so was sterben, Doktor?"  (<i>Der nasse Fisch</i>, 64-65)' ,
-	'Am Nebentisch standen zwei Männer auf. Das Gesicht des einen war durch eine lange Narbe <strong>entstellt</strong>, die quer über die ganze Wange ging.  (<i>Der nasse Fisch</i>, 96)' ,
+	'<i>Doktor Schwartz</i>: "...was soll man mit so einer Kiste (<i>dem Horch</i>), wenn sie nicht auf der Straße bleib und im Kanal landet..." <i>Böhm</i>: "Ich glaube, das hat weniger mit dem Wagen zu tun als mit der Fahrtüchtigkeit des Fahrers." Böhm zeigte auf die <strong>entstellten</strong> Hände des Toten. "Kann man an so was sterben, Doktor?" (<i>Der nasse Fisch</i>, 64-65)',
+	'Am Nebentisch standen zwei Männer auf. Das Gesicht des einen war durch eine lange Narbe <strong>entstellt</strong>, die quer über die ganze Wange ging. (<i>Der nasse Fisch</i>, 96)',
 	'<u>Märzgefallene</u>',
-	'"Jau. Det is Kartoffel." Breizke sagte das ungerührt...." "Der Spitzname passt", sagte Böhm. "Was hat den armen Kerl so <strong>entstellt</strong>?" (<i>Märzgefallene</i>, 15)' ,
-	'Linus Meifert sah deutlich weniger gruselig aus als der von Brandwunden <strong>entstellte</strong> Heinrich Wosniack, außdem besser genährt.(<i>Märzgefallene</i>, 267)' ,
-	'<i>Rath</i>: "Könnte das der Mann auf dem Foto gewesen sein?" Der Schaffner ließ sich das Bild noch einmal geben und betrachtete es eingehend. "Schwer zu sagen.... Auf den ersten Blick würde ich sagen: Nein. Aber der Mann war auch ziemlich <strong>entstellt</strong>, hatte schlimme Narben im Gesicht...." (<i>Märzgefallene</i>, 346)' ,
-	'(<i>Gereon</i>): "Wie passt dann der Mord an Krumbiegel in diese Geschichte?" Charly hatte auch darauf eine Antwort. "Ein Identitätstausch... Wosniak wollte von der Bildfläche verschwinden. Und da sein früherer Kumpel (<i>Krumbiegel</i>) von den Brandwunden des Krähennestes genauso <strong>entstellt</strong> war und keinerlei Angehörige hatte, war er das ideale Opfer."  (<i>Märzgefallene</i>, 469)' ,
-	'<i>Doktor Schwartz</i>: "Es geht um diese Leiche, die gestern in der Spree gefunden wurde, dieser fürchterlich <strong>entstellte</strong> Kriegsversehrte.  (<i>Märzgefallene</i>, 506)' ,
-	'<i>Thelen</i>: "Eines ist sicher, Herr Kommissar, das Schicksal wäre gnädiger zu Hauptmann Engel gewesen, wenn es ihn hätte sterben lassen... Er musste eine Maske trage, eine Prothese, ihm fehlte das halbe Gesicht... <i>Rath</i>: Wenn er so <strong>enstellt</strong> war - woher wussten sie dann, das er es war?"  (<i>Märzgefallene</i>, 517)' ,
+	'"Jau. Det is Kartoffel." Breizke sagte das ungerührt...." "Der Spitzname passt", sagte Böhm. "Was hat den armen Kerl so <strong>entstellt</strong>?" (<i>Märzgefallene</i>, 15)',
+	'Linus Meifert sah deutlich weniger gruselig aus als der von Brandwunden <strong>entstellte</strong> Heinrich Wosniack, außdem besser genährt.(<i>Märzgefallene</i>, 267)',
+	'<i>Rath</i>: "Könnte das der Mann auf dem Foto gewesen sein?" Der Schaffner ließ sich das Bild noch einmal geben und betrachtete es eingehend. "Schwer zu sagen.... Auf den ersten Blick würde ich sagen: Nein. Aber der Mann war auch ziemlich <strong>entstellt</strong>, hatte schlimme Narben im Gesicht...." (<i>Märzgefallene</i>, 346)',
+	'(<i>Gereon</i>): "Wie passt dann der Mord an Krumbiegel in diese Geschichte?" Charly hatte auch darauf eine Antwort. "Ein Identitätstausch... Wosniak wollte von der Bildfläche verschwinden. Und da sein früherer Kumpel (<i>Krumbiegel</i>) von den Brandwunden des Krähennestes genauso <strong>entstellt</strong> war und keinerlei Angehörige hatte, war er das ideale Opfer." (<i>Märzgefallene</i>, 469)',
+	'<i>Doktor Schwartz</i>: "Es geht um diese Leiche, die gestern in der Spree gefunden wurde, dieser fürchterlich <strong>entstellte</strong> Kriegsversehrte.  (<i>Märzgefallene</i>, 506)',
+	'<i>Thelen</i>: "Eines ist sicher, Herr Kommissar, das Schicksal wäre gnädiger zu Hauptmann Engel gewesen, wenn es ihn hätte sterben lassen... Er musste eine Maske trage, eine Prothese, ihm fehlte das halbe Gesicht... <i>Rath</i>: Wenn er so <strong>enstellt</strong> war - woher wussten sie dann, das er es war?" (<i>Märzgefallene</i>, 517)',
 	'<u>Lunapark</u>',
-	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und verrenkt, als habe man dem armen Kerl sämtliche Knochen gebrochen. Sein Gesicht war <strong>entstellt</strong> von Platzwunden, die Nase gebrochen und blutig....   (<i>Lunapark</i>, 17)' ,
+	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und verrenkt, als habe man dem armen Kerl sämtliche Knochen gebrochen. Sein Gesicht war <strong>entstellt</strong> von Platzwunden, die Nase gebrochen und blutig.... (<i>Lunapark</i>, 17)',
 ],
 Ebbe: [ 
 	'die <strong>Ebbe</strong>,-<strong>n</strong>: low, ebb tide'+
@@ -3400,29 +3418,29 @@ einnicken: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-einrüsten: [
-	'<strong>einrüsten</strong>: &nbsp;put scaffolding around &nbsp;&nbsp;das <strong>Gerüst</strong>: &nbsp;scaffold  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/einruesten"target="target1">einrüsten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einrusten"target="target2">einrüsten</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=einr%C3%BCsten"target="target3">einrüsten</a>      ',
-	'<u>Märzgefallene</u>',
-	'...der Mann hatte ihn (<i>Rath</i>) in die erste Etage geführt, in eine Art Salon, und ihn gebeten zu warten. Seitdem stand Rath hier, rauchte und schaute hinaus in den beginnenden Tag. Nach Norden hin versperrte ein moderner, noch <strong>eingerüsteter</strong> Neubau die Sicht, direkt vor dem Haus Heinen aber war das Rheinpanorama unverbaut. (<i>Märzgefallene</i>, 283)',
-	'<u>Lunapark</u>',
-	'Charly hätte die Hausnummer gar nicht kennen müssen, die blendend weiße Fassade hob sich so sehr vom schmutzigen Grau und Braun der Umgebung ab, dass sie sofort wusste, welches dieser Häuser vor einer Woche <strong>eingerüstet</strong> gewesen sein musste. (<i>Lunapark</i>, 113)',
-],
-einstäuben: [
-	'<strong>einstäuben</strong>: &nbsp;dust, powder <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einstaeuben"target="target1">einstäuben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einstaeuben#einst%C3%A4uben"target="target2">einstäuben</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einst%C3%A4uben"target="target3">einstäuben</a>   ',
+einstäuben: [ 
+	'<strong>einstäuben</strong>: dust, powder'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einstaeuben"target="target1">einstäuben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einst%C3%A4uben"target="target2">einstäuben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einst%C3%A4uben"target="target3">einstäuben</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einst%C3%A4uben"target="target4">einstäuben</a>',
 	'<u>Märzgefallene</u>',
 	'Böhm holte Rußpulver, Pinsel und Klebefolien aus dem Spurensicherungskoffer und machte sich daran, den Stahlträger vorsichtig <strong>einzustäuben</strong>.  (<i>Märzgefallene</i>, 13)' ,
 ],
-einstecken: [
-	'etwas <strong>einstecken</strong>: &nbsp;put up with something, take it <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=einstecken&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">einstecken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einstecken"target="target2">einstecken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einstecken"target="target3">einstecken</a> ',
+einstecken: [ 
+	'etwas <strong>einstecken</strong>: put up with sth., take it; plug, stick in'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=einstecken&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">einstecken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einstecken"target="target2">einstecken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/einstecken"target="target3">einstecken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einstecken"target="target4">einstecken</a>'+
+	'<br><i>Note: examples only for the "take it" definition</i>:',
 	'<u>Märzgefallene</u>',
 	'Totschlagen wollten sie (<i>SA-Leute</i>) ihn (<i>Leo</i>) wohl nicht, obwohl es ein paarmal fast danach ausgesehen hatte und sie gerade noch rechtzeitig aufgehört hatten mit ihren Tritten und den Eisenstangenschlägen. Leo konnte <strong>einstecken</strong>, das war sein Glück. So schnell würden die ihn nicht kleinkriegen. (<i>Märzgefallene</i>, 218)' ,
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Tür Straße für über überhaupt schön zurück können würde <strong> ä Ä ö Ö ü Ü ß für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü  ß <strong> (<i>Charly</i>) (<i>Gereon</i>) ä Ä ö Ö ü Ü ß           
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-eintüten: [
-	'<strong>eintüten</strong>: &nbsp;bag something, put into paper bags <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/eintueten"target="target1">eintüten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eintuten"target="target2">eintüten</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/eint%C3%BCten"target="target3">eintüten</a>   ' ,  
+eintüten: [ 
+	'<strong>eintüten</strong>: bag something, put into bags'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/eintueten"target="target1">eintüten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eint%C3%BCten"target="target2">eintüten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=eint%C3%BCten"target="target3">eintüten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eint%C3%BCten"target="target4">eintüten</a>',  
 	'<u>Märzgefallene</u>',
-	'"Und aus so einem soll mal ein Kriminalkommissar werden", brummte der Oberkommissar, <strong>tütete</strong> den ersten Abdruck <strong>ein</strong> und schüttelte den Kopf.    (<i>Märzgefallene</i>, 14)' ,
+	'"Und aus so einem soll mal ein Kriminalkommissar werden", brummte der Oberkommissar, <strong>tütete</strong> den ersten Abdruck <strong>ein</strong> und schüttelte den Kopf. (<i>Märzgefallene</i>, 14)',
 ], 
 'erdreisten (sich)': [
 	'<strong>sich erdreisten</strong>: presume, dare to do something ' +
@@ -3435,34 +3453,46 @@ eintüten: [
 	'<u>Lunapark</u>',
 	'<i>Hartmann, SA-Uniformierte an der Pforte</i>: "Meinen Sie, Sie können einfach so hier reinmarschieren?", sagte er und schob Raths Ausweis zurück.. "Ich habe strikte Anweisung, bis auf Weiteres keinen Kriminalbeamten durchzulassen. In eurem Laden muss dringend ausgemistet werden. Da herrscht ja eine Dientsauffassung wie zu schlimmsten Systemzeiten!" Solch eine Respektlosigkeit der Kripo gegenüber war Rath noch nicht untergekommen.. Ein einfacher SA-Scharführer <strong>erdreistete sich</strong>, so mit ihm zu sprechen.  (<i>Lunapark</i>, 273)',
 ],
-erkiesen: [
-	'<strong>erkiesen</strong>: &nbsp;choose <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erkiesen"target="target1">erkiesen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/erkiesen"target="target2">erkiesen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/erkiesen"target="target3">erkiesen</a> ',
+erkiesen: [ 
+	'<strong>erkiesen</strong>: choose'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erkiesen"target="target1">erkiesen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erkiesen"target="target2">erkiesen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/erkiesen"target="target3">erkiesen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erkiesen"target="target4">erkiesen</a>',
 	'<u>Märzgefallene</u>',
-	'Die Märchenbrunnenclique. Eigentlich war es gar keine feste Clique gewesen, wie es sie sonst zu Hunderten in der Stadt gab..., es war eine Handvoll obdachloser Jugendlicher oder Ausreißer, die den Märchenbrunnen im Volkspark Friedrichshain zu ihrem Treffpunkt <strong>erkoren</strong> hatten....  (<i>Märzgefallene</i>, 152-153)' ,
-	'"Die Gräfin ist eigentlich gar keine Gräfin", soufflierte Bertrand. "Nein, sie ist einfach nur reich", erklärte Willy.... <i>Charly</i>: "Und die hatte Achim von Roddeck zu ihrem festen Tanzpartner <strong>erkoren</strong>?"  (<i>Märzgefallene</i>, 314)'
+	'Die Märchenbrunnenclique. Eigentlich war es gar keine feste Clique gewesen, wie es sie sonst zu Hunderten in der Stadt gab..., es war eine Handvoll obdachloser Jugendlicher oder Ausreißer, die den Märchenbrunnen im Volkspark Friedrichshain zu ihrem Treffpunkt <strong>erkoren</strong> hatten....  (<i>Märzgefallene</i>, 152-153)',
+	'"Die Gräfin ist eigentlich gar keine Gräfin", soufflierte Bertrand. "Nein, sie ist einfach nur reich", erklärte Willy.... <i>Charly</i>: "Und die hatte Achim von Roddeck zu ihrem festen Tanzpartner <strong>erkoren</strong>?" (<i>Märzgefallene</i>, 314)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
-erpicht: [
-	'auf etwas <strong>erpicht</strong> sein: &nbsp;be bent on, eager to do sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erpicht"target="target1">erpicht</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/erpicht"target="target2">erpicht</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erpicht"target="target3">erpicht</a>     ' ,
+erpicht: [ 
+	'auf etwas <strong>erpicht</strong> sein: be bent on, eager to do sth.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erpicht"target="target1">erpicht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erpicht"target="target2">erpicht</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erpicht"target="target3">erpicht</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/erpicht"target="target4">erpicht</a>',
 	'<u>Märzgefallene</u>',
-	'Der Berliner as solcher war nicht allzusehr darauf <strong>erpicht</strong>, sich irgendwo einzumischen. (<i>Märzgefallene</i>, 255)',
+	'Der Berliner als solcher war nicht allzusehr darauf <strong>erpicht</strong>, sich irgendwo einzumischen. (<i>Märzgefallene</i>, 255)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 erstehen: [
-	'<strong>erstehen</strong>: &nbsp;buy, acquire something; &nbsp;arise  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erstehen"target="target1">erstehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erstehen"target="target2">erstehen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erstehen"target="target3">erstehen</a> ' ,
-  '<u>Der nasse Fisch</u>', 
-	'Wenigstens hatte er bei Tietz am Alex einen neuen Anzug <strong>erstanden</strong>. Ein brauner Cheviotanzug für achtundsechzig Mark. Ein typischer Bullenanzug, nicht zu teuer, falls man sich das gute Stück im Dienst versaut.  (<i>Der nasse Fisch</i>, 236)', 
-//'<u>Der Stumme Tod</u>', '<u>Goldstein</u>', '<u>Die Ackte Vaterland</u>', '<u>Lunapark</u>',
+	'<strong>erstehen</strong>: buy, acquire something; arise'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erstehen"target="target1">erstehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erstehen"target="target2">erstehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erstehen"target="target3">erstehen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erstehen"target="target4">erstehen</a>',
+    '<u>Der nasse Fisch</u>', 
+	'Wenigstens hatte er (<i>Rath</i>) bei Tietz am Alex einen neuen Anzug <strong>erstanden</strong>. Ein brauner Cheviotanzug für achtundsechzig Mark. Ein typischer Bullenanzug, nicht zu teuer, falls man sich das gute Stück im Dienst versaut.  (<i>Der nasse Fisch</i>, 236)', 
 	'<u>Märzgefallene</u>',
-	'Er (<i>Rath</i>) fand seine Hose schließlich unter dem Sofa, hinter den schwarzen Pappohren, daneben auch sein Hemd.... Nur die dämliche Nasenschnurrbartbrille, die er bei Tietz <strong>erstanden</strong> hatte, konnte er nicht finden.   (<i>Märzgefallene</i>, 73)',
+	'Er (<i>Rath</i>) fand seine Hose schließlich unter dem Sofa, hinter den schwarzen Pappohren, daneben auch sein Hemd.... Nur die dämliche Nasenschnurrbartbrille, die er bei Tietz <strong>erstanden</strong> hatte, konnte er nicht finden. (<i>Märzgefallene</i>, 73)',
+	'"Sagen Sie bloß, Sie führen Afri-Cola?" fragte er den Tankwart, der gerade dabei war, die Windschutzscheibe zu säubern. Der Mann nickte, und Rath <strong>erstand</strong> drei Flaschen.  (<i>Märzgefallene</i>, 436)',
+	'Grimberg schaute mit Hilfe des Grabenspiegels, den er vorhin bei einem fliegenden Händler <strong>erstanden</strong> hatte, wieder nach vorne zum Rednerpult. (<i>Märzgefallene</i>, 560)',
+	'<u>Lunapark</u>',
+	'Rath musste an das Glasauge denken. Konnte man gebrauchte Glasaugen tragen? Hatte Leo Juretzka womöglich das Glasauge von Walter Spindler in irgendeinem Pfandhaus <strong>erstanden</strong>? (<i>Lunapark</i>, 242)',
 ],
-ergattern: [
-	'<strong>ergattern</strong>: &nbsp;get hold of <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ergattern"target="target1">ergattern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ergattern"target="target2">ergattern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ergattern"target="target3">ergattern</a>       ' ,
+ergattern: [ 
+	'<strong>ergattern</strong>: get hold of'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ergattern"target="target1">ergattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ergattern"target="target2">ergattern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ergattern"target="target3">ergattern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ergattern"target="target4">ergattern</a>',
 	'<u>Märzgefallene</u>',
-	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonaies beiläufig auf den Verkaufstresen gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu <strong>ergattern</strong>. (<i>Märzgefallene</i>, 348)' ,
+	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonnaies beiläufig auf den Verkaufstresen gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu <strong>ergattern</strong>. (<i>Märzgefallene</i>, 348)',
 ],
-// Fstart '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 formvollendet: [
 	'<strong>formvollendet</strong>: perfect in form  ' +
@@ -4556,10 +4586,11 @@ giften: [
 	'<u>Lunapark</u>',
 	'Letztes Jahr hatte es hier (<i>in Marlows Villa in Bad Freienwalde</i>)von Bewaffneten nur so <strong>gewimmelt</strong>. (<i>Lunapark</i>, 122)',
 ],
-Gerüst: [
+'Gerüst, einrüsten': [
 	'das <strong>Gerüst</strong>,-<strong>e</strong>: scaffolding; framework, structure'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geruest"target="target1">Gerüst</a>&nbsp;&nbsp;<a href="https://www.gettyimages.de/fotos/ger%C3%BCst"target="target2">Gerüst</a>'+  
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geruest#Ger%C3%BCst"target="target3">Gerüst</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Ger%C3%BCst"target="target4">Gerüst</a>  ' ,
+	'<br><strong>einrüsten</strong>: put scaffolding around'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.gettyimages.de/fotos/ger%C3%BCst"target="target1">Gerüst</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einr%C3%BCsten"target="target2">einrüsten</a>'+  
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geruest#Ger%C3%BCst"target="target3">Gerüst</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einr%C3%BCsten"target="target4">einrüsten</a>',
 	'<u>Der nasse Fisch</u>',
 	'Das neue Kaufhas sollte dem biederen Hermannplatz einen Hauch von New York verleihen. Für diesen Sommer war die Einweihung geplant, jetzt aber war da nur ein riesiges Bau<strong>gerüst</strong> zu sehen, flankiert von Lastenaufzügen und Kränen.  (<i>Der nasse Fisch</i>, 22)' ,
 	'Er (<i>Wilhelm zwo, der Pornokaiser</i>) machte kehrt und verschwand hinter dem Stah<strong>gerüst</strong> des Aufzugs - und dann sah Rath ihn an den Stahstreben nach oben klettern, flink wie eine Ratte.... Rath überlegte nicht lange, er musste hinterher. Unmöglich auf demselben Weg.... Rath entschied sich für das <strong>Gerüst</strong> und schwang sich auf die nächstbeste Leiter.    (<i>Der nasse Fisch</i>, 24)' ,
@@ -4570,11 +4601,37 @@ Gerüst: [
 	'<i>Rath träumt</i>: Rath hetzte nach oben, seine Höhenangst vergessend. Plötzlich war das Haus von einem Bau<strong>gerüst</strong> umgeben, über Leitern musste er weiterklettern.  (<i>Der nasse Fisch</i>, 36)' ,
 	'Rath hatte seinen Eltern nicht gewinkt, als der Zug sich in Bewegung setzte, stumm hatte er gesehen, wie sich der Bahnsteig mit den winkenden Menchen entfernte, bis sich das stählerne <strong>Gerüst</strong> der Hohenzollernbrücke in sein Blickfeld schob. (<i>Der nasse Fisch</i>, 103)' ,
 	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der Bude haben", sagte er und deutete auf ein <strong>Gerüst</strong> an der Längswand, "die Arbeiten haben schon begonnen."     (<i>Der nasse Fisch</i>, 134-35)',
+	'<u>Märzgefallene</u>',
+	'...der Mann hatte ihn (<i>Rath</i>) in die erste Etage geführt, in eine Art Salon, und ihn gebeten zu warten. Seitdem stand Rath hier, rauchte und schaute hinaus in den beginnenden Tag. Nach Norden hin versperrte ein moderner, noch <strong>eingerüsteter</strong> Neubau die Sicht, direkt vor dem Haus Heinen aber war das Rheinpanorama unverbaut. (<i>Märzgefallene</i>, 283)',
 	'<u>Lunapark</u>',
 	'Unter der Bahnbrücke klebte noch immer die Nacht, es war duster und wurde auch ein paar Grad kälter, kaum war Rath in den Schatten des stählernen <strong>Gerüsts</strong> getreten.  (<i>Lunapark</i>, 16)' ,
 	'<i>Helmut Reinhold</i>: "Ab und zu helfe ich in einer Malerkolonne aus. Wir streichen Fassaden. Un da habe ich ihn (<i>Karl Reinhold</i>) gesehen. Ging unten auf dem Trottoir.. Konnte ihm ja schlecht hinterherbrüllen. Ich hab dem Vorarbeiter irgendwas erzählt und bin runter vom <strong>Gerüst</strong>."  (<i>Lunapark</i>, 102)' ,
+	'Charly hätte die Hausnummer gar nicht kennen müssen, die blendend weiße Fassade hob sich so sehr vom schmutzigen Grau und Braun der Umgebung ab, dass sie sofort wusste, welches dieser Häuser vor einer Woche <strong>eingerüstet</strong> gewesen sein musste. (<i>Lunapark</i>, 113)',
 	'Rath wartete, bis der Hanomag (<i>ein Auto</i>) verschwunden war, dann erst stieg er aus und schaute sich um. Der Arnswalder Platz war eine einzige Baustelle. Bretterzäune, ein Stahl<strong>gerüst</strong> mit Flaschenzüge zwischen den Bäumen, steinerne Stier- und Menschenfragmente auf dem Rasen.  (<i>Lunapark</i>, 276)',
-],   
+],
+'einrüsten, Gerüst': [
+	'das <strong>Gerüst</strong>,-<strong>e</strong>: scaffolding; framework, structure'+
+	'<br><strong>einrüsten</strong>: put scaffolding around'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.gettyimages.de/fotos/ger%C3%BCst"target="target1">Gerüst</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einr%C3%BCsten"target="target2">einrüsten</a>'+  
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geruest#Ger%C3%BCst"target="target3">Gerüst</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einr%C3%BCsten"target="target4">einrüsten</a>',
+	'<u>Der nasse Fisch</u>',
+	'Das neue Kaufhas sollte dem biederen Hermannplatz einen Hauch von New York verleihen. Für diesen Sommer war die Einweihung geplant, jetzt aber war da nur ein riesiges Bau<strong>gerüst</strong> zu sehen, flankiert von Lastenaufzügen und Kränen.  (<i>Der nasse Fisch</i>, 22)' ,
+	'Er (<i>Wilhelm zwo, der Pornokaiser</i>) machte kehrt und verschwand hinter dem Stah<strong>gerüst</strong> des Aufzugs - und dann sah Rath ihn an den Stahstreben nach oben klettern, flink wie eine Ratte.... Rath überlegte nicht lange, er musste hinterher. Unmöglich auf demselben Weg.... Rath entschied sich für das <strong>Gerüst</strong> und schwang sich auf die nächstbeste Leiter.    (<i>Der nasse Fisch</i>, 24)' ,
+	'In der siebten Etage hörte das <strong>Gerüst</strong> auf, höher war das Hauptgebäude nicht. Der Lastenaufzug aber stand am Nordturm, der einem abgebrochenen Wolkenkratzer glich, und dessen <strong>Gerüst</strong> führte noch ein paar Etagen höher hinauf. (<i>Der nasse Fisch</i>, 24)' ,
+	'Er (<i>Rath</i>) musste ein paar Meter über schwankende Bohlen laufen.... Das nächste <strong>Gerüst</strong>, die nächsten Leitern, und die Kletterei ging weiter.... Und dann hatte er das Ende des Turm<strong>gerüsts</strong> erreicht.   (<i>Der nasse Fisch</i>, 24)' ,
+	'Er (<i>Wolter</i>) kettete den Mann (<i>den Pornokaiser</i>) mit Handschellen ans <strong>Gerüst</strong> und sammelte dessen Pistole auf.  (<i>Der nasse Fisch</i>, 27)' ,
+	'Der falsche Kaiser hatte geplaudert wie ein Radio. Noch auf dem <strong>Gerüst</strong> hatten sie ihn ausgequetscht, bevor sie ihn laufen ließen.... Rath war klar, dass die Nummer auf dem <strong>Gerüst</strong> auch eine Lektion hatte sein sollen, eine Lektion für den Neuen aus der Rheinprovinz.  (<i>Der nasse Fisch</i>, 29)' ,
+	'<i>Rath träumt</i>: Rath hetzte nach oben, seine Höhenangst vergessend. Plötzlich war das Haus von einem Bau<strong>gerüst</strong> umgeben, über Leitern musste er weiterklettern.  (<i>Der nasse Fisch</i>, 36)' ,
+	'Rath hatte seinen Eltern nicht gewinkt, als der Zug sich in Bewegung setzte, stumm hatte er gesehen, wie sich der Bahnsteig mit den winkenden Menchen entfernte, bis sich das stählerne <strong>Gerüst</strong> der Hohenzollernbrücke in sein Blickfeld schob. (<i>Der nasse Fisch</i>, 103)' ,
+	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der Bude haben", sagte er und deutete auf ein <strong>Gerüst</strong> an der Längswand, "die Arbeiten haben schon begonnen."     (<i>Der nasse Fisch</i>, 134-35)',
+	'<u>Märzgefallene</u>',
+	'...der Mann hatte ihn (<i>Rath</i>) in die erste Etage geführt, in eine Art Salon, und ihn gebeten zu warten. Seitdem stand Rath hier, rauchte und schaute hinaus in den beginnenden Tag. Nach Norden hin versperrte ein moderner, noch <strong>eingerüsteter</strong> Neubau die Sicht, direkt vor dem Haus Heinen aber war das Rheinpanorama unverbaut. (<i>Märzgefallene</i>, 283)',
+	'<u>Lunapark</u>',
+	'Unter der Bahnbrücke klebte noch immer die Nacht, es war duster und wurde auch ein paar Grad kälter, kaum war Rath in den Schatten des stählernen <strong>Gerüsts</strong> getreten.  (<i>Lunapark</i>, 16)' ,
+	'<i>Helmut Reinhold</i>: "Ab und zu helfe ich in einer Malerkolonne aus. Wir streichen Fassaden. Un da habe ich ihn (<i>Karl Reinhold</i>) gesehen. Ging unten auf dem Trottoir.. Konnte ihm ja schlecht hinterherbrüllen. Ich hab dem Vorarbeiter irgendwas erzählt und bin runter vom <strong>Gerüst</strong>."  (<i>Lunapark</i>, 102)' ,
+	'Charly hätte die Hausnummer gar nicht kennen müssen, die blendend weiße Fassade hob sich so sehr vom schmutzigen Grau und Braun der Umgebung ab, dass sie sofort wusste, welches dieser Häuser vor einer Woche <strong>eingerüstet</strong> gewesen sein musste. (<i>Lunapark</i>, 113)',
+	'Rath wartete, bis der Hanomag (<i>ein Auto</i>) verschwunden war, dann erst stieg er aus und schaute sich um. Der Arnswalder Platz war eine einzige Baustelle. Bretterzäune, ein Stahl<strong>gerüst</strong> mit Flaschenzüge zwischen den Bäumen, steinerne Stier- und Menschenfragmente auf dem Rasen.  (<i>Lunapark</i>, 276)',
+],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Geplänkel, Vorgeplänkel': [
@@ -10708,7 +10765,7 @@ Tresen: [
 	'Der Kellner ließ sich Zeit, sie (<i>die wilde Hilde</i>) ging zum <strong>Tresen</strong> und verschwand gleich nach der Bestellung auf der Toilette. (<i>Märzgefallene</i>, 74)',
 	'Sie (<i>Hannah</i>) blinzelte gegen den Zigarettenqualm an, und dann entdeckte sie am <strong>Tresen</strong> zu ihrer Überraschung ein bekanntes Gesicht. (<i>Märzgefallene</i>, 321)',
 	'Felix orderte wortlos per Handzeichen und bezahlte auch gleich, als der Wirt die dampfende Tasse auf den <strong>Tresen</strong> stellte. (<i>Märzgefallene</i>, 322)',
-	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonaies beiläufig auf den Verkaufs<strong>tresen</strong> gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu ergattern. (<i>Märzgefallene</i>, 348)',
+	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonnaies beiläufig auf den Verkaufs<strong>tresen</strong> gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu ergattern. (<i>Märzgefallene</i>, 348)',
 	'Er (<i>der Junge</i>) tuschelte kurz mit dem Wirt, den er zu kennen schien, schielte dabei aber immer wieder zu ihm herüber, als habe er ihn bereits erkannt. Als der Wirt kurz mit dem Kinn zum <strong>Tresen</strong> zuckte, setzte sich der Junge in Bewegung. Er stellte sich direkt neben ihn und tat unbeteiligt, als er seine Frage stellte. "Ick habe jehört, Sie suchen jemanden?" (<i>Märzgefallene</i>, 379)',
 	'Berthold Weinert fühlte sich nicht wohl in der Kaschemme, in die Gereon Rath ihn gelotst hatte... Weinert hatte die Kneipe noch nie gemocht. Zu klein, zu verraucht, zu sehr Kreuzberg. Aber einen unbestreitbaren Vortail hatte sie: Er war unter den Männern, die sich hier am <strong>Tresen</strong> und rund um die vier Tische verteilt hatten, der einzige Journalist.   (<i>Märzgefallene</i>, 530)',
 	'<u>Lunapark</u>',

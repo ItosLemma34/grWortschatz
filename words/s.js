@@ -184,7 +184,7 @@ const s = [
    'Stulle',  // Stulle: *
 	'stülpen (sich)', // *
    'Stummel',  // Stummel: *
-   'stümperhaft', // stümperhaft: *
+   'Stümper, stümperhaft', //  *
    'stutzig', // stutzig: *
    'süffisant',  // süffisant: *
    'summen, aufsummen', // * duplicated

@@ -1,11 +1,11 @@
 const d = [
    'dämlich, Dämlichkeit',  // *
-   'Dampframme',  //Dampframme:  
-   'Dampfwalze',  //Dampfwalze:
+   'Dampframme',  // Dampframme: * 
+   'Dampfwalze',  // Dampfwalze: *
    'dazwischenfunken', // dazwischenfunken: *  
-   'Deckel',   //Deckel:
+   'Deckel',   // Deckel: *
    'deichseln', // deichseln:  * 
-   'dezent',   //dezent: 
+   'dezent',   // dezent: 
    'Diele',   //Diele:  
    'Dietrich',  //Dietrich: 
    'dösen, eindösen',  // *  duplicated

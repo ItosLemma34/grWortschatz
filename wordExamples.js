@@ -2923,10 +2923,12 @@ Chose: [
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'drängeln (sich)': [
-	'(sich) <strong>drängeln</strong>: push, jostle, shove; elbow one\'s way thru <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/draengeln"target="target1">drängeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/drangeln?q=dr%C3%A4ngeln"target="target2">drängeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=dr%C3%A4ngeln"target="target3">drängeln</a>    ' ,
+'drängeln (sich)': [ 
+	'(sich) <strong>drängeln</strong>: push, jostle; elbow one\'s way thru'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/draengeln"target="target1">drängeln</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/draengeln"target="target2">drängeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/drangeln?q=dr%C3%A4ngeln"target="target3">drängeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=dr%C3%A4ngeln"target="target4">drängeln</a>',
 	'<u>Der nasse Fisch</u>',
-	'Rath drehte sich um. Oppenberg, der Filmfritze aus dem <i>Venuskeller</i>, strahlte ihn an.. "Machen Sie sich mal keine Sorgen", flüsterte er. "Die Bullen lassen uns schon wieder gehen.. Der Kerl war genauso redselig wie bei ihrer ersten Begegung. <i>Oppenberg</i>: "Wo hat man Sie (<i>Rath</i>) aufgegabelt?..." Er knuffte Rath in die Seite, während er sich umschaute.. Einer der blauuniformierten Aufpasser hatte die Szene bemerkt und <strong>drängelte sich</strong> nach vorne. "Ruhe, Freundchen", sagte er und tippte Oppenbergs Schulter unsanft mit dem Gummiknüppel an. "Nun lassense mal den Herrn Kommissar zufrieden!"  (<i>Der nasse Fisch</i>, 254-55)',
+	'Rath drehte sich um. Oppenberg, der Filmfritze aus dem <i>Venuskeller</i>, strahlte ihn an.. "Machen Sie sich mal keine Sorgen", flüsterte er. "Die Bullen lassen uns schon wieder gehen.. Wo hat man Sie aufgegabelt?..." Er knuffte Rath in die Seite, während er sich umschaute.. Einer der blauuniformierten Aufpasser hatte die Szene bemerkt und <strong>drängelte sich</strong> nach vorne. "Ruhe, Freundchen", sagte er und tippte Oppenbergs Schulter unsanft mit dem Gummiknüppel an. "Nun lassense mal den Herrn Kommissar zufrieden!" (<i>Der nasse Fisch</i>, 254-55)',
 ],
 durchnässen: [
 	'<strong>nässen</strong>: moisten, wet sth. &nbsp;&nbsp;<strong>durchnässen</strong>: soak, drench <br>Deutsche Definition:&nbsp;<a href="https://www.duden.de/rechtschreibung/durchnaessen"target="target1">durchnässen</a><br>English Definitions: &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/durchnassen?q=durchn%C3%A4ssen"target="target2">durchnässen<a> &nbsp;<a href="https://www.verbformen.com/?w=durchn%C3%A4ssen"target="target3">durchnässen</a> ' ,
@@ -2940,16 +2942,21 @@ durchnässen: [
 	'<u>Lunapark</u>',
 	'Rath antwortete mit dem schlampigen Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte</strong> sein "Heil". Bislang hatte er <strong>sich</strong> damit <strong>durchmogeln</strong> können....  (<i>Lunapark</i>, 20)' ,
 ],
-drosseln: [
-	'<strong>drosseln</strong>: &nbsp;restrict, curb, reduce <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/drosseln"target="target1">drosseln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/drosseln"target="target2">drosseln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/drosseln"target="target3">drosseln</a>    ' ,
-//	'<u>Der nasse Fisch</u>',
+drosseln: [ 
+	'<strong>drosseln</strong>: restrict, curb, reduce'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/drosseln"target="target1">drosseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/drosseln"target="target2">drosseln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/drosseln"target="target3">drosseln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/drosseln"target="target4">drosseln</a>' ,
 	'<u>Lunapark</u>',
-	'<i>Osterberg</i>: "Was ist denn Johann? Stimmt etwas nicht?" "Nichts Besonderes, Herr Direktor. Aber der Hanomag hinter uns macht mich nervös. Folgt uns schon seit dem Spittelmarkt." "Dann <strong>drosseln</strong> Sie doch mal das Tempo und lassen ihn überholen", sagte Osterbeg.., "so eileg haben wir\'s ja nicht."  (<i>Lunapark</i>, 8)',
+	'<i>Osterberg</i>: "Was ist denn Johann? Stimmt etwas nicht?" "Nichts Besonderes, Herr Direktor. Aber der Hanomag hinter uns macht mich nervös. Folgt uns schon seit dem Spittelmarkt." "Dann <strong>drosseln</strong> Sie doch mal das Tempo und lassen ihn überholen", sagte Osterbeg.., "so eilig haben wir\'s ja nicht." (<i>Lunapark</i>, 8)',
+	'Der Fahrer <strong>drosselte</strong> die Geschwindigkeit und fuhr rechts ran.  (<i>Lunapark</i>, 281)',
+	'An jeder Haltestelle ließ Rath den Taxifahrer das Tempo <strong>drosseln</strong>, doch Charly stieg nirgends aus (<i>aus der Bahn</i>). Sie (<i>der Taxifahrer und Rath</i>) folgten der Bahn, die weiter durch Berlin mäanderte... (<i>Lunapark</i>, 282)',
 ],
 Dreh: [    
-	'der <strong>Dreh</strong>, die <strong>Drehs</strong>/die <strong>Drehe</strong>: &nbsp;trick; &nbsp;pivot <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dreh"target="target1" >Dreh</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dreh"target="target2">Dreh</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/dreh?q=Dreh"target="target3">Dreh</a> ',
+	'der <strong>Dreh</strong>, die <strong>Drehs</strong>/<strong>e</strong>: trick, knack (of doing sth.); pivot'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dreh"target="target1">Dreh</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dreh"target="target2">Dreh</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dreh"target="target3">Dreh</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dreh"target="target4">Dreh</a>',
 	'<u>Märzgefallene</u>',
-	'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen <strong>Dreh</strong> fand, sie einem in Ungnade gefallenen Polizisten ans Bein zu binden.  (<i>Märzgefallene</i>, 569)',
+	'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen <strong>Dreh</strong> fand, sie einem in Ungnade gefallenen Polizisten ans Bein zu binden. (<i>Märzgefallene</i>, 569)',
 ],
 Dampfwalze: [ 
 	'die <strong>Dampfwalze</strong>,-<strong>n</strong>: steamroller'+
@@ -2958,12 +2965,14 @@ Dampfwalze: [
 	'<u>Der nasse Fisch</u>',
 	'Die Stimmung in der Mordinspektion war nicht die beste. Böhm kam keinen Schritt voran, seine Laune wurde zusehends schlechter. Und das lag nicht am Feiertagsdienst. Wie er vorhin aus dem Büro gestürmt war! Wie eine <strong>Dampfwalze</strong>. (<i>Der nasse Fisch</i>, 181)',
 ],
-drucksen: [
-	'<strong>drucksen</strong>: &nbsp;hem and haw <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/drucksen"target="target1">drucksen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/drucksen"target="target2">drucksen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/drucksen"target="target3">drucksen</a>    ' ,
+drucksen: [ 
+	'<strong>drucksen</strong>: hem and haw, beat about the bush'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/drucksen"target="target1">drucksen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/drucksen"target="target2">drucksen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/drucksen"target="target3">drucksen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/drucksen"target="target4">drucksen</a>',
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Fritze</i>) <strong>druckste</strong> eine Weile herum. "Du Hannah", sagte er schließlich, "Charly will dir ein paar Fraaren (<i>Fragen</i>) stellen, und..." (<i>Märzgefallene</i>, 465)' ,
-	'<i>Rath</i>: "Ziehst du wieder ein?".. "Im Gegenteil", sagte er (<i>Gräf</i>), ich ziehe endgültig aus. Du bekommst einen neuen Kollegen." Rath war ehrlich überrascht. "Oh", sagte er, "davon war heute Morgen noch gar nicht die Rede." <i>Gräf</i>: "Gennat wollte das nicht an die große Glocke hängen. Nicht in meinem Beisein." Er <strong>druckste</strong> ein wenig herum, bevor er weitersprach. "Lange kommt zurück von der IA... Ich und Steinke, wir verlassen im Gegenzug die Inspektion A."   (<i>Märzgefallene</i>, 537)' ,
+	'Er (<i>Fritze</i>) <strong>druckste</strong> eine Weile herum. "Du Hannah", sagte er schließlich, "Charly will dir ein paar Fraaren (<i>Fragen</i>) stellen, und..." (<i>Märzgefallene</i>, 465)',
+	'<i>Rath</i>: "Ziehst du wieder ein?".. "Im Gegenteil", sagte er (<i>Gräf</i>), ich ziehe endgültig aus. Du bekommst einen neuen Kollegen." Rath war ehrlich überrascht. "Oh", sagte er, "davon war heute Morgen noch gar nicht die Rede." <i>Gräf</i>: "Gennat wollte das nicht an die große Glocke hängen. Nicht in meinem Beisein." Er <strong>druckste</strong> ein wenig herum, bevor er weitersprach. "Lange kommt zurück von der IA... Ich und Steinke, wir verlassen im Gegenzug die Inspektion A." (<i>Märzgefallene</i>, 537)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2982,32 +2991,42 @@ Dampframme: [
 	'<u>Der nasse Fisch</u>',
 	'Sogar auf eine der <strong>Dampframmen</strong> am Alex hatte ein U-Bahn-Bauarbeiter eine rote Fahne gepflanzt. Auch hier oben in den Büros der Burg hörte man die Menge skandieren: "Nie-der mit dem Deee-monstrations-verbot!" (<i>Der nasse Fisch</i>, 54)',
 ],
-'Dreistigkeit, dreist' : [
-	'die <strong>Dreistigkeit</strong>,-<strong>en</strong>: audacity, brazenness, chutzpah &nbsp;&nbsp;<strong>dreist</strong>: audacious, bold  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dreistigkeit"target="target1">Dreistigkeit</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dreistigkeit"target="target2">Dreistigkeit</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dreistigkeit"target="target3">Dreistigkeit</a>   ' ,
+'Dreistigkeit, dreist' : [ 
+	'die <strong>Dreistigkeit</strong>,-<strong>en</strong>: audacity, brazenness, chutzpah'+
+	'<br><strong>dreist</strong>: audacious, bold'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dreistigkeit"target="target1">Dreistigkeit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dreistigkeit"target="target2">Dreistigkeit</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dreistigkeit"target="target3">Dreistigkeit</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dreistigkeit"target="target4">Dreistigkeit</a>',
 	'<u>Der nasse Fisch</u>',
-	'Vereinzelt ragten Transparente aus der Menschenmenge. Rath erkannte die drei Konterfeis, die auch die Fassade der KPD-Zentrale am nah gelegenen Bülowplatz schmückten: Lenin, Liebknecht, Luxemburg. Die heiligen drei L. Seit er in Berlin war, hatte er sich über die <strong>Dreistigkeit</strong> der Kommunisten geärgert. (<i>Der nasse Fisch</i>, 54)' ,
+	'Vereinzelt ragten Transparente aus der Menschenmenge. Rath erkannte die drei Konterfeis, die auch die Fassade der KPD-Zentrale am nah gelegenen Bülowplatz schmückten: Lenin, Liebknecht, Luxemburg. Die heiligen drei L. Seit er in Berlin war, hatte er sich über die <strong>Dreistigkeit</strong> der Kommunisten geärgert. (<i>Der nasse Fisch</i>, 54)',
 	'<u>Märzgefallene</u>',
-	'Immer wieder derselbe Hergang, überall im Reich: Ein lange gesuchter Kommunist wird von der Polizei aufgegriffen, unternimmt auf dem Weg zur Wache einen Fluchtversuch, reagiert nicht auf die Zurufe der Polizei und wird daraufhin erschossen. Und mit welcher <strong>Dreistigkeit</strong> sämtliche Zeitungen diese Lügen verbreiteten.  (<i>Märzgefallene</i>, 485)' ,
+	'Immer wieder derselbe Hergang, überall im Reich: Ein lange gesuchter Kommunist wird von der Polizei aufgegriffen, unternimmt auf dem Weg zur Wache einen Fluchtversuch, reagiert nicht auf die Zurufe der Polizei und wird daraufhin erschossen. Und mit welcher <strong>Dreistigkeit</strong> sämtliche Zeitungen diese Lügen verbreiteten.  (<i>Märzgefallene</i>, 485)',
 ],
-draufhaben: [
-	'<strong>draufhaben</strong>: &nbsp;show what one is made of, know one\’s stuff <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/draufhaben"target="target1">draufhaben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/draufhaben"target="target2">draufhaben</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/draufhaben"target="target3">draufhaben</a>      ' ,
+draufhaben: [ 
+	'<strong>draufhaben</strong>: show what one is made of, know one\’s stuff'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/draufhaben"target="target1">draufhaben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/draufhaben"target="target2">draufhaben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/draufhaben"target="target3">draufhaben</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/draufhaben"target="target4">draufhaben</a>',
 	'<u>Der nasse Fisch</u>',
-	'Trotz des Durchbruchs konnten sie (<i>die Polizei der Inspektion E</i>) die Sache nicht weiter vorantreiben und waren gezwungen, Dämchen zu drehen. Egal. Er (<i>Rath</i>) hatte seinen Kollegen zeigen können, was er so <strong>draufhatte</strong>.  (<i>Der nasse Fisch</i>, 51-52)' ,
+	'Trotz des Durchbruchs konnten sie (<i>die Polizei der Inspektion E</i>) die Sache nicht weiter vorantreiben und waren gezwungen, Dämchen zu drehen. Egal. Er (<i>Rath</i>) hatte seinen Kollegen zeigen können, was er so <strong>draufhatte</strong>. (<i>Der nasse Fisch</i>, 51-52)',
+	'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja <strong>draufhaben</strong>, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. (<i>Der nasse Fisch</i>, 102)' ,
 ],
 'durch den Wind sein': [
 	'<strong>durch den Wind sein</strong>: &nbsp;become unglued, rattled, confused <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/durch%20den%20Wind%20sein"target="target1">durch den Wind sein</a>&nbsp;<br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+den+Wind+sein"target="target2">durch den Wind sein</a>&nbsp;&nbsp;<a href="https://yourdailygerman.com/meaning/we/wind/durch-den-wind-sein/"target="target3">durch den Wind sein</a>   ' ,
 	'<u>Der nasse Fisch</u>',
 	'<i>Wolter, der Onkel</i>: "Komm, lass uns was essen, bevor die Arbeit beginnt. Du (<i>Gereon</i>) <strong>bist</strong> ja vollkommen <strong>durch den Wind</strong>...." (<i>Der nasse Fisch</i>,  35)',
 ],
-Dietrich: [
-	'der <strong>Dietrich</strong>,-<strong>e</strong>: &nbsp;picklock; skeleton key <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/Dietrich"target="target1">Dietrich</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dietrich"target="target2">Dietrich</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/dietrich"target="target3">Dietrich</a>   ' ,
+Dietrich: [ 
+	'der <strong>Dietrich</strong>,-<strong>e</strong>: picklock, skeleton key'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dietrich"target="target1">Dietrich</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Diedrich+Werkzeuge"target="target2">Dietrich</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dietrich"target="target3">Dietrich</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dietrich"target="target4">Dietrich</a>',
 	'<u>Der nasse Fisch</u>',
-	'Ein kräftiger Tritt hätte gereicht, um die klapprige Tür in den Raum fliegen zu lassen, doch Wolter schob den Bereitschaftsführer beiseite. Rath sah, wie der Onkel einen <strong>Dietrich</strong> aus der Manteltasche zog und sich am Schloss zu schaffen machte.  (<i>Der nasse Fisch</i>, 18-19)' ,
+	'Ein kräftiger Tritt hätte gereicht, um die klapprige Tür in den Raum fliegen zu lassen, doch Wolter schob den Bereitschaftsführer beiseite. Rath sah, wie der Onkel einen <strong>Dietrich</strong> aus der Manteltasche zog und sich am Schloss zu schaffen machte. (<i>Der nasse Fisch</i>, 18-19)',
 ],
-dudeln: [
-	'<strong>dudeln</strong>: &nbsp;drone, hum, tootle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/dudeln"target="target1">dudeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dudeln"target="target2">dudeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/dudeln"target="target3">dudeln</a>   ' ,
+dudeln: [ 
+	'<strong>dudeln</strong>: drone, hum, tootle'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/dudeln"target="target1">dudeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/dudeln"target="target2">dudeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dudeln"target="target3">dudeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=dudeln"target="target4">dudeln</a>',
 	'<u>Der nasse Fisch</u>',
-	'Wolter postierte den Witzbold vor dem Eingang zum Hinterhaus, mit dem Rest der Truppe stiegen sie so leise wie möglich das schummrige Treppenhaus empor, in das nur wenig Tageslicht fiel. Irgendwo im Haus <strong>dudelte</strong> ein Radio Schlagermusik.  (<i>Der nasse Fisch</i>, 18)' ,
+	'Wolter postierte den Witzbold vor dem Eingang zum Hinterhaus, mit dem Rest der Truppe stiegen sie (<i>Wolter und Rath</i>) so leise wie möglich das schummrige Treppenhaus empor, in das nur wenig Tageslicht fiel. Irgendwo im Haus <strong>dudelte</strong> ein Radio Schlagermusik. (<i>Der nasse Fisch</i>, 18)',
 	'Weiter hinten in der Wohnung hörte man das Durcheinander vieler Stimmen und das Klirren von Gläsern. Ein Plattenspieler <strong>dudelte</strong> Schlager. (<i>Der nasse Fisch</i>, 166)' ,
 	'<u>Märzgefallene</u>',
 	'Sie konnte es nicht ertragen. Seit zehn Uhr <strong>dudelte</strong> das Radio, Karin van Almsick hatte den Apparat eigens von zu Hause mitgebracht. (<i>Märzgefallene</i>, 371)' ,
@@ -3083,40 +3102,51 @@ dezent: [
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
-Diele: [
-	'die <strong>Diele</strong>,-<strong>n</strong>: &nbsp;hall, lobby, entrance; floor, board <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Diele"target="target1">Diele</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/diele"target="target2">Diele</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/diele?q=Diele"target="target3">Diele</a>   ' ,
+Diele: [ 
+	'die <strong>Diele</strong>,-<strong>n</strong>: hall, lobby, entrance; floor, board'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Diele"target="target1">Diele</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Diele"target="target2">Diele</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/diele"target="target3">Diele</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/diele?q=Diele"target="target4">Diele</a>',
 	'<u>Märzgefallene</u>',
 	'Bratenduft zog durch die <strong>Diele</strong>, als Frieda ihm (<i>Rath</i>) die schwere Haustür öffnete. Natürlich, im Hause Rath wurde pünktlich halb eins zu Mittag gespeist, ganz gleich ob Karneval war oder nicht oder ob draußen die Welt unterging. (<i>Märzgefallene</i>,  77)',
 ],
-drall: [
-	'<strong>drall</strong>: &nbsp;buxom, voluptous; hefty, plump <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/drall"target="target1">drall</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/drall"target="target2">drall</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/drall"target="target3">drall</a>       ' ,
+drall: [ 
+	'<strong>drall</strong>: buxom, voluptous; hefty, plump'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/drall"target="target1">drall</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/drall"target="target2">drall</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/drall"target="target3">drall</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/drall"target="target4">drall</a>',
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) aber stand auf einem Balkon an der Rückseite des Rathauses und schunkelte mit Leuten, die er nicht kannte; links eine grell geschminkte, <strong>dralle </strong>Dame mit gelben Strohzöpfen....  (<i>Märzgefallene</i>,  50)',
-	'Rath schielte zu dem verschmierten Gesicht hinüber. Sie sah nicht schlecht aus, soweit er das erkennen konnte. Blond und <strong>drall</strong>, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte?  (<i>Märzgefallene</i>,  72)',
-	'Bertrand aus Brüssel verabschiedete sich und steuerte den nächsten Tisch an, zeigte einer <strong>drallen</strong> Blondine seine elegante Verbeugung und führte sie aufs Parkett. (<i>Märzgefallene</i>,  308)',
+	'Rath schielte zu dem verschmierten Gesicht hinüber. Sie sah nicht schlecht aus, soweit er das erkennen konnte. Blond und <strong>drall</strong>, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte?  (<i>Märzgefallene</i>, 72)',
+	'Bertrand aus Brüssel verabschiedete sich und steuerte den nächsten Tisch an, zeigte einer <strong>drallen</strong> Blondine seine elegante Verbeugung und führte sie aufs Parkett. (<i>Märzgefallene</i>, 308)',
 ],
-Dreigestirn: [
-	'das <strong>Dreigestirn</strong>, -<strong>e</strong>: &nbsp;triumvirate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dreigestirn"target="target1">Dreigestirn</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Dreigestirn"target="target2">Dreigestirn</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Dreigestirn"target="target3">Dreigestirn</a>   ' ,
+Dreigestirn: [ 
+	'das <strong>Dreigestirn</strong>,-<strong>e</strong>: triumvirate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Dreigestirn"target="target1">Dreigestirn</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dreigestirn"target="target2">Dreigestirn</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/dreigestirn"target="target3">Dreigestirn</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dreigestirn"target="target4">Dreigestirn</a>',
 	'<u>Märzgefallene</u>',
+	'<i>Engelbert Rath</i>: "Es geht nicht darum, was du möchtest. Es ist eine Pflicht für uns als Demokraten, Präsenz zu zeigen, gerade in diesen Zeiten. <i>Gereon</i>: "Wer sagt dir, dass ich Demokrat bin?.. Und wer von denen da unten, die uns oben auf dem Balkon sehen, weiß das? Die sehen nur Köpfe, die wichtigsten, die Köln zu bieten hat, inklusive <strong>Dreigestirn</strong>. Ob Demokraten oder nicht, das ist den Leuten doch egal. (<i>Märzgefallene</i>, 39)',
 	'Neben seinem Duzfreund Konrad, der direkt am schnörkelig geschmiedeten Balkongeländer auf die Menschenmenge blickte, stand allerdings auch Engelbert Rath nicht, dieser Platz war dem <strong>Dreigestirn</strong> vorbehalten, das den eigentlich als Karnevalsmuffel bekannten Oberbürgermeister eingerahmt hatte. (<i>Märzgefallene</i>, 49)',
-	'Rath führte seinen Nachbarn mit dem Bärbelchen zusammen, murmelte eine Entschuldigung und schloss sich dem Tross des <strong>Dreigestirns</strong> an.   (<i>Märzgefallene</i>, 50)',
+	'Rath führte seinen Nachbarn mit dem Bärbelchen zusammen, murmelte eine Entschuldigung und schloss sich dem Tross des <strong>Dreigestirns</strong> an. Es ging eine Treppe hinunter, und schon standen sie draußen auf dem Alter Markt.  Während das <strong>Dreigestirn</strong> mit großem Hallo empfangen wurde, konnte Rath sich unauffällig unters Volk mischen. (<i>Märzgefallene</i>, 50)',
 ],
-Druckfahne: [
-	'die <strong>Druckfahne</strong>,-<strong>n</strong>: &nbsp;galley proof <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Druckfahne"target="target1">Druckfahne</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/druckfahne"target="target2">Druckfahne</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Druckfahne"target="target3">Druckfahne</a>   ' ,
+Druckfahne: [ 
+	'die <strong>Druckfahne</strong>,-<strong>n</strong>: galley proof'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Druckfahne"target="target1">Druckfahne</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Druckfahne"target="target2">Druckfahne</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/druckfahne"target="target3">Druckfahne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Druckfahne"target="target4">Druckfahne</a>',
 	'<u>Märzgefallene</u>',
-	'"Herr von Roddeck drückt sich schriftlich besser aus als mündlich", sagte der Verleger und griff in seine Aktentasche. Er zog einen schweren, flexiblen Papierstapel heraus, der mit einer Paketkordel zusammengehalten wurde. "Hier", sagte er und reichte Rath den Stapel, "die <strong>Druckfahnen</strong> von <i>Märzgefallene</i>. Lesen Sie den Roman, und Sie werden alles verstehen." (<i>Märzgefallene</i>, 146)' ,
-	'"Guten Morgen", sagte er (<i>Gereon</i>), als er das Esszimmer betrat, und drückte ihr (<i>Charly</i>) einen Kuss auf die Wange, bevor er sich zu ihr an den fertig gedeckten Frühstückstisch setzte.... "Spät geworden, gestern", sagte sie.... "Überstunden", sagte er und zuckte die Achseln. "Was denn für Überstunden?", fragte Charly.... Bevor er antworten konnte, fuhr Charly fort: "Bist du unter die Lektoren gegangen? Oder veröffentlichst du deine Kriegserinnerungen unter einem Pseudonym?" Offensichtlich hatte sie die <strong>Druckfahne</strong> auf dem Wohnzimmertisch entdeckt.  (<i>Märzgefallene</i>, 175-76)',
+	'"Herr von Roddeck drückt sich schriftlich besser aus als mündlich", sagte der Verleger und griff in seine Aktentasche. Er zog einen schweren, flexiblen Papierstapel heraus, der mit einer Paketkordel zusammengehalten wurde. "Hier", sagte er und reichte Rath den Stapel, "die <strong>Druckfahnen</strong> von <i>Märzgefallene</i>. Lesen Sie den Roman, und Sie werden alles verstehen." (<i>Märzgefallene</i>, 146)',
+	'"Guten Morgen", sagte er (<i>Gereon</i>), als er das Esszimmer betrat, und drückte ihr (<i>Charly</i>) einen Kuss auf die Wange, bevor er sich zu ihr an den fertig gedeckten Frühstückstisch setzte.... "Spät geworden, gestern", sagte sie.... "Überstunden", sagte er und zuckte die Achseln. "Was denn für Überstunden?", fragte Charly.... Bevor er antworten konnte, fuhr Charly fort: "Bist du unter die Lektoren gegangen? Oder veröffentlichst du deine Kriegserinnerungen unter einem Pseudonym?" Offensichtlich hatte sie die <strong>Druckfahne</strong> auf dem Wohnzimmertisch entdeckt. (<i>Märzgefallene</i>, 175-76)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'drunter und drüber gehen': [
-	'<strong>drunter und drüber gehen</strong>: &nbsp;go haywire, be in chaos <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/es%20geht%20drunter%20und%20dr%C3%BCber"target="target1">drunter und drüber gehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/drunter%20und%20dr%C3%BCber%20gehen"target="target2">drunter und drüber gehen</a> &nbsp;&nbsp;<a href="https://glosbe.com/de/en/drunter%20und%20dr%C3%BCber%20gehen"target="target3">drunter und drüber gehen</a>    ' ,
+'drunter und drüber gehen': [ 
+	'<strong>drunter und drüber gehen</strong>: go haywire, be in chaos'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/es%20geht%20drunter%20und%20dr%C3%BCber"target="target1">drunter und drüber gehen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=drunter+und+dr%C3%BCber+gehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">drunter und drüber gehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/drunter-und-drueber"target="target3">drunter und drüber gehen</a> &nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/drunter+und+dr%C3%BCber"target="target4">drunter und drüber gehen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath schaute nachdenklich aus dem Fenster. Vor zehn Jahren, nach dem Krieg, auch da was es <strong>drunter und drüber gegangen</strong> auf Deutschlands Straßen. (<i>Der nasse Fisch</i>, 56)',
 	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Gibt es irgendwo eine zentrale Liste, auf der alle derzeitigen Gefangenen von Polizei und Hilfspolizei aufgeführt sind?" <i>Zientek</i>: "Wenn die SA nicht so schlampig arbeiten würde, könnte es die vielleicht geben. Aber bei denen rutscht immer mal wieder ein Gefangener durch, der nirgends auftaucht. In deren Gefängnissen <strong>geht’s drunter und drüber</strong>." (<i>Märzgefallene</i>, 217)' ,
+	'<i>Rath</i>: "Gibt es irgendwo eine zentrale Liste, auf der alle derzeitigen Gefangenen von Polizei und Hilfspolizei aufgeführt sind?" <i>Zientek</i>: "Wenn die SA nicht so schlampig arbeiten würde, könnte es die vielleicht geben. Aber bei denen rutscht immer mal wieder ein Gefangener durch, der nirgends auftaucht. In deren Gefängnissen <strong>geht’s drunter und drüber</strong>." (<i>Märzgefallene</i>, 217)',
 	'<i>Paul</i>: "Adenauer\'s letzte Wahlkampfrede musste ausfallen. Gegen die Hakenkreuzfahne auf seinem Rathaus konnte er auch schon nichts mehr machen. Seit der Reichstagswahl <strong>geht\'s hier drunter und drüber</strong>." (<i>Märzgefallene</i>, 301)',
-	'Engelbert Rath sah aus, als habe er nicht viel geschlafen. Er beachtete seinen Sohn kaum, begrüßte ihn kurz, ...und verschwand wieder in seinem Arbeitszimmer. "Du musst Vater entschuldigen", sagte Erika Rath. "Seit einigen Tagen <strong>geht hier alles drunter und drüber</strong>."  (<i>Märzgefallene</i>, 309)' ,
+	'Engelbert Rath sah aus, als habe er nicht viel geschlafen. Er beachtete seinen Sohn kaum, begrüßte ihn kurz, ...und verschwand wieder in seinem Arbeitszimmer. "Du musst Vater entschuldigen", sagte Erika Rath. "Seit einigen Tagen <strong>geht hier alles drunter und drüber</strong>." (<i>Märzgefallene</i>, 309)',
 ],
 dumpf: [
 	'<strong>dumpf</strong>: &nbsp;dull, numb; &nbsp;sullen, apathetic; &nbsp;moldy, musty <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/dumpf"target="target1">dumpf</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dumpf"target="target2">dumpf</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/dumpf"target="target3">dumpf</a>    ',
@@ -4610,14 +4640,15 @@ giften: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geruest#Ger%C3%BCst"target="target3">Gerüst</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einr%C3%BCsten"target="target4">einrüsten</a>',
 	'<u>Der nasse Fisch</u>',
 	'Das neue Kaufhas sollte dem biederen Hermannplatz einen Hauch von New York verleihen. Für diesen Sommer war die Einweihung geplant, jetzt aber war da nur ein riesiges Bau<strong>gerüst</strong> zu sehen, flankiert von Lastenaufzügen und Kränen.  (<i>Der nasse Fisch</i>, 22)' ,
-	'Er (<i>Wilhelm zwo, der Pornokaiser</i>) machte kehrt und verschwand hinter dem Stah<strong>gerüst</strong> des Aufzugs - und dann sah Rath ihn an den Stahstreben nach oben klettern, flink wie eine Ratte.... Rath überlegte nicht lange, er musste hinterher. Unmöglich auf demselben Weg.... Rath entschied sich für das <strong>Gerüst</strong> und schwang sich auf die nächstbeste Leiter.    (<i>Der nasse Fisch</i>, 24)' ,
-	'In der siebten Etage hörte das <strong>Gerüst</strong> auf, höher war das Hauptgebäude nicht. Der Lastenaufzug aber stand am Nordturm, der einem abgebrochenen Wolkenkratzer glich, und dessen <strong>Gerüst</strong> führte noch ein paar Etagen höher hinauf. (<i>Der nasse Fisch</i>, 24)' ,
-	'Er (<i>Rath</i>) musste ein paar Meter über schwankende Bohlen laufen.... Das nächste <strong>Gerüst</strong>, die nächsten Leitern, und die Kletterei ging weiter.... Und dann hatte er das Ende des Turm<strong>gerüsts</strong> erreicht.   (<i>Der nasse Fisch</i>, 24)' ,
+	'Er (<i>Wilhelm zwo, der Pornokaiser</i>) machte kehrt und verschwand hinter dem Stah<strong>gerüst</strong> des Aufzugs - und dann sah Rath ihn an den Stahstreben nach oben klettern, flink wie eine Ratte.... Rath überlegte nicht lange, er musste hinterher. Unmöglich auf demselben Weg.... Rath entschied sich für das <strong>Gerüst</strong> und schwang sich auf die nächstbeste Leiter.  (<i>Der nasse Fisch</i>, 24)',
+	'In der siebten Etage hörte das <strong>Gerüst</strong> auf, höher war das Hauptgebäude nicht. Der Lastenaufzug aber stand am Nordturm, der einem abgebrochenen Wolkenkratzer glich, und dessen <strong>Gerüst</strong> führte noch ein paar Etagen höher hinauf. (<i>Der nasse Fisch</i>, 24)',
+	'Er (<i>Rath</i>) musste ein paar Meter über schwankende Bohlen laufen.... Das nächste <strong>Gerüst</strong>, die nächsten Leitern, und die Kletterei ging weiter.... Und dann hatte er das Ende des Turm<strong>gerüsts</strong> erreicht.   (<i>Der nasse Fisch</i>, 24)',
 	'Er (<i>Wolter</i>) kettete den Mann (<i>den Pornokaiser</i>) mit Handschellen ans <strong>Gerüst</strong> und sammelte dessen Pistole auf.  (<i>Der nasse Fisch</i>, 27)' ,
 	'Der falsche Kaiser hatte geplaudert wie ein Radio. Noch auf dem <strong>Gerüst</strong> hatten sie ihn ausgequetscht, bevor sie ihn laufen ließen.... Rath war klar, dass die Nummer auf dem <strong>Gerüst</strong> auch eine Lektion hatte sein sollen, eine Lektion für den Neuen aus der Rheinprovinz.  (<i>Der nasse Fisch</i>, 29)' ,
 	'<i>Rath träumt</i>: Rath hetzte nach oben, seine Höhenangst vergessend. Plötzlich war das Haus von einem Bau<strong>gerüst</strong> umgeben, über Leitern musste er weiterklettern.  (<i>Der nasse Fisch</i>, 36)' ,
+	'Erst Brunos Gewaltausbruch auf dem Karstadt<strong>gerüst</strong>, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <strong>in die Mangel nehmen</strong> können. (<i>Der nasse Fisch</i>, 102)' ,
 	'Rath hatte seinen Eltern nicht gewinkt, als der Zug sich in Bewegung setzte, stumm hatte er gesehen, wie sich der Bahnsteig mit den winkenden Menchen entfernte, bis sich das stählerne <strong>Gerüst</strong> der Hohenzollernbrücke in sein Blickfeld schob. (<i>Der nasse Fisch</i>, 103)' ,
-	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der Bude haben", sagte er und deutete auf ein <strong>Gerüst</strong> an der Längswand, "die Arbeiten haben schon begonnen."     (<i>Der nasse Fisch</i>, 134-35)',
+	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der Bude haben", sagte er und deutete auf ein <strong>Gerüst</strong> an der Längswand, "die Arbeiten haben schon begonnen." (<i>Der nasse Fisch</i>, 134-35)',
 	'<u>Märzgefallene</u>',
 	'...der Mann hatte ihn (<i>Rath</i>) in die erste Etage geführt, in eine Art Salon, und ihn gebeten zu warten. Seitdem stand Rath hier, rauchte und schaute hinaus in den beginnenden Tag. Nach Norden hin versperrte ein moderner, noch <strong>eingerüsteter</strong> Neubau die Sicht, direkt vor dem Haus Heinen aber war das Rheinpanorama unverbaut. (<i>Märzgefallene</i>, 283)',
 	'<u>Lunapark</u>',

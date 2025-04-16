@@ -5,22 +5,22 @@ const d = [
    'dazwischenfunken', // dazwischenfunken: *  
    'Deckel',   // Deckel: *
    'deichseln', // deichseln:  * 
-   'dezent',   // dezent: 
-   'Diele',   //Diele:  
-   'Dietrich',  //Dietrich: 
+   'dezent',   // dezent: *
+   'Diele',   // Diele:  *
+   'Dietrich',  // Dietrich: *
    'dösen, eindösen',  // *  duplicated
-   'drall',    //drall: 
-   'drängeln (sich)',  // 
-   'draufhaben',  //draufhaben: 
-   'Dreh'  ,    //Dreh: 
-   'Dreigestirn',  //Dreigestirn: 
-   'Dreistigkeit, dreist',  // 
-   'drosseln',  //drosseln: 
-   'Druckfahne',   //Druckfahne: 
-   'drucksen',    //drucksen: 
-   'drunter und drüber gehen',
+   'drall',    // drall:  *
+   'drängeln (sich)',  // *
+   'draufhaben',  // draufhaben: *
+   'Dreh',    // Dreh: *
+   'Dreigestirn',  // Dreigestirn: * 
+   'Dreistigkeit, dreist',  // *
+   'drosseln',  // drosseln: *
+   'Druckfahne', // Druckfahne: *
+   'drucksen',   // drucksen: *
+   'drunter und drüber gehen', // *
    /*'den Hintern plattsitzen', */
-   'dudeln',   //dudeln: 
+   'dudeln',   // dudeln: *
    'dumpf',    //dumpf: 
    'Dunst, Dunstkreis',  //
    'durch den Wind sein',  // 

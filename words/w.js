@@ -29,6 +29,7 @@ const w = [
    'wimmeln, Gewimmel',  // *  duplicated
    'wimmern' , // wimmern: *
    'Wimper',   // Wimper: *
+   'Wind (durch den W. sein)', // * duplicated
    'winden, gewunden',  // * duplicated
    'Wink mit dem Zaunpfahl' , // * duplicated
    'Winkel' ,  // Winkel: *
@@ -41,6 +42,7 @@ const w = [
    'Wohl bekomm\'s!', // *
    'Wohlgefallen (sich in W. auflösen)', // *
    'wölben',  // wölben: *
+   'Wolf (durch den W. drehen)', // * duplicated
    'wuchern',  // wuchern: *
    'wuchten',  // wuchten: *
    'wühlen' ,  // wühlen: *

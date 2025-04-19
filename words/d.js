@@ -21,15 +21,15 @@ const d = [
    'drunter und drüber gehen', // *
    /*'den Hintern plattsitzen', */
    'dudeln',   // dudeln: *
-   'dumpf',    //dumpf: 
-   'Dunst, Dunstkreis',  //
-   'durch den Wind sein',  // 
-   'durch den Wolf drehen',  //  
+   'dumpf',    // dumpf: *
+   'Dunst, Dunstkreis',  // *
+   'durch den Wind sein', // * duplicated
+   'durch den Wolf drehen',  // *  duplicated 
    'durch die Mangel drehen', // * duplicated
-   'durchdrehen',    //durchdrehen: 
-   'durchkämmen',    //durchkämmen: 
-   'durchmogeln (sich)',  // 
-   'durchnässen',  //  durchnässen:
+   'durchdrehen',  // durchdrehen: *
+   'durchkämmen',  // durchkämmen: *
+   'durchmogeln (sich)',  // *
+   'durchnässen',  //  durchnässen: *
 ];
 
 export default d;

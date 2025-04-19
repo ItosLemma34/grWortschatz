@@ -75,14 +75,14 @@ const b = [
     'bücken (sich)',  // *
     'buddeln, ausbuddeln',  // 
     'Bude, Büdchen',  // 
-    'Bügel',         //Bügel: 
-    'bugsieren',   //bugsieren: 
-    'buhlen',   // buhlen: 
-    'bullig',  //bullig: 
-    'bumsen',  //bumsen: 
-    'Bursche',  //Bursche: 
+    'Bügel', // Bügel: *
+    'bugsieren', // bugsieren: *
+    'buhlen',   // buhlen: *
+    'bullig',  // bullig: *
+    'bumsen',  // bumsen: *
+    'Bursche',  // Bursche: *
     'Busch, Gebüsch', // * duplicated
-    'bützen',   //bützen: 
+    'bützen',  // bützen:  *
 ];
 
 export default b;

@@ -74,6 +74,7 @@ const v = [
    'versickern',  // versickern:  *
    'versiegen',   // versiegen:  * 
    'verstauen',  // verstauen:  *
+   'versteifen (sich)', // 'versteifen (sich)'  *
    'Verstellung',  // Verstellung: *  combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  *
    'verstohlen',   // verstohlen:  *

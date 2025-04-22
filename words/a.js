@@ -130,7 +130,7 @@ const a = [
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
 	'ausbaldowern', // ausbaldowern:  *
-	'ausbuddeln', // ausbuddeln:  *   pair with "einbuddeln" if found
+	'ausbuddeln, buddeln', //  * duplicated;   also pair with "einbuddeln" if found
 	'ausbüxen',    //ausbüxen:  
 	'Ausdünstung',  //Ausdünstung:  
 	'Ausfallstraße',   //Ausfallstraße:  
@@ -143,7 +143,8 @@ const a = [
 	'ausräuchern', // ausräuchern: * 
 	'Ausreißer',    //Ausreißer:  
 	'ausreizen',  // ausreizen: *
-	'ausrücken',    //ausrücken:  
+	'ausrücken',    //ausrücken:
+	'aussägen, sägen', // *  duplicated  
 	'Ausschachtung',  // Ausschachtung:
 	'ausscheren',   //ausscheren:  
 	'ausschlachten', //ausschlachten:  

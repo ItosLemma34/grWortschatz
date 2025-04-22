@@ -5,6 +5,9 @@ copied:
 Der SS-Mann, der neben dem Bettgestell stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan, der ganze Körper, obwohl an Händen und Fußknöcheln fixiert, krampfte sich zusammen, die rostigen Bettfedern quietschten. Der nackte Rücken des Mordverdächtigen war von blutigen Striemen übersät, die Krusten, die sich auf den Spuren der gestrigen Verhöre gebildet hatten, waren abgeplatzt. 333
 Die Uniformierten salutierten, als die Kriminalbeamten aus dem schwarzen Wagen stiegen. Einer blieb stehen, der andere führte die Kriminalen auf die Baustelle. Hier bewegte sich im Moment gar nichts. Links stand ein Bagger ohne Baggerführer. Einige Arbeiter hatten sich auf einem sonnenbeschienenen Bretterstapel niedergelassen, einige standen einfach in der Gegend herum, die Hände in den Taschen. Die meisten aber hatten sich auf der anderen Seite der Baugrube an einer Böschung aus ausgehobenem märkischen Sand versammelt und schauten in die Tiefe. Da unten am Fundament hatten sich ebenfalls Schupos aufgebaut, doch offensichtlich gab es da noch mehr zu sehen als blaue Uniformen. Neben der Baugrube hatten die Männer vom Erkennungsdienst mit ihrer Arbeit begonnen. In einer kleinen Wanne rührten sie Gips an, um Fußspuren damit auszugießen. (<i>Der nasse Fisch</i>, 281)
 Als Jänicke sich mit dieser Nachricht aus der Hannoverschen Straße meldete, hatte Rath sich die Akte aus der Verbrecherkartei längst besorgt und auf dem verwaisten Schreibtisch von Erwin Roeder ausgebreitet. Ironischerweise war es genau das Büro, in das Charly ihn vor ein paar Tagen gezogen hatte, nicht besonders groß, aber mit einem entscheidenden Vorteil gegenüber Raths altem Büro in der Inspektion E: Er hatte es für sich allein. Selbst das Vorzimmer war verwaist, Roeders alte Sekretärin hatte ebenfalls Urlaub genommen.   (<i>Der nasse Fisch</i>, 281)
+Schwartz schob die Brille wieder hoch und klang plötzlich sehr amtlich. »Wann der Tod eingetreten ist, kann ich – wie gesagt – wegen der starken Verunreinigung der offenen Wunde nicht genau eruieren. Erschwert wird eine genaue Aussage zudem durch die Tatsache, dass die Leiche in Beton eingebettet war, was die Verwesung in jedem Fall verzögert haben dürfte.« Der nasse Fisch 297
+
+ rappeln gerappelt voll Lunapark 218
 
 zzz: [
 	'<strong>...</strong>:  '+
@@ -18,14 +21,48 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
-zzz: [
-	'<strong>...</strong>:  '+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
-	'<u>Der nasse Fisch</u>',   
-	'<u>Märzgefallene</u>',    
-	'<u>Lunapark</u>',   
+dingfest: [
+	'jmdn. <strong>dingfest</strong> machen: arrest, take sb. into custody'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/dingfest_machen"target="target1">dingfest machen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20dingfest%20machen"target="target2">dingfest machen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/dingfest"target="target3">dingfest machen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/dingfest"target="target4">dingfest machen</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'Rath sehnte den Tag herbei, an dem Gräf endlich die ominöse Gruppe Wolff <strong>dingfest</strong> würde <strong>machen</strong> können.  (<i>Lunapark</i>, 342),'   
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+'versteifen (sich)': [
+	'<strong>versteifen</strong>: strengthen, tighten, reinforce'+
+	'<br><strong>sich auf etwas versteifen</strong>: become set on sth.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versteifen"target="target1">versteifen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versteifen"target="target2">versteifen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versteifen"target="target3">versteifen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versteifen"target="target4">versteifen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Schwartz hob Wilczeks rechtes Handgelenk hoch und drehte es etwas. <i>zu Rath</i>: "Unser Freund hier hat vor seinem plötzlichen Tod wahrscheinlich auch selber geschossen. Schmauchspuren. Deutet eventuell auf eine Schießerei hin. Aber <strong>versteifen</strong> Sie <strong>sich</strong> nicht darauf, ist nur eine Möglichkeit." (<i>Der nasse Fisch</i>, 296)',   
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
+'sägen, aussägen' : [
+	'<strong>sägen</strong>: saw'+
+	'<br><strong>aussägen</strong>: saw out/open'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/saegen"target="target1">sägen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auss%C3%A4gen"target="target2">aussägen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/saegen#s%C3%A4gen"target="target3">sägen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aussagen_2"target="target4">aussägen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'(<i>Doktor</i>) Schwartz hatte die Schädeldecke fein rund <strong>ausgesägt</strong>, um an das Gehirn zu kommen. Na, das ging ja. Wenigstens hatte er Rath das Geräusch der Knochensäge nicht zugemutet, das hatte er immer am schlimmsten empfunden... (<i>Der nasse Fisch</i>, 294)',  
+	'"Den schriftlichen Befund bekommen Sie (<i>Rath</i>) morgen", sagte (<i>Doktor</i>) Schwartz und deckte den <strong>aufgesägten</strong> Wilczek wieder zu. (<i>Der nasse Fisch</i>, 297)',  
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
+'aussägen, sägen' : [
+	'<strong>sägen</strong>: saw'+
+	'<br><strong>aussägen</strong>: saw out'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/saegen"target="target1">sägen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auss%C3%A4gen"target="target2">aussägen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/saegen#s%C3%A4gen"target="target3">sägen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aussagen_2"target="target4">aussägen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'(<i>Doktor</i>) Schwartz hatte die Schädeldecke fein rund <strong>ausgesägt</strong>, um an das Gehirn zu kommen. Na, das ging ja. Wenigstens hatte er Rath das Geräusch der Knochensäge nicht zugemutet, das hatte er immer am schlimmsten empfunden... (<i>Der nasse Fisch</i>, 294)',  
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Gauner: [
 	'der <strong>Gauner</strong>,-: crook, hustler, racketeer, grifter'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gauner"target="target1">Gauner</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gauner"target="target2">Gauner</a>'+
@@ -35,13 +72,30 @@ Gauner: [
 //	'<u>Märzgefallene</u>',    
 //	'<u>Lunapark</u>',   
 ],
-ausbuddeln: [
-	'<strong>ausbuddeln</strong>: dig sth. up'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausbuddeln"target="target1">ausbuddeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausbuddeln"target="target2">ausbuddeln</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausbuddeln"target="target3">ausbuddeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ausbuddeln"target="target4">ausbuddeln</a>',
+'ausbuddeln, buddeln': [
+	'<strong>buddeln</strong>: dig'+
+	'<br><strong>ausbuddeln</strong>: dig sth. up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/buddeln"target="target1">buddeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausbuddeln"target="target2">ausbuddeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buddeln"target="target3">buddeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausbuddeln"target="target4">ausbuddeln</a>',
 	'<u>Der nasse Fisch</u>',  
 	'Das Gesicht des Toten trat trotz der Betonspuren nun schon deutlich hervor, aber der Beton hatte der Physiognomie übel mitgespielt, und das fehlende linke Auge tat ein Übriges, um es mehr wie eine Fratze aussehen zu lassen. Doch einer der Blauen, die den Toten <strong>ausgebuddelt</strong> hatten, schien ihn trotz all dieser Entstellungen wiederzuerkennen. (<i>Der nasse Fisch</i>, 286)',
-//	'<u>Märzgefallene</u>',    
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Sie (<i>Grimberg und Thelen</i>) haben zusammen Engel gesucht..." <i>Grimberg</i>: "Ja, obwohl das ziemlich zwecklos war, in diesem riesigen Trümmerfeld zu <strong>buddeln</strong>...."  (<i>Märzgefallene</i>, 279)'  ,
+	'Als Grimberg sich der Baracke näherte, in der sein kleines Büro untergebracht war, die ihm gleichzeitig als Lager für alle nicht explosiven Materialien diente, empfing ihn Jüppchen, sein Gehilfe, bereits so aufgeregt, als müsse er einen Zündversager wieder <strong>ausbuddeln</strong>. (<i>Märzgefallene</i>, 549)',
+	'Rath schaute in den Graben hinein und konnte einen rostigen Spaten endecken, der hier vergessen worden war. <i>Charly</i>: "Ob das ein deutscher oder ein französischer Spaten ist?" "Wahrscheinlich ein deutscher", sagte Rath. "Damit haben sie all diese Gräben hier <strong>gebuddelt</strong>." (<i>Märzgefallene</i>, 598)',
+//	'<u>Lunapark</u>',   
+],
+'buddeln, ausbuddeln': [
+	'<strong>buddeln</strong>: dig'+
+	'<br><strong>ausbuddeln</strong>: dig sth. up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/buddeln"target="target1">buddeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausbuddeln"target="target2">ausbuddeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buddeln"target="target3">buddeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausbuddeln"target="target4">ausbuddeln</a>',
+	'<u>Der nasse Fisch</u>',  
+	'Das Gesicht des Toten trat trotz der Betonspuren nun schon deutlich hervor, aber der Beton hatte der Physiognomie übel mitgespielt, und das fehlende linke Auge tat ein Übriges, um es mehr wie eine Fratze aussehen zu lassen. Doch einer der Blauen, die den Toten <strong>ausgebuddelt</strong> hatten, schien ihn trotz all dieser Entstellungen wiederzuerkennen. (<i>Der nasse Fisch</i>, 286)',
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Sie (<i>Grimberg und Thelen</i>) haben zusammen Engel gesucht..." <i>Grimberg</i>: "Ja, obwohl das ziemlich zwecklos war, in diesem riesigen Trümmerfeld zu <strong>buddeln</strong>...."  (<i>Märzgefallene</i>, 279)'  ,
+	'Als Grimberg sich der Baracke näherte, in der sein kleines Büro untergebracht war, die ihm gleichzeitig als Lager für alle nicht explosiven Materialien diente, empfing ihn Jüppchen, sein Gehilfe, bereits so aufgeregt, als müsse er einen Zündversager wieder <strong>ausbuddeln</strong>. (<i>Märzgefallene</i>, 549)',
+	'Rath schaute in den Graben hinein und konnte einen rostigen Spaten endecken, der hier vergessen worden war. <i>Charly</i>: "Ob das ein deutscher oder ein französischer Spaten ist?" "Wahrscheinlich ein deutscher", sagte Rath. "Damit haben sie all diese Gräben hier <strong>gebuddelt</strong>." (<i>Märzgefallene</i>, 598)',
 //	'<u>Lunapark</u>',   
 ],
 prangen: [
@@ -740,11 +794,13 @@ Kladde: [
 	'Er (<i>Lapke</i>) wandte sich den Männer zu, die noch in der Tür zum Hof standen. "Siebold! Holen Sie doch mal die Mappe." Ein groß gewachsener SA-Mann verschwand über den Hof und kehrte gleich darauf mit einer großen <strong>Kladde</strong> zurück, die er Lapke reichte. (<i>Lunapark</i>, 198)',
 ],
 klackern: [
-	'<strong>klackern</strong>: clatter'+
+	'<strong>klackern</strong>: clatter, click'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klackern"target="target1">klackern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klackern"target="target2">klackern</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/klackern"target="target3">klackern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=klackern"target="target4">klackern</a>',
 	'<u>Der nasse Fisch</u>',   
-	'"Charly", hörte er (<i>Gereon</i>) die Frau rufen. "Charly! Telefon für dich. Das Präsidium!" Er hörte Türenschlagen, Schritte, lautes <strong>Klackern</strong>, als der Hörer aufgenommen wurde.  (<i>Der nasse Fisch</i>, 164)',
+	'"Charly", hörte er (<i>Gereon</i>) die Frau rufen. "Charly! Telefon für dich. Das Präsidium!" Er hörte Türenschlagen, Schritte, lautes <strong>Klackern</strong>, als der Hörer aufgenommen wurde. (<i>Der nasse Fisch</i>, 164)',
+	'Die Kugel <strong>klackerte</strong> leise in der Blechdose, als Rath durch die Schauhalle zurück zum Foyer ging. Jedes <strong>Klachern</strong> mahnte ihn an die Zeitbombe, die er da bei sich trug. (<i>Der nasse Fisch</i>, 297)',
+	'Und für die Kugel, die jetzt leise in der Blechdose <strong>klackerte</strong>, würde sich niemals eine Vergleichsprobe finden.. Die ballistische Untersuchung im Fall Wilczek würde also leider Gottes im Sande verlaufen. (<i>Der nasse Fisch</i>, 299)',
 	'<u>Märzgefallene</u>',    
 	'<i>Charly</i>: "Danke, Schwester, ich brauche Sie nicht mehr." Die Oberschwester machte auf dem Absatz kehrt und <strong>klackerte</strong> mit lauten Schritten den Gang hinunter.  (<i>Märzgefallene</i>, 80)',
 	'<u>Lunapark</u>',   
@@ -1786,6 +1842,7 @@ abklappern: [
 	'Rath schaute auf die Uhr. Mitternacht durch, und er war noch kein Stück weitergekommen. Er spürte den langen Tag in seinen Knochen. Die Russenlokale in der Gegend hatte er ebenso systematich wie erfolglos <strong>abgeklappert</strong>. (<i>Der nasse Fisch</i>, 94)',
 	'Rath <strong>klapperte</strong> die Hauseingänge <strong>ab</strong> und überflog die Namen auf den Bewohnertafeln. Ein Kardakow war nicht dabei.... (<i>Der nasse Fisch</i>, 113)',
 	'Doch die Passbüros im Westflügel waren alle verschlossen. Sonntag. Kein Publikumsverkehr. Aber soweit er (<i>Rath</i>) wusste, wurde auch im Passamt sonntags gearbeitet, wenigstens mit kleiner Besetzung. Er <strong>klapperte</strong> alle Türen <strong>ab</strong> und hatte Glück: Als er um die Ecke bog... sah er einen grauhaarigen Beamten.... (<i>Der nasse Fisch</i>, 139)',
+	'Er (<i>Rath</i>) hoffte, die beiden Experten aus der Mordinspektion mit dem <strong>Abkappern</strong> der Wohnblöcke möglichst lange möglichst sinnlos zu beschäftigen. (<i>Der nasse Fisch</i>, 292)',
 	'<u>Märzgefallene</u>',
 	'"Strausberger Straße?", fragte Gereon. Gräf nickte...."Zur schlesischen Olga." <i>Gereon</i>: "Hört sich nicht gerade amtlich an." <i>Gräf</i>: "Die städtischen Asyle habe ich alle schon <strong>abgeklappert</strong>." <i>Gereon</i>: "Also ein privates Asyl." <i>Gräf</i>: "Wenn man so will." (<i>Märzgefallene</i>, 121)',
 	'<i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch...". <i>Levetzow, der Polizeipräsident</i>: "Dann fühlen Sie weiter! <strong>Klappern</strong> Sie sämtliche Personen <strong>ab</strong>, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!...."  (<i>Märzgefallene</i>, 358)',
@@ -2394,10 +2451,12 @@ Banderole: [
 	'<u>Lunapark</u>',
 	'.. Andreas Lange pfiff leise durch die Zähne: rötlich braune Zwanzigmarkscheine, sauber gebündelt mit <strong>Banderole</strong>. Ein wenig abgegriffen, aber zweifellos echt. Lange schätzte die Packen auf mindestens zehntausend Mark, eine schöne Stange Geld für einen einfachen SA-Rottenführer.  (<i>Lunapark</i>, 47)',
 ],
-bockig: [
-	'<strong>bockig</strong>: &nbsp;stubborn, recalcitrant, obstinate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bockig"target="target1">bockig</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/bockig"target="target2">bockig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bockig"target="target3">bockig</a>',
+bockig: [ 
+	'<strong>bockig</strong>: stubborn, recalcitrant, obstinate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bockig"target="target1">bockig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bockig"target="target2">bockig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/bockig"target="target3">bockig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bockig"target="target4">bockig</a>',
 	'<u>Lunapark</u>',
-	'Wie ein Polizist hatte Pfeiffer sich während der Zeit, die er ihn (<i>Andreas Lange</i>) nun begleitete, kein einziges Mal benommen, und auch seine Frage jetzt klang eher wie die eines renitenten Zeugen. Eine Frage, die Lange eigentlich von Irma Höhfeld erwartet hätte, die von Anfang an <strong>bockig</strong> gewesen war, kaum hatten die beiden Männer geklingelt und sich nach ihrem Mieter Horst Kaczmarek erkundigt.  (<i>Lunapark</i>, 43)' ,
+	'Wie ein Polizist hatte Pfeiffer sich während der Zeit, die er ihn (<i>Andreas Lange</i>) nun begleitete, kein einziges Mal benommen, und auch seine Frage jetzt klang eher wie die eines renitenten Zeugen. Eine Frage, die Lange eigentlich von Irma Höhfeld erwartet hätte, die von Anfang an <strong>bockig</strong> gewesen war, kaum hatten die beiden Männer geklingelt und sich nach ihrem Mieter Horst Kaczmarek erkundigt. (<i>Lunapark</i>, 43)',
 	'Fritze schaute sie (<i>Charly</i>) an, mit dem <strong>bockigsten</strong> Gesicht, das sie jemals bei ihm gesehen hatte.  (<i>Lunapark</i>, 77)',
 ],	
 beflissen: [
@@ -2433,11 +2492,14 @@ beredt: [
 	'<u>Märzgefallene</u>',
 	'Eine andere, entscheidendere Frage war, ob diese Geschichte es jemals auf die Seite irgendeiner Zeitung bringen würde. Im Großen und Ganzen stand sie, wenn vieles auch auf Vermutungen beruhte. Aber auch Schweigen konnte <strong>beredt</strong> sein. Wie das der Gerichtsmedizin, die sich nach Weinerts vorsichtiger Anfrage so verschlossen gezeigt hatte wie ein zugenagelter Sarg.    (<i>Märzgefallene</i>, 569)' ,
 ],
-'brummig, Brummigkeit': [
-	'<strong>brummig</strong>: grumpy, grouchy; &nbsp;&nbsp;die <strong>Brummigkeit</strong> (no plural): gruffness, grumpiness <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brummig"target="target1">brummig</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brummigkeit"target="target2">Brummigkeit</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brummig"target="target3">brummig</a> &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/brummigkeit"target="target4">Brummigkeit</a>    ',
+'brummig, Brummigkeit': [ 
+	'<strong>brummig</strong>: grumpy, grouchy'+
+	'<br>das <strong>Brummige</strong>, die <strong>Brummigkeit</strong>: gruffness, grumpiness'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brummig"target="target1">brummig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Brummigkeit"target="target2">Brummigkeit</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brummig"target="target3">brummig</a> &nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=Brummigkeit"target="target4">Brummigkeit</a>',
 	'<u>Der nasse Fisch</u>',
-	'Er (<i>Rath</i>) holte das Bild von Boris aus der Tasche... Böhm schaute noch eine Spur <strong>brummiger</strong> drein. "Schön", sagte er schließlich, "aber meine Freude hält sich in Grenzen, wenn Sie dieses Foto nur mit sich herumtragen, ohne dass ich auch etwas von Ihnen höre. Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!"  (<i>Der nasse Fisch</i>, 180)' ,
-	'<i>Gereon</i>: "Mögen Sie Ihren Chef?" <i>Charly</i>: "Böhm?" Sie zuckte die Achseln. "Was heißt mögen? Er ist jedenfalls längst nicht so <strong>brummig</strong>, wie er immer tut. (<i>Der nasse Fisch</i>, 187)' ,
+	'Er (<i>Rath</i>) holte das Bild von Boris aus der Tasche... Böhm schaute noch eine Spur <strong>brummiger</strong> drein. "Schön", sagte er schließlich, "aber meine Freude hält sich in Grenzen, wenn Sie dieses Foto nur mit sich herumtragen, ohne dass ich auch etwas von Ihnen höre. Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!" (<i>Der nasse Fisch</i>, 180)',
+	'<i>Gereon</i>: "Mögen Sie Ihren Chef?" <i>Charly</i>: "Böhm?" Sie zuckte die Achseln. "Was heißt mögen? Er ist jedenfalls längst nicht so <strong>brummig</strong>, wie er immer tut. (<i>Der nasse Fisch</i>, 187)',
 	'<u>Märzgefallene</u>', 
 	'Der stets korrekte und noch mehr auf Korrektheit pochende Böhm war offensichtlich mit seinem Verhalten auch mal angeeckt. Vielleicht würde das ihren (<i>Charlys</i>) Helden ein klein wenig vom Sockel stoßen. Rath hatte ohnehin nie verstanden warum Charly so große Stücke auf den <strong>brummigen</strong> Oberkommissar hielt.  (<i>Märzgefallene</i>, 129)  ',
 	'"Ist das eigentlich eine Spinne, die da aus dem Kelch krabbelt?", fragte Charly plötzlich in die Stille hinein und zeigte auf das Heiligenbild an der Wand hinter dem Pastor. "Der heilige Norbert", beeilte Rath sich zu erklären.... "Unser Pfarrpatron", sagte Pastor Warszawski. In seiner <strong>Brummigkeit</strong> hatte er Rath schon immer an Wilhelm Böhm errinnert. <i>Charly</i>: "Und was hat es mit der Spinne da auf sich?" "Das erkär ich dir zu Hause", sagte Rath. Warszawski lachte. Und mit dem Lachen fiel das <strong>Brummige</strong> von ihm ab.    (<i>Märzgefallene</i>, 382)' ,
@@ -2448,16 +2510,18 @@ berappen: [
 	'Morgens war hier (im <i>Haus Vaterland</i>) nicht viel los. Wenigstens musste Rath um diese Uhrzeit noch keinen Eintritt <strong>berappen</strong>, um den Komplex überhaupt betreten zu dürfen. Abends war das hier üblich.   (<i>Der nasse Fisch</i>, 176)' ,
 //	'<u>Märzgefallene</u>',
 ],
-bloßstellen: [
-	'jemanden <strong>bloßstellen</strong>: &nbsp;expose, unmask so.; show so. up, call so.\'s bluff  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bloszstellen"target="target1">bloßstellen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blossstellen"target="target2">bloßstellen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/blo%C3%9Fstellen"target="target3">bloßstellen</a>    ',
+bloßstellen: [ 
+	'jmdn. <strong>bloßstellen</strong>: expose, unmask so.; show so. up, call so.\'s bluff'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bloszstellen"target="target1">bloßstellen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/blo%C3%9Fstellen"target="target2">bloßstellen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blossstellen"target="target3">bloßstellen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=blo%C3%9Fstellen"target="target4">bloßstellen</a>',
 //	'<u>Der nasse Fisch</u>', 
 	'<u>Märzgefallene</u>',
-	'"Aber Sie (<i>Rath</i>) haben recht", fuhr Böhm fort, "Sie sollten unter keinen Umständen riskieren, den Polizeipräsidenten <strong>bloßzustellen</strong>. So etwas war früher schon nicht empfehlenswert, aber heutzutage, so fürchte ich, kann es Sie mehr als nur Ihre Stelle kosten."  (<i>Märzgefallene</i>, 493)' ,
-	'"Manche Leute merken gar nicht, was sie so anrichten." Rath musste an Böhms Worte denken. Welche Folgen es heutzutage nach sich ziehen konnte, den Polizeipräsidenten <strong>bloßzustellen</strong>. (<i>Märzgefallene</i>, 508)' ,
-	'...es lag auch in Raths eigenstem Interesse, nicht publik werden zu lassen, dass es Heinrich Wosniak war, der an der Köpenicker Straße ums Leben gekommen war. Und die erschreckendste Erkenntnis: Er war tatsächlich ein Angsthase. Gereon Rath wagte es nicht den Polizeipräsidenten <strong>bloßzustellen</strong>.   (<i>Märzgefallene</i>, 510)' ,
-	'Gräf, der als Ermittlungsleiter wie immer ein wenig überfordert wirkte, vor allem wenn er so viele Aufgaben an so viele Männer zu verteilen hatte, bekam Rückendeckung von Gennat. Der Budda mischte sich ein, allerdings ohne Gräf damit <strong>bloßzustellen</strong>.... (<i>Märzgefallene</i>, 511)' ,
-	'Gereon zuckte die Achseln. "Jedenfalls hat die Leiche aus der Spree eine Vorhaut. Und Engel wurde im Dezember achtzehnhundertdreiundachzig, acht Tage nach seiner Geburt, beschnitten... Und die Gerichtsmedizin hält das unter der Decke, um den Polizeipräsident nicht <strong>bloßzustellen</strong>."  (<i>Märzgefallene</i>, 531)' ,
-	'<i>Weinert</i>: "Glaube mir, Gereon, wenn dein Polizeipräsident wissen will, von wem ich die Information habe, mit denen ich ihn <strong>bloßstelle</strong>, dann kriegt er das auch heraus." (<i>Märzgefallene</i>, 541)' ,
+	'"Aber Sie (<i>Rath</i>) haben recht", fuhr Böhm fort, "Sie sollten unter keinen Umständen riskieren, den Polizeipräsidenten <strong>bloßzustellen</strong>. So etwas war früher schon nicht empfehlenswert, aber heutzutage, so fürchte ich, kann es Sie mehr als nur Ihre Stelle kosten." (<i>Märzgefallene</i>, 493)',
+	'"Manche Leute merken gar nicht, was sie so anrichten." Rath musste an Böhms Worte denken. Welche Folgen es heutzutage nach sich ziehen konnte, den Polizeipräsidenten <strong>bloßzustellen</strong>. (<i>Märzgefallene</i>, 508)',
+	'...es lag auch in Raths eigenstem Interesse, nicht publik werden zu lassen, dass es Heinrich Wosniak war, der an der Köpenicker Straße ums Leben gekommen war. Und die erschreckendste Erkenntnis: Er war tatsächlich ein Angsthase. Gereon Rath wagte es nicht den Polizeipräsidenten <strong>bloßzustellen</strong>. (<i>Märzgefallene</i>, 510)',
+	'Gräf, der als Ermittlungsleiter wie immer ein wenig überfordert wirkte, vor allem wenn er so viele Aufgaben an so viele Männer zu verteilen hatte, bekam Rückendeckung von Gennat. Der Budda mischte sich ein, allerdings ohne Gräf damit <strong>bloßzustellen</strong>.... (<i>Märzgefallene</i>, 511)',
+	'Gereon zuckte die Achseln. "Jedenfalls hat die Leiche aus der Spree eine Vorhaut. Und Engel wurde im Dezember achtzehnhundertdreiundachzig, acht Tage nach seiner Geburt, beschnitten... Und die Gerichtsmedizin hält das unter der Decke, um den Polizeipräsident nicht <strong>bloßzustellen</strong>." (<i>Märzgefallene</i>, 531)',
+	'<i>Weinert</i>: "Glaube mir, Gereon, wenn dein Polizeipräsident wissen will, von wem ich die Information habe, mit denen ich ihn <strong>bloßstelle</strong>, dann kriegt er das auch heraus." (<i>Märzgefallene</i>, 541)',
 ],
 bullig: [ 
 	'<strong>bullig</strong>: brawny, burly'+
@@ -2487,44 +2551,67 @@ beikommen: [
 	'<u>Märzgefallene</u>',
 	'An der Saaltür (<i>im Hotel Adlon</i>) hatten sie Rath nicht hineinlassen wollen, bis er seine Dienstmarke zeigte. "Ach, Ihre Kollegen sind schon da. Dort hinten neben dem Podium." Und tatsächlich <strong>standen sich</strong> dort Reinhold Gräf, Kommissaranwärter Steinke und ein paar andere Zivilbeamte der Inspektionen A und H <strong>die Beine in den Bauch</strong>.  (<i>Märzgefallene</i>, 475-76)' ,
 ],	
-blinzeln: [
-	'<strong>blinzeln</strong>: &nbsp;blink, wink, squint  &nbsp;<strong>anblinzeln</strong>: squint, wink at <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/blinzeln"target="target1">blinzeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blinzeln"target="target2">blinzeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/blinzeln"target="target3">blinzeln</a>    ',
-//	'<u>Der nasse Fisch</u>', 
+blinzeln: [ 
+	'<strong>blinzeln</strong>: blink, wink, squint'+
+	'<br><strong>anblinzeln</strong>: squint, wink at'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/blinzeln"target="target1">blinzeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/blinzeln"target="target2">blinzeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blinzeln"target="target3">blinzeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=blinzeln"target="target4">blinzeln</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Das Letzte, an das er (<i>Rath</i>) sich erinnern konnte, war der Moment, in dem sie (<i>die Witwe Behnke</i>) ihm das Du angeboten hatte, nachdem sie die Rumflasche geleert hatten... Und danach? Fragen, die er allesamt nicht beantworten konnte. Die einzige Antwort war seine Zimmerwirtin, die neben ihm im Bett lag und gerade ihren üppigen Körper in den Morgen reckte. Sie <strong>blinzelte</strong> kurz in den Tag, dann war auch sie hellwach. (<i>Der nasse Fisch</i>, 44)',
+	'Lange konnte Rath noch nicht geschlafen haben, als das Telefon ihn aus dunklen Träumen zurück in die Wirklichkeit klingelte. Er <strong>blinzelte</strong> aus verklebten Augen und tastete nach dem Hörer. (<i>Der nasse Fisch</i>, 226)',
+	'"Wenn das ein Verhör wäre, dann müssten wir <i>dein</i> Gesicht anstrahlen und nicht meines", meinte Wolter und <strong>blinzelte</strong>. Er schien Rath direkt in die Augen zu schauen, obwohl er die in der Dunkelheit und geblendet von einer Taschenlampe beim besten Willen nicht sehen konnte. (<i>Der nasse Fisch</i>, 251)',
+	'Der Arbeiter begrüßte sie mit einem Nicken, als er sie erreicht hatte.. Er musste gegen die Sonne <strong>blinzeln</strong>, als er zunächst Czerwinski und dann Rath anschaute. (<i>Der nasse Fisch</i>, 281)',
 	'<u>Märzgefallene</u>',
 	'Vom Sofa war ein leises Gähnen zu hören, und er (<i>Rath</i>) drehte sich um. Zwei Augen <strong>blinzelten</strong> aus einem verschlafenen Gesicht. (<i>Märzgefallene</i>, 73)' ,
-	'Und sie waren lange gefahren, so lange, dass das Blut aus seinen Kopfwunden Zeit hatte, mit dem groben Leinenstoff zu verkleben, so dass alle Wunden gleich wieder aufrissen, als sie ihm (<i>Leo</i>)...den Sack mit einem brutalen Ruck vom Kopf zogen, und er in das funzelige Licht einer 40-Watt-Glühbirne <strong>blinzelte</strong>. (<i>Märzgefallene</i>, 108)' ,
-	'"Die kommen wohl nich", sagte er (<i>Fritze</i>). "Deine Freunde." Hannah antwortete nicht. Er legte den Kopf wieder so schief wie ein Hündchen und <strong>blinzelte</strong> sie <strong>an</strong>. "Wat machen wir\'n jetze?" "Was weiß ich?", fuhr sie ihn an, "bin ich deine Mutter?" (<i>Märzgefallene</i>, 175)' ,
-	'Leo <strong>blinzelte</strong>, als sie ins Tageslicht kamen. Sie brachten ihn die Treppe hoch.... (<i>Märzgefallene</i>, 73)' ,
-	'Sie (<i>Hannah</i>) wusch Gesicht und Hals und Hände, mehr ging nicht, dann kehrte sie... zurück in die warme Gaststube, die schon am frühen Morgen verräuchert war, weil so gut wie jeder hier zu rauchen schien. Sie <strong>blinzelte</strong> gegen den Zigarettenqualm <strong>an</strong>, und dann entdeckte sie am Tresen... ein bekanntes Gesicht. (<i>Märzgefallene</i>, 321)' ,
-	'"Da biste ja", sagte er (<i>Felix</i>) und grinste. "Wollte dir jerade wecken. Willsten Kaffee?" Sie (<i>Hannah</i>) nickte und <strong>blinzelte</strong> in die Sonne, lächelte ihn an.  (<i>Märzgefallene</i>, 392)' ,
-	'Der Bettler stierte durch seine dunkle Brille, und Rath konnte von der Seite sehen, wie die Augenlider beim <strong>Blinzeln</strong> zuckten.  (<i>Märzgefallene</i>, 473)' ,
+	'Und sie waren lange gefahren, so lange, dass das Blut aus seinen Kopfwunden Zeit hatte, mit dem groben Leinenstoff zu verkleben, so dass alle Wunden gleich wieder aufrissen, als sie ihm (<i>Leo</i>)...den Sack mit einem brutalen Ruck vom Kopf zogen, und er in das funzelige Licht einer 40-Watt-Glühbirne <strong>blinzelte</strong>. (<i>Märzgefallene</i>, 108)',
+	'"Die kommen wohl nich", sagte er (<i>Fritze</i>). "Deine Freunde." Hannah antwortete nicht. Er legte den Kopf wieder so schief wie ein Hündchen und <strong>blinzelte</strong> sie <strong>an</strong>. "Wat machen wir\'n jetze?" "Was weiß ich?", fuhr sie ihn an, "bin ich deine Mutter?" (<i>Märzgefallene</i>, 175)',
+	'Leo <strong>blinzelte</strong>, als sie ins Tageslicht kamen. Sie brachten ihn die Treppe hoch.... (<i>Märzgefallene</i>, 220)',
+	'Sie (<i>Hannah</i>) wusch Gesicht und Hals und Hände, mehr ging nicht, dann kehrte sie... zurück in die warme Gaststube, die schon am frühen Morgen verräuchert war, weil so gut wie jeder hier zu rauchen schien. Sie <strong>blinzelte</strong> gegen den Zigarettenqualm <strong>an</strong>, und dann entdeckte sie am Tresen... ein bekanntes Gesicht. (<i>Märzgefallene</i>, 321)',
+	'"Da biste ja", sagte er (<i>Felix</i>) und grinste. "Wollte dir jerade wecken. Willsten Kaffee?" Sie (<i>Hannah</i>) nickte und <strong>blinzelte</strong> in die Sonne, lächelte ihn an.  (<i>Märzgefallene</i>, 392)',
+	'Der Bettler stierte durch seine dunkle Brille, und Rath konnte von der Seite sehen, wie die Augenlider beim <strong>Blinzeln</strong> zuckten.  (<i>Märzgefallene</i>, 473)',
+	'<u>Lunapark</u>',
+	'Er (<i>Gereon</i>) hasste es, bei Greta Overbeck zu klingeln, aber er überwand sich. Es dauerte eine Weile, ehe Charlys Freundin an die Tür kam, aber dann stand sie schießlich vor ihm, mit verwuschelten Haaren in einem seidenen Morgenmantel.. Sie <strong>blinzelte</strong> ihn aus verschlafenen Augen an, in gleichem Maße neugierig und angriffslustig. (<i>Lunapark</i>, 179-80)',
 ],
-Brüstung: [
-	'die <strong>Brüstung</strong>,-<strong>en</strong>: &nbsp;railing, balustrade, parapet <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bruestung"target="target1">Brüstung</a><br>English Definitions:&nbsp; &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brustung"target="target2">Brüstung</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brustung?q=Br%C3%BCstung"target="target3">Brüstung</a>    ',
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+Brüstung: [ 
+	'die <strong>Brüstung</strong>,-<strong>en</strong>: railing, balustrade, parapet'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Br%C3%BCstung"target="target1">Brüstung</a>&nbsp;&nbsp;<a href="https://pixabay.com/de/images/search/br%C3%BCstungen/"target="target2">Brüstung</a>'+  
+	'<br>English Definitions: &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brustung"target="target3">Brüstung</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brustung?q=Br%C3%BCstung"target="target4">Brüstung</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath stand im ersten Stock (im <i>Café Berlin</i>) an der <strong>Brüstung</strong> und schaute auf die Tische im Erdgeschoss.   (<i>Der nasse Fisch</i>, 120)' ,
 	'Der Kellner wies ihnen (<i>Gereon und Charly</i>) einen Tisch direkt an der <strong>Brüstung</strong> zu.  (<i>Der nasse Fisch</i>, 183)' ,
 ],	
-'Bude, Büdchen': [
-	'die <strong>Bude</strong>,-<strong>n</strong>: &nbsp;hut, cabin, booth, kiosk; digs, lodgings &nbsp;&nbsp;<i>diminutive</i>: das <strong>Büdchen</strong> <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Bude" target="target1" >Bude</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bude?q=Bude" target="target2">Bude</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bude"target="target3">Bude</a> ',
+'Bude, Büdchen': [ 
+	'die <strong>Bude</strong>,-<strong>n</strong>: hut, cabin, booth, kiosk; digs, lodgings'+
+	'<br><i>diminutive</i>: das <strong>Büdchen</strong>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bude"target="target1">Bude</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bude"target="target2">Bude</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bude"target="target3">Bude</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bude"target="target4">Bude</a>',
 	'<u>Der nasse Fisch</u>',
-	'Hinter dem Kiosk begann das Betriebsgelände des Anhalter Güterbahnhofs, wahrscheinlich versorgte das <strong>Büdchen</strong> vor allem die Bahnarbeiter mit Zigaretten, Zeitungen und Bier.  (<i>Der nasse Fisch</i>, 113)' ,
-	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der <strong>Bude</strong> haben", sagte er und deutete auf ein Gerüst an der Längswand, "die Arbeiten haben schon begonnen."     (<i>Der nasse Fisch</i>, 134-35)',
+	'Hinter dem Kiosk begann das Betriebsgelände des Anhalter Güterbahnhofs, wahrscheinlich versorgte das <strong>Büdchen</strong> vor allem die Bahnarbeiter mit Zigaretten, Zeitungen und Bier. (<i>Der nasse Fisch</i>, 113)',
+	'"Man muss die Leute im Blick haben. Gibt immer mal wieder einen, der was klauen will. \'Nem Kollegen von mir am Schlesischen Bahnhof ham sie sogar mal die <strong>Bude</strong> überm Kopf angezündet. Während der drinstand. Benzin uff die Zeitungen, Streichholz und auf Wiedersehen..." (<i>Der nasse Fisch</i>, 114-15)',
+	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der <strong>Bude</strong> haben", sagte er und deutete auf ein Gerüst an der Längswand, "die Arbeiten haben schon begonnen." (<i>Der nasse Fisch</i>, 134-35)',
+	'"Ganz schön was los hier, was?" Bruno stand neben ihm, wie was dem Nichts gewachsen. Rath nickte. "Nicht so langweilig wie Zörgiebels Versammlungen." "Ja, endlich mal Leben in der <strong>Bude</strong>. (<i>Der nasse Fisch</i>, 255)',
 	'<u>Märzgefallene</u>',
-	'<i>Charly</i>: "Ich kann nicht aus dem Haus. Wenn mich jemand sieht." Dazu war Charly doch zu sehr Preußin. Krankheitsbeding am Arbeitsplatz fehlen, dann aber munter durch die Stadt spazieren, das war für sie unvorstellbar. Rath hatte sich das Wochenende mit ihr anders vorgestellt. "Willst du etwa den ganzen Tag in der <strong>Bude</strong> hocken?"  (<i>Märzgefallene</i>, 388-89)' ,
-	'..na ja, dachte Rath, seine Eltern konnte man sich eben nicht aussuchen, ebensowenig seine Kinder. Normalerweise. Charly suchte sich sogar ihre Kinder aus. Wobei sie mit Fritze keine schlechte Wahl getroffen hatte, musste man sagen. Der Junge brachte Leben in die <strong>Bude</strong>. Manchmal etwas zuviel Leben.  (<i>Märzgefallene</i>, 585)' ,
+	'<i>Charly</i>: "Ich kann nicht aus dem Haus. Wenn mich jemand sieht." Dazu war Charly doch zu sehr Preußin. Krankheitsbeding am Arbeitsplatz fehlen, dann aber munter durch die Stadt spazieren, das war für sie unvorstellbar. Rath hatte sich das Wochenende mit ihr anders vorgestellt. "Willst du etwa den ganzen Tag in der <strong>Bude</strong> hocken?"  (<i>Märzgefallene</i>, 388-89)',
+	'..na ja, dachte Rath, seine Eltern konnte man sich eben nicht aussuchen, ebensowenig seine Kinder. Normalerweise. Charly suchte sich sogar ihre Kinder aus. Wobei sie mit Fritze keine schlechte Wahl getroffen hatte, musste man sagen. Der Junge brachte Leben in die <strong>Bude</strong>. Manchmal etwas zuviel Leben.  (<i>Märzgefallene</i>, 585)',
+	'<u>Lunapark</u>',
+	'Zigarettendunst schlug ihm (<i>Rath</i>) entgegen, so viel, dass ihm die Augen tränten. Die <strong>Bude</strong> war gerappelt voll, ein parr Braunhemden standen am Tresen und tranken... (<i>Lunapark</i>, 218)',
 ],	
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 betupfen: [
 	'<strong>betupfen</strong>: &nbsp;dab, swab, sprinkle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/betupfen"target="target1">betupfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/betupfen"target="target2">betupfen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/betupfen"target="target3">betupfen</a>    ',
 //	'<u>Der nasse Fisch</u>', 
 	'<u>Märzgefallene</u>',
 	'Am Rande des Abgrunds aber stand eine alte Buche mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell <strong>betupft</strong> war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte. (<i>Märzgefallene</i>, 440)' ,
 ],
-Buche: [
-	'die <strong>Buche</strong>,-<strong>n</strong>: &nbsp;beech tree <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buche"target="target1">Buche</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Buche"target="target2">Buche</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/buche?q=Buche"target="target3">Buche</a>    ',
+Buche: [ 
+	'die <strong>Buche</strong>,-<strong>n</strong>: beech tree'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buche"target="target1">Buche</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Buche"target="target2">Buche</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Buche"target="target3">Buche</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/buche?q=Buche"target="target4">Buche</a>',
 	'<u>Märzgefallene</u>',
-	'Am Rande des Abgrunds aber stand eine alte <strong>Buche</strong> mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell betupft war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte... Hinter einem Felsen, von dem aus er den Weg und die <strong>Buche</strong> gut im Blick hatte, fand er ein passendes Versteck. (<i>Märzgefallene</i>, 440)' ,
-	'Einen Moment fürchtete Rath, sie (<i>Eva Heinen</i>) werde an der <strong>Buche</strong> vorübergehen und wirklich nur ein Stückchen in den Wald, dann aber blieb sie genau vor dem Baum mit den vielen kleinen Kieselsteinen stehen. (<i>Märzgefallene</i>, 441)' ,
+	'Am Rande des Abgrunds aber stand eine alte <strong>Buche</strong> mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell betupft war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte... Hinter einem Felsen, von dem aus er den Weg und die <strong>Buche</strong> gut im Blick hatte, fand er ein passendes Versteck. (<i>Märzgefallene</i>, 440)',
+	'Einen Moment fürchtete Rath, sie (<i>Eva Heinen</i>) werde an der <strong>Buche</strong> vorübergehen und wirklich nur ein Stückchen in den Wald, dann aber blieb sie genau vor dem Baum mit den vielen kleinen Kieselsteinen stehen. (<i>Märzgefallene</i>, 441)',
 ],	
 Beule: [ 
 	'die <strong>Beule</strong>,-<strong>n</strong>: dent, blister, bump, bruise'+
@@ -2563,10 +2650,12 @@ ballern: [
 	'<u>Märzgefallene</u>', 
 	'Er (<i>Leo</i>) hatte sich einfach auch den Namen dieses Kommissars gemerkt. Gereon Rath. Hatte ihn auf die Liste gesetzt, die nur in seinem Kopf existierte. War in den Garten gegangen und hatte auf Bierflaschen <strong>geballert</strong>.  (<i>Märzgefallene</i>, 388)' ,
 ],	
-Büchse: [
-	'die <strong>Büchse</strong>,-<strong>n</strong>: &nbsp;can, box, case <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buechse"target="target1">Büchse</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buchse_2"target="target2">Büchse</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/B%C3%BCchse"target="target3">Büchse</a>    ',
+Büchse: [ 
+	'die <strong>Büchse</strong>,-<strong>n</strong>: box, can, case'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buechse"target="target1">Büchse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/B%C3%BCchse"target="target2">Büchse</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buchse_2"target="target3">Büchse</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=B%C3%BCchse"target="target4">Büchse</a>',
 	'<u>Märzgefallene</u>',
-	'Im weitläufigen Garten dieser Villa, in der Marlow ihm Unterschlupf gewährt hatte, ließ Leo seine Wut regelmäßig an Blech<strong>büchsen</strong> und leeren Bierflaschen aus.   (<i>Märzgefallene</i>, 386)' ,
+	'Im weitläufigen Garten dieser Villa, in der Marlow ihm Unterschlupf gewährt hatte, ließ Leo seine Wut regelmäßig an Blech<strong>büchsen</strong> und leeren Bierflaschen aus. (<i>Märzgefallene</i>, 386)',
 ],	
 beichten: [
 	'<strong>beichten</strong>: confess (sth. to so.) <br>die <strong>Beichte</strong>,-<strong>n</strong>: confession, shrift ' +
@@ -2580,19 +2669,23 @@ beichten: [
 ],	 
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
-Bodensatz: [
-	'der <strong>Bodensatz</strong>, die <strong>Bodensätze</strong>: &nbsp;deposit, sediment, residue; dregs	<br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bodensatz"target="target1">Bodensatz</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Bodensatz"target="target2">Bodensatz</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Bodensatz"target="target3">Bodensatz</a>    ',
+Bodensatz: [ 
+	'der <strong>Bodensatz</strong>, die -<strong>sätze</strong>: deposit, sediment, residue; dregs'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bodensatz"target="target1">Bodensatz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bodensatz"target="target2">Bodensatz</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Bodensatz"target="target3">Bodensatz</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bodensatz"target="target4">Bodensatz</a>',
 	'<u>Der nasse Fisch</u>',
 	'Nachdem die Pornographie in den vergangenen Jahren stark angewachsen war, in immer größerer Zahl schmutzige Hefte auf der Straße oder unter der Ladentheke verkauft wurden, hatte auch der <strong>Bodensatz</strong> der Berliner Filmindustrie die Verdienstmöglichkeiten erkannt, die so genannte Aufklärungsfilme boten.   (<i>Der nasse Fisch</i>, 31)' ,
 ],	
-Bohle: [
-	'die <strong>Bohle</strong>,-<strong>n</strong>: &nbsp;board, floorboard, plank <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bohle"target="target1">Bohle</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/bohle"target="target2">Bohle</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bohle?q=Bohle"target="target3">Bohle</a>    ',
+Bohle: [ 
+	'die <strong>Bohle</strong>,-<strong>n</strong>: board, floorboard, plank'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bohle"target="target1">Bohle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bohle"target="target2">Bohle</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bohle?q=Bohle"target="target3">Bohle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bohle"target="target4">Bohle</a>',
 	'<u>Der nasse Fisch</u>',
-	'Oben in den Aufzugstreben kletterte der Kaiser. In sechzig Metern Höhe. Rath versuchte, nicht daran zu denken, und sah starr geradeaus. Er musste ein paar Meter über schwankende <strong>Bohlen</strong> laufen. (<i>Der nasse Fisch</i>, 24)' ,
-	'Die Waffe in der Hand zitterte leicht. Rath sah, dass es ein kleines Kaliber sein musste, aber sie standen nicht weit voneinander entfernt, für einen Polizistenmord würde es im Zweifelsfall reichen. <i>Wilhelm zwo, der Pornokaiser</i>: "Du willst mir nur einlullen, Scheißbulle! Bis dein Kumpel dir helfen kommt!" Der Kokser wusste gar nicht, wie recht er hatte: Rath sah, wie Wolter langsam hinter dem Mann auf die <strong>Bohlen</strong> kletterte.   (<i>Der nasse Fisch</i>, 26)' ,
-	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holz<strong>bohlen</strong>. (<i>Der nasse Fisch</i>, 26)' ,
-	'Wolter verpasste ihm (<i>dem Pornokaiser</i>) eine derart kräftige Ohrfeige, dass die Nase zu bluten begann. Erschrocken schaute der Mann den Polizisten an, der sich direkt vor ihn auf die <strong>Bohlen</strong> gehockt hatte und ihm das Projektil vor die Nase hielt. (<i>Der nasse Fisch</i>, 27)' ,
-	'Doch auch der Alexanderplatz war eine einzige Baustelle. Schwere Dampframmen trieben den U-Bahn-Bau voran und hatten den Platz fast komplett ausgehöhlt. Der Verkehr wurde über dicke Holz<strong>bohlen</strong> geleitet, Bauzäune bildeten enge Gassen, durch die sich die Fußgängermassen schoben.  (<i>Der nasse Fisch</i>, 33)' ,
+	'Oben in den Aufzugstreben kletterte der Kaiser. In sechzig Metern Höhe. Rath versuchte, nicht daran zu denken, und sah starr geradeaus. Er musste ein paar Meter über schwankende <strong>Bohlen</strong> laufen. (<i>Der nasse Fisch</i>, 24)',
+	'Die Waffe in der Hand zitterte leicht. Rath sah, dass es ein kleines Kaliber sein musste, aber sie standen nicht weit voneinander entfernt, für einen Polizistenmord würde es im Zweifelsfall reichen. <i>Wilhelm zwo, der Pornokaiser</i>: "Du willst mir nur einlullen, Scheißbulle! Bis dein Kumpel dir helfen kommt!" Der Kokser wusste gar nicht, wie recht er hatte: Rath sah, wie Wolter langsam hinter dem Mann auf die <strong>Bohlen</strong> kletterte.  (<i>Der nasse Fisch</i>, 26)',
+	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holz<strong>bohlen</strong>. (<i>Der nasse Fisch</i>, 26)',
+	'Wolter verpasste ihm (<i>dem Pornokaiser</i>) eine derart kräftige Ohrfeige, dass die Nase zu bluten begann. Erschrocken schaute der Mann den Polizisten an, der sich direkt vor ihn auf die <strong>Bohlen</strong> gehockt hatte und ihm das Projektil vor die Nase hielt. (<i>Der nasse Fisch</i>, 27)',
+	'Doch auch der Alexanderplatz war eine einzige Baustelle. Schwere Dampframmen trieben den U-Bahn-Bau voran und hatten den Platz fast komplett ausgehöhlt. Der Verkehr wurde über dicke Holz<strong>bohlen</strong> geleitet, Bauzäune bildeten enge Gassen, durch die sich die Fußgängermassen schoben.  (<i>Der nasse Fisch</i>, 33)',
 ],	
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2633,11 +2726,13 @@ Blase: [
 	'<u>Der nasse Fisch</u>',
 	'Rath untersuchte die braunen Scherben. Vom Weiß der Pfütze war nichts geblieben, nur ein paar <strong>Bläschen</strong>, die auf einer Flüssigkeit trieben. (<i>Der nasse Fisch</i>, 215)' ,
 ],	
-Blöße: [
-	'die <strong>Blöße</strong>,-<strong>n</strong>: &nbsp;bareness, nakedness; clearing <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bloesze"target="target1">Blöße</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blosse"target="target2">Blöße</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/blosse?q=Bl%C3%B6%C3%9Fe"target="target3">Blöße</a>    ',
+Blöße: [ 
+	'die <strong>Blöße</strong>,-<strong>n</strong>: bareness, nakedness; clearing'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bloesze"target="target1">Blöße</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bl%C3%B6%C3%9Fe"target="target2">Blöße</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blosse"target="target3">Blöße</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bl%C3%B6%C3%9Fe"target="target4">Blöße</a>',
 	'<u>Der nasse Fisch</u>',
-	'Alle vier Frauen im Atelier waren kaum oder gar nicht bekleidet. Die Beamtinnen warfen ihnen Wolldecken über die <strong>Blöße</strong>, dann traten die Uniformierten in Aktion. Die ersten Handschellen klickten. König faselte irgendetwas von Erotik und Freiheit der Kunst, verstummte aber, als Wolter ihn anschnauzte.    (<i>Der nasse Fisch</i>, 20)' ,
-	'Sie (<i>die Witwe Behnke</i>) stand auf. Inzwishen konnte sie offensichtlich damit leben, dass er (<i>Rath</i>) sie nackt sah, sie tat nichts, um ihre <strong>Blöße</strong> zu verdecken.'
+	'Alle vier Frauen im Atelier waren kaum oder gar nicht bekleidet. Die Beamtinnen warfen ihnen Wolldecken über die <strong>Blöße</strong>, dann traten die Uniformierten in Aktion. Die ersten Handschellen klickten. König faselte irgendetwas von Erotik und Freiheit der Kunst, verstummte aber, als Wolter ihn anschnauzte. (<i>Der nasse Fisch</i>, 20)',
+	'Sie (<i>die Witwe Behnke</i>) stand auf. Inzwishen konnte sie offensichtlich damit leben, dass er (<i>Rath</i>) sie nackt sah, sie tat nichts, um ihre <strong>Blöße</strong> zu verdecken. (<i>Der nasse Fisch</i>, 46)',
 ],	
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2678,12 +2773,19 @@ bieder: [
 	'Daneben wirkte die Wahlwerbung der Stahlhelmer eher <strong>bieder</strong> und einfallslos: <i>Wählt Liste 5: Hugenberg, Papen, Seldte. Kampffront Schwarz-Weiß-Rot</i>.  (<i>Märzgefallene</i>, 200)' ,
 	'Charly hatte recht: Er (<i>von Roddeck</i>) hatte von den Morden an Wosniak und Meifert durchaus profitiert, der Tod seiner alten Kameraden hatte die Aufmerksamkeit der Öffentlichkeit auf den Leutnant und seinen Roman gelenkt. Schon bald dürfte sich das auch in barer Münze auszahlen, so <strong>bieder</strong> der Roman auch geschrieben sein mochte. (<i>Märzgefallene</i>, 327)' ,
 ],
-'Bogen (den B. raushaben)': [
-	'der <strong>Bogen</strong>, die <strong>Bögen</strong>: bend, curve, arc, arch &nbsp; <strong>den Bogen raushaben</strong>: get the hang of it <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bogen"target="target1">Bogen</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/den%20Bogen%20raushaben"target="target2">den Bogen raushaben</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bogen"target="target3">Bogen</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=den+Bogen+raushaben"target="target4">den Bogen raushaben</a>    ',
+'Bogen (den B. raushaben)': [ 
+	'der <strong>Bogen</strong>, die <strong>Bögen</strong>: sheet; curve, arc, arch'+
+	'<br><strong>den Bogen raushaben</strong>: know the ropes, get the hang of it'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bogen"target="target1">Bogen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/den%20Bogen%20raushaben"target="target2">den Bogen raushaben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bogen"target="target3">Bogen</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=den+Bogen+raushaben"target="target4">den Bogen raushaben</a>',
 	'<u>Der nasse Fisch</u>',
-	'Die Stadtbahn<strong>bögen</strong> wurden von ein paar dünnen Sonnenstrahlen beschienen. (<i>Der nasse Fisch</i>, 144)' ,
+	'Die Stadtbahn<strong>bögen</strong> wurden von ein paar dünnen Sonnenstrahlen beschienen. (<i>Der nasse Fisch</i>, 144)',
+	'In der Maschine steckte noch ein <strong>Bogen</strong> Papier. Als Rath näher kam, erkannte er, dass das Blatt fast vollständig beschrieben war. (<i>Der nasse Fisch</i>, 144)',
 	'<u>Märzgefallene</u>',
-	'Hannah hatte <strong>den Bogen</strong> mitterweile ganz gut <strong>raus</strong>, sich alleine in der Stadt durchzuschlagen. Stehlen was besser as Betteln, das hatte sie gelernt. (<i>Märzgefallene</i>, 320)' ,
+	'Hannah hatte <strong>den Bogen</strong> mitterweile ganz gut <strong>raus</strong>, sich alleine in der Stadt durchzuschlagen. Stehlen was besser as Betteln, das hatte sie gelernt. (<i>Märzgefallene</i>, 320)',
+	'Hannah zählte stur weiter. Als sie bei hundertsiebenundachtzig angekommen war, hörte sie Schritte. Nicht aus dem Haus, aus der Gasse, die drüben hinter dem <strong>Bogen</strong> auf die Köpenicker Straße mündete. (<i>Märzgefallene</i>, 398)',
+	'<u>Lunapark</u>',
+	'Schulze verdrehte die Augen und ging zu Boden, denn die beiden SA-Männer hatten ihn losgelassen und machten ihrem Rottenführer Platz, der mit seinen schweren Stiefeln ausholte und gegen Schulzes Kopf trat wie gegen einen Fußball. Die Chauffeurmütze flog in hohem <strong>Bogen</strong> übers Pflaster. (<i>Lunapark</i>, 11)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2804,20 +2906,31 @@ Blaumann: [
 	'<u>Lunapark</u>',
 	'Er (<i>Rath</i>) hatte das Programmheft von <i>Haus Vaterland</i> dabei, in dem Mohammed Husen abgebildet war.. "Finde ich den hier irgendwo?", fragte er den nächtsbesten Arbeiter, der in einem ölverschmierten <strong>Blaumann</strong> über den Hof lief.  (<i>Lunapark</i>, 290)',
  ],
-blendend: [
-	'<strong>blendend</strong>: &nbsp;splendid, magnificent, dazzling <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/blendend"target="target1">blendend</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blendend"target="target2">blendend</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/blendend"target="target3">blendend</a>    ',
+blendend: [ 
+	'<strong>blendend</strong>: splendid, magnificent, dazzling'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/blendend"target="target1">blendend</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/blendend"target="target2">blendend</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blendend"target="target3">blendend</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=blendend"target="target4">blendend</a>',
+	'<u>Der nasse Fisch</u>',
+	'Kriminalrat Werner Lanke schien tatsächlich bester Laune zu sein. "Na, meine Herren", begrüßte er sie preußisch knapp, "läuft ja <strong>blendend</strong>! Wie in den alten Zeiten!" "Jawohl, Herr Kriminalrat." Wolter wusste, was sich gehörte, und machte Meldung. "<i>Aktion Nachtfalke</i> erfolgreich verlaufen." (<i>Der nasse Fisch</i>, 258)',
 	'<u>Märzgefallene</u>',
 	'Kriminalsekretär Zientek erwartete ihn (<i>Rath</i>) bereits. "Waren Sie gar nicht wählen?", fragte Rath, als er seinen Mantel an die Garderobe hängte. "Selbstverständlich", sagte Zientek. Er schien <strong>blendender</strong> Laune. "Zackzack, Kreuz gemacht. Geht doch schnell, so was." (<i>Märzgefallene</i>, 202)',
+	'<u>Lunapark</u>',
+	'Charly hätte die Hausnummer gar nicht kennen müssen, die <strong>blendend</strong> weiße Fassade hob sich so sehr vom schmutzigen Grau und Braun der Umgebung ab, dass sie sofort wusste, welches dieser Häuser vor einer Woche eingerüstet gewesen sein musste. (<i>Lunapark</i>, 113)',
+	'<i>Rath</i>: "Herr Sherer! Vielen Dank für die Einladung." Rath lächelte. Der Grinsemann grinste. "Ich hoffe, Sie amüsieren sich." "<strong>Blendend</strong>. Allein die Musik ist ja schon überaus amüsant."  (<i>Lunapark</i>, 157)',
 ],
-bohnern: [
-	'<strong>bohnern</strong>: &nbsp;wax and polish <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bohnern"target="target1">bohnern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/bohnern"target="target2">bohnern</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/bohnern"target="target3">bohnern</a>    ',
+bohnern: [ 
+	'<strong>bohnern</strong>: wax and polish'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bohnern"target="target1">bohnern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bohnern"target="target2">bohnern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/bohnern"target="target3">bohnern</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/bohnern"target="target4">bohnern</a>',
 	'<u>Märzgefallene</u>',
-	'Sie (<i>Charly</i>) eilte den blank<strong>gebohnerten</strong> Flur entlang, im Bemühen, mit Oberschwester Ingeborg Schritt zu halten. (<i>Märzgefallene</i>,  78)',
+	'Sie (<i>Charly</i>) eilte den blank<strong>gebohnerten</strong> Flur entlang, im Bemühen, mit Oberschwester Ingeborg Schritt zu halten. (<i>Märzgefallene</i>, 78)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
-Bonze: [
-	'der <strong>Bonze</strong>,-<strong>n</strong>: &nbsp;big shot, fat cat, boss <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bonze"target="target1">Bonze</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bonze?q=Bonze"target="target2">Bonze</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Bonze"target="target3">Bonze</a> ',
+Bonze: [ 
+	'der <strong>Bonze</strong>,-<strong>n</strong>: big shot, fat cat, boss'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bonze"target="target1">Bonze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bonze"target="target2">Bonze</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bonze?q=Bonze"target="target3">Bonze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bonze"target="target4">Bonze</a>',
 	'<u>Märzgefallene</u>',
 	'"Ich (<i>Gereon</i>) kann verstehen, dass dir (<i>Engelbert</i>) die aktuellen Entwicklungen nicht behagen. Aber mach es nicht mir zum Vorwurf, wenn dein kölscher Klüngel sich gerade in Wohlgefallen auflöst. Hast du wohl auf die falschen Pferde gesetzt. Wer Karriere machen will, darf heute kein Zentrums<strong>bonze</strong> sein. Wärst du mal besser Nazi geworden." (<i>Märzgefallene</i>, 85)',
 ],
@@ -2854,46 +2967,48 @@ Boulette: [
 	'Aus der Wohnung wehte der Dunst von <strong>Bouletten</strong>, und Charly musste kräftig an der Leine ziehen, um den Hund daran zu hindern, einfach hineinzuspazieren. (<i>Lunapark</i>, 114)',
 	'"Wir schließen gleich", sagte der Mann hinter dem Tresen. <i>Rath</i>: "Nur ein Ortsgespräch. Und packen Sie mir, während ich teleforniere, doch bitte ein paar kalte <strong>Bouletten</strong> ein.".. Rath hob ab. "Das Geheime Staatspolizeiamt bitte", sagte er dem Fräulein vom Amt und sah, wie der Fleischer hinter dem Tresen erbleichte.. Er legte auf. Der Fleischer hatte ihm zwei <strong>Bouletten</strong> eingewickelt. (<i>Lunapark</i>, 140-41)',
 ],
-brandschatzen: [
-	'<strong>brandschatzen</strong>: &nbsp;sack, pillage, plunder <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brandschatzen"target="target1">brandschatzen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/brandschatzen"target="target2">brandschatzen</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/brandschatzen"target="target3">brandschatzen</a>  ' ,
+brandschatzen: [ 
+	'<strong>brandschatzen</strong>: sack, pillage, plunder'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brandschatzen"target="target1">brandschatzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/brandschatzen"target="target2">brandschatzen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brandschatzen"target="target3">brandschatzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=brandschatzen"target="target4">brandschatzen</a>',
 	'<u>Märzgefallene</u>',
-	'<i>Daluege</i>: "Wenn Sie (<i>Böhm</i>) ein besseres Deutschland wollen, dann sollte Ihnen doch daran gelegen sein, dass den kommunistischen <strong>Brandschatzern</strong>, die den Reichstag angezündet haben,...das Handwerk gelegt wird. Stattdessen jedoch verweigern Sie sich der Mitarbeit …" (<i>Märzgefallene</i>,  142)' ,
+	'<i>Daluege</i>: "Wenn Sie (<i>Böhm</i>) ein besseres Deutschland wollen, dann sollte Ihnen doch daran gelegen sein, dass den kommunistischen <strong>Brandschatzern</strong>, die den Reichstag angezündet haben,...das Handwerk gelegt wird. Stattdessen jedoch verweigern Sie sich der Mitarbeit …" (<i>Märzgefallene</i>, 142)',
 ],
-Brause: [
-	'die <strong>Brause</strong>,-<strong>n</strong>: &nbsp;shower, sprinkler; fizzy drink, soda <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brause"target="target1">Brause</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brause"target="target2">Brause</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brause?q=Brause"target="target3">Brause</a> ',
-	'<u>Märzgefallene</u>',
-	'Diesmal tranken sie (<i>Gereon und Hilde</i>) Kaffee. Afri-Cola kam nicht auf den Tisch, obwohl das Lokal die <strong>Brause</strong> führte, wie ein Werbeschild verriet.   (<i>Märzgefallene</i>, 303)' ,
-	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von <strong>Brause</strong>pulver klebten. "Oh!, Haste dir <strong>Brause</strong> gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly auf die Palme gebracht.  (<i>Märzgefallene</i>, 484)' ,
-	'Damit hatte er (<i>Fritze</i>) sich in die Küche getrollt, wo er zwei weitere Tüchen <strong>Brause</strong>pulver ausgepackt hatte.  (<i>Märzgefallene</i>, 484)'  , 
-],
-brausen: [
-	'<strong>brausen</strong>: &nbsp;roar, thunder, boom <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brausen"target="target1">brausen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brausen"target="target2">brausen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brausen"target="target3">brausen</a>   ',
+'brausen, Brause': [ 
+	'<strong>brausen</strong>: roar, boom; race; take a shower'+
+	'<br>die <strong>Brause</strong>,-<strong>n</strong>: shower, sprinkler; fizzy drink, soda'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brausen"target="target1">brausen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Brause"target="target2">Brause</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brausen"target="target3">brausen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Brause"target="target4">Brause</a>',
 	'<u>Märzgefallene</u>',
 	'Er (<i>Weinert</i>) zuckte zusammen, als er das Klirren von Glas hörte und ein unwirkliches <strong>Brausen</strong>.  (<i>Märzgefallene</i>,  56)',
 	'Und dann <strong>brauste</strong> einige Zeit später das Automobil des Hauptmanns heran und holte unseren abziehenden Troß ein. (<i>Märzgefallene</i>, 272)',
+	'Diesmal tranken sie (<i>Gereon und Hilde</i>) Kaffee. Afri-Cola kam nicht auf den Tisch, obwohl das Lokal die <strong>Brause</strong> führte, wie ein Werbeschild verriet. (<i>Märzgefallene</i>, 303)',
+	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von <strong>Brause</strong>pulver klebten. "Oh!, Haste dir <strong>Brause</strong> gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly auf die Palme gebracht. (<i>Märzgefallene</i>, 484)',
+	'Damit hatte er (<i>Fritze</i>) sich in die Küche getrollt, wo er zwei weitere Tüchen <strong>Brause</strong>pulver ausgepackt hatte. (<i>Märzgefallene</i>, 484)', 
+	'<u>Lunapark</u>',
+	'Die Dachgeschosswohnung hatte kein eigenes Bad, deswegen hatte der neue Mieter eines Tages vor Gräfs Tür gestanden, sich als <i>Herr Kötter von oben</i> vorgestellt und gefragt, ob er ab und zu Gräfs <strong>Brause</strong> benützen dürfe, selbstverständlich gegen ein gewisses Entgelt.. So hatte es angefangen, und irgendwann hatte er dem Nachbarn seine Schlüssel gegeben, damit der auch <strong>brausen</strong> konnte, wenn Gräf einmal nicht zuhause war. (<i>Lunapark</i>, 143-44)',
 ],
-//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',    Herr Kötter  
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Brimborium: [
-	'das <strong>Brimborium</strong> (no plural): &nbsp;fuss, to-do <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brimborium"target="target1">Brimborium</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/brimborium"target="target2">Brimborium</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brimborium?q=Brimborium"target="target3">Brimborium</a>    '  ,
+Brimborium: [ 
+	'das <strong>Brimborium</strong>: fuss, to-do'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brimborium"target="target1">Brimborium</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Brimborium"target="target2">Brimborium</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/brimborium?q=Brimborium"target="target3">Brimborium</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/brimborium"target="target4">Brimborium</a>',
 	'<u>Märzgefallene</u>',
-	'Weinert hat geliefert, eine große Geschichte im <i>Tag</i>, die den Fall Wosniak mit jeder Menge nationalem Weltkriegs<strong>brimborium</strong> aufgeladen hatte. Der treue Bursche, der sterben muss, weil sein Leutnant die Wahrheit über einen Hauptmann ans Licht bringen wollte....  (<i>Märzgefallene</i>, 246)' ,
+	'Weinert hat geliefert, eine große Geschichte im <i>Tag</i> (<i>eine Zeitung</i>), die den Fall Wosniak mit jeder Menge nationalem Weltkriegs<strong>brimborium</strong> aufgeladen hatte. Der treue Bursche, der sterben muss, weil sein Leutnant die Wahrheit über einen Hauptmann ans Licht bringen wollte....  (<i>Märzgefallene</i>, 246)',
 ],
-bröckeln: [
-	'<strong>bröckeln</strong>: &nbsp;crumble, disintegrate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/broeckeln"target="target1">bröckeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brockeln"target="target2">bröckeln</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/br%C3%B6ckeln"target="target3">bröckeln</a>   ',
+bröckeln: [ 
+	'<strong>bröckeln</strong>: crumble, disintegrate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/broeckeln"target="target1">bröckeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/br%C3%B6ckeln"target="target2">bröckeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brockeln"target="target3">bröckeln</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/br%C3%B6ckeln"target="target4">bröckeln</a>',
 	'<u>Der nasse Fisch</u>',
-	'Schnucki führte sie (<i>Rath und "den Engel"</i>) in die Posener Straße. Dort steuerte er zielsicher eine heruntergekommene Mietskaserne an. Der Stuck <strong>bröckelte</strong> schon von der Fassade. Keine Neonreklame, keine Schilder, nichts deutete in irgendeiner form auf Nachtleben hin. (<i>Der nasse Fisch</i>,  199)' ,
+	'Schnucki führte sie (<i>Rath und "den Engel"</i>) in die Posener Straße. Dort steuerte er zielsicher eine heruntergekommene Mietskaserne an. Der Stuck <strong>bröckelte</strong> schon von der Fassade. Keine Neonreklame, keine Schilder, nichts deutete in irgendeiner form auf Nachtleben hin. (<i>Der nasse Fisch</i>, 199)',
 	'<u>Märzgefallene</u>',
-	'Der große Engelbert Rath wirkte plötzlich reichlich saft- und kraftlos. Für einen Moment war die Fassade des allmächtigen Kriminaldirektors weg<strong>gebröckelt</strong>.  (<i>Märzgefallene</i>,  36)' ,
-	'Für den winzigen Bruchteil einer Sekunde sah es so aus, als wolle die gesamte Felswand, massiv und solide, um ein paar Meter nach vorn hüpfen in ihrer gesamten, ungeheuren Masse, dann aber brach sie, plöztlich von nichts mehr gehalten, in sich zusammen und <strong>bröckelte</strong> staubend und tosend zu Tal.   (<i>Märzgefallene</i>,  549)' ,
-],
-'buddeln, ausbuddeln': [
-	'<strong>buddeln</strong>: &nbsp;dig, burrow, excavate &nbsp;&nbsp;<strong>ausbuddeln</strong>: dig sth. up <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/buddeln"target="target1">buddeln</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausbuddeln"target="target2">ausbuddeln</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buddeln"target="target3">buddeln</a> &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausbuddeln"target="target4">ausbuddeln</a> ' ,
-	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Sie (<i>Grimberg und Thelen</i>) haben zusammen Engel gesucht..." <i>Grimberg</i>: "Ja, obwohl das ziemlich zwecklos war, in diesem riesigen Trümmerfeld zu <strong>buddeln</strong>...."  (<i>Märzgefallene</i>, 279)'  ,
-	'Als Grimberg sich der Baracke näherte, in der sein kleines Büro untergebracht war, die ihm gleichzeitig als Lager für alle nicht explosiven Materialien diente, empfing ihn Jüppchen, sein Gehilfe, bereits so aufgeregt, als müsse er einen Zündversager wieder <strong>ausbuddeln</strong>.  (<i>Märzgefallene</i>, 549)'  ,
-	'Rath schaute in den Graben hinein und konnte einen rostigen Spaten endecken, der hier vergessen worden war. <i>Charly</i>: "Ob das ein deutscher oder ein französischer Spaten ist?" "Wahrscheinlich ein deutscher", sagte Rath. "Damit haben sie all diese Gräben hier <strong>gebuddelt</strong>."  (<i>Märzgefallene</i>, 598)',
-],
+	'Der große Engelbert Rath wirkte plötzlich reichlich saft- und kraftlos. Für einen Moment war die Fassade des allmächtigen Kriminaldirektors weg<strong>gebröckelt</strong>. (<i>Märzgefallene</i>, 36)',
+	'Für den winzigen Bruchteil einer Sekunde sah es so aus, als wolle die gesamte Felswand, massiv und solide, um ein paar Meter nach vorn hüpfen in ihrer gesamten, ungeheuren Masse, dann aber brach sie, plöztlich von nichts mehr gehalten, in sich zusammen und <strong>bröckelte</strong> staubend und tosend zu Tal. (<i>Märzgefallene</i>, 549)',
+	'<u>Lunapark</u>', 
+	'Die Mietskaserne, in der Helmut Reinhold wohnte, war die einzige, die wirkte, als habe man sie überhaupt jemals angestrichen. Von den Nachbarhäusern <strong>bröckelte</strong> der Stuck; ja, es gab Häuser, von deren Fassadenschmuck kaum noch etwas übrig war... (<i>Lunapark</i>, 99)',
+], 
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Bügel: [ 
 	'der <strong>Bügel</strong>,-: (coat) hanger; clip, clamp'+
@@ -3379,6 +3494,8 @@ eruieren: [
 	'<strong>eruieren</strong>: investigate, trace, find out; elicit'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/eruieren"target="target1">eruieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eruieren"target="target2">eruieren</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/eruieren"target="target3">eruieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eruieren"target="target4">eruieren</a>',
+	'<u>Der nasse Fisch</u>',
+	'(<i>Doktor</i>) Schwartz schob die Brille wieder hoch und klang plötzlich sehr amtlich. "Wann der Tod eingetreten ist, kann ich.. wegen der starken Verunreinigung der offenen Wunde nicht genau <strong>eruieren</strong>. Erschwert wird eine genaue Aussage zudem durch die Tatsache, dass die Leiche in Beton eingebettet war, was die Verwesung in jedem Fall verzögert haben dürfte." (<i>Der nasse Fisch</i>, 297)',
 	'<u>Märzgefallene</u>',
 	'"Sie waren doch schon einmal in Bonn, Kommissar", hatte Gennat besagt (<i>zu Rath</i>), "<strong>eruieren</strong> Sie doch bitte, ob und inwieweit es Geschäftsbeziehungen zwischen dieser Berliner Möbeltischlerei und dem Bonner Möbelhaus gegeben hat." (<i>Märzgefallene</i>, 511)',
 ],
@@ -4469,13 +4586,16 @@ Geräuschkulisse: [
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Gewirr: [
-	'das <strong>Gewirr</strong>,-<strong>e</strong>:  tangle, babble, jumble, confusion'+
+	'das <strong>Gewirr</strong>,-<strong>e</strong>: tangle, babble, jumble, confusion'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewirr"target="target1">Gewirr</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gewirr"target="target2">Gewirr</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gewirr?q=Gewirr"target="target3">Gewirr</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gewirr"target="target4">Gewirr</a>',
 	'<u>Der nasse Fisch</u>',
 	'Heute war Sonntag, die riesige Baustelle verlassen. Nur zwei Menschen bewegten sich in dem <strong>Gewirr</strong> aus Stahl und Holz.  (<i>Der nasse Fisch</i>, 24)',
 	'Mehr als tausend Leute waren bestimmt schon im Saal, in zehn Minuten sollte das Programm beginnen. Das Orchester spielte, war aber durch das Stimmen<strong>gewirr</strong> der Zuschauer, die ihre Plätze suchten, kaum zu hören.  (<i>Der nasse Fisch</i>, 135)',
 	'Er (<i>Gereon</i>) hatte warten müssen.. Und dann wurde er für sein Warten belohnt. Sie (<i>Charly</i>) kam. Mit energischen Schritten stiefelte sie auf die Lücke zwischen den Bauzäunen zu, die die Fußgänger durch das <strong>Gewirr</strong> der Baustellen sicher zum Bahnhof Alexanderplatz leiteten...  (<i>Der nasse Fisch</i>, 268)',
+	'<u>Lunapark</u>',
+	'Rath hatte sich schon häufiger gefragt, ob man den Alex früher, im <strong>Gewirr</strong> der Baustellenzäune, trotz aller Hindernisse nicht scheller und einfacher hatte überqueren können als heute...   (<i>Lunapark</i>, 341)',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
 Grüßaugust: [
 	'der <strong>Grüßaugust</strong>,-<strong>e</strong>: greeter, handshaker; figurehead'+
@@ -4990,7 +5110,7 @@ Gestell: [
 	'<u>Lunapark</u>',
 	'Es sah eigentlich nicht anders aus als in den Verhörräumen am Alex, nur dass in diesem Raum neben dem kleinen Schreibtisch für die Stenotypistin und dem Vernehmungstisch ein metallenes Bett<strong>gestell</strong> stand. Ein nacktes Bett<strong>gestell</strong>, auf dessen Federrost man den Tatverdächtigen geschnallt hatte. (<i>Lunapark</i>, 332-33)',
 	'Der SS-Mann, der neben dem Bett<strong>gestell</strong> stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan... (<i>Lunapark</i>, 333)',
-
+	'Rath trat aus dem Alexanderhaus, in der Hand eine Papiertüte von Aschinger, und hockte sich hin, um Kirie loszubinden. Sieben, acht Hunde warteten vor der gläsernen Eingangstür darauf, abgeholt zu werden. Das eiserne <strong>Gestell</strong>, an das man sie gebunden hatte, erinnerte an einen Fahrradständer.  (<i>Lunapark</i>, 341)',
 ],
 Getümmel: [
 	'das <strong>Getümmel</strong>,-: turmoil, tumult, hustle and bustle'+
@@ -5648,6 +5768,7 @@ heulen: [
 	'Rath legte auf und betrachtete seine Hand. Die zitterte immer noch. Er <strong>hockte sich</strong> in die Telefonzelle und atmete tief aus. Langsam fiel die Anspannung von ihm ab. (<i>Lunapark</i>, 200)',
 	'Er (<i>Rath</i>) drückte seine Zigarette aus und zündete sich die nächste an. Einer der Männer am Tresen, der ihn die ganze Zeit schon schief angesehen hatte, stand von seinem Bar<strong>hocker</strong> auf und kam an Raths Tisch. (<i>Lunapark</i>, 237)',
 	'"Wir haben \'nen Plattfuß", sagte Fritze. "Einer wäre schön", knurrte Rath. Alle vier Reifen waren platt. Der Junge <strong>hockte sich</strong> vor das rechte Vorderrad. "Da war jemand mit \'nem Messer dran", meinte er.  (<i>Lunapark</i>, 279)',
+	'Rath trat aus dem Alexanderhaus, in der Hand eine Papiertüte von Aschinger, und <strong>hockte sich hin</strong>, um Kirie loszubinden. (<i>Lunapark</i>, 341)',
 ],
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>,-<strong>mätze</strong>/<strong>matze</strong>: tiny tot'+
@@ -6094,6 +6215,7 @@ Kabuff: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kabuff"target="target3">Kabuff</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kabuff"target="target4">Kabuff</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'"Overstolz, fünf Sechserpackungen", sagte er (<i>Rath</i>), nachdem er die Gestalt im Dunkel des Bretterverschlags</strong> mit einem kurzen Nicken begrüßt hatte. Der Mann war ziemlich dick und wirkte, als sei er in seinem <strong>Kabuff</strong> festgewachsen. (<i>Der nasse Fisch</i>, 113)' ,
+	'Der Pförtner in seinem <strong>Kabuff</strong> schaute den Kommissar erstaunt an, als der seine Brieftasche aus dem Mantel zog und hineinschaute, sie dann wieder einstekte und zur Pförtnerloge ging. (<i>Der nasse Fisch</i>, 298)' ,
 	'<u>Lunapark</u>',
 	'<i>Hartmann, SA-Pförtner, zu Rath</i>: "<i>Sie</i> hören jetzt mal zu, Meister!" Der Pförtner war aufgestanden in seinem <strong>Kabuff</strong>. "Entweder Sie verlassen augenblicklich das Kasernengelände, oder ich sehe mich gezwungen, Sie entfernen zu lassen." (<i>Lunapark</i>, 274)' ,  
 ],
@@ -6138,9 +6260,10 @@ klammheimlich: [
 kacheln: [
 	'<strong>kacheln</strong>: tile sth. &nbsp;&nbsp;die <strong>Kachel</strong>,-<strong>n</strong>: tile <br><strong>kacheln</strong>: (<i>Umgangssprache</i>): hammer; travel fast' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kacheln"target="target1">kacheln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kacheln#d-1-3-1"target="target2">kacheln</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kacheln"target="target3">kacheln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kacheln"target="target4">kacheln</a> ',
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/kacheln"target="target3">kacheln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kacheln"target="target4">kacheln</a> ',
 	'<u>Der nasse Fisch</u>',
 	'(<i>Doktor</i>) Völcker schien die Ironie in Schwartz\' Worten nicht bemerkt zu haben... Jedenfalls gab er sich mit diesen Worten zufrieden und setzte sich auf eine Holzbank, die an der <strong>gekachelten</strong> Wand stand.  (<i>Der nasse Fisch</i>, 86)',
+	'"Wo ist denn hier eine Toilette?", fragte er (<i>Rath</i>). "Da lang", sagte der der Pförtner und zeigte auf die Schwingtür zur Schauhalle. Kleine Schilder wiesen verschämt den Weg. Als Rath die Tür öffnete, was es still in dem <strong>gekachelten</strong> Raum. (<i>Der nasse Fisch</i>, 298)',
 ],
 'keilen, Keil': [
 	'<strong>keilen</strong>: split, wedge in; fight, scrape <br>der <strong>Keil</strong>,-<strong>e</strong>: wedge, chock' +
@@ -6448,6 +6571,9 @@ Kittel: [
 	'"Noch mehr Maileichen?", fragte (<i>Doktor</i>) Schwartz. Einer der beiden weiß<strong>gekittelen</strong> Männer, die die Bahren schoben, nickte.... "Es sind tote Menschen, über die Sie hier reden, meine Herren!" Die vorwurfsvolle Stimme kam von einem der beiden Männer, die hinter den Weiß<strong>kitteln</strong> den Raum betreten hatten, einem streng wirkenden hageren Mann in einem zerknitterten grauen Mantel. (<i>Der nasse Fisch</i>, 83)',
 	'Der Gerichtsmediziner (<i>Doktor Schwartz</i>) trat ungeduldig von einem Bein aufs andere.... "Ich habe noch viel zu tun heute." Er gab den Weiß<strong>kitteln</strong> einen Wink. "Bringen Sie die beiden Frauen in den Keller....  (<i>Der nasse Fisch</i>, 85)',     
 	'(<i>Doktor</i>) Völcker schien die Ironie in Schwartz\' Worten nicht bemerkt zu haben... Jedenfalls gab er sich mit diesen Worten zufrieden und setzte sich auf eine Holzbank, die an der gekachelten Wand stand. Die beiden Weiß<strong>kittel</strong> verschwanden. Ohne Leichen.  (<i>Der nasse Fisch</i>, 86)',
+	'Rath wurde aus seinen Gedanken gerissen, als die Schwingtür aufgestoßen wurde und Doktor Schwartz mit energischen Schritten und wehendem <strong>Kittel</strong> in den Gang trat.  (<i>Der nasse Fisch</i>, 293)',
+	'Er (<i>Rath</i>) schaute zu, wie Schwartz ans Waschbecken ging und sich gründlich die Hände wusch. Auf seinem weißen <strong>Kittel</strong> waren nur weniger Blutspritzer zu sehen.  (<i>Der nasse Fisch</i>, 294)',
+// <strong>  (<i>Charly</i>)  (<i>Gerr übereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) verstummte, denn die Tür hatte sich mit einem leisen Knarren geöffnet. Eine Pflegerin im gestärkten weißen <strong>Kittel</strong> stand im Türrahmen....  (<i>Märzgefallene</i>, 43)',
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei <strong>Kittel</strong>schürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
@@ -6583,6 +6709,7 @@ klirren: [
 	'Mit ängstlichen Blicken suchten sie (<i>die Bereitschaftspolizisten</i>) die Fenster nach Heckenschützen ab, die Gewehre im Anschlag. Eine kurze Weile blieb es ruhig... Dann ein knatternder Schuss aus einem Karabiner. Eine Fensterscheibe <strong>klirrte</strong> auf das Pflaster.  (<i>Der nasse Fisch</i>, 70)',
 	'Weiter hinten in der Wohnung hörte man das Durcheinander vieler Stimmen und das <strong>Klirren</strong> von Gläsern. Ein Plattenspieler dudelte Schlager. (<i>Der nasse Fisch</i>, 166)',
 	'Hinter sich hörte er (<i>Rath</i>) ein sattes <strong>Klirren</strong>, eine kleine, nasse Explosion. Instinktive drehte er den Kopf. Kein Mensch zu sehen, nur eine weiße, zischende Pfüze auf dem Pflaster und rotbraun leuchtende Scherben. (<i>Der nasse Fisch</i>, 213)',
+	'<i>Doktor Schwartz</i>: "Tag, Herr Kommissar", sagte der Mediziner und gab ihm die Hand. "Na, dann wollen wir mal". Der Schlüsselbund <strong>klirrte</strong> laut, als er aufschloss. Rath folgte ihm in den Raum, in dem die Leiche bereits auf dem Marmortisch lag, noch mit einem Laken verdeckt. (<i>Der nasse Fisch</i>, 294)',
 	'<u>Märzgefallene</u>',
 	'Böhm rührte in seinem Kaffee, obwohl die Tasse leer war....Mit einem <strong>Klirren</strong> landete der Kaffeelöffel auf der Untertasse.  (<i>Märzgefallene</i>, 33)',
 	'Teetassen <strong>klirrten</strong> auf dem Tablett, das Frieda gerade in den Salon brachte, und Rath fühlte sich nicht wohl in seiner Haut.  (<i>Märzgefallene</i>, 34)',
@@ -7215,6 +7342,8 @@ Laken: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laken"target="target3">Laken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laken"target="target4">Laken</a>',
 	'<u>Der nasse Fisch</u>',
 	'Als Doktor Schwartz das <strong>Laken</strong> zurückwarf, starrte die Nervensäge (<i>Rath</i>) auf die zermatschten Hände des Toten.  (<i>Der nasse Fisch</i>, 86)',
+	'<i>Doktor Schwartz</i>: "Tag, Herr Kommissar", sagte der Mediziner und gab ihm die Hand. "Na, dann wollen wir mal". Der Schlüsselbund klirrte laut, als er aufschloss. Rath folgte ihm in den Raum, in dem die Leiche bereits auf dem Marmortisch lag, noch mit einem <strong>Laken</strong> verdeckt. (<i>Der nasse Fisch</i>, 294)',
+	'Der Rechtsmediziner zog das <strong>Laken</strong> bis unter den Bauchnabel zurück. Frische Schnitte auf Brust und Bauch des Toten wurden sichtbar, notdürftig wieder zugenäht. "Den Zustand der lebenswichtigen Organe habe ich untersucht.. Nichts Ungewöhnlices.." Er zog das <strong>Laken</strong> wieder hoch. (<i>Der nasse Fisch</i>, 296)',
 	'<u>Märzgefallene</u>',
 	'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen Pappschildchen baumelten. Der Doktor setzte seine Brille auf, überprüfte die Zettel gewissenhaft and lüftete schießlich das <b>Laken</b> der vorletzten Bahre. (<i>Märzgefallene</i>, 267)',
 	'Sie (<i>Charly und Gereon</i>) hatten eine Wäscheleine mitgebracht und ein Bett<strong>laken</strong>, in das sie die Leiche legten. Obwohl das Blut längst geronnen sein musste, färbte sich das weiße Baumwolltuch an einigen Stellen ein. (<i>Märzgefallene</i>, 418)',
@@ -7261,15 +7390,16 @@ Leier: [
 	'"Hat Kronberg (<i>der ED-Chef</i>) Sie mal wieder nicht rangelassen, Doktor", sagte Rath also nur. <i>Doktor Karthaus, Gerichtsmediziner</i>: "Die übliche <strong>Leier</strong>. Durfte bislang nur einen kurzen Blick auf die Leiche werfen..." (<i>Lunapark</i>, 26)',
 ],
 leiern: [
-	'<strong>leiern</strong>: drone on; turn a crank; wheedle sth. out of sb. ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/leiern"target="target1">leiern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/leiern"target="target2">leiern</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=leiern"target="target3">leiern</a>&nbsp;&nbsp;<a href="https://www.woerter.net/verbs/?w=leiern"target="target4">leiern</a>',
+	'<strong>leiern</strong>: drone on, recite monotonously; turn a crank; wheedle sth. out of sb.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/leiern"target="target1">leiern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/leiern"target="target2">leiern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/leiern"target="target3">leiern</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/leiern"target="target4">leiern</a>',
 	'<u>Der nasse Fisch</u>',
-	'Das Ende des Gewölbegangs markierte eine Stahltür, hinter der das <strong>Leiern</strong> einer Orgel zu hören war.   (<i>Der nasse Fisch</i>, 244)' ,	
+	'Das Ende des Gewölbegangs markierte eine Stahltür, hinter der das <strong>Leiern</strong> einer Orgel zu hören war.   (<i>Der nasse Fisch</i>, 244)',	
+	'"Und wann ist unser Mann gestorben?", fragte Rath. Er <strong>leierte</strong> seine Routinefragen hinunter wie früher das Vaterunser in der Kirche. Automatisch - ohne auf die eigenen Worte zu hören.  (<i>Der nasse Fisch</i>, 296)',	
 	'<u>Märzgefallene</u>',
-	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel stibitzt oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie <strong>geleiert</strong> hatte.  (<i>Märzgefallene</i>, 252-53)' +
-	'<br><i>Note: &nbsp;The idiomatic meaning of "leiern" as "wheedle" is not easily found online. ChatGPT renders this sentence as: ' +
-	'"At times, it was nice not to have to roam through the city alone; sometimes, Fritze had even managed to coax a smile out of her (Hannah) with his cheeky way of swiping an apple or <strong>wheedling</strong> a mark out of someone with a fur collar."</i> ',
+	'In manchen Stunden war es schön, nicht allein durch die Stadt stromern zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel stibitzt oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie <strong>geleiert</strong> hatte.  (<i>Märzgefallene</i>, 252-53)'+
+	'<br><i>Note: &nbsp;The idiomatic meaning of "leiern" as "wheedle" is not easily found online. ChatGPT renders this sentence as:'+
+	'"At times, it was nice not to have to roam through the city alone; sometimes, Fritze had even managed to coax a smile out of her (Hannah) with his cheeky way of swiping an apple or <strong>wheedling</strong> a mark out of someone with a fur collar."</i>',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -7451,14 +7581,16 @@ Melone: [
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Meute: [
-	'die <strong>Meute</strong>,-<strong>n</strong>: mob, pack, rabble' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Meute"target="target1">Meute</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Meute"target="target2">Meute</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/meute"target="target3">Meute</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Meute"target="target4">Meute</a> ' ,
+	'die <strong>Meute</strong>,-<strong>n</strong>: mob, pack, rabble'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Meute"target="target1">Meute</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Meute"target="target2">Meute</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/meute"target="target3">Meute</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Meute"target="target4">Meute</a>',
 	'<u>Der nasse Fisch</u>',
-	'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine <strong>Meute</strong> Hunde wartete.  (<i>Der nasse Fisch</i>, 242)' ,
+	'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine <strong>Meute</strong> Hunde wartete. (<i>Der nasse Fisch</i>, 242)',
 	'<u>Märzgefallene</u>',
-	'"Sie wollen auch alle zu Herrn Rubens (<i>von Roddek</i>)?", fragte er (<i>Rath</i>) die wartende Journalisten<strong>meute</strong>. (<i>Märzgefallene</i>, 329)' ,
-	'Und dann hatte Roddeck noch nicht einmal geredet wie angekündigt, sonder war einfach von der Bildfläche verschwunden. Geradezu geflüchtet... Als ob er geahnt habe, das da einer in der <strong>Meute</strong> der Journalisten lauere, der ihn in den vergangenen Wochen schon mit seinen Fragen belästigt hatte.   (<i>Märzgefallene</i>, 569)' ,
+	'"Sie wollen auch alle zu Herrn Rubens (<i>von Roddek</i>)?", fragte er (<i>Rath</i>) die wartende Journalisten<strong>meute</strong>. (<i>Märzgefallene</i>, 329)',
+	'Und dann hatte Roddeck noch nicht einmal geredet wie angekündigt, sonder war einfach von der Bildfläche verschwunden. Geradezu geflüchtet... Als ob er geahnt habe, das da einer in der <strong>Meute</strong> der Journalisten lauere, der ihn in den vergangenen Wochen schon mit seinen Fragen belästigt hatte. (<i>Märzgefallene</i>, 569)',
+	'<u>Lunapark</u>',
+	'"Na, was ist?", sagte er (<i>Gereon</i>) zu Kirie, die schwanzwedelnd auf die Aschinger-Tüte starrte. "Verabschiede dich von deinen Freunden!" Der Hund gehorchte und ließ ein Bellen hören. Die angebundene <strong>Meute</strong> (<i>andere Hunde</i>) antwortete mit einem kleinen Kläffkonzert, das sich steigerte, als Rath eine Boulette aus der Papiertüte holte und Kirie zuwarf. (<i>Lunapark</i>, 341)',
 ],
 Machwerk: [
 	'das <strong>Machwerk</strong>,-<strong>e</strong>: shoddy piece of work' +
@@ -7617,6 +7749,8 @@ Murmel: [
 	'die <strong>Murmel</strong>,-<strong>n</strong>: marble' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Murmel"target="target1">Murmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Murmel"target="target2">Murmel</a>' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murmel"target="target3">Murmel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Murmel"target="target4">Murmel</a>',
+	'<u>Der nasse Fisch</u>',
+	'(<i>Doktor</i>) Schwartz hatte die Schädeldecke fein rund ausgesägt, um an das Gehirn zu kommen.. Wenigstens hatte er Rath das Geräusch der Knochensäge nicht zugemutet, das hatte er immer am schlimmsten empfunden, viel schlimmer als all das Blut beispielsweise oder der Anblick eines gehäuteten Gesichts, aus dessen Augenhöhlen die Augäpfel wie zwei Glas<strong>murmeln</strong> stierten. (<i>Der nasse Fisch</i>, 294)',  
 	'<u>Märzgefallene</u>',
 	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blutschlieren bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige <strong>Murmel</strong>... Der Sehnerv hing an seinem blutverschmierten Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)',
 ],
@@ -8403,12 +8537,13 @@ Pulle: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Querschläger: [
-	'der <strong>Querschläger</strong>,-: ricochet' +
-	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Querschlaeger"target="target1">Querschläger</a> &nbsp;<a href="https://www.dwds.de/wb/Querschl%C3%A4ger"target="target2">Querschläger</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/querschlager?q=Querschl%C3%A4ger"target="target3">Querschläger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Querschl%C3%A4ger"target="target4">Querschläger</a>' ,
+	'der <strong>Querschläger</strong>,-: ricochet'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Querschlaeger"target="target1">Querschläger</a> &nbsp;<a href="https://www.dwds.de/wb/Querschl%C3%A4ger"target="target2">Querschläger</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/querschlager?q=Querschl%C3%A4ger"target="target3">Querschläger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Querschl%C3%A4ger"target="target4">Querschläger</a>',
 	'<u>Der nasse Fisch</u>',
-	'Weitere Schüße kamen von der Straße. Kugeln pfiffen ganz in der Nähe. Rath deutete mit dem Kopf nach hinten. Sie zogen sich weit nach hinten in das Treppenhaus zurück. Hier waren sie sicherer vor verirrten Kugeln und <strong>Querschlägern</strong>.    (<i>Der nasse Fisch</i>, 71)' ,
-	'Noch im Fallen löste sich der Shuss. Ein Reflex. Er (<i>Rath</i>) hatte einfach abgedrückt. Ohne zu zielen. Ohne überhaupt zu wissen, was gerade geschehen war. Es war ohrenbetäubend laut. Mit dem Knall hörte er ein lautes metallenes Geräusch, fast wie ein Gong, und dann das Zzzzinnng eines <strong>Querschlägers</strong>.   (<i>Der nasse Fisch</i>, 214)' ,
+	'Weitere Schüße kamen von der Straße. Kugeln pfiffen ganz in der Nähe. Rath deutete mit dem Kopf nach hinten. Sie zogen sich weit nach hinten in das Treppenhaus zurück. Hier waren sie sicherer vor verirrten Kugeln und <strong>Querschlägern</strong>. (<i>Der nasse Fisch</i>, 71)',
+	'Noch im Fallen löste sich der Shuss. Ein Reflex. Er (<i>Rath</i>) hatte einfach abgedrückt. Ohne zu zielen. Ohne überhaupt zu wissen, was gerade geschehen war. Es war ohrenbetäubend laut. Mit dem Knall hörte er ein lautes metallenes Geräusch, fast wie ein Gong, und dann das Zzzzinnng eines <strong>Querschlägers</strong>.   (<i>Der nasse Fisch</i>, 214)',
+	'Er (<i>Doktor Schwartz</i>) öffnete eine Blechdose und zeigte Rath ein blutverschmiertes Projektil. "Das hier hat er (<i>Wilczek, der heilige Josef</i>) ins Auge bekommen, und das ist ihm nicht bekommen." ..Die verfluchte Kugel! Er (<i>Rath</i>) hatte es kommen sehen. Natürlich hatte sie noch im Kopf gesteckt. Und der Doktor hatte sie gefunden. "Ist ein bisschen deformiert, könnte ein <strong>Querschläger</strong> sein. Also wahrscheinlich eher ein Unfall als ein gezielter Schuss", meinte Schwartz... (<i>Der nasse Fisch</i>, 295)',
 ],
 'Quere (in die Q. kommen)': [
 	'jmdm. <strong>in die Quere kommen</strong>: get in sb.\'s way'+
@@ -8596,7 +8731,7 @@ rasen: [
 ], 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Rottenführer: [
-	'der <strong>Rottenführer</strong>,-: foreman <br>SS-Rottenführer: Waffen-SS corporal ' +
+	'der <strong>Rottenführer</strong>,-: foreman <br><strong>SS-Rottenführer</strong>: Waffen-SS corporal ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rottenfuehrer"target="target1">Rottenführer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rottenf%C3%BChrer"target="target2">Rottenführer</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Rottenf%C3%BChrer"target="target3">Rottenführer</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/rottenfuehrer"target="target4">Rottenführer</a> ' ,
 	'<u>Lunapark</u>',
@@ -9133,7 +9268,7 @@ Stuck: [
 	'Die Tiergartenstraße war eine gute Adresse. Links das Grün des Parks, rechts Häuser mit protzigen Fassaden.. Rath achtete mehr auf die Hausnummern als auf den <strong>Stuck</strong>.  (<i>Der nasse Fisch</i>, 136)' ,
 	'Schneids Haus trug derart viel <strong>Stuck</strong> an der Fassade, dass es aussah, als müssten sich die Gipsengel dort oben prügeln, um ihren Platz nicht zu verlieren.  (<i>Der nasse Fisch</i>, 136)' ,
 	'<u>Lunapark</u>', 
-	'Die Mietskaserne, in der Helmut Reinhold wohnte, war die einzige, die wirkte, as habe man sie überhaupt jemals angestrichen. Von den Nachbarhäusern bröckelte der <strong>Stuck</strong>; ja, es gab Häuser, von deren Fassadenschmuck kaum noch etwas übrig war...   (<i>Lunapark</i>, 99)' ,
+	'Die Mietskaserne, in der Helmut Reinhold wohnte, war die einzige, die wirkte, als habe man sie überhaupt jemals angestrichen. Von den Nachbarhäusern bröckelte der <strong>Stuck</strong>; ja, es gab Häuser, von deren Fassadenschmuck kaum noch etwas übrig war...   (<i>Lunapark</i>, 99)' ,
 ],
 Sprosse: [
 	'die <strong>Sprosse</strong>,-<strong>n</strong>: step, rung <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Sprosse"target="target1">Sprosse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sprosse"target="target2">Sprosse</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/sprosse"target="target3">Sprosse</a> &nbsp;<a href="https://www.verbformen.com/?w=Sprosse"target="target4">Sprosse</a> ',
@@ -9639,13 +9774,20 @@ Spalier: [
 	'<u>Märzgefallene</u>',
 	'"<i>Alles atmet fritzischen Geist, alles ist Preußentum</i>", sagte der Reporter gerade, nach einer endlosen Aufzählung der Regimenter, die hier <strong>Spalier</strong> standen, und zusammen mit SA und Stahlhelm auf die Begegnung von Hindenburg und Hitler warteten.  (<i>Märzgefallene</i>, 372)'  ,
 ],
-'Spüle, spülen': [
-	'die <strong>Spüle</strong>,-<strong>n</strong>: (kitchen) sink &nbsp;&nbsp;<strong>spülen</strong>: wash, rinse; flush (toillete) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spuele"target="target1">Spüle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sp%C3%BClen"target="target2">spülen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/spuele#Sp%C3%BCle"target="target3">Spüle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sp%C3%BClen"target="target4">spülen</a> ' ,
+'Spüle, spülen, Spülung': [ 
+	'die <strong>Spüle</strong>,-<strong>n</strong>: (kitchen) sink'+
+	'<br><strong>spülen</strong>: wash, rinse; flush (toillete)'+
+	'<br>die <strong>Spülung</strong>,-<strong>en</strong>: flushing'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spuele"target="target1">Spüle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sp%C3%BClen"target="target2">spülen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClung"target="target3">Spülung</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/spuele#Sp%C3%BCle"target="target4">Spüle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sp%C3%BClen"target="target5">spülen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spulung"target="target6">Spülung</a>',
+	'<u>Der nasse Fisch</u>',
+	'Nachdem er (<i>Rath</i>) die <strong>Spülung</strong> betätigt hatte, wartete er noch ein Weilchen, bis sich die Strudel in der Toilettenschüssel wieder beruhigt hatten. (<i>Der nasse Fisch</i>, 299)',
+	'Am Waschbecken <strong>spülte</strong> er (<i>Rath</i>) das Blut, das bereits zu kleben begann, von den Fingerspitzen, dann verließ er die Toilette. (<i>Der nasse Fisch</i>, 299)',
 	'<u>Märzgefallene</u>',
-	'Rath fand den Jungen in der Küche. Er musste den ganzen Abwasch gemacht haben, nun war er dabei, das <strong>Spül</strong>becken zu säubern. Das Wasser gurgelte in den Abfluss und übertönte alle anderen Geräusche. Fritze furh herum, als Kirie ihn anstupste.... "Morgen, Herr Rath". Der Junge zeigte auf die <strong>Spüle</strong>. "Dachte, ick erledige noch den Abwasch, bevor ick losziehe und Hannah suche...."  (<i>Märzgefallene</i>, 369-70)'  ,
-	'Sie hatten nach dem Frühstück noch zusammen <strong>gespült</strong>, dann war der Junge mit dem Hund vor die Tür gegangen, und Charly hatte es sich mit einem Buch auf dem Sofa gemütlich gemacht. (<i>Märzgefallene</i>, 445)'  ,
+	'Rath fand den Jungen in der Küche. Er musste den ganzen Abwasch gemacht haben, nun war er dabei, das <strong>Spül</strong>becken zu säubern. Das Wasser gurgelte in den Abfluss und übertönte alle anderen Geräusche. Fritze furh herum, als Kirie ihn anstupste.... "Morgen, Herr Rath". Der Junge zeigte auf die <strong>Spüle</strong>. "Dachte, ick erledige noch den Abwasch, bevor ick losziehe und Hannah suche...."  (<i>Märzgefallene</i>, 369-70)',
+	'Sie hatten nach dem Frühstück noch zusammen <strong>gespült</strong>, dann war der Junge mit dem Hund vor die Tür gegangen, und Charly hatte es sich mit einem Buch auf dem Sofa gemütlich gemacht. (<i>Märzgefallene</i>, 445)',
 	'<u>Lunapark</u>',
-	'<i>Rath</i>: "Entschuldigen Sie, dass ich noch mal unterbrechen muss, Herr Bestmann,.. aber da ist Blut auf Ihrem Hof... Irgendjemand hat Blut in den Gully <strong>gespült</strong>..."  (<i>Lunapark</i>, 40)',
+	'<i>Rath</i>: "Entschuldigen Sie, dass ich noch mal unterbrechen muss, Herr Bestmann,.. aber da ist Blut auf Ihrem Hof... Irgendjemand hat Blut in den Gully <strong>gespült</strong>..." (<i>Lunapark</i>, 40)',
 ],
 Schlüpfer: [
 	'der <strong>Schlüpfer</strong>,-: briefs, underpants ' +
@@ -10003,13 +10145,16 @@ schlendern: [
 	'Bei Jonass war das anders, hier konnte man auf Pump kaufen, und so fanden deutlich mehr abgerissene Gestalten ihren Weg ans Prenzlauer Tor als in andere Kaufhäuser. Ein hagergesichtiges Mädchen in einem groben, viel zu großen Mantel und Gummistiefeln fiel da nicht weiter auf. Hannah <strong>schlenderte</strong> durch die Gänge, vorbei an den Kleiderständern, fuhr die Treppen hinauf und hinunter, ohne behelligt zu werden. (<i>Märzgefallene</i>, 152)' ,
 	'<i>Hannah</i>: "Was willste?" Er (<i>Fritze</i>) legte den Kopf schief wie ein Hund. "Frühstücken?" <i>Hannah</i>: "Bisten Witzbold, wa? Wo soll’s denn hingehen, zu Kranzler oder lieber zu Josty?" "Bolle", sagte Fritze. Was er damit meinte, begriff Hannah, als sie kurz darauf über die noch menschenleere Winsstraße <strong>schlenderten</strong> und ein paar von den Milchflaschen einsammelten, die der Milchmann vor wenigen Minuten gerade dort abgestellt haben musste.  (<i>Märzgefallene</i>, 174)' ,
 ],
-'Schliere, schlieren': [
-	'die <strong>Schliere</strong>,-<strong>n</strong>: streak, smear &nbsp;&nbsp;<strong>schlieren</strong>: slide, drag ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schliere"target="target1">Schliere</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlieren"target="target2">schlieren</a>' +
+'Schliere, schlieren': [ 
+	'die <strong>Schliere</strong>,-<strong>n</strong>: streak, smear'+
+	'<br><strong>schlieren</strong>: slide, drag'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schliere"target="target1">Schliere</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlieren"target="target2">schlieren</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schliere?q=Schliere"target="target3">Schliere</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlieren"target="target4">schlieren</a>',
+	'<u>Der nasse Fisch</u>',
+	'Als Rath die Tür (<i>zur Toilette</i>) öffnete, was es still in dem gekachelten Raum. Niemand schien hier zu sein. Dennoch schloss er sich in einer Kabine ein.. und öffnete den Klodeckel. Wieder zog er die Brieftasche aus dem Mantel. Schnell hatte er die Lignose-Kugel herausgeholt... Nun gab es eine bessere Verwendung für das Geschoss. Rath öffnete die Blechdose und ließ die Mauserkugel in die Toilettenschüssel fallen.. Durch das Wasser in der Schüssel zogen sich rote <strong>Schlieren</strong>, die sich langsam in blassrote Wolken auflösten. (<i>Der nasse Fisch</i>, 298)',
 	'<u>Märzgefallene</u>',
-	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blut<strong>schlieren</strong> bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige Murmel.... Der Sehnerv hing an seinem blutverschmierten Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)' ,
-	'Aus den verschwommenen Licht<strong>schlieren</strong> löste sich der große Schatten von Huckebein, und sie (<i>Hannah</i>) sah ihn herumfuchteln, als wolle er einen unsichtbaren Schwarm bösartiger Wespen vertreiben. (<i>Märzgefallene</i>, 401)' ,
+	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blut<strong>schlieren</strong> bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige Murmel.... Der Sehnerv hing an seinem blutverschmierten Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)',
+	'Aus den verschwommenen Licht<strong>schlieren</strong> löste sich der große Schatten von Huckebein, und sie (<i>Hannah</i>) sah ihn herumfuchteln, als wolle er einen unsichtbaren Schwarm bösartiger Wespen vertreiben. (<i>Märzgefallene</i>, 401)',
 ],
 schluchzen: [
 	'<strong>schluchzen</strong>: sob; &nbsp;&nbsp;der <strong>Schluchzer</strong>,-: the sob ' +
@@ -10330,14 +10475,18 @@ Schürze: [
 	'Rath ging hinüber zu den Schauspielern und zückte seine Marke. "Hat einer von Ihnen etwas beobachtet?", fragte er. "Was meinen Sie?", fragte ein Mann, der eine Leder<strong>schürze</strong> trug und wie ein Steinmetz aussah.. Der Schauspieler zog an seiner Zigarette. "Bis vor einer Viertelstunde haben wir alle noch auf der Bühne gestanden." Er deutete auf seine <strong>Schürze</strong>. "Sudermann. <i>Stein unter Steinen</i>." (<i>Lunapark</i>, 168-69)',
 	'Es musste jemand zuhause sein, es roch nach Essen. Kirie wedelte erwartungsfroh mit dem Schwanz. Eine grauhaarige Frau öffnete, eine <strong>Schürze</strong> umgebunden, und schaute die Besucherin fragend an.  (<i>Lunapark</i>, 268)',
 ],
-Schüssel: [
-	'die <strong>Schüssel</strong>,-<strong>n</strong>: bowl, dish, pan <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a> ' ,
+Schüssel: [ 
+	'die <strong>Schüssel</strong>,-<strong>n</strong>: bowl, dish, pan'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
 	'<u>Der nasse Fisch</u>',
-	'Sie (<i>Gereon und Charly</i>) betrieben ein wenig Katzenwäsche an der Wasch<strong>schüssel</strong>, die auf dem altmodischen Frisiertisch in seinem Zimmer stand.  (<i>Der nasse Fisch</i>, 193)' ,
-	'<u>Märzgefallene</u>', 
-	'Er (<i>Gereon</i>) war viel zu früh in der Burg.... Bevor er hineinging, drehte er noch eine Runde mit Kirie.... Dennoch waren sie die Ersten im Büro. Rath schloß auf, stellte Kirie eine <strong>Schüssel</strong> Wasser hin und hängte seine Sachen an die Garderobe.   (<i>Märzgefallene</i>, 180)' ,
+	'Sie (<i>Gereon und Charly</i>) betrieben ein wenig Katzenwäsche an der Wasch<strong>schüssel</strong>, die auf dem altmodischen Frisiertisch in seinem Zimmer stand.  (<i>Der nasse Fisch</i>, 193)',
+	'Als Rath die Tür (<i>zur Toilette</i>) öffnete, was es still in dem gekachelten Raum. Niemand schien hier zu sein. Dennoch schloss er sich in einer Kabine ein.. und öffnete den Klodeckel. Wieder zog er die Brieftasche aus dem Mantel. Schnell hatte er die Lignose-Kugel herausgeholt... Nun gab es eine bessere Verwendung für das Geschoss. Rath öffnete die Blechdose und ließ die Mauserkugel in die Toiletten<strong>schüssel</strong> fallen.. Durch das Wasser in der <strong>Schüssel</strong> zogen sich rote Schlieren, die sich langsam in blassrote Wolken auflösten. (<i>Der nasse Fisch</i>, 298)',
+	'Nachdem er (<i>Rath</i>) die Spülung betätigt hatte, wartete er noch ein Weilchen, bis sich die Strudel in der Toiletten<strong>schüssel</strong> wieder beruhigt hatten. (<i>Der nasse Fisch</i>, 299)',
+	'<u>Märzgefallene</u>',  
+	'Er (<i>Gereon</i>) war viel zu früh in der Burg.. Bevor er hineinging, drehte er noch eine Runde mit Kirie.. Dennoch waren sie die Ersten im Büro. Rath schloß auf, stellte Kirie eine <strong>Schüssel</strong> Wasser hin und hängte seine Sachen an die Garderobe. (<i>Märzgefallene</i>, 180)',
 	'<u>Lunapark</u>',  
-	'Er (<i>Helmut Reinhold</i>) führte sie (<i>Charly</i>) in eine bescheidene Wohnküche, in der er einen Kessel auf den Herd stellte und für Kirie Wasser in eine <strong>Schüssel</strong> füllte.  (<i>Lunapark</i>, 100)' ,
+	'Er (<i>Helmut Reinhold</i>) führte sie (<i>Charly</i>) in eine bescheidene Wohnküche, in der er einen Kessel auf den Herd stellte und für Kirie Wasser in eine <strong>Schüssel</strong> füllte. (<i>Lunapark</i>, 100)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -10610,14 +10759,17 @@ stibitzen: [
 	'Und so <strong>stiefelte</strong> Rath um kurz vor zwei die Treppen zur Abteilung IA hoch.  (<i>Märzgefallene</i>, 185)' ,                     
 	'"Das nächste Mal sperren wir dich ein", fuhr der Schupo mit ernster Stimme fort, "dann können deine Eltern dich im Gefängnis abholen. Oder deine Tante!" Er zwinkerte Charly zu und gab seinem Begleiter einen versteckten Wink. Die beiden <strong>stiefelten</strong> die Treppe hinunter. (<i>Märzgefallene</i>, 353)',
 	'<u>Lunapark</u>',
+	'Schulze verdrehte die Augen und ging zu Boden, denn die beiden SA-Männer hatten ihn losgelassen und machten ihrem Rottenführer Platz, der mit seinen schweren <strong>Stiefeln</strong> ausholte und gegen Schulzes Kopf trat wie gegen einen Fußball. (<i>Lunapark</i>, 11)',
 	'Rath überlegte. "Machen Sie (<i>Lange</i>) hier weiter, ich fange oben an. Wir treffen uns in der Mitte und klappern das nächste Haus genauso ab." So machten sie es dann auch. Lange klingelte an der zweiten Tür im ersten Stock, Rath <strong>stiefelte</strong> die Treppe hinauf, bis zur vierten Etage.  (<i>Lunapark</i>, 186)',
-	'Raths Begleiter öffnete den Wagenschlag und beugte sich hinein. "Hab ihn eine Viertelstunde beobachtet. Ist allein gekommen." Nach diesen Worten trat er beiseite und <strong>stiefelte</strong> zurück in die Kneipe.  (<i>Lunapark</i>, 238)',
-	'Hinter der S-Bahn-Brücke hielt sich Werner Zeyen links. Rath musste aufpassen, den Ford nicht aus den Augen zu verlieren, der Lateinlehrer fuhr einen flotten <strong>Stiefel</strong>.  (<i>Lunapark</i>, 304)',
+	'Raths Begleiter öffnete den Wagenschlag und beugte sich hinein. "Hab ihn eine Viertelstunde beobachtet. Ist allein gekommen." Nach diesen Worten trat er beiseite und <strong>stiefelte</strong> zurück in die Kneipe. (<i>Lunapark</i>, 238)',
+	'Hinter der S-Bahn-Brücke hielt sich Werner Zeyen links. Rath musste aufpassen, den Ford nicht aus den Augen zu verlieren, der Lateinlehrer fuhr einen flotten <strong>Stiefel</strong>. (<i>Lunapark</i>, 304)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-stieren: [
+stieren: [  
 	'<strong>stieren</strong>: stare <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stieren_glotzen"target="target1">stieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stieren"target="target2">stieren</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stieren"target="target3">stieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stieren"target="target4">stieren</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'(<i>Doktor</i>) Schwartz hatte die Schädeldecke fein rund ausgesägt, um an das Gehirn zu kommen.. Wenigstens hatte er Rath das Geräusch der Knochensäge nicht zugemutet, das hatte er immer am schlimmsten empfunden, viel schlimmer als all das Blut beispielsweise oder der Anblick eines gehäuteten Gesichts, aus dessen Augenhöhlen die Augäpfel wie zwei Glasmurmeln <strong>stierten</strong>. (<i>Der nasse Fisch</i>, 294)',  
 	'<u>Märzgefallene</u>',
 	'An der Hand hielt sie (<i>Oberschwester Ingeborg</i>) ein dunkelhaariges Mädchen (<i>Hannah Singer</i>), das auf den spiegelblank gewienerten Anstaltsboden <strong>stierte</strong>, ohne den Blick auch nur einmal zu heben.  (<i>Märzgefallene</i>, 43)' ,
 	'Der einzige Mensch im Raum, der nicht auf Raths Fragen zu warten schien, war Leopold Juretzka selbst. Der Mann saß auf seinem Stuhl und <strong>stierte</strong> mit dem ihm verbliebenen Auge durch sie alle hindurch, als wären sie gar nicht im Raum.   (<i>Märzgefallene</i>, 230)' ,                    
@@ -12305,6 +12457,8 @@ verwegen: [
 	'<strong>verwesen</strong>: decay, decompose, rot <br>die <strong>Verwesung</strong>,-<strong>en</strong>: decay, decomposition ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwesen_verrotten"target="target1">verwesen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Verwesung"target="target2">Verwesung</a> ' +
 	'<br>English Definitions:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwesen"target="target3">verwesen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Verwesung"target="target4">Verwesung</a> ' ,
+	'<u>Der nasse Fisch</u>',
+	'(<i>Doktor</i>) Schwartz schob die Brille wieder hoch und klang plötzlich sehr amtlich. "Wann der Tod eingetreten ist, kann ich.. wegen der starken Verunreinigung der offenen Wunde nicht genau eruieren. Erschwert wird eine genaue Aussage zudem durch die Tatsache, dass die Leiche in Beton eingebettet war, was die <strong>Verwesung</strong> in jedem Fall verzögert haben dürfte." (<i>Der nasse Fisch</i>, 297)',
 	'<u>Märzgefallene</u>',
 	'<i>Doktor Schwarz</i>: "Er kann da schon Tage gelegen haben, ohne dass die <strong>Verwesungs</strong>prozesse in Gang gekommen sind. Eine tiefgekühlte Leiche <strong>verwest</strong> nun mal nicht."   (<i>Märzgefallene</i>, 17)' ,
 	'<u>Lunapark</u>',
@@ -12585,39 +12739,40 @@ Wappen: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 wedeln: [
-	'<strong>wedeln</strong>:  wag, wave  ' +
-	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/wedeln"target="target1">wedeln</a> &nbsp;<a href="https://www.dwds.de/wb/wedeln"target="target2">wedeln</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wedeln"target="target3">wedeln</a> &nbsp;<a href="https://www.verbformen.com/?w=wedeln"target="target4">wedeln</a> ' ,
+	'<strong>wedeln</strong>:  wag, wave'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/wedeln"target="target1">wedeln</a> &nbsp;<a href="https://www.dwds.de/wb/wedeln"target="target2">wedeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wedeln"target="target3">wedeln</a> &nbsp;<a href="https://www.verbformen.com/?w=wedeln"target="target4">wedeln</a>',
 	'<u>Der nasse Fisch</u>', 
-	'<i>Rath</i>: "Aber Sie wohnen in diesem Haus?" "Det muss ick Ihnen ja wohl nich sagen." "Vielleicht doch: Kriminalpolizei!" Rath <strong>wedelte</strong> mit seinem Dientsweis. (<i>Der nasse Fisch</i>, 49)' ,
-	'<i>Rath</i>: "Ach, übrigens, ich habe dir doch neulich einen Zehner geliehen..." <i>Weinert</i>: "...bekommst du morgen zurück..." Weinert wirkte tatsächlich ein wenig verlegen... Offene Schulden waren manchmal eine gute Sache. Rath nutzte die Gelegenheit. "Vielleicht kannst du mir heute auch einen Gefallen tun...", sagte er beiläufig.  "Jederzeit." Weinert klang erleichtert. Er hat die Falle nicht bemerkt. <i>Rath</i>: "... ich könnte deinen Wagen für ein paar Stunden gebrauchen." Weinert lachte laut auf. "Eins zu null", sagte er und zwinkerte Rath zu. "Bis vier kannst du ihn haben, dann brauche ich ihn selbst." Er <strong>wedelte</strong> mit dem Schlüssel.   (<i>Der nasse Fisch</i>, 132-33)' ,
-	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie <strong>wedelte</strong> demonstrativ mit einem Staublappen durchs Regal.   (<i>Der nasse Fisch</i>, 231)' ,
-	'Charly war zwar kurz stehen geblieben, doch nun rannte sie weiter. Rath folgte ihr, <strong>wedelte</strong> mit den Rosen, setzte sein charmantestes Männer-sind-doch-alle-kleine-Jungen-Grinsen auf und verhalf dem Lächeln in ihrem Gesicht so zu einem entgültigen Sieg.   (<i>Der nasse Fisch</i>, 269)' ,
+	'<i>Rath</i>: "Aber Sie wohnen in diesem Haus?" "Det muss ick Ihnen ja wohl nich sagen." "Vielleicht doch: Kriminalpolizei!" Rath <strong>wedelte</strong> mit seinem Dientsweis. (<i>Der nasse Fisch</i>, 49)',
+	'<i>Rath</i>: "Ach, übrigens, ich habe dir doch neulich einen Zehner geliehen..." <i>Weinert</i>: "...bekommst du morgen zurück..." Weinert wirkte tatsächlich ein wenig verlegen... Offene Schulden waren manchmal eine gute Sache. Rath nutzte die Gelegenheit. "Vielleicht kannst du mir heute auch einen Gefallen tun...", sagte er beiläufig.  "Jederzeit." Weinert klang erleichtert. Er hat die Falle nicht bemerkt. <i>Rath</i>: "... ich könnte deinen Wagen für ein paar Stunden gebrauchen." Weinert lachte laut auf. "Eins zu null", sagte er und zwinkerte Rath zu. "Bis vier kannst du ihn haben, dann brauche ich ihn selbst." Er <strong>wedelte</strong> mit dem Schlüssel. (<i>Der nasse Fisch</i>, 132-33)',
+	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie <strong>wedelte</strong> demonstrativ mit einem Staublappen durchs Regal. (<i>Der nasse Fisch</i>, 231)',
+	'Charly war zwar kurz stehen geblieben, doch nun rannte sie weiter. Rath folgte ihr, <strong>wedelte</strong> mit den Rosen, setzte sein charmantestes Männer-sind-doch-alle-kleine-Jungen-Grinsen auf und verhalf dem Lächeln in ihrem Gesicht so zu einem entgültigen Sieg. (<i>Der nasse Fisch</i>, 269)',
 	'<u>Märzgefallene</u>',
-	'"Was hast du (<i>Gereon</i>) denn vor?" Paul <strong>wedelte</strong> mit dem Zeigefinger. "Du soltest dich benehmen, bald bist du ein verheirateter Mann."  (<i>Märzgefallene</i>, 19)' ,
-	'Reinhold Gräf betrat das Büro und <strong>wedelte</strong> mit der Akte, für die er sich fast drei Stunden durch Archive und Karteischränke hatte wühlen müssen.  (<i>Märzgefallene</i>, 25)' ,
-	'"Ein Logenplatz auf dem Rathausbalkon", sagte Gereon und <strong>wedelte</strong> das Streichholz <strong>aus</strong>. "Wie komme ich denn zu der Ehre?"  <i>Engelbert Rath</i>: "Du hast es doch gehört: Weil du ein Rath bist."  (<i>Märzgefallene</i>, 39)' ,
-    'Karin van Almsick, in deren Gesicht die Farbe langsam zurückkehrte, stellte sich ganz andere Fragen. "Ich weiß immer noch nicht, was wir hier eigentlich sollen", sagte sie und <strong>wedelte</strong> den Zigarettenrauch beiseite.  (<i>Märzgefallene</i>, 39)' ,
+	'"Was hast du (<i>Gereon</i>) denn vor?" Paul <strong>wedelte</strong> mit dem Zeigefinger. "Du soltest dich benehmen, bald bist du ein verheirateter Mann."  (<i>Märzgefallene</i>, 19)',
+	'Reinhold Gräf betrat das Büro und <strong>wedelte</strong> mit der Akte, für die er sich fast drei Stunden durch Archive und Karteischränke hatte wühlen müssen.  (<i>Märzgefallene</i>, 25)',
+	'"Ein Logenplatz auf dem Rathausbalkon", sagte Gereon und <strong>wedelte</strong> das Streichholz <strong>aus</strong>. "Wie komme ich denn zu der Ehre?"  <i>Engelbert Rath</i>: "Du hast es doch gehört: Weil du ein Rath bist."  (<i>Märzgefallene</i>, 39)',
+    'Karin van Almsick, in deren Gesicht die Farbe langsam zurückkehrte, stellte sich ganz andere Fragen. "Ich weiß immer noch nicht, was wir hier eigentlich sollen", sagte sie und <strong>wedelte</strong> den Zigarettenrauch beiseite.  (<i>Märzgefallene</i>, 39)',
 	'"Entschuldigen Sie, Erika", sagte Rath und nahm ihr den Hund ab, der fröhlich mit dem Schwanz <strong>wedelte</strong>.  (<i>Märzgefallene</i>, 147)' ,
-	'"Pssst", zischte Charly, als Gereon ins Wohnzimmer kam und so etwas wie "Guten Abend" sagte. Sie <strong>wedelte</strong> mit den Armen und hoffte, er möge sie verstehen, und er verstand. Jedenfalls grinste er, legte den Finger an die Lippen und stakste so übertrieben auf Zehenspitzen zu seinem Sessel, dass es sie schon wieder ärgerte.  (<i>Märzgefallene</i>, 210)' ,
-	'Bevor sie (<i>Charly</i>) etwas sagen konnte, kam Kirie aus der Küche, tapste an die Wohnungstür und betrachtete die drei Störenfriede. "Hallo, Bello", sagte der Junge (<i>Fritze</i>) und wuschelte Kirie durchs Fell und durch die Sclappohren, was der Hund mit Schwanz<strong>wedeln</strong> und liebevollem Gesichtsablecken beantwortete. (<i>Märzgefallene</i>, 352)' ,
+	'"Pssst", zischte Charly, als Gereon ins Wohnzimmer kam und so etwas wie "Guten Abend" sagte. Sie <strong>wedelte</strong> mit den Armen und hoffte, er möge sie verstehen, und er verstand. Jedenfalls grinste er, legte den Finger an die Lippen und stakste so übertrieben auf Zehenspitzen zu seinem Sessel, dass es sie schon wieder ärgerte.  (<i>Märzgefallene</i>, 210)',
+	'Bevor sie (<i>Charly</i>) etwas sagen konnte, kam Kirie aus der Küche, tapste an die Wohnungstür und betrachtete die drei Störenfriede. "Hallo, Bello", sagte der Junge (<i>Fritze</i>) und wuschelte Kirie durchs Fell und durch die Sclappohren, was der Hund mit Schwanz<strong>wedeln</strong> und liebevollem Gesichtsablecken beantwortete. (<i>Märzgefallene</i>, 352)',
 	'<i>Schupo zu Charly</i>: "Entschuldigen Se nochmals die Störung, Gnädigste. Sagen Se Ihrer Schwester bitte, se soll demnächst besser auf den kleinen Rabauken aufpassen!" Er wandte sich an den Jungen (<i>Fritze</i>) und <strong>wedelte</strong> mit dem Finger vor dessen Nase. "Dass du dich ja nie wieder beim Betteln erwischen lässt!" (<i>Märzgefallene</i>, 353)',
-	'Erst als das Türschloss einschnappte, ließ Charly den Jungen (<i>Fritze</i>) los.... Kirie beschnupperte den unerwarteten Gast immer noch und <strong>wedelte</strong> mit dem Schwanz. (<i>Märzgefallene</i>, 353)' ,
-	'Charly erwiderte seinen Kuss, entzog sich ihm aber, als er sie umarmen wollte. "Nicht jetzt, Gereon", sagte sie und <strong>wedelte</strong> mit der Mappe. "Keine Zeit." (<i>Märzgefallene</i>, 363)' ,
-	'"Hannah Singer, Fritze Fragmichnich, damals diese Alex...." Rath seufzte. "Kann es sein, dass du ein Faible für Straßenkinder hast?" Charly zuckte nur die Schultern, "Jede Frau hat ihre Geheimnisse," sagte sie, <strong>wedelte</strong> noch einmal mit der Akte und verschwand. (<i>Märzgefallene</i>, 363)' ,
-	'"Hier", sagte er (<i>Rath</i>), für dich!" Fritze schaute den Zehner zögerlich an, als traue er dem Braten nicht. Rath <strong>wedelte</strong> mit dem Schein. "Nimm", sagte er, "für deine Hilfe." (<i>Märzgefallene</i>, 370)' ,
-	'Er (<i>Fritze</i>) kraulte Kirie durchs Fell, der Hund <strong>wedelte</strong> mit dem Schwanz. Hoffte wahrscheinlich auf einen Spaziergang mit dem Jungen und tapste mit zur Wohnungstür. (<i>Märzgefallene</i>, 371)' ,
-	'...dann ging er (<i>Rath</i>) zur Wohnungstür, an der Kirie schon stand und erwartugsvoll mit dem Schwanz <strong>wedelte</strong>. (<i>Märzgefallene</i>, 402)' ,
-	'Der Polizeipräsident runzelte zwar die Stirn, aber dann <strong>wedelte</strong> er mit der rechten Hand, als scheuche er einen ungehorsamen Hund aus dem Zimmer. (<i>Märzgefallene</i>, 421)' ,
-	'Der Freiherr zögerte noch einen Moment, dann sah er wohl ein, dass es für ihn keinen anderen Ausweg gab, er nahm den Stift und unterschrieb... "Und nun machen Sie, dass Sie fortkommen, Roddeck", sagte er (<i>Rath</i>) und <strong>wedelte</strong> die Tinte trocken. "Ich will Sie nie wiedersehen, ich möchte Ihren Namen nie wieder in der Zeitung lesen." (<i>Märzgefallene</i>, 580-81)' ,
-	'"Entschuldigt", sagte er (<i>Gereon</i>). "Aber im Rheinland ist es auch Sitte, das der Bräutigam sich seine Braut zurückholen muss." Er stellte sein Glas ab und stand ebenfalls auf. Kirie begrüßte ihn schwanz<strong>wedelnd</strong>, als er in den Flur trat, doch er ließ den Hund zurück, warf den Mantel über und verließ die Wohnung.  (<i>Märzgefallene</i>, 593)' ,
+	'Erst als das Türschloss einschnappte, ließ Charly den Jungen (<i>Fritze</i>) los.... Kirie beschnupperte den unerwarteten Gast immer noch und <strong>wedelte</strong> mit dem Schwanz. (<i>Märzgefallene</i>, 353)',
+	'Charly erwiderte seinen Kuss, entzog sich ihm aber, als er sie umarmen wollte. "Nicht jetzt, Gereon", sagte sie und <strong>wedelte</strong> mit der Mappe. "Keine Zeit." (<i>Märzgefallene</i>, 363)',
+	'"Hannah Singer, Fritze Fragmichnich, damals diese Alex...." Rath seufzte. "Kann es sein, dass du ein Faible für Straßenkinder hast?" Charly zuckte nur die Schultern, "Jede Frau hat ihre Geheimnisse," sagte sie, <strong>wedelte</strong> noch einmal mit der Akte und verschwand. (<i>Märzgefallene</i>, 363)',
+	'"Hier", sagte er (<i>Rath</i>), für dich!" Fritze schaute den Zehner zögerlich an, als traue er dem Braten nicht. Rath <strong>wedelte</strong> mit dem Schein. "Nimm", sagte er, "für deine Hilfe." (<i>Märzgefallene</i>, 370)',
+	'Er (<i>Fritze</i>) kraulte Kirie durchs Fell, der Hund <strong>wedelte</strong> mit dem Schwanz. Hoffte wahrscheinlich auf einen Spaziergang mit dem Jungen und tapste mit zur Wohnungstür. (<i>Märzgefallene</i>, 371)',
+	'...dann ging er (<i>Rath</i>) zur Wohnungstür, an der Kirie schon stand und erwartugsvoll mit dem Schwanz <strong>wedelte</strong>. (<i>Märzgefallene</i>, 402)',
+	'Der Polizeipräsident runzelte zwar die Stirn, aber dann <strong>wedelte</strong> er mit der rechten Hand, als scheuche er einen ungehorsamen Hund aus dem Zimmer. (<i>Märzgefallene</i>, 421)',
+	'Der Freiherr zögerte noch einen Moment, dann sah er wohl ein, dass es für ihn keinen anderen Ausweg gab, er nahm den Stift und unterschrieb... "Und nun machen Sie, dass Sie fortkommen, Roddeck", sagte er (<i>Rath</i>) und <strong>wedelte</strong> die Tinte trocken. "Ich will Sie nie wiedersehen, ich möchte Ihren Namen nie wieder in der Zeitung lesen." (<i>Märzgefallene</i>, 580-81)',
+	'"Entschuldigt", sagte er (<i>Gereon</i>). "Aber im Rheinland ist es auch Sitte, das der Bräutigam sich seine Braut zurückholen muss." Er stellte sein Glas ab und stand ebenfalls auf. Kirie begrüßte ihn schwanz<strong>wedelnd</strong>, als er in den Flur trat, doch er ließ den Hund zurück, warf den Mantel über und verließ die Wohnung.  (<i>Märzgefallene</i>, 593)',
 	'<u>Lunapark</u>',
-	'"Was wir hier suchen, Kollege", sagte Lange und <strong>wedelte</strong> mit einem der Pornographiehefte, "das kann ich Ihnen auch erst sagen, wenn wir es gefunden haben."  (<i>Lunapark</i>, 45)' ,
-	'Rath zündete sich eine Zigarette an, um den Ärger wegzurauchen. Er hatte das Streichholz gerade <strong>ausgewedelt</strong>, da klingelte das Telefon erneut.  (<i>Lunapark</i>, 88)' ,
-	'Inzwischen war der SA-Trupp näher gekommen und marschierte draußen am Schaufenster vorbei. Kirie war aufgesprungen und schaute sich das Schauspiel schwanz<strong>wedelnd</strong> an. (<i>Lunapark</i>, 116)' ,
-	'Die ganze Zeit schon hatte Kirie an der Leine gezerrt, und Charly wandte sich dem Hund zu.. Der Hund zog immer heftiger, begann sogar zu winseln. Und dann wusste Charly, warum das Tier so unruhig war und wie wild mit dem Schwanz <strong>wedelte</strong>. (<i>Lunapark</i>, 117)' ,
-	'Es musste jemand zuhause sein, es roch nach Essen. Kirie <strong>wedelte</strong> erwartungsfroh mit dem Schwanz.  (<i>Lunapark</i>, 268)' ,
-	'Gereon und Fritze saßen am Esstisch und standen auf, als sie hereinkam. Der Junge begrüßte den schwanz<strong>wedelnden</strong> Hund, Gereon gab Charly einen Kuss auf die Wange.  (<i>Lunapark</i>, 269)' ,
+	'"Was wir hier suchen, Kollege", sagte Lange und <strong>wedelte</strong> mit einem der Pornographiehefte, "das kann ich Ihnen auch erst sagen, wenn wir es gefunden haben."  (<i>Lunapark</i>, 45)',
+	'Rath zündete sich eine Zigarette an, um den Ärger wegzurauchen. Er hatte das Streichholz gerade <strong>ausgewedelt</strong>, da klingelte das Telefon erneut.  (<i>Lunapark</i>, 88)',
+	'Inzwischen war der SA-Trupp näher gekommen und marschierte draußen am Schaufenster vorbei. Kirie war aufgesprungen und schaute sich das Schauspiel schwanz<strong>wedelnd</strong> an. (<i>Lunapark</i>, 116)',
+	'Die ganze Zeit schon hatte Kirie an der Leine gezerrt, und Charly wandte sich dem Hund zu.. Der Hund zog immer heftiger, begann sogar zu winseln. Und dann wusste Charly, warum das Tier so unruhig war und wie wild mit dem Schwanz <strong>wedelte</strong>. (<i>Lunapark</i>, 117)',
+	'Es musste jemand zuhause sein, es roch nach Essen. Kirie <strong>wedelte</strong> erwartungsfroh mit dem Schwanz.  (<i>Lunapark</i>, 268)',
+	'Gereon und Fritze saßen am Esstisch und standen auf, als sie hereinkam. Der Junge begrüßte den schwanz<strong>wedelnden</strong> Hund, Gereon gab Charly einen Kuss auf die Wange.  (<i>Lunapark</i>, 269)',
+	'"Na, was ist?", sagte er (<i>Gereon</i>) zu Kirie, die schwanz<strong>wedelnd</strong> auf die Aschinger-Tüte starrte. (<i>Lunapark</i>, 341)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -13499,6 +13654,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  breitkrempig  Der nasse Fisch 212
  brillieren  Der Nase Fisch 159
  'Bringschuld'   Märzgefallene  370
+ brachial  Der nasse Fisch 294
  brodeln Lunapark 130
  Bückling    Märzgefallene  545  
  Damn Lunapark 247    
@@ -13620,6 +13776,7 @@ lau Der nasse Fisch 239
  ranken  Der nasse Fisch 177
  raunzen Lunapark 59
  'Reim machen'  ;   Nworte++       Märzgefallene  68
+ Reine  ins Reine schreiben  Der nasse Fisch 292
  Rempler   Märzgefallene   544
  Ritze Märzgefallene  487
 Rohre bottom of pg 21, Der nasse Fisch

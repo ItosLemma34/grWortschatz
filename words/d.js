@@ -8,6 +8,7 @@ const d = [
    'dezent',   // dezent: *
    'Diele',   // Diele:  *
    'Dietrich',  // Dietrich: *
+   'dingfest',  // dingfest:  *
    'dösen, eindösen',  // *  duplicated
    'drall',    // drall:  *
    'drängeln (sich)',  // *

@@ -1,5 +1,6 @@
 const s = [
    'Sägemehl', // Sägemehl: *
+   'sägen, aussägen', // duplicated *
    'Samt', // Samt:  *
    'Sauklaue', // Sauklaue:  *
    'säumen', // säumen:  *
@@ -139,7 +140,7 @@ const s = [
    'Speichel',  // Speichel:  *
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *
-   'Spüle, spülen', // *
+   'Spüle, spülen, Spülung', // *
    'Spund', // Spund:  *
    'spuren',  // spuren: *
    'sputen (sich)', // *

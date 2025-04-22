@@ -44,37 +44,36 @@ const b = [
     'blasiert',  //blasiert: 
     'Blaumann',  // Blaumann:  
     'Blech',   //Blech: 
-    'blendend',  //blendend:  
-    'blinzeln',  //blinzeln:  
-    'Blöße',   //Blöße: 
-    'bloßstellen',  //bloßstellen:
-    'bockig' ,  // bockig: 
-    'Bodensatz',  //Bodensatz:  
-    'Bogen (den B. raushaben)',  // 
-    'Bohle',    //Bohle:  
-    'bohnern',  //bohnern:  
-    'Bonze',   //Bonze:
+    'blendend',  // blendend: * 
+    'blinzeln',  // blinzeln: * 
+    'Blöße',   // Blöße: *
+    'bloßstellen', // bloßstellen: *
+    'bockig' ,  // bockig: *
+    'Bodensatz',  // Bodensatz: * 
+    'Bogen (den B. raushaben)',  // *
+    'Bohle',    // Bohle:  *
+    'bohnern',  // bohnern:  *
+    'Bonze',   // Bonze: *
     'Bordstein', // Bordstein: *
     'borniert',  // borniert: *
     'Böschung', // Böschung: *
     'Bösewicht',  //Bösewicht:  
     'Boulette',   //Boulette:  *
-    'brandschatzen',  //brandschatzen: 
-    'Brause',    //Brause:  
-    'brausen',  //brausen: 
+    'brandschatzen',  // brandschatzen: *
+    'brausen, Brause',  // *
     'brenzlig', // brenzlig: *
     'Brett, Bretterwand, Bretterverschlag',  // * 
-    'Brimborium',   //Brimborium:  
-    'bröckeln',  //bröckeln: 
+    'Brimborium',   // Brimborium:  *
+    'bröckeln',  // bröckeln:  *
     'brüllen, Gebrüll', // *  duplicated
-    'brummig, Brummigkeit',   // 
-    'Brüstung',  //Brüstung: 
-    'Buche',    //Buche: 
-    'Büchse',   //Büchse: 
+    'brummig, Brummigkeit',  // *
+    'Brüstung',  // Brüstung: *
+    'Buche',    // Buche: *
+    'Büchse',   // Büchse: *
     'Buckel, bucklig',  // *  
     'bücken (sich)',  // *
-    'buddeln, ausbuddeln',  // 
-    'Bude, Büdchen',  // 
+    'buddeln, ausbuddeln',  // * duplicated  pair with "einbudeln" if found
+    'Bude, Büdchen',  // *
     'Bügel', // Bügel: *
     'bugsieren', // bugsieren: *
     'buhlen',   // buhlen: *

@@ -42,8 +42,8 @@ const b = [
     'bis in die Puppen', // *  duplicated 
     'Blase',  //Blase:  
     'blasiert',  //blasiert: 
-    'Blaumann',  // Blaumann:  
-    'Blech',   //Blech: 
+    'Blaumann',  // Blaumann: * 
+    'Blech, blechern',  // * 
     'blendend',  // blendend: * 
     'blinzeln',  // blinzeln: * 
     'Blöße',   // Blöße: *

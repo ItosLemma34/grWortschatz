@@ -81,6 +81,7 @@ const a = [
 	'auf den Arm nehmen',  //
 	'auf den Leim gehen',  //
 	'auf den Putz hauen',  //
+	'auf den Schlips treten', // * duplicated
 	'auf den Strich gehen', //
 	'auf den Wecker gehen', // * duplicated
 	'auf den Zahn fühlen',  // * duplicated

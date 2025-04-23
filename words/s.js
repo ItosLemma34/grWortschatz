@@ -43,6 +43,7 @@ const s = [
    'Schleuse, schleusen', // *
    'Schliere, schlieren', // *
    'schliddern, schlittern', // *
+   'Schlips (auf den S. treten)', // * duplicated
    'schluchzen' ,  // schluchzen: *
    'Schlucker (armer)', // * duplicated
    'Schlund',  // Schlund: *
@@ -150,7 +151,7 @@ const s = [
    'Standpauke',  // Standpauke: *
    'Stange',  // Stange:  *
    'Stapel, stapeln', //  *
-   'stapfen',  //stapfen:  *
+   'stapfen',  // stapfen:  *
    'starren (vor Schmutz starren)', // *
    'Statist', // Statist:  *
    'Stativ',  // Stativ:  *

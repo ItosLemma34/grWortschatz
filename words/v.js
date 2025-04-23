@@ -78,7 +78,7 @@ const v = [
    'Verstellung',  // Verstellung: *  combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  *
    'verstohlen',   // verstohlen:  *
-   'Verstümmelung', // Verstümmelung: *
+   'verstümmeln, Verstümmelung', //  *
    'vertrackt',   // vertrackt:  *   combine with Vertrackt if found
    'vertreten (sich die Beine)', //  *
    'Vertriebsweg', // Vertriebsweg:  *

@@ -6,7 +6,7 @@ Der SS-Mann, der neben dem Bettgestell stand, schlug zu. Der Kommunist konnte se
 Die Uniformierten salutierten, als die Kriminalbeamten aus dem schwarzen Wagen stiegen. Einer blieb stehen, der andere führte die Kriminalen auf die Baustelle. Hier bewegte sich im Moment gar nichts. Links stand ein Bagger ohne Baggerführer. Einige Arbeiter hatten sich auf einem sonnenbeschienenen Bretterstapel niedergelassen, einige standen einfach in der Gegend herum, die Hände in den Taschen. Die meisten aber hatten sich auf der anderen Seite der Baugrube an einer Böschung aus ausgehobenem märkischen Sand versammelt und schauten in die Tiefe. Da unten am Fundament hatten sich ebenfalls Schupos aufgebaut, doch offensichtlich gab es da noch mehr zu sehen als blaue Uniformen. Neben der Baugrube hatten die Männer vom Erkennungsdienst mit ihrer Arbeit begonnen. In einer kleinen Wanne rührten sie Gips an, um Fußspuren damit auszugießen. (<i>Der nasse Fisch</i>, 281)
 Als Jänicke sich mit dieser Nachricht aus der Hannoverschen Straße meldete, hatte Rath sich die Akte aus der Verbrecherkartei längst besorgt und auf dem verwaisten Schreibtisch von Erwin Roeder ausgebreitet. Ironischerweise war es genau das Büro, in das Charly ihn vor ein paar Tagen gezogen hatte, nicht besonders groß, aber mit einem entscheidenden Vorteil gegenüber Raths altem Büro in der Inspektion E: Er hatte es für sich allein. Selbst das Vorzimmer war verwaist, Roeders alte Sekretärin hatte ebenfalls Urlaub genommen.   (<i>Der nasse Fisch</i>, 281)
 Schwartz schob die Brille wieder hoch und klang plötzlich sehr amtlich. »Wann der Tod eingetreten ist, kann ich – wie gesagt – wegen der starken Verunreinigung der offenen Wunde nicht genau eruieren. Erschwert wird eine genaue Aussage zudem durch die Tatsache, dass die Leiche in Beton eingebettet war, was die Verwesung in jedem Fall verzögert haben dürfte.« Der nasse Fisch 297
-
+Bei der Vernehmung, als Gräf den armen Karl Reinhold damit bedrängt hatte, endlich das Versteck der Gruppe Wolff preiszugeben, hatte Rath tatsächlich kurz daran gedacht, seine Erkenntnisse über den Lunapark mit der Sonderkommission zu teilen. Sollte Gräf das Gelände doch von einer Hundertschaft durchsuchen lassen; vielleicht würden sie die Gruppe Wolff dort finden, vielleicht würden sie Juretzka dort finden. Und vielleicht würde der Gangster bei dieser Gelegenheit erschossen. Lunapark 342
  rappeln gerappelt voll Lunapark 218
 
 zzz: [
@@ -21,6 +21,29 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+'auf den Schlips treten': [
+	'der <strong>Schlips</strong>,-<strong>e</strong>: neck tie, cravat'+
+	'<br><strong>jmdm. auf den Schlips treten</strong>: tread on so.\'s toes'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20auf%20den%20Schlips%20treten"target="target1">auf den Schlips treten</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Schlips+treten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Schlips treten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Schlips+treten"target="target3">auf den Schlips treten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-schlips-treten"target="target4">auf den Schlips treten</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'<i>Rath</i>: Vielleicht sollten sie (<i>die Kommunisten</i>) sich nicht wehren, sondern nach Moskau gehen mit ihren kruden Ideen und allesamt dortbleiben. Wäre für beide Seiten besser." <i>Lange</i>: "Mag sein. So einfach ist das aber für einen Arbeiter nicht. Zu emigrieren, meine ich." Rath fragte sich, ob Lange insgeheim ein Sozi war. Er merkte, dass er <strong>dem Kollegen</strong> mit seiner letzten Bemerkung <strong>auf den Schlips getreten war</strong>. (<i>Lunapark</i>, 345)',  
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
+'Schlips (auf den S. treten)': [
+	'der <strong>Schlips</strong>,-<strong>e</strong>: neck tie, cravat'+
+	'<br><strong>jmdm. auf den Schlips treten</strong>: tread on so.\'s toes'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20auf%20den%20Schlips%20treten"target="target1">auf den Schlips treten</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Schlips+treten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Schlips treten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Schlips+treten"target="target3">auf den Schlips treten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-schlips-treten"target="target4">auf den Schlips treten</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'<i>Rath</i>: Vielleicht sollten sie (<i>die Kommunisten</i>) sich nicht wehren, sondern nach Moskau gehen mit ihren kruden Ideen und allesamt dortbleiben. Wäre für beide Seiten besser." <i>Lange</i>: "Mag sein. So einfach ist das aber für einen Arbeiter nicht. Zu emigrieren, meine ich." Rath fragte sich, ob Lange insgeheim ein Sozi war. Er merkte, dass er <strong>dem Kollegen</strong> mit seiner letzten Bemerkung <strong>auf den Schlips getreten war</strong>. (<i>Lunapark</i>, 345)',  
+],
 dingfest: [
 	'jmdn. <strong>dingfest</strong> machen: arrest, take sb. into custody'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/dingfest_machen"target="target1">dingfest machen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20dingfest%20machen"target="target2">dingfest machen</a>'+
@@ -155,9 +178,12 @@ Sündenbock: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Suendenbock"target="target1">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/S%C3%BCndenbock"target="target2">Sündenbock</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/suendenbock#S%C3%BCndenbock"target="target3">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=S%C3%BCndenbock"target="target4">Sündenbock</a>',
 	'<u>Lunapark</u>',  
-	'Lapkes Männer hatten so viel Übles auf Horst Kaczmarek abgewälzt, dass Lange sich zwischenzeitlich gefragt hatte, ob der Mord im Wedding womöglich auf ihr Konto ging. Ob sie womöglich mit einer Polizeiaktion gerechtnet und deswegen rechtzeitig für einen <strong>Sündenbock</strong> gesorgt hatten. Einen <strong>Sündenbock</strong>, der sich nicht mehr wehren konnte.  (<i>Lunapark</i>, 259-60)', 
+	'Lapkes Männer hatten so viel Übles auf Horst Kaczmarek abgewälzt, dass Lange sich zwischenzeitlich gefragt hatte, ob der Mord im Wedding womöglich auf ihr Konto ging. Ob sie womöglich mit einer Polizeiaktion gerechtnet und deswegen rechtzeitig für einen <strong>Sündenbock</strong> gesorgt hatten. Einen <strong>Sündenbock</strong>, der sich nicht mehr wehren konnte. (<i>Lunapark</i>, 259-60)', 
 	'<i>Charly</i>: "Aber er (<i>Karl Reinhold</i>) war\'s nicht! Er hat sich doch nur versteckt, er war an keiner politischen Aktion beteiligt. Nur seiner Freundin wegen ist er nach Berlin zurückgekehrt." <i>Gereon</i>: "Das sagst du. Für die Staatspolizei ist er der Hauptverdächtige. "Die brauchen einen <strong>Sündenbock</strong>, das ist alles." (<i>Lunapark</i>, 338)', 
+	'Gräf war froh, einen <strong>Sündenbock</strong> gefunden zu haben, den er seinen Chefs Nebe und Heydrich präsentieren konnte, doch er erwartete von Karl Reinhold nicht nur das Geständnis weiterer Morde, er wollte vor allem Hinweise auf das Versteck der Gruppe Wolff. (<i>Lunapark</i>, 342)', 
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 schmächtig: [
 	'<strong>schmächtig</strong>: lank, slight, slim'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmaechtig"target="target1">schmächtig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schm%C3%A4chtig"target="target2">schmächtig</a>'+
@@ -921,12 +947,14 @@ türmen: [
 	'<u>Lunapark</u>', 
 	'Die Sache mit dem vermeintlichen Fluchtwagen war so ungefähr die dünnste Spur, die sie hatten. Dass es sich überhaupt um einen Ford handelte, war eigentlich auch nur eine Vermutung. Und ob der Mörder von Hans Dewald nicht doch mit der U-Bahn <strong>getürmt</strong> war, stand ebenfalls nicht fest.  (<i>Lunapark</i>, 234-35)',  
 ],
-Verstümmelung: [
-	'die <strong>Verstümmelung</strong>,-<strong>en</strong>:  mutilation, disfigurement' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verstuemmelung"target="target1">Verstümmelung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Verst%C3%BCmmelung"target="target2">Verstümmelung</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verstummelung"target="target3">Verstümmelung</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Verst%C3%BCmmelung"target="target4">Verstümmelung</a> ' ,
+'verstümmeln, Verstümmelung': [
+	'<strong>verstümmeln</strong>: maim, mutilate; hamstring so./sth.' +
+	'<br>die <strong>Verstümmelung</strong>,-<strong>en</strong>: mutilation, disfigurement' +
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verstuemmeln"target="target1">verstümmeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Verst%C3%BCmmelung"target="target2">Verstümmelung</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verstümmeln"target="target3">verstümmeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Verst%C3%BCmmelung"target="target4">Verstümmelung</a> ' ,
 	'<u>Lunapark</u>',
 	'Gennats Stimme klang wie die eines netten Onkels. "Sie (<i>Landvogt</i>) sind SA-Mann, ich bin Polizeibeamter. Bei Ihnen sind da ein paar Dinge aus dem Ruder gelaufen, das müssen wir aufklären... Darunter," fuhr Gennat ungerührt fort, "fallen nicht nur Schläge und Tritte, der Gastronom Ferdinand Meyerheim hat sein rechtes Auge verloren, eine <strong>Verstümmelung</strong>, die ..." "Aber das war doch nicht ich! Das haben Sie falsch verstanden. Das war Katsche!.."  (<i>Lunapark</i>, 232)',
+	'<i>Lange</i>: "Das FJK hat schon angefangen, unsere Zeugen einzuschüchtern.. Kannst du dir das vorstellen. Männer, die in SA-Haft waren, die dort schwer verletzt, zum Teil <strong>verstümmelt</strong> worden sind, müssen zur Vernehmung in einer SA-Kaserne antanzen." (<i>Lunapark</i>, 344)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -2640,10 +2668,24 @@ bauschen: [
 	'<u>Der nasse Fisch</u>', 
 	'Durch die offene Balkontür drang der Lärm der Straße... Ein leiser Wind <strong>bauschte</strong> den langen Vorhang <strong>auf</strong> und ließ ihn ins Zimmer hineinwehen.  (<i>Der nasse Fisch</i>, 71)' ,
 ],
-Blech: [
-	'das <strong>Blech</strong>,-<strong>e</strong>: &nbsp;(sheet) metal <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Blech"target="target1">Blech</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/blech"target="target2">Blech</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blech"target="target3">Blech</a>  ',
+'Blech, blechern': [ 
+	'das <strong>Blech</strong>,-<strong>e</strong>: sheet metal; baking tray; rubbish'+
+	'<br><strong>blechern</strong>: tinny, metallic'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Blech"target="target1">Blech</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/blechern"target="target2">blechern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blech"target="target3">Blech</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=blechern"target="target4">blechern</a>',
+	'<u>Der nasse Fisch</u>',
+	'Sie (<i>Charly</i>) reichte dem Uniformierten ein Paar Stoffhandschuhe und drückte ihm ein paar <strong>blecherne</strong> Markierungsschilder in die Arme. Dann stapften sie los. (<i>Der nasse Fisch</i>, 60)',
+	'Rath lag schon wach, als der Zeiger einrastete und die rasselnde Glocke auslösen wollte. Mit einem schnellen Schlag stoppte er das <strong>blecherne</strong> Monstrum auf dem Nachttisch, bevor es Lärm machen konnte.  (<i>Der nasse Fisch</i>, 192)' ,
 	'<u>Märzgefallene</u>',
-	'Geräusche, die sie (<i>Hannah</i>) bislang gar nicht bemerkt hatte, kamen ihr mit einem Mal sehr laut vor. Der Wind, der irgendwo ein <strong>Blech</strong> klappern ließ. (<i>Märzgefallene</i>, 397)' ,
+	'<i>Rath</i>: "Halten Sie es für möglich, dass jemand eine Ihrer Spengfallen überlebt?" <i>Grimberg</i>: "Wir haben immer ziemlich viel Schrott rund um die Sprengladung gepackt, Nägel, <strong>Bleche</strong>, alte Schrauben und so \'n Zeug das ist ziemlich tödlich, wenn es durch die Gegend fliegt." (<i>Märzgefallene</i>, 279)' ,
+	'Geräusche, die sie (<i>Hannah</i>) bislang gar nicht bemerkt hatte, kamen ihr mit einem Mal sehr laut vor. Der Wind, der irgendwo ein <strong>Blech</strong> klappern ließ. (<i>Märzgefallene</i>, 397)',
+	'Rath räumte den Balken beiseite und noch mehr Schutt, der sich hier angesammelt hatte, bis er das Mauerwerk unter der Treppe erreichen konnte. Er ruckelte an jedem Stein, und einer ließ sich schließlich, beinah ohne Mühe, bewegen. Rath zog ihn heraus und fand dahinter eine Hohlraum. Er griff hinein und suchte,.. da ertastete er etwas Kühles, Hartes, <strong>Blechernes</strong>.  (<i>Märzgefallene</i>, 602)',
+	'<u>Lunapark</u>',
+	'Raths Blick ging zu der großen <strong>blechernen</strong> Mülltonne hinüber, die weiter hinten an der Wand stand. Der Wirt hatte dort hinübergeschielt während seiner Antwort.  (<i>Lunapark</i>, 41)',
+	'Und zwischen den beiden stand ein Mann, der ebenfalls eine SA-Uniform trug, allerdings eine besondere. "Ein Kettenhund!" So nannte man die SA-Feldjäger wegen ihres <strong>blechernen</strong> Ringkragens. (<i>Lunapark</i>, 73)' ,
+	'"Warum haben Sie sich nicht ordnungsgemäß ausgewiesen?", herrschte er (<i>ein SA-Mann</i>) den Kommissar an. "Weil Sie mir keine Gelegenheit dazu gegeben haben." Rath, die Hände immer noch erhoben, zeigte auf den Ringkragen, der den SA-Mann als Feldjäger auswies. "Kripo trägt ihr <strong>Blech</strong> eben nicht um den Hals, sondern in der Westentasche." (<i>Lunapark</i>, 91)' ,
+	'Die Leiche war übel zugerichtet. Trotz des vielen Blutes erkannte Rath die Uniform und den <strong>blechernen</strong> Ringkragen der SA-Feldjäger.  (<i>Lunapark</i>, 167)',
+	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],	
 ballern: [
 	'<strong>ballern</strong>: &nbsp;bang away, shoot at; hurl, slam  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ballern"target="target1">ballern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ballern"target="target2">ballern</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ballern"target="target3">ballern</a>    ',
@@ -2897,15 +2939,18 @@ blasiert: [
 	'<strong>blasiert</strong>: &nbsp;smug <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/blasiert"target="target1">blasiert</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blasiert"target="target2">blasiert</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/blasiert"target="target3">blasiert</a>   ',
 	'Er (<i>Gereon</i>) hatte ihr (<i>Charly</i>) nicht verraten, wohin er sie ausführen wollte, lediglich erzählt, dass elegante Abendgarderobe nötig sein würde.... Der Empfangskellner, der zunächst einen arrogant <strong>blasierten</strong> Eindruck gemacht hatte, konnte sich vor lauter Katzbuckeln gar nicht mehr einkriegen, kaum hatte er den Namen Rath vernommen.  (<i>Märzgefallene</i>, 191-92)',
 ],
-Blaumann: [
-	'der <strong>Blaumann</strong>,-<strong>männer</strong>: overalls; &nbsp;workers in overalls'+
+Blaumann: [ 
+	'der <strong>Blaumann</strong>,-<strong>männer</strong>: overalls; &nbsp;worker in overalls'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Blaumann"target="target1">Blaumann</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Blaumann"target="target2">Blaumann</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blaumann"target="target3">Blaumann</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/blaumann"target="target4">Blaumann</a>',
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blaumann"target="target3">Blaumann</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Blaumann"target="target4">Blaumann</a>',
 	'<u>Märzgefallene</u>',
 	'Er (<i>Leo</i>) blickte auf einen schotterbedeckten Hof, auf dem ein paar Autos parkten. Zwei Männer im <strong>Blaumann</strong> lehnten an der Mauer eines Backsteingebäudes und rauchten eine Zigarette. Vor einem großen Tor wartete ein Lastwagen darauf, beladen zu werden. Im Gebäude nebenan wurde also tatsächlich ganz normal gearbeitet. Ob die <strong>Blaumänner</strong> wussten, wer ihre neuen Nachbarn (<i>die SA</i>) waren? (<i>Märzgefallene</i>, 220-21)',
 	'<u>Lunapark</u>',
-	'Er (<i>Rath</i>) hatte das Programmheft von <i>Haus Vaterland</i> dabei, in dem Mohammed Husen abgebildet war.. "Finde ich den hier irgendwo?", fragte er den nächtsbesten Arbeiter, der in einem ölverschmierten <strong>Blaumann</strong> über den Hof lief.  (<i>Lunapark</i>, 290)',
- ],
+	'Rath dachte an den Stoffetzen am Fleischerhaken, der auch nicht gerade nach <strong>Blaumann</strong> ausgesehen hatte, und schwieg. Sosehr ihm der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten in die Mangel genommen zu werden. (<i>Lunapark</i>, 204)',
+	'Er (<i>Rath</i>) hatte das Programmheft von <i>Haus Vaterland</i> dabei, in dem Mohammed Husen abgebildet war.. "Finde ich den hier irgendwo?", fragte er den nächtsbesten Arbeiter, der in einem ölverschmierten <strong>Blaumann</strong> über den Hof lief. (<i>Lunapark</i>, 290)',
+	'Der Arbeiter schaute auf das Foto. "Sie suchen \'nen Cowboy?", fragte er und musterte Rath. "Einen Neger. Könnte sein, dass der hier arbeitet." Der <strong>Blaumann</strong> zog die Stirn in Falten. "Und als was?" "Als Cowboy jedenfalls nicht." Rath spürte, wie sein Lächeln missglückte. (<i>Lunapark</i>, 291)',
+	'"Was wollen Se wirklich, Mann? Wer sind Sie? Etwa \'n Schnüffler? \'n Spion?" Der <strong>Blaumann</strong> baute sich bedrohlich vor ihm (<i>Rath</i>) auf. Unter der dicken Leinenjoppe spannte sich eine beträchtliche Menge Muskeln.   (<i>Lunapark</i>, 291)',
+],
 blendend: [ 
 	'<strong>blendend</strong>: splendid, magnificent, dazzling'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/blendend"target="target1">blendend</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/blendend"target="target2">blendend</a>'+
@@ -5007,6 +5052,7 @@ Gelände:[
 	'Der sicherste Weg war der über die Trabener Straße, keine Wohnhäuser, nur der Bahndamm und ein paar Bäume. Durch den präparierten Zaun aufs <strong>Gelände</strong>, dann durch die Eingeweide der Achterbahn bis zu ihrem Versteck.  (<i>Lunapark</i>, 247)',
 	'.. der Park (<i>Lunapark</i>) hatte nach der letzten Winterpause nicht mehr geöffnet, sein Abriss war beschlossene Sache. Eine Straße war geplant, die quer über das <strong>Gelände</strong> führen und den Ku\'damm mit der Kantstraße und der Messe verbinden sollte. Eingefriedetes <strong>Gelände</strong>, keine Nachtwächter, jede Menge leer stehende Gebäude - ein ideales Verstech für Menschen, die zur Fahndung ausgeschrieben waren... (<i>Lunapark</i>, 312)',
 	'Rath war überrascht. "Das heißt, er (<i>der ermorderte Erich Sperling</i>) hat den ganzen Sonntag hier gelegen, ohne dass einer was gemerkt hat?" <i>Gräf</i>: "Warum nicht? Das ist eine Baustelle, die war das ganze Wochenende abgesperrt. Die Bauarbeiter waren die Ersten, die das <strong>Gelände</strong> heute Morgen wieder betreten haben."  (<i>Lunapark</i>, 329)',
+	'Bei der Vernehmung, als Gräf den armen Karl Reinhold damit bedrängt hatte, endlich das Versteck der Gruppe Wolff preiszugeben, hatte Rath tatsächlich kurz daran gedacht, seine Erkenntnisse über den Lunapark mit der Sonderkommission zu teilen. Sollte Gräf das <strong>Gelände</strong> doch von einer Hundertschaft durchsuchen lassen; vielleicht würden sie die Gruppe Wolff dort finden ... (<i>Lunapark</i>, 342)', //copied
 ],
 Geländer:[
 	'das <strong>Geländer</strong>,-: handrail, balustrade, bannister, guardrail'+
@@ -10389,6 +10435,7 @@ Schnösel: [
 	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem Strauch <strong>schnupperte</strong>.  (<i>Lunapark</i>, 80)' ,
 	'Berlin war eine Bierstadt, und auch in dieser Gegend gab es eine große Bauerei. Das Böhmische Brauhaus zwängte sich zwischen die Wohnhäuser der Landsberger Allee, ein Areal, mindestens so groß wie das von Schultheiß an der Schönhauser, aber längst nicht so auffällig. Bis auf den Geruch. Kirie <strong>erschnupperte</strong> die neue Umgebung mit neugieriger Nase.  (<i>Lunapark</i>, 113)' ,
 	'Sie (<i>Charly</i>) zerrte den Hund von der Straßenlaterne weg, an der er gerade <strong>schnupperte</strong>, und betrat die Mietskaserne. (<i>Lunapark</i>, 114)' ,
+	'Kirie <strong>schnupperte</strong> an einer Straßenlaterne, doch Rth zog an der Leine, er hatte es eilig. (<i>Lunapark</i>, 343)' ,
 ],
 'erschnuppern, schnuppern': [
 	'<strong>schnuppern</strong>: sniff &nbsp;&nbsp;<strong>erschnuppern</strong>: sniff out' +
@@ -13836,6 +13883,7 @@ Taxe  Der nasse Fisch  153
  'verrichten'  ;   Nworte++;      Märzgefallene   115
  verrutschen        Märzgefallene   402
  'Verschlüsse'  ;   Nworte++;      Märzgefallene   11
+ Versteck Lunapark 342                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
  Vertäfelung  Lunapark 276
  'Vorabveröffentlichung'  ;   Nworte++;   Märzgefallene   137
    vorliebnehmen   Märzgefallene    361

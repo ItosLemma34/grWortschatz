@@ -13,6 +13,7 @@ const v = [
    'verdruckst',  //verdruckst: *
    'verdünnisieren (sich)' , // *
    'verdunsten',  // verdunsten:  *
+   'verflachen', // verflachen:  *
    'verfilzen' ,  //verfilzen:  *
   // 'verflixt',  open with more examples
    'vergackeiern',  //vergackeiern:  *
@@ -55,6 +56,7 @@ const v = [
    'versaufen', // versaufen: *
    'verschanzen (sich)' , //  *
    'verscharren',    // verscharren: *
+   'verscherbeln', // verscherbeln: *
    'verscherzen (sich)',  //  *
    'verschieben',  // verschieben:  *
    'verschimmeln' ,  // verschimmeln:  *

@@ -40,8 +40,8 @@ const b = [
     'Biege machen',  // 
     'bimmeln', // *
     'bis in die Puppen', // *  duplicated 
-    'Blase',  //Blase:  
-    'blasiert',  //blasiert: 
+    'Blase',  // Blase: * 
+    'blasiert',  // blasiert: *
     'Blaumann',  // Blaumann: * 
     'Blech, blechern',  // * 
     'blendend',  // blendend: * 

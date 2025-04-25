@@ -15,6 +15,7 @@ const l = [
    'Lauf',    // Lauf: *
    'Laufbursche',  // Laufbursche: *
    'lausig',  // lausig: *
+   'läutern, Läuterung', // *
    'Leibesvisitation', // Leibesvisitation: *
    'Leier',  // Leier: *
    'leiern', // leiern:  * 

@@ -28,6 +28,7 @@ const d = [
    'durch den Wolf drehen',  // *  duplicated 
    'durch die Mangel drehen', // * duplicated
    'durchdrehen',  // durchdrehen: *
+   'durchforsten', // durchforsten: *
    'durchkämmen',  // durchkämmen: *
    'durchmogeln (sich)',  // *
    'durchnässen',  //  durchnässen: *

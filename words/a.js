@@ -22,6 +22,7 @@ const a = [
 	'abwiegeln',  // abwiegeln:  *    
 	'abwimmeln',  // abwimmeln:  *   
 	'abzocken',   //abzocken: 
+	'Abzweig, abzweigen',  //  *
 	'achtkantig hinauswerfen', // 
 	'ächzen',     //ächzen:
 	'Ader',  // Ader: *
@@ -131,6 +132,7 @@ const a = [
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
 	'ausbaldowern', // ausbaldowern:  *
+	'ausbremsen', // ausbremsen:  *
 	'ausbuddeln, buddeln', //  * duplicated;   also pair with "einbuddeln" if found
 	'ausbüxen',    //ausbüxen:  
 	'Ausdünstung',  //Ausdünstung:  

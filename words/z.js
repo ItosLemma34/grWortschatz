@@ -60,7 +60,7 @@ const z = [
    'zwinkern',  // zwinkern: *
    'zwirbeln',  // zwirbeln: *
    'Zwirn',  // Zwirn: *
-   'zwitschern',  // zwitschern: *
+   'zwitschern, Gezwitscher',  // duplicated *
 ];
 
 export default z;         

@@ -26,6 +26,7 @@ const m = [
    'Mühle',  // Mühle: *
    'Mullbinde', // Mullbinde: *
    'mulmig',  // mulmig: *
+   'Mumm',  // Mumm: *
    'Mumpitz',  // Mumpitz: *
    'munkeln',  // munkeln: *
    'Murmel' , // Murmel: *

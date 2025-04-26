@@ -11,6 +11,7 @@ const l = [
    'lässig',  // lässig: *
    'lasten',  // lasten: *
    'Laster',  // Laster:  *
+   'Lastkahn', // Lastkahn: *  pair with Kahn, if found
    'Laube, Laubenkolonie', //  *
    'Lauf',    // Lauf: *
    'Laufbursche',  // Laufbursche: *

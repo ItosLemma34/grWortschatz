@@ -3,6 +3,7 @@ const k = [
    'kacheln', // kacheln: *
    'Kaffeekränzchen',  // Kaffeekränzchen: *
    'kahl',  // kahl: *
+   // Kahn -- pair with Lastkahn if "Kahn" found
    'Kantholz',  // Kantholz: *
    'Karnickel', // Karnickel: *
    'Karree',   // Karree: *  
@@ -80,12 +81,13 @@ const k = [
    'knurren',  // knurren: *  
    'Köder',   // Köder: *
   // 'Kontor',
-   'Konterfei',  // Konterfei: *
+   'Konterfei',  // Konterfei: *  
    'köpfen',  // köpfen: *
    'Korb (einen K. bekommen)', // *
    'Korbstuhl',  // Korbstuhl:  *
    'Kordel',  // Kordel: *
    'Kot, koten, Kotflügel', // *
+   'kotzen', // kotzen: *
    'krabbeln',  // krabbeln: *
    'krachen, Krach', // *
    'Krähe, krähen', // *  

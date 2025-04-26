@@ -58,6 +58,7 @@ const g = [
    'Gewühl',   // Gewühl: *
    'Gewummer, wummern', // * duplicated  
    'gewunden, winden', //  *  duplicated
+   'Gezwitscher, zwitschern', // * duplicated
    'Gier, gieren',  //  * 
    'giften',   // giften:  *
    'giggeln',  // giggeln:  *

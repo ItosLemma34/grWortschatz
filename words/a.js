@@ -55,6 +55,7 @@ const a = [
 	'Anrichte',     //Anrichte:  
 	'ans Bein binden',  //
 	'anschleichen (sich)', //
+	'anschmachten, schmachten', // * duplicated
 	'anschmiegsam', //anschmiegsam: 
 	'anschnauzen',  // anschnauzen: 
 	'anschnorren, schnorren', // * duplicated
@@ -62,11 +63,12 @@ const a = [
 	'ansengen',     //ansengen:  
 	'Ansinnen' ,    // Ansinnen: * 
 	'anstupsen',    //anstupsen:  
-	'antanzen',     //antanzen:  
+	'antanzen',     // antanzen: *  
 	'Anwesen',      // Anwesen: *
 	'anwidern',     //anwidern:  
 	'Anzeige erstatten', //  
 	'anzwinkern',  //anzwinkern: 
+	'apportieren', // apportieren: 
 	'Areal' ,  // Areal:
 	'Armbeuge',    //Armbeuge:   
 	'arme Ritter', // *  duplicated
@@ -98,6 +100,7 @@ const a = [
 	'auf Zack sein',    // *
 	'aufbahren',   //aufbahren:  
 	'aufbauschen', // aufbauschen:  * 
+	'aufbrummen', // aufbrummen: *
 	'aufdonnern (sich)',  //
 	'auffächern, fächern', // * duplicated
 	'auffliegen',  // auffliegen:   

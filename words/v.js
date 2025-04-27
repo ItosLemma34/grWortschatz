@@ -43,6 +43,7 @@ const v = [
    'verpfeifen',  // verpfeifen: *
    'verplappern (sich)', //  *
    'verplempern',  // verplempern: *
+   'verputzen',  // verputzen: *
    'verrammeln',  // verrammeln:  *
    'verrecken',  // verrecken:  *
    'verrenken (sich)', //  *

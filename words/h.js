@@ -4,6 +4,7 @@ const h = [
    'hadern',  // hadern: * 
    'Häkchen',  // Häkchen: *
    'haken, Haken, Haken schlagen', // *
+   'halbgar', // halbgar:  *
    'halbseiden',  // halbseiden: *  
    'Halunke',  // Halunke: *
    'hämisch',  // hämisch: *
@@ -33,7 +34,7 @@ const h = [
    'hereinlegen',  // hereinlegen:  *
    'herumfuhrwerken',  // herumfuhrwerken: *
    'herumlungern', // herumlungern:  *
-   'hetzen, gehetzt',  // hetzen: * duplicated 
+   'hetzen, gehetzt',  // * duplicated 
    'heucheln', // heucheln: *
    'heulen',  // heulen:  *
    'hinterlistig',  // hinterlistig: *

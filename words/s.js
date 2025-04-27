@@ -41,6 +41,7 @@ const s = [
    'Schlauch', // Schlauch: *
    'schleifen, Schleifer' ,  //  *
    'schlendern' , // schlendern: *
+   'Schlendrian', // Schlendrian: *
    'Schleuse, schleusen', // *
    'Schliere, schlieren', // *
    'schliddern, schlittern', // *
@@ -51,6 +52,7 @@ const s = [
    'Schlüpfer',  // Schlüpfer: *
    'schlüpfrig', // schlüpfrig: *
    'Schmach', // Schmach:  *
+   'schmachten, anschmachten', // * duplicated
    'schmächtig', // schmächtig:  *
    'schmettern', // schmettern: *
    'schmiegen (sich)', // *

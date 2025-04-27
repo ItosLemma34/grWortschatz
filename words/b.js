@@ -34,7 +34,7 @@ const b = [
     'betreten',   //betreten:
     'Bettfeder',  // Bettfeder: *  
     'betupfen',   //betupfen:  
-    'Beule',      // Beule:  *
+    'Beule, beulen',   //  *
     'bibbern',    // bibbern: *
     'bieder',     //bieder: 
     'Biege machen',  // 

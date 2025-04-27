@@ -2,6 +2,7 @@ const e = [
    'Ebbe',   // Ebbe:  * 
    'echoen',  // echoen: *
    'Ei (wie aus dem Ei gepellt)', // * duplicated  
+   'einbetonieren', // einbetonieren *
    'einbrocken',  // einbrocken:  *
    'einbuchten',  // einbuchten:  *
  //  'einbuddeln'  pair with 'ausbuddeln'

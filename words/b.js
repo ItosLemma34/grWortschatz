@@ -36,8 +36,8 @@ const b = [
     'betupfen',   //betupfen:  
     'Beule, beulen',   //  *
     'bibbern',    // bibbern: *
-    'bieder',     //bieder: 
-    'Biege machen',  // 
+    'bieder',     // bieder: *
+    'Biege machen', // *
     'bimmeln', // *
     'bis in die Puppen', // *  duplicated 
     'Blase',  // Blase: * 

@@ -35,7 +35,7 @@ const t = [
    'tumb',   // tumb: *
    'tünchen, Tünche', // *
    'tunken',  // tunken: *
-   'tupfen',  // tupfen: *
+   'tupfen, betupfen',  //  * duplicated
    'türken',  // türken: *
    'türmen', // türmen *
 //   'turteln', // turteln:  duplicate with Geturtel

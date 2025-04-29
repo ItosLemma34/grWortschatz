@@ -25,15 +25,15 @@ const b = [
     'Bengel',     //Bengel:  
     'benommen',   //benommen: 
     'bepinseln, pinseln', // * duplicated
-    'berappen',   //berappen:  
-    'beredt',     //beredt:  
+    'berappen',   // berappen: * 
+    'beredt',     // beredt:  
     'Beritt',     //Beritt:  
     'bescheuert',  //bescheuert: 
     'Besen',      //Besen:  
     'Besteck',    // Besteck:  *  
-    'betreten',   //betreten:
+    'betreten',   // betreten:  Finish with betreten from Lunapark 
     'Bettfeder',  // Bettfeder: *  
-    'betupfen',   //betupfen:  
+    'betupfen, tupfen',   // * duplicated  
     'Beule, beulen',   //  *
     'bibbern',    // bibbern: *
     'bieder',     // bieder: *

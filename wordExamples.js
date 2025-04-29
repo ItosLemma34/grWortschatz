@@ -2771,10 +2771,12 @@ beredt: [
 	'Der stets korrekte und noch mehr auf Korrektheit pochende Böhm war offensichtlich mit seinem Verhalten auch mal angeeckt. Vielleicht würde das ihren (<i>Charlys</i>) Helden ein klein wenig vom Sockel stoßen. Rath hatte ohnehin nie verstanden warum Charly so große Stücke auf den <strong>brummigen</strong> Oberkommissar hielt.  (<i>Märzgefallene</i>, 129)  ',
 	'"Ist das eigentlich eine Spinne, die da aus dem Kelch krabbelt?", fragte Charly plötzlich in die Stille hinein und zeigte auf das Heiligenbild an der Wand hinter dem Pastor. "Der heilige Norbert", beeilte Rath sich zu erklären.... "Unser Pfarrpatron", sagte Pastor Warszawski. In seiner <strong>Brummigkeit</strong> hatte er Rath schon immer an Wilhelm Böhm errinnert. <i>Charly</i>: "Und was hat es mit der Spinne da auf sich?" "Das erkär ich dir zu Hause", sagte Rath. Warszawski lachte. Und mit dem Lachen fiel das <strong>Brummige</strong> von ihm ab.    (<i>Märzgefallene</i>, 382)' ,
 ],
-berappen: [
-	'<strong>berappen</strong>: &nbsp;fork over/shell out for sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/berappen_bezahlen"target="target1">berappen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/berappen"target="target2">berappen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/berappen"target="target3">berappen</a>    ',
+berappen: [ 
+	'<strong>berappen</strong>: fork over/shell out for sth.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/berappen_bezahlen"target="target1">berappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/berappen"target="target2">berappen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/berappen"target="target3">berappen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=berappen"target="target4">berappen</a>',
 	'<u>Der nasse Fisch</u>', 
-	'Morgens war hier (im <i>Haus Vaterland</i>) nicht viel los. Wenigstens musste Rath um diese Uhrzeit noch keinen Eintritt <strong>berappen</strong>, um den Komplex überhaupt betreten zu dürfen. Abends war das hier üblich.   (<i>Der nasse Fisch</i>, 176)' ,
+	'Morgens war hier (im <i>Haus Vaterland</i>) nicht viel los. Wenigstens musste Rath um diese Uhrzeit noch keinen Eintritt <strong>berappen</strong>, um den Komplex überhaupt betreten zu dürfen. Abends war das hier üblich.   (<i>Der nasse Fisch</i>, 176)',
 //	'<u>Märzgefallene</u>',
 ],
 bloßstellen: [ 
@@ -2867,12 +2869,35 @@ Brüstung: [
 ],	
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
-betupfen: [
-	'<strong>betupfen</strong>: &nbsp;dab, swab, sprinkle <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/betupfen"target="target1">betupfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/betupfen"target="target2">betupfen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/betupfen"target="target3">betupfen</a>    ',
-//	'<u>Der nasse Fisch</u>', 
+'betupfen, tupfen': [ 
+	'<strong>tupfen</strong>: dab, swab, sponge'+
+	'<br><strong>betupfen</strong>: dab, swab, spot, sprinkle'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tupfen"target="target1">tupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/betupfen"target="target2">betupfen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/tupfen"target="target3">tupfen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/betupfen"target="target4">betupfen</a>',
 	'<u>Märzgefallene</u>',
-	'Am Rande des Abgrunds aber stand eine alte Buche mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell <strong>betupft</strong> war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte. (<i>Märzgefallene</i>, 440)' ,
+	'Der Doktor (<i>Schwartz</i>) fluchte. Eine der Tauben, die oben in den Stahlstreben gurrten, hatte einen hellen Fleck auf seinem dunklen Wintermantel hinterlassen. Schwartz zog ein blütenweißes Taschentuch hervor und versuchte, die Sauerei wieder wegzu<strong>tupfen</strong>. (<i>Märzgefallene</i>, 17)',
+	'Es war zwar kein richtiger rheinischer Sauerbraten, aber mit etwas Salz ging’s. Rath nahm noch einmal nach und freute sich über ihr (<i>Charlys</i>) glückliches Gesicht. "Und jetzt?", sagte er und <strong>tupfte sich</strong> den Mund mit der Serviette ab. "Lust auf ein wenig Nachtisch?...." (<i>Märzgefallene</i>, 105-106)',
+	'Am Rande des Abgrunds aber stand eine alte Buche mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell <strong>betupft</strong> war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte. (<i>Märzgefallene</i>, 440)',
+	'<u>Lunapark</u>',
+	'Rath <strong>tupfte sich</strong> den Mund mit der Serviette <strong>ab</strong>, um noch einen Schluck Bier zu trinken.  (<i>Lunapark</i>, 71)',
+	'Lange <strong>tupfte sich</strong> den Mund mit der Serviette <strong>ab</strong>.  (<i>Lunapark</i>, 265)',
+	'Zeyen überlegte. "Jetzt, wo Sie es sagen. Da waren so ein paar weiße Sprenkler auf der Beifahrertür. Zuerst hab ich gedacht, das ist Vogeldreck, aber das war auch auf dem Sitz, ein paar weiße <strong>Tupfen</strong> auf dem schwarzen Leder..."  (<i>Lunapark</i>, 305)',
 ],
+'tupfen, betupfen': [ 
+	'<strong>tupfen</strong>: dab, swab, sponge'+
+	'<br><strong>betupfen</strong>: dab, swab, spot, sprinkle'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tupfen"target="target1">tupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/betupfen"target="target2">betupfen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/tupfen"target="target3">tupfen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/betupfen"target="target4">betupfen</a>',
+	'<u>Märzgefallene</u>',
+	'Der Doktor (<i>Schwartz</i>) fluchte. Eine der Tauben, die oben in den Stahlstreben gurrten, hatte einen hellen Fleck auf seinem dunklen Wintermantel hinterlassen. Schwartz zog ein blütenweißes Taschentuch hervor und versuchte, die Sauerei wieder wegzu<strong>tupfen</strong>. (<i>Märzgefallene</i>, 17)',
+	'Es war zwar kein richtiger rheinischer Sauerbraten, aber mit etwas Salz ging’s. Rath nahm noch einmal nach und freute sich über ihr (<i>Charlys</i>) glückliches Gesicht. "Und jetzt?", sagte er und <strong>tupfte sich</strong> den Mund mit der Serviette ab. "Lust auf ein wenig Nachtisch?...." (<i>Märzgefallene</i>, 105-106)',
+	'Am Rande des Abgrunds aber stand eine alte Buche mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell <strong>betupft</strong> war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte. (<i>Märzgefallene</i>, 440)',
+	'<u>Lunapark</u>',
+	'Rath <strong>tupfte sich</strong> den Mund mit der Serviette <strong>ab</strong>, um noch einen Schluck Bier zu trinken.  (<i>Lunapark</i>, 71)',
+	'Lange <strong>tupfte sich</strong> den Mund mit der Serviette <strong>ab</strong>.  (<i>Lunapark</i>, 265)',
+	'Zeyen überlegte. "Jetzt, wo Sie es sagen. Da waren so ein paar weiße Sprenkler auf der Beifahrertür. Zuerst hab ich gedacht, das ist Vogeldreck, aber das war auch auf dem Sitz, ein paar weiße <strong>Tupfen</strong> auf dem schwarzen Leder..."  (<i>Lunapark</i>, 305)',
+],
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Buche: [ 
 	'die <strong>Buche</strong>,-<strong>n</strong>: beech tree'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buche"target="target1">Buche</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Buche"target="target2">Buche</a>'+
@@ -3145,7 +3170,6 @@ Beritt: [
 	'<u>Märzgefallene</u>',
 	'Genau das ist Sinn und Zweck des Unternehmens Alberich. Nichts übriglassen im Abzugsgebiet.... Ein gutes Dutzend Dörfer gehört zu unserem <strong>Beritt</strong>, ein Dutzend von insgesamt zweihundert, die dem Erdboden gleichgemacht werden müssen.  (<i>Märzgefallene</i>, 159-160)',
 ],   
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Besen: [
 	'der <strong>Besen</strong>,-: &nbsp;broom, brush <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Besen"target="target1">Besen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/besen"target="target2">Besen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/besen?q=Besen"target="target3">Besen</a> ',
 	'<u>Märzgefallene</u>',
@@ -3162,13 +3186,32 @@ Besteck: [
 	'<i>Lange</i>: "..Ich denke, Sie (<i>Rath</i>) sollten das wissen: Lapke behauptet, Sie stünden auf der Gehaltsliste von Johann Marlow, genannt Doktor M., er habe sie beide zusammen gesehen... Ich will Sie nur warnen, dass Lapke womöglich weiterhin versuchen wird, Sie anzuschwärzen." "Vielen Dank für diesen Hinweis, Lange." Rath legte sein <strong>Besteck</strong> beiseite. "Was haben die Vernehmungen denn sonst ergeben?"   (<i>Lunapark</i>, 264-65)',
 	'<i>Gereon</i>: "Du lernst diesen Husen während dieser verdeckten Ermittlungen vor zwei Jahren kennen, und jetzt ist er dein Mandant." <i>Charly</i>: "Kein Zufall. Hab ihn doch selbst an Guido vermittelt.. Hätte allerdings niemals gedacht, dass ich mich mal um die Sache kümmere." "Ah ja." "Wie: Ah ja?" Charly hatte das ein wenig zu scharf gesagt und ihr <strong>Besteck</strong> auf den Tisch fallen lassen.  (<i>Lunapark</i>, 271-72)',
 ],
-betreten: [
-	'<strong>betreten</strong>: &nbsp;embarrassed, awkward;  &nbsp;verb: enter, tread on  <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/betreten_Adjektiv"target="target1">betreten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/betreten"target="target2">betreten</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/betreten"target="target3">betreten</a>',
+betreten: [ 
+	'<strong>betreten</strong> (verb): enter, tread on'+
+	'<br><strong>betreten</strong> (adj/adv): embarrassed, awkward'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/betreten_Verb"target="target1">betreten</a> &nbsp;<a href="https://www.dwds.de/wb/betreten"target="target1">betreten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/betreten"target="target3">betreten</a> &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/betreten"target="target4">betreten</a>',
 	'<u>Der nasse Fisch</u>',
-	'Eine Zeit lang herrschte <strong>betretenes</strong> Schweigen. Rath tat nichts dagegen, das kam ihm gerade sehr zupass. Sollte sie (<i>Charly</i>) ruhig glauben, der Dicke (<i>Kioskbetreiber</i>) hätte ihn in Verlegenheit gebracht. Dann merkte sie wenighstens nicht, dass eigentlich sie die Ursache dafür war. (<i>Der nasse Fisch</i>, 119)' ,
+	'Eine Zeit lang herrschte <strong>betretenes</strong> Schweigen. Rath tat nichts dagegen, das kam ihm gerade sehr zupass. Sollte sie (<i>Charly</i>) ruhig glauben, der Dicke (<i>Kioskbetreiber</i>) hätte ihn in Verlegenheit gebracht. Dann merkte sie wenighstens nicht, dass eigentlich sie die Ursache dafür war. (<i>Der nasse Fisch</i>, 119)',
+	'Morgens war hier (im <i>Haus Vaterland</i>) nicht viel los. Wenigstens musste Rath um diese Uhrzeit noch keinen Eintritt berappen, um den Komplex überhaupt <strong>betreten</strong> zu dürfen. Abends war das hier üblich.   (<i>Der nasse Fisch</i>, 176)',
+	'Der Kommissar starrte auf die Akte, als sei sie aus einem bösen Traum auf den Schreibtisch gesegelt. Er hatte es geahnt, seit sie das Gelände heute Morgen betreten <strong>hatten</strong>. Und der Blick in die Baugrube hatte die letzten Zweifel vertrieben: dieselbe Baustelle. (<i>Der nasse Fisch</i>, 287)',
 	'<u>Märzgefallene</u>',
+	'Zum zweiten Mal, seit sie den Raum <strong>betreten</strong> hatte, hob Hannah Singer ihr Gesicht. (<i>Märzgefallene</i>, 46)',
+	'Schon beim <strong>Betreten</strong> der Klasse hatte Linus Meifert sich wie ein zerstreuter Professor benommen, hatte das falsche Lehrbuch aus der Tasche geholt und um ein Haar die korrigierten Klassenarbeiten der Obersekunda austeilen lassen, ganze zwei Stunden zu früh und in der falschen Klasse. (<i>Märzgefallene</i>, 127)',
+	'Charly schaute den Schupo an, der ihrem Blick auswich, und dann in die sperrangelweit offenstehende hochherrschaftliche Haustür, in das hellerleuchtete Treppenhaus, das sie nicht <strong>betreten</strong> durfte. (<i>Märzgefallene</i>, 205)' ,
+	'Das Sankt-Hedwig-Krankenhaus lag wie eine keine Insel inmitten der Spandauer Vorstadt. Kaum hatte Rath den grünen Innenhof <strong>betreten</strong>, ließ er die Hektik der Großstadt hinter sich, aus irgendeinem Grund kam sie nicht mit durch dieses Tor. (<i>Märzgefallene</i>, 240)',
 	'"Gereon, ich glaube, es wäre besser, du kommst raus." Czerwinski machte eine <strong>betretene</strong> Pause. "Die Frau sagt, man habe Linus Meifert vorgestern tot im Park gefunden." (<i>Märzgefallene</i>, 264)',
-	'Der einzige Fehler war.. dass sie (<i>Charly und Gereon</i>) Charlys Mutter in der Nähe des Telefunken-Musikschranks plaziert hatten... "Ich darf doch?", fragte sie, und noch bevor irgendjemand antworten konnte, hatte sie das Gerät auch schon eingeschaltet. Es knarzte und rauschte einen Moment, dann meldete sich die Funkstunde Berlin. Eine Übertragung aus dem Reichstag. Und mit einem Mal, zum Ensetzen fast aller, schnarrte die Stimme von Adolf Hitler durch den Raum... Alle am Tisch schauten sich <strong>betreten</strong> an.    (<i>Märzgefallene</i>, 589)' ,
+	'Und dann brauste einige Zeit später das Automobil des Hauptmanns heran und holte unseren abziehenden Troß ein. Thelen, des Hauptmanns Fahrer, stieg aus, dann Grimberg, der Sprengmeister.... Sogleich erstatteten sie Bericht und wir erfuhren, was geschehen war: Hauptmann Engel sei beim Inspizieren der Sprengfallen ... einer Fehlzündung zum Opfer gefallen, die gerade in dem Moment auslöste, als Engel den Graben <strong>betreten</strong> habe. (<i>Märzgefallene</i>, 272)',
+	'<i>Walter Engel</i>: "Ich bein Halbjude, Herr Kommissar, auch wenn ich mein Leben lang noch keine Synagoge <strong>betreten</strong> habe. (<i>Märzgefallene</i>, 375)',
+	'Der Polizeipräsident runzelte zwar die Stirn, aber dann wedelte er mit der rechten Hand, als scheuche er einen ungehorsamen Hund aus dem Zimmer. Für dieses Mal war Rath mit seinem schlampigen Hitlergruß durchgekommen, und so bald, da war er sich sicher, würde er dieses Büro nicht mehr <strong>betreten</strong>. (<i>Märzgefallene</i>, 421)',
+	'Dann aber sah Rath eine Frau, die sich von den bösen Blicken zweier SA-Leute nicht davon abhalten ließ, ein Bekleidungsgeschäft zu <strong>betreten</strong>, und fühlte, dass das alte Deutschland doch noch nicht tot war. (<i>Märzgefallene</i>, 460)',
+	'Weinert wartete noch einen Moment, bevor er sich umdrehte. Und dann sah er, was Gereon meinte: Ein blonder SA-Mann hatte die Kneipe <strong>betreten</strong>, in Begleitung eines Zivilisten. (<i>Märzgefallene</i>, 532)',
+	'Die wenigsten hier hätten wohl etwas dagegen gehabt, den echten Kopf dieser Judenschwuchtel aufgespießt zu sehen. Doch Hirschfeld hatte sich wie so viele Feiglinge, deren Bücher heute verbrannt wurden, einfach aus dem Staub gemacht, seit Jahren schon hatte er Deutschland nicht mehr <strong>betreten</strong>. (<i>Märzgefallene</i>, 554)' ,
+	'Weinert überlegte gerade, wie lange er noch auf den Möchtegern-Schriftsteller warten solle oder ob er besser einen der Studentenführer nach Roddecks Verbleib fragen sollte, da brandete Applaus durch die Menge. Im ersten Moment glaubte Weinert, Achim von Roddeck habe das Rednerpodium doch noch <strong>betreten</strong>... (<i>Märzgefallene</i>, 569)' ,
+	'Der einzige Fehler war.. dass sie (<i>Charly und Gereon</i>) Charlys Mutter in der Nähe des Telefunken-Musikschranks plaziert hatten... "Ich darf doch?", fragte sie, und noch bevor irgendjemand antworten konnte, hatte sie das Gerät auch schon eingeschaltet. Es knarzte und rauschte einen Moment, dann meldete sich die Funkstunde Berlin. Eine Übertragung aus dem Reichstag. Und mit einem Mal, zum Ensetzen fast aller, schnarrte die Stimme von Adolf Hitler durch den Raum... Alle am Tisch schauten sich <strong>betreten</strong> an. (<i>Märzgefallene</i>, 589)',
+	'Schilder warnten davor, das Gelände zu <strong>betreten</strong>. (<i>Märzgefallene</i>, 601-602)',
+	// xxx <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+
 ],
 bibbern: [
 	'<strong>bibbern</strong>: tremble, quake, shiver'+
@@ -5312,7 +5355,8 @@ Gelände:[
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gelaende"target="target1">Gelände</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gel%C3%A4nde"target="target2">Gelände</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp<a href="https://dictionary.cambridge.org/dictionary/german-english/gelande?q=Gel%C3%A4nde"target="target3">Gelände</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gelande"target="target4">Gelände</a>',
 	'<u>Märzgefallene</u>',
-	'Der gepflasterte Weg, auf dem sie&nbsp;&nbsp (<i>Felix und Hannah</i>) stehengeblieben waren, sah aus wie eine Mischung aus Fabrik<strong>gelände</strong> und Hinterhof.... (<i>Märzgefallene</i>, 394)',
+	'Der gepflasterte Weg, auf dem sie (<i>Felix und Hannah</i>) stehengeblieben waren, sah aus wie eine Mischung aus Fabrik<strong>gelände</strong> und Hinterhof.... (<i>Märzgefallene</i>, 394)',
+	'Schilder warnten davor, das <strong>Gelände</strong> zu betreten. (<i>Märzgefallene</i>, 601-602)',
 	'<u>Lunapark</u>',
 	'Der sicherste Weg war der über die Trabener Straße, keine Wohnhäuser, nur der Bahndamm und ein paar Bäume. Durch den präparierten Zaun aufs <strong>Gelände</strong>, dann durch die Eingeweide der Achterbahn bis zu ihrem Versteck.  (<i>Lunapark</i>, 247)',
 	'.. der Park (<i>Lunapark</i>) hatte nach der letzten Winterpause nicht mehr geöffnet, sein Abriss war beschlossene Sache. Eine Straße war geplant, die quer über das <strong>Gelände</strong> führen und den Ku\'damm mit der Kantstraße und der Messe verbinden sollte. Eingefriedetes <strong>Gelände</strong>, keine Nachtwächter, jede Menge leer stehende Gebäude - ein ideales Verstech für Menschen, die zur Fahndung ausgeschrieben waren... (<i>Lunapark</i>, 312)',
@@ -10896,8 +10940,10 @@ speckig: [
 	'<u>Märzgefallene</u>',
 	'Der Oberkommisar faltete das <strong>speckige</strong>, abgegriffene Dokument auseinander.  (<i>Märzgefallene</i>, 10)' ,
 ],
-sperrangelweit: [
-	'<strong>sperrangelweit</strong>: wide open <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sperrangelweit"target="target1">sperrangelweit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sperrangelweit"target="target2">sperrangelweit</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/sperrangelweit"target="target3">sperrangelweit</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sperrangelweit"target="target4">sperrangelweit</a> ' ,
+sperrangelweit: [ 
+	'<strong>sperrangelweit</strong>: wide open'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sperrangelweit"target="target1">sperrangelweit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sperrangelweit"target="target2">sperrangelweit</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/sperrangelweit"target="target3">sperrangelweit</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sperrangelweit"target="target4">sperrangelweit</a>',
 	'<u>Märzgefallene</u>',
 	'Charly schaute den Schupo an, der ihrem Blick auswich, und dann in die <strong>sperrangelweit</strong> offenstehende hochherrschaftliche Haustür, in das hellerleuchtete Treppenhaus, das sie nicht betreten durfte. (<i>Märzgefallene</i>, 205)' ,
 ],

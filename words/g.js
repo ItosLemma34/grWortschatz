@@ -4,7 +4,8 @@ const g = [
    'Gassi gehen',  //  *
    'Gauner', // Gauner: *
    'Geäst, Ast',  // * duplicated  
-   'Gebälk, Balken', // * duplicated  
+   'Gebälk, Balken', // * duplicated 
+   'Gebell', // *  duplicate with "bellen" if found
    'Gebrüll, brüllen',  // * duplicated 
    'Gebüsch, Busch',  // * duplicated 
    'gediegen',  // gediegen: *

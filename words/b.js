@@ -1,37 +1,38 @@
 const b = [
-    'Backfisch', // Backfisch: *
+    'Backfisch', // Backfisch: *  
     'Bahre',  // Bahre:
     'Balken, Gebälk', // *  duplicated  
     'ballern',  // ballern:  
     'Banderole', // Banderole:
     'barsch',   //barsch:
-    'Bartstoppeln', //Bartstoppeln: 
-    'Baskenmütze',  //Baskenmütze:  
+    'Bartstoppel', // Bartstoppel: *
+    'Baskenmütze',  // Baskenmütze:  *
     'bäuchlings', // bäuchlings: *
-    'bauschen',    //bauschen: 
+    'bauschen, aufbauschen',  // * duplicated 
     'beäugen',  // beäugen: *
-    'bedröppelt',  //bedröppelt: 
-    'beflissen',  //beflissen:
-    'begrapschen',  //begrapschen: 
+    'bedröppelt',  //bedröppelt: *
+    'beflissen',  // beflissen: *
+    'begrapschen',  // begrapschen:  *
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  *
     'behelligen',   // behelligen:  *
-    'beherzt',     //beherzt:  
+    'beherzt',     // beherzt: *  
     'beichten',  // beichten: * 
-    'beikommen',   //beikommen: 
+    'beikommen',   // beikommen: *
     'Beil',  // Beil: * 
-    'Beine in den Bauch',  //
-    'beipflichten',   //beipflichten:  
+    'Beine in den Bauch',  // *
+    'beipflichten',   // beipflichten: * 
   //  'beköstigen, verköstigen', // * duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
-    'Bengel',     //Bengel:  
-    'benommen',   //benommen: 
+    // bellen duplicate with Gebell if bellen found
+    'Bengel',     // Bengel:  *
+    'benommen',   // benommen: *
     'bepinseln, pinseln', // * duplicated
     'berappen',   // berappen: * 
-    'beredt',     // beredt:  
-    'Beritt',     //Beritt:  
-    'bescheuert',  //bescheuert: 
-    'Besen',      //Besen:  
+    'beredt',     // beredt: * 
+    'Beritt, beritten',  // *  
+    'bescheuert',  // bescheuert: *
+    'Besen',      // Besen:  *
     'Besteck',    // Besteck:  *  
-    'betreten',   // betreten:  Finish with betreten from Lunapark 
+  //  'betreten',   // betreten:  Finish with betreten from Lunapark 
     'Bettfeder',  // Bettfeder: *  
     'betupfen, tupfen',   // * duplicated  
     'Beule, beulen',   //  *

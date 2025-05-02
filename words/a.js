@@ -99,7 +99,7 @@ const a = [
 	'auf Halde legen',   //
 	'auf Zack sein',    // *
 	'aufbahren',   //aufbahren:  
-	'aufbauschen', // aufbauschen:  * 
+	'aufbauschen, bauschen', // duplicated  * 
 	'aufbrummen', // aufbrummen: *
 	'aufdonnern (sich)',  //
 	'auffächern, fächern', // * duplicated

@@ -13,6 +13,15 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+Flittchen: [
+	'das <strong>Flittchen</strong>,-: floozie, slut, tart'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Flittchen"target="target1">Flittchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flittchen"target="target2">Flittchen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flittchen?q=Flittchen"target="target3">Flittchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Flittchen"target="target4">Flittchen</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'"Du verlangst von mir, dass ich herausfinde, was aus einem Weibsbild geworden ist, das sich mit Volksfeinden herumtreibt?", fuhr Conny ihn (<i>Gräf</i>) an. "Und dann? Soll ich die feine Dame für dich aus der Schutzhaft holen? Mit welcher Begründung denn bitte schön?" "Ihr braucht ja auch keine Begründung, um sie einzusperren. Charlotte ist eine Freundin, verdammt noch mal!" "Eine Freundin? Bist du scharf auf das <strong>Flittchen</strong>, oder was?" War Conny eifersüchtig? Oder warum reagierte er so barsch? "Charlotte Rath ist kein <strong>Flittchen</strong>", sagte Gräf. "Und sie ist auch keine Volksfeindin. Sie tut sich nur schwer mit den neuen Zeiten." (<i>Lunapark</i>, 190-91)',
+],
 Gebell: [
 	'<strong>bellen</strong>: bark'+
 	'<br>das <strong>Gebell</strong>: barking, bellowing'+
@@ -1657,11 +1666,12 @@ Ausschachtung: [
 	'Marlow fixierte Rath mit seinem durchdringenden Blick. "Was glauben Sie denn, warum ich in einer Gegend war, wo wieder einmal ein bedauernswerter SA-Mann zu Tode geprügelt wurde?.. Die Stapo hat die Daumen draf, nicht wahr? Oder ist es das FJK? Manche Dinge sollen eben nicht <strong>an die große Glocke gehängt</strong> werden.. Soll niemand erfahren, das in Berlin SA-Männer auf offener Straße erschlagen werden?"  (<i>Lunapark</i>, 239)' ,
 ], 
 // ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-auswringen: [
-	'<strong>auswringen</strong>: &nbsp;squeeze, wring out <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/auswringen"target="target1">auswringen</a><br>English Definitions:  &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/auswringen"target="target2">auswringen</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/auswringen"target="target3">auswringen</a>',
+auswringen: [ 
+	'<strong>auswringen</strong>: squeeze, wring out'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/auswringen"target="target1">auswringen</a> &nbsp;<a href="https://www.dwds.de/wb/auswringen"target="target2">auswringen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/auswringen"target="target3">auswringen</a> &nbsp;<a href="https://www.verbformen.com/?w=auswringen"target="target4">auswringen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll <strong>auswrang</strong>.  (<i>Der nasse Fisch</i>, 234)' ,
-	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll <strong>auswrang</strong>.  (<i>Der nasse Fisch</i>, 234)' ,
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll <strong>auswrang</strong>. (<i>Der nasse Fisch</i>, 234)',
 ],
 'an der Backe haben': [
 	'die <strong>Backe</strong>,-<strong>n</strong>: &nbsp;cheek (Wange)  &nbsp;&nbsp;<strong>an der Backe haben</strong>: have sb./sth. on one\'s hands; <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Backe_Wange"target="target1">Backe</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%252C%20etw.%20an%20der%20Backe%20haben?o=an+der+Backe+habe"target="target2">an der Backe haben</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Backe"target="target3">Backe</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=an+der+Backe+haben"target="target4">an der Backe haben</a> ',
@@ -2062,10 +2072,11 @@ anhimmeln: [
 	'<u>Lunapark</u>',
 	'"Danke, Mettmann", sagte Gräf. "Stellen Sie die Sachen doch bitte auf den Besuchertisch." Die Mettmann reagierte mit einem Lächeln, das nahelegte, dass die junge Sekretärin ihren Chef <strong>anhimmelte</strong>.  (<i>Lunapark</i>, 56)',
 ],
-austüfteln: [
-	'<strong>austüfteln</strong>: &nbsp;puzzle out, work out <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/austuefteln"target="target1">austüfteln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/austuefteln#aust%C3%BCfteln"target="target2">austüfteln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/austufteln"target="target3">austüfteln</a>   ',
+austüfteln: [ 
+	'<strong>austüfteln</strong>: puzzle out, work out,<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/austuefteln"target="target1">austüfteln</a> &nbsp;<a href="https://www.dwds.de/wb/aust%C3%BCfteln"target="target2">austüfteln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/austuefteln#aust%C3%BCfteln"target="target3">austüfteln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/austufteln"target="target4">austüfteln</a>',
 	'<u>Märzgefallene</u>',
-	'Rath musste sich mit einem Kommissar Stresow... auseinandersetzen, der den Personenschutz für Achim von Roddeck koordinierte. <i>Stresow</i>: "Fragen Sie an der Rezeption nach Herrn Rubens.... Wir benutzen täglich neue Decknamen." <i>Rath</i>: "Lassen Sie mich raten: Gestern hat er dann wohl noch Dürer geheißen?"....Rath zuckte die Achseln. "Da haben Sie jedenfalls ganz schön was <strong>ausgetüfelt</strong>!" (<i>Märzgefallene</i>, 328)',
+	'Rath musste sich mit einem Kommissar Stresow... auseinandersetzen, der den Personenschutz für Achim von Roddeck koordinierte. <i>Stresow</i>: "Fragen Sie an der Rezeption nach Herrn Rubens.... Wir benutzen täglich neue Decknamen." <i>Rath</i>: "Lassen Sie mich raten: Gestern hat er dann wohl noch Dürer geheißen?"....Rath zuckte die Achseln. "Da haben Sie jedenfalls ganz schön was <strong>ausgetüftelt</strong>!" (<i>Märzgefallene</i>, 328)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -2653,24 +2664,35 @@ ausschlachten: [
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
-ausspucken: [
-	'<strong>ausspucken</strong>: &nbsp;spit out, disgorge, cough up; &nbsp;&nbsp;<strong>spucken</strong>: spit <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausspucken"target="target1">ausspucken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausspucken"target="target2">ausspucken</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausspucken"target="target3">ausspucken</a>   ',
+ausspucken: [ 
+	'<strong>spucken</strong>: spit'+
+	'<br><strong>ausspucken</strong>: spit out, disgorge, cough up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausspucken"target="target1">ausspucken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausspucken"target="target1">ausspucken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausspucken"target="target3">ausspucken</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausspucken"target="target4">ausspucken</a>',
 	'<u>Märzgefallene</u>',
-	'Das Schloss, mit dem ihre Bettgurte gesichert waren, hatte sie (<i>Hannah</i>) mit Hilfe der Klammer, die sie <strong>ausgespuckt</strong> und aufgebogen hatte, vor knapp einer Stunde schon aufbekommen, kurz nach dem letzten Kontrollgang.  (<i>Märzgefallene</i>, 66)',
+	'Das Schloss, mit dem ihre Bettgurte gesichert waren, hatte sie (<i>Hannah</i>) mit Hilfe der Klammer, die sie <strong>ausgespuckt</strong> und aufgebogen hatte, vor knapp einer Stunde schon aufbekommen, kurz nach dem letzten Kontrollgang. (<i>Märzgefallene</i>, 66)',
 	'Während die Züge am Hauptbahnhof immer noch Kostümierte <strong>ausspuckten</strong>, hatte Rath sich bereits gefühlt wie Aschermittwoch. Schluss mit lustig. Zurück nach Berlin.  (<i>Märzgefallene</i>, 94)',
+	'"Was werfen Sie mir denn vor?" Endlich konnte Charly sich zu einer Gegenwehr aufraffen. "Ich war krank!" "Krank!" Das Wort klang, als habe die Wieking es nicht ausgesprochen, sondern <strong>ausgespuckt</strong>. "Eine <i>Seelen</i>krankheit!" Sie schüttelte den Kopf. "Entschudigen Sie, aber ich kann mit dieser jüdischen Weinerlichkeit nicht viel anfangen." (<i>Märzgefallene</i>, 527-28)',
+	'<u>Lunapark</u>',
+	'Leo war nie abergläubisch gewesen, aber vor Madame Luna hatte er Respekt.. Leo warf das Geldstück ein und wartete, bis die Mehanik eine Karte <strong>ausspuckte</strong>. <i>Gehen Sie Ihre heutigen Aufgaben mit Bedacht an. Gehen Sie keine Risiken ein. Vorsicht ist die Mutter der Pozellankiste.. Und seien Sie gewiß: Madame Luna steht an Ihrer Seite!</i>  (<i>Lunapark</i>, 252)',
+// <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 ],
-ausstaffieren: [
-	'<strong>ausstaffieren</strong>:  &nbsp;garnish, dress up, equip with <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausstaffieren"target="target1">ausstaffieren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausstaffieren"target="target2">ausstaffieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausstaffieren"target="target3">ausstaffieren</a>   ',
+ausstaffieren: [ 
+	'<strong>ausstaffieren</strong>:  garnish, dress up, equip with'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausstaffieren"target="target1">ausstaffieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausstaffieren"target="target2">ausstaffieren</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausstaffieren"target="target3">ausstaffieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausstaffieren"target="target4">ausstaffieren</a>',
 	'<u>Märzgefallene</u>',
-	'Die Schaufensterpuppen im Tietz-Lichthof waren als Zigeuner, Mexikaner, Musketiere oder Clowns <strong>ausstaffiert</strong>...  (<i>Märzgefallene</i>, 18)' ,
-	'In der Textilabteilung fegte der Junge scheinbar wahllos Klamotten von den Kleiderstangen und klemmte sie unter den Arm. <i>Hannah</i>: "Was soll’ en das?" <i>der Junge</i>: "Na, wir müssen uns doch <strong>ausstaffieren</strong>, bevor wir die Biege machen, wa? Muss sich doch lohnen!" (<i>Märzgefallene</i>, 172)' ,
+	'Die Schaufensterpuppen im Tietz-Lichthof waren als Zigeuner, Mexikaner, Musketiere oder Clowns <strong>ausstaffiert</strong>...  (<i>Märzgefallene</i>, 18)',
+	'In der Textilabteilung fegte der Junge scheinbar wahllos Klamotten von den Kleiderstangen und klemmte sie unter den Arm. <i>Hannah</i>: "Was soll’ en das?" <i>der Junge</i>: "Na, wir müssen uns doch <strong>ausstaffieren</strong>, bevor wir die Biege machen, wa? Muss sich doch lohnen!" (<i>Märzgefallene</i>, 172)',
 ],	
-ausstopfen: [
-	'<strong>ausstopfen</strong>: &nbsp;stuff, pad, fill something <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausstopfen"target="target1">ausstopfen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausstopfen"target="target2">ausstopfen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausstopfen"target="target3">ausstopfen</a>    ',
+ausstopfen: [ 
+	'<strong>stopfen</strong>: stuff, cram, plug'+
+	'<br><strong>ausstopfen</strong>: stuff, pad, fill with sth.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausstopfen"target="target1">ausstopfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausstopfen"target="target2">ausstopfen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausstopfen"target="target3">ausstopfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausstopfen"target="target4">ausstopfen</a>',
 	'<u>Märzgefallene</u>',
-	'Obwohl sie (<i>Hannah</i>) einen alten Mantel...über die Putzfrauenkittel und das Nachthemd geworfen hatte, sah sie immer noch wie ein Bettelmädchen aus; die viel zu großen Gummistiefel an ihren Füßen, die sie mit Zeitungspapier <strong>ausgestopft</strong> hatte, ließen jeden Versuch scheitern, sich als jemand auszugeben, der auch nur ein bisschen Geld besaß. (<i>Märzgefallene</i>, 151)' ,
+	'Obwohl sie (<i>Hannah</i>) einen alten Mantel...über die Putzfrauenkittel und das Nachthemd geworfen hatte, sah sie immer noch wie ein Bettelmädchen aus; die viel zu großen Gummistiefel an ihren Füßen, die sie mit Zeitungspapier <strong>ausgestopft</strong> hatte, ließen jeden Versuch scheitern, sich als jemand auszugeben, der auch nur ein bisschen Geld besaß. (<i>Märzgefallene</i>, 151)',
 ],	
-// Bstart                                                                                                                                                                                                                           ä  Ä  ö  Ö  ü  Ü   ß                                                 
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'bis in die Puppen': [
@@ -2737,10 +2759,12 @@ Bordstein: [
 	'Raths Blick fiel auf eine blassgrüne Karte, die im Schatten des <strong>Bordsteins</strong> lag. Ohne darüber nachzudenken, hob er sie auf und drehte sie um. <i>Madame Luna blickt in ihre Zukunft</i>, las er.  (<i>Lunapark</i>, 192)',
 	'Sie (<i>Leos Kollegen</i>) wussten, dass es heute Nacht keinen weiteren toten SA-Mann geben würden, denn Leo ließ den Schläger an der Wand stehen. Den Schläger, der schon eingekerbt und an einer Stelle sogar zersplittert war. Dort, wo Leos Schlag Katsche verfehlt und die <strong>Bordstein</strong>kante getroffen hatte. An dieser Stelle hatte sich das Holz mit Blut vollgesaugt.  (<i>Lunapark</i>, 252)',   
 ],
-Banderole: [
-	'die <strong>Banderole</strong>,-<strong>n</strong>: &nbsp;package band, pasted label; excise stamp <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Banderole"target="target1">Banderole</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Banderole"target="target2">Banderole</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Banderole"target="target3">Banderole</a>',
+Banderole: [ 
+	'die <strong>Banderole</strong>,-<strong>n</strong>: tape (adhesive), package band; excise stamp'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Banderole"target="target1">Banderole</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Banderole"target="target2">Banderole</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Banderole"target="target3">Banderole</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Banderole"target="target4">Banderole</a>',
 	'<u>Lunapark</u>',
-	'.. Andreas Lange pfiff leise durch die Zähne: rötlich braune Zwanzigmarkscheine, sauber gebündelt mit <strong>Banderole</strong>. Ein wenig abgegriffen, aber zweifellos echt. Lange schätzte die Packen auf mindestens zehntausend Mark, eine schöne Stange Geld für einen einfachen SA-Rottenführer.  (<i>Lunapark</i>, 47)',
+	'.. Andreas Lange pfiff leise durch die Zähne: rötlich braune Zwanzigmarkscheine, sauber gebündelt mit <strong>Banderole</strong>. Ein wenig abgegriffen, aber zweifellos echt. Lange schätzte die Packen auf mindestens zehntausend Mark, eine schöne Stange Geld für einen einfachen SA-Rottenführer. (<i>Lunapark</i>, 47)',
 ],
 bockig: [ 
 	'<strong>bockig</strong>: stubborn, recalcitrant, obstinate'+
@@ -2989,10 +3013,12 @@ Bartstoppel: [
 	'Die Leiche war übel zugerichtet. Trotz des vielen Blutes erkannte Rath die Uniform und den <strong>blechernen</strong> Ringkragen der SA-Feldjäger.  (<i>Lunapark</i>, 167)',
 	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],	
-ballern: [
-	'<strong>ballern</strong>: &nbsp;bang away, shoot at; hurl, slam  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ballern"target="target1">ballern</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ballern"target="target2">ballern</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ballern"target="target3">ballern</a>    ',
+ballern: [ 
+	'<strong>ballern</strong>: bang away, shoot at; hurl, slam'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ballern"target="target1">ballern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ballern"target="target2">ballern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ballern"target="target3">ballern</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ballern"target="target4">ballern</a>',
 	'<u>Märzgefallene</u>', 
-	'Er (<i>Leo</i>) hatte sich einfach auch den Namen dieses Kommissars gemerkt. Gereon Rath. Hatte ihn auf die Liste gesetzt, die nur in seinem Kopf existierte. War in den Garten gegangen und hatte auf Bierflaschen <strong>geballert</strong>.  (<i>Märzgefallene</i>, 388)' ,
+	'Er (<i>Leo</i>) hatte sich einfach auch den Namen dieses Kommissars gemerkt. Gereon Rath. Hatte ihn auf die Liste gesetzt, die nur in seinem Kopf existierte. War in den Garten gegangen und hatte auf Bierflaschen <strong>geballert</strong>. (<i>Märzgefallene</i>, 388)',
 ],	
 Büchse: [ 
 	'die <strong>Büchse</strong>,-<strong>n</strong>: box, can, case'+
@@ -3145,20 +3171,31 @@ bieder: [
 	'<u>Lunapark</u>',
 	'Schulze verdrehte die Augen und ging zu Boden, denn die beiden SA-Männer hatten ihn losgelassen und machten ihrem Rottenführer Platz, der mit seinen schweren Stiefeln ausholte und gegen Schulzes Kopf trat wie gegen einen Fußball. Die Chauffeurmütze flog in hohem <strong>Bogen</strong> übers Pflaster. (<i>Lunapark</i>, 11)',
 ],
-// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Bahre: [
-	'die <strong>Bahre</strong>,-<strong>n</strong>: bier, stretcher <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bahre"target="target1">Bahre</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bahre"target="target2">Bahre</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bahre?q=Bahre"target="target3">Bahre</a>    ',
+Bahre: [ 
+	'die <strong>Bahre</strong>,-<strong>n</strong>: bier, stretcher'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bahre"target="target1">Bahre</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bahre"target="target2">Bahre</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bahre"target="target3">Bahre</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bahre"target="target4">Bahre</a>',
+	'<u>Der nasse Fisch</u>',
+	'"Noch mehr Maileichen?", fragte (<i>Doktor</i>) Schwartz. Einer der beiden weißgekittelen Männer, die die <strong>Bahren</strong> schoben, nickte.... "Es sind tote Menschen, über die Sie hier reden, meine Herren!" Die vorwurfsvolle Stimme kam von einem der beiden Männer, die hinter den Weißkitteln den Raum betreten hatten, einem streng wirkenden hageren Mann in einem zerknitterten grauen Mantel. (<i>Der nasse Fisch</i>, 83)',
+	'Der Gerichtsmediziner (<i>Doktor Schwartz</i>) trat ungeduldig von einem Bein aufs andere.. Er gab den Weißkitteln einen Wink. "Bringen Sie die beiden Frauen in den Keller, ich kümmere mich mor..." "Halt!" Völcker unterbrach ihn. Die beiden Männer, die schon Anstalten gemacht hatten, die <strong>Bahren<strong> wieder hinauszurollen, blieben stehen.  (<i>Der nasse Fisch</i>, 85)',     
 	'<u>Märzgefallene</u>',
 	'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf <strong>Bahren</strong> mit zugedeckten Leichen standen, an deren Zehen Pappschildchen baumelten. Der Doktor setzte seine Brille auf, überprüfte die Zettel gewissenhaft and lüftete schießlich das Laken der vorletzten <strong>Bahre</strong>. (<i>Märzgefallene</i>, 267)' ,
 	'<u>Lunapark</u>',
-  '"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karhaus eine Roll<strong>bahre</strong>, die an der Wand geparkt war, unter eine der großen Lampen und schlug das Laken zurück.  (<i>Lunapark</i>, 108)' ,
+  	'"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karhaus eine Roll<strong>bahre</strong>, die an der Wand geparkt war, unter eine der großen Lampen und schlug das Laken zurück.  (<i>Lunapark</i>, 108)' ,
 	'Auf der <strong>Bahre</strong> hatte Karthaus die Beine des Toten, die am Tatort unnatürlich verbogen gewesen waren, wieder gerichtet, dennoch war genau zu erkennen, wo sie gebrochen waren.  (<i>Lunapark</i>, 109)' ,
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
-barsch: [
-	'<strong>barsch</strong>: &nbsp;abrupt, curt, blunt, brusque <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/barsch"target="target1">barsch</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/barsch"target="target2">barsch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/barsch"target="target3">barsch</a> ' ,
+barsch: [ 
+	'<strong>barsch</strong>: abrupt, blunt, brusque'+  
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/barsch"target="target1">barsch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/barsch"target="target2">barsch</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/barsch"target="target3">barsch</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/barsch"target="target4">barsch</a>',
 	'<u>Märzgefallene</u>',
-	'"Mein Mann war kein Mensch, mit dem man schnell warm werden konnte." Eva Heinen klang <strong>barsch</strong>, beinahe schnippisch. "Das hat nichts damit zu tun, ob er Jude war order nicht." (<i>Märzgefallene</i>, 287)',
+	'"Eine Mordermitlung?" Zientek war aufgestanden. "Herr Kommissar, ich darf Sie daran erinnern, dass wir hier bei der Politisichen Polizei sind und Sie meiner Abteilung zugeteilt wurden, um.." "Daran müssen Sie mich nicht erinnern", fuhr Rath den Kriminalsekretär an, so <strong>barsch</strong>, dass der sofort verstummte. Ïch habe nicht darum gebeten, mir Herrn Jurtzka hier hoch zu schicken, ich wollte ihn in der Inspektion A vernehmen. Beschweren Sie sich meinetwegen bei der SA!" (<i>Märzgefallene</i>, 231)',
+	'"Mein Mann war kein Mensch, mit dem man schnell warm werden konnte." Eva Heinen klang <strong>barsch</strong>, beinahe schnippisch. "Das hat nichts damit zu tun, ob er Jude war oder nicht." (<i>Märzgefallene</i>, 287)',
+	'<u>Lunapark</u>',
+	'"Du verlangst von mir, dass ich herausfinde, was aus einem Weibsbild geworden ist, das sich mit Volksfeinden herumtreibt?", fuhr Conny ihn (<i>Gräf</i>) an. "Und dann? Soll ich die feine Dame für dich aus der Schutzhaft holen? Mit welcher Begründung denn bitte schön?" <i>Gräf</i>: "Ihr braucht ja auch keine Begründung, um sie einzusperren. Charlotte ist eine Freundin, verdammt noch mal!" "Eine Freundin? Bist du scharf auf das Flittchen, oder was?" War Conny eifersüchtig? Oder warum reagierte er so <strong>barsch</strong>? (<i>Lunapark</i>, 190-91)',
 ],
 Baskenmütze: [ 
 	'die <strong>Baskenmütze</strong>,-<strong>n</strong>: beret'+
@@ -3362,8 +3399,10 @@ Bordmittel: [
 	'<u>Märzgefallene</u>',
 	'"Kronbergs Leute sind noch im Wedding, mit denen können wir heute nicht rechnen". Böhm zeigte auf den Spurensicherungskoffer in der Hand des Kiminalsekretärs. "Das heißt, wir werden uns mit <strong>Bordmitteln</strong> bescheiden müssen".  (<i>Märzgefallene</i>,  11)',
 ],
-Bösewicht: [
-	'der <strong>Bösewicht</strong>, die <strong>Bösewichte(r)</strong>: &nbsp;bad guy, villain <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Boesewicht"target="target1">Bösewicht</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/bosewicht?q=B%C3%B6sewicht"target="target2">Bösewicht</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/B%C3%B6sewicht"target="target3">Bösewicht</a>    ' ,
+Bösewicht: [ 
+	'der <strong>Bösewicht</strong>, die <strong>Bösewichte(r)</strong>: bad guy, villain'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Boesewicht"target="target1">Bösewicht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/B%C3%B6sewicht"target="target2">Bösewicht</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/boesewicht#B%C3%B6sewicht"target="target3">Bösewicht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=B%C3%B6sewicht"target="target4">Bösewicht</a>',
 	'<u>Märzgefallene</u>',
 	'Die Geschichte vom mordenden Hauptmann war nun die offizielle Stoßrichtung ihrer Ermittlungen. Wenn der Polizeipräsident einen jüdischen <strong>Bösewicht</strong> brauchte, um Gereon Rath wieder in der Mordinspektion arbeiten zu lassen, dann sollte er ihn haben. (<i>Märzgefallene</i>, 260)',
 ],
@@ -14332,5 +14371,5 @@ Bei der Vernehmung, als Gräf den armen Karl Reinhold damit bedrängt hatte, end
 Fast wie ein Traum liegt es über uns, daß wir aus dem Tal der Trübsal, der Hoffnungslosigkeit, des Hasses und der Zerklüftung wieder zur Gemeinschaft der deutschen Nation zurückgefunden haben. Nun aber, da die Begeisterung verflacht, die zähe Arbeit an diesem Prozeß ihr Recht fordert, zeigt es sich, daß der Läuterungsprozeß von solch historischem Ausmaß auch Schlacken erzeugt, von denen er sich reinigen muß.« »Entschuldige«, unterbrach sie ihn, »aber ich habe gleich einen Termin. Kannst du nicht die entscheidenden Passagen …« »Aber das ist eine kleine Sensation! Er redet von Schlacken.« »Dann überspring doch bitte den Rest und komm mal zu diesen Schlacken.«  Lunapark 348-49
 Er hockte sich zu Kirie. Es sah zunächst so aus, als wolle er ihr den Stock endgültig aus dem Maul nehmen und sie mit einem Streicheln dafür entschädigen, und auch der Hund schien etwas in der Art zu erwarten. Doch dann nahm Marlow Kiries Kopf in beide Hände und drehte ihn mit einer kräftigen ruckartigen Bewegung nach rechts. Der Hund ließ ein kurzes Winseln hören, das in einem Röcheln endete, es knackte laut, und dann war er still. Marlow ließ den unnatürlich verdrehten Kopf los, der schwarze Hundekörper sackte auf den frisch gemähten Rasen und blieb dort liegen.  Lunapark 358
 »Kling, Sekretariat Zörgiebel.« Die weibliche Stimme am anderen Ende der Leitung hörte sich nicht so an, als habe sie Humor. Dagmar Kling wurde auch Fallbeil genannt und bewachte das Vorzimmer des Polizeipräsidenten wie ein Zerberus. »Kommissar Rath, sind Sie das?« »Am Apparat.« »Der Herr Polizeipräsident wünscht Sie in einer halben Stunde zu sehen, Herr Kommissar.« Rath klopfte pünktlich um neun bei Dagmar Kling an die Tür, doch er musste warten. Das Fallbeil ließ ihn auf einer Bank im Vorzimmer Platz nehmen. Die gepolsterte Tür zu Zörgiebels Büro war geschlossen. Der Polizeipräsident befand sich noch im Gespräch. Das hätte die Kling ihm nicht zu sagen brauchen, trotz der Polsterung drangen Stimmen durch die schwere Tür. Die Sekretärin tippte ungerührt weiter, als ginge sie das alles nichts an. // Der nasse Fisch, 300
-
+»Du verlangst von mir, dass ich herausfinde, was aus einem Weibsbild geworden ist, das sich mit Volksfeinden herumtreibt?«, fuhr Conny ihn an. »Und dann? Soll ich die feine Dame für dich aus der Schutzhaft holen? Mit welcher Begründung denn bitte schön?« »Ihr braucht ja auch keine Begründung, um sie einzusperren. Charlotte ist eine Freundin, verdammt noch mal!« »Eine Freundin? Bist du scharf auf das Flittchen, oder was?« War Conny eifersüchtig? Oder warum reagierte er so barsch? »Charlotte Rath ist kein Flittchen«, sagte Gräf. »Und sie ist auch keine Volksfeindin. Sie tut sich nur schwer mit den neuen Zeiten.«  (pp. 190-191)
 */

@@ -1,10 +1,10 @@
 const b = [
     'Backfisch', // Backfisch: *  
-    'Bahre',  // Bahre:
+    'Bahre',  // Bahre: *
     'Balken, Gebälk', // *  duplicated  
-    'ballern',  // ballern:  
-    'Banderole', // Banderole:
-    'barsch',   //barsch:
+    'ballern',  // ballern:  *
+    'Banderole', // Banderole: *
+    'barsch',   // barsch: *
     'Bartstoppel', // Bartstoppel: *
     'Baskenmütze',  // Baskenmütze:  *
     'bäuchlings', // bäuchlings: *
@@ -58,7 +58,7 @@ const b = [
     'Bordstein', // Bordstein: *
     'borniert',  // borniert: *
     'Böschung', // Böschung: *
-    'Bösewicht',  //Bösewicht:  
+    'Bösewicht',  // Bösewicht:  *
     'Boulette',   //Boulette:  *
     'brandschatzen',  // brandschatzen: *
     'brausen, Brause',  // *

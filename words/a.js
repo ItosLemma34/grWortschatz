@@ -155,12 +155,12 @@ const a = [
 	'ausscheren',   //ausscheren:  
 	'ausschlachten', //ausschlachten:  
 	'ausschwärmen',  //ausschwärmen:  
-	'ausspucken',   //ausspucken:  
-	'ausstaffieren',  //ausstaffieren:  
-	'ausstopfen',    //ausstopfen: 
+	'ausspucken',   // ausspucken: *
+	'ausstaffieren',  // ausstaffieren:  * 
+	'ausstopfen',    // ausstopfen: *
 	'austoben (sich)',  // *  
-	'austüfteln',     //austüfteln:  
-	'auswringen',   //auswringen:  
+	'austüfteln',  // austüfteln:  *
+	'auswringen', // auswringen: * 
 ];
 
 export default a;

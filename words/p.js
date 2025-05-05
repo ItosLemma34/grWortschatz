@@ -6,6 +6,7 @@ const p = [
    'Pappenstiel', // Pappenstiel: *
    'Parade (in die P. fahren)', // * duplicated
    'Patrone', // Patrone: *
+   'patzig',  // patzig:  *
    'pauken', // pauken: *
    'Pegel',  // Pegel: *
    'Pest an den Hals', // *

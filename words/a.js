@@ -52,7 +52,8 @@ const a = [
 	'anquatschen',   //anquatschen: 
 	'anraunzen',     // anraunzen: *
 	'anrempeln',    // anrempeln: *
-	'Anrichte',     //Anrichte:  
+	'Anrichte',     //Anrichte:
+	'anrücken, ausrücken, nachrücken', // * triplicated  
 	'ans Bein binden',  //
 	'anschleichen (sich)', //
 	'anschmachten, schmachten', // * duplicated
@@ -139,22 +140,22 @@ const a = [
 	'ausbuddeln, buddeln', //  * duplicated;   also pair with "einbuddeln" if found
 	'ausbüxen',    //ausbüxen:  
 	'Ausdünstung',  //Ausdünstung:  
-	'Ausfallstraße',   //Ausfallstraße:  
-	'ausfressen',   //ausfressen:  
+	'Ausfallstraße',   // Ausfallstraße: * 
+	'ausfressen',   // ausfressen:  *
 	'ausheben, Aushebung',  //  * 
-	'aushorchen',  //aushorchen:  
-	'ausklinken',  //ausklinken:
+	'aushorchen',  // aushorchen:  * 
+	'ausklinken',  // ausklinken: *
 	'ausmisten',  // ausmisten: *  
-	'ausquetschen',  // ausquetschen: 
+	'ausquetschen',  // ausquetschen: *
 	'ausräuchern', // ausräuchern: * 
-	'Ausreißer',    //Ausreißer:  
+	'Ausreißer',    // Ausreißer:  *
 	'ausreizen',  // ausreizen: *
-	'ausrücken',    //ausrücken:
+	'ausrücken, anrücken, nachrücken',  // * triplicated
 	'aussägen, sägen', // *  duplicated  
-	'Ausschachtung',  // Ausschachtung:
-	'ausscheren',   //ausscheren:  
-	'ausschlachten', //ausschlachten:  
-	'ausschwärmen',  //ausschwärmen:  
+	'Ausschachtung',  // Ausschachtung: *
+	'ausscheren',   // ausscheren:  *
+	'ausschlachten', // ausschlachten:  *
+	'ausschwärmen',  // ausschwärmen: *
 	'ausspucken',   // ausspucken: *
 	'ausstaffieren',  // ausstaffieren:  * 
 	'ausstopfen',    // ausstopfen: *

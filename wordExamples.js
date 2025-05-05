@@ -13,6 +13,27 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+patzig: [
+	'<strong>patzig</strong>: insolent, impudent snippy, snotty'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/patzig"target="target1">patzig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/patzig"target="target2">patzig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/patzig"target="target3">patzig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=patzig"target="target4">patzig</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'"Was wir hier suchen, Kollege", sagte Lange und wedelte mit einem der Pornographiehefte, "das kann ich Ihnen auch erst sagen, wenn wir es gefunden haben." Pfeiffer wurde <strong>patzig</strong>. "Darf ich Sie daran erinnern, dass wir hier in einem Mordfall ermitteln? Das wir uns in der Wohnung des Opfers befinden?"  (<i>Lunapark</i>, 45)',
+	'<i>Charly</i>: "Aber das geht doch nicht! Einen Hund totfahren und dann einfach wegfahren." <i>Gereon</i>: "Natürlich geht das nicht." Er zuckte die Achseln. "Aber was hätte das schon geändert, wenn der Mann angehalten hätte? Den Hund hätte das auch nicht wieder lebendig gemacht!" "Ein Mann? Du hast einen Mann gesehen?" "Ich habe niemanden gesehen. Ich gehe nur davon aus, dass ein Mann hinter dem Steuer gesessen hat.." Jetzt klang er nicht mehr traurig und bedrückt, sondern <strong>patzig</strong> und gereizt.  (<i>Lunapark</i>, 367)',  
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+],
+Geruckel: [
+	'<strong>ruckeln</strong>: jerk, jolt'+
+	'<br>das <strong>Geruckel</strong>: jerking, jolting'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geruckel"target="target1">Geruckel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geruckel"target="target2">Geruckel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geruckel"target="target3">Geruckel</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Geruckel"target="target4">Geruckel</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'Er trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im <strong>Geruckel</strong> des Anfahrens, schien der Hund sich noch einmal zu bewegen, schaukelte für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
+],
 Flittchen: [
 	'das <strong>Flittchen</strong>,-: floozie, slut, tart'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Flittchen"target="target1">Flittchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flittchen"target="target2">Flittchen</a>'+
@@ -1631,10 +1652,14 @@ Asservat: [
 	'Endlich machte auch Pfeiffer einen Schritt ins Zimmer hinein, wirkte jedoch immer noch unschlüssig, was zu tun war und ob er sich an der Durchsuchung überhaupt beteiligen sollte. Ein komischer Kauz, wie Lange fand. Aber einer von der SS, man musste <strong>auf der Hut sein</strong>.   (<i>Lunapark</i>, 45)' ,
 	'"Richtig. Hermann Lapke ist Sturmführer des SA-Sturms hunderteins." Während Lange das sagte, schaute er Rath forschend an. Man musste <strong>auf der Hut sein</strong>, dachte Rath. Man durfte den Kollegen, so harmlos er wirken mochte mit seinem jungenhaften Gesicht.. beileibe nicht unterschätzen.  (<i>Lunapark</i>, 72-73)' ,
 ],
-Ausschachtung: [
-	'die <strong>Ausschachtung</strong>,-<strong>en</strong>: digging, excavation <br><strong>ausschachten</strong>: dig, excavate &nbsp;&nbsp;der <strong>Schacht</strong>, die <strong>Schächte</strong>: shaft, funnel <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ausschachtung"target="target1">Ausschachtung</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausschachtung"target="target2">Ausschachtung</a> &nbsp;<a href="https://www.verbformen.com/?w=Ausschachtung"target="target3">Ausschachtung</a>',
+Ausschachtung: [ 
+	'<strong>ausschachten</strong>: dig, excavate'+
+	'<br>die <strong>Ausschachtung</strong>,-<strong>en</strong>: digging, excavation'+
+	'<br>der <strong>Schacht</strong>, die <strong>Schächte</strong>: shaft, funnel'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ausschachtung"target="target1">Ausschachtung</a> &nbsp;<a href="https://www.dwds.de/wb/Ausschachtung"target="target2">Ausschachtung</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Ausschachtung"target="target3">Ausschachtung</a> &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausschachtung"target="target4">Ausschachtung</a>',
 	'<u>Lunapark</u>',
-	'Neben der Eisenbahnbrücke hatten <strong>Ausschachtungen</strong> für eine neue S-Bahn-Brücke begonnen, ansonsten führte der Weg an Friedhöfen und Industrie vorbei.  (<i>Lunapark</i>, 36)' ,
+	'Neben der Eisenbahnbrücke hatten <strong>Ausschachtungen</strong> für eine neue S-Bahn-Brücke begonnen, ansonsten führte der Weg an Friedhöfen und Industrie vorbei. (<i>Lunapark</i>, 36)',
 ],
 'auf den Leim gehen': [
 	'jmdm. <strong>auf den Leim gehen</strong>: be hoodwinked, be taken in by so. &nbsp;&nbsp;der <strong>Leim</strong>,-<strong>e</strong>: glue, paste <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20etw.%20auf%20den%20Leim%20gehen"target="target1">auf den Leim gehen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leim?q=auf+den+Leim+gehen"target="target2">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Leim+gehen"target="target3">auf den Leim gehen</a>   ',
@@ -1773,11 +1798,12 @@ Ansinnen: [
 	'<u>Lunapark</u>',
 	'Friedrichsen hatte keine Empfangsdame und auch kein Ladenlokal. Er öffnete persönlich, als Rath an der Werkstattür klopfte. Der Mann hatte ein Gesicht, das so zerknittert war, dass Rath ihn auf mindestens siebzig schätzte. "Kessler schickt Sie?", fragte der Alte, nachdem Rath sein Ansinnen geschildert hatte.    (<i>Lunapark</i>, 136)' ,
 ],
-ausschwärmen: [
-	'<strong>ausschwärmen</strong>: &nbsp;fan out, deploy, swarm <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/ausschwaermen"target="target1">ausschwärmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausschwaermen#ausschw%C3%A4rmen"target="target2">ausschwärmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Ausschw%C3%A4rmen"target="target3">ausschwärmen</a> ',
-//	'<u>Der nasse Fisch</u>',
+ausschwärmen: [ 
+	'<strong>ausschwärmen</strong>: fan out, deploy, swarm'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/ausschwaermen"target="target1">ausschwärmen</a> &nbsp;<a href="https://www.dwds.de/wb/ausschw%C3%A4rmen"target="target2">ausschwärmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausschwaermen"target="target3">ausschwärmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausschw%C3%A4rmen"target="target4">ausschwärmen</a>',
 	'<u>Märzgefallene</u>',
-	'Kronbergs Männer waren inzwischen fündig geworden, wie der ED-Chef höchstpersönlich in seiner unnachahmlich einschläfernden Weise referierte. Seine Leute, die überall am Spreeufer <strong>ausgeschwärmt</strong> waren, hatten in einer leerstehenden Schreinerwerkstatt... Blutspuren im Sägemehl entdeckt.  (<i>Märzgefallene</i>, 510)' ,
+	'Kronbergs Männer waren inzwischen fündig geworden, wie der ED-Chef höchstpersönlich in seiner unnachahmlich einschläfernden Weise referierte. Seine Leute, die überall am Spreeufer <strong>ausgeschwärmt</strong> waren, hatten in einer leerstehenden Schreinerwerkstatt... Blutspuren im Sägemehl entdeckt. (<i>Märzgefallene</i>, 510)',
 ],
 'ausheben, Aushebung': [
 	'<strong>ausheben</strong>: roundup; recruit, conscript <br>die <strong>Aushebung</strong>,-<strong>en</strong>: raid; recruitment, conscription ' +
@@ -1808,10 +1834,12 @@ ausschwärmen: [
 	'<u>Märzgefallene</u>', 
 	'Vom Sofa war ein leises Gähnen zu hören, und er (<i>Rath</i>) drehte sich um. Zwei Augen blinzelten aus einem verschlafenen Gesicht. "Guten Mogen", sagte Rath. "Morgen." Sie (<i>die wilde Hilde</i>) grinste. "Schon <strong>auf dem Sprung</strong>?" <i>Rath</i>: "Wollte dich nicht wecken." (<i>Märzgefallene</i>, 73)' ,
 ],
-aushorchen: [
-	'jmdn. <strong>aushorchen</strong>: &nbsp;sound sb. out, pick so.\'s brains <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aushorchen"target="target1">aushorchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aushorchen"target="target2">aushorchen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aushorchen"target="target3">aushorchen</a>   ',
+aushorchen: [ 
+	'jmdn. <strong>aushorchen</strong>: sound out, pump for info'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aushorchen"target="target1">aushorchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aushorchen"target="target2">aushorchen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/aushorchen"target="target3">aushorchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aushorchen"target="target4">aushorchen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Als er (<i>Rath</i>) längst wieder im Auto saß, kreisten seine Gedanken noch um sie (<i>Fräulein Ritter</i>)... Was hatte sie bei Aschinger gesucht?... Hatte sie ihn im Auftrag Böhms <strong>aushorchen</strong> sollen?... Warum hatte sie dann so heftig geflirtet?  (<i>Der nasse Fisch</i>, 147)' ,
+	'Als er (<i>Rath</i>) längst wieder im Auto saß, kreisten seine Gedanken noch um sie (<i>Fräulein Ritter</i>).. Was hatte sie bei Aschinger gesucht?.. Hatte sie ihn im Auftrag Böhms <strong>aushorchen</strong> sollen?.. Warum hatte sie dann so heftig geflirtet?  (<i>Der nasse Fisch</i>, 147)',
 //	'<u>Märzgefallene</u>', 
 ],
 aufscheuchen: [
@@ -1911,11 +1939,16 @@ Anrichte: [
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) dachte gerade darüber nach, noch ein letztes Kapitel zu lesen.., da klingelte das Telefon.. Sie ging zur <strong>Anrichte</strong> hinüber und hob ab.  (<i>Lunapark, 47-48)'  ,
 ],
-Ausfallstraße: [
-	'die <strong>Ausfallstraße</strong>,-<strong>n</strong>: &nbsp;arterial/radial road <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ausfallstrasze"target="target1">Ausfallstraße</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Ausfallstra%C3%9Fe"target="target2">Ausfallstraße</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausfallstrasse"target="target3">Ausfallstraße</a>   ',
+Ausfallstraße: [ 
+	'die <strong>Ausfallstraße</strong>,-<strong>n</strong>: arterial/radial/exit road'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/Ausfallstrasze"target="target1">Ausfallstraße</a> &nbsp;<a href="https://www.dwds.de/wb/Ausfallstra%C3%9Fe"target="target2">Ausfallstraße</a>'+  
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausfallstrasse"target="target3">Ausfallstraße</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Ausfallstra%C3%9Fe"target="target4">Ausfallstraße</a>',
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
-	'Es war noch nicht einmal fünf, und sie (<i>Charly und Gereon</i>) waren schon unterwegs, fuhren auf der Landsberger Allee, einer der großen Berliner <strong>Ausfallstraßen</strong>, stadtauswärts.  (<i>Märzgefallene</i>, 424)'  , 
+	'Nun hatte er (<i>Rath</i>) Adenauers Werk (<i>Bau einer Autobahn</i>) - oder eigentlich das von Hunderten areitslosen Männern, die hier mit Hacke und Schaufel angerückt waren - mit einem halben Jahr Verspätung doch noch eingeweiht. Es machte Spaß, den Buick mal wieder auszufahren, das hatte er zuletzt in Berlin auf der Avus tun können. Erst auf der Bonner Straße, der südlichen Kölner <strong>Ausfallstraße</strong>, musste Rath vom Gas. (<i>Märzgefallene</i>, 297)',
+	'Es war noch nicht einmal fünf, und sie (<i>Charly und Gereon</i>) waren schon unterwegs, fuhren auf der Landsberger Allee, einer der großen Berliner <strong>Ausfallstraßen</strong>, stadtauswärts.  (<i>Märzgefallene</i>, 424)', 
+	'<u>Lunapark</u>',
+	'Spätestens da stand Raths Entschluss fest, nach Freienwalde zu fahren. Auf der Landsberger Allee, der großen <strong>Ausfallstraße</strong> in Richtung Nordosten, hatte er noch kurz an einer Telefonzell gehalten und Erika Voss angerufen...   (<i>Lunapark</i>, 120)',
 ],
 anpflaumen: [
 	'<strong>anpflaumen</strong>: &nbsp;give sb. a roasting; poke fun at so.  <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/anpflaumen"target="target1">anpflaumen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/anpflaumen"target="target2">anpflaumen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anpflaumen"target="target3">anpflaumen</a>',
@@ -2011,16 +2044,18 @@ abgebrüht: [
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) hatte Alex an den Armen gepackt und drehte sie zu den Schaufenstern um. Charlys rüde, etwas brutale Art wirkte wie ein Eimer kaltes Wasser bei einem hysterischen Anfall: Aus der besorgten kleine Schwester wurde in Sekundenbruchteilen wieder die <strong>abgebrüte</strong> Alex, die sich jederzeit in Griff hatte und mit allen Härten des Lebens umzugehen gelernt hatte. (<i>Lunapark</i>, 321)',
 ],
-ausquetschen: [
-	'<strong>ausquetschen</strong>: &nbsp;pump so. for information, shake so. down; squeeze sth. <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/ausquetschen"target="target1">ausquetschen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausquetschen"target="target2">ausquetschen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausquetschen"target="target3">ausquetschen</a>   ',
+ausquetschen: [ 
+	'<strong>ausquetschen</strong>: pump so. for information, shake so. down; squeeze sth.'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/ausquetschen"target="target1">ausquetschen</a> &nbsp;<a href="https://www.dwds.de/wb/ausquetschen"target="target2">ausquetschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausquetschen"target="target3">ausquetschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausquetschen"target="target4">ausquetschen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Der falsche Kaiser hatte geplaudert wie ein Radio. Noch auf dem Gerüst hatten sie ihn <strong>ausgequetscht</strong>, bevor sie ihn laufen ließen. Rath hatte einen Einblick bekommen, wie Wolter seine Informanten rekrutierte. Die Brutalität seines Kollegen hatte ihn überrascht.  (<i>Der nasse Fisch</i>, 29)' ,
-	'<i>Marlow</i>: "..Sie (<i>Rath</i>) wären nicht der erste Bulle, der die Seiten gewechselt hat. Sind noch ein paar korrupte Kollegen mehr mit im Spiel? Der, der den Kurier aus dem Kanal gezogen hat? War er vielleicht noch gar nicht tot? Habt ihr noch was aus ihm <strong>rausgequetscht</strong>? Und wollt jetzt an das große Geld? Aber Vorsicht! Das ist auch für einen ganzen Haufen Bullen noch eine Nummer zu groß.   (<i>Der nasse Fisch</i>, 208-09)' ,
+	'Der falsche Kaiser hatte geplaudert wie ein Radio. Noch auf dem Gerüst hatten sie ihn <strong>ausgequetscht</strong>, bevor sie ihn laufen ließen. Rath hatte einen Einblick bekommen, wie Wolter seine Informanten rekrutierte. Die Brutalität seines Kollegen hatte ihn überrascht. (<i>Der nasse Fisch</i>, 29)' ,
+	'<i>Marlow</i>: "..Sie (<i>Rath</i>) wären nicht der erste Bulle, der die Seiten gewechselt hat. Sind noch ein paar korrupte Kollegen mehr mit im Spiel? Der, der den Kurier aus dem Kanal gezogen hat? War er vielleicht noch gar nicht tot? Habt ihr noch was aus ihm <strong>rausgequetscht</strong>? Und wollt jetzt an das große Geld? Aber Vorsicht! Das ist auch für einen ganzen Haufen Bullen noch eine Nummer zu groß. (<i>Der nasse Fisch</i>, 208-09)',
 	'<u>Märzgefallene</u>',
 	'<i>Levetzow, Nazi Polizeipräsident</i>: "Klappern Sie (<i>Rath</i>) sämtliche Personen ab, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!.... Irgendwo muss der Mordjude doch sein. Und irgendwer wird es wissen, und den <strong>quetschen</strong> Sie <strong>aus</strong>...."  (<i>Märzgefallene</i>, 358)',
-	'<i>Marlow</i>: "... Die Concordia ist allerdings vorübergehend führungslos, und einige von Marczweskis Männern sind schon zu den Piraten übergelaufen." <i>Rath</i>: "Und die Berolina?" <i>Marlow</i>: "Hat zum Teil ähnliche Probleme, seit die SA Leo verhaftet hat... Das stört meine Geschäfte zum Glück nicht allzusehr, die sind gut eingefädelt und laufen längst nicht alle über die Berolina. Ich bezweifle, dass Lapke (<i>Chef der Nordpiraten</i>) auch nur von der Hälfte meiner Einnahmequellen etwas weiß." <i>Rath</i>: "Aber diesen Anteil hätte er erhören können, wenn er Juretzka weiter <strong>ausgequetscht</strong> hätte, nicht wahr?"    (<i>Märzgefallene</i>, 431-32)' ,
+	'<i>Marlow</i>: "... Die Concordia ist allerdings vorübergehend führungslos, und einige von Marczweskis Männern sind schon zu den Piraten übergelaufen." <i>Rath</i>: "Und die Berolina?" <i>Marlow</i>: "Hat zum Teil ähnliche Probleme, seit die SA Leo verhaftet hat... Das stört meine Geschäfte zum Glück nicht allzusehr, die sind gut eingefädelt und laufen längst nicht alle über die Berolina. Ich bezweifle, dass Lapke (<i>Chef der Nordpiraten</i>) auch nur von der Hälfte meiner Einnahmequellen etwas weiß." <i>Rath</i>: "Aber diesen Anteil hätte er erhören können, wenn er Juretzka weiter <strong>ausgequetscht</strong> hätte, nicht wahr?" (<i>Märzgefallene</i>, 431-32)',
 	'<u>Lunapark</u>',
-	'"Nein, nein", fuhr Fritsch (<i>Chef des SA-Feldjägerkorps</i>) fort. "Dewald wird zufällig vorbeigekommen sein.. Und irgendeine rote Sau hat ihn hinterrücks überfallen." "Oder ein Jude", warf Steinke dienstbeflissen ein.. "Richtig", echote Fritsch. Nehmen Sie einfach alle Roten und Itzigs hier in der Gegend fest und <strong>quetschen</strong> die Kerle so lange aus, bis Sie den Täter haben. Das Feldjägerkorps unterstützt Sie gerne bei einer Aushebung.   (<i>Lunapark</i>, 175)',
+	'"Nein, nein", fuhr Fritsch (<i>Chef des SA-Feldjägerkorps</i>) fort. "Dewald wird zufällig vorbeigekommen sein.. Und irgendeine rote Sau hat ihn hinterrücks überfallen." "Oder ein Jude", warf Steinke dienstbeflissen ein.. "Richtig", echote Fritsch. Nehmen Sie einfach alle Roten und Itzigs hier in der Gegend fest und <strong>quetschen</strong> die Kerle so lange <strong>aus</strong>, bis Sie den Täter haben. Das Feldjägerkorps unterstützt Sie gerne bei einer Aushebung. (<i>Lunapark</i>, 175)',
 ],
 'auf den Zahn fühlen': [
 	'jmdm. <strong>auf den Zahn fühlen</strong>: grill, probe someone'+
@@ -2625,40 +2660,96 @@ ausbüxen: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-ausfressen: [
-	'<strong>ausfressen</strong>: &nbsp;gobble up, wolf down; be up to something (wrong) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/etwas_ausgefressen_haben/"target="target1">ausfressen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausfressen"target="target2">ausfressen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausfressen"target="target3">ausfressen</a>   ',
+ausfressen: [ 
+	'<strong>ausfressen</strong>: gobble up, wolf down; be up to something (wrong)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/etwas_ausgefressen_haben/"target="target1">ausfressen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausfressen"target="target2">ausfressen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausfressen"target="target3">ausfressen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausfressen"target="target4">ausfressen</a>',
 	'<u>Der nasse Fisch</u>',
 	'<i>Rath</i>: "Ist Ihnen in den vergangenen Wochen etwas aufgefallen? Ist jemand Neues hier eingezogen?" "Nicht das ick wüste." "Vielleicht unter einem anderen Namen." "Nee, beim besten Willen nicht. Wat soller denn ausjefressen (<strong>ausgefressen</strong>) haben?"  (<i>Der nasse Fisch</i>, 49)',
 	'<u>Märzgefallene</u>',
 	'Schon früher, als sie alle noch die Schule besuchten,...hatte Engelbert Rath seine Söhne, wenn sie <strong>etwas ausgefressen hatten</strong>, für die fällige Strafpredigt ins Arbeitszimmer bestellt, wo er hinter seinem riesigen Schreibtisch gesessen hatte wie der liebe Gott. (<i>Märzgefallene</i>, 84)',
 	'Bevor sie (<i>Charly</i>) ihn (<i>den Groschen</i>) herausgab, zeigte sie ihm (<i>Fritze</i>) das Foto. <i>Charly</i>: "Kennst du die?" Er schaute kurz hin und dann direkt wieder weg. "Woher soll ick die kennen?.... <i>Charly</i>: "Die ist öfter hier am Bahnhof. Hannah heißt sie." <i>Fritze</i>: "Wat hat se denn <strong>ausjefressen</strong>?" <i>Charly</i>: "Wieso soll sie etwas <strong>ausgefressen</strong> haben?" (<i>Märzgefallene</i>, 294)',
 	'<u>Lunapark</u>',
-	'"Was ist denn?", fragte Bestmann. "Hat Katsche irjendwat <strong>ausjefressen</strong>?" "Was soll er denn <strong>ausgefressen</strong> haben? Ein SA-Mann ist doch kein Verbrecher", sagte Rath.  (<i>Der Lunapark</i>, 34)',
+	'"Was ist denn?", fragte Bestmann. "Hat Katsche irjendwat <strong>ausjefressen</strong>?" "Was soll er denn <strong>ausgefressen</strong> haben? Ein SA-Mann ist doch kein Verbrecher", sagte Rath. (<i>Der Lunapark</i>, 34)',
 ],
-ausklinken: [
-	'<strong>ausklinken</strong>: &nbsp;release, disengage sth.; withdraw, reject <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausklinken"target="target1">ausklinken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausklinken"target="target2">ausklinken</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausklinken"target="target3">ausklinken</a>   ',
+ausklinken: [ 
+	'<strong>ausklinken</strong>: release, disengage; withdraw, opt out'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausklinken"target="target1">ausklinken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausklinken"target="target2">ausklinken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausklinken"target="target3">ausklinken</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausklinken"target="target4">ausklinken</a>',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Gereon</i>) <strong>klinkte</strong> Kiries Halsband <strong>aus</strong>, und der Hund trottete gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch.  (<i>Märzgefallene</i>, 147)',
+	'Er (<i>Gereon</i>) <strong>klinkte</strong> Kiries Halsband <strong>aus</strong>, und der Hund trottete gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch. (<i>Märzgefallene</i>, 147)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Ausreißer: [
-	'der <strong>Ausreißer</strong>,-: &nbsp;runaway, eloper; outlier (math) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ausreiszer"target="target1">Ausreißer</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausreisser#Ausrei%C3%9Fer"target="target2">Ausreißer</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreisser"target="target3">Ausreißer</a>   ',
+Ausreißer: [ 
+	'der <strong>Ausreißer</strong>,-: runaway, eloper; outlier (stat)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ausreiszer"target="target1">Ausreißer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ausrei%C3%9Fer"target="target2">Ausreißer</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausreisser#Ausrei%C3%9Fer"target="target3">Ausreißer</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreisser"target="target4">Ausreißer</a>',
 	'<u>Märzgefallene</u>',
-	'Die Märchenbrunnenclique. Eigentlich war es gar keine feste Clique gewesen, wie es sie sonst zu Hunderten in der Stadt gab..., es war eine Handvoll obdachloser Jugendlicher oder <strong>Ausreißer</strong>, die den Märchenbrunnen im Volkspark Friedrichshain zu ihrem Treffpunkt erkoren hatten....  (<i>Märzgefallene</i>, 152-153)',
+	'Die Märchenbrunnenclique. Eigentlich war es gar keine feste Clique gewesen, wie es sie sonst zu Hunderten in der Stadt gab.., es war eine Handvoll obdachloser Jugendlicher oder <strong>Ausreißer</strong>, die den Märchenbrunnen im Volkspark Friedrichshain zu ihrem Treffpunkt erkoren hatten.... (<i>Märzgefallene</i>, 152-153)',
 ],             
-ausrücken: [
-	'<strong>ausrücken</strong>: &nbsp;march out, go on an emergency call, make off <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausruecken"target="target1">ausrücken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausrucken"target="target2">ausrücken</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausruecken#ausr%C3%BCcken"target="target3">ausrücken</a>   ',
+'ausrücken, anrücken, nachrücken': [
+	'<strong>rücken</strong>: move up/over/on'+  
+	'<br><strong>ausrücken</strong>: deploy, turn out; disengage; go on emergency call'+  
+	'<br><strong>anrücken</strong>: advance; turn up; push against'+  
+	'<br><strong>nachrücken</strong>: move up, follow on, succeed'+  
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/r%C3%BCcken"target="target1">rücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausr%C3%BCcken"target="target2">ausrücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anr%C3%BCcken"target="target3">anrücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nachr%C3%BCcken"target="target4">nachrücken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rucken_2"target="target5">rücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausrucken"target="target6">ausrücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anrucken"target="target7">anrücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/nachrucken"target="target8">nachrücken</a>',
 	'<u>Märzgefallene</u>',
 	'Es war so etwas wie Berufsinstinkt, der Feuerwehr hinterherzufahren, wenn die <strong>ausrückte</strong>. (<i>Märzgefallene</i>, 54)',
+	'"Hier ist es", sagte Oberschwester Ingeborg überflüssigerweise und schenkte Charly einen abschätzigen Blick. <i>Deinetwegen ist das Gör <strong>ausgerückt</strong></i>, sagte dieser Blick, <i>wärest du nicht gekommen und hättest unseren Frieden gestört, hätten wir den ganzen Ärger nicht</i>! (<i>Märzgefallene</i>, 80)',
+	'<i>Rath</i>: "Wurde denn später mal nach Engel gesucht?" <i>Grimberg</i>: "Das war nicht mehr möglich, der Feind <strong>rückte</strong> schon <strong>nach</strong>. Bis Kriegsende war das Gebiet nicht mehr in deutscher Hand." (<i>Märzgefallene</i>, 279)',
+	'Nun hatte er (<i>Rath</i>) Adenauers Werk (<i>Bau einer Autobahn</i>) - oder eigentlich das von Hunderten areitslosen Männern, die hier mit Hacke und Schaufel <strong>angerückt</strong> waren - mit einem halben Jahr Verspätung doch noch eingeweiht. Es machte Spaß, den Buick mal wieder auszufahren, das hatte er zuletzt in Berlin auf der Avus tun können. (<i>Märzgefallene</i>, 297)',
+	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?".. <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig gerumst. Wir waren alle erschrocken, weil wir glaubten, der Engländer <strong>rücke</strong> früher <strong>nach</strong> als gedacht." (<i>Märzgefallene</i>, 333)',
+	'<u>Lunapark</u>',
+	'Als er (<i>Rath</i>) wieder auf den Gehweg trat, sah er einen ganzen Konvoi offener Lastwagen die Linienstraße hinunterkommen, die sich mit großer geschwindigkeit näherten. Auf den Ladeflächen konnte er SA-Männer mit Blechkragen erkennen. Das FJK <strong>rückte aus</strong>. (<i>Lunapark</i>, 193-94)',
+	'Rath hielt Ausschau nach einer schwarzen Adler-Limousine, doch diesmal war keine zu sehen. Was ihn fürs erste beruhighte. Dafür <strong>rückte</strong> wenig später ein Hanomag der SA-Feldjäger <strong>an</strong>, aus dem Walter Frtsch (<i>FJK-Chef</i>) stieg. (<i>Lunapark</i>, 193-94)',
 ],
-ausscheren: [
-	'<strong>ausscheren</strong>: &nbsp;step out of line, peel off, veer <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausscheren"target="target1">ausscheren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausscheren"target="target2">ausscheren</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausscheren"target="target3">ausscheren</a>',
+'anrücken, ausrücken, nachrücken': [
+	'<strong>rücken</strong>: move up/over/on'+  
+	'<br><strong>ausrücken</strong>: deploy, turn out; disengage; go on emergency call'+  
+	'<br><strong>anrücken</strong>: advance; turn up; push against'+  
+	'<br><strong>nachrücken</strong>: move up, follow on, succeed'+  
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/r%C3%BCcken"target="target1">rücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausr%C3%BCcken"target="target2">ausrücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anr%C3%BCcken"target="target3">anrücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nachr%C3%BCcken"target="target4">nachrücken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rucken_2"target="target5">rücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausrucken"target="target6">ausrücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anrucken"target="target7">anrücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/nachrucken"target="target8">nachrücken</a>',
+	'<u>Märzgefallene</u>',
+	'Es war so etwas wie Berufsinstinkt, der Feuerwehr hinterherzufahren, wenn die <strong>ausrückte</strong>. (<i>Märzgefallene</i>, 54)',
+	'"Hier ist es", sagte Oberschwester Ingeborg überflüssigerweise und schenkte Charly einen abschätzigen Blick. <i>Deinetwegen ist das Gör <strong>ausgerückt</strong></i>, sagte dieser Blick, <i>wärest du nicht gekommen und hättest unseren Frieden gestört, hätten wir den ganzen Ärger nicht</i>! (<i>Märzgefallene</i>, 80)',
+	'<i>Rath</i>: "Wurde denn später mal nach Engel gesucht?" <i>Grimberg</i>: "Das war nicht mehr möglich, der Feind <strong>rückte</strong> schon <strong>nach</strong>. Bis Kriegsende war das Gebiet nicht mehr in deutscher Hand." (<i>Märzgefallene</i>, 279)',
+	'Nun hatte er (<i>Rath</i>) Adenauers Werk (<i>Bau einer Autobahn</i>) - oder eigentlich das von Hunderten areitslosen Männern, die hier mit Hacke und Schaufel <strong>angerückt</strong> waren - mit einem halben Jahr Verspätung doch noch eingeweiht. Es machte Spaß, den Buick mal wieder auszufahren, das hatte er zuletzt in Berlin auf der Avus tun können. (<i>Märzgefallene</i>, 297)',
+	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?".. <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig gerumst. Wir waren alle erschrocken, weil wir glaubten, der Engländer <strong>rücke</strong> früher <strong>nach</strong> als gedacht." (<i>Märzgefallene</i>, 333)',
+	'<u>Lunapark</u>',
+	'Als er (<i>Rath</i>) wieder auf den Gehweg trat, sah er einen ganzen Konvoi offener Lastwagen die Linienstraße hinunterkommen, die sich mit großer geschwindigkeit näherten. Auf den Ladeflächen konnte er SA-Männer mit Blechkragen erkennen. Das FJK <strong>rückte aus</strong>. (<i>Lunapark</i>, 193-94)',
+	'Rath hielt Ausschau nach einer schwarzen Adler-Limousine, doch diesmal war keine zu sehen. Was ihn fürs erste beruhighte. Dafür <strong>rückte</strong> wenig später ein Hanomag der SA-Feldjäger <strong>an</strong>, aus dem Walter Frtsch (<i>FJK-Chef</i>) stieg. (<i>Lunapark</i>, 193-94)',
+],
+'nachrücken, anrücken, ausrücken': [
+	'<strong>rücken</strong>: move up/over/on'+  
+	'<br><strong>ausrücken</strong>: deploy, turn out; disengage; go on emergency call'+  
+	'<br><strong>anrücken</strong>: advance; turn up; push against'+  
+	'<br><strong>nachrücken</strong>: move up, follow on, succeed'+  
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/r%C3%BCcken"target="target1">rücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausr%C3%BCcken"target="target2">ausrücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anr%C3%BCcken"target="target3">anrücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nachr%C3%BCcken"target="target4">nachrücken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rucken_2"target="target5">rücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausrucken"target="target6">ausrücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anrucken"target="target7">anrücken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/nachrucken"target="target8">nachrücken</a>',
+	'<u>Märzgefallene</u>',
+	'Es war so etwas wie Berufsinstinkt, der Feuerwehr hinterherzufahren, wenn die <strong>ausrückte</strong>. (<i>Märzgefallene</i>, 54)',
+	'"Hier ist es", sagte Oberschwester Ingeborg überflüssigerweise und schenkte Charly einen abschätzigen Blick. <i>Deinetwegen ist das Gör <strong>ausgerückt</strong></i>, sagte dieser Blick, <i>wärest du nicht gekommen und hättest unseren Frieden gestört, hätten wir den ganzen Ärger nicht</i>! (<i>Märzgefallene</i>, 80)',
+	'<i>Rath</i>: "Wurde denn später mal nach Engel gesucht?" <i>Grimberg</i>: "Das war nicht mehr möglich, der Feind <strong>rückte</strong> schon <strong>nach</strong>. Bis Kriegsende war das Gebiet nicht mehr in deutscher Hand." (<i>Märzgefallene</i>, 279)',
+	'Nun hatte er (<i>Rath</i>) Adenauers Werk (<i>Bau einer Autobahn</i>) - oder eigentlich das von Hunderten areitslosen Männern, die hier mit Hacke und Schaufel <strong>angerückt</strong> waren - mit einem halben Jahr Verspätung doch noch eingeweiht. Es machte Spaß, den Buick mal wieder auszufahren, das hatte er zuletzt in Berlin auf der Avus tun können. (<i>Märzgefallene</i>, 297)',
+	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?".. <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig gerumst. Wir waren alle erschrocken, weil wir glaubten, der Engländer <strong>rücke</strong> früher <strong>nach</strong> als gedacht." (<i>Märzgefallene</i>, 333)',
+	'<u>Lunapark</u>',
+	'Als er (<i>Rath</i>) wieder auf den Gehweg trat, sah er einen ganzen Konvoi offener Lastwagen die Linienstraße hinunterkommen, die sich mit großer geschwindigkeit näherten. Auf den Ladeflächen konnte er SA-Männer mit Blechkragen erkennen. Das FJK <strong>rückte aus</strong>. (<i>Lunapark</i>, 193-94)',
+	'Rath hielt Ausschau nach einer schwarzen Adler-Limousine, doch diesmal war keine zu sehen. Was ihn fürs erste beruhighte. Dafür <strong>rückte</strong> wenig später ein Hanomag der SA-Feldjäger <strong>an</strong>, aus dem Walter Frtsch (<i>FJK-Chef</i>) stieg. (<i>Lunapark</i>, 193-94)',
+],
+ausscheren: [ 
+	'<strong>ausscheren</strong>: step out of line, peel off, veer'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausscheren"target="target1">ausscheren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausscheren"target="target2">ausscheren</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausscheren"target="target3">ausscheren</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausscheren"target="target4">ausscheren</a>',
 	'<u>Märzgefallene</u>',
 	'Die drei SA-Leute begannen zu tuscheln. Dann zeigte der in der Mitte auf Weiß. "Das ist doch der Isidor", rief er. "Was will der denn noch hier?".... Bevor Weiß irgendetwas entgegnen konnte, war Charly aus der Schlange <strong>ausgeschert</strong> und hatte sich vor den SA-Männern aufgestellt. "Dieser Herr heißt nicht Isidor, sondern Doktor Bernhard Weiß und ist der beste Polizeibeamte, den Berlin jemals hatte."  (<i>Märzgefallene</i>, 200)',
 ],
-ausschlachten: [
-	'<strong>ausschlachten</strong>: &nbsp;cannibalize sth., exploit sth. <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausschlachten"target="target1">ausschlachten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausschlachten"target="target2">ausschlachten</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ausschlachten"target="target3">ausschlachten</a>   ',
+ausschlachten: [ 
+	'<strong>ausschlachten</strong>: cut up; salvage parts from; exploit sth.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausschlachten"target="target1">ausschlachten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausschlachten"target="target2">ausschlachten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ausschlachten"target="target3">ausschlachten</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ausschlachten"target="target4">ausschlachten</a>',
 	'<u>Märzgefallene</u>',
 	'Der Nibelungen-Verlag hatte das Erscheinen des Romans (<i>von Roddecks Roman</i>)... um vier Wochen vorgezogen. Alle witterten sie plözlich ein gutes Geschäft. Selbst der Personnenschutz, den der Polizeipräsident dem Leutnant... gewährt hatte, ließ sich <strong>ausschlachten</strong>: Die Kreutzzeitung hatte ein Bild veröffentlicht, das Leutnant von Roddeck... in Begleitung zweier finster dreinblickender Schupos zeigte. (<i>Märzgefallene</i>, 269)',
 ],
@@ -7042,7 +7133,6 @@ Kittel: [
 	'(<i>Doktor</i>) Völcker schien die Ironie in Schwartz\' Worten nicht bemerkt zu haben... Jedenfalls gab er sich mit diesen Worten zufrieden und setzte sich auf eine Holzbank, die an der gekachelten Wand stand. Die beiden Weiß<strong>kittel</strong> verschwanden. Ohne Leichen.  (<i>Der nasse Fisch</i>, 86)',
 	'Rath wurde aus seinen Gedanken gerissen, als die Schwingtür aufgestoßen wurde und Doktor Schwartz mit energischen Schritten und wehendem <strong>Kittel</strong> in den Gang trat.  (<i>Der nasse Fisch</i>, 293)',
 	'Er (<i>Rath</i>) schaute zu, wie Schwartz ans Waschbecken ging und sich gründlich die Hände wusch. Auf seinem weißen <strong>Kittel</strong> waren nur weniger Blutspritzer zu sehen.  (<i>Der nasse Fisch</i>, 294)',
-// <strong>  (<i>Charly</i>)  (<i>Gerr übereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) verstummte, denn die Tür hatte sich mit einem leisen Knarren geöffnet. Eine Pflegerin im gestärkten weißen <strong>Kittel</strong> stand im Türrahmen....  (<i>Märzgefallene</i>, 43)',
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei <strong>Kittel</strong>schürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
@@ -7217,20 +7307,21 @@ Kontor: [
 	'<i>Rath</i>: "Fräulein Sprenger (<i>die wilde Hilde</i>) ist eine von den Mickymäusen und …" <i>Paul</i>: "Musst du mir nicht erklären. Sie war eben noch hier....Sie hat hier im <strong>Kontor</strong> vorbeigeschaut." (<i>Märzgefallene</i>, 103)' ,
 ],
 Kloß: [
-	'der <strong>Kloß</strong>, die <strong>Klöße</strong>: dumpling, meatball; lump, clod, clump; fat slob ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klosz"target="target1">Kloß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klo%C3%9F"target="target2">Kloß</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kloss?q=Klo%C3%9F"target="target3">Kloß</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kloss#Klo%C3%9F"target="target4">Kloß</a> ' ,
+	'der <strong>Kloß</strong>, die <strong>Klöße</strong>: dumpling, meatball; lump, clod, clump; fat slob'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klosz"target="target1">Kloß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klo%C3%9F"target="target2">Kloß</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kloss?q=Klo%C3%9F"target="target3">Kloß</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kloss#Klo%C3%9F"target="target4">Kloß</a>',
 	'<u>Der nasse Fisch</u>',
-	'Zwei Frauen lagen auf dem Balkon.... Blut sickerte aus Wunden an Kopf und Brust. Der Schrei musste von dem Mann gekommen sein, der sich über die ältere der beiden beugte. Sie (<i>Rath und Wolter</i>) erkannte den Mann, der ihnen eben noch die Tür geöffnet hatte... "Martha", sagte er. Immer nur dieses Wort: "Martha!" Rath spürte, wie sich ein <strong>Kloß</strong> in seinem Hals festsetzte, der immer dicker wurde. (<i>Der nasse Fisch</i>, 71)' ,
-	'Rath nahm eine Sonntagszeitung vom Haken und suchte sich einen freien Tisch. Als der Kellner kam, bestellte er Sauerbraten mit <strong>Klößen</strong> und ein Bier. (<i>Der nasse Fisch</i>, 144)' ,
+	'Zwei Frauen lagen auf dem Balkon.... Blut sickerte aus Wunden an Kopf und Brust. Der Schrei musste von dem Mann gekommen sein, der sich über die ältere der beiden beugte. Sie (<i>Rath und Wolter</i>) erkannte den Mann, der ihnen eben noch die Tür geöffnet hatte... "Martha", sagte er. Immer nur dieses Wort: "Martha!" Rath spürte, wie sich ein <strong>Kloß</strong> in seinem Hals festsetzte, der immer dicker wurde. (<i>Der nasse Fisch</i>, 71)',
+	'Rath nahm eine Sonntagszeitung vom Haken und suchte sich einen freien Tisch. Als der Kellner kam, bestellte er Sauerbraten mit <strong>Klößen</strong> und ein Bier. (<i>Der nasse Fisch</i>, 144)',
 	'<u>Märzgefallene</u>',
-	'<i>Charly</i>: "Da bist du ja, dann kann ich die Kartoffel<strong>klöße</strong> ins Wasser geben."  (<i>Märzgefallene</i>, 101)' ,
-	'Er (<i>Gereon</i>) musste den <strong>Kloß</strong> aus seiner Kehle räuspern, bevor er weitersprechen konnte.  (<i>Märzgefallene</i>, 104)' ,
+	'<i>Charly</i>: "Da bist du ja, dann kann ich die Kartoffel<strong>klöße</strong> ins Wasser geben."  (<i>Märzgefallene</i>, 101)',
+	'Er (<i>Gereon</i>) musste den <strong>Kloß</strong> aus seiner Kehle räuspern, bevor er weitersprechen konnte.  (<i>Märzgefallene</i>, 104)',
 	'Er (<i>Gereon</i>) steckte sich ein weiteres Stück in den Mund und kaute. "Gut", sagte er. Die <strong>Klöße</strong> und der Rotkohl schmeckten tatsächlich. (<i>Märzgefallene</i>, 105)' ,
-	'<i>Charly</i>: "Jetzt bin ich hier, weil ich dir (<i>Hannah</i>) sagen möchte, dass der Mann, der dich töten wollte, nicht mehr lebt. Er wird dich nie mehr bedrohen." Hannah spürte einen riesigen <strong>Kloß</strong> in ihrer Kehle, der ihr sogar das Atmen schwermachte... "Warum wollte dieser Mann dich töten?", fragte sie (<i>Charly</i>) schließlich, und der <strong>Kloß</strong> in Hannahs Hals wurde größer, ließ keinen Ton nach außen dringen. (<i>Märzgefallene</i>, 435)' ,
-	'Die Frau (<i>Charly</i>) setzte sich ans Bett. "Ich will dich (<i>Hannah</i>) nicht drängen. Aber ich brauche Gewissheit über den Mann, der dich hat umbringen wollen." Hannah spürte, wie der <strong>Kloß</strong> wieder dicker wurde. Die Frau sprach von Huckebein. (<i>Märzgefallene</i>, 465)' ,
+	'<i>Charly</i>: "Jetzt bin ich hier, weil ich dir (<i>Hannah</i>) sagen möchte, dass der Mann, der dich töten wollte, nicht mehr lebt. Er wird dich nie mehr bedrohen." Hannah spürte einen riesigen <strong>Kloß</strong> in ihrer Kehle, der ihr sogar das Atmen schwermachte... "Warum wollte dieser Mann dich töten?", fragte sie (<i>Charly</i>) schließlich, und der <strong>Kloß</strong> in Hannahs Hals wurde größer, ließ keinen Ton nach außen dringen. (<i>Märzgefallene</i>, 435)',
+	'Die Frau (<i>Charly</i>) setzte sich ans Bett. "Ich will dich (<i>Hannah</i>) nicht drängen. Aber ich brauche Gewissheit über den Mann, der dich hat umbringen wollen." Hannah spürte, wie der <strong>Kloß</strong> wieder dicker wurde. Die Frau sprach von Huckebein. (<i>Märzgefallene</i>, 465)',
 	'<u>Lunapark</u>',
-	'Charly wusste, dass ihre Wut ungerecht war, dennoch war sie da. Sie reagierte sich an Küchengeräten ab. Als die Kartoffel<strong>klöße</strong> endlich im Wasser waren, fing sie an aufzuräumen.   (<i>Lunapark</i>, 127)' ,
+	'Charly wusste, dass ihre Wut ungerecht war, dennoch war sie da. Sie reagierte sich an Küchengeräten ab. Als die Kartoffel<strong>klöße</strong> endlich im Wasser waren, fing sie an aufzuräumen.   (<i>Lunapark</i>, 127)',
+	'<i>Gereon</i>: "..Kirie ist tot.".. <i>Charly</i>: "Mein Gott, das kann doch nicht wahr sein", sagte sie nach einer Weile, obwohl sie spürte, dass es das war. Sie hatte einen <strong>Kloß</strong> im Hals. "Was um Himmels willen ist denn passiert?" (<i>Lunapark</i>, 366)',
 ], 
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9065,28 +9156,32 @@ Querschläger: [
 	'Horst Kaczmarek sah genauso aus (<i>im Obduktionssaal</i>), wie Rath ihn in Erinnerung hatte, vielleicht etwas bleicher. Der Gesischtsausdruck war derselbe wie gestern Morgen, die vor Entsetzen fast aus den Höhlen <strong>gequollenen Augen</strong>. (<i>Lunapark</i>, 108)',
 ],
 'quetschen, zerquetschen': [
-	'<strong>quetschen</strong>: squeeze, squash, mash  <br><strong>zerquetschen</strong>: squash, crush ' +
+	'<strong>quetschen</strong>: squeeze, squash, mash  <br><strong>zerquetschen</strong>: squash, crush' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/quetschen"target="target1">quetschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerquetschen"target="target2">zerquetschen</a> ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/quetschen"target="target3">quetschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zerquetschen"target="target4">zerquetschen</a>', 
 	'<u>Der nasse Fisch</u>',
-	'Rath ließ die Kirche rechts liegen und ging den Kurfürstendamm hoch, <strong>quetschte sich</strong> durch eine Gruppe laut lachender Touristen, denen ihr Alkoholpegel deutlich anzumerken war.  (<i>Der nasse Fisch</i>, 93)' ,
-	'Warum hatte Gloria ihn (<i>Rath</i>) ins <i>Plaza</i> geschickt?... Eigentlich Blödsinn, hier auszuharren. Er hätte im <i>Eldorado</i> mehr Informationen aus Gloria raus<strong>quetschen</strong> müssen. (<i>Der nasse Fisch</i>, 155)' ,
-	'Marlow drückte seine Zigarre aus. Es sah aus, als würde er ein Ungeziefer <strong>zerquetschen</strong>.  (<i>Der nasse Fisch</i>, 209)' ,
+	'Rath ließ die Kirche rechts liegen und ging den Kurfürstendamm hoch, <strong>quetschte sich</strong> durch eine Gruppe laut lachender Touristen, denen ihr Alkoholpegel deutlich anzumerken war.  (<i>Der nasse Fisch</i>, 93)',
+	'Warum hatte Gloria ihn (<i>Rath</i>) ins <i>Plaza</i> geschickt?... Eigentlich Blödsinn, hier auszuharren. Er hätte im <i>Eldorado</i> mehr Informationen aus Gloria raus<strong>quetschen</strong> müssen. (<i>Der nasse Fisch</i>, 155)',
+	'Marlow drückte seine Zigarre aus. Es sah aus, als würde er ein Ungeziefer <strong>zerquetschen</strong>.  (<i>Der nasse Fisch</i>, 209)',
 	'<u>Märzgefallene</u>',
-	'<i>der Polizeipräsident</i>: "Klappern Sie (<i>Rath</i>) sämtliche Personen ab, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!... Irgendwo muss der Mordjude doch sein. Und irgendwer wird es wissen, und den <strong>quetschen</strong> Sie aus." (<i>Märzgefallene</i>, 358)' ,
-	'"Hallo, Hannah", sagte Tante Charly, wie Fritze sie genannte hatte... "Wie geht\'s dir?" "Gut." Hannah <strong>quetschte</strong> das Wort förmlich aus sich heraus. Nur ein Wort, eine einzige Silbe, aber unendlich schwer auszusprechen.  (<i>Märzgefallene</i>, 465)' ,
+	'<i>der Polizeipräsident</i>: "Klappern Sie (<i>Rath</i>) sämtliche Personen ab, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!... Irgendwo muss der Mordjude doch sein. Und irgendwer wird es wissen, und den <strong>quetschen</strong> Sie aus." (<i>Märzgefallene</i>, 358)',
+	'"Hallo, Hannah", sagte Tante Charly, wie Fritze sie genannte hatte... "Wie geht\'s dir?" "Gut." Hannah <strong>quetschte</strong> das Wort förmlich aus sich heraus. Nur ein Wort, eine einzige Silbe, aber unendlich schwer auszusprechen.  (<i>Märzgefallene</i>, 465)',
+	'<u>Lunapark</u>',
+	'Gereon sagte immer noch nichts, mit versteinertem Gesicht hängte er Hut und Mantel an die Garderobe. Erst jetzt fiel ihr (<i>Charly</i>) auf, was nicht stimmte. Kein schwanzwedelnder Hund, der sich zwischen Gereons Beinen und dem Türrahmen in die Wohnung <strong>quetschte</strong> und sein Herrchen dabei beinahe zu Fall brachte. (<i>Lunapark</i>, 365)',
 ],
 'zerquetschen, quetschen': [
-	'<strong>quetschen</strong>: squeeze, squash, mash  <br><strong>zerquetschen</strong>: squash, crush ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/quetschen"target="target1">quetschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerquetschen"target="target2">zerquetschen</a> ' +
+	'<strong>quetschen</strong>: squeeze, squash, mash  <br><strong>zerquetschen</strong>: squash, crush'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/quetschen"target="target1">quetschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerquetschen"target="target2">zerquetschen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/quetschen"target="target3">quetschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zerquetschen"target="target4">zerquetschen</a>', 
 	'<u>Der nasse Fisch</u>',
-	'Rath ließ die Kirche rechts liegen und ging den Kurfürstendamm hoch, <strong>quetschte sich</strong> durch eine Gruppe laut lachender Touristen, denen ihr Alkoholpegel deutlich anzumerken war.  (<i>Der nasse Fisch</i>, 93)' ,
-	'Warum hatte Gloria ihn (<i>Rath</i>) ins <i>Plaza</i> geschickt?... Eigentlich Blödsinn, hier auszuharren. Er hätte im <i>Eldorado</i> mehr Informationen aus Gloria raus<strong>quetschen</strong> müssen. (<i>Der nasse Fisch</i>, 155)' ,
+	'Rath ließ die Kirche rechts liegen und ging den Kurfürstendamm hoch, <strong>quetschte sich</strong> durch eine Gruppe laut lachender Touristen, denen ihr Alkoholpegel deutlich anzumerken war.  (<i>Der nasse Fisch</i>, 93)',
+	'Warum hatte Gloria ihn (<i>Rath</i>) ins <i>Plaza</i> geschickt?... Eigentlich Blödsinn, hier auszuharren. Er hätte im <i>Eldorado</i> mehr Informationen aus Gloria raus<strong>quetschen</strong> müssen. (<i>Der nasse Fisch</i>, 155)',
 	'Marlow drückte seine Zigarre aus. Es sah aus, als würde er ein Ungeziefer <strong>zerquetschen</strong>.  (<i>Der nasse Fisch</i>, 209)' ,
 	'<u>Märzgefallene</u>',
-	'<i>der Polizeipräsident</i>: "Klappern Sie (<i>Rath</i>) sämtliche Personen ab, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!... Irgendwo muss der Mordjude doch sein. Und irgendwer wird es wissen, und den <strong>quetschen</strong> Sie aus." (<i>Märzgefallene</i>, 358)' ,
-	'"Hallo, Hannah", sagte Tante Charly, wie Fritze sie genannte hatte... "Wie geht\'s dir?" "Gut." Hannah <strong>quetschte</strong> das Wort förmlich aus sich heraus. Nur ein Wort, eine einzige Silbe, aber unendlich schwer auszusprechen.  (<i>Märzgefallene</i>, 465)' ,
+	'<i>der Polizeipräsident</i>: "Klappern Sie (<i>Rath</i>) sämtliche Personen ab, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!... Irgendwo muss der Mordjude doch sein. Und irgendwer wird es wissen, und den <strong>quetschen</strong> Sie aus." (<i>Märzgefallene</i>, 358)',
+	'"Hallo, Hannah", sagte Tante Charly, wie Fritze sie genannte hatte... "Wie geht\'s dir?" "Gut." Hannah <strong>quetschte</strong> das Wort förmlich aus sich heraus. Nur ein Wort, eine einzige Silbe, aber unendlich schwer auszusprechen.  (<i>Märzgefallene</i>, 465)',
+	'<u>Lunapark</u>',
+	'Gereon sagte immer noch nichts, mit versteinertem Gesicht hängte er Hut und Mantel an die Garderobe. Erst jetzt fiel ihr (<i>Charly</i>) auf, was nicht stimmte. Kein schwanzwedelnder Hund, der sich zwischen Gereons Beinen und dem Türrahmen in die Wohnung <strong>quetschte</strong> und sein Herrchen dabei beinahe zu Fall brachte. (<i>Lunapark</i>, 365)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können würde <strong>  ä  Ä  ö  Ö  ü  Ü   ß  für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9385,7 +9480,7 @@ rumsen: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rumsen"target="target1">rumsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rumsen"target="target2">rumsen</a>  ' +
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/rumsen"target="target3">rumsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rumsen"target="target4">rumsen</a> ' ,
 	'<u>Märzgefallene</u>',
-	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?"... <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig <strong>gerumst</strong>."  (<i>Märzgefallene</i>, 333)',
+	'"Sie haben die Explosion auch selbst gesehen?", wandte Rath sich wieder an Roddeck, "oder beruhen Ihre Schilderungen auf Hörensagen anderer?".. <i>von Roddeck</i>: "Gesehen und gehört. Das hat schon gewaltig <strong>gerumst</strong>."  (<i>Märzgefallene</i>, 333)',
 ],
 reüssieren: [
 	'<strong>reüssieren</strong>: succeed ' +
@@ -11269,6 +11364,7 @@ stieren: [
 	'<u>Lunapark</u>',
 	'Rath tippte zum Abschied an seine Hutkrempe und ging.. zurück zu seinem Buick.. Er seufzte, als er sich wieder in seinen Wagen setzte. Der neunte für heute, der neunte völlig sinnlose Besuch. Er <strong>stierte</strong> auf die Liste, die nun doch bei ihm gelandet war, wo er schon geglaubt hatte, dieser Kelch werde an ihm vorübergehen: Sämtliche Berliner Kraftfahrer, die im Besitz eines schwarzen Ford A waren.  (<i>Lunapark</i>, 233-34)', 
 	'Der Buddha saß regungslos in seinem Sessel, <strong>stierte</strong> vor sich hin und sprach kein Wort.  (<i>Lunapark</i>, 260)', 
+	'In der elecktrischen Straßenbahn der Linie 47.. saß ein Mann mit einem schwarzen Hund auf dem Schoß, und <strong>stierte</strong> still vor sich hin, denn der Hund auf seinem Schoß war gar kein Hund mehr, doch das wussten die anderen Fahrgäste nicht.  (<i>Lunapark</i>, 363)', 
 ], 
 Strebe: [
 	'die <strong>Strebe</strong>,-<strong>n</strong>: brace, strut, joist' +
@@ -11724,7 +11820,6 @@ tuscheln: [
 	'"Also schön, meine Herren", sagte er (<i>Gräf</i>) dann in die Runde, "Sie kennen Ihre Aufgaben. Dann wollen wir mal." Die Männer begannen zu <strong>tuscheln</strong>, Stühle rückten. (<i>Lunapark</i>, 287)',
 	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen schielten sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige <strong>tuschelten</strong> miteinander, andere glotzten einfach nur. (<i>Lunapark</i>, 320)',
 ],
-// Ustart  
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 unverfroren: [
@@ -13270,6 +13365,7 @@ wedeln: [
 	'"Na, was ist?", sagte er (<i>Gereon</i>) zu Kirie, die schwanz<strong>wedelnd</strong> auf die Aschinger-Tüte starrte. (<i>Lunapark</i>, 341)',
 	'Kirie tapste über die Parkwege, schnupperte hier, schnupperte dort, schaute ihn (<i>Gereon</i>) ab und zu an, hechelte und <strong>wedelte</strong> mit dem Schwanz. (<i>Lunapark</i>, 351-52)' ,
 	'Kirie lief schwanz<strong>wedelnd</strong> auf Marlow zu und ließ sich zur Begrüßung durchs Fell wuscheln. (<i>Lunapark</i>, 354)' ,
+	'Gereon sagte immer noch nichts, mit versteinertem Gesicht hängte er Hut und Mantel an die Garderobe. Erst jetzt fiel ihr (<i>Charly</i>) auf, was nicht stimmte. Kein schwanz<strong>wedelnder</strong> Hund, der sich zwischen Gereons Beinen und dem Türrahmen in die Wohnung quetschte und sein Herrchen dabei beinahe zu Fall brachte. (<i>Lunapark</i>, 365)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -14137,7 +14233,8 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  Balustrade Der nasse Fisch 153
  Baracke  Märzgefallene  549     
  beargwöhnen  Märzgefallene  536
- beben  Lunapark 160    
+ beben  Lunapark 160   
+ belegt  Lunapark 366 
  'Bezug'  ;   Nworte++;    Märzgefallene   68    
  Bleistiftstummel  Lunapark 32 36  40        
  'Bohnerwachs'  ;   Nworte++;    Märzgefallene  39
@@ -14194,6 +14291,7 @@ Geheiß:   Lunapark 57
  Grübeln  Der nasse Fisch 300
  einer Sache habhaft werden   Märzgefallene 495
  Habgier  Lunapark 24
+ Hacke Märzgefallene 297
  handhaben Lunapark 310  included in ausmisten
  Haube Lunapark 233 included in murren
  Halter Lunapark 153

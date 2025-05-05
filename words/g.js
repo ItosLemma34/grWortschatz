@@ -33,6 +33,7 @@ const g = [
    'Gerippe',    // Gerippe: * 
    'gerissen',   // gerissen:  *
    'Geröll',     // Geröll: * 
+   'Geruckel',  // Geruckel: *
    'Gerümpel',   // Gerümpel:  *
    'Gerüst, einrüsten', // *  duplicated
    'gesalzen',   // gesalzen:  *

@@ -127,19 +127,19 @@ const a = [
 	'aufstieben',    //aufstieben:  
 	'aufstöbern',    // aufstöbern: * 
 	'aufsummen, summen', // * duplicated
-	'auftakeln',     //auftakeln:  
-	'auftischen',    //auftischen:  
+	'auftakeln',     // auftakeln: *
+	'auftischen',    // auftischen: * 
 	'Aufwartung machen', // *
-	'aufwiegen',     //aufwiegen:  
+	'aufwiegen',     // aufwiegen:  *
 	'aus dem Konzept bringen',   // *  
-	'aus dem Staub machen (sich)', //  
-	'aus dem Häuschen sein',   //  
-	'aus der Haut fahren',  // 
+	'aus dem Staub machen (sich)', // * 
+	'aus dem Häuschen sein',   // * 
+	'aus der Haut fahren',  // *
 	'ausbaldowern', // ausbaldowern:  *
 	'ausbremsen', // ausbremsen:  *
 	'ausbuddeln, buddeln', //  * duplicated;   also pair with "einbuddeln" if found
-	'ausbüxen',    //ausbüxen:  
-	'Ausdünstung',  //Ausdünstung:  
+	'ausbüxen',    // ausbüxen:  *
+	'Ausdünstung',  // Ausdünstung:  *
 	'Ausfallstraße',   // Ausfallstraße: * 
 	'ausfressen',   // ausfressen:  *
 	'ausheben, Aushebung',  //  * 

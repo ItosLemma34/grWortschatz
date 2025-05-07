@@ -110,21 +110,21 @@ const a = [
 	'aufgekratzt', // aufgekratzt: * 
 	'aufgelöst',   //aufgelöst:  
 	'aufgießen, Aufguss', //
-	'aufglimmen',  //aufglimmen:  
-	'aufhalsen',   //aufhalsen:  
-	'aufjaulen',   //aufjaulen:  
+	'aufglimmen',  // aufglimmen:  
+	'aufhalsen',   // aufhalsen: *
+	'aufjaulen',   // aufjaulen: * 
 	'auflauern',   // auflauern: *
-	'aufmucken',   //aufmucken:  
-	'aufpäppeln',  //aufpäppeln:  
-//	'aufplustern', //aufplustern:  
-	'aufputschen',  //aufputschen:  
-	'aufs Auge drücken',  //  
-	'aufs Dach steigen',  //  
-	'aufs Korn nehmen',  //  
-	'aufschaukeln',    //aufschaukeln:  
-	'aufscheuchen',    //aufscheuchen:  
-	'aufschichten',   //aufschichten:  
-	'aufstieben',    //aufstieben:  
+	'aufmucken',   // aufmucken:  *
+	'aufpäppeln',  // aufpäppeln: * 
+//	'aufplustern', // aufplustern:  
+	'aufputschen',  // aufputschen: *
+	'aufs Auge drücken',  // * 
+	'aufs Dach steigen',  // * 
+	'aufs Korn nehmen',  // * 
+	'aufschaukeln, schaukeln', // * duplicated  
+	'aufscheuchen',    // aufscheuchen: *  
+	'aufschichten',   // aufschichten: * 
+	'aufstieben',    // aufstieben:  *
 	'aufstöbern',    // aufstöbern: * 
 	'aufsummen, summen', // * duplicated
 	'auftakeln',     // auftakeln: *

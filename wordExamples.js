@@ -13,6 +13,19 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+Fetzen: [ 
+	'der <strong>Fetzen</strong>,-: rag, shred'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fetzen"target="target1">Fetzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fetzen"target="target2">Fetzen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Fetzen"target="target3">Fetzen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/fetzen"target="target4">Fetzen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Erst den Mantel, dann den Anzug. <strong>Fetzen</strong> um <strong>Fetzen</strong> wanderten in den Ofen, bis schließlich alles in den Flammen verschwunden war.  (<i>Der nasse Fisch</i>, 230)',  
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Bei solch einer gewaltigen Explosion dürften doch nur <strong>Fetzen</strong> von ihm (<i>Engel</i>) übriggeblieben sein." (<i>Märzgefallene</i>, 333)',    
+	'<u>Lunapark</u>',   
+	'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den verbeulten, zerrissenen und verdreckten <strong>Fetzen</strong> Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+	'Und dann kamen sie. Aus dem Treppenhaus, aus dem Dunkel des Kellers. Vier Männer, zerlumpte Gestalten, obwohl man den Anzügen, die sie trugen, ansah, dass sie viel Geld gekostet haben mussten. Wahrscheinlich maßgeschneidert, doch von der einstigen Eleganz waren nur noch schmuddelige <strong>Fetzen</strong> übrig. (<i>Lunapark</i>, 220)',   
+	'Rath fluchte, als die Brombeerdornen einen <strong>Fetzen</strong> aus dem teuren Stoff (<i>seines Ärmels</i>) rissen, und fragte sich, ob es nicht doch einen anderen Weg geben mochte, um in den verdammten Park zu gelangen. Er fühlte nach den Sperrhaken in seiner Manteltasche, die hatten ihm schon oft nützliche Dienste erwiesen.  (<i>Lunapark</i>, 368)',
+],
 patzig: [
 	'<strong>patzig</strong>: insolent, impudent snippy, snotty'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/patzig"target="target1">patzig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/patzig"target="target2">patzig</a>'+
@@ -32,7 +45,7 @@ Geruckel: [
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
-	'Er trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im <strong>Geruckel</strong> des Anfahrens, schien der Hund sich noch einmal zu bewegen, schaukelte für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im <strong>Geruckel</strong> des Anfahrens, schien der Hund sich noch einmal zu bewegen, schaukelte für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
 ],
 Flittchen: [
 	'das <strong>Flittchen</strong>,-: floozie, slut, tart'+
@@ -1708,11 +1721,13 @@ auswringen: [
 	'<u>Der nasse Fisch</u>',
 	'"Du solltest mir dankbar sein, du Riesenarschloch (<i>der Riesenarschlochpornokaiser</i>)", sagte Wolter.... "Ich hab dich davor bewahrt, dass du als Polizistenmörder aufs Schafott kommst.... Aber versuchten Polizistenmord, den hast du immer noch <strong>an der Backe</strong>. Weißt du, was wir mit solchen Leuten machen?"  (<i>Der nasse Fisch</i>, 27)' ,
 ],	
-aufmucken: [
-	'<strong>aufmucken</strong>: &nbsp;protest, be up in arms against <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufmucken"target="target1">aufmucken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/aufmucken"target="target2">aufmucken</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufmucken"target="target3">aufmucken</a>',
+aufmucken: [ 
+	'<strong>aufmucken</strong>: protest, be up in arms against'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufmucken"target="target1">aufmucken</a> &nbsp;<a href="https://www.dwds.de/wb/aufmucken"target="target2">aufmucken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufmucken"target="target3">aufmucken</a> &nbsp;<a href="https://www.verbformen.com/?w=aufmucken"target="target4">aufmucken</a>',
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>', 
-	'Roddecks Verleger hatte sich gewundert, als Liang ihm die von Gustav Kohn ausgearbeitete und von Roddeck unterschriebene Übertragunsvollmacht unter die Nase gehalten hatte. <strong>Aufzumucken</strong> oder gar zur Polizei zu gehen, hatte er nicht gewagt.    (<i>Märzgefallene</i>, 587)' ,
+	'Roddecks Verleger hatte sich gewundert, als Liang ihm die von Gustav Kohn ausgearbeitete und von Roddeck unterschriebene Übertragunsvollmacht unter die Nase gehalten hatte. <strong>Aufzumucken</strong> oder gar zur Polizei zu gehen, hatte er nicht gewagt. (<i>Märzgefallene</i>, 587)',
 ],
 aufgekratzt: [
 	'<strong>aufgekratzt</strong>: exhilarated, boisterous <br><strong>aufkratzen</strong>: scratch ' +
@@ -1726,17 +1741,21 @@ aufgekratzt: [
 	'Die Stimmung wurde ausgelassener, inzwischen sangen einige Gäste den Refrain mit. Mochten die Künstler der Systemzeit im neuen Deutschland auch nicht beliebt sein, in Charlys Freundeskreis waren sie es. Wie früher schon. Auch da war irgendwann mitgesungen worden, kreuzfidel und <strong>aufgekratzt</strong>.  (<i>Der nasse Fisch</i>, 157)',
 ],
 // ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-'aufs Auge drücken': [
-	'jmd. etw. <strong>aufs Auge drücken</strong>: &nbsp;saddle so. with sth., force sth. on sb. <br>Deutsche Definition: &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20jmdn.%2C%20etw.%20aufs%20Auge%20dr%C3%BCcken"target="target1">aufs Auge drücken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aufs%20Auge%20dr%C3%BCcken"target="target2">aufs Auge drücken</a> &nbsp;<a href="https://www.dict.cc/?s=aufs+Auge+dr%C3%BCcken"target="target3">aufs Auge drücken</a>',    
+'aufs Auge drücken': [ 
+	'jmd. etw. <strong>aufs Auge drücken</strong>: saddle so. with sth., force sth. on sb.'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20jmdn.%2C%20etw.%20aufs%20Auge%20dr%C3%BCcken"target="target1">aufs Auge drücken</a> &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=aufs+Auge+dr%C3%BCcken&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">aufs Auge drücken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aufs%20Auge%20dr%C3%BCcken"target="target2">aufs Auge drücken</a> &nbsp;<a href="https://www.dict.cc/?s=aufs+Auge+dr%C3%BCcken"target="target3">aufs Auge drücken</a>',    
 	'<u>Der nasse Fisch</u>',
 	'Der (<i>unbenannte</i>) Mann stutzte. "Vielleicht hab ich doch schon was von dem Kerl gehört. Wie heißt er noch gleich?" <i>Marlow</i>: "Rath. Gereon Rath." Erneutes Achselzucken. "Bin mir nicht ganz sicher, könnte bei der Sitte sein. Die haben einen neuen Kollegen <strong>aufs Auge gedrückt</strong> bekommen...."'
 //	'<u>Märzgefallene</u>', 
 ],
-aufputschen: [
-	'<strong>aufputschen</strong>: &nbsp;excite, stimulate, stir up <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufputschen"target="target1">aufputschen</a><br>English Definition: &nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aufputschen"target="target2">aufputschen</a> &nbsp;<a href="https://en.langenscheidt.com/german-english/aufputschen"target="target3">aufputschen</a> ',
+aufputschen: [ 
+	'<strong>aufputschen</strong>: excite, stimulate, stir up'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufputschen"target="target1">aufputschen</a> &nbsp;<a href="https://www.dwds.de/wb/aufputschen"target="target2">aufputschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufputschen"target="target3">aufputschen</a> &nbsp;<a href="https://www.verbformen.com/?w=aufputschen"target="target4">aufputschen</a>',
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>', 
-	'Das Lob, das von allen Seiten auf ihn niederprasselte, musste ihn <strong>aufgeputscht</strong> haben, jedenfalls hatte Achim von Roddeck prompt zugesagt, die studentische Aktion zu unterstützen, wo ihn doch alle am Tisch als den idealen Repräsentanten einer neuen deutschen Literatur bezeichnet hatten.  (<i>Märzgefallene</i>, 552-53)' ,
+	'Das Lob, das von allen Seiten auf ihn niederprasselte, musste ihn <strong>aufgeputscht</strong> haben, jedenfalls hatte Achim von Roddeck prompt zugesagt, die studentische Aktion zu unterstützen, wo ihn doch alle am Tisch als den idealen Repräsentanten einer neuen deutschen Literatur bezeichnet hatten.  (<i>Märzgefallene</i>, 552-53)',
 ],
 abbinden: [
 	'<strong>abbinden</strong>: &nbsp;bind, set, harden <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abbinden"target="target1">abbinden</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abbinden"target="target2">abbinden</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abbinden"target="target3">abbinden</a> ',
@@ -1849,11 +1868,15 @@ aushorchen: [
 	'Als er (<i>Rath</i>) längst wieder im Auto saß, kreisten seine Gedanken noch um sie (<i>Fräulein Ritter</i>).. Was hatte sie bei Aschinger gesucht?.. Hatte sie ihn im Auftrag Böhms <strong>aushorchen</strong> sollen?.. Warum hatte sie dann so heftig geflirtet?  (<i>Der nasse Fisch</i>, 147)',
 //	'<u>Märzgefallene</u>', 
 ],
-aufscheuchen: [
-	'<strong>aufscheuchen</strong>: &nbsp;startle, shock; rouse, flush (an animal)  <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufscheuchen"target="target1">aufscheuchen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufscheuchen"target="target2">aufscheuchen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aufscheuchen"target="target3">aufscheuchen</a>   ',
+aufscheuchen: [ 
+	'<strong>aufscheuchen</strong>: startle, shock; rouse, flush (an animal)'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufscheuchen"target="target1">aufscheuchen</a> &nbsp;<a href="https://www.dwds.de/wb/aufscheuchen"target="target2">aufscheuchen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufscheuchen"target="target3">aufscheuchen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aufscheuchen"target="target4">aufscheuchen</a>',
 //	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "...Und noch nervöser ist er (<i>Roddeck</i>), weil nun, nach dem vermeintlichen Tod des Alberich-Mörders (<i>Engel</i>) der Polizeischutz für ihn wegfällt. Und er sich nun wirklich in Gefahr wähnt, weil er davon ausgeht, dass Benjamin Engel lebt. Und weil er die Wahrscheinlichkeit, dass er ihn - wie beabsichtigt - durch seinen Lügenroman <strong>aufgescheucht</strong> haben könnte, für ziemlich groß halten dürfte."  (<i>Märzgefallene</i>, 503)' ,
+	'<i>Rath</i>: "...Und noch nervöser ist er (<i>Roddeck</i>), weil nun, nach dem vermeintlichen Tod des Alberich-Mörders (<i>Engel</i>) der Polizeischutz für ihn wegfällt. Und er sich nun wirklich in Gefahr wähnt, weil er davon ausgeht, dass Benjamin Engel lebt. Und weil er die Wahrscheinlichkeit, dass er ihn - wie beabsichtigt - durch seinen Lügenroman <strong>aufgescheucht</strong> haben könnte, für ziemlich groß halten dürfte."  (<i>Märzgefallene</i>, 503)',
+	'<u>Lunapark</u>',
+	'Rath stellte sich den Tatablauf ungefähr so vor: Leo Juretzka, voller Hass auf Horst Kaczmarek, dem er den Verlust seines rechten Auges verdankte, hatte sich vor Katsches Mietskaserne auf die Lauer gelegt.. Doch dann war ihm etwas dazwischengekommen. Die Kommunisten um Gregor Wolff, die sich an jenem Abend ausgerechnet die Liesenbrücke für ihre Parolenaktion ausgesucht hatten. Kaczmarek musste die Roten mitten in der Arbeit <strong>aufgescheucht</strong> haben.  (<i>Lunapark</i>, 312)',
 ],
 abzocken: [
 	'<strong>abzocken</strong>: &nbsp;rip off, fleese, gouge so.  <br> Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/abzocken"target="target1">abzocken</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abzocken"target="target2">abzocken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abzocken"target="target3">abzocken</a>',
@@ -1895,10 +1918,12 @@ abluchsen: [
 	'Er (<i>Rath</i>) zog die Geldbörse aus der Schublade, die er vor drei Sekunden dort hatte hineinfallen lassen. "Puh!" Er tat erleichtert. "Und ich dachte schon, einer von den Taschendieben am Alex hätte sie mir <strong>abgeluchst</strong>. Hatte mich schon auf ein Wochenende ohne Geld eingestellt."  (<i>Der nasse Fisch</i>, 143)' ,
 //	'<u>Märzgefallene</u>', 
 ],
-'aufs Korn nehmen': [
-	'jmdn./etwas <strong>aufs Korn nehmen</strong>: &nbsp;attack/skewer so./sth.  <br>Deutsche Definition: &nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20aufs%20Korn%20nehmen"target="target1">aufs Korn nehmen</a><br>English Definitions:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aufs%20Korn%20nehmen"target="target2">aufs Korn nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=aufs+Korn+nehmen"target="target3">aufs Korn nehmen</a>   ',
+'aufs Korn nehmen': [ 
+	'jmdn./etwas <strong>aufs Korn nehmen</strong>: attack/skewer so./sth.'+      
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=aufs+Korn+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">aufs Korn nehmen</a> &nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20aufs%20Korn%20nehmen"target="target2">aufs Korn nehmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aufs%20Korn%20nehmen"target="target3">aufs Korn nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=aufs+Korn+nehmen"target="target4">aufs Korn nehmen</a>',
 	'<u>Der nasse Fisch</u>',
-	'<i>Weinert</i>: "Es gibt immer Leute, die solche gesetzlosen Situationen ausnutzen, Schaufenster einwerfen, Geschäfte plündern und sonstwie die Sau rauslassen. Aber ich habe keinen einzigen kommunistischen Heckenschützen gesehen. Nur schießende Polizisten..." "... die jeden Moment damit rechneten, von der Rotfront <strong>aufs Korn genommen zu werden</strong>", ergänzte Rath. "Der Rotfrontkämpferbund ist bewaffnet."   (<i>Der nasse Fisch</i>, 131)' ,
+	'<i>Weinert</i>: "Es gibt immer Leute, die solche gesetzlosen Situationen ausnutzen, Schaufenster einwerfen, Geschäfte plündern und sonstwie die Sau rauslassen. Aber ich habe keinen einzigen kommunistischen Heckenschützen gesehen. Nur schießende Polizisten..." "... die jeden Moment damit rechneten, von der Rotfront <strong>aufs Korn genommen zu werden</strong>", ergänzte Rath. "Der Rotfrontkämpferbund ist bewaffnet." (<i>Der nasse Fisch</i>, 131)',
 //	'<u>Märzgefallene</u>',
 ],
 Ausdünstung: [ 
@@ -1936,8 +1961,10 @@ abhängen: [
 	'Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte. Und dafür hatte Rath sich den Wosniak-Fall wieder <strong>ans Bein gebunden</strong>, nur um einen Vorwand zu haben, diesen undankbaren Drecksack aus der SA-Haft loszueisen? (<i>Märzgefallene</i>, 431)'  ,
 	'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten <strong>ans Bein zu binden</strong>.  (<i>Märzgefallene</i>, 569)',
 ],
-aufpäppeln: [
-	'<strong>aufpäppeln</strong>: &nbsp;feed, nurse back to health <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufpaeppeln"target="target1">aufpäppeln</a><br>English Definitions:&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufpappeln"target="target2">aufpäppeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aufpappeln?q=aufp%C3%A4ppeln"target="target3">aufpäppeln</a>   ',
+aufpäppeln: [ 
+	'<strong>aufpäppeln</strong>: feed, nurse back to health'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufpaeppeln"target="target1">aufpäppeln</a> &nbsp;<a href="https://www.dwds.de/wb/aufp%C3%A4ppeln"target="target2">aufpäppeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufpappeln"target="target3">aufpäppeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aufpappeln?q=aufp%C3%A4ppeln"target="target4">aufpäppeln</a>',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Wie geht es dem Mädchen?"... <i>Marlow</i>: "Schwer zu sagen. Körperlich, würde ich meinen, ist alles auf einem guten Weg. Sie kommt langsam wieder zu Kräften nach dem schweren Blutverlust. Da haben wir sie ganz gut <strong>aufpäppeln</strong> können, sie isst auch mit gutem Appetit." (<i>Märzgefallene</i>, 428)'  , 
 ],
@@ -2101,8 +2128,10 @@ ausquetschen: [
 	'<u>Lunapark</u>',
 	'<i>Lange</i>: "Vielleicht sollten wir noch einmal hingehen (<i>zum Sturmlokal</i>), jetzt herrscht da bestimmt Hochbetrieb. Vielleicht ist sogar Lapke da." Rath schüttelte den Kopf. "Keine gute Idee. Wenn wir heute der SA <strong>auf die Pelle rücken</strong>, weiß die Stapo das noch vor Sonnenuntergang. (<i>Lunapark</i>, 73)',
 ],
-'aufs Dach steigen': [
-	'<strong>jmdm. aufs Dach steigen</strong>: &nbsp;tell sb. off, jump down their throat <br>Deutsche Definition: &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20aufs%20Dach%20steigen"target="target1">aufs Dach steigen</a><br>English Definitions:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=aufs+Dach+steigen"target="target2">aufs Dach steigen</a>&nbsp;&nbsp;<a href="https://en.pons.com/translate-2/german-english/aufs+Dach+steigen"target="target3">aufs Dach steigen</a>',
+'aufs Dach steigen': [ 
+	'<strong>jmdm. aufs Dach steigen</strong>: tell sb. off, jump down their throat'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20aufs%20Dach%20steigen"target="target1">aufs Dach steigen</a> &nbsp;<a href=""target="target2">aufs Dach steigen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=aufs+Dach+steigen"target="target3">aufs Dach steigen</a>&nbsp;&nbsp;<a href="https://en.pons.com/translate-2/german-english/aufs+Dach+steigen"target="target4">aufs Dach steigen</a>',
 	'<u>Märzgefallene</u>',
 	'Inzwischen hatte er (<i>Rath</i>) sich in seinen Fall hineingebissen. Drei Tote, das war enschieden zu viel. Dass der Polizeipräsident <strong>ihm</strong> deswegen noch <strong>aufs Dach steigen</strong> würde, war nicht einmal das Schlimmste.... (<i>Märzgefallene</i>, 351)',
 ],
@@ -2558,15 +2587,19 @@ aufglimmen: [
 	'<u>Märzgefallene</u>',
 	'Und jetzt bemerkte Charly auch, wie unregelmäßig der Himmel leuchtete, wie ein Stück glühende Kohle, das mal dort und mal hier heller <strong>aufglimmte</strong>.  (<i>Märzgefallene</i>, 63)',
 ],
-aufhalsen: [
-	'<strong>aufhalsen</strong>: &nbsp;foist sth. on so., incur debts;  <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufhalsen"target="target1">aufhalsen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aufhalsen"target="target2">aufhalsen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aufhalsen"target="target3">aufhalsen</a>',
+aufhalsen: [ 
+	'<strong>aufhalsen</strong>: saddle oneself/so. with sth., foist sth. on so.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufhalsen"target="target1">aufhalsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufhalsen"target="target2">aufhalsen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufhalsen"target="target3">aufhalsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufhalsen"target="target4">aufhalsen</a>',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Gereon</i>) berichtete ihr (<i>Charly</i>) in wenigen Sätzen von Roddeck und dessen Geschichte, und sie hörte interessiert zu.... <i>Charly</i>: "Da hat Böhm dir aber eine undankbare Arbeit <strong>aufgehalst</strong>." <i>Gereon</i>: "Die habe ich mir selbst <strong>aufgehalst</strong>. Böhm weiß von der ganzen Sache nichts."  (<i>Märzgefallene</i>, 176)',
-	'<i>Gereon</i>: "Wenn du Asyl suchst... das kann ich dir in meinem bescheidenen Büro gerne gewähren. <i>Charly</i>: "Ich weiß nicht, ob deine Sekretärin das auch so sieht." <i>Gereon</i>: "Das sollte unser Problem nicht sein, die Voss hat die nächsten beiden Tage noch frei. Und Plisch und Plum <strong>halse</strong> ich einfach genug Arbeit <strong>auf</strong>, das die gar keine Zeit mehr haben, hier vorbeizuschauen."   (<i>Märzgefallene</i>, 363)',
-	'<i>Karin van Almsick</i>: "War einfach zuviel, was du (<i>Charly</i>) dir letzte Zeit so <strong>aufgehalst</strong> hast. Die vielen Überstunden, dann die Hochzeit. Ich hab so was schon kommen sehen."  (<i>Märzgefallene</i>, 447)',
+	'Er (<i>Gereon</i>) berichtete ihr (<i>Charly</i>) in wenigen Sätzen von Roddeck und dessen Geschichte, und sie hörte interessiert zu.... <i>Charly</i>: "Da hat Böhm dir aber eine undankbare Arbeit <strong>aufgehalst</strong>." <i>Gereon</i>: "Die habe ich mir selbst <strong>aufgehalst</strong>. Böhm weiß von der ganzen Sache nichts." (<i>Märzgefallene</i>, 176)',
+	'<i>Gereon</i>: "Wenn du Asyl suchst... das kann ich dir in meinem bescheidenen Büro gerne gewähren. <i>Charly</i>: "Ich weiß nicht, ob deine Sekretärin das auch so sieht." <i>Gereon</i>: "Das sollte unser Problem nicht sein, die Voss hat die nächsten beiden Tage noch frei. Und Plisch und Plum <strong>halse</strong> ich einfach genug Arbeit <strong>auf</strong>, das die gar keine Zeit mehr haben, hier vorbeizuschauen." (<i>Märzgefallene</i>, 363)',
+	'<i>Karin van Almsick</i>: "War einfach zuviel, was du (<i>Charly</i>) dir letzte Zeit so <strong>aufgehalst</strong> hast. Die vielen Überstunden, dann die Hochzeit. Ich hab so was schon kommen sehen." (<i>Märzgefallene</i>, 447)',
 ],
-aufjaulen: [
-	'<strong>aufjaulen</strong>: &nbsp;howl (also just "jaulen") <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufjaulen"target="target1">aufjaulen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=aufjaulen"target="target2">aufjaulen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/aufjaulen"target="target3">aufjaulen</a>',
+aufjaulen: [ 
+	'<strong>aufjaulen</strong>: howl (also just "jaulen")'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufjaulen"target="target1">aufjaulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufjaulen"target="target2">aufjaulen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aufjaulen"target="target3">aufjaulen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/aufjaulen"target="target4">aufjaulen</a>',
 	'<u>Märzgefallene</u>',
 	'Berthold Weinert saß eingehüllt in eine warme Decke in seinem Dachzimmer in der Schumannstraße, nippte hin und wieder an einem Glas Grog und starrte auf das Blatt Papier in seiner Schreibmaschine, als er die Signalhörner draußen <strong>aufjaulen</strong> hörte. (<i>Märzgefallene</i>, 53)',
 	'...sie (<i>Hannah</i>) musste sich entscheiden, musste handeln, solange sie noch konnte. Jetzt! Sie stach mit aller Kraft zu und hörte ihn (<i>Huckebein</i>) <strong>aufjaulen</strong>.... (<i>Märzgefallene</i>, 68)',
@@ -2585,20 +2618,51 @@ auflauern: [
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
-aufschaukeln: [
-	'<strong>aufschaukeln</strong>: &nbsp;build up, amplify <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufschaukeln"target="target1">aufschaukeln</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aufschaukeln"target="target2">aufschaukeln</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=aufschaukeln"target="target3">aufschaukeln</a>   ',
+'aufschaukeln, schaukeln': [   
+	'<strong>schaukeln</strong>: rock, swing, sway, seesaw'+
+	'<br><strong>Eier schaukeln</strong>: scratch one\'s balls; waste time'+
+	'<br><strong>aufschaukeln</strong>: build up, amplify'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaukeln"target="target1">schaukeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufschaukeln"target="target2">aufschaukeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schaukeln"target="target3">schaukeln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aufschaukeln"target="target4">aufschaukeln</a>',
+	'<u>Der nasse Fisch</u>',
+	'Das Pärchen schien sehr beschäftigt gewesen zu sein, beide hatten kaum etwas gesehen.... Die beiden waren ausgestiegen und ans Ufer gelaufen. Sie konnten nichts mehr tun, nur ohnmächtig zuschauen, wie der Horch kurz auf dem Wasser <strong>schaukelte</strong>, dann nach vorne kippte und schnell unterging. (<i>Der nasse Fisch</i>, 62-63)',
+	'Der Beifahrer hatte geschimpft, als er hörte, wer den Transport alles begleiten sollte: "Det is keen Mannschaftswagen, det issen Leichenwagen!" Murrend hatte er seinen Platz geräumt und saß nun hinten zwischen den <strong>schaukelnden</strong> Zinksärgen. (<i>Der nasse Fisch</i>, 76)',
 	'<u>Märzgefallene</u>',
-	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>....  (<i>Märzgefallene</i>, 46)',
+	'Draußen im Park fuhr der Wind durch die Bäume und ließ die kahlen Kronen <strong>schaukeln</strong>. (<i>Märzgefallene</i>, 39)',
+	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>... (<i>Märzgefallene</i>, 46)',
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im Geruckel des Anfahrens, schien der Hund sich noch einmal zu bewegen, <strong>schaukelte</strong> für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
+	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>? (<i>Märzgefallene</i>, 387)',
 ],
-aufschichten: [
-	'<strong>aufschichten</strong>: &nbsp;pile, stack up; stratify <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufschichten"target="target1">aufschichten</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufschichten"target="target2">aufschichten</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/aufschichten"target="target3">aufschichten</a>  ',
+'schaukeln, aufschaukeln': [   
+	'<strong>schaukeln</strong>: rock, swing, sway, seesaw'+
+	'<br><strong>Eier schaukeln</strong>: scratch one\'s balls; waste time'+
+	'<br><strong>aufschaukeln</strong>: build up, amplify'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaukeln"target="target1">schaukeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufschaukeln"target="target2">aufschaukeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schaukeln"target="target3">schaukeln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aufschaukeln"target="target4">aufschaukeln</a>',
+	'<u>Der nasse Fisch</u>',
+	'Das Pärchen schien sehr beschäftigt gewesen zu sein, beide hatten kaum etwas gesehen.... Die beiden waren ausgestiegen und ans Ufer gelaufen. Sie konnten nichts mehr tun, nur ohnmächtig zuschauen, wie der Horch kurz auf dem Wasser <strong>schaukelte</strong>, dann nach vorne kippte und schnell unterging. (<i>Der nasse Fisch</i>, 62-63)',
+	'Der Beifahrer hatte geschimpft, als er hörte, wer den Transport alles begleiten sollte: "Det is keen Mannschaftswagen, det issen Leichenwagen!" Murrend hatte er seinen Platz geräumt und saß nun hinten zwischen den <strong>schaukelnden</strong> Zinksärgen. (<i>Der nasse Fisch</i>, 76)',
 	'<u>Märzgefallene</u>',
-	'...als genügend Licht von unserer Seite in den dunklen Raum fällt, schimmert es plötzlich zurück, immer strahlender, je mehr sich der geheime Raum uns öffnet. Und schließlich blicken wir auf eine funkelnde Wand, die sich wie eine zweite hinter der gemauerten erhebt, vielleicht einen Meter hoch und <strong>aufgeschichtet</strong> aus – Gold.   (<i>Märzgefallene</i>, 162)',
+	'Draußen im Park fuhr der Wind durch die Bäume und ließ die kahlen Kronen <strong>schaukeln</strong>. (<i>Märzgefallene</i>, 39)',
+	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>... (<i>Märzgefallene</i>, 46)',
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im Geruckel des Anfahrens, schien der Hund sich noch einmal zu bewegen, <strong>schaukelte</strong> für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
+	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>? (<i>Märzgefallene</i>, 387)',
+],
+aufschichten: [ 
+	'<strong>schichten</strong>: layer, stack, pile'+
+	'<br><strong>aufschichten</strong>: pile, stack up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufschichten"target="target1">aufschichten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufschichten"target="target2">aufschichten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufschichten"target="target3">aufschichten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufschichten"target="target4">aufschichten</a>',
+	'<u>Märzgefallene</u>',
+	'...als genügend Licht von unserer Seite in den dunklen Raum fällt, schimmert es plötzlich zurück, immer strahlender, je mehr sich der geheime Raum uns öffnet. Und schließlich blicken wir auf eine funkelnde Wand, die sich wie eine zweite hinter der gemauerten erhebt, vielleicht einen Meter hoch und <strong>aufgeschichtet</strong> aus – Gold. (<i>Märzgefallene</i>, 162)',
+	'Während sich der Fackelzug langsam näherte, begannen Feuerwehrmänner, den aus Holzbalken <strong>aufgeschichteten</strong> Scheiterhaufen, den der Regen durch und durch eingenässt hatte, kanisterweise mit Benzin zu übergießen. (<i>Märzgefallene</i>, 555)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
-aufstieben: [
-	'<strong>aufstieben</strong>: &nbsp;fly, rise up <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufstieben"target="target1">aufstieben</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aufstieben"target="target2">aufstieben</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/aufstieben"target="target3">aufstieben</a>   ',
+aufstieben: [ 
+	'<strong>aufstieben</strong>: fly, rise up'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufstieben"target="target1">aufstieben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufstieben"target="target2">aufstieben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/aufstieben"target="target3">aufstieben</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufstieben"target="target4">aufstieben</a>',
 	'<u>Märzgefallene</u>',
 	'Niemand beachtete ihn (<i>Weinert</i>), die Männer hatten mehr als genug mit den Löscharbeiten (<i>für den Reichstagbrand</i>) zu tun. Es krachte laut, als ein Teil der Holzverkleidung nach unten stürzte und Tausende Funken <strong>aufstieben</strong> ließ wie eine Armee angriffslustiger Glühwürmchen. (<i>Märzgefallene</i>, 57)',
 ],                   
@@ -10556,16 +10620,6 @@ Schar: [
 	'<u>Lunapark</u>',
 	'Der Kaufmann wandte sich an seine nächste Kundin. "Sie wünschen?", sagte er, und Charly fragte sich, ob es irgendetwas in diesem Laden gab, was sie für zuhause einkaufen könnte. "Ähh... Zucker... ein Pfund Zucker, bitte." "Sehr wohl." Der Mann drehte sich um und füllte Zucker mit einer großen metallenen <strong>Schaufel</strong> in eine Papiertüte. (<i>Lunapark</i>, 116)' ,
 ],
-schaukeln: [
-	'<strong>schaukeln</strong>: swing, rock, sway <br><strong>Eier schaukeln</strong>: scratch one\'s balls; waste time' + 
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schaukeln"target="target1">schaukeln</a> &nbsp;&nbsp;<a href="https://praxistipps.focus.de/eier-schaukeln-daher-kommt-die-redewendung_106367"target="target2">Eier schaukeln</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schaukeln"target="target3">schaukeln</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Eier+schaukeln"target="target4">Eier schaukeln</a>',
-	'<u>Der nasse Fisch</u>',
-	'Das Pärchen schien sehr beschäftigt gewesen zu sein, beide hatten kaum etwas gesehen.... Die beiden waren ausgestiegen und ans Ufer gelaufen. Sie konnten nichts mehr tun, nur ohnmächtig zuschauen, wie der Horch kurz auf dem Wasser <strong>schaukelte</strong>, dann nach vorne kippte und schnell unterging. (<i>Der nasse Fisch</i>, 62-63)' ,
-	'Der Beifahrer hatte geschimpft, als er hörte, wer den Transport alles begleiten sollte: "Det is keen Mannschaftswagen, det issen Leichenwagen!" Murrend hatte er seinen Platz geräumt und saß nun hinten zwischen den <strong>schaukelnden</strong> Zinksärgen. (<i>Der nasse Fisch</i>, 76)' ,
-	'<u>Märzgefallene</u>',
-	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>?   (<i>Märzgefallene</i>, 387)' ,
-],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'scheiteln, Scheitel': [
@@ -11193,6 +11247,7 @@ Sperrhaken: [
 	'Er (<i>Rath</i>) wülte in seiner Manteltasche und fand die <strong>Sperrhaken</strong>. Dann machte er sich an einem der Vorhängeschlösser zu schaffen. Fritze schaute ihm bewundernd zu. Rath öffnete die Tür... und sie schlüpften hinein ins Gebäude. (<i>Märzgefallene</i>, 406)',
 	'<u>Lunapark</u>',
 	'Rath klingelte dreimal,.. doch in der Wohnung blieb es still. Er horchte und schaute sich kurz um. Das Treppenhaus schien leer zu sein, und er zog die <strong>Sperrhaken</strong> aus der Tasche. Bruno Wolter, sein erster Chef in Berlin, hatte ihm das beigegracht, und Rath hatte diese Fertigkeit schon oft gebrauchen können. (<i>Lunapark</i>, 137)',
+	'Rath fluchte, als die Brombeerdornen einen Fetzen aus dem teuren Stoff (<i>seines Ärmels</i>) rissen, und fragte sich, ob es nicht doch einen anderen Weg geben mochte, um in den verdammten Park zu gelangen. Er fühlte nach den <strong>Sperrhaken</strong> in seiner Manteltasche, die hatten ihm schon oft nützliche Dienste erwiesen.  (<i>Lunapark</i>, 368)',
 ],
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 spicken: [
@@ -12570,7 +12625,7 @@ verbeulen: [
 	'<u>Der nasse Fisch</u>',
 	'Der Kaffee in der <strong>verbeulten</strong> Emailtasse, den sie ihm hingestellt hatten, schmeckte scheußlich.  (<i>Der nasse Fisch</i>, 15)' ,
 	'<u>Lunapark</u>',
-	'Der alte Herr hatte seinen Homburg inzwiscen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <strong>verbeulten</strong>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+	'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <strong>verbeulten</strong>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
 ],
 versickern: [
 	'<strong>versickern</strong>: seep, trickle, drain away' +

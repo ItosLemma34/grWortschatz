@@ -14,7 +14,7 @@ const s = [
    'Scharfmacher', // Scharfmacher:  * 
    'schassen',   // schassen:  *
    'schaufeln, Schaufel',  // *  
-   'schaukeln',   // schaukeln: *
+   'schaukeln, aufschaukeln',   //  *  duplicated
    'scheiteln, Scheitel', // *
    'Scheiterhaufen',  // Scheiterhaufen: *
    'schellen',  // schellen: *

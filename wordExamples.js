@@ -13,6 +13,15 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+tattern: [
+	'<strong>tattern</strong>: shake, tremble'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tattern"target="target1">tattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tattern"target="target2">tattern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/tattern"target="target3">tattern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tattern"target="target4">tattern</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',  
+	'Er (<i>Rath</i>) hatte seine Dienstwaffe gereinigt und geladen und die ganze letzte Nacht in der Trabener Straße im Auto verbracht, in der Hoffnung, Leo Juretzka vor die Flinte zu bekommen, es diesmal besser zu machen, nicht wieder das große <strong>Tattern</strong> zu bekommen. (<i>Lunapark</i>, 370)', 
+],
 Fetzen: [ 
 	'der <strong>Fetzen</strong>,-: rag, shred'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fetzen"target="target1">Fetzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fetzen"target="target2">Fetzen</a>'+
@@ -1654,10 +1663,13 @@ abkanzeln: [
 	'<u>Lunapark</u>',
 	'Sperling hatte nichts vergessen. Rath hatte den wenig kooperationswilligen Mann seinerzeit <strong>abgekanzelt</strong> und schlankweg behauptet, ein Kriminalkommissar sei einem SA-Sturmführer gegenüber selbstverständlich weisungsbefugt. Und Sperling hatte gespurt. Bis sein Vorgesetzter aufgekreuzt war und Rath achtkantig hinausgeworfen hatte.  (<i>Lunapark</i>, 94)' ,
 ],  
-'aufgießen, Aufguss': [
-	'<strong>aufgießen</strong>: pour sth. on sth.; make (coffee, tea) &nbsp;&nbsp;der <strong>Aufguss</strong>,<strong>-üsse</strong>: brew, infusion <br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufgieszen"target="target1">aufgießen</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aufguss"target="target2">Aufguss</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufgiessen"target="target3">aufgießen</a> &nbsp;<a href="https://www.verbformen.com/?w=Aufguss"target="target4">Aufguss</a>',
+'aufgießen, Aufguss': [ 
+	'<strong>aufgießen</strong>: pour sth. on sth.'+
+	'<br>der <strong>Aufguss</strong>,<strong>-üsse</strong>: brew, infusion'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/aufgieszen"target="target1">aufgießen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Aufguss"target="target2">Aufguss</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufgiessen"target="target3">aufgießen</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufguss"target="target4">Aufguss</a>',
 	'<u>Lunapark</u>',
-	'Der Wasserkessel im Vorzimmer begann zu pfeifen, und Rath legte Kronbergs Mappe beiseite. Er <strong>goss</strong> den Kaffee <strong>auf</strong> und schenkte sich die erste Tasse ein, noch bevor der letzte <strong>Aufguss</strong> complett durchgelaufen war.  (<i>Lunapark</i>, 83)' ,
+	'Der Wasserkessel im Vorzimmer begann zu pfeifen, und Rath legte Kronbergs Mappe beiseite. Er <strong>goss</strong> den Kaffee <strong>auf</strong> und schenkte sich die erste Tasse ein, noch bevor der letzte <strong>Aufguss</strong> complett durchgelaufen war. (<i>Lunapark</i>, 83)',
 ],
 Asservat: [
 	'das <strong>Asservat</strong>,-<strong>e</strong>: court exhibit, seized property/item <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Asservat"target="target1">Asservat</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/asservat"target="target2">Asservat</a> &nbsp;<a href="https://www.verbformen.com/?w=Asservat"target="target3">Asservat</a>',
@@ -1763,11 +1775,15 @@ abbinden: [
 	'Er (<i>Rath</i>) schaute sich um. Weit waren sie mit der Baustelle noch nicht gekommen, gerade erst die Fundamente und die Bodenplatte. Rath stieg in die Baugrube hinunter und testete den Beton mit einem Kantholz. Noch nicht <strong>abgebunden</strong>, sie mussten ihn heute erst gegossen haben. (<i>Der nasse Fisch</i>, 216)' ,
 //	'<u>Märzgefallene</u>', 
 ],
-aufgelöst: [
-	'<strong>aufgelöst</strong>: &nbsp;distraught, upset; dissolved  &nbsp;&nbsp;<strong>auflösen</strong>: dissolve, undo, close, liquidate <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufgeloest"target="target1">aufgelöst</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aufgel%C3%B6st"target="target2">aufgelöst</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufgelost"target="target3">aufgelöst</a> ',
-//	'<u>Der nasse Fisch</u>',
+aufgelöst: [ 
+	'<strong>aufgelöst</strong>: distraught, upset; dissolved'+
+	//'<br><strong>auflösen</strong>: dissolve, undo, close, liquidate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufgeloest"target="target1">aufgelöst</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufgelost"target="target3">aufgelöst</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aufgeloest"target="target4">aufgelöst</a>',
+	'<i>These examples reflect solely the "distraught, upset" sense of "aufgelöst"</i>:',
+	//	'<u>Der nasse Fisch</u>',
 	'<u>Märzgefallene</u>', 
-	'Seit Wochen hatte er (<i>Grimberg</i>) nun nichts mehr von Roddeck gehört, der schien es nicht mehr nötig zu haben. Dabei war es der Schönling gewesen, der völlig <strong>aufgelöst</strong> vor einem dreiviertel Jahr in Elberfeld angerufen und Grimberg nahezu täglich mit seinem Gejammere belästig hatte. (<i>Märzgefallene</i>, 546-47)' ,
+	'Seit Wochen hatte er (<i>Grimberg</i>) nun nichts mehr von Roddeck gehört, der schien es nicht mehr nötig zu haben. Dabei war es der Schönling gewesen, der völlig <strong>aufgelöst</strong> vor einem dreiviertel Jahr in Elberfeld angerufen und Grimberg nahezu täglich mit seinem Gejammere belästig hatte. (<i>Märzgefallene</i>, 546-47)',
 ],
 'austoben (sich)': [
 	'<strong>sich austoben</strong>: run riot, give vent to one\'s fury'+
@@ -2582,10 +2598,23 @@ aufgabeln: [
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
-aufglimmen: [
-	'<strong>aufglimmen</strong>: &nbsp;glimmer, glow <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufglimmen"target="target1">aufglimmen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aufglimmen"target="target2">aufglimmen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aufglimmen"target="target3">aufglimmen</a> ',
+'aufglimmen, glimmen': [ 
+	'<strong>glimmen</strong>: glow'+
+	'<br><strong>aufglimmen</strong>: glimmer, glow'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/glimmen"target="target1">glimmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufglimmen"target="target1">aufglimmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/glimmen"target="taget3">glimmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufglimmen"target="target3"target="target4">aufglimmen</a>',
 	'<u>Märzgefallene</u>',
-	'Und jetzt bemerkte Charly auch, wie unregelmäßig der Himmel leuchtete, wie ein Stück glühende Kohle, das mal dort und mal hier heller <strong>aufglimmte</strong>.  (<i>Märzgefallene</i>, 63)',
+	'Und jetzt bemerkte Charly auch, wie unregelmäßig der Himmel leuchtete, wie ein Stück glühende Kohle, das mal dort und mal hier heller <strong>aufglimmte</strong>. (<i>Märzgefallene</i>, 63)',
+	'Roddeck blickte sich um. Als sich seine Augen an die Dunkelheit gewöhnt hatten, konnte er den Lichtschein erkennen, der von der Abzweigung her in den Tunnel <strong>glimmte</strong> und die Pfützen auf dem Betonboden gelblich schimmern ließ. (<i>Märzgefallene</i>, 566)' ,
+],
+'glimmen, aufglimmen': [ 
+	'<strong>glimmen</strong>: glow'+
+	'<br><strong>aufglimmen</strong>: glimmer, glow'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/glimmen"target="target1">glimmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufglimmen"target="target1">aufglimmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/glimmen"target="taget3">glimmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufglimmen"target="target3"target="target4">aufglimmen</a>',
+	'<u>Märzgefallene</u>',
+	'Und jetzt bemerkte Charly auch, wie unregelmäßig der Himmel leuchtete, wie ein Stück glühende Kohle, das mal dort und mal hier heller <strong>aufglimmte</strong>. (<i>Märzgefallene</i>, 63)',
+	'Roddeck blickte sich um. Als sich seine Augen an die Dunkelheit gewöhnt hatten, konnte er den Lichtschein erkennen, der von der Abzweigung her in den Tunnel <strong>glimmte</strong> und die Pfützen auf dem Betonboden gelblich schimmern ließ. (<i>Märzgefallene</i>, 566)' ,
 ],
 aufhalsen: [ 
 	'<strong>aufhalsen</strong>: saddle oneself/so. with sth., foist sth. on so.'+
@@ -10464,22 +10493,25 @@ Schlüpfer: [
 	'<i>Wolter</i>: "Du (<i>der Pornokaiser</i>) kommst nach Plötzensee, und da sorgen wir dafür, dass du zu den richtig harten Jungs gesperrt wirst. Und denen erzählen wir, du bist ein gottverdammter <strong>Schlüpfer</strong>fresser. Weißt du, was die mit Kinderfickern machen in Plötzensee?"  (<i>Der nasse Fisch</i>, 27)' ,
 ],
 schummrig: [
-	'<strong>schummrig</strong> or <strong>schummerig</strong>: dim, dimly lit <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schummrig"target="target1">schummrig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schummrig"target="target2">schummrig</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schummrig"target="target3">schummrig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schummrig"target="target4">schummrig</a> ' ,
+	'<strong>schummrig</strong> or <strong>schummerig</strong>: dim, dimly lit'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schummrig"target="target1">schummrig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schummrig"target="target2">schummrig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schummrig"target="target3">schummrig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schummrig"target="target4">schummrig</a>',
 	'<u>Der nasse Fisch</u>',
-	'Wolter postierte den Witzbold vor dem Eingang zum Hinterhaus, mit dem Rest der Truppe stiegen sie so leise wie möglich das <strong>schummrige</strong> Treppenhaus empor, in das nur wenig Tageslicht fiel.  (<i>Der nasse Fisch</i>, 18)' ,
-	'Rath zuckte mit den Schultern und trat... in den Keller seines Vormieters.... Der Verschlag war dunkel. Von der <strong>schummrigen</strong> 40-Watt-Birne der Kellerlampe drang kaum Licht hinein.  (<i>Der nasse Fisch</i>, 90)' ,
-	'Es wurde dunkel, als Rath auf den Küstriner Platz trat. Selbst die Straßenbeleuchung schien hier im Osten <strong>schummriger</strong> zu sein als in der City oder in Charlottenburg.  (<i>Der nasse Fisch</i>, 153)' ,
-	'Die Musik kam immer näher, als sie durch einen schwarzen Gang schritten. Rote Lampions an den Wänden warfen ein <strong>schummriges</strong> Licht. (<i>Der nasse Fisch</i>, 200)' ,
-	'Er (<i>Rath</i>) schaute sich um. Es war kein normaler Hinterhof, auf den er hier geraten war. Im <strong>schummrigen</strong> Licht der Hofbeleuchtung erkannte er einen Bauzaun, dahinter wurde offensichtlich ein Neubau hochgezogen.  (<i>Der nasse Fisch</i>, 212)' ,
-	'Die Musik wurde lauter, und plötzlich standen sie (<i>Wolter und Rath</i>) in einem großen Gewölbe, in dem nur wenige <strong>schummrige</strong> Lampen brannten.  (<i>Der nasse Fisch</i>, 242)',
+	'Wolter postierte den Witzbold vor dem Eingang zum Hinterhaus, mit dem Rest der Truppe stiegen sie so leise wie möglich das <strong>schummrige</strong> Treppenhaus empor, in das nur wenig Tageslicht fiel.  (<i>Der nasse Fisch</i>, 18)',
+	'Rath zuckte mit den Schultern und trat... in den Keller seines Vormieters.... Der Verschlag war dunkel. Von der <strong>schummrigen</strong> 40-Watt-Birne der Kellerlampe drang kaum Licht hinein.  (<i>Der nasse Fisch</i>, 90)',
+	'Es wurde dunkel, als Rath auf den Küstriner Platz trat. Selbst die Straßenbeleuchung schien hier im Osten <strong>schummriger</strong> zu sein als in der City oder in Charlottenburg.  (<i>Der nasse Fisch</i>, 153)',
+	'Die Musik kam immer näher, als sie durch einen schwarzen Gang schritten. Rote Lampions an den Wänden warfen ein <strong>schummriges</strong> Licht. (<i>Der nasse Fisch</i>, 200)',
+	'Er (<i>Rath</i>) schaute sich um. Es war kein normaler Hinterhof, auf den er hier geraten war. Im <strong>schummrigen</strong> Licht der Hofbeleuchtung erkannte er einen Bauzaun, dahinter wurde offensichtlich ein Neubau hochgezogen. (<i>Der nasse Fisch</i>, 212)',
+	'Die Musik wurde lauter, und plötzlich standen sie (<i>Wolter und Rath</i>) in einem großen Gewölbe, in dem nur wenige <strong>schummrige</strong> Lampen brannten. (<i>Der nasse Fisch</i>, 242)',
 	'<u>Märzgefallene</u>',
-	'Wenigstens zeigten ihm (<i>Rath</i>) die Mündungsblitze (<i>der Pistole</i>), dass Roddeck nicht weit war, Rath sah dessen Silhouette, wie sie sich vor dem <strong>schummrigen</strong> Licht am Ende des Tunnels abzeichnete. (<i>Märzgefallene</i>, 577)' ,
+	'Wenigstens zeigten ihm (<i>Rath</i>) die Mündungsblitze (<i>der Pistole</i>), dass Roddeck nicht weit war, Rath sah dessen Silhouette, wie sie sich vor dem <strong>schummrigen</strong> Licht am Ende des Tunnels abzeichnete. (<i>Märzgefallene</i>, 577)',
 	'<u>Lunapark</u>',
-	'Rath schaute sich in der Kneipe um, seine Augen hatten sich mittlerweile an das <strong>schummrige</strong> Licht gewöhnt.   (<i>Lunapark</i>, 35)' ,
-	'<i>Rath</i>: "Haben Sie den Mann erkannt? Den Schläger, meine ich?" <i>Fräulein Jäger</i>: "Nein. Die Straßenlaternen sind sehr <strong>schummrig</strong>. Normalerweise ist es hier nicht so hell wie jetzt."     (<i>Lunapark</i>, 172)' ,
+	'Rath schaute sich in der Kneipe um, seine Augen hatten sich mittlerweile an das <strong>schummrige</strong> Licht gewöhnt. (<i>Lunapark</i>, 35)' ,
+	'<i>Rath</i>: "Haben Sie den Mann erkannt? Den Schläger, meine ich?" <i>Fräulein Jäger</i>: "Nein. Die Straßenlaternen sind sehr <strong>schummrig</strong>. Normalerweise ist es hier nicht so hell wie jetzt." (<i>Lunapark</i>, 172)',
+	'Dann hatte er (<i>Rath</i>) sein Ziel erreicht. Den Nebeneingang des Lunaparks. Verriegelt und verrammelt, aber ein Eingang. Die nächste Straßenlaterne stand mindestens fünfzehn Meter entfernt, nur der <strong>schummrige</strong> äußere Rand des Lichtkegels erreichte ihn.  (<i>Lunapark</i>, 369)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 süffisant: [
 	'<strong>süffisant</strong>: smug, condescending, conceited ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sueffisant"target="target1">süffisant</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/s%C3%BCffisant"target="target2">süffisant</a> ' +
@@ -10489,7 +10521,7 @@ süffisant: [
 	'<u>Lunapark</u>',
 	'"Wir sind gerade dabei", fuhr Gräf fort, "eine Liste der Halter eines solchen Fahrzeuges zu erstellen.." <i>Rath</i>: "Ich glaube nicht, dass ein aktenkundiger Kommunist sein Auto für solche Zwecke zur Verfügung gestellt hat.. Das heiß, Namen abgleichen wird nicht reichen", meinte Rath. "Wir müssten jeden einzelnen Halter aufsuchen und überprüfen, eine Heidenarbeit." "Richtig." Gräf zeigte sein <strong>süffisantestes</strong> Lächeln. "Man löst einen Mordfall nicht vom Schreibtisch aus, nicht wahr."    (<i>Lunapark</i>, 153)',
 ],
-Schlamassel: [
+Schlamassel: [ 
 	'der (oder das) <strong>Schlamassel</strong>: jam, muddle, mess, fiasco'+   
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlamassel"target="target1">Schlamassel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlamassel"target="target2">Schlamassel</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schlamassel"target="target3">Schlamassel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlamassel"target="target4">Schlamassel</a>',
@@ -11248,6 +11280,7 @@ Sperrhaken: [
 	'<u>Lunapark</u>',
 	'Rath klingelte dreimal,.. doch in der Wohnung blieb es still. Er horchte und schaute sich kurz um. Das Treppenhaus schien leer zu sein, und er zog die <strong>Sperrhaken</strong> aus der Tasche. Bruno Wolter, sein erster Chef in Berlin, hatte ihm das beigegracht, und Rath hatte diese Fertigkeit schon oft gebrauchen können. (<i>Lunapark</i>, 137)',
 	'Rath fluchte, als die Brombeerdornen einen Fetzen aus dem teuren Stoff (<i>seines Ärmels</i>) rissen, und fragte sich, ob es nicht doch einen anderen Weg geben mochte, um in den verdammten Park zu gelangen. Er fühlte nach den <strong>Sperrhaken</strong> in seiner Manteltasche, die hatten ihm schon oft nützliche Dienste erwiesen.  (<i>Lunapark</i>, 368)',
+	'Bevor Rath den Bund mit den <strong>Sperrhaken</strong> aus der Tasche zog, schaute er noch einmal um. (<i>Lunapark</i>, 369)',
 ],
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 spicken: [
@@ -12525,11 +12558,13 @@ Vorhängeschloss: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verrammeln: [  
-	'<strong>verrammeln</strong>: to bar, barricade ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrammeln"target="target1">verrammeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrammeln"target="target2">verrammeln</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=verrammeln"target="target3">verrammeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrammeln"target="target4">verrammeln</a> ' ,
+	'<strong>verrammeln</strong>: to bar, barricade'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrammeln"target="target1">verrammeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrammeln"target="target2">verrammeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=verrammeln"target="target3">verrammeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verrammeln"target="target4">verrammeln</a>',
 	'<u>Märzgefallene</u>',
-	'Fritze führte ihn (<i>Rath</i>) zu einem alten, stillgelegten Kino, das entweder die Wirtschaftskrise oder den Tonfilm nicht überlebt hatte, oder beides. Die komplette Eingangsfront war mit dicken Ketten und Vorhängeschlössern <strong>verrammelt</strong>. (<i>Märzgefallene</i>, 405)' ,
+	'Fritze führte ihn (<i>Rath</i>) zu einem alten, stillgelegten Kino, das entweder die Wirtschaftskrise oder den Tonfilm nicht überlebt hatte, oder beides. Die komplette Eingangsfront war mit dicken Ketten und Vorhängeschlössern <strong>verrammelt</strong>. (<i>Märzgefallene</i>, 405)',
+	'<u>Lunapark</u>',
+	'Dann hatte er (<i>Rath</i>) sein Ziel erreicht. Den Nebeneingang des Lunaparks. Verriegelt und <strong>verrammelt</strong>, aber ein Eingang. Die nächste Straßenlaterne stand mindestens fünfzehn Meter entfernt, nur der schummrige äußere Rand des Lichtkegels erreichte ihn.  (<i>Lunapark</i>, 369)',
 ],
 verpfeifen: [  
 	'<strong>verpfeifen</strong>: snitch/rat on so., grass on so. ' +
@@ -13988,6 +14023,8 @@ zerknüllen: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zerknullen?q=zerkn%C3%BCllen"target="target3">zerknüllen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zerkn%C3%BCllen"target="target4">zerknüllen</a>   ',
 	'<u>Märzgefallene</u>',
 	'Als Rath endlich wieder sein Büro betrat, saß Erika Voss in Hut und Mantel an ihrem Schreibtisch und kritzelte etwas auf ein Stück Papier, das sie <strong>zerknüllte</strong>, als sie ihren Chef erblickte. (<i>Märzgefallene</i>, 147)' ,
+	'<u>Lunapark</u>',
+	'Gestern hatte er (<i>Rath</i>) das Paket erhalten.. Ohne Absender, aber mit einem beigelegten maschinengeschriebenen Brief. <i>Hier ist Ihr Werkzeug, Kommissar, benutzen Sie es. Ich gebe Ihnen eine Woche. Nächsten Sonntag ist Zahltag, so oder so. M.</i> Rath hatte den Zettel <strong>zerknüllt</strong> und zurück in den Karton geworfen. (<i>Lunapark</i>, 369-70)',
 ],
 zerren: [ 
 	'<strong>zerren</strong>: drag, pull, jerk, tear ' +

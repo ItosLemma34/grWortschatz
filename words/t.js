@@ -3,6 +3,7 @@ const t = [
    'täfeln, getäfelt', // * duplicated
    'Tantieme',  // Tantieme: *
    'tapsen' ,  // tapsen: *
+   'tattern',  // tattern: *Ks
    'tätscheln', // tätscheln: *
    'taxieren' , // taxieren: *
    'Teufel (in drei T. Namen)', // * duplicated

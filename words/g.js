@@ -67,6 +67,7 @@ const g = [
    'Gips',   // Gips:  *
    'gleißen, gleißend',  // *  
    'glimpflich',  // glimpflich: * 
+   'glimmen, aufglimmen', // * duplicated
    'glotzen, anglotzen',  // * duplicated  
    'gluckern', // gluckern:  *
    'goldene Nase (sich verdienen)',  // *

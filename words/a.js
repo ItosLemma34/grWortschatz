@@ -108,9 +108,9 @@ const a = [
 	'aufgabeln',   // aufgabeln:  
 	'aufgedunsen', // aufgedunsen:  *
 	'aufgekratzt', // aufgekratzt: * 
-	'aufgelöst',   //aufgelöst:  
-	'aufgießen, Aufguss', //
-	'aufglimmen',  // aufglimmen:  
+	'aufgelöst',   // aufgelöst:  complete search for other "aufgelöst" 
+	'aufgießen, Aufguss', // *
+	'aufglimmen, glimmen',  // * duplicated  
 	'aufhalsen',   // aufhalsen: *
 	'aufjaulen',   // aufjaulen: * 
 	'auflauern',   // auflauern: *

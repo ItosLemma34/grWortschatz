@@ -97,15 +97,15 @@ const a = [
 	'auf die Tube drücken',   //
 	'auf etwas aus sein',  //
 	'auf Granit beißen', // *
-	'auf Halde legen',   //
+	'auf Halde legen',   // *
 	'auf Zack sein',    // *
 	'aufbahren',   //aufbahren:  
 	'aufbauschen, bauschen', // duplicated  * 
 	'aufbrummen', // aufbrummen: *
-	'aufdonnern (sich)',  //
+	'aufdonnern (sich)',  // *
 	'auffächern, fächern', // * duplicated
-	'auffliegen',  // auffliegen:   
-	'aufgabeln',   // aufgabeln:  
+	'auffliegen',  // auffliegen:  * 
+	'aufgabeln',   // aufgabeln:  *
 	'aufgedunsen', // aufgedunsen:  *
 	'aufgekratzt', // aufgekratzt: * 
 	'aufgelöst',   // aufgelöst:  complete search for other "aufgelöst" 

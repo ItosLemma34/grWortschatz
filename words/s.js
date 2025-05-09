@@ -13,7 +13,8 @@ const s = [
    'Schar',  // Schar:  *
    'Scharfmacher', // Scharfmacher:  * 
    'schassen',   // schassen:  *
-   'schaufeln, Schaufel',  // *  
+   'schaufeln, Schaufel',  // *
+   'Schaukasten', // Schaukasten: *  
    'schaukeln, aufschaukeln',   //  *  duplicated
    'scheiteln, Scheitel', // *
    'Scheiterhaufen',  // Scheiterhaufen: *
@@ -49,6 +50,7 @@ const s = [
    'schluchzen' ,  // schluchzen: *
    'Schlucker (armer)', // * duplicated
    'Schlund',  // Schlund: *
+   'schlüpfen', // schlüpfen: *
    'Schlüpfer',  // Schlüpfer: *
    'schlüpfrig', // schlüpfrig: *
    'Schmach', // Schmach:  *

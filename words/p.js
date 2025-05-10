@@ -9,6 +9,7 @@ const p = [
    'patzig',  // patzig:  *
    'pauken', // pauken: *
    'Pegel',  // Pegel: *
+   'peilen', // peilen
    'Pest an den Hals', // *
    'petzen', // petzen: *
    'Pfaffe', // Pfaffe: *

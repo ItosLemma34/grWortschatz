@@ -46,7 +46,7 @@ const h = [
    'Holzstoß',  // Holzstoß: *
    'hopsnehmen', // hopsnehmen: *
    'Hornochse',  // Hornochse:  *
-   'Hose (in die H. machen/gehen)', // *   find under: Hose xxx
+   'Hose (in die H. machen/gehen)', // *   
    'Hosenmatz',  // Hosenmatz:  *
    'Hosennaht',  // Hosennaht:  *
    'Hudelei, Lobhudelei', // * duplicated

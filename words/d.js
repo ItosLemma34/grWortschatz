@@ -1,4 +1,5 @@
 const d = [
+   'Dachlatte', // Dachlatte: *
    'dämlich, Dämlichkeit',  // *
    'Dampframme',  // Dampframme: * 
    'Dampfwalze',  // Dampfwalze: *

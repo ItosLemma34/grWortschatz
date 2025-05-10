@@ -95,11 +95,11 @@ const a = [
 	'auf die Pelle rücken',   //
 	'auf die Schliche kommen',  //
 	'auf die Tube drücken',   //
-	'auf etwas aus sein',  //
+	'auf etwas aus sein',  // *
 	'auf Granit beißen', // *
 	'auf Halde legen',   // *
 	'auf Zack sein',    // *
-	'aufbahren',   //aufbahren:  
+	'aufbahren',   // aufbahren:  *
 	'aufbauschen, bauschen', // duplicated  * 
 	'aufbrummen', // aufbrummen: *
 	'aufdonnern (sich)',  // *
@@ -115,6 +115,7 @@ const a = [
 	'aufjaulen',   // aufjaulen: * 
 	'auflauern',   // auflauern: *
 	'aufmucken',   // aufmucken:  *
+	'aufmüpfig',  // aufmüpfig: *
 	'aufpäppeln',  // aufpäppeln: * 
 //	'aufplustern', // aufplustern:  
 	'aufputschen',  // aufputschen: *

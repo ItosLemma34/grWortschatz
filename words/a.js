@@ -52,7 +52,7 @@ const a = [
 	'anquatschen',   //anquatschen: 
 	'anraunzen',     // anraunzen: *
 	'anrempeln',    // anrempeln: *
-	'Anrichte',     //Anrichte:
+	'Anrichte',     // Anrichte:
 	'anrücken, ausrücken, nachrücken', // * triplicated  
 	'ans Bein binden',  //
 	'anschleichen (sich)', //
@@ -92,9 +92,9 @@ const a = [
 	'auf der Hut sein',  //
 	'auf die Nase binden',  //
 	'auf die Palme treiben/bringen',  
-	'auf die Pelle rücken',   //
-	'auf die Schliche kommen',  //
-	'auf die Tube drücken',   //
+	'auf die Pelle rücken',   // * duplicated
+	'auf die Schliche kommen',  // * duplicated
+	'auf die Tube drücken',   // * duplicated
 	'auf etwas aus sein',  // *
 	'auf Granit beißen', // *
 	'auf Halde legen',   // *

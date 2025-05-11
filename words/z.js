@@ -17,7 +17,7 @@ const z = [
    'zerknicken' ,  // zerknicken: *
    'zerknirscht',  // zerknirscht: *
    'zerknittern',  // zerknittern: *
-   'zerknüllen' ,  // zerknüllen: *
+   'zerknüllen, knüllen' ,  //  * duplicated
    'zerlumpt',    // zerlumpt:  *
    'zermatschen',  // zermatschen: *
    'zerpflücken',  // zerpflücken: *

@@ -1,6 +1,6 @@
 const i = [
    'im Nu', // * duplicated
-   'in den Kram passen', // * duplicated
+   'in den Kram passen, Kram', // * duplicated
    'in die Hosen machen/gehen', // *
    'in die Mangel nehmen', //  * duplicated
    'in die Parade fahren', // * duplicated

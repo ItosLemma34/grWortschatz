@@ -75,7 +75,7 @@ const k = [
    'Knöchel',  // Knöchel: *
    'Knochen/Kopf hinhalten', // *
    'knuffen',  // knuffen:  *
-   'knüllen',  // knüllen: *
+   'knüllen, zerknüllen',  //  *  duplicated
    'Knüller',  // Knüller: *
    'Knüppel', // Knüppel: *
    'knurren',  // knurren: *  

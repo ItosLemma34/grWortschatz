@@ -11,6 +11,7 @@ const t = [
    'Theke',  // Theke: *
    'toben' , // toben: *
    'tollen', // tollen: *
+   'tollpatschig, Tollpatschigkeit', // *
    'tönen',  // tönen: *
    'Tonne',  // Tonne: *     
    'torkeln', // torkeln: *
@@ -34,6 +35,7 @@ const t = [
    'Truhe',  // Truhe: *
    'tuckern', // tuckern: *
    'tumb',   // tumb: *
+   'Tube (auf die T.  drücken)', // * duplicated
    'tünchen, Tünche', // *
    'tunken',  // tunken: *
    'tupfen, betupfen',  //  * duplicated

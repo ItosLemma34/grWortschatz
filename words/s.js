@@ -44,6 +44,7 @@ const s = [
    'schlendern' , // schlendern: *
    'Schlendrian', // Schlendrian: *
    'Schleuse, schleusen', // *
+   'Schliche (auf die S. kommen)', // * duplicated
    'Schliere, schlieren', // *
    'schliddern, schlittern', // *
    'Schlips (auf den S. treten)', // * duplicated

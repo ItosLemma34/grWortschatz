@@ -71,6 +71,7 @@ const a = [
 	'anzwinkern',  //anzwinkern: 
 	'apportieren', // apportieren: 
 	'Areal' ,  // Areal:
+	'Arm (auf den A. nehmen)',  // * duplicated
 	'Armbeuge',    //Armbeuge:   
 	'arme Ritter', // *  duplicated
 	'armer Schlucker', // * duplicated
@@ -82,16 +83,16 @@ const a = [
 	'auf dem Kerbholz haben', // * duplicated
 	'auf dem Kieker haben', //
 	'auf dem Sprung',      //
-	'auf den Arm nehmen',  //
-	'auf den Leim gehen',  //
-	'auf den Putz hauen',  //
+	'auf den Arm nehmen',  // * duplicated
+	'auf den Leim gehen',  // * duplicated
+	'auf den Putz hauen',  //  * duplicated
 	'auf den Schlips treten', // * duplicated
-	'auf den Strich gehen', //
+	'auf den Strich gehen', // * duplicated
 	'auf den Wecker gehen', // * duplicated
 	'auf den Zahn fühlen',  // * duplicated
-	'auf der Hut sein',  //
-	'auf die Nase binden',  //
-	'auf die Palme treiben/bringen',  
+	'auf der Hut sein',  // * duplicated
+	'auf die Nase binden',  // * duplicated
+	'auf die Palme treiben/bringen',  // * duplicated 
 	'auf die Pelle rücken',   // * duplicated
 	'auf die Schliche kommen',  // * duplicated
 	'auf die Tube drücken',   // * duplicated

@@ -1,6 +1,7 @@
 const p = [
    'Pächter',  // Pächter: *
    'paktieren', // paktieren: *
+   'Palme (auf die P. treiben/bringen)', // * duplicated
    'pampig',  // pampig: *
    'Pappe', // Pappe: *
    'Pappenstiel', // Pappenstiel: *
@@ -55,6 +56,7 @@ const p = [
    'Puste, pusten', // *
    'Pute',  // Pute: *
    'Putz', // Putz: *
+   'Putz (auf den P. hauen)', // * duplicated
   ];
 
 export default p;      

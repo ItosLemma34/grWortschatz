@@ -54,6 +54,7 @@ const h = [
    'humpeln',  // humpeln:  *
    'Hüne',  // Hüne: *
    'huschen',  // huschen: *
+   'Hut (auf der H. sein)',  // * duplicated
  ];
 
 export default h;

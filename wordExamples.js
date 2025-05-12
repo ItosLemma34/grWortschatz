@@ -1748,11 +1748,21 @@ Asservat: [
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: "Vielleicht kann Herr Kreutzmann dann gleich auch die Untersuchung des Geldes übernehmen", sagte Rath und zeigte auf den Koffer in Pfeiffers Hand.. "Ich denke, das kann Kreutzmann übernehmen", sagte Gräf. "Pfeiffer, Sie können das <strong>Asservat</strong> gleich an die Spurensicherung geben. Vielleicht haben wir dann morgen auch in dieser Sache schon Ergebnisse." (<i>Lunapark</i>, 62)' ,
 ],
-'auf der Hut sein': [
-	'<strong>auf der Hut sein</strong>: be on guard, cautious <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auf%20der%20Hut%20sein"target="target1">auf der Hut sein</a><br>English Definitions: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+der+Hut+sein"target="target2">auf der Hut sein</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/auf%20der%20Hut%20sein"target="target3">auf der Hut sein</a>   ',
+'auf der Hut sein': [ 
+	'<strong>auf der Hut sein</strong>: be on guard, alert, wary of'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+der+Hut+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf der Hut sein</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auf%20der%20Hut%20sein"target="target2">auf der Hut sein</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+der+Hut+sein"target="target3">auf der Hut sein</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/auf%20der%20Hut%20sein"target="target4">auf der Hut sein</a>',
 	'<u>Lunapark</u>',
-	'Endlich machte auch Pfeiffer einen Schritt ins Zimmer hinein, wirkte jedoch immer noch unschlüssig, was zu tun war und ob er sich an der Durchsuchung überhaupt beteiligen sollte. Ein komischer Kauz, wie Lange fand. Aber einer von der SS, man musste <strong>auf der Hut sein</strong>.   (<i>Lunapark</i>, 45)' ,
-	'"Richtig. Hermann Lapke ist Sturmführer des SA-Sturms hunderteins." Während Lange das sagte, schaute er Rath forschend an. Man musste <strong>auf der Hut sein</strong>, dachte Rath. Man durfte den Kollegen, so harmlos er wirken mochte mit seinem jungenhaften Gesicht.. beileibe nicht unterschätzen.  (<i>Lunapark</i>, 72-73)' ,
+	'Endlich machte auch Pfeiffer einen Schritt ins Zimmer hinein, wirkte jedoch immer noch unschlüssig, was zu tun war und ob er sich an der Durchsuchung überhaupt beteiligen sollte. Ein komischer Kauz, wie Lange fand. Aber einer von der SS, man musste <strong>auf der Hut sein</strong>. (<i>Lunapark</i>, 45)',
+	'"Richtig. Hermann Lapke ist Sturmführer des SA-Sturms hunderteins." Während Lange das sagte, schaute er Rath forschend an. Man musste <strong>auf der Hut sein</strong>, dachte Rath. Man durfte den Kollegen, so harmlos er wirken mochte mit seinem jungenhaften Gesicht.. beileibe nicht unterschätzen. (<i>Lunapark</i>, 72-73)',
+],
+'Hut (auf der H. sein)': [ 
+	'<strong>auf der Hut sein</strong>: be on guard, alert, wary of'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+der+Hut+sein&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf der Hut sein</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auf%20der%20Hut%20sein"target="target2">auf der Hut sein</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+der+Hut+sein"target="target3">auf der Hut sein</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/auf%20der%20Hut%20sein"target="target4">auf der Hut sein</a>',
+	'<u>Lunapark</u>',
+	'Endlich machte auch Pfeiffer einen Schritt ins Zimmer hinein, wirkte jedoch immer noch unschlüssig, was zu tun war und ob er sich an der Durchsuchung überhaupt beteiligen sollte. Ein komischer Kauz, wie Lange fand. Aber einer von der SS, man musste <strong>auf der Hut sein</strong>. (<i>Lunapark</i>, 45)',
+	'"Richtig. Hermann Lapke ist Sturmführer des SA-Sturms hunderteins." Während Lange das sagte, schaute er Rath forschend an. Man musste <strong>auf der Hut sein</strong>, dachte Rath. Man durfte den Kollegen, so harmlos er wirken mochte mit seinem jungenhaften Gesicht.. beileibe nicht unterschätzen. (<i>Lunapark</i>, 72-73)',
 ],
 Ausschachtung: [ 
 	'<strong>ausschachten</strong>: dig, excavate'+
@@ -1763,10 +1773,21 @@ Ausschachtung: [
 	'<u>Lunapark</u>',
 	'Neben der Eisenbahnbrücke hatten <strong>Ausschachtungen</strong> für eine neue S-Bahn-Brücke begonnen, ansonsten führte der Weg an Friedhöfen und Industrie vorbei. (<i>Lunapark</i>, 36)',
 ],
-'auf den Leim gehen': [
-	'jmdm. <strong>auf den Leim gehen</strong>: be hoodwinked, be taken in by so. &nbsp;&nbsp;der <strong>Leim</strong>,-<strong>e</strong>: glue, paste <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20etw.%20auf%20den%20Leim%20gehen"target="target1">auf den Leim gehen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leim?q=auf+den+Leim+gehen"target="target2">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Leim+gehen"target="target3">auf den Leim gehen</a>   ',
+'auf den Leim gehen': [ 
+	'der <strong>Leim</strong>,-<strong>e</strong>: glue, paste'+
+	'<br><strong>jmdm. auf den Leim gehen</strong>: be hoodwinked, taken in by so. (jmdm.)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20etw.%20auf%20den%20Leim%20gehen"target="target1">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Leim+gehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Leim gehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leim?q=auf+den+Leim+gehen"target="target3">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Leim+gehen"target="target4">auf den Leim gehen</a>',
 	'<u>Lunapark</u>',
-	'<i>Charly</i>: "Du (<i>Fritze</i>) willst allen Ernstes Hitlerjunge werden? Nur um da (<i>Zeltlager der Hitlerjugend</i>) hingehen zu können? Überleg doch mal, wie dämlich das ist. Du <strong>gehst denen auf den Leim</strong>!"   (<i>Lunapark</i>, 29)' ,
+	'<i>Charly</i>: "Du (<i>Fritze</i>) willst allen Ernstes Hitlerjunge werden? Nur um da (<i>Zeltlager der Hitlerjugend</i>) hingehen zu können? Überleg doch mal, wie dämlich das ist. Du <strong>gehst denen auf den Leim</strong>!" (<i>Lunapark</i>, 29)',
+],
+'Leim (auf den L. gehen)': [ 
+	'der <strong>Leim</strong>,-<strong>e</strong>: glue, paste'+
+	'<br><strong>jmdm. auf den Leim gehen</strong>: be hoodwinked, taken in by so. (jmdm.)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20etw.%20auf%20den%20Leim%20gehen"target="target1">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Leim+gehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Leim gehen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/leim?q=auf+den+Leim+gehen"target="target3">auf den Leim gehen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Leim+gehen"target="target4">auf den Leim gehen</a>',
+	'<u>Lunapark</u>',
+	'<i>Charly</i>: "Du (<i>Fritze</i>) willst allen Ernstes Hitlerjunge werden? Nur um da (<i>Zeltlager der Hitlerjugend</i>) hingehen zu können? Überleg doch mal, wie dämlich das ist. Du <strong>gehst denen auf den Leim</strong>!" (<i>Lunapark</i>, 29)',
 ],
 'auf dem Kieker haben': [
 	'<strong>auf dem Kieker haben</strong>: have it in for sb; keep close watch on sb. <br>der <strong>Kieker</strong>,-: binoculars, telescope ' +
@@ -2036,12 +2057,21 @@ Ausdünstung: [
 	'<u>Märzgefallene</u>',
 	'Er (<i>Rath</i>) warf den Groschen vor der Nase des Mannes (<i>des Bettlers</i>) einmal in die Luft, fing ihn wieder auf und umschloss ihn mit seiner Faust. Dann setzte er sich neben den Mann auf die Stufen und versuchte die Körper<strong>ausdünstungen</strong> zu ignorieren. (<i>Märzgefallene, 473)',
 ],
-'auf den Putz hauen': [
-	'<strong>auf den Putz hauen</strong>: &nbsp;kick up one\'s heels, whoop it up <br>Deutsche Definition: &nbsp;<a href="https://www.dwds.de/wb/auf%20den%20Putz%20hauen"target="target1">auf den Putz hauen</a><br>English Definitions:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/auf%20den%20Putz%20hauen"target="target2">auf den Putz hauen</a>&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/putz?q=auf+den+Putz+hauen"target="target3">auf den Putz hauen</a>',
+'auf den Putz hauen': [ 
+	'<strong>auf den Putz hauen</strong>: kick up one\'s heels, whoop it up'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Putz+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf den Putz hauen</a> &nbsp;<a href="https://www.dwds.de/wb/auf%20den%20Putz%20hauen"target="target2">auf den Putz hauen</a>'+              
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-putz-hauen"target="target3">auf den Putz hauen</a>&nbsp;&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/auf+den+Putz+hauen"target="target4">auf den Putz hauen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Er (<i>Rath</i>) durfte hier (<i>im Eldorado</i>) nicht allzu sehr <strong>auf den Putz hauen</strong>. Das war Brunos Revier. Er war der Neue, er musste aufpassen. (<i>Der nasse Fisch</i>, 125)' ,
-	'<i>Weinert</i>: "Natürlich sind die Kommunisten mit ihrem großmäuligen Gehabe nicht ganz unschuldig an der algemeinen Hysterie. Auch jetzt noch <strong>hauen</strong> die <strong>auf den Putz</strong>. Die schlachten jeden Toten für ihre Propaganda aus, obwohl so gut wie keine Kommunisten darunder sind. (<i>Der nasse Fisch</i>, 131)' ,
-	//	'<u>Märzgefallene</u>',
+	'Er (<i>Rath</i>) durfte hier (<i>im Eldorado</i>) nicht allzu sehr <strong>auf den Putz hauen</strong>. Das war Brunos Revier. Er war der Neue, er musste aufpassen. (<i>Der nasse Fisch</i>, 125)',
+	'<i>Weinert</i>: "Natürlich sind die Kommunisten mit ihrem großmäuligen Gehabe nicht ganz unschuldig an der algemeinen Hysterie. Auch jetzt noch <strong>hauen</strong> die <strong>auf den Putz</strong>. Die schlachten jeden Toten für ihre Propaganda aus, obwohl so gut wie keine Kommunisten darunder sind. (<i>Der nasse Fisch</i>, 131)',
+],
+'Putz (auf den P. hauen)': [ 
+	'<strong>auf den Putz hauen</strong>: kick up one\'s heels, whoop it up'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Putz+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf den Putz hauen</a> &nbsp;<a href="https://www.dwds.de/wb/auf%20den%20Putz%20hauen"target="target2">auf den Putz hauen</a>'+              
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-putz-hauen"target="target3">auf den Putz hauen</a>&nbsp;&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/auf+den+Putz+hauen"target="target4">auf den Putz hauen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Er (<i>Rath</i>) durfte hier (<i>im Eldorado</i>) nicht allzu sehr <strong>auf den Putz hauen</strong>. Das war Brunos Revier. Er war der Neue, er musste aufpassen. (<i>Der nasse Fisch</i>, 125)',
+	'<i>Weinert</i>: "Natürlich sind die Kommunisten mit ihrem großmäuligen Gehabe nicht ganz unschuldig an der algemeinen Hysterie. Auch jetzt noch <strong>hauen</strong> die <strong>auf den Putz</strong>. Die schlachten jeden Toten für ihre Propaganda aus, obwohl so gut wie keine Kommunisten darunder sind. (<i>Der nasse Fisch</i>, 131)',
 ],
 auftakeln: [ 
 	'<strong>auftakeln</strong>: get dolled up, tart oneself up; &nbsp;nautical: rig up'+
@@ -2602,17 +2632,37 @@ Armbeuge: [
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "In der Kantine erzählen sie, dass selbst Diels vermutet, dass van der Lubbe ein Einzeltäter ist." <i>Gereon</i>: "Diels? Der Chef der IA (<i>die Politische Polizei</i>)?" <i>Charly</i>: "Dein neuer Chef." Sie grinste. "Nur weil Göring es so will, müssen <strong>auf Biegen und Brechen</strong> Spuren gefunden werden, die auf mehrere Täter hindeuten und auf eine kommunistische Verschwörung." (<i>Märzgefallene</i>, 196)',
 ],
-'auf den Arm nehmen': [
-	'<strong>auf den Arm nehmen</strong>: &nbsp;put someone on; tease, make fun of <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target1">auf den Arm nehmen</a><br>English Definitions:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn.%20auf%20den%20Arm%20nehmen"target="target2">auf den Arm nehmen</a>&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/auf-den-arm-nehmen?q=auf+den+Arm+nehmen"target="target3">auf den Arm nehmen</a>',
+'auf den Arm nehmen': [ 
+	'<strong>auf den Arm nehmen</strong>: tease, make fun of, pull so.\'s chain'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target1">auf den Arm nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Arm+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Arm nehmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-arm-nehmen"target="target3">auf den Arm nehmen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Arm+nehmen"target="target4">auf den Arm nehmen</a>',
+	'<u>Märzgefallene</u>',
+	'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur...."Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln.  "Wohl eher mit einem Juden, der sich <strong>auf den Arm genommen</strong> fühlt."  (<i>Märzgefallene</i>, 20)',
+],
+'Arm (auf den A. nehmen)': [ 
+	'<strong>auf den Arm nehmen</strong>: tease, make fun of, pull so.\'s chain'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target1">auf den Arm nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Arm+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Arm nehmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-arm-nehmen"target="target3">auf den Arm nehmen</a>&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Arm+nehmen"target="target4">auf den Arm nehmen</a>',
 	'<u>Märzgefallene</u>',
 	'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur...."Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln.  "Wohl eher mit einem Juden, der sich <strong>auf den Arm genommen</strong> fühlt."  (<i>Märzgefallene</i>, 20)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'auf den Strich gehen': [
-	'<strong>auf den Strich gehen</strong>: &nbsp;walk the streets (prostitute) <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/auf%20den%20Strich%20gehen"target="target1">auf den Strich gehen</a><br>English Definitions: &nbsp;&nbsp;<a href="https://dict.leo.org/german-english/auf%20den%20Strich%20gehen"target="target2">auf den Strich gehen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/strich?q=auf+den+Strich+gehen"target="target3">auf den Strich gehen</a>  ', 
+'auf den Strich gehen': [ 
+	'der <strong>Strich</strong>,-<strong>e</strong>: line, dash, stripe; red-light district'+
+	'<br><strong>auf den Strich gehen</strong>: walk the streets (prostitute)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Strich+gehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf den Strich gehen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/auf%20den%20Strich%20gehen"target="target2">auf den Strich gehen</a>'+     
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/auf%20den%20Strich%20gehen"target="target3">auf den Strich gehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/auf+den+Strich+gehen"target="target4">auf den Strich gehen</a>', 
 	'<u>Märzgefallene</u>',
-	'...der Bahnhof Zoo war der Ansatzpunkt, dort hatte Hannah irgendetwas zu erledigen gehabt. Womöglich <strong>ging</strong> sie dort <strong>auf den Strich</strong>, um sich über Wasser zu halten.  (<i>Märzgefallene</i>, 292-93)',
+	'...der Bahnhof Zoo war der Ansatzpunkt, dort hatte Hannah irgendetwas zu erledigen gehabt. Womöglich <strong>ging</strong> sie dort <strong>auf den Strich</strong>, um sich über Wasser zu halten. (<i>Märzgefallene</i>, 292-93)',
+],
+'Strich (auf den S. gehen)': [ 
+	'der <strong>Strich</strong>,-<strong>e</strong>: line, dash, stripe; red-light district'+
+	'<br><strong>auf den Strich gehen</strong>: walk the streets (prostitute)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Strich+gehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf den Strich gehen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/auf%20den%20Strich%20gehen"target="target2">auf den Strich gehen</a>'+     
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/auf%20den%20Strich%20gehen"target="target3">auf den Strich gehen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/auf+den+Strich+gehen"target="target4">auf den Strich gehen</a>', 
+	'<u>Märzgefallene</u>',
+	'...der Bahnhof Zoo war der Ansatzpunkt, dort hatte Hannah irgendetwas zu erledigen gehabt. Womöglich <strong>ging</strong> sie dort <strong>auf den Strich</strong>, um sich über Wasser zu halten. (<i>Märzgefallene</i>, 292-93)',
 ],
 'auf den Wecker gehen': [
 	'<strong>jmdm. auf den Wecker gehen</strong>: annoy, get on someone\'s nerves ' +
@@ -2651,27 +2701,55 @@ Armbeuge: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'auf die Nase binden': [
-	'<strong>auf dei Nase binden</strong>: tell sb. all about sth.; tell so. sth. he doesn\'t want to/shouldn\'t hear <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20etw.%20auf%20die%20Nase%20binden?o=auf+die+Nase+binden"target="target1">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/811-rtkl-redewendung-etwas-auf-die-nase-binden"target="target2">auf die Nase binden</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+die+Nase+binden"target="target3">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nase?q=auf+die+Nase+binden"target="target4">auf die Nase binden</a>',
+'auf die Nase binden': [ 
+	'<strong>auf die Nase binden</strong>: tell so. sth. he doesn\'t need to/want to/shouldn\'t hear'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20etw.%20auf%20die%20Nase%20binden?o=auf+die+Nase+binden"target="target1">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/811-rtkl-redewendung-etwas-auf-die-nase-binden"target="target2">auf die Nase binden</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nase?q=auf+die+Nase+binden"target="target3">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/auf-die-nase-binden/"target="target4">auf die Nase binden</a>',  
 	'<u>Der nasse Fisch</u>',
-	'Sein besonderes Interesse an den Russen wollte er (<i>Rath</i>) niemandem <strong>auf dei Nase binden</strong>. Rath musste sich durch eine ganze Parade mehr oder weniger vorlauter Kleinganoven.. arbeiten.. bis die Liste endlich bis zu den beiden Männern abgehakt war.  (<i>Der nasse Fisch</i>, 264)',
+	'Sein besonderes Interesse an den Russen wollte er (<i>Rath</i>) niemandem <strong>auf die Nase binden</strong>. Rath musste sich durch eine ganze Parade mehr oder weniger vorlauter Kleinganoven.. arbeiten.. bis die Liste endlich bis zu den beiden Männern abgehakt war. (<i>Der nasse Fisch</i>, 264)',
 	'<u>Märzgefallene</u>',
-	'"Wir haben Hunderte von Kommunisten einsitzen, wenn nicht Tausende", fuhr Zientek (<i>Nazi Kriminalsekretär</i>) fort. "Die wollen alle verhört werden. Und verhören, das haben Sie (<i>Rath</i>) doch gelernt bei der Kripo, nicht wahr?"....<i>Rath</i>: "Aber am Sonntag wird gewählt!" Außerdem was das sein Geburtstag, aber das wollte Rath dem Kriminalsekretär nicht auch noch <strong>auf die Nase binden</strong>.  (<i>Märzgefallene</i>, 186)',
+	'"Wir haben Hunderte von Kommunisten einsitzen, wenn nicht Tausende", fuhr Zientek (<i>Nazi Kriminalsekretär</i>) fort. "Die wollen alle verhört werden. Und verhören, das haben Sie (<i>Rath</i>) doch gelernt bei der Kripo, nicht wahr?"....<i>Rath</i>: "Aber am Sonntag wird gewählt!" Außerdem war das sein Geburtstag, aber das wollte Rath dem Kriminalsekretär nicht auch noch <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 186)',
+	'Grimberg zögerte. "Hat Roddeck Ihnen das nicht erzählt? Das wir wieder in Frankreich waren, nach dem Krieg?" "Nein." Dass er es versäumt hatte Roddeck ernsthaft zu befragen, weil er dessen Geschichte nicht geglaubt hatte, wollte Rath dem Sprengmeister nicht <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 275)',
 	'<u>Lunapark</u>',
 	'Dann hatte der Kriminaldirektor die Sitzung beendet, Rath jedoch gebeten, ihm Berict zu erstatten, wenn er aus der Gerichtsmedizin zurückgekehrt sei. Dass er auf dem Weg zum Leichenschauhaus einen Umweg über die Kleine Alexanderstraße machen würde, hatte Rath seinem Vorgesetzten nicht <strong>auf die Nase gebunden</strong>. (<i>Lunapark</i>, 89)',
 ],
-'auf die Palme treiben/bringen': [
-	'jmdn. <strong>auf die Palme treiben\/bringen</strong>: drive so. up the wall, make angry ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+die+Palme+treiben&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf die Palme treiben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20auf%20die%20Palme%20treiben"target="target2">auf die Palme treiben</a> ' +
+'Nase (auf die N, binden)': [ 
+	'<strong>auf die Nase binden</strong>: tell so. sth. he doesn\'t need to/want to/shouldn\'t hear'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20etw.%20auf%20die%20Nase%20binden?o=auf+die+Nase+binden"target="target1">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/811-rtkl-redewendung-etwas-auf-die-nase-binden"target="target2">auf die Nase binden</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nase?q=auf+die+Nase+binden"target="target3">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/auf-die-nase-binden/"target="target4">auf die Nase binden</a>',  
+	'<u>Der nasse Fisch</u>',
+	'Sein besonderes Interesse an den Russen wollte er (<i>Rath</i>) niemandem <strong>auf die Nase binden</strong>. Rath musste sich durch eine ganze Parade mehr oder weniger vorlauter Kleinganoven.. arbeiten.. bis die Liste endlich bis zu den beiden Männern abgehakt war. (<i>Der nasse Fisch</i>, 264)',
+	'<u>Märzgefallene</u>',
+	'"Wir haben Hunderte von Kommunisten einsitzen, wenn nicht Tausende", fuhr Zientek (<i>Nazi Kriminalsekretär</i>) fort. "Die wollen alle verhört werden. Und verhören, das haben Sie (<i>Rath</i>) doch gelernt bei der Kripo, nicht wahr?"....<i>Rath</i>: "Aber am Sonntag wird gewählt!" Außerdem war das sein Geburtstag, aber das wollte Rath dem Kriminalsekretär nicht auch noch <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 186)',
+	'Grimberg zögerte. "Hat Roddeck Ihnen das nicht erzählt? Das wir wieder in Frankreich waren, nach dem Krieg?" "Nein." Dass er es versäumt hatte Roddeck ernsthaft zu befragen, weil er dessen Geschichte nicht geglaubt hatte, wollte Rath dem Sprengmeister nicht <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 275)',
+	'<u>Lunapark</u>',
+	'Dann hatte der Kriminaldirektor die Sitzung beendet, Rath jedoch gebeten, ihm Berict zu erstatten, wenn er aus der Gerichtsmedizin zurückgekehrt sei. Dass er auf dem Weg zum Leichenschauhaus einen Umweg über die Kleine Alexanderstraße machen würde, hatte Rath seinem Vorgesetzten nicht <strong>auf die Nase gebunden</strong>. (<i>Lunapark</i>, 89)',
+],
+'auf die Palme treiben/bringen': [ 
+	'jmdn. <strong>auf die Palme treiben\/bringen</strong>: drive so. up the wall, make angry'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+die+Palme+treiben&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf die Palme treiben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20auf%20die%20Palme%20treiben"target="target2">auf die Palme treiben</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+die+Palme+treiben"target="target3">auf die Palme treiben</a>&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/auf%20die%20palme%20treiben"target="target4">auf die Palme treiben</a>',
 	'<u>Der nasse Fisch</u>',
-	'Elisabeth Behnke war laut geworden. Hatte Weinert etwa vergessen, seine Frauen rechtzeitig aus dem Haus zu schaffen? Wahrscheinlich reichte auch weniger um die Behnke <strong>auf die Palme zu bringen</strong>. Die Laune seiner (<i>Raths</i>) Vermieterin hatte sich in den vergangenen Tagen zunehmend verschlechtert. Schon bei Kleinigkeiten geriet sie aus dem Häuschen.   (<i>Der nasse Fisch</i>, 261)',
+	'Elisabeth Behnke war laut geworden. Hatte Weinert etwa vergessen, seine Frauen rechtzeitig aus dem Haus zu schaffen? Wahrscheinlich reichte auch weniger um die Behnke <strong>auf die Palme zu bringen</strong>. Die Laune seiner (<i>Raths</i>) Vermieterin hatte sich in den vergangenen Tagen zunehmend verschlechtert. Schon bei Kleinigkeiten geriet sie aus dem Häuschen. (<i>Der nasse Fisch</i>, 261)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Da hat Böhm dir aber eine undankbare Arbeit aufgehalst." <i>Gereon</i>: "Die habe ich mir selbst aufgehalst. Böhm weiß von der ganzen Sache nichts." Charly <strong>trieb</strong> es <strong>gleich auf die Palme</strong>. "Gereon", sagte sie, "wirst du einfach nicht klug? Kochst du wieder dein eigenes Süppchen?" (<i>Märzgefallene</i>, 176)',
 	'Aufgelegt. Dieses verfluchte Weib hatte einfach (<i>das Telefon</i>) aufgelegt! Wenn es eine Frau auf dieser Welt gab, die Gereon Rath noch schneller <strong>auf die Palme bringen</strong> konnte als Charly, dann war das Greta Overback. (<i>Märzgefallene</i>, 404)',
-	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von Brausepulver klebten. "Oh!, Haste dir Brause gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly <strong>auf die Palme gebracht</strong>.  (<i>Märzgefallene</i>, 484)' ,
+	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von Brausepulver klebten. "Oh!, Haste dir Brause gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly <strong>auf die Palme gebracht</strong>. (<i>Märzgefallene</i>, 484)',
 	'<u>Lunapark</u>',
-	'..Charly versuchte, ihren Ärger auf der Tanzfläche zu vergessen. Was ihr nicht gelang. Warum nur brachte der liebe Herr Rath sie immer derart <strong>auf die Palme</strong>?   (<i>Lunapark</i>, 163-64)',
+	'..Charly versuchte, ihren Ärger auf der Tanzfläche zu vergessen. Was ihr nicht gelang. Warum nur <strong>brachte</strong> der liebe Herr Rath sie immer derart <strong>auf die Palme</strong>? (<i>Lunapark</i>, 163-64)',
+],
+'Palme (auf die P. treiben/bringen)': [ 
+	'jmdn. <strong>auf die Palme treiben\/bringen</strong>: drive so. up the wall, make angry'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+die+Palme+treiben&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf die Palme treiben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20auf%20die%20Palme%20treiben"target="target2">auf die Palme treiben</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+die+Palme+treiben"target="target3">auf die Palme treiben</a>&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/auf%20die%20palme%20treiben"target="target4">auf die Palme treiben</a>',
+	'<u>Der nasse Fisch</u>',
+	'Elisabeth Behnke war laut geworden. Hatte Weinert etwa vergessen, seine Frauen rechtzeitig aus dem Haus zu schaffen? Wahrscheinlich reichte auch weniger um die Behnke <strong>auf die Palme zu bringen</strong>. Die Laune seiner (<i>Raths</i>) Vermieterin hatte sich in den vergangenen Tagen zunehmend verschlechtert. Schon bei Kleinigkeiten geriet sie aus dem Häuschen. (<i>Der nasse Fisch</i>, 261)',
+	'<u>Märzgefallene</u>',
+	'<i>Charly</i>: "Da hat Böhm dir aber eine undankbare Arbeit aufgehalst." <i>Gereon</i>: "Die habe ich mir selbst aufgehalst. Böhm weiß von der ganzen Sache nichts." Charly <strong>trieb</strong> es <strong>gleich auf die Palme</strong>. "Gereon", sagte sie, "wirst du einfach nicht klug? Kochst du wieder dein eigenes Süppchen?" (<i>Märzgefallene</i>, 176)',
+	'Aufgelegt. Dieses verfluchte Weib hatte einfach (<i>das Telefon</i>) aufgelegt! Wenn es eine Frau auf dieser Welt gab, die Gereon Rath noch schneller <strong>auf die Palme bringen</strong> konnte als Charly, dann war das Greta Overback. (<i>Märzgefallene</i>, 404)',
+	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von Brausepulver klebten. "Oh!, Haste dir Brause gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder geschnorrt?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly <strong>auf die Palme gebracht</strong>. (<i>Märzgefallene</i>, 484)',
+	'<u>Lunapark</u>',
+	'..Charly versuchte, ihren Ärger auf der Tanzfläche zu vergessen. Was ihr nicht gelang. Warum nur <strong>brachte</strong> der liebe Herr Rath sie immer derart <strong>auf die Palme</strong>? (<i>Lunapark</i>, 163-64)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8949,14 +9027,14 @@ Plackerei: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Putz: [
-	'der <strong>Putz</strong>: plaster' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Putz"target="target1">Putz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Putz"target="target2">Putz</a>' +
+	'der <strong>Putz</strong>: plaster'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Putz"target="target1">Putz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Putz"target="target2">Putz</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Putz"target="target3">Putz</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/putz"target="target4">Putz</a>',
 	'<u>Märzgefallene</u>',
-	'Sie (<i>Charly</i>) stand nur da, und er (<i>Gereon</i>) sah, wie ihre Unterlippe leicht zitterte... Sie holte aus und gab ihm eine gepfefferte Ohrfeige, drehte sich um und verließ den Raum. Warf die Tür mit derselben Kraft zu, mit der sie ihn geohrfeigt hatte. Es knallte laut, und Rath glaubte, den <strong>Putz</strong> von den Wänden rieseln zu hören.  (<i>Märzgefallene</i>, 390-91)',
+	'Sie (<i>Charly</i>) stand nur da, und er (<i>Gereon</i>) sah, wie ihre Unterlippe leicht zitterte... Sie holte aus und gab ihm eine gepfefferte Ohrfeige, drehte sich um und verließ den Raum. Warf die Tür mit derselben Kraft zu, mit der sie ihn geohrfeigt hatte. Es knallte laut, und Rath glaubte, den <strong>Putz</strong> von den Wänden rieseln zu hören. (<i>Märzgefallene</i>, 390-91)',
 	'<u>Lunapark</u>',
-	'So sauber und adrett wie im Geheimen Staatspolizeiamt hatte es in der Burg in all den Jahren, die Rath nun schon dort arbeitete, nie ausgesehen. Kein grünes Linoleum, das sich vom Boden löste, keine vergilbenden Wände, keine hässlichen Elektrokabel, von Lichtshalter zu Lichtshalter über den <strong>Putz</strong> gelegt.   (<i>Lunapark, 51)',
-	'Schon die Eingangshalle des Geheimen Staatspolizeiamtes schindete Eindruck. Riesige Finster ließen viel Licht ein, an der Stirnwand hingen Hakenkreuzfahnen auf dem hellen <strong>Putz</strong>, darunter war eine Hitlerbüste plaziert, die dem Besucher streng und grimmig entgegenblickte.  (<i>Lunapark</i>, 52)' , 
+	'So sauber und adrett wie im Geheimen Staatspolizeiamt hatte es in der Burg in all den Jahren, die Rath nun schon dort arbeitete, nie ausgesehen. Kein grünes Linoleum, das sich vom Boden löste, keine vergilbenden Wände, keine hässlichen Elektrokabel, von Lichtshalter zu Lichtshalter über den <strong>Putz</strong> gelegt. (<i>Lunapark, 51)',
+	'Schon die Eingangshalle des Geheimen Staatspolizeiamtes schindete Eindruck. Riesige Finster ließen viel Licht ein, an der Stirnwand hingen Hakenkreuzfahnen auf dem hellen <strong>Putz</strong>, darunter war eine Hitlerbüste plaziert, die dem Besucher streng und grimmig entgegenblickte.  (<i>Lunapark</i>, 52)', 
 ],
 'pfuschen (ins Handwerk p.)': [
 	'<strong>pfuschen</strong>: bungle, botch things <br>jmdm <strong>ins Handwerk pfuschen</strong>: intefere in sb\'s business ' +
@@ -14514,6 +14592,8 @@ For some idioms, the dictionary entry starts with a single word, but includes th
 For "was das Zeug hält", the English translation begins with "Zeug", but if you scroll down enough you find the phrase "was das Zeug hält". Same for "mit allen Wassern gewaschen", way down under "Wasser" in Eng def
 For "nach dem Rechten sehen" one of the English websites opens with "Recht", scroll down to find "nach dem Rechten sehen"
 jmdn. achtkantig rausschmeißen = jmdn. achtkanig hinauswerfen, given as usage example in dwde under "achtkantig"
+'auf die Nase binden': scroll way down on the website for "Nase"
+
 ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen       
  'abaschen'  ;   Nworte++;    Märzgefallene   37 
  abgelten   Märzgefallene  542 

@@ -181,6 +181,7 @@ const s = [
    'Strauch, Gesträuch',  //  * duplicated
    'Strebe', // Strebe: *
    'Streich spielen', // *
+   'Strich (auf den S. gehen)', // * duplicated
    'Strickjacke', // Strickjacke: *
    'Striemen',  // Striemen: *
    'Strippe',  // Strippe: *

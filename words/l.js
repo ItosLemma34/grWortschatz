@@ -21,6 +21,7 @@ const l = [
    'Leier',  // Leier: *
    'leiern', // leiern:  * 
    'Leim, leimen',  //  *
+   'Leim (auf den L. gehen)', // * duplicateKs
    'Leinen',  // Leinen:  * 
    'Leiste',  // Leiste: *
    'Lenz' ,  // Lenz: *

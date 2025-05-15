@@ -30,6 +30,7 @@ const e = [
    'Eintänzer',   // Eintänzer: * 
    'eintrudeln',  // eintrudeln:  *
    'eintüten',    // eintüten:  *
+   'Ekel, anekeln', // * duplicated
    'Empore',     // Empore: * 
    'entbieten',  // entbieten: * 
    'entgegenfiebern',  // entgegenfiebern: * 

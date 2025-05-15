@@ -18,7 +18,8 @@ const b = [
     'beherzt',     // beherzt: *  
     'beichten',  // beichten: * 
     'beikommen',   // beikommen: *
-    'Beil',  // Beil: * 
+    'Beil',  // Beil: *
+    'Bein (ans B. binden)', // *  duplicated 
     'Beine in den Bauch',  // *
     'beipflichten',   // beipflichten: * 
   //  'beköstigen, verköstigen', // * duplicated with 'verköstigen, beköstigen' if beköstigen ever appears

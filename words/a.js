@@ -33,56 +33,56 @@ const a = [
 	'alteingesessen',  //alteingesessen: 
 	'an der Backe haben', //
 	'an die große Glocke hängen',  
-	'anbändeln',    //anbändeln:
+	'anbändeln',    // anbändeln: *
 	'Anbiederung', // Anbiederung:  *
-	'anblaffen',    // anblaffen:    
-	'anbrechen',    //anbrechen:  
-	'anecken',      //anecken:   
-	'anekeln',      //anekeln:  
-	'anfauchen, fauchen', //
+	'anblaffen',    // anblaffen: *   
+	'anbrechen',    // anbrechen: * 
+	'anecken',      // anecken: *  
+	'anekeln, Ekel',      // * duplicated 
+	'anfauchen, fauchen', // * duplicated
 	'angeben, Angeber',  //  * duplicated
-	'angeschickert', //angeschickert:
+	'angeschickert', // angeschickert: *
 	'anglotzen, glotzen', // * duplicated 
 	'anheuern',  // anheuern: *
 	'anhimmeln',    // anhimmeln: *  
-	'anleinen',     //anleinen:  
-	'Anpfiff' ,     //Anpfiff:  
-	'anpflaumen',   //anpflaumen:  
-	'anpumpen',     //anpumpen: 
-	'anquatschen',   //anquatschen: 
+	'anleinen',     // anleinen:  *
+	'Anpfiff' ,     // Anpfiff: * 
+	'anpflaumen',   // anpflaumen: * 
+	'anpumpen',     // anpumpen: *
+	'anquatschen',   // anquatschen: *
 	'anraunzen',     // anraunzen: *
 	'anrempeln',    // anrempeln: *
-	'Anrichte',     // Anrichte:
+	'Anrichte',     // Anrichte: *
 	'anrücken, ausrücken, nachrücken', // * triplicated  
-	'ans Bein binden',  //
-	'anschleichen (sich)', //
+	'ans Bein binden',  // * duplicated
+	'anschleichen (sich)', // *
 	'anschmachten, schmachten', // * duplicated
-	'anschmiegsam', //anschmiegsam: 
-	'anschnauzen',  // anschnauzen: 
+	'anschmiegsam', // anschmiegsam: *
+	'anschnauzen',  // anschnauzen: *
 	'anschnorren, schnorren', // * duplicated
 	'anschwärzen',  // anschwärzen:  *
-	'ansengen',     //ansengen:  
+	'ansengen',     // ansengen:  *
 	'Ansinnen' ,    // Ansinnen: * 
-	'anstupsen',    //anstupsen:  
+	'anstupsen',    // anstupsen: *
 	'antanzen',     // antanzen: *  
 	'Anwesen',      // Anwesen: *
-	'anwidern',     //anwidern:  
-	'Anzeige erstatten', //  
-	'anzwinkern',  //anzwinkern: 
-	'apportieren', // apportieren: 
-	'Areal' ,  // Areal:
+	'anwidern',     // anwidern: *
+	'Anzeige erstatten', // * 
+//	'anzwinkern',  // anzwinkern:  excluded, for now; if include, include also zuzwinkern?
+	'apportieren', // apportieren: *
+	'Areal' ,  // Areal: *
 	'Arm (auf den A. nehmen)',  // * duplicated
-	'Armbeuge',    //Armbeuge:   
+	'Armbeuge',    // Armbeuge:  * 
 	'arme Ritter', // *  duplicated
 	'armer Schlucker', // * duplicated
-	'Arsch, jmdm. in den A. kriechen',  //
-	'Asservat',  // Asservat:
+	'Arsch (jmdm. in den A. kriechen)',  // *
+	'Asservat',  // Asservat:  *
 	'Ast, Geäst', // * duplicated
-	'Attest',     //Attest: 
-	'auf Biegen und Brechen',  // 
+	'Attest',     //  Attest: *
+	'auf Biegen und Brechen',  // *
 	'auf dem Kerbholz haben', // * duplicated
-	'auf dem Kieker haben', //
-	'auf dem Sprung',      //
+	'auf dem Kieker haben', // * duplicated
+	'auf dem Sprung',      // * duplicate
 	'auf den Arm nehmen',  // * duplicated
 	'auf den Leim gehen',  // * duplicated
 	'auf den Putz hauen',  //  * duplicated

@@ -144,6 +144,7 @@ const s = [
    'spreizen', // spreizen: *
 //   'Sprenkel', // Sprenkel: *
    'Spreu vom Weizen trennen',  //  *
+   'Sprung (auf dem S.)',  // * duplicated
    'Speichel',  // Speichel:  *
    'Sprosse',  // Sprosse:  *
    'Spülbürste',  // Spülbürste: *

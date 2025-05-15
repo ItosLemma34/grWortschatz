@@ -24,7 +24,7 @@ const k = [
    'ketten, Kette', // *
    'Keule', // Keule: *
    'kichern',  // kichern: *
-//   'Kieker (auf dem Kieker haben)',
+   'Kieker (auf dem K. haben)', // * duplicated
    'Kies, Kiesel', // *
    'Kinderficker',  // Kinderficker: *
    'Kinkerlitzchen', // Kinkerlitzchen: *

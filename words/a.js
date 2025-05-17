@@ -1,38 +1,38 @@
 const a = [
 	'aalglatt',   // aalglatt:  *   
-	'abbinden',   //abbinden:  
-	'abblitzen',  //abblitzen: 
-	'abebben',    //abebben:  
-	'abfackeln',  //abfackeln:  
+	'abbinden',   // abbinden:  *
+	'abblitzen',  // abblitzen: *
+	'abebben',    // abebben:  *
+	'abfackeln',  // abfackeln:  *
 	'abgebrüht',  // abgebrüht:  * 
-	'abgrasen',   //abgrasen:   
-	'abgreifen',  //abgreifen: 
-	'abhängen',   //abhängen: 
-	'abkanzeln' , // abkanzeln:
+	'abgrasen',   // abgrasen:   *
+	'abgreifen, abgegriffen',  // *
+//	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
+	'abkanzeln' , // abkanzeln:  *
 	'abklappern', // abklappern: *
-	'abknallen',  //abknallen:  
-	'abkommandieren',  //abkommandieren: 
-	'Achterbahn', // Achterbahn: *
-	'Ablage',     //Ablage:  
-	'abluchsen',  //abluchsen: 
-	'abschüssig',  //abschüssig:  
-	'abspulen',   // abspulen: 
+	'abknallen',  // abknallen:  *
+	'abkommandieren',  // abkommandieren: *
+	'Ablage',     // Ablage:  *
+	'abluchsen',  // abluchsen: *
+	'abschüssig',  // abschüssig: * 
+	'abspulen',   // abspulen:  *
 	'abstottern', // abstottern: *
-	'abtrünnig',  //abtrünnig: 
+	'abtrünnig',  // abtrünnig:  *
 	'abwiegeln',  // abwiegeln:  *    
 	'abwimmeln',  // abwimmeln:  *   
-	'abzocken',   //abzocken: 
+	'abzocken',  // abzocken:  *
 	'Abzweig, abzweigen',  //  *
-	'achtkantig hinauswerfen', // 
-	'ächzen',     //ächzen:
+	'Achterbahn', // Achterbahn: *
+	'achtkantig hinauswerfen', // *
+	'ächzen',     // ächzen: *
 	'Ader',  // Ader: *
-	'adrett',   //adrett:  
-	'Affekthandlung',   //Affekthandlung: 
+	'adrett',   // adrett:  *
+	'Affekthandlung',   // Affekthandlung: *
 	'alle naselang', // *
-	'Allerwerteste',   //Allerwerteste:  
-	'alteingesessen',  //alteingesessen: 
-	'an der Backe haben', //
-	'an die große Glocke hängen',  
+	'Allerwerteste',   // Allerwerteste:  *
+	'alteingesessen',  // alteingesessen: *
+	'an der Backe haben', // *
+	'an die große Glocke hängen', // * 
 	'anbändeln',    // anbändeln: *
 	'Anbiederung', // Anbiederung:  *
 	'anblaffen',    // anblaffen: *   
@@ -109,7 +109,7 @@ const a = [
 	'aufgabeln',   // aufgabeln:  *
 	'aufgedunsen', // aufgedunsen:  *
 	'aufgekratzt', // aufgekratzt: * 
-	'aufgelöst',   // aufgelöst:  complete search for other "aufgelöst" 
+	'aufgelöst',   // aufgelöst:  only for the "distraught" definition
 	'aufgießen, Aufguss', // *
 	'aufglimmen, glimmen',  // * duplicated  
 	'aufhalsen',   // aufhalsen: *

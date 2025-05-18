@@ -21,7 +21,7 @@ const k = [
    'keinen Reim machen können', // * duplicated
    'Kelch',  // Kelch: *
    'Kerbholz (auf dem K. haben)',// * duplicated
-   'ketten, Kette', // *
+   'ketten, Kette, Kettenkarussell', // *
    'Keule', // Keule: *
    'kichern',  // kichern: *
    'Kieker (auf dem K. haben)', // * duplicated

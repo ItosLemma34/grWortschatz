@@ -37,6 +37,7 @@ const h = [
    'hetzen, gehetzt',  // * duplicated 
    'heucheln', // heucheln: *
    'heulen',  // heulen:  *
+   'hieven',  // hieven: *
    'hinterlistig',  // hinterlistig: *
    'hinters Licht führen', // *
    'hobeln', // hobeln: *
@@ -51,6 +52,7 @@ const h = [
    'Hosennaht',  // Hosennaht:  *
    'Hudelei, Lobhudelei', // * duplicated
    'Hühnerauge', // Hühnerauge: *
+   'Hülse',  // Hülse: *
    'humpeln',  // humpeln:  *
    'Hüne',  // Hüne: *
    'huschen',  // huschen: *

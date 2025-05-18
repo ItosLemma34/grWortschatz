@@ -128,6 +128,7 @@ const a = [
 	'aufschichten',   // aufschichten: * 
 	'aufstieben',    // aufstieben:  *
 	'aufstöbern',    // aufstöbern: * 
+	'aufstöhnen, stöhnen', // * duplicated
 	'aufsummen, summen', // * duplicated
 	'auftakeln',     // auftakeln: *
 	'auftischen',    // auftischen: * 

@@ -174,7 +174,7 @@ const s = [
    'stöbern',  // stöbern:  *
    'stochern',  // stochern: *
    'stöckeln, Stöckelschuh', // *
-   'stöhnen', // stöhnen: *
+   'stöhnen, aufstöhnen', //  * duplicated
    'stopfen, Stopfen', // *
    'Stöpsel',   // Stöpsel: *
    'stolzieren', // stolzieren: *

@@ -17,6 +17,7 @@ const h = [
    'harren',  // harren: *
    'hart im Nehmen sein', // *
    'Hatz',  // Hatz: *
+   'Haube', // Haube:  *
    'hausieren', // hausieren: *
    'Hautausschlag' , // Hautausschlag: *
    'hecheln', // hecheln: *

@@ -12,6 +12,36 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+'Strick (einen S. drehen)': [
+	'jmdm. <strong>einen Strick drehen</strong>: use sth. against so. '+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20einen%20Strick%20aus%20etw.%20drehen"target="target1">einen Strick drehen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/4384-rtkl-redewendung-einen-strick-aus-etwas-drehen"target="target2">einen Strick drehen</a>'+  
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+aus+etw.++einen+Strick+drehen+%28wollen%29"target="target3">einen Strick drehen</a>&nbsp;&nbsp;<a href="https://translate.google.com/?hl=en&sl=de&tl=en&text=Aber konnte man ihm daraus einen Strick drehen%3F&op=translate"target="target4">einen Strick drehen</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'Ob sie ihm im Krankenhaus Blut abgenommen hatten? Dann würden sie wissen, dass er nicht mehr ganz nüchtern war, als er die Kommunisten entkommen ließ. Aber konnte man ihm daraus <strong>einen Strick drehen</strong>? (<i>Lunapark</i>, 391)',  
+],
+Rüsche: [
+	'<strong>Rüsche</strong>: ruffle, quilling, frill'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ruesche"target="target1">Rüsche</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/R%C3%BCsche"target="target2">Rüsche</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ruesche"target="target3">Rüsche</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=R%C3%BCsche"target="target4">Rüsche</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',    
+	'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, kratzte unter den Armen, und mit der weißen Haube auf ihren blond gefärbten Haaren und der weißen <strong>Rüschen</strong>schürze fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
+//	'<u>Lunapark</u>',   
+],
+Haube: [  
+	'die <strong>Haube</strong>,-<strong>n</strong>: hood, cap, cover, bonnet '+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haube"target="target1">Haube</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Haube"target="target2">Haube</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/haube"target="target3">Haube</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/haube"target="target4">Haube</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',
+  	'Das Mädchen kam mit einem Tablett voller Sektgläser und knickste höflich, die Leute bedienten sich. Mit ihrer weißen Schürze und der weißen <strong>Haube</strong> sah sie aus, als habe sie nie etwas anderes gemacht. Sie sprach nicht viel, aber sie machte ihre Sache gut, war zuverlässig und zuvorkommend. (<i>Und sie war Hannah</i>!)  (<i>Märzgefallene</i>, 584)',
+	'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, kratzte unter den Armen, und mit der weißen <strong>Haube</strong> auf ihren blond gefärbten Haaren und der weißen Rüschenschürze fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
+	'<u>Lunapark</u>',
+	'<i>Rath</i>: "Wenn ich noch einen Blick in Ihr Auto werfen dürfte, Herr Leister?" Auch das ließ Wilhelm Leister ohne Murren über sich ergehen. Rath schaute ins Wageninnere, in den Kofferraum und unter die Motor<strong>haube</strong>. Nichts Verdächtiges. (<i>Lunapark</i>, 233)', 
+	'"Sie dürfen noch nicht aufstehen, Kommissar!" Eine Krankenschwester stand in der Tür, hochroter Kopf unter weißer <strong>Haube</strong>. (<i>Lunapark</i>, 389)', 
+],
 Hülse: [
 	'die <strong>Hülse</strong>,-<strong>n</strong>: hull, shell, cartridge case'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Huelse"target="target1">Hülse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/H%C3%BClse"target="target2">Hülse</a>'+
@@ -67,9 +97,10 @@ Flachmann: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Flachmann&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Flachmann</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flachmann"target="target2">Flachmann</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flachmann"target="target3">Flachmann</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Flachmann"target="target4">Flachmann</a>',
 //	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
+//	'<u>Märzgefallene</u>',  
 	'<u>Lunapark</u>',  
-	'Seine größte Angst war, ihm könnten wieder die Nerven versagen, deshalb hatte er vorgesorgt. Und genau jetzt war die richtige Zeit für den ersten Schluck. Rath schraubte den kleinen Edelstahl<strong>flachmann</strong> auf, den er zuhause mit Cognac gefüllt und eingesteckt hatte. Heimlich, damit Charly nichts davon mitbekam.  (<i>Lunapark</i>, 372)', 
+	'Seine größte Angst war, ihm könnten wieder die Nerven versagen, deshalb hatte er vorgesorgt. Und genau jetzt war die richtige Zeit für den ersten Schluck. Rath schraubte den kleinen Edelstahl<strong>flachmann</strong> auf, den er zuhause mit Cognac gefüllt und eingesteckt hatte. Heimlich, damit Charly nichts davon mitbekam. (<i>Lunapark</i>, 372)', 
+	'Die Kopfschmerzen hinderten ihn (<i>Rath</i>) am Denken, er nahm noch eine Phenacetin. Die musste er mit einem Schluck Cognac aus seinem <strong>Flachmann</strong> hinunterspülen. (<i>Lunapark</i>, 391)', 
 ],
 aufmüpfig: [
 	'<strong>aufmüpfig</strong>: rebellious, obstreperous, insubordinate'+
@@ -94,6 +125,7 @@ schlüpfen: [
 	'"Meinen Mantel, bitte, Fräulein", sagte die Frau... Hannah ging zur Garderobe, nahm den schweren Mantel vom Bügel, und die Frau <strong>schlüpfte</strong> hinein. (<i>Märzgefallene</i>, 594)',
 	'<u>Lunapark</u>',
 	'Schließlich spürte er (<i>Rath</i>), wie er die Zuhaltung (<i>des Schlosses</i>) zu fassen bekam, sie bewegte sich schwergängig, weil das Schloss wohl schon länger nicht mehr geöffnet worden war. Aber schießlich sprang der Riegel mit einem lauten Schnappen zurück. Ein letzter Blick auf die Straße, dann schob Rath den rechten Flügel des stählernen Tors langsam nach innen, nur so weit, dass er duch den Spalt <strong>schlüpfen</strong> konnte. (<i>Lunapark</i>, 370)',
+	'Er (<i>Rath</i>) setzte sich auf, zog das Krankenhausnachthemd aus und <strong>schlüpfte</strong> in seine Sachen, die sauber gefaltet über einem Stuhl neben dem Bett hingen. (<i>Lunapark</i>, 389)',
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
 Schaukasten: [
@@ -2543,6 +2575,8 @@ Ablage: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ablage"target="target3">Ablage</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Ablage"target="target4">Ablage</a>', 
 	'<u>Märzgefallene</u>',
 	'Auf der <strong>Ablage</strong> vor dem Spiegel standen zwei Zahnputzgläser. Und in jedem eine Zahnbürste. (<i>Märzgefallene</i>, 120)',
+	'<u>Lunapark</u>',
+	'<i>Rath</i>: "Meine Frau macht sich sorgen, ich muss nach Hause..." <i>die Krankenschwester</i>: "Wir haben Ihre Frau selbstverständlich benachrichtigt, sie war heute Morgen schon kurz zu Besuch." Die Schwester zeigte auf die <strong>Ablage</strong> über dem Waschbecken. "Hat Ihnen Wäsche gebracht und Ihre Zahnbürste und so." (<i>Lunapark</i>, 389)',
 ],
 Abschaum: [
 	'der <strong>Abschaum</strong> (no plural): &nbsp;scum, sleaze, dregs; froth, skimmings <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Abschaum"target="target1">Abschaum</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Definitions:&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abschaum?q=Abschaum"target="target2">Abschaum</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abschaum"target="target3">Abschaum</a>  ',
@@ -3160,7 +3194,21 @@ auftischen: [
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 'aus dem Staub machen (sich)': [ 
 	'<strong>sich aus dem Staub machen</strong>: take to one\'s heels, fly the coop'+
-	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.dwds.de/wb/sich%20aus%20dem%20Staub%20machen"target="target1">sich aus dem Staub machen</a> &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=sich+aus+dem+Staub+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">sich aus dem Staub machen</a>'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.dwds.de/wb/sich%20aus%20dem%20Staub%20machen"target="target1">sich aus dem Staub machen</a> &nbsp;<a href="https://www.geo.de/geolino/redewendungen/7103-rtkl-redewendung-sich-aus-dem-staub-machen"target="target2">sich aus dem Staub machen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/sich%20aus%20dem%20Staube%20machen"target="target3">sich aus dem Staub machen</a>&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/aus%20dem%20staub%20machen"target="target4">sich aus dem Staub machen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Er (<i>Rath</i>) versuchte, die Puzzleteile zusammenzubekommen. Lana Nikoros alias Swetlana Gräfin Sorokina erzählt ihrem Geliebten Alexej Kardakow vom Gold ihrer Familie. Sie beschließen, es nach Berlin zu schmuggeln... Sie schalten zu diesem Zweck einen Kurier ein, einen Russen namens Boris... Der Kurier stirbt, nachdem er in der fremden Stadt nach Alexej Kardakow gesucht hat. Er scheint wütend auf Kardakow zu sein. Warum? Hat der ihn übers Ohr gehauen?.. Kardakow und die Gräfin jedenfalls tauchen unter... Vielleicht haben sie Boris um seinen verdienten Lohn gebracht? Einen Mitwisser beseitigt? Und <strong>sich</strong> dann mit dem Gold <strong>aus dem Staub gemacht</strong>.  (<i>Der nasse Fisch</i>, 210-11)',
+	'<u>Märzgefallene</u>',
+	'Die Blonde hatte ziemlich viel geredet und laut gelacht, während die Brünette nur ab und zu gelächelt hatte. Aber was für ein Lächeln! Das hatte <strong>sich</strong> wohl auch Paul gedacht. Jedenfalls hatte er sich mit der stillen Lächlerin irgendwann <strong>aus dem Staub gemacht</strong>. Und Gereon war mit der Blonden zurückgeblieben. (<i>Märzgefallene</i>, 71-72)',
+	'<i>Charly</i>: "Und trotzdem hat er sich verdünnisiert, bevor Sie seine Personalien aufnehmen konnten." Der Schupo zuckte die Achseln. "Leider. Aber wir konnten ja ooch nicht ahnen, dass der <strong>sich aus dem Staub machen</strong> will.... (<i>Märzgefallene</i>, 296)',
+	'Er (<i>Rath</i>) hatte den Buick... ein paar Meter weiter am Rathaus abgestellt, aber dort hatte sich inzwischen eine riesige Menschenmenge angesammelt. "Was ist denn hier los?", fragte er einen Passanten. "Han Se nit jehürt. Adenauer <strong>hät (hat) sich aus dem Staub jemaht (gemacht)</strong>. Un hück morjen hät die Partei dat Rothuus besetzt." (<i>Märzgefallene</i>, 300)',
+	'<i>Charly</i>: "Genau so ein Mann hat am Bahnhof Zoo Alarm geschlagen, das er Hannah Singer gesehen hat. Und <strong>sich aus dem Staub gemacht</strong>, ehe jemand seine Personalien aufnehmen konnte...." (<i>Märzgefallene</i>, 349)',
+	'Beim Frühstück am nächsten Morgan hatte der Junge (<i>Fritze</i>) sich nützlich gemacht, wo es nur ging: Charly hatte ihm sogar den Hund für den allmorgendlichen Spaziergang anvertraut, und Rath hatte insgeheim befürchtet, er werde Kirie an den nächstbesten Passanten verkaufen und <strong>sich aus dem Staub machen</strong>. (<i>Märzgefallene</i>, 362)' ,
+	'Aus dem Wald der Fahnen und Fackeln ragte eine hohe Stange, auf die ein Kopf gespießt war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher... Die wenigsten hier hätten wohl etwas dagegen gehabt, den echten Kopf dieser Judenschwuchtel aufgespießt zu sehen. Doch Hirschfeld hatte sich wie so viele Feiglinge, deren Bücher heute verbrannt wurden, einfach <strong>aus dem Staub gemacht</strong>, seit Jahren schon hatte er Deutschland nicht mehr betreten.  (<i>Märzgefallene</i>, 554)',
+],
+'Staub (sich aus dem S. machen': [ 
+	'<strong>sich aus dem Staub machen</strong>: take to one\'s heels, fly the coop'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.dwds.de/wb/sich%20aus%20dem%20Staub%20machen"target="target1">sich aus dem Staub machen</a> &nbsp;<a href="https://www.geo.de/geolino/redewendungen/7103-rtkl-redewendung-sich-aus-dem-staub-machen"target="target2">sich aus dem Staub machen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/sich%20aus%20dem%20Staube%20machen"target="target3">sich aus dem Staub machen</a>&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/aus%20dem%20staub%20machen"target="target4">sich aus dem Staub machen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) versuchte, die Puzzleteile zusammenzubekommen. Lana Nikoros alias Swetlana Gräfin Sorokina erzählt ihrem Geliebten Alexej Kardakow vom Gold ihrer Familie. Sie beschließen, es nach Berlin zu schmuggeln... Sie schalten zu diesem Zweck einen Kurier ein, einen Russen namens Boris... Der Kurier stirbt, nachdem er in der fremden Stadt nach Alexej Kardakow gesucht hat. Er scheint wütend auf Kardakow zu sein. Warum? Hat der ihn übers Ohr gehauen?.. Kardakow und die Gräfin jedenfalls tauchen unter... Vielleicht haben sie Boris um seinen verdienten Lohn gebracht? Einen Mitwisser beseitigt? Und <strong>sich</strong> dann mit dem Gold <strong>aus dem Staub gemacht</strong>.  (<i>Der nasse Fisch</i>, 210-11)',
@@ -7747,6 +7795,7 @@ Kittel: [
 	'An einem der Tische saß ein Mittvierziger in einem weißen <strong>Kittel</strong>, der ein Werkstück mit einem Gasbrenner bearbeitete.   (<i>Märzgefallene</i>, 134)',
 	'Inzwischen hatte man ihn (<i>Rath</i>) vom Boden auf eine Kankenliege gehievt und ihm einen Verband um den Kopf gewickelt. Ein Weiß<strong>kittel</strong>, der sich über ihn gebeugt hatte, schreckte zurück, als Rath sich aufrichtete. "Herr Kommissar, bleiben Sie liegen!".. Rath sagte nichts, er stand einfach auf. Und merkte, wie er von einem leichten Schwindelgefühl erfasst wurde, er musste sich an dem Mann im weißen <strong>Kittel</strong> abstützen. (<i>Lunapark</i>, 381)',   
 	'Die Sanitäter deckten ihn zu und brachten ihn zum Krankenwagen. Die Nervensäge bedachte ihn mit einem rechthaberischen Blick, der andere Weiß<strong>kittel</strong> reichte ihm eine Tablette und ein Glas Wasser.. Er schloss die Augen, wie der Weiß<strong>kittel</strong> ihm geraten hatte, und nutzte die Zeit zum Nachdenken. (<i>Lunapark</i>, 383)',   
+	'Sie (<i>die Krankenschwester</i>) kramte Phenacetin aus ihrem <strong>Kittel</strong>. Rath nahm das ganze Röhrchen an sich, nachdem er eine Tablette herausgeholt hatte, und gab ihr einen Kuss auf die Wange. "Sie sind ein Schatz!" (<i>Lunapark</i>, 390)',   
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9463,29 +9512,32 @@ postieren: [
 	'<u>Lunapark</u>',
 	'Da klingelte das Telefon, mitten hinein in die Stille, die Rath immer unangenehmer wurde. Charly schreckte hoch, als habe jemand sie mit einer Nadel <strong>gepiekst</strong>. (<i>Lunapark</i>, 204)',
 ],
-Pappe: [
-	'die <strong>Pappe</strong>,-<strong>n</strong>: cardboard, pasteboard; posters &nbsp;der <strong>Papp</strong>karton: cardboard box'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pappe"target="target1">Pappe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pappe"target="target2">Pappe</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pappe"target="target3">Pappe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pappe"target="target4">Pappe</a>',
+'Pappe, pappen': [
+	'die <strong>Pappe</strong>,-<strong>n</strong>: cardboard, pasteboard; posters'+
+	'<br>der <strong>Papp</strong>karton: cardboard box'+
+	'<br><strong>pappen</strong>: paste, stick'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pappe"target="target1">Pappe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pappen"target="target2">pappen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pappe"target="target3">Pappe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pappen"target="target4">pappen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Ganz oben, vor der letzten Tür, blieben sie stehen. <i>Johann König, Photograph</i> stand dort angeschlagen, diesmal allerdings nicht in Messing graviert, sondern auf ein vergilbtes <strong>Papp</strong>schild gedruckt, das sich bereits wellte. (<i>Der nasse Fisch</i>, 18)',
 	'<u>Märzgefallene</u>',
-	'Rath schloss die Augen gleich wieder und unternahm einen neuen Versuch, klappte die Lider langsam und vorsichtig nach oben. Und sah dasselbe. Mäuseohren.... Aus <strong>Pappe</strong>, versehen mit Lederbändern zum Umschnallen, lagen sie auf dem staubigen Boden....   (<i>Märzgefallene</i>, 70)',
+	'Rath schloss die Augen gleich wieder und unternahm einen neuen Versuch, klappte die Lider langsam und vorsichtig nach oben. Und sah dasselbe. Mäuseohren.... Aus <strong>Pappe</strong>, versehen mit Lederbändern zum Umschnallen, lagen sie auf dem staubigen Boden.... (<i>Märzgefallene</i>, 70)',
 	'Er (<i>Rath</i>) fand seine Hose schließlich unter dem Sofa, hinter den schwarzen <strong>Papp</strong>ohren, daneben auch sein Hemd.  (<i>Märzgefallene</i>, 73)',
-	'Trotz der Kälte lungerten Bettler vor den Aufgängen zum Hochbahnhof herum. Direkt an der Treppe saß ein Mann auf einem <strong>Papp</strong>deckel, in einen vor Schmutz starrenden Mantel gehüllt, den Hut vor sich auf dem Pflaster. <i>Kriegsblinder bittet um Spende</i> war auf einem <strong>Papp</strong>schild zu lesen....  (<i>Märzgefallene</i>, 93)  ',
-	'Die SA-Männer hatten sich <strong>Pappen</strong> mit Wahlplakaten über die braunen Hemden gehängt.  (<i>Märzgefallene</i>, 199)' ,
-   'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen <strong>Papp</strong>schildchen baumelten.  (<i>Märzgefallene</i>, 267)' ,
-	'Offensichtlich konnten sie es kaum erwarten. Noch vor der Mittagspause kreuzte Gräf in Raths Büro auf, einen <strong>Papp</strong>karton unterm Arm und Kommissaranwärter Steinke im Schlepptau.... Gräf hatte angefangen, den Inhalt seines <strong>Papp</strong>kartons in die Schubladen seines Schriebtischs zu räumen, während Steinke den Aktenstapel von Raths auf Gräfs Schreibtisch packte und sich den Besucherstuhl griff. (<i>Märzgefallene</i>, 421)' ,
-	'<i>Rath</i>: "Wenn du (<i>Gräf</i>) mein Assistent bist, hast du deinen Schreibtisch hier, wenn du dich mit einem anderen...Partner irgendwo breitmachen willst, musst du dir einen anderen Arbeitsplatz suchen...." Gräf sagte nichts mehr. Wortlos packte er seinen persönlichen Krempel zurück in den <strong>Papp</strong>karton.... (<i>Märzgefallene</i>, 423)' ,
-	'"Was machen Sie da?", fragte sie (<i>Eva Heinen</i>) den Plakatekleber... Ihre Frage beantwortete der zweite SA-Mann, der ein <strong>Papp</strong>schild vor dem Bauch trug. Eines mit drei Ausrufezeichen: <i>Deutsche! Wehrt Euch! Kauft nicht bei Juden</i>!....Rath ging vor die Tür... der Nazi mit seinem <strong>Papp</strong>schild ging ihm auf die Nerven. (<i>Märzgefallene</i>, 457-58)' ,
+	'Trotz der Kälte lungerten Bettler vor den Aufgängen zum Hochbahnhof herum. Direkt an der Treppe saß ein Mann auf einem <strong>Papp</strong>deckel, in einen vor Schmutz starrenden Mantel gehüllt, den Hut vor sich auf dem Pflaster. <i>Kriegsblinder bittet um Spende</i> war auf einem <strong>Papp</strong>schild zu lesen.... (<i>Märzgefallene</i>, 93)',
+	'Die SA-Männer hatten sich <strong>Pappen</strong> mit Wahlplakaten über die braunen Hemden gehängt.  (<i>Märzgefallene</i>, 199)',
+    'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen <strong>Papp</strong>schildchen baumelten. (<i>Märzgefallene</i>, 267)',
+	'Offensichtlich konnten sie es kaum erwarten. Noch vor der Mittagspause kreuzte Gräf in Raths Büro auf, einen <strong>Papp</strong>karton unterm Arm und Kommissaranwärter Steinke im Schlepptau.... Gräf hatte angefangen, den Inhalt seines <strong>Papp</strong>kartons in die Schubladen seines Schriebtischs zu räumen, während Steinke den Aktenstapel von Raths auf Gräfs Schreibtisch packte und sich den Besucherstuhl griff. (<i>Märzgefallene</i>, 421)',
+	'<i>Rath</i>: "Wenn du (<i>Gräf</i>) mein Assistent bist, hast du deinen Schreibtisch hier, wenn du dich mit einem anderen...Partner irgendwo breitmachen willst, musst du dir einen anderen Arbeitsplatz suchen...." Gräf sagte nichts mehr. Wortlos packte er seinen persönlichen Krempel zurück in den <strong>Papp</strong>karton.... (<i>Märzgefallene</i>, 423)',
+	'"Was machen Sie da?", fragte sie (<i>Eva Heinen</i>) den Plakatekleber... Ihre Frage beantwortete der zweite SA-Mann, der ein <strong>Papp</strong>schild vor dem Bauch trug. Eines mit drei Ausrufezeichen: <i>Deutsche! Wehrt Euch! Kauft nicht bei Juden</i>!....Rath ging vor die Tür... der Nazi mit seinem <strong>Papp</strong>schild ging ihm auf die Nerven. (<i>Märzgefallene</i>, 457-58)',
 	'...der SA-Mann stand plötzlich stramm. Was mit dem <strong>Papp</strong>schild vor der Brust ziemlich dämlich aussah.  (<i>Märzgefallene</i>, 459)' ,
-	'Der Mann saß genau da, wo Rath ihn das letzte Mal gesehen hatte: an einem der Treppenaufgänge zum Hochbahnhof Nollendorfplatz,... den Spendenhut mit dem <strong>Papp</strong>schild vor sich.... <i>Kriegsblinder bittet um Spende</i> stand auf dem <strong>Papp</strong>schild.  (<i>Märzgefallene</i>, 472-73)' ,
-	'Bevor Rath <i>Herein!</i> rufen konnte, ging die Tür auch schon auf. Es war Reinhold Gräf, der einen kurzen, beinahe erschrocken wirkenden Blick auf den unbesetzten Schreibtisch der Voss warf, und dann das verwaiste Vorzimmer durchquerte. Unterm Arm trug er einen <strong>Papp</strong>karton. (<i>Märzgefallene</i>, 537)' ,
-	'"Jeder so, wie er kann", sagte Gräf und klappte den <strong>Papp</strong>karton, den er inzwischen gefüllt hatte, zu.  (<i>Märzgefallene</i>, 539)' ,
-	'<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und wuchtete seinen <strong>Papp</strong>karton durch die Tür. (<i>Märzgefallene</i>, 540)' ,
-	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen <strong>Papp</strong>karton, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis aum Rand mit Krempel and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)' ,
+	'Der Mann saß genau da, wo Rath ihn das letzte Mal gesehen hatte: an einem der Treppenaufgänge zum Hochbahnhof Nollendorfplatz,... den Spendenhut mit dem <strong>Papp</strong>schild vor sich.... <i>Kriegsblinder bittet um Spende</i> stand auf dem <strong>Papp</strong>schild.  (<i>Märzgefallene</i>, 472-73)',
+	'Bevor Rath <i>Herein!</i> rufen konnte, ging die Tür auch schon auf. Es war Reinhold Gräf, der einen kurzen, beinahe erschrocken wirkenden Blick auf den unbesetzten Schreibtisch der Voss warf, und dann das verwaiste Vorzimmer durchquerte. Unterm Arm trug er einen <strong>Papp</strong>karton. (<i>Märzgefallene</i>, 537)',
+	'"Jeder so, wie er kann", sagte Gräf und klappte den <strong>Papp</strong>karton, den er inzwischen gefüllt hatte, zu.  (<i>Märzgefallene</i>, 539)',
+	'<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und wuchtete seinen <strong>Papp</strong>karton durch die Tür. (<i>Märzgefallene</i>, 540)',
+	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen <strong>Papp</strong>karton, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis aum Rand mit Krempel and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)',
 	'<u>Lunapark</u>', 
-	'Kleidung lag verstreut auf dem Boden.. Vor dem Bett leere Bierflaschen und ein überquellender Aschenbecher, eine zusammengeknüllte Papiertüte.., daneben eine fettgetränkte Bratwurst<strong>pappe</strong>, auf der ein Klacks Senf eingetrocknet war. Fliegen summten auf, als Lange dem Tisch zu nahe kam.   (<i>Lunapark</i>, 42-43)' ,
+	'Kleidung lag verstreut auf dem Boden.. Vor dem Bett leere Bierflaschen und ein überquellender Aschenbecher, eine zusammengeknüllte Papiertüte.., daneben eine fettgetränkte Bratwurst<strong>pappe</strong>, auf der ein Klacks Senf eingetrocknet war. Fliegen summten auf, als Lange dem Tisch zu nahe kam. (<i>Lunapark</i>, 42-43)',
+	'Er (<i>Rath</i>) schloss die Tür und setzte sich an den Schreibtisch, betrachtete die Fotos über dem Stadtplan, die Fotos aus der Verbrecherkartei, die Gräf dorthin <strong>gepappt</strong> hatte. (<i>Lunapark</i>, 390)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -11002,6 +11054,7 @@ Spalier: [
 	'Sie hatten nach dem Frühstück noch zusammen <strong>gespült</strong>, dann war der Junge mit dem Hund vor die Tür gegangen, und Charly hatte es sich mit einem Buch auf dem Sofa gemütlich gemacht. (<i>Märzgefallene</i>, 445)',
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: "Entschuldigen Sie, dass ich noch mal unterbrechen muss, Herr Bestmann,.. aber da ist Blut auf Ihrem Hof... Irgendjemand hat Blut in den Gully <strong>gespült</strong>..." (<i>Lunapark</i>, 40)',
+	'Die Kopfschmerzen hinderten ihn (<i>Rath</i>) am Denken, er nahm noch eine Phenacetin. Die musste er mit einem Schluck Cognac aus seinem Flachmann hinunter<strong>spülen</strong>. (<i>Lunapark</i>, 391)', 
 ],
 Schlüpfer: [
 	'der <strong>Schlüpfer</strong>,-: briefs, underpants ' +
@@ -11680,17 +11733,19 @@ schunkeln: [
    '"Gehen wir noch zu dir?", hatte sie (<i>die wilde Hilde</i>) schließlich gefragt, und er (<i>Gereon</i>) hatte sie an die Hand genommen und einen Weg durch die <strong>schunkelnde</strong> Menge gebahnt, hin zur Tür. (<i>Märzgefallene</i>, 72)' ,
 ],
 Schürze: [
-	'die <strong>Schürze</strong>,-<strong>n</strong>: apron, skirt ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuerze"target="target1">Schürze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCrze"target="target2">Schürze</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuerze#Sch%C3%BCrze"target="target3">Schürze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCrze"target="target4">Schürze</a> ' ,
+	'die <strong>Schürze</strong>,-<strong>n</strong>: apron, skirt'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuerze"target="target1">Schürze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCrze"target="target2">Schürze</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuerze#Sch%C3%BCrze"target="target3">Schürze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCrze"target="target4">Schürze</a>',
 	'<u>Märzgefallene</u>', 
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei Kittel<strong>schürzen</strong> hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
   	'Charly erschien in der Küchentür, eine weiße, bereits leicht befleckte <strong>Schürze</strong> umgebunden, und wirkte ein wenig hektisch.  (<i>Märzgefallene</i>, 101)',
   	'Rath sah Charly in der Tür stehen in der <strong>Schürze</strong>, die so wenig zu ihr passte, und mit einem Mal, völlig unerwartet, wurde ihm klar, wie sehr er sie liebte. (<i>Märzgefallene</i>, 102)',
+  	'Das Mädchen kam mit einem Tablett voller Sektgläser und knickste höflich, die Leute bedienten sich. Mit ihrer weißen <strong>Schürze</strong> und der weißen Haube sah sie aus, als habe sie nie etwas anderes gemacht. Sie sprach nicht viel, aber sie machte ihre Sache gut, war zuverlässig und zuvorkommend. (<i>Und sie war Hannah</i>!) (<i>Märzgefallene</i>, 584)',
+	'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, kratzte unter den Armen, und mit der weißen Haube auf ihren blond gefärbten Haaren und der weißen Rüschen<strong>schürze</strong> fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) wischte sich die Hände am Küchenhandtuch ab und trat hinaus in den Flur. Gereon war dabei, den Hund zu begrüßen, und zog überrascht die Augenbrauen hoch, als er sie erblickte, wahrscheinlich, weil sie eine <strong>Schürze</strong> umgebunden hatte. (<i>Lunapark</i>, 101)',
 	'Rath ging hinüber zu den Schauspielern und zückte seine Marke. "Hat einer von Ihnen etwas beobachtet?", fragte er. "Was meinen Sie?", fragte ein Mann, der eine Leder<strong>schürze</strong> trug und wie ein Steinmetz aussah.. Der Schauspieler zog an seiner Zigarette. "Bis vor einer Viertelstunde haben wir alle noch auf der Bühne gestanden." Er deutete auf seine <strong>Schürze</strong>. "Sudermann. <i>Stein unter Steinen</i>." (<i>Lunapark</i>, 168-69)',
-	'Es musste jemand zuhause sein, es roch nach Essen. Kirie wedelte erwartungsfroh mit dem Schwanz. Eine grauhaarige Frau öffnete, eine <strong>Schürze</strong> umgebunden, und schaute die Besucherin fragend an.  (<i>Lunapark</i>, 268)',
+	'Es musste jemand zuhause sein, es roch nach Essen. Kirie wedelte erwartungsfroh mit dem Schwanz. Eine grauhaarige Frau öffnete, eine <strong>Schürze</strong> umgebunden, und schaute die Besucherin fragend an. (<i>Lunapark</i>, 268)',
 ],
 Schüssel: [ 
 	'die <strong>Schüssel</strong>,-<strong>n</strong>: bowl, dish, pan'+
@@ -13680,8 +13735,9 @@ verunzieren: [
 	'<u>Lunapark</u>',
 	'Sein Büro war bereits <strong>verwaist</strong>, als er (<i>Rath</i>) in der Burg ankam, auch der Schreibtisch seiner Sekretärin im Vorzimmer. (<i>Lunapark</i>, 66)' ,
 	'Und am alten Ostbahnhof, wo Marlow direkt hinter dem Varietè <i>Plaza</i> Hof gehalten hatte, kam Rath sich vor wie in einer anderen Welt. Früher hatten bullige Wächter jeden Besucher bereits auf der Straße abgefangen und gefilzt, doch diesmal hatte er den Komplex ungehindert betreten können. Und eine <strong>verwaiste</strong> Lagerhalle vorgefunden, die nicht anders aussah als die vielen anderen Hallen aus Kaisers Zeiten...  (<i>Lunapark</i>, 120)',
-	'"Hallo?", rief er (<i>Rath</i>). Keine Antwort.. Er suchte sämtliche Räume ab, sogar die Toiletten, doch die Kanzlei war <strong>verwaist</strong>.  (<i>Lunapark</i>, 181)',
-	'Die <strong>verwaisten</strong> Terrassen, die zum See hin abstiegen, sahen in der Abendsonne richtiggehend idyllisch aus.  (<i>Lunapark</i>, 250)',
+	'"Hallo?", rief er (<i>Rath</i>). Keine Antwort.. Er suchte sämtliche Räume ab, sogar die Toiletten, doch die Kanzlei war <strong>verwaist</strong>. (<i>Lunapark</i>, 181)',
+	'Die <strong>verwaisten</strong> Terrassen, die zum See hin abstiegen, sahen in der Abendsonne richtiggehend idyllisch aus. (<i>Lunapark</i>, 250)',
+	'Er (<i>Rath</i>) hatte Glück, das Büro in der Prinz-Albrecht-Straße war <strong>verwaist</strong>, niemand, der lästige Fragen stellen konnte. Die mussten alle noch am Lunapark sein. (<i>Lunapark</i>, 390)',
 ],
 verwegen: [
 	'<strong>verwegen</strong>: daring, bold, dashing ' +
@@ -14944,7 +15000,6 @@ Geheiß:   Lunapark 57
  Habgier  Lunapark 24
  Hacke Märzgefallene 297
  handhaben Lunapark 310  included in ausmisten
- Haube Lunapark 233 included in murren
  Halter Lunapark 153
  Heftzwecken  Lunapark 286
  hieven  Nasse Fisch 58  

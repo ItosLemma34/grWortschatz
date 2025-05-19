@@ -163,6 +163,7 @@ const s = [
    'Statist', // Statist:  *
    'Stativ',  // Stativ:  *
    'statuieren', // statuieren:  *
+   'Staub (sich aus dem S. machen', // * duplicated
    'stauchen', // stauchen:  *
    'Steckbrief', // Steckbrief:  *
    'Stecknadel im Heuhaufen',  // *
@@ -183,6 +184,7 @@ const s = [
    'Strebe', // Strebe: *
    'Streich spielen', // *
    'Strich (auf den S. gehen)', // * duplicated
+   'Strick (einen S. drehen)', // *
    'Strickjacke', // Strickjacke: *
    'Striemen',  // Striemen: *
    'Strippe',  // Strippe: *

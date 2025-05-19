@@ -135,7 +135,7 @@ const a = [
 	'Aufwartung machen', // *
 	'aufwiegen',     // aufwiegen:  *
 	'aus dem Konzept bringen',   // *  
-	'aus dem Staub machen (sich)', // * 
+	'aus dem Staub machen (sich)', // * duplicated
 	'aus dem Häuschen sein',   // * 
 	'aus der Haut fahren',  // *
 	'ausbaldowern', // ausbaldowern:  *

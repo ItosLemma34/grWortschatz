@@ -50,6 +50,7 @@ const r = [
    'rümpfen', // rümpfen: *
    'rumsen',  // rumsen: *
    'rupfen', // rupfen: *
+   'Rüsche', // Rüsche: *
    'rüstig', // rüstig: *
    ];
 

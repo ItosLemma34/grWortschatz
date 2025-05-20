@@ -90,6 +90,7 @@ const s = [
    'schnurstracks', // schnurstracks: *
 //   'schnurzegal, schnurz­pie­pe', //  make duplicate if example of "schnurzegal found"
    'schnurz­pie­pe, schnurzegal', // *  make duplicate if example of "schnurzegal found"
+   'Schoppen',  // Schoppen: *
    'Schotter', // Schotter: *
    'schrammen', // schrammen:  *
    'schrappen',  // schrappen: *

@@ -48,7 +48,7 @@ const b = [
     'Blech, blechern',  // * 
     'blendend',  // blendend: * 
     'blinzeln',  // blinzeln: * 
-    'Blöße',   // Blöße: *
+    'Blöße, sich keine B. geben',   //  *
     'bloßstellen', // bloßstellen: *
     'bockig' ,  // bockig: *
     'Bodensatz',  // Bodensatz: * 

@@ -26,6 +26,7 @@ const a = [
 	'achtkantig hinauswerfen', // *
 	'ächzen',     // ächzen: *
 	'Ader',  // Ader: *
+	'Adlatus', // Adlatus:  *
 	'adrett',   // adrett:  *
 	'Affekthandlung',   // Affekthandlung: *
 	'alle naselang', // *

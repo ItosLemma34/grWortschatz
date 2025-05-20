@@ -14,7 +14,7 @@ const b = [
     'beflissen',  // beflissen: *
     'begrapschen',  // begrapschen:  *
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  *
-    'behelligen',   // behelligen:  *
+    'behelligen, unbehelligt',   //   *  duplicated
     'beherzt',     // beherzt: *  
     'beichten',  // beichten: * 
     'beikommen',   // beikommen: *

@@ -15,9 +15,10 @@ const u = [
    'umpflügen',  // umpflügen:  *
    'umständlich',  // umständlich: *
    'umzingeln' ,  // umzingeln: *
+   'unbehelligt, behelligen', // * duplicated
    'unbescholten', // unbescholten: *
    'unbotmäßig',  // unbotmäßig: *
-   'unerheblich, erheblich', //  duplicated
+   'unerheblich, erheblich', // * duplicated
    'unflätig',  // unflätig: *
    'ungehalten',  // ungehalten: *
    'ungehobelt',  // ungehobelt: *

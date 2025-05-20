@@ -127,7 +127,7 @@ const s = [
    'Sichtblende', // Sichtblende:  *
    'sickern', // sickern: *
    'Sippenhaft', // Sippenhaft: *
-   'skandieren', //skandieren:  *
+   'skandieren', // skandieren:  *
    'Sore',  // Sore: *
    'soufflieren',  // soufflieren: *
    'Spalier',  // Spalier:  *

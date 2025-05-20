@@ -111,6 +111,7 @@ const a = [
 	'aufgedunsen', // aufgedunsen:  *
 	'aufgekratzt', // aufgekratzt: * 
 	'aufgelöst',   // aufgelöst:  only for the "distraught" definition
+	'aufgeweckt',  // aufgeweckt: *Ks
 	'aufgießen, Aufguss', // *
 	'aufglimmen, glimmen',  // * duplicated  
 	'aufhalsen',   // aufhalsen: *

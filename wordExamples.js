@@ -12,6 +12,32 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */
+einspannen: [
+	'<strong>einspannen</strong>: clamp, fit, mount, insert; harness, hitch up; involve, rope so. in'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einspannen"target="target1">einspannen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einspannen"target="target2">einspannen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einspannen"target="target3">einspannen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einspannen"target="target4">einspannen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Nachdem der Polizeichef den versammelten Kriminalbeamten für ihren Einsatz "bei den kommunistischen Ausschreitungen" gedankt hatte, wechselte er schnell das Thema. Zörgiebel war Politiker, er wusste, dass die Kiminalpolizei sich nicht gerne für Politisches <strong>einspannen</strong> ließ. (<i>Der nasse Fisch</i>, 157)',
+	'"Guten Abend, Herr Kommissar", fuhr sie (<i>Charly</i>) fort, "ich hoffe, Sie wollen mich nicht für einen Einsatz in der Inspektion E <strong>einspannen</strong>."  (<i>Der nasse Fisch</i>, 165)',
+	'Warum wusste Marlow von dem Gold? Zufall? Hatte Kardakow sich verplappert? Oder hatte er den Unterweltkönig bewusst <strong>eingespannt</strong>? Irgendwie musste man so viel Gold ja auch in Bargeld umwandeln, so etwas ging nur mit Beziehungen. Beziehungen, die Marlow hatte. (<i>Der nasse Fisch</i>, 211)',
+	'<i>Zörgiebel</i>: "..Und vielleicht fällt Ihnen (<i>Rath</i>) noch etwas ein, wie wir die Bevölkerung um Hilfe bitten könnten. Zeugen gesucht, Sie wissen schon. So was macht sich immer gut. Dann haben Sie die Journaille schon auf Ihrer Seite, wenn Sie die für so etwas <strong>einspannen</strong> können." (<i>Der nasse Fisch</i>, 305)',  
+	'<u>Märzgefallene</u>',    
+	'Rath setzte sich an Klaßens Schreibmaschine, <strong>spannte</strong> ein Spurensicherungsberichtsformular <strong>ein</strong> und begann zu tippen. (<i>Märzgefallene</i>, 96)',
+	'<i>Rath</i>: "Wie soll ich das alleine schaffen, Oberkommissar? Das braucht doch ewig. Können Sie mir dafür nicht noch einen Mann geben?" <i>Böhm</i>: "Sehe ich aus, als hätte ich einen in der Hosentasche? Sind doch alle auf Kommunistenjagd... Sie haben doch eine Sekretärin. <strong>Spannen</strong> Sie die <strong>ein</strong>, wenn Sie das allein nicht schaffen!" (<i>Märzgefallene</i>, 100)',
+	'Es wurde heiter. Er (<i>Rath</i>) <strong>spannte</strong> Erika Voss <strong>ein</strong>, wie von Böhm empfohlen, überredete sie zu zwei geschlagenen Überstunden, und dennoch blieb das Ergebnis überschaubar. (<i>Märzgefallene</i>, 101)',
+	'Ganz anders der hypnotische Blick auf dem Plakat des Nebenmannes, das den Obernazi ebenfalls zusammen mit Hindenburg zeigte.. Auch der dritte SA-Mann.. trug ein Plakat.., thronend über einem Menschenmeer mit Hakenkreuzfahnen - man hätte fast glauben können, Hindenburg sei inzwischen in die NSDAP eingetreten. Ob der alte Herr wusste, wie sehr die Nazis ihn für ihre Zwecke <strong>einspannten</strong>? (<i>Märzgefallene</i>, 199-200)',
+	'<i>Böhm</i>: "Was macht den Ihr Verlobter so? Ist er weitergekommen mit unserem Fall?".. Charly zuckte die Achseln. "Den Fall hat er gar nicht mehr, die IA hat ihn angefordert, er darf jetzt für die Politische Polizei Kommunisten verhören." Böhm seufzte. "Das habe ich kommen sehen. Haben die Politischen bald die ganze Inspektion A <strong>eingespannt</strong>. Da kann ich ja beinah froh sein, nicht mehr am Alex arbeiten zu müssen. (<i>Märzgefallene</i>, 239)',
+	'<i>Charly</i>: "Aber inoffiziell darf ich für dich unterwegs sein. Und mich mit Eintänzern rumschlagen." <i>Gereon</i>: "Tut mir leid, dass ich dich da <strong>eingespannt</strong> habe. Ich dachte.." "Schon gut. Hab ich doch gern gemacht." (<i>Märzgefallene</i>, 325)',
+	'Marlow hatte ihm (<i>Leo</i>) erklärt, warum er einen Bullen (<i>Rath</i>) hatte <strong>einspannen</strong> müssen, um Leo aus der Haft herauszuhauen... Dass es verdammt schwierig sei, jemanden von der SA wieder loszueisen. (<i>Märzgefallene</i>, 387)',
+	'Früher wäre es ihm ein Leichtes gewesen, sowohl den Polizeipräsidenten als auch den Kollegen Gräf mit ein paar Presseartikeln vorzuführen, aber Weinert konnte er dafür unmöglich <strong>einspannen</strong>. Nicht nur, dass der Reporter nicht mehr die Freiheiten hatte, gegen die Polizei zu schießen..; es lag auch in Raths eigenstem Interesse, nicht publik werden zu lassen, dass es Heinrich Wosniak war, der an der Köpenicker Straße ums Leben gekommen war. (<i>Märzgefallene</i>, 510)',
+	'Der Mann nahm das halbe Gesicht ab wie eine Karnevalsmaske, und Rath schaute in das verschwitzte Gesicht von Walther Engel, das zur Hälfte mit roten Striemen bemalt war. Der rechte Ärmel der Uniform glitzerte feucht. <i>Rath</i>: "Mein Gott, hat Roddeck Sie doch verletzt?" "Er hat mich am Arm erwischt. Ist aber nur ein Streifschuss." Rath schüttelte den Kopf. "Ich hätte Sie niemals in diese Sache hier <strong>einspannen</strong> dürfen." (<i>Märzgefallene</i>, 581)',
+	'<u>Lunapark</u>',
+	'Ein Mord, begangen von einem Schupo, gedeckt von seinen Kollegen. Das erste Mal, dass Charly gegen die Polizei gearbeitet hatte. Um Bennys Mörder zu überführen, hatte sie sich sogar für verdeckte Ermittlungen <strong>einspannen</strong> lassen. (<i>Lunapark</i>, 63)',   
+	'Charly hörte, wie Kirie zur Wohnungstür tapste, doch es dauerte noch eine ganze Weile, ehe sich der Schlüssel im Schloss drehte. Sie hatte eigentlich mit Fritze gerechnet, doch es war Gereon.. Verdammt! Sie hatte den Braten gerade erst im Ofen, noch nicht einmal die Kartoffeln geschält! Eigentlich hatte sie den Jungen zum Helfen <strong>einspannen</strong> wollen, aber der war immer noch nicht zuhause. (<i>Lunapark</i>, 125)',
+	'Gräf zeigte sein süffisantestes Lächeln. "Man löst einen Mordfall nicht vom Schreibtisch aus, nicht wahr." Alle in der Runde sahen ihn (<i>Rath</i>) an, und Rath wurde klar, dass es beschlossene Sache war, dass er sich nicht drücken konnte: Diese Aufgabe würde an ihm hängen bleiben. Und Gräf hatte sich abgesichert, die Autorität der Geheimen Staatspolizei allein reichte ihm nicht, er hatte Gennat <strong>eingespannt</strong>. (<i>Lunapark</i>, 153)',
+	'Er hatte tatsächlich schon überlegt, einen Privatdetektiv anzuheuern, der diese Aufgabe übernahm, doch kannte er keinen außer Wilhelm Böhm, und der wäre der Letzte, den er in so einer Angelegenheit einspannen würde. (<i>Lunapark</i>, 292)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'behelligen, unbehelligt': [  
 	'<strong>behelligen</strong>: bother, pester ' +
 	'<br><strong>unbehelligt</strong>: unmolested, undisturbed'+
@@ -15139,6 +15165,7 @@ lau Der nasse Fisch 239
  nicht auf den Mund gefallen  Lunapark 48
  Niete Der nasse Fisch 248
  'Oberschenkel'  ;   Nworte++;   Märzgefallene   69
+ paffen  Der nasse Fisch 304
  'Pappe'  ;   Nworte++;   Märzgefallene   10
  Parlamentär Lunapark 101
  'Pelle'  ;   Nworte++;  auf die Pelle      Märzgefallene   15

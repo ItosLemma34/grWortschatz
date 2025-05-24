@@ -37,6 +37,7 @@ const v = [
    'verköstigen, beköstigen', // *  
    'verkriechen (sich)',  // *
    'verkrümeln',  // verkrümeln:  *
+   'vermaledeit', // vermaledeit: *
    'vermasseln',  // vermasseln: *
    'verminen',  // verminen:  *
    'verpetzen' , // verpetzen:  *
@@ -44,6 +45,7 @@ const v = [
    'verplappern (sich)', //  *
    'verplempern',  // verplempern: *
    'verputzen',  // verputzen: *
+   'verquirlen', // verquirlen *
    'verrammeln',  // verrammeln:  *
    'verrecken',  // verrecken:  *
    'verrenken (sich)', //  *

@@ -61,10 +61,11 @@ const b = [
     'Böschung', // Böschung: *
     'Bösewicht',  // Bösewicht:  *
     'Boulette',   //Boulette:  *
+    'Brache',  // Brache:  *
     'brandschatzen',  // brandschatzen: *
     'brausen, Brause',  // *
     'brenzlig', // brenzlig: *
-    'Brett, Bretterwand, Bretterverschlag',  // * 
+    'Brett, Bretter(wand/verschlag/bude)',  // * 
     'Brimborium',   // Brimborium:  *
     'bröckeln',  // bröckeln:  *
     'brüllen, Gebrüll', // *  duplicated
@@ -76,6 +77,7 @@ const b = [
     'bücken (sich)',  // *
     'buddeln, ausbuddeln',  // * duplicated  pair with "einbudeln" if found
     'Bude, Büdchen',  // *
+    'büffeln', // büffeln:  *
     'Bügel', // Bügel: *
     'bugsieren', // bugsieren: *
     'buhlen',   // buhlen: *

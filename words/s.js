@@ -79,6 +79,7 @@ const s = [
    'schnauben', // schnauben: *
    'schnaufen',  // schnaufen: *
    'schneidig',  // schneidig: *
+   'Schneise',  // Schneise: *
    'schnieke',  // schnieke:  *
    'schnippen',  // schnippen: *
    'schnippisch' , // schnippisch: *

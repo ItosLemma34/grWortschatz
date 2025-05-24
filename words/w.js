@@ -48,6 +48,7 @@ const w = [
    'wühlen' ,  // wühlen: *
    'wummern, Gewummer', // * duplicated
    'wurmen', // wurmen: *
+   'Wurmfortsatz', // Wurmfortsatz: *
    'wuscheln',  // wuscheln: *
    'wuseln',  // wuseln: *
    'wüten',  // wüten: *

@@ -40,6 +40,7 @@ const f = [
    'Fliese, fliesen',   //  *
    'flink',  // flink:  *
    'Flittchen',  // Flittchen: *
+   'flitzen', // flitzen: *
    'Floskel', // Floskel: *
    'flöten', // flöten: * 
    'flott',  // flott: *    

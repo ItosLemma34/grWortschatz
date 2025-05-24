@@ -1,6 +1,7 @@
 const g = [
    'Gage',  // Gage:  *
    'Ganove', // Ganove: * 
+   'Gänsehaut', // Gänsehaut: *
    'Gassi gehen',  //  *
    'Gauner', // Gauner: *
    'Geäst, Ast',  // * duplicated  

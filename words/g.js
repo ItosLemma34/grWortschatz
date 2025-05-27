@@ -16,6 +16,7 @@ const g = [
    'Gehabe',  // Gehabe:  *  
    'Geheiß', // Geheiß: *  
    'gehetzt, hetzen', // * duplicated
+   'Gehirnerschütterung', // Gehirnerschütterung *
    'geizen',   // geizen:  *
    'Gekrächz',  // Gekrächz:  * 
    'Gelände',   // Gelände:  *

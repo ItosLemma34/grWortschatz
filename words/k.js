@@ -56,6 +56,7 @@ const k = [
    'klirren', // klirren: *
    'klitzeklein', // klitzeklein: *
    'Kloß',   // Kloß: *
+   'klotzen', // klotzen: *
    'Klumpen, Klumpfuß',  // *
    'Klüngel',  // Klüngel: *  
    'knallen', // knallen: *

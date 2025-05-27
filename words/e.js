@@ -21,6 +21,7 @@ const e = [
    'einpferchen, pferchen', // * duplicated 
    'einrasten',  // einrasten: * 
    'einreißen, niederreißen',  // * duplicated  
+   'einrenken (sich)',  // *  
    'einrüsten, Gerüst',  // * duplicated  
    'einseifen',  // einseifen:  *
    'einspannen', // einspannen: *

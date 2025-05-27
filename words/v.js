@@ -110,6 +110,7 @@ const v = [
    'vorknöpfen (sich)',  //  *
    'vorliebnehmen',   // vorliebnehmen: *
    'Vornehm/Nobel geht die Welt zugrunde', // * duplicated
+   'vorsätzlich', // vorsätzlich:  *
    'vorsintflutlich',  // vorsintflutlich: *
 ];
 

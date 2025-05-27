@@ -137,6 +137,7 @@ const a = [
 	'auftischen',    // auftischen: * 
 	'Aufwartung machen', // *
 	'aufwiegen',     // aufwiegen:  *
+	'aufwühlen, aufgewühlt', // *
 	'aus dem Konzept bringen',   // *  
 	'aus dem Staub machen (sich)', // * duplicated
 	'aus dem Häuschen sein',   // * 

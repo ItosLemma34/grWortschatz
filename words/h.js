@@ -33,6 +33,7 @@ const h = [
    'heiser',  // heiser: *
    'Hemd (sich ins H. machen)', // *
    'hereinlegen',  // hereinlegen:  *
+   'herumärgern, rumärgern', // *  duplicated
    'herumfuhrwerken',  // herumfuhrwerken: *
    'herumlungern', // herumlungern:  *
    'hetzen, gehetzt',  // * duplicated 

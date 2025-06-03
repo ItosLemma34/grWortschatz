@@ -45,6 +45,7 @@ const r = [
    'rosten' , // rosten: *
    'Rottenführer',  // Rottenführer: *
    'rührig',  // rührig: *
+   'rumärgern, herumärgern', // * duplicated
    'Rummel', // Rummel: *
    'rumpeln', // rumpeln: *
    'rümpfen', // rümpfen: *

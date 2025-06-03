@@ -27,11 +27,12 @@ const s = [
    'Schiefertafel', // Schiefertafel: *
    'schielen',  // schielen: *
    'schikanieren', // schikanieren: *
-   'Schilde (etwas im S. führen)', // *
+   'Schilde (im S. führen)', // * duplicated
    'Schimmel, (ver)schimmeln', // *
    'Schimmer (keinen blassen S.)', // *
    'schimmern', // schimmern:  *
    'Schinder, schinden' , // *
+   'schlabbern', // schlabbern: *
    'Schlacke',  // *
    'Schlagseite',  // Schlagseite: *
    'schlaksig', // schlaksig: *

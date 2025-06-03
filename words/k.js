@@ -59,6 +59,7 @@ const k = [
    'klotzen', // klotzen: *
    'Klumpen, Klumpfuß',  // *
    'Klüngel',  // Klüngel: *  
+   'knacken',  // knacken: *
    'knallen', // knallen: *
    'Knarre',  // Knarre: *
    'knarren', // knarren: *

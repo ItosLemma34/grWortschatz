@@ -6,7 +6,7 @@ const g = [
    'Gauner', // Gauner: *
    'Geäst, Ast',  // * duplicated  
    'Gebälk, Balken', // * duplicated 
-   'Gebell', // *  duplicate with "bellen" if found
+   'Gebell', // Gebell: *  duplicate with "bellen" if found
    'Gebrüll, brüllen',  // * duplicated 
    'Gebüsch, Busch',  // * duplicated 
    'gediegen',  // gediegen: *
@@ -16,7 +16,7 @@ const g = [
    'Gehabe',  // Gehabe:  *  
    'Geheiß', // Geheiß: *  
    'gehetzt, hetzen', // * duplicated
-   'Gehirnerschütterung', // Gehirnerschütterung *
+   'Gehirnerschütterung', // Gehirnerschütterung: *
    'geizen',   // geizen:  *
    'Gekrächz',  // Gekrächz:  * 
    'Gelände',   // Gelände:  *

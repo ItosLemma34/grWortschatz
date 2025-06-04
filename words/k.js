@@ -18,6 +18,7 @@ const k = [
    'Kauz, kauzig',  // *
    'kegeln',  // kegeln: *
    'keilen, Keil', // *
+   'kein Kraut gewachsen', // *
    'keinen Reim machen können', // * duplicated
    'Kelch',  // Kelch: *
    'Kerbholz (auf dem K. haben)',// * duplicated
@@ -76,6 +77,7 @@ const k = [
    'knistern', // knistern: *
    'Knöchel',  // Knöchel: *
    'Knochen/Kopf hinhalten', // *
+   'knorrig',  // knorrig: *
    'knuffen',  // knuffen:  *
    'knüllen, zerknüllen',  //  *  duplicated
    'Knüller',  // Knüller: *

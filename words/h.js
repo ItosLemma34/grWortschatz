@@ -22,6 +22,7 @@ const h = [
    'Hautausschlag' , // Hautausschlag: *
    'hecheln', // hecheln: *
    'hechten, Hechtsprung', // *
+  // 'Hecke', // Hecke: *
    'Heckenschütze',  // Heckenschütze:  *
    'Heft des Handelns nehmen', // *
    'heften', // heften: *

@@ -97,6 +97,7 @@ const s = [
    'schrammen', // schrammen:  *
    'schrappen',  // schrappen: *
    'Schraubstock', // Schraubstock:  *
+   'Schrebergarten', // Schrebergarten:  *
    'Schrippe', // Schrippe:  *
    'Schritt',  // Schritt:  *
    'Schrotflinte', // Schrotflinte: *
@@ -114,6 +115,7 @@ const s = [
    'Schüssel',  // Schüssel: *
    'schütten',  // schütten:  *       
    'schütter',  // schütter:  *
+   'Schutzbefohlene',  // Schutzbefohlene:  *
    'Schütze',  // Schütze:  *
    'schwafeln', // schwafeln *
    'schwanen', // schwanen:  *

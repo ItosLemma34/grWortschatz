@@ -10,8 +10,55 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
-*/
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', https://www.duden.de/rechtschreibung/Hecke_Gestraeuch
+*/ 
+// straighten this out: put in target in first web page?? 
+Hecke: [  
+	'die <strong>Hecke</strong>,-<strong>n</strong>: hedgerow'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.google.com/search?tbm=isch&q=Hecken">Hecke</a>&nbsp;&nbsp;<a href="<a href="https://www.google.com/search?tbm=isch&q=Hecken">Hecke</a>"target="target2">Hecke</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""target="target3">Hecke</a>&nbsp;&nbsp;<a href=""target="target4">Hecke</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',   
+],
+'kein Kraut gewachsen': [  
+	'Dagegen ist <strong>kein Kraut gewachsen</strong>: Nothing can be done, no remedy for that.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=kein+Kraut+gewachsen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">kein Kraut gewachsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gegen%20jmdn.%2C%20etw.%20ist%20kein%20Kraut%20gewachsen"target="target2">kein Kraut gewachsen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=kein+kraut+gewachsen"target="target3">kein Kraut gewachsen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/kein+Kraut+gewachsen"target="target4">kein Kraut gewachsen</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'<i>Rath</i>: "Und Sie? Wie wollen Sie dann nach Sankt Norbert kommen?" <i>Pfarrer Warszawski</i>: "Ich nehme mein Fahrrad. Das muss sowieso wieder zurück nach Schöneberg." Rath seufzte. Gegen Johannes Warszawski war <strong>kein Kraut gewachsen</strong>. (<i>Lunapark</i>, 419)',  
+],
+Schutzbefohlene: [  
+	'der, die <strong>Schutzbefohlene</strong>,-<strong>n</strong>: ward, charge, protégé'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schutzbefohlener"target="target1">Schutzbefohlene</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schutzbefohlene"target="target2">Schutzbefohlene</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.langenscheidt.com/deutsch-englisch/schutzbefohlene"target="target3">Schutzbefohlene</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schutzbefohlene"target="target4">Schutzbefohlene</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>', 
+	'Doktor Peter Völcker, Kommunist und Mitglied der Neuköllner Bezirksversammlung, war gefürchtet bei der Berliner Polizei, ein arroganter Querulant, der unerbittlich auf seine Bürgerrechte pochte und auf die seiner <strong>Schutzbefohlenen</strong> und so manchen Polizeibeamten auf diese Weise schon zur Verzweiflung gebracht hatte. (<i>Märzgefallene</i>, 225)',   
+	'<u>Lunapark</u>',
+	'<i>Rath</i>: "Sie helfen also Dompfarrer Lichtenberg..." <i>Pfarrer Warszawski</i>: "Wir waren zusammen auf dem Priesterseminar. In Breslau." "Hat Lichtenberg Ihnen gesagt, um was es geht?" "Er hat Ihren Namen genannt. Und gesagt, dass Sie unseren <strong>Schutzbefohlenen</strong> sprechen wollen." (<i>Lunapark</i>, 416-17)',   
+],
+Schrebergarten: [  
+	'<strong>Schrebergarten</strong>: garden plot, allotment garden'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schrebergarten"target="target1">Schrebergarten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schrebergarten"target="target2">Schrebergarten</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schrebergarten"target="target3">Schrebergarten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schrebergarten"target="target4">Schrebergarten</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'Der Pfarrer von Sankt Norbert besaß einen <strong>Schrebergarten</strong> in der Laubenkolonie. Dort hatte er vor einigen Jahren (<i>im Roman <u>Goldstein</u></i>) schon einmal einem Mann, der von der Polizei gesucht wurde, Asyl gewährt. (<i>Lunapark</i>, 416)',   
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+],
+knorrig: [  
+	'<strong>knorrig</strong>: knotty, gnarled; surly, gruff'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knorrig"target="target1">knorrig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knorrig"target="target2">knorrig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knorrig"target="target3">knorrig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=knorrig&id=adjektiv%3Aknorrig%23knorrig"target="target4">knorrig</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'<i>Rath</i>: "Meine letzte Beichte war vor einem Jahr. Dann habe ich geheiratet.. Seitdem ist die Sünde ja keine Sünde mehr." Die <strong>knorrige</strong> Stimme von Pastor Warszawski drang durch den Vorhang. "Sie sollten das ernster nehmen, Herr Rath. Das ist das Sakrament der Heiligen Beichte, da macht man keine Witze..." (<i>Lunapark</i>, 414)',  
+],
 schlabbern: [  
 	'<strong>schlabbern</strong>: slurp, slobber; hang loosely'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlabbern"target="target1">schlabbern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlabbern"target="target2">schlabbern</a>'+
@@ -588,6 +635,7 @@ halbgar: [
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'<i>Marlow</i>: "Sie sind hier nicht am Alex, Kommissar (<i>Rath</i>)! Meinen Sie, ich lasse mich von Ihnen einfach so abspeisen? Mit einem <strong>halbgaren</strong> Zwischenbericht? Das mag bei Zörgiebel funktioniert haben, bei Grzesinski, vielleicht sogar bei Levetzow, aber nicht bei mir. Mir stehen andere Disziplinierungsmaßnahmen zur Verfügung als Ihren Polizeipräsidenten."  (<i>Lunapark</i>, 358)',  
+	'<i>Rath</i>: "Meine letzte Beichte war vor einem Jahr. Dann habe ich geheiratet.. Seitdem ist die Sünde ja keine Sünde mehr." Die knorrige Stimme von Pastor Warszawski drang durch den Vorhang. "Sie sollten das ernster nehmen, Herr Rath. Das ist das Sakrament der Heiligen Beichte, da macht man keine Witze, da ist man ehrlich. Zu sich selbst und zu Gott.".. Er (<i>Rath</i>) brachte ein paar <strong>halbgare</strong> Sünde zusammen, um den Pastor zufriedenzustellen.  (<i>Lunapark</i>, 414)',  
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -6587,6 +6635,7 @@ Gemurmel: [
 	'Rath zog Charly an seine Seite und hielt sein Sektglas in die Höhe, das <strong>Gemurmel</strong> verstummte... "Ihr Lieben! Willkommen bei der Familie Rath, neueröffnete Außenstelle Berlin!"  (<i>Märzgefallene</i>, 584)',
 	'<u>Lunapark</u>',
 	'Er (<i>Rath</i>) beschloss, nicht zu beten.. So kniete er also nur und hielt den Eingang (<i>der Kirche</i>) im Blick, während ihn das <strong>Gemurmel</strong> zweier alter Frauen, die den Rosenkranz beteten, in die Kindheit zurückkatapultierte. (<i>Lunapark</i>, 397)',
+	'Es war zwanzig vor zwölf. Außer dem <strong>Gemurmel</strong> der Betendenden war nichts zu hören. Rath wartete geduldig, bis alle Sünder an der Reihe waren, dann erst betrat er den Beichtstuhl und kniete sich hin. (<i>Lunapark</i>, 414)',
 ],
 gerinnen: [
 	'<strong>rinnen</strong>: flow, leak, trickle'+
@@ -7337,6 +7386,7 @@ heulen: [
 	'Er (<i>Rath</i>) setzte sich auf eine Bank, um seine Bockwürste zu verspeisen. Kirie <strong>hockte</strong> brav zu seinen Füßen und schmachtete ihn so herzzerreißend an, dass sie auch noch einen Wurstzipfel abbekam. Obwohl sie schon am Alex zwei Bouletten verputzt hatte.  (<i>Lunapark</i>, 352)',
 	'Er <strong>hockte sich</strong> zu Kirie... dann nahm Marlow Kiries Kopf in beide Hände und drehte ihn mit einer kräftigen ruckartigen Bewegung nach rechts. Der Hund ließ ein kurzes Winseln hören, das in einem Röcheln endete, es knackte laut, und dann war er still.  (<i>Lunapark</i>, 358)',
 	'Sie kamen immer näher, und Rath umklammerte die Walther, blieb hinter dem Karussell <strong>hocken</strong> und hoffte, sie mochten ihn nicht entdecken. (<i>Lunapark</i>, 374)',
+	'Rath hatte nicht unbedingt damit gerechnet, aber in Sankt Norbert wurde tatsächlich gebeichtet, als er die Kirche betrat. In den Bänken <strong>hockten</strong> ein paar arme Sünder, warteten, bis sie an der Reihe waren... (<i>Lunapark</i>, 413)',
 ], 
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>,-<strong>mätze</strong>/<strong>matze</strong>: tiny tot'+
@@ -7596,13 +7646,13 @@ Klappe: [
 	'<u>Der nasse Fisch</u>',
 	'Der Onkel ging eine Treppe hinunter und klopfte an die unscheinbare Souterraintür. Dreimal kurz, zweimal lang, das war’s schon, und in der Stahltür öffnete sich eine <strong>Klappe</strong>.. »Du bist aber spät dran, Süßer«, sagte eine überraschend helle Stimme. In der <strong>Klappe</strong> war ein Augenpaar zu erkennen, in dem die Pupillen aufgeregt von rechts nach links tanzten.. »Wo steckt denn Johnny?« Die Stimme klang plötzlich misstrauisch und gar nicht mehr einladend. »Der ist mal eben pinkeln«, sagte Wolter und steckte im selben Moment den Lauf seiner P 08 durch die <strong>Klappe</strong>. "Aber ich und meine Freunde, wir kommen doch auch so rein, oder?" (<i>Lunapark</i>, 241)',
 	'Bruno stand neben dem Beamten, der gerade die <strong>Klappe</strong> des letzten Lastwagens verriegelte und als Wache zurückbleiben sollte.  (<i>Der nasse Fisch</i>, 247)',
-	'Sein (<i>Raths</i>) Versuch, Elisabeth Behnke aus dem Weg zu gehen, schlug fehl. Beinahe wäre er über sie gefallen. Was suchte die Zimmerwirtin auch am frühen Morgen ausgerechnet im Badezimmer ihrer Mieter? Wütend funkelte sie ihn an, während sie an der geöffneten <strong>Klappe</strong> des Badeofens hockte und mit einem Schürstab in der Asche herumfuhrwerkte. (<i>Der nasse Fisch</i>, 262)' ,
+	'Sein (<i>Raths</i>) Versuch, Elisabeth Behnke aus dem Weg zu gehen, schlug fehl. Beinahe wäre er über sie gefallen. Was suchte die Zimmerwirtin auch am frühen Morgen ausgerechnet im Badezimmer ihrer Mieter? Wütend funkelte sie ihn an, während sie an der geöffneten <strong>Klappe</strong> des Badeofens hockte und mit einem Schürstab in der Asche herumfuhrwerkte. (<i>Der nasse Fisch</i>, 262)',
 	'<u>Märzgefallene</u>',
 	'"Dürfte ich Sie jetzt bitten, nicht mehr zu reden. Damit stören Sie die Befragung." Charly hatte das, in strengem Ton, zu der Schwester gesagt, aber auch Karin gemeint. Die sollte verdammt noch mal stenografieren und die <strong>Klappe</strong> halten!  (<i>Märzgefallene</i>, 44)',
 	'<i>Verdammt</i>, dachte Leo. <i>Halt deine große <strong>Klappe</strong>, Leopold Juretzka, nur einmal im Leben, halt deine <strong>Klappe</strong></i>! Er blieb stumm, als Lapke weiterredete.  (<i>Märzgefallene</i>, 222)',
 	'Rath lächelte Charly an. Sie hatten alles richtig gemacht heute. Der einziger Fehler war,.. dass sie Charlys Mutter in der Nähe des Telefunken-Musikschranks plaziert hatten. "Das is ja... Ihr habt Radio?", rief Luise Ritter aus und öffnete die <strong>Klappe</strong>. "Ich darf doch?", fragte sie, und noch bevor irgendjemand antworten konnte, hatte sie das Gerät auch schon eingeschaltet. (<i>Märzgefallene</i>, 589)',
-//	'<u>Lunapark</u>', 
-// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+	'<u>Lunapark</u>', 
+	'Der Kommunist (<i>Walter Spindler</i>) öffnete die Dose und holte ein in Watte gepacktes Glasauge heraus, das er eine Weile prüfend betrachtete, bevor er die Augen<strong>klappe</strong> abnahm, sodass Rath die gespenstisch leere Augenhöhle sehen konnte, und die Prothese einsetzte. Sah fast aus wie echt. (<i>Lunapark</i>, 418)',
 ],
 Kinkerlitzchen: [
 	'die <strong>Kinkerlitzchen</strong>,-: trifles, knicknacks' +
@@ -8274,6 +8324,7 @@ Klaue: [
 	'Charly hatte nur mit halbem Ohr zugehört, denn das Mädchen war wieder aufgetaucht.. Sie hatte sich höchstens zwei Minuten im Hinterzimmer aufgehalten. Das Paket, das beim Hereinkommen unter ihrem Arm <strong>klemmte</strong>, trug sie nicht mehr. (<i>Lunapark</i>, 227)',
 	'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, <strong>klemmte</strong> sie unter den linken Arm, ließ den rechten emporschnellen, knallte die Hacken zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
 	'Sein Kopf schmerzte, als wäre er (<i>Rath</i>) in eine Schraubzwinge <strong>geklemmt</strong>. (<i>Lunapark</i>, 380)',
+	'"Auf Wiedersehen, die Herren", sagte er (<i>Pfarrer Warszawski</i>) noch und warf Rath, der ebenfalls vor die Hütte getreten war, die Wagenschlüssel zu. "Und passen Sie auf, der Rückwärtsgang <strong>klemmt</strong> etwas." (<i>Lunapark</i>, 419)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8596,6 +8647,7 @@ kramen: [
 	'Charly wich dem neugierigen Blick aus und <strong>kramte</strong> in ihrer Handtasche nach dem Portemonnaie. Als sie wieder aufblickte, hatte sich die Frau ihren Einkäufen zugewandt, die bereits auf dem Tresen standen und die sie umständlich einzupacken begann.   (<i>Lunapark</i>, 115-16)',
 	'"Das macht dann neununddreißig Pfennige, bitte", sagte der Kaufmann und stellte die abgewogene Zuckertüte auf den Tresen. Charly <strong>kramte</strong> vier Groschen aus ihrem Portemonnaie. (<i>Lunapark</i>, 116)',
 	'Das Taxi hielt direkt vor der Kantgarage, und Rath <strong>kramte</strong> einen Zehner aus seinem Portemonnaie. Der Fahrer steckte den Schein mit einem verschwörerischen Zwinkern ein, und Rath stieg aus. (<i>Lunapark</i>, 283)',
+	'Der Pfarrer (<i>Warszawski</i>) <strong>kramte</strong> zwei Wäscheklammern aus der Tasche, mit denen er seine Hosenbeine fixierte, und stieg auf ein Herrenfahrrad, das draußen am Schuppen lehnte. (<i>Lunapark</i>, 419)',
 ],  
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8776,13 +8828,16 @@ Lache: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 ],  
 'Laube, Laubenkolonie': [
-	'die <strong>Laube</strong>,-<strong>n</strong>: arbor <br>die <strong>Laubenkolonie</strong>,-<strong>n</strong>: allotment gardens' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laubenkolonie"target="target1">Laubenkolonie</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laubenkolonie"target="target2">Laubenkolonie</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laubenkolonie"target="target3">Laubenkolonie<a/> &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/laubenkolonie"target="target4">Laubenkolonie</a>   ' ,
+	'die <strong>Laube</strong>,-<strong>n</strong>: arbor <br>die <strong>Laubenkolonie</strong>,-<strong>n</strong>: allotment gardens'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laubenkolonie"target="target1">Laubenkolonie</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laubenkolonie"target="target2">Laubenkolonie</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laubenkolonie"target="target3">Laubenkolonie<a/> &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/laubenkolonie"target="target4">Laubenkolonie</a>',
 	'<u>Lunapark</u>',
-	'"Vielleicht ist sie (<i>die Gruppe Wolff</i>) ja auch kreuz und quer in der ganzen Stadt verteilt", sagte Rath. "In irgendwelchen Wohnungen, die die Kommunisten für genau solche Zwecke vorhalten.." <i>Gräf</i>: " Die meisten dieser Wohnungen sind schon dreiunddreißig aufgeflogen.. Es ist natürlich nicht auszuschließ, dass die Bolschewiken diese zerschlagenen Strukturen wenigstens zum Teil wiederaufgebaut haben, aber ich glaube das nicht. Ich vermute, dass sie eher in irgendwelchen <strong>Laubenkolonien</strong> hausen, in Kellern oder auf Dachböden."   (<i>Lunapark</i>, 60-61)',
+	'"Vielleicht ist sie (<i>die Gruppe Wolff</i>) ja auch kreuz und quer in der ganzen Stadt verteilt", sagte Rath. "In irgendwelchen Wohnungen, die die Kommunisten für genau solche Zwecke vorhalten.." <i>Gräf</i>: " Die meisten dieser Wohnungen sind schon dreiunddreißig aufgeflogen.. Es ist natürlich nicht auszuschließ, dass die Bolschewiken diese zerschlagenen Strukturen wenigstens zum Teil wiederaufgebaut haben, aber ich glaube das nicht. Ich vermute, dass sie eher in irgendwelchen <strong>Laubenkolonien</strong> hausen, in Kellern oder auf Dachböden." (<i>Lunapark</i>, 60-61)',
 	'"Was können Sie denn zur Sache beitragen?", fragte sie (<i>Charly</i>). "Ick kenn \'n paar Ecken, wo illegale Rote sich versteckt halten", sagte Herr Tutnüschtzursache, "könnt ick ihnen zeigen. <strong>Laubenkolonien</strong> vor allem." "Hören Sie, ich hatte nicht vor, die ganze Stadt zu durchkämmen, ich hatte eigentlich auf konkrete Hinweise gehofft.. Das sich in den <strong>Laubenkolonien</strong> Kommunisten verstecken, weiß doch jedes Kind." (<i>Lunapark</i>, 226)',
-	'Die ersten Nächte in Berlin hatte Leo in einer Garten<strong>laube</strong> verbracht, immer in Angst erwischt zu werden.  (<i>Lunapark</i>, 248)',
+	'Die ersten Nächte in Berlin hatte Leo in einer Garten<strong>laube</strong> verbracht, immer in Angst erwischt zu werden. (<i>Lunapark</i>, 248)',
+	'Der Pfarrer von Sankt Norbert besaß einen Schrebergarten in der <strong>Laubenkolonie</strong>. Dort hatte er vor einigen Jahren (<i>im Roman <u>Goldstein</u></i>) schon einmal einem Mann, der von der Polizei gesucht wurde, Asyl gewährt. (<i>Lunapark</i>, 416)',   
+	'Berlins Südwesten war nicht gerade eine Arbeitergegend. Rund um die riesige <strong>Laubenkolonie</strong> standen kleinere Villen oder größere Einfamilienhäuser... Alles brav und bürgerlich. (<i>Lunapark</i>, 416)',   
+	'Warszawski parkte den Hanomag in der Elmshorner Straße, und sie (<i>Warszawski und Rath</i>) gingen den Rest des Weges zu Fuß. Obwohl Rath schon einmal dort gewesen war, hätte er die <strong>Laube</strong> ohne die Hilfe des Pfarrers nicht wiedergefunden. (<i>Lunapark</i>, 417)',   
 ],  
 Lappen: [
 	'der <strong>Lappen</strong>,-: rag, cloth <br>jmdm. <strong>durch die Lappen gehen</strong>: slip through so.\'s fingers' +
@@ -11051,6 +11106,7 @@ Schuppen: [
 	'Gereon zögerte einen Augenblick. "Wie es aussieht, handelt es sich bei dem Casino am Arnswalder Platz um einen <strong>Schuppen</strong> der Nordpiraten. (<i>Lunapark</i>, 335)',
 	'Rath umrundete das künstliche Gebirge und fand an der Rückseite einen Holz<strong>schuppen</strong>. Eine Werkstatt, ein Wartungs<strong>schuppen</strong> oder was Ähnliches, vermutete er, jedenfalls nichts, was für die Besucher des Lunaparks gedacht war... (<i>Lunapark</i>, 371)',
 	'Den geheimen Eingang, von dem Gereon gesprochen hatte, hatten sie entdeckt und gar nicht weit davon das Wichtigste: Farbtöpfe in einem <strong>Schuppen</strong> hinter der Achterbahn. (<i>Lunapark</i>, 388)',
+	'Der Pfarrer (<i>Warszawski</i>) kramte zwei Wäscheklammern aus der Tasche, mit denen er seine Hosenbeine fixierte, und stieg auf ein Herrenfahrrad, das draußen am <strong>Schuppen</strong> lehnte. (<i>Lunapark</i>, 419)',
 ],
 schnarren: [
 	'<strong>schnarren</strong>: rasp, rattle, snarl, growl <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnarren"target="target1">schnarren</a><br>English Definitions: &nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnarren"target="target2">schnarren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnarren"target="target3">schnarren</a>',
@@ -14414,13 +14470,14 @@ Wehwehchen: [
 	'<i>Charly</i>: "Ja, der Doktor sagt, Ruhe sei das Wichtigste." Charly kam sich vor wie ihre eigene Großmutter, die mit ihrem Kaffeekränzchen auch immer nur die jeweils aktuellen Zipperlein und <strong>Wehwehchen</strong> zu besprechen hatte. (<i>Märzgefallene</i>, 447)',
 ],
 'Weihrauch, Weihrauchschwenker': [
-	'der <strong>Weihrauch</strong>,-<strong>e</strong>: incense <br>der <strong>Weihrauchschwenker</strong>,-: incense burner, holder ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Weihrauch"target="target1">Weihrauch</a>&nbsp;&nbsp;<a href="https://www.schreibmayr.de/suche/?s=Weihrauchschwenker"target="target2">Weihrauchschwenker</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/weihrauch?q=Weihrauch"target="target3">Weihrauch</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Weihrauchschwenker"target="target4">Weihrauchschwenker</a>    ',
+	'der <strong>Weihrauch</strong>,-<strong>e</strong>: incense <br>der <strong>Weihrauchschwenker</strong>,-: incense burner, holder'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Weihrauch"target="target1">Weihrauch</a>&nbsp;&nbsp;<a href="https://www.schreibmayr.de/suche/?s=Weihrauchschwenker"target="target2">Weihrauchschwenker</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/weihrauch?q=Weihrauch"target="target3">Weihrauch</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Weihrauchschwenker"target="target4">Weihrauchschwenker</a>',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Gereon</i>) hatte den hemdsärmeligen Pfarrer von Sankt Norbert seinerzeit kennengelernt, weil der ihn mitten in seiner Kirche, in der Rath sich mit einem flüchtigen Gangster (<i>Goldstrein</i>) geprügelt hatte, mit einem <strong>Weihrauchschwenker</strong> niedergeschlagen hatte. Nach dieser etwas schmerzhaften Begrüßung hatte er den Pfarrer allerdings schätzen gelernt. (<i>Märzgefallene</i>, 381)' ,
+	'Er (<i>Gereon</i>) hatte den hemdsärmeligen Pfarrer von Sankt Norbert seinerzeit kennengelernt, weil der ihn mitten in seiner Kirche, in der Rath sich mit einem flüchtigen Gangster (<i>Goldstrein</i>) geprügelt hatte, mit einem <strong>Weihrauchschwenker</strong> niedergeschlagen hatte. Nach dieser etwas schmerzhaften Begrüßung hatte er den Pfarrer allerdings schätzen gelernt. (<i>Märzgefallene</i>, 381)',
 	'<u>Lunapark</u>',
-	'Bierkirche. Die Brauerei trug ihren Spitznamen wegen des markanten Turms, der die Straßenecke an der Schönhauser Allee beherrschte, und wegen des großen Saals, der in der Tat die Dimension eines Kirchenschiffs hatte. Nur das es nach Bierdunst roch statt nach <strong>Weihrauch</strong>.  (<i>Lunapark</i>, 68)' ,
+	'Bierkirche. Die Brauerei trug ihren Spitznamen wegen des markanten Turms, der die Straßenecke an der Schönhauser Allee beherrschte, und wegen des großen Saals, der in der Tat die Dimension eines Kirchenschiffs hatte. Nur das es nach Bierdunst roch statt nach <strong>Weihrauch</strong>. (<i>Lunapark</i>, 68)',
+	'Pastor Warszawski, der einzige katholische Geistliche in Berlin, dem er (<i>Gereon</i>) vertraute, hatte ihn nicht nur verheiratet, er hatte ihn auch schon einmal mit einem <strong>Weihrauchschwenker</strong> niedergeschlagen. (<i>Lunapark</i>, 413)',
 ],
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 wölben: [
@@ -15444,6 +15501,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  Fensterladen  Lunapark 32   
  Feuergarbe   Der nasse Fisch 69
  'Fiepen'  ;   Nworte++;    Märzgefallene   210
+ fixieren  Lunapark 419
  'fluchen'  ;   Nworte++;    Märzgefallene   17
  'Fläche'  ;   Nworte++;    Märzgefallene   161
  Fraktur  Lunapark 41
@@ -15459,6 +15517,7 @@ Geheiß:   Lunapark 57
  gelost,  losen  Lunapark 18
  Gesäß    Märzgefallene  508
  gestrig Der nasse Fisch 236
+ Gewand Lunapark 415
  Gewehrhahn Lunapark 123
  gewellt wellen  Märzgefallene  598
  gieren  Lunapark 162
@@ -15625,6 +15684,7 @@ Taxe  Der nasse Fisch  153
    vorliebnehmen   Märzgefallene    361
  'Wagenschlag'  ;   Nworte++;    Märzgefallene   38
  Wanne  Der nasse Fische 281
+ Watte  Lunapark 418
  weltläufig    Märzgefallene   351
  weihen    Märzgefallene   518
  Wiehern Der nase Fisch 331

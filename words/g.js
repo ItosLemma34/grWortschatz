@@ -29,6 +29,7 @@ const g = [
    'Geplapper',  // Geplapper: *
    'gequollen, quellen',  // * duplicated
    'gerädert',  // *
+   'Gerangel', // Gerangel:  *
    'Geräuschkulisse', // Geräuschkulisse:  *
    'gerieren (sich)',   // * 
    'gerinnen',   // gerinnen:  *

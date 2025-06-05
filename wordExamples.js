@@ -10,16 +10,45 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', https://www.duden.de/rechtschreibung/Hecke_Gestraeuch
+// (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */ 
-// straighten this out: put in target in first web page?? 
+speiübel: [  
+	'<strong>speiübel</strong>: nauseous, sick'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/speiuebel"target="target1">speiübel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spei%C3%BCbel"target="target2">speiübel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/spei%C3%BCbel"target="target3">speiübel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=spei%C3%BCbel"target="target4">speiübel</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',   
+	'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und hockte sich vor die Kloschüssel. Ihm war <strong>speiübel</strong>, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
+],
+Gerangel: [  
+	'das <strong>Gerangel</strong>: skirmish, free-for-all, tussle, struggle'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gerangel"target="target1">Gerangel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gerangel"target="target2">Gerangel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gerangel"target="target3">Gerangel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gerangel"target="target4">Gerangel</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'"Noch eine Sache", sagte Rath nach einer Weile. "Irgendjemand hat mir meine Dienstwaffe abgenommen. Wissen Sie, wer?" <i>Walter Spindler</i>: "Keine Ahnung. Da war das <strong>Gerangel</strong> mit Leo und dann Ihr Schuss... Es ging alles ziemlich schnell. Wir haben zusammengepackt, was wir mitnehmen konnten, und sind raus. Ob da jemand die Pistole an sich genommen hat, weiß ich nicht..." (<i>Lunapark</i>, 423)', 
+],
+verschaukeln: [  
+	'jmdn. <strong>verschaukeln</strong>: deceive, sell so. down the river'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschaukeln"target="target1">verschaukeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschaukeln"target="target2">verschaukeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/jemanden-verschaukeln"target="target3">verschaukeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschaukeln&id=verb%3Averschaukeln"target="target4">verschaukeln</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'Zehn Minuten später saßen sie (<i>Rath und Spindler</i>) in Warszawskis Hanomag auf dem Weg Richtung Potsdam. Es dauerte eine Weile, ehe Rath das Schweigen brach. Er fühlte sich <strong>verschaukelt</strong>. Als Fluchthelfer missbraucht. Wobei er insgeheim auch eine gewisse Genugtuung verspürte: Dass er es war, der den Mann, der eigentlich das letzte Opfer von Horst Kaczmarek war, von Gräf.. aber wie ein Täter behandelt wurde, aus Berlin hinausschaffte und in Sicherheit brachte.  (<i>Lunapark</i>, 420)',  
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+],
 Hecke: [  
 	'die <strong>Hecke</strong>,-<strong>n</strong>: hedgerow'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.google.com/search?tbm=isch&q=Hecken">Hecke</a>&nbsp;&nbsp;<a href="<a href="https://www.google.com/search?tbm=isch&q=Hecken">Hecke</a>"target="target2">Hecke</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""target="target3">Hecke</a>&nbsp;&nbsp;<a href=""target="target4">Hecke</a>',
-	'<u>Der nasse Fisch</u>',   
-	'<u>Märzgefallene</u>',    
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Hecken"target="target1">Hecke</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hecke_Gestraeuch"target="target2">Hecke</a>'+      // https://www.dwds.de/wb/Hecke
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hecke"target="target3">Hecke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hecke&id=substantiv%3AHecke"target="target4">Hecke</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',   
+	'<i>Pfarrer Warszawski</i>: "Lassen Sie (<i>Rath</i>) nicht wieder so viel Zeit verstreichen, bis Sie das nächste Mal zur Beichte kommen." Ein Klingeln und ein Winken, dann war Warszawski hinter den <strong>Hecken</strong> verschwunden. (<i>Lunapark</i>, 419)',
 ],
 'kein Kraut gewachsen': [  
 	'Dagegen ist <strong>kein Kraut gewachsen</strong>: Nothing can be done, no remedy for that.'+
@@ -310,6 +339,7 @@ einspannen: [
 	'Charly hörte, wie Kirie zur Wohnungstür tapste, doch es dauerte noch eine ganze Weile, ehe sich der Schlüssel im Schloss drehte. Sie hatte eigentlich mit Fritze gerechnet, doch es war Gereon.. Verdammt! Sie hatte den Braten gerade erst im Ofen, noch nicht einmal die Kartoffeln geschält! Eigentlich hatte sie den Jungen zum Helfen <strong>einspannen</strong> wollen, aber der war immer noch nicht zuhause. (<i>Lunapark</i>, 125)',
 	'Gräf zeigte sein süffisantestes Lächeln. "Man löst einen Mordfall nicht vom Schreibtisch aus, nicht wahr." Alle in der Runde sahen ihn (<i>Rath</i>) an, und Rath wurde klar, dass es beschlossene Sache war, dass er sich nicht drücken konnte: Diese Aufgabe würde an ihm hängen bleiben. Und Gräf hatte sich abgesichert, die Autorität der Geheimen Staatspolizei allein reichte ihm nicht, er hatte Gennat <strong>eingespannt</strong>. (<i>Lunapark</i>, 153)',
 	'Er hatte tatsächlich schon überlegt, einen Privatdetektiv anzuheuern, der diese Aufgabe übernahm, doch kannte er keinen außer Wilhelm Böhm, und der wäre der Letzte, den er in so einer Angelegenheit einspannen würde. (<i>Lunapark</i>, 292)',
+	'<i>Walter Spindler</i>: "Pastor Lichtenberg hat uns geholfen und mir die Stelle hier besorgt." <i>Rath</i>: "Als Küster?" "So ähnlich." Spindler nickte. "Orgel spielen kann ich zwar nicht, aber sonst kümmere ich mich um alles, was so anfällt: Rasen mähen, Dachrinne reparieren,.. All so was." <i>Rath</i>: "Warum haben Sie sich dann wieder <strong>einspannen</strong> lassen von Ihren Genossen? Und mit Gregor Wolff und den anderen staatszersetzende Parolen gemalt?"  (<i>Lunapark</i>, 424)',
 ],
 'behelligen, unbehelligt': [  
 	'<strong>behelligen</strong>: bother, pester ' +
@@ -626,6 +656,8 @@ mähen: [
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',   
 	'.. dann nahm Marlow Kiries Kopf in beide Hände und drehte ihn mit einer kräftigen ruckartigen Bewegung nach rechts. Der Hund ließ ein kurzes Winseln hören, das in einem Röcheln endete, es knackte laut, und dann war er still.  Marlow ließ den unnatürlich verdrehten Kopf los, der schwarze Hundekörper sackte auf den frisch <strong>gemähten</strong> Rasen und blieb dort liegen.  (<i>Lunapark</i>, 358)',
+	'<i>Walter Spindler</i>: "Pastor Lichtenberg hat uns geholfen und mir die Stelle hier besorgt." <i>Rath</i>: "Als Küster?" "So ähnlich." Spindler nickte. "Orgel spielen kann ich zwar nicht, aber sonst kümmere ich mich um alles, was so anfällt: Rasen <strong>mähen</strong>, Dachrinne reparieren, Glühbirnen auswechseln, Gebetbücher sortieren, Kerzen anzünden. All so was." (<i>Lunapark</i>, 424)',
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
 halbgar: [
 	'<strong>halbgar</strong>: half-cooked, half-done, incomplete'+
@@ -4713,7 +4745,9 @@ Dampframme: [
 	'<u>Der nasse Fisch</u>',
 	'Vereinzelt ragten Transparente aus der Menschenmenge. Rath erkannte die drei Konterfeis, die auch die Fassade der KPD-Zentrale am nah gelegenen Bülowplatz schmückten: Lenin, Liebknecht, Luxemburg. Die heiligen drei L. Seit er in Berlin war, hatte er sich über die <strong>Dreistigkeit</strong> der Kommunisten geärgert. (<i>Der nasse Fisch</i>, 54)',
 	'<u>Märzgefallene</u>',
-	'Immer wieder derselbe Hergang, überall im Reich: Ein lange gesuchter Kommunist wird von der Polizei aufgegriffen, unternimmt auf dem Weg zur Wache einen Fluchtversuch, reagiert nicht auf die Zurufe der Polizei und wird daraufhin erschossen. Und mit welcher <strong>Dreistigkeit</strong> sämtliche Zeitungen diese Lügen verbreiteten.  (<i>Märzgefallene</i>, 485)',
+	'Immer wieder derselbe Hergang, überall im Reich: Ein lange gesuchter Kommunist wird von der Polizei aufgegriffen, unternimmt auf dem Weg zur Wache einen Fluchtversuch, reagiert nicht auf die Zurufe der Polizei und wird daraufhin erschossen. Und mit welcher <strong>Dreistigkeit</strong> sämtliche Zeitungen diese Lügen verbreiteten. (<i>Märzgefallene</i>, 485)',
+	'<u>Lunapark</u>',
+	'So viele Autos dürften Montagmorgen am Halensee nicht als gestohlen gemeldet worden sein. Es sei denn... Rath fragte sich, ob Leo Juretzka möglicherweise so <strong>dreist</strong> war und auch dieses Auto wieder dorthin zurückgebracht hatte, wo er es gestohlen hatte. Vor den Augen der Polizei, von der es seit Tagen in der Gegend nur so wimmelte. (<i>Lunapark</i>, 423)',
 ],
 draufhaben: [ 
 	'<strong>draufhaben</strong>: show what one is made of, know one\’s stuff'+
@@ -5087,6 +5121,7 @@ einfädeln: [
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Karl Reinhold will seine Schwester treffen. Unter einer Bedingung: dass sie sich dem kommunistischen Widerstand anschließt.. Alex hat sich bereit erklärt. Obwohl sie überhaupt keine Kommunistin ist. Aber sie würde alles dafür tun, ihren Bruder wiederzusehen. Und ich habe versprochen, das für sie <strong>einzufädeln</strong>."  (<i>Lunapark</i>, 299-300)',
 	'<i>Rath zu Frau Spindler</i>: "Sprechen Sie mit dem Dompfarrer darüber", fuhr er fort. Fragen Sie ihn, wie er die Sache sieht. Herr Lichtenberg hat das alles für Sie <strong>eingefädelt</strong>, nicht wahr?" (<i>Lunapark</i>, 399)',
+	'Rath und Spindler blickten sich an. Der Kommunist hatte wohl nicht damit gerechnet, dass ausgerechnet ein Polizeibeamter ihn zu seinem nächsten Versteck bringen sollte. Das hatte Warszawski ja prima <strong>eingefädelt</strong>. "Na, dann wollen wir mal", sagte Rath. "Das Auto steht draußen vor der Kolonie." Spindler wirkte ebenso überrumpelt wie Rath. (<i>Lunapark</i>, 419-20)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 einbrocken: [  
@@ -6395,6 +6430,8 @@ giften: [
 	'<u>Lunapark</u>',
 	'Letztes Jahr hatte es hier (<i>in Marlows Villa in Bad Freienwalde</i>) von Bewaffneten nur so <strong>gewimmelt</strong>. (<i>Lunapark</i>, 122)',
 	'Er (<i>Gräf</i>) war wieder raus zum Lunapark, wo es immer noch von Polizeibeamten <strong>wimmelte</strong>. Spurensicherer, Schupos, Suchhunde. (<i>Lunapark</i>, 404)',
+	'So viele Autos dürften Montagmorgen am Halensee nicht als gestohlen gemeldet worden sein. Es sei denn... Rath fragte sich, ob Leo Juretzka möglicherweise so dreist war und auch dieses Auto wieder dorthin zurückgebracht hatte, wo er es gestohlen hatte. Vor den Augen der Polizei, von der es seit Tagen in der Gegend nur so <strong>wimmelte</strong>. (<i>Lunapark</i>, 423)',
+	'Es war eine katholische Kirche. Brandenburg an der Havel besaß eine ganze Reihe Kirchen, die ihre Türme über das <strong>Gewimmel</strong> der Dächer reckten, doch die katholische war mit Abstand die kleinste. (<i>Lunapark</i>, 424)',
 ],
 'wimmeln, Gewimmel': [
 	'<strong>wimmeln</strong>: to swarm, abound'+
@@ -6410,6 +6447,8 @@ giften: [
 	'<u>Lunapark</u>',
 	'Letztes Jahr hatte es hier (<i>in Marlows Villa in Bad Freienwalde</i>) von Bewaffneten nur so <strong>gewimmelt</strong>. (<i>Lunapark</i>, 122)',
 	'Er (<i>Gräf</i>) war wieder raus zum Lunapark, wo es immer noch von Polizeibeamten <strong>wimmelte</strong>. Spurensicherer, Schupos, Suchhunde. (<i>Lunapark</i>, 404)',
+	'So viele Autos dürften Montagmorgen am Halensee nicht als gestohlen gemeldet worden sein. Es sei denn... Rath fragte sich, ob Leo Juretzka möglicherweise so dreist war und auch dieses Auto wieder dorthin zurückgebracht hatte, wo er es gestohlen hatte. Vor den Augen der Polizei, von der es seit Tagen in der Gegend nur so <strong>wimmelte</strong>. (<i>Lunapark</i>, 423)',
+	'Es war eine katholische Kirche. Brandenburg an der Havel besaß eine ganze Reihe Kirchen, die ihre Türme über das <strong>Gewimmel</strong> der Dächer reckten, doch die katholische war mit Abstand die kleinste. (<i>Lunapark</i>, 424)',
 ],
 'Gerüst, einrüsten': [
 	'das <strong>Gerüst</strong>,-<strong>e</strong>: scaffolding; framework, structure'+
@@ -7387,6 +7426,7 @@ heulen: [
 	'Er <strong>hockte sich</strong> zu Kirie... dann nahm Marlow Kiries Kopf in beide Hände und drehte ihn mit einer kräftigen ruckartigen Bewegung nach rechts. Der Hund ließ ein kurzes Winseln hören, das in einem Röcheln endete, es knackte laut, und dann war er still.  (<i>Lunapark</i>, 358)',
 	'Sie kamen immer näher, und Rath umklammerte die Walther, blieb hinter dem Karussell <strong>hocken</strong> und hoffte, sie mochten ihn nicht entdecken. (<i>Lunapark</i>, 374)',
 	'Rath hatte nicht unbedingt damit gerechnet, aber in Sankt Norbert wurde tatsächlich gebeichtet, als er die Kirche betrat. In den Bänken <strong>hockten</strong> ein paar arme Sünder, warteten, bis sie an der Reihe waren... (<i>Lunapark</i>, 413)',
+	'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und <strong>hockte sich</strong> vor die Kloschüssel. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
 ], 
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>,-<strong>mätze</strong>/<strong>matze</strong>: tiny tot'+
@@ -9297,6 +9337,7 @@ Machwerk: [
 	'Für Pornographie dieser Art konnte die Sitte einen ganz schön <strong>in die Mangel nehmen</strong>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)' ,
 	'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <strong>in die Mangel nehmen</strong>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte.   (<i>Lunapark</i>, 99)' ,
 	'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten <strong>in die Mangel genommen</strong> zu werden.   (<i>Lunapark</i>, 204)' ,
+	'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <strong>in die Mangel nehmen</strong>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
 ],
 'in die Mangel nehmen': [
 	'jmdn <strong>in die Mangel nehmen</strong>: grill so., put thru the wringer  <br>also: <strong>durch die Mangel drehen</strong>'+
@@ -9315,6 +9356,7 @@ Machwerk: [
 	'Für Pornographie dieser Art konnte die Sitte einen ganz schön <strong>in die Mangel nehmen</strong>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)',
 	'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <strong>in die Mangel nehmen</strong>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte. (<i>Lunapark</i>, 99)',
 	'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten <strong>in die Mangel genommen</strong> zu werden. (<i>Lunapark</i>, 204)',
+	'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <strong>in die Mangel nehmen</strong>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
 ],
 'Mangel (durch die M. drehen)': [
 	'jmdn. <strong>durch die Mangel drehen</strong>: grill so., put thru the wringer <br>also: <strong>in die Mangel nehmen</strong> ' +
@@ -9695,12 +9737,13 @@ Polente: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 pauken: [
-	'<strong>pauken</strong>: cram (for an exam); bail out; drum, pound'+
+	'<strong>pauken</strong>: cram (for an exam); drum, pound; bail out'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pauken"target="target1">pauken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pauken"target="target2">pauken</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pauken"target="target3">pauken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pauken"target="target4">pauken</a>',
 	'<u>Lunapark</u>', 
 	'Am Tisch vor dem Fenster hatte damals der lange Leo gesessen, Leo Juretzke, der Chef der <i>Berolina</i>. Es war das erste Wiedersehen mit Juretzka gewesen, nachdem Rath ihn auf Marlows Geheiß aus der SA-Haft <strong>gepaukt</strong> hatte, doch anstatt ein wenig Dankbarkeit zu zeigen, hatte der Mann einen unverschämten, verhaltenen Grimm an den Tag gelegt.  (<i>Lunapark</i>, 122)',
 	'Die SA wurde in Urlaub geschickt, für den ganzen Monat Juli. Gruppenführer Karl Ernst persönlich, Berlins oberster SA-Chef, der Mann, der die Nordpiraten aus dem Polizeigewahrsam <strong>gepaukt</strong> hatte, gab eine Anweisung von Stabschef Röhm weier. (<i>Lunapark</i>, 399)',
+	'<i>Spindler</i>: "Nachdem er (<i>Leo Juretska</i>) Sie niedergeschlagen hatte, hat er immer weiter auf Sie eingeprügelt, in rasender Wut.. Was haben Sie ihm getan?" <i>Rath</i>: "Einen Gefallen habe ich ihm getan. Ich habe ihn vor einem Jahr aus der SA-Haft <strong>gepaukt</strong>." (<i>Lunapark</i>, 421)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -10418,11 +10461,12 @@ Rätselraten: [
 	'<i>Rath</i>: "Ersparnisse, SA-Eigentum - haben Sie noch mehr Vermutungen? Genau deswegen sollten die Scheine untersucht werden! Damit wir hier kein <strong>Rätselraten</strong> veranstalten müssen."  (<i>Lunapark</i>, 59)' ,  
 ], 
 Rinne: [
-	'die <strong>Rinne</strong>,-<strong>n</strong>: channel, gutter ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rinne"target="target1">Rinne</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rinne"target="target2">Rinne</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rinne"target="target3">Rinne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rinne"target="target4">Rinne</a> ' ,
+	'die <strong>Rinne</strong>,-<strong>n</strong>: channel, gutter'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rinne"target="target1">Rinne</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rinne"target="target2">Rinne</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rinne"target="target3">Rinne</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rinne"target="target4">Rinne</a>',
 	'<u>Lunapark</u>',
-	'Auf der Toilette - eine hölzerne Kabine, eine geflieste Pinkel<strong>rinne</strong>, an der höchstens vier Mann nebeneinander Platz fanden - stank es bestialisch. Rath versuchte, möglichst nicht zu atmen, als er sich an die <strong>Rinne</strong> stellte.  (<i>Lunapark</i>, 39)' ,  
+	'Auf der Toilette - eine hölzerne Kabine, eine geflieste Pinkel<strong>rinne</strong>, an der höchstens vier Mann nebeneinander Platz fanden - stank es bestialisch. Rath versuchte, möglichst nicht zu atmen, als er sich an die <strong>Rinne</strong> stellte. (<i>Lunapark</i>, 39)',  
+	'<i>Walter Spindler</i>: "Pastor Lichtenberg hat uns geholfen und mir die Stelle hier besorgt." <i>Rath</i>: "Als Küster?" "So ähnlich." Spindler nickte. "Orgel spielen kann ich zwar nicht, aber sonst kümmere ich mich um alles, was so anfällt: Rasen mähen, Dach<strong>rinne</strong> reparieren, Glühbirnen auswechseln, Gebetbücher sortieren, Kerzen anzünden. All so was." (<i>Lunapark</i>, 424)',
 ], 
 Ranzen: [
 	'der <strong>Ranzen</strong>,-: knapsack, satchel ' +
@@ -12240,8 +12284,9 @@ Schürze: [
 	'Rath ging hinüber zu den Schauspielern und zückte seine Marke. "Hat einer von Ihnen etwas beobachtet?", fragte er. "Was meinen Sie?", fragte ein Mann, der eine Leder<strong>schürze</strong> trug und wie ein Steinmetz aussah.. Der Schauspieler zog an seiner Zigarette. "Bis vor einer Viertelstunde haben wir alle noch auf der Bühne gestanden." Er deutete auf seine <strong>Schürze</strong>. "Sudermann. <i>Stein unter Steinen</i>." (<i>Lunapark</i>, 168-69)',
 	'Es musste jemand zuhause sein, es roch nach Essen. Kirie wedelte erwartungsfroh mit dem Schwanz. Eine grauhaarige Frau öffnete, eine <strong>Schürze</strong> umgebunden, und schaute die Besucherin fragend an. (<i>Lunapark</i>, 268)',
 ],
-Schüssel: [ 
+'Schüssel, Kloschüssel': [ 
 	'die <strong>Schüssel</strong>,-<strong>n</strong>: bowl, dish, pan'+
+	'<br>die <strong>Kloschüssel</strong>: toilet bowl'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
 	'<u>Der nasse Fisch</u>',
@@ -12252,6 +12297,22 @@ Schüssel: [
 	'Er (<i>Gereon</i>) war viel zu früh in der Burg.. Bevor er hineinging, drehte er noch eine Runde mit Kirie.. Dennoch waren sie die Ersten im Büro. Rath schloß auf, stellte Kirie eine <strong>Schüssel</strong> Wasser hin und hängte seine Sachen an die Garderobe. (<i>Märzgefallene</i>, 180)',
 	'<u>Lunapark</u>',  
 	'Er (<i>Helmut Reinhold</i>) führte sie (<i>Charly</i>) in eine bescheidene Wohnküche, in der er einen Kessel auf den Herd stellte und für Kirie Wasser in eine <strong>Schüssel</strong> füllte. (<i>Lunapark</i>, 100)',
+	'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und hockte sich vor die <strong>Kloschüssel</strong>. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
+],
+'Kloschüssel, Schüssel': [ 
+	'die <strong>Schüssel</strong>,-<strong>n</strong>: bowl, dish, pan'+
+	'<br>die <strong>Kloschüssel</strong>: toilet bowl'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
+	'<u>Der nasse Fisch</u>',
+	'Sie (<i>Gereon und Charly</i>) betrieben ein wenig Katzenwäsche an der Wasch<strong>schüssel</strong>, die auf dem altmodischen Frisiertisch in seinem Zimmer stand.  (<i>Der nasse Fisch</i>, 193)',
+	'Als Rath die Tür (<i>zur Toilette</i>) öffnete, was es still in dem gekachelten Raum. Niemand schien hier zu sein. Dennoch schloss er sich in einer Kabine ein.. und öffnete den Klodeckel. Wieder zog er die Brieftasche aus dem Mantel. Schnell hatte er die Lignose-Kugel herausgeholt... Nun gab es eine bessere Verwendung für das Geschoss. Rath öffnete die Blechdose und ließ die Mauserkugel in die Toiletten<strong>schüssel</strong> fallen.. Durch das Wasser in der <strong>Schüssel</strong> zogen sich rote Schlieren, die sich langsam in blassrote Wolken auflösten. (<i>Der nasse Fisch</i>, 298)',
+	'Nachdem er (<i>Rath</i>) die Spülung betätigt hatte, wartete er noch ein Weilchen, bis sich die Strudel in der Toiletten<strong>schüssel</strong> wieder beruhigt hatten. (<i>Der nasse Fisch</i>, 299)',
+	'<u>Märzgefallene</u>',  
+	'Er (<i>Gereon</i>) war viel zu früh in der Burg.. Bevor er hineinging, drehte er noch eine Runde mit Kirie.. Dennoch waren sie die Ersten im Büro. Rath schloß auf, stellte Kirie eine <strong>Schüssel</strong> Wasser hin und hängte seine Sachen an die Garderobe. (<i>Märzgefallene</i>, 180)',
+	'<u>Lunapark</u>',  
+	'Er (<i>Helmut Reinhold</i>) führte sie (<i>Charly</i>) in eine bescheidene Wohnküche, in der er einen Kessel auf den Herd stellte und für Kirie Wasser in eine <strong>Schüssel</strong> füllte. (<i>Lunapark</i>, 100)',
+	'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und hockte sich vor die <strong>Kloschüssel</strong>. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -13258,6 +13319,7 @@ unterbuttern: [
 	'<i>Pfeiffer</i>: "Walter Spindler ist so gut wie nie verhaftet worden. Erst als die Rotfront den Kameraden Maikowski meuchelte, hat ihn auch seine Blindenbinde nicht mehr gerettet." "Und was schließen Sie aus dieser Erkenntnis?", fragte Rath, eine Frage, die Truppführer Pfeiffer sichtlich <strong>überrumpelte</strong>. (<i>Lunapark</i>, 289)', 
 	'"Kollege Lange", sagte er (<i>Rath</i>), "es ist längst überfällig, dass wir unsere Zusammenarbeit auf eine freundschaftlichere Basis stellen, meinen Sie nicht auch?" Er räusperte sich und streckte seine Hand aus. "Ich würde Ihnen gerne das Du anbieten." Lange schaute überrascht, wenn nicht <strong>überrumpelt</strong>, aber er ergiff Raths Rechte und schüttelte sie. (<i>Lunapark</i>, 345)', 
 	'<i>Fritze</i>: "Ich vermisse Kirie." <i>Charly</i>: "Ich doch auch, Fritze, ich doch auch." Und zum ersten Mal, seit der Hund überfahren worden war, kam der Junge zu ihr und schlang seine dünne Arme um sie. Charly fühlte sich <strong>überrumpelt</strong>, dann nahm sie ihn ebenfalls in den Arm und streichelte ihm über den Kopf. (<i>Lunapark</i>, 411)', 
+	'Rath und Spindler blickten sich an. Der Kommunist hatte wohl nicht damit gerechnet, dass ausgerechnet ein Polizeibeamter ihn zu seinem nächsten Versteck bringen sollte. Das hatte Warszawski ja prima eingefädelt. "Na, dann wollen wir mal", sagte Rath. "Das Auto steht draußen vor der Kolonie." Spindler wirkte ebenso <strong>überrumpelt</strong> wie Rath. (<i>Lunapark</i>, 419-20)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 umpflügen: [
@@ -15504,6 +15566,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  fixieren  Lunapark 419
  'fluchen'  ;   Nworte++;    Märzgefallene   17
  'Fläche'  ;   Nworte++;    Märzgefallene   161
+ Forst  Lunapark 422
  Fraktur  Lunapark 41
  Fritzen  Der nasse Fisch 302
  Fügung  Lunapark 408
@@ -15723,5 +15786,6 @@ Er hockte sich zu Kirie. Es sah zunächst so aus, als wolle er ihr den Stock end
 Als sie das Zeitungspapier aus dem Karton nahm, fiel ein zusammengeknüllter schneeweißer Zettel heraus. Sie wollte alles schon in den Papierkorb stopfen, aber dann siegte die Neugierde. Sie erinnerte sich, was für ein Geheimnis er aus dem Paket gemacht hatte. Als handele es sich um eine Überraschung, ein Geschenk, dabei hatte Charly erst im Oktober Geburtstag und Fritze im Dezember. Vielleicht gab der Zettel ja Auskunft, was sich in diesem Pappkarton befunden hatte, eingewickelt in alte Zeitungen. Sie faltete das zerknüllte Papier auseinander und las. Hier ist Ihr Werkzeug, Kommissar, benutzen Sie es. Ich gebe Ihnen eine Woche. Nächsten Sonntag ist Zahltag, so oder so.  // Lunapark 379
 »Diese Prozedur«, fuhr Lange fort, »hat Kaczmarek mehrfach in SA-Gefängnissen zelebriert. Wurde richtiggehend herumgereicht, der Mann.« »Wie ein Künstler auf Tournee.« »Wenn Sie so wollen. Er hat das tatsächlich meist vor großem Publikum gemacht. Die Bestrafung des Delinquenten sollte auch die anderen Häftlinge gefügig machen. Laut Landvogt wurden nach so einer Vorstellung immer Befragungen angesetzt. Meist sehr erfolgreiche Befragungen.« »Das kann ich mir vorstellen.« Rath machte ein angewidertes Gesicht. Er versuchte, sich vorzustellen, was vor zwei Wochen in der Gartenstraße passiert sein mochte.  Lunapark (pp. 266-267)
 Das Ergebnis der Ballistik, das in den nächsten Tagen vorliegen müsste, würde seine These von einem Streit unter Verbrechern mit tödlichem Ausgang, die er gleich vorzutragen gedachte, nur bestätigen. Nun musste er die bisherigen Ermittlungsergebnisse noch zu einer schönen Geschichte verquirlen und die derzeitigen Aktivitäten des Frischlings und der beiden A-Kollegen dort einflechten, und die Presse hätte ihr Futter. Schießerei im Ganovenmilieu. So was gehörte im Osten doch zum Alltag. Und die Leser in den wohlbehüteten Vierteln des Westens liebten solche Geschichten, die ihnen in der Sicherheit ihrer Salons eine kleine Gänsehaut über den Rücken jagten und gleichzeitig bestätigten, was sie schon immer geahnt hatten: dass Berlin es in wirklich jeder Hinsicht durchaus mit Chicago aufnehmen könne. Der nasse Fisch 306-307
+Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und hockte sich vor die Kloschüssel. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte.  Lunapark 426
 
 */

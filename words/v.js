@@ -59,6 +59,7 @@ const v = [
    'versaufen', // versaufen: *
    'verschanzen (sich)' , //  *
    'verscharren',    // verscharren: *
+   'verschaukeln',  // verschaukeln: *
    'verscherbeln', // verscherbeln: *
    'verscherzen (sich)',  //  *
    'verschieben',  // verschieben:  *

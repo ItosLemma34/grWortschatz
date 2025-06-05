@@ -112,7 +112,7 @@ const s = [
    'schurigeln', // schurigeln: *        
    'Schürze',  // Schürze:  *
    'Schuss (in S. sein)', // * duplicated
-   'Schüssel',  // Schüssel: *
+   'Schüssel, Kloschüssel',  // * duplicate
    'schütten',  // schütten:  *       
    'schütter',  // schütter:  *
    'Schutzbefohlene',  // Schutzbefohlene:  *
@@ -139,6 +139,7 @@ const s = [
    'Spanner', // Spanner:  *
    'Spaten',  // Spaten:  *
    'speckig', // speckig: *
+   'speiübel', // speiübel: *
    'sperrangelweit',  // sperrangelweit:  *
    'Sperrhaken',  // Sperrhaken:  *
    'sperrig',  // sperrig:  *     

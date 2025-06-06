@@ -9,10 +9,19 @@ zzz: [
 	'<u>Lunapark</u>',   
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */ 
-speiübel: [  
+läppisch: [  
+	'<strong>läppisch</strong>: petty, paltry, childish, trivial'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laeppisch"target="target1">läppisch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/l%C3%A4ppisch"target="target2">läppisch</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lappisch"target="target3">läppisch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=l%C3%A4ppisch&id=adjektiv%3Ala3ppisch%23la3ppisch"target="target4">läppisch</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'<i>Gräf zu Rath</i>: "..Was glaubst du eigentlich, wer du bist? Was du dir erlauben kannst? Hör auf mit deinen fadenscheinigen Ausflüchten!.. Das hier ist die Geheime Staatspolizei, hier kommst du nicht mit einem <strong>läppischen</strong> Disziplinarverfahren davon." (<i>Lunapark</i>, 429-30)',   
+],
+speiübel: [   
 	'<strong>speiübel</strong>: nauseous, sick'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/speiuebel"target="target1">speiübel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spei%C3%BCbel"target="target2">speiübel</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/spei%C3%BCbel"target="target3">speiübel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=spei%C3%BCbel"target="target4">speiübel</a>',
@@ -3093,6 +3102,7 @@ anblaffen: [
 	'<u>Lunapark</u>',
 	'<i>Gereon</i>: "Du lernst diesen Husen während dieser verdeckten Ermittlungen vor zwei Jahren kennen, und jetzt ist er dein Mandant." <i>Charly</i>: "Kein Zufall. Hab ihn doch selbst an Guido vermittelt.. Hätte allerdings niemals gedacht, dass ich mich mal um die Sache kümmere." "Ah ja." "Wie: Ah ja?" Charly hatte das ein wenig zu scharf gesagt und ihr Besteck auf den Tisch fallen lassen. "Er hat doch nur Ahja jesacht", sagte Fritze, "wat regste dir denn so uff?" "Was mischst du dich da ein?", <strong>blaffte</strong> sie den Jungen <strong>an</strong>.  (<i>Lunapark</i>, 271-72)',
 	'"Herr Kommissar", mischte sich der Sanitäter wieder ein, "Ihre Dienstauffassung in allen Ehren, aber Sie sollten sich besser hinlegen.. Mit einer Gehirnerschütterung ist nicht zu spaßen." "Nun hören Sie doch endlich auf mit Ihrer Gehirnerschütterung", <strong>blaffte</strong> Rath den Sanitäter <strong>an</strong>.  (<i>Lunapark</i>, 382)',
+	'Als er (<i>Gräf</i>) zu seinem Büro kam, wäre er fast in Rath hineingelaufen. Er stutzte. "Gereon", sagte er süffisant. "Auf dem Weg der Besserung? Schön, dass du dich auch mal wieder blicken lässt." Rath <strong>blaffte</strong> ihn grußlos <strong>an</strong>. "Du lässt mich beschatten!?" (<i>Lunapark</i>, 428)',
 ],
 anbrechen: [ 
 	'<strong>anbrechen</strong>: break into, start on, open'+
@@ -8463,19 +8473,20 @@ Kloß: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 knallen: [
-	'<strong>knallen</strong>: bang, slam, crash, pop, snap ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knallen"target="target1">knallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knallen"target="target2">knallen</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knallen"target="target3">knallen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knallen"target="target4">knallen</a> ',
+	'<strong>knallen</strong>: bang, slam, crash, pop, snap'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knallen"target="target1">knallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knallen"target="target2">knallen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knallen"target="target3">knallen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knallen"target="target4">knallen</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Junger Freund, ich weiß nicht, ob Ihnen das zur Genüge klar ist", hatte Böhm ihn (<i>Rath</i>) angeraunzt, "aber ich leite hier die Ermittlungen. Und ich brauche niemanden, der mir Hinweise gibt!" Rath hatte ihm den Ordner auf den Tisch <strong>geknallt</strong> und war grußlos gegangen. (<i>Der nasse Fisch</i>, 330)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Wo willst du hin?" Er (<i>Gereon</i>) antwortete nicht, er griff Kirie ins Halsband und zog den Hund in den Flur, holte Hundeleine, Hut und Mantel vom Garderobenhaken und <strong>knallte</strong> die Wohnungstür. (<i>Märzgefallene</i>, 178)',
-	'<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner <strong>knallten</strong> dann die Hacken zusammen.    (<i>Märzgefallene</i>, 232)',                
+	'<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner <strong>knallten</strong> dann die Hacken zusammen. (<i>Märzgefallene</i>, 232)',                
 	'Aufgelegt. Dieses verfluchte Weib hatte einfach (<i>das Telefon</i>) aufgelegt! Wenn es eine Frau auf dieser Welt gab, die Gereon Rath noch schneller auf die Palme bringen konnte als Charly, dann war das Greta Overback. Rath <strong>knallte</strong> den Hörer auf die Gabel. (<i>Märzgefallene</i>, 404)',
 	'<u>Lunapark</u>',
-	'<i>Charly</i>: "Du (<i>Gereon</i>) hast da was", sagte sie. "Wie?" "An deiner Hose. Am Knie. Sieht aus wie ein Grasfleck. Bist du gefallen?" Gereon schaute sich den Fleck an. "Kriegst du das raus?", fragte er nur. "Keine Ahnung." Sie ging zurück in die Küche und musste sich beherrschen, um nicht die Tür zu <strong>knallen</strong>.   (<i>Lunapark</i>, 128)',
+	'<i>Charly</i>: "Du (<i>Gereon</i>) hast da was", sagte sie. "Wie?" "An deiner Hose. Am Knie. Sieht aus wie ein Grasfleck. Bist du gefallen?" Gereon schaute sich den Fleck an. "Kriegst du das raus?", fragte er nur. "Keine Ahnung." Sie ging zurück in die Küche und musste sich beherrschen, um nicht die Tür zu <strong>knallen</strong>. (<i>Lunapark</i>, 128)',
+	'<i>Gräf zu Rath</i>: "Ich habe mir eine Zeit lang eingebildet, wir wären so etwas wie Freunde.. Wenn das jemals so gewesen sein sollte, dann ist diese Freundschaft mit dem heutigen Tag für mich beendet. Wer will schon mit einem Arschloch befreundet sein?" "Danke gleichfalls", sagte Rath und verließ das Büro ohne ein weiteres Wort und mit einem Türen<strong>knallen</strong>. (<i>Lunapark</i>, 430)',
 ],
-//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
+//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Knöchel: [  
 	'der <strong>Knöchel</strong>,-: ankle; knuckle'+
@@ -8526,9 +8537,10 @@ Knüppel: [
    '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummi<strong>knüppel</strong>schlag auf die ohnehin schon geschwollenen Fingerknöchel. (<i>Märzgefallene</i>, 112)',
    '<u>LunaPark</u>',
    '<i>Doktor Karthaus</i>: "Aber wie ich Sie kenne, Kommissar Rath, wollen Sie trotzdem schon eine erste Einschätzung, nicht wahr?" <i>Rath</i>: "Sie würden mir eine große Freude machen. Haben Sie schon irgendeine Idee, was den armen Kerl (<i>Kaczmarek</i>) so zugerichtet haben könnte?" "Ein stumpfer Gegenstand, irgendein <strong>Knüppel</strong>, würde ich vermuten." "Ein Schlagstock?" "Eher etwas Schwereres..."  (<i>Lunapark</i>, 26-27)',
+   '<i>Rath zu Gräf</i>: "Bevor du mir drohst, mir deine dämlichen Hobbydetektive auf den Hals hetzt und mir was weiß ich für <strong>Knüppel</strong> in den Weg legst, würde ich mir an deiner Stelle mal überlegen, was dein neuer Chef Heydrich wohl sagt, wenn er erfährt, dass ein Hundertfünfundsiebzieger in seiner Behörde arbeitet." (<i>Lunapark</i>, 430)',
 ],
 // '<u>Der nasse Fisch</u>', Der nasse Fisch '<u>Der Stumme Tod</u>', '<u>Goldstein</u>', '<u>Die Ackte Vaterland</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überlegen  überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 knurren: [
 	'<strong>knurren</strong>: growl, snarl, rumble' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knurren"target="target1">knurren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knurren"target="target2">knurren</a>' +
@@ -11614,13 +11626,14 @@ schummrig: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 süffisant: [
-	'<strong>süffisant</strong>: smug, condescending, conceited ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sueffisant"target="target1">süffisant</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/s%C3%BCffisant"target="target2">süffisant</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/suffisant"target="target3">süffisant</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=s%C3%BCffisant"target="target4">süffisant</a> ' ,
+	'<strong>süffisant</strong>: smug, condescending, conceited'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sueffisant"target="target1">süffisant</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/s%C3%BCffisant"target="target2">süffisant</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/suffisant"target="target3">süffisant</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=s%C3%BCffisant"target="target4">süffisant</a>',
 	'<u>Märzgefallene</u>', 
-	'Levetzow (<i>Nazi Polizeipräsident</i>) konnte nicht nur brüllen, er konnte auch <strong>süffisant</strong>. "Ah, Kommissar Rath", flötete er gleich zur Begrüßung, "schön, dass Sie hier sind. Ich bräuchte nur eine klitzekleine Information zu Ihrem Fall."  (<i>Märzgefallene</i>, 356-57)' ,
+	'Levetzow (<i>Nazi Polizeipräsident</i>) konnte nicht nur brüllen, er konnte auch <strong>süffisant</strong>. "Ah, Kommissar Rath", flötete er gleich zur Begrüßung, "schön, dass Sie hier sind. Ich bräuchte nur eine klitzekleine Information zu Ihrem Fall." (<i>Märzgefallene</i>, 356-57)',
 	'<u>Lunapark</u>',
-	'"Wir sind gerade dabei", fuhr Gräf fort, "eine Liste der Halter eines solchen Fahrzeuges zu erstellen.." <i>Rath</i>: "Ich glaube nicht, dass ein aktenkundiger Kommunist sein Auto für solche Zwecke zur Verfügung gestellt hat.. Das heiß, Namen abgleichen wird nicht reichen", meinte Rath. "Wir müssten jeden einzelnen Halter aufsuchen und überprüfen, eine Heidenarbeit." "Richtig." Gräf zeigte sein <strong>süffisantestes</strong> Lächeln. "Man löst einen Mordfall nicht vom Schreibtisch aus, nicht wahr."    (<i>Lunapark</i>, 153)',
+	'"Wir sind gerade dabei", fuhr Gräf fort, "eine Liste der Halter eines solchen Fahrzeuges zu erstellen.." <i>Rath</i>: "Ich glaube nicht, dass ein aktenkundiger Kommunist sein Auto für solche Zwecke zur Verfügung gestellt hat.. Das heiß, Namen abgleichen wird nicht reichen", meinte Rath. "Wir müssten jeden einzelnen Halter aufsuchen und überprüfen, eine Heidenarbeit." "Richtig." Gräf zeigte sein <strong>süffisantestes</strong> Lächeln. "Man löst einen Mordfall nicht vom Schreibtisch aus, nicht wahr." (<i>Lunapark</i>, 153)',
+	'Als er (<i>Gräf</i>) zu seinem Büro kam, wäre er fast in Rath hineingelaufen. Er stutzte. "Gereon", sagte er <strong>süffisant</strong>. "Auf dem Weg der Besserung? Schön, dass du dich auch mal wieder blicken lässt." (<i>Lunapark</i>, 428)',
 ],
 Schlamassel: [ 
 	'der (oder das) <strong>Schlamassel</strong>: jam, muddle, mess, fiasco'+   
@@ -15529,7 +15542,9 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  Balustrade Der nasse Fisch 153
  Baracke  Märzgefallene  549     
  beargwöhnen  Märzgefallene  536
- beben  Lunapark 160   
+ beben  Lunapark 160  
+ beschnüffeln  Lunapark 428 
+ ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen       
  belegt  Lunapark 366 
  'Bezug'  ;   Nworte++;    Märzgefallene   68    
  Bleistiftstummel  Lunapark 32 36  40        
@@ -15541,6 +15556,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  brachial  Der nasse Fisch 294
  brodeln Lunapark 130
  Bückling    Märzgefallene  545  
+ Dämlacks  Lunapark 428
  Damn Lunapark 247    
  deponiert Lunapark 118         
  dudeln Gedudel  Der nasse Fisch 45

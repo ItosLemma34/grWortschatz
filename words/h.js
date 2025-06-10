@@ -14,6 +14,7 @@ const h = [
    'handzahm, zahm', // * duplicated
    'hanebüchen',  // hanebüchen: *
    'hapern',  // hapern: *
+   'Happen, Häppchen', //  * 
    'harren',  // harren: *
    'hart im Nehmen sein', // *
    'Hatz',  // Hatz: *
@@ -26,6 +27,7 @@ const h = [
    'Heckenschütze',  // Heckenschütze:  *
    'Heft des Handelns nehmen', // *
    'heften', // heften: *
+   'Hehler', // Hehler:  *
    'Heidenarbeit', // Heidenarbeit:  *
    'Heidenrespekt/angst', // *
    'Heimtücke, heimtückisch', // *

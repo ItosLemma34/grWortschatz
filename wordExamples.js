@@ -12,6 +12,48 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */ 
+Depp: [  
+	'der <strong>Depp</strong>,-<strong>en</strong>: fool, idiot, twit, dope, goofball'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Depp"target="target1">Depp</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Depp"target="target2">Depp</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/depp"target="target3">Depp</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Depp&id=substantiv%3ADepp"target="target4">Depp</a>',
+	'<u>Der nasse Fisch</u>', 
+	'In Rath keimte ein ganz anderer Verdacht: Das Überprüfen der ehemaligen Rotfrontleute geschah nur Zörgiebel zuliebe, eigentlich ermittelte Böhm in eine ganz andere Richtung! Leute wie Gereon Rath spielten die <strong>Deppen</strong> für den Polizeipräsidenten, und Wilhelm Böhm wollte sich im Glanz seines Ermittlungserfolges sonnen. (<i>Der nasse Fisch</i>, 354)',  
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
+einschleusen: [  
+	'<strong>einschleusen</strong>: infiltrate, introduce, smuggle in'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einschleusen"target="target1">einschleusen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einschleusen"target="target2">einschleusen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einschleusen"target="target3">einschleusen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einschleusen&id=verb%3Aeinschleusen"target="target4">einschleusen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Vitali Pjotrewitsch Selenskij wohnte am Luisenufer!.. Jetzt war Rath sicher, dass die Muskelrussen zu Kardakow und zur <i>Roten Festung</i> gehörten. Wahrscheinlich seine Leibwächter. Und einer abkommandiert zum Schutz der Freundin des Chefs, unter dem Allerweltsnamen Müller in deren Mietshaus <strong>eingeschleust</strong>. (<i>Der nasse Fisch</i>, 351)',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'<i>Charly</i>: "Das Leben Ihres Bruders ist auch gefährdet. Ich bin Juristin, habe sogar als Polizistin gearbeitet..." Helmut Reinhold schaute sie an. "Hab vor einem Jahr schon gekündigt. Wollen Sie mein Entlassungsurkunde sehen?" <i>Reinhold</i>: "Was nützt das? Was meinen Sie wie viele Spitzel heute mit falschen Papieren irgendwo <strong>eingeschleust</strong> werden. Oder aus wie vielen einst aufrechten Roten die Geheime Staatspolizei Spitzel gemacht hat?" (<i>Lunapark</i>, 104)', 
+	'"In unseren Gefängnissen sitzen wahrlich genug Kommunisten", sagte Gräf. "Nur können die es nicht gewesen sein. Und die, die es waren, sind erst kürzlich von Moskau <strong>eingeschleust</strong> worden und leben im Untergrund. Aber die müssen wir erst mal finden." (<i>Lunapark</i>, 144)', 
+	'<i>Gräf</i>: ".. Die Wahrscheinlichkeit ist hoch, dass Scharführer Dewald Opfer einer kommunistischen Widerstandsgruppe wurde, die kürzlich aus Moskau <strong>eingeschleust</strong> wurde und im Untergrund agiert. Da gilt es, besonnen vorzugehen." (<i>Lunapark</i>, 176)', 
+	'<i>Gennat</i>: ".. Auch sein (<i>Osterbergs</i>) Chauffeur wird seither vermisst. Bislang war er mein Hauptverdächtiger. Johann Schulze. Keine Familie, keine Vergangenheit. Der Mann, seit einem Jahr Fahrer bei den Osterbergs, kam wie aus dem Nichts..." "Ob er mit den Nordpiraten unter einer Decke steckt", meinte Charly, "von denen bewusst dort <strong>eingeschleust</strong> wurde?" (<i>Lunapark</i>, 213-14)', 
+],
+'Happen, Häppchen': [  
+	'der <strong>Happen</strong>.-: bite, snack, morsel'+
+	'<br>Verkleinerungsform: das <strong>Häppchen</strong>.-: tidbit, morsel, little snack'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Happen"target="target1">Happen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/H%C3%A4ppchen"target="target2">Häppchen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Happen"target="target3">Happen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=H%C3%A4ppchen&id=substantiv%3AHa3ppchen"target="target4">Häppchen</a>',
+	'<u>Der nasse Fisch</u>',  
+	'Böhm hatte sich offensichtlich eine Mitgliederliste des Rotfrontkämpferbundes in der Abteilung 1A besorgt und in kleinen <strong>Häppchen</strong> an die Kollegen verteilt. (<i>Der nasse Fisch</i>, 349)', 
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
+Hehler: [  
+	'die <strong>Hehlerei</strong,-<strong>en</strong>: fencing, receiving/disposing of stolen goods'+
+	'<br>der <strong>Hehler</strong>,-; die <strong>Hehlerin</strong>,-<strong>nen</strong>: fence, receiver/disposer of stolen goods'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hehler"target="target1">Hehler</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Hehler"target="target2">Hehler</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hehler"target="target3">Hehler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hehler&id=substantiv%3AHehler"target="target4">Hehler</a>',
+	'<u>Der nasse Fisch</u>',
+	'Kardakow wollte zusammen mit seiner Freundin das Sorokin-Gold nach Deutschland schmuggeln und für seine hochgesteckten politischen Ziele nutzbar machen. Und Marlow sollte das auffällige Gold.. in unauffällige Reichsmarkscheine und Kontoauszüge verwandeln. Kardakow hatte seinen Chef (<i>Marlow</i>) als <strong>Hehler</strong> eingespannt. Für vierzig Prozent.  (<i>Der nasse Fisch</i>, 347)',
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
 läppisch: [  
 	'<strong>läppisch</strong>: petty, paltry, childish, trivial'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laeppisch"target="target1">läppisch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/l%C3%A4ppisch"target="target2">läppisch</a>'+
@@ -333,6 +375,7 @@ einspannen: [
 	'Die Einsamkeit in Roeders Büro empfing ihn (<i>Rath</i>) wie einen alten Freund. Eine Schreibmaschine gab es nur im Vorzimmer. Also setzte sich Rath an den verwaisten Sekretärinnenschreibtisch, <strong>spannte</strong> ein Blatt Papier <strong>ein</strong> und überlegte. (<i>Der nasse Fisch</i>, 306)',  
 	'Böhm trat ans Pult, sprach ein paar Takte und verteilte Papiere mit seinen Anweisungen wie ein Lehrer in der Schule die Aufgabenblätter. Außer der Kripo sollte auch die Abteilung IA <strong>eingespannt</strong> werden.. Der Polizeipräsident glaubte offensichtlich wirklich an einen politisch motivierten Mord und wollte das Spitzelsystem der Politischen Polizei <strong>einspannen</strong>.  (<i>Der nasse Fisch</i>, 326-27)',
 	'Zörgiebel <strong>spannte</strong> Jänickes Tod unverblümt für seine Zwecke <strong>ein</strong>.  (<i>Der nasse Fisch</i>, 329)',
+	'Kardakow wollte zusammen mit seiner Freundin das Sorokin-Gold nach Deutschland schmuggeln und für seine hochgesteckten politischen Ziele nutzbar machen. Und Marlow sollte das auffällige Gold.. in unauffällige Reichsmarkscheine und Kontoauszüge verwandeln. Kardakow hatte seinen Chef (<i>Marlow</i>) als Hehler <strong>eingespannt</strong>. Für vierzig Prozent.  (<i>Der nasse Fisch</i>, 347)',
 	'<u>Märzgefallene</u>',    
 	'Rath setzte sich an Klaßens Schreibmaschine, <strong>spannte</strong> ein Spurensicherungsberichtsformular <strong>ein</strong> und begann zu tippen. (<i>Märzgefallene</i>, 96)',
 	'<i>Rath</i>: "Wie soll ich das alleine schaffen, Oberkommissar? Das braucht doch ewig. Können Sie mir dafür nicht noch einen Mann geben?" <i>Böhm</i>: "Sehe ich aus, als hätte ich einen in der Hosentasche? Sind doch alle auf Kommunistenjagd... Sie haben doch eine Sekretärin. <strong>Spannen</strong> Sie die <strong>ein</strong>, wenn Sie das allein nicht schaffen!" (<i>Märzgefallene</i>, 100)',
@@ -2968,6 +3011,7 @@ abklappern: [
 	'Doch die Passbüros im Westflügel waren alle verschlossen. Sonntag. Kein Publikumsverkehr. Aber soweit er (<i>Rath</i>) wusste, wurde auch im Passamt sonntags gearbeitet, wenigstens mit kleiner Besetzung. Er <strong>klapperte</strong> alle Türen <strong>ab</strong> und hatte Glück: Als er um die Ecke bog... sah er einen grauhaarigen Beamten.... (<i>Der nasse Fisch</i>, 139)',
 	'Er (<i>Rath</i>) hoffte, die beiden Experten aus der Mordinspektion mit dem <strong>Abkappern</strong> der Wohnblöcke möglichst lange möglichst sinnlos zu beschäftigen. (<i>Der nasse Fisch</i>, 292)',
 	'Er hatte seine Leute eingeteilt. Czerwinski und Henning trieben sich immer noch im Stralauer Viertel herum und <strong>klapperten</strong> die Mietskasernen rund um die Baustelle <strong>ab</strong>. (<i>Der nasse Fisch</i>, 299)',
+	'Kein Wunder, dass er (<i>Rath</i>) müde war, der Nachmittag hatte sich nach dem Besuch im Passamt noch ganz schön in die Länge gezogen. Es hatte gedauert, bis Rath alle sechs Namen auf seiner Liste <strong>abgeklappert</strong> hatte. (<i>Der nasse Fisch</i>, 353)',
 	'<u>Märzgefallene</u>',
 	'"Strausberger Straße?", fragte Gereon. Gräf nickte...."Zur schlesischen Olga." <i>Gereon</i>: "Hört sich nicht gerade amtlich an." <i>Gräf</i>: "Die städtischen Asyle habe ich alle schon <strong>abgeklappert</strong>." <i>Gereon</i>: "Also ein privates Asyl." <i>Gräf</i>: "Wenn man so will." (<i>Märzgefallene</i>, 121)',
 	'<i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch...". <i>Levetzow, der Polizeipräsident</i>: "Dann fühlen Sie weiter! <strong>Klappern</strong> Sie sämtliche Personen <strong>ab</strong>, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!...."  (<i>Märzgefallene</i>, 358)',
@@ -3178,6 +3222,7 @@ anraunzen: [
 	'"Guten Tag, Herr Kommissar! ..Michael Lingen vom Tageblatt hier. Ich habe ein paar Fragen, wenn es nichts ausmacht..." Jetzt hatte er (<i>Rath</i>) schon die Presse am Hals! Welcher Idiot hatte dem Zeitungsfritzen nur die Nummer gegeben? Es gab keinen Grund, freundlich zu sein. "Und wenn es etwas ausmacht?", <strong>raunzte</strong> Rath den Mann in der Leitung <strong>an</strong>. "Ich habe zufällig gerade zu tun." (<i>Der nasse Fisch</i>, 288)',
 	'Zwei Schupos schoben vor der Bretterbude Wache..  "Tach", <strong>raunzte</strong> Böhm die Schupos <strong>an</strong> und zeigte seine Marke, "haben doch hoffentlich nichts angefasst."  (<i>Der nasse Fisch</i>, 319)',
 	'"Junger Freund, ich weiß nicht, ob Ihnen das zur Genüge klar ist", hatte Böhm ihn (<i>Rath</i>) <strong>angeraunzt</strong>, "aber ich leite hier die Ermittlungen. Und ich brauche niemanden, der mir Hinweise gibt!" (<i>Der nasse Fisch</i>, 330)',
+	'Der Beamte im Zimmer 152 war unkomplizierter und weniger auf das Einhalten sämtlicer Vorschriften bedacht. Besser gelaunt als der Alte (<i>Passbeamte</i>) war er jedoch auch nicht. Eher schlechter. Er habe zu tu, <strong>raunzte</strong> er Rath <strong>an</strong>, als der sein Anliegen vorgetragen hatte. (<i>Der nasse Fisch</i>, 351)',
 	'<u>Märzgefallene</u>',
 	'"Ihr habt’s gut hier in Köln", sagte Rath zu einem der beiden Schupos, die nicht eingegriffen hatten. "Ihr habt die Roten Funken als Hilfspolizei, bei uns machen das SA und Stahlhelm."  "Was wollen Sie denn, Mann?", <strong>raunzte</strong> der Blaue ihn <strong>an</strong>. (<i>Märzgefallene</i>, 53)',
 	'Böhm schien seine Niederlage Rath persönlich übelzunehmen. Als sie zehn Minuten später in Böhms Büro saßen, <strong>raunzte</strong> der Oberkommissar ihn <strong>an</strong>. "Sie haben Kriminalrat Gennat gehört, Kommissar, dann setzen Sie mal den Aufruf an die Presse auf." (<i>Märzgefallene</i>, 124)',
@@ -3200,17 +3245,35 @@ anquatschen: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-anrempeln: [
-	'<strong>anrempeln</strong>: jostle, bump into so. ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anrempeln"target="target1">anrempeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anrempeln"target="target2">anrempeln</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anrempeln"target="target3">anrempeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anrempeln"target="target4">anrempeln</a> ',
+'anrempeln, rempeln, Rempler': [ 
+	'der <strong>Rempler</strong>,-<strong>n</strong>: push, shove, bump'+
+	'<br>(<strong>an</strong>)<strong>rempeln</strong>: jostle, bump/barge into'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rempler"target="target1">Rempler</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rempeln"target="target2">rempeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rempler"target="target3">Rempler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rempeln"target="target4">rempeln</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath drehte instinktiv den Kopf zur Seite. Und kaum hatte er seinen Nebenmann im Visier, rannte der auch schon los.... Der Mann <strong>rempelte</strong> eine elegante Dame <strong>an</strong>, schlug ihr das Champagnerglas aus der Hand und drängte sie gegen ihren Begleiter. (<i>Der nasse Fisch</i>, 121)',
-	'Er (<i>Gereon</i>) hatte warten müssen.. Und dann wurde er für sein Warten belohnt. Sie (<i>Charly</i>) kam. Mit energischen Schritten stiefelte sie auf die Lücke zwischen den Bauzäunen zu, die die Fußgänger durch das Gewirr der Baustellen sicher zum Bahnhof Alexanderplatz leiteten.. Rath zog sich in den Winkel zurück, den zwei Bauzäune hier bildeten, und wartete, bis sie an ihm vorbeigelaufen war.. Es war gar nicht so einfach, mit ihr Schritt zu halten, einige Passanten, die er <strong>anrempelte</strong>, murrten.  (<i>Der nasse Fisch</i>, 268-69)' ,
+	'Rath zog sich in den Winkel zurück, den zwei Bauzäune hier bildeten, und wartete, bis sie (<i>Charly</i>) an ihm vorbeigelaufen war.. Es war gar nicht so einfach, mit ihr Schritt zu halten, einige Passanten, die er <strong>anrempelte</strong>, murrten. (<i>Der nasse Fisch</i>, 268-69)',
+	'Vor genau einer Woche hatte er hier gestanden und auf Charly gewartet. Un im Cafe Europa hatte er sie zum ersten Mal geküsst. Kinogänger <strong>rempelten sich</strong> an ihm vorbei und schimpften. Rath machte sich wieder auf den Weg. (<i>Der nasse Fisch</i>, 355)',  
 	'<u>Märzgefallene</u>',
 	'Edes brauen Hut konnte er (<i>Rath</i>) für eine Weile nicht sehen, den Dicken aber behielt er im Blick. Der Trottel schien immer nichts bemerkt zu haben. Rath <strong>rempelte</strong> ihn <strong>an</strong>, notgedrungen, als er an ihm vorbeistürzte.  (<i>Märzgefallene</i>, 21)',
 	'Die SA war immer unberechenbar.... Womöglich erkannte ihr (<i>Charlys</i>) besonderer Freund von heute Morgen sie wieder und hetzte seine Kumpane auf sie. Oder einer von ihnen käme einfach so auf die Idee, eine harmlose Passantin mit Hund <strong>anzurempeln</strong>, nur weil sie ihm zu jüdisch aussah. (<i>Märzgefallene</i>, 204)',
 	'"Na, der Mörder wird nicht gleich mit einem blutigen Messer in der Hand herumgelaufen sein", sagte Rath. "Aber vielleicht hatte es irgendjemand besonder eilig. Oder jemand hat die anderen Passagiere <strong>angerempelt</strong>, um schneller rauszukommen, irgend so was." (<i>Märzgefallene</i>, 345)',
+	'Experten wie Ede waren normalerweise in einer Truppe zu dritt unterwegs: Der <strong>Rempler</strong> lenkte das Opfer ab, indem er es anstieß oder auflaufen ließ, der Zieher griff blitzschnell zu und leitete die Beute an den Raben weiter, der schleunigst das Weite suchte... Rath spürte eine plötzliche Unruhe, als er darüber nachdachte... Grimberg, Wosniak, Roddeck. <strong>Rempler</strong>, Zieher und Rabe. (<i>Märzgefallene</i>, 544)',  
+], 
+'Rempler, rempeln, anrempeln': [ 
+	'der <strong>Rempler</strong>,-<strong>n</strong>: push, shove, bump'+
+	'<br>(<strong>an</strong>)<strong>rempeln</strong>: jostle, bump/barge into'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rempler"target="target1">Rempler</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rempeln"target="target2">rempeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rempler"target="target3">Rempler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rempeln"target="target4">rempeln</a>',
+	'<u>Der nasse Fisch</u>',
+	'Rath drehte instinktiv den Kopf zur Seite. Und kaum hatte er seinen Nebenmann im Visier, rannte der auch schon los.... Der Mann <strong>rempelte</strong> eine elegante Dame <strong>an</strong>, schlug ihr das Champagnerglas aus der Hand und drängte sie gegen ihren Begleiter. (<i>Der nasse Fisch</i>, 121)',
+	'Rath zog sich in den Winkel zurück, den zwei Bauzäune hier bildeten, und wartete, bis sie (<i>Charly</i>) an ihm vorbeigelaufen war.. Es war gar nicht so einfach, mit ihr Schritt zu halten, einige Passanten, die er <strong>anrempelte</strong>, murrten. (<i>Der nasse Fisch</i>, 268-69)',
+	'Vor genau einer Woche hatte er hier gestanden und auf Charly gewartet. Un im Cafe Europa hatte er sie zum ersten Mal geküsst. Kinogänger <strong>rempelten sich</strong> an ihm vorbei und schimpften. Rath machte sich wieder auf den Weg. (<i>Der nasse Fisch</i>, 355)',  
+	'<u>Märzgefallene</u>',
+	'Edes brauen Hut konnte er (<i>Rath</i>) für eine Weile nicht sehen, den Dicken aber behielt er im Blick. Der Trottel schien immer nichts bemerkt zu haben. Rath <strong>rempelte</strong> ihn <strong>an</strong>, notgedrungen, als er an ihm vorbeistürzte.  (<i>Märzgefallene</i>, 21)',
+	'Die SA war immer unberechenbar.... Womöglich erkannte ihr (<i>Charlys</i>) besonderer Freund von heute Morgen sie wieder und hetzte seine Kumpane auf sie. Oder einer von ihnen käme einfach so auf die Idee, eine harmlose Passantin mit Hund <strong>anzurempeln</strong>, nur weil sie ihm zu jüdisch aussah. (<i>Märzgefallene</i>, 204)',
+	'"Na, der Mörder wird nicht gleich mit einem blutigen Messer in der Hand herumgelaufen sein", sagte Rath. "Aber vielleicht hatte es irgendjemand besonder eilig. Oder jemand hat die anderen Passagiere <strong>angerempelt</strong>, um schneller rauszukommen, irgend so was." (<i>Märzgefallene</i>, 345)',
+	'Experten wie Ede waren normalerweise in einer Truppe zu dritt unterwegs: Der <strong>Rempler</strong> lenkte das Opfer ab, indem er es anstieß oder auflaufen ließ, der Zieher griff blitzschnell zu und leitete die Beute an den Raben weiter, der schleunigst das Weite suchte... Rath spürte eine plötzliche Unruhe, als er darüber nachdachte... Grimberg, Wosniak, Roddeck. <strong>Rempler</strong>, Zieher und Rabe. (<i>Märzgefallene</i>, 544)',  
 ], 
 anschmiegsam: [ 
 	'<strong>anschmiegen</strong>: snuggle up to'+
@@ -10545,13 +10608,6 @@ Rabe: [
 	'Experten wie Ede waren normalerweise in einer Truppe zu dritt unterwegs: Der Rempler lenkte das Opfer ab, indem er es anstieß oder auflaufen ließ, der Zieher griff blitzschnell zu und leitete die Beute an den <strong>Raben</strong> weiter, der schleunigst das Weite suchte... Rath spürte eine plötzliche Unruhe, als er darüber nachdachte... Grimberg, Wosniak, Roddeck. Rempler, Zieher und <strong>Rabe</strong>.   (<i>Märzgefallene</i>, 544)' ,  
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 ],
-Rempler: [
-	'der <strong>Rempler</strong>,-<strong>n</strong>: push, shove, bump  <br><strong>rempeln</strong>: jostle, barge into ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rempler"target="target1">Rempler</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/rempeln"target="target2">rempeln</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rempler"target="target3">Rempler</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rempeln"target="target4">rempeln</a> ' ,
-	'<u>Märzgefallene</u>',
-	'Experten wie Ede waren normalerweise in einer Truppe zu dritt unterwegs: Der <strong>Rempler</strong> lenkte das Opfer ab, indem er es anstieß oder auflaufen ließ, der Zieher griff blitzschnell zu und leitete die Beute an den Raben weiter, der schleunigst das Weite suchte... Rath spürte eine plötzliche Unruhe, als er darüber nachdachte... Grimberg, Wosniak, Roddeck. <strong>Rempler</strong>, Zieher und Rabe.  (<i>Märzgefallene</i>, 544)' ,  
-],
 Reinfall: [
 	'der <strong>Reinfall</strong>,-<strong>fälle</strong>: failure, washout, flop ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Reinfall"target="target1">Reinfall</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Reinfall"target="target2">Reinfall</a>  ' +
@@ -12220,12 +12276,15 @@ Schnösel: [
 	'Sie (<i>Charly</i>) zerrte den Hund von der Straßenlaterne weg, an der er gerade <strong>schnupperte</strong>, und betrat die Mietskaserne. (<i>Lunapark</i>, 114)' ,
 	'Kirie tapste über die Parkwege, <strong>schnupperte</strong> hier, <strong>schnupperte</strong> dort, schaute ihn (<i>Gereon</i>) ab und zu an, hechelte und wedelte mit dem Schwanz. (<i>Lunapark</i>, 351-52)' ,
 ],
-Schnur: [
-	'die <strong>Schnur</strong>,- <strong>nüre</strong>: string, cord, tie; laces ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnur_Strick"target="target1">Schnur</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schnur"target="target2">Schnur</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnur"target="target3">Schnur</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schnur"target="target4">Schnur</a> ' ,
+'Schnur, schnüren': [
+	'die <strong>Schnur</strong>,- <strong>nüre</strong>: string, cord, tie; laces'+
+	'<br><strong>schnüren</strong>: tie, lace'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnur_Strick"target="target1">Schnur</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schnur"target="target2">schnüren</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnur"target="target3">Schnur</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnüren"target="target4">schnüren</a>',
+	'<u>Der nasse Fisch</u>',
+	'Noch zwei Namen kamen ihm (<i>Rath</i>) in den Sinn. Russen, mit denen er noch eine Rechnung offen hatte. Die irgendetwas mit Kardakow zu tun haben mussten und deswegen in das Paket gehörten, das er Zörgiebel <strong>schnüren</strong> wollte. (<i>Der nasse Fisch</i>, 351)',
 	'<u>Märzgefallene</u>',
-	'Mit vereinten Kräften gelang es den beiden Wärtern, die arme Hannah Singer in die Zwangsjacke zu stecken, die sie mitgebracht hatten. Es schien ihnen Spaß zu machen, einer der beiden hatte tatsächlich so etwas wie ein zufriedenes Grinsen im Gesicht, als er an den <strong>Schnüren</strong> zog. (<i>Märzgefallene</i>, 48)' , 
+	'Mit vereinten Kräften gelang es den beiden Wärtern, die arme Hannah Singer in die Zwangsjacke zu stecken, die sie mitgebracht hatten. Es schien ihnen Spaß zu machen, einer der beiden hatte tatsächlich so etwas wie ein zufriedenes Grinsen im Gesicht, als er an den <strong>Schnüren</strong> zog. (<i>Märzgefallene</i>, 48)', 
 ],
 schnurstracks: [
 	'<strong>schnurstracks</strong>: straightaway, directly ' +
@@ -12236,7 +12295,7 @@ schnurstracks: [
 	'<u>Märzgefallene</u>',
 	'Rath wollte gerade doch eine Frage zu der braunen Uniform stellen, da öffnete sich die Badezimmertür, und ein Mann kam heraus, ein Handtuch um die Hüfte geschlungen, das blonde Haar noch nass, aber bereits perfekt gescheitelt, und marschierte <strong>schnurstracks</strong> in die Küche.  (<i>Märzgefallene</i>, 117)' ,
 ],
-//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',    
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
 Schotter: [
 	'der <strong>Schotter</strong>,-: crushed rock, macadam ' +
@@ -12601,6 +12660,7 @@ stibitzen: [
 	'Er (<i>Gereon</i>) hatte warten müssen.. Und dann wurde er für sein Warten belohnt. Sie (<i>Charly</i>) kam. Mit energischen Schritten <strong>stiefelte</strong> sie auf die Lücke zwischen den Bauzäunen zu, die die Fußgänger durch das Gewirr der Baustellen sicher zum Bahnhof Alexanderplatz leiteten...  (<i>Der nasse Fisch</i>, 268)',
 	'Neben der Baugrube hatten die Männer vom Erkennungsdienst mit ihrer Arbeit begonnen.. Aus einer Gruppe Bauarbeiter löste sich ein stämmiger Mann und kam ihnen entgegen.. Der Arbeiter begrüßte sie mit einem Nicken.. "Na, denn kommense man mit, die Herren", sagte er und <strong>stiefelte</strong> los.. Die Männer fluchten als der Polier sie quer über die Baustell führte. Überall Matsch, Schlamm und Pfützen. Sie hatten alle möglichen Dinge im Mordauto,.. aber an Gummi<strong>stiefel</strong> hatte niemand gedacht. (<i>Der nasse Fisch</i>, 281)',
 	'Ein Mann im grauen Mantel, in der rechten Hand eine Ledertasche, mit der linken den Hut festhaltend, überquerte die Baustelle und stakste durch den Matsch wie ein Storch. Rath erkannte Doktor Schwartz schon von weitem. Auch der Gerichtsmediziner hatte nicht an Gummi<strong>stiefel</strong> gedacht. (<i>Der nasse Fisch</i>, 286)',
+	'Der Alte (<i>ein Passbeamte</i>) setzte seine Lesebrille auf und <strong>stiefelte</strong> mit Raths Namensliste zu den Rollschränken. (<i>Der nasse Fisch</i>, 350)',
 	'<u>Märzgefallene</u>',
 	'Ein Schupo stand in der Gegend herum wie bestellt und nicht abgeholt, wippte auf den Absätzen seiner <strong>Stiefel</strong> vor und zurück und klopfte sich die behandschuhten Hände warm. (<i>Märzgefallene</i>, 93)',
 	'Der SA-Mann aus der Dachgeschosswohnung nahm Hose und Braunhemd über den Arm, setzte die Uniformmütze auf und nahm die <strong>Stiefel</strong> in die Hand. (<i>Märzgefallene</i>, 118)',
@@ -15532,6 +15592,7 @@ Gräfin Swetlana Sorokina
 'Ast'  ;   Nworte++;    Märzgefallene   27    34
  'attestieren'  ;   Nworte++;    Märzgefallene   27
 Augenpartie Märzgefallene 336
+aufkratzen  Der nasse Fisch 355
 aus der Reihe tanzen Märzgefallene 381
 Aushebung  Der nasse Fisch 19  aushebeln  31  
 ausheulen  Märzgefallene  508   ausgeheult       
@@ -15563,7 +15624,6 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  durchforsten Lunapark 345
   einhaken  Märzgefallene   409
  'einschnappen'  ;   Nworte++;    Märzgefallene   43
- einschleusen  Lunapark 104
  Empore  Der nasse Fisch  202
  'erbeuten'  ; Mrzgefallene   124  Lunapark 220
  'einpflanzen'  ;   Nworte++;    Märzgefallene   166
@@ -15693,7 +15753,6 @@ mutmaßen  Lunapark 110 at top
  raunzen Lunapark 59
  'Reim machen'  ;   Nworte++       Märzgefallene  68
  Reine  ins Reine schreiben  Der nasse Fisch 292
- Rempler   Märzgefallene   544
  Ritze Märzgefallene  487
 Rohre bottom of pg 21, Der nasse Fisch
 Rost  Federrost  Lunapark 333

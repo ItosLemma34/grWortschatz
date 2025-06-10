@@ -23,6 +23,7 @@ const e = [
    'einreißen, niederreißen',  // * duplicated  
    'einrenken (sich)',  // *  
    'einrüsten, Gerüst',  // * duplicated  
+   'einschleusen',  //  einschleusen: *
    'einseifen',  // einseifen:  *
    'einspannen', // einspannen: *
    'Einstand' ,  // Einstand: *

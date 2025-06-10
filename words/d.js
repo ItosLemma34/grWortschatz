@@ -6,6 +6,7 @@ const d = [
    'dazwischenfunken', // dazwischenfunken: *  
    'Deckel',   // Deckel: *
    'deichseln', // deichseln:  * 
+   'Depp',  // Depp:  *
    'dezent',   // dezent: *
    'Diele',   // Diele:  *
    'Dietrich',  // Dietrich: *

@@ -25,7 +25,7 @@ const r = [
    'reinsemmeln', // reinsemmeln:  *
    'reißen (sich um etwas)', // *
    'reißerisch',  // reißerisch: *
-   'Rempler',  // Rempler: *
+   'Rempler, rempeln, anrempeln',  //  * duplicated
    'renitent',  // renitent: *
    'requirieren', // requirieren: *
    'reüssieren',  // reüssieren: *

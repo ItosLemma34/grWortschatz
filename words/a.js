@@ -53,7 +53,7 @@ const a = [
 	'anpumpen',     // anpumpen: *
 	'anquatschen',   // anquatschen: *
 	'anraunzen',     // anraunzen: *
-	'anrempeln',    // anrempeln: *
+	'anrempeln, rempeln, Rempler',  // * duplicated
 	'Anrichte',     // Anrichte: *
 	'anrücken, ausrücken, nachrücken', // * triplicated  
 	'ans Bein binden',  // * duplicated

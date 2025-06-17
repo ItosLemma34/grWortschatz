@@ -1,26 +1,27 @@
 const a = [
-	'aalglatt',   // aalglatt:  *   
-	'abbinden',   // abbinden:  *
-	'abblitzen',  // abblitzen: *
-	'abebben',    // abebben:  *
-	'abfackeln',  // abfackeln:  *
-	'abgebrüht',  // abgebrüht:  * 
-	'abgrasen',   // abgrasen:   *
-	'abgreifen, abgegriffen',  // *
+	'aalglatt',   // aalglatt:     
+	'abbinden',   // abbinden:  
+	'abblitzen',  // abblitzen: 
+	'abebben',    // abebben:  
+	'abfackeln',  // abfackeln:  
+	'abgebrüht',  // abgebrüht:   
+	'abgrasen',   // abgrasen:   
+	'abgreifen, abgegriffen',  // 
 //	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
-	'abkanzeln' , // abkanzeln:  *
-	'abklappern', // abklappern: *
-	'abknallen',  // abknallen:  *
-	'abkommandieren',  // abkommandieren: *
-	'Ablage',     // Ablage:  *
-	'abluchsen',  // abluchsen: *
-	'abschüssig',  // abschüssig: * 
-	'abspulen',   // abspulen:  *
-	'abstauben',  // abstauben: *
-	'abstottern', // abstottern: *
-	'abtrünnig',  // abtrünnig:  *
-	'abwiegeln',  // abwiegeln:  *    
-	'abwimmeln',  // abwimmeln:  *   
+	'abkanzeln' , // abkanzeln:  
+	'abklappern', // abklappern: 
+	'abknallen',  // abknallen:  
+	'abkommandieren',  // abkommandieren: 
+	'Ablage',     // Ablage:  
+	'abluchsen',  // abluchsen: 
+	'abschüssig',  // abschüssig:  
+	'abspulen',   // abspulen:  
+	'abstauben',  // abstauben: 
+	'abstottern', // abstottern: 
+	'abtrünnig',  // abtrünnig: 
+	'abtupfen, betupfen, tupfen',  
+	'abwiegeln',  // abwiegeln:      
+	'abwimmeln',  // abwimmeln:     
 	'abzocken',  // abzocken:  *
 	'Abzweig, abzweigen',  //  *
 	'Achterbahn', // Achterbahn: *
@@ -47,24 +48,26 @@ const a = [
 	'anglotzen, glotzen', // * duplicated 
 	'anheuern',  // anheuern: *
 	'anhimmeln',    // anhimmeln: *  
-	'anleinen',     // anleinen:  *
-	'Anpfiff' ,     // Anpfiff: * 
-	'anpflaumen',   // anpflaumen: * 
-	'anpumpen',     // anpumpen: *
+	'anleinen',     // anleinen:  
+	'Anpfiff' ,     // Anpfiff:  
+	'anpflaumen',   // anpflaumen:  
+	'anpumpen',     // anpumpen: 
 	'anquatschen',   // anquatschen: *
 	'anraunzen',     // anraunzen: *
 	'anrempeln, rempeln, Rempler',  // * duplicated
-	'Anrichte',     // Anrichte: *
-	'anrücken, ausrücken, nachrücken', // * triplicated  
-	'ans Bein binden',  // * duplicated
-	'anschleichen (sich)', // *
-	'anschmachten, schmachten', // * duplicated
-	'anschmiegsam', // anschmiegsam: *
-	'anschnauzen',  // anschnauzen: *
-	'anschnorren, schnorren', // * duplicated
-	'anschwärzen',  // anschwärzen:  *
-	'ansengen',     // ansengen:  *
-	'Ansinnen' ,    // Ansinnen: * 
+	'Anrichte',     // Anrichte: 
+	'anrücken, ausrücken, nachrücken', //  triplicated  
+	'ans Bein binden',  //  duplicated
+	'anschleichen (sich)', // 
+	'anschmachten, schmachten', //  duplicated
+	'anschmiegsam', // anschmiegsam: 
+	'anschnauzen',  // anschnauzen: 
+	'anschnorren, schnorren', //  duplicated
+	'anschwärzen',  // anschwärzen:  
+	'ansengen',     // ansengen:  
+	'Ansinnen' ,    // Ansinnen:  
+	'anstandslos',  // anstandslos:  
+	'anstieren, stieren',  // * duplicated
 	'anstupsen',    // anstupsen: *
 	'antanzen',     // antanzen: *  
 	'Anwesen',      // Anwesen: *
@@ -87,6 +90,7 @@ const a = [
 	'auf dem Sprung',      // * duplicate
 	'auf den Arm nehmen',  // * duplicated
 	'auf den Leim gehen',  // * duplicated
+	'auf der Nase herumtanzen',  // *  duplicated
 	'auf den Putz hauen',  //  * duplicated
 	'auf den Schlips treten', // * duplicated
 	'auf den Strich gehen', // * duplicated

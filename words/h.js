@@ -1,25 +1,25 @@
 const h = [
-  'Habgier',  // Habgier: *
+  'Habgier',  // Habgier: 
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
-   'hadern',  // hadern: * 
-   'Häkchen',  // Häkchen: *
-   'haken, Haken, Haken schlagen', // *
-   'halbgar', // halbgar:  *
-   'halbseiden',  // halbseiden: *  
-   'Halunke',  // Halunke: *
-   'hämisch',  // hämisch: *
+   'hadern',  // hadern:  
+   'Häkchen',  // Häkchen: 
+   'haken, Haken, Haken schlagen', 
+   'halbgar', // halbgar:  
+   'halbseiden',  // halbseiden:   
+   'Halunke',  // Halunke: 
+   'hämisch',  // hämisch: 
   // 'hämmern',
-   'Handfessel, Handschelle', // *
-   'Handwerk legen', // *
-   'handzahm, zahm', // * duplicated
-   'hanebüchen',  // hanebüchen: *
-   'hapern',  // hapern: *
-   'Happen, Häppchen', //  * 
-   'harren',  // harren: *
-   'hart im Nehmen sein', // *
-   'Hatz',  // Hatz: *
-   'Haube', // Haube:  *
-   'hausieren', // hausieren: *
+   'Handfessel, Handschelle', // 
+   'Handwerk legen', // 
+   'handzahm, zahm', //  duplicated
+   'hanebüchen',  // hanebüchen: 
+   'hapern',  // hapern: 
+   'Happen, Häppchen', //   
+   'harren',  // harren: 
+   'hart im Nehmen sein', // 
+   'Hatz',  // Hatz: 
+   'Haube', // Haube:  
+   'Hausierer, hausieren',  
    'Hautausschlag' , // Hautausschlag: *
    'hecheln', // hecheln: *
    'hechten, Hechtsprung', // *

@@ -6,7 +6,8 @@ const n = [
    'nachrücken, anrücken, ausrücken', // * triplicated
    'nagen',  // nagen: *
    'Napf',  // Napf: * 
-   'Nase (auf die N, binden)',  // * duplicated
+   'Nase (auf der N. herumtanzen)', // * duplicated
+   'Nase (auf die N. binden)',  // * duplicated
    'Nase (lange N. zeigen/machen)', // * duplicated
    'Nepp',  // Nepp: *
    'Nervensäge', // Nervensäge: *

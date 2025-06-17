@@ -1,4 +1,5 @@
 const s = [
+   'sabbern',  // *
    'Sägemehl', // Sägemehl: *
    'sägen, aussägen', // duplicated *
    'Samt', // Samt:  *
@@ -102,7 +103,7 @@ const s = [
    'Schritt',  // Schritt:  *
    'Schrotflinte', // Schrotflinte: *
    'Schrott',  // Schrott:  *
-   'Schrubber, schrubben', // *  make duplicate if schrubben found
+   'Schrubber, schrubben', // *  
    'schubsen',  // schubsen:  *
    'schummrig',  // schummrig: *
    'Schund',  // Schund: *
@@ -177,7 +178,7 @@ const s = [
    'stibitzen', // stibitzen: *
    'Stich (einen Stich versetzen)', // *
    'Stiefel, stiefeln', // *
-   'stieren',  // stieren:  *
+   'stieren, anstieren',  //   *  duplicated
    'stöbern',  // stöbern:  *
    'stochern',  // stochern: *
    'stöckeln, Stöckelschuh', // *

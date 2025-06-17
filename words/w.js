@@ -31,7 +31,7 @@ const w = [
    'Wimper',   // Wimper: *
    'Wind (durch den W. sein)', // * duplicated
    'winden, gewunden',  // * duplicated
-   'Wink mit dem Zaunpfahl' , // * duplicated
+   'Wink mit dem Zaunpfahl' , // * duplicated    
    'Winkel' ,  // Winkel: *
    'Winkeladvokat',  // Winkeladvokat: *
    'winseln',  // winseln: *

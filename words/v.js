@@ -31,46 +31,46 @@ const v = [
    'verkatert, Kater',  // * duplicated
    'verkneifen (sich), verkniffen', // *
    'verknicken',  // verknicken: *
-   'verknoten',  // verknoten:  *
-   'verkommen',  // verkommen: *
-   'verkorkst, verkorken',  // *
-   'verköstigen, beköstigen', // *  
-   'verkriechen (sich)',  // *
-   'verkrümeln',  // verkrümeln:  *
-   'vermaledeit', // vermaledeit: *
-   'vermasseln',  // vermasseln: *
-   'verminen',  // verminen:  *
-   'verpetzen' , // verpetzen:  *
-   'verpfeifen',  // verpfeifen: *
-   'verplappern (sich)', //  *
-   'verplempern',  // verplempern: *
-   'verputzen',  // verputzen: *
-   'verquirlen', // verquirlen *
-   'verrammeln',  // verrammeln:  *
-   'verrecken',  // verrecken:  *
-   'verrenken (sich)', //  *
-   'verrennen (sich)' , //  *
-   'verrucht' ,  // verrucht:  *
-   'verrufen', // verrufen:  *
-   'verrußt' , // verrußt:  *  duplicate if Ruß or verrußen found
-   'verrutschen' ,  // verrutschen:  *
-   'versacken',  // versacken:  *
-   'versauen',   // versauen:  *
-   'versaufen', // versaufen: *
-   'verschanzen (sich)' , //  *
-   'verscharren',    // verscharren: *
-   'verschaukeln',  // verschaukeln: *
-   'verscherbeln', // verscherbeln: *
-   'verscherzen (sich)',  //  *
-   'verschieben',  // verschieben:  *
-   'verschimmeln' ,  // verschimmeln:  *
-   'Verschlag' ,   // Verschlag:  *
-   'verschleißen', // verschleißen: *
-   'verschmieren' , // verschmieren: *
-   'verschnupft' ,  // verschnupft:  *
-   'verschnüren',  // verschnüren:  *
-   'verschollen' , // verschollen:  *
-   'verschorft, verschorfen' ,  // *
+   'verknoten',  // verknoten:  
+   'verkommen',  // verkommen: 
+   'verkorkst, verkorken',  // 
+   'verköstigen, beköstigen', //   
+   'verkriechen (sich)',  // 
+   'verkrümeln',  // verkrümeln:  
+   'vermaledeit', // vermaledeit: 
+   'vermasseln',  // vermasseln: 
+   'verminen',  // verminen:  
+   'verpetzen' , // verpetzen:  
+   'verpfeifen',  // verpfeifen: 
+   'verplappern (sich)', //  
+   'verplempern',  // verplempern: 
+   'verputzen',  // verputzen: 
+   'verquirlen', // verquirlen 
+   'verrammeln',  // verrammeln:  
+   'verrecken',  // verrecken:  
+   'verrenken (sich)', //  
+   'verrennen (sich)' , //  
+   'verrucht' ,  // verrucht:  
+   'verrufen', // verrufen:  
+   'verrußt' , // verrußt:    duplicate if Ruß or verrußen found
+   'verrutschen' ,  // verrutschen:  
+   'versacken',  // versacken:  
+   'versauen',   // versauen:  
+   'versaufen', // versaufen: 
+   'verschanzen (sich)' , //  
+   'verscharren',    // verscharren: 
+   'verschaukeln',  // verschaukeln: 
+   'verscherbeln', // verscherbeln: 
+   'verscherzen (sich)',  //  
+   'verschieben',  // verschieben:  
+   'verschimmeln' ,  // verschimmeln:  
+   'Verschlag' ,   // Verschlag:  
+   'verschleißen', // verschleißen: 
+   'verschmieren' , // verschmieren: 
+   'verschnupft' ,  // verschnupft:  
+   'verschnüren',  // verschnüren:  
+   'verschollen' , // verschollen:  
+   'verschorft, verschorfen' ,  // 
    'verschrumpeln',  // verschrumpeln:  *
    'verschütten',  // verschütten:  *
    'versehen',  // versehen: *

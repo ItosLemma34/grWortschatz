@@ -1,41 +1,41 @@
 const b = [
-    'Backfisch', // Backfisch: *  
-    'Bahre',  // Bahre: *
-    'Balken, Gebälk', // *  duplicated  
-    'ballern',  // ballern:  *
-    'Banderole', // Banderole: *
-    'barsch',   // barsch: *
-    'Bartstoppel', // Bartstoppel: *
+    'Backfisch', // Backfisch:   
+    'Bahre',  // Bahre: 
+    'Balken, Gebälk', //   duplicated  
+    'ballern',  // ballern:  
+    'Banderole', // Banderole: 
+    'barsch',   // barsch: 
+    'Bartstoppel', // Bartstoppel: 
     'Baskenmütze',  // Baskenmütze:  *
-    'bäuchlings', // bäuchlings: *
-    'bauschen, aufbauschen',  // * duplicated 
-    'beäugen',  // beäugen: *
-    'bedröppelt',  //bedröppelt: *
-    'beflissen',  // beflissen: *
-    'begrapschen',  // begrapschen:  *
-    'Begriffsstutzigkeit', // Begriffsstutzigkeit:  *
-    'behelligen, unbehelligt',   //   *  duplicated
-    'beherzt',     // beherzt: *  
-    'beichten',  // beichten: * 
-    'beikommen',   // beikommen: *
-    'Beil',  // Beil: *
-    'Bein (ans B. binden)', // *  duplicated 
-    'Beine in den Bauch',  // *
-    'beipflichten',   // beipflichten: * 
-  //  'beköstigen, verköstigen', // * duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
+    'bäuchlings', // bäuchlings: 
+    'bauschen, aufbauschen',  //  duplicated 
+    'beäugen',  // beäugen: 
+    'bedröppelt',  //bedröppelt: 
+    'beflissen',  // beflissen: 
+    'begrapschen',  // begrapschen:  
+    'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
+    'behelligen, unbehelligt',   //     duplicated
+    'beherzt',     // beherzt:   
+    'beichten',  // beichten:  
+    'beikommen',   // beikommen: 
+    'Beil',  // Beil: 
+    'Bein (ans B. binden)', //   duplicated 
+    'Beine in den Bauch',  // 
+    'beipflichten',   // beipflichten:  
+  //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
-    'Bengel',     // Bengel:  *
-    'benommen',   // benommen: *
-    'bepinseln, pinseln', // * duplicated
-    'berappen',   // berappen: * 
-    'beredt',     // beredt: * 
-    'Beritt, beritten',  // *  
-    'bescheuert',  // bescheuert: *
-    'Besen',      // Besen:  *
-    'Besteck',    // Besteck:  *  
+    'Bengel',     // Bengel:  
+    'benommen',   // benommen: 
+    'bepinseln, pinseln', //  duplicated
+    'berappen',   // berappen:  
+    'beredt',     // beredt:  
+    'Beritt, beritten',  //   
+    'bescheuert',  // bescheuert: 
+    'Besen',      // Besen:  
+    'Besteck',    // Besteck:    
   //  'betreten',   // betreten:  Finish with betreten from Lunapark 
-    'Bettfeder',  // Bettfeder: *  
-    'betupfen, tupfen',   // * duplicated  
+    'Bettfeder',  // Bettfeder:   
+    'betupfen, abtupfen, tupfen',   //  triplicated  
     'Beule, beulen',   //  *
     'bibbern',    // bibbern: *
     'bieder',     // bieder: *

@@ -11,6 +11,7 @@ const d = [
    'Diele',   // Diele:  *
    'Dietrich',  // Dietrich: *
    'dingfest',  // dingfest:  *
+   'direktemang', // direktemang:  *
    'dösen, eindösen',  // *  duplicated
    'drall',    // drall:  *
    'drängeln (sich)',  // *

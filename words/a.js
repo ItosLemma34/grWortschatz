@@ -6,7 +6,7 @@ const a = [
 	'abfackeln',  // abfackeln:  
 	'abgebrüht',  // abgebrüht:   
 	'abgrasen',   // abgrasen:   
-	'abgreifen, abgegriffen',  // 
+	'abgreifen, abgegriffen',   
 //	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
 	'abkanzeln' , // abkanzeln:  
 	'abklappern', // abklappern: 
@@ -67,7 +67,7 @@ const a = [
 	'ansengen',     // ansengen:  
 	'Ansinnen' ,    // Ansinnen:  
 	'anstandslos',  // anstandslos:  
-	'anstieren, stieren',  // * duplicated
+	'anstieren, stieren',  //  duplicated
 	'anstupsen',    // anstupsen: *
 	'antanzen',     // antanzen: *  
 	'Anwesen',      // Anwesen: *
@@ -134,7 +134,7 @@ const a = [
 	'aufscheuchen',    // aufscheuchen: *  
 	'aufschichten',   // aufschichten: * 
 	'aufstieben',    // aufstieben:  *
-	'aufstöbern',    // aufstöbern: * 
+	'aufstöbern',    // aufstöbern:  
 	'aufstöhnen, stöhnen', // * duplicated
 	'aufsummen, summen', // * duplicated
 	'auftakeln',     // auftakeln: *

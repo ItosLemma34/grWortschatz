@@ -1,35 +1,35 @@
 const g = [
-   'Gage',  // Gage:  *
-   'Ganove', // Ganove: * 
-   'Gänsehaut', // Gänsehaut: *
-   'Gassi gehen',  //  *
-   'Gauner', // Gauner: *
-   'Geäst, Ast',  // * duplicated  
-   'Gebälk, Balken', // * duplicated 
-   'Gebell', // Gebell: *  duplicate with "bellen" if found
-   'Gebrüll, brüllen',  // * duplicated 
-   'Gebüsch, Busch',  // * duplicated 
-   'gediegen',  // gediegen: *
-   'gefasst',  // gefasst: *
-   'geflissentlich',  // geflissentlich: *
-   'gefügig', // gefügig: *
-   'Gehabe',  // Gehabe:  *  
-   'Geheiß', // Geheiß: *  
-   'gehetzt, hetzen', // * duplicated
-   'Gehirnerschütterung', // Gehirnerschütterung: *
-   'geizen',   // geizen:  *
-   'Gekrächz',  // Gekrächz:  * 
-   'Gelände',   // Gelände:  *
-   'Geländer',  // Geländer: * 
-   'gelinde',   // gelinde:  *
-   'Gemächt',  // Gemächt: *
-   'Gemurmel',  // Gemurmel:  *
-   'gepfeffert, pfeffern', // *  duplicated 
-   'Geplänkel, Vorgeplänkel',  // *  duplicated  
-   'Geplapper',  // Geplapper: *
-   'gequollen, quellen',  // * duplicated
-   'gerädert',  // *
-   'Gerangel', // Gerangel:  *
+   'Gage',  // Gage:  
+   'Ganove', // Ganove:  
+   'Gänsehaut', // Gänsehaut: 
+   'Gassi gehen',  
+   'Gauner', // Gauner: 
+   'Geäst, Ast',  //  duplicated  
+   'Gebälk, Balken', //  duplicated 
+   'Gebell', // Gebell:   duplicate with "bellen" if found
+   'Gebrüll, brüllen',  //  duplicated 
+   'Gebüsch, Busch',  //  duplicated 
+   'gediegen',  // gediegen: 
+   'gefasst',  // gefasst: 
+   'geflissentlich',  // geflissentlich: 
+   'gefügig', // gefügig: 
+   'Gehabe',  // Gehabe:    
+   'Geheiß', // Geheiß:   
+   'gehetzt, hetzen', //  duplicated
+   'Gehirnerschütterung', // Gehirnerschütterung: 
+   'geizen',   // geizen:  
+   'Gekrächz',  // Gekrächz:   
+   'Gelände',   // Gelände:  
+   'Geländer',  // Geländer:  
+   'gelinde',   // gelinde:  
+   'Gemächt',  // Gemächt: 
+   'Gemurmel',  // Gemurmel:  
+   'gepfeffert, pfeffern', //   duplicated 
+   'Geplänkel, Vorgeplänkel',  //   duplicated  
+   'Geplapper',  // Geplapper: 
+   'gequollen, quellen',  //  duplicated
+   'gerädert',  // 
+   'Gerangel', // Gerangel:  
    'Geräuschkulisse', // Geräuschkulisse:  *
    'gerieren (sich)',   // * 
    'gerinnen',   // gerinnen:  *

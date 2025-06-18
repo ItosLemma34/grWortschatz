@@ -1,5 +1,5 @@
 const o = [
-  'Ordner', // Ordner: *
+  'Ordner', // Ordner: 
 ];
 
 export default o;      

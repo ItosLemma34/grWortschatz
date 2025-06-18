@@ -1,28 +1,28 @@
 const d = [
-   'Dachlatte', // Dachlatte: *
-   'dämlich, Dämlichkeit',  // *
-   'Dampframme',  // Dampframme: * 
-   'Dampfwalze',  // Dampfwalze: *
-   'dazwischenfunken', // dazwischenfunken: *  
-   'Deckel',   // Deckel: *
-   'deichseln', // deichseln:  * 
-   'Depp',  // Depp:  *
-   'dezent',   // dezent: *
-   'Diele',   // Diele:  *
-   'Dietrich',  // Dietrich: *
-   'dingfest',  // dingfest:  *
-   'direktemang', // direktemang:  *
-   'dösen, eindösen',  // *  duplicated
-   'drall',    // drall:  *
-   'drängeln (sich)',  // *
-   'draufhaben',  // draufhaben: *
-   'Dreh',    // Dreh: *
-   'Dreigestirn',  // Dreigestirn: * 
-   'Dreistigkeit, dreist',  // *
-   'drosseln',  // drosseln: *
-   'Druckfahne', // Druckfahne: *
-   'drucksen (herum)',   //  *
-   'drunter und drüber gehen', // *
+   'Dachlatte', // Dachlatte: 
+   'dämlich, Dämlichkeit',  // 
+   'Dampframme',  // Dampframme:  
+   'Dampfwalze',  // Dampfwalze: 
+   'dazwischenfunken', // dazwischenfunken:   
+   'Deckel',   // Deckel: 
+   'deichseln', // deichseln:   
+   'Depp',  // Depp:  
+   'dezent',   // dezent: 
+   'Diele',   // Diele:  
+   'Dietrich',  // Dietrich: 
+   'dingfest',  // dingfest:  
+   'direktemang', // direktemang:  
+   'dösen, eindösen',  //   duplicated
+   'drall',    // drall:  
+   'drängeln (sich)',  // 
+   'draufhaben',  // draufhaben: 
+   'Dreh',    // Dreh: 
+   'Dreigestirn',  // Dreigestirn:  
+   'Dreistigkeit, dreist',   
+   'drosseln',  // drosseln: 
+   'Druckfahne', // Druckfahne: 
+   'drucksen (herum)',   //  
+   'drunter und drüber gehen', // 
    /*'den Hintern plattsitzen', */
    'dudeln',   // dudeln: *
    'dumpf',    // dumpf: *

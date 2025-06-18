@@ -1,15 +1,15 @@
 const s = [
-   'sabbern',  // *
-   'Sägemehl', // Sägemehl: *
-   'sägen, aussägen', // duplicated *
-   'Samt', // Samt:  *
-   'Sauklaue', // Sauklaue:  *
-   'säumen', // säumen:  *
-   'Sause',  //Sause:  *
-   'sausen', // sausen:  *
-   'schaben', // schaben:  * 
-   'schade (zu schade sein)',   //duplicated *
-   'schälen', // schälen:  *  
+   'sabbern',  // sabbern:
+   'Sägemehl', // Sägemehl: 
+   'sägen, aussägen', // duplicated 
+   'Samt', // Samt:  
+   'Sauklaue', // Sauklaue:  
+   'säumen', // säumen:  
+   'Sause',  //Sause:  
+   'sausen', // sausen:  
+   'schaben', // schaben:   
+   'schade (zu schade sein)',   //duplicated 
+   'schälen', // schälen:    
  //  'Schank',  // Schank: needs work
    'Schar',  // Schar:  *
    'Scharfmacher', // Scharfmacher:  * 
@@ -148,44 +148,44 @@ const s = [
    'Spieß, spießen',  // 'Spieß, spießen' *
    'spitzkriegen',  // spitzkriegen:  *
    'Sprechmuschel',  // Sprechmuschel:
-   'spreizen', // spreizen: *
-//   'Sprenkel', // Sprenkel: *
-   'Spreu vom Weizen trennen',  //  *
-   'Sprung (auf dem S.)',  // * duplicated
-   'Speichel',  // Speichel:  *
-   'Sprosse',  // Sprosse:  *
-   'Spülbürste',  // Spülbürste: *
-   'Spüle, spülen, Spülung', // *
-   'Spund', // Spund:  *
-   'spuren',  // spuren: *
-   'sputen (sich)', // *
-   'Stadtstreicher', // Stadtstreicher:  *
-   'Staffage', // Staffage: *
-   'staksen',  // staksen:  *
-   'Standpauke',  // Standpauke: *
-   'Stange',  // Stange:  *
-   'Stapel, stapeln', //  *
-   'stapfen',  // stapfen:  *
-   'starren (vor Schmutz starren)', // *
-   'Statist', // Statist:  *
-   'Stativ',  // Stativ:  *
-   'statuieren', // statuieren:  *
-   'Staub (sich aus dem S. machen', // * duplicated
-   'stauchen', // stauchen:  *
-   'Steckbrief', // Steckbrief:  *
-   'Stecknadel im Heuhaufen',  // *
-   'Steg', // Steg: *
-   'stibitzen', // stibitzen: *
-   'Stich (einen Stich versetzen)', // *
-   'Stiefel, stiefeln', // *
-   'stieren, anstieren',  //   *  duplicated
-   'stöbern',  // stöbern:  *
-   'stochern',  // stochern: *
-   'stöckeln, Stöckelschuh', // *
-   'stöhnen, aufstöhnen', //  * duplicated
-   'stopfen, Stopfen', // *
-   'Stöpsel',   // Stöpsel: *
-   'stolzieren', // stolzieren: *
+   'spreizen', // spreizen: 
+//   'Sprenkel', // Sprenkel: 
+   'Spreu vom Weizen trennen',  
+   'Sprung (auf dem S.)',  //  duplicated
+   'Speichel',  // Speichel:  
+   'Sprosse',  // Sprosse:  
+   'Spülbürste',  // Spülbürste: 
+   'Spüle, spülen, Spülung', 
+   'Spund', // Spund:  
+   'spuren',  // spuren: 
+   'sputen (sich)', 
+   'Stadtstreicher', // Stadtstreicher:  
+   'Staffage', // Staffage: 
+   'staksen',  // staksen:  
+   'Standpauke',  // Standpauke: 
+   'Stange',  // Stange:  
+   'Stapel, stapeln', 
+   'stapfen',  // stapfen:  
+   'starren (vor Schmutz starren)', 
+   'Statist', // Statist:  
+   'Stativ',  // Stativ:  
+   'statuieren', // statuieren:  
+   'Staub (sich aus dem S. machen', //  duplicated
+   'stauchen', // stauchen:  
+   'Steckbrief', // Steckbrief:  
+   'Stecknadel im Heuhaufen',  
+   'Steg', // Steg: 
+   'stibitzen', // stibitzen: 
+   'Stich (einen Stich versetzen)', 
+   'Stiefel, stiefeln', 
+   'stieren, anstieren',  //   duplicated
+   'stöbern',  // stöbern:  
+   'stochern',  // stochern: 
+   'stöckeln, Stöckelschuh', 
+   'stöhnen, aufstöhnen', //   duplicated
+   'stopfen, Stopfen', 
+   'Stöpsel',   // Stöpsel: 
+   'stolzieren', // stolzieren: 
    'strampeln',  // strampeln: *
    'Strauch, Gesträuch',  //  * duplicated
    'Strebe', // Strebe: *

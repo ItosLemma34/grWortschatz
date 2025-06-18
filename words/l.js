@@ -1,20 +1,20 @@
 const l = [
-   'Lache',  // Lache: *
-   'Lack',  // Lack: *
-   'Lackaffe',  // Lackaffe:  *
-   'lädieren',  // lädieren: *
-   'laff',  // laff: *
-   'Laken', // Laken: *
-   'lallen',  // lallen: *
-   'lange Nase zeigen/machen', // * duplicated
-   'Lappen',   // Lappen: *
-   'läppisch', // läppisch:  *
-   'lässig',  // lässig: *
-   'lasten',  // lasten: *
-   'Laster',  // Laster:  *
+   'Lache',  // Lache: 
+   'Lack',  // Lack: 
+   'Lackaffe',  // Lackaffe:  
+   'lädieren',  // lädieren: 
+   'laff',  // laff: 
+   'Laken', // Laken: 
+   'lallen',  // lallen: 
+   'lange Nase zeigen/machen', //  duplicated
+   'Lappen',   // Lappen: 
+   'läppisch', // läppisch:  
+   'lässig',  // lässig: 
+   'lasten',  // lasten: 
+   'Laster',  // Laster:  
    'Lastkahn', // Lastkahn: *  pair with Kahn, if found
-   'Laube, Laubenkolonie', //  *
-   'Lauf',    // Lauf: *
+   'Laube, Laubenkolonie', 
+   'Lauf',    // Lauf: 
    'Laufbursche',  // Laufbursche: *
    'lausig',  // lausig: *
    'läutern, Läuterung', // *

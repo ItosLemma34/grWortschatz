@@ -9,32 +9,32 @@ const h = [
    'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 
   // 'hämmern',
-   'Handfessel, Handschelle', // 
-   'Handwerk legen', // 
+   'Handfessel, Handschelle',  
+   'Handwerk legen',  
    'handzahm, zahm', //  duplicated
    'hanebüchen',  // hanebüchen: 
    'hapern',  // hapern: 
-   'Happen, Häppchen', //   
+   'Happen, Häppchen',    
    'harren',  // harren: 
-   'hart im Nehmen sein', // 
+   'hart im Nehmen sein',  
    'Hatz',  // Hatz: 
    'Haube', // Haube:  
    'Hausierer, hausieren',  
-   'Hautausschlag' , // Hautausschlag: *
-   'hecheln', // hecheln: *
-   'hechten, Hechtsprung', // *
-   'Hecke', // Hecke: *
-   'Heckenschütze',  // Heckenschütze:  *
-   'Heft des Handelns nehmen', // *
-   'heften', // heften: *
-   'Hehler', // Hehler:  *
-   'Heidenarbeit', // Heidenarbeit:  *
-   'Heidenrespekt/angst', // *
-   'Heimtücke, heimtückisch', // *
-   'heimzahlen',  // heimzahlen: *
-   'heischen', // heischen: *
-   'heiser',  // heiser: *
-   'Hemd (sich ins H. machen)', // *
+   'Hautausschlag' , // Hautausschlag: 
+   'hecheln', // hecheln: 
+   'hechten, Hechtsprung',  
+   'Hecke', // Hecke: 
+   'Heckenschütze',  // Heckenschütze:  
+   'Heft des Handelns nehmen', 
+   'heften', // heften: 
+   'Hehler', // Hehler:  
+   'Heidenarbeit', // Heidenarbeit:  
+   'Heidenrespekt/angst', 
+   'Heimtücke, heimtückisch', 
+   'heimzahlen',  // heimzahlen: 
+   'heischen', // heischen: 
+   'heiser',  // heiser: 
+   'Hemd (sich ins H. machen)', 
    'hereinlegen',  // hereinlegen:  *
    'herumärgern, rumärgern', // *  duplicated
    'herumfuhrwerken',  // herumfuhrwerken: *
@@ -52,12 +52,12 @@ const h = [
    'Holzstoß',  // Holzstoß: *
    'hopsnehmen', // hopsnehmen: *
    'Hornochse',  // Hornochse:  *
-   'Hose (in die H. machen/gehen)', // *   
-   'Hosenmatz',  // Hosenmatz:  *
-   'Hosennaht',  // Hosennaht:  *
-   'Hudelei, Lobhudelei', // * duplicated
-   'Hühnerauge', // Hühnerauge: *
-   'Hülse',  // Hülse: *
+   'Hose (in die H. machen/gehen)',    
+   'Hosenmatz',  // Hosenmatz:  
+   'Hosennaht',  // Hosennaht:  
+   'Hudelei, Lobhudelei', //  duplicated
+   'Hühnerauge', // Hühnerauge: 
+   'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  *
    'Hüne',  // Hüne: *
    'huschen',  // huschen: *

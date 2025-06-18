@@ -1,25 +1,25 @@
 const k = [
-   'Kabuff',  // Kabuff:  *
-   'kacheln', // kacheln: *
-   'Kaffeekränzchen',  // Kaffeekränzchen: *
-   'kahl',  // kahl: *
+   'Kabuff',  // Kabuff:  
+   'kacheln', // kacheln: 
+   'Kaffeekränzchen',  // Kaffeekränzchen: 
+   'kahl',  // kahl: 
    // Kahn -- pair with Lastkahn if "Kahn" found
-   'Kantholz',  // Kantholz: *
-   'Karnickel', // Karnickel: *
-   'Karree',   // Karree: *  
-   'karren',  // karren: *
-   'Kaschemme',  // Kaschemme: *
-   'kaschieren', // kaschieren: *
+   'Kantholz',  // Kantholz: 
+   'Karnickel', // Karnickel: 
+   'Karree',   // Karree:   
+   'karren',  // karren: 
+   'Kaschemme',  // Kaschemme: 
+   'kaschieren', // kaschieren: 
    'Kassiber',  // Kassiber: *
-   'Kater, verkatert', // *
-   'katzbuckeln',  // katzbuckeln: *
-   'kauern',  // kauern: *
-   'Kaution', // Kaution: *
-   'Kauz, kauzig',  // *
-   'kegeln',  // kegeln: *
-   'keilen, Keil', // *
-   'kein Kraut gewachsen', // *
-   'keinen Reim machen können', // * duplicated
+   'Kater, verkatert', 
+   'katzbuckeln',  // katzbuckeln: 
+   'kauern',  // kauern: 
+   'Kaution', // Kaution: 
+   'Kauz, kauzig',  
+   'kegeln',  // kegeln: 
+   'keilen, Keil', 
+   'kein Kraut gewachsen', 
+   'keinen Reim machen können', //  duplicated
    'Kelch',  // Kelch: *
    'Kerbholz (auf dem K. haben)',// * duplicated
    'ketten, Kette, Kettenkarussell', // *
@@ -57,22 +57,22 @@ const k = [
    'klirren', // klirren: *
    'klitzeklein', // klitzeklein: *
    'Kloschüssel, Schüssel', // duplicated *
-   'Kloß',   // Kloß: *
-   'klotzen', // klotzen: *
-   'Klumpen, Klumpfuß',  // *
-   'Klüngel',  // Klüngel: *  
-   'knacken',  // knacken: *
-   'knallen', // knallen: *
-   'Knarre',  // Knarre: *
-   'knarren', // knarren: *
-   'knarzen', // knarzen: *
-   'knattern', // knattern: *
-   'Knäuel',  // Knäuel: *
-   'Knauf',  // Knauf: *
-   'knebeln', //knebeln: *
-   'kneifen', // kneifen: *
-   'kneten', // kneten: *
-   'kniff(e)lig', // 'kniff(e)lig' *
+   'Kloß',   // Kloß: 
+   'klotzen', // klotzen: 
+   'Klumpen, Klumpfuß',  
+   'Klüngel',  // Klüngel:   
+   'knacken',  // knacken: 
+   'knallen', // knallen: 
+   'Knarre',  // Knarre: 
+   'knarren', // knarren: 
+   'knarzen', // knarzen: 
+   'knattern', // knattern: 
+   'Knäuel',  // Knäuel: 
+   'Knauf',  // Knauf: 
+   'knebeln', //knebeln: 
+   'kneifen', // kneifen: 
+   'kneten', // kneten: 
+   'kniff(e)lig', // kniff(e)lig:
    'Knirps', // Knirps: *
    'knirschen', // knirschen: * 
    'knistern', // knistern: *

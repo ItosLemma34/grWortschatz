@@ -1,28 +1,28 @@
 const f = [
-   'fächern, auffächern', // * duplicated
-   'fackeln',  // fackeln: * 
-   'fadenscheinig',  // fadenscheinig: *
-   'Fahne (von der F. gehen)',  // * duplicated 
-   'Fahnenabzug',  // Fahnenabzug: *
-   'Faible' ,  // Faible: *
-   'Fall der Fälle',  // * 
-   'Fallbeil', // Fallbeil: * 
-   'Fasan',  // Fasan: * 
-   'faseln',  // faseln: * 
-   'Fass',  // Fass: *  
-   'Fatzke', // Fatzke: *
-   'fauchen, anfauchen', // * duplicated 
-   'fegen',  // fegen: * 
-   'feilbieten',  // feilbieten: * 
-   'feilschen',  // feilschen:  *
-   'fesch',  // fesch: *
-   'festfressen (sich)',  // *
-   'festzurren, zurren', // * duplicated  
-   'Fettnäpfchen (ins F. treten)',  // * duplicated 
-   'Fetzen',  // Fetzen:  *
-   'filzen',  // filzen: * 
-   'Findling',   // Findling: *
-   'fingieren',  // fingieren: *
+   'fächern, auffächern', //  duplicated
+   'fackeln',  // fackeln:  
+   'fadenscheinig',  // fadenscheinig: 
+   'Fahne (von der F. gehen)',  //  duplicated 
+   'Fahnenabzug',  // Fahnenabzug: 
+   'Faible' ,  // Faible: 
+   'Fall der Fälle',  //  
+   'Fallbeil', // Fallbeil:  
+   'Fasan',  // Fasan:  
+   'faseln',  // faseln:  
+   'Fass',  // Fass:   
+   'Fatzke', // Fatzke: 
+   'fauchen, anfauchen', //  duplicated 
+   'fegen',  // fegen:  
+   'feilbieten',  // feilbieten:  
+   'feilschen',  // feilschen:  
+   'fesch',  // fesch: 
+   'festfressen (sich)',  
+   'festzurren, zurren', //  duplicated  
+   'Fettnäpfchen (ins F. treten)',  //  duplicated 
+   'Fetzen',  // Fetzen:  
+   'filzen',  // filzen:  
+   'Findling',   // Findling: 
+   'fingieren',  // fingieren: 
    'Firlefanz',  // Firlefanz: *
    'Fischzug',   // Fischzug: * 
    'Flachmann',  // Flachmann: *

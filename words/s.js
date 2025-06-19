@@ -186,30 +186,30 @@ const s = [
    'stopfen, Stopfen', 
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 
-   'strampeln',  // strampeln: *
-   'Strauch, Gesträuch',  //  * duplicated
-   'Strebe', // Strebe: *
-   'Streich spielen', // *
-   'Strich (auf den S. gehen)', // * duplicated
-   'Strick (einen S. drehen)', // *
-   'Strickjacke', // Strickjacke: *
-   'Striemen',  // Striemen: *
-   'Strippe',  // Strippe: *
-   'stromern',  // stromern: *
-   'strubbelig', // strubbelig: *
+   'strampeln',  // strampeln: 
+   'Strauch, Gesträuch',  //   duplicated
+   'Strebe', // Strebe: 
+   'Streich spielen', 
+   'Strich (auf den S. gehen)', //  duplicated
+   'Strick (einen S. drehen)', // 
+   'Strickjacke', // Strickjacke: 
+   'Striemen',  // Striemen: 
+   'Strippe',  // Strippe: 
+   'stromern',  // stromern: 
+   'strubbelig', // strubbelig: 
    'Strudel',  // Strudel:
    'strunzdämlich',   // strunzdämlich:   include Duden
-   'Stuck', // Stuck: *
-   'Stulle',  // Stulle: *
-	'stülpen (sich)', // *
-   'Stummel',  // Stummel: *
-   'Stümper, stümperhaft', //  *
-   'stutzig', // stutzig: *
-   'süffisant',  // süffisant: *
-   'summen, aufsummen', // * duplicated
-   'Sündenbock', // Sündenbock: *
-   'Sündenpfuhl', // Sündenpfuhl: *
-   'surren',   //surren:  *
+   'Stuck', // Stuck: 
+   'Stulle',  // Stulle: 
+	'stülpen (sich)', 
+   'Stummel',  // Stummel: 
+   'Stümper, stümperhaft', 
+   'stutzig', // stutzig: 
+   'süffisant',  // süffisant: 
+   'summen, aufsummen', //  duplicated
+   'Sündenbock', // Sündenbock: 
+   'Sündenpfuhl', // Sündenpfuhl: 
+   'surren',   //surren:  
    ];
 
 export default s;      

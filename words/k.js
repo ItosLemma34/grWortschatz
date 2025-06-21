@@ -1,5 +1,6 @@
 const k = [
-   'Kabuff',  // Kabuff:  
+   'Kabuff',  // Kabuff:
+   'Kajüte',  // Kajüte:  
    'kacheln', // kacheln: 
    'Kaffeekränzchen',  // Kaffeekränzchen: 
    'kahl',  // kahl: 
@@ -10,7 +11,7 @@ const k = [
    'karren',  // karren: 
    'Kaschemme',  // Kaschemme: 
    'kaschieren', // kaschieren: 
-   'Kassiber',  // Kassiber: *
+   'Kassiber',  // Kassiber: 
    'Kater, verkatert', 
    'katzbuckeln',  // katzbuckeln: 
    'kauern',  // kauern: 

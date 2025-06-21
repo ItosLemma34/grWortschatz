@@ -9,7 +9,8 @@ const h = [
    'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 
   // 'hämmern',
-   'Handfessel, Handschelle',  
+   'Handfessel, Handschelle',
+   'Handlanger', // Handlanger:  
    'Handwerk legen',  
    'handzahm, zahm', //  duplicated
    'hanebüchen',  // hanebüchen: 

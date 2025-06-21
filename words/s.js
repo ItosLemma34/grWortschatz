@@ -11,66 +11,66 @@ const s = [
    'schade (zu schade sein)',   //duplicated 
    'schälen', // schälen:    
  //  'Schank',  // Schank: needs work
-   'Schar',  // Schar:  *
-   'Scharfmacher', // Scharfmacher:  * 
-   'schassen',   // schassen:  *
-   'schaufeln, Schaufel',  // *
+   'Schar',  // Schar:  
+   'Scharfmacher', // Scharfmacher:   
+   'schassen',   // schassen:  
+   'schaufeln, Schaufel',  
    'Schaukasten', // Schaukasten: *  
-   'schaukeln, aufschaukeln',   //  *  duplicated
-   'scheiteln, Scheitel', // *
-   'Scheiterhaufen',  // Scheiterhaufen: *
-   'schellen',  // schellen: *
-   'scheppern',  // scheppern: *
-   'Scherbe',  // Scherbe:  *
-   'scheren (sich)',  // *
-   'scheuern',  // scheuern: *
-   'Schieblehre', // Schieblehre:  *
-   'Schiefertafel', // Schiefertafel: *
-   'schielen',  // schielen: *
-   'schikanieren', // schikanieren: *
-   'Schilde (im S. führen)', // * duplicated
-   'Schimmel, (ver)schimmeln', // *
-   'Schimmer (keinen blassen S.)', // *
-   'schimmern', // schimmern:  *
-   'Schinder, schinden' , // *
-   'schlabbern', // schlabbern: *
-   'Schlacke',  // *
-   'Schlagseite',  // Schlagseite: *
-   'schlaksig', // schlaksig: *
-   'Schlamassel', // Schlamassel: *
-   'Schlampe', // Schlampe: *
-   'schlampig',  // schlampig: *
-   'Schlauberger', // Schlauberger: *
-   'Schlauch', // Schlauch: *
-   'schleifen, Schleifer' ,  //  *
-   'schlendern' , // schlendern: *
-   'Schlendrian', // Schlendrian: *
-   'Schleuse, schleusen', // *
-   'Schliche (auf die S. kommen)', // * duplicated
-   'Schliere, schlieren', // *
-   'schliddern, schlittern', // *
-   'Schlips (auf den S. treten)', // * duplicated
-   'schluchzen' ,  // schluchzen: *
-   'Schlucker (armer)', // * duplicated
-   'Schlund',  // Schlund: *
-   'schlüpfen', // schlüpfen: *
-   'Schlüpfer',  // Schlüpfer: *
-   'schlüpfrig', // schlüpfrig: *
-   'Schmach', // Schmach:  *
-   'schmachten, anschmachten', // * duplicated
-   'schmächtig', // schmächtig:  *
-   'schmettern', // schmettern: *
-   'schmiegen (sich)', // *
-   'Schmiere stehen', // *
-   'Schmiererei, schmieren, schmierig', // *
-   'Schmierfink', // Schmierfink: *
-   'Schminke', // Schminke:  *
-   'schmissig', // schmissig: *
-   'Schmonzette', // Schmonzette: *
-   'schmoren' , // schmoren: *
-   'schmökern', // schmökern: *
-   'Schmuck, schmuck' ,  // *
-   'Schmuddel, -wetter, schmuddelig', // *
+   'schaukeln, aufschaukeln',   //    duplicated
+   'scheiteln, Scheitel', 
+   'Scheiterhaufen',  // Scheiterhaufen: 
+   'schellen',  // schellen: 
+   'scheppern',  // scheppern: 
+   'Scherbe',  // Scherbe:  
+   'scheren (sich)',  // 
+   'scheuern',  // scheuern: 
+   'Schieblehre', // Schieblehre:  
+   'Schiefertafel', // Schiefertafel: 
+   'schielen',  // schielen: 
+   'schikanieren', // schikanieren: 
+   'Schilde (im S. führen)', //  duplicated
+   'Schimmel, (ver)schimmeln', 
+   'Schimmer (keinen blassen S.)', 
+   'schimmern', // schimmern:  
+   'Schinder, schinden' , 
+   'schlabbern', // schlabbern: 
+   'Schlacke',  // Schlacke:
+   'Schlagseite',  // Schlagseite: 
+   'schlaksig', // schlaksig: 
+   'Schlamassel', // Schlamassel: 
+   'Schlampe', // Schlampe: 
+   'schlampig',  // schlampig: 
+   'Schlauberger', // Schlauberger: 
+   'Schlauch', // Schlauch: 
+   'schleifen, Schleifer',  
+   'schlendern' , // schlendern: 
+   'Schlendrian', // Schlendrian: 
+   'Schleuse, schleusen', 
+   'Schliche (auf die S. kommen)', //  duplicated
+   'Schliere, schlieren', 
+   'schliddern, schlittern', 
+   'Schlips (auf den S. treten)', //  duplicated
+   'schluchzen' ,  // schluchzen: 
+   'Schlucker (armer)', //  duplicated
+   'Schlund',  // Schlund: 
+   'schlüpfen', // schlüpfen: 
+   'Schlüpfer',  // Schlüpfer: 
+   'schlüpfrig', // schlüpfrig: 
+   'Schmach', // Schmach:  
+   'schmachten, anschmachten', //  duplicated
+   'schmächtig', // schmächtig:  
+   'schmettern', // schmettern: 
+   'schmiegen (sich)', // 
+   'Schmiere stehen', // 
+   'Schmiererei, schmieren, schmierig', 
+   'Schmierfink', // Schmierfink: 
+   'Schminke', // Schminke:  
+   'schmissig', // schmissig: 
+   'Schmonzette', // Schmonzette: 
+   'schmoren' , // schmoren: 
+   'schmökern', // schmökern: 
+   'Schmuck, schmuck' , 
+   'Schmuddel, -wetter, schmuddelig', 
    'Schmunzeln, schmunzeln' , // *
    'Schmutzfink',  // Schmutzfink:  *
    'Schnalle, schnallen', //  *

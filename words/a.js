@@ -154,25 +154,25 @@ const a = [
 	'Ausfallstraße',   // Ausfallstraße: * 
 	'ausfressen',   // ausfressen:  *
 	'ausheben, Aushebung',  //  * 
-	'aushorchen',  // aushorchen:  * 
-	'ausklinken',  // ausklinken: *
-	'ausmisten',  // ausmisten: *  
-	'ausquetschen',  // ausquetschen: *
-	'ausräuchern', // ausräuchern: * 
-	'Ausreißer',    // Ausreißer:  *
-	'ausreizen',  // ausreizen: *
-	'ausrücken, anrücken, nachrücken',  // * triplicated
-	'aussägen, sägen', // *  duplicated  
-	'Ausschachtung',  // Ausschachtung: *
-	'ausscheren',   // ausscheren:  *
-	'ausschlachten', // ausschlachten:  *
-	'ausschwärmen',  // ausschwärmen: *
-	'ausspucken',   // ausspucken: *
-	'ausstaffieren',  // ausstaffieren:  * 
-	'ausstopfen',    // ausstopfen: *
-	'austoben (sich)',  // *  
-	'austüfteln',  // austüfteln:  *
-	'auswringen', // auswringen: * 
+	'aushorchen',  // aushorchen:   
+	'ausklinken',  // ausklinken: 
+	'ausmisten',  // ausmisten:   
+	'ausquetschen',  // ausquetschen: 
+	'ausräuchern', // ausräuchern:  
+	'Ausreißer',    // Ausreißer:  
+	'ausreizen',  // ausreizen: 
+	'ausrücken, anrücken, nachrücken',  //  triplicated
+	'aussägen, sägen', //   duplicated  
+	'Ausschachtung',  // Ausschachtung: 
+	'ausscheren',   // ausscheren:  
+	'ausschlachten', // ausschlachten:  
+	'ausschwärmen',  // ausschwärmen: 
+	'ausspucken',   // ausspucken: 
+	'ausstaffieren',  // ausstaffieren:   
+	'ausstopfen',    // ausstopfen: 
+	'austoben (sich)',    
+	'austüfteln',  // austüfteln:  
+	'auswringen', // auswringen:  
 ];
 
 export default a;

@@ -78,7 +78,8 @@ const v = [
 //   'versehren',   need more past examples
    'versengen',  // versengen:  
    'versickern',  // versickern:  
-   'versiegen',   // versiegen:   
+   'versiegen',   // versiegen:
+   'versprengen', // versprengen:   
    'verstauen',  // verstauen:  
    'versteifen (sich)', // 'versteifen (sich)'  
    'Verstellung',  // Verstellung:   combine with verstellen if verstellen found

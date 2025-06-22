@@ -48,8 +48,8 @@ const v = [
    'verquirlen', // verquirlen 
    'verrammeln',  // verrammeln:  
    'verrecken',  // verrecken:  
-   'verrenken (sich)', //  
-   'verrennen (sich)' , //  
+   'verrenken (sich)',   
+   'verrennen (sich)' ,   
    'verrucht' ,  // verrucht:  
    'verrufen', // verrufen:  
    'verrußt' , // verrußt:    duplicate if Ruß or verrußen found
@@ -67,12 +67,13 @@ const v = [
    'Verschlag',   // Verschlag:  
    'verschleißen', // verschleißen: 
    'verschmieren' , // verschmieren: 
+   'verschnörkelt, verschnörkeln',
    'verschnupft' ,  // verschnupft:  
    'verschnüren',  // verschnüren:  
    'verschollen' , // verschollen:  
    'verschorft, verschorfen',   
    'verschrumpeln',  // verschrumpeln:  
-   'verschütten',  // verschütten:  
+   'verschütten',  // verschütten:        
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
 //   'versehren',   need more past examples

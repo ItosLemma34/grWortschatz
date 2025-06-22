@@ -15,7 +15,7 @@ const s = [
    'Scharfmacher', // Scharfmacher:   
    'schassen',   // schassen:  
    'schaufeln, Schaufel',  
-   'Schaukasten', // Schaukasten: *  
+   'Schaukasten', // Schaukasten:   
    'schaukeln, aufschaukeln',   //    duplicated
    'scheiteln, Scheitel', 
    'Scheiterhaufen',  // Scheiterhaufen: 
@@ -90,63 +90,63 @@ const s = [
    'Schnösel' ,  // Schnösel:  *
    'schnuppern, erschnuppern' ,  //  * duplicated
    'Schnur', //  Schnur: *
-   'schnurstracks', // schnurstracks: *
+   'schnurstracks', // schnurstracks: 
 //   'schnurzegal, schnurz­pie­pe', //  make duplicate if example of "schnurzegal found"
-   'schnurz­pie­pe, schnurzegal', // *  make duplicate if example of "schnurzegal found"
-   'Schoppen',  // Schoppen: *
-   'Schotter', // Schotter: *
-   'schrammen', // schrammen:  *
-   'schrappen',  // schrappen: *
-   'Schraubstock', // Schraubstock:  *
-   'Schrebergarten', // Schrebergarten:  *
-   'Schrippe', // Schrippe:  *
-   'Schritt',  // Schritt:  *
-   'Schrotflinte', // Schrotflinte: *
-   'Schrott',  // Schrott:  *
-   'Schrubber, schrubben', // *  
-   'schubsen',  // schubsen:  *
-   'schummrig',  // schummrig: *
-   'Schund',  // Schund: *
-   'schunkeln', // schunkeln: *
-   'Schuppen',  // Schuppen:  *
-   'schüren',  // schüren:  *  
-   'schurigeln', // schurigeln: *        
-   'Schürze',  // Schürze:  *
-   'Schuss (in S. sein)', // * duplicated
-   'Schüssel, Kloschüssel',  // * duplicate
-   'schütten',  // schütten:  *       
-   'schütter',  // schütter:  *
-   'Schutzbefohlene',  // Schutzbefohlene:  *
-   'Schütze',  // Schütze:  *
-   'schwafeln', // schwafeln *
-   'schwanen', // schwanen:  *
-   'Schwanz einziehen/einkneifen', // *
-   'Schwebebahn',  // Schwebebahn: *
-   'schwelgen', // schwelgen: *
-   'Schwenker', // Schwenker: *
-   'schwirren', // schwirren: *
-   'Schwitzkasten', // Schwitzkasten: *
-   'schwül, Schwüle', // *
-   'schwülstig',  // schwülstig:  *
-   'Seil',  // Seil: *
-   'Sichtblende', // Sichtblende:  *
-   'sickern', // sickern: *
-   'Sippenhaft', // Sippenhaft: *
-   'skandieren', // skandieren:  *
-   'Sore',  // Sore: *
-   'soufflieren',  // soufflieren: *
-   'Spalier',  // Spalier:  *
-   'Span, Späne', // *
-   'Spanner', // Spanner:  *
-   'Spaten',  // Spaten:  *
-   'speckig', // speckig: *
-   'speiübel', // speiübel: *
-   'sperrangelweit',  // sperrangelweit:  *
-   'Sperrhaken',  // Sperrhaken:  *
-   'sperrig',  // sperrig:  *     
-   'spicken',  // spicken:  *
-   'Spieß, spießen',  // 'Spieß, spießen' *
-   'spitzkriegen',  // spitzkriegen:  *
+   'schnurz­pie­pe, schnurzegal', //   make duplicate if example of "schnurzegal found"
+   'Schoppen',  // Schoppen: 
+   'Schotter', // Schotter: 
+   'schrammen', // schrammen:  
+   'schrappen',  // schrappen: 
+   'Schraubstock', // Schraubstock:  
+   'Schrebergarten', // Schrebergarten:  
+   'Schrippe', // Schrippe:  
+   'Schritt',  // Schritt:  
+   'Schrotflinte', // Schrotflinte: 
+   'Schrott',  // Schrott:  
+   'Schrubber, schrubben', //   
+   'schubsen',  // schubsen:  
+   'schummrig',  // schummrig: 
+   'Schund',  // Schund: 
+   'schunkeln', // schunkeln: 
+   'Schuppen',  // Schuppen:  
+   'schüren',  // schüren:    
+   'schurigeln', // schurigeln:         
+   'Schürze',  // Schürze:  
+   'Schuss (in S. sein)', //  duplicated
+   'Schüssel, Kloschüssel',  //  duplicate
+   'schütten',  // schütten:         
+   'schütter',  // schütter:  
+   'Schutzbefohlene',  // Schutzbefohlene:  
+   'Schütze',  // Schütze:  
+   'schwafeln', // schwafeln 
+   'schwanen', // schwanen:  
+   'Schwanz einziehen/einkneifen', 
+   'Schwebebahn',  // Schwebebahn: 
+   'schwelgen', // schwelgen: 
+   'Schwenker', // Schwenker: 
+   'schwirren', // schwirren: 
+   'Schwitzkasten', // Schwitzkasten: 
+   'schwül, Schwüle', 
+   'schwülstig',  // schwülstig:  
+   'Seil',  // Seil: 
+   'Sichtblende', // Sichtblende:  
+   'sickern', // sickern: 
+   'Sippenhaft', // Sippenhaft: 
+   'skandieren', // skandieren:  
+   'Sore',  // Sore: 
+   'soufflieren',  // soufflieren: 
+   'Spalier',  // Spalier:  
+   'Span, Späne', 
+   'Spanner', // Spanner:  
+   'Spaten',  // Spaten:  
+   'speckig', // speckig: 
+   'speiübel', // speiübel: 
+   'sperrangelweit',  // sperrangelweit:  
+   'Sperrhaken',  // Sperrhaken:  
+   'sperrig',  // sperrig:       
+   'spicken',  // spicken:  
+   'Spieß, spießen',  
+   'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel:
    'spreizen', // spreizen: 
 //   'Sprenkel', // Sprenkel: 

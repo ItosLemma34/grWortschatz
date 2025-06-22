@@ -21,7 +21,7 @@ const d = [
    'Dreistigkeit, dreist',   
    'drosseln',  // drosseln: 
    'Druckfahne', // Druckfahne: 
-   'drucksen (herum)',   //  
+   'drucksen, herumdrucksen',   // duplicated 
    'drunter und drüber gehen', // 
    /*'den Hintern plattsitzen', */
    'dudeln',   // dudeln: *

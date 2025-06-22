@@ -36,33 +36,34 @@ const h = [
    'heischen', // heischen: 
    'heiser',  // heiser: 
    'Hemd (sich ins H. machen)', 
-   'hereinlegen',  // hereinlegen:  *
-   'herumärgern, rumärgern', // *  duplicated
-   'herumfuhrwerken',  // herumfuhrwerken: *
-   'herumlungern', // herumlungern:  *
-   'hetzen, gehetzt',  // * duplicated 
-   'heucheln', // heucheln: *
-   'heulen',  // heulen:  *
-   'hieven',  // hieven: *
-   'hinterlistig',  // hinterlistig: *
-   'hinters Licht führen', // *
-   'hobeln', // hobeln: *
-   'hochgestochen', // hochgestochen: *
-   'hocken, Hocke, Hocker', // *
-   'Hölle heißmachen',  //  *
-   'Holzstoß',  // Holzstoß: *
-   'hopsnehmen', // hopsnehmen: *
-   'Hornochse',  // Hornochse:  *
+   'hereinlegen',  // hereinlegen:  
+   'herumärgern, rumärgern', //   duplicated
+   'herumdrucksen, drucksen', // duplicated
+   'herumfuhrwerken',  // herumfuhrwerken: 
+   'herumlungern', // herumlungern:  
+   'hetzen, gehetzt',  //  duplicated 
+   'heucheln', // heucheln: 
+   'heulen',  // heulen:  
+   'hieven',  // hieven: 
+   'hinterlistig',  // hinterlistig: 
+   'hinters Licht führen', 
+   'hobeln', // hobeln: 
+   'hochgestochen', // hochgestochen: 
+   'hocken, Hocke, Hocker', 
+   'Hölle heißmachen',  
+   'Holzstoß',  // Holzstoß: 
+   'hopsnehmen', // hopsnehmen: 
+   'Hornochse',  // Hornochse:  
    'Hose (in die H. machen/gehen)',    
    'Hosenmatz',  // Hosenmatz:  
    'Hosennaht',  // Hosennaht:  
    'Hudelei, Lobhudelei', //  duplicated
    'Hühnerauge', // Hühnerauge: 
    'Hülse',  // Hülse: 
-   'humpeln',  // humpeln:  *
-   'Hüne',  // Hüne: *
-   'huschen',  // huschen: *
-   'Hut (auf der H. sein)',  // * duplicated
+   'humpeln',  // humpeln:  
+   'Hüne',  // Hüne: 
+   'huschen',  // huschen: 
+   'Hut (auf der H. sein)',  //  duplicated
  ];
 
 export default h;

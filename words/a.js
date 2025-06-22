@@ -68,68 +68,68 @@ const a = [
 	'Ansinnen' ,    // Ansinnen:  
 	'anstandslos',  // anstandslos:  
 	'anstieren, stieren',  //  duplicated
-	'anstupsen',    // anstupsen: *
-	'antanzen',     // antanzen: *  
-	'Anwesen',      // Anwesen: *
-	'anwidern',     // anwidern: *
-	'Anzeige erstatten', // * 
+	'anstupsen',    // anstupsen: 
+	'antanzen',     // antanzen:   
+	'Anwesen',      // Anwesen: 
+	'anwidern',     // anwidern: 
+	'Anzeige erstatten',  
 //	'anzwinkern',  // anzwinkern:  excluded, for now; if include, include also zuzwinkern?
-	'apportieren', // apportieren: *
-	'Areal' ,  // Areal: *
-	'Arm (auf den A. nehmen)',  // * duplicated
-	'Armbeuge',    // Armbeuge:  * 
-	'arme Ritter', // *  duplicated
-	'armer Schlucker', // * duplicated
-	'Arsch (jmdm. in den A. kriechen)',  // *
-	'Asservat',  // Asservat:  *
-	'Ast, Geäst', // * duplicated
-	'Attest',     //  Attest: *
-	'auf Biegen und Brechen',  // *
-	'auf dem Kerbholz haben', // * duplicated
-	'auf dem Kieker haben', // * duplicated
-	'auf dem Sprung',      // * duplicate
-	'auf den Arm nehmen',  // * duplicated
-	'auf den Leim gehen',  // * duplicated
-	'auf der Nase herumtanzen',  // *  duplicated
-	'auf den Putz hauen',  //  * duplicated
-	'auf den Schlips treten', // * duplicated
-	'auf den Strich gehen', // * duplicated
-	'auf den Wecker gehen', // * duplicated
-	'auf den Zahn fühlen',  // * duplicated
-	'auf der Hut sein',  // * duplicated
-	'auf die Nase binden',  // * duplicated
-	'auf die Palme treiben/bringen',  // * duplicated 
-	'auf die Pelle rücken',   // * duplicated
-	'auf die Schliche kommen',  // * duplicated
-	'auf die Tube drücken',   // * duplicated
-	'auf etwas aus sein',  // *
-	'auf Granit beißen', // *
-	'auf Halde legen',   // *
-	'auf Zack sein',    // *
-	'aufbahren',   // aufbahren:  *
-	'aufbauschen, bauschen', // duplicated  * 
-	'aufbrummen', // aufbrummen: *
-	'aufdonnern (sich)',  // *
-	'auffächern, fächern', // * duplicated
-	'auffliegen',  // auffliegen:  * 
-	'aufgabeln',   // aufgabeln:  *
-	'aufgedunsen', // aufgedunsen:  *
-	'aufgekratzt', // aufgekratzt: * 
+	'apportieren', // apportieren: 
+	'Areal' ,  // Areal: 
+	'Arm (auf den A. nehmen)',  //  duplicated
+	'Armbeuge',    // Armbeuge:   
+	'arme Ritter', //   duplicated
+	'armer Schlucker', //  duplicated
+	'Arsch (jmdm. in den A. kriechen)',  
+	'Asservat',  // Asservat:  
+	'Ast, Geäst', //  duplicated
+	'Attest',     //  Attest: 
+	'auf Biegen und Brechen',  
+	'auf dem Kerbholz haben', //  duplicated
+	'auf dem Kieker haben', //  duplicated
+	'auf dem Sprung',      //  duplicate
+	'auf den Arm nehmen',  //  duplicated
+	'auf den Leim gehen',  //  duplicated
+	'auf den Putz hauen',  //   duplicated
+	'auf den Schlips treten', //  duplicated
+	'auf den Strich gehen', //  duplicated
+	'auf den Wecker gehen', //  duplicated
+	'auf den Zahn fühlen',  //  duplicated
+	'auf der Hut sein',  //  duplicated
+	'auf der Nase herumtanzen',  //   duplicated
+	'auf die Nase binden',  //  duplicated
+	'auf die Palme treiben/bringen',  //  duplicated 
+	'auf die Pelle rücken',   //  duplicated
+	'auf die Schliche kommen',  //  duplicated
+	'auf die Tube drücken',   //  duplicated
+	'auf etwas aus sein',  
+	'auf Granit beißen', 
+	'auf Halde legen',   
+	'auf Zack sein',    
+	'aufbahren',   // aufbahren:  
+	'aufbauschen, bauschen', // duplicated   
+	'aufbrummen', // aufbrummen: 
+	'aufdonnern (sich)',  
+	'auffächern, fächern', //  duplicated
+	'auffliegen',  // auffliegen:   
+	'aufgabeln',   // aufgabeln:  
+	'aufgedunsen', // aufgedunsen:  
+	'aufgekratzt', // aufgekratzt: 
 	'aufgelöst',   // aufgelöst:  only for the "distraught" definition
-	'aufgeweckt',  // aufgeweckt: *Ks
-	'aufgießen, Aufguss', // *
-	'aufglimmen, glimmen',  // * duplicated  
-	'aufhalsen',   // aufhalsen: *
-	'aufjaulen',   // aufjaulen: * 
-	'auflauern',   // auflauern: *
-	'aufmucken',   // aufmucken:  *
-	'aufmüpfig',  // aufmüpfig: *
-	'aufpäppeln',  // aufpäppeln: * 
+	'aufgeweckt',  // aufgeweckt: 
+	'aufgießen, Aufguss', 
+	'aufglimmen, glimmen',  //  duplicated  
+	'aufhalsen',   // aufhalsen: 
+	'aufjaulen',   // aufjaulen:  
+	'auflauern',   // auflauern: 
+	'aufmucken',   // aufmucken:  
+	'aufmüpfig',  // aufmüpfig: 
+	'aufpäppeln',  // aufpäppeln:  
 //	'aufplustern', // aufplustern:  
-	'aufputschen',  // aufputschen: *
-	'aufs Auge drücken',  // * 
-	'aufs Dach steigen',  // * 
-	'aufs Korn nehmen',  // * 
+	'aufputschen',  // aufputschen: 
+	'aufs Auge drücken',   
+	'aufs Dach steigen',   
+	'aufs Korn nehmen',  
 	'aufschaukeln, schaukeln', // * duplicated  
 	'aufscheuchen',    // aufscheuchen: *  
 	'aufschichten',   // aufschichten: * 

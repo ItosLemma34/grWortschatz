@@ -36,15 +36,15 @@ const b = [
   //  'betreten',   // betreten:  Finish with betreten from Lunapark 
     'Bettfeder',  // Bettfeder:   
     'betupfen, abtupfen, tupfen',   //  triplicated  
-    'Beule, beulen',   //  *
-    'bibbern',    // bibbern: *
-    'bieder',     // bieder: *
-    'Biege machen', // *
-    'bimmeln', // *
-    'bis in die Puppen', // *  duplicated 
-    'Blase',  // Blase: * 
-    'blasiert',  // blasiert: *
-    'Blaumann',  // Blaumann: * 
+    'Beule, beulen',   
+    'bibbern',    // bibbern: 
+    'bieder',     // bieder: 
+    'Biege machen', 
+    'bimmeln', // 
+    'bis in die Puppen', //   duplicated 
+    'Blase',  // Blase:  
+    'blasiert',  // blasiert: 
+    'Blaumann',  // Blaumann:  
     'Blech, blechern',  // * 
     'blendend',  // blendend: * 
     'blinzeln',  // blinzeln: * 
@@ -53,7 +53,8 @@ const b = [
     'blutrünstig', // blutrünstig: *
     'bockig' ,  // bockig: *
     'Bodensatz',  // Bodensatz: * 
-    'Bogen (den B. raushaben)',  // *
+    'Bogen (den B. raushaben)',  
+    'Bohei',   // Bohei:
     'Bohle',    // Bohle:  *
     'bohnern',  // bohnern:  *
     'Bonze',   // Bonze: *
@@ -64,8 +65,9 @@ const b = [
     'Boulette',   //Boulette:  *
     'Brache',  // Brache:  *
     'brandschatzen',  // brandschatzen: *
-    'brausen, Brause',  // *
-    'brenzlig', // brenzlig: *
+    'brausen, Brause',  
+    'Brei (um den heißen B. herumreden)', // duplicated 
+    'brenzlig', // brenzlig: 
     'Brett, Bretter(wand/verschlag/bude)',  // * 
     'Brimborium',   // Brimborium:  *
     'bröckeln',  // bröckeln:  *

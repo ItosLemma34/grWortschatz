@@ -33,20 +33,20 @@ const w = [
    'winden, gewunden',  // * duplicated
    'Wink mit dem Zaunpfahl' , // * duplicated    
    'Winkel' ,  // Winkel: *
-   'Winkeladvokat',  // Winkeladvokat: *
-   'winseln',  // winseln: *
-   'Wipfel',  // Wipfel: *
-   'wippen' , // wippen: *
-   'Witzbold', // Witzbold: *
-   'wogen' ,  // wogen: *
-   'Wohl bekomm\'s!', // *
-   'Wohlgefallen (sich in W. auflösen)', // *
+   'Winkeladvokat',  // Winkeladvokat: 
+   'winseln',  // winseln: 
+   'Wipfel',  // Wipfel: 
+   'wippen' , // wippen: 
+   'Witzbold', // Witzbold: 
+   'wogen' ,  // wogen: 
+   'Wohl bekomm\'s!', 
+   'Wohlgefallen (sich in W. auflösen)', 
    'wölben',  // wölben: *
-   'Wolf (durch den W. drehen)', // * duplicated
-   'wuchern',  // wuchern: *
-   'wuchten',  // wuchten: *
-   'wühlen' ,  // wühlen: *
-   'wummern, Gewummer', // * duplicated
+   'Wolf (durch den W. drehen)', //  duplicated
+   'wuchern',  // wuchern: 
+   'wuchten',  // wuchten: 
+   'wühlen' ,  // wühlen: 
+   'wummern, Gewummer', //  duplicated
    'wurmen', // wurmen: *
    'Wurmfortsatz', // Wurmfortsatz: *
    'wuscheln',  // wuscheln: *

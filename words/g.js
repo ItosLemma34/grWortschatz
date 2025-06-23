@@ -72,7 +72,7 @@ const g = [
    'glimpflich',  // glimpflich: * 
    'glimmen, aufglimmen', // * duplicated
    'glotzen, anglotzen',  // * duplicated  
-   'gluckern', // gluckern:  *
+   'gluckern', // gluckern:  
    'goldene Nase (sich verdienen)',  // *
    'Gör, Göre',  // * 
    'Gosse',  // Gosse:  *

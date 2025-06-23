@@ -74,36 +74,37 @@ const k = [
    'kneifen', // kneifen: 
    'kneten', // kneten: 
    'kniff(e)lig', // kniff(e)lig:
-   'Knirps', // Knirps: *
-   'knirschen', // knirschen: * 
-   'knistern', // knistern: *
-   'Knöchel',  // Knöchel: *
-   'Knochen/Kopf hinhalten', // *
-   'knorrig',  // knorrig: *
-   'knuffen',  // knuffen:  *
-   'knüllen, zerknüllen',  //  *  duplicated
-   'Knüller',  // Knüller: *
-   'Knüppel', // Knüppel: *
-   'knurren',  // knurren: *  
-   'Köder',   // Köder: *
+   'Knirps', // Knirps: 
+   'knirschen', // knirschen:  
+   'knistern', // knistern: 
+   'Knöchel',  // Knöchel: 
+   'Knochen/Kopf hinhalten', 
+   'knorke',  // knorke:
+   'knorrig',  // knorrig: 
+   'knuffen',  // knuffen:  
+   'knüllen, zerknüllen',  //    duplicated
+   'Knüller',  // Knüller: 
+   'Knüppel', // Knüppel: 
+   'knurren',  // knurren:   
+   'Köder',   // Köder: 
   // 'Kontor',
-   'Konterfei',  // Konterfei: *  
-   'köpfen',  // köpfen: *
-   'Korb (einen K. bekommen)', // *
-   'Korbstuhl',  // Korbstuhl:  *
-   'Kordel',  // Kordel: *
-   'Kot, koten, Kotflügel', // *
+   'Konterfei',  // Konterfei:   
+   'köpfen',  // köpfen: 
+   'Korb (einen K. bekommen)', 
+   'Korbstuhl',  // Korbstuhl:  
+   'Kordel',  // Kordel: 
+   'Kot, koten, Kotflügel', 
    'kotzen', // kotzen: *
-   'krabbeln',  // krabbeln: *
-   'krachen, Krach', // *
-   'Krähe, krähen', // *  
-   'Krake', // Krake: *
-   'krakelig/kraklig', // krakelig/kraklig: *
-   'Kralle',  // Kralle: *
-   'Kram (in den K. passen)', // * duplicated
-   'kramen',  // kramen: *
-   'Kran',  // Kran: *
-   'Kratzbürstigkeit',  // Kratzbürstigkeit: *
+   'krabbeln',  // krabbeln: 
+   'krachen, Krach', 
+   'Krähe, krähen',   
+   'Krake', // Krake: 
+   'krakelig/kraklig', // krakelig/kraklig: 
+   'Kralle',  // Kralle: 
+   'Kram (in den K. passen)', //  duplicated
+   'kramen',  // kramen: 
+   'Kran',  // Kran: 
+   'Kratzbürstigkeit',  // Kratzbürstigkeit: 
    'kratzen',  // kratzen: * 
    'kraulen',   // kraulen: *
    'kräuseln',  // kräuseln:  *

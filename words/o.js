@@ -1,4 +1,5 @@
 const o = [
+  'öde, Einöde', //  duplicated
   'Ordner', // Ordner: 
 ];
 

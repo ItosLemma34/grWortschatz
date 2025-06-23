@@ -38,30 +38,30 @@ const f = [
    'flehen, flehentlich',  // *  
    'flicken',  // flicken: // * 
    'Fliese, fliesen',   //  *
-   'flink',  // flink:  *
-   'Flittchen',  // Flittchen: *
-   'flitzen', // flitzen: *
-   'Floskel', // Floskel: *
-   'flöten', // flöten: * 
-   'flott',  // flott: *    
-   'Fluse',  // Fluse: *
-   'Flüstertüte',  // Flüstertüte:  * 
-   'flutschen',  // flutschen: * 
-   'Folie',  // Folie: *
-   'formvollendet', // formvollendet: * 
-   'forsch',  // forsch: *
-   'Fraktur', // Fraktur:  * 
-   'Fratze',  // Fratze:  *
-   'frequentieren',  // frequentieren:  *
-   'Frevel',    // Frevel: *
-   'frösteln', // frösteln:  *
-   'Frotzelei, frotzeln',  // * 
-   'fuchteln, Fuchtel', //  *
-   'fuhrwerken', // fuhrwerken:  *  
-   'fummeln',    // fummeln:  *
-   'funzelig',   // funzelig:  * 
-   'Furz',     // Furz:  *
-   'Futter',  // Futter: *
+   'flink',  // flink:  
+   'Flittchen',  // Flittchen: 
+   'flitzen', // flitzen: 
+   'Floskel', // Floskel: 
+   'flöten', // flöten:  
+   'flott',  // flott:     
+   'Fluse',  // Fluse: 
+   'Flüstertüte',  // Flüstertüte:   
+   'flutschen',  // flutschen:  
+   'Folie',  // Folie: 
+   'formvollendet', // formvollendet:  
+   'forsch',  // forsch: 
+   'Fraktur', // Fraktur:   
+   'Fratze',  // Fratze:  
+   'frequentieren',  // frequentieren:  
+   'Frevel',    // Frevel: 
+   'frösteln', // frösteln:  
+   'Frotzelei, frotzeln',  //  
+   'fuchteln, Fuchtel', //  
+   'fuhrwerken', // fuhrwerken:    
+   'fummeln',    // fummeln:  
+   'funzelig',   // funzelig:   
+   'Furz',     // Furz:  
+   'Futter',  // Futter: 
  ];
 
 export default f;

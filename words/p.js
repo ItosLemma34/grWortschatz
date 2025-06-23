@@ -25,6 +25,7 @@ const p = [
    'pfuschen (ins Handwerk p.)', //    duplicated
    'Pfütze',  // Pfütze:     
    'pieksen, piksen', 
+   'Pimpf',  // Pimpf:
    'Pinkel', // Pinkel: 
    'pinkeln',  // pinkeln: 
    'pinseln, bepinseln',  //  duplicated

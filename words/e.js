@@ -14,10 +14,10 @@ const e = [
    'einkerben',  // einkerben: 
    'einkriegen (sich)',  //  
    'einkringeln',  // einkringeln:  
-   'einlochen',  // einlochen:  *
-   'einlullen',  // einlullen: * 
-   'einnicken',  // einnicken: * 
-   'Einöde',   // Einöde: *
+   'einlochen',  // einlochen:  
+   'einlullen',  // einlullen:  
+   'einnicken',  // einnicken:  
+   'Einöde, öde',   // duplicated
    'einpferchen, pferchen', // * duplicated 
    'einrasten',  // einrasten: * 
    'einreißen, niederreißen',  // * duplicated  

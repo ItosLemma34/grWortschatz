@@ -130,30 +130,30 @@ const a = [
 	'aufs Auge drücken',   
 	'aufs Dach steigen',   
 	'aufs Korn nehmen',  
-	'aufschaukeln, schaukeln', // * duplicated  
-	'aufscheuchen',    // aufscheuchen: *  
-	'aufschichten',   // aufschichten: * 
-	'aufstieben',    // aufstieben:  *
+	'aufschaukeln, schaukeln', //  duplicated  
+	'aufscheuchen',    // aufscheuchen:   
+	'aufschichten',   // aufschichten:  
+	'aufstieben',    // aufstieben:  
 	'aufstöbern',    // aufstöbern:  
-	'aufstöhnen, stöhnen', // * duplicated
-	'aufsummen, summen', // * duplicated
-	'auftakeln',     // auftakeln: *
-	'auftischen',    // auftischen: * 
-	'Aufwartung machen', // *
-	'aufwiegen',     // aufwiegen:  *
-	'aufwühlen, aufgewühlt', // *
-	'aus dem Konzept bringen',   // *  
-	'aus dem Staub machen (sich)', // * duplicated
-	'aus dem Häuschen sein',   // * 
-	'aus der Haut fahren',  // *
-	'ausbaldowern', // ausbaldowern:  *
-	'ausbremsen', // ausbremsen:  *
-	'ausbuddeln, buddeln', //  * duplicated;   also pair with "einbuddeln" if found
-	'ausbüxen',    // ausbüxen:  *
-	'Ausdünstung',  // Ausdünstung:  *
-	'Ausfallstraße',   // Ausfallstraße: * 
-	'ausfressen',   // ausfressen:  *
-	'ausheben, Aushebung',  //  * 
+	'aufstöhnen, stöhnen', //  duplicated
+	'aufsummen, summen', //  duplicated
+	'auftakeln',     // auftakeln: 
+	'auftischen',    // auftischen:  
+	'Aufwartung machen', 
+	'aufwiegen',     // aufwiegen:  
+	'aufwühlen, aufgewühlt', 
+	'aus dem Konzept bringen',     
+	'aus dem Staub machen (sich)', //  duplicated
+	'aus dem Häuschen sein',   //  
+	'aus der Haut fahren',  // 
+	'ausbaldowern', // ausbaldowern:  
+	'ausbremsen', // ausbremsen:  
+	'ausbuddeln, buddeln', //   duplicated;   also pair with "einbuddeln" if found
+	'ausbüxen',    // ausbüxen:  
+	'Ausdünstung',  // Ausdünstung:  
+	'Ausfallstraße',   // Ausfallstraße:  
+	'ausfressen',   // ausfressen:  
+	'ausheben, Aushebung',  //   
 	'aushorchen',  // aushorchen:   
 	'ausklinken',  // ausklinken: 
 	'ausmisten',  // ausmisten:   

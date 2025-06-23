@@ -18,20 +18,20 @@ const m = [
    'Meute',  // Meute: 
    'mickrig',  // mickrig: 
    'miefig, Mief',  
-   'mimen', // mimen: *
+   'mimen', // mimen: 
    'mit allen Wassern gewaschen', //  duplicated
    'mitgenommen',  // mitgenommen: 
    'Mohrrübe', // Mohrrübe: 
-   'Mucks',  // Mucks:  *
-   'Muffel',  // Muffel: *
-   'Mühle',  // Mühle: *
-   'Mullbinde', // Mullbinde: *
-   'mulmig',  // mulmig: *
-   'Mumm',  // Mumm: *
-   'Mumpitz',  // Mumpitz: *
-   'munkeln',  // munkeln: *
-   'Murmel' , // Murmel: *
-   'murren' , // murren: *
+   'Mucks',  // Mucks:  
+   'Muffel',  // Muffel: 
+   'Mühle',  // Mühle: 
+   'Mullbinde', // Mullbinde: 
+   'mulmig',  // mulmig: 
+   'Mumm',  // Mumm: 
+   'Mumpitz',  // Mumpitz: 
+   'munkeln',  // munkeln: 
+   'Murmel' , // Murmel: 
+   'murren' , // murren: 
 ];
 
 export default m;      

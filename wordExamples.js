@@ -30,6 +30,7 @@ Pimpf: [
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',
 	'Der Stammführer (<i>Rademann, Atzes Vater</i>) trat mit der Waffe auf ihn (<i>Fritze</i>) zu und reichte ihm das kalte Metall.. Fritz kannte solche Pistolen. Gereon hatte auch so eine.. "So was schon mal benutzt, Thormann?", fragte Rademann. "Nein, Stammführer!" "Wollte ich dir auch geraten haben! Das ist verboten für <strong>Pimpfe</strong> wie euch. Erst in der SA dürft ihr schießen!"  (<i>Lunapark</i>, 459-60)',   
+	'"Was ist denn hier noch los?", fragte eine tiefe Stimme. Fritze erschrak. Er hatte gar nicht gehört, dass Atzes Vater zu ihnen in den Raum gekommen war. "Morgen müsst ihr früh aus den Federn, da sollten anständige <strong>Pimpfe</strong> schlafen! (<i>Lunapark</i>, 463)',
 ],
 Bohei: [  
 	'das <strong>Bohei</strong> = <strong>Buhei</strong>: fuss, hullabaloo'+
@@ -1563,7 +1564,8 @@ Mucks: [
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
-	'"Halten Sie hier", sagte er dem Taxifahrer, der es die ganze Fahrt über nicht mehr gewagt hatte, einen <strong>Mucks</strong> zu machen. Auch jetzt nickte der Mann nur und gehorchte.  (<i>Lunapark</i>, 282)',  
+	'"Halten Sie hier", sagte er dem Taxifahrer, der es die ganze Fahrt über nicht mehr gewagt hatte, einen <strong>Mucks</strong> zu machen. Auch jetzt nickte der Mann nur und gehorchte. (<i>Lunapark</i>, 282)',  
+	'Rademann ließ Fritzes Hand los und stand auf. "Dann denkt mal darüber nach, was ich gerade gesagt habe, alle beide. Aber nur nachdenken, nicht quatschen! Ich will keinen <strong>Mucks</strong> mehr hören." (<i>Lunapark</i>, 464)',
 ],
 'Gassi gehen': [
 	'<strong>Gassi gehen</strong>: take the dog for a walk'+
@@ -16031,6 +16033,7 @@ Geheiß:   Lunapark 57
  handhaben Lunapark 310  included in ausmisten
  Halter Lunapark 153
  Heftzwecken  Lunapark 286
+ Heimlichkeit Lunapark 464
  hieven  Nasse Fisch 58  
  heraushauen   rausgehauen  Der Nase Fisch 31
  hieven Der nasse Fisch 239

@@ -28,12 +28,14 @@ const u = [
    'unten durch sein', 
    'unter dem Pantoffel stehen', 
    'unter Fittiche nehmen',  
+   'unter Strom stehen',
    'unterbuttern',  // unterbuttern: 
    'unterjubeln',  // unterjubeln: 
    'Unterschlagung, unterschlagen', 
    'unterschlüpfen, Unterschlupf', 
    'untersetzt',  // untersetzt: 
    'Unterstand',  // Unterstand: 
+   'unverblümt',  // unverblümt:  make duplicate if "verblümt" found
    'unverfänglich', // unverfänglich: 
    'unverfroren',  // unverfroren:  
    'unverrichteter Dinge', 

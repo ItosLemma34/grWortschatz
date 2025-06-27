@@ -7,7 +7,8 @@ const s = [
    'säumen', // säumen:  
    'Sause',  //Sause:  
    'sausen', // sausen:  
-   'schaben', // schaben:   
+   'schaben', // schaben:
+   'Schablone',  // Schablone:   
    'schade (zu schade sein)',   //duplicated 
    'schälen', // schälen:    
  //  'Schank',  // Schank: needs work
@@ -114,7 +115,7 @@ const s = [
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated
    'Schüssel, Kloschüssel',  //  duplicate
-   'schütten',  // schütten:         
+   'schütten, verschütten, zuschütten',  // triplicated:         
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
    'Schütze',  // Schütze:  

@@ -23,21 +23,21 @@ const f = [
    'filzen',  // filzen:  
    'Findling',   // Findling: 
    'fingieren',  // fingieren: 
-   'Firlefanz',  // Firlefanz: *
-   'Fischzug',   // Fischzug: * 
-   'Flachmann',  // Flachmann: *
-   'Flachpfeife', // Flachpfeife: *
-   'Flappe (eine F. ziehen)', // *
-   'flapsig, Flapsigkeit',  // * 
-   'Flaschenzug', // Flaschenzug: *
-   'flattern', // flattern: *
-   'flau' ,  // flau: *
-   'Flaum',  // Flaum:  *
-   'fläzen (sich)',  // *
-   'fleddern',  // fleddern:  *           
-   'flehen, flehentlich',  // *  
-   'flicken',  // flicken: // * 
-   'Fliese, fliesen',   //  *
+   'Firlefanz',  // Firlefanz: 
+   'Fischzug',   // Fischzug:  
+   'Flachmann',  // Flachmann: 
+   'Flachpfeife', // Flachpfeife: 
+   'Flappe (eine F. ziehen)', 
+   'flapsig, Flapsigkeit',   
+   'Flaschenzug', // Flaschenzug: 
+   'flattern', // flattern: 
+   'flau' ,  // flau: 
+   'Flaum',  // Flaum:  
+   'fläzen (sich)',  
+   'fleddern',  // fleddern:             
+   'flehen, flehentlich',    
+   'flicken',  // flicken:  
+   'Fliese, fliesen',   
    'flink',  // flink:  
    'Flittchen',  // Flittchen: 
    'flitzen', // flitzen: 

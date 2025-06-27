@@ -1,6 +1,7 @@
 const e = [
    'Ebbe',   // Ebbe:   
-   'echoen',  // echoen: 
+   'echoen',  // echoen:
+   'eklig',  // eklig:  make duplicate if Ekelhaft founr 
    'Ei (wie aus dem Ei gepellt)', //  duplicated  
    'einbetonieren', // einbetonieren 
    'einbrocken',  // einbrocken:  
@@ -12,45 +13,45 @@ const e = [
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: 
    'einkerben',  // einkerben: 
-   'einkriegen (sich)',  //  
+   'einkriegen (sich)',   
    'einkringeln',  // einkringeln:  
    'einlochen',  // einlochen:  
    'einlullen',  // einlullen:  
    'einnicken',  // einnicken:  
    'Einöde, öde',   // duplicated
-   'einpferchen, pferchen', // * duplicated 
-   'einrasten',  // einrasten: * 
-   'einreißen, niederreißen',  // * duplicated  
-   'einrenken (sich)',  // *  
-   'einrüsten, Gerüst',  // * duplicated  
-   'einschleusen',  //  einschleusen: *
-   'einseifen',  // einseifen:  *
-   'einspannen', // einspannen: *
-   'Einstand' ,  // Einstand: *
-   'einstäuben',  // einstäuben:  *
-   'einstecken',  // einstecken: *
-   'einstielen', // einstielen: * 
-   'Eintänzer',   // Eintänzer: * 
-   'eintrudeln',  // eintrudeln:  *
-   'eintüten',    // eintüten:  *
-   'Ekel, anekeln', // * duplicated
-   'Empore',     // Empore: * 
-   'entbieten',  // entbieten: * 
-   'entgegenfiebern',  // entgegenfiebern: * 
-   'entriegeln',  // entriegeln: *
-   'entsorgen',  // entsorgen:  * 
-   'entstellen',  // entstellen: *
-   'entwinden',  // entwinden:  *
-   'erdreisten (sich)',  // *  
-   'ergattern',   // ergattern: * 
-   'erhaschen',   // erhaschen: *
-   'erheblich, unerheblich', // * duplicated 
-   'Erker', // Erker: *  
-   'erkiesen',   // erkiesen: * 
-   'erpicht',   // erpicht: *
-   'erschnuppern, schnuppern', // * duplicated 
-   'erstehen',  // erstehen: * 
-   'eruieren',  // eruieren: * 
+   'einpferchen, pferchen', //  duplicated 
+   'einrasten',  // einrasten:  
+   'einreißen, niederreißen',  //  duplicated  
+   'einrenken (sich)',     
+   'einrüsten, Gerüst',  //  duplicated  
+   'einschleusen',  //  einschleusen: 
+   'einseifen',  // einseifen:  
+   'einspannen', // einspannen: 
+   'Einstand' ,  // Einstand: 
+   'einstäuben',  // einstäuben:  
+   'einstecken',  // einstecken: 
+   'einstielen', // einstielen:  
+   'Eintänzer',   // Eintänzer:  
+   'eintrudeln',  // eintrudeln:  
+   'eintüten',    // eintüten:  
+   'Ekel, (an)ekeln, eklig', 
+   'Empore',     // Empore:  
+   'entbieten',  // entbieten:  
+   'entgegenfiebern',  // entgegenfiebern:  
+   'entriegeln',  // entriegeln: 
+   'entsorgen',  // entsorgen:   
+   'entstellen',  // entstellen: 
+   'entwinden',  // entwinden:  
+   'erdreisten (sich)',    
+   'ergattern',   // ergattern:  
+   'erhaschen',   // erhaschen: 
+   'erheblich, unerheblich', //  duplicated 
+   'Erker', // Erker:   
+   'erkiesen',   // erkiesen:  
+   'erpicht',   // erpicht: 
+   'erschnuppern, schnuppern', //  duplicated 
+   'erstehen',  // erstehen:  
+   'eruieren',  // eruieren:  
 ];
 
 export default e;

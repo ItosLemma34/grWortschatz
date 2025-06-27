@@ -15,6 +15,7 @@ const a = [
 	'Ablage',     // Ablage:  
 	'abluchsen',  // abluchsen: 
 	'abschüssig',  // abschüssig:  
+	'abspecken',  // abspecken:
 	'abspulen',   // abspulen:  
 	'abstauben',  // abstauben: 
 	'abstottern', // abstottern: 
@@ -22,39 +23,39 @@ const a = [
 	'abtupfen, betupfen, tupfen',  
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
-	'abzocken',  // abzocken:  *
-	'Abzweig, abzweigen',  //  *
-	'Achterbahn', // Achterbahn: *
-	'achtkantig hinauswerfen', // *
-	'ächzen',     // ächzen: *
-	'Ader',  // Ader: *
-	'Adlatus', // Adlatus:  *
-	'adrett',   // adrett:  *
-	'Affekthandlung',   // Affekthandlung: *
-	'alle naselang', // *
-	'Allerwerteste',   // Allerwerteste:  *
-	'alteingesessen',  // alteingesessen: *
-	'an der Backe haben', // *
-	'an die große Glocke hängen', // * 
-	'anbändeln',    // anbändeln: *
-	'Anbiederung', // Anbiederung:  *
-	'anblaffen',    // anblaffen: *   
-	'anbrechen',    // anbrechen: * 
-	'anecken',      // anecken: *  
-	'anekeln, Ekel',      // * duplicated 
-	'anfauchen, fauchen', // * duplicated
-	'angeben, Angeber',  //  * duplicated
-	'angeschickert', // angeschickert: *
-	'anglotzen, glotzen', // * duplicated 
-	'anheuern',  // anheuern: *
-	'anhimmeln',    // anhimmeln: *  
+	'abzocken',  // abzocken:  
+	'Abzweig, abzweigen',  //  
+	'Achterbahn', // Achterbahn: 
+	'achtkantig hinauswerfen',  
+	'ächzen',     // ächzen: 
+	'Ader',  // Ader: 
+	'Adlatus', // Adlatus:  
+	'adrett',   // adrett:  
+	'Affekthandlung',   // Affekthandlung: 
+	'alle naselang', 
+	'Allerwerteste',   // Allerwerteste:  
+	'alteingesessen',  // alteingesessen: 
+	'an der Backe haben', 
+	'an die große Glocke hängen',  
+	'anbändeln',    // anbändeln: 
+	'Anbiederung', // Anbiederung:  
+	'anblaffen',    // anblaffen:    
+	'anbrechen',    // anbrechen:  
+	'anecken',      // anecken:   
+	'anekeln, Ekel',      //  duplicated 
+	'anfauchen, fauchen', //  duplicated
+	'angeben, Angeber',  //   duplicated
+	'angeschickert', // angeschickert: 
+	'anglotzen, glotzen', //  duplicated 
+	'anheuern',  // anheuern: 
+	'anhimmeln',    // anhimmeln:   
 	'anleinen',     // anleinen:  
 	'Anpfiff' ,     // Anpfiff:  
 	'anpflaumen',   // anpflaumen:  
 	'anpumpen',     // anpumpen: 
-	'anquatschen',   // anquatschen: *
-	'anraunzen',     // anraunzen: *
-	'anrempeln, rempeln, Rempler',  // * duplicated
+	'anquatschen',   // anquatschen: 
+	'anraunzen',     // anraunzen: 
+	'anrempeln, rempeln, Rempler',  //  duplicated
 	'Anrichte',     // Anrichte: 
 	'anrücken, ausrücken, nachrücken', //  triplicated  
 	'ans Bein binden',  //  duplicated

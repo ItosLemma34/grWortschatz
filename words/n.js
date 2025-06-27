@@ -4,6 +4,7 @@ const n = [
    'Nachhut', // Nachhut: 
    'nachsetzen',  // nachsetzen: 
    'nachrücken, anrücken, ausrücken', //  triplicated
+   'Nacht um die Ohren schlagen',  // duplicated, with "Ohren"
    'nagen',  // nagen: 
    'Napf',  // Napf:  
    'Nase (auf der N. herumtanzen)', //  duplicated

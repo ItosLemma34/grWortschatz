@@ -48,7 +48,8 @@ const a = [
 	'angeschickert', // angeschickert: 
 	'anglotzen, glotzen', //  duplicated 
 	'anheuern',  // anheuern: 
-	'anhimmeln',    // anhimmeln:   
+	'anhimmeln',    // anhimmeln:
+	'ankotzen, kotzen',  // duplicated   
 	'anleinen',     // anleinen:  
 	'Anpfiff' ,     // Anpfiff:  
 	'anpflaumen',   // anpflaumen:  
@@ -73,7 +74,8 @@ const a = [
 	'antanzen',     // antanzen:   
 	'Anwesen',      // Anwesen: 
 	'anwidern',     // anwidern: 
-	'Anzeige erstatten',  
+	'Anzeige erstatten',
+	'anzetteln',  // anzetteln:  
 //	'anzwinkern',  // anzwinkern:  excluded, for now; if include, include also zuzwinkern?
 	'apportieren', // apportieren: 
 	'Areal' ,  // Areal: 

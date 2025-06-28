@@ -94,7 +94,7 @@ const k = [
    'Korbstuhl',  // Korbstuhl:  
    'Kordel',  // Kordel: 
    'Kot, koten, Kotflügel', 
-   'kotzen', // kotzen: *
+   'kotzen, ankotzen', // duplicated 
    'krabbeln',  // krabbeln: 
    'krachen, Krach', 
    'Krähe, krähen',   

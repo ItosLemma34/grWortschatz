@@ -51,7 +51,8 @@ const e = [
    'erpicht',   // erpicht: 
    'erschnuppern, schnuppern', //  duplicated 
    'erstehen',  // erstehen:  
-   'eruieren',  // eruieren:  
+   'eruieren',  // eruieren: 
+   'erzittern, zittern, zittrig',  // duplicated 
 ];
 
 export default e;

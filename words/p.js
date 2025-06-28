@@ -45,6 +45,7 @@ const p = [
    'Pranke',  // Pranke: 
    'Präsent, präsent',  // 
    'prasseln',  // prasseln: 
+   'preschen',  // preschen:
    'Prise' ,  // Prise: 
    'Pritsche', // Pritsche: 
    'Prothese', // Prothese: 

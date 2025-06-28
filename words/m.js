@@ -8,6 +8,7 @@ const m = [
    'Manschettenknopf',  // Manschettenknopf: 
    'markieren (den dicken Max m.)', 
    'Marotte',  // Marotte: 
+   'Masche',  // Masche:
    'Matsch',  // Matsch: 
    'mau', // mau: 
    'Maulwurf',  // Maulwurf: 

@@ -37,7 +37,7 @@ const z = [
    'Zinnober',  // Zinnober:  
    'Zipperlein', // Zipperlein: 
    'zischen',  // zischen:   
-   'zittern, zittrig',  
+   'zittern, zittrig, erzittern', // duplicated 
    'zockeln',  // zockeln: 
    'zocken', // zocken: 
    'Zopf',  // Zopf: 

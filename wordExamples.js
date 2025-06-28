@@ -1,6 +1,7 @@
 export const wordExamples = {              
 /*  "gut in schuss" needs reworking  '' á ä  ü  "s"  
 Büro
+
 zzz: [  
 	'<strong>zzz</strong>:  '+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
@@ -13,6 +14,51 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */ 
+'bis in die Puppen': [  
+	'<strong>bis in die Puppen</strong>: till all hours, till the cows come home'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bis%20in%20die%20Puppen"target="target1">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9162-rtkl-redewendung-bis-die-puppen"target="target2">bis in die Puppen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=bis+in+die+Puppen"target="target3">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/bis+in+die+Puppen"target="target4">bis in die Puppen</a>',
+	'<u>Lunapark</u>',   
+	'Er (<i>Gräf</i>) hatte Glück. Conny war noch zuhause. Er war sogar noch in Unterwäsche. Manchmal schlief der Rottenführer <strong>bis in die Puppen</strong>. Vor allem, wenn die SA am Vorabend noch Einsätze hatte. (<i>Lunapark</i>, 190)',
+	'<i>Gräf</i>: Wir wissen ja noch gar nicht, ob die Männer sich auch im Sturmlokal befinden. Schließlich ist die SA ab heute im Urlaub." <i>Pfeiffer</i>: "Und wie ich die Kameraden kenne, haben sie den Urlaubsbeginn gestern <strong>bis in die Puppen</strong> gefeiert. Ich wette, die liegen alle noch unter den Tischen und schlafen ihren Rausch aus. (<i>Lunapark</i>, 471)',
+],
+'Puppen (bis in die P.)': [  
+	'<strong>bis in die Puppen</strong>: till all hours, till the cows come home'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bis%20in%20die%20Puppen"target="target1">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9162-rtkl-redewendung-bis-die-puppen"target="target2">bis in die Puppen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=bis+in+die+Puppen"target="target3">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/bis+in+die+Puppen"target="target4">bis in die Puppen</a>',
+	'<u>Lunapark</u>',   
+	'Er (<i>Gräf</i>) hatte Glück. Conny war noch zuhause. Er war sogar noch in Unterwäsche. Manchmal schlief der Rottenführer <strong>bis in die Puppen</strong>. Vor allem, wenn die SA am Vorabend noch Einsätze hatte. (<i>Lunapark</i>, 190)',
+	'<i>Gräf</i>: Wir wissen ja noch gar nicht, ob die Männer sich auch im Sturmlokal befinden. Schließlich ist die SA ab heute im Urlaub." <i>Pfeiffer</i>: "Und wie ich die Kameraden kenne, haben sie den Urlaubsbeginn gestern <strong>bis in die Puppen</strong> gefeiert. Ich wette, die liegen alle noch unter den Tischen und schlafen ihren Rausch aus. (<i>Lunapark</i>, 471)',
+],
+Masche: [  
+	'die <strong>Masche</strong>,-<strong>n</strong>: mesh, bow, loop; trick, scam'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Masche"target="target1">Masche</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Masche"target="target2">Masche</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/masche"target="target3">Masche</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Masche&id=substantiv%3AMasche"target="target4">Masche</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',   
+	'"Walter Spindler", fuhr Pfeiffer fort, "hatte damals, in den Systemzeiten, als die Rotfront noch offen gegen die nationalsozialistische Bewegung Schlägereien und Saalschlachten anzettelte, eine <strong>Masche</strong>, mit der er der Polizei immer wieder durch die Lappen ging. (<i>Lunapark</i>, 289)',  
+],
+anzetteln: [  
+	'<strong>anzetteln</strong>: instigate, incite, provoke'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anzetteln"target="target1">anzetteln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anzetteln"target="target2">anzetteln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/anzetteln"target="target3">anzetteln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anzetteln&id=verb%3Aanzetteln"target="target4">anzetteln</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'"Walter Spindler", fuhr Pfeiffer fort, "hatte damals, in den Systemzeiten, als die Rotfront noch offen gegen die nationalsozialistische Bewegung Schlägereien und Saalschlachten <strong>anzettelte</strong>, eine Masche, mit der er der Polizei immer wieder durch die Lappen ging. (<i>Lunapark</i>, 289)',  
+	'Die SA wollte putschen! Eine Riege rund um Stabschef Röhm, dem zweitmächtigsten Mann der Bewegung nach dem Führer. Ausgerechnet der Duzfreund Adolf Hitlers, einer seiner ältesten Kampfgefährten, hatte ein Verschwörung <strong>angezettelt</strong>, die weit über die Kreise der SA hinausreichte. (<i>Lunapark</i>, 468-69)',
+],
+preschen: [  
+	'(<strong>vor</strong>)<strong>preschen</strong>: rush, dash, tear'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/preschen"target="target1">preschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/preschen"target="target2">preschen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/preschen"target="target3">preschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=preschen&id=verb%3Apreschen"target="target4">preschen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Er (<i>Zörgiebel</i>) versuchte, ein paar Schritte zum Ausgang zu gehen, kam jedoch nicht weit, die Meute <strong>preschte</strong> wieder <strong>vor</strong>, die Fragen hagelten erneut... (<i>Der nasse Fisch</i>, 307)',
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'Der schwarze Mercedes <strong>preschte</strong> durch Berlin. (<i>Lunapark</i>, 468)',  
+],
 'unter Strom stehen': [  
 	'<strong>unter Strom stehen</strong>: run on adrenalin, be under pressure'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=unter+Strom+stehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">unter Strom stehen</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/unter_Strom_stehen/"target="target2">unter Strom stehen</a>'+
@@ -1039,17 +1085,31 @@ Lastkahn: [
 	'Das Grün und die angenehme Stille, in der kein Auto zu hören war, sondern nur Vogel<strong>gezwitscher</strong> und Blätterrauschen, beruhigten ihn (<i>Rath</i>).  (<i>Lunapark</i>, 351)',   
 	'Hier war es still. Ab und zu fuhr der Wind durch die Baumwipfel, ein paar Vögel <strong>zwitscherten</strong>, der See gluckerte aus der Ferne, das war\'s. (<i>Lunapark</i>, 459)',
 ],
-kotzen: [
+'kotzen, ankotzen': [
 	'<strong>kotzen</strong>: to puke, barf, vomit'+
 	'<br>die <strong>Kotze</strong>: vomit, puke'+
-	'<br><strong>etw. kotzt jmdn. an</strong>: sth. makes so. sick'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kotzen"target="target1">kotzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kotzen"target="target2">kotzen</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kotzen"target="target3">kotzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kotzen"target="target4">kotzen</a>',
+	'<br><strong>etw. kotzt jmdn. an</strong>: sth. disgusts, makes so. sick'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kotzen"target="target1">kotzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ankotzen"target="target2">ankotzen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kotzen"target="target3">kotzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ankotzen"target="target4">ankotzen</a>',
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'"Damals konnte ja auch kein Mensch ahnen, dass Hindenburg einen böhmischen Gefreiten zum Kanzler machen würde." Guido Scherer hob die Schultern, als müsse er sich entschuldigen. "Aber sieh es doch mal so: Lieber das kleinere Übel als..." <i>Charly</i>: "Hör mir auf mit kleineren oder größeren Übeln! Sonst wird mir nämlich übel. Und ich möchte nicht auf deinen schönen neuen Teppich <strong>kotzen</strong>!" (<i>Lunapark</i>, 351)',  
 	'Die Tablette schien zu wirken, Rath fühlte sich schon besser. Er winkte den Schupo herbei, dem er vorhin beinahe vor die Füße <strong>gekotzt</strong> hätte, und ließ den Mann Bericht erstatten. (<i>Lunapark</i>, 383-84)', 
+	'Er (<i>Pfeiffer</i>) warf einen kurzen Blick auf das Blatt Papier und reichte es an Gräf weiter. Auf dem Zettel standen zwei Namen. Und eine Anweisung... "Ein hübsches Pärchen, wahrscheinlich zwei warme Brüder", mutmaßte Pfeiffer und spuckte aus. "Ekelhaft. Diese Schwulenbande um Röhm <strong>kotzt</strong> mich <strong>an</strong>." (<i>Lunapark</i>, 470)',
+],
+'ankotzen, kotzen': [
+	'<strong>kotzen</strong>: to puke, barf, vomit'+
+	'<br>die <strong>Kotze</strong>: vomit, puke'+
+	'<br><strong>etw. kotzt jmdn. an</strong>: sth. disgusts, makes so. sick'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kotzen"target="target1">kotzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ankotzen"target="target2">ankotzen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kotzen"target="target3">kotzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ankotzen"target="target4">ankotzen</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>', 
+	'"Damals konnte ja auch kein Mensch ahnen, dass Hindenburg einen böhmischen Gefreiten zum Kanzler machen würde." Guido Scherer hob die Schultern, als müsse er sich entschuldigen. "Aber sieh es doch mal so: Lieber das kleinere Übel als..." <i>Charly</i>: "Hör mir auf mit kleineren oder größeren Übeln! Sonst wird mir nämlich übel. Und ich möchte nicht auf deinen schönen neuen Teppich <strong>kotzen</strong>!" (<i>Lunapark</i>, 351)',  
+	'Die Tablette schien zu wirken, Rath fühlte sich schon besser. Er winkte den Schupo herbei, dem er vorhin beinahe vor die Füße <strong>gekotzt</strong> hätte, und ließ den Mann Bericht erstatten. (<i>Lunapark</i>, 383-84)', 
+	'Er (<i>Pfeiffer</i>) warf einen kurzen Blick auf das Blatt Papier und reichte es an Gräf weiter. Auf dem Zettel standen zwei Namen. Und eine Anweisung... "Ein hübsches Pärchen, wahrscheinlich zwei warme Brüder", mutmaßte Pfeiffer und spuckte aus. "Ekelhaft. Diese Schwulenbande um Röhm <strong>kotzt</strong> mich <strong>an</strong>." (<i>Lunapark</i>, 470)',
 ],
 'läutern, Läuterung': [
 	'<strong>läutern</strong>: cleanse, purge, purify'+
@@ -1061,7 +1121,6 @@ kotzen: [
 	'<u>Lunapark</u>',   
 	'<i>Guido liest von Papens Zeitungsartikel</i>: "Fast wie ein Traum liegt es über uns, daß wir aus dem Tal der Trübsal, der Hoffnungslosigkeit, des Hasses und der Zerklüftung wieder zur Gemeinschaft der deutschen Nation zurückgefunden haben. Nun aber, da die Begeisterung verflacht,.. zeigt es sich, daß der <strong>Läuterungs</strong>prozeß von solch historischem Ausmaß auch Schlacken erzeugt, von denen er sich reinigen muß." (<i>Lunapark</i>, 348)',  
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Mumm: [
 	'der <strong>Mumm</strong>: grit, guts, courage, balls'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Mumm"target="target1">Mumm</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Mumm"target="target2">Mumm</a>'+
@@ -1363,7 +1422,8 @@ Jeton: [
 	'<u>Lunapark</u>', 
 	'Obwohl es erst kurz nach acht war und der Himmel bewölkt, lag schon eine drückende Hitze in der Luft. Wieder ein Tag mit Kopfschmerzen. Wenn Andreas Lange eines nicht vertragen konnte, dann was es <strong>schwüles</strong> Wetter.  (<i>Lunapark</i>, 323)',  
 	'Wie groß die Sorgen tatsächlich waren, die sich Karl Reinhold machen musste, sollte Rath erst an diesem <strong>schwülen</strong> Montagmorgen erfahren.   (<i>Lunapark</i>, 326)',  
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+	'Auch die offenen Wagenfenster konnten nichts gegen die stickige, <strong>schwüle</strong> Luft ausrichten, die seit Tagen auf der Stadt hockte und nicht weichen wollte. (<i>Lunapark</i>, 470)',
+	// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
 Samt: [                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 	'der <strong>Samt</strong>,-<strong>e</strong>: saliva, spittle'+
@@ -1538,6 +1598,7 @@ grölen: [
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',  
 	'Als er (<i>Rath</i>) das Schulgelände betrat, klingelte es zur großen Pause, und er musste sich seinen Weg durch Horden <strong>grölender</strong> Gymnasiasten bahnen.  (<i>Lunapark</i>, 302)', 
+	'Die SS war kein <strong>grölender</strong>, saufender Landknechtshaufen wie die SA. Ein Putsch der Schutzstaffel gegen den Führer? Undenkbar. (<i>Lunapark</i>, 469)',
 ],
 Backfisch: [
 	'der <strong>Backfisch</strong>,-<strong>e</strong>: battered fish; teenage girl'+
@@ -3011,6 +3072,8 @@ anpumpen: [
 	'<u>Der nasse Fisch</u>',
 	'Die Zimmerwirtin (<i>Elisabeth Behnke</i>) achtete streng darauf, dass ihre Mieter zu später Stunde keine Damen empfingen. Und der findige Weinert hatte beinah jeden Abend eine zu Gast, ohne dass die Behnke <strong>ihm</strong> bislang <strong>auf die Schliche gekommen wäre</strong>. (<i>Der nasse Fisch</i>, 37)',
 	'<i>Frau Schäffner</i>: "Dann setzense sich mal, Herr.." "Rath, Kriminalkommissar Rath." "So. Sind Sie endlich den Liebigs aus\'m Hinterhaus <strong>auf die Schliche jekommen?</strong>" (<i>Der nasse Fisch</i>, 107)',
+	'<u>Lunapark</u>',
+	'Die SA wollte putschen!.. Der Sicherheitsdienst der SS.. war dem Komplott, in das wohl auch, wie man munkelte, ausländische Mächte verwickelt waren, in den letzten Tagen <strong>auf die Schliche gekommen</strong>, und nun galt es, schnell und rücksichtslos zuzuschlagen. (<i>Lunapark</i>, 468-69)',
 ], 
 'Schliche (auf die S. kommen)': [ 
 	'jmdm., etwas <strong>auf die Schliche kommen</strong>: find so./sth. out, get wise to so./sth.'+
@@ -3460,8 +3523,9 @@ anraunzen: [
 	'"Ihr habt’s gut hier in Köln", sagte Rath zu einem der beiden Schupos, die nicht eingegriffen hatten. "Ihr habt die Roten Funken als Hilfspolizei, bei uns machen das SA und Stahlhelm."  "Was wollen Sie denn, Mann?", <strong>raunzte</strong> der Blaue ihn <strong>an</strong>. (<i>Märzgefallene</i>, 53)',
 	'Böhm schien seine Niederlage Rath persönlich übelzunehmen. Als sie zehn Minuten später in Böhms Büro saßen, <strong>raunzte</strong> der Oberkommissar ihn <strong>an</strong>. "Sie haben Kriminalrat Gennat gehört, Kommissar, dann setzen Sie mal den Aufruf an die Presse auf." (<i>Märzgefallene</i>, 124)',
 	'<u>Lunapark</u>',
-	'"Schnauze", schnauzte der SA-Mann, und Rath hielt den Mund. Er fragte sich, woher der Kerl die Frechheit hernahm, einen Kriminalbeamten derart <strong>anzuraunzen</strong>.  (<i>Lunapark</i>, 91)',
+	'"Schnauze", schnauzte der SA-Mann, und Rath hielt den Mund. Er fragte sich, woher der Kerl die Frechheit hernahm, einen Kriminalbeamten derart <strong>anzuraunzen</strong>. (<i>Lunapark</i>, 91)',
 	'Obwohl immer noch der dünne Rest eines Lächelns in seinem Gesicht überdauerte, sah Guido wirklich betroffen aus. Mehr überrascht als betroffen. So hatte Charly ihn wahrscheinlich noch nie <strong>angeraunzt</strong>, so <strong>raunzte</strong> sie sonst immer nur Gereon <strong>an</strong>.  (<i>Lunapark</i>, 350)',
+	'"Wir suchen zwei SA-Männer des Sturms zweiundzwanzig, Lenzen und Kötter", sagte Pfeiffer.. <i>Der Wirt</i>: "Wenn ein SA-Mann wat ausjefressen hat, is aber det FJK zuständig. Nicht Staatspolizei oder SS." "Das lassen Sie mal unsere Sorge sein", <strong>raunzte</strong> Pfeiffer den Mann <strong>an</strong>. "Das FJK hat heute andere Aufgaben.." (<i>Lunapark</i>, 472)',
 ],
 anquatschen: [ 
 	'<strong>quatschen</strong>: yak, gab, shoot the bull'+
@@ -4023,6 +4087,7 @@ ausfressen: [
 	'Bevor sie (<i>Charly</i>) ihn (<i>den Groschen</i>) herausgab, zeigte sie ihm (<i>Fritze</i>) das Foto. <i>Charly</i>: "Kennst du die?" Er schaute kurz hin und dann direkt wieder weg. "Woher soll ick die kennen?.... <i>Charly</i>: "Die ist öfter hier am Bahnhof. Hannah heißt sie." <i>Fritze</i>: "Wat hat se denn <strong>ausjefressen</strong>?" <i>Charly</i>: "Wieso soll sie etwas <strong>ausgefressen</strong> haben?" (<i>Märzgefallene</i>, 294)',
 	'<u>Lunapark</u>',
 	'"Was ist denn?", fragte Bestmann. "Hat Katsche irjendwat <strong>ausjefressen</strong>?" "Was soll er denn <strong>ausgefressen</strong> haben? Ein SA-Mann ist doch kein Verbrecher", sagte Rath. (<i>Der Lunapark</i>, 34)',
+	'"Wir suchen zwei SA-Männer des Sturms zweiundzwanzig, Lenzen und Kötter", sagte Pfeiffer.. <i>Der Wirt</i>: "Wenn ein SA-Mann wat <strong>ausjefressen</strong> hat, is aber det FJK zuständig. Nicht Staatspolizei oder SS." "Das lassen Sie mal unsere Sorge sein", raunzte Pfeiffer den Mann an. "Das FJK hat heute andere Aufgaben.." (<i>Lunapark</i>, 472)',
 ],
 ausklinken: [ 
 	'<strong>ausklinken</strong>: release, disengage; withdraw, opt out'+
@@ -4140,20 +4205,6 @@ ausstopfen: [
 ],	
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'bis in die Puppen': [
-	'<strong>bis in die Puppen</strong>: till all hours, till the cows come home ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bis%20in%20die%20Puppen"target="target1">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9162-rtkl-redewendung-bis-die-puppen"target="target2">bis in die Puppen</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=bis+in+die+Puppen"target="target3">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/bis+in+die+Puppen"target="target4">bis in die Puppen</a> ' ,
-	'<u>Lunapark</u>',
-	'Er (<i>Gräf</i>) hatte Glück. Conny war noch zuhause. Er war sogar noch in Unterwäsche. Manchmal schlief der Rottenführer <strong>bis in die Puppen</strong>. Vor allem, wenn die SA am Vorabend noch Einsätze hatte.  (<i>Lunapark</i>, 190)',
-],
-'Puppen (bis in die P.)': [
-	'<strong>bis in die Puppen</strong>: till all hours, till the cows come home ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bis%20in%20die%20Puppen"target="target1">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9162-rtkl-redewendung-bis-die-puppen"target="target2">bis in die Puppen</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=bis+in+die+Puppen"target="target3">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/bis+in+die+Puppen"target="target4">bis in die Puppen</a> ' ,
-	'<u>Lunapark</u>',
-	'Er (<i>Gräf</i>) hatte Glück. Conny war noch zuhause. Er war sogar noch in Unterwäsche. Manchmal schlief der Rottenführer <strong>bis in die Puppen</strong>. Vor allem, wenn die SA am Vorabend noch Einsätze hatte.  (<i>Lunapark</i>, 190)',
-],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
@@ -4834,7 +4885,9 @@ bibbern: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://glosbe.com/de/en/die%20Biege%20machen"target="target3">Biege machen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/die+Biege+machen"target="target4">Biege machen</a>',  
 	'<u>Märzgefallene</u>',  
 	'In der Textilabteilung fegte der Junge scheinbar wahllos Klamotten von den Kleiderstangen und klemmte sie unter den Arm. <i>Hannah</i>: "Was soll’ en das?" <i>der Junge</i>: "Na, wir müssen uns doch ausstaffieren, bevor wir die <strong>Biege machen</strong>, wa? Muss sich doch lohnen!" (<i>Märzgefallene</i>, 172)',
-	'Ihr war immer klarer geworden, das sie (<i>Hannah</i>) ihm (<i>Felix</i>) nicht geben konnte, was er wollte. Die ersten richtig warmen Tage abwarten und dann <strong>die Biege machen</strong>, das war ihr Plan, raus aus der Stadt, irgendwohin, wo sie neu anfangen konnte.  (<i>Märzgefallene</i>, 391-92)',
+	'Ihr war immer klarer geworden, das sie (<i>Hannah</i>) ihm (<i>Felix</i>) nicht geben konnte, was er wollte. Die ersten richtig warmen Tage abwarten und dann <strong>die Biege machen</strong>, das war ihr Plan, raus aus der Stadt, irgendwohin, wo sie neu anfangen konnte. (<i>Märzgefallene</i>, 391-92)',
+	'<u>Lunapark</u>', 
+	'<i>Pfeiffer</i>: "Wo sind die Kerle (<i>Lenzen und Kötter</i>)?".. <i>Der Wirt</i>:"Wat weeß ich?.. Werden im Bette liejen. Haben jestern wild jefeiert." "In welchem Bett?" "Jeht mich ja nischt an." Der Wirt senkte seine Stimme und zwinkerte wie ein Verschwörer. "Aber ick würde sagen: in einem einzijen. Ausjerechnet die beiden, nach denen Se frgen, die haben jestern nämlich zusammen die <strong>Biege jemacht</strong>." (<i>Lunapark</i>, 472)', 
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -5058,8 +5111,9 @@ drosseln: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/drosseln"target="target3">drosseln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/drosseln"target="target4">drosseln</a>' ,
 	'<u>Lunapark</u>',
 	'<i>Osterberg</i>: "Was ist denn Johann? Stimmt etwas nicht?" "Nichts Besonderes, Herr Direktor. Aber der Hanomag hinter uns macht mich nervös. Folgt uns schon seit dem Spittelmarkt." "Dann <strong>drosseln</strong> Sie doch mal das Tempo und lassen ihn überholen", sagte Osterbeg.., "so eilig haben wir\'s ja nicht." (<i>Lunapark</i>, 8)',
-	'Der Fahrer <strong>drosselte</strong> die Geschwindigkeit und fuhr rechts ran.  (<i>Lunapark</i>, 281)',
+	'Der Fahrer <strong>drosselte</strong> die Geschwindigkeit und fuhr rechts ran. (<i>Lunapark</i>, 281)',
 	'An jeder Haltestelle ließ Rath den Taxifahrer das Tempo <strong>drosseln</strong>, doch Charly stieg nirgends aus (<i>aus der Bahn</i>). Sie (<i>der Taxifahrer und Rath</i>) folgten der Bahn, die weiter durch Berlin mäanderte... (<i>Lunapark</i>, 282)',
+	'Während Gräf noch an die alten Zeiten dachte, bog der Mercedes rechts ab und <strong>drosselte</strong> sein Tempo. (<i>Lunapark</i>, 470)',
 ],
 Dreh: [    
 	'der <strong>Dreh</strong>, die <strong>Drehs</strong>/<strong>e</strong>: trick, knack (of doing sth.); pivot'+
@@ -7854,6 +7908,7 @@ heulen: [
 	'Sie kamen immer näher, und Rath umklammerte die Walther, blieb hinter dem Karussell <strong>hocken</strong> und hoffte, sie mochten ihn nicht entdecken. (<i>Lunapark</i>, 374)',
 	'Rath hatte nicht unbedingt damit gerechnet, aber in Sankt Norbert wurde tatsächlich gebeichtet, als er die Kirche betrat. In den Bänken <strong>hockten</strong> ein paar arme Sünder, warteten, bis sie an der Reihe waren... (<i>Lunapark</i>, 413)',
 	'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und <strong>hockte sich</strong> vor die Kloschüssel. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
+	'Auch die offenen Wagenfenster konnten nichts gegen die stickige, schwüle Luft ausrichten, die seit Tagen auf der Stadt <strong>hockte</strong> und nicht weichen wollte. (<i>Lunapark</i>, 470)',
 ], 
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>,-<strong>mätze</strong>/<strong>matze</strong>: tiny tot'+
@@ -9680,14 +9735,16 @@ Manschettenknopf: [
 	'Achim Freiherr von Roddeck stand mit ausgestreckten Armen vor dem Spiegel und ließ sich gerade von einem Bediensteten die <strong>Manschettenknöpfe</strong> anlegen, als einer der wachhabenden Schupos den Kommissar (<i>Rath</i>) in die Suite führte.  (<i>Märzgefallene</i>, 479)' ,
 ],
 munkeln: [
-	'<strong>munkeln</strong>: whisper; spread rumors' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/munkeln"target="target1">munkeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/munkeln"target="target2">munkeln</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/munkeln"target="target3">munkeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/munkeln"target="target4">munkeln</a>  ' ,
+	'<strong>munkeln</strong>: whisper; spread rumors'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/munkeln"target="target1">munkeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/munkeln"target="target2">munkeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/munkeln"target="target3">munkeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/munkeln"target="target4">munkeln</a>',
 	'<u>Der nasse Fisch</u>',
-	'Es gab Kollegen, die Bruno den Luxus eines eigenen Autos missgönnten. Einige <strong>munkelten</strong>, Emmi Wolter hätte Geld mit in die Ehe gebracht.  (<i>Der nasse Fisch</i>, 136)' ,
-	'<i>General Seegers</i>: "...Gold im Wert von rund achzig Millionen Reichsmark soll außer Landes (<i>Russland</i>) geschafft worden sein. Und wissen Sie wohin?" Rath hatte keine Ahnung und zuckte mit den Schultern. Seegers schaffte es, noch etwas leiser zu sprechen. "Man <strong>munkelt</strong>, das Sorokin-Gold sei in Berlin!"    (<i>Der nasse Fisch</i>, 169)' ,
-	'<i>General Seegers</i>: "...Jedenfalls ist es (<i>das Gold</i>) wohl nicht da angekommen, wo es ankommen sollte." (<i>Rath</i>): "Bei den Sorokins." <i>Seegers</i>: "Oder bei ihren politischen Freunden. Man <strong>munkelt</strong>, die liberalen Sorokins hätten sich mit der <i> Krasnaja Krepost</i> zusammengetan, um Stalin gemeinsam die Macht zu entreißen."    (<i>Der nasse Fisch</i>, 170)' ,
-	'Bruno war es schließlich, der die Stille unterbrach. "Hast du (<i>Rath</i>) dich schon bei (<i>Inspektion</i>) A beworben?", fragte er unvermittelt.. "Man <strong>munkelt</strong>, dass da bald eine Stelle frei wird, nachdem der Kollege Roeder es vorzieht, seine Heldentaten in Buchform unters Volk zu bringen, anstatt weiter die Drecksarbeit für Gennat zu machen."  (<i>Der nasse Fisch</i>, 250)' ,
+	'Es gab Kollegen, die Bruno den Luxus eines eigenen Autos missgönnten. Einige <strong>munkelten</strong>, Emmi Wolter hätte Geld mit in die Ehe gebracht.  (<i>Der nasse Fisch</i>, 136)',
+	'<i>General Seegers</i>: "...Gold im Wert von rund achzig Millionen Reichsmark soll außer Landes (<i>Russland</i>) geschafft worden sein. Und wissen Sie wohin?" Rath hatte keine Ahnung und zuckte mit den Schultern. Seegers schaffte es, noch etwas leiser zu sprechen. "Man <strong>munkelt</strong>, das Sorokin-Gold sei in Berlin!" (<i>Der nasse Fisch</i>, 169)',
+	'<i>General Seegers</i>: "...Jedenfalls ist es (<i>das Gold</i>) wohl nicht da angekommen, wo es ankommen sollte." (<i>Rath</i>): "Bei den Sorokins." <i>Seegers</i>: "Oder bei ihren politischen Freunden. Man <strong>munkelt</strong>, die liberalen Sorokins hätten sich mit der <i> Krasnaja Krepost</i> zusammengetan, um Stalin gemeinsam die Macht zu entreißen." (<i>Der nasse Fisch</i>, 170)',
+	'Bruno war es schließlich, der die Stille unterbrach. "Hast du (<i>Rath</i>) dich schon bei (<i>Inspektion</i>) A beworben?", fragte er unvermittelt.. "Man <strong>munkelt</strong>, dass da bald eine Stelle frei wird, nachdem der Kollege Roeder es vorzieht, seine Heldentaten in Buchform unters Volk zu bringen, anstatt weiter die Drecksarbeit für Gennat zu machen." (<i>Der nasse Fisch</i>, 250)',
+	'<u>Lunapark</u>',
+	'Die SA wollte putschen!.. Der Sicherheitsdienst der SS.. war dem Komplott, in das wohl auch, wie man <strong>munkelte</strong>, ausländische Mächte verwickelt waren, in den letzten Tagen auf die Schliche gekommen, und nun galt es, schnell und rücksichtslos zuzuschlagen. (<i>Lunapark</i>, 468-69)',
 ],
 'miefig, Mief': [
 	'<strong>miefig</strong>: stuffy, stinky  <br>der <strong>Mief</strong>: stuffiness, stink, bad air'+
@@ -13410,13 +13467,15 @@ toben: [
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Trasse: [
-	'die <strong>Trasse</strong>,-<strong>n</strong>: line, route, track; embankment ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trasse"target="target1">Trasse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Trasse"target="target2">Trasse</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Trasse"target="target3">Trasse</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trasse"target="target4">Trasse</a> ', 
+	'die <strong>Trasse</strong>,-<strong>n</strong>: line, route, track; embankment'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trasse"target="target1">Trasse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Trasse"target="target2">Trasse</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Trasse"target="target3">Trasse</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trasse"target="target4">Trasse</a>', 
 	'<u>Märzgefallene</u>',
 	'Der Mann saß an einem stählernen Pfeiler im Schatten der Hochbahn<strong>trasse</strong>, das Kinn auf die Brust gesunken, als sei er kurz eingenickt.  (<i>Märzgefallene</i>, 9)',
-	'Jetzt erkannte Roddeck auch, links neben sich, eine Reihe von Stahträgern und dahinter eine weitere Straßenbahn<strong>trasse</strong>.. Er blieb stehen und drehte sich um, leuchtete zurück in die Richtung, aus der er gekommen war. Die Stahlträger reichten bis zu einer massiven Wand, an der sich die <strong>Trassen</strong> teilten.  (<i>Märzgefallene</i>, 565)',
-	'Roddeck stieg zwischen zwei Stahlträgern über ein niedriges Mäuerchen auf die andere <strong>Trasse</strong> und folgte den arbeitslosen Schienen auf der anderen Seite zurück in die Dunkelheit.  (<i>Märzgefallene</i>, 565)',
+	'Jetzt erkannte Roddeck auch, links neben sich, eine Reihe von Stahträgern und dahinter eine weitere Straßenbahn<strong>trasse</strong>.. Er blieb stehen und drehte sich um, leuchtete zurück in die Richtung, aus der er gekommen war. Die Stahlträger reichten bis zu einer massiven Wand, an der sich die <strong>Trassen</strong> teilten. (<i>Märzgefallene</i>, 565)',
+	'Roddeck stieg zwischen zwei Stahlträgern über ein niedriges Mäuerchen auf die andere <strong>Trasse</strong> und folgte den arbeitslosen Schienen auf der anderen Seite zurück in die Dunkelheit. (<i>Märzgefallene</i>, 565)',
+	'<u>Lunapark</u>',
+	'Der Mercedes folgte der Hochbahn<strong>trasse</strong> in der Gitschiner Straße. (<i>Lunapark</i>, 470)',
 ],
 Tresen: [
 	'der <strong>Tresen</strong>,-: bar, counter'+
@@ -14519,6 +14578,7 @@ verhexen: [
 	'Rath wusste, dass es noch reichlich früh war für Cognac, aber das Glas, das er zum Abschluss seines späten Frühstücks getrunken hatte, das vor allem aus einer Kanne Kaffee bestand, hatte immerhin den <strong>Kater</strong> verscheucht, mit dem er aufgewacht war. (<i>Märzgefallene</i>, 401)',
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) trank einen Schluck Kaffee und schaute in die Runde. Fritze hatte sich immer noch hinter der Zeitung vergraben, Gereon rührte mit einem von einem leichten <strong>Kater</strong> gequälten Gesicht in seinem Kaffee. (<i>Lunapark</i>, 76)',
+	'Zusammen mit Pfeiffer durchkämmte er (<i>Gräf</i>) das Sturmlokal.. In den Fremdenzimmern schreckten sie ein paar <strong>verkaterte</strong> SA-Männer aus dem Schlaf. Die Gesuchten waren nicht darunter. (<i>Lunapark</i>, 473)',
 ],
 'Kater, verkatert': [ 
 	'<strong>verkatert</strong>: hung over'+
@@ -14540,6 +14600,7 @@ verhexen: [
 	'Rath wusste, dass es noch reichlich früh war für Cognac, aber das Glas, das er zum Abschluss seines späten Frühstücks getrunken hatte, das vor allem aus einer Kanne Kaffee bestand, hatte immerhin den <strong>Kater</strong> verscheucht, mit dem er aufgewacht war. (<i>Märzgefallene</i>, 401)',
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) trank einen Schluck Kaffee und schaute in die Runde. Fritze hatte sich immer noch hinter der Zeitung vergraben, Gereon rührte mit einem von einem leichten <strong>Kater</strong> gequälten Gesicht in seinem Kaffee. (<i>Lunapark</i>, 76)',
+	'Zusammen mit Pfeiffer durchkämmte er (<i>Gräf</i>) das Sturmlokal.. In den Fremdenzimmern schreckten sie ein paar <strong>verkaterte</strong> SA-Männer aus dem Schlaf. Die Gesuchten waren nicht darunter. (<i>Lunapark</i>, 473)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -15857,14 +15918,39 @@ zischen: [
 	'"Pssst", <strong>zischte</strong> Charly, als Gereon ins Wohnzimmer kam und so etwas wie "Guten Abend" sagte. Sie wedelte mit den Armen und hoffte, er möge sie verstehen, und er verstand. Jedenfalls grinste er, legte den Finger an die Lippen und stakste so übertrieben auf Zehenspitzen zu seinem Sessel, dass es sie schon wieder ärgerte.  (<i>Märzgefallene</i>, 210)',
 	'Die Augen ihres (<i>Charlys</i>) Tanzpartners (<i>Bernard, der Eintänzer</i>) funkelten böse, als er sie zum Tisch zurückbegleitete, aber sein Mund lächelte. "Warum fragen Sie mich über einen Kollegen aus?", <strong>zischte</strong> er, ohne sein Lächeln zu verlieren. (<i>Märzgefallene</i>, 307)',                  
 ],
-'zittern, zittrig': [
-	'<strong>zittern</strong>: tremble, quiver  &nbsp;&nbsp;<strong>zittrig</strong>: shaky, trembly ' +
-	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zittern"target="target1">zittern</a> &nbsp;<a href="https://www.dwds.de/wb/zittrig"target="target2">zittrig</a> ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zittern"target="target3">zittern</a> &nbsp;<a href="https://www.verbformen.com/?w=zittrig"target="target4">zittrig</a>',  
+'zittern, zittrig, erzittern': [ 
+	'<strong>zittern</strong>: tremble, quiver &nbsp;&nbsp;<strong>zittrig</strong>: shaky, trembly'+
+	'<br><strong>erzittern</strong>: tremble, quake, palpitate'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zittern"target="target1">zittern</a> &nbsp;<a href="https://www.dwds.de/wb/zittrig"target="target2">zittrig</a> &nbsp;<a href="https://www.dwds.de/wb/erzittern"target="target3">erzittern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zittern"target="target4">zittern</a> &nbsp;<a href="https://www.verbformen.com/?w=zittrig"target="target5">zittrig</a> &nbsp;<a href="https://www.verbformen.com/?w=erzittern"target="target6">erzittern</a>',  
 	'<u>Märzgefallene</u>',
 	'Charly glaubte, ein leichtes <strong>Zittern</strong> zu beobachten, ein kaum merkliches, wie Bäume, die im Wind <strong>zitterten</strong>, ohne zu schwanken.... Das <strong>Zittern</strong> wurde stärker, es wirkte wie ein Erdbeben, das sich langsam aufschaukelte, ...eine ungeahnte Kraft, die, viel zu lange zurückgehalten, kurz vor der Explosion stand.  (<i>Märzgefallene</i>, 46)' ,
-	'Meiferts Stimme hatte unsicher und <strong>zittrig</strong> aus dem Telefon geklungen. Die Begegnung mit seiner Vergangenheit musste ihn aus dem Konzept gebracht haben. (<i>Märzgefallene</i>, 244)' ,
+	'Meiferts Stimme hatte unsicher und <strong>zittrig</strong> aus dem Telefon geklungen. Die Begegnung mit seiner Vergangenheit musste ihn aus dem Konzept gebracht haben. (<i>Märzgefallene</i>, 244)',
+	'<u>Lunapark</u>',   
+	'Frau Lennartz, die Hauswartsfrau, die gerade Teppiche klopfte, sodass die Fettpolster ihrer Arme bei jedem Schlag <strong>erzitterten</strong>, grüßte ihn (<i>Gräf</i>), als er zusammen mit Pfeiffer über den Hof ging.  (<i>Lunapark</i>, 473)',
 ],
+'erzittern, zittern, zittrig': [ 
+	'<strong>zittern</strong>: tremble, quiver &nbsp;&nbsp;<strong>zittrig</strong>: shaky, trembly'+
+	'<br><strong>erzittern</strong>: tremble, quake, palpitate'+
+	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.duden.de/rechtschreibung/zittern"target="target1">zittern</a> &nbsp;<a href="https://www.dwds.de/wb/zittrig"target="target2">zittrig</a> &nbsp;<a href="https://www.dwds.de/wb/erzittern"target="target3">erzittern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zittern"target="target4">zittern</a> &nbsp;<a href="https://www.verbformen.com/?w=zittrig"target="target5">zittrig</a> &nbsp;<a href="https://www.verbformen.com/?w=erzittern"target="target6">erzittern</a>',  
+	'<u>Märzgefallene</u>',
+	'Charly glaubte, ein leichtes <strong>Zittern</strong> zu beobachten, ein kaum merkliches, wie Bäume, die im Wind <strong>zitterten</strong>, ohne zu schwanken.... Das <strong>Zittern</strong> wurde stärker, es wirkte wie ein Erdbeben, das sich langsam aufschaukelte, ...eine ungeahnte Kraft, die, viel zu lange zurückgehalten, kurz vor der Explosion stand.  (<i>Märzgefallene</i>, 46)' ,
+	'Meiferts Stimme hatte unsicher und <strong>zittrig</strong> aus dem Telefon geklungen. Die Begegnung mit seiner Vergangenheit musste ihn aus dem Konzept gebracht haben. (<i>Märzgefallene</i>, 244)',
+	'<u>Lunapark</u>',   
+	'Frau Lennartz, die Hauswartsfrau, die gerade Teppiche klopfte, sodass die Fettpolster ihrer Arme bei jedem Schlag <strong>erzitterten</strong>, grüßte ihn (<i>Gräf</i>), als er zusammen mit Pfeiffer über den Hof ging.  (<i>Lunapark</i>, 473)',
+],
+/*
+erzittern: [  
+	'<strong>erzittern</strong>: tremble, quake, palpitate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erzittern"target="target1">erzittern</a>&nbsp;&nbsp;<a href=""target="target2">erzittern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""target="target3">erzittern</a>&nbsp;&nbsp;<a href=""target="target4">erzittern</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',   
+],
+*/
+
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zockeln: [
@@ -16080,7 +16166,6 @@ Gräfin Swetlana Sorokina
  anschleichen Lunapark 78
  anstellen (sich)  Märzgefallene   383
  anwidern Lunapark 283
- anzetteln Lunapark 289
  anzüglich  Der nasse Fisch  122                         
 'Ast'  ;   Nworte++;    Märzgefallene   27    34
  'attestieren'  ;   Nworte++;    Märzgefallene   27

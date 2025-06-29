@@ -1,6 +1,6 @@
 export const wordExamples = {              
 /*  "gut in schuss" needs reworking  '' á ä  ü  "s"  
-Büro
+Büro möchte
 
 zzz: [  
 	'<strong>zzz</strong>:  '+
@@ -14,6 +14,15 @@ zzz: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 */ 
+Schlappschwanz: [  
+	'der <strong>Schlappschwanz</strong>,-<strong>schwänze</strong>: weakling, wimp, limp dick'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlappschwanz"target="target1">Schlappschwanz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlappschwanz"target="target2">Schlappschwanz</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schlappschwanz"target="target3">Schlappschwanz</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlappschwanz&id=substantiv%3ASchlappschwanz"target="target4">Schlappschwanz</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',
+	'"Ich warne Sie ein letztes Mal!" rief Gräf und legte auf Conny an. "Legen Sie die Waffe weg, oder ich schieße!" Jetzt schien der Kerl (<i>Conny</i>) endlich zu begreifen. Er schüttelte den Kopf. "Das wagst du nicht", sagte er, "nein, das wagst du nicht, du <strong>Schlappschwanz</strong>! Du..." Ein Kopfschuss genau zwischen die Augen brachte ihn augenblicklich zu Schweigen. (<i>Lunapark</i>, 475)',   
+],
 'bis in die Puppen': [  
 	'<strong>bis in die Puppen</strong>: till all hours, till the cows come home'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bis%20in%20die%20Puppen"target="target1">bis in die Puppen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/9162-rtkl-redewendung-bis-die-puppen"target="target2">bis in die Puppen</a>'+
@@ -237,14 +246,15 @@ quengeln: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 anstandslos: [  
-	'<strong>anstandslos</strong>: freely; without restrictions/objections/problems'+
+	'<strong>anstandslos</strong>: freely; without restrictions/objections'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anstandslos"target="target1">anstandslos</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anstandslos"target="target2">anstandslos</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anstandslos"target="target3">anstandslos</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/anstandslos"target="target4">anstandslos</a>',
 //	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
+	'<u>Märzgefallene</u>',    
+	'Roddecks Verleger hatte sich gewundert, als Liang ihm die von Gustav Kohn ausgearbeitete und von Roddeck unterschriebene Übertragunsvollmacht unter die Nase gehalten hatte. Aufzumucken oder gar zur Polizei zu gehen, hatte er nicht gewagt.. Der Nibelungen-Verlag hatte <strong>anstandslos</strong> gezahlt. (<i>Märzgefallene</i>, 587)',
 	'<u>Lunapark</u>',
 	'Charly wusste nicht, ob er (<i>Guido</i>) die dünne Geschichte, die sie ihm aufgetischt hatte, wirklich glaubte, aber seinen Wagen, einen kleinen Opel, hatte er ihr <strong>anstandslos</strong> geliehen. (<i>Lunapark</i>, 441)',
-	'Roddecks Verleger hatte sich gewundert, als Liang ihm die von Gustav Kohn ausgearbeitete und von Roddeck unterschriebene Übertragunsvollmacht unter die Nase gehalten hatte. Aufzumucken oder gar zur Polizei zu gehen, hatte er nicht gewagt.. Der Nibelungen-Verlag hatte <strong>anstandslos</strong> gezahlt. (<i>Märzgefallene</i>, 587)',
+	'Der SS-Mann (<i>Pfeiffer</i>) schien überrascht, dass Gräf wieder in den Befehlston verfiel, er hatte es offensichtlich genossen, bei dieser Aktion Oberwasser zu haben, doch er gehorchte <strong>anstandslos</strong>, ging mit gezückter Waffe zum letzen Treppenabsatz zurück und passte auf, dass niemand herauf- und niemand hinunterkam. (<i>Lunapark</i>, 474)',
 ],
 sabbern: [  
 	'<strong>sabbern</strong>: drivel, drool, salivate'+
@@ -3074,6 +3084,7 @@ anpumpen: [
 	'<i>Frau Schäffner</i>: "Dann setzense sich mal, Herr.." "Rath, Kriminalkommissar Rath." "So. Sind Sie endlich den Liebigs aus\'m Hinterhaus <strong>auf die Schliche jekommen?</strong>" (<i>Der nasse Fisch</i>, 107)',
 	'<u>Lunapark</u>',
 	'Die SA wollte putschen!.. Der Sicherheitsdienst der SS.. war dem Komplott, in das wohl auch, wie man munkelte, ausländische Mächte verwickelt waren, in den letzten Tagen <strong>auf die Schliche gekommen</strong>, und nun galt es, schnell und rücksichtslos zuzuschlagen. (<i>Lunapark</i>, 468-69)',
+	'Wenn Frau Lennartz oder sonst wer, der die Schüsse gehört hatte, im Präsidium anriefe, würde Gennat bestimmt eine Mordkommission rausschicken. Und irgendwie behagte ihm (<i>Gräf</i>) der Gedanke nicht, sein alter Chef könne ihm <strong>auf die Schliche kommen</strong>, selbst wenn das keine rechtlichen Konsequenzen nach sich ziehen würde. (<i>Lunapark</i>, 476)',
 ], 
 'Schliche (auf die S. kommen)': [ 
 	'jmdm., etwas <strong>auf die Schliche kommen</strong>: find so./sth. out, get wise to so./sth.'+
@@ -3082,6 +3093,9 @@ anpumpen: [
 	'<u>Der nasse Fisch</u>',
 	'Die Zimmerwirtin (<i>Elisabeth Behnke</i>) achtete streng darauf, dass ihre Mieter zu später Stunde keine Damen empfingen. Und der findige Weinert hatte beinah jeden Abend eine zu Gast, ohne dass die Behnke <strong>ihm</strong> bislang <strong>auf die Schliche gekommen wäre</strong>. (<i>Der nasse Fisch</i>, 37)',
 	'<i>Frau Schäffner</i>: "Dann setzense sich mal, Herr.." "Rath, Kriminalkommissar Rath." "So. Sind Sie endlich den Liebigs aus\'m Hinterhaus <strong>auf die Schliche jekommen?</strong>" (<i>Der nasse Fisch</i>, 107)',
+	'<u>Lunapark</u>',
+	'Die SA wollte putschen!.. Der Sicherheitsdienst der SS.. war dem Komplott, in das wohl auch, wie man munkelte, ausländische Mächte verwickelt waren, in den letzten Tagen <strong>auf die Schliche gekommen</strong>, und nun galt es, schnell und rücksichtslos zuzuschlagen. (<i>Lunapark</i>, 468-69)',
+	'Wenn Frau Lennartz oder sonst wer, der die Schüsse gehört hatte, im Präsidium anriefe, würde Gennat bestimmt eine Mordkommission rausschicken. Und irgendwie behagte ihm (<i>Gräf</i>) der Gedanke nicht, sein alter Chef könne ihm <strong>auf die Schliche kommen</strong>, selbst wenn das keine rechtlichen Konsequenzen nach sich ziehen würde. (<i>Lunapark</i>, 476)',
 ], 
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -3633,17 +3647,18 @@ antanzen: [
 	'Kirie lief schwanzwedelnd auf Marlow zu und ließ sich zur Begrüßung durchs Fell wuscheln. "Braves Hundchen", sagte der Gangster. So fühlte Rath sich auch. Wie ein braves Hundchen, das bei seinem Herrn und Meister <strong>antanzte</strong>. <strong>Antanzen</strong> musste. (<i>Lunapark</i>, 354)' ,
 ],
 Anwesen: [
-	'das <strong>Anwesen</strong>,-: estate, stately home; property ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anwesen"target="target1">Anwesen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anwesen"target="target2">Anwesen</a> ' +
+	'das <strong>Anwesen</strong>,-: estate, stately home; property'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anwesen"target="target1">Anwesen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anwesen"target="target2">Anwesen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anwesen"target="target3">Anwesen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anwesen"target="target4">Anwesen</a>', 
 	'<u>Märzgefallene</u>',
-	'Etwas abseits des Dorfes liegt ein stattliches <strong>Anwesen</strong>, an dem der Krieg wie durch ein Wunder noch keinerlei Spuren hinterlassen hat, eine schmucke Villa mitsamt Dienstbotenunterkünften und einem kleinen Park.  (<i>Märzgefallene</i>, 160) ',
+	'Etwas abseits des Dorfes liegt ein stattliches <strong>Anwesen</strong>, an dem der Krieg wie durch ein Wunder noch keinerlei Spuren hinterlassen hat, eine schmucke Villa mitsamt Dienstbotenunterkünften und einem kleinen Park. (<i>Märzgefallene</i>, 160)',
 	'Das <strong>Anwesen</strong> lag am äußersten Rand von Neuville, ein ganzes Stück abseits der anderen Häuser und unendlich weit entfernt vom nächsten bewohnten Haus.... (<i>Märzgefallene</i>, 166-67)',
 	'<u>Lunapark</u>',
 	'Rath betrachtete die Mauer, die das <strong>Anwesen</strong> (<i>Marlows Villa</i>) umgab. Gut zweieinhalb Meter hoch. (<i>Lunapark</i>, 121)',
-	'<i>Rath</i>: "Ich suche Johann Marlow." <i>der Mann mit der Schrotflinte</i>: "Wen?" "Johann Marlow. Das ist sein Haus. War es jedenfalls vor einem Jahr." ' +
-	'"Ich kenne keinen Marlow. Ich passe für Doktor Friedemann auf dieses Haus auf." "Friedemann?" "Der Besitzer dieses <strong>Anwesens</strong>.".. ' +
+	'<i>Rath</i>: "Ich suche Johann Marlow." <i>der Mann mit der Schrotflinte</i>: "Wen?" "Johann Marlow. Das ist sein Haus. War es jedenfalls vor einem Jahr."'+
+	'"Ich kenne keinen Marlow. Ich passe für Doktor Friedemann auf dieses Haus auf." "Friedemann?" "Der Besitzer dieses <strong>Anwesens</strong>."..'+
 	'"Ich dachte, Sie (<i>Marlow</i>) hätten das <strong>Anwesen</strong> hier verkauft", sagte er (<i>Rath</i>) und ließ seinen Blich durch den Garten schweifen. (<i>Lunapark</i>, 354)',
+	'Nun stand sie (<i>Charly</i>) vor der Adresse, die Landauer ihr gegeben hatte, stand dort mit ihrem Köfferchen, als sei sie die neue Köchin. Denn auch das Haus in der Victoriastraße war kein Haus, sondern ein <strong>Anwesen</strong>, wenn auch nicht ganz so eindrucksvoll wie das schlossähnliche in Freienwalde. (<i>Lunapark</i>, 478)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8850,6 +8865,7 @@ Klaue: [
 	'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, <strong>klemmte</strong> sie unter den linken Arm, ließ den rechten emporschnellen, knallte die Hacken zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
 	'Sein Kopf schmerzte, als wäre er (<i>Rath</i>) in eine Schraubzwinge <strong>geklemmt</strong>. (<i>Lunapark</i>, 380)',
 	'"Auf Wiedersehen, die Herren", sagte er (<i>Pfarrer Warszawski</i>) noch und warf Rath, der ebenfalls vor die Hütte getreten war, die Wagenschlüssel zu. "Und passen Sie auf, der Rückwärtsgang <strong>klemmt</strong> etwas." (<i>Lunapark</i>, 419)',
+	'<i>Greta</i>: "Entschuldige, meine Liebe, aber du machst auch einen nervöseren Eindruck als sonst." <i>Charly</i>: "Ich möchte jemandem helfen, der in der <strong>Klemme</strong> steckt..." (<i>Lunapark</i>, 478)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8861,22 +8877,23 @@ Klette: [
 	'Der Knirps (<i>Fritze</i>) hatte sich zu einer regelrechten Nervensäge entwickelt. Wie eine <strong>Klette</strong> klebte der Junge an ihr (<i>Hannah</i>), sie wurde ihn einfach nicht mehr los. (<i>Märzgefallene</i>, 252)',                 
 ],
 klimpern: [
-	'<strong>klimpern</strong>: jingle, clink; flutter; strum (eg, guitare) ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klimpern"target="target1">klimpern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klimpern"target="target2">klimpern</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klimpern"target="target3">klimpern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klimpern"target="target4">klimpern</a>  ' ,
+	'<strong>klimpern</strong>: jingle, clink; flutter; strum (eg, guitare)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klimpern"target="target1">klimpern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klimpern"target="target2">klimpern</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klimpern"target="target3">klimpern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klimpern"target="target4">klimpern</a>',
 	'<u>Der nasse Fisch</u>',
-	'Er (<i>Rath</i>) drehte sich um wie ertappt und blickte in ein lachendes Gesicht. "Du arbeitest immer noch bei uns", sagte Wolter und <strong>klimperte</strong> mit dem Autoschlüssel.  (<i>Der nasse Fisch</i>, 34)' ,
-	'Sie (<i>Gloria, im Eldorado</i>) beugte sich noch einmal zu ihm (<i>Rath</i>). Ihre Halsketten <strong>klimperten</strong>.   (<i>Der nasse Fisch</i>, 127)' ,
-	'<i>Rath</i>: "Wo finde ich denn Herrn Schneid?" Der Mann zuckte die Achseln. "In seinem alten Büro im <i>Delphi</i> jedenfalls nicht. Gegen ihn läuft ein Konkursverfahren." Er <strong>klimperte</strong> mit einem Schlüsselbund. "Die Schlüssel habe ich."   (<i>Der nasse Fisch</i>, 134)' ,
-	'Der Beamte verdrehte die Augen. Er schlug die Schublade wieder zu, schloss den Rollschank und <strong>klimperte</strong> geräuschvoll mit dem Schlüsselbund.  (<i>Der nasse Fisch</i>, 140)' ,
-	'Und jetzt stand er (<i>Gereon</i>) vor dem Buick, <strong>klimperte</strong> mit dem Schlüsselbund und genoss ihre großen Augen. "Deiner?", fragte sie (<i>Charly</i>). "Wenn ich Frauen beeindrucken will, besorge ich mir immer ein Auto."  (<i>Der nasse Fisch</i>, 270)' ,
+	'Er (<i>Rath</i>) drehte sich um wie ertappt und blickte in ein lachendes Gesicht. "Du arbeitest immer noch bei uns", sagte Wolter und <strong>klimperte</strong> mit dem Autoschlüssel. (<i>Der nasse Fisch</i>, 34)',
+	'Sie (<i>Gloria, im Eldorado</i>) beugte sich noch einmal zu ihm (<i>Rath</i>). Ihre Halsketten <strong>klimperten</strong>. (<i>Der nasse Fisch</i>, 127)',
+	'<i>Rath</i>: "Wo finde ich denn Herrn Schneid?" Der Mann zuckte die Achseln. "In seinem alten Büro im <i>Delphi</i> jedenfalls nicht. Gegen ihn läuft ein Konkursverfahren." Er <strong>klimperte</strong> mit einem Schlüsselbund. "Die Schlüssel habe ich." (<i>Der nasse Fisch</i>, 134)',
+	'Der Beamte verdrehte die Augen. Er schlug die Schublade wieder zu, schloss den Rollschank und <strong>klimperte</strong> geräuschvoll mit dem Schlüsselbund. (<i>Der nasse Fisch</i>, 140)',
+	'Und jetzt stand er (<i>Gereon</i>) vor dem Buick, <strong>klimperte</strong> mit dem Schlüsselbund und genoss ihre großen Augen. "Deiner?", fragte sie (<i>Charly</i>). "Wenn ich Frauen beeindrucken will, besorge ich mir immer ein Auto." (<i>Der nasse Fisch</i>, 270)',
 	'<u>Märzgefallene</u>',
-	'Er (<i>Rath</i>) kramte einen Groschen aus dem Portemonnaie und ließ ihn in den Hut <strong>klimpern</strong>.  (<i>Märzgefallene</i>, 93)' ,
-  'Damit was das Gespräch wieder abgewürgt. Eine Weile war nichts zu hören außer dem <strong>Klimpern</strong> des Bestecks und dem Stimmengemurmel von den anderen Tischen. (<i>Märzgefallene</i>, 261)' ,
-	'Rath holte sein Portemonnaie aus dem Mantel und suchte nach Kleingeld, nahm einen Groschen heraus und hielt ihn eine Weile über den Hut (<i>des Bettlers</i>). Aber dann, anstatt die Münze hinein<strong>klimpern</strong> zu lassen, schloss er seine Faust und deutete einen harten, schnellen Schlag an....  (<i>Märzgefallene</i>, 473)' ,
-	'Porzellan <strong>klimperte</strong>, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das Knistern des Papiers zu hören.  (<i>Märzgefallene</i>, 500)' ,
+	'Er (<i>Rath</i>) kramte einen Groschen aus dem Portemonnaie und ließ ihn in den Hut <strong>klimpern</strong>. (<i>Märzgefallene</i>, 93)',
+  	'Damit was das Gespräch wieder abgewürgt. Eine Weile war nichts zu hören außer dem <strong>Klimpern</strong> des Bestecks und dem Stimmengemurmel von den anderen Tischen. (<i>Märzgefallene</i>, 261)',
+	'Rath holte sein Portemonnaie aus dem Mantel und suchte nach Kleingeld, nahm einen Groschen heraus und hielt ihn eine Weile über den Hut (<i>des Bettlers</i>). Aber dann, anstatt die Münze hinein<strong>klimpern</strong> zu lassen, schloss er seine Faust und deutete einen harten, schnellen Schlag an.... (<i>Märzgefallene</i>, 473)',
+	'Porzellan <strong>klimperte</strong>, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das Knistern des Papiers zu hören. (<i>Märzgefallene</i>, 500)',
 	'<u>Lunapark</u>',
-	'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, knisterndes Zeitungspapier, das <strong>Klimpern</strong> eines Löffels, der leise gegen den Tassenrand schlug.  (<i>Lunapark</i>, 28)' ,
+	'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, knisterndes Zeitungspapier, das <strong>Klimpern</strong> eines Löffels, der leise gegen den Tassenrand schlug. (<i>Lunapark</i>, 28)',
+	'Er (<i>Marlow</i>) schenkte ihr (<i>Charly</i>) Wasser ein, aus einem Krug, in dem jede Menge Eiswürfel <strong>klimperten</strong>. Charly trank. Das tat gut in der Hitze. (<i>Lunapark</i>, 479)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -11768,12 +11785,15 @@ Schraubstock: [
 	'Katsche nahm seine Uniformkappe ab un reichte sie einem seiner Kameraden. "Dann haltet mir den Kerl mal fest", sagte er, und Leo spürte, wie der Griff der beiden SA-Männer, die ihn in ihre Mitte genommen hatten, härter wurde. Es fühlte sich an wie in einem <strong>Schraubstock</strong>.  (<i>Märzgefallene</i>, 223)' ,
 ],
 Schritt: [
-	'der <strong>Schritt</strong>,-<strong>e</strong>: step, stride &nbsp;&nbsp;also: <u>crotch</u><br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schritt"target="target1">Schritt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schritt"target="target2">Schritt</a> <br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schritt"target="target3">Schritt</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schritt#Schritt"target="target4">Schritt</a> ',
+	'der <strong>Schritt</strong>,-<strong>e</strong>: step, stride &nbsp;&nbsp;also: <u>crotch</u>'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schritt"target="target1">Schritt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schritt"target="target2">Schritt</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schritt"target="target3">Schritt</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schritt#Schritt"target="target4">Schritt</a>',
 	'<u>Der nasse Fisch</u>', 
-	'Er (<i>Rath</i>) beugte sich zu dem Mann hinunter. Dann griff er ihm so schnell in den <strong>Schritt</strong>, dass der Kerl, bevor er reagieren konnte, nur noch mit zusammengepressten Zähnen dasaß und es nicht wagte, sich zu bewegen.    (<i>Der nasse Fisch</i>, 191)' ,
-	'<i>Rath</i>: "In dieser Gegend kann man nicht vorsichtig genug..." Noch bevor er den Satz beenden konnte, hatte sie (<i>der Engel</i>) ihm ihre Zunge in den Mund geschoben. Es dauerte etwas, bis er sich befreit hatte. Sie lachte ihn an. "Schießen Sie doch, wenn ich Ihnen zu gefährlich werde!" Und schon hatte sie eine Hand in seinem <strong>Schritt</strong>. "Sie haben da ja noch eine Waffe", keuchte sie an seinem Ohr, "sollen wir die nicht mal ausprobieren!"    (<i>Der nasse Fisch</i>, 202)' ,
+	'Er (<i>Rath</i>) beugte sich zu dem Mann hinunter. Dann griff er ihm so schnell in den <strong>Schritt</strong>, dass der Kerl, bevor er reagieren konnte, nur noch mit zusammengepressten Zähnen dasaß und es nicht wagte, sich zu bewegen. (<i>Der nasse Fisch</i>, 191)',
+	'<i>Rath</i>: "In dieser Gegend kann man nicht vorsichtig genug..." Noch bevor er den Satz beenden konnte, hatte sie (<i>der Engel</i>) ihm ihre Zunge in den Mund geschoben. Es dauerte etwas, bis er sich befreit hatte. Sie lachte ihn an. "Schießen Sie doch, wenn ich Ihnen zu gefährlich werde!" Und schon hatte sie eine Hand in seinem <strong>Schritt</strong>. "Sie haben da ja noch eine Waffe", keuchte sie an seinem Ohr, "sollen wir die nicht mal ausprobieren!" (<i>Der nasse Fisch</i>, 202)',
 	'<u>Lunapark</u>',
-	'Der Rest der Uniform war in weniger gutem Zustand, der braune Stoff mehrfach gerissen, Blut an vielen Stellen in das Gewebe gesickert. Im <strong>Schritt</strong> hatte sich ein dunkler Wesserrand gebildet. Der Mann musste sich im Todeskampf eingenässt haben.  (<i>Lunapark</i>, 17)' ,
+	'Der Rest der Uniform war in weniger gutem Zustand, der braune Stoff mehrfach gerissen, Blut an vielen Stellen in das Gewebe gesickert. Im <strong>Schritt</strong> hatte sich ein dunkler Wesserrand gebildet. Der Mann musste sich im Todeskampf eingenässt haben. (<i>Lunapark</i>, 17)',
+	'<i>Conny</i>: "Hör mal, Reinhold, du solltest das Ding (<i>seine Pistole</i>) da wegstecken. Wir sind doch nicht verheiratet, kein Grund, böse zu sein." Er schaute auf Gräfs <strong>Schritt</strong>. "Vielleicht solltest du lieber an anderes Ding rausholen, dann könnten wir zu dritt ein bisschen Spaß haben..." (<i>Lunapark</i>, 474-75)',
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -13042,23 +13062,26 @@ Standpauke: [
 ],
 // '<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-Stange: [
-	'die <strong>Stange</strong>,-<strong>n</strong>: rail, bar, rod; &nbsp;carton (eg, of cigarettes) <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stange"target="target1">Stange</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/8377-rtkl-redewendung-eine-schoene-stange"target="target2">Eine schöne Stange</a> <br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stange?q=Stange"target="target3">Stange</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Stange"target="target4">Stange</a> ' ,
+Stange: [ 
+	'die <strong>Stange</strong>,-<strong>n</strong>: rail, bar, rod; &nbsp;carton (eg, of cigarettes)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stange"target="target1">Stange</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/8377-rtkl-redewendung-eine-schoene-stange"target="target2">Eine schöne Stange</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stange?q=Stange"target="target3">Stange</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Stange"target="target4">Stange</a>',
 	'<u>Der nasse Fisch</u>', 
-	'Wenigstens hatte Charly entdeckt, dass der Wagen schon in der Möckernstraße an einem parkenden Auto entlanggeschrammt war. Und er selbst (<i>Rath</i>) hatte im Fußraum diese Metall<strong>stange</strong> gefunden, die er zunächst für ein defektes Autoteil gehalten hatte, ein Stück von der Lenk<strong>stange</strong> etwa, irgendetwas, das den Unfall hätte verursachen können. Doch an dem Wagen fehlte nichts... Dabei lag die Lösung so nah: Die <strong>Stange</strong> war nichts anderes als der Hebel, mit dem irgendjemand das Gaspedal festgekeilt hatte. Damit auch ein toter Mann Auto fahren konnte. Gräf und Charly waren noch dabei, die Herkunft der Metall<strong>stange</strong> zu klären.   (<i>Der nasse Fisch</i>, 81-82)',
-	'Im Hof holte er (<i>Rath</i>) erst einmal tief Luft, froh, den schneidenden Putzmitteldüften entkommen zu sein. Die Teppich<strong>stange</strong> war verwaist, der Hof menschenleer, als habe sich herumgesprochen, dass Polizei im Haus war.  (<i>Der nasse Fisch</i>, 110)',
+	'Wenigstens hatte Charly entdeckt, dass der Wagen schon in der Möckernstraße an einem parkenden Auto entlanggeschrammt war. Und er selbst (<i>Rath</i>) hatte im Fußraum diese Metall<strong>stange</strong> gefunden, die er zunächst für ein defektes Autoteil gehalten hatte, ein Stück von der Lenk<strong>stange</strong> etwa, irgendetwas, das den Unfall hätte verursachen können. Doch an dem Wagen fehlte nichts... Dabei lag die Lösung so nah: Die <strong>Stange</strong> war nichts anderes als der Hebel, mit dem irgendjemand das Gaspedal festgekeilt hatte. Damit auch ein toter Mann Auto fahren konnte. Gräf und Charly waren noch dabei, die Herkunft der Metall<strong>stange</strong> zu klären. (<i>Der nasse Fisch</i>, 81-82)',
+	'Im Hof holte er (<i>Rath</i>) erst einmal tief Luft, froh, den schneidenden Putzmitteldüften entkommen zu sein. Die Teppich<strong>stange</strong> war verwaist, der Hof menschenleer, als habe sich herumgesprochen, dass Polizei im Haus war. (<i>Der nasse Fisch</i>, 110)',
 	'Rath schaute den Dicken (<i>Kioskbetreiber</i>) an, der gerade damit beschäftigt war, eine <strong>Stange</strong> Juno (<i>Zigaretten</i>) aufzureißen, und mit dem Papier kämpfte... "Ist aber versetzt worden", meldete sich der Mann im Kiosk und hielt ihr (<i>Charly</i>) eine Sechserpackung Juno hin. "Wird hier selten gekauft", murmelte er entschuldigend, drehte sich auf seinem Stuhl nach hinten und begann, die übrigen Packungen aus der <strong>Stange</strong> im Regal zu verstauen. (<i>Der nasse Fisch</i>, 118-19)',
-	'<i>Charly</i>: "..Er (<i>der Tote im Landwehrkanal</i>) war schon acht bis zehn Stunden tot, als das Auto mit ihm in den Kanal fuhr. Jemand hat das Gaspedal mit einer Metall<strong>stange</strong> fixiert. Kurioserweise mit der Lenk<strong>stange</strong> eines Opels.  (<i>Der nasse Fisch</i>, 187)',
+	'<i>Charly</i>: "..Er (<i>der Tote im Landwehrkanal</i>) war schon acht bis zehn Stunden tot, als das Auto mit ihm in den Kanal fuhr. Jemand hat das Gaspedal mit einer Metall<strong>stange</strong> fixiert. Kurioserweise mit der Lenk<strong>stange</strong> eines Opels. (<i>Der nasse Fisch</i>, 187)',
 	'<u>Goldstein</u>',
-	'Wenigstens hingen keine Kleiderbügel an der <strong>Stange</strong>. (<i>Goldstein</i>, 9)' ,
+	'Wenigstens hingen keine Kleiderbügel an der <strong>Stange</strong>. (<i>Goldstein</i>, 9)',
 	'<u>Märzgefallene</u>',
-	'In der Textilabteilung fegte der Junge scheinbar wahllos Klamotten von den Kleider<strong>stangen</strong> und klemmte sie unter den Arm. (<i>Märzgefallene</i>, 172)' ,
-	'Totschlagen wollten sie (<i>SA-Leute</i>) ihn (<i>Leo</i>) wohl nicht, obwohl es ein paarmal fast danach ausgesehen hatte und sie gerade noch rechtzeitig aufgehört hatten mit ihren Tritten und den Eisen<strong>stangen</strong>schlägen. (<i>Märzgefallene</i>, 218)' ,
-	'Trotz des miserablen Wetters herrschte Volksfeststimmung, fliegende Händler boten heiße Würstchen und Getränke, Zigaretten und Schokolade feil. Besonders findige Zeitgenossen verkauften Grabenspiegel an die Neugierigen: an langen <strong>Stangen</strong> befestigte Spiegel, wie man sie schon im Krieg verwendet hatte, um aus dem Schützengraben hinauasschauen zu können... (<i>Märzgefallene</i>, 554)' ,
-	'Aus dem Wald der Fahnen und Fackeln ragte eine hohe <strong>Stange</strong>, auf die ein Kopf gespießt war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher.  (<i>Märzgefallene</i>, 554)' ,
-	'Immer wieder ragten <strong>Stangen</strong> aus dem Meer der Hüte, die Grabenspiegel hatten guten Absatz gefunden. (<i>Märzgefallene</i>, 557)' ,
+	'In der Textilabteilung fegte der Junge scheinbar wahllos Klamotten von den Kleider<strong>stangen</strong> und klemmte sie unter den Arm. (<i>Märzgefallene</i>, 172)',
+	'Totschlagen wollten sie (<i>SA-Leute</i>) ihn (<i>Leo</i>) wohl nicht, obwohl es ein paarmal fast danach ausgesehen hatte und sie gerade noch rechtzeitig aufgehört hatten mit ihren Tritten und den Eisen<strong>stangen</strong>schlägen. (<i>Märzgefallene</i>, 218)',
+	'Trotz des miserablen Wetters herrschte Volksfeststimmung, fliegende Händler boten heiße Würstchen und Getränke, Zigaretten und Schokolade feil. Besonders findige Zeitgenossen verkauften Grabenspiegel an die Neugierigen: an langen <strong>Stangen</strong> befestigte Spiegel, wie man sie schon im Krieg verwendet hatte, um aus dem Schützengraben hinauasschauen zu können... (<i>Märzgefallene</i>, 554)',
+	'Aus dem Wald der Fahnen und Fackeln ragte eine hohe <strong>Stange</strong>, auf die ein Kopf gespießt war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher. (<i>Märzgefallene</i>, 554)',
+	'Immer wieder ragten <strong>Stangen</strong> aus dem Meer der Hüte, die Grabenspiegel hatten guten Absatz gefunden. (<i>Märzgefallene</i>, 557)',
 	'<u>Lunapark</u>',
-	'.. Andreas Lange pfiff leise durch die Zähne: rötlich braune Zwanzigmarkscheine, sauber gebündelt mit Banderole. Ein wenig abgegriffen, aber zweifellos echt. Lange schätzte die Packen auf mindestens zehntausend Mark, eine schöne <strong>Stange</strong> Geld für einen einfachen SA-Rottenführer.  (<i>Lunapark</i>, 47)',
+	'.. Andreas Lange pfiff leise durch die Zähne: rötlich braune Zwanzigmarkscheine, sauber gebündelt mit Banderole. Ein wenig abgegriffen, aber zweifellos echt. Lange schätzte die Packen auf mindestens zehntausend Mark, eine schöne <strong>Stange</strong> Geld für einen einfachen SA-Rottenführer. (<i>Lunapark</i>, 47)',
+	'"Machen sie ruhig weiter mit Teppichklopfen", sagte Gräf, und sie gehorchte. Klopfte mechanisch auf den Teppich an, der über der <strong>Stange</strong> hing, während sie den beiden Männern hinterherschaute, die ihre Waffen entsicherten, als sie das Treppenhaus betraten. (<i>Lunapark</i>, 473-74)',
 ],
 'Stapel, stapeln': [ 
 	'der <strong>Stapel</strong>,-: pile, stack, batch'+
@@ -13189,6 +13212,7 @@ stibitzen: [
 	'Der Buddha saß regungslos in seinem Sessel, <strong>stierte</strong> vor sich hin und sprach kein Wort. (<i>Lunapark</i>, 260)', 
 	'In der elecktrischen Straßenbahn der Linie 47.. saß ein Mann mit einem schwarzen Hund auf dem Schoß, und <strong>stierte</strong> still vor sich hin, denn der Hund auf seinem Schoß war gar kein Hund mehr, doch das wussten die anderen Fahrgäste nicht. (<i>Lunapark</i>, 363)', 
 	'Rath konnte seinen Blick nicht von dem jungen Mann im Bett wenden, der ihn immer noch mit halb geöffnetem Mund <strong>anstierte</strong>. (<i>Lunapark</i>, 433-34)',
+	'Er (<i>Gräf</i>) hatte das Taschentuch gerade wieder eingesteckt, da stand Pfeiffer im Zimmer. Der SS-Mann <strong>stierte</strong> auf die toten Männer unter der Dachschräge. "Hab ich\'s doch geahnt", sagte er und spuckte aus, "zwei verdammte Schwuchteln." (<i>Lunapark</i>, 476)',
 ], 
 'anstieren, stieren': [  
 	'<strong>stieren</strong>: stare &nbsp;<strong>anstieren</strong>: stare at'+
@@ -13207,6 +13231,7 @@ stibitzen: [
 	'Der Buddha saß regungslos in seinem Sessel, <strong>stierte</strong> vor sich hin und sprach kein Wort. (<i>Lunapark</i>, 260)', 
 	'In der elecktrischen Straßenbahn der Linie 47.. saß ein Mann mit einem schwarzen Hund auf dem Schoß, und <strong>stierte</strong> still vor sich hin, denn der Hund auf seinem Schoß war gar kein Hund mehr, doch das wussten die anderen Fahrgäste nicht. (<i>Lunapark</i>, 363)', 
 	'Rath konnte seinen Blick nicht von dem jungen Mann im Bett wenden, der ihn immer noch mit halb geöffnetem Mund <strong>anstierte</strong>. (<i>Lunapark</i>, 433-34)',
+	'Er (<i>Gräf</i>) hatte das Taschentuch gerade wieder eingesteckt, da stand Pfeiffer im Zimmer. Der SS-Mann <strong>stierte</strong> auf die toten Männer unter der Dachschräge. "Hab ich\'s doch geahnt", sagte er und spuckte aus, "zwei verdammte Schwuchteln." (<i>Lunapark</i>, 476)',
 ], 
 Strebe: [
 	'die <strong>Strebe</strong>,-<strong>n</strong>: brace, strut, joist' +
@@ -16159,6 +16184,7 @@ Gräfin Swetlana Sorokina
  abschütteln Lunapark 277
  abtuften Lunapark 265
  albern, Albernheit  Der nasse Fisch 331
+ Amokläufer  Lunapark 476
  anberaumen  Lunapark 29   
  'anfauchen'  ;   Nworte++;    'Brett, Bretterwand, Bretterverschlag'Märzgefallene   87
  'anfunkeln'  ;   Nworte++;    Märzgefallene   118

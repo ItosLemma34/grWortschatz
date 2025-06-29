@@ -41,6 +41,7 @@ const s = [
    'Schlamassel', // Schlamassel: 
    'Schlampe', // Schlampe: 
    'schlampig',  // schlampig: 
+   'Schlappschwanz',  // Schlappschwanz:
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch: 
    'schleifen, Schleifer',  

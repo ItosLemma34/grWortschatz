@@ -20,7 +20,8 @@ const s = [
    'schaukeln, aufschaukeln',   //    duplicated
    'scheiteln, Scheitel', 
    'Scheiterhaufen',  // Scheiterhaufen: 
-   'schellen',  // schellen: 
+   'schellen',  // schellen:
+   'Schemel',  // Schemel: 
    'scheppern',  // scheppern: 
    'Scherbe',  // Scherbe:  
    'scheren (sich)',  // 

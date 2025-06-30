@@ -45,50 +45,51 @@ const b = [
     'Blase',  // Blase:  
     'blasiert',  // blasiert: 
     'Blaumann',  // Blaumann:  
-    'Blech, blechern',  // * 
-    'blendend',  // blendend: * 
-    'blinzeln',  // blinzeln: * 
-    'Blöße, sich keine B. geben',   //  *
-    'bloßstellen', // bloßstellen: *
-    'blutrünstig', // blutrünstig: *
-    'bockig' ,  // bockig: *
-    'Bodensatz',  // Bodensatz: * 
+    'Blech, blechern',   
+    'blendend',  // blendend:  
+    'blinzeln',  // blinzeln:  
+    'Blöße, sich keine B. geben',   
+    'bloßstellen', // bloßstellen: 
+    'blutrünstig', // blutrünstig: 
+    'bockig' ,  // bockig: 
+    'Bodensatz',  // Bodensatz:  
     'Bogen (den B. raushaben)',  
     'Bohei',   // Bohei:
-    'Bohle',    // Bohle:  *
-    'bohnern',  // bohnern:  *
-    'Bonze',   // Bonze: *
-    'Bordstein', // Bordstein: *
-    'borniert',  // borniert: *
-    'Böschung', // Böschung: *
-    'Bösewicht',  // Bösewicht:  *
-    'Boulette',   //Boulette:  *
-    'Brache',  // Brache:  *
-    'brandschatzen',  // brandschatzen: *
+    'Bohle',    // Bohle:  
+    'bohnern',  // bohnern:  
+    'Bonze',   // Bonze: 
+    'Bordstein', // Bordstein: 
+    'borniert',  // borniert: 
+    'Böschung', // Böschung: 
+    'Bösewicht',  // Bösewicht:  
+    'Boulette',   //Boulette:  
+    'Brache',  // Brache:  
+    'brandschatzen',  // brandschatzen: 
     'brausen, Brause',  
     'Brei (um den heißen B. herumreden)', // duplicated 
     'brenzlig', // brenzlig: 
-    'Brett, Bretter(wand/verschlag/bude)',  // * 
-    'Brimborium',   // Brimborium:  *
-    'bröckeln',  // bröckeln:  *
-    'brüllen, Gebrüll', // *  duplicated
-    'brummig, Brummigkeit',  // *
-    'Brüstung',  // Brüstung: *
-    'Buche',    // Buche: *
-    'Büchse',   // Büchse: *
-    'Buckel, bucklig',  // *  
-    'bücken (sich)',  // *
-    'buddeln, ausbuddeln',  // * duplicated  pair with "einbudeln" if found
-    'Bude, Büdchen',  // *
-    'büffeln', // büffeln:  *
-    'Bügel', // Bügel: *
-    'bugsieren', // bugsieren: *
-    'buhlen',   // buhlen: *
-    'bullig',  // bullig: *
-    'bumsen',  // bumsen: *
-    'Bursche',  // Bursche: *
-    'Busch, Gebüsch', // * duplicated
-    'bützen',  // bützen:  *
+    'Brett, Bretter(wand/verschlag/bude)',   
+    'Brimborium',   // Brimborium:  
+    'bröckeln',  // bröckeln:  
+    'brüllen, Gebrüll', //   duplicated
+    'brummig, Brummigkeit',  // 
+    'Brüstung',  // Brüstung:
+    'brutzeln',  // brutzeln: 
+    'Buche',    // Buche: 
+    'Büchse',   // Büchse: 
+    'Buckel, bucklig',  //   
+    'bücken (sich)',  // 
+    'buddeln, ausbuddeln',  //  duplicated  pair with "einbudeln" if found
+    'Bude, Büdchen',  // 
+    'büffeln', // büffeln:  
+    'Bügel', // Bügel: 
+    'bugsieren', // bugsieren: 
+    'buhlen',   // buhlen: 
+    'bullig',  // bullig: 
+    'bumsen',  // bumsen: 
+    'Bursche',  // Bursche: 
+    'Busch, Gebüsch', //  duplicated
+    'bützen',  // bützen:  
 ];
 
 export default b;

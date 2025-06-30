@@ -104,7 +104,8 @@ const v = [
    'verwüsten',  // verwüsten:  
    'verzückt', // verzückt:  
    'vierschrötig', // vierschrötig:   
-   'vögeln',    // vögeln:  
+   'vögeln',    // vögeln: 
+   'vollsaugen (sich)', 
    'Vollwaise', // Vollwaise:  
    'von der Fahne gehen', //  duplicated
    'vorgaukeln',  // vorgaukeln:  

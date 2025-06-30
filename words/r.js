@@ -19,6 +19,7 @@ const r = [
    'Rauflust',  // Rauflust: 
    'Raunen, raunen', // 
    'Raureif', // Raureif: 
+   'Rechen',  // Rechen:
    'recken',  // recken:  
    'Reim (keinen R. machen', //  duplicated
    'Reine (ins R.)',

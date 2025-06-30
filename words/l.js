@@ -1,6 +1,6 @@
 const l = [
    'Lache',  // Lache: 
-   'Lack',  // Lack: 
+   'Lack, lackieren',   
    'Lackaffe',  // Lackaffe:  
    'lädieren',  // lädieren: 
    'laff',  // laff: 
@@ -14,7 +14,7 @@ const l = [
    'lasten',  // lasten: 
    'Laster',  // Laster:  
    'Lastkahn', // Lastkahn:   pair with Kahn, if found
-   'Laube, Laubenkolonie', 
+   'Laube, Lauben -kolonie, -pieper', 
    'Lauf',    // Lauf: 
    'Laufbursche',  // Laufbursche: 
    'lausig',  // lausig: 
@@ -23,7 +23,7 @@ const l = [
    'Leier',  // Leier: 
    'leiern', // leiern:   
    'Leim, leimen',  //  
-   'Leim (auf den L. gehen)', //  duplicateKs
+   'Leim (auf den L. gehen)', //  duplicated
    'Leinen',  // Leinen:   
    'Leiste',  // Leiste: 
    'Lenz' ,  // Lenz: 

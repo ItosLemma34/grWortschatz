@@ -37,24 +37,25 @@ const r = [
    'Rinde',  // Rinde: 
    'Rindvieh' , // Rindvieh:  
    'Rinne',  // Rinne: 
-   'Rinnsal', // Rinnsal: *
-   'Ritter (arme)', // * duplicated
-   'Ritze',  // Ritze:  *
-   'robben',  // robben: *
-   'röcheln', // röcheln: *
-   'roden', // roden:  *
-   'Rohrkrepierer', // *
-   'rosten' , // rosten: *
-   'Rottenführer',  // Rottenführer: *
-   'rührig',  // rührig: *
-   'rumärgern, herumärgern', // * duplicated
-   'Rummel', // Rummel: *
-   'rumpeln', // rumpeln: *
-   'rümpfen', // rümpfen: *
-   'rumsen',  // rumsen: *
-   'rupfen', // rupfen: *
-   'Rüsche', // Rüsche: *
-   'rüstig', // rüstig: *
+   'Rinnsal', // Rinnsal: 
+   'Ritter (arme)', //  duplicated
+   'Ritze',  // Ritze:  
+   'robben',  // robben: 
+   'röcheln', // röcheln: 
+   'roden', // roden:  
+   'Rohrkrepierer', // 
+   'rosten' , // rosten: 
+   'Rottenführer',  // Rottenführer: 
+   'rührig',  // rührig: 
+   'rülpsen', // rülpsen:
+   'rumärgern, herumärgern', //  duplicated
+   'Rummel', // Rummel: 
+   'rumpeln', // rumpeln: 
+   'rümpfen', // rümpfen: 
+   'rumsen',  // rumsen: 
+   'rupfen', // rupfen: 
+   'Rüsche', // Rüsche: 
+   'rüstig', // rüstig: 
    ];
 
 export default r;      

@@ -5,6 +5,7 @@ const k = [
    'Kaffeekränzchen',  // Kaffeekränzchen: 
    'kahl',  // kahl: 
    // Kahn -- pair with Lastkahn if "Kahn" found
+   'Kanne',  // Kanne:
    'Kantholz',  // Kantholz: 
    'Karnickel', // Karnickel: 
    'Karree',   // Karree:   

@@ -9,7 +9,8 @@ const e = [
  //  'einbuddeln'  pair with 'ausbuddeln'
    'eindösen, dösen', //   duplicated
    'Eindruck schinden',   
-   'einfädeln',  // einfädeln: 
+   'einfädeln',  // einfädeln:
+   'einflößen',  // einflößen: 
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: 
    'einkerben',  // einkerben: 

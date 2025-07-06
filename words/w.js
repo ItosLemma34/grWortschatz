@@ -41,18 +41,19 @@ const w = [
    'wogen' ,  // wogen: 
    'Wohl bekomm\'s!', 
    'Wohlgefallen (sich in W. auflösen)', 
-   'wölben',  // wölben: *
+   'wölben',  // wölben: 
    'Wolf (durch den W. drehen)', //  duplicated
    'wuchern',  // wuchern: 
    'wuchten',  // wuchten: 
-   'wühlen' ,  // wühlen: 
+   'wühlen, durchwühlen' ,  // duplicated 
    'wummern, Gewummer', //  duplicated
-   'wurmen', // wurmen: *
-   'Wurmfortsatz', // Wurmfortsatz: *
-   'wuscheln',  // wuscheln: *
-   'wuseln',  // wuseln: *
-   'wüten',  // wüten: *
-   'wutschnaubend', // wutschnaubend: *
+   'würgen',  // würgen:
+   'wurmen', // wurmen: 
+   'Wurmfortsatz', // Wurmfortsatz: 
+   'wuscheln',  // wuscheln: 
+   'wuseln',  // wuseln: 
+   'wüten',  // wüten: 
+   'wutschnaubend', // wutschnaubend: 
    ];
 
 export default w;      

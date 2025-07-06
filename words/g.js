@@ -78,6 +78,7 @@ const g = [
    'Gosse',  // Gosse:  
    'grämen',  // grämen:  
    'grapschen',  // grapschen: 
+   'grauen',  // grauen:
    'Grimm, grimmig', 
    'grölen', // grölen:  
    'große Stücke auf jmdn. halten',   

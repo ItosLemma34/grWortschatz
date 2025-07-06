@@ -9,20 +9,20 @@ const z = [
    'Zarge' , // Zarge: 
    'zaudern', // zaudern: 
    'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated
-   'zechen',     // zechen: *
+   'zechen',     // zechen: 
    'Zehenspitze',  // Zehenspitze:
    'Zeltplane' ,   // Zeltplane: 
    'zerdeppern',   // zerdeppern: 
    'zerfleddert',  // zerfleddert: 
    'zerknicken' ,  // zerknicken: 
    'zerknirscht',  // zerknirscht: 
-   'zerknittern',  // zerknittern: *
-   'zerknüllen, knüllen' ,  //  * duplicated
-   'zerlumpt',    // zerlumpt:  *
-   'zermatschen',  // zermatschen: *
-   'zerpflücken',  // zerpflücken: *
-   'zerquetschen, quetschen',  // * duplicated
-   'zerren',      // zerren:  *
+   'zerknittern',  // zerknittern: 
+   'zerknüllen, knüllen' ,  //   duplicated
+   'zerlumpt',    // zerlumpt:  
+   'zermatschen',  // zermatschen: 
+   'zerpflücken',  // zerpflücken: 
+   'zerquetschen, quetschen',  //  duplicated
+   'zerren',      // zerren:  
    'zerschießen',  // zerschießen:  
    'zerschunden',  // zerschunden:  
    'zerwühlen',    // zerwühlen:  

@@ -22,6 +22,7 @@ const t = [
    'Trauerkloß',  // Trauerkloß:
    'Tresen',  // Tresen:  
    //'ins Kreuz treten  Tritt ins Kreuz'  ;   Nworte++;    Märzgefallene   111    German definition not found; entry in worte_T.js started, not finished
+   'Tresse',  // Tresse:
    'Trichter',  // Trichter: 
    'triezen',  // triezen: 
    'trippeln', // trippeln:  

@@ -5,7 +5,8 @@ const d = [
    'Dampfwalze',  // Dampfwalze: 
    'dazwischenfunken', // dazwischenfunken:   
    'Deckel',   // Deckel: 
-   'deichseln', // deichseln:   
+   'deichseln', // deichseln: 
+   'deponieren', // deponieren:  
    'Depp',  // Depp:  
    'dezent',   // dezent: 
    'Diele',   // Diele:  
@@ -34,7 +35,8 @@ const d = [
    'durchforsten', // durchforsten: 
    'durchkämmen',  // durchkämmen: 
    'durchmogeln (sich)',  
-   'durchnässen',  //  durchnässen: 
+   'durchnässen',  //  durchnässen:
+   'durchwühlen, wühlen',  // duplicated 
 ];
 
 export default d;

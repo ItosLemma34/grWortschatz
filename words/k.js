@@ -19,7 +19,8 @@ const k = [
    'Kaution', // Kaution: 
    'Kauz, kauzig',  
    'kegeln',  // kegeln: 
-   'keilen, Keil', 
+   'keilen, Keil',
+   'Keim, keimen',  
    'kein Kraut gewachsen', 
    'keinen Reim machen können', //  duplicated
    'Kelch',  // Kelch: 

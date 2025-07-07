@@ -158,7 +158,7 @@ const a = [
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung',  //   
 	'aushorchen',  // aushorchen:   
-	'ausklinken',  // ausklinken: 
+	'ausklinken, einklinken',  // duplicated
 	'ausleiern', // ausleiern:
 	'ausmisten',  // ausmisten:   
 	'ausquetschen',  // ausquetschen: 

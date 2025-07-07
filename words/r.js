@@ -23,7 +23,8 @@ const r = [
    'recken',  // recken:  
    'Reim (keinen R. machen', //  duplicated
    'Reine (ins R.)',
-   'Reinfall', // Reinfall:  
+   'Reinfall', // Reinfall:
+   'reinlegen, hereinlegen',  // duplicated  
    'reinsemmeln', // reinsemmeln:  
    'reißen (sich um etwas)', 
    'reißerisch',  // reißerisch: 

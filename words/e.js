@@ -13,7 +13,8 @@ const e = [
    'einflößen',  // einflößen: 
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: 
-   'einkerben',  // einkerben: 
+   'einkerben',  // einkerben:
+   'einklinken, ausklinken', // duplicated 
    'einkriegen (sich)',   
    'einkringeln',  // einkringeln:  
    'einlochen',  // einlochen:  

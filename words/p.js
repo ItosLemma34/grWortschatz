@@ -3,7 +3,7 @@ const p = [
    'paktieren', // paktieren: 
    'Palme (auf die P. treiben/bringen)', //  duplicated
    'pampig',  // pampig: 
-   'Pappe, pappen', 
+   'Pappe, pappen, Papp-', 
    'Pappenstiel', // Pappenstiel: 
    'Parade (in die P. fahren)', //  duplicated
    'Parzelle',  // Parzelle:

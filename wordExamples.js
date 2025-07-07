@@ -1,6 +1,6 @@
 export const wordExamples = {              
 /*  "gut in schuss" needs reworking  '' á ä  ü  "s"  
-Büro möchte
+Büro möchte Überraschung
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
@@ -16,6 +16,50 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumä rgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
+'reinlegen, hereinlegen': [  
+	'<strong>reinlegen</strong> = <strong>hereinlegen</strong>: fool, trick, deceive, con sb.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hereinlegen"target="target1">hereinlegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hereinlegen"target="target2">hereinlegen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/hereinlegen"target="target3">hereinlegen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hereinlegen&id=verb%3Ahereinlegen"target="target4">hereinlegen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Bruno wollte ihn (<i>Rath</i>) <strong>reinlegen</strong>! Wahrscheinlich hatte er den Verlust des Notizbucks bemerkt und seine Schlüsse gezogen. Wenn Rath schon das Buch hatte, musste er ihm nur noch die Pistole unterjubeln, und er könnte Gennat den perfekten Mordverdächtigen präsentieren. (<i>Der nasse Fisch</i>, 394)',  
+	'<u>Märzgefallene</u>',
+	'<i>Levetzow, Nazi Polizeipräsident</i>: "...Die SA-Feldpolizei hat sich über Sie (<i>Rath</i>) beschwert. Sie haben einen von deren Gefangenen... während einer Vernehmung entkommen lassen?" <i>Rath</i>: "Der Mann ist Zeuge im Fall Wosniak. Und er ist nicht entkommen, sein Anwalt hatte einen Haftentlassungsbeschluss, den..." "Ach, hören Sie auf!" Levetzow winkte ab. "Ein jüdischer Rechtsverdreher hat Sie <strong>hereingelegt</strong>, das ist passiert!..."  (<i>Märzgefallene</i>, 358)',
+	'Grimberg war längst nicht so überrascht wie Roddeck. Wenigstens wusste er jetzt, dass der Herr von und zu (<i>gemeint ist Roddeck</i>) ihn nicht <strong>hereinlegen</strong> wollte, ahnungslos, wie der war. Wenn sie einer <strong>hereinlegen</strong> wollte, dann war es Engel, der sie schlicht und einfach beide zum Rendezvous bestellt hatte. (<i>Märzgefallene</i>, 570-71)',   
+//	'<u>Lunapark</u>',   
+],
+'hereinlegen, reinlegen': [  
+	'<strong>reinlegen</strong> = <strong>hereinlegen</strong>: fool, trick, deceive, con sb.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hereinlegen"target="target1">hereinlegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hereinlegen"target="target2">hereinlegen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/hereinlegen"target="target3">hereinlegen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hereinlegen&id=verb%3Ahereinlegen"target="target4">hereinlegen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Bruno wollte ihn (<i>Rath</i>) <strong>reinlegen</strong>! Wahrscheinlich hatte er den Verlust des Notizbucks bemerkt und seine Schlüsse gezogen. Wenn Rath schon das Buch hatte, musste er ihm nur noch die Pistole unterjubeln, und er könnte Gennat den perfekten Mordverdächtigen präsentieren. (<i>Der nasse Fisch</i>, 394)',  
+	'<u>Märzgefallene</u>',
+	'<i>Levetzow, Nazi Polizeipräsident</i>: "...Die SA-Feldpolizei hat sich über Sie (<i>Rath</i>) beschwert. Sie haben einen von deren Gefangenen... während einer Vernehmung entkommen lassen?" <i>Rath</i>: "Der Mann ist Zeuge im Fall Wosniak. Und er ist nicht entkommen, sein Anwalt hatte einen Haftentlassungsbeschluss, den..." "Ach, hören Sie auf!" Levetzow winkte ab. "Ein jüdischer Rechtsverdreher hat Sie <strong>hereingelegt</strong>, das ist passiert!..."  (<i>Märzgefallene</i>, 358)',
+	'Grimberg war längst nicht so überrascht wie Roddeck. Wenigstens wusste er jetzt, dass der Herr von und zu (<i>gemeint ist Roddeck</i>) ihn nicht <strong>hereinlegen</strong> wollte, ahnungslos, wie der war. Wenn sie einer <strong>hereinlegen</strong> wollte, dann war es Engel, der sie schlicht und einfach beide zum Rendezvous bestellt hatte. (<i>Märzgefallene</i>, 570-71)',   
+//	'<u>Lunapark</u>',   
+],
+'einklinken, ausklinken': [  
+	'<strong>einklinken</strong>: latch, engage, click into place'+
+	'<br><strong>ausklinken</strong>: release, disengage; withdraw, opt out'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einklinken"target="target1">einklinken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausklinken"target="target2">ausklinken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einklinken"target="target3">einklinken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausklinken"target="target4">ausklinken</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Die Tür zum Vorzimmer hatte er (<i>Rath</i>) geschlossen, er wollte seine Ruhe haben, wollte nachdenken. Langsam musste er <strong>sich</strong> wieder in die laufenden Ermittlungen <strong>einklinken</strong>, so unsinnig sie auch waren. (<i>Der nasse Fisch</i>, 392)',   
+	'<u>Märzgefallene</u>',
+	'Er (<i>Gereon</i>) <strong>klinkte</strong> Kiries Halsband <strong>aus</strong>, und der Hund trottete gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch. (<i>Märzgefallene</i>, 147)',
+//	'<u>Lunapark</u>',   
+],
+'ausklinken, einklinken': [  
+	'<strong>einklinken</strong>: latch, engage, click into place'+
+	'<br><strong>ausklinken</strong>: release, disengage; withdraw, opt out'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einklinken"target="target1">einklinken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausklinken"target="target2">ausklinken</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einklinken"target="target3">einklinken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausklinken"target="target4">ausklinken</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Die Tür zum Vorzimmer hatte er (<i>Rath</i>) geschlossen, er wollte seine Ruhe haben, wollte nachdenken. Langsam musste er <strong>sich</strong> wieder in die laufenden Ermittlungen <strong>einklinken</strong>, so unsinnig sie auch waren. (<i>Der nasse Fisch</i>, 392)',   
+	'<u>Märzgefallene</u>',
+	'Er (<i>Gereon</i>) <strong>klinkte</strong> Kiries Halsband <strong>aus</strong>, und der Hund trottete gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch. (<i>Märzgefallene</i>, 147)',
+//	'<u>Lunapark</u>',   
+],
 würgen: [  
 	'<strong>würgen</strong>: strangle, choke, gag, retch'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuergen"target="target1">würgen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/w%C3%BCrgen"target="target2">würgen</a>'+
@@ -992,6 +1036,7 @@ hieven: [
 	'<u>Der nasse Fisch</u>',
 	'Kriminalassistent Reinhold Gräf war schon dabei, den schweren Fotoapparat aus dem wohlsortierten Gepäckraum des Mordauts zu <strong>hieven</strong>. (<i>Der nasse Fisch</i>, 58)',  
 	'<i>Engelbert Rath</i>: "Karl (<i>der Polizeipräsident</i>) hat mit dem Leiter der Mordinspektion schon darüber gesprochen, dir (<i>Gereon</i>) nach Möglichkeit eine verantwortliche Aufgabe in einer Mordkommission zu übertragen.." Er (<i>Gereon</i>) starrte wie in Trance.. Das hatte der Alte ja prima eingefädelt. Da war sie, die große Chance für Kriminalkommissar Gereon Rath! Zörgiebel selbst wollte ihn in die Inspektion A <strong>hieven</strong>. (<i>Der nasse Fisch</i>, 239)',
+	'<i>Rath</i>: "Wenn sich schon jemand um mein Gepäck kümmern könnte." "Aber selbstverständlich." Der Portier warf einen missbilligenden Seitenblick auf Raths Pappkarton und winkte einen Boy heran. "Danke", meinte Rath, als der Junge den schweren Koffer und den Karton auf einen Gepäckwagen <strong>hievte</strong>, und wandte sich dann wieder dem Portier zu. (<i>Der nasse Fisch</i>, 390)',
 	//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'Inzwischen hatte man ihn (<i>Rath</i>) vom Boden auf eine Kankenliege <strong>gehievt</strong> und ihm einen Verband um den Kopf gewickelt. (<i>Lunapark</i>, 381)',   
@@ -4297,13 +4342,6 @@ ausfressen: [
 	'<u>Lunapark</u>',
 	'"Was ist denn?", fragte Bestmann. "Hat Katsche irjendwat <strong>ausjefressen</strong>?" "Was soll er denn <strong>ausgefressen</strong> haben? Ein SA-Mann ist doch kein Verbrecher", sagte Rath. (<i>Der Lunapark</i>, 34)',
 	'"Wir suchen zwei SA-Männer des Sturms zweiundzwanzig, Lenzen und Kötter", sagte Pfeiffer.. <i>Der Wirt</i>: "Wenn ein SA-Mann wat <strong>ausjefressen</strong> hat, is aber det FJK zuständig. Nicht Staatspolizei oder SS." "Das lassen Sie mal unsere Sorge sein", raunzte Pfeiffer den Mann an. "Das FJK hat heute andere Aufgaben.." (<i>Lunapark</i>, 472)',
-],
-ausklinken: [ 
-	'<strong>ausklinken</strong>: release, disengage; withdraw, opt out'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausklinken"target="target1">ausklinken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausklinken"target="target2">ausklinken</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausklinken"target="target3">ausklinken</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausklinken"target="target4">ausklinken</a>',
-	'<u>Märzgefallene</u>',
-	'Er (<i>Gereon</i>) <strong>klinkte</strong> Kiries Halsband <strong>aus</strong>, und der Hund trottete gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch. (<i>Märzgefallene</i>, 147)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -7828,14 +7866,6 @@ Hautausschlag: [
 	'<u>Der nasse Fisch</u>',
 	'Die Bande schmorte in den Zellen.... Im Polizeigewahrsam würden sie (<i>Wolter und Rath</i>) König und seine Leute noch ein wenig weichkocken, bevor die Arbeit begänne. Mit dem, was der Pornokaiser... alles erraten hatte, konnten sie der Bande ganz anständig <strong>die Hölle heißmachen</strong>.  (<i>Der nasse Fisch</i>, 29)',
 ],
-hereinlegen: [
-	'jmdn <strong>hereinlegen</strong>: trick, con someone'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hereinlegen"target="target1">hereinlegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hereinlegen"target="target2">hereinlegen</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hereinlegen"target="target3">hereinlegen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hereinlegen"target="target4">hereinlegen</a>',
-	'<u>Märzgefallene</u>',
-	'<i>Levetzow, Nazi Polizeipräsident</i>: "...Die SA-Feldpolizei hat sich über Sie (<i>Rath</i>) beschwert. Sie haben einen von deren Gefangenen... während einer Vernehmung entkommen lassen?" <i>Rath</i>: "Der Mann ist Zeuge im Fall Wosniak. Und er ist nicht entkommen, sein Anwalt hatte einen Haftentlassungsbeschluss, den..." "Ach, hören Sie auf!" Levetzow winkte ab. "Ein jüdischer Rechtsverdreher hat Sie <strong>hereingelegt</strong>, das ist passiert!..."  (<i>Märzgefallene</i>, 358)',
-	'Grimberg war längst nicht so überrascht wie Roddeck. Wenigstens wusste er jetzt, dass der Herr von und zu ihn nicht <strong>hereinlegen</strong> wollte, ahnungsloss, wie der war. Wenn sie einer <strong>hereinlegen</strong> wollte, dann war es Engel, der sie schlicht und einfach beide zum Rendezvous bestellt hatte.  (<i>Märzgefallene</i>, 570-71)',
-],
 Halunke: [
 	'der <strong>Halunke</strong>,-<strong>n</strong>: scoundrel ' +
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Halunke"target="target1">Halunke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Halunke"target="target2">Halunke</a>' +
@@ -7883,10 +7913,11 @@ Häkchen: [
 	'<u>Der nasse Fisch</u>',
 	'Von den Tschakos an den Garderoben<strong>haken</strong> tropfte Regenwasser auf den Linoleumboden....  (<i>Der nasse Fisch</i>, 14)',
 	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den Ganoven zurecht und rammte ihm seine Rechte in den Magen. Der Mann klappte augenblicklich zusammen, dennoch ließ der bullige Polizist einen linken <strong>Haken</strong> folgen, der den Kaiser endgültig auf die Bretter schickte. (<i>Der nasse Fisch</i>, 26)',
-	'"Das ist doch keine Arbeit für die Kripo. Das hier können die Blauen eine Zeit lang auch alleine", sagte er (<i>Wolter</i>) und stiefelte zu den Mülltonnen hinüber, wo ein junger Polizist mit einem großen Schür<strong>haken</strong> in Asche und Abfällen wühlte.  (<i>Der nasse Fisch</i>, 68)',
-	'Rath verschärfte sein Tempo. Dann stoppte er abrupt und drehte sich um. Immer noch war niemand zu sehen... Rath wartete bis zur nächsten Straße und <strong>schug</strong> noch <strong>einen Haken</strong>. Er lief bis zur nächsten Hofeinfahrt und sprang hinein.  (<i>Der nasse Fisch</i>, 212)',
+	'"Das ist doch keine Arbeit für die Kripo. Das hier können die Blauen eine Zeit lang auch alleine", sagte er (<i>Wolter</i>) und stiefelte zu den Mülltonnen hinüber, wo ein junger Polizist mit einem großen Schür<strong>haken</strong> in Asche und Abfällen wühlte. (<i>Der nasse Fisch</i>, 68)',
+	'Rath verschärfte sein Tempo. Dann stoppte er abrupt und drehte sich um. Immer noch war niemand zu sehen... Rath wartete bis zur nächsten Straße und <strong>schug</strong> noch <strong>einen Haken</strong>. Er lief bis zur nächsten Hofeinfahrt und sprang hinein. (<i>Der nasse Fisch</i>, 212)',
+	'"Ah, Herr Rath", sagte er (<i>der Portier</i>). "Eine gute Nachricht! Der Schlüssel zu Ihrem Zimmer..", er griff hinter sich und fischte ihn vom <strong>Haken</strong>,.. "Ich habe sofort veranlasst, dass das Zimmer für Sie so weit hergestellt wird, dass Sie es bald beziehen können. (<i>Der nasse Fisch</i>, 391)',
 	'<u>Märzgefallene</u>',
-	'Sie (<i>Hannah</i>) zog sich ein Paar Gummistiefel über ihre nackten Füße...und nahm gleich drei Kittelschürzen vom <strong>Haken</strong>. (<i>Märzgefallene</i>, 69)',
+	'Sie (<i>Hannah</i>) zog sich ein Paar Gummistiefel über ihre nackten Füße...und nahm gleich drei Kittelschürzen vom <strong>Haken</strong>. (<i>Märzgefallene</i>, 69)', 
 	'Irgendwie war es ihm (<i>Leo</i>) gelungen, wieder aufzustehen und die Hosen, die noch auf halb acht hingen, endlich hochzuziehen, da hatten sie ihn unter<strong>gehakt</strong> und die Treppen hinuntergeschleift und auf den Rücksitz eines Wagens geworfen.... (<i>Märzgefallene</i>, 109)',
 	'Die Küchentür stand immer noch offen, er (<i>Rath</i>) konnte die Garderobe draußen im Flur sehen und stutzte. Nein, er irrte sich nicht: Da hing tatsächlich eine SA-Uniform am Kleider<strong>haken</strong>. (<i>Märzgefallene</i>, 117)',
 	'"Ich bin dann mal weg", sagte der blonde Herr Kötter und nahm die Uniform vom <strong>Haken</strong>. (<i>Märzgefallene</i>, 118)',
@@ -9426,6 +9457,7 @@ Krempel: [
 	'Bruno nickte nachdenklich. "Dann lass uns den <strong>Krempel</strong> mal in eine Kiste packen und dem Kollegen Böhm zuschicken", sagte er. (<i>Der nasse Fisch</i>, 328)',
 	'Das Chaos in der unteren Schublade war noch größer. Aller mögliche Krimskrams war in eine hölzerne Kiste gepackt. Rath holte die Kiste heraus und kippte sie aus. Munitionspäckchen fielen auf das Parkett, Patronen unterschiedlichen Kalibers kullerten hinaus, kleine Anstecker in Stahlhelm-Form, eine Zange, ein kleiner Hammer und jede Menge anderer <strong>Krempel</strong>. (<i>Der nasse Fisch</i>, 379-80)',
 	'Er (<i>Rath</i>) legte den <strong>Krempel</strong> zurück in das Kästchen, das Buch steckte er ein. (<i>Der nasse Fisch</i>, 381)',
+	'Schnell wühlte sich Rath durch den Schreibtisch. Oben fand er nur seinen <strong>Krempel</strong>, ein par Notizen zum Fall Wilczek, Stifte und Papier, aber in der unteren großen Schublade wartete die Überraschung. Eine große schwere Pappschachtel, wie Roeder es gesagt hatte. Und versteckt dahinter eine kleine Pistole. (<i>Der nasse Fisch</i>, 394)',
 	'<u>Märzgefallene</u>',
 	'Klaßen zeigte auf den Mantel und die Leinwände, die im warmen Büro immer heftiger zu stinken begannen. "Dann nimm den <strong>Krempel</strong> man wieder mit." "Ich?" Rath hob beide Hände. "Tut mir leid, das ist Beweismaterial, was soll ich damit?" (<i>Märzgefallene</i>, 97)',
 	'...jetzt fiel es ihm (<i>Gereon</i>) auf, vielleicht weil er genau dieses Zeichen trauter Zweisamkeit gestern Abend in seinem eigenen Badezimmer vermisst hatte. Als Charly ihren <strong>Krempel</strong> mit zu Greta genommen hatte. Aber hier, bei Reinhold Gräf im Bad, sah es so aus, wie es bei Gereon Rath gestern hätte aussehen sollen: Auf der Ablage vor dem Spiegel standen zwei Zahnputzgläser. Und in jedem eine Zahnbürste. (<i>Märzgefallene</i>, 120)',
@@ -10764,30 +10796,33 @@ postieren: [
 	'<u>Lunapark</u>',
 	'Da klingelte das Telefon, mitten hinein in die Stille, die Rath immer unangenehmer wurde. Charly schreckte hoch, als habe jemand sie mit einer Nadel <strong>gepiekst</strong>. (<i>Lunapark</i>, 204)',
 ],
-'Pappe, pappen': [
+'Pappe, pappen, Papp-': [
 	'die <strong>Pappe</strong>,-<strong>n</strong>: cardboard, pasteboard; posters'+
-	'<br>der <strong>Papp</strong>karton: cardboard box'+
+	'<br>der <strong>Pappkarton</strong>: cardboard box'+
 	'<br><strong>pappen</strong>: paste, stick'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pappe"target="target1">Pappe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pappen"target="target2">pappen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pappe"target="target3">Pappe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pappen"target="target4">pappen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Ganz oben, vor der letzten Tür, blieben sie stehen. <i>Johann König, Photograph</i> stand dort angeschlagen, diesmal allerdings nicht in Messing graviert, sondern auf ein vergilbtes <strong>Papp</strong>schild gedruckt, das sich bereits wellte. (<i>Der nasse Fisch</i>, 18)',
-	'In einer Zimmerecke, direkt neben dem Stuhl, auf den er (<i>Rath</i>) seine Sachen geworfen hatte, standen sein Koffer und ein großer <strong>Papp</strong>karton. Und erinnerten ihn daran, dass die Behnke ihn gestern rausgeworfen hatte. Er hatte kein Zuhause. (<i>Der nasse Fisch</i>, 336)',
+	'Ganz oben, vor der letzten Tür, blieben sie stehen. <i>Johann König, Photograph</i> stand dort angeschlagen, diesmal allerdings nicht in Messing graviert, sondern auf ein vergilbtes <strong>Pappschild</strong> gedruckt, das sich bereits wellte. (<i>Der nasse Fisch</i>, 18)',
+	'In einer Zimmerecke, direkt neben dem Stuhl, auf den er (<i>Rath</i>) seine Sachen geworfen hatte, standen sein Koffer und ein großer <strong>Pappkarton</strong>. Und erinnerten ihn daran, dass die Behnke ihn gestern rausgeworfen hatte. Er hatte kein Zuhause. (<i>Der nasse Fisch</i>, 336)',
+	'<i>Rath</i>: "Wenn sich schon jemand um mein Gepäck kümmern könnte." "Aber selbstverständlich." Der Portier warf einen missbilligenden Seitenblick auf Raths <strong>Pappkarton</strong> und winkte einen Boy heran. (<i>Der nasse Fisch</i>, 390)',
+	'So wie er vor einer Woche gekommen war, verließ er das Haus: bepackt mit einem Koffer und einem <strong>Pappkarton</strong>. Er drehte sich nicht einmal mehr um, als er das Taxi bestieg. (<i>Der nasse Fisch</i>, 391)',
+	'Schnell wühlte sich Rath durch den Schreibtisch. Oben fand er nur seinen Krempel, ein par Notizen zum Fall Wilczek, Stifte und Papier, aber in der unteren großen Schublade wartete die Überraschung. Eine große schwere <strong>Pappschachtel</strong>, wie Roeder es gesagt hatte. Und versteckt dahinter eine kleine Pistole. (<i>Der nasse Fisch</i>, 394)',
 	'<u>Märzgefallene</u>',
 	'Rath schloss die Augen gleich wieder und unternahm einen neuen Versuch, klappte die Lider langsam und vorsichtig nach oben. Und sah dasselbe. Mäuseohren.... Aus <strong>Pappe</strong>, versehen mit Lederbändern zum Umschnallen, lagen sie auf dem staubigen Boden.... (<i>Märzgefallene</i>, 70)',
-	'Er (<i>Rath</i>) fand seine Hose schließlich unter dem Sofa, hinter den schwarzen <strong>Papp</strong>ohren, daneben auch sein Hemd.  (<i>Märzgefallene</i>, 73)',
-	'Trotz der Kälte lungerten Bettler vor den Aufgängen zum Hochbahnhof herum. Direkt an der Treppe saß ein Mann auf einem <strong>Papp</strong>deckel, in einen vor Schmutz starrenden Mantel gehüllt, den Hut vor sich auf dem Pflaster. <i>Kriegsblinder bittet um Spende</i> war auf einem <strong>Papp</strong>schild zu lesen.... (<i>Märzgefallene</i>, 93)',
-	'Die SA-Männer hatten sich <strong>Pappen</strong> mit Wahlplakaten über die braunen Hemden gehängt.  (<i>Märzgefallene</i>, 199)',
-    'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen <strong>Papp</strong>schildchen baumelten. (<i>Märzgefallene</i>, 267)',
-	'Offensichtlich konnten sie es kaum erwarten. Noch vor der Mittagspause kreuzte Gräf in Raths Büro auf, einen <strong>Papp</strong>karton unterm Arm und Kommissaranwärter Steinke im Schlepptau.... Gräf hatte angefangen, den Inhalt seines <strong>Papp</strong>kartons in die Schubladen seines Schriebtischs zu räumen, während Steinke den Aktenstapel von Raths auf Gräfs Schreibtisch packte und sich den Besucherstuhl griff. (<i>Märzgefallene</i>, 421)',
-	'<i>Rath</i>: "Wenn du (<i>Gräf</i>) mein Assistent bist, hast du deinen Schreibtisch hier, wenn du dich mit einem anderen...Partner irgendwo breitmachen willst, musst du dir einen anderen Arbeitsplatz suchen...." Gräf sagte nichts mehr. Wortlos packte er seinen persönlichen Krempel zurück in den <strong>Papp</strong>karton.... (<i>Märzgefallene</i>, 423)',
-	'"Was machen Sie da?", fragte sie (<i>Eva Heinen</i>) den Plakatekleber... Ihre Frage beantwortete der zweite SA-Mann, der ein <strong>Papp</strong>schild vor dem Bauch trug. Eines mit drei Ausrufezeichen: <i>Deutsche! Wehrt Euch! Kauft nicht bei Juden</i>!....Rath ging vor die Tür... der Nazi mit seinem <strong>Papp</strong>schild ging ihm auf die Nerven. (<i>Märzgefallene</i>, 457-58)',
-	'...der SA-Mann stand plötzlich stramm. Was mit dem <strong>Papp</strong>schild vor der Brust ziemlich dämlich aussah.  (<i>Märzgefallene</i>, 459)' ,
-	'Der Mann saß genau da, wo Rath ihn das letzte Mal gesehen hatte: an einem der Treppenaufgänge zum Hochbahnhof Nollendorfplatz,... den Spendenhut mit dem <strong>Papp</strong>schild vor sich.... <i>Kriegsblinder bittet um Spende</i> stand auf dem <strong>Papp</strong>schild.  (<i>Märzgefallene</i>, 472-73)',
-	'Bevor Rath <i>Herein!</i> rufen konnte, ging die Tür auch schon auf. Es war Reinhold Gräf, der einen kurzen, beinahe erschrocken wirkenden Blick auf den unbesetzten Schreibtisch der Voss warf, und dann das verwaiste Vorzimmer durchquerte. Unterm Arm trug er einen <strong>Papp</strong>karton. (<i>Märzgefallene</i>, 537)',
-	'"Jeder so, wie er kann", sagte Gräf und klappte den <strong>Papp</strong>karton, den er inzwischen gefüllt hatte, zu.  (<i>Märzgefallene</i>, 539)',
-	'<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und wuchtete seinen <strong>Papp</strong>karton durch die Tür. (<i>Märzgefallene</i>, 540)',
-	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen <strong>Papp</strong>karton, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis aum Rand mit Krempel and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)',
+	'Er (<i>Rath</i>) fand seine Hose schließlich unter dem Sofa, hinter den schwarzen <strong>Pappohren</strong>, daneben auch sein Hemd. (<i>Märzgefallene</i>, 73)',
+	'Trotz der Kälte lungerten Bettler vor den Aufgängen zum Hochbahnhof herum. Direkt an der Treppe saß ein Mann auf einem <strong>Pappdeckel</strong, in einen vor Schmutz starrenden Mantel gehüllt, den Hut vor sich auf dem Pflaster. <i>Kriegsblinder bittet um Spende</i> war auf einem <strong>Papp</strong>schild zu lesen.... (<i>Märzgefallene</i>, 93)',
+	'Die SA-Männer hatten sich <strong>Pappen</strong> mit Wahlplakaten über die braunen Hemden gehängt. (<i>Märzgefallene</i>, 199)',
+    'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf Bahren mit zugedeckten Leichen standen, an deren Zehen <strong>Pappschildchen</strong> baumelten. (<i>Märzgefallene</i>, 267)',
+	'Offensichtlich konnten sie es kaum erwarten. Noch vor der Mittagspause kreuzte Gräf in Raths Büro auf, einen <strong>Pappkarton</strong> unterm Arm und Kommissaranwärter Steinke im Schlepptau.... Gräf hatte angefangen, den Inhalt seines <strong>Pappkartons</strong> in die Schubladen seines Schriebtischs zu räumen, während Steinke den Aktenstapel von Raths auf Gräfs Schreibtisch packte und sich den Besucherstuhl griff. (<i>Märzgefallene</i>, 421)',
+	'<i>Rath</i>: "Wenn du (<i>Gräf</i>) mein Assistent bist, hast du deinen Schreibtisch hier, wenn du dich mit einem anderen...Partner irgendwo breitmachen willst, musst du dir einen anderen Arbeitsplatz suchen...." Gräf sagte nichts mehr. Wortlos packte er seinen persönlichen Krempel zurück in den <strong>Pappkarton</strong>.... (<i>Märzgefallene</i>, 423)',
+	'"Was machen Sie da?", fragte sie (<i>Eva Heinen</i>) den Plakatekleber... Ihre Frage beantwortete der zweite SA-Mann, der ein <strong>Pappschild</strong> vor dem Bauch trug. Eines mit drei Ausrufezeichen: <i>Deutsche! Wehrt Euch! Kauft nicht bei Juden</i>!....Rath ging vor die Tür... der Nazi mit seinem <strong>Papp</strong>schild ging ihm auf die Nerven. (<i>Märzgefallene</i>, 457-58)',
+	'...der SA-Mann stand plötzlich stramm. Was mit dem <strong>Pappschild</strong> vor der Brust ziemlich dämlich aussah. (<i>Märzgefallene</i>, 459)' ,
+	'Der Mann saß genau da, wo Rath ihn das letzte Mal gesehen hatte: an einem der Treppenaufgänge zum Hochbahnhof Nollendorfplatz,... den Spendenhut mit dem <strong>Pappschild</strong> vor sich.... <i>Kriegsblinder bittet um Spende</i> stand auf dem <strong>Pappschild</strong>.  (<i>Märzgefallene</i>, 472-73)',
+	'Bevor Rath <i>Herein!</i> rufen konnte, ging die Tür auch schon auf. Es war Reinhold Gräf, der einen kurzen, beinahe erschrocken wirkenden Blick auf den unbesetzten Schreibtisch der Voss warf, und dann das verwaiste Vorzimmer durchquerte. Unterm Arm trug er einen <strong>Pappkarton</strong>. (<i>Märzgefallene</i>, 537)',
+	'"Jeder so, wie er kann", sagte Gräf und klappte den <strong>Pappkarton</strong>, den er inzwischen gefüllt hatte, zu.  (<i>Märzgefallene</i>, 539)',
+	'<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und wuchtete seinen <strong>Pappkarton</strong> durch die Tür. (<i>Märzgefallene</i>, 540)',
+	'Sie (<i>Erika Voss</i>) öffnete die Tür zur Gänze und damit den Blick auf Andreas Lange, den Kommissaranwärter aus Charlys Jahrgang, der mit einem verlegenen Lächeln hinter der Sekretärin stand, in der Hand einen <strong>Pappkarton</strong>, der dem, den Gräf heute Morgen gefüllt hatte, zum Verwechseln ähnlich sah. Nur dass dieser hier bis aum Rand mit Krempel and Papieren vollgestopft war. (<i>Märzgefallene</i>, 544)',
 	'<u>Lunapark</u>', 
 	'Kleidung lag verstreut auf dem Boden.. Vor dem Bett leere Bierflaschen und ein überquellender Aschenbecher, eine zusammengeknüllte Papiertüte.., daneben eine fettgetränkte Bratwurst<strong>pappe</strong>, auf der ein Klacks Senf eingetrocknet war. Fliegen summten auf, als Lange dem Tisch zu nahe kam. (<i>Lunapark</i>, 42-43)',
 	'Er (<i>Rath</i>) schloss die Tür und setzte sich an den Schreibtisch, betrachtete die Fotos über dem Stadtplan, die Fotos aus der Verbrecherkartei, die Gräf dorthin <strong>gepappt</strong> hatte. (<i>Lunapark</i>, 390)',
@@ -13727,26 +13762,27 @@ Tresen: [
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tresen"target="target1">Tresen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tresen"target="target2">Tresen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/tresen"target="target3">Tresen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Tresen"target="target4">Tresen</a>',
 	'<u>Der nasse Fisch</u>',
-	'"Einen Americano bitte", sagte er (<i>Rath</i>), lehnte sich an den <strong>Tresen</strong> und hörte der Band zu.... Der Barmann kam zurück und stellte ein Glas auf den blankpolierten <strong>Tresen</strong>. Rath ließ ein Markstück in seine Hand fallen und zückte das Foto. Der Barmann wirkte gelangweilt.... Er zuckte die Achseln. Auch Diskretion gehörte hier zum Service.... "Er ist Russe", half Rath nach und legte unauffällig ein weiteres Markstück auf den <strong>Tresen</strong>.  (<i>Der nasse Fisch</i>, 95)',
+	'"Einen Americano bitte", sagte er (<i>Rath</i>), lehnte sich an den <strong>Tresen</strong> und hörte der Band zu.... Der Barmann kam zurück und stellte ein Glas auf den blankpolierten <strong>Tresen</strong>. Rath ließ ein Markstück in seine Hand fallen und zückte das Foto. Der Barmann wirkte gelangweilt.... Er zuckte die Achseln. Auch Diskretion gehörte hier zum Service.... "Er ist Russe", half Rath nach und legte unauffällig ein weiteres Markstück auf den <strong>Tresen</strong>. (<i>Der nasse Fisch</i>, 95)',
 	'"Oh, was für eine Überraschung", sagte Rath, legte Zeitungen und Portemonnaie dem Dicken vor die Nase auf den Verkaufs<strong>tresen</strong> und lüftete seinen Hut. "Wohnen Sie (<i>Fräulein Ritter</i>) hier in der Gegend?" (<i>Der nasse Fisch</i>, 95)',
-	'"Interessante Mischung", sagte sie (<i>Fräulein Ritter</i>) zu Rath... "Ihre Zeitungslektüre", erklärte sie. In der Tat, der <i>Angriff</i> und das <i>Berliner Tageblatt</i>, wie sie da so einträchtig auf dem <strong>Tresen</strong> lagen, das passte nicht ganz zusammen.... Er (<i>Rath</i>) legte zwei Groschen auf den Tresen und nahm das <i>Tageblatt</i>.  (<i>Der nasse Fisch</i>, 117-18)',
+	'"Interessante Mischung", sagte sie (<i>Fräulein Ritter</i>) zu Rath... "Ihre Zeitungslektüre", erklärte sie. In der Tat, der <i>Angriff</i> und das <i>Berliner Tageblatt</i>, wie sie da so einträchtig auf dem <strong>Tresen</strong> lagen, das passte nicht ganz zusammen.... Er (<i>Rath</i>) legte zwei Groschen auf den Tresen und nahm das <i>Tageblatt</i>. (<i>Der nasse Fisch</i>, 117-18)',
 	'Nachdem er (<i>Rath</i>) einen Americano bestellt hatte, zog er ein Foto aus der Tasche und betrachtete es... Alexej Kardakow schaute ernst und verträumt an die Decke, als Rath das Foto auf den <strong>Tresen</strong> legte. (<i>Der nasse Fisch</i>, 121)',
+	'"Wenn Sie bitte schon einmal die Formalitäten..." Der Portier schob ihm (<i>Rath</i>) ein Anmeldeformular über den <strong>Tresen</strong>. (<i>Der nasse Fisch</i>, 391)',
 	'<u>Märzgefallene</u>',
 	'Der Kellner ließ sich Zeit, sie (<i>die wilde Hilde</i>) ging zum <strong>Tresen</strong> und verschwand gleich nach der Bestellung auf der Toilette. (<i>Märzgefallene</i>, 74)',
 	'Sie (<i>Hannah</i>) blinzelte gegen den Zigarettenqualm an, und dann entdeckte sie am <strong>Tresen</strong> zu ihrer Überraschung ein bekanntes Gesicht. (<i>Märzgefallene</i>, 321)',
 	'Felix orderte wortlos per Handzeichen und bezahlte auch gleich, als der Wirt die dampfende Tasse auf den <strong>Tresen</strong> stellte. (<i>Märzgefallene</i>, 322)',
 	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonnaies beiläufig auf den Verkaufs<strong>tresen</strong> gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu ergattern. (<i>Märzgefallene</i>, 348)',
 	'Er (<i>der Junge</i>) tuschelte kurz mit dem Wirt, den er zu kennen schien, schielte dabei aber immer wieder zu ihm herüber, als habe er ihn bereits erkannt. Als der Wirt kurz mit dem Kinn zum <strong>Tresen</strong> zuckte, setzte sich der Junge in Bewegung. Er stellte sich direkt neben ihn und tat unbeteiligt, als er seine Frage stellte. "Ick habe jehört, Sie suchen jemanden?" (<i>Märzgefallene</i>, 379)',
-	'Berthold Weinert fühlte sich nicht wohl in der Kaschemme, in die Gereon Rath ihn gelotst hatte... Weinert hatte die Kneipe noch nie gemocht. Zu klein, zu verraucht, zu sehr Kreuzberg. Aber einen unbestreitbaren Vortail hatte sie: Er war unter den Männern, die sich hier am <strong>Tresen</strong> und rund um die vier Tische verteilt hatten, der einzige Journalist.   (<i>Märzgefallene</i>, 530)',
+	'Berthold Weinert fühlte sich nicht wohl in der Kaschemme, in die Gereon Rath ihn gelotst hatte... Weinert hatte die Kneipe noch nie gemocht. Zu klein, zu verraucht, zu sehr Kreuzberg. Aber einen unbestreitbaren Vortail hatte sie: Er war unter den Männern, die sich hier am <strong>Tresen</strong> und rund um die vier Tische verteilt hatten, der einzige Journalist. (<i>Märzgefallene</i>, 530)',
 	'<u>Lunapark</u>',
-	'Der Wirt.. schaltete das elektrische Licht ein, eine Handvoll funzeliger 40-Watt-Birnen, die den Raum kaum heller werden ließen, und stellte sich hinter den <strong>Tresen</strong>, als wolle er den Beamten ein Bier zapfen... Der Inhaber des Sturmlokals schaute die beiden Polizeibeamten an, als erwarte er eine Bestellung, und Rath lehnte sich an den <strong>Tresen</strong>, als wolle er ihm den Gefallen tun.  (<i>Lunapark</i>, 32-33)',
+	'Der Wirt.. schaltete das elektrische Licht ein, eine Handvoll funzeliger 40-Watt-Birnen, die den Raum kaum heller werden ließen, und stellte sich hinter den <strong>Tresen</strong>, als wolle er den Beamten ein Bier zapfen... Der Inhaber des Sturmlokals schaute die beiden Polizeibeamten an, als erwarte er eine Bestellung, und Rath lehnte sich an den <strong>Tresen</strong>, als wolle er ihm den Gefallen tun. (<i>Lunapark</i>, 32-33)',
 	'Charly wich dem neugierigen Blick aus und kramte in ihrer Handtasche nach dem Portemonnaie. Als sie wieder aufblickte, hatte sich die Frau ihren Einkäufen zugewandt, die bereits auf dem <strong>Tresen</strong> standen und die sie umständlich einzupacken begann.  (<i>Lunapark</i>, 115-16)' ,
 	'"Das macht dann neununddreißig Pfennige, bitte", sagte der Kaufmann und stellte die abgewogene Zuckertüte auf den <strong>Tresen</strong>.  (<i>Lunapark</i>, 116)' ,
 	'Auf der Theke stand eine Art Setzkasten, in dem eine Samlung äußerst ungesund aussehender Glasaugen ausgestellt war. "Ist das da Ihr Sortiment?", fragte Rath eine Dame, die hinter dem <strong>Tresen</strong> an einem Schriebtisch saß und Zahlen in ein Formular eintrug.   (<i>Lunapark</i>, 133)',
 	'"..ich brauche Informationen", sagte Rath. "Wo finde ich den Ihren Chef? "Meister Kessler ist gerade in der Werkstatt." "Dann führen Sie mich doch bitte zu ihm." Rath zückte seinen Dienstausweis, und die Gesichtszüge der Dame froren ein. "Was wollen Sie von ihm?", fragte sie. "Hilfe." Mehr sagte Rath nicht, und als die Frau merkte, dass er auch nicht vorhatte, genauer zu werden, kam sie um den <strong>Tresen</strong> herum und öffnete eine Tür. (<i>Lunapark</i>, 134)',
-	'"Wir schließen gleich", sagte der Mann hinter dem <strong>Tresen</strong>. <i>Rath</i>: "Nur ein Ortsgespräch. Und packen Sie mir, während ich teleforniere, doch bitte ein paar kalte Bouletten ein.".. Rath hob ab. "Das Geheime Staatspolizeiamt bitte", sagte er dem Fräulein vom Amt und sah, wie der Fleischer hinter dem <strong>Tresen</strong> erbleichte.  (<i>Lunapark</i>, 140-41)',
-	'Vor dem Sturmlokal parkte eine große dunkelblaue Hanomag-Limousine. Rath stellte seinen Wagen auf der anderen Straßenseite ab und betrat das Lokal. Walter Bestmann stand hinter dem <strong>Tresen</strong>, polierte Gläser und glotzte den Eindringling mit großen Augen an.  (<i>Lunapark</i>, 195)',
-	'Zigarettendunst schlug ihm (<i>Rath</i>) entgegen, so viel, dass ihm die Augen tränten. Die Bude war gerappelt voll, ein parr Braunhemden standen am <strong>Tresen</strong> und tranken; an zwei Tischen hatten sich die Männer zum Zocken zusammengesetzt. Mit Besuch schien niemand gerechnet zu haben...  (<i>Lunapark</i>, 218)',
+	'"Wir schließen gleich", sagte der Mann hinter dem <strong>Tresen</strong>. <i>Rath</i>: "Nur ein Ortsgespräch. Und packen Sie mir, während ich teleforniere, doch bitte ein paar kalte Bouletten ein.".. Rath hob ab. "Das Geheime Staatspolizeiamt bitte", sagte er dem Fräulein vom Amt und sah, wie der Fleischer hinter dem <strong>Tresen</strong> erbleichte. (<i>Lunapark</i>, 140-41)',
+	'Vor dem Sturmlokal parkte eine große dunkelblaue Hanomag-Limousine. Rath stellte seinen Wagen auf der anderen Straßenseite ab und betrat das Lokal. Walter Bestmann stand hinter dem <strong>Tresen</strong>, polierte Gläser und glotzte den Eindringling mit großen Augen an. (<i>Lunapark</i>, 195)',
+	'Zigarettendunst schlug ihm (<i>Rath</i>) entgegen, so viel, dass ihm die Augen tränten. Die Bude war gerappelt voll, ein parr Braunhemden standen am <strong>Tresen</strong> und tranken; an zwei Tischen hatten sich die Männer zum Zocken zusammengesetzt. Mit Besuch schien niemand gerechnet zu haben... (<i>Lunapark</i>, 218)',
 	'Rambow führte sie (<i>Charly</i>) an einen freien Tisch und bestellte zweimal Kaffee. Nachdem sie sich eine Weile schweigend gegenübergesessen hatten, löste sich einer der Männer vom <strong>Tresen</strong> und setzte sich zu ihnen.  (<i>Lunapark</i>, 224)',
 	'Eine junge Frau hatte die Kneipe betreten, doch die Männer am <strong>Tresen</strong>.. schienen sie gar nicht wahrzunehmen. Sie verschwand auch gleich durch eine Tür, die neben dem <strong>Tresen</strong> nach hinten führte. (<i>Lunapark</i>, 226)',
 	'Er (<i>Rath</i>) drückte seine Zigarette aus und zündete sich die nächste an. Einer der Männer am <strong>Tresen</strong>, der ihn die ganze Zeit schon schief angesehen hatte, stand von seinem Barhocker auf und kam an Raths Tisch.  (<i>Lunapark</i>, 237)',
@@ -14003,13 +14039,15 @@ umkrempeln: [
 	'<i>Felix</i>: "Keene Angst, is allet ohne jedet Risiko." Er zwinkerte ihr (<i>Hannah</i>) zu. "Und wenn die Sache jut <strong>über die Bühne is</strong>, dann jehn wir schick aus, wir zwee. Versprochen.... Kino, Essen, Schwoofen (<i>Schwofen: tanzen</i>)."  (<i>Märzgefallene</i>, 393)' ,
 ],
 unterjubeln: [
-	'<strong>unterjubeln</strong>: palm sth. off on so. ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unterjubeln"target="target1">unterjubeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unterjubeln"target="target2">unterjubeln</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/unterjubeln"target="target3">unterjubeln</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/unterjubeln"target="target4">unterjubeln</a> ',
+	'jmdm. etwas <strong>unterjubeln</strong>: stick so. with, palm sth. unpleasant/unwanted off on so.'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unterjubeln"target="target1">unterjubeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unterjubeln"target="target2">unterjubeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/unterjubeln"target="target3">unterjubeln</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/unterjubeln"target="target4">unterjubeln</a>',
+	'<u>Der nasse Fisch</u>',
+	'Bruno wollte ihn (<i>Rath</i>) reinlegen! Wahrscheinlich hatte er den Verlust des Notizbucks bemerkt und seine Schlüsse gezogen. Wenn Rath schon das Buch hatte, musste er ihm nur noch die Pistole <strong>unterjubeln</strong>, und er könnte Gennat den perfekten Mordverdächtigen präsentieren. (<i>Der nasse Fisch</i>, 394)',  
 	'<u>Märzgefallene</u>',
-	'Grimberg hatte ihm (<i>Roddeck</i>) geholfen. Sie waren durch die schlammige Pfütze am Grund des Trichters gerobbt und hatten alle beide bei ihrer Rückkehr ausgesehen wie die Schweine und ihre Uniformen säubern müssen... Und seither hatte Friedrich Grimberg, der zwei Dienstränge unter ihm stand, ihn in der Hand gehabt. Hatte ihm seinen Willen aufgezwungen,.. hatte ihm sogar seinen besten Freund Heinrich Wosniak als Burschen <strong>untergejubelt</strong>.   (<i>Märzgefallene</i>, 573-74)',
+	'Grimberg hatte ihm (<i>Roddeck</i>) geholfen. Sie waren durch die schlammige Pfütze am Grund des Trichters gerobbt und hatten alle beide bei ihrer Rückkehr ausgesehen wie die Schweine und ihre Uniformen säubern müssen... Und seither hatte Friedrich Grimberg, der zwei Dienstränge unter ihm stand, ihn in der Hand gehabt. Hatte ihm seinen Willen aufgezwungen,.. hatte ihm sogar seinen besten Freund Heinrich Wosniak als Burschen <strong>untergejubelt</strong>. (<i>Märzgefallene</i>, 573-74)',
 	'<u>Lunapark</u>',
-	'Nein, keine politische Partei würde ihm (<i>Rath</i>) jemals ihr Parteibuch <strong>unterjubeln</strong> können. Wenn ihm eine Sache heilig war, dann seine Unabhängigkeit.  (<i>Lunapark</i>, 79)',
+	'Nein, keine politische Partei würde ihm (<i>Rath</i>) jemals ihr Parteibuch <strong>unterjubeln</strong> können. Wenn ihm eine Sache heilig war, dann seine Unabhängigkeit. (<i>Lunapark</i>, 79)',
 ],
 'übers Ohr hauen': [
 	'jmdn. <strong>übers Ohr hauen</strong>: bamboozle/scam so., take to the cleaners ' +
@@ -15684,6 +15722,7 @@ wogen: [
 	'<i>Rath</i>: "Ist Ihnen (<i>Tretschkow</i>) etwas aufgefallen?" fragte er ruhig. "Sah das Zimmer bei einem Ihrer Besuche anders aus, als Sie es zurückgelassen hatten? Wurde in den Sachen gewühlt?" (<i>Der nasse Fisch</i>, 317)',
 	'Ihm fiel etwas ein, und er (<i>Gereon</i>) <strong>wühlte</strong> in seiner Manteltasche, bis er fand, was er suchte. Charlys Strumpf war immer noch da, wo er ihn gestern hingestopft hatte. Er musste lächeln. (<i>Der nasse Fisch</i>, 337)',
 	'Rath streifte ein Paar Handschuhe über und untersuchte den ersten Schrank. Abgeschlossen. Auch die übrigen waren verrammelt. Er <strong>durchwühlte</strong> die Schreibtischschubladen nach einem Schlüssel. (<i>Der nasse Fisch</i>, 379)',
+	'Schnell <strong>wühlte sich</strong> Rath durch den Schreibtisch. Oben fand er nur seinen Krempel, ein par Notizen zum Fall Wilczek, Stifte und Papier, aber in der unteren großen Schublade wartete die Überraschung. Eine große schwere Pappschachtel, wie Roeder es gesagt hatte. Und versteckt dahinter eine kleine Pistole. (<i>Der nasse Fisch</i>, 394)',
 	'<u>Märzgefallene</u>',
 	'Rath blieb vor einem Regal stehen, in dem ein größeres Sortiment an Papp- und Gumminasen fein säuberlich aufgereiht auf Käufer wartete...."Hauptsache, niemand erkennt mich", sagte Rath und <strong>wühlte sich</strong> durch die falschen Nasen. (<i>Märzgefallene</i>, 19)',
 	'Er (<i>Paul</i>) schlug Rath auf die Schulter. "Lass dir das Nasenfahrad da in drei Teufels Namen einpacken.  Und dann gehen wir zu mir und <strong>wühlen</strong> uns durch die Karnevalskisten." (<i>Märzgefallene</i>, 20)',
@@ -15706,6 +15745,7 @@ wogen: [
 	'<i>Rath</i>: "Ist Ihnen (<i>Tretschkow</i>) etwas aufgefallen?" fragte er ruhig. "Sah das Zimmer bei einem Ihrer Besuche anders aus, als Sie es zurückgelassen hatten? Wurde in den Sachen gewühlt?" (<i>Der nasse Fisch</i>, 317)',
 	'Ihm fiel etwas ein, und er (<i>Gereon</i>) <strong>wühlte</strong> in seiner Manteltasche, bis er fand, was er suchte. Charlys Strumpf war immer noch da, wo er ihn gestern hingestopft hatte. Er musste lächeln. (<i>Der nasse Fisch</i>, 337)',
 	'Rath streifte ein Paar Handschuhe über und untersuchte den ersten Schrank. Abgeschlossen. Auch die übrigen waren verrammelt. Er <strong>durchwühlte</strong> die Schreibtischschubladen nach einem Schlüssel. (<i>Der nasse Fisch</i>, 379)',
+	'Schnell <strong>wühlte sich</strong> Rath durch den Schreibtisch. Oben fand er nur seinen Krempel, ein par Notizen zum Fall Wilczek, Stifte und Papier, aber in der unteren großen Schublade wartete die Überraschung. Eine große schwere Pappschachtel, wie Roeder es gesagt hatte. Und versteckt dahinter eine kleine Pistole. (<i>Der nasse Fisch</i>, 394)',
 	'<u>Märzgefallene</u>',
 	'Rath blieb vor einem Regal stehen, in dem ein größeres Sortiment an Papp- und Gumminasen fein säuberlich aufgereiht auf Käufer wartete...."Hauptsache, niemand erkennt mich", sagte Rath und <strong>wühlte sich</strong> durch die falschen Nasen. (<i>Märzgefallene</i>, 19)',
 	'Er (<i>Paul</i>) schlug Rath auf die Schulter. "Lass dir das Nasenfahrad da in drei Teufels Namen einpacken.  Und dann gehen wir zu mir und <strong>wühlen</strong> uns durch die Karnevalskisten." (<i>Märzgefallene</i>, 20)',
@@ -16461,6 +16501,7 @@ auswringen  Der nasse Fisch 234  included in "Lappen"
  Baracke  Märzgefallene  549     
  beargwöhnen  Märzgefallene  536
  beben  Lunapark 160  
+ bepacken Der nasse Fisch 391 (together with Pappkarton)
  beschnüffeln  Lunapark 428 
  ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen       
  belegt  Lunapark 366 
@@ -16626,7 +16667,6 @@ Rummel Märzgefallene         331
  'Sarchnaarel'  ;   Nworte++;    Märzgefallene   36 
  satt Der nasee Fisch 381  in sentence with Klirren
  satteln, draufsatteln  Der nasse Fisch 329
- Schwaden  Lunapark 155 
  Schankraum  Lunapark 35 and others 37 39 40
  schlampig     Märzgefallene  542
  'Schnauz'  ;   Nworte++;    Märzgefallene   19
@@ -16644,6 +16684,7 @@ Rummel Märzgefallene         331
  schnibbeln ? Lunapark 268
  Schnulzen  Der nasse Fisch 189
  Schrotflinte Lunapark 123
+ Schwaden  Lunapark 155 
 schwemmen    Märzgefallene   494
 schwüle Lunapark 323
  'sich schimpfen'  ;   Nworte++;    Märzgefallene   33
@@ -16676,6 +16717,7 @@ Taxe  Der nasse Fisch  153
 ä  Ä  ö  Ö  ü  Ü   ß               
  tummeln Lunapark 86    
  unbeholfen  Märzgefallene   393  
+ "Unterstehen Sie sich"  Der nasse Fisch  393
  verduften Lunapark 277
  verdutzt Lunapark 351
  'vergeuden'  ;   Nworte++;      Märzgefallene   271

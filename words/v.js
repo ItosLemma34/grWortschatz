@@ -39,7 +39,8 @@ const v = [
    'verkrümeln',  // verkrümeln:  
    'vermaledeit', // vermaledeit: 
    'vermasseln',  // vermasseln: 
-   'verminen',  // verminen:  
+   'verminen',  // verminen: 
+   'vermodern', // vermodern: 
    'verpetzen' , // verpetzen:  
    'verpfeifen',  // verpfeifen: 
    'verplappern (sich)', //  
@@ -86,7 +87,8 @@ const v = [
    'Verstellung',  // Verstellung:   combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  
    'verstohlen',   // verstohlen:  
-   'verstümmeln, Verstümmelung', 
+   'verstümmeln, Verstümmelung',
+   'vertilgen',  // vertilgen: 
    'vertrackt',   // vertrackt:     combine with Vertrackt if found
    'vertreten (sich die Beine)', //  
    'Vertriebsweg', // Vertriebsweg:  

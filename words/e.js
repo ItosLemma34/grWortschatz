@@ -37,7 +37,7 @@ const e = [
    'Eintänzer',   // Eintänzer:  
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten:  
-   'Ekel, (an)ekeln, eklig', 
+  // 'Ekel, (an)ekeln, eklig', 
    'Empore',     // Empore:  
    'entbieten',  // entbieten:  
    'entgegenfiebern',  // entgegenfiebern:  

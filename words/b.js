@@ -27,6 +27,7 @@ const b = [
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
     'bepinseln, pinseln', //  duplicated
+    'bequemen, herbequemen (sich)',  // duplicated
     'berappen',   // berappen:  
     'beredt',     // beredt:  
     'Beritt, beritten',  //   
@@ -70,7 +71,8 @@ const b = [
     'brenzlig', // brenzlig: 
     'Brett, Bretter(wand/verschlag/bude)',   
     'Brimborium',   // Brimborium:  
-    'bröckeln',  // bröckeln:  
+    'bröckeln',  // bröckeln: 
+    'Brocken',  // Brocken: 
     'brüllen, Gebrüll', //   duplicated
     'brummig, Brummigkeit',  // 
     'Brüstung',  // Brüstung:

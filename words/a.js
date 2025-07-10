@@ -42,7 +42,7 @@ const a = [
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    // anbrechen:  
 	'anecken',      // anecken:   
-	'anekeln, Ekel',      //  duplicated 
+//	'anekeln, Ekel',      //  duplicated 
 	'anfauchen, fauchen', //  duplicated
 	'angeben, Angeber',  //   duplicated
 	'angeschickert', // angeschickert: 

@@ -40,7 +40,7 @@ const t = [
    'Tube (auf die T.  drücken)', //  duplicated
    'tünchen, Tünche', // 
    'tunken',  // tunken: 
-   'tupfen, abtupfen, betupfen',  //  triplicated
+   'T(t)upfen, abtupfen, betupfen',  //  triplicated
    'türken',  // türken: 
    'türmen', // türmen 
 //   'turteln', // turteln:  duplicate with Geturtel

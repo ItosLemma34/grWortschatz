@@ -20,7 +20,7 @@ const a = [
 	'abstauben',  // abstauben: 
 	'abstottern', // abstottern: 
 	'abtrünnig',  // abtrünnig: 
-	'abtupfen, betupfen, tupfen',  
+	'abtupfen, betupfen, T(t)upfen',  
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
 	'abzocken',  // abzocken:  
@@ -42,14 +42,14 @@ const a = [
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    // anbrechen:  
 	'anecken',      // anecken:   
-//	'anekeln, Ekel',      //  duplicated 
+	'anekeln, Ekel',      //  duplicated 
 	'anfauchen, fauchen', //  duplicated
 	'angeben, Angeber',  //   duplicated
 	'angeschickert', // angeschickert: 
 	'anglotzen, glotzen', //  duplicated 
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln:
-	'ankotzen, kotzen',  // duplicated   
+	'ankotzen, Kotze, kotzen',  // duplicated   
 	'anleinen',     // anleinen:  
 	'Anpfiff' ,     // Anpfiff:  
 	'anpflaumen',   // anpflaumen:  
@@ -149,14 +149,15 @@ const a = [
 	'aus dem Staub machen (sich)', //  duplicated
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
-	'ausbaldowern', // ausbaldowern:  
+	'ausbaldowern', // ausbaldowern:
+	'ausbügeln',  // ausbügeln:  
 	'ausbremsen', // ausbremsen:  
 	'ausbuddeln, buddeln', //   duplicated;   also pair with "einbuddeln" if found
 	'ausbüxen',    // ausbüxen:  
 	'Ausdünstung',  // Ausdünstung:  
 	'Ausfallstraße',   // Ausfallstraße:  
 	'ausfressen',   // ausfressen:  
-	'ausheben, Aushebung',  //   
+	'ausheben, Aushebung',     
 	'aushorchen',  // aushorchen:   
 	'ausklinken, einklinken',  // duplicated
 	'ausleiern', // ausleiern:
@@ -175,7 +176,8 @@ const a = [
 	'ausstaffieren',  // ausstaffieren:   
 	'ausstopfen',    // ausstopfen: 
 	'austoben (sich)',    
-	'austüfteln',  // austüfteln:  
+	'austüfteln',  // austüfteln:
+	'auswischen',  // auswischen:  
 	'auswringen', // auswringen:  
 ];
 

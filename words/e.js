@@ -18,7 +18,8 @@ const e = [
    'einkriegen (sich)',   
    'einkringeln',  // einkringeln:  
    'einlochen',  // einlochen:  
-   'einlullen',  // einlullen:  
+   'einlullen',  // einlullen:
+   'einnässen',  // einnässen:  
    'einnicken',  // einnicken:  
    'Einöde, öde',   // duplicated
    'einpferchen, pferchen', //  duplicated 
@@ -37,7 +38,7 @@ const e = [
    'Eintänzer',   // Eintänzer:  
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten:  
-  // 'Ekel, (an)ekeln, eklig', 
+   'Ekel, anekeln', 
    'Empore',     // Empore:  
    'entbieten',  // entbieten:  
    'entgegenfiebern',  // entgegenfiebern:  

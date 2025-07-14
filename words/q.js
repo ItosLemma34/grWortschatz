@@ -1,11 +1,11 @@
 const q = [
    'Quast', // Quast: 
-   'quellen, gequollen',  //  duplicated
+   'quellen, überquellen',  //  dupplicated
    'quengeln', // quengeln:
    'Quere (in die Q. kommen)', //  duplicated
    'Querschläger',  // Querschläger: 
    'Querschnitt', // Querschnitt: 
-   'quetschen, zerquetschen', //  duplicated
+   'quetschen, heraus-, zer-', 
    'quietschen',  // quietschen: 
    'quitt',  // quitt: 
 ];

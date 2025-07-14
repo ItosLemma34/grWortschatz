@@ -55,7 +55,8 @@ const g = [
    'getäfelt, täfeln', //   duplicated
    'Getümmel',  // Getümmel: 
    'Geturtel',  // Geturtel:    duplicate, if found with turteln
-   'Gewebe',    // Gewebe:  
+   'Gewebe',    // Gewebe:
+   'Gewehrkolben',  // Gewehrkolben:  
    'Gewese',    // Gewese:  
    'Gewimmel, wimmeln',  //  duplicated 
    'Gewirr',    // Gewirr: 

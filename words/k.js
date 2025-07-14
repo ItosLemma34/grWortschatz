@@ -9,7 +9,7 @@ const k = [
    'Kantholz',  // Kantholz: 
    'Karnickel', // Karnickel: 
    'Karree',   // Karree:   
-   'karren',  // karren: 
+   'karren, Karren',  //  
    'Kaschemme',  // Kaschemme: 
    'kaschieren', // kaschieren: 
    'Kassiber',  // Kassiber: 
@@ -96,7 +96,7 @@ const k = [
    'Korbstuhl',  // Korbstuhl:  
    'Kordel',  // Kordel: 
    'Kot, koten, Kotflügel', 
-   'kotzen, ankotzen', // duplicated 
+   'Kotze, kotzen, ankotzen', // duplicated 
    'krabbeln',  // krabbeln: 
    'krachen, Krach', 
    'Krähe, krähen',   
@@ -109,7 +109,8 @@ const k = [
    'Kratzbürstigkeit',  // Kratzbürstigkeit: 
    'kratzen',  // kratzen:  
    'kraulen',   // kraulen: 
-   'kräuseln',  // kräuseln:  
+   'kräuseln',  // kräuseln:
+   'kraxeln',  // kraxeln:  
    'kreischen', // kreischen: 
    'Kreisel',  // Kreisel:  
    'Kreissäge',  // Kreissäge: 

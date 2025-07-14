@@ -79,7 +79,8 @@ const v = [
    'versehentlich',  // versehentlich:  
 //   'versehren',   need more past examples
    'versengen',  // versengen:  
-   'versickern',  // versickern:  
+   'versickern',  // versickern: 
+   'versieben',  // versieben: 
    'versiegen',   // versiegen:
    'versprengen', // versprengen:   
    'verstauen',  // verstauen:  

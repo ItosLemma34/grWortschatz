@@ -21,10 +21,10 @@ const z = [
    'zerlumpt',    // zerlumpt:  
    'zermatschen',  // zermatschen: 
    'zerpflücken',  // zerpflücken: 
-   'zerquetschen, quetschen',  //  duplicated
    'zerren',      // zerren:  
    'zerschießen',  // zerschießen:  
-   'zerschunden',  // zerschunden:  
+   'zerschunden',  // zerschunden:
+   'zertrampeln',  // zertrampeln:  
    'zerwühlen',    // zerwühlen:  
    'zerzausen',    // zerzausen:  
    'Zeug (was das Z. hält)', //  duplicated

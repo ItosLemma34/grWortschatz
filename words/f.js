@@ -19,14 +19,16 @@ const f = [
    'festfressen (sich)',  
    'festzurren, zurren', //  duplicated  
    'Fettnäpfchen (ins F. treten)',  //  duplicated 
-   'Fetzen',  // Fetzen:  
+   'Fetzen',  // Fetzen: 
+   'Fichte',  // Fichte: 
    'filzen',  // filzen:  
    'Findling',   // Findling: 
    'fingieren',  // fingieren: 
    'Firlefanz',  // Firlefanz: 
    'Fischzug',   // Fischzug:  
    'Flachmann',  // Flachmann: 
-   'Flachpfeife', // Flachpfeife: 
+   'Flachpfeife', // Flachpfeife:
+   'flanieren',  // flanieren: 
    'Flappe (eine F. ziehen)', 
    'flapsig, Flapsigkeit',   
    'Flaschenzug', // Flaschenzug: 
@@ -61,6 +63,7 @@ const f = [
    'fummeln',    // fummeln:  
    'funzelig',   // funzelig:   
    'Furz',     // Furz:  
+   'Fußstapfe, stapfen',  // duplicated
    'Futter',  // Futter: 
  ];
 

@@ -34,7 +34,7 @@ const s = [
    'Schimmel, (ver)schimmeln', 
    'Schimmer (keinen blassen S.)', 
    'schimmern', // schimmern:  
-   'Schinder, schinden' , 
+   'Schinder, schinden', 
    'schlabbern', // schlabbern: 
    'Schlacke',  // Schlacke:
    'Schlagseite',  // Schlagseite: 
@@ -74,25 +74,25 @@ const s = [
    'schmökern', // schmökern: 
    'Schmuck, schmuck' , 
    'Schmuddel, -wetter, schmuddelig', 
-   'Schmunzeln, schmunzeln' , // *
-   'Schmutzfink',  // Schmutzfink:  *
-   'Schnalle, schnallen', //  *
-   'Schnapsidee' ,  // Schnapsidee:  *
+   'Schmunzeln, schmunzeln' , 
+   'Schmutzfink',  // Schmutzfink:  
+   'Schnalle, schnallen', //  
+   'Schnapsidee' ,  // Schnapsidee:  
    'schnarchen' ,  // schnarchen:
-   'schnarren',  // schnarren:  *
-   'schnattern (in einem fort)',  // * duplicated
-   'schnauben', // schnauben: *
-   'schnaufen',  // schnaufen: *
-   'schneidig',  // schneidig: *
-   'Schneise',  // Schneise: *
-   'schnieke',  // schnieke:  *
-   'schnippen',  // schnippen: *
-   'schnippisch' , // schnippisch: *
-   'schnörkelig, Schnörkel' , //  *
-   'schnorren, anschnorren', // *  duplicated
-   'Schnösel' ,  // Schnösel:  *
-   'schnuppern, erschnuppern' ,  //  * duplicated
-   'Schnur', //  Schnur: *
+   'schnarren',  // schnarren:  
+   'schnattern (in einem fort)',  //  duplicated
+   'schnauben', // schnauben: 
+   'schnaufen',  // schnaufen: 
+   'schneidig',  // schneidig: 
+   'Schneise',  // Schneise: 
+   'schnieke',  // schnieke:  
+   'schnippen',  // schnippen: 
+   'schnippisch', // schnippisch: 
+   'schnörkelig, Schnörkel', 
+   'schnorren, anschnorren', //   duplicated
+   'Schnösel' ,  // Schnösel:  
+   'schnuppern, erschnuppern' ,  //   duplicated
+   'Schnur, schnüren',
    'schnurstracks', // schnurstracks: 
 //   'schnurzegal, schnurz­pie­pe', //  make duplicate if example of "schnurzegal found"
    'schnurz­pie­pe, schnurzegal', //   make duplicate if example of "schnurzegal found"
@@ -120,7 +120,8 @@ const s = [
    'schütten, verschütten, zuschütten',  // triplicated:         
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
-   'Schütze',  // Schütze:  
+   'Schütze',  // Schütze:
+   'Schwaden', // Schwaden:  
    'schwafeln', // schwafeln 
    'schwanen', // schwanen:  
    'Schwanz einziehen/einkneifen', 
@@ -134,6 +135,7 @@ const s = [
    'Seil',  // Seil: 
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
+   'Sims',  //  Sims:
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  
    'Sore',  // Sore: 
@@ -168,7 +170,7 @@ const s = [
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
    'Stapel, stapeln', 
-   'stapfen',  // stapfen:  
+   'stapfen, Fußstapfe',   // duplicated
    'starren (vor Schmutz starren)', 
    'Statist', // Statist:  
    'Stativ',  // Stativ:  

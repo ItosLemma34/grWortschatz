@@ -45,6 +45,7 @@ const h = [
    'heucheln', // heucheln: 
    'heulen',  // heulen:  
    'hieven',  // hieven: 
+//   'hinhalten',  // hinhalten:
    'hinterlistig',  // hinterlistig: 
    'hinters Licht führen', 
    'hobeln', // hobeln: 

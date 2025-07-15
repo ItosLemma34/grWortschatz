@@ -15,6 +15,7 @@ const u = [
    'ummähen' ,  // ummähen: 
    'umpflügen',  // umpflügen:  
    'umständlich',  // umständlich: 
+   'Umstandskrämer',  //  Umstandskrämer:
    'umzingeln' ,  // umzingeln: 
    'unbehelligt, behelligen', //  duplicated
    'unbescholten', // unbescholten: 

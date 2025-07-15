@@ -33,7 +33,8 @@ const b = [
     'Beritt, beritten',  //   
     'bescheuert',  // bescheuert: 
     'Besen',      // Besen:  
-    'Besteck',    // Besteck:    
+    'Besteck',    // Besteck:
+    'besudeln',  // besudeln:    
   //  'betreten',   // betreten:  Finish with betreten from Lunapark 
     'Bettfeder',  // Bettfeder:   
     'betupfen, abtupfen, T(t)upfen',   //  triplicated  

@@ -12,6 +12,7 @@ const f = [
    'Fass',  // Fass:   
    'Fatzke', // Fatzke: 
    'fauchen, anfauchen', //  duplicated 
+   'Faustpfand',  // Faustpfand:
    'fegen',  // fegen:  
    'feilbieten',  // feilbieten:  
    'feilschen',  // feilschen:  

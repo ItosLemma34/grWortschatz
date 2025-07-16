@@ -40,7 +40,8 @@ const z = [
    'zittern, zittrig, erzittern', // duplicated 
    'zockeln',  // zockeln: 
    'zocken', // zocken: 
-   'Zopf',  // Zopf: 
+   'Zopf',  // Zopf:
+   'zu Kreuze kriechen',  //  duplicated 
    'zu nahe treten',   
    'zu schade sein',  //  duplicated
    'Zucht',   // Zucht: 
@@ -54,7 +55,6 @@ const z = [
    'zuprosten',  // zuprosten: 
    'zurren, festzurren',  //  duplicated
    'zuschanzen',  // zuschanzen: 
-   'zuschütten, schütten, verschütten',  // triplicated
    'Zuspruch',  // Zuspruch: 
    'zuwanken',   // zuwanken: 
    'Zwang (keinen Z. antun)', 

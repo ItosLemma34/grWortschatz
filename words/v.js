@@ -74,7 +74,6 @@ const v = [
    'verschollen' , // verschollen:  
    'verschorft, verschorfen',   
    'verschrumpeln',  // verschrumpeln:  
-   'verschütten, schütten, zuschütten',  // triplicated        
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
 //   'versehren',   need more past examples

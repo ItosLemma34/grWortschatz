@@ -172,6 +172,7 @@ const a = [
 	'ausscheren',   // ausscheren:  
 	'ausschlachten', // ausschlachten:  
 	'ausschwärmen',  // ausschwärmen: 
+	'Ausschweifung',  // Ausschweifung:
 	'ausspucken',   // ausspucken: 
 	'ausstaffieren',  // ausstaffieren:   
 	'ausstopfen',    // ausstopfen: 

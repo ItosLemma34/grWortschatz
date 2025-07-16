@@ -59,6 +59,7 @@ const s = [
    'schlüpfen', // schlüpfen: 
    'Schlüpfer',  // Schlüpfer: 
    'schlüpfrig', // schlüpfrig: 
+   'schlurfen',  // schlurfen:
    'Schmach', // Schmach:  
    'schmachten, anschmachten', //  duplicated
    'schmächtig', // schmächtig:  
@@ -117,7 +118,7 @@ const s = [
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated
    'Schüssel, Kloschüssel',  //  duplicate
-   'schütten, verschütten, zuschütten',  // triplicated:         
+   'schütten, aus-, ver-, zu-',          
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
    'Schütze',  // Schütze:

@@ -23,9 +23,25 @@ zzz: [
 	'<u>Lunapark</u>',   
 ],
 */ 
+qualmen: [  
+	'<strong>qualmen</strong>: smoke (like a chimney)'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/qualmen"target="target1">qualmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/qualmen"target="target2">qualmen</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/qualmen"target="target3">qualmen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/qualmen"target="target4">qualmen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem Strauch, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem Strauchgeäst. Die Jungen <strong>qualmten</strong> fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',  
+//	'<u>Märzgefallene</u>',    
+//	'<u>Lunapark</u>',   
+],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)',  (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
+absäbeln: [  
+	'<strong>absäbeln</strong>: cut/hack off'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/absaebeln"target="target1">absäbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abs%C3%A4beln"target="target2">absäbeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abs%C3%A4beln&id=verb%3Aabsa3beln"target="target3">absäbeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/abs%C3%A4beln"target="target4">absäbeln</a>',
+	'<u>Lunapark</u>',
+	'Johann Marlow sagte nichts, er wandte sich seinem Teller zu. Doch die Art und Weise, wie er ein Stück von seinem Schnitzel <strong>absäbelte</strong>, zeigte ihr unmissverständlich, dass sie besser nicht weiter nachfragte. (<i>Lunapark</i>, 519)',
+],
 Abordnung: [  
 	'<strong>Abordnung</strong>: delegation'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Abordnung"target="target1">Abordnung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Abordnung"target="target2">Abordnung</a>'+
@@ -33,7 +49,8 @@ Abordnung: [
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',
-	'<i>Charly</i>: "Das SA-Feldjägerkorps hat immer seine schützende Hand über Lapkes SA-Sturm gehalten. Und nun bringt Ihnen (<i>Marlow</i>) eine FJK-<strong>Abordnung</strong> Ihren größten Konkurrenten (<i>Lapke</i>)? Den Mann, der Sie und Ihre Organisation vor einem Jahr beinahe zerstört hätte?" (<i>Lunapark</i>, 517)',   
+	'<i>Gennat</i>: "Sie (<i>Rath</i>) melden sich morgen früh wieder beim Kollegen Gräf. Und folgen Sie den Anweisungen der Staatspolizei.. Also bitte: keine Alleingänge." Spätestens da war Rath klar geworden, dass der Buddha ihn nicht nur wegen Befangenheit zurückgeschickt hatte, sondern mit der <strong>Abordnung</strong> zur Staatspolizei auch einen unbotmäßigen Kommissar bestrafen wollte. (<i>Lunapark</i>, 234)' ,
+	'<i>Charly</i>: "Das SA-Feldjägerkorps hat immer seine schützende Hand über Lapkes SA-Sturm gehalten. Und nun bringt Ihnen (<i>Marlow</i>) eine FJK-<strong>Abordnung</strong> Ihren größten Konkurrenten? Den Mann (<i>Lapke</i>), der Sie und Ihre Organisation vor einem Jahr beinahe zerstört hätte?" (<i>Lunapark</i>, 517)',   
 ],
 Joppe: [  
 	'die <strong>Joppe</strong>,-<strong>n</strong>: (casual) jacket'+
@@ -1441,6 +1458,7 @@ rasseln: [
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rasseln"target="target3">rasseln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/rasseln"target="target4">rasseln</a>',
 	'<u>Der nasse Fisch</u>', 
 	'Viel geschlafen hatte er nicht. Hatten sie (<i>Gereon und Charly</i>) nicht. Rath lag schon wach, als der Zeiger einrastete und die <strong>rasselnde</strong> Glocke auslösen wollte. Mit einem schnellen Schlag stoppte er das blecherne Monstrum auf dem Nachttisch, bevor es Lärm machen konnte. (<i>Der nasse Fisch</i>, 192)',
+	'Langsam machte er (<i>Rath</i>) Fortschritte. Der Abstand zwischen ihm und Napoleon verringerte sich. Er hatte den Kater fast erreicht, da ertönte das heisere metallische <strong>Rasseln</strong> einer Schulklingel. Große Pause in der Volksschule. (<i>Der nasse Fisch</i>, 426)',
 	'<u>Märzgefallene</u>',
 	'Dennoch hatte Steinke gute Chancen, die Prüfungen zu bestehen, and dann wäre er als Kommissar der Vorgesetzte von Männern wie Gräf, dem leider der Ehrgeiz fehlte, die Kommissarsprüfung abzulegen, der aber der weitaus bessere Kriminalist war. Böhms einzige Hoffnung war, dass Steinke vielleicht doch durch die Prüfung <strong>rasselte</strong>, es gab schon mehr als genung unfähige Kriminalkommissare am Alex. (<i>Märzgefallene</i>, 12)',    
 	'Das Rasseln eines Schlüsselbundes ließ sie (<i>Hannah</i>) zusammenfahren. (<i>Märzgefallene</i>, 172)',    
@@ -1964,31 +1982,33 @@ jaulen: [
 	'Die Kellnerin hatte gerade zwei Kännchen Kaffee gebracht, da <strong>jaulte</strong> das Signal eines Überfallwagens über die Schlesische Straße. Das <strong>Jaulen</strong> wurde immer lauter, und kurz darauf war der Wagen zu sehen.  (<i>Lunapark</i>, 319)',  
 ],
 'Strauch, Gesträuch': [
-	'das <strong>Gesträuch</strong>,-<strong>e</strong>: bushes, shrubbery'+
-	'<br>der <strong>Strauch</strong>, die <strong>Sträucher</strong>: bushes, shrubbery'+
+	'der <strong>Strauch</strong>, die <strong>Sträucher</strong>: shrub, bush'+
+	'<br>das <strong>Gesträuch</strong>,-<strong>e</strong>: shrubbery, bushes, thicket'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gesträuch"target="target2">Gesträuch</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strauch"target="target3">Strauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gesträuch"target="target4">Gesträuch</a>',
-//	'<u>Der nasse Fisch</u>',   
+	'<u>Der nasse Fisch</u>', 
+	'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem <strong>Strauch</strong>, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem <strong>Strauch</strong>geäst. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',  
 	'<u>Märzgefallene</u>',   
 	'Wie ein pelziger Flaum überzog maigrünes Grass die Buckellandschaft, dazwischen <strong>Sträucher</strong> und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
 	'Und dann, mitten in der Landschaft, weit weg vom nächsten Dorf, wussten sie (<i>Gereon und Charly</i>) wieder, wo sie waren. Der Stein war schon von Weitem zu sehen, der Wald, von dem Roddeck geschrieben hatte, war wohl den letzten beiden Kriegsjahren noch zum Opfer gefallen. Auch hier nur Grasflaum, ein bisschen <strong>Gesträuch</strong>, junge Birken. (<i>Märzgefallene</i>, 600-601)',
 	'<u>Lunapark</u>', 
-	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte.  (<i>Lunapark</i>, 80)',
+	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte. (<i>Lunapark</i>, 80)',
 	'Da tat sich etwas. Die <strong>Sträucher</strong> an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks wucherte, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
 	'Lange schaute sich um. Der Platz war riesig, fast schon ein kleiner Park. Jede Menge Bäume und <strong>Sträucher</strong> und mittendrin die Brunnenbaustelle. (<i>Lunapark</i>, 323)',
 	'Hier irgendwo musste es gewesen sein. Hier musste Leo Juretzka aus dem Lunapark gekommen sein. Eine zur Parkumzäunung leicht ansteigende Böschung, dichtes, dorniges <strong>Gesträuch</strong>. Und dahinter ragte das künstliche Gebirge der Berg- und Talbahn dunkel and schwarz in die Höhe.  (<i>Lunapark</i>, 368)',
 ],
 'Gesträuch, Strauch': [
-	'das <strong>Gesträuch</strong>,-<strong>e</strong>: bushes, shrubbery'+
-	'<br>der <strong>Strauch</strong>, die <strong>Sträucher</strong>: bushes, shrubbery'+
+	'der <strong>Strauch</strong>, die <strong>Sträucher</strong>: shrub, bush'+
+	'<br>das <strong>Gesträuch</strong>,-<strong>e</strong>: shrubbery, bushes, thicket'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Strauch"target="target1">Strauch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gesträuch"target="target2">Gesträuch</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strauch"target="target3">Strauch</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gesträuch"target="target4">Gesträuch</a>',
-//	'<u>Der nasse Fisch</u>',   
+	'<u>Der nasse Fisch</u>', 
+	'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem <strong>Strauch</strong>, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem <strong>Strauch</strong>geäst. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',  
 	'<u>Märzgefallene</u>',   
 	'Wie ein pelziger Flaum überzog maigrünes Grass die Buckellandschaft, dazwischen <strong>Sträucher</strong> und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
 	'Und dann, mitten in der Landschaft, weit weg vom nächsten Dorf, wussten sie (<i>Gereon und Charly</i>) wieder, wo sie waren. Der Stein war schon von Weitem zu sehen, der Wald, von dem Roddeck geschrieben hatte, war wohl den letzten beiden Kriegsjahren noch zum Opfer gefallen. Auch hier nur Grasflaum, ein bisschen <strong>Gesträuch</strong>, junge Birken. (<i>Märzgefallene</i>, 600-601)',
 	'<u>Lunapark</u>', 
-	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte.  (<i>Lunapark</i>, 80)',
+	'Als er (<i>Rath</i>) den Wagen anließ und über den Steinplatz rollte, erspähte er Fritze in den Grünanlagen, mit Kirie, die gerade an einem <strong>Strauch</strong> schnupperte. (<i>Lunapark</i>, 80)',
 	'Da tat sich etwas. Die <strong>Sträucher</strong> an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks wucherte, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
 	'Lange schaute sich um. Der Platz war riesig, fast schon ein kleiner Park. Jede Menge Bäume und <strong>Sträucher</strong> und mittendrin die Brunnenbaustelle. (<i>Lunapark</i>, 323)',
 	'Hier irgendwo musste es gewesen sein. Hier musste Leo Juretzka aus dem Lunapark gekommen sein. Eine zur Parkumzäunung leicht ansteigende Böschung, dichtes, dorniges <strong>Gesträuch</strong>. Und dahinter ragte das künstliche Gebirge der Berg- und Talbahn dunkel and schwarz in die Höhe.  (<i>Lunapark</i>, 368)',
@@ -7244,6 +7264,8 @@ gesittet: [
 	'<br>das <strong>Geäst</strong>: branches, boughs, branchwork'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ast"target="target1">Ast</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ge%C3%A4st"target="target2">Geäst</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ast"target="target3">Ast</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geast"target="target4">Geäst</a>',
+	'<u>Der nasse Fisch</u>',
+	'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem Strauch, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem Strauch<strong>geäst</strong>. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',  
 	'<u>Märzgefallene</u>',
 	'<i>Engelbert Rath</i>: "Erst kriegen die Nazis bei der Reichstagswahl ihren Denkzettel, eine Woche später bei der Kommunalwahl, und dann ist der Spuk vorüber. Die haben im November schon Millionen Stimmen verloren, die sind doch auf dem absteigenden <strong>Ast</strong>."  (<i>Märzgefallene</i>, 34)',
 	'Dann musste er (<i>Rath</i>) an Adenauers Worte denken: <i>Hitler hätte man mit jewalt entjejentreten müssen, schon vor einem Jahr. Nu isset zu spät</i>. War es das wirklkich? Wurde am Sonntag nicht gewählt? Die Nazis waren doch sowieso auf dem absteigenden <strong>Ast</strong>, man musste nur Geduld haben...  (<i>Märzgefallene</i>, 77)',
@@ -7256,6 +7278,8 @@ gesittet: [
 	'<br>das <strong>Geäst</strong>: branches, boughs, branchwork'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ast"target="target1">Ast</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ge%C3%A4st"target="target2">Geäst</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ast"target="target3">Ast</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geast"target="target4">Geäst</a>',
+	'<u>Der nasse Fisch</u>',
+	'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem Strauch, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem Strauch<strong>geäst</strong>. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',  
 	'<u>Märzgefallene</u>',
 	'<i>Engelbert Rath</i>: "Erst kriegen die Nazis bei der Reichstagswahl ihren Denkzettel, eine Woche später bei der Kommunalwahl, und dann ist der Spuk vorüber. Die haben im November schon Millionen Stimmen verloren, die sind doch auf dem absteigenden <strong>Ast</strong>."  (<i>Märzgefallene</i>, 34)',
 	'Dann musste er (<i>Rath</i>) an Adenauers Worte denken: <i>Hitler hätte man mit jewalt entjejentreten müssen, schon vor einem Jahr. Nu isset zu spät</i>. War es das wirklkich? Wurde am Sonntag nicht gewählt? Die Nazis waren doch sowieso auf dem absteigenden <strong>Ast</strong>, man musste nur Geduld haben...  (<i>Märzgefallene</i>, 77)',
@@ -8321,17 +8345,19 @@ heimzahlen: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 heiser: [
-	'<strong>heiser</strong>: hoarse, raspy, gravelly ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/heiser"target="target1">heiser</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/heiser"target="target2">heiser</a>' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/heiser"target="target3">heiser</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/heiser"target="target4">heiser</a>' ,
+	'<strong>heiser</strong>: hoarse, raspy, gravelly'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/heiser"target="target1">heiser</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/heiser"target="target2">heiser</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/heiser"target="target3">heiser</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/heiser"target="target4">heiser</a>',
+	'<u>Der nasse Fisch</u>',
+	'Langsam machte er (<i>Rath</i>) Fortschritte. Der Abstand zwischen ihm und Napoleon verringerte sich. Er hatte den Kater fast erreicht, da ertönte das <strong>heisere</strong> metallische Rasseln einer Schulklingel. Große Pause in der Volksschule. (<i>Der nasse Fisch</i>, 426)',
 	'<u>Märzgefallene</u>',
-	'Ihre Tür hatte von innen keine Klinke, dennoch wusste sie, dass er jetzt draußen stand und die Klinke drückte. Sie sah den Schatten vor dem kleinen Glasfenster und hörte das <strong>heisere</strong> Schaben, als die Tür sich  öffnete.  (<i>Märzgefallene</i>, 67)' ,
-	'"Fritze", sagte Hannah und wusste selber nicht, wie dieses Wort auf ihre Lippen gelangt war. Es war das erste Wort, das sie seit vier Tagen gesprochen hatte, entsprechend kratzig klang es. Als habe ihr jemand die Stimme gestohlen und ihr nur den <strong>heiseren</strong> Teil wieder zurückgegeben. Aber die Frau (<i>Charly</i>) schien sich über ihr Gekrächze zu freuen.   (<i>Märzgefallene</i>, 436)' ,
-	'Rath blieb zurück und lauschte auf die Motorengeräusche, auf das sonore Brummen des Mercedes, auf das <strong>heisere</strong> Scheppern des Opels, der kurz darauf denselben Weg einschlug.  (<i>Märzgefallene</i>, 444)' ,
-	'"Ich wollte doch nur, dass er aufhört", sagte Fritze, "ich hab so lange zugestochen, bis er endlich aufgehört hat." <i>Hannah</i>: "Lass uns über andere Dinge reden." Sie klang immer noch <strong>heiser</strong>. (<i>Märzgefallene</i>, 444)' ,
-	'Roddeck fasste einen Entschluss und drehte sich zu den beiden Studenten um. Er musste sich gar nicht viel Mühe geben, <strong>heiser</strong> zu klingen, die panishce Angst, die gerade in ihm hochkroch, hatte sich auch auf seine Stimme gelegt.  (<i>Märzgefallene</i>, 557-58)' ,
+	'Ihre Tür hatte von innen keine Klinke, dennoch wusste sie, dass er jetzt draußen stand und die Klinke drückte. Sie sah den Schatten vor dem kleinen Glasfenster und hörte das <strong>heisere</strong> Schaben, als die Tür sich  öffnete. (<i>Märzgefallene</i>, 67)',
+	'"Fritze", sagte Hannah und wusste selber nicht, wie dieses Wort auf ihre Lippen gelangt war. Es war das erste Wort, das sie seit vier Tagen gesprochen hatte, entsprechend kratzig klang es. Als habe ihr jemand die Stimme gestohlen und ihr nur den <strong>heiseren</strong> Teil wieder zurückgegeben. Aber die Frau (<i>Charly</i>) schien sich über ihr Gekrächze zu freuen. (<i>Märzgefallene</i>, 436)',
+	'Rath blieb zurück und lauschte auf die Motorengeräusche, auf das sonore Brummen des Mercedes, auf das <strong>heisere</strong> Scheppern des Opels, der kurz darauf denselben Weg einschlug. (<i>Märzgefallene</i>, 444)',
+	'"Ich wollte doch nur, dass er aufhört", sagte Fritze, "ich hab so lange zugestochen, bis er endlich aufgehört hat." <i>Hannah</i>: "Lass uns über andere Dinge reden." Sie klang immer noch <strong>heiser</strong>. (<i>Märzgefallene</i>, 444)',
+	'Roddeck fasste einen Entschluss und drehte sich zu den beiden Studenten um. Er musste sich gar nicht viel Mühe geben, <strong>heiser</strong> zu klingen, die panishce Angst, die gerade in ihm hochkroch, hatte sich auch auf seine Stimme gelegt. (<i>Märzgefallene</i>, 557-58)',
 	'<u>Lunapark</u>',
-	'<i>Brachwitz</i> stand an der Tür, und er (<i>Rath</i>) drückte auf den Klingelknopf. In der Wohnung ertönte ein <strong>heiseres</strong> Scheppern, gleich darauf hörte er Schritte.  (<i>Lunapark</i>, 186)' ,
+	'<i>Brachwitz</i> stand an der Tür, und er (<i>Rath</i>) drückte auf den Klingelknopf. In der Wohnung ertönte ein <strong>heiseres</strong> Scheppern, gleich darauf hörte er Schritte.  (<i>Lunapark</i>, 186)',
 ],
 'hetzen, gehetzt': [
 	'<strong>hetzen</strong>: hurry, hustle; hound, sic on'+
@@ -14562,14 +14588,14 @@ umpflügen: [
 	'Wir brauchen einen Fixpunkt in der Landschaft, einen unzerstörbaren Orientierungspunkt.... Es gibt da einen Findling, draußen im Wald an der Straße nach Cambrai, einen riesigen Fels, dem nicht einmal die stärksten Granaten etwas anhaben könnten, selbst wenn sie das Gelände ringsumher <strong>umpflügen</strong> sollten. Dorthin werden wir das Gold bringen.... (<i>Märzgefallene</i>, 166)' ,
 ],
 unbotmäßig: [
-	'<strong>unbotmäßig</strong>: insubordinate ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unbotmaeszig"target="target1">unbotmäßig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unbotm%C3%A4%C3%9Fig"target="target2">unbotmäßig</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=unbotm%C3%A4%C3%9Fig"target="target3">unbotmäßig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=unbotm%C3%A4%C3%9Fig"target="target4">unbotmäßig</a>' ,
+	'<strong>unbotmäßig</strong>: insubordinate'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unbotmaeszig"target="target1">unbotmäßig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unbotm%C3%A4%C3%9Fig"target="target2">unbotmäßig</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=unbotm%C3%A4%C3%9Fig"target="target3">unbotmäßig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=unbotm%C3%A4%C3%9Fig"target="target4">unbotmäßig</a>',
 	'<u>Märzgefallene</u>',
-	'Sein (<i>Gereons</i>) Mitleid hielt sich in Grenzen. Wie oft hatte Böhm selbst den <strong>unbotmäßigen</strong> Kriminalkommissar Gereon Rath zum Rapport antreten lassen? Nun konnte die Bulldogge am eigenen Leib die Erfahrung machen, was es hieß, wenn die Vorgesetzten einen triezten. (<i>Märzgefallene</i>, 129)' ,
-	'Also hatte der Polizeipräsident (<i>Levetzow</i>) den <strong>unbotmäßigen</strong> Kommissar, der ihm den jüdischen Meuchelmörder trotz ausdrücklichen Befehls immer noch nicht geliefert hatte, weder tot noch lebendig, am Montagmorgen erneut zum Rapport befohlen. (<i>Märzgefallene</i>, 356)' ,
+	'Sein (<i>Gereons</i>) Mitleid hielt sich in Grenzen. Wie oft hatte Böhm selbst den <strong>unbotmäßigen</strong> Kriminalkommissar Gereon Rath zum Rapport antreten lassen? Nun konnte die Bulldogge am eigenen Leib die Erfahrung machen, was es hieß, wenn die Vorgesetzten einen triezten. (<i>Märzgefallene</i>, 129)',
+	'Also hatte der Polizeipräsident (<i>Levetzow</i>) den <strong>unbotmäßigen</strong> Kommissar, der ihm den jüdischen Meuchelmörder trotz ausdrücklichen Befehls immer noch nicht geliefert hatte, weder tot noch lebendig, am Montagmorgen erneut zum Rapport befohlen. (<i>Märzgefallene</i>, 356)',
 	'<u>Lunapark</u>',
-	'<i>Gennat</i>: "Sie (<i>Rath</i>) melden sich morgen früh wieder beim Kollegen Gräf. Und folgen Sie den Anweisungen der Staatspolizei.. Also bitte: keine Alleingänge." Spätestens da war Rath klar geworden, dass der Buddha ihn nicht nur wegen Befangenheit zurückgeschickt hatte, sonder mit der Abordnung zur Staatspolizei auch einen <strong>unbotmäßigen</strong> Kommissar bestrafen wollte.  (<i>Lunapark</i>, 234)' ,
+	'<i>Gennat</i>: "Sie (<i>Rath</i>) melden sich morgen früh wieder beim Kollegen Gräf. Und folgen Sie den Anweisungen der Staatspolizei.. Also bitte: keine Alleingänge." Spätestens da war Rath klar geworden, dass der Buddha ihn nicht nur wegen Befangenheit zurückgeschickt hatte, sondern mit der Abordnung zur Staatspolizei auch einen <strong>unbotmäßigen</strong> Kommissar bestrafen wollte. (<i>Lunapark</i>, 234)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -16755,13 +16781,14 @@ zwinkern: [
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zwirbeln: [
-	'<strong>zwirbeln</strong>: twirl ' +
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwirbeln"target="target1">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zwirbeln"target="target2">zwirbeln</a>  ' +
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwirbeln"target="target3">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwirbeln"target="target4">zwirbeln</a>    ' ,
+	'<strong>zwirbeln</strong>: twirl'+
+	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwirbeln"target="target1">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zwirbeln"target="target2">zwirbeln</a>'+
+	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zwirbeln"target="target3">zwirbeln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zwirbeln"target="target4">zwirbeln</a>',
 	'<u>Der nasse Fisch</u>',
-	'Dieser Mann trug nichts außer dem nach oben <strong>gezwirbelten</strong> Schnurrbart und einer imposanten Erektion. (<i>Der nasse Fisch</i>, 13)' ,
+	'Dieser Mann trug nichts außer dem nach oben <strong>gezwirbelten</strong> Schnurrbart und einer imposanten Erektion. (<i>Der nasse Fisch</i>, 13)',
+	'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem Strauch, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf <strong>zwirbelten</strong> weiße Rauchfahnen aus dem Strauchgeäst. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',  
 	'<u>Märzgefallene</u>',
-	'Die Reichswehr hatte tatsächlich noch etwas in ihren Archiven gefunden, sogar ein Foto dieses Hauptmanns Engel war beigefügt, das Foto eines stolzen Hauptmanns mit <strong>gezwirbeltem</strong> Schnurrbart.... (<i>Märzgefallene</i>, 257)' ,
+	'Die Reichswehr hatte tatsächlich noch etwas in ihren Archiven gefunden, sogar ein Foto dieses Hauptmanns Engel war beigefügt, das Foto eines stolzen Hauptmanns mit <strong>gezwirbeltem</strong> Schnurrbart.... (<i>Märzgefallene</i>, 257)',
 ],
 Zwirn: [
 	'der <strong>Zwirn</strong>,-<strong>e</strong>: strong thread, cloth; suit (clothes)'+

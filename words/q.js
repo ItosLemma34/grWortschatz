@@ -1,4 +1,5 @@
 const q = [
+   'qualmen',  // qualmen:
    'Quast', // Quast: 
    'quellen, überquellen',  //  dupplicated
    'quengeln', // quengeln:

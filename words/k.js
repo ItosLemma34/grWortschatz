@@ -83,7 +83,7 @@ const k = [
    'Knochen/Kopf hinhalten', 
    'knorke',  // knorke:
    'knorrig',  // knorrig: 
-   'knuffen',  // knuffen:  
+   'Knuff, knuffen',    
    'knüllen, zerknüllen',  //    duplicated
    'Knüller',  // Knüller: 
    'Knüppel', // Knüppel: 
@@ -126,7 +126,8 @@ const k = [
    'Kröte (K. schlucken)', 
    'Krümel',  // Krümel: 
    'krümmen (sich)',// 
-   'kullern', // kullern: 
+   'kullern', // kullern:
+   'Kumpel', // Kumpel: 
    'kundschaften', // kundschaften:  
    'Kuppel',  // Kuppel: 
    'kurbeln', // kurbeln: 

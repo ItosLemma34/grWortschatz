@@ -12,7 +12,8 @@ const v = [
    'verdonnern' , // verdonnern: 
    'verdruckst',  //verdruckst: 
    'verdünnisieren (sich)' , 
-   'verdunsten',  // verdunsten:  
+   'verdunsten',  // verdunsten: 
+   'verdutzt',  // verdutzt: 
    'verflachen', // verflachen:  
    'verfilzen' ,  //verfilzen:  
   // 'verflixt',  open with more examples

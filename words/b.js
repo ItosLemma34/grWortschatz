@@ -35,7 +35,7 @@ const b = [
     'Besen',      // Besen:  
     'Besteck',    // Besteck:
     'besudeln',  // besudeln:    
-  //  'betreten',   // betreten:  Finish with betreten from Lunapark 
+    'betreten',   // betreten:  
     'Bettfeder',  // Bettfeder:   
     'betupfen, abtupfen, T(t)upfen',   //  triplicated  
     'Beule, beulen',   

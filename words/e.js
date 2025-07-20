@@ -10,7 +10,8 @@ const e = [
    'eindösen, dösen', //   duplicated
    'Eindruck schinden',   
    'einfädeln',  // einfädeln:
-   'einflößen',  // einflößen: 
+   'einflößen',  // einflößen:
+   'einfrieden', // einfrieden: 
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: 
    'einkerben',  // einkerben:

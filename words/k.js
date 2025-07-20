@@ -115,7 +115,8 @@ const k = [
    'Kreisel',  // Kreisel:  
    'Kreissäge',  // Kreissäge: 
    'Krempe',  // Krempe: 
-   'Krempel',  // Krempel: 
+   'Krempel',  // Krempel:
+   'Kreuz (über K. sein, liegen)', // duplicated 
    'Kreuze (zu K. kriechen)',  // duplicated
    'kreuzfidel', // kreuzfidel: 
    'Kribbeln',  // Kribbeln: 

@@ -1,5 +1,6 @@
 const u = [
-   'über alle Berge',  
+   'über alle Berge',
+   'über Kreuz sein, liegen', // duplicated  
    'über den Haufen', 
    'über den Tisch ziehen', 
    'über die Bühne gehen',  

@@ -15,6 +15,7 @@ const a = [
 	'Ablage',     // Ablage:  
 	'abluchsen',  // abluchsen: 
 	'Abordnung',  // Abordnung:
+	'abpassen',   // abpassen:
 	'absäbeln',  //  absäbeln:
 	'abschüssig',  // abschüssig:  
 	'abspecken',  // abspecken:

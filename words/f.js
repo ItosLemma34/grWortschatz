@@ -13,6 +13,7 @@ const f = [
    'Fatzke', // Fatzke: 
    'fauchen, anfauchen', //  duplicated 
    'Faustpfand',  // Faustpfand:
+   'Feder',  //  Feder:
    'fegen',  // fegen:  
    'feilbieten',  // feilbieten:  
    'feilschen',  // feilschen:  

@@ -5,6 +5,7 @@ const k = [
    'Kaffeekränzchen',  // Kaffeekränzchen: 
    'kahl',  // kahl: 
    // Kahn -- pair with Lastkahn if "Kahn" found
+   'Kanapee', // Kanapee:
    'Kanne',  // Kanne:
    'Kantholz',  // Kantholz: 
    'Karnickel', // Karnickel: 
@@ -119,7 +120,8 @@ const k = [
    'Kreuz (über K. sein, liegen)', // duplicated 
    'Kreuze (zu K. kriechen)',  // duplicated
    'kreuzfidel', // kreuzfidel: 
-   'Kribbeln',  // Kribbeln: 
+   'Kribbeln',  // Kribbeln:
+   'Krimskrams',  // Krimskrams: 
    'Kringel',  //Kringel: 
    'Kritikaster',  // Kritikaster: 
    'kritzeln' ,  // kritzeln: 

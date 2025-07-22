@@ -80,7 +80,8 @@ const v = [
 //   'versehren',   need more past examples
    'versengen',  // versengen:  
    'versickern',  // versickern: 
-   'versieben',  // versieben: 
+   'versieben',  // versieben:
+   'versiegeln, Siegel', 
    'versiegen',   // versiegen:
    'versprengen', // versprengen:   
    'verstauen',  // verstauen:  

@@ -48,6 +48,7 @@ const s = [
    'schleifen, Schleifer',  
    'schlendern' , // schlendern: 
    'Schlendrian', // Schlendrian: 
+   'Schlenker',  // Schlenker:
    'Schleuse, schleusen', 
    'Schliche (auf die S. kommen)', //  duplicated
    'Schliere, schlieren', 
@@ -136,6 +137,7 @@ const s = [
    'Seil',  // Seil: 
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
+   'Siegel, versiegeln',
    'Sims',  //  Sims:
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  

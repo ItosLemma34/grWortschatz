@@ -47,6 +47,7 @@ const a = [
 	'anecken',      // anecken:   
 	'anekeln, Ekel',      //  duplicated 
 	'anfauchen, fauchen', //  duplicated
+	'anflehen',  // anflehen: * add flehen, make dupicated
 	'angeben, Angeber',  //   duplicated
 	'angeschickert', // angeschickert: 
 	'anglotzen, glotzen', //  duplicated 
@@ -79,6 +80,7 @@ const a = [
 	'anwidern',     // anwidern: 
 	'Anzeige erstatten',
 	'anzetteln',  // anzetteln:  
+	'anzüglich',  //  anzüglich:
 //	'anzwinkern',  // anzwinkern:  excluded, for now; if include, include also zuzwinkern?
 	'apportieren', // apportieren: 
 	'Areal' ,  // Areal: 
@@ -100,7 +102,7 @@ const a = [
 	'auf den Schlips treten', //  duplicated
 	'auf den Strich gehen', //  duplicated
 	'auf den Wecker gehen', //  duplicated
-	'auf den Zahn fühlen',  //  duplicated
+	'auf den Zahn fühlen',  //  duplicated *
 	'auf der Hut sein',  //  duplicated
 	'auf der Nase herumtanzen',  //   duplicated
 	'auf die Nase binden',  //  duplicated
@@ -133,6 +135,7 @@ const a = [
 	'aufpäppeln',  // aufpäppeln:  
 //	'aufplustern', // aufplustern:  
 	'aufputschen',  // aufputschen: 
+	'aufrappeln, hochrappeln', // duplicated  *
 	'aufs Auge drücken',   
 	'aufs Dach steigen',   
 	'aufs Korn nehmen',  
@@ -155,7 +158,7 @@ const a = [
 	'ausbaldowern', // ausbaldowern:
 	'ausbügeln',  // ausbügeln:  
 	'ausbremsen', // ausbremsen:  
-	'ausbuddeln, buddeln', //   duplicated;   also pair with "einbuddeln" if found
+	'ausbuddeln, einbuddeln, buddeln', //   triplicated
 	'ausbüxen',    // ausbüxen:  
 	'Ausdünstung',  // Ausdünstung:  
 	'Ausfallstraße',   // Ausfallstraße:  

@@ -5,14 +5,15 @@ const h = [
    'Häkchen',  // Häkchen: 
    'haken, Haken, Haken schlagen', 
    'halbgar', // halbgar:  
-   'halbseiden',  // halbseiden:   
+   'halbseiden',  // halbseiden: 
+   'Halterung',  // Halterung:  
    'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 
   // 'hämmern',
    'Handfessel, Handschelle',
    'Handlanger', // Handlanger:  
    'Handwerk legen',  
-   'handzahm, zahm', //  duplicated
+   'handzahm, zahm', //  duplicated *
    'hanebüchen',  // hanebüchen: 
    'hapern',  // hapern: 
    'Happen, Häppchen',    
@@ -23,11 +24,12 @@ const h = [
    'Hausierer, hausieren',  
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
-   'hechten, Hechtsprung',  
+   'hechten, Hechtsprung',  // *
    'Hecke', // Hecke: 
    'Heckenschütze',  // Heckenschütze:  
    'Heft des Handelns nehmen', 
    'heften', // heften: 
+   'hegen',  // hegen:
    'Hehler', // Hehler:  
    'Heidenarbeit', // Heidenarbeit:  
    'Heidenrespekt/angst', 
@@ -37,6 +39,7 @@ const h = [
    'heiser',  // heiser: 
    'Hemd (sich ins H. machen)', 
    'hereinlegen, reinlegen',  // duplicated 
+   'herrisch',  // herrisch:
    'herumärgern, rumärgern', //   duplicated
    'herumdrucksen, drucksen', // duplicated
    'herumfuhrwerken',  // herumfuhrwerken: 
@@ -50,7 +53,8 @@ const h = [
    'hinters Licht führen', 
    'hobeln', // hobeln: 
    'hochgestochen', // hochgestochen: 
-   'hocken, Hocke, Hocker', 
+   'hochrappeln, aufrappeln',  // duplicated *
+   'hocken, Hocke, Hocker', // *
    'Hölle heißmachen',  
    'Holzstoß',  // Holzstoß: 
    'hopsnehmen', // hopsnehmen: 
@@ -63,7 +67,7 @@ const h = [
    'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  
    'Hüne',  // Hüne: 
-   'huschen',  // huschen: 
+   'huschen',  // huschen: *
    'Hut (auf der H. sein)',  //  duplicated
  ];
 

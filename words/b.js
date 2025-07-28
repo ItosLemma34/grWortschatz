@@ -1,7 +1,7 @@
 const b = [
     'Backfisch', // Backfisch:   
     'Bahre',  // Bahre: 
-    'Balken, Gebälk', //   duplicated  
+    'Balken, Gebälk', // duplicated * 
     'ballern',  // ballern:  
     'Banderole', // Banderole: 
     'barsch',   // barsch: 
@@ -24,6 +24,7 @@ const b = [
     'beipflichten',   // beipflichten:  
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
+    'belauern',  // belauern:  *
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
     'bepinseln, pinseln', //  duplicated
@@ -81,8 +82,8 @@ const b = [
     'Buche',    // Buche: 
     'Büchse',   // Büchse: 
     'Buckel, bucklig',  //   
-    'bücken (sich)',  // 
-    'buddeln, ausbuddeln',  //  duplicated  pair with "einbudeln" if found
+    'bücken (sich)',  // *
+    'buddeln, einbuddeln, ausbuddeln',  //  triplicated
     'Bude, Büdchen',  // 
     'büffeln', // büffeln:  
     'Bügel', // Bügel: 

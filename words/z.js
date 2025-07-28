@@ -1,13 +1,14 @@
 const z = [
-   'zackig', // zackig:   
-   'zahm, handzahm', //   duplicated 
-   'Zahn (auf den Z. fühlen)', //  duplicated
+   'zackig', // zackig:  * 
+   'zahm, handzahm', //   duplicated  *
+   'Zahn (auf den Z. fühlen)', //  duplicated *
    'Zange (in die Z. nehmen)', //  duplicated
    'zanken (sich)',  // 
    'Zapfen', // Zapfen: 
    'zappeln', // zappeln:  
    'Zarge' , // Zarge: 
    'zaudern', // zaudern: 
+   'Zaunlatte, Dachlatte',  // duplicated *
    'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated
    'zechen',     // zechen: 
    'Zehenspitze',  // Zehenspitze:
@@ -58,7 +59,7 @@ const z = [
    'Zuspruch',  // Zuspruch: 
    'zuwanken',   // zuwanken: 
    'Zwang (keinen Z. antun)', 
-   'zwinkern',  // zwinkern: 
+   'zwinkern',  // zwinkern: *
    'zwirbeln',  // zwirbeln: 
    'Zwirn',  // Zwirn: 
    'zwitschern, Gezwitscher',  // duplicated 

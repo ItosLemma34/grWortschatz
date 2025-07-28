@@ -34,7 +34,7 @@ const f = [
    'Flappe (eine F. ziehen)', 
    'flapsig, Flapsigkeit',   
    'Flaschenzug', // Flaschenzug: 
-   'flattern', // flattern: 
+   'flattern', // flattern: *
    'flau' ,  // flau: 
    'Flaum',  // Flaum:  
    'fläzen (sich)',  

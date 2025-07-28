@@ -6,7 +6,7 @@ const q = [
    'Quere (in die Q. kommen)', //  duplicated
    'Querschläger',  // Querschläger: 
    'Querschnitt', // Querschnitt: 
-   'quetschen, heraus-, zer-', 
+   'quetschen, heraus-, zer-', // *
    'quietschen',  // quietschen: 
    'quitt',  // quitt: 
 ];

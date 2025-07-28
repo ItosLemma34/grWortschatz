@@ -1,10 +1,11 @@
 const d = [
-   'Dachlatte', // Dachlatte: 
+   'Dachlatte, Zaunlatte', // duplicated  *
    'dämlich, Dämlichkeit',  // 
    'Dampframme',  // Dampframme:  
    'Dampfwalze',  // Dampfwalze: 
    'dazwischenfunken', // dazwischenfunken:   
    'Deckel',   // Deckel: 
+   'Deichsel',  // Deichsel:
    'deichseln', // deichseln: 
    'deponieren', // deponieren:  
    'Depp',  // Depp:  
@@ -18,7 +19,8 @@ const d = [
    'drängeln (sich)',  // 
    'draufhaben',  // draufhaben: 
    'Dreh',    // Dreh: 
-   'Dreigestirn',  // Dreigestirn:  
+   'Dreigestirn',  // Dreigestirn: 
+   'Dreizack',  // Dreizack * 
    'Dreistigkeit, dreist',   
    'drosseln',  // drosseln: 
    'Druckfahne', // Druckfahne: 

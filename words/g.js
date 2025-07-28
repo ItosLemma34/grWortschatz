@@ -5,7 +5,7 @@ const g = [
    'Gassi gehen',  
    'Gauner', // Gauner: 
    'Geäst, Ast',  //  duplicated  
-   'Gebälk, Balken', //  duplicated 
+   'Gebälk, Balken', //  duplicated  *
    'Gebell', // Gebell:   duplicate with "bellen" if found
    'Gebrüll, brüllen',  //  duplicated 
    'Gebüsch, Busch',  //  duplicated 
@@ -22,7 +22,8 @@ const g = [
    'Gelände',   // Gelände:  
    'Geländer',  // Geländer:  
    'gelinde',   // gelinde:  
-   'Gemächt',  // Gemächt: 
+   'Gemächt',  // Gemächt:
+   'Gemetzel', // Gemetzel: 
    'Gemurmel',  // Gemurmel:  
    'gepfeffert, pfeffern', //   duplicated 
    'Geplänkel, Vorgeplänkel',  //   duplicated  
@@ -33,16 +34,17 @@ const g = [
    'Geräuschkulisse', // Geräuschkulisse:  
    'gerieren (sich)',   //  
    'gerinnen',   // gerinnen:  
-   'Gerippe',    // Gerippe:  
+   'Gerippe',    // Gerippe:  *
    'gerissen',   // gerissen:  
    'Geröll',     // Geröll:  
    'Geruckel',  // Geruckel: 
    'Gerümpel',   // Gerümpel:  
-   'Gerüst, einrüsten', //   duplicated
+   'Gerüst, einrüsten', // duplicated  *
    'gesalzen',   // gesalzen:  
    'geschliffen',  // geschliffen:  
    'geschniegelt',  // geschniegelt:  
-   'Geschreibsel',  // Geschreibsel:   
+   'Geschreibsel',  // Geschreibsel:  
+   'Geschütz',  // Geschütz: 
    'Geschwafel',    // Geschwafel:  
    'Gesindel',    // Gesindel:  
    'gesittet',    // gesittet:  
@@ -59,6 +61,7 @@ const g = [
    'Gewehrkolben',  // Gewehrkolben:  
    'Gewese',    // Gewese:  
    'Gewimmel, wimmeln',  //  duplicated 
+   'Gewinsel',  // Gewinsel: *
    'Gewirr',    // Gewirr: 
    'Gewölbe',  // Gewölbe: 
    'Gewühl',   // Gewühl: 
@@ -82,7 +85,8 @@ const g = [
    'grauen',  // grauen:
    'Grimm, grimmig', 
    'grölen', // grölen:  
-   'große Stücke auf jmdn. halten',   
+   'große Stücke auf jmdn. halten', 
+   'Großmut',  // Großmut:  
    'Grünschnabel', // Grünschnabel:  
    'grunzen',   // grunzen:  
    'Grüßaugust', // Grüßaugust: 

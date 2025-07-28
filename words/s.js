@@ -23,7 +23,7 @@ const s = [
    'schellen',  // schellen:
    'Schemel',  // Schemel: 
    'scheppern',  // scheppern: 
-   'Scherbe',  // Scherbe:  
+   'Scherbe',  // Scherbe: *  
    'scheren (sich)',  // 
    'scheuern',  // scheuern: 
    'Schieblehre', // Schieblehre:  
@@ -52,7 +52,7 @@ const s = [
    'Schleuse, schleusen', 
    'Schliche (auf die S. kommen)', //  duplicated
    'Schliere, schlieren', 
-   'schliddern, schlittern', 
+   'schliddern, schlittern', // *
    'Schlips (auf den S. treten)', //  duplicated
    'schluchzen' ,  // schluchzen: 
    'Schlucker (armer)', //  duplicated
@@ -129,7 +129,8 @@ const s = [
    'Schwanz einziehen/einkneifen', 
    'Schwebebahn',  // Schwebebahn: 
    'schwelgen', // schwelgen: 
-   'Schwenker', // Schwenker: 
+   'Schwenker', // Schwenker:
+   'Schwerenöter',  // Schwerenöter: 
    'schwirren', // schwirren: 
    'Schwitzkasten', // Schwitzkasten: 
    'schwül, Schwüle', 

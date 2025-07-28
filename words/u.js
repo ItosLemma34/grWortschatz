@@ -7,7 +7,7 @@ const u = [
    'über die Runden kommen', 
    'über die Stränge schlagen',
    'überquellen, quellen',  // duplicated 
-   'überrumpeln, Überrumpelung',  
+   'überrumpeln, Überrumpelung', // * 
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
    'übers Ohr hauen', 
    'überwuchern',  //überwuchern:  

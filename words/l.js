@@ -2,7 +2,7 @@ const l = [
    'Lache',  // Lache: 
    'Lack, lackieren',   
    'Lackaffe',  // Lackaffe:  
-   'lädieren',  // lädieren: 
+   'lädieren',  // lädieren: *
    'laff',  // laff: 
    'lahmarschig, Lahmarschigkeit',
    'Laken', // Laken: 
@@ -10,7 +10,7 @@ const l = [
    'lange Nase zeigen/machen', //  duplicated
    'Lappen',   // Lappen: 
    'läppisch', // läppisch:  
-   'lässig',  // lässig: 
+   'lässig',  // lässig:   latte:  Latte:
    'lasten',  // lasten: 
    'Laster',  // Laster:  
    'Lastkahn', // Lastkahn:   pair with Kahn, if found

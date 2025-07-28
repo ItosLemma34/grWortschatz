@@ -35,7 +35,7 @@ const w = [
    'Winkel' ,  // Winkel: 
    'Winkeladvokat',  // Winkeladvokat: 
    'winseln',  // winseln: 
-   'Wipfel',  // Wipfel: 
+   'Wipfel',  // Wipfel:  *
    'wippen' , // wippen: 
    'Witzbold', // Witzbold: 
    'wogen' ,  // wogen: 

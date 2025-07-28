@@ -26,11 +26,12 @@ const k = [
    'keinen Reim machen können', //  duplicated
    'Kelch',  // Kelch: 
    'Kerbholz (auf dem K. haben)',//  duplicated
+   'Kerbe',  // Kerbe:  *
    'ketten, Kette, Kettenkarussell', // 
    'Keule', // Keule: 
    'kichern',  // kichern: 
    'Kieker (auf dem K. haben)', 
-   'Kies, Kiesel', 
+   'Kies, Kiesel', // *
    'Kinderficker',  // Kinderficker: 
    'Kinkerlitzchen', // Kinkerlitzchen: 
    'Kipplaster',  // Kipplaster: 
@@ -58,14 +59,14 @@ const k = [
    'klimpern', // klimpern: 
    'Klinge', //  Klinge: 
    'Klippe', //  Klippe: 
-   'klirren', // klirren: 
+   'klirren', // klirren: *
    'klitzeklein', // klitzeklein: 
    'Kloschüssel, Schüssel', 
    'Kloß',   // Kloß: 
    'klotzen', // klotzen: 
    'Klumpen, Klumpfuß',  
    'Klüngel',  // Klüngel:   
-   'knacken',  // knacken: 
+   'knacken',  // knacken: *
    'knallen', // knallen: 
    'Knarre',  // Knarre: 
    'knarren', // knarren: 
@@ -89,7 +90,7 @@ const k = [
    'Knüller',  // Knüller: 
    'Knüppel', // Knüppel: 
    'knurren',  // knurren:   
-   'Köder',   // Köder: 
+   'Köder',   // Köder: *
   // 'Kontor',
    'Konterfei',  // Konterfei:   
    'köpfen',  // köpfen: 

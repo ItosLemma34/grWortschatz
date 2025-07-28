@@ -18,7 +18,7 @@ const t = [
    'tosen, tosend', // 
    'Tracht Prügel', // 
    'tranchieren', // tranchieren: 
-   'Trasse',  // Trasse: 
+   'Trasse',  // Trasse:  *
    'Trauerkloß',  // Trauerkloß:
    'Tresen',  // Tresen:  
    //'ins Kreuz treten  Tritt ins Kreuz'  ;   Nworte++;    Märzgefallene   111    German definition not found; entry in worte_T.js started, not finished

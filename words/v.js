@@ -27,7 +27,8 @@ const v = [
    'verhallen' ,  // verhallen: 
    'verheben (sich)',  
    'verheddern (sich)',  
-   'verhexen',   // verhexen: 
+   'verhexen',   // verhexen:
+   'verhökern',  // verhökern: 
    'verhunzen',  // verhunzen: 
    'verkatert, Kater',  //  duplicated
    'verkneifen (sich), verkniffen', 
@@ -74,7 +75,8 @@ const v = [
    'verschnüren',  // verschnüren:  
    'verschollen' , // verschollen:  
    'verschorft, verschorfen',   
-   'verschrumpeln',  // verschrumpeln:  
+   'verschrumpeln',  // verschrumpeln: 
+   'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
 //   'versehren',   need more past examples

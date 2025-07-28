@@ -6,14 +6,14 @@ const e = [
    'einbetonieren', // einbetonieren 
    'einbrocken',  // einbrocken:  
    'einbuchten',  // einbuchten:  
- //  'einbuddeln'  pair with 'ausbuddeln'
+   'einbuddeln, ausbuddeln, buddeln',  // triplicated
    'eindösen, dösen', //   duplicated
    'Eindruck schinden',   
    'einfädeln',  // einfädeln:
    'einflößen',  // einflößen:
    'einfrieden', // einfrieden: 
    'Eingebung',   // Eingebung:  
-   'Eingeweide', // Eingeweide: 
+   'Eingeweide', // Eingeweide: *
    'einkerben',  // einkerben:
    'einklinken, ausklinken', // duplicated 
    'einkriegen (sich)',   
@@ -27,7 +27,7 @@ const e = [
    'einrasten',  // einrasten:  
    'einreißen, niederreißen',  //  duplicated  
    'einrenken (sich)',     
-   'einrüsten, Gerüst',  //  duplicated 
+   'einrüsten, Gerüst', // duplicated * 
    'einsacken',  // einsacken: 
    'einschleusen',  //  einschleusen: 
    'einseifen',  // einseifen:  

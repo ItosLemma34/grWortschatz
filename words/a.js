@@ -54,7 +54,8 @@ const a = [
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln:
 	'ankotzen, Kotze, kotzen',  // duplicated   
-	'anleinen',     // anleinen:  
+	'anleinen',     // anleinen: 
+	'anpeilen',  // anpeilen:  * 
 	'Anpfiff' ,     // Anpfiff:  
 	'anpflaumen',   // anpflaumen:  
 	'anpumpen',     // anpumpen: 

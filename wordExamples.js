@@ -23,6 +23,20 @@ zzz: [
 	'<u>Lunapark</u>',   
 ],
  */ 
+anpeilen: [  
+	'<strong>anpeilen</strong>: locate, home in on sth.; aim at sth.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anpeilen"target="target1">anpeilen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anpeilen"target="target2">anpeilen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/anpeilen"target="target3">anpeilen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anpeilen&id=verb%3Aanpeilen"target="target4">anpeilen</a>',
+	'<u>Lunapark</u>',
+	'Und er (<i>Fritze</i>) war hochkonzentriert, das konnte man an seinem Gesicht erkennen. Wie er die Waffe hielt und Juretzka über Kimme und Korn <strong>anpeilte</strong>, das sah richtig gut aus. (<i>Lunapark</i>, 529)',   
+],
+Geseier: [  
+	'das <strong>Geseier</strong>: moaning, bellyaching'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geseier"target="target1">Geseier</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geseiere"target="target2">Geseier</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geseier"target="target3">Geseier</a>&nbsp;&nbsp;<a href="https://m.dict.cc/deutsch-englisch/Geseier.html"target="target4">Geseier</a>',
+	'<u>Lunapark</u>',
+	'"Hören Sie endlich auf mit dem <strong>Geseier</strong>", fuhr Juretzka ihn (<i>Rath</i>) an, "und sterben Sie wie ein Mann!"  (<i>Lunapark</i>, 528)',   
+],
 Gewinsel: [  
 	'das <strong>Gewinsel</strong>: whining'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewinsel"target="target1">Gewinsel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gewinsel"target="target2">Gewinsel</a>'+
@@ -4210,8 +4224,8 @@ abklappern: [
 ],
 abknallen: [ 
 	'<strong>abknallen</strong>: shoot down, kill, bump so. off'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abknallen"target="target1">abknallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abknallen"target="target2">abknallen</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abknallen"target="target3">abknallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abknallen"target="target4">abknallen</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abknallen"target="target1">abknallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abknallen"target="target2">abknallen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abknallen"target="target3">abknallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abknallen"target="target4">abknallen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Wolter hatte die Kugel herausgefischt. Die Kugel, die Rath hatte treffen sollen. "Hier", sagte er und hielt sie Rath hin. "Was soll ich damit?" "Nimm! Schließlich wollte er <i>dich</i> damit <strong>abknallen</strong>." (<i>Der nasse Fisch</i>, 30)',
 	'Ein Mann lief geduckt über den Gehweg, die Hände über dem Kopf, als könne ihn das vor den Kugeln und dem herabfallenden Glas schützen. Er kam zu ihnen (<i>Wolter und Rath</i>) in den Hauseingang, zog einen Schlüssel aus der Tasche und schloss die schwere Haustür auf. "Na los", sagte er und hielt die Tür auf. "Kommt rein bevor die Bullen euch <strong>abknallen</strong>." Sie zögerten keinen Moment und stürzten ins Haus.  (<i>Der nasse Fisch</i>, 70)',
@@ -4224,6 +4238,7 @@ abknallen: [
 	'"Jetzt reicht\'s, Kommissar!" Lapke trat so nah an ihn heran, dass Rath seinen schlechten Atem riechen konnt, und packte den Kommissar am Kragen. "Was hindert mich eigentlich daran, Sie einfach <strong>abknallen</strong> zu lassen?" (<i>Lunapark</i>, 198)',
 	'Allerdings war das tiefstes Nordpiratengebiet, und Rath bezweifelte sehr, dass Leo Juretzka sich in einer Gegend herumzutreiben wagte, wo jeder Ganove sein Gesicht kannte. Und wenn? Sollte er doch. Vielleicht entdeckte ihn einer seiner alten Feinde. Sollten sich die Scheißkerle doch gegenseitig <strong>abknallen</strong>. Dann hätte Gereon Rath ein Problem weniger. (<i>Lunapark</i>, 278)',
 	'Sollte Leo sich irgendwo blicken lassen, würde er (<i>Rath</i>) ihn <strong>abknallen</strong>, das stand fest. (<i>Lunapark</i>, 524)',
+	'Rath hatte das Gefühl, irgendwas zu dem Jungen (<i>Fritze</i>) sagen zu müssen, aber er wusste nicht, was. Dass es falsch war, mit einer Pistole auf Leute zu zielen? Dass er um diese Zeit ins Bett gehörte? Oder dass er den verfluchten Juretzka einfach <strong>abknallen</strong> sollte? (<i>Lunapark</i>, 529)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9985,18 +10000,19 @@ knirschen: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Knüppel: [
 	'der <strong>Knüppel</strong>,-: cudgel, club, truncheon'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueppel"target="target1">Knüppel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kn%C3%BCppel"target="target2">Knüppel</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knuppel"target="target3">Knüppel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/knueppel#Kn%C3%BCppel"target="target4">Knüppel</a> ' ,
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knueppel"target="target1">Knüppel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kn%C3%BCppel"target="target2">Knüppel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/knuppel"target="target3">Knüppel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/knueppel#Kn%C3%BCppel"target="target4">Knüppel</a> ' ,
 	'<u>Der nasse Fisch</u>',
 	'An der Straßenhaltestelle vor dem UFA-Kino hatten sich zwei Schupos an einem Hydranten zu schaffen gemacht und schlossen einen Feuerwehrschlauch an. "Neue Taktik", erwiderte Wolter. "Wasser statt <strong>Knüppel</strong>. Pass auf, gleich werden die Demonstranten nass gemacht." (<i>Der nasse Fisch</i>, 55)',
 	'<u>Märzgefallene</u>',
 	'Aber dann, als der Anführer eine schlüpfrige Bemerkung zu Vera machte, hatte er (<i>Leo</i>) den Mund doch nicht halten können, und der Mann hatte ihm mit Freude seinen Gummi<strong>knüppel</strong> durchs Gesicht gezogen. (<i>Märzgefallene</i>, 109)',
 	'Dem Anführer war es gleichwohl nicht schnell genug gegangen, und als Leo zu lange brauchte, um in seine Hosen zu steigen, hatte der Mann ihm mit dem <strong>Knüppel</strong> auf die Fingerknöchel geschlagen.... (<i>Märzgefallene</i>, 109)',
     'Der SA-Mann baute sich vor ihm auf und rammte ihm (<i>Leo</i>), ohne den Blick abzuwenden, ansatzlos den Gummi<strong>knüppel</strong> in die Magengrube. Leo krümmte sich vor Schmerz. (<i>Märzgefallene</i>, 111)',
-   '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummi<strong>knüppel</strong>schlag auf die ohnehin schon geschwollenen Fingerknöchel. (<i>Märzgefallene</i>, 112)',
-   '<u>LunaPark</u>',
-   '<i>Doktor Karthaus</i>: "Aber wie ich Sie kenne, Kommissar Rath, wollen Sie trotzdem schon eine erste Einschätzung, nicht wahr?" <i>Rath</i>: "Sie würden mir eine große Freude machen. Haben Sie schon irgendeine Idee, was den armen Kerl (<i>Kaczmarek</i>) so zugerichtet haben könnte?" "Ein stumpfer Gegenstand, irgendein <strong>Knüppel</strong>, würde ich vermuten." "Ein Schlagstock?" "Eher etwas Schwereres..."  (<i>Lunapark</i>, 26-27)',
-   '<i>Rath zu Gräf</i>: "Bevor du mir drohst, mir deine dämlichen Hobbydetektive auf den Hals hetzt und mir was weiß ich für <strong>Knüppel</strong> in den Weg legst, würde ich mir an deiner Stelle mal überlegen, was dein neuer Chef Heydrich wohl sagt, wenn er erfährt, dass ein Hundertfünfundsiebzieger in seiner Behörde arbeitet." (<i>Lunapark</i>, 430)',
+    '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummi<strong>knüppel</strong>schlag auf die ohnehin schon geschwollenen Fingerknöchel. (<i>Märzgefallene</i>, 112)',
+    '<u>LunaPark</u>',
+    '<i>Doktor Karthaus</i>: "Aber wie ich Sie kenne, Kommissar Rath, wollen Sie trotzdem schon eine erste Einschätzung, nicht wahr?" <i>Rath</i>: "Sie würden mir eine große Freude machen. Haben Sie schon irgendeine Idee, was den armen Kerl (<i>Kaczmarek</i>) so zugerichtet haben könnte?" "Ein stumpfer Gegenstand, irgendein <strong>Knüppel</strong>, würde ich vermuten." "Ein Schlagstock?" "Eher etwas Schwereres..."  (<i>Lunapark</i>, 26-27)',
+    '<i>Rath zu Gräf</i>: "Bevor du mir drohst, mir deine dämlichen Hobbydetektive auf den Hals hetzt und mir was weiß ich für <strong>Knüppel</strong> in den Weg legst, würde ich mir an deiner Stelle mal überlegen, was dein neuer Chef Heydrich wohl sagt, wenn er erfährt, dass ein Hundertfünfundsiebzieger in seiner Behörde arbeitet." (<i>Lunapark</i>, 430)',
+	'"Ich habe mich nicht verlaufen", sagte der Junge (<i>Fritze</i>) mit erstaunlich fester Stimme. "Und Sie sollen Ihre Waffe fallen lassen!" <i>Leo</i>: "Meine Waffe?" "Diesen <strong>Knüppel</strong> da." (<i>Lunapark</i>, 529)',
 ],
 // '<u>Der nasse Fisch</u>', Der nasse Fisch '<u>Der Stumme Tod</u>', '<u>Goldstein</u>', '<u>Die Ackte Vaterland</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überlegen  überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -11260,6 +11276,7 @@ Polente: [
 	'<u>Lunapark</u>',
 	'"Die sind alle abjeholt!" Er (<i>Rath</i>) drehte sich um. Ein alter Mann stand im Treppenhaus.. <i>Rath</i>: "Was meinen Sie?" "Na, was wohl? Eine Aushebung." "Eine Razzia? Hier in diesen Räumen?" Der Alte nickte. "Und warum?" "Wird wohl seine Gründe haben", sagte der Mann vieldeutig.. "Was wissen Sie darüber?", hakte Rath nach. "Da fragen Se den Falschen.. Fragen Se am besten die <strong>Polente</strong>, die wird det jenauer wissen." "Ich bin die <strong>Polente</strong>", sagte Rath und zeigte seine Marke. (<i>Lunapark</i>, 181)',
 	'"Ich weiß von keiner Razzia", sagte der SA-Mann.. "Unser Sturm hatte gestern Abend jedenfalls keine.. Aber heute gibt\'s eine", sagte Conny.. "Kann ja nicht sein, dass ungestraft SA-Männer totgeschlagen werden. Und die <strong>Polente</strong> tut nischt." (<i>Lunapark</i>, 190)',
+	'<i>Rath</i>: "Warum erschlagen Sie mich? Warum erschießen Sie mich nicht einfach? Sie haben doch meine Waffe.." <i>Juretzka</i>: "Erstens ist das viel zu laut. Dann rufen die Nachbarn wieder die <strong>Polente</strong>..." (<i>Lunapark</i>, 528)',
 ], 
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            

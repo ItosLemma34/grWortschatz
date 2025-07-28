@@ -45,7 +45,8 @@ const g = [
    'geschniegelt',  // geschniegelt:  
    'Geschreibsel',  // Geschreibsel:  
    'Geschütz',  // Geschütz: 
-   'Geschwafel',    // Geschwafel:  
+   'Geschwafel',    // Geschwafel:
+   'Geseier',  // Geseier: *  
    'Gesindel',    // Gesindel:  
    'gesittet',    // gesittet:  
    'gestanden',  // gestanden:  

@@ -74,7 +74,8 @@ const v = [
    'verschnupft' ,  // verschnupft:  
    'verschnüren',  // verschnüren:  
    'verschollen' , // verschollen:  
-   'verschorft, verschorfen',   
+   'verschorft, verschorfen', 
+   'verschränken, verschränkt, Verschränkung',  // *  
    'verschrumpeln',  // verschrumpeln: 
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 

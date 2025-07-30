@@ -42,7 +42,7 @@ const r = [
    'Ritter (arme)', //  duplicated
    'Ritze',  // Ritze:  
    'robben',  // robben: 
-   'röcheln', // röcheln: 
+   'röcheln', // röcheln: *
    'roden', // roden:  
    'Rohrkrepierer', // 
    'rosten' , // rosten: 

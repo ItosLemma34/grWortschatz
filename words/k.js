@@ -43,10 +43,10 @@ const k = [
    'Kladde',  // Kladde: 
    'klaffen', // klaffen: 
    'klamm',  // klamm: 
-   'Klammer, klammern', 
+   'Klammer, klammern', // * 
    'klammheimlich', // klammheimlich: 
    'Klappe', // Klappe: 
-   'klappern',  // klappern: 
+   'klappern',  // klappern: *
    'klapprig',  // klapprig:  
    'Klapsmühle', // Klapsmühle: 
    'Klatsch, klatschen',  
@@ -54,7 +54,7 @@ const k = [
    'Klaue',  // Klaue: 
    'klebrig', // klebrig: 
    'kleistern, Kleister', 
-   'Klemme, klemmen',  
+   'Klemme, klemmen',  // *
    'Klette',  // Klette: 
    'klimpern', // klimpern: 
    'Klinge', //  Klinge: 
@@ -129,7 +129,7 @@ const k = [
    'Kroppzeug', // Kroppzeug: 
    'Kröte (K. schlucken)', 
    'Krümel',  // Krümel: 
-   'krümmen (sich)',// 
+   'krümmen', // *
    'kullern', // kullern:
    'Kumpel', // Kumpel: 
    'kundschaften', // kundschaften:  

@@ -148,7 +148,7 @@ const a = [
 	'aufstöhnen, stöhnen', //  duplicated
 	'aufsummen, summen', //  duplicated
 	'auftakeln',     // auftakeln: 
-	'auftischen',    // auftischen:  
+	'auftischen',    // auftischen:  *
 	'Aufwartung machen', 
 	'aufwiegen',     // aufwiegen:  
 	'aufwühlen, aufgewühlt', 
@@ -157,6 +157,7 @@ const a = [
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
 	'ausbaldowern', // ausbaldowern:
+	'ausborgen',  // ausborgen:  *
 	'ausbügeln',  // ausbügeln:  
 	'ausbremsen', // ausbremsen:  
 	'ausbuddeln, einbuddeln, buddeln', //   triplicated

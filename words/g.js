@@ -3,7 +3,7 @@ const g = [
    'Ganove', // Ganove:  
    'Gänsehaut', // Gänsehaut: 
    'Gassi gehen',  
-   'Gauner', // Gauner: 
+   'Gauner', // Gauner: *
    'Geäst, Ast',  //  duplicated  
    'Gebälk, Balken', //  duplicated  *
    'Gebell', // Gebell:   duplicate with "bellen" if found
@@ -27,7 +27,7 @@ const g = [
    'Gemurmel',  // Gemurmel:  
    'gepfeffert, pfeffern', //   duplicated 
    'Geplänkel, Vorgeplänkel',  //   duplicated  
-   'Geplapper',  // Geplapper: 
+   'Geplapper, plappern, nachplappern', // triplicated *
    'gequollen, quellen',  //  duplicated
    'gerädert',  // 
    'Gerangel', // Gerangel:  
@@ -68,7 +68,7 @@ const g = [
    'Gewühl',   // Gewühl: 
    'Gewummer, wummern', //  duplicated  
    'gewunden, winden', //    duplicated
-   'Gezwitscher, zwitschern', //  duplicated
+   'Gezwitscher, zwitschern', //  duplicated  *
    'Gier, gieren',   
    'giften',   // giften:  
    'giggeln',  // giggeln:  

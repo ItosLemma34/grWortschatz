@@ -56,7 +56,7 @@ const s = [
    'Schlips (auf den S. treten)', //  duplicated
    'schluchzen' ,  // schluchzen: 
    'Schlucker (armer)', //  duplicated
-   'Schlund',  // Schlund: 
+   'Schlund',  // Schlund:  *
    'schlüpfen', // schlüpfen: 
    'Schlüpfer',  // Schlüpfer: 
    'schlüpfrig', // schlüpfrig: 
@@ -153,7 +153,7 @@ const s = [
    'sperrangelweit',  // sperrangelweit:  
    'Sperrhaken',  // Sperrhaken:  
    'sperrig',  // sperrig:       
-   'spicken',  // spicken:  
+   'spicken',  // spicken: * 
    'Spieß, spießen',  
    'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel:
@@ -185,7 +185,7 @@ const s = [
    'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-   'Stich (einen Stich versetzen)', 
+   'Stich (einen Stich versetzen)', // * 
    'Stiefel, stiefeln', 
    'stieren, anstieren',  //   duplicated
    'stöbern',  // stöbern:  

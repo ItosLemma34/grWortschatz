@@ -31,7 +31,8 @@ const p = [
    'Pinkel', // Pinkel: 
    'pinkeln',  // pinkeln: 
    'pinseln, bepinseln',  //  duplicated
-   'Plackerei', // Plackerei: 
+   'Plackerei', // Plackerei:
+   'plappern, nachplappern, Geplapper',  // triplicated * 
    'platschen', // platschen: 
    'plätschern', // plätschern:
    'Platzhirsch', // Platzhirsch: 

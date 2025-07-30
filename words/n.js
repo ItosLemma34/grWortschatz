@@ -1,7 +1,8 @@
 const n = [
    'nach dem Rechten sehen',  
    'nachhaken',  // nachhaken: 
-   'Nachhut', // Nachhut: 
+   'Nachhut', // Nachhut:
+   'nachplappern, plappern, Geplapper', // triplicated * 
    'nachsetzen',  // nachsetzen: 
    'nachrücken, anrücken, ausrücken', //  triplicated
    'Nacht um die Ohren schlagen',  // duplicated, with "Ohren"

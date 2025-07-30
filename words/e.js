@@ -4,7 +4,8 @@ const e = [
    'eklig',  // eklig:  make duplicate if Ekelhaft founr 
    'Ei (wie aus dem Ei gepellt)', //  duplicated  
    'einbetonieren', // einbetonieren 
-   'einbrocken',  // einbrocken:  
+   'einbläuen',  // einbläuen:  *
+   'einbrocken',  // einbrocken:  *
    'einbuchten',  // einbuchten:  
    'einbuddeln, ausbuddeln, buddeln',  // triplicated
    'eindösen, dösen', //   duplicated
@@ -14,6 +15,7 @@ const e = [
    'einfrieden', // einfrieden: 
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: *
+   'einheimsen',  // einheimsen: *
    'einkerben',  // einkerben:
    'einklinken, ausklinken', // duplicated 
    'einkriegen (sich)',   
@@ -36,7 +38,8 @@ const e = [
    'einstäuben',  // einstäuben:  
    'einstecken',  // einstecken: 
    'einstielen', // einstielen:  
-   'Eintänzer',   // Eintänzer:  
+   'Eintänzer',   // Eintänzer:
+   'eintrichtern',  // eintrichtern:  *  
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten:  
    'Ekel, anekeln', 
@@ -46,7 +49,8 @@ const e = [
    'entriegeln',  // entriegeln: 
    'entsorgen',  // entsorgen:   
    'entstellen',  // entstellen: 
-   'entwinden',  // entwinden:  
+   'entwinden',  // entwinden: 
+   'erbost, erbosen',  // * 
    'erdreisten (sich)',    
    'ergattern',   // ergattern:  
    'erhaschen',   // erhaschen: 

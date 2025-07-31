@@ -49,7 +49,8 @@ const e = [
    'entriegeln',  // entriegeln: 
    'entsorgen',  // entsorgen:   
    'entstellen',  // entstellen: 
-   'entwinden',  // entwinden: 
+   'entwenden',  // entwenden:  *
+   'entwinden',  // entwinden: *
    'erbost, erbosen',  // * 
    'erdreisten (sich)',    
    'ergattern',   // ergattern:  

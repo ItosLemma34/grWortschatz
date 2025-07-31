@@ -76,7 +76,7 @@ const a = [
 	'anstandslos',  // anstandslos:  
 	'anstieren, stieren',  //  duplicated
 	'anstupsen',    // anstupsen: 
-	'antanzen',     // antanzen:   
+	'antanzen',     // antanzen:  * 
 	'Anwesen',      // Anwesen: 
 	'anwidern',     // anwidern: 
 	'Anzeige erstatten',

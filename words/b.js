@@ -21,10 +21,11 @@ const b = [
     'Beil',  // Beil: 
     'Bein (ans B. binden)', //   duplicated 
     'Beine in den Bauch',  // 
-    'beipflichten',   // beipflichten:  
+    'beipflichten',   // beipflichten: 
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
     'belauern',  // belauern:  *
+  //  'belegt',  // belegt:  *  complete with belegen?
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
     'bepinseln, pinseln', //  duplicated

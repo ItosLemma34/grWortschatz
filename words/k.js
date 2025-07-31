@@ -132,7 +132,8 @@ const k = [
    'krümmen', // *
    'kullern', // kullern:
    'Kumpel', // Kumpel: 
-   'kundschaften', // kundschaften:  
+   'kundschaften', // kundschaften:
+   'Kuppe',  // Kuppe: *  
    'Kuppel',  // Kuppel: 
    'kurbeln', // kurbeln: 
    'kuscheln (sich)', 

@@ -29,8 +29,8 @@ const g = [
    'Geplänkel, Vorgeplänkel',  //   duplicated  
    'Geplapper, plappern, nachplappern', // triplicated *
    'gequollen, quellen',  //  duplicated
-   'gerädert',  // 
-   'Gerangel', // Gerangel:  
+   'gerädert',  // gerädert: 
+   'Gerangel', // Gerangel:  *
    'Geräuschkulisse', // Geräuschkulisse:  
    'gerieren (sich)',   //  
    'gerinnen',   // gerinnen:  

@@ -41,7 +41,7 @@ const p = [
    'plüschig',  // plüschig: 
    'pöbeln', // pöbeln: 
    'Polente', // Polente: 
-   'Polster, polstern, Polsterung', 
+   'Polster, polstern, Polsterung', // *
    'poltern' ,  // poltern: 
    'postieren', // postieren: 
   // 'präparieren' ,

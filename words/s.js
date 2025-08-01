@@ -130,7 +130,7 @@ const s = [
    'Schwebebahn',  // Schwebebahn: 
    'schwelgen', // schwelgen: 
    'Schwenker', // Schwenker:
-   'Schwerenöter',  // Schwerenöter: 
+   'Schwerenöter',  // Schwerenöter: *
    'schwirren', // schwirren: 
    'Schwitzkasten', // Schwitzkasten: 
    'schwül, Schwüle', 

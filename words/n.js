@@ -1,5 +1,6 @@
 const n = [
-   'nach dem Rechten sehen',  
+   'nach dem Rechten sehen', 
+   'nachbeten',  // nachbeten: * 
    'nachhaken',  // nachhaken: 
    'Nachhut', // Nachhut:
    'nachplappern, plappern, Geplapper', // triplicated * 
@@ -18,6 +19,7 @@ const n = [
    'nicht bei Trost sein', //   duplicated
    'Nichts für ungut', 
    'niederreißen, einreißen',  //   duplicated
+   'niederträchtig',  // niederträchtig: *
    'niegelnagelneu',  // niegelnagelneu: 
    'niesen',  // niesen: 
    'Nobel/Vornehm geht die Welt zugrunde' , //  duplicated

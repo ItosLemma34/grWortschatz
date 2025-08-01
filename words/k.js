@@ -32,6 +32,7 @@ const k = [
    'kichern',  // kichern: 
    'Kieker (auf dem K. haben)', 
    'Kies, Kiesel', // *
+   'Kimme und Korn',  // *
    'Kinderficker',  // Kinderficker: 
    'Kinkerlitzchen', // Kinkerlitzchen: 
    'Kipplaster',  // Kipplaster: 
@@ -82,7 +83,8 @@ const k = [
    'knirschen', // knirschen:  
    'knistern', // knistern: 
    'Knöchel',  // Knöchel: 
-   'Knochen/Kopf hinhalten', 
+ //  'Knochen/Kopf hinhalten', 
+   'Knochen/Kopf hinhalten, hinhalten', // duplicated *
    'knorke',  // knorke:
    'knorrig',  // knorrig: 
    'Knuff, knuffen',    

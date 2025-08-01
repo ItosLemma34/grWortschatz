@@ -23,6 +23,57 @@ zzz: [
 	'<u>Lunapark</u>',   
 ],
  */ 
+'hinhalten, Knochen/Kopf hinhalten': [  
+	'<strong>hinhalten</strong>: hold sth. out; <i>fig</i>: stall/string along; take blame for sth.'+
+	'<br><strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hinhalten"target="target1">hinhalten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hinhalten"target="target2">hinhalten</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hinhalten"target="target3">hinhalten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hinhalten&id=verb%3Ahinhalten"target="target4">hinhalten</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<i>Wolter, zu Rath</i>: "Mein Junge, nicht so nachdenklich! Ich hätt dir den Kopf schon nicht abgerissen, wenn heute Abend ’ne Niete dabei gewesen wäre. Wir haben die Aktion zusammen geplant, und wenn irgendwas danebengegangen wäre, dann hätte ich meinen dicken Schädel schon dafür <strong>hingehalten</strong>. (<i>Der nasse Fisch</i>, 248)',
+	'<u>Märzgefallene</u>',
+	'Sie hatten ihre Gesundheit geopfert für das Vaterland, und nun kümmerte sich kein Mensch mehr um sie. Selbst den Leuten, die sie anbettelten, war ihr Anblick eher lästig, als dass sie Mitleid empfanden. Und schon gar keine Dankbarkeit. Dafür, dass diese Männer ihre <strong>Knochen hingehalten</strong> hatten für den Patriotismus der Daheimgebliebenen. (<i>Märzgefallene</i>, 10)' ,
+	'<i>von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese Schmierfinken über einen Mann, der für ihresgleichen seine <strong>Knochen hingehalten</strong> hat!" (<i>Märzgefallene</i>, 132)' ,
+	'<u>Lunapark</u>',
+	'<i>ein Shupo</i>: ".. Die Lage hat sich zwar beruhigt seit der nationalen Revolution, aber wenn die Roten sich dann doch mal aus ihren Löchern wagen, gibt’s gleich Tote. <i>Rath</i>: "Hört sich an, als hätten Sie Erfahrung damit." "Dreiundfuffzichstes Revier", sagte der Schupo, als erkläre das alles. ".. Wir ham immer schon unseren <strong>Kopp hinhalten</strong> müssen." "Na, aber diesmal hat, wie es aussieht, jemand anderes seinen <strong>Kopf hingehalten</strong>", meinte Rath mit Blick auf die Leiche. (<i>Lunapark</i>, 16-17)',
+	'Also setzte sie sich aufs Bett und versuchte zu verstehen. Sie (<i>Charly</i>) war ein Faustpfand, nichts weiter. Für irgendetwas, das Gereon für Johann Marlow erledigen sollte. Was war sie nur für eine dumme Pute! Hatte sich einem Gangster anvertraut. Marlow hatte sie <strong>hingehalten</strong>. (<i>Lunapark</i>, 503)',  
+],
+'Knochen/Kopf hinhalten, hinhalten': [  
+	'<strong>hinhalten</strong>: hold sth. out; <i>fig</i>: stall/string along; take blame for sth.'+
+	'<br><strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hinhalten"target="target1">hinhalten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hinhalten"target="target2">hinhalten</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hinhalten"target="target3">hinhalten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hinhalten&id=verb%3Ahinhalten"target="target4">hinhalten</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<i>Wolter, zu Rath</i>: "Mein Junge, nicht so nachdenklich! Ich hätt dir den Kopf schon nicht abgerissen, wenn heute Abend ’ne Niete dabei gewesen wäre. Wir haben die Aktion zusammen geplant, und wenn irgendwas danebengegangen wäre, dann hätte ich meinen dicken Schädel schon dafür <strong>hingehalten</strong>. (<i>Der nasse Fisch</i>, 248)',
+	'<u>Märzgefallene</u>',
+	'Sie hatten ihre Gesundheit geopfert für das Vaterland, und nun kümmerte sich kein Mensch mehr um sie. Selbst den Leuten, die sie anbettelten, war ihr Anblick eher lästig, als dass sie Mitleid empfanden. Und schon gar keine Dankbarkeit. Dafür, dass diese Männer ihre <strong>Knochen hingehalten</strong> hatten für den Patriotismus der Daheimgebliebenen. (<i>Märzgefallene</i>, 10)' ,
+	'<i>von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese Schmierfinken über einen Mann, der für ihresgleichen seine <strong>Knochen hingehalten</strong> hat!" (<i>Märzgefallene</i>, 132)' ,
+	'<u>Lunapark</u>',
+	'<i>ein Shupo</i>: ".. Die Lage hat sich zwar beruhigt seit der nationalen Revolution, aber wenn die Roten sich dann doch mal aus ihren Löchern wagen, gibt’s gleich Tote. <i>Rath</i>: "Hört sich an, als hätten Sie Erfahrung damit." "Dreiundfuffzichstes Revier", sagte der Schupo, als erkläre das alles. ".. Wir ham immer schon unseren <strong>Kopp hinhalten</strong> müssen." "Na, aber diesmal hat, wie es aussieht, jemand anderes seinen <strong>Kopf hingehalten</strong>", meinte Rath mit Blick auf die Leiche. (<i>Lunapark</i>, 16-17)',
+	'Also setzte sie sich aufs Bett und versuchte zu verstehen. Sie (<i>Charly</i>) war ein Faustpfand, nichts weiter. Für irgendetwas, das Gereon für Johann Marlow erledigen sollte. Was war sie nur für eine dumme Pute! Hatte sich einem Gangster anvertraut. Marlow hatte sie <strong>hingehalten</strong>. (<i>Lunapark</i>, 503)',  
+],
+'Kimme und Korn': [  
+	'<strong>Kimme und Korn</strong>: rear sight (Kimme) and front sight (Korn) of a pistol/rifle'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kimme"target="target1">Kimme</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Korn"target="target2">Korn</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Kimme+und+Korn"target="target3">Kimme und Korn</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kimme-und-korn"target="target4">Kimme und Korn</a>',
+	'<u>Lunapark</u>', 
+	'Freies Schussfeld. Rath nahm den Gangster ins Visier. <i>Wenn Sie Leo erschießen, bekommen Sie womöglich einen Orden, Kommissar!</i> <strong>Kimme und Korn</strong> markierten jene Stelle zwischen Leos Schulterblättern, hinter der das Herz saß. Rath zielte sorgfältig. (<i>Lunapark</i>, 314-15)',
+	'Fritze war die Sache nicht ganz geheuer.. Sollte er wirklich schießen?! Einerseits fand er das natürlich knorke, andererseits fühlte er sich ein bisschen überrumpelt. Er hatte sich auf einen Angelausflug eingestellt. "Siehst du dahinten den Baum? Nimm ihn ins Visier." Fritze schaute seinen Stammführer fragend an. "Ein Auge zukniepen, dann über <strong>Kimme und Korn</strong> anvisieren." (<i>Lunapark</i>, 460)',
+	'Und er war hochkonzentriert, das konnte man an seinem Gesicht erkennen. Wie er die Waffe hielt und Juretzka über <strong>Kimme und Korn</strong> anpeilte, das sah richtig gut aus. Dabei hatte Fritze noch nie in seinem Leben geschossen. (<i>Lunapark</i>, 529)',
+],
+niederträchtig: [  
+	'<strong>niederträchtig</strong>: base, mean, despicable, vile'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/niedertraechtig"target="target1">niederträchtig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/niedertr%C3%A4chtig"target="target2">niederträchtig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/niedertraechtig#niedertr%C3%A4chtig"target="target3">niederträchtig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=niedertr%C3%A4chtig&id=adjektiv%3Aniedertra3chtig%23niedertra3chtig"target="target4">niederträchtig</a>',
+	'<u>Lunapark</u>',
+	'Er (<i>Osterberg</i>) war ein aufrechter Patriot, er liebte nicht nur seine Firma, seine Stadt, er liebte sein Land, das er im Krieg gegen die Russen verteidigt hatte. Allein der Gedanke, es verlassen zu wollen, erschien ihm wie <strong>niederträchtiger</strong> Verrat. (<i>Lunapark</i>, 557)',
+],
+nachbeten: [  
+	'<strong>nachbeten</strong>: parrot, regurgitate, echo'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/nachbeten"target="target1">nachbeten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nachbeten"target="target2">nachbeten</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nachbeten"target="target3">nachbeten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/nachbeten"target="target4">nachbeten</a>',
+	'<u>Lunapark</u>', 
+	'Emilie (<i>Osterberg</i>) fuhr scharf dazwischen: "Wenn du (<i>Adolf Osterberg</i>) noch ein einziges Mal einen von diesen Verbrechern zitierst und <strong>nachbetest</strong>, lasse ich mich scheiden! Auf der Stelle!" (<i>Lunapark</i>, 557)',
+],
 entwenden: [  
 	'<strong>entwenden</strong>: steal, pilfer, purloin'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entwenden"target="target1">entwenden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entwenden"target="target2">entwenden</a>'+
@@ -77,11 +128,13 @@ eintrichtern: [
 	'<br><strong>erbosen</strong>: anger, infuriate'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erbost"target="target1">erbost</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erbosen"target="target2">erbosen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/erbost"target="target3">erbost</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erbosen&id=verb%3Aerbosen"target="target4">erbosen</a>',
-	'<u>Der nasse Fisch</u>',   
-	'<u>Märzgefallene</u>',    
+	'<u>Märzgefallene</u>', 
+	'Böhm nickte. "Jaja, die Maßstäbe scheinen sich in diesen Zeiten zu verschieben. Mir wurde heute nahegelegt, nicht allzuviel Energie in die Ermittlung der Todesumstände eines gewaltsam umgekommenen Obdachlosen zu stecken. Die Polizei habe wichtigere Aufgaben." <i>Charly</i>: "Wer sagt denn so etwas? Doch nicht Gennat?" Böhm schüttelte den Kopf. "Ein dahergelaufener Hilfspolizis sagt so etwas. Ein SA-Mann, herbeigerufen von einem <strong>erbosten</strong> Bürger, heute Morgen am Nollendorfplatz. (<i>Märzgefallene</i>, 32-33)',   
 	'<u>Lunapark</u>', 
 	'<i>Gereon</i>: "Und das Röhm ein Hundertfünfundsiebziger war, steht ja wohl fest. Das haben die Spatzen schon länger von den Dächern gepfiffen. "Et jeht doch hier nicht um Hundertfünfundsiebziger, mein junger Herr Rath", sagte Adenauer und schien ernsthaft <strong>erbost</strong>. (<i>Lunapark</i>, 534)',  
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 'plappern, nachplappern, Geplapper': [  
 	'<strong>plappern</strong>: blab, babble, chatter'+
 	'<br><strong>nachplappern</strong>: parrot, repeat'+
@@ -300,11 +353,12 @@ Gemetzel: [
 ],
 Schwerenöter: [  
 	'der <strong>Schwerenöter</strong>,-: charmer, womanizer, philanderer'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schwerenoeter"target="target1">Schwerenöter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schweren%C3%B6ter"target="target2">Schwerenöter</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Schweren%C3%B6ter"target="target3">Schwerenöter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schweren%C3%B6ter&id=substantiv%3ASchwereno3ter"target="target4">Schwerenöter</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schwerenoeter"target="target1">Schwerenöter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schweren%C3%B6ter"target="target2">Schwerenöter</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schwerenoeter"target="target3">Schwerenöter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schweren%C3%B6ter&id=substantiv%3ASchwereno3ter"target="target4">Schwerenöter</a>',
 	'<u>Der nasse Fisch</u>', 
 	'<i>Rath</i>: "Wo ist denn unsere Hausherrin?" <i>Weinert</i>: "Die? Müsste gleich wieder hier sein.. Vielleicht könnt ihr ja zusammen Abendrot essen - wenn sie dir verziehen hat, du <strong>Schwerenöter</strong>! Einfach Damenbesuch zu empfangen! Tss tss!" (<i>Der nasse Fisch</i>, 444)',  
-//	'<u>Lunapark</u>',   
+	'<u>Lunapark</u>', 
+	'So wütend hatte Osterberg seine Frau nicht mehr erlebt, seit er vor vielen Jahren einmal viel zu spät von einer Geschäftsreise in Berlin heimgekehrt war, weil Rosenthal, der alte <strong>Schwerenöter</strong>, ihn zur Feier eines Geschäftsabschlusses noch in ein Etablissement hatte schleppen müssen, wo sich dann diese hübsche Rothaarige zu ihnen gesellt... (<i>Lunapark</i>, 555)',
 ],
 Feder: [  
 	'die <strong>Feder</strong>,-<strong>n</strong>: feather; spring (tech)'+
@@ -10098,16 +10152,6 @@ Knöchel: [
     '"Bin ich ein Gefangener der Piraten oder der SA?", fragte Leo, als der Schmerz abklang, und bezahlte das mit einem Gummiknüppelschlag auf die ohnehin schon geschwollenen Finger<strong>knöchel</strong>. (<i>Märzgefallene</i>, 112)',
 	'Wenigstens zeigten ihm (<i>Rath</i>) die Mündungsblitze (<i>der Pistole</i>), dass Roddeck nicht weit war, Rath sah dessen Silhouette, wie sie sich vor dem schummrigen Licht am Ende des Tunnels abzeichnete... Er beschleunigte und setzte zu einem Hechtsprung an, bekam die <strong>Knöchel</strong> des Fliehenden zu fassen und brachte ihn zu Fall.  (<i>Märzgefallene</i>, 577)' ,
 ],
-'Knochen/Kopf hinhalten': [
-	'<strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https:www.openthesaurus.de/synonyme/seine%20Knochen%20hinhalten"target="target1">Knochen hinhalten</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Knochen+hinhalten&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Knochen hinhalten</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/knochen%20hinhalten"target="target3">Knochen hinhalten</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=seine+Knochen+f%C3%BCr+etw.++hinhalten"target="target4">Knochen hinhalten</a>  ' ,
-	'<u>Märzgefallene</u>',
-	'Sie hatten ihre Gesundheit geopfert für das Vaterland, und nun kümmerte sich kein Mensch mehr um sie. Selbst den Leuten, die sie anbettelten, war ihr Anblick eher lästig, als dass sie Mitleid empfanden. Und schon gar keine Dankbarkeit. Dafür, dass diese Männer ihre <strong>Knochen hingehalten</strong> hatten für den Patriotismus der Daheimgebliebenen. (<i>Märzgefallene</i>, 10)' ,
-	'<i>von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese Schmierfinken über einen Mann, der für ihresgleichen seine <strong>Knochen hingehalten</strong> hat!" (<i>Märzgefallene</i>, 132)' ,
-	'<u>Lunapark</u>',
-	'Rath zeigte dem Schupo seinen Dienstausweis. "Sie haben ja mächtig viel Männer im Einsatz", sagte er. "Man kann nie wissen, das hier ist immer noch \'ne rote Ecke. Die Lage hat sich zwar beruhigt seit der nationalen Revolution, aber wenn die Roten sich dann doch mal aus ihren Löchern wagen, gibt\'s gleich Tote." <i>Rath</i>: "Hört sich an, als hätten Sie Erfahrung damit." "Dreiundfuffzichstes Revier", sagte der Schupo, als erkläre das alles. "... Wir ham immer schon unseren <strong>Kopp (<i>Kopf</i>) hinhalten</strong> müssen." "Na, aber diesmal hat, wie es aussieht, jemand anderes seinen <strong>Kopf hingehalten</strong>", meinte Rath mit Blick auf die Leiche.   (<i>Lunapark</i>, 16-17)' ,
-],
 knirschen: [
 	'<strong>knirschen</strong>: crunch, grind'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knirschen"target="target1">knirschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knirschen"target="target2">knirschen</a>'+
@@ -11087,6 +11131,7 @@ meckern: [
 	'<u>Lunapark</u>',
 	'<i>Pfeiffer</i>: "Walter Spindler ist so gut wie nie verhaftet worden. Erst als die Rotfront den Kameraden Maikowski <strong>meuchelte</strong>, hat ihn auch seine Blindenbinde nicht mehr gerettet." (<i>Lunapark</i>, 289)', 
 	'In der Presse war seine (<i>Raths</i>) Heldentat, das Ausschalten eines polizeibekannten Berufsverbrechers, der sich offensichtlich einer bolschewistischen Widerstandsgruppe angeschlossen hatte, um unschuldige SA-Männer zu <strong>meucheln</strong>, leider etwas untergegangen angesichts der vielen anderen Heldentaten, die nötig gewesen waren, um den Putsch der Verschwörer um Röhm zu verhindern... (<i>Lunapark</i>, 544)',
+	'<i>Emilie Osterberg</i>: ".. Die Regierung des Deutschen Reiches hat sich verhalten wie eine Gangsterbande und all ihre Feinde <strong>meucheln</strong> lassen..." (<i>Lunapark</i>, 556)',
 ],
 Messing: [
 	'das <strong>Messing</strong>,-<strong>e</strong>: brass' +

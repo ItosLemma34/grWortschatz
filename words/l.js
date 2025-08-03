@@ -1,6 +1,6 @@
 const l = [
    'Lache',  // Lache: 
-   'Lack, lackieren',   
+   'Lack, lackieren', // *  
    'Lackaffe',  // Lackaffe:  
    'lädieren',  // lädieren: *
    'laff',  // laff: 

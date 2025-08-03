@@ -1,5 +1,5 @@
 const t = [
-   'Tacheles (reden)',  
+   'Tacheles (reden)', // *
    'täfeln, getäfelt', //  duplicated
    'Tantieme',  // Tantieme: 
    'tapsen' ,  // tapsen: 
@@ -28,7 +28,7 @@ const t = [
    'trippeln', // trippeln:  
    'trollen (sich)',   
    'Tropf',  // Tropf:  
-   'Tropfen, tropfen',     
+   'Tropfen, tropfen', // *    
    'Tross/Troß', // 
    'Trost (nicht bei T. sein)',  //   duplicated
    'Trott, trotten',  // 

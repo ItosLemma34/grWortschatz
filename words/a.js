@@ -93,6 +93,7 @@ const a = [
 	'Asservat',  // Asservat:  
 	'Ast, Geäst', //  duplicated
 	'Attest',     //  Attest: 
+	'ätzen, wegätzen',  // duplicated *
 	'auf Biegen und Brechen',  
 	'auf dem Kerbholz haben', //  duplicated
 	'auf dem Kieker haben', //  duplicated
@@ -138,7 +139,7 @@ const a = [
 	'aufputschen',  // aufputschen: 
 	'aufrappeln, hochrappeln', // duplicated  *
 	'aufs Auge drücken',   
-	'aufs Dach steigen',   
+	'aufs Dach steigen',    // duplicated *   
 	'aufs Korn nehmen',  
 	'aufschaukeln, schaukeln', //  duplicated  
 	'aufscheuchen',    // aufscheuchen:   

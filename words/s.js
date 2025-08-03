@@ -5,6 +5,7 @@ const s = [
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
    'säumen', // säumen:  
+   'Säure',  // Säure:  *
    'Sause',  //Sause:  
    'sausen', // sausen:  
    'schaben', // schaben:
@@ -107,19 +108,19 @@ const s = [
    'Schrippe', // Schrippe:  
    'Schritt',  // Schritt:  
    'Schrotflinte', // Schrotflinte: 
-   'Schrott',  // Schrott:  
+   'Schrott',  // Schrott:  *
    'Schrubber, schrubben', //   
    'schubsen',  // schubsen:  
    'schummrig',  // schummrig: 
    'Schund',  // Schund: 
    'schunkeln', // schunkeln: 
-   'Schuppen',  // Schuppen:  
+   'Schuppen',  // Schuppen:  * 
    'schüren',  // schüren:    
    'schurigeln', // schurigeln:         
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated
    'Schüssel, Kloschüssel',  //  duplicate
-   'schütten, aus-, ver-, zu-',          
+   'schütten, aus-, ver-, zu-', // *         
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
    'Schütze',  // Schütze:
@@ -189,7 +190,7 @@ const s = [
    'Stiefel, stiefeln', 
    'stieren, anstieren',  //   duplicated
    'stöbern',  // stöbern:  
-   'stochern',  // stochern: 
+   'stochern',  // stochern:  *
    'stöckeln, Stöckelschuh', 
    'stöhnen, aufstöhnen', //   duplicated
    'stopfen, Stopfen', 
@@ -209,7 +210,7 @@ const s = [
    'Strudel',  // Strudel:
    'strunzdämlich',   // strunzdämlich:   include Duden
    'Stuck', // Stuck: 
-   'Stulle',  // Stulle: 
+   'Stulle',  // Stulle: *
 	'stülpen (sich)', 
    'Stummel',  // Stummel: 
    'Stümper, stümperhaft', 

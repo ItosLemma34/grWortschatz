@@ -6,12 +6,14 @@ const w = [
    'wähnen',  // wähnen: 
    'wälzen (sich)',  
    'Wampe', // Wampe: 
+   'Wanst',  // Wanst:  *
    'Wappen' ,  // Wappen: 
    'warm anziehen (sich)', 
    'was das Zeug hält', //  duplicated 
    'Wassern (mit allen W. gewaschen)',  //  duplicated
    'Wecker (auf den W. gehen)',  //  duplicated
-   'wedeln',  // wedeln: 
+   'wedeln',  // wedeln: *
+   'wegätzen, ätzen',  // duplicated *
    'wegducken (sich)', 
    'Wehwehchen',  // Wehwehchen:  
    'weichklopfen',  // weichklopfen: 

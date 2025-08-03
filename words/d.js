@@ -1,5 +1,7 @@
 const d = [
+   'Dach (aufs D. steigen)', //duplicated *
    'Dachlatte, Zaunlatte', // duplicated  *
+   'dahinraffen, raffen',  // duplicated *
    'dämlich, Dämlichkeit',  // 
    'Dampframme',  // Dampframme:  
    'Dampfwalze',  // Dampfwalze: 
@@ -33,6 +35,7 @@ const d = [
    'durch den Wind sein', //  dulicated
    'durch den Wolf drehen',  //   duplicated 
    'durch die Mangel drehen', //  duplicated
+   'durchbrennen',  // durchbrennen: *
    'durchdrehen',  // durchdrehen: 
    'durchforsten', // durchforsten: 
    'durchkämmen',  // durchkämmen: 

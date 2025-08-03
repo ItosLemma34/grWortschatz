@@ -64,7 +64,8 @@ const f = [
    'fuhrwerken', // fuhrwerken:    
    'fummeln',    // fummeln:  
    'funzelig',   // funzelig:   
-   'Furz',     // Furz:  
+   'Furz',     // Furz:
+   'Fusel', // Fusel:  *  
    'Fußstapfe, stapfen',  // duplicated
    'Futter',  // Futter: 
  ];

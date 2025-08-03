@@ -3,13 +3,13 @@ const r = [
    'Rabe',  // Rabe: 
    'rabiat', // rabiat: 
    'Radau, Radaubruder', 
-   'raffen',  // raffen:  
+   'raffen, dahinraffen',  // duplicated * 
    'rammen',  // rammen: 
    'ramponiert, ramponieren' ,  
    'Rangelei',  // Rangelei: 
    'Ranzen',  // Ranzen:  
    'rascheln', // rascheln: 
-   'rasen',  // rasen: 
+   'rasen',  // rasen: *
    'rasseln', // rasseln: 
    'Ratsch', // Ratsch: 
    'Rätselraten', // Rätselraten: 
@@ -56,7 +56,8 @@ const r = [
    'rumsen',  // rumsen: 
    'rupfen', // rupfen: 
    'Rüsche', // Rüsche: 
-   'rüstig', // rüstig: 
+   'Ruß',  // Ruß: *
+   'rüstig', // rüstig: *
    ];
 
 export default r;      

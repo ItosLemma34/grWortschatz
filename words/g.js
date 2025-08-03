@@ -1,6 +1,6 @@
 const g = [
    'Gage',  // Gage:  
-   'Ganove', // Ganove:  
+   'Ganove', // Ganove:  *
    'Gänsehaut', // Gänsehaut: 
    'Gassi gehen',  
    'Gauner', // Gauner: *
@@ -19,7 +19,7 @@ const g = [
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'geizen',   // geizen:  
    'Gekrächz',  // Gekrächz:   
-   'Gelände',   // Gelände:  
+   'Gelände',   // Gelände: * 
    'Geländer',  // Geländer:  
    'gelinde',   // gelinde:  
    'Gemächt',  // Gemächt:

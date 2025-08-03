@@ -29,7 +29,7 @@ const h = [
    'Heckenschütze',  // Heckenschütze:  
    'Heft des Handelns nehmen', 
    'heften', // heften: 
-   'hegen',  // hegen:
+   'hegen',  // hegen:  *
    'Hehler', // Hehler:  
    'Heidenarbeit', // Heidenarbeit:  
    'Heidenrespekt/angst', 

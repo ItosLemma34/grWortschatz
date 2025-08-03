@@ -18,7 +18,7 @@ const v = [
    'verfilzen' ,  //verfilzen:  
   // 'verflixt',  open with more examples
    'vergackeiern',  //vergackeiern:  
-   'vergaloppieren (sich)', 
+   'vergaloppieren', // *
    'vergeigen', //  vergeigen:
    'vergewissern (sich)',  
    'ver­grau­len, Vergraulung', 

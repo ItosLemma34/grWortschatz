@@ -56,7 +56,7 @@ const k = [
    'klebrig', // klebrig: 
    'kleistern, Kleister', 
    'Klemme, klemmen',  // *
-   'Klette',  // Klette: 
+   'Klette',  // Klette: *
    'klimpern', // klimpern: 
    'Klinge', //  Klinge: 
    'Klippe', //  Klippe: 

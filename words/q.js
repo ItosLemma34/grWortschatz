@@ -3,7 +3,7 @@ const q = [
    'Quast', // Quast: 
    'quellen, überquellen',  //  dupplicated
    'quengeln', // quengeln:
-   'Quere (in die Q. kommen)', //  duplicated
+   'Quere (in die Q. kommen)', //  duplicated *
    'Querschläger',  // Querschläger: 
    'Querschnitt', // Querschnitt: 
    'quetschen, heraus-, zer-', // *

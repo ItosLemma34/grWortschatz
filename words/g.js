@@ -76,7 +76,7 @@ const g = [
    'gleißen, gleißend',    
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated
-   'glotzen, anglotzen',  //  duplicated  
+   'glotzen, anglotzen',  //  duplicated  * 
    'gluckern', // gluckern:  
    'goldene Nase (sich verdienen)',  
    'Gör, Göre',   
@@ -84,6 +84,7 @@ const g = [
    'grämen',  // grämen:  
    'grapschen',  // grapschen: 
    'grauen',  // grauen:
+   'Griesgram, griesgrämig',  // *
    'Grimm, grimmig', 
    'grölen', // grölen:  
    'große Stücke auf jmdn. halten', 

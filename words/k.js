@@ -132,7 +132,7 @@ const k = [
    'Kröte (K. schlucken)', 
    'Krümel',  // Krümel: 
    'krümmen', // *
-   'kullern', // kullern:
+   'kullern', // kullern: *
    'Kumpel', // Kumpel: 
    'kundschaften', // kundschaften:
    'Kuppe',  // Kuppe: *  

@@ -15,7 +15,7 @@ const p = [
    'peinigen, Peiniger',
    'Pelle (auf die P. rücken)', //  duplicated
    'Pest an den Hals', 
-   'petzen', // petzen: 
+   'petzen', // petzen: *
    'Pfaffe', // Pfaffe: 
    'Pfanne (in die P. hauen)',  //    duplicated
    'Pfau',  // Pfau: 
@@ -50,6 +50,7 @@ const p = [
    'Präsent, präsent',  // 
    'prasseln',  // prasseln: 
    'preschen',  // preschen:
+   'prickeln',  // prickeln: *
    'Prise' ,  // Prise: 
    'Pritsche', // Pritsche: 
    'Prothese', // Prothese: 

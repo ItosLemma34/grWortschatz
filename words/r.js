@@ -33,9 +33,9 @@ const r = [
    'requirieren', // requirieren: 
    'reüssieren',  // reüssieren: 
    'Revers',  // Revers:  
-   'Riegel, riegeln', 
+   'Riegel, riegeln', // * 
    'rieseln',  // rieseln: 
-   'Rinde',  // Rinde: 
+   'Rinde',  // Rinde: *
    'Rindvieh' , // Rindvieh:  
    'Rinne',  // Rinne: 
    'Rinnsal', // Rinnsal: 

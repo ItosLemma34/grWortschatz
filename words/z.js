@@ -3,10 +3,10 @@ const z = [
    'zahm, handzahm', //   duplicated  *
    'Zahn (auf den Z. fühlen)', //  duplicated *
    'Zange (in die Z. nehmen)', //  duplicated *
-   'zanken (sich)',  // 
-   'Zapfen', // Zapfen: 
+   'zanken',  // *
+   'Zapfen', // Zapfen: *
    'zappeln', // zappeln: * 
-   'Zarge' , // Zarge: 
+   'Zarge' , // Zarge: * 
    'zaudern', // zaudern: 
    'Zaunlatte, Dachlatte',  // duplicated *
    'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated

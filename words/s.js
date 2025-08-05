@@ -8,7 +8,7 @@ const s = [
    'Säure',  // Säure:  *
    'Sause',  //Sause:  
    'sausen', // sausen:  
-   'schaben', // schaben:
+   'schaben, abschaben', // duplicated *
    'Schablone',  // Schablone:   
    'schade (zu schade sein)',   //duplicated 
    'schälen', // schälen:    
@@ -123,7 +123,7 @@ const s = [
    'schütten, aus-, ver-, zu-', // *         
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
-   'Schütze',  // Schütze:
+   'Schütze',  // Schütze: *
    'Schwaden', // Schwaden:  
    'schwafeln', // schwafeln 
    'schwanen', // schwanen:  

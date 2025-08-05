@@ -13,7 +13,7 @@ const v = [
    'verdruckst',  //verdruckst: 
    'verdünnisieren (sich)' , 
    'verdunsten',  // verdunsten: 
-   'verdutzt',  // verdutzt: 
+   'verdutzt',  // verdutzt: *
    'verflachen', // verflachen:  
    'verfilzen' ,  //verfilzen:  
   // 'verflixt',  open with more examples

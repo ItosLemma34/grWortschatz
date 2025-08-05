@@ -8,6 +8,7 @@ const a = [
 	'abgrasen',   // abgrasen:   
 	'abgreifen, abgegriffen',   
 //	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
+	'abheften, heften, Hefter', // triplicated *
 	'abkanzeln' , // abkanzeln:  
 	'abklappern', // abklappern: 
 	'abknallen',  // abknallen:  
@@ -17,6 +18,7 @@ const a = [
 	'Abordnung',  // Abordnung:
 	'abpassen',   // abpassen:
 	'absäbeln',  //  absäbeln:
+	'abschaben, schaben',  // duplicated  *
 	'abschüssig',  // abschüssig:  
 	'abspecken',  // abspecken:
 	'abspulen',   // abspulen:  
@@ -50,7 +52,7 @@ const a = [
 	'anflehen',  // anflehen: * add flehen, make dupicated
 	'angeben, Angeber',  //   duplicated
 	'angeschickert', // angeschickert: 
-	'anglotzen, glotzen', //  duplicated 
+	'anglotzen, glotzen', //  duplicated  *
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln:
 	'ankotzen, Kotze, kotzen',  // duplicated   
@@ -121,7 +123,7 @@ const a = [
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern (sich)',  
 	'auffächern, fächern', //  duplicated
-	'auffliegen',  // auffliegen:   
+	'auffliegen',  // auffliegen: * 
 	'aufgabeln',   // aufgabeln:  
 	'aufgedunsen', // aufgedunsen:  
 	'aufgekratzt', // aufgekratzt: 

@@ -13,6 +13,32 @@ zzz: [
 	'<u>Lunapark</u>',   
 ],
  */ 
+ungezogen: [  
+	'<strong>ungezogen</strong>: ill-mannered, naughty, rude'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ungezogen"target="target1">ungezogen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ungezogen"target="target2">ungezogen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ungezogen"target="target3">ungezogen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ungezogen&id=adjektiv%3Aungezogen%23ungezogen"target="target4">ungezogen</a>',
+	'<u>Der nasse Fisch</u>', 
+	'<i>Gräf</i>: "Und seit wann werden Kommissare bei Observierungen eingesetzt?" "Nur wenn sie <strong>ungezogen</strong> waren", sagte Rath und steckte sich eine Zigarette an. Die letzte. "Ich würde Ihnen ja gerne eine anbieten, aber..." Er zeigte Gräf die leere Schachte. "Schon gut. Ich rauche sowieso nur, wenn ich trinke." "Also, einen Flachmann kann ich jetzt nicht auch noch hervorzaubern." Gräf lachte. "Sie waren also <strong>ungezogen</strong>?" "Fragen Sie Gennat." (<i>Der nasse Fisch</i>, 472)',   
+	'<u>Lunapark</u>', 
+	'<i>Rath</i>: "Aber er (<i>Gräf</i>) ist bei der Staatspolizei und hat dort eine große Karriere vor sich, wie man sich erzählt." Gennat schaute ihn an, wie man ein <strong>ungezogenes</strong> Kind anschaut, das seinen Fehler nicht verstehen, geschweige denn einsehen will. (<i>Lunapark</i>, 154)',
+	'"Natürlich gehören die umerzogen", sagte er (<i>Gereon</i>). "Genau wie <strong>ungezogene</strong> Jungen, die an der Tür lauschen und alles falsch verstehen. Aber das machen wir nicht im KL, das machen wir hier zuhause." (<i>Lunapark</i>, 340)',
+],
+'schauern, erschauern': [  
+	'<strong>schauern</strong>: shiver, schudder'+
+	'<br><strong>erschauern</strong>: tremble, shiver, shudder'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schauern"target="target1">schauern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erschauern"target="target2">erschauern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schauern"target="target3">schauern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erschauern&id=verb%3Aerschauern"target="target4">erschauern</a>',
+	'<u>Der nasse Fisch</u>', 
+	'".. Irgendwie muss er in die Schussbahn geraten sein. Als der Arzt eintraf, war er schon tot. Erschossen von den eigenen Kameraden. Fünf Kugeln haben sie aus seinem Körper geholt." Gennat hielt inne als ließe ihn die Erinnerung heute noch <strong>erschauern</strong>. (<i>Der nasse Fisch</i>, 471)',  
+],
+'erschauern, schauern': [  
+	'<strong>schauern</strong>: shiver, schudder'+
+	'<br><strong>erschauern</strong>: tremble, shiver, shudder'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schauern"target="target1">schauern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erschauern"target="target2">erschauern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schauern"target="target3">schauern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erschauern&id=verb%3Aerschauern"target="target4">erschauern</a>',
+	'<u>Der nasse Fisch</u>', 
+	'".. Irgendwie muss er in die Schussbahn geraten sein. Als der Arzt eintraf, war er schon tot. Erschossen von den eigenen Kameraden. Fünf Kugeln haben sie aus seinem Körper geholt." Gennat hielt inne als ließe ihn die Erinnerung heute noch <strong>erschauern</strong>. (<i>Der nasse Fisch</i>, 471)',  
+],
 'heften, abheften, Hefter': [  
 	'der <strong>Hefter</strong>,-: folder, binder; stapler'+
 	'<br><strong>heften</strong>: fasten, attach, pin/staple'+
@@ -1997,10 +2023,10 @@ peilen: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Flachmann: [
 	'der <strong>Flachmann</strong>,-<strong>männer</strong>: pocket/hip flask, bottle'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Flachmann&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Flachmann</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flachmann"target="target2">Flachmann</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flachmann"target="target3">Flachmann</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Flachmann"target="target4">Flachmann</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',  
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Flachmann&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Flachmann</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flachmann"target="target2">Flachmann</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/flachmann"target="target3">Flachmann</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Flachmann"target="target4">Flachmann</a>',
+	'<u>Der nasse Fisch</u>',
+	'<i>Gräf</i>: "Und seit wann werden Kommissare bei Observierungen eingesetzt?" "Nur wenn sie ungezogen waren", sagte Rath und steckte sich eine Zigarette an. Die letzte. "Ich würde Ihnen ja gerne eine anbieten, aber..." Er zeigte Gräf die leere Schachte. "Schon gut. Ich rauche sowieso nur, wenn ich trinke." "Also, einen <strong>Flachmann</strong> kann ich jetzt nicht auch noch hervorzaubern."  (<i>Der nasse Fisch</i>, 472)',   
 	'<u>Lunapark</u>',  
 	'Seine größte Angst war, ihm könnten wieder die Nerven versagen, deshalb hatte er vorgesorgt. Und genau jetzt war die richtige Zeit für den ersten Schluck. Rath schraubte den kleinen Edelstahl<strong>flachmann</strong> auf, den er zuhause mit Cognac gefüllt und eingesteckt hatte. Heimlich, damit Charly nichts davon mitbekam. (<i>Lunapark</i>, 372)', 
 	'Die Kopfschmerzen hinderten ihn (<i>Rath</i>) am Denken, er nahm noch eine Phenacetin. Die musste er mit einem Schluck Cognac aus seinem <strong>Flachmann</strong> hinunterspülen. (<i>Lunapark</i>, 391)', 
@@ -2624,6 +2650,7 @@ Jeton: [
 	'Dieser Streit war seit Tagen überfällig. Wie ein Gewitter, das sich endlich entlädt und eine drückende <strong>Schwüle</strong> beseitigt. (<i>Der nasse Fisch</i>, 332)',
 	'Der leichte Regen hatte inzwischen ganz aufgehört. Die <strong>Schwüle</strong> wurde immer unerträglicher, der Boden dampfte. Die feuchtwarme Luft trug den Verwesungsgeruch in Schwaden über die Gräber. (<i>Der nasse Fisch</i>, 406)',
 	'Irgendwann hatte ihn (<i>Rath</i>) schon am Ostbahnhof die Müdigkeit übermannt. Als sie vom kühlen Bahngelände in Marlows Büro gegangen waren, in dem immer noch die Gewitter<strong>schwüle</strong> hing, und er sich in den bequemen Sessel gesetzt hatte,.. hatte er seine Augen kaum noch aufhalten können. (<i>Der nasse Fisch</i>, 463)',
+	'Das Gewitter gestern Abend hatte die Schwüle nicht vertrieben. Die feuchtwarme Luft machte die Müdigkeit noch unerträglicher. (<i>Der nasse Fisch</i>, 472)',
 	'<u>Lunapark</u>', 
 	'Obwohl es erst kurz nach acht war und der Himmel bewölkt, lag schon eine drückende Hitze in der Luft. Wieder ein Tag mit Kopfschmerzen. Wenn Andreas Lange eines nicht vertragen konnte, dann was es <strong>schwüles</strong> Wetter.  (<i>Lunapark</i>, 323)',  
 	'Wie groß die Sorgen tatsächlich waren, die sich Karl Reinhold machen musste, sollte Rath erst an diesem <strong>schwülen</strong> Montagmorgen erfahren.   (<i>Lunapark</i>, 326)',  
@@ -2860,11 +2887,11 @@ hadern: [
 ],
 brenzlig: [
 	'<strong>brenzlig</strong>: precarious, dicey; smells like burning'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brenzlig"target="target1">brenzlig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/brenzlig"target="target2">brenzlig</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brenzlig"target="target3">brenzlig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/brenzlig"target="target4">brenzlig</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brenzlig"target="target1">brenzlig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/brenzlig"target="target2">brenzlig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/brenzlig"target="target3">brenzlig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/brenzlig"target="target4">brenzlig</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath untersuchte das Projektil, das Wolter ihm gegeben hatte. Unscheinbar, klein und glänzend. Und doch hätte es ihn das Leben kosten können. Er schaute den Onkel (<i>Wolter</i>) an.. Hatte der Mann mit dem gemütlichen Gesicht ihm das Leben gerettet? Jedenfalls hatte er ihn rausgehauen aus einer <strong>brenzligen</strong> Situation.  (<i>Der nasse Fisch</i>, 31)',   
-//	'<u>Märzgefallene</u>',    
+	'<i>Gennat</i>: "... Er (<i>Bruno Wolter</i>) war schon immer Kriminalbeamter. Nur eben einer mit besonderen Fähigkeiten. Wenn es irgendwo <strong>brenzlig</strong> zu werden drohte, wenn man jemanden brauchte, der schießen konnte, dann wurde Wolter eingesetzt. Im Krieg war er Scharfschütze, gehörte zum Kriegsende einer Spezialeinheit an." (<i>Der nasse Fisch</i>, 470)',
 	'<u>Lunapark</u>',
 	'<i>Pfeiffer</i> "Spindler hat auf Seiten der Kommune bei sämtlichen Straßenschlahten mitgemischt. Das rechte Auge fehlt ihm seit der Marneschlacht anno achtzehn. Seither trägt er eine Prothese. Und immer wenn es für die Roten <strong>brenzlig</strong> wurde.., hat er das Glasauge rausgenommen, seine Kriegsblindenbinde angelegt und den armen Invaliden gespielt." (<i>Lunapark</i>, 289)',
 	'Jedes Mal, wenn er (<i>Rath</i>) über ein Gartentor sprang oder ein Schloss aufbrach, um in einen der verwaisten Gärten zu gelangen, vergewisserte er sich, ob auch keine Zeugen in der Nähe standen. Für den Fall der Fälle hatte er zwar seinen Polizeiausweis, aber so weit wollte er es nach Möglichkeit nicht kommen lassen. Zwei-, dreimal hatte es <strong>brenzlige</strong> Situationen gegeben, die hatte er mit ein launigen Worten zu der drückenden Hitze, unter der alle litten, bereinigen können. (<i>Lunapark</i>, 481-82)',
@@ -2916,8 +2943,6 @@ Mucks: [
 	'<strong>Gassi gehen</strong>: take the dog for a walk'+
 	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gassi"target="target1">Gassi gehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gassi%20gehen"target="target2">Gassi gehen</a>'+
 	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gassi?q=Gassi+gehen"target="target3">Gassi gehen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/gassi-gehen"target="target4">Gassi gehen</a>',
-//	'<u>Der nasse hämisch:Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'Der Junge (<i>Fritze</i>) freute sich seit Tagen auf das Zeltlager. Ohne zu murren, hatte er den Hund versorgt und war mit Kirie extra lange <strong>Gassi gegangen</strong>.  (<i>Lunapark</i>, 279)',  
 ],
@@ -4243,13 +4268,23 @@ anpflaumen: [
 	'<u>Der nasse Fisch</u>',
 	'Dieses Oberarschloch! Wenn alle Kollegen in der Inspektion A solche Bulldoggen waren wie Oberkommissar Böhm, dann fragte er (<i>Rath</i>) sich, ob es wirklich so erstrebenswert war, dort zu arbeiten... Wie der Kerl ihn <strong>angepflaumt</strong> hatte. (<i>Der nasse Fisch</i>, 89)', 
 ],
-'Arsch (jmdm. in den A. kriechen)': [ 
+'Arsch (in den A. kriechen)': [ 
 	'jmdm. <strong>in den Arsch kriechen</strong>: brown-nose, kiss so.\'s ass'+
-	'<br>Deutsche Definitionen: &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=jmdm.+in+den+Arsch+kriechen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">jmdm. in den Arsch kriechen</a> &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Arsch%20kriechen"target="target2">jmdm. in den Arsch kriechen</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=jmdm.+in+den+Arsch+kriechen"target="target3">jmdm. in den Arsch kriechen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+den+Arsch+kriechen"target="target4">jmdm. in den Arsch kriechen</a>',
+	'<br>Deutsch: &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=jmdm.+in+den+Arsch+kriechen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in den Arsch kriechen</a> &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Arsch%20kriechen"target="target2">in den Arsch kriechen</a>'+
+	'<br>English: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jmdm.+in+den+Arsch+kriechen"target="target3">in den Arsch kriechen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+den+Arsch+kriechen"target="target4">in den Arsch kriechen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Böhm glaubte, den langen Kommissar aus der Burg zu kennen. Das musste der Neue sein, von dem Lanke in der Kantine erzählt hatte. Der Karrieregeile, der dem Polizeipräsidenten <strong>in den Arsch kroch</strong>. (<i>Der nasse Fisch</i>, 84)',
 	'Thälmanns Leute <strong>kriechen</strong> Stalin ja so gerne <strong>in den Arsch</strong>. (<i>Der nasse Fisch</i>, 456)',
+	'<i>Gräf</i>: "Das wundert mich. Böhm hält Sie (<i>Rath</i>) eher für jemanden, der den Chefs - mit Verlaub gesagt - <strong>in den Arsch kriecht</strong>." (<i>Der nasse Fisch</i>, 472)',
+],
+'in den Arsch kriechen': [ 
+	'jmdm. <strong>in den Arsch kriechen</strong>: brown-nose, kiss so.\'s ass'+
+	'<br>Deutsch: &nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=jmdm.+in+den+Arsch+kriechen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in den Arsch kriechen</a> &nbsp;<a href="https://www.dwds.de/wb/jmdm.%20in%20den%20Arsch%20kriechen"target="target2">in den Arsch kriechen</a>'+
+	'<br>English: &nbsp;&nbsp;<a href="https://www.dict.cc/?s=jmdm.+in+den+Arsch+kriechen"target="target3">in den Arsch kriechen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+den+Arsch+kriechen"target="target4">in den Arsch kriechen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Böhm glaubte, den langen Kommissar aus der Burg zu kennen. Das musste der Neue sein, von dem Lanke in der Kantine erzählt hatte. Der Karrieregeile, der dem Polizeipräsidenten <strong>in den Arsch kroch</strong>. (<i>Der nasse Fisch</i>, 84)',
+	'Thälmanns Leute <strong>kriechen</strong> Stalin ja so gerne <strong>in den Arsch</strong>. (<i>Der nasse Fisch</i>, 456)',
+	'<i>Gräf</i>: "Das wundert mich. Böhm hält Sie (<i>Rath</i>) eher für jemanden, der den Chefs - mit Verlaub gesagt - <strong>in den Arsch kriecht</strong>." (<i>Der nasse Fisch</i>, 472)',
 ],
 'auf Zack sein': [
 	'<strong>auf Zack sein</strong>: be on one\'s toes, be on the ball' +
@@ -8894,10 +8929,13 @@ hämmern: [
 	'<u>Der nasse Fisch</u>',
 	'Als Rath am Samstagmorgen ins Büro kam, ein wenig verkatert, ein wenig verspätet und reichlich übermüdet, saß Wolter bereits an seinem Platz und <strong>hämmerte</strong> auf die Schreibmaschine ein.  (<i>Der nasse Fisch</i>, 98)' ,
 ],
-hämisch: [
-	'<strong>hämisch</strong>: malicious, gloating, spiteful<br><strong>hämisch grinsen</strong>: smirk'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/haemisch"target="target1">hämisch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/h%C3%A4misch"target="target2">hämisch</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hamisch"target="target3">hämisch</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/haemisch"target="target4">hämisch</a>',
+hämisch: [ 
+	'<strong>hämisch</strong>: malicious, gloating, spiteful'+
+	'<br><strong>hämisch grinsen</strong>: smirk'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/haemisch"target="target1">hämisch</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/h%C3%A4misch"target="target2">hämisch</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hamisch"target="target3">hämisch</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/haemisch"target="target4">hämisch</a>',
+	'<u>Der nasse Fisch</u>',
+	'Gennat hatte ihn (<i>Rath</i>) zur Observierung in die Yorckstraße geschicht. Ausgerechnet jetzt! Plisch und Plum hatten <strong>hämisch</strong> gegrinst, als sie sahen, wer sie da ablöste. (<i>Der nasse Fisch</i>, 423)',
 	'<u>Märzgefallene</u>',
 	'"Schnauze, Steinke", fuhr Gräf den Kommissaranwärter an, und der zuckte zusammen... Das <strong>hämische Grinsen</strong> war aus Steinkes Gesicht verschwunden. (<i>Märzgefallene</i>, 423)',
 ],
@@ -13060,11 +13098,15 @@ Sause: [
 ],
 schlampig: [
 	'<strong>schlampig</strong>: sloppy, slipshod, untidy'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlampig"target="target2">schlampig</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target3">schlampig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlampig"target="target4">schlampig</a>',
+	'die <strong>Schlamperei</strong>,-<strong>en</strong>: mess, sloppiness'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlamperei"target="target2">Schlamperei</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target3">schlampig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlamperei"target="target4">Schlamperei</a>',
+	'<u>Der nasse Fisch</u>',
+ 	'<i>Rath</i>: "Der beste Kiminalbeamte jedenfalls war er (<i>Wolter</i>) damals nicht." "Sie meinen die Vernehmungsprotokolle?", fragte Gennat. "Ist Ihnen auch aufgefallen, wie <strong>schlampig</strong> Wolter die Vernehmungen geführt hat?..." <i>Der nasse Fisch</i>, 471)',
+	'Rath nickte gedankenverloren. Er musste an seine eigenen Ermittlungen im Fall Wilczek denken. Auch bei Wolter schien hinter der vermeintlichen <strong>Schlamperei</strong> ein System zu stecken. <i>Der nasse Fisch</i>, 471-72)',
 	'<u>Lunapark</u>',
-	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können....  (<i>Lunapark</i>, 20)',
-	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante.  (<i>Lunapark</i>, 23)', 
+	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können.... (<i>Lunapark</i>, 20)',
+	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante. (<i>Lunapark</i>, 23)', 
 ],
 'stülpen (sich)': [
 	'(sich) <strong>stülpen</strong>: turn sth. up, inside out; put sth. on/over sth. <br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stuelpen"target="target1">stülpen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/st%C3%BClpen"target="target2">stülpen</a><br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stulpen?q=st%C3%BClpen"target="target3">stülpen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stulpen"target="target4">stülpen</a>',
@@ -13461,7 +13503,9 @@ Schütze: [
 	'<i>Fräulein Ritter</i>: "Na, der Knabe (<i>Wolter</i>) war doch früher Ausbilder am Schießstand. Einer der besten <strong>Schützen</strong> der Berliner Polizei."... <i>Rath</i>: "Einer der besten <strong>Schützen</strong> der Berliner Polizei. Der gute alte Bruno!" (<i>Der nasse Fisch</i>, 146-47)',
 	'"Auf den Gastgeber (<i>Wolter</i>)", sagte er (<i>Rath</i>) und hob das Glas. "Auf den besten <strong>Scharfschützen</strong>, den die deutsche Armee je hatte", ergänzte der hagere Generalmajor. Offensichtlich meinte er Bruno. Die Männer prosteten sich zu. (<i>Der nasse Fisch</i>, 168)',
 	'Er (<i>Rath</i>) hatte Bruno immer noch nicht gefragt, wie es ihn, den <strong>Scharfschützen</strong>, eigentlich zur Sitte verschlagen hatte. (<i>Der nasse Fisch</i>, 173)',
-	'<i>Gennat</i>: "Bruno Wolter ist einer der besten <strong>Schützen</strong> der Berliner Polizei. Er hat früher als Ausbilder am Schießstand gearbeitet." (<i>Der nasse Fisch</i>, 470)',
+	'<i>Gennat</i>: "Bruno Wolter ist einer der besten <strong>Schützen</strong> der Berliner Polizei. Er hat früher als Ausbilder am Schießstand gearbeitet... Er war schon immer Kriminalbeamter. Nur eben einer mit besonderen Fähigkeiten. Wenn es irgendwo brenzlig zu werden drohte, wenn man jemanden brauchte, der schießen konnte, dann wurde Wolter eingesetzt. Im Krieg war er Scharf<strong>schütze</strong>, gehörte zum Kriegsende einer Spezialeinheit an." (<i>Der nasse Fisch</i>, 470)',
+	'<i>Gennat</i>: ".. Nein, es war auf dem Schießstand. Einen jungen Polizeischüler hat\'s erwischt. Thies hieß der Junge, wenn ich das recht erinnere. Der beste <strong>Schütze</strong> seines Jahrgangs." (<i>Der nasse Fisch</i>, 470-71)',
+	'<i>Gennat</i>: "Davon spricht hier in der Burg niemand gerne. Ein tragischer Fall. Und außerdem hat die Polizei damals ihren besten Scharf<strong>schützen</strong> verloren." (<i>Der nasse Fisch</i>, 471)',
 	'<u>Lunapark</u>',
 	'Den (<i>Leo Juretzka</i>) würde er (<i>Rath</i>) sowieso in Notwehr erschießen müssen. Das war das Schöne am neuen Deutschand: Da würde ihn niemand mehr, und schon gar nicht die Presse, als Todes<strong>schützen</strong> verurteilen. (<i>Lunapark</i>, 372)',
 ],
@@ -16774,6 +16818,7 @@ wedeln: [
 	'Marlow lachte. "Ich glaube nicht, dass dies ein Ort ist, an dem Sie (<i>Rath</i>) Bedingungen stellen. Außerdem kann man mit mir nur unter sechs Augen sprechen..." Seine Linke <strong>wedelte</strong> schlaff durch die Luft, als verscheuche er eine Fliege. "Sebald, gehen Sie mit Ihren Männern doch mal kurz spazieren, Liang reicht mir als Gesellschaft, um unseren Freund hier angemessen zu bewirten." (<i>Der nasse Fisch</i>, 451)',
 	'<i>Rath, zu Marlow</i>: "Wissen Sie, dass einer Ihrer Leute für die Polizei arbeitet?", sagte er und <strong>wedelte</strong> das Streichholz <strong>aus</strong>. "Gearbeitet hat?" (<i>Der nasse Fisch</i>, 454)',
 	'Irgendwann hatte ihn (<i>Rath</i>) schon am Ostbahnhof die Müdigkeit übermannt. Als sie vom kühlen Bahngelände in Marlows Büro gegangen waren, in dem immer noch die Gewitterschwüle hing, und er sich in den bequemen Sessel gesetzt hatte,.. hatte er seine Augen kaum noch aufhalten können. Und Marlow hatte es bemerkt. Er hatte in seinen Schreibtish gegriffen und mit einem Papiertütchen <strong>gewedelt</strong>. (<i>Der nasse Fisch</i>, 463)',
+	'<i>Gennat</i>: "Wolter hat im Polizeidienst keinen einzigen Menschen getötet. Er hat die Saukerle, die unbedingt mit einer Waffe rum<strong>wedeln</strong> mussten, für uns kampfunfähig gemacht. Und das sehr präzise. (<i>Der nasse Fisch</i>, 470)',
 	'<u>Märzgefallene</u>',
 	'"Was hast du (<i>Gereon</i>) denn vor?" Paul <strong>wedelte</strong> mit dem Zeigefinger. "Du soltest dich benehmen, bald bist du ein verheirateter Mann."  (<i>Märzgefallene</i>, 19)',
 	'"Wilhelm Klefisch?", fragte er (<i>Rath</i>),..und der Dicke nickte. "Sie haben etwas verloren, Herr Klefisch", sagte Rath und <strong>wedelte</strong> mit der Brieftasche. Der Dicke betastete seinen Mantel, guckte verduzt und nahm die Brieftasche, die Rath ihm reichte, mit dankbarem Blick entgegen. (<i>Märzgefallene</i>, 24)',
@@ -16876,8 +16921,10 @@ wienern: [
 ],
 wimmern: [
 	'<strong>wimmern</strong>: whimper, whine'+
-	'<br>Deutsche Definitionen:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wimmern"target="target1">wimmern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wimmern"target="target2">wimmern</a>'+
-	'<br>English Definitions: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wimmern"target="target3">wimmern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=wimmern"target="target4">wimmern</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wimmern"target="target1">wimmern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wimmern"target="target2">wimmern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wimmern"target="target3">wimmern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=wimmern"target="target4">wimmern</a>',
+	'<u>Der nasse Fisch</u>',
+	'<i>Gennat</i>: "Wolter hat im Polizeidienst keinen einzigen Menschen getötet. Er hat die Saukerle, die unbedingt mit einer Waffe rumwedeln mussten, für uns kampfunfähig gemacht. Und das sehr präzise. Es kam einem chirurgischen Eingriff näher als einem simplen Schuss. Mit einer durchlöcherten Hand können Sie nicht mehr schießen.. Und meine Leute konnten die <strong>wimmernden</strong> Pistolenhelden dann einsammeln." (<i>Der nasse Fisch</i>, 470)',
 	'<u>Märzgefallene</u>',
 	'Einmal soll er (<i>Engel</i>) einen französischen Soldaten, der, nach einem Bauchschuß zusammengebrochen, sich im Draht kurz vor unseren Linien verfangen hatte und nach seiner Mutter schrie, mit einem aufgesetzten Kopfschuß ruhiggestellt haben.... (Z)urück im Unterstand erzählte Engel, er habe das nur getan, damit der Franzose durch sein <strong>Wimmern</strong> und sein Rufen die Moral der Einheit nicht untergrabe, ansonsten hätte er seinetwegen jämmerlich verrecken können. (<i>Märzgefallene</i>, 168-69)',
 	'<u>Lunapark</u>',
@@ -17914,7 +17961,10 @@ nölen Der nasse Fisch 465
  'Pelle'  ;   Nworte++;  auf die Pelle      Märzgefallene   15
  pikiert  Lunapark 27
  Puff Der nasse Fisch 455 
+ Rumballerei  Der nasse Fisch 470
  schleichen (nach) Lunapark 542 
+ Strich drehen  Der nasse Fisch 471
+ zucken  Der nasse Fisch 471
  Zuhälter Der nasse Fisch  457
  zulangen Der nasse Fisch 468
  */

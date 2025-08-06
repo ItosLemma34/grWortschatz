@@ -58,7 +58,8 @@ const e = [
    'erheblich, unerheblich', //  duplicated 
    'Erker', // Erker:   
    'erkiesen',   // erkiesen:  
-   'erpicht',   // erpicht: 
+   'erpicht',   // erpicht:
+   'erschauern, schauern',  // duplicated * 
    'erschnuppern, schnuppern', //  duplicated 
    'erstehen',  // erstehen:  
    'eruieren',  // eruieren: 

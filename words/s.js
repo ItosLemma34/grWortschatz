@@ -16,6 +16,7 @@ const s = [
    'Schar',  // Schar:  
    'Scharfmacher', // Scharfmacher:   
    'schassen',   // schassen:  
+   'schauern, erschauern',  // duplicated *
    'schaufeln, Schaufel',  
    'Schaukasten', // Schaukasten:   
    'schaukeln, aufschaukeln',   //    duplicated
@@ -42,7 +43,7 @@ const s = [
    'schlaksig', // schlaksig: 
    'Schlamassel', // Schlamassel: 
    'Schlampe', // Schlampe: 
-   'schlampig',  // schlampig: 
+   'schlampig',  // schlampig: *
    'Schlappschwanz',  // Schlappschwanz:
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch: 
@@ -134,7 +135,7 @@ const s = [
    'Schwerenöter',  // Schwerenöter: *
    'schwirren', // schwirren: 
    'Schwitzkasten', // Schwitzkasten: 
-   'schwül, Schwüle', 
+   'schwül, Schwüle', // *
    'schwülstig',  // schwülstig:  
    'Seil',  // Seil: 
    'Sichtblende', // Sichtblende:  

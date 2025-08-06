@@ -71,7 +71,7 @@ const b = [
     'brandschatzen',  // brandschatzen: 
     'brausen, Brause',  
     'Brei (um den heißen B. herumreden)', // duplicated 
-    'brenzlig', // brenzlig: 
+    'brenzlig', // brenzlig: *
     'Brett, Bretter(wand/verschlag/bude)',   
     'Brimborium',   // Brimborium:  
     'bröckeln',  // bröckeln: 

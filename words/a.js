@@ -91,7 +91,7 @@ const a = [
 	'Armbeuge',    // Armbeuge:   
 	'arme Ritter', //   duplicated
 	'armer Schlucker', //  duplicated
-	'Arsch (jmdm. in den A. kriechen)',  
+	'Arsch (in den A. kriechen)', // duplicated *  
 	'Asservat',  // Asservat:  
 	'Ast, Geäst', //  duplicated
 	'Attest',     //  Attest: 

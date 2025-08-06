@@ -28,7 +28,7 @@ const f = [
    'fingieren',  // fingieren: 
    'Firlefanz',  // Firlefanz: 
    'Fischzug',   // Fischzug:  
-   'Flachmann',  // Flachmann: 
+   'Flachmann',  // Flachmann:  *
    'Flachpfeife', // Flachpfeife:
    'flanieren',  // flanieren: 
    'Flappe (eine F. ziehen)', 

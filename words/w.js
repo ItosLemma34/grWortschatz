@@ -29,7 +29,7 @@ const w = [
    'wie bestellt und nicht abgeholt', 
    'wienern' , // wienern: 
    'wimmeln, Gewimmel',  //   duplicated
-   'wimmern' , // wimmern: 
+   'wimmern' , // wimmern: *
    'Wimper',   // Wimper: 
    'Wind (durch den W. sein)', //  duplicated
    'winden, gewunden',  //  duplicated

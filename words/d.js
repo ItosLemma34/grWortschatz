@@ -5,6 +5,7 @@ const d = [
    'dämlich, Dämlichkeit',  // 
    'Dampframme',  // Dampframme:  
    'Dampfwalze',  // Dampfwalze: 
+   'dämm(e)rig', // *
    'dazwischenfunken', // dazwischenfunken:   
    'Deckel',   // Deckel: 
    'Deichsel',  // Deichsel:
@@ -17,6 +18,7 @@ const d = [
    'dingfest',  // dingfest:  
    'direktemang', // direktemang:  
    'dösen, eindösen',  //   duplicated
+   'dosieren',  // dosieren: *
    'drall',    // drall:  
    'drängeln (sich)',  // 
    'draufhaben',  // draufhaben: 
@@ -41,7 +43,7 @@ const d = [
    'durchkämmen',  // durchkämmen: 
    'durchmogeln (sich)',  
    'durchnässen',  //  durchnässen:
-   'durchwühlen, wühlen',  // duplicated 
+   'durchwühlen, wühlen',  // duplicated *
 ];
 
 export default d;

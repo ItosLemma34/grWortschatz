@@ -5,7 +5,7 @@ const v = [
    'verbeulen', // verbeulen: 
    'verbocken' , // verbocken: 
    'verbohrt',  // verbohrt: 
-   'verbuddeln',  // verbuddeln: 
+//   'verbuddeln',  // verbuddeln: combine with -ein, -aus
    'verdampfen',  // verdampfen: 
    'Verdeck',  // Verdeck: 
    'verdenken' ,  // verdenken: 
@@ -58,7 +58,7 @@ const v = [
    'verrußt' , // verrußt:    duplicate if Ruß or verrußen found
    'verrutschen' ,  // verrutschen:  
    'versacken',  // versacken:  
-   'versauen',   // versauen:  
+   'versauen',   // versauen: * 
    'versaufen', // versaufen: 
    'verschanzen (sich)' ,   
    'verscharren',    // verscharren: 
@@ -95,7 +95,7 @@ const v = [
    'verstümmeln, Verstümmelung',
    'vertilgen',  // vertilgen: 
    'vertrackt',   // vertrackt:     combine with Vertrackt if found
-   'vertreten (sich die Beine)', //  
+   'vertreten (sich die Beine)', // *  
    'Vertriebsweg', // Vertriebsweg:  
    'vertrödeln',  // vertrödeln 
    'vertun, vertan',  // 
@@ -110,15 +110,18 @@ const v = [
    'verwuscheln, verwuschelt', 
    'verwüsten',  // verwüsten:  
    'verzückt', // verzückt:  
-   'vierschrötig', // vierschrötig:   
+   'vierschrötig', // vierschrötig:   *
    'vögeln',    // vögeln: 
    'vollsaugen (sich)', 
    'Vollwaise', // Vollwaise:  
    'von der Fahne gehen', //  duplicated
-   'vorgaukeln',  // vorgaukeln:  
+   'vor die Hunde gehen',  // *  NOT duplicated
+   'vorführen',  // *
+   'vorgaukeln',  // vorgaukeln:  *
    'Vorgeplänkel, Geplänkel',  //    duplicated
    'Vorhängeschloss',  //  Vorhängeschloss: 
-   'vorknöpfen (sich)',    
+   'vorheucheln, heucheln',  // duplicate *
+   'vorknöpfen',  // *  
    'vorliebnehmen',   // vorliebnehmen: 
    'Vornehm/Nobel geht die Welt zugrunde', //  duplicated
    'vorsätzlich', // vorsätzlich:  

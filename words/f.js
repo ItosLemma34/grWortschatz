@@ -66,7 +66,7 @@ const f = [
    'funzelig',   // funzelig:   
    'Furz',     // Furz:
    'Fusel', // Fusel:  *  
-   'Fußstapfe, stapfen',  // duplicated
+   'Fußstapfe, stapfen',  // duplicated *
    'Futter',  // Futter: 
  ];
 

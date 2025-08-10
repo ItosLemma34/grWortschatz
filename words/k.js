@@ -70,8 +70,8 @@ const k = [
    'knacken',  // knacken: *
    'knallen', // knallen: 
    'Knarre',  // Knarre: 
-   'knarren', // knarren: 
-   'knarzen', // knarzen: 
+   'knarren', // knarren: *
+   'knarzen', // knarzen: *
    'knattern', // knattern: 
    'Knäuel',  // Knäuel: 
    'Knauf',  // Knauf: 
@@ -102,13 +102,13 @@ const k = [
    'Kot, koten, Kotflügel', 
    'Kotze, kotzen, ankotzen', // duplicated 
    'krabbeln',  // krabbeln: 
-   'krachen, Krach', 
+   'krachen, Krach', // *
    'Krähe, krähen',   
    'Krake', // Krake: 
    'krakelig/kraklig', // krakelig/kraklig: 
    'Kralle',  // Kralle: 
    'Kram (in den K. passen)', //  duplicated
-   'kramen',  // kramen: 
+   'kramen',  // kramen: *
    'Kran',  // Kran: 
    'Kratzbürstigkeit',  // Kratzbürstigkeit: 
    'kratzen',  // kratzen:  

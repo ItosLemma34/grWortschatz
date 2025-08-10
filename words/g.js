@@ -20,7 +20,7 @@ const g = [
    'geizen',   // geizen:  
    'Gekrächz',  // Gekrächz:   
    'Gelände',   // Gelände: * 
-   'Geländer',  // Geländer:  
+   'Geländer',  // Geländer: * 
    'gelinde',   // gelinde:  
    'Gemächt',  // Gemächt:
    'Gemetzel', // Gemetzel: 
@@ -49,7 +49,8 @@ const g = [
    'Geseier',  // Geseier: *  
    'Gesindel',    // Gesindel:  
    'gesittet',    // gesittet:  
-   'gestanden',  // gestanden:  
+   'gestanden',  // gestanden: *
+   'geständig',  // geständig *
    'Gestänge',   // Gestänge:  
    'Gestell',    // Gestell:  
    'Gestöber',   // Gestöber: 
@@ -61,13 +62,13 @@ const g = [
    'Gewebe',    // Gewebe:
    'Gewehrkolben',  // Gewehrkolben:  
    'Gewese',    // Gewese:  
-   'Gewimmel, wimmeln',  //  duplicated 
+   'Gewimmel, wimmeln',  //  duplicated *
    'Gewinsel',  // Gewinsel: *
    'Gewirr',    // Gewirr: 
    'Gewölbe',  // Gewölbe: 
    'Gewühl',   // Gewühl: 
    'Gewummer, wummern', //  duplicated  
-   'gewunden, winden', //    duplicated
+   'gewunden, winden', //    duplicated *
    'Gezwitscher, zwitschern', //  duplicated  *
    'Gier, gieren',   
    'giften',   // giften:  

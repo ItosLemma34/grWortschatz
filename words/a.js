@@ -14,7 +14,7 @@ const a = [
 	'abknallen',  // abknallen:  
 	'abkommandieren',  // abkommandieren: 
 	'Ablage',     // Ablage:  
-	'abluchsen',  // abluchsen: 
+	'abluchsen',  // abluchsen: *
 	'Abordnung',  // Abordnung:
 	'abpassen',   // abpassen:
 	'absäbeln',  //  absäbeln:
@@ -163,13 +163,11 @@ const a = [
 	'ausborgen',  // ausborgen:  *
 	'ausbügeln',  // ausbügeln:  
 	'ausbremsen', // ausbremsen:  
-	'ausbuddeln, einbuddeln, buddeln', //   triplicated
 	'ausbüxen',    // ausbüxen:  
 	'Ausdünstung',  // Ausdünstung:  
 	'Ausfallstraße',   // Ausfallstraße:  
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung',     
-	'aushorchen',  // aushorchen:   
 	'ausklinken, einklinken',  // duplicated
 	'ausleiern', // ausleiern:
 	'ausmisten',  // ausmisten:   

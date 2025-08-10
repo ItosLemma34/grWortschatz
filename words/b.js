@@ -46,7 +46,7 @@ const b = [
     'Biege machen', 
     'bimmeln', // 
     'bis in die Puppen', //   duplicated 
-    'Blase',  // Blase:  
+    'Blase',  // Blase:  *
     'blasiert',  // blasiert: 
     'Blaumann',  // Blaumann:  
     'Blech, blechern',   
@@ -57,7 +57,7 @@ const b = [
     'blutrünstig', // blutrünstig: 
     'bockig' ,  // bockig: 
     'Bodensatz',  // Bodensatz:  
-    'Bogen (den B. raushaben)',  
+    'Bogen, den B. raushaben', // *  
     'Bohei',   // Bohei:
     'Bohle',    // Bohle:  
     'bohnern',  // bohnern:  
@@ -75,7 +75,7 @@ const b = [
     'Brett, Bretter(wand/verschlag/bude)',   
     'Brimborium',   // Brimborium:  
     'bröckeln',  // bröckeln: 
-    'Brocken',  // Brocken: 
+    'Brocken',  // Brocken: *
     'brüllen, Gebrüll', //   duplicated
     'brummig, Brummigkeit',  // 
     'Brüstung',  // Brüstung:
@@ -84,7 +84,7 @@ const b = [
     'Büchse',   // Büchse: 
     'Buckel, bucklig',  //   
     'bücken (sich)',  // *
-    'buddeln, einbuddeln, ausbuddeln',  //  triplicated
+    'buddeln, ein-, ver-, aus-',  // *
     'Bude, Büdchen',  // 
     'büffeln', // büffeln:  
     'Bügel', // Bügel: 

@@ -42,8 +42,9 @@ const p = [
    'pöbeln', // pöbeln: 
    'Polente', // Polente: 
    'Polster, polstern, Polsterung', // *
-   'poltern' ,  // poltern: 
+   'poltern' ,  // poltern: *
    'postieren', // postieren: 
+   'prallen, auf-, ab-',  // *
   // 'präparieren' ,
    'prangen', // prangen: 
    'Pranke',  // Pranke: 

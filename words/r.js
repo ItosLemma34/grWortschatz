@@ -9,8 +9,9 @@ const r = [
    'Rangelei',  // Rangelei: 
    'Ranzen',  // Ranzen:  
    'rascheln', // rascheln: 
-   'rasen',  // rasen: *
-   'rasseln', // rasseln: 
+   'rasen, Rasen',  // *
+   'Rasenmäher, mähen',  // duplicated *
+   'rasseln', // rasseln: *
    'Ratsch', // Ratsch: 
    'Rätselraten', // Rätselraten: 
    'rattern',  // rattern:              
@@ -26,7 +27,7 @@ const r = [
    'Reinfall', // Reinfall:
    'reinlegen, hereinlegen',  // duplicated  
    'reinsemmeln', // reinsemmeln:  
-   'reißen (sich um etwas)', 
+//   'reißen, -aus, -ab, sich um etwas', // *
    'reißerisch',  // reißerisch: 
    'Rempler, rempeln, anrempeln',  //   duplicated
    'renitent',  // renitent: 
@@ -38,7 +39,7 @@ const r = [
    'Rinde',  // Rinde: *
    'Rindvieh' , // Rindvieh:  
    'Rinne',  // Rinne: 
-   'Rinnsal', // Rinnsal: 
+   'Rinnsal', // Rinnsal: *
    'Ritter (arme)', //  duplicated
    'Ritze',  // Ritze:  
    'robben',  // robben: 

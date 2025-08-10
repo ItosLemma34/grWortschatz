@@ -1,7 +1,7 @@
 const m = [
    'mäandern',  // mäandern: 
    'Machwerk',  // Machwerk: 
-   'mähen', // mähen: 
+   'mähen, Rasenmäher', // duplicated *
    'malochen', // malochen: 
    'Mangel (durch die M. drehen)', //  duplicated
    'Mangel (in die M. nehmen)' ,  //  duplicated *

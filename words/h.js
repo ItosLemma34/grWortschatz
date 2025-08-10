@@ -46,7 +46,8 @@ const h = [
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  
    'hetzen, gehetzt',  //  duplicated 
-   'heucheln', // heucheln: 
+//   'heucheln', // heucheln: 
+   'heucheln, vorheucheln', // duplicated *
    'heulen',  // heulen:  
    'hieven',  // hieven: 
    'hinhalten, Knochen/Kopf hinhalten', // duplicated *
@@ -59,6 +60,7 @@ const h = [
    'Hölle heißmachen',  
    'Holzstoß',  // Holzstoß: 
    'hopsnehmen', // hopsnehmen: 
+   'horchen, -auf, -aus', // *
    'Hornochse',  // Hornochse:  
    'Hose (in die H. machen/gehen)',    
    'Hosenmatz',  // Hosenmatz:  

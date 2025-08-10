@@ -7,6 +7,7 @@ const z = [
    'Zapfen', // Zapfen: *
    'zappeln', // zappeln: * 
    'Zarge' , // Zarge: * 
+   'zartbesaitet', // *
    'zaudern', // zaudern: 
    'Zaunlatte, Dachlatte',  // duplicated *
    'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated
@@ -16,11 +17,11 @@ const z = [
    'zerdeppern',   // zerdeppern: 
    'zerfleddert',  // zerfleddert: 
    'zerknicken' ,  // zerknicken: 
-   'zerknirscht',  // zerknirscht: 
+   'zerknirscht',  // zerknirscht: *
    'zerknittern',  // zerknittern: 
    'zerknüllen, knüllen' ,  //   duplicated
    'zerlumpt',    // zerlumpt:  
-   'zermatschen',  // zermatschen: 
+   'zermatschen',  // zermatschen: *
    'zerpflücken',  // zerpflücken: 
    'zerren',      // zerren:  
    'zerschießen',  // zerschießen:  

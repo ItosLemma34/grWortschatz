@@ -28,26 +28,26 @@ const w = [
    'wie aus dem Ei gepellt',  //  duplicated
    'wie bestellt und nicht abgeholt', 
    'wienern' , // wienern: 
-   'wimmeln, Gewimmel',  //   duplicated
+   'wimmeln, Gewimmel',  //   duplicated *
    'wimmern' , // wimmern: *
    'Wimper',   // Wimper: 
    'Wind (durch den W. sein)', //  duplicated
-   'winden, gewunden',  //  duplicated
+   'winden, gewunden',  //  duplicated *
    'Wink mit dem Zaunpfahl' , //  duplicated    
    'Winkel' ,  // Winkel: 
    'Winkeladvokat',  // Winkeladvokat: 
    'winseln',  // winseln: 
    'Wipfel',  // Wipfel:  *
-   'wippen' , // wippen: 
+   'wippen' , // wippen: *
    'Witzbold', // Witzbold: 
-   'wogen' ,  // wogen: 
+   'wogen' ,  // wogen: *
    'Wohl bekomm\'s!', 
    'Wohlgefallen (sich in W. auflösen)', 
    'wölben',  // wölben: 
    'Wolf (durch den W. drehen)', //  duplicated
    'wuchern',  // wuchern: 
    'wuchten',  // wuchten: 
-   'wühlen, durchwühlen' ,  // duplicated 
+   'wühlen, durchwühlen' ,  // duplicated *
    'wummern, Gewummer', //  duplicated
    'würgen',  // würgen:
    'wurmen', // wurmen: 

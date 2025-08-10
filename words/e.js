@@ -7,7 +7,6 @@ const e = [
    'einbläuen',  // einbläuen:  *
    'einbrocken',  // einbrocken:  *
    'einbuchten',  // einbuchten:  
-   'einbuddeln, ausbuddeln, buddeln',  // triplicated
    'eindösen, dösen', //   duplicated
    'Eindruck schinden',   
    'einfädeln',  // einfädeln:

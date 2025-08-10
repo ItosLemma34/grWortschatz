@@ -2,6 +2,7 @@ const s = [
    'sabbern',  // sabbern:
    'Sägemehl', // Sägemehl: 
    'sägen, aussägen', // duplicated 
+   'Sammelsurium', // Sammelsurium:  *
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
    'säumen', // säumen:  
@@ -22,9 +23,9 @@ const s = [
    'schaukeln, aufschaukeln',   //    duplicated
    'scheiteln, Scheitel', 
    'Scheiterhaufen',  // Scheiterhaufen: 
-   'schellen',  // schellen:
+   'schellen',  // schellen: *
    'Schemel',  // Schemel: 
-   'scheppern',  // scheppern: 
+   'scheppern',  // scheppern: *
    'Scherbe',  // Scherbe: *  
    'scheren (sich)',  // 
    'scheuern',  // scheuern: 
@@ -65,7 +66,7 @@ const s = [
    'schlurfen',  // schlurfen:
    'Schmach', // Schmach:  
    'schmachten, anschmachten', //  duplicated
-   'schmächtig', // schmächtig:  
+   'schmächtig', // schmächtig:  *
    'schmettern', // schmettern: 
    'schmiegen (sich)', // 
    'Schmiere stehen', // 
@@ -86,11 +87,11 @@ const s = [
    'schnarren',  // schnarren:  
    'schnattern (in einem fort)',  //  duplicated
    'schnauben', // schnauben: 
-   'schnaufen',  // schnaufen: 
+   'schnaufen',  // schnaufen: *
    'schneidig',  // schneidig: 
    'Schneise',  // Schneise: 
    'schnieke',  // schnieke:  
-   'schnippen',  // schnippen: 
+   'schnippen',  // schnippen: *
    'schnippisch', // schnippisch: 
    'schnörkelig, Schnörkel', 
    'schnorren, anschnorren', //   duplicated
@@ -176,7 +177,7 @@ const s = [
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
    'Stapel, stapeln', 
-   'stapfen, Fußstapfe',   // duplicated
+   'stapfen, Fußstapfe',   // duplicated *
    'starren (vor Schmutz starren)', 
    'Statist', // Statist:  
    'Stativ',  // Stativ:  
@@ -185,7 +186,7 @@ const s = [
    'stauchen', // stauchen:  
    'Steckbrief', // Steckbrief:  
    'Stecknadel im Heuhaufen',  
-   'Steg', // Steg: 
+   'Steg', // Steg: *
    'stibitzen', // stibitzen: 
    'Stich (einen Stich versetzen)', // * 
    'Stiefel, stiefeln', 
@@ -194,13 +195,13 @@ const s = [
    'stochern',  // stochern:  *
    'stöckeln, Stöckelschuh', 
    'stöhnen, aufstöhnen', //   duplicated
-   'stopfen, Stopfen', 
+   'stopfen, Stopfen', // *
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 
    'strampeln',  // strampeln: 
    'Strauch, Gesträuch',  //   duplicated
    'Strebe', // Strebe: 
-   'Streich spielen', 
+   'Streich spielen', // *
    'Strich (auf den S. gehen)', //  duplicated
    'Strick (einen S. drehen)', // 
    'Strickjacke', // Strickjacke: 
@@ -213,8 +214,8 @@ const s = [
    'Stuck', // Stuck: 
    'Stulle',  // Stulle: *
 	'stülpen (sich)', 
-   'Stummel',  // Stummel: 
-   'Stümper, stümperhaft', 
+   'Stummel',  // Stummel: *
+   'Stümper, stümperhaft', // *
    'stutzig', // stutzig: 
    'süffisant',  // süffisant: 
    'summen, aufsummen', //  duplicated

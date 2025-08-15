@@ -9,6 +9,7 @@ const q = [
    'quetschen, heraus-, zer-', // *
    'quietschen',  // quietschen: 
    'quitt',  // quitt: 
+   'quittieren',  // quittieren:  *
 ];
 
 export default q;      

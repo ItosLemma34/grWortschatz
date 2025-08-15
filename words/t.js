@@ -8,7 +8,7 @@ const t = [
    'taxieren' , // taxieren: 
    'Teufel (in drei T. Namen)', //  duplicated
    'Teufel tun' ,   
-   'Theke',  // Theke: 
+   'Theke',  // Theke:  *
    'toben' , // toben: 
    'tollen', // tollen: 
    'tollpatschig, Tollpatschigkeit',  
@@ -28,6 +28,7 @@ const t = [
    'trippeln', // trippeln:  
    'trollen (sich)',   
    'Tropf',  // Tropf:  
+   'tröpfeln',  // tröpfeln: *
    'Tropfen, tropfen', // *    
    'Tross/Troß', // 
    'Trost (nicht bei T. sein)',  //   duplicated

@@ -15,6 +15,7 @@ const e = [
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: *
    'einheimsen',  // einheimsen: *
+   'einigeln', // einigeln:  *
    'einkerben',  // einkerben:
    'einklinken, ausklinken', // duplicated 
    'einkriegen (sich)',   
@@ -32,7 +33,7 @@ const e = [
    'einsacken',  // einsacken: 
    'einschleusen',  //  einschleusen: 
    'einseifen',  // einseifen:  
-   'einspannen', // einspannen: 
+   'einspannen, ausspannen', // duplicated * 
    'Einstand' ,  // Einstand: 
    'einstäuben',  // einstäuben:  
    'einstecken',  // einstecken: 
@@ -44,7 +45,8 @@ const e = [
    'Ekel, anekeln', 
    'Empore',     // Empore:  
    'entbieten',  // entbieten:  
-   'entgegenfiebern',  // entgegenfiebern:  
+   'entgegenfiebern',  // entgegenfiebern:
+   'entgeistert',  // entgeistert: *  
    'entriegeln',  // entriegeln: 
    'entsorgen',  // entsorgen:   
    'entstellen',  // entstellen: 

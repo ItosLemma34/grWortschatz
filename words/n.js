@@ -25,7 +25,7 @@ const n = [
    'Nobel/Vornehm geht die Welt zugrunde' , //  duplicated
    'Nörgler',  // Nörgler:
    'nölen',  // nölen:  * 
-   'Nu (im Nu)', //  duplicated
+   'Nu (im Nu)', // duplicated *
    'nuscheln', // nuscheln: 
    'Nutte',  // Nutte:        
  ];

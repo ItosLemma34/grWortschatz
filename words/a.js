@@ -55,7 +55,7 @@ const a = [
 	'anglotzen, glotzen', //  duplicated  *
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln:
-	'ankotzen, Kotze, kotzen',  // duplicated   
+	'ankotzen, Kotze, kotzen',  // duplicated  * 
 	'anleinen',     // anleinen: 
 	'anpeilen',  // anpeilen:  * 
 	'Anpfiff' ,     // Anpfiff:  
@@ -100,6 +100,7 @@ const a = [
 	'auf dem Kerbholz haben', //  duplicated
 	'auf dem Kieker haben', //  duplicated
 	'auf dem Sprung',      //  duplicate
+	'auf dem Trockenen sitzen', // *
 	'auf den Arm nehmen',  //  duplicated
 	'auf den Leim gehen',  //  duplicated
 	'auf den Putz hauen',  //   duplicated
@@ -182,6 +183,7 @@ const a = [
 	'ausschlachten', // ausschlachten:  
 	'ausschwärmen',  // ausschwärmen: 
 	'Ausschweifung',  // Ausschweifung:
+	'ausspannen, einspannen',  // duplicated *
 	'ausspucken',   // ausspucken: 
 	'ausstaffieren',  // ausstaffieren:   
 	'ausstopfen',    // ausstopfen: 

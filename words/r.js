@@ -25,8 +25,10 @@ const r = [
    'Reim (keinen R. machen', //  duplicated
    'Reine (ins R.)',
    'Reinfall', // Reinfall:
-   'reinlegen, hereinlegen',  // duplicated  
-   'reinsemmeln', // reinsemmeln:  
+   'reinlegen, hereinlegen',  // duplicated *
+   'reinreiten, hineinreiten',  // duplicated * 
+   'reinsemmeln', // reinsemmeln: 
+   'reinwürgen, würgen',  // duplicate * 
 //   'reißen, -aus, -ab, sich um etwas', // *
    'reißerisch',  // reißerisch: 
    'Rempler, rempeln, anrempeln',  //   duplicated
@@ -51,7 +53,7 @@ const r = [
    'rührig',  // rührig: 
    'rülpsen', // rülpsen:
    'rumärgern, herumärgern', //  duplicated
-   'Rummel', // Rummel: 
+   'Rummel', // Rummel: *
    'rumpeln', // rumpeln: 
    'rümpfen', // rümpfen: 
    'rumsen',  // rumsen: 

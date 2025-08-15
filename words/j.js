@@ -5,7 +5,7 @@ const j = [
    'Jeton',  // Jeton:  
    'johlen',  // johlen: 
    'Joppe',  // Joppe:
-   'jucken',  // jucken: 
+   'jucken',  // jucken: *
 ];
 
 export default j;   

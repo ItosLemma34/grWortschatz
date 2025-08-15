@@ -5,6 +5,7 @@ const k = [
    'Kaffeekränzchen',  // Kaffeekränzchen: 
    'kahl',  // kahl: 
    // Kahn -- pair with Lastkahn if "Kahn" found
+   'Kalauer, kalauern', // *
    'Kanapee', // Kanapee:
    'Kanne',  // Kanne:
    'Kantholz',  // Kantholz: 
@@ -18,7 +19,7 @@ const k = [
    'katzbuckeln',  // katzbuckeln: 
    'kauern',  // kauern: 
    'Kaution', // Kaution: 
-   'Kauz, kauzig',  
+   'Kauz, kauzig',  // *
    'kegeln',  // kegeln: 
    'keilen, Keil',
    'Keim, keimen',  
@@ -69,7 +70,7 @@ const k = [
    'Klüngel',  // Klüngel:   
    'knacken',  // knacken: *
    'knallen', // knallen: 
-   'Knarre',  // Knarre: 
+   'Knarre',  // Knarre: *
    'knarren', // knarren: *
    'knarzen', // knarzen: *
    'knattern', // knattern: 
@@ -80,7 +81,7 @@ const k = [
    'kneten', // kneten: 
    'kniff(e)lig', // kniff(e)lig:
    'Knirps', // Knirps: 
-   'knirschen', // knirschen:  
+   'knirschen', // knirschen:  *
    'knistern', // knistern: 
    'Knöchel',  // Knöchel: 
  //  'Knochen/Kopf hinhalten', 
@@ -88,7 +89,7 @@ const k = [
    'knorke',  // knorke:
    'knorrig',  // knorrig: 
    'Knuff, knuffen',    
-   'knüllen, zerknüllen',  //    duplicated
+   'knüllen, zerknüllen',  // duplicated  *
    'Knüller',  // Knüller: 
    'Knüppel', // Knüppel: *
    'knurren',  // knurren:   
@@ -100,10 +101,10 @@ const k = [
    'Korbstuhl',  // Korbstuhl:  
    'Kordel',  // Kordel: 
    'Kot, koten, Kotflügel', 
-   'Kotze, kotzen, ankotzen', // duplicated 
+   'Kotze, kotzen, ankotzen', // duplicated *
    'krabbeln',  // krabbeln: 
    'krachen, Krach', // *
-   'Krähe, krähen',   
+   'Krähe, krähen', // *  
    'Krake', // Krake: 
    'krakelig/kraklig', // krakelig/kraklig: 
    'Kralle',  // Kralle: 
@@ -133,7 +134,7 @@ const k = [
    'Krümel',  // Krümel: 
    'krümmen', // *
    'kullern', // kullern: *
-   'Kumpel', // Kumpel: 
+   'Kumpel', // Kumpel: *
    'kundschaften', // kundschaften:
    'Kuppe',  // Kuppe: *  
    'Kuppel',  // Kuppel: 

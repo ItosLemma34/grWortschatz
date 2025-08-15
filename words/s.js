@@ -13,7 +13,7 @@ const s = [
    'Schablone',  // Schablone:   
    'schade (zu schade sein)',   //duplicated 
    'schälen', // schälen:    
- //  'Schank',  // Schank: needs work
+   'Schank',  // Schank: *
    'Schar',  // Schar:  
    'Scharfmacher', // Scharfmacher:   
    'schassen',   // schassen:  
@@ -31,13 +31,13 @@ const s = [
    'scheuern',  // scheuern: 
    'Schieblehre', // Schieblehre:  
    'Schiefertafel', // Schiefertafel: 
-   'schielen',  // schielen: 
+   'schielen',  // schielen: *
    'schikanieren', // schikanieren: 
    'Schilde (im S. führen)', //  duplicated
    'Schimmel, (ver)schimmeln', 
-   'Schimmer (keinen blassen S.)', 
+   'Schimmer (keinen blassen S.)', // *
    'schimmern', // schimmern:  
-   'Schinder, schinden', 
+   'Schinder, schinden, geschunden',  // duplicated *
    'schlabbern', // schlabbern: 
    'Schlacke',  // Schlacke:
    'Schlagseite',  // Schlagseite: 
@@ -45,6 +45,7 @@ const s = [
    'Schlamassel', // Schlamassel: 
    'Schlampe', // Schlampe: 
    'schlampig',  // schlampig: *
+   'schlängeln',  // schlängeln:  *
    'Schlappschwanz',  // Schlappschwanz:
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch: 
@@ -52,7 +53,7 @@ const s = [
    'schlendern' , // schlendern: 
    'Schlendrian', // Schlendrian: 
    'Schlenker',  // Schlenker:
-   'Schleuse, schleusen', 
+   'Schleuse, schleusen', // *
    'Schliche (auf die S. kommen)', //  duplicated
    'Schliere, schlieren', 
    'schliddern, schlittern', // *
@@ -75,7 +76,7 @@ const s = [
    'Schminke', // Schminke:  
    'schmissig', // schmissig: 
    'Schmonzette', // Schmonzette: 
-   'schmoren' , // schmoren: 
+   'schmoren' , // schmoren:  *
    'schmökern', // schmökern: 
    'Schmuck, schmuck' , 
    'Schmuddel, -wetter, schmuddelig', 
@@ -139,6 +140,7 @@ const s = [
    'schwül, Schwüle', // *
    'schwülstig',  // schwülstig:  
    'Seil',  // Seil: 
+   'Seilschaft',  // Seilschaft: *
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
    'Siegel, versiegeln',
@@ -167,7 +169,7 @@ const s = [
    'Speichel',  // Speichel:  
    'Sprosse',  // Sprosse:  
    'Spülbürste',  // Spülbürste: 
-   'Spüle, spülen, Spülung', 
+   'Spüle, spülen, Spülung', // *
    'Spund', // Spund:  
    'spuren',  // spuren: 
    'sputen (sich)', 
@@ -189,7 +191,7 @@ const s = [
    'Steg', // Steg: *
    'stibitzen', // stibitzen: 
    'Stich (einen Stich versetzen)', // * 
-   'Stiefel, stiefeln', 
+   'Stiefel, stiefeln', // *
    'stieren, anstieren',  //   duplicated
    'stöbern',  // stöbern:  
    'stochern',  // stochern:  *

@@ -57,10 +57,11 @@ const f = [
    'Fraktur', // Fraktur:   
    'Fratze',  // Fratze:  
    'frequentieren',  // frequentieren:  
-   'Frevel',    // Frevel: 
+   'Frevel',    // Frevel:
+   'frisieren',  // frisieren:  * 
    'frösteln', // frösteln:  
    'Frotzelei, frotzeln',  //  
-   'fuchteln, Fuchtel', //  
+   'fuchteln, Fuchtel', // * 
    'fuhrwerken', // fuhrwerken:    
    'fummeln',    // fummeln:  
    'funzelig',   // funzelig:   

@@ -22,6 +22,7 @@ const d = [
    'drall',    // drall:  
    'drängeln (sich)',  // 
    'draufhaben',  // draufhaben: 
+   'Dreck am Stecken haben', // *
    'Dreh',    // Dreh: 
    'Dreigestirn',  // Dreigestirn: 
    'Dreizack',  // Dreizack * 

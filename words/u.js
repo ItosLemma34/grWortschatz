@@ -18,7 +18,7 @@ const u = [
    'umständlich',  // umständlich: 
    'Umstandskrämer',  //  Umstandskrämer:
    'umzingeln' ,  // umzingeln: 
-   'unbehelligt, behelligen', //  duplicated
+   'unbehelligt, behelligen', //  duplicated *
    'unbescholten', // unbescholten: 
    'unbotmäßig',  // unbotmäßig: 
    'unerheblich, erheblich', //  duplicated

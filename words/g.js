@@ -9,7 +9,8 @@ const g = [
    'Gebell', // Gebell:   duplicate with "bellen" if found
    'Gebrüll, brüllen',  //  duplicated 
    'Gebüsch, Busch',  //  duplicated 
-   'gediegen',  // gediegen: 
+   'gediegen',  // gediegen:
+   'Gedränge',  // Gedränge: * 
    'gefasst',  // gefasst: 
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig: 
@@ -44,6 +45,7 @@ const g = [
    'geschliffen',  // geschliffen:  
    'geschniegelt',  // geschniegelt:  
    'Geschreibsel',  // Geschreibsel:  
+   'geschunden, Schinder, schinden',  // duplicated *
    'Geschütz',  // Geschütz: 
    'Geschwafel',    // Geschwafel:
    'Geseier',  // Geseier: *  
@@ -66,7 +68,7 @@ const g = [
    'Gewinsel',  // Gewinsel: *
    'Gewirr',    // Gewirr: 
    'Gewölbe',  // Gewölbe: 
-   'Gewühl',   // Gewühl: 
+   'Gewühl',   // Gewühl: *
    'Gewummer, wummern', //  duplicated  
    'gewunden, winden', //    duplicated *
    'Gezwitscher, zwitschern', //  duplicated  *

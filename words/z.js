@@ -8,18 +8,18 @@ const z = [
    'zappeln', // zappeln: * 
    'Zarge' , // Zarge: * 
    'zartbesaitet', // *
-   'zaudern', // zaudern: 
+   'zaudern', // zaudern: *
    'Zaunlatte, Dachlatte',  // duplicated *
-   'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated
-   'zechen',     // zechen: 
-   'Zehenspitze',  // Zehenspitze:
-   'Zeltplane' ,   // Zeltplane: 
-   'zerdeppern',   // zerdeppern: 
-   'zerfleddert',  // zerfleddert: 
-   'zerknicken' ,  // zerknicken: 
+   'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated *
+   'zechen',     // zechen: *
+   'Zehenspitze',  // Zehenspitze: *
+   'Zeltplane' ,   // Zeltplane: *
+   'zerdeppern',   // zerdeppern: *
+   'zerfleddert',  // zerfleddert: *
+   'zerknicken' ,  // zerknicken:  *
    'zerknirscht',  // zerknirscht: *
-   'zerknittern',  // zerknittern: 
-   'zerknüllen, knüllen' ,  //   duplicated
+   'zerknittern',  // zerknittern: *
+   'zerknüllen, knüllen', // duplicated *
    'zerlumpt',    // zerlumpt:  
    'zermatschen',  // zermatschen: *
    'zerpflücken',  // zerpflücken: 
@@ -40,13 +40,13 @@ const z = [
    'Zipperlein', // Zipperlein: 
    'zischen',  // zischen:   
    'zittern, zittrig, erzittern', // duplicated 
-   'zockeln',  // zockeln: 
+   'zockeln',  // zockeln: *
    'zocken', // zocken: 
    'Zopf',  // Zopf:
    'zu Kreuze kriechen',  //  duplicated 
    'zu nahe treten',   
    'zu schade sein',  //  duplicated
-   'Zucht',   // Zucht: 
+   'Zucht, züchten',   // *
    'züchtigen',  // züchtigen: 
    'zücken',   // zücken:  *   
    'Zugehfrau',  // Zugehfrau: 

@@ -7,12 +7,12 @@ const h = [
    'halbgar', // halbgar:  
    'halbseiden',  // halbseiden: 
    'Halterung',  // Halterung:  
-   'Halunke',  // Halunke: 
+   'Halunke',  // Halunke: *
    'hämisch',  // hämisch: 
   // 'hämmern',
    'Handfessel, Handschelle',
    'Handlanger', // Handlanger:  
-   'Handwerk legen',  
+   'Handwerk legen',  // *
    'handzahm, zahm', //  duplicated *
    'hanebüchen',  // hanebüchen: 
    'hapern',  // hapern: 
@@ -39,7 +39,7 @@ const h = [
    'heischen', // heischen: 
    'heiser',  // heiser: 
    'Hemd (sich ins H. machen)', 
-   'hereinlegen, reinlegen',  // duplicated 
+   'hereinlegen, reinlegen',  // duplicated *
    'herrisch',  // herrisch:
    'herumärgern, rumärgern', //   duplicated
    'herumdrucksen, drucksen', // duplicated
@@ -50,6 +50,7 @@ const h = [
    'heucheln, vorheucheln', // duplicated *
    'heulen',  // heulen:  
    'hieven',  // hieven: 
+   'hineinreiten, reinreiten',  // duplicated *
    'hinhalten, Knochen/Kopf hinhalten', // duplicated *
    'hinterlistig',  // hinterlistig: 
    'hinters Licht führen', 

@@ -14,7 +14,7 @@ const b = [
     'beflissen',  // beflissen: 
     'begrapschen',  // begrapschen:  
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
-    'behelligen, unbehelligt',   //     duplicated
+    'behelligen, unbehelligt',   //   duplicated *
     'beherzt',     // beherzt:   
     'beichten',  // beichten:  
     'beikommen',   // beikommen: 
@@ -60,7 +60,8 @@ const b = [
     'Bogen, den B. raushaben', // *  
     'Bohei',   // Bohei:
     'Bohle',    // Bohle:  
-    'bohnern',  // bohnern:  
+    'bohnern',  // bohnern:
+    'Bolzen',  //  Bolzen:  * 
     'Bonze',   // Bonze: 
     'Bordstein', // Bordstein: 
     'borniert',  // borniert: 
@@ -70,7 +71,8 @@ const b = [
     'Brache',  // Brache:  
     'brandschatzen',  // brandschatzen: 
     'brausen, Brause',  
-    'Brei (um den heißen B. herumreden)', // duplicated 
+    'Brei (um den heißen B. herumreden)', // duplicated
+    'breitschlagen',  // breitschlagen: * 
     'brenzlig', // brenzlig: *
     'Brett, Bretter(wand/verschlag/bude)',   
     'Brimborium',   // Brimborium:  

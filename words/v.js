@@ -28,14 +28,14 @@ const v = [
    'verheben (sich)',  
    'verheddern (sich)',  
    'verhexen',   // verhexen:
-   'verhökern',  // verhökern: 
+   'verhökern',  // verhökern: *
    'verhunzen',  // verhunzen: 
    'verkatert, Kater',  //  duplicated
    'verkneifen (sich), verkniffen', 
    'verknicken',  // verknicken: 
    'verknoten',  // verknoten:  
    'verkommen',  // verkommen: 
-   'verkorkst, verkorken',   
+   'verkorkst',   // *
    'verköstigen, beköstigen',    
    'verkriechen (sich)',   
    'verkrümeln',  // verkrümeln:  
@@ -63,7 +63,7 @@ const v = [
    'verschanzen (sich)' ,   
    'verscharren',    // verscharren: 
    'verschaukeln',  // verschaukeln: 
-   'verscherbeln', // verscherbeln: 
+   'verscherbeln', // verscherbeln: *
    'verscherzen (sich)',    
    'verschieben',  // verschieben:  
    'verschimmeln',  // verschimmeln:  

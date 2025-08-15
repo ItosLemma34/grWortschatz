@@ -33,7 +33,7 @@ const w = [
    'Wimper',   // Wimper: 
    'Wind (durch den W. sein)', //  duplicated
    'winden, gewunden',  //  duplicated *
-   'Wink mit dem Zaunpfahl' , //  duplicated    
+   'Wink mit dem Zaunpfahl' , //  duplicated  *  
    'Winkel' ,  // Winkel: 
    'Winkeladvokat',  // Winkeladvokat: 
    'winseln',  // winseln: 
@@ -46,10 +46,10 @@ const w = [
    'wölben',  // wölben: 
    'Wolf (durch den W. drehen)', //  duplicated
    'wuchern',  // wuchern: 
-   'wuchten',  // wuchten: 
+   'wuchten',  // wuchten: *
    'wühlen, durchwühlen' ,  // duplicated *
    'wummern, Gewummer', //  duplicated
-   'würgen',  // würgen:
+   'würgen, reinwürgen',  // duplicated *
    'wurmen', // wurmen: 
    'Wurmfortsatz', // Wurmfortsatz: 
    'wuscheln',  // wuscheln: 

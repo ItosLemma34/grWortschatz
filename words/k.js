@@ -25,6 +25,7 @@ const k = [
    'Keim, keimen',  
    'kein Kraut gewachsen', 
    'keinen Reim machen können', //  duplicated
+   'keinen Zwang antun',  // duplicated *
    'Kelch',  // Kelch: 
    'Kerbholz (auf dem K. haben)',//  duplicated
    'Kerbe',  // Kerbe:  *
@@ -122,7 +123,7 @@ const k = [
    'Krempe',  // Krempe: 
    'Krempel',  // Krempel:
    'Kreuz (über K. sein, liegen)', // duplicated 
-   'Kreuze (zu K. kriechen)',  // duplicated
+   'Kreuze (zu K. kriechen)',  // duplicated *
    'kreuzfidel', // kreuzfidel: 
    'Kribbeln',  // Kribbeln:
    'Krimskrams',  // Krimskrams: 

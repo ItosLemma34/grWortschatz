@@ -11,7 +11,7 @@ const s = [
    'sausen', // sausen:  
    'schaben, abschaben', // duplicated *
    'Schablone',  // Schablone:   
-   'schade (zu schade sein)',   //duplicated 
+   'schade (zu schade sein)',   //duplicated *
    'schälen', // schälen:    
    'Schank',  // Schank: *
    'Schar',  // Schar:  

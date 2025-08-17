@@ -19,7 +19,7 @@ const f = [
    'feilschen',  // feilschen:  
    'fesch',  // fesch: 
    'festfressen (sich)',  
-   'festzurren, zurren', //  duplicated  
+   'festzurren, zurren', //  duplicated  *
    'Fettnäpfchen (ins F. treten)',  //  duplicated 
    'Fetzen',  // Fetzen: 
    'Fichte',  // Fichte: 

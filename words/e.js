@@ -64,7 +64,7 @@ const e = [
    'erschnuppern, schnuppern', //  duplicated 
    'erstehen',  // erstehen:  
    'eruieren',  // eruieren: 
-   'erzittern, zittern, zittrig',  // duplicated 
+   'erzittern, zittern, zittrig',  // duplicated *
 ];
 
 export default e;

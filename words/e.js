@@ -2,7 +2,7 @@ const e = [
    'Ebbe',   // Ebbe:   
    'echoen',  // echoen:
    'eklig',  // eklig:  make duplicate if Ekelhaft founr 
-   'Ei (wie aus dem Ei gepellt)', //  duplicated  
+   'Ei (wie aus dem Ei gepellt)', //  duplicated  *
    'einbetonieren', // einbetonieren 
    'einbläuen',  // einbläuen:  *
    'einbrocken',  // einbrocken:  *

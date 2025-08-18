@@ -106,7 +106,7 @@ const a = [
 	'auf den Putz hauen',  //   duplicated
 	'auf den Schlips treten', //  duplicated
 	'auf den Strich gehen', //  duplicated
-	'auf den Wecker gehen', //  duplicated
+	'auf den Wecker gehen', //  duplicated *
 	'auf den Zahn fühlen',  //  duplicated *
 	'auf der Hut sein',  //  duplicated
 	'auf der Nase herumtanzen',  //   duplicated

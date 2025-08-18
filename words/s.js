@@ -178,7 +178,7 @@ const s = [
    'staksen',  // staksen:  
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
-   'Stapel, stapeln', 
+   'Stapel, stapeln', // *
    'stapfen, Fußstapfe',   // duplicated *
    'starren (vor Schmutz starren)', 
    'Statist', // Statist:  

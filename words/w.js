@@ -1,33 +1,33 @@
 const w = [
-   'wabbeln', // wabbeln: 
-   'wacker', // wacker: 
-   'Wade' ,  // Wade: 
-   'waghalsig', // waghalsig: 
-   'wähnen',  // wähnen: 
-   'wälzen (sich)',  
-   'Wampe', // Wampe: 
+   'wabbeln', // wabbeln:  *
+   'wacker', // wacker:  *
+   'Wade' ,  // Wade: *
+   'waghalsig', // waghalsig: *
+   'wähnen',  // wähnen:  *
+   'wälzen',  // wälzen: *
+   'Wampe', // Wampe: *
    'Wanst',  // Wanst:  *
-   'Wappen' ,  // Wappen: 
-   'warm anziehen (sich)', 
+   'Wappen' ,  // Wappen: *
+   'warm anziehen', // *
    'was das Zeug hält', //  duplicated  *
-   'Wassern (mit allen W. gewaschen)',  //  duplicated
-   'Wecker (auf den W. gehen)',  //  duplicated
+   'Wassern (mit allen W. gewaschen)',  //  duplicated  *
+   'Wecker (auf den W. gehen)',  //  duplicated *
    'wedeln',  // wedeln: *
    'wegätzen, ätzen',  // duplicated *
-   'wegducken (sich)', 
-   'Wehwehchen',  // Wehwehchen:  
-   'weichklopfen',  // weichklopfen: 
-   'weichkochen', // weichkochen: 
-   'Weihrauch, Weihrauchschwenker', 
-   'wellen, Welle',  // 
-   'werkeln', // werkeln: 
-   'wettern',  // wettern: 
-   'Wichs',  // Wichs: 
-   'Wickelgamasche',  // Wickelgamasche: 
-   'Widerhaken', // Widerhaken: 
-   'wie aus dem Ei gepellt',  //  duplicated
-   'wie bestellt und nicht abgeholt', 
-   'wienern' , // wienern: 
+   'wegducken, ducken',  // duplicated *
+   'Wehwehchen',  // Wehwehchen:  *
+   'weichklopfen',  // weichklopfen: *
+   'weichkochen', // weichkochen: *
+   'Weihrauch, Weihrauchschwenker', // *
+   'wellen, Welle',  // *
+   'werkeln', // werkeln: *
+   'wettern',  // wettern: *
+   'Wichs',  // Wichs: *
+   'Wickelgamasche',  // Wickelgamasche: *
+   'Widerhaken', // Widerhaken: *
+   'wie aus dem Ei gepellt',  //  duplicated *
+   'wie bestellt und nicht abgeholt', // *
+   'wienern' , // wienern: *
    'wimmeln, Gewimmel',  //   duplicated *
    'wimmern' , // wimmern: *
    'Wimper',   // Wimper: 

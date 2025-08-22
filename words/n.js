@@ -22,7 +22,7 @@ const n = [
    'niederträchtig',  // niederträchtig: *
    'niegelnagelneu',  // niegelnagelneu: 
    'niesen',  // niesen: 
-   'Nobel/Vornehm geht die Welt zugrunde' , //  duplicated
+   'Nobel/Vornehm geht die Welt zugrunde' , // duplicated *
    'Nörgler',  // Nörgler:
    'nölen',  // nölen:  * 
    'Nu (im Nu)', // duplicated *

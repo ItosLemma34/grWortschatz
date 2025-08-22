@@ -46,7 +46,6 @@ const h = [
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  
    'hetzen, gehetzt',  //  duplicated 
-//   'heucheln', // heucheln: 
    'heucheln, vorheucheln', // duplicated *
    'heulen',  // heulen:  
    'hieven',  // hieven: 
@@ -70,6 +69,7 @@ const h = [
    'Hühnerauge', // Hühnerauge: 
    'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  
+   'Hunde (vor die H. gehen)',  // duplicated *
    'Hüne',  // Hüne: 
    'huschen',  // huschen: *
    'Hut (auf der H. sein)',  //  duplicated

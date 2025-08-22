@@ -143,7 +143,7 @@ const s = [
    'Seilschaft',  // Seilschaft: *
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
-   'Siegel, versiegeln',
+   'Siegel, versiegeln', // duplicated *
    'Sims',  //  Sims:
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  

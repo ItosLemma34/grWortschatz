@@ -26,8 +26,8 @@ const g = [
    'Gemächt',  // Gemächt:
    'Gemetzel', // Gemetzel: 
    'Gemurmel',  // Gemurmel:  
-   'gepfeffert, pfeffern', //   duplicated 
-   'Geplänkel, Vorgeplänkel',  //   duplicated  
+   'gepfeffert, pfeffern', // duplicated 
+   'Geplänkel, Vorgeplänkel',  // duplicated  *
    'Geplapper, plappern, nachplappern', // triplicated *
    'gequollen, quellen',  //  duplicated
    'gerädert',  // gerädert: 
@@ -58,7 +58,7 @@ const g = [
    'Gestöber',   // Gestöber: 
    'Gesträuch, Strauch',  //   duplicated  
    'Gestrüpp',  // Gestrüpp: 
-   'getäfelt, täfeln', //   duplicated
+   'getäfelt, täfeln', //   duplicated *
    'Getümmel',  // Getümmel: 
    'Geturtel',  // Geturtel:    duplicate, if found with turteln
    'Gewebe',    // Gewebe:
@@ -69,7 +69,7 @@ const g = [
    'Gewirr',    // Gewirr: 
    'Gewölbe',  // Gewölbe: 
    'Gewühl',   // Gewühl: *
-   'Gewummer, wummern', //  duplicated  
+   'Gewummer, wummern', //  duplicated *  
    'gewunden, winden', //    duplicated *
    'Gezwitscher, zwitschern', //  duplicated  *
    'Gier, gieren',   

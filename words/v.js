@@ -5,77 +5,76 @@ const v = [
    'verbeulen', // verbeulen: 
    'verbocken' , // verbocken: 
    'verbohrt',  // verbohrt: 
-//   'verbuddeln',  // verbuddeln: combine with -ein, -aus
    'verdampfen',  // verdampfen: 
    'Verdeck',  // Verdeck: 
    'verdenken' ,  // verdenken: 
    'verdonnern' , // verdonnern: 
    'verdruckst',  //verdruckst: 
-   'verdünnisieren (sich)' , 
+   'verdünnisieren', // verdünnisieren: 
    'verdunsten',  // verdunsten: 
-   'verdutzt',  // verdutzt: *
+   'verdutzt',  // verdutzt: 
    'verflachen', // verflachen:  
-   'verfilzen' ,  //verfilzen:  
+   'verfilzen' ,  // verfilzen:  
   // 'verflixt',  open with more examples
-   'vergackeiern',  //vergackeiern:  
-   'vergaloppieren', // *
-   'vergeigen', //  vergeigen:
-   'vergewissern (sich)',  
-   'ver­grau­len, Vergraulung', 
-   'vergreifen (sich)', // 
+   'vergackeiern',  // vergackeiern:  
+   'vergaloppieren', // vergaloppieren:  
+   'vergeigen', //  vergeigen: 
+   'vergewissern', //  vergewissern:  
+   'ver­grau­len, Vergraulung', // 
+   'vergreifen', // vergreifen:  
    'verhageln' ,  // verhageln:  
    'verhallen' ,  // verhallen: 
-   'verheben (sich)',  
-   'verheddern (sich)',  
-   'verhexen',   // verhexen:
-   'verhökern',  // verhökern: *
+   'verheben',  // verheben:  
+   'verheddern',  // verheddern: 
+   'verhexen',   // verhexen: 
+   'verhökern',  // verhökern: 
    'verhunzen',  // verhunzen: 
-   'verkatert, Kater',  //  duplicated
-   'verkneifen (sich), verkniffen', 
+   'verkatert, Kater',  //  duplicated 
+   'verkneifen, verkniffen',  // 
    'verknicken',  // verknicken: 
    'verknoten',  // verknoten:  
    'verkommen',  // verkommen: 
-   'verkorkst',   // *
-   'verköstigen, beköstigen',    
-   'verkriechen (sich)',   
+   'verkorkst',   // verkorkst:  
+   'verköstigen, beköstigen',  // duplicated  with beköstigen if beköstigen ever appears   
+   'verkriechen',  // verkriechen:  
    'verkrümeln',  // verkrümeln:  
    'vermaledeit', // vermaledeit: 
    'vermasseln',  // vermasseln: 
    'verminen',  // verminen: 
    'vermodern', // vermodern: 
-   'verpetzen' , // verpetzen:  
+   'verpetzen', // verpetzen:  
    'verpfeifen',  // verpfeifen: 
-   'verplappern (sich)', //  
+   'verplappern', // verplappern:   
    'verplempern',  // verplempern: 
    'verputzen',  // verputzen: 
    'verquirlen', // verquirlen 
    'verrammeln',  // verrammeln:  
    'verrecken',  // verrecken:  
-   'verrenken (sich)',   
-   'verrennen (sich)' ,   
-   'verrucht' ,  // verrucht:  
+   'verrenken',  // verrenken:  
+   'verrennen',  // verrennen:  
+   'verrucht',  // verrucht:  
    'verrufen', // verrufen:  
-   'verrußt' , // verrußt:    duplicate if Ruß or verrußen found
-   'verrutschen' ,  // verrutschen:  
+   'verrußt, Ruß', // duplicated 
+   'verrutschen',  // verrutschen:  
    'versacken',  // versacken:  
-   'versauen',   // versauen: * 
+   'versauen',   // versauen:  
    'versaufen', // versaufen: 
-   'verschanzen (sich)' ,   
+   'verschanzen',  // verschanzen:  
    'verscharren',    // verscharren: 
    'verschaukeln',  // verschaukeln: 
-   'verscherbeln', // verscherbeln: *
-   'verscherzen (sich)',    
-   'verschieben',  // verschieben:  
+   'verscherbeln', // verscherbeln: 
+   'verscherzen',  // verscherzen:  
+   'verschieben',  // verschieben:   check for other entries
    'verschimmeln',  // verschimmeln:  
    'Verschlag',   // Verschlag:  
-   'verschleißen', // verschleißen: 
-   'verschmieren' , // verschmieren: 
-   'verschnörkelt, verschnörkeln',
-   'verschnupft' ,  // verschnupft:  
+   'verschleißen', // verschleißen:  check for other entries
+   'verschmieren', // verschmieren: 
+   'verschnörkelt, verschnörkeln', //  check for other entries
+   'verschnupft',  // verschnupft:  
    'verschnüren',  // verschnüren:  
-   'verschollen' , // verschollen:  
-   'verschorft, verschorfen', 
-   'verschränken, verschränkt, Verschränkung',  // *  
+   'verschollen', // verschollen:  
+   'verschorft, verschorfen', // 
+   'verschränken, verschränkt, Verschränkung',  //   
    'verschrumpeln',  // verschrumpeln: 
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
@@ -83,48 +82,48 @@ const v = [
 //   'versehren',   need more past examples
    'versengen',  // versengen:  
    'versickern',  // versickern: 
-   'versieben',  // versieben:
-   'versiegeln, Siegel', 
-   'versiegen',   // versiegen:
+   'versieben',  // versieben:  check for other entries
+   'versiegeln, Siegel', // duplicated 
+   'versiegen',   // versiegen:  
    'versprengen', // versprengen:   
    'verstauen',  // verstauen:  
-   'versteifen (sich)', // 'versteifen (sich)'  
+   'versteifen', //  check for other entries  
    'Verstellung',  // Verstellung:   combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  
    'verstohlen',   // verstohlen:  
-   'verstümmeln, Verstümmelung',
+   'verstümmeln, Verstümmelung', // 
    'vertilgen',  // vertilgen: 
    'vertrackt',   // vertrackt:     combine with Vertrackt if found
-   'vertreten (sich die Beine)', // *  
+   'vertreten (sich die Beine)', //  duplicated   
    'Vertriebsweg', // Vertriebsweg:  
    'vertrödeln',  // vertrödeln 
    'vertun, vertan',  // 
    'verunglimpfen',  // verunglimpfen:  
    'verunzieren',  // verunzieren:  
-   'Verwahrlosung, verwahrlosen', 
-   'verwaisen, verwaist',  
+   'Verwahrlosung, verwahrlosen', // 
+   'verwaisen, verwaist', //  
    'verwegen',  // verwegen:  
-   'verwesen, Verwesung',  
+   'verwesen, Verwesung', //  
    'verwetten',  // verwetten: 
    'verwittern', // verwittern:  
-   'verwuscheln, verwuschelt', 
+   'verwuscheln, verwuschelt', // 
    'verwüsten',  // verwüsten:  
    'verzückt', // verzückt:  
-   'vierschrötig', // vierschrötig:   *
+   'vierschrötig', // vierschrötig:   
    'vögeln',    // vögeln: 
-   'vollsaugen (sich)', 
+   'vollsaugen', // vollsaugen:  
    'Vollwaise', // Vollwaise:  
-   'von der Fahne gehen', //  duplicated
-   'vor die Hunde gehen',  // *  NOT duplicated
-   'vorführen',  // *
-   'vorgaukeln',  // vorgaukeln:  *
-   'Vorgeplänkel, Geplänkel',  //    duplicated
-   'Vorhängeschloss',  //  Vorhängeschloss: 
-   'vorheucheln, heucheln',  // duplicate *
-   'vorknöpfen',  // *  
-   'vorliebnehmen',   // vorliebnehmen: 
-   'Vornehm/Nobel geht die Welt zugrunde', //  duplicated
-   'vorsätzlich', // vorsätzlich:  
+   'von der Fahne gehen', //  duplicated 
+   'vor die Hunde gehen',  // duplicated 
+   'vorführen',  // vorführen:  
+   'vorgaukeln',  // vorgaukeln:  
+   'Vorgeplänkel, Geplänkel',  // duplicated 
+   'Vorhängeschloss',  // Vorhängeschloss: 
+   'vorheucheln, heucheln',  // duplicate 
+   'vorknöpfen',  // vorknöpfen:    
+   'vorliebnehmen',  // vorliebnehmen: 
+   'Vornehm/Nobel geht die Welt zugrunde', // duplicated 
+   'vorsätzlich', // vorsätzlich:    check for other entries
    'vorsintflutlich',  // vorsintflutlich: 
 ];
 

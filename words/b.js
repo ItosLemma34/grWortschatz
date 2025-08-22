@@ -21,6 +21,7 @@ const b = [
     'Beil',  // Beil: 
     'Bein (ans B. binden)', //   duplicated 
     'Beine in den Bauch',  // 
+    'Beine (sich die B. vertreten)', // duplicated *
     'beipflichten',   // beipflichten: 
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
@@ -71,7 +72,7 @@ const b = [
     'Brache',  // Brache:  
     'brandschatzen',  // brandschatzen: 
     'brausen, Brause',  
-    'Brei (um den heißen B. herumreden)', // duplicated
+    'Brei (um den heißen B. herumreden)', // duplicated *
     'breitschlagen',  // breitschlagen: * 
     'brenzlig', // brenzlig: *
     'Brett, Bretter(wand/verschlag/bude)',   

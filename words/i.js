@@ -9,7 +9,7 @@ const i = [
    'in die Pfanne hauen',  //  duplicated
    'in die Quere kommen', //  duplicated *
    'in die Zange nehmen', //  duplicated *
-   'in drei Teufels Namen', 
+   'in drei Teufels Namen', //  duplicated *
    'in einem fort (schnattern)', //   duplicated
    'in Schuss sein', //  duplicated
    'ins Fettnäpfchen treten', //  duplicated

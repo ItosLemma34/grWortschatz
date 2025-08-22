@@ -56,7 +56,7 @@ const e = [
    'erdreisten (sich)',    
    'ergattern',   // ergattern:  
    'erhaschen',   // erhaschen: 
-   'erheblich, unerheblich', //  duplicated 
+   'erheblich, unerheblich', // duplicated *
    'Erker', // Erker:   
    'erkiesen',   // erkiesen:  
    'erpicht',   // erpicht:

@@ -1,13 +1,13 @@
 const t = [
-   'Tacheles (reden)', // *
-   'täfeln, getäfelt', //  duplicated
-   'Tantieme',  // Tantieme: 
-   'tapsen' ,  // tapsen: 
-   'tattern',  // tattern: 
-   'tätscheln', // tätscheln: 
-   'taxieren' , // taxieren: 
-   'Teufel (in drei T. Namen)', //  duplicated
-   'Teufel tun' ,   
+   'Tacheles reden', // *
+   'täfeln, getäfelt', //  duplicated  *
+   'Tantieme',  // Tantieme: *
+   'tapsen' ,  // tapsen: *
+   'tattern',  // tattern: *
+   'tätscheln', // tätscheln: *
+   'taxieren' , // taxieren: *
+   'Teufel (in drei T. Namen)', //  duplicated *
+   'Teufel tun',  // * 
    'Theke',  // Theke:  *
    'toben' , // toben: 
    'tollen', // tollen: 

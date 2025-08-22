@@ -2,11 +2,11 @@ const f = [
    'fächern, auffächern', //  duplicated
    'fackeln',  // fackeln:  
    'fadenscheinig',  // fadenscheinig: 
-   'Fahne (von der F. gehen)',  //  duplicated 
+   'Fahne (von der F. gehen)',  //  duplicated *
    'Fahnenabzug',  // Fahnenabzug: 
    'Faible' ,  // Faible: 
    'Fall der Fälle',  //  
-   'Fallbeil', // Fallbeil:  
+   'Fallbeil', // Fallbeil: * 
    'Fasan',  // Fasan:  
    'faseln',  // faseln:  
    'Fass',  // Fass:   

@@ -59,7 +59,7 @@ const r = [
    'rumsen',  // rumsen: 
    'rupfen', // rupfen: 
    'Rüsche', // Rüsche: 
-   'Ruß',  // Ruß: *
+   'Ruß, verrußt',  // duplicated *
    'rüstig', // rüstig: *
    ];
 

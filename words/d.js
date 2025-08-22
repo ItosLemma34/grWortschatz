@@ -36,8 +36,8 @@ const d = [
    'dudeln',   // dudeln: 
    'dumpf',    // dumpf: 
    'Dunst, Dunstkreis',  
-   'durch den Wind sein', //  dulicated
-   'durch den Wolf drehen',  //   duplicated 
+   'durch den Wind sein', //  dulicated *
+   'durch den Wolf drehen',  //   duplicated *
    'durch die Mangel drehen', //  duplicated
    'durchbrennen',  // durchbrennen: *
    'durchdrehen',  // durchdrehen: 

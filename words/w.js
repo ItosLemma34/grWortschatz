@@ -30,32 +30,32 @@ const w = [
    'wienern' , // wienern: *
    'wimmeln, Gewimmel',  //   duplicated *
    'wimmern' , // wimmern: *
-   'Wimper',   // Wimper: 
-   'Wind (durch den W. sein)', //  duplicated
+   'Wimper',   // Wimper:  *
+   'Wind (durch den W. sein)', //  duplicated  *
    'winden, gewunden',  //  duplicated *
    'Wink mit dem Zaunpfahl' , //  duplicated  *  
-   'Winkel' ,  // Winkel: 
-   'Winkeladvokat',  // Winkeladvokat: 
-   'winseln',  // winseln: 
+   'Winkel' ,  // Winkel: *
+   'Winkeladvokat',  // Winkeladvokat: *
+   'winseln',  // winseln: *
    'Wipfel',  // Wipfel:  *
    'wippen' , // wippen: *
-   'Witzbold', // Witzbold: 
+   'Witzbold', // Witzbold: *
    'wogen' ,  // wogen: *
-   'Wohl bekomm\'s!', 
-   'Wohlgefallen (sich in W. auflösen)', 
-   'wölben',  // wölben: 
-   'Wolf (durch den W. drehen)', //  duplicated
-   'wuchern',  // wuchern: 
+   'Wohl bekomm\'s!', // *
+   'Wohlgefallen (sich in W. auflösen)', // *
+   'wölben',  // wölben:  *
+   'Wolf (durch den W. drehen)', //  duplicated *
+   'wuchern',  // wuchern: *
    'wuchten',  // wuchten: *
    'wühlen, durchwühlen' ,  // duplicated *
-   'wummern, Gewummer', //  duplicated
+   'wummern, Gewummer', //  duplicated  *
    'würgen, reinwürgen',  // duplicated *
-   'wurmen', // wurmen: 
-   'Wurmfortsatz', // Wurmfortsatz: 
-   'wuscheln',  // wuscheln: 
-   'wuseln',  // wuseln: 
-   'wüten',  // wüten: 
-   'wutschnaubend', // wutschnaubend: 
+   'wurmen', // wurmen: *
+   'Wurmfortsatz', // Wurmfortsatz: *
+   'wuscheln',  // wuscheln: *
+   'wuseln',  // wuseln: *
+   'wüten',  // wüten: *
+   'wutschnaubend', // wutschnaubend: *
    ];
 
 export default w;      

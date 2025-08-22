@@ -15,7 +15,7 @@ const k = [
    'Kaschemme',  // Kaschemme: 
    'kaschieren', // kaschieren: 
    'Kassiber',  // Kassiber: 
-   'Kater, verkatert', 
+   'Kater, verkatert', // duplicated *
    'katzbuckeln',  // katzbuckeln: 
    'kauern',  // kauern: 
    'Kaution', // Kaution: 
@@ -122,7 +122,7 @@ const k = [
    'Kreissäge',  // Kreissäge: 
    'Krempe',  // Krempe: 
    'Krempel',  // Krempel:
-   'Kreuz (über K. sein, liegen)', // duplicated 
+   'Kreuz (über K. sein/liegen)', // duplicated *
    'Kreuze (zu K. kriechen)',  // duplicated *
    'kreuzfidel', // kreuzfidel: 
    'Kribbeln',  // Kribbeln:

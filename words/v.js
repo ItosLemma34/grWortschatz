@@ -115,6 +115,7 @@ const v = [
    'Vollwaise', // Vollwaise:  
    'von der Fahne gehen', //  duplicated 
    'vor die Hunde gehen',  // duplicated 
+   'vor Schmutz starren',  // duplicated with "starren"
    'vorführen',  // vorführen:  
    'vorgaukeln',  // vorgaukeln:  
    'Vorgeplänkel, Geplänkel',  // duplicated 

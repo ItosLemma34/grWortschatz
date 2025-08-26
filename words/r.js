@@ -1,5 +1,5 @@
 const r = [
-   'Rabauke', // Rabauke:  
+   'Rabauke', // Rabauke:  *
    'Rabe',  // Rabe: 
    'rabiat', // rabiat: 
    'Radau, Radaubruder', 
@@ -15,7 +15,7 @@ const r = [
    'Ratsch', // Ratsch: 
    'Rätselraten', // Rätselraten: 
    'rattern',  // rattern:              
-   'Räuberpistole',  // Räuberpistole: 
+   'Räuberpistole',  // Räuberpistole: *
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
    'Raunen, raunen', // 
@@ -28,7 +28,7 @@ const r = [
    'reinlegen, hereinlegen',  // duplicated *
    'reinreiten, hineinreiten',  // duplicated * 
    'reinsemmeln', // reinsemmeln: 
-   'reinwürgen, würgen',  // duplicate * 
+   'reinwürgen, Würge, würgen',  // duplicate * 
 //   'reißen, -aus, -ab, sich um etwas', // *
    'reißerisch',  // reißerisch: 
    'Rempler, rempeln, anrempeln',  //   duplicated

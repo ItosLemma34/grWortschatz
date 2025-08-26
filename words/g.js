@@ -56,7 +56,7 @@ const g = [
    'Gestänge',   // Gestänge:  
    'Gestell',    // Gestell:  
    'Gestöber',   // Gestöber: 
-   'Gesträuch, Strauch',  //   duplicated  
+   'Gesträuch, Strauch',  //   duplicated  *
    'Gestrüpp',  // Gestrüpp: 
    'getäfelt, täfeln', //   duplicated *
    'Getümmel',  // Getümmel: 

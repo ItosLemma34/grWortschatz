@@ -8,7 +8,8 @@ const e = [
    'einbrocken',  // einbrocken:  *
    'einbuchten',  // einbuchten:  
    'eindösen, dösen', //   duplicated
-   'Eindruck schinden',   
+   'Eindruck schinden',  
+   'einen Strick drehen',  // duplicated * 
    'einfädeln',  // einfädeln:
    'einflößen',  // einflößen:
    'einfrieden', // einfrieden: 
@@ -61,7 +62,7 @@ const e = [
    'erkiesen',   // erkiesen:  
    'erpicht',   // erpicht:
    'erschauern, schauern',  // duplicated * 
-   'erschnuppern, schnuppern', //  duplicated 
+   'erschnuppern, schnuppern', //  duplicated  *
    'erstehen',  // erstehen:  
    'eruieren',  // eruieren: 
    'erzittern, zittern, zittrig',  // duplicated *

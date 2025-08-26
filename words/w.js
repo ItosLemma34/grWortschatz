@@ -49,7 +49,7 @@ const w = [
    'wuchten',  // wuchten: *
    'wühlen, durchwühlen' ,  // duplicated *
    'wummern, Gewummer', //  duplicated  *
-   'würgen, reinwürgen',  // duplicated *
+   'Würge, würgen, reinwürgen',  // duplicated *
    'wurmen', // wurmen: *
    'Wurmfortsatz', // Wurmfortsatz: *
    'wuscheln',  // wuscheln: *

@@ -68,15 +68,15 @@ const a = [
 	'anrücken, ausrücken, nachrücken', //  triplicated  
 	'ans Bein binden',  //  duplicated
 	'anschleichen (sich)', // 
-	'anschmachten, schmachten', //  duplicated
+	'anschmachten, schmachten', //  duplicated *
 	'anschmiegsam', // anschmiegsam: 
 	'anschnauzen',  // anschnauzen: 
-	'anschnorren, schnorren', //  duplicated
+	'anschnorren, schnorren', //  duplicated *
 	'anschwärzen',  // anschwärzen:  
 	'ansengen',     // ansengen:  
 	'Ansinnen' ,    // Ansinnen:  
 	'anstandslos',  // anstandslos:  
-	'anstieren, stieren',  //  duplicated
+	'anstieren, stieren',  //  duplicated *
 	'anstupsen',    // anstupsen: 
 	'antanzen',     // antanzen:  * 
 	'Anwesen',      // Anwesen: 
@@ -90,7 +90,7 @@ const a = [
 	'Arm (auf den A. nehmen)',  //  duplicated
 	'Armbeuge',    // Armbeuge:   
 	'arme Ritter', //   duplicated
-	'armer Schlucker', //  duplicated
+	'armer Schlucker', //  duplicated *
 	'Arsch (in den A. kriechen)', // duplicated *  
 	'Asservat',  // Asservat:  
 	'Ast, Geäst', //  duplicated
@@ -99,13 +99,13 @@ const a = [
 	'auf Biegen und Brechen',  
 	'auf dem Kerbholz haben', //  duplicated
 	'auf dem Kieker haben', //  duplicated
-	'auf dem Sprung',      //  duplicate
+	'auf dem Sprung',      //  duplicated  *
 	'auf dem Trockenen sitzen', // *
 	'auf den Arm nehmen',  //  duplicated
 	'auf den Leim gehen',  //  duplicated
 	'auf den Putz hauen',  //   duplicated
-	'auf den Schlips treten', //  duplicated
-	'auf den Strich gehen', //  duplicated
+	'auf den Schlips treten', //  duplicated *
+	'auf den Strich gehen', //  duplicated *
 	'auf den Wecker gehen', //  duplicated *
 	'auf den Zahn fühlen',  //  duplicated *
 	'auf der Hut sein',  //  duplicated
@@ -113,8 +113,8 @@ const a = [
 	'auf die Nase binden',  //  duplicated
 	'auf die Palme treiben/bringen',  //  duplicated 
 	'auf die Pelle rücken',   //  duplicated
-	'auf die Schliche kommen',  //  duplicated
-	'auf die Tube drücken',   //  duplicated
+	'auf die Schliche kommen',  //  duplicated *
+	'auf die Tube drücken',   //  duplicated *
 	'auf etwas aus sein',  
 	'auf Granit beißen', 
 	'auf Halde legen',   
@@ -144,26 +144,26 @@ const a = [
 	'aufs Auge drücken',   
 	'aufs Dach steigen',    // duplicated *   
 	'aufs Korn nehmen',  
-	'aufschaukeln, schaukeln', //  duplicated  
+	'aufschaukeln, schaukeln', //  duplicated  *
 	'aufscheuchen',    // aufscheuchen:   
 	'aufschichten',   // aufschichten:  
 	'aufstieben',    // aufstieben:  
-	'aufstöbern',    // aufstöbern:  
+	'aufstöbern, stöbern',    // duplicated * 
 	'aufstöhnen, stöhnen', //  duplicated
-	'aufsummen, summen', //  duplicated
+	'aufsummen, summen', //  duplicated *
 	'auftakeln',     // auftakeln: 
 	'auftischen',    // auftischen:  *
 	'Aufwartung machen', 
 	'aufwiegen',     // aufwiegen:  
 	'aufwühlen, aufgewühlt', 
 	'aus dem Konzept bringen',     
-	'aus dem Staub machen (sich)', //  duplicated
+	'aus dem Staub machen (sich)', //  duplicated *
 	'aus dem Häuschen sein',   //  
 	'aus der Haut fahren',  // 
 	'ausbaldowern', // ausbaldowern:
 	'ausborgen',  // ausborgen:  *
 	'ausbügeln',  // ausbügeln:  
-	'ausbremsen', // ausbremsen:  
+	'ausbremsen', // ausbremsen: * 
 	'ausbüxen',    // ausbüxen:  
 	'Ausdünstung',  // Ausdünstung:  
 	'Ausfallstraße',   // Ausfallstraße:  
@@ -177,7 +177,7 @@ const a = [
 	'Ausreißer',    // Ausreißer:  
 	'ausreizen',  // ausreizen: 
 	'ausrücken, anrücken, nachrücken',  //  triplicated
-	'aussägen, sägen', //   duplicated  
+	'aussägen, sägen', //   duplicated  *
 	'Ausschachtung',  // Ausschachtung: 
 	'ausscheren',   // ausscheren:  
 	'ausschlachten', // ausschlachten:  

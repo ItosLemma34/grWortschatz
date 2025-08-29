@@ -1,5 +1,5 @@
 const l = [
-   'Lache',  // Lache: 
+   'Lache',  // Lache: *
    'Lack, lackieren', // *  
    'Lackaffe',  // Lackaffe:  
    'lädieren',  // lädieren: *
@@ -7,7 +7,7 @@ const l = [
    'lahmarschig, Lahmarschigkeit',
    'Laken', // Laken: 
    'lallen',  // lallen: 
-   'lange Nase zeigen/machen', //  duplicated
+   'lange Nase zeigen/machen', //  duplicated *
    'Lappen',   // Lappen: 
    'läppisch', // läppisch:  
    'lässig',  // lässig:   latte:  Latte:

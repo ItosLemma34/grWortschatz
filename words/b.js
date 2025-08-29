@@ -29,7 +29,7 @@ const b = [
   //  'belegt',  // belegt:  *  complete with belegen?
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
-    'bepinseln, pinseln', //  duplicated
+    'bepinseln, pinseln', //  duplicated *
     'bequemen, herbequemen (sich)',  // duplicated
     'berappen',   // berappen:  
     'beredt',     // beredt:  
@@ -46,7 +46,7 @@ const b = [
     'bieder',     // bieder: 
     'Biege machen', 
     'bimmeln', // 
-    'bis in die Puppen', //   duplicated 
+    'bis in die Puppen', // duplicated  *
     'Blase',  // Blase:  *
     'blasiert',  // blasiert: 
     'Blaumann',  // Blaumann:  

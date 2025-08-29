@@ -14,7 +14,7 @@ const g = [
    'gefasst',  // gefasst: 
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig: 
-   'Gehabe',  // Gehabe:    
+   'Gehabe',  // Gehabe:  *  
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated
    'Gehirnerschütterung', // Gehirnerschütterung: 
@@ -26,7 +26,7 @@ const g = [
    'Gemächt',  // Gemächt:
    'Gemetzel', // Gemetzel: 
    'Gemurmel',  // Gemurmel:  
-   'gepfeffert, pfeffern', // duplicated 
+   'gepfeffert, pfeffern', // duplicated * 
    'Geplänkel, Vorgeplänkel',  // duplicated  *
    'Geplapper, plappern, nachplappern', // triplicated *
    'gequollen, quellen',  //  duplicated

@@ -25,10 +25,10 @@ const e = [
    'einlullen',  // einlullen:
    'einnässen',  // einnässen:  
    'einnicken',  // einnicken:  
-   'Einöde, öde',   // duplicated
-   'einpferchen, pferchen', //  duplicated 
+   'Einöde, öde',   // duplicated  *
+   'einpferchen, pferchen', //  duplicated *
    'einrasten',  // einrasten:  
-   'einreißen, niederreißen',  //  duplicated  
+   'einreißen, niederreißen',  //  duplicated * 
    'einrenken (sich)',     
    'einrüsten, Gerüst', // duplicated * 
    'einsacken',  // einsacken: 

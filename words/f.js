@@ -30,6 +30,7 @@ const f = [
    'Fischzug',   // Fischzug:  
    'Flachmann',  // Flachmann:  *
    'Flachpfeife', // Flachpfeife:
+   'flackern',  // flackern:  *
    'flanieren',  // flanieren: 
    'Flappe (eine F. ziehen)', 
    'flapsig, Flapsigkeit',   

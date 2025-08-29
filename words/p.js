@@ -1,71 +1,71 @@
 const p = [
    'Pächter',  // Pächter: 
    'paktieren', // paktieren: 
-   'Palme (auf die P. treiben/bringen)', //  duplicated
+   'Palme (auf die P. treiben/bringen)', //  duplicated  
    'pampig',  // pampig: 
-   'Pappe, pappen, Papp-',
-   'päppeln', // päppeln:  * 
+   'Pappe, pappen, Papp-', // 
+   'päppeln', // päppeln:   
    'Pappenstiel', // Pappenstiel: 
-   'Parade (in die P. fahren)', //  duplicated
-   'Parzelle',  // Parzelle:
+   'Parade (in die P. fahren)', //  duplicated 
+   'Parzelle',  // Parzelle:  
    'Patrone', // Patrone: 
    'patzig',  // patzig:  
    'pauken', // pauken: 
    'Pegel',  // Pegel: 
-   'peilen', // peilen
-   'peinigen, Peiniger',
-   'Pelle (auf die P. rücken)', //  duplicated
-   'Pest an den Hals', 
-   'petzen', // petzen: *
+   'peilen', // peilen: 
+   'peinigen, Peiniger', // 
+   'Pelle (auf die P. rücken)', //  duplicated 
+   'Pest an den Hals', // 
+   'petzen', // petzen: 
    'Pfaffe', // Pfaffe: 
-   'Pfanne (in die P. hauen)',  //    duplicated
+   'Pfanne (in die P. hauen)',  // duplicated  
    'Pfau',  // Pfau: 
-   'pfeffern, gepfeffert',  //    duplicated
+   'pfeffern, gepfeffert',  //  duplicated 
    'Pfeiler',  // Pfeiler:  
-   'pferchen, einpferchen', //  duplicated
+   'pferchen, einpferchen', //  duplicated  
    'pfiffig',  // pfiffig: 
    'Pfropfen',  // Pfropfen: 
-   'pfuschen (ins Handwerk p.)', //    duplicated
-   'Pfütze',  // Pfütze:     
-   'pieksen, piksen', 
-   'Pimpf',  // Pimpf:
+   'pfuschen (ins Handwerk p.)', //  duplicated 
+   'Pfütze',  // Pfütze:   
+   'pieksen, piksen', // 
+   'Pimpf',  // Pimpf: 
    'Pinkel', // Pinkel: 
    'pinkeln',  // pinkeln: 
-   'pinseln, bepinseln',  //  duplicated
-   'Plackerei', // Plackerei:
-   'plappern, nachplappern, Geplapper',  // triplicated * 
+   'pinseln, bepinseln',  //  duplicated  
+   'Plackerei', // Plackerei:  
+   'plappern, nachplappern, Geplapper',  // triplicated  
    'platschen', // platschen: 
-   'plätschern', // plätschern:
+   'plätschern', // plätschern: 
    'Platzhirsch', // Platzhirsch: 
    'ploppen',  // ploppen: 
    'plumpsen',  // plumpsen: 
    'plüschig',  // plüschig: 
    'pöbeln', // pöbeln: 
    'Polente', // Polente: 
-   'Polster, polstern, Polsterung', // *
-   'poltern' ,  // poltern: *
+   'Polster, polstern, Polsterung', // 
+   'poltern' ,  // poltern: 
    'postieren', // postieren: 
-   'prallen, auf-, ab-',  // *
+   'prallen, auf-, ab-',  // 
   // 'präparieren' ,
    'prangen', // prangen: 
    'Pranke',  // Pranke: 
    'Präsent, präsent',  // 
    'prasseln',  // prasseln: 
-   'preschen',  // preschen:
-   'prickeln',  // prickeln: *
+   'preschen',  // preschen: 
+   'prickeln',  // prickeln: 
    'Prise' ,  // Prise: 
    'Pritsche', // Pritsche: 
    'Prothese', // Prothese: 
-   'Protz, protzen, protzig' , 
+   'Protz, protzen, protzig', // 
    'prusten',  // prusten:  
    'pudern',  // pudern: 
    'Pulle',  // Pulle: 
    'pumpen', // pumpen: 
-   'Puppen (bis in die P.)',  //   duplicated
-   'Puste, pusten', 
+   'Puppen (bis in die P.)', // duplicated 
+   'Puste, pusten', // 
    'Pute',  // Pute: 
    'Putz', // Putz: 
-   'Putz (auf den P. hauen)', //  duplicated
+   'Putz (auf den P. hauen)', //  duplicated  
   ];
 
 export default p;      

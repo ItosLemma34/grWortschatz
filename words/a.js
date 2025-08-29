@@ -63,13 +63,13 @@ const a = [
 	'anpumpen',     // anpumpen: 
 	'anquatschen',   // anquatschen: 
 	'anraunzen',     // anraunzen: 
-	'anrempeln, rempeln, Rempler',  //  duplicated
+	'anrempeln, rempeln, Rempler',  //  duplicated *
 	'Anrichte',     // Anrichte: 
-	'anrücken, ausrücken, nachrücken', //  triplicated  
+	'anrücken, ausrücken, nachrücken', //  triplicated  * 
 	'ans Bein binden',  //  duplicated
 	'anschleichen (sich)', // 
 	'anschmachten, schmachten', //  duplicated *
-	'anschmiegsam', // anschmiegsam: 
+	'anschmiegsam', // anschmiegsam: *
 	'anschnauzen',  // anschnauzen: 
 	'anschnorren, schnorren', //  duplicated *
 	'anschwärzen',  // anschwärzen:  
@@ -89,7 +89,7 @@ const a = [
 	'Areal' ,  // Areal: 
 	'Arm (auf den A. nehmen)',  //  duplicated
 	'Armbeuge',    // Armbeuge:   
-	'arme Ritter', //   duplicated
+	'arme Ritter', //   duplicated *
 	'armer Schlucker', //  duplicated *
 	'Arsch (in den A. kriechen)', // duplicated *  
 	'Asservat',  // Asservat:  
@@ -103,16 +103,16 @@ const a = [
 	'auf dem Trockenen sitzen', // *
 	'auf den Arm nehmen',  //  duplicated
 	'auf den Leim gehen',  //  duplicated
-	'auf den Putz hauen',  //   duplicated
+	'auf den Putz hauen',  //   duplicated *
 	'auf den Schlips treten', //  duplicated *
 	'auf den Strich gehen', //  duplicated *
 	'auf den Wecker gehen', //  duplicated *
 	'auf den Zahn fühlen',  //  duplicated *
 	'auf der Hut sein',  //  duplicated
-	'auf der Nase herumtanzen',  //   duplicated
-	'auf die Nase binden',  //  duplicated
-	'auf die Palme treiben/bringen',  //  duplicated 
-	'auf die Pelle rücken',   //  duplicated
+	'auf der Nase herumtanzen',  // duplicated *
+	'auf die Nase binden',  //  duplicated *
+	'auf die Palme treiben/bringen',  //  duplicated *
+	'auf die Pelle rücken',   //  duplicated *
 	'auf die Schliche kommen',  //  duplicated *
 	'auf die Tube drücken',   //  duplicated *
 	'auf etwas aus sein',  
@@ -176,7 +176,7 @@ const a = [
 	'ausräuchern', // ausräuchern:  
 	'Ausreißer',    // Ausreißer:  
 	'ausreizen',  // ausreizen: 
-	'ausrücken, anrücken, nachrücken',  //  triplicated
+	'ausrücken, anrücken, nachrücken',  //  triplicated *
 	'aussägen, sägen', //   duplicated  *
 	'Ausschachtung',  // Ausschachtung: 
 	'ausscheren',   // ausscheren:  

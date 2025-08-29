@@ -1,26 +1,26 @@
 const m = [
    'mäandern',  // mäandern: 
    'Machwerk',  // Machwerk: 
-   'mähen, Rasenmäher', // duplicated *
+   'mähen, Rasenmäher', // duplicated 
    'malochen', // malochen: 
-   'Mangel (durch die M. drehen)', //  duplicated
-   'Mangel (in die M. nehmen)' ,  //  duplicated *
+   'Mangel (durch die M. drehen)', //  duplicated 
+   'Mangel (in die M. nehmen)' ,  //  duplicated 
    'Manschettenknopf',  // Manschettenknopf: 
-   'markieren (den dicken Max m.)', 
+   'markieren (den dicken Max m.)',  
    'Marotte',  // Marotte: 
-   'Masche',  // Masche: *
+   'Masche',  // Masche: 
    'Matsch',  // Matsch: 
    'mau', // mau: 
    'Maulwurf',  // Maulwurf: 
-   'meckern' ,  // meckern: 
+   'meckern',  // meckern: 
    'Melone',  // Melone: 
-   'Messing' ,  // Messing: 
-   'meucheln, Meuchelmord', // *
+   'Messing',  // Messing: 
+   'meucheln, Meuchelmord',  
    'Meute',  // Meute: 
    'mickrig',  // mickrig: 
-   'miefig, Mief',  
+   'miefig, Mief',   
    'mimen', // mimen: 
-   'mit allen Wassern gewaschen', //  duplicated *
+   'mit allen Wassern gewaschen', //  duplicated 
    'mitgenommen',  // mitgenommen: 
    'Mohrrübe', // Mohrrübe: 
    'Mucks',  // Mucks:  
@@ -31,8 +31,8 @@ const m = [
    'Mumm',  // Mumm: 
    'Mumpitz',  // Mumpitz: 
    'munkeln',  // munkeln: 
-   'Murmel' , // Murmel: 
-   'murren' , // murren: 
+   'Murmel', // Murmel: 
+   'murren', // murren: 
 ];
 
 export default m;      

@@ -14,7 +14,7 @@ const h = [
    'Handlanger', // Handlanger:  
    'Handwerk legen',  // *
    'handzahm, zahm', //  duplicated *
-   'hanebüchen',  // hanebüchen: 
+   'hanebüchen',  // hanebüchen: *
    'hapern',  // hapern: 
    'Happen, Häppchen',    
    'harren',  // harren: 
@@ -41,7 +41,7 @@ const h = [
    'Hemd (sich ins H. machen)', 
    'hereinlegen, reinlegen',  // duplicated *
    'herrisch',  // herrisch:
-   'herumärgern, rumärgern', //   duplicated
+   'herumärgern, rumärgern', //  duplicated *
    'herumdrucksen, drucksen', // duplicated
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  

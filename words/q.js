@@ -1,15 +1,15 @@
 const q = [
-   'qualmen',  // qualmen:
+   'qualmen',  // qualmen: 
    'Quast', // Quast: 
-   'quellen, überquellen',  //  dupplicated *
-   'quengeln', // quengeln:
-   'Quere (in die Q. kommen)', //  duplicated *
+   'quellen, überquellen',  //  duplicated 
+   'quengeln', // quengeln: 
+   'Quere (in die Q. kommen)', //  duplicated 
    'Querschläger',  // Querschläger: 
    'Querschnitt', // Querschnitt: 
-   'quetschen, heraus-, zer-', // *
+   'quetschen, heraus-, zer-', // 
    'quietschen',  // quietschen: 
    'quitt',  // quitt: 
-   'quittieren',  // quittieren:  *
+   'quittieren',  // quittieren:  
 ];
 
 export default q;      

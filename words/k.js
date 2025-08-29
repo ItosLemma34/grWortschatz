@@ -24,7 +24,7 @@ const k = [
    'keilen, Keil',
    'Keim, keimen',  
    'kein Kraut gewachsen', 
-   'keinen Reim machen können', //  duplicated
+   'keinen Reim machen können', //  duplicated *
    'keinen Zwang antun',  // duplicated *
    'Kelch',  // Kelch: 
    'Kerbholz (auf dem K. haben)',//  duplicated

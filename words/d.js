@@ -38,7 +38,7 @@ const d = [
    'Dunst, Dunstkreis',  
    'durch den Wind sein', //  dulicated *
    'durch den Wolf drehen',  //   duplicated *
-   'durch die Mangel drehen', //  duplicated
+   'durch die Mangel drehen', //  duplicated *
    'durchbrennen',  // durchbrennen: *
    'durchdrehen',  // durchdrehen: 
    'durchforsten', // durchforsten: 

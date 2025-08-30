@@ -9,6 +9,7 @@ const e = [
    'einbuchten',  // einbuchten:  
    'eindösen, dösen', //   duplicated
    'Eindruck schinden',  
+   'einen Korb bekommen/geben', // duplicated *
    'einen Strick drehen',  // duplicated * 
    'einfädeln',  // einfädeln:
    'einflößen',  // einflößen:

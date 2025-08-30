@@ -97,12 +97,12 @@ const a = [
 	'Attest',     //  Attest: 
 	'ätzen, wegätzen',  // duplicated *
 	'auf Biegen und Brechen',  
-	'auf dem Kerbholz haben', //  duplicated
+	'auf dem Kerbholz haben', //  duplicated  *
 	'auf dem Kieker haben', //  duplicated
 	'auf dem Sprung',      //  duplicated  *
 	'auf dem Trockenen sitzen', // *
 	'auf den Arm nehmen',  //  duplicated
-	'auf den Leim gehen',  //  duplicated
+	'auf den Leim gehen',  //  duplicated *
 	'auf den Putz hauen',  //   duplicated *
 	'auf den Schlips treten', //  duplicated *
 	'auf den Strich gehen', //  duplicated *

@@ -12,7 +12,8 @@ const m = [
    'Matsch',  // Matsch: 
    'mau', // mau: 
    'Maulwurf',  // Maulwurf: 
-   'meckern',  // meckern: 
+   'meckern',  // meckern:
+   'meißeln, Meißel',  
    'Melone',  // Melone: 
    'Messing',  // Messing: 
    'meucheln, Meuchelmord',  

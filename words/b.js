@@ -79,7 +79,7 @@ const b = [
     'Brimborium',   // Brimborium:  
     'bröckeln',  // bröckeln: 
     'Brocken',  // Brocken: *
-    'brüllen, Gebrüll', //   duplicated
+    'brüllen, Gebrüll', //   duplicated *
     'brummig, Brummigkeit',  // 
     'Brüstung',  // Brüstung:
     'brutzeln',  // brutzeln: 
@@ -96,7 +96,7 @@ const b = [
     'bullig',  // bullig: 
     'bumsen',  // bumsen: 
     'Bursche',  // Bursche: 
-    'Busch, Gebüsch', //  duplicated
+    'Busch, Gebüsch', //  duplicated *
     'bützen',  // bützen:  
 ];
 

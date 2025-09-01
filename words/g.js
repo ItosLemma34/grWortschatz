@@ -1,96 +1,95 @@
 const g = [
    'Gage',  // Gage:  
-   'Ganove', // Ganove:  *
+   'Ganove', // Ganove:  
    'Gänsehaut', // Gänsehaut: 
-   'Gassi gehen',  
-   'Gauner', // Gauner: *
+   'Gassi gehen',  // 
+   'Gauner', // Gauner: 
    'Geäst, Ast',  //  duplicated  
-   'Gebälk, Balken', //  duplicated  *
+   'Gebälk, Balken', //  duplicated  
    'Gebell', // Gebell:   duplicate with "bellen" if found
    'Gebrüll, brüllen',  //  duplicated 
    'Gebüsch, Busch',  //  duplicated 
-   'gediegen',  // gediegen:
-   'Gedränge',  // Gedränge: * 
+   'gediegen',  // gediegen: 
+   'Gedränge',  // Gedränge:  
    'gefasst',  // gefasst: 
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig: 
-   'Gehabe',  // Gehabe:  *  
+   'Gehabe',  // Gehabe:    
    'Geheiß', // Geheiß:   
-   'gehetzt, hetzen', //  duplicated
+   'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'geizen',   // geizen:  
    'Gekrächz',  // Gekrächz:   
-   'Gelände',   // Gelände: * 
-   'Geländer',  // Geländer: * 
+   'Gelände',   // Gelände:  
+   'Geländer',  // Geländer:  
    'gelinde',   // gelinde:  
-   'Gemächt',  // Gemächt:
+   'Gemächt',  // Gemächt: 
    'Gemetzel', // Gemetzel: 
    'Gemurmel',  // Gemurmel:  
-   'gepfeffert, pfeffern', // duplicated * 
-   'Geplänkel, Vorgeplänkel',  // duplicated  *
-   'Geplapper, plappern, nachplappern', // triplicated *
-   'gequollen, quellen',  //  duplicated
+   'gepfeffert, pfeffern', // duplicated  
+   'Geplänkel, Vorgeplänkel',  // duplicated  
+   'Geplapper, plappern, nachplappern', // triplicated 
    'gerädert',  // gerädert: 
-   'Gerangel', // Gerangel:  *
+   'Gerangel', // Gerangel:  
    'Geräuschkulisse', // Geräuschkulisse:  
-   'gerieren (sich)',   //  
+   'gerieren',   // gerieren:  
    'gerinnen',   // gerinnen:  
-   'Gerippe',    // Gerippe:  *
+   'Gerippe',    // Gerippe:  
    'gerissen',   // gerissen:  
    'Geröll',     // Geröll:  
    'Geruckel',  // Geruckel: 
    'Gerümpel',   // Gerümpel:  
-   'Gerüst, einrüsten', // duplicated  *
+   'Gerüst, einrüsten', // duplicated  
    'gesalzen',   // gesalzen:  
    'geschliffen',  // geschliffen:  
    'geschniegelt',  // geschniegelt:  
    'Geschreibsel',  // Geschreibsel:  
-   'geschunden, Schinder, schinden',  // duplicated *
+   'geschunden, Schinder, schinden',  // duplicated 
    'Geschütz',  // Geschütz: 
-   'Geschwafel',    // Geschwafel:
-   'Geseier',  // Geseier: *  
+   'Geschwafel',    // Geschwafel: 
+   'Geseier',  // Geseier:   
    'Gesindel',    // Gesindel:  
    'gesittet',    // gesittet:  
-   'gestanden',  // gestanden: *
-   'geständig',  // geständig *
+   'gestanden',  // gestanden: 
+   'geständig',  // geständig 
    'Gestänge',   // Gestänge:  
    'Gestell',    // Gestell:  
    'Gestöber',   // Gestöber: 
-   'Gesträuch, Strauch',  //   duplicated  *
+   'Gesträuch, Strauch',  // duplicated  
    'Gestrüpp',  // Gestrüpp: 
-   'getäfelt, täfeln', //   duplicated *
+   'getäfelt, täfeln', // duplicated 
    'Getümmel',  // Getümmel: 
    'Geturtel',  // Geturtel:    duplicate, if found with turteln
-   'Gewebe',    // Gewebe:
+   'Gewebe',    // Gewebe: 
    'Gewehrkolben',  // Gewehrkolben:  
    'Gewese',    // Gewese:  
-   'Gewimmel, wimmeln',  //  duplicated *
-   'Gewinsel',  // Gewinsel: *
+   'Gewimmel, wimmeln',  //  duplicated 
+   'Gewinsel',  // Gewinsel: 
    'Gewirr',    // Gewirr: 
    'Gewölbe',  // Gewölbe: 
-   'Gewühl',   // Gewühl: *
-   'Gewummer, wummern', //  duplicated *  
-   'gewunden, winden', //    duplicated *
-   'Gezwitscher, zwitschern', //  duplicated  *
-   'Gier, gieren',   
+   'Gewühl',   // Gewühl: 
+   'Gewummer, wummern', //  duplicated   
+   'gewunden, winden', //    duplicated 
+   'Gezwitscher, zwitschern', //  duplicated  
+   'Gier, gieren',   // 
    'giften',   // giften:  
    'giggeln',  // giggeln:  
    'Gips',   // Gips:  
-   'gleißen, gleißend',    
+   'gleißen, gleißend',  //   
    'glimpflich',  // glimpflich:  
-   'glimmen, aufglimmen', //  duplicated
-   'glotzen, anglotzen',  //  duplicated  * 
+   'glimmen, aufglimmen', //  duplicated 
+   'glotzen, anglotzen',  //  duplicated   
    'gluckern', // gluckern:  
-   'goldene Nase (sich verdienen)',  
-   'Gör, Göre',   
+   'goldene Nase (sich verdienen)', //  
+   'Gör, Göre',   // 
    'Gosse',  // Gosse:  
    'grämen',  // grämen:  
    'grapschen',  // grapschen: 
-   'grauen',  // grauen:
-   'Griesgram, griesgrämig',  // *
-   'Grimm, grimmig', 
+   'grauen',  // grauen: 
+   'Griesgram, griesgrämig',  // 
+   'Grimm, grimmig', // 
    'grölen', // grölen:  
-   'große Stücke auf jmdn. halten', 
+   'große Stücke auf jmdn. halten', // 
    'Großmut',  // Großmut:  
    'Grünschnabel', // Grünschnabel:  
    'grunzen',   // grunzen:  
@@ -99,7 +98,7 @@ const g = [
    'gurren',  // gurren:  
    'Gurt',   // Gurt:      
 //   'gut in Schuss',  //    rework this
-   'guten Mutes sein',   
+   'guten Mutes sein', //   
  ];
 
 export default g;

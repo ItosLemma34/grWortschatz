@@ -3,76 +3,76 @@ const h = [
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
-   'haken, Haken, Haken schlagen', 
+   'haken, Haken, Haken schlagen', // 
    'halbgar', // halbgar:  
    'halbseiden',  // halbseiden: 
    'Halterung',  // Halterung:  
-   'Halunke',  // Halunke: *
+   'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 
   // 'hämmern',
-   'Handfessel, Handschelle',
+   'Handfessel, Handschelle', // 
    'Handlanger', // Handlanger:  
-   'Handwerk legen',  // *
-   'handzahm, zahm', //  duplicated *
-   'hanebüchen',  // hanebüchen: *
+   'Handwerk legen',  // 
+   'handzahm, zahm', //  duplicated 
+   'hanebüchen',  // hanebüchen: 
    'hapern',  // hapern: 
-   'Happen, Häppchen',    
+   'Happen, Häppchen',  //   
    'harren',  // harren: 
-   'hart im Nehmen sein',  
+   'hart im Nehmen sein', //  
    'Hatz',  // Hatz: 
    'Haube', // Haube:  
-   'Hausierer, hausieren',  
+   'Hausierer, hausieren',  // 
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
-   'hechten, Hechtsprung',  // *
+   'hechten, Hechtsprung',  // 
    'Hecke', // Hecke: 
    'Heckenschütze',  // Heckenschütze:  
-   'Heft des Handelns nehmen', 
-   'heften, abheften, Hefter', // triplicated *
-   'Hefter, abheften, heften', // triplicated *
-   'hegen',  // hegen:  *
+   'Heft des Handelns nehmen', // 
+   'heften, abheften, Hefter', // triplicated 
+   'Hefter, abheften, heften', // triplicated 
+   'hegen',  // hegen:  
    'Hehler', // Hehler:  
    'Heidenarbeit', // Heidenarbeit:  
-   'Heidenrespekt/angst', 
-   'Heimtücke, heimtückisch', 
+   'Heidenrespekt/angst', // 
+   'Heimtücke, heimtückisch', // 
    'heimzahlen',  // heimzahlen: 
    'heischen', // heischen: 
    'heiser',  // heiser: 
-   'Hemd (sich ins H. machen)', 
-   'hereinlegen, reinlegen',  // duplicated *
-   'herrisch',  // herrisch:
-   'herumärgern, rumärgern', //  duplicated *
-   'herumdrucksen, drucksen', // duplicated
+   'Hemd (sich ins H. machen)', // 
+   'hereinlegen, reinlegen',  // duplicated 
+   'herrisch',  // herrisch: 
+   'herumärgern, rumärgern', //  duplicated 
+   'herumdrucksen, drucksen', // duplicated 
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  
-   'hetzen, gehetzt',  //  duplicated 
-   'heucheln, vorheucheln', // duplicated *
+   'hetzen, gehetzt',  //  duplicated *
+   'heucheln, vorheucheln', // duplicated 
    'heulen',  // heulen:  
    'hieven',  // hieven: 
-   'hineinreiten, reinreiten',  // duplicated *
-   'hinhalten, Knochen/Kopf hinhalten', // duplicated *
+   'hineinreiten, reinreiten',  // duplicated 
+   'hinhalten, Knochen/Kopf hinhalten', // duplicated 
    'hinterlistig',  // hinterlistig: 
-   'hinters Licht führen', 
+   'hinters Licht führen', // 
    'hobeln', // hobeln: 
    'hochgestochen', // hochgestochen: 
-   'hochrappeln, aufrappeln',  // duplicated *
-   'hocken, Hocke, Hocker', // *
-   'Hölle heißmachen',  
+   'hochrappeln, aufrappeln',  // duplicated 
+   'hocken, Hocke, Hocker', // 
+   'Hölle heißmachen',  // 
    'Holzstoß',  // Holzstoß: 
    'hopsnehmen', // hopsnehmen: 
-   'horchen, -auf, -aus', // *
+   'horchen, -auf, -aus', // 
    'Hornochse',  // Hornochse:  
-   'Hose (in die H. machen/gehen)',    
+   'Hose (in die H. machen/gehen)', // duplicated     
    'Hosenmatz',  // Hosenmatz:  
    'Hosennaht',  // Hosennaht:  
-   'Hudelei, Lobhudelei', //  duplicated *
+   'Hudelei, Lobhudelei', //  duplicated 
    'Hühnerauge', // Hühnerauge: 
    'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  
-   'Hunde (vor die H. gehen)',  // duplicated *
+   'Hunde (vor die H. gehen)',  // duplicated 
    'Hüne',  // Hüne: 
-   'huschen',  // huschen: *
-   'Hut (auf der H. sein)',  //  duplicated
+   'huschen',  // huschen: 
+   'Hut (auf der H. sein)',  //  duplicated 
  ];
 
 export default h;

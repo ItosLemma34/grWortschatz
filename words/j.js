@@ -1,11 +1,11 @@
 const j = [
-   'japsen',  // japsen: *
+   'japsen',  // japsen: 
    'jauchzen', // jauchzen: 
    'jaulen', // jaulen: 
    'Jeton',  // Jeton:  
    'johlen',  // johlen: 
-   'Joppe',  // Joppe:
-   'jucken',  // jucken: *
+   'Joppe',  // Joppe: 
+   'jucken',  // jucken: 
 ];
 
 export default j;   

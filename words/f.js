@@ -1,6 +1,6 @@
 const f = [
-   'fächern, auffächern', //  duplicated
-   'fackeln',  // fackeln:  
+   'fächern, auffächern', //  duplicated *
+   'fackeln',  // fackeln:  *
    'fadenscheinig',  // fadenscheinig: 
    'Fahne (von der F. gehen)',  //  duplicated *
    'Fahnenabzug',  // Fahnenabzug: 
@@ -20,7 +20,7 @@ const f = [
    'fesch',  // fesch: 
    'festfressen (sich)',  
    'festzurren, zurren', //  duplicated  *
-   'Fettnäpfchen (ins F. treten)',  //  duplicated 
+   'Fettnäpfchen (ins F. treten)',  //  duplicated *
    'Fetzen',  // Fetzen: 
    'Fichte',  // Fichte: 
    'filzen',  // filzen:  

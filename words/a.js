@@ -93,7 +93,7 @@ const a = [
 	'armer Schlucker', //  duplicated *
 	'Arsch (in den A. kriechen)', // duplicated *  
 	'Asservat',  // Asservat:  
-	'Ast, Geäst', //  duplicated
+	'Ast, Geäst', //  duplicated *
 	'Attest',     //  Attest: 
 	'ätzen, wegätzen',  // duplicated *
 	'auf Biegen und Brechen',  
@@ -108,7 +108,7 @@ const a = [
 	'auf den Strich gehen', //  duplicated *
 	'auf den Wecker gehen', //  duplicated *
 	'auf den Zahn fühlen',  //  duplicated *
-	'auf der Hut sein',  //  duplicated
+	'auf der Hut sein',  //  duplicated *
 	'auf der Nase herumtanzen',  // duplicated *
 	'auf die Nase binden',  //  duplicated *
 	'auf die Palme treiben/bringen',  //  duplicated *
@@ -123,7 +123,7 @@ const a = [
 	'aufbauschen, bauschen', // duplicated   
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern (sich)',  
-	'auffächern, fächern', //  duplicated
+	'auffächern, fächern', //  duplicated *
 	'auffliegen',  // auffliegen: * 
 	'aufgabeln',   // aufgabeln:  
 	'aufgedunsen', // aufgedunsen:  
@@ -131,7 +131,7 @@ const a = [
 	'aufgelöst',   // aufgelöst:  only for the "distraught" definition
 	'aufgeweckt',  // aufgeweckt: 
 	'aufgießen, Aufguss', 
-	'aufglimmen, glimmen',  //  duplicated  
+	'aufglimmen, glimmen',  //  duplicated * 
 	'aufhalsen',   // aufhalsen: 
 	'aufjaulen',   // aufjaulen:  
 	'auflauern',   // auflauern: 

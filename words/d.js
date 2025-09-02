@@ -17,7 +17,7 @@ const d = [
    'Dietrich',  // Dietrich: 
    'dingfest',  // dingfest:  
    'direktemang', // direktemang:  
-   'dösen, eindösen',  //   duplicated
+   'dösen, eindösen',  //   duplicated *
    'dosieren',  // dosieren: *
    'drall',    // drall:  
    'drängeln (sich)',  // 

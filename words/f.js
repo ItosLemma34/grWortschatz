@@ -1,26 +1,26 @@
 const f = [
-   'fächern, auffächern', //  duplicated *
-   'fackeln',  // fackeln:  *
+   'fächern, auffächern', //  duplicated 
+   'fackeln',  // fackeln:  
    'fadenscheinig',  // fadenscheinig: 
-   'Fahne (von der F. gehen)',  //  duplicated *
+   'Fahne (von der F. gehen)',  //  duplicated 
    'Fahnenabzug',  // Fahnenabzug: 
    'Faible' ,  // Faible: 
    'Fall der Fälle',  //  
-   'Fallbeil', // Fallbeil: * 
+   'Fallbeil', // Fallbeil:  
    'Fasan',  // Fasan:  
    'faseln',  // faseln:  
    'Fass',  // Fass:   
    'Fatzke', // Fatzke: 
    'fauchen, anfauchen', //  duplicated 
-   'Faustpfand',  // Faustpfand:
-   'Feder',  //  Feder:
+   'Faustpfand',  // Faustpfand:  
+   'Feder',  //  Feder: 
    'fegen',  // fegen:  
    'feilbieten',  // feilbieten:  
    'feilschen',  // feilschen:  
    'fesch',  // fesch: 
-   'festfressen (sich)',  
-   'festzurren, zurren', //  duplicated  *
-   'Fettnäpfchen (ins F. treten)',  //  duplicated *
+   'festfressen',  // festfressen: 
+   'festzurren, zurren', //  duplicated  
+   'Fettnäpfchen (ins F. treten)',  //  duplicated 
    'Fetzen',  // Fetzen: 
    'Fichte',  // Fichte: 
    'filzen',  // filzen:  
@@ -28,21 +28,21 @@ const f = [
    'fingieren',  // fingieren: 
    'Firlefanz',  // Firlefanz: 
    'Fischzug',   // Fischzug:  
-   'Flachmann',  // Flachmann:  *
-   'Flachpfeife', // Flachpfeife:
-   'flackern',  // flackern:  *
+   'Flachmann',  // Flachmann:  
+   'Flachpfeife', // Flachpfeife: 
+   'flackern',  // flackern:  
    'flanieren',  // flanieren: 
-   'Flappe (eine F. ziehen)', 
-   'flapsig, Flapsigkeit',   
+   'Flappe (eine F. ziehen)', // duplicated 
+   'flapsig, Flapsigkeit',   // 
    'Flaschenzug', // Flaschenzug: 
-   'flattern', // flattern: *
+   'flattern', // flattern: 
    'flau' ,  // flau: 
    'Flaum',  // Flaum:  
-   'fläzen (sich)',  
+   'fläzen',  // fläzen:  
    'fleddern',  // fleddern:             
-   'flehen, flehentlich',    
+   'flehen, flehentlich', //    
    'flicken',  // flicken:  
-   'Fliese, fliesen',   
+   'Fliese, fliesen',  //  
    'flink',  // flink:  
    'Flittchen',  // Flittchen: 
    'flitzen', // flitzen: 
@@ -58,17 +58,17 @@ const f = [
    'Fraktur', // Fraktur:   
    'Fratze',  // Fratze:  
    'frequentieren',  // frequentieren:  
-   'Frevel',    // Frevel:
-   'frisieren',  // frisieren:  * 
+   'Frevel',    // Frevel:  
+   'frisieren',  // frisieren:   
    'frösteln', // frösteln:  
    'Frotzelei, frotzeln',  //  
-   'fuchteln, Fuchtel', // * 
+   'fuchteln, Fuchtel', //  
    'fuhrwerken', // fuhrwerken:    
    'fummeln',    // fummeln:  
    'funzelig',   // funzelig:   
-   'Furz',     // Furz:
-   'Fusel', // Fusel:  *  
-   'Fußstapfe, stapfen',  // duplicated *
+   'Furz',     // Furz: 
+   'Fusel', // Fusel:    
+   'Fußstapfe, stapfen',  // duplicated 
    'Futter',  // Futter: 
  ];
 

@@ -47,8 +47,8 @@ const a = [
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    // anbrechen:  
 	'anecken',      // anecken:   
-	'anekeln, Ekel',      //  duplicated 
-	'anfauchen, fauchen', //  duplicated
+	'anekeln, Ekel, eklig, ekelhaft', // duplicated *
+	'anfauchen, fauchen', //  duplicated *
 	'anflehen',  // anflehen: * add flehen, make dupicated
 	'angeben, Angeber',  //   duplicated
 	'angeschickert', // angeschickert: 
@@ -169,7 +169,7 @@ const a = [
 	'Ausfallstraße',   // Ausfallstraße:  
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung',     
-	'ausklinken, einklinken',  // duplicated
+	'ausklinken, einklinken',  // duplicated *
 	'ausleiern', // ausleiern:
 	'ausmisten',  // ausmisten:   
 	'ausquetschen',  // ausquetschen: 

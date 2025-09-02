@@ -1,40 +1,40 @@
 const e = [
-   'Ebbe',   // Ebbe:   
-   'echoen',  // echoen:
-   'eklig',  // eklig:  make duplicate if Ekelhaft founr 
+   'Ebbe',   // Ebbe:  * 
+   'echoen',  // echoen: *
    'Ei (wie aus dem Ei gepellt)', //  duplicated  *
-   'einbetonieren', // einbetonieren 
+   'einbetonieren', // einbetonieren: * 
    'einbläuen',  // einbläuen:  *
    'einbrocken',  // einbrocken:  *
-   'einbuchten',  // einbuchten:  
-   'eindösen, dösen', //   duplicated
-   'Eindruck schinden',  
+   'einbuchten',  // einbuchten: * 
+   'eindösen, dösen', //   duplicated *
+   'Eindruck schinden', // *
+   'eine Flappe ziehen',  // duplicated * 
    'einen Korb bekommen/geben', // duplicated *
    'einen Strick drehen',  // duplicated * 
-   'einfädeln',  // einfädeln:
-   'einflößen',  // einflößen:
-   'einfrieden', // einfrieden: 
-   'Eingebung',   // Eingebung:  
+   'einfädeln',  // einfädeln:  *
+   'einflößen',  // einflößen: *
+   'einfrieden', // einfrieden: *
+   'Eingebung',   // Eingebung:  *
    'Eingeweide', // Eingeweide: *
    'einheimsen',  // einheimsen: *
    'einigeln', // einigeln:  *
-   'einkerben',  // einkerben:
-   'einklinken, ausklinken', // duplicated 
-   'einkriegen (sich)',   
-   'einkringeln',  // einkringeln:  
-   'einlochen',  // einlochen:  
-   'einlullen',  // einlullen:
-   'einnässen',  // einnässen:  
-   'einnicken',  // einnicken:  
+   'einkerben',  // einkerben: *
+   'einklinken, ausklinken', // duplicated *
+   'einkriegen',  // einkriegen:  * 
+   'einkringeln',  // einkringeln:  *
+   'einlochen',  // einlochen:  *
+   'einlullen',  // einlullen: *
+   'einnässen',  // einnässen:  *
+   'einnicken',  // einnicken:  *
    'Einöde, öde',   // duplicated  *
    'einpferchen, pferchen', //  duplicated *
-   'einrasten',  // einrasten:  
+   'einrasten',  // einrasten:  *
    'einreißen, niederreißen',  //  duplicated * 
-   'einrenken (sich)',     
+   'einrenken', // einrenken:  *    
    'einrüsten, Gerüst', // duplicated * 
-   'einsacken',  // einsacken: 
-   'einschleusen',  //  einschleusen: 
-   'einseifen',  // einseifen:  
+   'einsacken',  // einsacken: *
+   'einschleusen',  //  einschleusen: *
+   'einseifen',  // einseifen:  *
    'einspannen, ausspannen', // duplicated * 
    'Einstand' ,  // Einstand: 
    'einstäuben',  // einstäuben:  
@@ -44,7 +44,7 @@ const e = [
    'eintrichtern',  // eintrichtern:  *  
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten:  
-   'Ekel, anekeln', 
+   'Ekel, (an)ekeln, eklig, ekelhaft', // duplicated with "anekeln,..."  *
    'Empore',     // Empore:  
    'entbieten',  // entbieten:  
    'entgegenfiebern',  // entgegenfiebern:

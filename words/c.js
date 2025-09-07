@@ -1,5 +1,5 @@
 const c = [
-  'Chose', // Chose: *
+  'Chose', // Chose: 
 ];
 
 export default c;

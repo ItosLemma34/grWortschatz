@@ -95,16 +95,18 @@ const k = [
    'knurren',  // knurren:   
    'Köder',   // Köder: 
   // 'Kontor',
-   'Konterfei',  // Konterfei:   
+   'Konterfei',  // Konterfei: 
+   'Konzept (aus dem K. bringen)', // duplicated  
    'köpfen',  // köpfen: 
    'Korb (einen K. bekommen/geben)',  // duplicated 
    'Korbstuhl',  // Korbstuhl:  
    'Kordel',  // Kordel: 
-   'Kot, koten, Kotflügel', // 
+   'Korn (aufs K. nehmen)',  //  duplicated 
+   'Kot, koten, Kotflügel',  
    'Kotze, kotzen, ankotzen', // duplicated 
    'krabbeln',  // krabbeln: 
-   'krachen, Krach', // 
-   'Krähe, krähen', //   
+   'krachen, Krach',  
+   'Krähe, krähen',    
    'Krake', // Krake: 
    'krakelig/kraklig', // krakelig/kraklig: 
    'Kralle',  // Kralle: 

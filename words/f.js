@@ -40,7 +40,7 @@ const f = [
    'Flaum',  // Flaum:  
    'fläzen',  // fläzen:  
    'fleddern',  // fleddern:             
-   'flehen, flehentlich', //    
+   'flehen, flehentlich, anflehen', //    
    'flicken',  // flicken:  
    'Fliese, fliesen',  //  
    'flink',  // flink:  

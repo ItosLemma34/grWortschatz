@@ -1,93 +1,94 @@
 const b = [
     'Backfisch', // Backfisch:   
     'Bahre',  // Bahre: 
-    'Balken, Gebälk', // duplicated * 
+    'Balken, Gebälk', // duplicated  
     'ballern',  // ballern:  
     'Banderole', // Banderole: 
     'barsch',   // barsch: 
     'Bartstoppel', // Bartstoppel: 
-    'Baskenmütze',  // Baskenmütze:  *
+    'Baskenmütze',  // Baskenmütze:  
     'bäuchlings', // bäuchlings: 
     'bauschen, aufbauschen',  //  duplicated 
     'beäugen',  // beäugen: 
-    'bedröppelt',  //bedröppelt: 
+    'bedröppelt',  // bedröppelt: 
     'beflissen',  // beflissen: 
     'begrapschen',  // begrapschen:  
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
-    'behelligen, unbehelligt',   //   duplicated *
+    'behelligen, unbehelligt',   // duplicated  
     'beherzt',     // beherzt:   
     'beichten',  // beichten:  
     'beikommen',   // beikommen: 
     'Beil',  // Beil: 
     'Bein (ans B. binden)', //   duplicated 
     'Beine in den Bauch',  // 
-    'Beine (sich die B. vertreten)', // duplicated *
+    'Beine (sich die B. vertreten)', // duplicated 
     'beipflichten',   // beipflichten: 
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
-    'belauern',  // belauern:  *
-  //  'belegt',  // belegt:  *  complete with belegen?
+    'belauern',  // belauern:  
+  //  'belegt',  // belegt:    complete with belegen?
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
-    'bepinseln, pinseln', //  duplicated *
-    'bequemen, herbequemen (sich)',  // duplicated
+    'bepinseln, pinseln', //  duplicated 
+    'bequemen, herbequemen',  // 
     'berappen',   // berappen:  
     'beredt',     // beredt:  
     'Beritt, beritten',  //   
     'bescheuert',  // bescheuert: 
     'Besen',      // Besen:  
-    'Besteck',    // Besteck:
+    'Besteck',    // Besteck: 
     'besudeln',  // besudeln:    
-    'betreten',   // betreten:  
+//    'betreten',   // betreten:  consider what to do with "beteten"
     'Bettfeder',  // Bettfeder:   
     'betupfen, abtupfen, T(t)upfen',   //  triplicated  
-    'Beule, beulen',   
+    'Beule, beulen',  //  
     'bibbern',    // bibbern: 
     'bieder',     // bieder: 
-    'Biege machen', 
-    'bimmeln', // 
-    'bis in die Puppen', // duplicated  *
-    'Blase',  // Blase:  *
+    'Biege machen', // 
+    'bimmeln', // bimmeln: 
+    'bis in die Puppen', // duplicated  
+    'Blase',  // Blase:  
     'blasiert',  // blasiert: 
     'Blaumann',  // Blaumann:  
-    'Blech, blechern',   
+    'Blech, blechern', //   
     'blendend',  // blendend:  
     'blinzeln',  // blinzeln:  
-    'Blöße, sich keine B. geben',   
+    'Blöße, sich keine B. geben', //   
     'bloßstellen', // bloßstellen: 
     'blutrünstig', // blutrünstig: 
     'bockig' ,  // bockig: 
     'Bodensatz',  // Bodensatz:  
-    'Bogen, den B. raushaben', // *  
-    'Bohei',   // Bohei:
+    'Bogen, den B. raushaben', //   
+    'Bohei',   // Bohei: 
     'Bohle',    // Bohle:  
-    'bohnern',  // bohnern:
-    'Bolzen',  //  Bolzen:  * 
-    'Bonze',   // Bonze: 
+    'bohnern',  // bohnern: 
+    'Bolzen',  //  Bolzen:   
+    'Bonze',   // Bonze:
+    'Bordmittel',  // Bordmittel: 
     'Bordstein', // Bordstein: 
     'borniert',  // borniert: 
     'Böschung', // Böschung: 
     'Bösewicht',  // Bösewicht:  
-    'Boulette',   //Boulette:  
+    'Boulette',   // Boulette:  
     'Brache',  // Brache:  
     'brandschatzen',  // brandschatzen: 
-    'brausen, Brause',  
-    'Brei (um den heißen B. herumreden)', // duplicated *
-    'breitschlagen',  // breitschlagen: * 
-    'brenzlig', // brenzlig: *
-    'Brett, Bretter(wand/verschlag/bude)',   
+    'brausen, Brause',  // 
+    'Brei (um den heißen B. herumreden)', // duplicated 
+    'breitschlagen',  // breitschlagen:  
+    'brenzlig', // brenzlig: 
+    'Brett, Bretter(wand/verschlag/bude)',  //  
     'Brimborium',   // Brimborium:  
     'bröckeln',  // bröckeln: 
-    'Brocken',  // Brocken: *
-    'brüllen, Gebrüll', //   duplicated *
+    'Brocken',  // Brocken: 
+    'brüllen, Gebrüll', //   duplicated 
     'brummig, Brummigkeit',  // 
-    'Brüstung',  // Brüstung:
+    'Brüstung',  // Brüstung: 
     'brutzeln',  // brutzeln: 
     'Buche',    // Buche: 
     'Büchse',   // Büchse: 
     'Buckel, bucklig',  //   
-    'bücken (sich)',  // *
-    'buddeln, ein-, ver-, aus-',  // *
+    'bücken',  // 
+    'buddeln, ein-, ver-, aus-',  // 
     'Bude, Büdchen',  // 
     'büffeln', // büffeln:  
     'Bügel', // Bügel: 
@@ -96,7 +97,7 @@ const b = [
     'bullig',  // bullig: 
     'bumsen',  // bumsen: 
     'Bursche',  // Bursche: 
-    'Busch, Gebüsch', //  duplicated *
+    'Busch, Gebüsch', //  duplicated 
     'bützen',  // bützen:  
 ];
 

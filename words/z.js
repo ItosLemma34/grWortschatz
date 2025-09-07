@@ -1,4 +1,5 @@
 const z = [
+   'Zack (auf Z. sein)',
    'zackig', // zackig:   
    'zahm, handzahm', //   duplicated  
    'Zahn (auf den Z. fühlen)', //  duplicated 

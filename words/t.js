@@ -26,7 +26,8 @@ const t = [
    'treten (zu nahe T.)', // duplicated 
    'Trichter',  // Trichter: 
    'triezen',  // triezen: 
-   'trippeln', // trippeln:  
+   'trippeln', // trippeln: 
+   'Trockenen (auf dem  T. sitzen)', // duplicated 
    'trollen',   // trollen:  
    'Tropf',  // Tropf:  
    'tröpfeln',  // tröpfeln: 

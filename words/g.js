@@ -75,21 +75,22 @@ const g = [
    'giften',   // giften:  
    'giggeln',  // giggeln:  
    'Gips',   // Gips:  
-   'gleißen, gleißend',  //   
+   'gleißen, gleißend',     
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated 
    'glotzen, anglotzen',  //  duplicated   
    'gluckern', // gluckern:  
-   'goldene Nase (sich verdienen)', //  
-   'Gör, Göre',   // 
+   'goldene Nase (sich verdienen)',   
+   'Gör, Göre',    
    'Gosse',  // Gosse:  
-   'grämen',  // grämen:  
+   'grämen',  // grämen:
+   'Granit (auf G. beißen)',  
    'grapschen',  // grapschen: 
    'grauen',  // grauen: 
-   'Griesgram, griesgrämig',  // 
+   'Griesgram, griesgrämig',   
    'Grimm, grimmig', // 
    'grölen', // grölen:  
-   'große Stücke auf jmdn. halten', // 
+   'große Stücke auf jmdn. halten',  
    'Großmut',  // Großmut:  
    'Grünschnabel', // Grünschnabel:  
    'grunzen',   // grunzen:  

@@ -6,6 +6,7 @@ const h = [
    'haken, Haken, Haken schlagen', // 
    'halbgar', // halbgar:  
    'halbseiden',  // halbseiden: 
+   'Halde (auf H. legen)',
    'Halterung',  // Halterung:  
    'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 

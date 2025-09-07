@@ -48,15 +48,16 @@ const s = [
    'schlängeln',  // schlängeln:  
    'Schlappschwanz',  // Schlappschwanz: 
    'Schlauberger', // Schlauberger: 
-   'Schlauch', // Schlauch: 
-   'schleifen, Schleifer', ///  
+   'Schlauch', // Schlauch:
+   'schleichen, an-, nach-', 
+   'schleifen, Schleifer',  
    'schlendern' , // schlendern:  
    'Schlendrian', // Schlendrian: 
    'Schlenker',  // Schlenker: 
-   'Schleuse, schleusen', // 
+   'Schleuse, schleusen',  
    'Schliche (auf die S. kommen)', //  duplicated 
-   'Schliere, schlieren', // 
-   'schliddern, schlittern', // 
+   'Schliere, schlieren',  
+   'schliddern, schlittern',  
    'Schlips (auf den S. treten)', //  duplicated 
    'schluchzen' ,  // schluchzen: 
    'Schlucker (armer)', //  duplicated 
@@ -182,7 +183,7 @@ const s = [
    'Statist', // Statist:  
    'Stativ',  // Stativ:  
    'statuieren', // statuieren:  
-   'Staub (sich aus dem S. machen', //  duplicated 
+   'Staub (aus dem S. machen)', //  duplicated 
    'stauchen', // stauchen:  
    'Steckbrief', // Steckbrief:  
    'Stecknadel im Heuhaufen',//  

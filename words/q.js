@@ -1,4 +1,5 @@
 const q = [
+   'Quacksalber', // Quacksalber:
    'qualmen',  // qualmen: 
    'Quast', // Quast: 
    'quellen, überquellen',  //  duplicated 

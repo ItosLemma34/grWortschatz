@@ -1,6 +1,7 @@
 const h = [
-  'Habgier',  // Habgier: 
+   'Habgier',  // Habgier: 
   // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
+  // 'hacken, zerhacken',  EXPAND
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
    'haken, Haken, Haken schlagen', // 
@@ -25,21 +26,21 @@ const h = [
    'Hausierer, hausieren',  // 
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
-   'hechten, Hechtsprung',  // 
+   'hechten, Hechtsprung',   
    'Hecke', // Hecke: 
    'Heckenschütze',  // Heckenschütze:  
-   'Heft des Handelns nehmen', // 
+   'Heft des Handelns nehmen',  
    'heften, abheften, Hefter', // triplicated 
    'Hefter, abheften, heften', // triplicated 
    'hegen',  // hegen:  
    'Hehler', // Hehler:  
    'Heidenarbeit', // Heidenarbeit:  
-   'Heidenrespekt/angst', // 
-   'Heimtücke, heimtückisch', // 
+   'Heidenrespekt/angst',  
+   'Heimtücke, heimtückisch',  
    'heimzahlen',  // heimzahlen: 
    'heischen', // heischen: 
    'heiser',  // heiser: 
-   'Hemd (sich ins H. machen)', // 
+   'Hemd (sich ins H. machen)',  
    'hereinlegen, reinlegen',  // duplicated 
    'herrisch',  // herrisch: 
    'herumärgern, rumärgern', //  duplicated 
@@ -57,6 +58,7 @@ const h = [
    'hobeln', // hobeln: 
    'hochgestochen', // hochgestochen: 
    'hochrappeln, aufrappeln',  // duplicated 
+   'Hochstapler',  // Hochstapler:
    'hocken, Hocke, Hocker', // 
    'Hölle heißmachen',  // 
    'Holzstoß',  // Holzstoß: 

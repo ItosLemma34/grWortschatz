@@ -4,7 +4,7 @@ const l = [
    'Lackaffe',  // Lackaffe:  
    'lädieren',  // lädieren: 
    'laff',  // laff: 
-   'lahmarschig, Lahmarschigkeit',  
+   'Lahmarsch, lahmarschig, Lahmarschigkeit',  
    'Laken', // Laken: 
    'lallen',  // lallen: 
    'lange Nase zeigen/machen', //  duplicated 

@@ -2,14 +2,14 @@ const r = [
    'Rabauke', // Rabauke:  
    'Rabe',  // Rabe: 
    'rabiat', // rabiat: 
-   'Radau, Radaubruder', //  
+   'Radau, Radaubruder',   
    'raffen, dahinraffen',  // duplicated  
    'rammen',  // rammen:  
-   'ramponiert, ramponieren',  // 
+   'ramponiert, ramponieren',   
    'Rangelei',  // Rangelei: 
    'Ranzen',  // Ranzen:  
    'rascheln', // rascheln: 
-   'rasen, Rasen',  // 
+   'rasen, Rasen',   
    'Rasenmäher, mähen',  // duplicated 
    'rasseln', // rasseln: 
    'Ratsch', // Ratsch: 

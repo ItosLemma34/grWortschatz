@@ -54,8 +54,10 @@ const a = [
 	'anflehen, flehen, flehentlich',  // duplicated 
 	'angeben, Angeber',    
 	'angeschickert', // angeschickert: 
+	'angiften, giften', // duplicated
 	'anglotzen, glotzen', //  duplicated  
 	'angrienen',  // angrienen:
+	'anherrschen',  // anherrschen:
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln: 
 	'ankotzen, Kotze, kotzen',  // duplicated   

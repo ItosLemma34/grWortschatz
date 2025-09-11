@@ -16,7 +16,8 @@ const z = [
    'Zehenspitze',  // Zehenspitze: 
    'Zeltplane' ,   // Zeltplane: 
    'zerdeppern',   // zerdeppern: 
-   'zerfleddert',  // zerfleddert: 
+   'zerfleddert',  // zerfleddert:
+   'zerfurchen, zerfurcht', 
    'zerknicken' ,  // zerknicken:  
    'zerknirscht',  // zerknirscht: 
    'zerknittern',  // zerknittern: 

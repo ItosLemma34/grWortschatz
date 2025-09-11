@@ -47,7 +47,8 @@ const g = [
    'geschunden, Schinder, schinden',  // duplicated 
    'Geschütz',  // Geschütz: 
    'Geschwafel',    // Geschwafel: 
-   'Geseier',  // Geseier:   
+   'Geseier',  // Geseier:
+   'Gesinde',  // Gesinde:   
    'Gesindel',    // Gesindel:  
    'gesittet',    // gesittet:  
    'gestanden',  // gestanden: 
@@ -72,7 +73,7 @@ const g = [
    'gewunden, winden', //    duplicated 
    'Gezwitscher, zwitschern', //  duplicated  
    'Gier, gieren',   // 
-   'giften',   // giften:  
+   'giften, angiften',
    'giggeln',  // giggeln:  
    'Gips',   // Gips:  
    'gleißen, gleißend',     

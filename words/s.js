@@ -35,8 +35,9 @@ const s = [
    'schikanieren', // schikanieren: 
    'Schilde (im S. führen)', //  duplicated  
    'Schimmel, (ver)schimmeln', // 
-   'Schimmer (keinen blassen S.)', // 
-   'schimmern', // schimmern:  
+//   'Schimmer (keinen blassen S.)', // 
+//   'schimmern', // schimmern: 
+   'schimmern, Schimmer, keinen S. haben', 
    'Schinder, schinden, geschunden',  // duplicated 
    'schlabbern', // schlabbern: 
    'Schlacke',  // Schlacke: 
@@ -126,7 +127,7 @@ const s = [
    'schütten, aus-, ver-, zu-', //          
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
-   'Schütze',  // Schütze: 
+   'Schütze, Schützengraben',  
    'Schwaden', // Schwaden:  
    'schwafeln', // schwafeln 
    'schwanen', // schwanen:  

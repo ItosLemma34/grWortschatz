@@ -39,6 +39,7 @@ const u = [
    'unterschlüpfen, Unterschlupf',  
    'untersetzt',  // untersetzt: 
    'Unterstand',  // Unterstand: 
+   'unterstellen, Unterstellung',
    'unverblümt',  // unverblümt:       make duplicate if "verblümt" found
    'unverfänglich', // unverfänglich: 
    'unverfroren',  // unverfroren:  

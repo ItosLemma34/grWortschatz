@@ -36,6 +36,7 @@ const v = [
    'verkommen',  // verkommen: 
    'verkorkst',   // verkorkst:  
    'verköstigen, beköstigen',  // duplicated  with beköstigen if beköstigen ever appears   
+   'verkrampfen',  // verkrampfen:
    'verkriechen',  // verkriechen:  
    'verkrümeln',  // verkrümeln:  
    'vermaledeit', // vermaledeit: 

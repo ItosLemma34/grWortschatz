@@ -25,6 +25,7 @@ const k = [
    'Keim, keimen',  // 
    'kein Kraut gewachsen', // 
    'keinen Reim machen können', //  duplicated 
+   'keinen S. haben, schimmern, Schimmer', // duplicated
    'keinen Zwang antun',  // duplicated 
    'Kelch',  // Kelch: 
    'Kerbholz (auf dem K. haben)',//  duplicated 
@@ -40,6 +41,7 @@ const k = [
    'Kipplaster',  // Kipplaster: 
    'Kirschen essen', // 
    'Kittel',  // Kittel: 
+   'kitten',  // kitten:
    'kitzeln', // kitzeln: 
    'klackern', // klackern: 
    'Klacks',  // Klacks: 

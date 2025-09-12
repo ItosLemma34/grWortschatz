@@ -138,7 +138,7 @@ const s = [
    'Schwerenöter',  // Schwerenöter: 
    'schwirren', // schwirren: 
    'Schwitzkasten', // Schwitzkasten: 
-   'schwül, Schwüle', // 
+   'schwül, Schwüle',  
    'schwülstig',  // schwülstig:  
    'Seil',  // Seil: 
    'Seilschaft',  // Seilschaft: 
@@ -175,10 +175,11 @@ const s = [
    'sputen', // sputen: 
    'Stadtstreicher', // Stadtstreicher:  
    'Staffage', // Staffage: 
-   'staksen',  // staksen:  
+   'staksen',  // staksen: 
+   'stämmig',  // stämmig: 
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
-   'Stapel, stapeln', // 
+   'Stapel, stapeln',  
    'stapfen, Fußstapfe',   // duplicated 
    'starren (vor Schmutz starren)', // duplicated (with "vor Schmutz starren") 
    'Statist', // Statist:  
@@ -187,17 +188,17 @@ const s = [
    'Staub (aus dem S. machen)', //  duplicated 
    'stauchen', // stauchen:  
    'Steckbrief', // Steckbrief:  
-   'Stecknadel im Heuhaufen',//  
+   'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-   'Stich (einen Stich versetzen)', //  
-   'Stiefel, stiefeln', // 
+   'Stich (einen Stich versetzen)',   
+   'Stiefel, stiefeln',  
    'stieren, anstieren',  // duplicated 
    'stöbern, aufstöbern',  // duplicated   
    'stochern',  // stochern:  
-   'stöckeln, Stöckelschuh', // 
+   'stöckeln, Stöckelschuh',  
    'stöhnen, aufstöhnen', //   duplicated 
-   'stopfen, Stopfen', // 
+   'stopfen, Stopfen',  
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 
    'strampeln',  // strampeln: 

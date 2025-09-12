@@ -33,6 +33,36 @@ zzz: [
 	'<u>Lunapark</u>',   
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+/* complete if can find English def for aufständern or aufgeständert Marlow pg 22
+aufgeständert: [  
+	'<strong>aufständern</strong>: '+
+	'<strong>aufgeständert</strong>: elevated, built on stilts'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aufstaendern"target="target1">auf­stän­dern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufst%C3%A4ndern"target="target2">aufständern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">auf­stän­dern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/conjugation/aufsta3ndern.htm"target="target4">aufständern</a>',
+	'<u>Der nasse Fisch</u>',   
+	'<u>Der stumme Tod</u>',   
+	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',   
+	'<u>Marlow</u>',   
+], */
+planschen: [  
+	'<strong>planschen</strong>: paddle/splash/flounder about'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/planschen"target="target1">planschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/planschen"target="target2">planschen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/planschen"target="target3">planschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=planschen&id=verb%3Aplanschen"target="target4">planschen</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'Die Wanne war beinahe voll, und Charly drehte den Wasserhahn zu. Das Nachplätschern der letzten Tropfen erinnerte sie daran, dass es ratsam wäre, ein paar Geräusche zu machen, die vortäuschten, dass auch in Kabine 115 jemand in der Wanne lag. Sie zog Schuhe und Strümpfe aus und <strong>planschte</strong> ein wenig herum. (<i>Marlow</i>, 23)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+stämmig: [  
+	'<strong>stämmig</strong>: burly, sturdy, stocky, stout'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/staemmig"target="target1">stämmig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/st%C3%A4mmig"target="target2">stämmig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/staemmig#st%C3%A4mmig"target="target3">stämmig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=st%C3%A4mmig&id=adjektiv%3Asta3mmig%23sta3mmig"target="target4">stämmig</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Aus einer Gruppe Bauarbeiter löste sich ein <strong>stämmiger</strong> Mann und kam ihnen entgegen. (<i>Der nasse Fisch</i>, 281)',  
+	'<u>Marlow</u>',
+	'"Einmal bitte", sagte Charly und zückte ihr Portemonnaie. "Einmal wat? Schwimmen"? Baden? Brausen?" Die Frau hinter der Glasscheibe errinnerte mit ihrer <strong>stämmigen</strong> Gestalt eher an eine Gefängniswärterin als an eine Bademeisterin. Und so hörte sie sich auch an. (<i>Marlow</i>, 20)',   
+],
 anherrschen: [  
 	'jmdn. <strong>anherrschen</strong>: bark, shout at so.; rebuke'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anherrschen"target="target1">anherrschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anherrschen"target="target2">anherrschen</a>'+
@@ -1197,6 +1227,8 @@ plätschern: [
 	'<i>Rath</i>: "Und was haben Sie gesehen?" <i>Hermann Schäffner</i>: "Wollt ick ja erzählen: Also: überall Wasser, mehr als jetze, Margarete hat det meiste ja schon wegjewischt. Und da hör ick \'nen Wasserhahn <strong>plätschern</strong> und jeh ins Bad. Und da liegt er da auch inner Wanne. Mausetot." (<i>Der nasse Fisch</i>, 433)',
 	'<u>Märzgefallene</u>',  
 	'Erst als alle völlig durchnässt waren, hörte der Regen auf. Von jetzt auf gleich. Es war, als habe jemand die Bindfäden mit einer großen Schere abgeschnitten. Ein letztes Prasseln, mehr ein <strong>Pläschern</strong>, dann war es vorbei. (<i>Märzgefallene</i>, 554)',
+	'<u>Marlow</u>',  
+	'Die Wanne war beinahe voll, und Charly drehte den Wasserhahn zu. Das Nach<strong>plätschern</strong> der letzten Tropfen erinnerte sie daran, dass es ratsam wäre, ein paar Geräusche zu machen, die vortäuschten, dass auch in Kabine 115 jemand in der Wanne lag. (<i>Marlow</i>, 23)',
 ],
 einfrieden: [  
 	'<strong>einfrieden</strong>: enclose, fence in'+
@@ -2039,10 +2071,10 @@ direktemang: [
 	'<strong>direktemang</strong>: direct(ly), straight '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/direktemang"target="target1">di­rek­te­mang</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/direktemang"target="target2">di­rek­te­mang</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=di%C2%ADrek%C2%ADte%C2%ADmang"target="target3">di­rek­te­mang</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/direktemang"target="target4">di­rek­te­mang</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'Er (<i>Rath</i>) musste nicht lange warten, Elisabeth Spindler kam pünktlich. Sie steuerte <strong>direktemang</strong> den Haupteingang an. (<i>Lunapark</i>, 431)',  
+	'<u>Marlow</u>', 
+	'Charly legte die Münzen in die Durchreiche und bekam im Gegenzug ein weißes Handtuch, eine Eintrittskarte und einen Schlüssel.. <i>die Frau an der Kasse</i>: "Kabine hundertfuffzehn, erstet Oberjeschoss. Die Kollegin zeicht Ihnen den Weg. Is <strong>direktemang</strong> neben Ihre Freundin..." (<i>Marlow</i>, 21)',  
 ],
 Depp: [  
 	'der <strong>Depp</strong>,-<strong>en</strong>: fool, idiot, twit, dope, goofball'+
@@ -3243,9 +3275,11 @@ Jeton: [
 	'Das Gewitter gestern Abend hatte die Schwüle nicht vertrieben. Die feuchtwarme Luft machte die Müdigkeit noch unerträglicher. (<i>Der nasse Fisch</i>, 472)',
 	'<u>Lunapark</u>', 
 	'Obwohl es erst kurz nach acht war und der Himmel bewölkt, lag schon eine drückende Hitze in der Luft. Wieder ein Tag mit Kopfschmerzen. Wenn Andreas Lange eines nicht vertragen konnte, dann was es <strong>schwüles</strong> Wetter.  (<i>Lunapark</i>, 323)',  
-	'Wie groß die Sorgen tatsächlich waren, die sich Karl Reinhold machen musste, sollte Rath erst an diesem <strong>schwülen</strong> Montagmorgen erfahren.   (<i>Lunapark</i>, 326)',  
+	'Wie groß die Sorgen tatsächlich waren, die sich Karl Reinhold machen musste, sollte Rath erst an diesem <strong>schwülen</strong> Montagmorgen erfahren. (<i>Lunapark</i>, 326)',  
 	'Auch die offenen Wagenfenster konnten nichts gegen die stickige, <strong>schwüle</strong> Luft ausrichten, die seit Tagen auf der Stadt hockte und nicht weichen wollte. (<i>Lunapark</i>, 470)',
 	'Selbst mitten in der Nacht, wo draußen alles abkühlte, war es dadrinnen noch stickig und <strong>schwül</strong> gewesen, er hatte die ganze Nacht geschwitzt. (<i>Lunapark</i>, 496)',
+	'<u>Marlow</u>', 
+	'Nachdem sie (<i>Charly</i>) im Stillen und mit geschlossenen Augen einmal bis hundert gezählt hatte, überquerte sie die Straße und betrat die Badeanstalt durch den rechten Eingang, den für die Damen. Eine unangenehme <strong>Schwüle</strong> und ein stechender Geruch empfingen sie. (<i>Marlow</i>, 20)',
 	// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
 Samt: [                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
@@ -9946,6 +9980,9 @@ heulen: [
 	'Rath saß da in dem unbequemen Gartenstuhl, rauchte und trank die letzte Afri-Cola, die lauwarm war und klebrig. Er war todmüde. Hatte die ganze Nacht in der Hütte <strong>gehockt</strong>, bis ihm alle Knochen wehtaten. (<i>Lunapark</i>, 495)',
 	'So ging er (<i>Rath</i>) langsam, Schritt für Schritt, zu Madame Luna hinüber, die in ihrem Glaskasten <strong>hockte</strong> und ihn anzustarren schien. (<i>Lunapark</i>, 525)',
 	'Juretzka <strong>hockte sich</strong> hin, den Kommissar im Blick, den Pistolenlauf an der Schläfe des Jungen, nahm die PPK vorsichtig auf und steckte die elegante kleine Waffe in den Hosenbund. (<i>Lunapark</i>, 531)',
+	'<u>Marlow</u>',
+	'Charly <strong>hockte sich</strong> auf den Boden und lugte durch den Spalt zu ihrer Linken. Auf dem hölzernen <strong>Hocker</strong> neben der Wanne lagen ordentlich gefaltete Kleidungsstücke. (<i>Marlow</i>, 22)',
+	'Sie (<i>Charly</i>) holte die kleine Kamera aus der Handtasche und ihren Schminkspiegel, legte den Spiegel auf den Boden und probierte so lange herum, bis der Winkel stimmte und sie die Nachbarkabine, den Stuhl mit der Kleidung und die Kabinentür im Blick hatte, ohne <strong>sich</strong> auf den Boden <strong>hocken</strong> zu müssen. (<i>Marlow</i>, 23)',
 ], 
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>,-<strong>mätze</strong>/<strong>matze</strong>: tiny tot'+
@@ -10430,6 +10467,8 @@ Kabuff: [
 	'Der Pförtner in seinem <strong>Kabuff</strong> schaute den Kommissar erstaunt an, als der seine Brieftasche aus dem Mantel zog und hineinschaute, sie dann wieder einstekte und zur Pförtnerloge ging. (<i>Der nasse Fisch</i>, 298)',
 	'<u>Lunapark</u>',
 	'<i>Hartmann, SA-Pförtner, zu Rath</i>: "<i>Sie</i> hören jetzt mal zu, Meister!" Der Pförtner war aufgestanden in seinem <strong>Kabuff</strong>. "Entweder Sie verlassen augenblicklich das Kasernengelände, oder ich sehe mich gezwungen, Sie entfernen zu lassen." (<i>Lunapark</i>, 274)',  
+	'<u>Marlow</u>',
+	'Nachdem sie (<i>Charly</i>) im Stillen und mit geschlossenen Augen einmal bis hundert gezählt hatte, überquerte sie die Straße und betrat die Badeanstalt durch den rechten Eingang, den für die Damen. Eine unangenehme Schwüle und ein stechender Geruch empfingen sie. Und eine ganz in weiß gekleidete Frau, die im Kassen<strong>kabuff</strong> saß und ihr ebenso erwartungsvoll wie unfreundlich entgegenblickte. (<i>Marlow</i>, 20)',
 ],
 klaffen: [
 	'<strong>klaffen</strong>: gape, yawn, be ajar'+
@@ -11819,6 +11858,8 @@ lugen: [
 	'Noch bevor Elisabeth Spindler auf der Bildfläche erschien, bog ein schwarzer Ford um die Ecke und parkte am Straßenrand, genau vor der Weinstube, in der Rath saß. Er versteckte sich hinter der Zeitung und <strong>lugte</strong> über den Rand. (<i>Lunapark</i>, 400)',
 	'Rath <strong>lugte</strong> durch den Türspalt. Er konnte erkennen, dass sie (<i>Elisabeth Spindler</i>) eine Kerze anzündete, sich hinkniete und betete. (<i>Lunapark</i>, 431)',
 	'Die Luft war rein, mit einem Satz sprang er (<i>Rath</i>) über das niedrige Gartentor und hoffte, dass nicht jemand im Schatten des Häuschens döste, den er übersehen hatte. Er ging zur Hütte hinüber und <strong>lugte</strong> vorsichtig durch das kleine, vergitterte Fenster. (<i>Lunapark</i>, 483)',
+	'<u>Marlow</u>',
+	'Charly hockte sich auf den Boden und <strong>lugte</strong> durch den Spalt zu ihrer Linken. Auf dem hölzernen Hocker neben der Wanne lagen ordentlich gefaltete Kleidungsstücke. (<i>Marlow</i>, 22)',
 ],
 'lumpen lassen (sich nicht)': [
 	'<strong>sich nicht lumpen lassen</strong>: live it up, do in style'+
@@ -15217,6 +15258,8 @@ Schund: [
 	'<i>Rath</i>: "Warum arbeitest du eigentlich nicht in der Inspektion A....?" <i>Wolter</i>: "Bei den Mordermittlern? Wenn die meine Fähigkeiten brauchen..., dann sollen sie mich fragen." <i>Rath</i>: "Aber sie haben einen guten Ruf!" <i>Wolter</i>: "Natürlich. Gennats Truppe, die Lieblinge der Presse, die Lieblinge der feinen Gesellschaft! Raub und Mord, das bringt mehr Anerkennung als Schmutz und <strong>Schund</strong>." Wolter schaute ihn an, als taxiere er seinen Wert. (<i>Der nasse Fisch</i>, 32)',
 	'<u>Märzgefallene</u>', 
 	'"So etwas", fuhr Levetzow (<i>Nazi Polizeipräsident</i>) fort und schlug mit der flachen Hand auf die Zeitungen, die auf seinem Schreibtisch lagen, "möchte ich nie wieder lesen! Ich meine, wir reden hier ja nicht von irgendwelchen <strong>Schund</strong>blättern! (<i>Märzgefallene</i>, 251)',
+	'<u>Marlow</u>', 
+	'Neben Charly standen Menschen, die diesen antisemitischen, pornographischen und denunziatorischen <strong>Schund</strong> wirklich lasen und offensichtlich ernst nahmen. (<i>Marlow</i>, 19)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -18752,6 +18795,8 @@ zücken: [
 	'Rath studierte die Namen auf der Hausbewohnertafel. Keiner, der ihm bekannt vorkam.. Dennoch <strong>zückte</strong> er Stift und Block und notierte jeden einzelnen. Man konnte nie wissen. Dasselbe tat er mit den Firmennamen. Er klapperte alle Höfe des Industriepalastes ab, erst dann kehrte er zu seinem Auto zurück. (<i>Lunapark</i>, 292)',
 	'Der Wirt schaute überrascht, als Rath die Gaststube betrat. Er schien ihn wiederzuerkennen. "Is noch geschlossen", sagte er. Diesmal <strong>zückte</strong> Rath seine Dienstmarke. "Kriminalpolizei", sagte er. (<i>Lunapark</i>, 330)',
 	'...er (<i>Rath</i>) hatte den Baseballschläger genommen und zugeschlagen. So fest er konnte auf den Kopf geschlagen, bis der Mann still war... Hatte sich auf die Rampe der Achterbahn gesetzt und mit <strong>gezücktem</strong> Dienstausweis auf die Polizei gewartet, die kurz darauf eingetroffen war. (<i>Lunapark</i>, 539)',
+	'<u>Marlow</u>',
+	'"Einmal bitte", sagte Charly und <strong>zückte</strong> ihr Portemonnaie. "Einmal wat? Schwimmen"? Baden? Brausen?" (<i>Marlow</i>, 20)',   
 ], 
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -19121,6 +19166,7 @@ nölen Der nasse Fisch 465
  samtig Der stumme Tod 10
  Schachteln  Der nasse Fisch 474
  schleichen (nach) Lunapark 542 
+ Schleier  Marlow 20
  sprinten  Der nasse Fisch 492
  sprühen  Der nasse Fisch 526
  ä  Ä  ö  Ö  ü  Ü   ß 

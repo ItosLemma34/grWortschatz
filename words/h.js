@@ -54,16 +54,16 @@ const h = [
    'hineinreiten, reinreiten',  // duplicated 
    'hinhalten, Knochen/Kopf hinhalten', // duplicated 
    'hinterlistig',  // hinterlistig: 
-   'hinters Licht führen', // 
+   'hinters Licht führen',  
    'hobeln', // hobeln: 
    'hochgestochen', // hochgestochen: 
    'hochrappeln, aufrappeln',  // duplicated 
    'Hochstapler',  // Hochstapler:
-   'hocken, Hocke, Hocker', // 
-   'Hölle heißmachen',  // 
+   'hocken, Hocke, Hocker',  
+   'Hölle heißmachen',   
    'Holzstoß',  // Holzstoß: 
    'hopsnehmen', // hopsnehmen: 
-   'horchen, -auf, -aus', // 
+   'horchen, -auf, -aus',  
    'Hornochse',  // Hornochse:  
    'Hose (in die H. machen/gehen)', // duplicated     
    'Hosenmatz',  // Hosenmatz:  

@@ -13,9 +13,9 @@ const p = [
    'pauken', // pauken: 
    'Pegel',  // Pegel: 
    'peilen', // peilen: 
-   'peinigen, Peiniger', // 
+   'peinigen, Peiniger',  
    'Pelle (auf die P. rücken)', //  duplicated 
-   'Pest an den Hals', // 
+   'Pest an den Hals', 
    'petzen', // petzen: 
    'Pfaffe', // Pfaffe: 
    'Pfanne (in die P. hauen)',  // duplicated  
@@ -27,12 +27,13 @@ const p = [
    'Pfropfen',  // Pfropfen: 
    'pfuschen (ins Handwerk p.)', //  duplicated 
    'Pfütze',  // Pfütze:   
-   'pieksen, piksen', // 
+   'pieksen, piksen',  
    'Pimpf',  // Pimpf: 
    'Pinkel', // Pinkel: 
    'pinkeln',  // pinkeln: 
    'pinseln, bepinseln',  //  duplicated  
-   'Plackerei', // Plackerei:  
+   'Plackerei', // Plackerei:
+   'planschen', // planschen:  
    'plappern, nachplappern, Geplapper',  // triplicated  
    'platschen', // platschen: 
    'plätschern', // plätschern: 

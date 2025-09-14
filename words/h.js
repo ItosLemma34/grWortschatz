@@ -22,11 +22,12 @@ const h = [
    'harren',  // harren: 
    'hart im Nehmen sein', //  
    'Hatz',  // Hatz: 
-   'Haube', // Haube:  
+   'Haube, Kühlerhaube', // duplicated  
    'Hausierer, hausieren',  // 
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
-   'hechten, Hechtsprung',   
+   'hechten, Hechtsprung',
+   'Heck',  // Heck:   
    'Hecke', // Hecke: 
    'Heckenschütze',  // Heckenschütze:  
    'Heft des Handelns nehmen',  

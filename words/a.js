@@ -150,7 +150,8 @@ const a = [
 	'aufs Korn nehmen',  // duplicated 
 	'aufschaukeln, schaukeln', //  duplicated  
 	'aufscheuchen',    // aufscheuchen:   
-	'aufschichten',   // aufschichten:  
+	'aufschichten',   // aufschichten: 
+	'aufspießen, spießen, Spieß',  // duplicated 
 	'aufstieben',    // aufstieben:  
 	'aufstöbern, stöbern',    // duplicated  
 	'aufstöhnen, stöhnen', //  duplicated 

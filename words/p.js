@@ -3,7 +3,7 @@ const p = [
    'paktieren', // paktieren: 
    'Palme (auf die P. treiben/bringen)', //  duplicated  
    'pampig',  // pampig: 
-   'Pappe, pappen, Papp-', // 
+   'Pappe, pappen, Papp-',  
    'päppeln', // päppeln:   
    'Pappenstiel', // Pappenstiel: 
    'Parade (in die P. fahren)', //  duplicated 
@@ -43,14 +43,14 @@ const p = [
    'plüschig',  // plüschig: 
    'pöbeln', // pöbeln: 
    'Polente', // Polente: 
-   'Polster, polstern, Polsterung', // 
+   'Polster, polstern, Polsterung',  
    'poltern' ,  // poltern: 
    'postieren', // postieren: 
-   'prallen, auf-, ab-',  // 
+   'prallen, auf-, ab-',   
   // 'präparieren' ,
    'prangen', // prangen: 
    'Pranke',  // Pranke: 
-   'Präsent, präsent',  // 
+   'Präsent, präsent',   
    'prasseln',  // prasseln: 
    'preschen',  // preschen: 
    'prickeln',  // prickeln: 

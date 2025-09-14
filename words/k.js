@@ -136,7 +136,8 @@ const k = [
    'Kroppzeug', // Kroppzeug: 
    'Kröte (K. schlucken)', // 
    'Krümel',  // Krümel: 
-   'krümmen', // krümmen: 
+   'krümmen', // krümmen:
+   'Kühlerhaube, Haube', // duplicated 
    'kullern', // kullern: 
    'Kumpel', // Kumpel: 
    'kundschaften', // kundschaften: 

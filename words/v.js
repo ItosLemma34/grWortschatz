@@ -1,5 +1,6 @@
 const v = [
    'Ventil',  // Ventil: 
+   'veralbern', // veralbern:
    'Verband' ,  // Verband: 
    'verblassen', // verblassen: 
    'verbeulen', // verbeulen: 

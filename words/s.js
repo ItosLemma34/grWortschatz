@@ -5,7 +5,7 @@ const s = [
    'Sammelsurium', // Sammelsurium:  
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
-   'säumen', // säumen:  
+   'Saum, säumen',  
    'Säure',  // Säure:  
    'Sause',  // Sause:  
    'sausen', // sausen:  
@@ -31,7 +31,8 @@ const s = [
    'scheuern',  // scheuern: 
    'Schieblehre', // Schieblehre:  
    'Schiefertafel', // Schiefertafel: 
-   'schielen',  // schielen: 
+   'schielen',  // schielen:
+   'Schienenstrang, Strang', // duplicated 
    'schikanieren', // schikanieren: 
    'Schilde (im S. führen)', //  duplicated  
    'Schimmel, (ver)schimmeln', // 
@@ -54,7 +55,8 @@ const s = [
    'schleifen, Schleifer',  
    'schlendern' , // schlendern:  
    'Schlendrian', // Schlendrian: 
-   'Schlenker',  // Schlenker: 
+   'Schlenker',  // Schlenker:
+   'schleudern', // schleudern: 
    'Schleuse, schleusen',  
    'Schliche (auf die S. kommen)', //  duplicated 
    'Schliere, schlieren',  
@@ -160,7 +162,7 @@ const s = [
    'Sperrhaken',  // Sperrhaken:  
    'sperrig',  // sperrig:       
    'spicken',  // spicken:  
-   'Spieß, spießen',  //  
+   'Spieß, spießen, aufspießen',  //  duplicated
    'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel: 
    'spreizen', // spreizen: 
@@ -202,6 +204,8 @@ const s = [
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 
    'strampeln',  // strampeln: 
+   'Strang, Schienenstrang', // duplicated 
+   'Stränge (über die S. schlagen)',  // duplicated 
    'Strauch, Gesträuch',  // duplicated 
    'Strebe', // Strebe: 
    'Streich spielen', // 

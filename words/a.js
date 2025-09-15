@@ -39,6 +39,7 @@ const a = [
 	'Adlatus', // Adlatus:  
 	'adrett',   // adrett:  
 	'Affekthandlung',   // Affekthandlung: 
+	'Affenzahn (mit einem A.)', // duplicated
 	'alle naselang',  
 	'Allerwerteste',   // Allerwerteste:  
 	'alteingesessen',  // alteingesessen: 

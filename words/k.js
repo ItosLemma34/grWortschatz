@@ -9,7 +9,8 @@ const k = [
    'Kanapee', // Kanapee: 
    'Kanne',  // Kanne: 
    'Kantholz',  // Kantholz: 
-   'Karnickel', // Karnickel: 
+   'Karnickel', // Karnickel:
+   'Karosserie', // Karosserie:
    'Karree',   // Karree:   
    'karren, Karren',  //  
    'Kaschemme',  // Kaschemme: 
@@ -54,12 +55,12 @@ const k = [
    'klappern',  // klappern: 
    'klapprig',  // klapprig:  
    'Klapsmühle', // Klapsmühle: 
-   'Klatsch, klatschen',  // 
+   'Klatsch, klatschen',   
    'klauben', // klauben:  
    'Klaue',  // Klaue: 
    'klebrig', // klebrig: 
-   'kleistern, Kleister', // 
-   'Klemme, klemmen',  // 
+   'kleistern, Kleister',  
+   'Klemme, klemmen',   
    'Klette',  // Klette: 
    'klimpern', // klimpern: 
    'Klinge', //  Klinge: 
@@ -72,7 +73,7 @@ const k = [
    'Klumpen, Klumpfuß',  // 
    'Klüngel',  // Klüngel:   
    'knacken',  // knacken: 
-   'knallen', // knallen: 
+   'Knall, knallen',  
    'Knarre',  // Knarre: 
    'knarren', // knarren: 
    'knarzen', // knarzen: 

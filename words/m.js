@@ -22,6 +22,7 @@ const m = [
    'miefig, Mief',   
    'mimen', // mimen: 
    'mit allen Wassern gewaschen', //  duplicated 
+   'mit einem Affenzahn',   // duplicated
    'mitgenommen',  // mitgenommen: 
    'Mohrrübe', // Mohrrübe: 
    'Mucks',  // Mucks:  

@@ -13,7 +13,8 @@ const g = [
    'Gedränge',  // Gedränge:  
    'gefasst',  // gefasst: 
    'geflissentlich',  // geflissentlich: 
-   'gefügig', // gefügig: 
+   'gefügig', // gefügig:
+   'gegen den Strich gehen', // duplicated 
    'Gehabe',  // Gehabe:    
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated  

@@ -85,7 +85,8 @@ const a = [
 	'anstupsen',    // anstupsen: 
 	'antanzen',     // antanzen:   
 	'Anwesen',      // Anwesen: 
-	'anwidern',     // anwidern: 
+	'anwidern',     // anwidern:
+	'anwinkeln',  // anwinkeln: 
 	'Anzeige erstatten',  
 	'anzetteln',  // anzetteln:  
 	'anzüglich',  //  anzüglich:  

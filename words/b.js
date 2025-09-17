@@ -20,7 +20,7 @@ const b = [
     'beikommen',   // beikommen: 
     'Beil',  // Beil: 
     'Bein (ans B. binden)', //   duplicated 
-    'Beine in den Bauch',  // 
+    'Beine in den Bauch',   
     'Beine (sich die B. vertreten)', // duplicated 
     'beipflichten',   // beipflichten: 
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
@@ -30,18 +30,19 @@ const b = [
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
     'bepinseln, pinseln', //  duplicated 
-    'bequemen, herbequemen',  // 
+    'bequemen, herbequemen',   
     'berappen',   // berappen:  
     'beredt',     // beredt:  
-    'Beritt, beritten',  //   
+    'Beritt, beritten',     
     'bescheuert',  // bescheuert: 
-    'Besen',      // Besen:  
+    'Besen',      // Besen: 
+    'bestatten, Bestatter, Bestattung', 
     'Besteck',    // Besteck: 
     'besudeln',  // besudeln:    
 //    'betreten',   // betreten:  consider what to do with "beteten"
     'Bettfeder',  // Bettfeder:   
     'betupfen, abtupfen, T(t)upfen',   //  triplicated  
-    'Beule, beulen',  //  
+    'Beule, beulen',    
     'bibbern',    // bibbern: 
     'bieder',     // bieder: 
     'Biege machen', // 

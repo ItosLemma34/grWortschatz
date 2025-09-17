@@ -6,7 +6,7 @@ const d = [
    'Damm',  // Damm: 
    'Dampframme',  // Dampframme:  
    'Dampfwalze',  // Dampfwalze: 
-   'dämm(e)rig', //  dämm(e)rig:
+   'dämm(e)rig', //  'dämm(e)rig':
    'dazwischenfunken', // dazwischenfunken:   
    'Deckel',   // Deckel: 
    'Deichsel',  // Deichsel:  

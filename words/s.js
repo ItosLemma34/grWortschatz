@@ -10,7 +10,8 @@ const s = [
    'Sause',  // Sause:  
    'sausen', // sausen:  
    'schaben, abschaben', // duplicated 
-   'Schablone',  // Schablone:   
+   'Schablone',  // Schablone:
+   'Schachtel',  // Schachtel:   
    'schade (zu schade sein)',   //duplicated 
    'schälen', // schälen:    
    'Schank',  // Schank: 
@@ -210,6 +211,7 @@ const s = [
    'Strebe', // Strebe: 
    'Streich spielen', // 
    'Strich (auf den S. gehen)', //  duplicated 
+   'gegen den Strich gehen',  // duplicated
    'Strick (einen S. drehen)', // duplicated 
    'Strickjacke', // Strickjacke: 
    'Striemen',  // Striemen: 

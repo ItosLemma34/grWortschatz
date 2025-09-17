@@ -18,7 +18,7 @@ const r = [
    'Räuberpistole',  // Räuberpistole: 
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
-   'Raunen, raunen', // 
+   'Raunen, raunen',  
    'Raureif', // Raureif: 
    'Rechen',  // Rechen: 
    'recken',  // recken:  

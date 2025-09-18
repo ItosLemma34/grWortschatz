@@ -147,6 +147,7 @@ const k = [
    'kurbeln', // kurbeln: 
    'kuscheln', // kuscheln: 
    'kuschen',  // kuschen: 
+   'Kuvert',  // Kuvert:
 ];
 
 export default k;   

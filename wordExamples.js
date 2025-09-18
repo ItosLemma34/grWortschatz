@@ -49,6 +49,28 @@ aufgeständert: [
 	'<u>Lunapark</u>',   
 	'<u>Marlow</u>',   
 ], */
+Kuvert: [  
+	'das <strong>Kuvert</strong>, die <strong>Kuverts</strong>/<strong>Kuverte</strong>: envelope, cover; table setting'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kuvert"target="target1">Kuvert</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kuvert"target="target2">Kuvert</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kuvert"target="target3">Kuvert</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kuvert&id=substantiv%3AKuvert"target="target4">Kuvert</a>',
+	'<u>Der nasse Fisch</u>', 
+	'Der Brief, den Tretschkow ihm (<i>Rath</i>) gegeben hatte, war eine Enttäuschung. Bislang hatte Rath nur eines herausbekommen: dass es gar kein Brief war. Das <strong>Kuvert</strong> hatte ein einziges, dünnes Blatt Papier enthalten, darauf ein Durcheinander aus Buchstaben, über dem er den ganzen Abend gegrübelt hatte, ohne einen Schritt weitergekommen zu sein. (<i>Der nasse Fisch</i>, 321)',
+	'<i>Rath</i>: ".. Was kann ich für Sie tun?" "Ich für Sie", sagte Kronberg und wedelte mit dem <strong>Kuvert</strong>, das den Stempel der Berliner Polizei trug. "Es geschehen noch Zeichen und Wunder!" (<i>Der nasse Fisch</i>, 373)',  
+	'Bevor er sich in die Wannseebahn setzte, deponierte er (<i>Rath</i>) das Buch in einem Schließfach am Postdamer Bahnhof. Den Schlüssel steckte er in ein <strong>Kuvert</strong> der preußischen Polizei, das er sorgfältig verschloss und frankierte. Dann suchte er im abendlichen Gewimmel des Bahnhofs nach einem Briefkasten der Reichspost. (<i>Der nasse Fisch</i>, 387)',
+	'Der Portier wedelte mit einem Umschlag. "Vorhin ist Post für Sie gekommen." Rath nahm den Brief entgegen und ging zum Lift. Erst als er die Tür von Zimmer 412 verschlossen hatte, öffnete er das <strong>Kuvert</strong> und ließ den kleinen silbrigen Schlüssel herausfallen. (<i>Der nasse Fisch</i>, 401)',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Märzgefallene</u>', 
+	'Charly wandte sich wieder der Patientenakte zu. Ganz hinten fand sie ein <strong>Kuvert</strong>, das eine Fotografie enthielt. Das Bild zeigte einen Weltkriegssoldaten in der Uniform eines Unteroffiziers der Reserve... (<i>Märzgefallene</i>, 42)',   
+	'Charly öffnete das <strong>Kuvert</strong> aus der Patientenakte.. Sie nahm das Foto von Heinz Singer und schob es über den Tisch, bis es neben dem von Heinrich Wosniak lag. (<i>Märzgefallene</i>, 46)', 
+	'Das Foto, das all dieses ausgelöst hatte, das Weltkriegsfoto von Heinz Singer, war arg verknickt, aber immerhin nicht zerrissen. Oberschwester Ingeborg hielt es in ihrer Rechten und betrachtete es wie eine Siegestrophäe, bevor sie es zurück in das <strong>Kuvert</strong> schob. (<i>Märzgefallene</i>, 48)',
+	'Rath riss das <strong>Kuvert</strong> auf. Es war eine Vorladung. Ein Kriminalsekretär Wiefelspüz von der Kölner Polizei wünschte ihn zu sprechen... (<i>Märzgefallene</i>, 310)', 
+	'"Das hier jedenfalls", sagte er (<i>Rath</i>) und legte ein Schreiben auf den Tisch, das in einem <strong>Kuvert</strong> der Berliner Polizei steckte, "ist eine Vorladung. Ich darf Sie bitten, am Freitag pünktlich im Präsidium zu erscheinen, damit wir unser heutiges unverbindliches Gespräch ein wenig verbindlicer gestalten können." (<i>Märzgefallene</i>, 335)',
+	'Charly ließ den Brieföffner ins <strong>Kuvert</strong> fahren. Der Brief war auf Hotelpapier geschrieben. (<i>Märzgefallene</i>, 487)',
+	'Rath wartete nicht erst, bis der Kiminalsekretär (<i>Gräf</i>) den Umschlag öffnete, er schüttelte die Fotos kurzerhand aus dem <strong>Kuvert</strong> und ließ sie auf den Schriebtisch flattern. (<i>Märzgefallene</i>, 489)',
+	'In der Schwebebahn, die vor seinem Fenster vorbeiführte, hatte er (<i>Grimberg</i>) geglaubt, Hauptmann Engel sitzen zu sehen, mit einem seltsam glatt rasierten Gesicht, das beinahe wie gemalt wirkte. Als er das <strong>Kuvert</strong> öffnete und die Unterschrift erkannte, wusste er, dass es kein Hirngespinst war. (<i>Märzgefallene</i>, 559)',
+	'<u>Marlow</u>',   
+	'Er (<i>Rath</i>) wartete, bis der Mann, der sich noch ein paarmal umdrehte und tatsächlich durch die Autofenster zu schielen schien, im Park verschwunden war, dann steckte er den Stift ein, packte die <strong>Kuverts</strong> unter den Mantel und stieg aus. (<i>Marlow</i>, 39)',
+],
 anwinkeln: [  
 	'<strong>anwinkeln</strong>: bend, angle sth.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anwinkeln"target="target1">anwinkeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anwinkeln"target="target2">anwinkeln</a>'+
@@ -884,6 +906,8 @@ ungezogen: [
 	'<u>Märzgefallene</u>',  
 	'<i>Gräf</i>: "Es war kein Unfall. Die Kollegen haben Hannah Singer vor der brennenden Baracke aufgegriffen; die Streichhölzer, mit denen sie das Feuer entfacht hat, lagen noch zu ihren Füßen..." <i>Böhm</i>: "Und warum hat sie das getan?" "Wenn wir das wüssten." Gräf zuckte die Achseln und zeigte auf die Akte. "Hier sind sämtliche Verhöre <strong>abgeheftet</strong>, denen Hannah Singer damals unterzogen wurde. Elf an der Zahl. Und in keinem hat sie auch nur ein einziges Wort gesagt." (<i>Märzgefallene</i>, 27)',	
 	'<i>Voss</i>: "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch.... <i>Rath</i>: "Märzgefallene. Der Roman unseres Freiherrn. Da stehen seine Kriegserlebnisse drin." "Heißt das, ich hätte mir das Mitstenographieren sparen können?" Erika Voss präsentierte eine sauber <strong>geheftete</strong> Aktenmappe. "Das Protokoll. Fertig getippt." (<i>Märzgefallene</i>, 147)',
+	'<u>Marlow</u>',  
+	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
 ],
 nölen: [  
 	'<strong>nölen</strong>: moan, grumble, whine'+
@@ -892,6 +916,7 @@ nölen: [
 	'<u>Der nasse Fisch</u>',   
 	'"Jedenfalls sollten wir nicht auffallen", <strong>nölte</strong> Czerwinski. "Wäre schön, wenn du mal ein bisschen Land gewinnst." "Dann solltest du aber auch aufhören zu schnarchen", meinte Rath und verabschiedete sich mit einem letzten Klopfen aufs Wagendach. (<i>Der nasse Fisch</i>, 465-66)',
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'Griesgram, griesgrämig': [  
 	'<strong>griesgrämig</strong>: cranky, curmudgeonly, surly'+
 	'<br>der <strong>Griesgram</strong>,-<strong>e</strong>: curmudgeon, grumbler, sourpuss'+
@@ -10646,6 +10671,8 @@ Kinkerlitzchen: [
 	'Gestern hatte er (<i>Rath</i>) das Paket erhalten.. Ohne Absender, aber mit einem beigelegten maschinengeschriebenen Brief. <i>Hier ist Ihr Werkzeug, Kommissar, benutzen Sie es. Ich gebe Ihnen eine Woche. Nächsten Sonntag ist Zahltag, so oder so. M.</i> Rath hatte den Zettel <strong>zerknüllt</strong> und zurück in den Karton geworfen. (<i>Lunapark</i>, 369-70)',
 	'Als sie (<i>Charly</i>) das Zeitungspapier aus dem Karton nahm, fiel ein zusammen<strong>geknüllter</strong> schneeweißer Zettel heraus.. Sie erinnerte sich, was für ein Geheimnis er (<i>Gereon</i>) aus dem Paket gemacht hatte.. Vielleicht gab der Zettel ja Auskunft, was sich in diesem Pappkarton befunden hatte.. Sie faltete das <strong>zerknüllte</strong> Papier auseinander und las. <i>Hier ist Ihr Werkzeug, Kommissar, benutzen Sie es. Ich gebe Ihnen eine Woche. Nächsten Sonntag ist Zahltag, so oder so. M.</i>. (<i>Lunapark</i>, 379)', 
 	'Sie (<i>Charly</i>) überlegte, was sie mit dem Zettel anfangen sollte, dann <strong>zerknüllte</strong> sie ihn und warf ihn in den Karton zurück, mitsamt den Zeitungspapier. (<i>Lunapark</i>, 380)',
+	'<u>Marlow</u>',
+	'Rath steckte sich eine Overstolz an und ging durch den Park zurück zum Auto. Den alten Umschlag <strong>zerknüllte</strong> er und stopfte ihn in den nächstbesten Papierkorb. (<i>Marlow</i>, 40)',
 ],
 Kreisel: [
 	'der <strong>Kreisel</strong>,-: gyroscope, spinning top'+
@@ -14802,6 +14829,8 @@ Spalier: [
 	'<u>Lunapark</u>',
 	'<i>Rath</i>: "Entschuldigen Sie, dass ich noch mal unterbrechen muss, Herr Bestmann,.. aber da ist Blut auf Ihrem Hof... Irgendjemand hat Blut in den Gully <strong>gespült</strong>..." (<i>Lunapark</i>, 40)',
 	'Die Kopfschmerzen hinderten ihn (<i>Rath</i>) am Denken, er nahm noch eine Phenacetin. Die musste er mit einem Schluck Cognac aus seinem Flachmann hinunter<strong>spülen</strong>. (<i>Lunapark</i>, 391)', 
+	'<u>Marlow</u>',
+	'Rat zog die Kette der Toiletten<strong>spülung</strong>, steckte sich die Umschläge wieder unter den Mantel, während das Wasser rauschte, und verließ die Kabine. (<i>Marlow</i>, 40)',
 ],
 Schlüpfer: [
 	'der <strong>Schlüpfer</strong>,-: briefs, underpants'+
@@ -15083,16 +15112,12 @@ schielen: [
 	'<u>Märzgefallene</u>',
 	'Die dunklen braunen Augen waren nach wie vor auf den Boden gerichtet. Hannah <strong>schielte</strong> nicht einmal zu dem Foto hinüber, das direkt vor ihr an der Tischkante lag. (<i>Märzgefallene</i>, 44)',
 	'Rath <strong>schielte</strong> zu dem verschmierten Gesicht hinüber. Sie (<i>die wilde Hilde</i>) sah nicht schlecht aus, soweit er das erkennen konnte. Blond und drall, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte?  (<i>Märzgefallene</i>, 72)',
-  	'Die Art und Weise, wie der Hilfspolizist dem Oberkommissar die Hand auf die Schulter legte, erinnerte fast schon an eine Verhaftung. Böhm <strong>schielte</strong> irritiert auf die Hand, als wolle er sie von seiner Schulter wischen wie ein lästiges Insekt. (<i>Märzgefallene</i>, 126)',
+	'Die Art und Weise, wie der Hilfspolizist dem Oberkommissar die Hand auf die Schulter legte, erinnerte fast schon an eine Verhaftung. Böhm <strong>schielte</strong> irritiert auf die Hand, als wolle er sie von seiner Schulter wischen wie ein lästiges Insekt. (<i>Märzgefallene</i>, 126)',
 	'Und als sie (<i>Hannah</i>) noch darüber nachdachte, warum der Nachtwächter im Halbdunkeln da draußen rumschlich und nicht einmal eine Taschenlampe einschaltete, öffnete sich der Deckel über ihr. Hannahs Herz blieb stehen, sie war starr vor Angst. Sie <strong>schielte</strong> nach oben und erkannte, dass es ihrem Entdecker ebenso erging. (<i>Märzgefallene</i>, 155)',
-  	'Eine unerklärliche Unruhe hatte das Restaurant ergriffen. Obwohl die Kellner sich alle Mühe gaben, dies zu kaschieren, war nicht zu übersehen, dass das Personal mit einem Mal von einer nervösen Hektik ergriffen war. Der Maître redete auf den Oberkellner ein, der <strong>schielte</strong> zu Raths und Charlys Tisch hinüber, zuckte die Achseln und zischte irgendetwas zurück.  (<i>Märzgefallene</i>, 197)',
+	'Eine unerklärliche Unruhe hatte das Restaurant ergriffen. Obwohl die Kellner sich alle Mühe gaben, dies zu kaschieren, war nicht zu übersehen, dass das Personal mit einem Mal von einer nervösen Hektik ergriffen war. Der Maître redete auf den Oberkellner ein, der <strong>schielte</strong> zu Raths und Charlys Tisch hinüber, zuckte die Achseln und zischte irgendetwas zurück. (<i>Märzgefallene</i>, 197)',
 	'"Ick hab Hannah gefunden", nuschelte er (<i>Fritze</i>) so leise, das Rath ihn kaum verstehen konnte. "Wie?" "Ick sollte doch Bescheid sagen. Ick hab Hannah." Fritze guckte ihn ängstlich an und <strong>schielte</strong> in die Wohnung. "Wo ist Charly?" (<i>Märzgefallene</i>, 402-03)',
 	'(<i>Rath</i>): "Und deswegen dachten Sie (<i>der Bettler</i>), das sind alte Freunde?" "Wat heeßt Freunde? Uff jeden Fall kannten die sich, det konnte sojar \'n Blinder mi\'m Krückstock sehen..." Der Bettler verstummte und <strong>schielte</strong> verlegen auf seinen Blindenstock. (<i>Märzgefallene</i>, 474)',
 	'"Eine kurze Frage", sagte er (<i>Weinert</i>). "Habe Sie schon eine Verdacht, wer den Man ermordet haben könnte?" Gräf wirkte ein wenig irritiert und <strong>schielte</strong> zu Levetzow hinüber.  (<i>Märzgefallene</i>, 498)',
-//	'<u>Märzgefallene</u>',
-
-// put in schielen!
-
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) schaute Kirie an. Der Hund hatte innegehalten in seinem unruhigen Hin und Her and schielte zur Tür, durch die Fritze gerade verschwunden war.  (<i>Lunapark</i>, 31)',
 	'Raths Blick ging zu der großen blechernen Mülltonne hinüber, die weiter hinten an der Wand stand. Der Wirt hatte dort hinüber<strong>geschielt</strong> während seiner Antwort.  (<i>Lunapark</i>, 41)',
@@ -15103,6 +15128,8 @@ schielen: [
 	'Direkt vor dem Mietshaus parkte ein schwarzer Ford, dennoch war der Mann nicht zuhause. Eine Zugehfrau öffnete und <strong>schielte</strong> neugierig auf Raths Dienstausweis, wagte aber nicht, eine der vielen Fragen, die ihr offensichtlich auf der Zunge lagen, auch zu stellen. (<i>Lunapark</i>, 301)',
 	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen <strong>schielten</strong> sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige tuschelten miteinander, andere glotzten einfach nur. (<i>Lunapark</i>, 320)',
 	'Er (<i>Rath</i>) beschloss, nicht zu beten.. So kniete er also nur und hielt den Eingang (<i>der Kirche</i>) im Blick, während ihn das Gemurmel zweier alter Frauen, die den Rosenkranz beteten, in die Kindheit zurückkatapultierte. Er hörte die Eingangstür knarren und verbarg das Gesicht hinter seinen gefalteten Händen, <strong>schielte</strong> gleichzeitig durch die Finger zur Seite. (<i>Lunapark</i>, 397)',
+	'<u>Marlow</u>',
+	'Er (<i>Rath</i>) wartete, bis der Mann, der sich noch ein paarmal umdrehte und tatsächlich durch die Autofenster zu <strong>schielen</strong> schien, im Park verschwunden war, dann steckte er den Stift ein, packte die Kuverts unter den Mantel und stieg aus. (<i>Marlow</i>, 39)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -16067,6 +16094,8 @@ stibitzen: [
 	'Rath konnte seinen Blick nicht von dem jungen Mann im Bett wenden, der ihn immer noch mit halb geöffnetem Mund <strong>anstierte</strong>. (<i>Lunapark</i>, 433-34)',
 	'Er (<i>Gräf</i>) hatte das Taschentuch gerade wieder eingesteckt, da stand Pfeiffer im Zimmer. Der SS-Mann <strong>stierte</strong> auf die toten Männer unter der Dachschräge. "Hab ich\'s doch geahnt", sagte er und spuckte aus, "zwei verdammte Schwuchteln." (<i>Lunapark</i>, 476)',
 	'Gräf öffnete die Tür und schaute ihn mit großen Augen an. Rath hob die Cognacflasche. "Wollte mich bei dir entschuldigen", sagte er. Gräf sagte nichts, sondern <strong>stierte</strong> ihn weiter <strong>an</strong>. (<i>Lunapark</i>, 509)',
+	'<u>Marlow</u>',  
+	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen Hefter lagen auf seinem Schoß, und er <strong>stierte</strong> sie <strong>an</strong>. Die bettelten doch förmlich darum, aufgeschlagen zu werden. (<i>Marlow</i>, 39-40)',	
 ], 
 'anstieren, stieren': [  
 	'<strong>stieren</strong>: stare &nbsp;<strong>anstieren</strong>: stare at'+

@@ -59,7 +59,8 @@ const f = [
    'Fratze',  // Fratze:  
    'frequentieren',  // frequentieren:  
    'Frevel',    // Frevel:  
-   'frisieren',  // frisieren:   
+   'frisieren',  // frisieren: 
+   'Fritze',  // Fritze:  
    'frösteln', // frösteln:  
    'Frotzelei, frotzeln',  //  
    'fuchteln, Fuchtel', //  

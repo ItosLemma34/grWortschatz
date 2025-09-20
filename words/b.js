@@ -23,6 +23,7 @@ const b = [
     'Beine in den Bauch',   
     'Beine (sich die B. vertreten)', // duplicated 
     'beipflichten',   // beipflichten: 
+    'bekleckern',  // bekleckern:
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
     'belauern',  // belauern:  
@@ -87,8 +88,8 @@ const b = [
     'brutzeln',  // brutzeln: 
     'Buche',    // Buche: 
     'Büchse',   // Büchse: 
-    'Buckel, bucklig',  //   
-    'bücken',  // 
+    'Buckel, bucklig',     
+    'bücken',  // bücken:
     'buddeln, ein-, ver-, aus-',  // 
     'Bude, Büdchen',  // 
     'büffeln', // büffeln:  

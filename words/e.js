@@ -54,7 +54,7 @@ const e = [
    'entstellen',  // entstellen: 
    'entwenden',  // entwenden:  
    'entwinden',  // entwinden: 
-   'erbost, erbosen',  //  
+   'erbost, erbosen',    
    'erdreisten', // erdreisten:     
    'ergattern',   // ergattern:  
    'erhaschen',   // erhaschen: 

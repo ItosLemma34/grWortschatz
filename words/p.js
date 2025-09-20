@@ -9,6 +9,7 @@ const p = [
    'Parade (in die P. fahren)', //  duplicated 
    'Parzelle',  // Parzelle:  
    'Patrone', // Patrone: 
+   'patzen',  // patzen:
    'patzig',  // patzig:  
    'pauken', // pauken: 
    'Pegel',  // Pegel: 

@@ -4,7 +4,7 @@ const h = [
   // 'hacken, zerhacken',  EXPAND
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
-   'haken, Haken, Haken schlagen', // 
+   'haken, Haken, Haken schlagen',  
    'halbgar', // halbgar:  
    'halbseiden',  // halbseiden: 
    'Halde (auf H. legen)',
@@ -12,7 +12,7 @@ const h = [
    'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 
   // 'hämmern',
-   'Handfessel, Handschelle', // 
+   'Handfessel, Handschelle',  
    'Handlanger', // Handlanger:  
    'Handwerk legen',  // 
    'handzahm, zahm', //  duplicated 

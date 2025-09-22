@@ -14,9 +14,81 @@ zzz: [
 	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',   
 	'<u>Marlow</u>',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+*/
+Räuberzivil: [  
+	'das <strong>Räuberzivil</strong>: scruffy old clothes'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Raeuberzivil"target="target1">Räuberzivil</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/R%C3%A4uberzivil"target="target2">Räuberzivil</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/R%C3%A4uberzivil"target="target3">Räuberzivil</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=R%C3%A4uberzivil&id=substantiv%3ARa3uberzivil"target="target4">Räuberzivil</a>',
+	'<u>Der stumme Tod</u>',   
+	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges <strong>Räuberzivil</strong> neben grauen und weißen Arbeitskitteln. (<i>Der stumme Tod</i>, 23)', 
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+'Menschentraube, Traube': [  
+	'die <strong>Traube</strong>,-<strong>n</strong>: cluster, bunch of; grape'+
+	'<br>die <strong>Menschentraube</strong>,-<strong>n</strong>: cluster, knot of people'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Traube"target="target1">Traube</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Menschentraube"target="target2">Menschentraube</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/traube"target="target3">Traube</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Menschentraube&id=substantiv%3AMenschentraube"target="target4">Menschentraube</a>',
+	'<u>Der stumme Tod</u>', 
+	'Ebenso deplatziert wirkte die <strong>Menschentraube</strong> inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. (<i>Der stumme Tod</i>, 23)', 
+	'Ab und zu schluchzte der Mann laut auf, das einzige vernehmbare Geräusch hier, denn in der <strong>Traube</strong> auf dem Parkett sprachen alle so leise, als werde hier tatsächlich noch ein Tonfilm gedreht... (<i>Der stumme Tod</i>, 23)',
+],
+'Traube, Menschentraube': [  
+	'die <strong>Traube</strong>,-<strong>n</strong>: cluster, bunch of; grape'+
+	'<br>die <strong>Menschentraube</strong>,-<strong>n</strong>: cluster, knot of people'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Traube"target="target1">Traube</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Menschentraube"target="target2">Menschentraube</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/traube"target="target3">Traube</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Menschentraube&id=substantiv%3AMenschentraube"target="target4">Menschentraube</a>',
+	'<u>Der stumme Tod</u>', 
+	'Ebenso deplatziert wirkte die <strong>Menschentraube</strong> inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. (<i>Der stumme Tod</i>, 23)', 
+	'Ab und zu schluchzte der Mann laut auf, das einzige vernehmbare Geräusch hier, denn in der <strong>Traube</strong> auf dem Parkett sprachen alle so leise, als werde hier tatsächlich noch ein Tonfilm gedreht... (<i>Der stumme Tod</i>, 23)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+Galgen: [  
+	'der <strong>Galgen</strong>,-: gallows; mike boom (film)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Galgen"target="target1">Galgen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Galgen"target="target2">Galgen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/galgen"target="target3">Galgen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Galgen&id=substantiv%3AGalgen"target="target4">Galgen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Seine (<i>Raths</i>) rechte Hand mit dem Telefonhörer fiel herunter wie der Sandsack, mit dem ein <strong>Galgen</strong> vor der Hinrichtung getestet wird. (<i>Der nasse Fisch</i>, 229)',   
+	'<u>Der stumme Tod</u>',
+	'Eine zweite Kamera stand mitsamt Stativ auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. Daneben ein futuristisch aussehendes Schaltpult mit unzähligen Reglern, Röhren und blinkenden Lämpchen, auf dem ein Kopfhörer lag. Ein dickes Kabel führte von diesem Pult nach hinten, dünnere Kabel verbanden es mit einer Art <strong>Galgen</strong>, an dem zwei silbrig-schwarze Mikrofone hingen... (<i>Der stumme Tod</i>, 22-23)',
+	'<u>Märzgefallene</u>',
+	'Die Schmerzen in der Seite waren anfangs.. unerträglich gewesen. Sie hatten ihr (<i>Hannah</i>) Mittel dagegen gegeben, Morphium. Sie hatten nichts dergleichen gesagt, sie mussten es ihr über die Infusionsflasche verabreicht haben, die am <strong>Galgen</strong> neben ihrem Bett hing... (<i>Märzgefallene</i>, 461)',
+],
+Regler: [  
+	'der <strong>Regler</strong>,-: controller, modulator, regulator'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Regler"target="target1">Regler</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Regler"target="target2">Regler</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/regler"target="target3">Regler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Regler&id=substantiv%3ARegler"target="target4">Regler</a>',
+	'<u>Der stumme Tod</u>',   
+	'Eine zweite Kamera stand mitsamt Stativ auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. Daneben ein futuristisch aussehendes Schaltpult mit unzähligen <strong>Reglern</strong>, Röhren und blinkenden Lämpchen, auf dem ein Kopfhörer lag. (<i>Der stumme Tod</i>, 22-23)',
+//	'<u>Marlow</u>',
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
-*/
+Tropen: [  
+	'<strong>Tropen</strong>: the tropics'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tropen"target="target1">Tropen</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Karte+von+den+Tropen&sei=fvTOaLPaN8yp5NoP0t7f4Qk"target="target2">Tropen</a>'+ 
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tropen#sense-1.1.1"target="target3">Tropen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Tropen&id=substantiv%3ATropen"target="target4">Tropen</a>',
+	'<u>Der stumme Tod</u>',  
+	'Von den riesigen Fenstern, die das Gebäude von außen wie ein <strong>Tropen</strong>haus wirken ließen, war hier drinnen nichts mehr zu sehen, schwere Tücher hingen unter der Decke, auch die Wände waren komplett mit Stoffbahnen verkleidet. (<i>Der stumme Tod</i>, 22)',
+//	'<u>Marlow</u>',
+],
+abmühen: [  
+	'<strong>sich abmühen</strong>: plod, struggle, toil, labor'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abmuehen"target="target1">abmühen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abm%C3%BChen"target="target2">abmühen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abmuehen#abm%C3%BChen"target="target3">abmühen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abm%C3%BChen&id=verb%3Aabmu3hen"target="target4">abmühen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Auf einem grünen Kanapee <strong>mühte sich</strong> gerade ein muskulöser Hindenburg auf einer Nackten <strong>ab</strong>, die entfernt an Mata Hari erinnerte. (<i>Der nasse Fisch</i>, 19)',   
+	'"Henning, bringen Sie den Fotoapparat hier runter", rief er (<i>Rath</i>) nach oben.. Der Kriminalassistent hatte den Fotoapparat geschultert und <strong>mühte sich</strong> nun die Böschung hinunter. (<i>Der nasse Fisch</i>, 283)',
+	'<u>Der stumme Tod</u>',   
+	'Hinter Rath keuchte es. Henning <strong>mühte sich</strong> unter dem Fotoapparat <strong>ab</strong>, den er aus dem Opel gewuchtet hatte. (<i>Der stumme Tod</i>, 22)',
+	'<u>Märzgefallene</u>',
+	'Das Telefon klingelte. Sie (<i>Charly</i>) <strong>mühte sich</strong> aus dem Sessel und nahm den Hörer ab. Merkte, dass sie schon ein bisschen wankte. Nach dem Glas sollte sie besser aufhören mit dem Wein. (<i>Märzgefallene</i>, 282)',    
+//	'Das Podium füllte sich langsam. Alle waren sie dabei, sogar Gennat <strong>mühte</strong> seinen schweren Körper die zwei Stufen hinauf, obwohl er es hasste, für den Polizeipräsidenten den Grüßaugust zu machen. Denn mehr war das hier nicht: Levetzow war es seit Wochen schon nicht mehr um Ermittlungen gegangen, sondern nur noch darum, Benjamin Engel irgendwie zu fassen und der Öffentlichkeit zu präsentieren. (<i>Märzgefallene</i>, 496)',
+	'<u>Lunapark</u>',
+	'Würde es ihm (<i>Rath</i>) ähnlich ergehen wie Paul Czerwinski, der seit Ewigkeiten auf der Stufe des Kriminalsekretärs stehen geblieben war? Doch Czerwinski, der <strong>sich</strong> gerade mit dem Fotoapparate <strong>abmühte</strong>, war kein Maßstab. (<i>Lunapark</i>, 19)',   
+//	'<u>Marlow</u>',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Fritze: [  
 	'der <strong>Fritze</strong>,-<strong>n</strong>: guy, bloke'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Fritze&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Fritze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fritze"target="target2">Fritze</a>'+
@@ -215,23 +287,17 @@ schleudern: [
 	'<u>Marlow</u>', 
 	'"Melde gehorsamst, Oberkommissar, aber glauben Sie mir: Die Sauerei hätten Sie nicht sehen wollen. Der da..." Er wies auf eine der beiden Leichen, deren Leinentuch in der Mitte blutigrot glänzte. ".. ist förmlich <strong>aufgespieß</strong> worden. Von der Lenksäule. Ohne Eisensäge hätten wir den nicht aus dem Wagen bekommen." (<i>Marlow</i>, 27)',  
 ],
-'Strang, Schienenstrang': [  
+'Strang, Schienen-, Kabel-': [  
 	'der <strong>Strang</strong>, die <strong>Stränge</strong>: strand, cable; line/leg (tech)'+
 	'<br>der <strong>Schienenstrang</strong>,-<strong>stränge</strong>: railroad track'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strang"target="target1">Strang</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/search?k=schienenstrang"target="target2">Schienenstrang</a>'+ //  &nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target3">über die Stränge schlagen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strang"target="target3">Strang</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schienenstrang&id=substantiv%3ASchienenstrang"target="target4">Schienenstrang</a>',  //&nbsp;&nbsp;<a href="https://crossidiomas.com/uber-die-strange-schlagen/"target="target6">über die Stränge schlagen</a>',
-//	'<u>Der stumme Tod</u>',   
-	'<u>Märzgefallene</u>',
-	'"Dann sollten Sie (<i>Charly</i>) Ihre Vorsetllungen überdenken", sagte die Kriminalrätin (<i>Friederike Wieking</i>). "In einer Volksgemeinschaft sollten alle an einem <strong>Strang</strong> ziehen. Das fängt im Kleinen an, in der Familie, am Arbeitsplatz, und setzt sich im Großen fort. Denken Sie einmal darüber nach." (<i>Märzgefallene</i>, 529)',    
-	'<u>Marlow</u>',   
-	'Die Kraftdroscke (<i>taxi</i>) war frontal gegen die massive Backsteinmauer geprallt.., an jener Stelle, wo die breite Yorckstraße einen Rechtsknick machte und sich verjüngte, um auf den nächsten fünfhunder Metern mehr als vierzig stählerne Stege zu unterqueren, sämtliche <strong>Schienenstränge</strong>, die zum Anhalter und Potsdamer Bahnhof führten. (<i>Marlow</i>, 27)',
-],
-'Schienenstrang, Strang': [  
-	'der <strong>Strang</strong>, die <strong>Stränge</strong>: strand, cable; line/leg (tech)'+
-	'<br>der <strong>Schienenstrang</strong>,-<strong>stränge</strong>: railroad track'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strang"target="target1">Strang</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/search?k=schienenstrang"target="target2">Schienenstrang</a>'+ //  &nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target3">über die Stränge schlagen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strang"target="target3">Strang</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schienenstrang&id=substantiv%3ASchienenstrang"target="target4">Schienenstrang</a>',  //&nbsp;&nbsp;<a href="https://crossidiomas.com/uber-die-strange-schlagen/"target="target6">über die Stränge schlagen</a>',
-//	'<u>Der stumme Tod</u>',   
+	'<br>der <strong>Kabelstrang</strong>,-<strong>stränge</strong>: cable harness'+   
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strang"target="target1">Strang</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/search?k=schienenstrang"target="target2">Schienenstrang</a>&nbsp;&nbsp;<a href="https://www.google.com/search?q=Bilder+Kabelstrang&client=firefox-b-1-d&sca_esv=792560e52f66799b&channel=entpr&ei=1bPQaJXKEOCy5NoP6ICCwAo&ved=0ahUKEwjViKTgqOuPAxVgGVkFHWiAAKgQ4dUDCBA&uact=5&oq=Bilder+Kabelstrang&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkJpbGRlciBLYWJlbHN0cmFuZzIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSMGMAVCSO1ivfXACeACQAQCYAWegAfIHqgEEMTMuMbgBA8gBAPgBAZgCD6AC1gfCAggQABiwAxjvBcICCBAAGIAEGKIEwgIFECEYnwWYAwCIBgGQBgKSBwQxNC4xoAf-HrIHBDEyLjG4B8oHwgcFMC43LjjIByo&sclient=gws-wiz-serp"target="target3">Kabelstrang</a>'+ 
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strang"target="target4">Strang</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schienenstrang&id=substantiv%3ASchienenstrang"target="target5">Schienenstrang</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kabelstrang"target="target6">Kabelstrang</a>',  
+	'<u>Der stumme Tod</u>', 
+	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der schmächtige Kriminalassistent manövrierte die Kamera mit dem sperrigen <strong>Stativ</strong> hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
+	'Alles hier war vollgestopft mit technischem Gerät. Scheinwerfer auf <strong>Stativen</strong>, dazwischen ein verglaster Kasten, der an einen schmucklosen Beichtstuhl erinnerte. (<i>Der stumme Tod</i>, 22)',
+	'Eine zweite Kamera stand mitsamt <strong>Stativ</strong> auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. (<i>Der stumme Tod</i>, 22)',
+	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. Der einzige Mensch, der einen zu dieser Umgebung passenden Abendanzug trug, saß etwas abseits auf einem der Klappstühle, die rings um das Parkett zwischen Scheinwerferstativen und Kabel<strong>strängen</strong> standen, ein blonder Mann, der sein Gesicht in den Armen verborgen hatte. (<i>Der stumme Tod</i>, 23)', 
 	'<u>Märzgefallene</u>',
 	'"Dann sollten Sie (<i>Charly</i>) Ihre Vorsetllungen überdenken", sagte die Kriminalrätin (<i>Friederike Wieking</i>). "In einer Volksgemeinschaft sollten alle an einem <strong>Strang</strong> ziehen. Das fängt im Kleinen an, in der Familie, am Arbeitsplatz, und setzt sich im Großen fort. Denken Sie einmal darüber nach." (<i>Märzgefallene</i>, 529)',    
 	'<u>Marlow</u>',   
@@ -270,7 +336,8 @@ Steg: [
 	'<u>Der nasse Fisch</u>',   
 	'Rath fummelte seine letzte Overstolz aus der Packung, als er am Ufer angekommen war, und schaute auf die Uhr. Im Schatten der Bäume, die die Uferpromenade <strong>säumten</strong>, stand eine Bank, auf die er sich setzte. (<i>Der nasse Fisch</i>, 112)' ,
 	'Zur Adresse der Wolters war es vom Bahnhof aus nicht weit, nur ein kurzer Fußweg. Die Fregestraße, eine ruhige Straße, von Bäumen <strong>gesäumt</strong>, die Hausfassaden strahlten solide Bürgerlichkeit aus. (<i>Der nasse Fisch</i>, 165)',
-//	'<u>Der stumme Tod</u>',   
+	'<u>Der stumme Tod</u>', 
+	'Eine lange Backsteinmauer <strong>säumte</strong> das Gelände. (<i>Der stumme Tod</i>, 22)',  
 	'<u>Märzgefallene</u>',    
 	'Steinerne Soldatenstandbilder <strong>säumten</strong> die Kaiser-Wilhelm-Brücke, alle möglichen Uniformen aus Preußens ruhmreicher Vergangenheit waren vertreten, nur nicht Preußens jüngste Soldatengeneration. (<i>Märzgefallene</i>, 244)',
 	'"Was war das denn für ein Mann, der das Mädchen erkannt hat?", fragte sie.. "Wie einer von denen?" Charly zeigte auf die Bettler, die den Bahnhof <strong>säumten</strong>. (<i>Märzgefallene</i>, 296)',
@@ -525,6 +592,8 @@ schlängeln: [
 	'<u>Der nasse Fisch</u>', 
 	'Vor dem Zentralflughafen Tempelhof staute sich auch um diese Zeit der Verkehr. Rath <strong>schlängelte sich</strong> an dem Gewimmel vorbei und fuhr weiter nach Neukölln. (<i>Der nasse Fisch</i>, 507)',  
 	'Rath nickte. In dem Stimmengewirr um sie herum war es schwierig, sich verständlich zu machen. Kaum zu glauben, dass in dem Chaos überhaupt jemand bedient wurde. Aber die Kellner <strong>schlängelten sich</strong> mit erhobenen Tabletts hindurch wie Zirkusartisten. (<i>Der nasse Fisch</i>, 538)',
+	'<u>Der stumme Tod</u>',
+	'Der schwer bepackte Henning musste aufpassen, dass er nicht stolperte, überall <strong>schlängelten sich</strong> Kabel über den Boden, andere waren quer durch den Raum gespannt. (<i>Der stumme Tod</i>, 22)',
 ],
 Gewirr: [
 	'das <strong>Gewirr</strong>,-<strong>e</strong>: tangle, babble, jumble, confusion'+
@@ -3501,8 +3570,10 @@ schmächtig: [
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmaechtig"target="target1">schmächtig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schm%C3%A4chtig"target="target2">schmächtig</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmachtig"target="target3">schmächtig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schm%C3%A4chtig"target="target4">schmächtig</a>',
 	'<u>Der nasse Fisch</u>',
-	'"Suchen Sie irjendwen?" Der Mann war klein und <strong>schmächtig</strong>. Sein Hut wirkte auf dem hageren Gesicht viel zu groß.  (<i>Der nasse Fisch</i>, 49)',   
+	'"Suchen Sie irjendwen?" Der Mann war klein und <strong>schmächtig</strong>. Sein Hut wirkte auf dem hageren Gesicht viel zu groß. (<i>Der nasse Fisch</i>, 49)',   
 	'Der Mann vor ihm (<i>Rath</i>) trug eine braune Uniform... Ansonsten sah er nicht besonders martialisch aus. Eher klein und <strong>schmächtig</strong>. Wie ein Buchhalter. (<i>Der nasse Fisch</i>, 481)',
+	'<u>Der stumme Tod</u>',
+	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der <strong>schmächtige</strong> Kriminalassistent manövrierte die Kamera mit dem sperrigen Stativ hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
 	'<u>Märzgefallene</u>', 
 	'"Sie wollen auch alle zu Herrn Rubens (<i>von Roddek</i>)?", fragte er (<i>Rath</i>) die wartende Journalistenmeute.. "Da muss man schon Geduld mitbringen", sagte Raths Nachbar, ein <strong>schmächtiges</strong> Männlein, das sich seinen Presseausweis nach amerikanischer Manier ins Hutband gesteckt hatte. (<i>Märzgefallene</i>, 329)' ,
 	'<u>Lunapark</u>',
@@ -9505,6 +9576,8 @@ Gelände:[
 	'An diesen schmalen Oberlichtern postierte er (<i>Marlow</i>) normalerweise seine Wachen. Von hier aus hatte man das ganze <strong>Gelände</strong> im Blick, ohne selbst gesehen zu werden. (<i>Der nasse Fisch</i>, 518)',
 	'Als die Männer die Laderampe erreichten, trat Fred unten aus dem Schatten. "Guten Abend", sagte er. "Sie betreten gerade Privat<strong>gelände</strong>. Darf ich fragen, was Sie hier suchen?" Der Anfürer zückte einen Ausweis. "Kriminalpolizei", sagte er... "Tut mir leid. Aber wenn Sie keinen Durchsuchungsbefehl haben, darf ich Sie bitten, das <strong>Gelände</strong> wieder zu verlassen." (<i>Der nasse Fisch</i>, 519)',
 	'Die Männer, die draußen in den Lastwagen warteten, mussten auch noch verhaftet werden. Nur Marlows Leute wurden verschont.. Und ihr Chef, Inhaber einer Importfirma, hatte der Polizei sogar geholfen, die Falle aufzubauen, und dafür sein <strong>Gelände</strong> auf dem Güterbahnhof zur Verfügung gestellt. (<i>Der nasse Fisch</i>, 527)',
+	'<u>Der stumme Tod</u>', 
+	'Eine lange Backsteinmauer säumte das <strong>Gelände</strong>. (<i>Der stumme Tod</i>, 22)',  
 	'<u>Märzgefallene</u>',
 	'Der gepflasterte Weg, auf dem sie (<i>Felix und Hannah</i>) stehengeblieben waren, sah aus wie eine Mischung aus Fabrik<strong>gelände</strong> und Hinterhof.... (<i>Märzgefallene</i>, 394)',
 	'Schilder warnten davor, das <strong>Gelände</strong> zu betreten. (<i>Märzgefallene</i>, 601-602)',
@@ -11257,6 +11330,8 @@ Kittel: [
 	'(<i>Doktor</i>) Völcker schien die Ironie in Schwartz\' Worten nicht bemerkt zu haben... Jedenfalls gab er sich mit diesen Worten zufrieden und setzte sich auf eine Holzbank, die an der gekachelten Wand stand. Die beiden Weiß<strong>kittel</strong> verschwanden. Ohne Leichen. (<i>Der nasse Fisch</i>, 86)',
 	'Rath wurde aus seinen Gedanken gerissen, als die Schwingtür aufgestoßen wurde und Doktor Schwartz mit energischen Schritten und wehendem <strong>Kittel</strong> in den Gang trat.  (<i>Der nasse Fisch</i>, 293)',
 	'Er (<i>Rath</i>) schaute zu, wie Schwartz ans Waschbecken ging und sich gründlich die Hände wusch. Auf seinem weißen <strong>Kittel</strong> waren nur weniger Blutspritzer zu sehen.  (<i>Der nasse Fisch</i>, 294)',
+	'<u>Der stumme Tod</u>', 
+	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeits<strong>kitteln</strong>. (<i>Der stumme Tod</i>, 23)', 
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) verstummte, denn die Tür hatte sich mit einem leisen Knarren geöffnet. Eine Pflegerin im gestärkten weißen <strong>Kittel</strong> stand im Türrahmen....  (<i>Märzgefallene</i>, 43)',
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei <strong>Kittel</strong>schürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
@@ -11622,8 +11697,9 @@ krabbeln: [
 	'...des Nachts wollte er (<i>Felix</i>) eine Gegenleistung für seine Freigiebigkeit, und Hanah war nicht bereit, ihm diese zu gewähren. Das Schlimme war, dass sie immerfort, wenn er sie anfasste, an die <strong>Krähen</strong> denken musste. Die sich genommen hatten, was sie wollten, wenn sie nur besoffen genug waren. (<i>Märzgefallene</i>, 391)' ,
 	'Sie (<i>Hannah</i>) drehte sich um, und tatsächlich: Da stand er und verzog die Narben in seinem Gesicht zu einem Grinsen.... Sie hatte keine Zeit, darüber nachzudenken, denn da war er auch schon bei ihr, erstaunlich schnell... Huckebein war immer noch flink, immer noch stark. Ein Soldat eben. Wie er schon im <strong>Krähen</strong>nest der Flinkste und Stärkste gewesen war, trotz seines schlimmen Beines. Er hatte sie in die Ecke gedrängt. In seiner Rechten hielt er den langen Dolch, mit dem er vor den <strong>Krähen</strong> immer geprahlt hatte. (<i>Märzgefallene</i>, 399)',
 	'Hannah wehrte sich nach Kräften, doch wie schon damals im <strong>Kähen</strong>nest hatte sie keine Chance. Er schaffte es nach einer Kurzen, wortlosen Rangelei, sie auf den Rücken zu zwingen und sich auf ihre Arme zu knien. Hannah strampelte mit den Beinen, doch es half nichts, er hatte sie in seiner Gewalt. (<i>Märzgefallene</i>, 400)',
-	'Alle Männer, mit denen sie (<i>Hannah</i>) es hier zu tun hatte, hatten schon einmal getötet. Im Krieg oder sonstwo. Sie konnte so etwas sehen, auch im <strong>Krähen</strong>nest hatte sie es sehen können....  (<i>Märzgefallene</i>, 434)' ,
-	'"Warum wollte dieser Mann dich (<i>Hannah</i>) töten?", fragte sie (<i>Charly</i>) schließlich... "Du kanntest ihn aus dem <strong>Krähen</strong>nest, nicht wahr? Hat er dich misshandelt? Kannst du mir seinen Namen nennen?"  (<i>Märzgefallene</i>, 435)' ,
+	'Alle Männer, mit denen sie (<i>Hannah</i>) es hier zu tun hatte, hatten schon einmal getötet. Im Krieg oder sonstwo. Sie konnte so etwas sehen, auch im <strong>Krähen</strong>nest hatte sie es sehen können.... (<i>Märzgefallene</i>, 434)',
+	'"Warum wollte dieser Mann dich (<i>Hannah</i>) töten?", fragte sie (<i>Charly</i>) schließlich... "Du kanntest ihn aus dem <strong>Krähen</strong>nest, nicht wahr? Hat er dich misshandelt? Kannst du mir seinen Namen nennen?" (<i>Märzgefallene</i>, 435)',
+	'Die Schmerzen in der Seite waren anfangs.. unerträglich gewesen. Sie hatten ihr Mittel dagegen gegeben, Morphium. Sie hatten nichts dergleichen gesagt, sie mussten es ihr über die Infusionsflasche verabreicht haben, die am Galgen neben ihrem Bett hing, doch Hannah hatte Schwester M sofort wiedererkannt, ihre alte Verbündete, die sie die letzten Tage im <strong>Krähen</strong>nest allein noch hatte ertragen lassen. (<i>Märzgefallene</i>, 461)',
 	'Frauen hatte sie (<i>Hannah</i>) hier immer noch keine einzige gesehen, bis auf die Polizistin, die vor ein paar Tagen neben ihrem Bett gesessen und Fragen gestellt hatte. Fragen, die den Knoten in ihrer Zunge nur fester gezurrt hatten. Sie konnte nicht reden über Huckebein und über die <strong>Krähen</strong> und alles, was die Schweine ihr angetan hatten  (<i>Märzgefallene</i> 462)' ,
 	'<i>Charly</i>.. holte ein Foto aus der Tasche. "Kennst du diesen Mann?" Hannah schüttelte den Kopf. "Er heißt Achim von Roddeck. Vielleicht hast du ihn mal zusammen mit Wosniak gesehen. Oder er ist ins <strong>Krähen</strong>nest gekommen..." "Nein", sagte Hannah... Den blonden arrogant guckenden Schnösel in der Leutnantsuniform hatte sie wirklich noch nie gesehen. Unvorstellbar, dass so einer jemals im <strong>Krähen</strong>nest aufgetaucht wäre, geradezu lachhaft. Im <strong>Krähen</strong>nest hatten andere Leute gehaust, ehemalige einfache Frontsoldaten, von Leuten wie diesem Schnösel... immer wieder in die Schlacht geworfen und zu körperlichen und seelischen Krüppeln gemacht.... (<i>Märzgefallene</i>, 466-67)',
 	'(<i>Gereon</i>): "Wie passt dann der Mord an Krumbiegel in diese Geschichte?" Charly hatte auch darauf eine Antwort. "Ein Identitätstausch... Wosniak wollte von der Bildfläche verschwinden. Und da sein früherer Kumpel (<i>Krumbiegel</i>) von den Brandwunden des <strong>Krähen</strong>nestes genauso entstellt war und keinerlei Angehörige hatte, war er das ideale Opfer." (<i>Märzgefallene</i>, 469)',
@@ -12228,6 +12304,8 @@ lugen: [
 	'Hier auf dem Tisch sah der tote Mann anders aus als gestern draußen am Kanal. Böhm warf einen Blick auf die Leiche, nur der Kopf über das weiße Baumwolltuch <strong>lugte</strong>.... (<i>Der nasse Fisch</i>, 81)',
 	'Rath ging zum Fenster und <strong>lugte</strong> vorsichtig am Vorhang vorbei. (<i>Der nasse Fisch</i>, 152)',
 	'<i>der Arbeiter, der das Bein gesehen hat</i>: "..Und da war da plötzlich ein Bein im Beton. Da hamwa Ihnen natürlich sofort jerufen, Herr Kriminalrat." <i>Rath</i>: "Kommissar." "Wie Se meenen." Erst als sie die Baugrube umrundet hatten und oben auf der Böschung standen, konnte man es sehen. Ein paar Meter hinter den Schupos, die da unten standen, <strong>lugte</strong> etwas Schwarzes aus dem Beton,.. offensichtlich ein Hosenbein. (<i>Der nasse Fisch</i>, 282)',  
+	'<u>Der stumme Tod</u>',
+	'Eine zweite Kamera stand mitsamt Stativ auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) heraus<strong>lugte</strong>. (<i>Der stumme Tod</i>, 22)',
 	'<u>Märzgefallene</u>',
 	'Sie (<i>die wilde Hilde</i>) machte große Augen, als er (<i>Gereon</i>) durch die Tür <strong>lugte</strong>. (<i>Märzgefallene</i>, 302)' ,
 	'Porzellan klimperte, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das Knistern des Papiers zu hören. Charly <strong>lugte</strong> über den Rand ihrer Zeitung und sah Fritze, der seine letzte Schrippe für diesen Morgen verdrückte.... (<i>Märzgefallene</i>, 500)',
@@ -14222,6 +14300,8 @@ sperrig: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sperrig"target="target3">sperrig</a> &nbsp;<a href="https://www.verbformen.com/?w=sperrig"target="target4">sperrig</a>',
 	'<u>Der nasse Fisch</u>', 
 	'Als er (<i>Rath</i>) den schweren Koffer und den <strong>sperrigen</strong> Karton auf die Nürnberger Straße schleppte, hörte er, wie oben das Fenster aufging. <i>Sein</i> Fenster. Elisabeth Behnke schaute hinaus. Geldscheine flatterten auf den Gehweg, ein Damenstrumpf segelte hinterher. Wortlos schlug sie das Fenster wieder zu. (<i>Der nasse Fisch</i>, 332)',
+	'<u>Der stumme Tod</u>',
+	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der schmächtige Kriminalassistent manövrierte die Kamera mit dem <strong>sperrigen</strong> Stativ hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
 	'<u>Lunapark</u>', 
 	'Rath wurde seine Wut einfact nicht los. Wie ein <strong>sperriger</strong> Widerhaken saß sie fest und wollte nicht weichen, sosehr er das Gaspedal auch durchtrat. (<i>Lunapark</i>, 66)',
 ],
@@ -16047,8 +16127,12 @@ Stativ: [
 	'das <strong>Stativ</strong>,-<strong>e</strong>: tripod'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stativ"target="target1">Stativ</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Stativ"target="target2">Stativ</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stativ?q=Stativ"target="target3">Stativ</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Stativ"target="target4">Stativ</a>',
+	'<u>Der stumme Tod</u>',
+	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der schmächtige Kriminalassistent manövrierte die Kamera mit dem sperrigen <strong>Stativ</strong> hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
+	'Alles hier war vollgestopft mit technischem Gerät. Scheinwerfer auf <strong>Stativen</strong>, dazwischen ein verglaster Kasten, der an einen schmucklosen Beichtstuhl erinnerte. (<i>Der stumme Tod</i>, 22)',
+	'Eine zweite Kamera stand mitsamt <strong>Stativ</strong> auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. (<i>Der stumme Tod</i>, 22)',
+	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. Der einzige Mensch, der einen zu dieser Umgebung passenden Abendanzug trug, saß etwas abseits auf einem der Klappstühle, die rings um das Parkett zwischen Scheinwerfer<strong>stativen</strong> und Kabelsträngen standen, ein blonder Mann, der sein Gesicht in den Armen verborgen hatte. (<i>Der stumme Tod</i>, 23)', 
 	'<u>Märzgefallene</u>',
-	'Kommissaranwärter Steinke näherte sich mit dem Fotoapparat, die unhandliche Kamera unter den Arm geklemmt, das schwere <strong>Stativ</strong> geschultert. (<i>Märzgefallene</i>, 12)',
 	'<u>Lunapark</u>',
 	'Zwei Männer in Zivil sprachen gerade mit einem Hauptwachtmeister, einer hatte einen altertümlichen Fotoapparat mitsamt Holz<strong>stativ</strong> geschultert, der andere einen Notizblock gezückt. (<i>Lunapark</i>, 15)',
 	'<u>Marlow</u>',
@@ -18168,6 +18252,8 @@ wuchten: [
 	'Er (<i>Rath</i>) hielt ihr (<i>Frau Schäffner</i>) die Tür zum Hof auf, und sie <strong>wuchtete</strong> ihren Körper hindurch. (<i>Der nasse Fisch</i>, 235)',
 	'Die Spurensicherung war inzwischen wieder aus dem Grab gestiegen, nun hatte Kriminalassistent Reinhold Gräf den Fotoapparat hinunter<strong>gewuchtet</strong> und machte einige Nahaufnahmen. (<i>Der nasse Fisch</i>, 408)',
 	'Rath stieg aus. Der Mayback fuhr wieder an, wendete und hielt auf der anderen Straßenseite vor dem Hotel <i>Continental</>. Ein Boy öffnete, und Zörgiebel <strong>wuchtete<strong> seinen Körper aus dem Wagen. (<i>Der nasse Fisch</i>, 506-07)',
+	'<u>Der stumme Tod</u>',
+	'Hinter Rath keuchte es. Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel <strong>gewuchtet</strong> hatte. (<i>Der stumme Tod</i>, 22)',
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und <strong>wuchtete</strong> seinen Pappkarton durch die Tür. (<i>Märzgefallene</i>, 540)',
 	'<u>Lunapark</u>',
@@ -19500,7 +19586,8 @@ entgleisen  Der nasse Fisch 404
 ä  Ä  ö  Ö  ü  Ü   ß               
  'funkelnd'  ;   Nworte++;    Märzgefallene   162
  'Garderobenleiste'  ;   Nworte++;   83        coat rack, hanger
- Geballere  Der nasse Fisch 72  
+ Geballere  Der nasse Fisch 72 
+ Gebirge Der stumme Tod 22 
   gefliest  Lunapark 39 
 Geheiß:   Lunapark 57
  geigen Meinung geigen  Der nasse Fisch 86 Lunapark 196

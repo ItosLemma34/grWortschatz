@@ -19,6 +19,7 @@ const t = [
    'Tracht Prügel', // 
    'tranchieren', // tranchieren: 
    'Trasse',  // Trasse:  
+   'Traube, Menschentraube',   // duplicated
    'Trauerkloß',  // Trauerkloß:  
    'Tresen',  // Tresen:  
    //'ins Kreuz treten  Tritt ins Kreuz'  ;   Nworte++;    Märzgefallene   111    German definition not found; entry in worte_T.js started, not finished
@@ -28,7 +29,8 @@ const t = [
    'triezen',  // triezen: 
    'trippeln', // trippeln: 
    'Trockenen (auf dem  T. sitzen)', // duplicated 
-   'trollen',   // trollen:  
+   'trollen',   // trollen: 
+   'Tropen',  // Tropen: 
    'Tropf',  // Tropf:  
    'tröpfeln',  // tröpfeln: 
    'Tropfen, tropfen', //     

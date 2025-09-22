@@ -16,12 +16,14 @@ const r = [
    'Rätselraten', // Rätselraten: 
    'rattern',  // rattern:              
    'Räuberpistole',  // Räuberpistole: 
+   'Räuberzivil', // Räuberzivil:
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
    'Raunen, raunen',  
    'Raureif', // Raureif: 
    'Rechen',  // Rechen: 
    'recken',  // recken:  
+   'Regler', // Regler:
    'Reim (keinen R. machen', //  duplicated 
    'Reine (ins R.)', // duplicated 
    'Reinfall', // Reinfall:  

@@ -33,7 +33,7 @@ const s = [
    'Schieblehre', // Schieblehre:  
    'Schiefertafel', // Schiefertafel: 
    'schielen',  // schielen:
-   'Schienenstrang, Strang', // duplicated 
+//   'Schienenstrang, Strang', // duplicated 
    'schikanieren', // schikanieren: 
    'Schilde (im S. führen)', //  duplicated  
    'Schimmel, (ver)schimmeln', // 
@@ -205,7 +205,7 @@ const s = [
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 
    'strampeln',  // strampeln: 
-   'Strang, Schienenstrang', // duplicated 
+   'Strang, Schienen-, Kabel-',  
    'Stränge (über die S. schlagen)',  // duplicated 
    'Strauch, Gesträuch',  // duplicated 
    'Strebe', // Strebe: 

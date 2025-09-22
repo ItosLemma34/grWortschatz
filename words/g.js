@@ -1,5 +1,6 @@
 const g = [
-   'Gage',  // Gage:  
+   'Gage',  // Gage:
+   'Galgen', // Galgen:  
    'Ganove', // Ganove:  
    'Gänsehaut', // Gänsehaut: 
    'Gassi gehen',  // 

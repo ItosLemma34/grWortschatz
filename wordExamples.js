@@ -17,6 +17,18 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
+einhüllen: [  
+	'<strong>einhüllen</strong>: cloak, envelop, wrap sth. in sth.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">einhüllen</a>&nbsp;&nbsp;<a href=""target="target2">einhüllen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">einhüllen</a>&nbsp;&nbsp;<a href=""target="target4">einhüllen</a>',
+	'<u>Der stumme Tod</u>',   
+	'Zu Gräfs Füßen glänzte dunkelgrüne Seide in beinah elegantem Faltenwurf, drapiert wie für ein Gemälde, in Wirklichkeit jedoch einen unnatürlich gekrümmten Frauenkörper <strong>einhüllend</strong>. (<i>Der stumme Tod</i>, 23)',
+	'<u>Märzgefallene</u>',
+	'Berthold Weinert saß <strong>eingehüllt</strong> in eine warme Decke in seinem Dachzimmer in der Schumannstraße, nippte hin und wieder an einem Glas Grog und starrte auf das Blatt Papier in seiner Schreibmaschine... (<i>Märzgefallene</i>, 53)',    
+	'Sie (<i>Charly</i>) wischte die Träne aus dem Augenwinkel und ging zur Tür. Und war überrascht, als sie einen bulligen Mann dort stehen sah, <strong>eingehüllt</strong> in einen dunklen Mantel, auf dem Kopf einen Bowler. (<i>Märzgefallene</i>, 488)',
+//	'<u>Marlow</u>',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Räuberzivil: [  
 	'das <strong>Räuberzivil</strong>: scruffy old clothes'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Raeuberzivil"target="target1">Räuberzivil</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/R%C3%A4uberzivil"target="target2">Räuberzivil</a>'+
@@ -33,6 +45,7 @@ Räuberzivil: [
 	'<u>Der stumme Tod</u>', 
 	'Ebenso deplatziert wirkte die <strong>Menschentraube</strong> inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. (<i>Der stumme Tod</i>, 23)', 
 	'Ab und zu schluchzte der Mann laut auf, das einzige vernehmbare Geräusch hier, denn in der <strong>Traube</strong> auf dem Parkett sprachen alle so leise, als werde hier tatsächlich noch ein Tonfilm gedreht... (<i>Der stumme Tod</i>, 23)',
+	'Rath drängte sich hinter Henning an einem sperrigen Scheinwerferstativ vorbei auf die Szene. Er nickte dem Kriminalassistenten zu, und der ließ das schwere Kamerastativ so laut auf den Boden knallen, das sich alles umdrehte. Die <strong>Menschentraube</strong> lichtete sich etwas, und Rath erkannte Gräf neben zwei Schupos. (<i>Der stumme Tod</i>, 23)',
 ],
 'Traube, Menschentraube': [  
 	'die <strong>Traube</strong>,-<strong>n</strong>: cluster, bunch of; grape'+
@@ -42,6 +55,7 @@ Räuberzivil: [
 	'<u>Der stumme Tod</u>', 
 	'Ebenso deplatziert wirkte die <strong>Menschentraube</strong> inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. (<i>Der stumme Tod</i>, 23)', 
 	'Ab und zu schluchzte der Mann laut auf, das einzige vernehmbare Geräusch hier, denn in der <strong>Traube</strong> auf dem Parkett sprachen alle so leise, als werde hier tatsächlich noch ein Tonfilm gedreht... (<i>Der stumme Tod</i>, 23)',
+	'Rath drängte sich hinter Henning an einem sperrigen Scheinwerferstativ vorbei auf die Szene. Er nickte dem Kriminalassistenten zu, und der ließ das schwere Kamerastativ so laut auf den Boden knallen, das sich alles umdrehte. Die <strong>Menschentraube</strong> lichtete sich etwas, und Rath erkannte Gräf neben zwei Schupos. (<i>Der stumme Tod</i>, 23)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Galgen: [  
@@ -5653,6 +5667,7 @@ abknallen: [
 	'"Junger Freund, ich weiß nicht, ob Ihnen das zur Genüge klar ist", hatte Böhm ihn (<i>Rath</i>) angeraunzt, "aber ich leite hier die Ermittlungen. Und ich brauche niemanden, der mir Hinweise gibt!" Rath hatte ihm den Ordner auf den Tisch <strong>geknallt</strong> und war grußlos gegangen. (<i>Der nasse Fisch</i>, 330)',
 	'<u>Der stumme Tod</u>',
 	'Genau jetzt die Ohrfeige. Sie (<i>Betty</i>) spürte, wie sie sein (<i>Victors</i>) Gesicht traf. Nun hatte sie doch zu fest zugeschlagen!.. Umso realistischer würde ihr Streit wirken. Da erst fiel ihr auf, dass etwas nicht stimmte. Kein Donner. Stattdessen ein helles metallenes Geräusch, ein leises <i>Pling</i>; hinter ihr musste ein kleines Metallteil auf den Boden <strong>geknallt</strong> sein. (<i>Der stumme Tod</i>, 13)',
+	'Rath drängte sich hinter Henning an einem sperrigen Scheinwerferstativ vorbei auf die Szene. Er nickte dem Kriminalassistenten zu, und der ließ das schwere Kamerastativ so laut auf den Boden <strong>knallen</strong>, das sich alles umdrehte. (<i>Der stumme Tod</i>, 23)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Wo willst du hin?" Er (<i>Gereon</i>) antwortete nicht, er griff Kirie ins Halsband und zog den Hund in den Flur, holte Hundeleine, Hut und Mantel vom Garderobenhaken und <strong>knallte</strong> die Wohnungstür. (<i>Märzgefallene</i>, 178)',
 	'<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner <strong>knallten</strong> dann die Hacken zusammen. (<i>Märzgefallene</i>, 232)',                
@@ -7040,6 +7055,8 @@ Blase: [
 	'Er (<i>Rath</i>) musste sehen, dass er zum Wagen zurückkam, er hatte Gräf viel zu lange allein gelassen. Hoffentlich hatte der Kriminalassistent keine schwache <strong>Blase<strong>. (<i>Der nasse Fisch</i>, 474)',
 	'Wo zum Teufel trieb sich der Kriminalassistent herum? Hatte er tatsächlich Druck auf der <strong>Blase</strong> verspürt und es nicht mehr aushalten können? (<i>Der nasse Fisch</i>, 478)',
 	'Nach ein paar Wasserduschen ließ das Dampfen nach, doch der Anblick des geschundenen Mannes war umso schrecklicher. Die Kleidung hing nur noch in Fetzen an Wolters Körper. Seine Haut war stark gerötet, zum Teil hatten sich <strong>Blasen</strong> gebildet, an vielen Stellen hatte sie sich gelöst, und man konnte das rohe Fleisch sehen. (<i>Der nasse Fisch</i>, 526-27)',
+	'<u>Der stumme Tod</u>',
+	'Zu Gräfs Füßen glänzte dunkelgrüne Seide in beinah elegantem Faltenwurf, drapiert wie für ein Gemälde, in Wirklichkeit jedoch einen unnatürlich gekrümmten Frauenkörper einhüllend. Unmöglich, das Gesicht zu erkennen, zur Hälfte war es völlig entstellt, verkohlte Haut, rohes Fleisch, aufgeplatze Brand<strong>blasen</strong>. (<i>Der stumme Tod</i>, 23)',
 ],	
 'Blöße, sich keine B. geben': [ 
 	'die <strong>Blöße</strong>,-<strong>n</strong>: bareness, nakedness; clearing'+
@@ -8051,6 +8068,9 @@ entstellen: [
 	'<u>Der nasse Fisch</u>',
 	'<i>Doktor Schwartz</i>: "...was soll man mit so einer Kiste (<i>dem Horch</i>), wenn sie nicht auf der Straße bleib und im Kanal landet..." <i>Böhm</i>: "Ich glaube, das hat weniger mit dem Wagen zu tun als mit der Fahrtüchtigkeit des Fahrers." Böhm zeigte auf die <strong>entstellten</strong> Hände des Toten. "Kann man an so was sterben, Doktor?" (<i>Der nasse Fisch</i>, 64-65)',
 	'Am Nebentisch standen zwei Männer auf. Das Gesicht des einen war durch eine lange Narbe <strong>entstellt</strong>, die quer über die ganze Wange ging. (<i>Der nasse Fisch</i>, 96)',
+	'<u>Der stumme Tod</u>',
+	'Zu Gräfs Füßen glänzte dunkelgrüne Seide in beinah elegantem Faltenwurf, drapiert wie für ein Gemälde, in Wirklichkeit jedoch einen unnatürlich gekrümmten Frauenkörper einhüllend. Unmöglich, das Gesicht zu erkennen, zur Hälfte war es völlig <strong>entstellt</strong>, verkohlte Haut, rohes Fleisch, aufgeplatze Brandblasen. (<i>Der stumme Tod</i>, 23)',
+	'<i>Rath</i>: "Wer?" Gräf schaute ungläubig. "Betty Winter. Sag bloß, die kennst du nicht?" Rath zuckte mit den Schultern. "Müsste das Gesicht sehen." "Besser nicht. Ist total <strong>entstellt</strong>." (<i>Der stumme Tod</i>, 24)',
 	'<u>Märzgefallene</u>',
 	'"Jau. Det is Kartoffel." Breizke sagte das ungerührt...." "Der Spitzname passt", sagte Böhm. "Was hat den armen Kerl so <strong>entstellt</strong>?" (<i>Märzgefallene</i>, 15)',
 	'Linus Meifert sah deutlich weniger gruselig aus als der von Brandwunden <strong>entstellte</strong> Heinrich Wosniack, außdem besser genährt. (<i>Märzgefallene</i>, 267)',
@@ -9401,6 +9421,8 @@ Gerümpel: [
 	'<u>Der stumme Tod</u>',
 	'Sie (<i>Betty</i>) sah die Tücher und Stahl<strong>gerüste</strong> an der Studiodecke, Victors entsetztes Gesicht, das sie anstarrte, bevor es aus ihrem Blickfeld verschwand. (<i>Der stumme Tod</i>, 13)',
 	'"Ein Unfall", sagte er (<i>Rath</i>). "Hört sich ja spannend an. Was für ein Atelier war das gleich noch?" <i>Böhm</i>: "Terra. Filmfritzen. Irgendjemand vom <strong>Gerüst</strong> gefallen oder so..." (<i>Der stumme Tod</i>, 19)',
+	'Rath legte den Kopf in den Nacken. Unter der Decke hing ein stählernes <strong>Gerüst</strong>, ein Netz von Laufgittern, an denen ganze Batterien von unterschiedlich großen Scheinwerfern angebracht waren... (<i>Der stumme Tod</i>, 24)',
+//  xxx
 	'<u>Märzgefallene</u>',
 	'...der Mann hatte ihn (<i>Rath</i>) in die erste Etage geführt, in eine Art Salon, und ihn gebeten zu warten. Seitdem stand Rath hier, rauchte und schaute hinaus in den beginnenden Tag. Nach Norden hin versperrte ein moderner, noch <strong>eingerüsteter</strong> Neubau die Sicht, direkt vor dem Haus Heinen aber war das Rheinpanorama unverbaut. (<i>Märzgefallene</i>, 283)',
 	'<u>Lunapark</u>',
@@ -11860,6 +11882,8 @@ krümmen: [
 	'<u>Der nasse Fisch</u>',
 	'Er schrie, noch bevor er mit dem Oberkörper auf den Betonboden klatschte.. Er <strong>krümmte sich</strong> am Boden, sein Atem hechelte, als das Pochen und Stechen wieder etwas nachließen. (<i>Der nasse Fisch</i>, 12)',
 	'<i>Rath träumt</i>: Er konnte nicht anders, er musste schießen.. Immer wieder zog sein Zeigefinger den Abzug durch, doch die Mauser gab nur ein Klacken von sich. Klack, klack, klack, machte es, während der andere seelenruhig zielte und den Zeigefinger <strong>krümmte</strong>. Langsam.. zog er den Abzug zurück... (<i>Der nasse Fisch</i>, 37)',
+	'<u>Der stumme Tod</u>',
+	'Zu Gräfs Füßen glänzte dunkelgrüne Seide in beinah elegantem Faltenwurf, drapiert wie für ein Gemälde, in Wirklichkeit jedoch einen unnatürlich <strong>gekrümmten</strong> Frauenkörper einhüllend. (<i>Der stumme Tod</i>, 23)',
 	'<u>Märzgefallene</u>',
 	'Der SA-Mann baute sich vor ihm auf und rammte ihm, ohne den Blick abzuwenden, ansatzlos den Gummiknüppel in die Magengrube. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 111)',
 	'Während er (<i>der Mappenmann</i>) seine Mappe auf den Schreibtisch legte, trat Katsche aus seiner dunklen Ecke und stellte sich neben Leos Stuhl. Ohne Vorwarnung gab er dem Gefangenen einen trockenen Schlag auf die Leber. Leo <strong>krümmte sich</strong> vor Schmerz. (<i>Märzgefallene</i>, 112)',
@@ -14302,6 +14326,7 @@ sperrig: [
 	'Als er (<i>Rath</i>) den schweren Koffer und den <strong>sperrigen</strong> Karton auf die Nürnberger Straße schleppte, hörte er, wie oben das Fenster aufging. <i>Sein</i> Fenster. Elisabeth Behnke schaute hinaus. Geldscheine flatterten auf den Gehweg, ein Damenstrumpf segelte hinterher. Wortlos schlug sie das Fenster wieder zu. (<i>Der nasse Fisch</i>, 332)',
 	'<u>Der stumme Tod</u>',
 	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der schmächtige Kriminalassistent manövrierte die Kamera mit dem <strong>sperrigen</strong> Stativ hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
+	'Rath drängte sich hinter Henning an einem <strong>sperrigen</strong> Scheinwerferstativ vorbei auf die Szene. (<i>Der stumme Tod</i>, 23)',
 	'<u>Lunapark</u>', 
 	'Rath wurde seine Wut einfact nicht los. Wie ein <strong>sperriger</strong> Widerhaken saß sie fest und wollte nicht weichen, sosehr er das Gaspedal auch durchtrat. (<i>Lunapark</i>, 66)',
 ],
@@ -16132,6 +16157,7 @@ Stativ: [
 	'Alles hier war vollgestopft mit technischem Gerät. Scheinwerfer auf <strong>Stativen</strong>, dazwischen ein verglaster Kasten, der an einen schmucklosen Beichtstuhl erinnerte. (<i>Der stumme Tod</i>, 22)',
 	'Eine zweite Kamera stand mitsamt <strong>Stativ</strong> auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. (<i>Der stumme Tod</i>, 22)',
 	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. Der einzige Mensch, der einen zu dieser Umgebung passenden Abendanzug trug, saß etwas abseits auf einem der Klappstühle, die rings um das Parkett zwischen Scheinwerfer<strong>stativen</strong> und Kabelsträngen standen, ein blonder Mann, der sein Gesicht in den Armen verborgen hatte. (<i>Der stumme Tod</i>, 23)', 
+	'Rath drängte sich hinter Henning an einem sperrigen Scheinwerfer<strong>stativ</strong> vorbei auf die Szene. Er nickte dem Kriminalassistenten zu, und der ließ das schwere Kamera<strong>stativ</strong> so laut auf den Boden knallen, das sich alles umdrehte. (<i>Der stumme Tod</i>, 23)',
 	'<u>Märzgefallene</u>',
 	'<u>Lunapark</u>',
 	'Zwei Männer in Zivil sprachen gerade mit einem Hauptwachtmeister, einer hatte einen altertümlichen Fotoapparat mitsamt Holz<strong>stativ</strong> geschultert, der andere einen Notizblock gezückt. (<i>Lunapark</i>, 15)',
@@ -19490,6 +19516,7 @@ if you don't find a Redewendung by its first word, look for it under one of its 
  abprallen Lunapark 537 
  abrasiert  Der nasse Fish 485  
  Abreibung   Der nasse Fisch 429   Märzgefallene   458
+absengen Der stumme Tod 23
  abserviert Lunapark 24
  absondern  in Lobhudelei;  Märzgefallene
  abstehen Lunapark 104
@@ -19720,6 +19747,7 @@ schwuchtel Märzgefallene  554
  unversehrt Marlow 34
  Verätzungen  Der nasse Fisch 540
  verhökert  Der nasse Fisch 517
+ verkohlen Der stumme Tod 23
  zerreisen (?) Der nasse fisch 473
  zucken  Der nasse Fisch 471
  Zuhälter Der nasse Fisch  457

@@ -100,6 +100,7 @@ const b = [
     'bumsen',  // bumsen: 
     'Bursche',  // Bursche: 
     'Busch, Gebüsch', //  duplicated 
+    'Büttel', // Büttel:
     'bützen',  // bützen:  
 ];
 

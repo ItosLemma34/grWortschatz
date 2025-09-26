@@ -18,6 +18,7 @@ const s = [
    'Schar',  // Schar:  
    'Scharfmacher', // Scharfmacher:   
    'schassen',   // schassen:  
+   'Schauder, schaudern', 
    'schauern, erschauern',  // duplicated 
    'schaufeln, Schaufel',  // 
    'Schaukasten', // Schaukasten:   
@@ -172,7 +173,7 @@ const s = [
    'Sprung (auf dem S.)',  //  duplicated  
    'Speichel',  // Speichel:  
    'Sprosse',  // Sprosse:  
-   'spülen, Spülung, Spüle, Spülbürste', // 
+   'spülen; Spül -ung, -e, -stein, -bürste', // 
    'Spund', // Spund:  
    'spuren',  // spuren: 
    'sputen', // sputen: 

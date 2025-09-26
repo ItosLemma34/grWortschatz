@@ -15,8 +15,26 @@ zzz: [
 	'<u>Lunapark</u>',   
 	'<u>Marlow</u>',
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
+'Schauder, schaudern': [  
+	'der <strong>Schauder</strong>,-: shiver, shudder; horror, terror, fright'+
+	'<br><strong>schaudern</strong>: to shudder, cringe'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schauder"target="target1">Schauder</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schaudern"target="target2">schaudern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schauder"target="target3">Schauder</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schaudern"target="target4">schaudern</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'<i>Frau Lehmann</i>: "Meenen Se, unsereiner kann sich ne Beerdijung leisten? Sie können ihn (<i>ihren toten Mann</i>) jerne behalten. Die Charité zahlt doch sojar dafür, oder?" Sie sagte das so kalt und herzlos, dass es Rath <strong>schauderte</strong>. Ihre Geldnot schien deutlich größer zu sein als die Trauer. (<i>Marlow</i>, 50)',
+],
+Zipfel: [  
+	'der <strong>Zipfel</strong>,-: corner (<i>Tuch, Decke</i>), point (<i>Mütze</i>), tip, peak'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zipfel"target="target1">Zipfel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Zipfel"target="target2">Zipfel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zipfel"target="target3">Zipfel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Zipfel&id=substantiv%3AZipfel"target="target4">Zipfel</a>',
+	'<u>Lunapark</u>',   
+	'Er (<i>Rath</i>) setzte sich auf eine Bank, um seine Bockwürste zu verspeisen. Kirie hockte brav zu seinen Füßen und schmachtete ihn so herzzerreißend an, dass sie auch noch einen Wurst<strong>zipfel</strong> abbekam. Obwohl sie schon am Alex zwei Bouletten verputzt hatte. (<i>Lunapark</i>, 352)',
+	'<u>Marlow</u>',
+	'Der Junge ließ den Rock<strong>zipfel</strong> der Mutter los, und die beiden Geschwister verließen die Wohnung, den Wäschekorb in ihrer Mitte, in dem die kleine Schwester saß und neugierig über den Rand lugte wie ein Ballonfahrer. (<i>Marlow</i>, 49)',
+],
 Büttel: [  
 	'der <strong>Büttel</strong>,-: lackey, minion, slave'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buettel"target="target1">Büttel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/B%C3%BCttel"target="target2">Büttel</a>'+
@@ -52,7 +70,6 @@ Räuberzivil: [
 	'<u>Der stumme Tod</u>',   
 	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges <strong>Räuberzivil</strong> neben grauen und weißen Arbeitskitteln. (<i>Der stumme Tod</i>, 23)', 
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'Menschentraube, Traube': [  
 	'die <strong>Traube</strong>,-<strong>n</strong>: cluster, bunch of; grape'+
 	'<br>die <strong>Menschentraube</strong>,-<strong>n</strong>: cluster, knot of people'+
@@ -1248,6 +1265,8 @@ eintrichtern: [
 	'Böhm nickte. "Jaja, die Maßstäbe scheinen sich in diesen Zeiten zu verschieben. Mir wurde heute nahegelegt, nicht allzuviel Energie in die Ermittlung der Todesumstände eines gewaltsam umgekommenen Obdachlosen zu stecken. Die Polizei habe wichtigere Aufgaben." <i>Charly</i>: "Wer sagt denn so etwas? Doch nicht Gennat?" Böhm schüttelte den Kopf. "Ein dahergelaufener Hilfspolizis sagt so etwas. Ein SA-Mann, herbeigerufen von einem <strong>erbosten</strong> Bürger, heute Morgen am Nollendorfplatz. (<i>Märzgefallene</i>, 32-33)',   
 	'<u>Lunapark</u>', 
 	'<i>Gereon</i>: "Und das Röhm ein Hundertfünfundsiebziger war, steht ja wohl fest. Das haben die Spatzen schon länger von den Dächern gepfiffen. "Et jeht doch hier nicht um Hundertfünfundsiebziger, mein junger Herr Rath", sagte Adenauer und schien ernsthaft <strong>erbost</strong>. (<i>Lunapark</i>, 534)',  
+	'<u>Marlow</u>', 
+	'<i>Rath</i>: "Ich wollte doch nur..." "Det is mir scheißejal, wat Sie wollen. Ick will Ihre Hilfe nich! Mir det Jugendamt uff\'n Hals hetzen? Darauf kann ick verzichten!" "Frau Lehmann, ich verstehe, dass Sie <strong>erbost</strong> sind, aber..." (<i>Marlow</i>, 50)',  
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -1593,7 +1612,10 @@ plätschern: [
 	'<u>Marlow</u>',  
 	'Die Wanne war beinahe voll, und Charly drehte den Wasserhahn zu. Das Nach<strong>plätschern</strong> der letzten Tropfen erinnerte sie daran, dass es ratsam wäre, ein paar Geräusche zu machen, die vortäuschten, dass auch in Kabine 115 jemand in der Wanne lag... Sie lauschte. Aus der linken Kabine war leises <strong>Pläschern</strong> zu hören und noch leiseres Summen. Martha Döring schien sich wohlzufühlen. (<i>Marlow</i>, 23)',
 	'Die warme feuchte Luft machte sie (<i>Charly</i>) schläfrig, bis ein Klopfen sie hochschrecken ließ. War ihre Zeit etwas schon abgelaufen? Nein, das kam von nebenan, in der Nachbarkabine regte sich etwas. Sie hörte ein Poltern und <strong>Plätschern</strong>: Martha Döring stieg aus der Wanne. (<i>Marlow</i>, 23-24)',
+	'Rademanns Blick allein reichte, und es wurde so still, dass man nur noch die nahgelegen Saale (<i>ein Fluss</i>) <strong>plätschern</strong> und gluckern hörte. Bis ein scharfer Befehl die Stille zerschnitte. (<i>Marlow</i>, 51)',
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 einfrieden: [  
 	'<strong>einfrieden</strong>: enclose, fence in'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einfrieden"target="target1">einfrieden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einfrieden"target="target2">einfrieden</a>'+
@@ -6315,6 +6337,8 @@ auflauern: [
 	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>? (<i>Märzgefallene</i>, 387)',
 	'<u>Lunapark</u>',
 	'Elisabeth Spindler saß am Bett ihres Sohnes, hielt dessen Hand und summte ein leises Lied. Womöglich das Schlaflied, das sie Robert schon als Kleinkind gesungen hatte... Sie summte und <strong>schaukelte</strong> dabei mit dem Oberkörper kaum merklich vor und zurück... Elisabeth Spindler summte und <strong>schaukelte</strong>. Auf dem Gesicht ihres Sohnes zeichnete sich so etwas wie ein seliges Lächeln ab. Und das ließ auch die Mutter lächeln. (<i>Lunapark</i>, 437)',
+	'<u>Marlow</u>',
+	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer wucherten, seine Schwestern spielten mit dem Wäschekorb. Die Kleine saß in dem mittlerweile leeren Korb, den die große Schwester auf den Boden gestellt hatte und hin und her <strong>schaukelte</strong>... (<i>Marlow</i>, 51)',
 ],
 'schaukeln, aufschaukeln': [   
 	'<strong>schaukeln</strong>: rock, swing, sway, seesaw'+
@@ -6333,6 +6357,8 @@ auflauern: [
 	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>? (<i>Märzgefallene</i>, 387)',
 	'<u>Lunapark</u>',
 	'Elisabeth Spindler saß am Bett ihres Sohnes, hielt dessen Hand und summte ein leises Lied. Womöglich das Schlaflied, das sie Robert schon als Kleinkind gesungen hatte... Sie summte und <strong>schaukelte</strong> dabei mit dem Oberkörper kaum merklich vor und zurück... Elisabeth Spindler summte und <strong>schaukelte</strong>. Auf dem Gesicht ihres Sohnes zeichnete sich so etwas wie ein seliges Lächeln ab. Und das ließ auch die Mutter lächeln. (<i>Lunapark</i>, 437)',
+	'<u>Marlow</u>',
+	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer wucherten, seine Schwestern spielten mit dem Wäschekorb. Die Kleine saß in dem mittlerweile leeren Korb, den die große Schwester auf den Boden gestellt hatte und hin und her <strong>schaukelte</strong>... (<i>Marlow</i>, 51)',
 ],
 aufschichten: [ 
 	'<strong>schichten</strong>: layer, stack, pile'+
@@ -8321,6 +8347,8 @@ Firlefanz: [
 	'<u>Lunapark</u>',
 	'"Kommissar Rath ist im Dienst", hatte der Pförtner gesagt, und diese Antwort hatte Gräf noch wütender werden lassen. "Ist er eben nicht!", hatte er den Mann <strong>angefaucht</strong>, der hinter seinem Tresen zusammengezuckt war. (<i>Lunapark</i>, 404)',
 	'Elisabeth Spindler hörte auf zu summen und <strong>fauchte</strong> Rath unvermittelt <strong>an</strong>. "Meinten Sie das mit Ihrem Gerede vorhin ernst, dass man Ihnen vertrauen kann?" (<i>Lunapark</i>, 438)',
+	'<u>Marlow</u>', 
+	'<i>Rath</i>: "Ich wollte doch nur..." "Det is mir scheißejal, wat Sie wollen. Ick will Ihre Hilfe nich! Mir det Jugendamt uff\'n Hals hetzen? Darauf kann ick verzichten!" "Frau Lehmann, ich verstehe, dass Sie erbost sind, aber..." "Nüscht verstehen Sie, jar nüscht!" Sie war aufgesprungen und <strong>fauchte</strong> ihn richtiggehend <strong>an</strong>. (<i>Marlow</i>, 50)',  
 ],
 'fauchen, anfauchen': [
 	'(<strong>an</strong>)<strong>fauchen</strong>: hiss, growl, snap at'+
@@ -9857,6 +9885,8 @@ gluckern: [
 	'Sie (<i>Charly und Gereon</i>) schleiften die Leiche zur Uferbefestigung, dann gaben sie ihr einen Schubs, und langsam kippte das blutfleckige Baumwollbündel nach vorne und rutschte in die schwarze Tiefe. Es sah aus wie eine Seebestattung. Ein dunkles <strong>Gluckern</strong> sagte ihnen, dass die Leiche im Wasser angekommen sein musste. Rath hatte in die Dunkelheit gehorcht. Erst als er dieses <strong>Gluckern</strong> hörte, mit dem die Spree ihren neuen Gast aufnahm, war ihm klar geworden, dass es nun kein Zurück mehr gab. (<i>Märzgefallene</i>, 419)',
 	'<u>Lunapark</u>',
 	'Hier war es still. Ab und zu fuhr der Wind durch die Baumwipfel, ein paar Vögel zwitscherten, der See <strong>gluckerte</strong> aus der Ferne, das war\'s. (<i>Lunapark</i>, 459)',
+	'<u>Marlow</u>',  
+	'Rademanns Blick allein reichte, und es wurde so still, dass man nur noch die nahgelegen Saale (<i>ein Fluss</i>) plätschern und <strong>gluckern</strong> hörte. Bis ein scharfer Befehl die Stille zerschnitte. (<i>Marlow</i>, 51)',
 ],
 'Gör, Göre': [
 	'das <strong>Gör</strong>,-<strong>en</strong> oder die <strong>Göre</strong>,-<strong>n</strong>: brat, guttersnipe gal'+
@@ -10630,8 +10660,10 @@ jauchzen: [
 //	'<u>Der stumme Tod</u>',
 //	'<u>Märzgefallene</u>',
 //	'<u>Lunapark</u>',
+	'<u>Marlow</u>',
+	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer wucherten, seine Schwestern spielten mit dem Wäschekorb. Die Kleine saß in dem mittlerweile leeren Korb, den die große Schwester auf den Boden gestellt hatte und hin und her schaukelte... Die Kleine <strong>jauchzte</strong> vor Vergnügen. (<i>Marlow</i>, 51)',
 ],
-// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 jucken: [
@@ -11369,7 +11401,10 @@ kichern: [
 	'Noch bevor er genau wusste, was überhaupt geschehen war, spürte Rath einen heftigen Schmerz an der Schulter und fand sich auf dem Boden wieder. Glas splitterte mit einem Klirren, das ihm nach der beinahe andächtigen Stille, die bislang geherrscht hatte, irrsinnig laut erschien, Scherben regneten auf ihn hinab. Seine Waffe rutschte aus der Manteltasche und schlidderte über den <strong>Kies</strong>. (<i>Lunapark</i>, 526)',
 	'Der Baseballschläger traf den <strong>Kies</strong> genau dort, wo Rath eben noch gelegen hatte, und ließ die kleinen Steine in alle Richtungen spritzen. (<i>Lunapark</i>, 526)',
 	'...er (<i>Rath</i>) hatte den Baseballschläger genommen und zugeschlagen. So fest er konnte auf den Kopf geschlagen, bis der Mann still war. Hatte ihm den Puls gefühlt, um ganz sicher zu sein, und den Schläger zurück zu Madame Luna gebracht, wo noch die Spuren ihres Kampfes im <strong>Kies</strong> zu sehen waren. (<i>Lunapark</i>, 539)',
-],
+	'<u>Marlow</u>', 
+	'"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u> und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert Stiefel knirschten im <strong>Kies</strong> wie einer. (<i>Marlow</i>, 51)'+
+	'<br>[<i>der <u>Bann</u>: district, jurisdictional territory</i> (outdated meaning); &nbsp;&nbsp;or: <i>Gliederungsbereich innerhalb der Hitlerjugend</i>]',
+],  
 Kittel: [
 	'der <strong>Kittel</strong>,-: lab/work coat/gown'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kittel"target="target1">Kittel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kittel"target="target2">Kittel</a>'+
@@ -11404,7 +11439,7 @@ Kittel: [
 	'Charly schaute in den Schminkspiegel und konnte nasse nachte Beine sehen. Hörte, wie der Riegel zurückgeschoben wurde, sah, wie die Tür sich öffnete, dann ein weiteres Paar Beine, Stoffschuhe mit Gummisohle, den Saum eines weißen <strong>Kittels</strong>. (<i>Marlow</i>, 24)',
 	'Zwei nackte Arme, die sich um eine weiß<strong>bekittelte</strong> Schulter schlangen. Hände, die einen nackten Rücken streichelten und Pobacken kneteten. Das verzückte Gesicht von Martha Döring, während die Frau in der weißen <strong>Kittel</strong>schürze ihr den Busen küsste. (<i>Marlow</i>, 41)',
 ],  
-// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', (<i>Charly</i>)
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klamm: [  
 	'<strong>klamm</strong>: clammy, dank, moist'+
@@ -11635,6 +11670,9 @@ knirschen: [
 	'Und diesmal, als er (<i>Leo</i>) wieder an einen bösen Scherz glaubte, hatten sie ihn wirklich aus dem Auto, das noch ausrollte, geworfen, auf spitzen Schotter, der ihn ins Fleisch schnitt und stach. Er hatte die Reifen noch über die Steine <strong>knirschen</strong> hören.., er vermutete, dass andere Männer bereits auf ihn gewartet hatten. (<i>Märzgefallene</i>, 109-10)',
 	'...da hörte er (<i>Rath</i>) Motorengeräusche... und den <strong>knirschenden</strong> Kies des Parkplatzes, dann von der Straße her das typische Scheppern, das die Dienstwagen der preußischen Polizei verursachten. (<i>Märzgefallene</i>, 440)',
 	'Er (<i>Rath</i>) hörte Schritte <strong>knirschen</strong> und erschrak. Dann sah er Charlys neugieriges Gesicht. Hatte sie sich doch noch überwinden können, die Verbotsschilder zu ignorieren, und war zu ihm hinabgestiegen. (<i>Märzgefallene</i>, 602)',
+	'<u>Marlow</u>', 
+	'"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u> und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert Stiefel <strong>knirschten</strong> im Kies wie einer. (<i>Marlow</i>, 51)'+
+	'<br>[<i>der <u>Bann</u>: district, jurisdictional territory</i> (outdated meaning); &nbsp;&nbsp;or: <i>Gliederungsbereich innerhalb der Hitlerjugend</i>]',
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',  
 
@@ -12376,6 +12414,8 @@ lugen: [
 	'Die Luft war rein, mit einem Satz sprang er (<i>Rath</i>) über das niedrige Gartentor und hoffte, dass nicht jemand im Schatten des Häuschens döste, den er übersehen hatte. Er ging zur Hütte hinüber und <strong>lugte</strong> vorsichtig durch das kleine, vergitterte Fenster. (<i>Lunapark</i>, 483)',
 	'<u>Marlow</u>',
 	'Charly hockte sich auf den Boden und <strong>lugte</strong> durch den Spalt zu ihrer Linken. Auf dem hölzernen Hocker neben der Wanne lagen ordentlich gefaltete Kleidungsstücke. (<i>Marlow</i>, 22)',
+	'"Lottchen!", rief sie (<i>Frau Lehmann</i>) nach hinten. Es war das erste Wort, das Rath aus ihrem Mund hörte. Ein etwa zwölfjähriges Mädchen erschien und <strong>lugte</strong> schüchtern um die Ecke. (<i>Marlow</i>, 48)',
+	'Der Junge ließ den Rockzipfel der Mutter los, und die beiden Geschwister verließen die Wohnung, den Wäschekorb in ihrer Mitte, in dem die kleine Schwester saß und neugierig über den Rand <strong>lugte</strong> wie ein Ballonfahrer. (<i>Marlow</i>, 49)',
 ],
 'lumpen lassen (sich nicht)': [
 	'<strong>sich nicht lumpen lassen</strong>: live it up, do in style'+
@@ -14989,17 +15029,21 @@ Spalier: [
 	'<u>Märzgefallene</u>',
 	'"<i>Alles atmet fritzischen Geist, alles ist Preußentum</i>", sagte der Reporter gerade, nach einer endlosen Aufzählung der Regimenter, die hier <strong>Spalier</strong> standen, und zusammen mit SA und Stahlhelm auf die Begegnung von Hindenburg und Hitler warteten. (<i>Märzgefallene</i>, 372)',
 ],
-'spülen, Spülung, Spüle, Spülbürste': [ 
+'spülen; Spül -ung, -e, -stein, -bürste': [ 
 	'<br><strong>spülen, ausspülen</strong>: wash, rinse out; flush (toillete)'+
 	'<br>die <strong>Spülung</strong>,-<strong>en</strong>: flushing'+
-	'<br>die <strong>Spüle</strong>,-<strong>n</strong>: (kitchen) sink'+
+	'<br>die <strong>Spüle</strong>,-<strong>n</strong>: sink'+
+	'<br>der <strong>Spülstein</strong>,-<strong>e</strong>: sink; (old-fashioned: stone/ceramic sink)'+
 	'<br>die <strong>Bürste</strong>,-<strong>n</strong>: brush'+
 	'<br>die <strong>Spülbürste</strong>,-<strong>n</strong>: dishwashing brush'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spuelen"target="target1">spülen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClung"target="target2">Spülung</a>'+    // &nbsp;&nbsp;<a href="https://www.dwds.de/wb/sp%C3%BClen"target="target2">spülen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClung"target="target3">Spülung</a>'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spuelen"target="target1">spülen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClung"target="target2">Spülung</a>'+   
 		'&nbsp;&nbsp;<a href="https://www.google.com/search?q=Bilder+von+%27Sp%C3%BClen&client=firefox-b-1-d&sca_esv=e5cef3e958d363d7&channel=entpr&ei=HrCsaI_CDKao5NoPupS3-Ac&ved=0ahUKEwiPyeOS0KaPAxUmFFkFHTrKDX8Q4dUDCBE&uact=5&oq=Bilder+von+%27Sp%C3%BClen&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0JpbGRlciB2b24gJ1Nww7xsZW4yBhAAGBYYHjIGEAAYFhgeMggQABiABBiiBDIFEAAY7wUyBRAAGO8FSPYqUJULWJkbcAF4AJABAJgBXqABmwGqAQEyuAEDyAEA-AEC-AEBmAIDoAKpAcICCRAAGLADGAgYHsICCxAAGIAEGLADGKIEwgIIEAAYsAMY7wWYAwCIBgGQBgaSBwEzoAfkBbIHATK4B6QBwgcDMi0zyAcL&sclient=gws-wiz-serp"target="target3">Spüle</a>'+
-		'&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Sp%C3%BClb%C3%BCrste"target="target4">Spülbürste</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sp%C3%BClen"target="target5">spülen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spulung"target="target6">Spülung</a>'+    //&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sp%C3%BClen"target="target5">spülen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spulung"target="target6">Spülung</a>',
-		'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/spuele#Sp%C3%BCle"target="target7">Spüle</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spuelbuerste"target="target8">Spülbürste</a>',
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClstein"target="target4">Spülstein</a>'+
+		'&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Sp%C3%BClb%C3%BCrste"target="target5">Spülbürste</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sp%C3%BClen"target="target6">spülen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spulung"target="target7">Spülung</a>'+    
+		'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/spuele#Sp%C3%BCle"target="target8">Spüle</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sp%C3%BClstein&id=substantiv%3ASpu3lstein"target="target9">Spülstein</a>'+
+		'&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spuelbuerste"target="target10">Spülbürste</a>',
 	'<u>Der nasse Fisch</u>',
 	'Nachdem er (<i>Rath</i>) die <strong>Spülung</strong> betätigt hatte, wartete er noch ein Weilchen, bis sich die Strudel in der Toilettenschüssel wieder beruhigt hatten. (<i>Der nasse Fisch</i>, 299)',
 	'Am Waschbecken <strong>spülte</strong> er (<i>Rath</i>) das Blut, das bereits zu kleben begann, von den Fingerspitzen, dann verließ er die Toilette. (<i>Der nasse Fisch</i>, 299)',
@@ -15014,6 +15058,7 @@ Spalier: [
 	'Die Kopfschmerzen hinderten ihn (<i>Rath</i>) am Denken, er nahm noch eine Phenacetin. Die musste er mit einem Schluck Cognac aus seinem Flachmann hinunter<strong>spülen</strong>. (<i>Lunapark</i>, 391)', 
 	'<u>Marlow</u>',
 	'Rat zog die Kette der Toiletten<strong>spülung</strong>, steckte sich die Umschläge wieder unter den Mantel, während das Wasser rauschte, und verließ die Kabine. (<i>Marlow</i>, 40)',
+	'Die Witwe (<i>Frau Lehmann</i>) führte ihn (<i>Rath</i>) in eine Wohnküche. Im <strong>Spülstein</strong> stapelten sich schmutzige Töpfe und Teller, auf dem Tisch stand ein Korb schmutziger Wäsche. (<i>Marlow</i>, 48)',
 ],
 Schlüpfer: [
 	'der <strong>Schlüpfer</strong>,-: briefs, underpants'+
@@ -16116,6 +16161,8 @@ Stange: [
 	'Rath ließ seinen Blick durch die Hütte wandern. Tatsächlich eine Werkstatt. Dort, wo Haken für Hammer, Zangen und sonstige Werkzeuge angebracht waren, hing allerdings nichts mehr. Auch die Werkbank war leer, in einer Ecke konnte Rath einen <strong>Stapel</strong> Blecheimer entdecken. (<i>Lunapark</i>, 372)',
 	'Erst nachdem Lieselotte Mettmann ihm eine Tasse Kaffee hingestellt hatte, fing Rath an, einzelne Akten aus den Regalen zu ziehen und auf Gräfs Schreibtisch zu <strong>stapeln</strong>. (<i>Lunapark</i>, 447)',
 	'<i>Rath</i>: "..Ich werde also weiterhin an den Mordfällen arbeiten und die entsprechenden Unterlagen dann eben mit zum Alex nehmen... Wenn Sie kurz mit anpacken würden", sagte Rath und legte dem verdutzten Truppführer (<i>Pfeiffer</i>) einen ganzen <strong>Stapel</strong> Aktenordner in die Arme. "Wir haben\'s nicht weit, mein Auto steht direkt vor der Tür." (<i>Lunapark</i>, 450)',
+	'<u>Marlow</u>',
+	'Die Witwe (<i>Frau Lehmann</i>) führte ihn (<i>Rath</i>) in eine Wohnküche. Im Spülstein <strong>stapelten sich</strong> schmutzige Töpfe und Teller, auf dem Tisch stand ein Korb schmutziger Wäsche. (<i>Marlow</i>, 48)',
 ],
 'stapfen, Fußstapfe': [ 
 	'<strong>stapfen</strong>: plod, trudge, tramp,'+ 
@@ -16252,6 +16299,8 @@ stibitzen: [
 	'Gräf sprach kurz mit einem Schupo, und der deutete.. auf den Krankenwagen. Gräf gab den Spurensicherern kurz Anweisungen und schickte sie in den Keller, er selbst <strong>stiefelte</strong> zu Rath hinüber. (<i>Lunapark</i>, 384)',
 	'<u>Marlow</u>', 
 	'Du (<i>Marlow</i>) nimmst dem Alten die Laterne ab und <strong>stiefelst</strong> zu den Gesindehäusern hinüber, die sich im Mondschatten des Herrenhauses ducken wie schüchterne Kinder. (<i>Marlow</i>, 9)',
+	'"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u>, und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert <strong>Stiefel</strong> knirschten im Kies wie einer. (<i>Marlow</i>, 51)'+
+	'<br>[<i>der <u>Bann</u>: district, jurisdictional territory</i> (outdated meaning); &nbsp;&nbsp;or: <i>Gliederungsbereich innerhalb der Hitlerjugend</i>]',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -16933,13 +16982,6 @@ untersetzt: [
 	'<i>SSD Berlin: an alle besonders Grenzstellen: Festnehmen Dr. Bernhard Weiß, ehem. Polizeivizepräsident... Beschreibung: 165 bis 170 gross, <strong>untersetzt</strong>, volles Haar, dunkelgraumeliert, Brille, typisch jüdisches Aussehen</i>.... (<i>Märzgefallene</i>, 471)',
 	'<u>Lunapark</u>',
 	'Rath trat seine Zigarette aus und ging über den Kiesweg zur Haustür. Ein Dienstmädchen öffnete, und er fragte nach dem Hausherrn, der weinig später in persona erschien, ein leicht <strong>untersetzter</strong> Mann, der eine Strickjacke über seinem Hemd trug. (<i>Lunapark</i>, 233)',
-],
-überwuchern: [
-	'<strong>überwuchern</strong>: overgrow, overrun'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ueberwuchern"target="target1">überwuchern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/uberwuchern"target="target3">überwuchern</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ueberwuchern#%C3%BCberwuchern"target="target4">überwuchern</a>',
-	'<u>Märzgefallene</u>',
-	'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <strong>überwuchernden</strong> Narbengeflecht stierten, war kein Leben mehr. (<i>Märzgefallene</i>, 412)',
 ],
 ungehobelt: [
 	'<strong>ungehobelt</strong>: uncouth, crude; unpolished, ill-bred'+
@@ -18315,17 +18357,35 @@ wuchten: [
 	'Rath betrachtete die Mauer, die das Anwesen (<i>Marlows Villa</i>) umgab. Gut zweieinhalb Meter hoch. Er brauchte vier Anläufe, bis er die obere Kante mit den Händen erreicht hatte und sich langsam hochziehen konnte, und war völlig außer Puste, als er endlich mit einem Fuß Halt fand und sich komplett auf die Mauerkrone <strong>wuchten</strong> konnte. (<i>Lunapark</i>, 121)',
 	'Lange nickte nachdenklich und ging zum Mordauto hinüber, aus dessen Kofferraum Czerwinski gerade den Fotoapparat <strong>wuchtete</strong>. (<i>Lunapark</i>, 324)',
 ],
-wuchern: [
+'wuchern, überwuchern': [
 	'<strong>wuchern</strong>: proliferate, be rampant; profiteer, practise usury'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;<a href="https://www.dwds.de/wb/wuchern"target="target2">wuchern</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wuchern"target="target4">wuchern</a>',
+	'<br><strong>überwuchern</strong>: overgrow, overrun'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%BCberwuchern&id=verb%3Au3berwuchern"target="target4">überwuchern</a>',
 	'<u>Der nasse Fisch</u>',
 	'Unten (<i>im Café Berlin</i>) war das Tanzcafé mit der Weinstube verbunden, die als besondere Attraktion einen subtropischen Dschungel im Erdgeschoss wachsen ließ, der wirkte, als sei der benachbarte Zoologische Garten über seine Grenzen <strong>gewuchert</strong>. (<i>Der nasse Fisch</i>, 119-20)',
-	//'<u>Märzgefallene</u>',  
+	'<u>Märzgefallene</u>',
+	'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <strong>überwuchernden</strong> Narbengeflecht stierten, war kein Leben mehr. (<i>Märzgefallene</i>, 412)',
 	'<u>Lunapark</u>',
 	'Da tat sich etwas. Die Sträucher an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks <strong>wucherte</strong>, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
 	'<u>Marlow</u>',
 	'<i>Chen-Lu</i>: "Doktor Erichsen sagt, man kann es nicht heilen. Es ist in der Leber. Es <strong>wuchert</strong> überall." (<i>Marlow</i>, 10)',
+	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer <strong>wucherten</strong>, seine Schwestern spielten mit dem Wäschekorb. (<i>Marlow</i>, 51)',
+],
+'überwuchern, wuchern': [
+	'<strong>wuchern</strong>: proliferate, be rampant; profiteer, practise usury'+
+	'<br><strong>überwuchern</strong>: overgrow, overrun'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%BCberwuchern&id=verb%3Au3berwuchern"target="target4">überwuchern</a>',
+	'<u>Der nasse Fisch</u>',
+	'Unten (<i>im Café Berlin</i>) war das Tanzcafé mit der Weinstube verbunden, die als besondere Attraktion einen subtropischen Dschungel im Erdgeschoss wachsen ließ, der wirkte, als sei der benachbarte Zoologische Garten über seine Grenzen <strong>gewuchert</strong>. (<i>Der nasse Fisch</i>, 119-20)',
+	'<u>Märzgefallene</u>',
+	'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <strong>überwuchernden</strong> Narbengeflecht stierten, war kein Leben mehr. (<i>Märzgefallene</i>, 412)',
+	'<u>Lunapark</u>',
+	'Da tat sich etwas. Die Sträucher an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks <strong>wucherte</strong>, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
+	'<u>Marlow</u>',
+	'<i>Chen-Lu</i>: "Doktor Erichsen sagt, man kann es nicht heilen. Es ist in der Leber. Es <strong>wuchert</strong> überall." (<i>Marlow</i>, 10)',
+	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer <strong>wucherten</strong>, seine Schwestern spielten mit dem Wäschekorb. (<i>Marlow</i>, 51)',
 ],
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 wälzen: [ 
@@ -19774,6 +19834,7 @@ nölen Der nasse Fisch 465
  ä  Ä  ö  Ö  ü  Ü   ß 
  streicheln  Marlow 11              
 Strich drehen  Der nasse Fisch 471
+schallen Marlow 51
 schwuchtel Märzgefallene  554
 überschlagen (sich) Marlow 18
  ungeschoren  Der nasse Fisch 506

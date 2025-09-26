@@ -38,7 +38,8 @@ const z = [
    'zig',   // zig:  
    'Zinken',  // Zinken: 
    'Zinne', // Zinne:  
-   'Zinnober',  // Zinnober:  
+   'Zinnober',  // Zinnober: 
+   'Zipfel',  // Zipfel: 
    'Zipperlein', // Zipperlein: 
    'zischen',  // zischen:   
    'zittern, zittrig, erzittern', // duplicated 

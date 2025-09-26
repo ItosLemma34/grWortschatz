@@ -10,7 +10,7 @@ const u = [
    'überrumpeln, Überrumpelung',   
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
    'übers Ohr hauen',  
-   'überwuchern',  // überwuchern:  
+   'überwuchern, wuchern',  // duplicated  
    'um den heißen Brei herumreden', // duplicated 
    'umkrempeln', // umkrempeln: 
    'ummähen' ,  // ummähen: 

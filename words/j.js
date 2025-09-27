@@ -1,4 +1,5 @@
 const j = [
+   'Jammerlappen', // Jammerlappen:
    'japsen',  // japsen: 
    'jauchzen', // jauchzen: 
    'jaulen', // jaulen: 

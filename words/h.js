@@ -50,7 +50,8 @@ const h = [
    'herumlungern', // herumlungern:  
    'hetzen, gehetzt',  //  duplicated *
    'heucheln, vorheucheln', // duplicated 
-   'heulen',  // heulen:  
+   'heulen',  // heulen:
+   'Heulsuse', // Heulsuse:  
    'hieven',  // hieven: 
    'hineinreiten, reinreiten',  // duplicated 
    'hinhalten, Knochen/Kopf hinhalten', // duplicated 

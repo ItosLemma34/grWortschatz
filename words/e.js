@@ -63,6 +63,7 @@ const e = [
    'Erker', // Erker:   
    'erkiesen',   // erkiesen:  
    'erpicht',   // erpicht: 
+   'erschallen',  // erschallen:
    'erschauern, schauern',  // duplicated  
    'erschnuppern, schnuppern', //  duplicated  
    'erstehen',  // erstehen:  

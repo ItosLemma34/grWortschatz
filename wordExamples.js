@@ -17,6 +17,58 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+Heulsuse: [  
+	'die <strong>Heulsuse</strong>,-<strong>n</strong>: crybaby, sniveler, sissy'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Heulsuse"target="target1">Heulsuse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Heulsuse"target="target2">Heulsuse</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/heulsuse"target="target3">Heulsuse</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Heulsuse&id=substantiv%3AHeulsuse"target="target4">Heulsuse</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Lunapark</u>', 
+	'"Hören Se doch uff mit ihren blöden Hut, Sie <strong>Heulsuse</strong>", schimpfte sie, und Charly wunderte sich über die Wut in ihren Worten. "Anderen Leuten hat die SA mehr jenommen als nur’n blöden Hut!" Und damit marschierte sie weiter. Charly und der alte Mann starrten ihr hinterher, bis sie um die Straßenecke verschwunden war. (<i>Lunapark</i>, 117)',
+	'<u>Marlow</u>',
+	'Was sollten sie (<i>die marschierende Hitlerjugend</i>) denn mit einem (<i>Atze</i>) anfangen, der nicht einmal 25 Kilometer durchhielt? Sie hatten 37 Marschtage und fast 500 Kilometer zu bewältigen, da konnten sie keine Schwächlinge gebrauchen. Und auch keine <strong>Heulsusen</strong>. (<i>Marlow</i>, 53)',
+],
+Krücke: [  
+	'die <strong>Krücke</strong>,-<strong>n</strong>: a crutch; a rake'+
+	'<br>eine <strong>Krücke</strong>: <i>slang</i>: a weakling, useless, a burden'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kruecke"target="target1">Krücke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kr%C3%BCcke"target="target2">Krücke</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krucke"target="target3">Krücke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kr%C3%BCcke&id=substantiv%3AKru3cke"target="target4">Krücke</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Märzgefallene</u>', 
+	'Steinerne Soldatenstandbilder säumten die Kaiser-Wilhelm-Brücke, alle möglichen Uniformen aus Preußens ruhmreicher Vergangenheit waren vertreten, nur nicht Preußens jüngste Soldatengeneration. Ein Weltkriegssoldat stand lediglich, nicht in Stein gemeißelt, sondern aus Fleisch und Blut und auf seine <strong>Krücken</strong> gestützt, an der Balustrade, mit gesenktem Blick und geöffneter Hand. (<i>Märzgefallene</i>, 244)',
+	'<u>Marlow</u>',
+	'Wie hatte er (<i>Fritze</i>) sich mit Atze auf den Marsch gefreut! Und nun war der gar nicht dabei. Aber vielleicht war das auch besser so, vielleich hätte Atze sonst zu einem dieser Jammerlappen gehört, zu <strong>Krücken</strong>, die es leider auch gab und die die ganze Gemeinschaft schwächten. (<i>Marlow</i>, 52)',
+	'Rademann hatte seinem Sohn den Rucksack abgenommen und war weitermarschiert, mit zwei Rucksäcken und ohne ein weiteres Wort. Und Fritze hatte gemerkt, wie die Verachtung des Oberbannführers für den eigenen Sohn auf alle anderen abfärbte, selbst auf ihn, wo Atze doch sein bester Freund war. Aber eben auch eine <strong>Krücke</strong>. Und <strong>Krücken</strong> konnten sie nicht gebrauchen. (<i>Marlow</i>, 53)',
+], 
+Jammerlappen: [
+	'der <strong>Jammerlappen</strong>,-: sissy, scaredy-cat'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Jammerlappen"target="target1">Jammerlappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Jammerlappen"target="target2">Jammerlappen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/jammerlappen"target="target3">Jammerlappen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Jammerlappen&id=substantiv%3AJammerlappen"target="target4">Jammerlappen</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'Wie hatte er (<i>Fritze</i>) sich mit Atze auf den Marsch gefreut! Und nun war der gar nicht dabei. Aber vielleicht war das auch besser so, vielleich hätte Atze sonst zu einem dieser <strong>Jammerlappen</strong> gehört, zu Krücken, die es leider auch gab und die die ganze Gemeinschaft schwächten. (<i>Marlow</i>, 52)',
+],
+Plane: [  
+	'die <strong>Plane</strong>,-<strong>n</strong>: tarpaulin, awning, canvas'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Plane"target="target1">Plane</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Plane"target="target2">Plane</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/plane"target="target3">Plane</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Plane&id=substantiv%3APlane"target="target4">Plane</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Lunapark</u>', 
+	'"Ich hab Werkzeug aus dem Keller geholt und eine Leiter. Und dann haben wir die Buchstaben ausgetauscht.. Das U und das H", sagte Gereon. "Verdreht.".. Er grinste, als sei er immer noch stolz auf diesen Streich. "Genau", sagte er und drückte die Zigarette aus: "HUREN UND SCHMUCK. Hat fast den ganzen Tag gedauert, bis den armen Höhne jemand darauf aufmerksam gegemacht hat. War tagelang mit dicken <strong>Planen</strong> abgehängt, bis ein Elektriker das wieder gerichtet hat..." (<i>Lunapark</i>, 147)', 
+	'<u>Marlow</u>',
+	'Fritze schaute nach oben. Am Himmel zogen einige Wolken, doch es sah nicht nach Regen aus. Im Gegensatz zu seinen Kamaraden machte es ihm nicht viel aus, bei Wind und Wetter unterwegs zu sein und jede Nacht im Zelt zu verbringen, ganz gleich, wie sehr der Regen gegen die <strong>Plane</strong> prasselte. (<i>Marlow</i>, 52)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+erschallen: [  
+	'<strong>erschallen</strong>: ring out, peal, toll'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erschallen"target="target1">erschallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erschallen"target="target2">erschallen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/erschallen"target="target3">erschallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erschallen&id=verb%3Aerschallen%23erschallen_unr"target="target4">erschallen</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Lunapark</u>',
+	'"Et is eine Schande, dass der Protest jejen diesen Mord nicht laut von allen Kanzeln <strong>erschallt</strong>", sagte er (<i>Adenauer</i>). "Sämtliche Bischöfe hätten anjesichts dieser Bluttat protestieren müssen!" (<i>Lunapark</i>, 535)',   
+	'<u>Marlow</u>',
+	'Wie eine nicht aufzuhaltende Maschine setzten sie (<i>marschierende Hitlerjugend</i>) sich in Bewegung. Rademann ließ ein Lied anstimmen, und bald <strong>erschollen</strong> die ersten Zeilen des Horst-Wessel-Liedes über die Saale (<i>ein Fluss</i>), als sie über die Brücke in die Stadt hinein marschierten...  (<i>Marlow</i>, 52)',
+],
 'Schauder, schaudern': [  
 	'der <strong>Schauder</strong>,-: shiver, shudder; horror, terror, fright'+
 	'<br><strong>schaudern</strong>: to shudder, cringe'+
@@ -394,6 +446,7 @@ Steg: [
 	'Marlows Refugium lag am Ende einer von zahlreichen Villen <strong>gesäumten</strong> Straße, die sich einen kleinen Hang hinaufwand. (<i>Lunapark</i>, 120)',
 	'<u>Marlow</u>',   
 	'Charly schaute in den Schminkspiegel und konnte nasse nachte Beine sehen. Hörte, wie der Riegel zurückgeschoben wurde, sah, wie die Tür sich öffnete, dann ein weiteres Paar Beine, Stoffschuhe mit Gummisohle, den <strong>Saum</strong> eines weißen Kittels. (<i>Marlow</i>, 24)',
+	'Wie eine nicht aufzuhaltende Maschine setzten sie (<i>marschierende Hitlerjugend</i>) sich in Bewegung. Rademann ließ ein Lied anstimmen, und bald erschollen die ersten Zeilen des Horst-Wessel-Liedes über die Saale (<i>ein Fluss</i>), als sie über die Brücke in die Stadt hinein marschierten, die Straßen <strong>gesäumt</strong> von begeisterten Bürgern, die ihnen zuwinkten, darunter auch einige hübsche Mädels. (<i>Marlow</i>, 52)',
 ],
 planschen: [  
 	'<strong>planschen</strong>: paddle/splash/flounder about'+
@@ -2330,6 +2383,8 @@ Pimpf: [
 	'Er (<i>Fritze</i>) beschloss, der Sache auf den Grund zu gehen. Er war ein <strong>Pimpf</strong>, er war Teil der Volksgemeinschaft, es war seine Pflicht, solchen Dingen auf den Grund zu gehen! (<i>Lunapark</i>, 515-16)',
 	'Juretzka war anzusehen, dass ihn der unerwartete Zwischenfall aus dem Konzept gebracht hatte. Er wusste nicht, wie er damit umgehen sollte, dass ihm da ein <strong>Pimpf</strong> mit ernstem Gesicht und geladener Pistole gegenüberstand. (<i>Lunapark</i>, 529)',
 	'Und seither hatte Gereon mit keiner Silbe mehr erwähnt, dass Fritze im Lunapark dabei gewesen war, nicht einmal, wenn sie (<i>Gereon und Charly</i>) unter sich waren und hätten reden können. Dass ein <strong>Pimpf</strong> den gefährlichen Verbrecher erledigt hatte. Und seinem Pflegevater das Leben gerettet! Nein, Gereon hatte alle Lorbeeren für sich eingeheimst. (<i>Lunapark</i>, 542)',
+	'<u>Marlow</u>',
+	'Gegen die Prüfungen für den Reichsparteitagsmarsch nämlich war die <strong>Pimpfen</strong>probe, die Atze und er vor einem halben Jahr gemeinsam absolviert hatten, der reinste Spaziergang. (<i>Marlow</i>, 52)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -3329,6 +3384,8 @@ Lastkahn: [
 	'Die Vögel <strong>zwitscherten<strong> laut, so früh am Morgen war der Hof noch leer, bis auf ein paar SA-Männer, die rauchend auf den Morgenappell warteten, auf die Häftlinge, die sie dann gehörig triezen konnten. (<i>Lunapark</i>, 491)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel <strong>zwitscherten</strong> in den Bäumen, die Sonne malte hellgrün leuchtende Tupfen in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'Der Morgen hatte bereits gegraut, die Vögel in den Bäumen.. <strong>zwitscherten</strong>, als er (<i>Rath</i>) an Fritzes Bett gesessen und ihm alles eingebläut hatte. (<i>Lunapark</i>, 539)',
+	'<u>Marlow</u>',
+	'Bald aber wären sie (<i>marschierende Hitlerjugend</i>) wieder auf dem freien Feld und mitten in der Natur, nur noch begleitet vom Rauschen des Windes und dem <strong>Zwitschern</strong> der Vögel. (<i>Marlow</i>, 52)',
 ],
 'Gezwitscher, zwitschern': [
 	'<strong>zwitschern</strong>: to chirp, twitter'+
@@ -3345,6 +3402,8 @@ Lastkahn: [
 	'Die Vögel <strong>zwitscherten<strong> laut, so früh am Morgen war der Hof noch leer, bis auf ein paar SA-Männer, die rauchend auf den Morgenappell warteten, auf die Häftlinge, die sie dann gehörig triezen konnten. (<i>Lunapark</i>, 491)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel <strong>zwitscherten</strong> in den Bäumen, die Sonne malte hellgrün leuchtende Tupfen in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'Der Morgen hatte bereits gegraut, die Vögel in den Bäumen.. <strong>zwitscherten</strong>, als er (<i>Rath</i>) an Fritzes Bett gesessen und ihm alles eingebläut hatte. (<i>Lunapark</i>, 539)',
+	'<u>Marlow</u>',
+	'Bald aber wären sie (<i>marschierende Hitlerjugend</i>) wieder auf dem freien Feld und mitten in der Natur, nur noch begleitet vom Rauschen des Windes und dem <strong>Zwitschern</strong> der Vögel. (<i>Marlow</i>, 52)',
 ],
 'Kotze, kotzen, ankotzen': [
 	'die <strong>Kotze</strong>: vomit, puke'+
@@ -11270,7 +11329,7 @@ kahl: [
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die <strong>kahlen</strong> Kronen schaukeln. (<i>Märzgefallene</i>, 39)',  
 	'Auch wenn er (<i>Rath</i>) draußen vor dem Fenster nicht viel mehr als eine nackte Backsteinwand und ein paar <strong>kahle</strong> Bäume erkennen konnte, war ihm der Ausblick vertraut. (<i>Märzgefallene</i>, 71)',
     'Auf dem Weg nach Dalldorf war sie (<i>Charly</i>)...am Reichstag vorbeigefahren, um sich die Sache mal bei Tag anzuschauen. Immer noch lag Brandgeruch in der Luft, die kitschige wilhelminische Glaskuppel hatte sich in ein <strong>kahles</strong>, schwarz verrußtes Stahlgerippe verwandelt. (<i>Märzgefallene</i>, 78)',
-    'Er (<i>Meifert</i>) war deutlich vor der Zeit am Bahnhof angekommen, doch das Gehen fiel ihm noch schwerer als sonst, und er wollte nicht zu spät erscheinen. Zehn Minuten hatte er noch, das dürfte reichen. Er konnte die <strong>kahlen<strong> Baumwipfel auf der anderen Havelseite schon sehen. (<i>Märzgefallene</i>, 244)',
+    'Er (<i>Meifert</i>) war deutlich vor der Zeit am Bahnhof angekommen, doch das Gehen fiel ihm noch schwerer als sonst, und er wollte nicht zu spät erscheinen. Zehn Minuten hatte er noch, das dürfte reichen. Er konnte die <strong>kahlen</strong> Baumwipfel auf der anderen Havelseite schon sehen. (<i>Märzgefallene</i>, 244)',
 	'Durch das Fenster konnte man <strong>kahle</strong> Baumwipfel sehen. Ob sie (<i>Hannah</i>) hier im Grunewald waren?  (<i>Märzgefallene</i>, 434)' ,
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
@@ -12088,7 +12147,8 @@ Lache: [
 	'Karl Reinhold schloss die Augen. Er hörte <strong>Laub</strong> rascheln und Vögel singen. Was für eine trügerische Idylle in seinen Ohren. (<i>Lunapark</i>, 493)',
 ],     
 Lappen: [
-	'der <strong>Lappen</strong>,-: rag, cloth <br>jmdm. <strong>durch die Lappen gehen</strong>: slip through so.\'s fingers'+
+	'der <strong>Lappen</strong>,-: rag, cloth'+
+	'<br>jmdm. <strong>durch die Lappen gehen</strong>: slip through so.\'s fingers'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lappen"target="target2">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20durch%20die%20Lappen%20gehen"target="target3">durch die Lappen gehen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target4">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target5">Lappen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Lappen+gehen"target="target6">durch die Lappen gehen<a/>',
 	'<u>Der nasse Fisch</u>',
@@ -13100,7 +13160,8 @@ prasseln: [
 	'Das Lob, das von allen Seiten auf ihn nieder<strong>prasselte</strong>, musste ihn aufgeputscht haben, jedenfalls hatte Achim von Roddeck prompt zugesagt, die studentische Aktion zu unterstützen, wo ihn doch alle am Tisch als den idealen Repräsentanten einer neuen deutschen Literatur bezeichnet hatten. (<i>Märzgefallene</i>, 552-53)',
 	'Erst als alle völlig durchnässt waren, hörte der Regen auf. Von jetzt auf gleich. Es war, als habe jemand die Bindfäden mit einer großen Schere abgeschnitten. Ein letztes <strong>Prasseln</strong>, mehr ein Pläschen, dann war es vorbei. (<i>Märzgefallene</i>, 554)',
 	'Die Fassade der Bank lag dunkel und still, nur die Lichter des Scheiterhaufens und der Wochenschauscheinwerfer spiegelten sich in den Scheiben, vom Platz her waren das <strong>Prasseln</strong> der Flammen und die Stimmen der Studenten zu hören. (<i>Märzgefallene</i>, 562)',
-//	'<u>Lunapark</u>',
+	'<u>Marlow</u>',
+	'Fritze schaute nach oben. Am Himmel zogen einige Wolken, doch es sah nicht nach Regen aus. Im Gegensatz zu seinen Kamaraden machte es ihm nicht viel aus, bei Wind und Wetter unterwegs zu sein und jede Nacht im Zelt zu verbringen, ganz gleich, wie sehr der Regen gegen die Plane <strong>prasselte</strong>. (<i>Marlow</i>, 52)',
 ],
 pudern: [
 	'<strong>pudern</strong>: powder (eg, nose); &nbsp;fuck'+
@@ -19597,6 +19658,7 @@ if you don't find a Redewendung by its first word, look for it under one of its 
 
 ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen       
  'abaschen'  ;   Nworte++;    Märzgefallene   37 
+ abfärben  Marlow 53
  abgelten   Märzgefallene  542 
  abhaken Lunapark 449
  'abheften'  ;   Nworte++;    Märzgefallene   27

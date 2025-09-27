@@ -136,6 +136,7 @@ const k = [
    'kritzeln' ,  // kritzeln: 
    'Kroppzeug', // Kroppzeug: 
    'Kröte (K. schlucken)', // 
+   'Krücke', // Krücke:
    'Krümel',  // Krümel: 
    'krümmen', // krümmen:
    'Kühlerhaube, Haube', // duplicated 

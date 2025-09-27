@@ -34,6 +34,7 @@ const p = [
    'pinkeln',  // pinkeln: 
    'pinseln, bepinseln',  //  duplicated  
    'Plackerei', // Plackerei:
+   'Plane',  // Plane:
    'planschen', // planschen:  
    'plappern, nachplappern, Geplapper',  // triplicated  
    'platschen', // platschen: 

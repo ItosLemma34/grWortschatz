@@ -56,7 +56,8 @@ const f = [
    'formvollendet', // formvollendet:  
    'forsch',  // forsch: 
    'Fraktur', // Fraktur:   
-   'Fratze',  // Fratze:  
+   'Fratze',  // Fratze: 
+   'Freiersfüße', // Freiersfüße: 
    'frequentieren',  // frequentieren:  
    'Frevel',    // Frevel:  
    'frisieren',  // frisieren: 

@@ -8,7 +8,7 @@ const z = [
    'Zapfen', // Zapfen: 
    'zappeln', // zappeln:  
    'Zarge' , // Zarge:  
-   'zartbesaitet', // 
+   'zartbesaitet, besaitet',  // duplicated
    'zaudern', // zaudern: 
    'Zaunlatte, Dachlatte',  // duplicated 
    'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated 

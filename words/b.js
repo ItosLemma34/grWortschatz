@@ -35,6 +35,7 @@ const b = [
     'berappen',   // berappen:  
     'beredt',     // beredt:  
     'Beritt, beritten',     
+    'besaitet, zartbesaitet',  // duplicated
     'bescheuert',  // bescheuert: 
     'Besen',      // Besen: 
     'bestatten, Bestatter, Bestattung', 
@@ -52,7 +53,8 @@ const b = [
     'Blase',  // Blase:  
     'blasiert',  // blasiert: 
     'Blaumann',  // Blaumann:  
-    'Blech, blechern', //   
+    'Blech, blechern', // 
+    'Blechschaden',  // Blechschaden: 
     'blendend',  // blendend:  
     'blinzeln',  // blinzeln:  
     'Blöße, sich keine B. geben', //   

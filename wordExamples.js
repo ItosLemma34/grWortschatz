@@ -1,10 +1,13 @@
 export const wordExamples = {              
 //Büro möchte Überraschung Männer  
 /*
-// <strong> (<i>Märzgefallene</i>, 000)', (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// (<i>Der nasse Fisch</i>, 000)',  (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
-// (<i>Marlow</i>, 000)',
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Märzgefallene</i>, 000)', (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// ' (<i>Der nasse Fisch</i>, 000)',  ' (<i>Der stumme Tod</i>, 000)', ' (<i>Märzgefallene</i>, 000)', ' (<i>Lunapark</i>, 000)', 
+// ' (<i>Marlow</i>, 000)',
 zzz: [  
 	'<strong>zzz</strong>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
@@ -15,9 +18,48 @@ zzz: [
 	'<u>Lunapark</u>',   
 	'<u>Marlow</u>',
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß Bilder von Blechschäden    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+'besaitet, zartbesaitet': [  
+	'<strong>besaiten</strong>: to string (<i>Geige</i>, <i>Tennisschläger</i>, etc)'+
+	'<br><strong>besaitet</strong>: strung'+ 
+	'<br><strong>zart besaitet</strong> or <strong>zartbesaitet</strong>: highly strung, sensitive'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zartbesaitet"target="target1">zart besaitet</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/besaitet"target="target2">zart besaitet</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zartbesaitet"target="target3">zart besaitet</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/zartbesaitet"target="target4">zart besaitet</a>',
+	'<u>Der nasse Fisch</u>',
+	'Sie (<i>Charly</i>) begutachtete ihr Gesicht kurz im Spiegel. Für einen (<i>Besucher</i>) aus der Burg reichte es. Wollte sich Reinhold bei ihr ausheulen? Der Kriminalassistent war manchmal etwas <strong>zartbesaitet</strong>. Vor allem, wenn er Fehler machte. (<i>Der nasse Fisch</i>, 491)',   
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'Elli Blarr blieb stehen und starrte auf die schwarz-weiß Leiche (<i>auf die Fotos davon</i>) ihres Fahrers und die klaffende Brustwunde. "Mein Gott", sagte sie, "der arme Otto!" <i>Rath</i>: "Er dürfte seine schweren Verletzungen nicht mehr gespürt haben... Tut mir leid, dass Sie das gesehen haben..".. Sie winkte ab. "So <strong>zart besaitet</strong> bin ich nicht. Das ist nicht der erste schwere Verkehrsufall, den ich sehe..." (<i>Marlow</i>, 60)',	
+],
+'zartbesaitet, besaitet': [  
+	'<strong>besaiten</strong>: to string (<i>Geige</i>, <i>Tennisschläger</i>, etc)'+
+	'<br><strong>besaitet</strong>: strung'+ 
+	'<br><strong>zart besaitet</strong> or <strong>zartbesaitet</strong>: highly strung, sensitive'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zartbesaitet"target="target1">zart besaitet</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/besaitet"target="target2">zart besaitet</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zartbesaitet"target="target3">zart besaitet</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/zartbesaitet"target="target4">zart besaitet</a>',
+	'<u>Der nasse Fisch</u>',
+	'Sie (<i>Charly</i>) begutachtete ihr Gesicht kurz im Spiegel. Für einen (<i>Besucher</i>) aus der Burg reichte es. Wollte sich Reinhold bei ihr ausheulen? Der Kriminalassistent war manchmal etwas <strong>zartbesaitet</strong>. Vor allem, wenn er Fehler machte. (<i>Der nasse Fisch</i>, 491)',   
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'Elli Blarr blieb stehen und starrte auf die schwarz-weiß Leiche (<i>auf die Fotos davon</i>) ihres Fahrers und die klaffende Brustwunde. "Mein Gott", sagte sie, "der arme Otto!" <i>Rath</i>: "Er dürfte seine schweren Verletzungen nicht mehr gespürt haben... Tut mir leid, dass Sie das gesehen haben..".. Sie winkte ab. "So <strong>zart besaitet</strong> bin ich nicht. Das ist nicht der erste schwere Verkehrsufall, den ich sehe..." (<i>Marlow</i>, 60)',	
+],
+Blechschaden: [  
+	'der <strong>Blechschaden</strong>,-<strong>schäden</strong>: car body damage'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Blechschaden"target="target1">Blechschaden</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Blechsch%C3%A4den"target="target2">Blechschaden</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blechschaden"target="target3">Blechschaden</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Blechschaden&id=substantiv%3ABlechschaden"target="target4">Blechschaden</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'"Ich frage mich", fuhr Elli Blarr fort, "warum man mich nicht davon in Kenntnis gesetzt hat, dass mein Fahrer einen tödlichen Unfall hatte und mein Fahrzeug einen <strong>Blechschaden</strong>. Stattdessen lassen Sie (<i>Rath</i>) den Wagen einfach abschleppen." (<i>Marlow</i>, 58)',
+],
+Freiersfüße: [  
+	'<strong>auf Freiersfüßen gehen</strong>: go courting, look for a wife'+   
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Freiersfuesze"target="target1">Freiersfüße</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auf%20Freiersf%C3%BC%C3%9Fen%20gehen"target="target2">Freiersfüße</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Freiersfüße"target="target3">Freiersfüße</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Freiersf%C3%BC%C3%9Fen"target="target4">Freiersfüße</a>',
+//	'<u>Der stumme Tod</u>',   
+	'<u>Marlow</u>',
+	'Rath betrachtete den Ring, den sie bei dem Toten gefunden hatten. Nicht der allerteuerste, aber als solider Verlogungsring würde er durchgehen. Ein junger Mann <strong>auf Freiersfüßen</strong>, der mit dem unglückseligen Taxifahrer in den Tod gerast war? (<i>Marlow</i>, 54)',
+],
 Heulsuse: [  
 	'die <strong>Heulsuse</strong>,-<strong>n</strong>: crybaby, sniveler, sissy'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Heulsuse"target="target1">Heulsuse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Heulsuse"target="target2">Heulsuse</a>'+
@@ -356,7 +398,13 @@ schleudern: [
 	'Der (<i>Fritze</i>) schaute sich um und holte einen großen Messingaschenbecher aus einem der Warenregale, <strong>schleuderte</strong> ihn weit durch das Dämmerlicht, so dass er mit lautem Scheppern irgendwo am anderen Ende des riesigen Verkaufsraumes einschlug. (<i>Märzgefallene</i>, 173)',
 	'<u>Marlow</u>',   
 	'<i>Rath</i>: "Und der andere?" <i>der Hauptwachtmeister</i>: "Der lag schon ungefähr da, wo er jetzt liegt. Muss aus dem Wagen <strong>geschleudert</strong> worden sein, dann gegen die Mauer geprallt und schließlich auf den Asphalt." (<i>Marlow</i>, 27-28)',   
+	'Die Revierpolizisten hatten keinerlei <strong>Schleuder</strong>- oder Bremsspuren gefunden, ein verkehrsbedingtes Ausweichmanöver also ausgeschlossen, ebenso, dass der Fahrer die Kontrolle über sein Fahrzeug verloren haben könnte. (<i>Marlow</i>, 55-56)', 
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Märzgefallene</i>, 000)', (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 'Spieß, spießen, aufspießen': [  
 	'der <strong>Spieß</strong>,-<strong>e</strong>: spear, skewer'+
 	'<br><strong>spießen</strong>: spear, skewer, impale'+
@@ -858,13 +906,6 @@ geständig: [
 	'<u>Märzgefallene</u>', 
 	'Rath schien es angebracht, Interesse zu <strong>heucheln</strong>. (<i>Märzgefallene</i>, 538)',
 ],
-zartbesaitet: [  
-	'<strong>zartbesaitet</strong>: highly sensitive, high-strung'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zartbesaitet"target="target1">zartbesaitet</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zartbesaitet"target="target2">zartbesaitet</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/zartbesaitet"target="target3">zartbesaitet</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/zartbesaitet"target="target4">zartbesaitet</a>',
-	'<u>Der nasse Fisch</u>',
-	'Sie (<i>Charly</i>) begutachtete ihr Gesicht kurz im Spiegel. Für einen (<i>Besucher</i>) aus der Burg reichte es. Wollte sich Reinhold bei ihr ausheulen? Der Kriminalassistent war manchmal etwas <strong>zartbesaitet</strong>. Vor allem, wenn er Fehler machte. (<i>Der nasse Fisch</i>, 491)',   
-],
 'dämm(e)rig': [  
 	'<strong>dämmrig</strong> = <strong>dämmerig</strong>: dim, dark'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/daemmrig"target="target1">dämmrig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/d%C3%A4mmrig"target="target2">dämmrig</a>'+
@@ -926,6 +967,7 @@ vorführen: [
 	'Den Türgriff in der Hand wandte er (<i>Gerhard Brunner</i>) den Blick von der heran<strong>rasenden</strong> Mauer im letzten Moment ab, als könne er das unerbittliche Schicksal durch Wegschauen doch noch besiegen. Das Letzte, was er in seinem Leben sehen sollte, war der Blumenstrauß auf dem Rücksitz, der ihm einen eigentümlichen Trost spendete. (<i>Marlow</i>, 18-19)',
 	'Gebhardt wies auf die Leiche des Taxifahrers. Er machte ein Gesicht, als verpetzte er jemanden auf dem Schulhof. "Dieser Mann dort", sagte er, "ist mit seinem Kraftwagen mit voller Absicht auf den Gehweg <strong>gerast</strong>. Direkt auf mich zu..." (<i>Marlow</i>, 31)',
 	'Der andere Zeuge (<i>Herr Brückner</i>) zuckte die Achsen. "Aber eines kann ick bestätigen. Der hat nicht gebremst, sondern noch Gas gegeben. Is mit \'nem Affenzahn quer über die Straße auf den Gehweg <strong>gerast</strong>..." (<i>Marlow</i>, 33)',   
+	'Rath betrachtete den Ring, den sie bei dem Toten gefunden hatten. Nicht der allerteuerste, aber als solider Verlogungsring würde er durchgehen. Ein junger Mann auf Freiersfüßen, der mit dem unglückseligen Taxifahrer in den Tod <strong>gerast</strong> war? (<i>Marlow</i>, 54)',
 ], 
 'mähen, Rasenmäher': [
 	'<strong>mähen</strong>: cut, mow (grass, lawn)'+
@@ -2033,6 +2075,8 @@ vertilgen: [
 	'<u>Lunapark</u>',
 	'Und Leo.. war aus seiner Deckung getreten, den Schläger in der Hand, bereit, Horst Kaczmaek von dem Alten herunterzuprügeln. Doch bevor er nah genug herankommen konnte, griff Katsche sich plötzlich an die Gurgel und stand auf, taumelte hin und her, röchelte und <strong>würgte</strong>. (<i>Lunapark</i>, 249)',
 	'Der nächste Schlag sauste nieder, und der Schrei des Kommunisten ging in ein <strong>Würge</strong>geräusch über. Karl Reinhold erbrach sich durch die Bettfedern in den Blecheimer, den sie vorsichtshalber unter sein Gesicht gestellt hatten. (<i>Lunapark</i>, 334)',
+	'<u>Marlow</u>',
+	'... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den Kloß in seinem Hals runterzu<strong>würgen</strong>, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)', 
 ],
 'reinwürgen, Würge, würgen': [  
 	'die <strong>Würge</strong>,-<strong>n</strong>: choking, strangling (<i>altmodisch</i>)'+
@@ -2051,6 +2095,8 @@ vertilgen: [
 	'<u>Lunapark</u>',
 	'Und Leo.. war aus seiner Deckung getreten, den Schläger in der Hand, bereit, Horst Kaczmaek von dem Alten herunterzuprügeln. Doch bevor er nah genug herankommen konnte, griff Katsche sich plötzlich an die Gurgel und stand auf, taumelte hin und her, röchelte und <strong>würgte</strong>. (<i>Lunapark</i>, 249)',
 	'Der nächste Schlag sauste nieder, und der Schrei des Kommunisten ging in ein <strong>Würge</strong>geräusch über. Karl Reinhold erbrach sich durch die Bettfedern in den Blecheimer, den sie vorsichtshalber unter sein Gesicht gestellt hatten. (<i>Lunapark</i>, 334)',
+	'<u>Marlow</u>',
+	'... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den Kloß in seinem Hals runterzu<strong>würgen</strong>, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)', 
 ],
 deponieren: [  
 	'<strong>deponieren</strong>: place, deposit, consign sth.'+
@@ -2385,6 +2431,7 @@ Pimpf: [
 	'Und seither hatte Gereon mit keiner Silbe mehr erwähnt, dass Fritze im Lunapark dabei gewesen war, nicht einmal, wenn sie (<i>Gereon und Charly</i>) unter sich waren und hätten reden können. Dass ein <strong>Pimpf</strong> den gefährlichen Verbrecher erledigt hatte. Und seinem Pflegevater das Leben gerettet! Nein, Gereon hatte alle Lorbeeren für sich eingeheimst. (<i>Lunapark</i>, 542)',
 	'<u>Marlow</u>',
 	'Gegen die Prüfungen für den Reichsparteitagsmarsch nämlich war die <strong>Pimpfen</strong>probe, die Atze und er vor einem halben Jahr gemeinsam absolviert hatten, der reinste Spaziergang. (<i>Marlow</i>, 52)',
+	'Charly war nicht stolz. Auf gar nichts, war er tat. Alles machte sie schlecht, und nie war sie dabei. Nicht als er die <strong>Pimfen</strong>probe mit Bravour bestanden hatte, nicht bei seiner Aufnahme in die HJ... (<i>Marlow</i>, 53-4)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -10039,14 +10086,14 @@ hochgestochen: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 Heidenarbeit: [
-	'die <strong>Heidenarbeit</strong>:  arduous/tedious task'+
+	'die <strong>Heidenarbeit</strong>: arduous/tedious task'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Heidenarbeit"target="target1">Heidenarbeit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Heidenarbeit"target="target2">Heidenarbeit</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Heidenarbeit"target="target3">Heidenarbeit</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Heidenarbeit"target="target4">Heidenarbeit</a>',
-//	'<u>Der nasse Fisch</u>',
 //	'<u>Der stumme Tod</u>',
-//	'<u>Märzgefallene</u>',
 	'<u>Lunapark</u>',
 	'"Wir sind gerade dabei", fuhr Gräf fort, "eine Liste der Halter eines solchen Fahrzeuges zu erstellen.." <i>Rath</i>: "Ich glaube nicht, dass ein aktenkundiger Kommunist sein Auto für solche Zwecke zur Verfügung gestellt hat.. Das heiß, Namen abgleichen wird nicht reichen", meinte Rath. "Wir müssten jeden einzelnen Halter aufsuchen und überprüfen, eine <strong>Heidenarbeit</strong>." (<i>Lunapark</i>, 153)',
+	'<u>Marlow</u>',
+	'Der einzige Anhaltspunkt.. war der Schlüssel. Die Suche nach dem dazu passenden Schließfach war nicht unmöglichlich, aber aufwendig. Es gab allein neun Fernbahnhöfe in Berlin, gar nicht zu reden von den unzähligen kleineren Stadt- und Vorortbahnhöfen.. Eine <strong>Heidenarbeit</strong>. (<i>Marlow</i>, 56)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -11701,11 +11748,16 @@ Kloß: [
 	'<u>Lunapark</u>',
 	'Charly wusste, dass ihre Wut ungerecht war, dennoch war sie da. Sie reagierte sich an Küchengeräten ab. Als die Kartoffel<strong>klöße</strong> endlich im Wasser waren, fing sie an aufzuräumen. (<i>Lunapark</i>, 127)',
 	'<i>Gereon</i>: "..Kirie ist tot.".. <i>Charly</i>: "Mein Gott, das kann doch nicht wahr sein", sagte sie nach einer Weile, obwohl sie spürte, dass es das war. Sie hatte einen <strong>Kloß</strong> im Hals. "Was um Himmels willen ist denn passiert?" (<i>Lunapark</i>, 366)',
+	'<u>Marlow</u>',
+	'Bei der Verabschiedung in Berlin vor zwei Wochen hatte er (<i>Fritze</i>) einen <strong>Kloß</strong> im Hals gehabt, aber geweint hatte er nicht. Obwohl ihm danach zumute war. (<i>Marlow</i>, 53)',
+	'... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den <strong>Kloß</strong> in seinem Hals runterzuwürgen, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)', 
 ], 
-// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', 
+//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Märzgefallene</i>, 000)', (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
+// ' (<i>Der nasse Fisch</i>, 000)',  ' (<i>Der stumme Tod</i>, 000)', ' (<i>Märzgefallene</i>, 000)', ' (<i>Lunapark</i>, 000)', 
+// ' (<i>Marlow</i>, 000)',
 Knöchel: [  
 	'der <strong>Knöchel</strong>,-: ankle; knuckle'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Knoechel"target="target1">Knöchel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kn%C3%B6chel"target="target2">Knöchel</a>'+
@@ -12738,6 +12790,8 @@ meckern: [
 	'Sie (<i>Fritz, Atze und dessen Vater</i>) fuhren in einem nagelneuen BMW 303, einer Limousine, die deutlich großer war als Gereons amerikanisches Auto, das nicht einmal eine Rückbank besaß, sodass Fritze immer auf dem Notsitz Platz nehmen musste, wenn sie zu dritt irgendwohin fuhren. Auch Charly hatte schon öfter <strong>gemeckert</strong>, das Auto sei zu klein... (<i>Lunapark</i>, 457-58)',
 	'<u>Marlow</u>',
 	'Für Rath waren Überstunden, seit Gennat ihn in der Kriminalgruppe M am ausgestreckten Arm verhungern ließ, so selten wie Schnee im August. Und für Charly waren sie die Regel, seit sie für Wilhelm Böhm arbeitete. Natürlich passte Rath das nicht, doch er konnte nicht <strong>meckern</strong>, sie brauchten das Geld. (<i>Marlow</i>, 45)',
+	'Und zuhause <strong>meckerte</strong> sie (<i>Charly</i>) fast jedesmal rum, wenn er (<i>Fritze</i>) die Uniform trug, dass er nach den Gruppenabenden so oft es ging bei den Rademanns und seinem Freund Atze übernachtete stat zuhause in der Carmerstraße. (<i>Marlow</i>, 54)',
+	'In Charly hatte er (<i>Fritze</i>) gefhofft, eine neue Mutter gefunden zu haben, jedenfals eine Frau, die sich um ihn kümmerte und der er nicht völlig gleichgültig war. Keine Pflegemutter, die nur so tat, als wolle sie einen aus der Gosse holen und einen am Ende doch im Stich ließ und nur rum<strong>meckerte</strong>, bei allem, was er tat. (<i>Marlow</i>, 54)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'meucheln, Meuchelmord': [ 
@@ -12753,6 +12807,8 @@ meckern: [
 	'<i>Pfeiffer</i>: "Walter Spindler ist so gut wie nie verhaftet worden. Erst als die Rotfront den Kameraden Maikowski <strong>meuchelte</strong>, hat ihn auch seine Blindenbinde nicht mehr gerettet." (<i>Lunapark</i>, 289)', 
 	'In der Presse war seine (<i>Raths</i>) Heldentat, das Ausschalten eines polizeibekannten Berufsverbrechers, der sich offensichtlich einer bolschewistischen Widerstandsgruppe angeschlossen hatte, um unschuldige SA-Männer zu <strong>meucheln</strong>, leider etwas untergegangen angesichts der vielen anderen Heldentaten, die nötig gewesen waren, um den Putsch der Verschwörer um Röhm zu verhindern... (<i>Lunapark</i>, 544)',
 	'<i>Emilie Osterberg</i>: ".. Die Regierung des Deutschen Reiches hat sich verhalten wie eine Gangsterbande und all ihre Feinde <strong>meucheln</strong> lassen..." (<i>Lunapark</i>, 556)',
+	'<u>Marlow</u>',
+	'Im Wind wehten die Fahnen aller zwölf Berliner HJ-Banne, und Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren <strong>gemeuchelt</strong> hatte. (<i>Marlow</i>, 54)', 
 ],
 Messing: [
 	'das <strong>Messing</strong>,-<strong>e</strong>: brass'+
@@ -12964,7 +13020,8 @@ nachsetzen: [
 	'Zusammen mit den Zeitschriften waren den jungen Schupos auch die pornographischen Hochglanzfotos um die roten Ohren geflattert. Ihre Bewunderung für die Kunstfertigkeiten der Fotomodelle hätte sie beinah vergessen lassen, dem flüchtigen Händler <strong>nachzusetzen</strong>. (<i>Der nasse Fisch</i>, 15)',
 ],
 Nutte: [
-	'die <strong>Nutte</strong>,-<strong>n</strong>: whore'+
+	'die <strong>Nutte</strong>,-<strong>n</strong>: whore, slut'+
+	'<br>die <strong>Nutte</strong>,-<strong>n</strong>: strong insult: bad woman, not (necessarily) a whore'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Nutte"target="target1">Nutte</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Nutte"target="target2">Nutte</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Nutte"target="target3">Nutte</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Nutte"target="target4">Nutte</a>',
 	'<u>Der nasse Fisch</u>',
@@ -12975,6 +13032,8 @@ Nutte: [
 	'Auf dem Eigelstein standen die <strong>Nutten</strong> vor den Eckkneipen und quatschten wie eh und je sämtliche Wesen männlichen Geschlechts an, die vorbeikammen, ganz gleich wie alt dieselben sein mochten. (<i>Märzgefallene</i>, 316)' ,
 	'<u>Lunapark</u>', 
 	'Das Kettenkarussell, die Wasserrutsche, das Tanzende Haus, sämtliche Attraktionen waren noch in Schuss, doch der Park, zu dem sie gehörten, stand auf Abriss. Allein das Wellenbad an der Bornimer Straße, von den Berlinern wenig charmant <strong>Nutten</strong>aquarium getauft, hatte weiterhin geöffnet, aber auch dessen Tage waren gezählt. (<i>Lunapark</i>, 247)',  
+	'<u>Marlow</u>', 
+	'"Wie er (<i>Fritze</i>) seine Kameraden beneidete, die eine richtige Mutter hatten. Und keine <strong>Nutte<strong>, der ihre Kinder scheißegal waren..."   (<i>Marlow</i>, 54)' ,
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -19744,6 +19803,7 @@ entgleisen  Der nasse Fisch 404
  entsinnen Lunapark 87
  entgegensehen Marlow 11
  entgeistert Der nasse Fisch 522
+ erlösen Marlow 59
  erstehen  Märzgefallene   436
  Essig Der nass Fisch 499
  Fahrtwind        Märzgefallene   519
@@ -19904,6 +19964,7 @@ schwuchtel Märzgefallene  554
  Verätzungen  Der nasse Fisch 540
  verhökert  Der nasse Fisch 517
  verkohlen Der stumme Tod 23
+ wehen Marlow 54  appears in 'meucheln, Meuchelmord'
  zerreisen (?) Der nasse fisch 473
  zucken  Der nasse Fisch 471
  Zuhälter Der nasse Fisch  457

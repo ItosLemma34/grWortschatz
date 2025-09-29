@@ -109,7 +109,8 @@ const v = [
    'verwetten',  // verwetten: 
    'verwittern', // verwittern:  
    'verwuscheln, verwuschelt', // 
-   'verwüsten',  // verwüsten:  
+   'verwüsten',  // verwüsten:
+   'verzieren', // verzieren:  
    'verzückt', // verzückt:  
    'vierschrötig', // vierschrötig:   
    'vögeln',    // vögeln: 

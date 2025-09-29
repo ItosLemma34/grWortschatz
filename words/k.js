@@ -135,7 +135,7 @@ const k = [
    'Kritikaster',  // Kritikaster: 
    'kritzeln' ,  // kritzeln: 
    'Kroppzeug', // Kroppzeug: 
-   'Kröte (K. schlucken)', // 
+   'Kröte (K. schlucken)',  
    'Krücke', // Krücke:
    'Krümel',  // Krümel: 
    'krümmen', // krümmen:

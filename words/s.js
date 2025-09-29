@@ -165,6 +165,7 @@ const s = [
    'sperrig',  // sperrig:       
    'spicken',  // spicken:  
    'Spieß, spießen, aufspießen',  //  duplicated
+   'Spind',  // Spind:
    'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel: 
    'spreizen', // spreizen: 

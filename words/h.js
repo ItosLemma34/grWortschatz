@@ -77,6 +77,7 @@ const h = [
    'Hunde (vor die H. gehen)',  // duplicated 
    'Hüne',  // Hüne: 
    'huschen',  // huschen: 
+   'husten, hüsteln',
    'Hut (auf der H. sein)',  //  duplicated 
  ];
 

@@ -14,6 +14,7 @@ const b = [
     'beflissen',  // beflissen: 
     'begrapschen',  // begrapschen:  
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
+    'behäbig, Behäbigkeit', 
     'behelligen, unbehelligt',   // duplicated  
     'beherzt',     // beherzt:   
     'beichten',  // beichten:  
@@ -66,7 +67,7 @@ const b = [
     'Bohei',   // Bohei: 
     'Bohle',    // Bohle:  
     'bohnern',  // bohnern: 
-    'Bolzen',  //  Bolzen:   
+    'Bolzen, Gewinde, Gewindebolzen',  //  duplicated   
     'Bonze',   // Bonze:
     'Bordmittel',  // Bordmittel: 
     'Bordstein', // Bordstein: 

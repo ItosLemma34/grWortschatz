@@ -51,7 +51,8 @@ const r = [
    'roden', // roden:  
    'Rohrkrepierer', // Rohrkrepierer: 
    'rosten', // rosten: 
-   'Rottenführer',  // Rottenführer: 
+   'Rottenführer',  // Rottenführer:
+   'Rudel',  // Rudel: 
    'rührig',  // rührig: 
    'rülpsen', // rülpsen: 
    'rumärgern, herumärgern', // duplicated  

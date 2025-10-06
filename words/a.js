@@ -6,7 +6,8 @@ const a = [
 	'abfackeln',  // abfackeln:  
 	'abgebrüht',  // abgebrüht:   
 	'abgrasen',   // abgrasen:   
-	'abgreifen, abgegriffen',   
+	'abgreifen, abgegriffen',
+	'abhalftern, abgehalftert',   
 //	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
 	'abheften, heften, Hefter', // triplicated 
 	'abkanzeln' , // abkanzeln:  
@@ -126,7 +127,8 @@ const a = [
 	'auf Granit beißen',  
 	'auf Halde legen',    
 	'auf Zack sein',     
-	'aufbahren',   // aufbahren:  
+	'aufbahren',   // aufbahren:
+	'aufbäumen',  // aufbäumen:  
 	'aufbauschen, bauschen', // duplicated   
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern',  // aufdonnern: 

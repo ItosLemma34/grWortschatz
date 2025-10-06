@@ -20,7 +20,8 @@ const u = [
    'umzingeln' ,  // umzingeln: 
    'unbehelligt, behelligen', //  duplicated 
    'unbescholten', // unbescholten: 
-   'unbotmäßig',  // unbotmäßig: 
+   'unbotmäßig',  // unbotmäßig:
+   'unentwegt',  // unentwegt: 
    'unerheblich, erheblich', //  duplicated 
    'unflätig',  // unflätig: 
    'ungehalten',  // ungehalten: 

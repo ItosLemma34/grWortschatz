@@ -27,6 +27,7 @@ const v = [
    'verhallen' ,  // verhallen: 
    'verheben',  // verheben:  
    'verheddern',  // verheddern: 
+   'verheult, heulen',  // duplicated
    'verhexen',   // verhexen: 
    'verhökern',  // verhökern: 
    'verhunzen',  // verhunzen: 

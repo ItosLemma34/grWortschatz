@@ -13,7 +13,7 @@ const i = [
    'in einem fort (schnattern)', // duplicated 
    'in Schuss sein', //  duplicated 
    'ins Fettnäpfchen treten', //  duplicated 
-   'ins Handwerk pfuschen',  //  duplicated 
+   'ins Handwerk pfuschen, pfuschen',  //  duplicated 
    'ins Haus stehen', // 
    'ins Reine', // duplicated 
    'inspizieren',  // inspizieren: 

@@ -67,6 +67,7 @@ const g = [
    'Gewehrkolben',  // Gewehrkolben:  
    'Gewese',    // Gewese:  
    'Gewimmel, wimmeln',  //  duplicated 
+   'Gewinde, Bolzen, Gewindebolzen',  // duplicated
    'Gewinsel',  // Gewinsel: 
    'Gewirr',    // Gewirr: 
    'Gewölbe',  // Gewölbe: 

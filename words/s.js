@@ -1,7 +1,8 @@
 const s = [
    'sabbern',  // sabbern:  
    'Sägemehl', // Sägemehl: 
-   'sägen, aussägen', // duplicated  
+   'sägen, aussägen', // duplicated 
+   'Salbung, salbungsvoll', 
    'Sammelsurium', // Sammelsurium:  
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
@@ -50,6 +51,7 @@ const s = [
    'Schlampe', // Schlampe: 
    'schlampig',  // schlampig: 
    'schlängeln',  // schlängeln:  
+   'schlapp, schlappmachen',
    'Schlappschwanz',  // Schlappschwanz: 
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch:

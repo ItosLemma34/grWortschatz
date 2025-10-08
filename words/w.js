@@ -11,6 +11,7 @@ const w = [
    'warm anziehen', // 
    'was das Zeug hält', //  duplicated  
    'Wassern (mit allen W. gewaschen)',  //  duplicated  
+   'weben, verweben', // duplicated
    'Wecker (auf den W. gehen)',  //  duplicated 
    'wedeln',  // wedeln: 
    'wegätzen, ätzen',  // duplicated 

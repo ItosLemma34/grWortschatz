@@ -1,6 +1,7 @@
 const b = [
     'Backfisch', // Backfisch:   
     'Bahre',  // Bahre: 
+    'Bälde',  // Bälde:
     'Balken, Gebälk', // duplicated  
     'ballern',  // ballern:  
     'Banderole', // Banderole: 

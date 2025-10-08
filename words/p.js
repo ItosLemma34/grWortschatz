@@ -14,7 +14,8 @@ const p = [
    'pauken', // pauken: 
    'Pegel',  // Pegel: 
    'peilen', // peilen: 
-   'peinigen, Peiniger',  
+   'peinigen, Peiniger', 
+   'Peitsche, peitschen', 
    'Pelle (auf die P. rücken)', //  duplicated 
    'Pest an den Hals', 
    'petzen', // petzen: 

@@ -105,6 +105,7 @@ const v = [
    'verunzieren',  // verunzieren:  
    'Verwahrlosung, verwahrlosen', // 
    'verwaisen, verwaist', //  
+   'verweben, weben', // duplicated
    'verwegen',  // verwegen:  
    'verwesen, Verwesung', //  
    'verwetten',  // verwetten: 

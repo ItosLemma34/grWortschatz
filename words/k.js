@@ -63,7 +63,7 @@ const k = [
    'Klemme, klemmen',   
    'Klette',  // Klette: 
    'klimpern', // klimpern: 
-   'Klinge', //  Klinge: 
+   'Klinge, über die K. springen', //  duplicated 
    'Klippe', //  Klippe: 
    'klirren', // klirren: 
    'klitzeklein', // klitzeklein: 

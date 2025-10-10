@@ -13,7 +13,7 @@ Laufgitter:	'Als Rat sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach 
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 Fluter = Scheinwerfer (spotlight)  
 Include brummen with 'brummig, Brummigkeit';  brummen pg 67 Marlow  appears in "unwirsch"
-zzz: [  
+zzz : [  
 	'<strong>zzz</strong>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
@@ -29,6 +29,56 @@ zzz: [
 	' (<i>Marlow</i>, 000)',
 ],
 */
+Beteuerung : [  
+	'die <strong>Beteuerung</strong>,-<strong>en: affirmation, assertion, solemn declaration'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beteuerung"target="target1">Beteuerung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Beteuerung"target="target2">Beteuerung</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/beteuerung"target="target3">Beteuerung</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Beteuerung&id=substantiv%3ABeteuerung"target="target4">Beteuerung</a>',
+//  '<u>Der stumme Tod</u>',
+//	' (<i>Der stumme Tod</i>, 171)',	
+	'<u>Marlow</u>',  
+	'Also war er (<i>Marlow</i>) zurückgekehrt (<i>von Amerika</i>) vor einem Jahr, gerade rechtzeitig, um Hermann Lapke, seinen alten Widersacher, den Chef der Nordpiraten, daran zu hindern, die totale Kontrolle über die Berliner Unterwelt zu übernehmen. Denn die gab es, allen gegenteiligen <strong>Beteuerungen</strong> zum Trotz, natürlich immer noch, auch wenn es keine Ringvereine mehr gab. (<i>Marlow</i>, 77-78)',
+],
+todgeweiht : [  
+	'<strong>todgeweiht</strong>: doomed'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/todgeweiht"target="target1">todgeweiht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/todgeweiht"target="target2">todgeweiht</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/todgeweiht"target="target3">todgeweiht</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/todgeweiht"target="target4">todgeweiht</a>',
+	'<u>Marlow</u>',  
+	'<i>Doktor Reincke</i>: "Mehr als zwei, drei Wochen hätte er (<i>Otto Lehmann</i>) ohnehin nicht mehr gehabt. Höchstens. Und die Schmerzen sind am Ende unerträglich. <strong>Todgeweiht</strong> war er sowieso." (<i>Marlow</i>, 76)',
+],
+'schürfen, Schürfwunde' : [  
+	'<strong>schürfen</strong>: scrape; dig/prospect for sth.'+
+	'<br>die <strong>Schürfwunde</strong>,-<strong>n</strong>: scrape, abrasion, scratch'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schuerfen"target="target1">schürfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCrfwunde"target="target2">Schürfwunde</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schurfen"target="target3">schürfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCrfwunde&id=substantiv%3ASchu3rfwunde"target="target4">Schürfwunde</a>',
+//	'<u>Der stumme Tod</u>',
+//	coming: Schürfwunde '   (<i>Der stumme Tod</i>, 313 or 314)',	
+	'<u>Marlow</u>',  
+	'"Bei dem hier ist die Sache klar", sagte der Doktor (<i>Reincke</i>) nur und würdigte Brunner nicht einmal eines Blickes. "Genickbruch. Der Mann hat zwar weitere Knochenbrüche" sowie ein paar Platz- und <strong>Schürfwunden</strong> davongetragen, aber nur diese eine Verletzung war letal. (<i>Marlow</i>, 74-75)',
+],
+verunfallen: [  
+	'<strong>verunfallen</strong>: have an accident'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verunfallen"target="target1">verunfallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verunfallen"target="target2">verunfallen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verunfallen"target="target3">verunfallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verunfallen&id=verb%3Averunfallen"target="target4">verunfallen</a>',
+	'<u>Marlow</u>',  
+	'"Doktor Reincke hat was für uns", sagte Rath. "Ich fahr raus. Kümmer du dich solange schon mal um den SD. Sag ihnen, dass Obersturmführer Brunner tödlich <strong>verunfallt</strong> ist. Und frag nach seiner Familie, damit wir die Angehörigen benachrichtigen können." (<i>Marlow</i>, 73)',
+],
+'Geheimniskrämerei, Geheimniskrämer': [ 
+	'die <strong>Geheimniskrämerei</strong>,-<strong>en</strong>: secretiveness'+
+	'<br>der <strong>Geheimniskrämer</strong>,-: mysterymonger;'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geheimniskraemerei"target="target1">Geheimniskrämerei</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geheimniskr%C3%A4mer"target="target2">Geheimniskrämer</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Geheimniskr%C3%A4mer"target="target3">Geheimniskrämerei</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geheimniskraemerei"target="target4">Geheimniskrämer</a>',
+	'<u>Der nasse Fisch</u>',   
+	'In Jänickes Notizbuch stand die private Telefonnummer von Regierungsdirektor Wündisch! Der große Häuptling der Abteilung IA, der Chef der Politischen Polizei. Nicht einmal alle Inspektionsleiter in der Burg kannten diesen Privatanschluss, so weit trieb der Mann seine <strong>Geheimniskrämerei</strong>. (<i>Der nasse Fisch</i>, 385)',
+	'Einen Moment lang spielte er (<i>Rath</i>) mit dem Gedanken, den Chef der Politischen Polizei einfach anzurufen und ihn zu fragen. Doch er wusste, dass das keine gute Idee war. Die <strong>Geheimniskrämerei</strong> der IA war Legende. (<i>Der nasse Fisch</i>, 399)',
+	'Überhaupt nicht in irgendeines dieser Bilder passte es, dass die beiden (<i>die Russen</i>) als Polizeispitzel arbeiteten. Natürlich waren Spitzel keine Kollegen, aber warum sollten sie ein Polizistenbegräbnis sprengen und die gesamte Berliner Polizei blamieren wollen? Und für wen im Präsidium arbeiteten sie? Für die Politischen? Dass sie mit Wündischs <strong>Geheimniskrämern</strong> zu tun hatten, schien tatsächlich das Wahrscheinlichste zu sein. (<i>Der nasse Fisch</i>, 431)',
+	'<i>Charly</i>: ".. Du widerlicher Kerl!" <i>Gereon</i>: "Wenn du damit dezent andeuten willst, dass ich derjenige bin der das zwischen uns versaut hat - danke, nicht nötig! Das weiß ich selber! Und wenn ich die Zeit zurückdrehen könnte, würde ich es tun. Meine <strong>Geheimniskrämerei</strong> war ein ..." (<i>Der nasse Fisch</i>, 493)',
+	'<u>Lunapark</u>',   
+	'Als ein Erkennungsdienstler Pfeiffer mit seinem Vortrag ablöste.., hörte Rath nicht mehr hin. Seine Gedanken drehten sich um Charly. Um ihre <strong>Geheimniskrämerei</strong>. <i>War nur kurz mit dem Hund draußen</i>. Ihre Lüge hatte ihn stärker getroffen, als er das für möglich gehalten hätte. (<i>Lunapark</i>, 286)',	
+	'Sollte sie (<i>Charly</i>) ihm (<i>Gereon</i>) Unrecht getan haben? Sollte der Brief, den sie in Gereons Karton gefunden hatte, gar nicht von Marlow stammen? Hatte sie vielleicht irgendeine <strong>Geheimniskrämerei</strong> der Staatspolizei falsch verstanden? Gab es dort vielleicht ein hohes Tier, das sich mit M. abkürzte. (<i>Lunapark</i>, 478-79)',
+	'Was, wenn Gereons <strong>Geheimniskrämerei</strong> nichts mit der Polizei zu tun hatte? Was, wenn der einer der Verschwörer war? (<i>Lunapark</i>, 286)',
+	'<u>Marlow</u>',  
+	'<i>Rath</i>: "Hatte der Fahrer einen Herzinfarkt am Steuer?" "Nicht ganz. Kommen Sie vorbei, und ich zeige es Ihnen." Rath seufzte. Reincke mochte neu in der Rechtsmedizin sein, war aber ein ebensolcher <strong>Geheimniskrämer</strong> wie seine altgedienten Kollegen. (<i>Marlow</i>, 73)',
+],
 Bälde: [  
 	'<strong>in Bälde</strong>: soon, in the near future'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Baelde"target="target1">Bälde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20B%C3%A4lde"target="target2">Bälde</a>'+
@@ -2591,15 +2641,20 @@ Schlappschwanz: [
 	'Er (<i>Gräf</i>) hatte Glück. Conny war noch zuhause. Er war sogar noch in Unterwäsche. Manchmal schlief der Rottenführer <strong>bis in die Puppen</strong>. Vor allem, wenn die SA am Vorabend noch Einsätze hatte. (<i>Lunapark</i>, 190)',
 	'<i>Gräf</i>: Wir wissen ja noch gar nicht, ob die Männer sich auch im Sturmlokal befinden. Schließlich ist die SA ab heute im Urlaub." <i>Pfeiffer</i>: "Und wie ich die Kameraden kenne, haben sie den Urlaubsbeginn gestern <strong>bis in die Puppen</strong> gefeiert. Ich wette, die liegen alle noch unter den Tischen und schlafen ihren Rausch aus. (<i>Lunapark</i>, 471)',
 ],
-Masche: [  
+'Masche, maschig': [    
 	'die <strong>Masche</strong>,-<strong>n</strong>: mesh; (other meanings); trick, scam'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Masche"target="target1">Masche</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Masche"target="target2">Masche</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/masche"target="target3">Masche</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Masche&id=substantiv%3AMasche"target="target4">Masche</a>',
+	'<br><strong>maschig</strong>: meshed'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Masche"target="target1">Masche</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/maschig"target="target2">maschig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/masche"target="target3">Masche</a>&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=maschig"target="target4">eng-, fein-, grob-, weitmaschig</a>',
 	'<u>Der nasse Fisch</u>',   
 	'"Ach", meinte er (<i>Rath</i>) und drehte sich noch einmal zu Schäffner um. Der Hauswart glotzte durch den Türspalt wie ein Kaninchen durch das <strong>Maschen</strong>draht. (<i>Der nasse Fisch</i>, 466)',
 	'<u>Lunapark</u>',   
 	'"Walter Spindler", fuhr Pfeiffer fort, "hatte damals, in den Systemzeiten, als die Rotfront noch offen gegen die nationalsozialistische Bewegung Schlägereien und Saalschlachten anzettelte, eine <strong>Masche</strong>, mit der er der Polizei immer wieder durch die Lappen ging. (<i>Lunapark</i>, 289)',  
+	'<u>Marlow</u>',
+	'Für die Amis war er (<i>Marlow</i>) als Geschäftspartner nur interessant, solange er in Berlin war. Und in Berlin waren auch all die Kontakte, die er über die Jahre hinweg geknüpft hatte, ein eng<strong>maschiges</strong> Netz an Beziehungen, Freundschaften und Abhängigkeiten, die seine eigentlich Macht ausmachten, mehr noch als sein Geld. (<i>Marlow</i>, 77)',  
 ],
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 anzetteln: [  
 	'<strong>anzetteln</strong>: instigate, incite, provoke'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anzetteln"target="target1">anzetteln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anzetteln"target="target2">anzetteln</a>'+
@@ -2807,6 +2862,7 @@ Handlanger: [
 	'Er (<i>Rath</i>) klopfte und öffnete die Tür. Liselotte Mettmann war gerade dabei, etwas von ihrem Stenoblock <strong>ins Reine</strong> zu tippen, und schaute überrascht auf, als er eintrat. (<i>Lunapark</i>, 446)',   
 	'<u>Marlow</u>',
 	'<i>Rath</i>: ".. Wie lief die Vernehmung? Hat Frau Lehmann ihren Mann identifiziert?" <i>Czerwinski</i>: "Hat sie." "Un die Zeugen?" "Kein neuer Sacherhalt, aber ein paar neue Einzelheiten. Die Voss hat schon angefangen, die Protokolle <strong>ins Reine</strong> zu tippen, müsste gleich fertig sein." (<i>Marlow</i>, 72)',
+	'Rath ging ins Vorzimmer. Seine Sekretärin war immer noch damit beschäftigt, die Vernehmungsprotokolle <strong>ins Reine</strong> zu tippen. (<i>Marlow</i>, 73)',
 ],
 Trauerkloß: [  
 	'der <strong>Trauerkloß</strong>,-<strong>klöße</strong>: wet blanket, stick-in-the-mud, depressing person'+
@@ -4335,6 +4391,8 @@ brenzlig: [
 	'<u>Lunapark</u>',
 	'<i>Pfeiffer</i> "Spindler hat auf Seiten der Kommune bei sämtlichen Straßenschlahten mitgemischt. Das rechte Auge fehlt ihm seit der Marneschlacht anno achtzehn. Seither trägt er eine Prothese. Und immer wenn es für die Roten <strong>brenzlig</strong> wurde.., hat er das Glasauge rausgenommen, seine Kriegsblindenbinde angelegt und den armen Invaliden gespielt." (<i>Lunapark</i>, 289)',
 	'Jedes Mal, wenn er (<i>Rath</i>) über ein Gartentor sprang oder ein Schloss aufbrach, um in einen der verwaisten Gärten zu gelangen, vergewisserte er sich, ob auch keine Zeugen in der Nähe standen. Für den Fall der Fälle hatte er zwar seinen Polizeiausweis, aber so weit wollte er es nach Möglichkeit nicht kommen lassen. Zwei-, dreimal hatte es <strong>brenzlige</strong> Situationen gegeben, die hatte er mit ein launigen Worten zu der drückenden Hitze, unter der alle litten, bereinigen können. (<i>Lunapark</i>, 481-82)',
+	'<u>Marlow</u>',
+	'Seine (<i>Marlows</i>) Stellung im neuen Deutschland war unsicherer als in der Republik. Damals hatte es noch einen Rechtsstaat gegeben, damals hatten seine Anwälte ihn aus jeder <strong>brenzligen</strong> Situation heraushauen können, zumal er seine Geschäfte über die Berolina abwickelte, zu der er keinen offiziellen Kontakt pflegte, so dass man ihm seblst im Fall der Fälle nie etwas hätte nachweisen können. (<i>Marlow</i>, 78)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -6436,6 +6494,8 @@ antanzen: [
 	'<u>Lunapark</u>',
 	'Kirie lief schwanzwedelnd auf Marlow zu und ließ sich zur Begrüßung durchs Fell wuscheln. "Braves Hundchen", sagte der Gangster. So fühlte Rath sich auch. Wie ein braves Hundchen, das bei seinem Herrn und Meister <strong>antanzte</strong>. <strong>Antanzen</strong> musste. (<i>Lunapark</i>, 354)',
 	'Es war nicht das erste Mal, dass Rath nach den Ereignissen im Lunapark bei Gennat <strong>antanzen musste</strong>. (<i>Lunapark</i>, 544)',
+	'<u>Marlow</u>',
+	'Auf dem Wohnzimmertisch stand sogar ein Teller mit Gebäck, es herrschte eine Atmosphäre wie seinerzeit bei den Bespechungen in Gennats Büro. Diese Zeiten waren lange vorbei, für Rath jedenfalls. Wenn er jetzt beim Chef der Mordinspektion <strong>antanzen</strong> musste, gab es in der Regel nicht einmal mehr eine Tasse Tee, geschweige denn Kaffee oder gar Kuchen. (<i>Marlow</i>, 81)',
 ],
 Anwesen: [
 	'das <strong>Anwesen</strong>,-: estate, stately home; property'+
@@ -7311,9 +7371,11 @@ Brüstung: [
 	'<u>Lunapark</u>',
 	'Zigarettendunst schlug ihm (<i>Rath</i>) entgegen, so viel, dass ihm die Augen tränten. Die <strong>Bude</strong> war gerappelt voll, ein parr Braunhemden standen am Tresen und tranken... (<i>Lunapark</i>, 218)',
 	'Im Schatten der hoch aufragenden Terrassenrückwand, hinter dem Metallgestänge eines Kettenkarussells, an dem keine Sitze mehr hingen, sondern nur noch Ketten, stand ein deutlich niedrigeres Gebäude, an den Außenwänden verrammelte Läden.. Ein weiteres, kleineres Gebäude mit Los- und Schieß<strong>buden</strong> folgte. (<i>Lunapark</i>, 371)',
-	'Rath blieb stehen und ließ seinen Blick wandern. Rechts erhob sich die Berg- und Talbahn,.. hinter ihm die riesige Terrassenanlage und die beiden Nebengebäude mit den Bratwurst- und Schieß<strong>buden</strong>.  (<i>Lunapark</i>, 371)',
+	'Rath blieb stehen und ließ seinen Blick wandern. Rechts erhob sich die Berg- und Talbahn,.. hinter ihm die riesige Terrassenanlage und die beiden Nebengebäude mit den Bratwurst- und Schieß<strong>buden</strong>. (<i>Lunapark</i>, 371)',
 	'Dem Achterbahneingang gegenüber lagen die beiden Nebengebäude, von denen er (<i>Rath</i>) gekommen war: das etwas flachere, kleinere mit den Wurf- und Schieß<strong>buden</strong> und das größere mit den Verkaufs<strong>buden</strong>. Rath hielt seine Waffe schussbereit und ging hinüber. Und dann sah er sie. Zwischen der Los<strong>bude</strong> und dem Kinderkarussell stand sie.. Madame Luna, im Licht des Vollmondes. (<i>Lunapark</i>, 373)',
 	'Rath lugte vorsichtig um die Ecke und sah, wie die Männer weitergingen, den Schieß<strong>buden</strong>pavillon passierten und das große Verkaufsgebäude ansteuerten. Er folgte ihnen langsam, darauf bedacht, kein Geräusch zu machen, blieb an der Schieß<strong>buden</strong>ecke stehen und beobachtete, wie die vier an der Fassade mit den geschlossenen Läden stehen blieben. (<i>Lunapark</i>, 374)',
+	'<u>Marlow</u>',
+	'"Wie wäre es, wenn wir einfach das feiern, was wir gerade haben?" Rath stellte die beiden Cognacgläser nebeneinander, schenkte ein und reichte eines davon Charly. "Auf uns, liebe Frau Rath. Und unsere sturmfreie <strong>Bude</strong>. Kein Fritze, kein Böhm, nur wir zwei Hübschen." (<i>Marlow</i>, 84)',
 ],	
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -7654,6 +7716,8 @@ Bahre: [
 	'<u>Lunapark</u>',
   	'"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karhaus eine Roll<strong>bahre</strong>, die an der Wand geparkt war, unter eine der großen Lampen und schlug das Laken zurück. (<i>Lunapark</i>, 108)',
 	'Auf der <strong>Bahre</strong> hatte Karthaus die Beine des Toten, die am Tatort unnatürlich verbogen gewesen waren, wieder gerichtet, dennoch war genau zu erkennen, wo sie gebrochen waren. (<i>Lunapark</i>, 109)',
+	'<u>Marlow</u>',
+	'"Sie haben mir eine Überraschug versprochen, Doktor", sagte Rath... Reincke stand auf. "Kommen Sie", sagte er. An der Roll<strong>bahre</strong> des toten SS-Manns ging der Gerichtsmediziner achtlos vorüber. (<i>Marlow</i>, 74)',
 ],
 barsch: [ 
 	'<strong>barsch</strong>: abrupt, blunt, brusque'+  
@@ -8995,6 +9059,9 @@ fummeln: [
 	'Nein, er (<i>Rath</i>) konnte heute nicht im Büro sitzen, er musste raus auf die Straße, musste zurück zur Laubenkolonie. Würde er eben jeden einzelnen Schrebergarten betreten, in dem keine Leute saßen, würde höflich an jede Tür klopfen, würde im Zweifel seine Sperrhaken benutzen und hoffen, dass man ihn nicht erwischte. Für den <strong>Fall der Fälle</strong> hätte er immer noch seine Kripomarke und würde den Leuten irgendeine Geschichte erzählen. (<i>Lunapark</i>, 468)', 
 	'Jedes Mal, wenn er (<i>Rath</i>) über ein Gartentor sprang oder ein Schloss aufbrach, um in einen der verwaisten Gärten zu gelangen, vergewisserte er sich, ob auch keine Zeugen in der Nähe standen. Für den <strong>Fall der Fälle</strong> hatte er zwar seinen Polizeiausweis, aber so weit wollte er es nach Möglichkeit nicht kommen lassen. (<i>Lunapark</i>, 481)',
 	'Außerdem sagte er (<i>Fritze</i>) sich, dass er sich alles ja nur ausleihe. Auch wenn er nicht genau wusste, wofür. Außer, dass es gefährlich werden könnte. Dass er mit allem rechnen musste. Und sich mit nichts als einem Jungvolk-Fahrtenmesser im Gürtel im <strong>Fall der Fälle</strong> höchstens lächerlich machen würde. (<i>Lunapark</i>, 522)',
+	'<u>Marlow</u>',
+	'Er (<i>Marlow</i>) betrachtete sich im Spiegel. Die schwarze Uniform stand ihm gut; ein paar Änderungen hier und da,.. dann säß sie perfekt. Nicht dass es ihm darauf ankäme. Aber für den <strong>Fall der Fälle</strong>, wenn er sie denn einmal anzog, musste sie auch sitzen. Eine schlecht sitzende Uniform flößte keinen Respekt ein. (<i>Marlow</i>, 77)',
+	'Seine (<i>Marlows</i>) Stellung im neuen Deutschland war unsicherer als in der Republik. Damals hatte es noch einen Rechtsstaat gegeben, damals hatten seine Anwälte ihn aus jeder brenzligen Situation heraushauen können, zumal er seine Geschäfte über die Berolina abwickelte, zu der er keinen offiziellen Kontakt pflegte, so dass man ihm seblst im <strong>Fall der Fälle</strong> nie etwas hätte nachweisen können. (<i>Marlow</i>, 78)',
 ],
 Flüstertüte: [ 
 	'die <strong>Flüstertüte</strong>,-<strong>n</strong>: megaphone, bullhorn'+
@@ -10176,6 +10243,8 @@ gerinnen: [
 	'Sie (<i>Charly und Gereon</i>) hatten eine Wäscheleine mitgebracht und ein Bettlaken, in das sie die Leiche legten. Obwohl das Blut längst <strong>geronnen</strong> sein musste, färbte sich das weiße Baumwolltuch an einigen Stellen ein. (<i>Märzgefallene</i>, 418)',
 	'<u>Lunapark</u>',
 	'Raths Blick ging zu der großen blechernen Mülltonne hinüber, die weiter hinten an der Wand stand. Der Wirt hatte dort hinübergeschielt während seiner Antwort. Je mehr er sich der Tonne näherte, desto penetranter wurde der Gestank von verfaultem Fleisch und <strong>geronnenem</strong> Blut. (<i>Lunapark</i>, 41)',
+	'<u>Marlow</u>',
+	'(<i>Doktor</i>) Reincke führte Rath zum Obduktionstisch, auf dem die Leiche des Taxifahrers lag. Sie war gewaschen und vom <strong>geronnenen</strong> Blut befreit, so dass alle klaffenden Schnittwunden genauestens zu erkennen waren. (<i>Marlow</i>, 75)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Gerippe: [
@@ -10233,17 +10302,20 @@ Gestänge: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Gestell: [
 	'das <strong>Gestell</strong>,-<strong>e</strong>: stand, shelf, rack, frame; mount'+
+	'<br>das <strong>Drahtgestell</strong>,-<strong>e</strong>: wire frame, rim'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gestell"target="target1">Gestell</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gestell"target="target2">Gestell</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gestell?q=Gestell"target="target3">Gestell</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gestell"target="target4">Gestell</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath hätte sich nicht gewundert, wenn er festgestellt hätte, dass der massige Oberkörper auf ein Dreh<strong>gestell</strong> geschraubt wäre. So jedenfalls sah es aus, als der Dicke sich nach hinten drehte und fünf Schachteln Overstolz aus dem Regal holte. (<i>Der nasse Fisch</i>, 113)',
 	'Nichts wies darauf hin, dass sich hier jemand versteckt haben könnte. Ein einziges Trümmerfeld. Neben allem möglichen Krimskrams aus bemaltem Gips, Holz und Pappe, fast alles zerbrochen, standen die Überreste eines Kanapees, aus dessen Polster die Federn sprangen, daneben ein verbogenes Bett<strong>gestell</strong> und eine zerrissene Matratze. (<i>Der nasse Fisch</i>, 442-43)',
 	'<u>Märzgefallene</u>',
-	'"Suchst du das hier?" Die Blondine holte etwas unter der Decke hervor. Rath erkannte die Nasenschnurrbartbrille, sie sah ziemlich ramponiert aus, das Draht<strong>gestell</strong> (<i>wire rim</i>) war verbogen. (<i>Märzgefallene</i>, 73)',
+	'"Suchst du das hier?" Die Blondine holte etwas unter der Decke hervor. Rath erkannte die Nasenschnurrbartbrille, sie sah ziemlich ramponiert aus, das <strong>Drahtgestell</strong> war verbogen. (<i>Märzgefallene</i>, 73)',
 	'<u>Lunapark</u>',
 	'Es sah eigentlich nicht anders aus als in den Verhörräumen am Alex, nur dass in diesem Raum neben dem kleinen Schreibtisch für die Stenotypistin und dem Vernehmungstisch ein metallenes Bett<strong>gestell</strong> stand. Ein nacktes Bett<strong>gestell</strong>, auf dessen Federrost man den Tatverdächtigen geschnallt hatte. (<i>Lunapark</i>, 332-33)',
 	'Der SS-Mann, der neben dem Bett<strong>gestell</strong> stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan... (<i>Lunapark</i>, 333)',
 	'Rath trat aus dem Alexanderhaus, in der Hand eine Papiertüte von Aschinger, und hockte sich hin, um Kirie loszubinden. Sieben, acht Hunde warteten vor der gläsernen Eingangstür darauf, abgeholt zu werden. Das eiserne <strong>Gestell</strong>, an das man sie gebunden hatte, erinnerte an einen Fahrradständer. (<i>Lunapark</i>, 341)',
+	'<u>Marlow</u>',
+	'Herbert Reincke war der jüngste Gerichtsmediziner, mit dem Rath jemals zusammengearbeitet hatte. Kein Vergleich zu dem in Würden ergrauten Doktor Schwartz,.. oder zu Doktor Karthaus, der aussah, als habe man sehr altes, dünnes Leder über ein zu großes <strong>Drahtgestell</strong> gespannt. (<i>Marlow</i>, 74)',
 ],
 Getümmel: [
 	'das <strong>Getümmel</strong>,-: turmoil, tumult, hustle and bustle'+
@@ -11519,12 +11591,13 @@ kacheln: [
 	'<u>Der nasse Fisch</u>',
 	'Wenigstens hatte Charly entdeckt, dass der Wagen schon in der Möckernstraße an einem parkenden Auto entlanggeschrammt war. Und er selbst (<i>Rath</i>) hatte im Fußraum diese Metallstange gefunden, die er zunächst für ein defektes Autoteil gehalten hatte, ein Stück von der Lenkstange etwa, irgendetwas, das den Unfall hätte verursachen können. Doch an dem Wagen fehlte nichts... Dabei lag die Lösung so nah: Die Stange war nichts anderes als der Hebel, mit dem irgendjemand das Gaspedal fest<strong>gekeilt</strong> hatte. Damit auch ein toter Mann Auto fahren konnte. (<i>Der nasse Fisch</i>, 81-82)',
 ],
-Klinge: [
+'Klinge, über die K. springen': [ 
 	'die <strong>Klinge</strong>,-<strong>n</strong>: blade, knife'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klinge"target="target1">Klinge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klinge"target="target2">Klinge</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klinge"target="target3">Klinge</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klinge"target="target4">Klinge</a>',
+	'<br><strong>über die Klinge springen</strong>: '+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klinge"target="target1">Klinge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klinge"target="target2">Klinge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Klinge%20springen"target="target3">über die Klinge springen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klinge"target="target4">Klinge</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klinge"target="target5">Klinge</a>nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdn.+%C3%BCber+die+Klinge+springen+lassen"target="target6">über die Klinge springen</a>',
 	'<u>Der nasse Fisch</u>',
-	'"Nur die letzte Generation hat den Zaren im Stich gelassen und ist zu Kerenski umgeschwenkt." Seegers inhalierte gierig. Er wirke wie ein Vampir, der Blut saugt. "Den Bolschewiken was das egal. Die haben die Liberalen genauso über die <strong>Klinge</strong> springen lassen wie die Monarchisten..." (<i>Der nasse Fisch</i>, 169)',
+	'"Nur die letzte Generation hat den Zaren im Stich gelassen und ist zu Kerenski umgeschwenkt." Seegers inhalierte gierig. Er wirke wie ein Vampir, der Blut saugt. "Den Bolschewiken was das egal. Die haben die Liberalen genauso <strong>über die Klinge springen</strong> lassen wie die Monarchisten..." (<i>Der nasse Fisch</i>, 169)',
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Was haben wir für einen schönen Beruf." "Nicht wahr, Herr Kommissar", sagte Böhm. "Deswegen dürfte es Sie freuen, dass ich noch eine weitere Stechnadel im Heuhaufen für Sie reserviert habe.. Oder besser: Einen Grabendoch in einer Viermillionenstadt. Einen mit dreieckiger <strong>Klinge</strong>. Versuchen Sie herauszufinden, wer so etwas hergestellt hat und wer so etwas noch besitzt.. Hier stehen die ungefähren Maße: Länge der <strong>Klinge</strong>, Durchmesser undsoweiter." (<i>Märzgefallene</i>, 100)',
 	'Er hatte den kalten Stahl bereits in der Hand und setzte sofort zum Stich an.. Bevor er die <strong>Klinge</strong> wieder aus dem Kopf zog, blickte er sich um. Immer noch kein Passant zu sehen. (<i>Märzgefallene</i>, 245-46)',
@@ -11532,8 +11605,12 @@ Klinge: [
 	'Rath durchsuchte die Manteltaschen des Toten, fand aber nur eine leidlich gefüllte Geldbörse, ein gebrauchtes Taschentuch und eine blutbeschmierte Stichwaffe. "Kein Wehrpass, nichts", sagte er und hielt den Dolch ins Licht. Die <strong>Klinge</strong>, wenn man diesen spitz zulaufenden Spieß überhaupt so nennen konnte, war eindeutig dreieckig. (<i>Märzgefallene</i>, 412)',
 	'<i>Rath</i>: "..Heinrich Wosniak besucht seinen alten Bettlerkumpanen Krumbiegel am Nollendorfplatz und schenkt ihm seinen alten Soldatenmantel, in dem sogar noch der Wehrpass steckt. Und kaum hat der frierende Bettler das Ding angezogen, bekommt er die <strong>Klinge</strong> von Wosniaks Grabendolch ins Hirn gerammt." (<i>Märzgefallene</i>, 482)',
 	'Und als man in dem Bettlaken, das man mitsamt einiger Pflastersteine... ebenfalls geborgen hatte, auch noch einen Grabendolch fand, dessen <strong>Klinge</strong> einen dreieckigen Querschnitt aufwies, war der Fall für die Kollegen Gräf und Steinke ein eindeutiger gewesen...: Der gesuchte mehrfache Mörder Benjamin Engel sei aufgetaucht, im wahrsten Sinne des Wortes, als Leiche aus dem Tiefen der Spree. (<i>Märzgefallene</i>, 495)',
+	'<u>Lunapark</u>',
+	'Wenn er (<i>Rath</i>) die Namen all derer las, die gestern <strong>über die Klinge springen</strong> mussten, dann konnte es durchaus sein, dass Konrad Adenauer in Gefahr war. (<i>Lunapark</i>, 498)',
+	'<u>Marlow</u>',
+	'Und Hermann Lapke hatte er (<i>Marlow</i>) endgültig aus dem Weg räumen lassen. Lapke hatte aufs falsche Pferd gesetzt, auf die SA, in der er seine Nordpiraten überleben lassen wollte, und das hatte ihn in der Nacht der langen Messer, als die halbe SA-Führung <strong>über die Klinge springen</strong> musste, erst die Gesundheit, dann seine Geheimnisse und schließlich das Leben gekostet. (<i>Marlow</i>, 78)',
 ],
-// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong>  (<i>Charly</i>) über (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Kotflügel: [
 	'der <strong>Kotflügel</strong>,-: &nbsp;fender, mud guard;  &nbsp;der <strong>Kot</strong>: &nbsp;mud, dung, shit  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/Kotfluegel" target="target1" >Kotflügel</a> ' ,
 	'<u>Der nasse Fisch</u>',
@@ -13712,6 +13789,7 @@ Prothese: [
 	'Rath verließ das Büro mit den grünen durchgesessenen <strong>Polster</strong>möbeln, das er womöglich nie wieder betreten würde, und fühlte sich wie ein Emigrant. Wie jemand, der gegen seinen Willen aus seiner Heimat vertrieben worden war. (<i>Lunapark</i>, 550)',
 	'<u>Marlow</u>',
 	'Er (<i>Rath</i>) wandte sich lieber dem Wagenfond zu, der nahezu unversehrt wirkte. Von außen jedefalls. Vom Sitz<strong>polster</strong> der Rückbank war allerdings vor lauter Glassplittern kaum noch zu sehen. (<i>Marlow</i>, 34)',
+	'Er (<i>Rath</i>) stellte die Cognacgläser samt Flasche auf den Tisch und ließ sich in seinen Lieblingssessel fallen, dessen <strong>Polster</strong> noch warm war vom letzten Benutzer. (<i>Marlow</i>, 84)',
 ],
 plüschig: [ 
 	'<strong>plüschig</strong>: plush, ostentatious'+
@@ -14394,8 +14472,10 @@ Revers: [
 	'<u>Der nasse Fisch</u>',
 	'Die Haustür öffnete sich, als er (<i>Rath</i>) sie gerade erreicht hatte. Er schaute in ein ebenso überraschtes wie misstrauisches Gesicht. "Suchen Sie irjendwen?" Der Mann war klein und schmächtig. Sein Hut wirkte auf dem hageren Gesicht viel zu groß. Ebenso der gewaltige Schnauzbart. An seinem <strong>Revers</strong> steckte ein kleiner Stahlhelm. (<i>Der nasse Fisch</i>, 49)',
 	'"Und das hier ist Paul Geitner", stellte Wolter schileßlich den Zivilisten vor. An Geitners <strong>Revers</strong> glänzte ein kleiner rot-weißer Metallknopf mit einem schwarzen Hakenkreuz. (<i>Der nasse Fisch</i>, 167)',
+	'Rund ein Dutzend Männer hatte er (<i>Wolter</i>) für die Aktion auf dem Bahnhof ausgewält. Sie trugen keine Uniform, nicht einmal die kleine Stahlhelm-Anstecknadel am <strong>Revers</strong>. (<i>Der nasse Fisch</i>, 517)',
 	'<u>Marlow</u>',  
 	'<i>Rath</i>: "Und warum sollte es ein Mann, den Sie nicht kennen, auf Sie abgesehen haben?" "Vielleicht waren das ja Kommunisten", sagte Gebhardt und deutete auf sein <strong>Revers</strong>, an dem das Parteiabzeichen prangte. (<i>Marlow</i>, 32)',
+	'.. Herbert Reincke nahm sich manchmal eine Arroganz heraus, die durch nichts gerechtfertig war... Bis auf eines: Reincke trug an seinem <strong>Revers</strong> jene Anstecknadel, die Rath fehlte: das Parteiabzeichen mit dem Hakenkreuz. (<i>Marlow</i>, 74)',
 ],
 recken: [
 	'<strong>recken</strong>: stretch, raise sth.; extend, elongate sth.'+

@@ -16,7 +16,8 @@ const g = [
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig:
    'gegen den Strich gehen', // duplicated 
-   'Gehabe',  // Gehabe:    
+   'Gehabe',  // Gehabe: 
+   'Geheimniskrämerei, Geheimniskrämer',   
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 

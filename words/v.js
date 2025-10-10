@@ -101,6 +101,7 @@ const v = [
    'Vertriebsweg', // Vertriebsweg:  
    'vertrödeln',  // vertrödeln 
    'vertun, vertan',  // 
+   'verunfallen',  // verunfallen:
    'verunglimpfen',  // verunglimpfen:  
    'verunzieren',  // verunzieren:  
    'Verwahrlosung, verwahrlosen', // 

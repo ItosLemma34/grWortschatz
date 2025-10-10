@@ -119,13 +119,14 @@ const s = [
    'Schritt',  // Schritt:  
    'Schrotflinte', // Schrotflinte: 
    'Schrott',  // Schrott:  
-   'Schrubber, schrubben', //   
+   'Schrubber, schrubben',    
    'schubsen',  // schubsen:  
    'schummrig',  // schummrig: 
    'Schund',  // Schund: 
    'schunkeln', // schunkeln: 
    'Schuppen',  // Schuppen:   
-   'schüren',  // schüren:    
+   'schüren',  // schüren: 
+   'schürfen, Schürfwunde',   
    'schurigeln', // schurigeln:         
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated 

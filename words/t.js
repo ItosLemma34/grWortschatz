@@ -9,7 +9,8 @@ const t = [
    'Teufel (in drei T. Namen)', //  duplicated 
    'Teufel tun',  //  
    'Theke',  // Theke:  
-   'toben' , // toben: 
+   'toben' , // toben:
+   'todgeweiht',  // todgeweiht: 
    'tollen', // tollen: 
    'tollpatschig, Tollpatschigkeit', //  
    'tönen',  // tönen: 

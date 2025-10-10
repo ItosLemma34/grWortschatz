@@ -43,8 +43,9 @@ const b = [
     'bestatten, Bestatter, Bestattung', 
     'Besteck',    // Besteck: 
     'besudeln',  // besudeln:    
+    'Beteuerung', // Beteuerung   
 //    'betreten',   // betreten:  consider what to do with "beteten"
-    'Bettfeder',  // Bettfeder:   
+    'Bettfeder',  // Bettfeder:
     'betupfen, abtupfen, T(t)upfen',   //  triplicated  
     'Beule, beulen',    
     'bibbern',    // bibbern: 
@@ -95,7 +96,7 @@ const b = [
     'Buckel, bucklig',     
     'bücken',  // bücken:
     'buddeln, ein-, ver-, aus-',  // 
-    'Bude, Büdchen',  // 
+    'Bude, Büdchen',   
     'büffeln', // büffeln:  
     'Bügel', // Bügel: 
     'bugsieren', // bugsieren: 

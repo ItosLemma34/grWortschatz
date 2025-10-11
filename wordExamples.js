@@ -18,18 +18,65 @@ zzz : [
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
 	'<u>Der nasse Fisch</u>',   
-	' (<i>Der nasse Fisch</i>, 000)',
+	'   (<i>Der nasse Fisch</i>, 000)',
 	'<u>Der stumme Tod</u>',
-	' (<i>Der stumme Tod</i>, 000)',	
+	'   (<i>Der stumme Tod</i>, 000)',	
 	'<u>Märzgefallene</u>',    
-	' (<i>Märzgefallene</i>, 000)',
+	'   (<i>Märzgefallene</i>, 000)',
 	'<u>Lunapark</u>',   
-	' (<i>Lunapark</i>, 000)',	
+	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
-	' (<i>Marlow</i>, 000)',
+	'   (<i>Marlow</i>, 000)',
 ],
 */
-Beteuerung : [  
+'Schlamperei, schlampen, schlampig': [  
+	'die <strong>Schlamperei</strong>,-<strong>en</strong>: mess, sloppiness'+
+	'<br><strong>schlampen</strong>: do a poor job, be sloppy, work carelessly'+
+	'<br><strong>schlampig</strong>: sloppy, slipshod, untidy'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlamperei"target="target1">Schlamperei</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlampen"target="target2">schlampen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlampig"target="target3">schlampig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schlamperei"target="target4">Schlamperei</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampen"target="target5">schlampen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlampig&id=adjektiv%3Aschlampig%23schlampig"target="target6">schlampig</a>',
+	'<u>Der nasse Fisch</u>',   
+ 	'<i>Rath</i>: "Der beste Kiminalbeamte jedenfalls war er (<i>Wolter</i>) damals nicht." "Sie meinen die Vernehmungsprotokolle?", fragte Gennat. "Ist Ihnen auch aufgefallen, wie <strong>schlampig</strong> Wolter die Vernehmungen geführt hat?..." <i>Der nasse Fisch</i>, 471)',
+	'Rath nickte gedankenverloren. Er musste an seine eigenen Ermittlungen im Fall Wilczek denken. Auch bei Wolter schien hinter der vermeintlichen <strong>Schlamperei</strong> ein System zu stecken. <i>Der nasse Fisch</i>, 471-72)',
+	'<u>Der stumme Tod</u>',
+	'"Vielleicht wollte jemand den Scheinwerfer neu justieren, und dann hat er vergessen, die Bolzen wieder festzuschrauben", schlug Rath vor. <i>Lüdenbach</i>: "Doch nicht mitten im Dreh!" "Aber irgendwie muss sich der Scheinwerfer aus der Halterung gelöst haben. Eine doppelte Materialermüdung erscheint mir jedenfalls sehr viel unwahrscheinlicher als die Möglichkeit, dass hier einfach irgendjemand <strong>schlampig</strong> gearbeitet hat." Lüdenbach lief rot an: "Meine Leute arbeiten nicht <strong>schlampig</strong>", empörte er sich. (<i>Der stumme Tod</i>, 32-33)',
+// pg 152
+	'<u>Märzgefallene</u>',    
+	'<i>Rath</i>: "Gibt es irgendwo eine zentrale Liste, auf der alle derzeitigen Gefangenen von Polizei und Hilfspolizei aufgeführt sind?" <i>Zientek</i>: "Wenn die SA nicht so <strong>schlampig</strong> arbeiten würde, könnte es die vielleicht geben. (<i>Märzgefallene</i>, 217)',
+	'Und sein (<i>Raths</i>) Heil war derart genuschelt, dass es eher wie das amerikanische <i>Hi</i> klang. Der Polizeipräsident runzelte zwar die Stirn, aber dann wedelte er mit der rechten Hand, als scheuche er einen ungehorsamen Hund aus dem Zimmer. Für dieses Mal war Rath mit seinem <strong>schlampigen</strong> Hitlergruß durchgekommen. (<i>Märzgefallene</i>, 421)',
+	'Oder vielleicht wirkte das auch nur so auf jemanden, der wusste, dass man der Leiche eine falsche Identität zugesprochen hatte. Und der das nicht sagen durfte. Der nicht einmal sagen durfte, dass es dafür einen Beweiss gab. Dass die Vorhaut des Toten hätte beweisen können, dass sich der Polizeipräsident irrte, dass die Mordkommission Alberich <strong>schlampig</strong> gearbeitet hatte. (<i>Märzgefallene</i>, 510)',
+	'Er (<i>Weinert</i>) senkte seine Stimme. "Hefner hat mir empfohlen, die <strong>schlampige</strong> Ermittlung Isidor Weiß in die Schuhe zu schieben ..." (<i>Märzgefallene</i>, 542)',
+	'Das <i>Tagblatt</i>, eine Zeitung, an die in Deutschland immer schwerer heranzukommen war, hatte die Geschichte von den <strong>schlampigen</strong> Ermittlungen der Berliner Polizei, die einen falschen Mann für tot erklärt hatte, vier Spalten auf der Seite drei eingeräumt. (<i>Märzgefallene</i>, 585)',
+	'<u>Lunapark</u>',   
+	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können.... (<i>Lunapark</i>, 20)',
+	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante. (<i>Lunapark</i>, 23)', 
+	'<u>Marlow</u>',  
+	'<i>Rath</i>: ".. Es könnte sein, dass Lehmann wegen seiner Beschwerden noch gar keinen Arzt konsultiert hat.".. "Könnte sein, könnte sein.." Gennat wirkte ungehalten. "Prüfen Sie das doch bitte nach, Oberkommissar. Sollte da irgendein Arzt <strong>geschlampt</strong> haben, hätten wir ja eine ganz andere Schuldfrage." (<i>Marlow</i>, 89)',
+],
+'Aussatz, Aussätziger, aussätzig': [  
+	'der <strong>Aussatz</strong>: leprosy'+
+	'<br>der <strong>Aussätziger</strong>,-<strong>en</strong>: leper'+
+	'<br><strong>aussätzig</strong>: leprous'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aussatz"target="target1">Aussatz</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aussaetziger"target="target2">Aussätziger</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auss%C3%A4tzig"target="target3">aussätzig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aussatz"target="target4">Aussatz</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aussaetziger"target="target5">Aussätziger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=auss%C3%A4tzig&id=adjektiv%3Aaussa3tzig"target="target6">aussätzig</a>',
+	'<u>Marlow</u>',  
+	'Die Kollegen schauten ihn (<i>Rath</i>) an wie einen <strong>Aussätzigen</strong>, als er den kleinen Konferenzsaal betrat, jedenfalls kam es ihm so vor. (<i>Marlow</i>, 87)',
+// next pg 96
+],
+brüten: [  
+	'<strong>brüten</strong>: brood, pore over sth.; breed'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brueten"target="target1">brüten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/br%C3%BCten"target="target2">brüten</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/brueten#br%C3%BCten"target="target3">brüten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/brueten"target="target4">brüten</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Er (<i>Rath</i>) hatte keine Lust, Begeisterung für den Pornofall zu heucheln und dann womöglich den Rest des Tages zusammen mit dem Frischling (<i>Jänicke</i>) über den König-Akten zu <strong>brüten</strong>. (<i>Der nasse Fisch</i>, 142)',
+//	'<u>Der stumme Tod</u>',
+//	' (<i>Der stumme Tod</i>, 000)',	
+	'<u>Lunapark</u>',   
+	'Er (<i>Gereon</i>) saß da im Wohnzimmer, in seinem Lieblingssessel und mit demselben dicken Kopfverband, den sie (<i>Charly</i>) schon im Krankenhaus gesehen hatte, schüttete Afri-Cola in sich hinein und <strong>brütete</strong> vor sich hin. Auf dem Plattenteller drehte sich Duke Ellington. (<i>Lunapark</i>, 394)',
+	'<u>Marlow</u>',  
+	'Als er (<i>Böhm</i>) noch Oberkommissar in der Mordinspektion arbeitete, hatte er die Akten in jeder freien Stunde aus der Registratur geholt, hatte sie manchmal sogar mit nach Hause genommen und in den Nächten darüber <strong>gebrütet</strong>. Ohne dass Ernst Gennat davon wusste. Böhms Verdacht war so schrecklich, so entsetzlich, so ungeheuerlich, dass er mit niemandem darüber reden konnte. (<i>Marlow</i>, 85-86)',
+],
+Beteuerung: [  
 	'die <strong>Beteuerung</strong>,-<strong>en: affirmation, assertion, solemn declaration'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beteuerung"target="target1">Beteuerung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Beteuerung"target="target2">Beteuerung</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/beteuerung"target="target3">Beteuerung</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Beteuerung&id=substantiv%3ABeteuerung"target="target4">Beteuerung</a>',
@@ -38,12 +85,13 @@ Beteuerung : [
 	'<u>Marlow</u>',  
 	'Also war er (<i>Marlow</i>) zurückgekehrt (<i>von Amerika</i>) vor einem Jahr, gerade rechtzeitig, um Hermann Lapke, seinen alten Widersacher, den Chef der Nordpiraten, daran zu hindern, die totale Kontrolle über die Berliner Unterwelt zu übernehmen. Denn die gab es, allen gegenteiligen <strong>Beteuerungen</strong> zum Trotz, natürlich immer noch, auch wenn es keine Ringvereine mehr gab. (<i>Marlow</i>, 77-78)',
 ],
-todgeweiht : [  
+todgeweiht: [  
 	'<strong>todgeweiht</strong>: doomed'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/todgeweiht"target="target1">todgeweiht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/todgeweiht"target="target2">todgeweiht</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/todgeweiht"target="target3">todgeweiht</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/todgeweiht"target="target4">todgeweiht</a>',
 	'<u>Marlow</u>',  
 	'<i>Doktor Reincke</i>: "Mehr als zwei, drei Wochen hätte er (<i>Otto Lehmann</i>) ohnehin nicht mehr gehabt. Höchstens. Und die Schmerzen sind am Ende unerträglich. <strong>Todgeweiht</strong> war er sowieso." (<i>Marlow</i>, 76)',
+	'Laut Gerichtsmedizin.. war die Erklärung für den Tod des Strafgefangenen Anton Bruck.. ein ganz natürlicher. Bei der Obduktion hatte Doktor Schwartz ein Glioblastom im Endstadium entdeckt, einen Hirntumor... Dieser Tumor diente Schwartz auch als Erklärung für einen anderen Zwischenfall in Moabit, in den Bruck verwickelt war. Wenige Tage zuvor nämlich hatte der <strong>Todgeweihte</strong>.. einen anderen, ihm völlig unbekannten Stafgefangenen - Adolf Winkler, einen Ringbruder - angegriffen und beinahe zu Tode gewürgt. (<i>Marlow</i>, 76)',
 ],
 'schürfen, Schürfwunde' : [  
 	'<strong>schürfen</strong>: scrape; dig/prospect for sth.'+
@@ -5001,6 +5049,8 @@ ungehalten: [
 	'<u>Lunapark</u>', 
 	'Ernst Gennat wirkte <strong>ungehalten</strong>, Rath schon wieder auf seinem Sofa zu sehen. "Sollten Sie nicht bei der Staatspolizei sein? Wie ich gehört habe, hat es am Sonnabend einen weiteren toten SA-Mann gegeben." (<i>Lunapark</i>, 210)',
 	'Die Mettmann klopfte an die Tür, und Gräf reagierte <strong>ungehalten</strong>. "Was ist denn noch?" (<i>Lunapark</i>, 407)',
+	'<u>Marlow</u>', 
+	'<i>Rath</i>: ".. Es könnte sein, dass Lehmann wegen seiner Beschwerden noch gar keinen Arzt konsultiert hat.".. "Könnte sein, könnte sein.." Gennat wirkte <strong>ungehalten</strong>. "Prüfen Sie das doch bitte nach, Oberkommissar. Sollte da irgendein Arzt geschlampt haben, hätten wir ja eine ganz andere Schuldfrage." (<i>Marlow</i>, 89)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -10824,6 +10874,7 @@ hanebüchen: [
 	'Wie die meisten Menschen, die wenig Zeit hatten, kam der Mann direkt zum Punkt. Charly mochte das. Nicht um den heißen Brei herumreden, kein Bohei, gleich Tacheles. Sie beschloss, es ähnlich zu halten. Keine Ausflüchte und <strong>hanebüchenen</strong> Geschichten, einfach die Wahrheit, die schlchte Wahrheit. (<i>Lunapark</i>, 456)',  
 	'<u>Marlow</u>',
 	'<i>Rath</i>: "Sie (<i>Gebhardt</i>) haben sich genau an der Stelle befunden, wo das Taxi den Gehweg gekreuzt hat, bevor es gegen die Mauer geprallt ist?" Gebhardt nickte. "Ich bin sicher, der Mann wollte mich überfahren...".. Rath beherrschte sich. Da stand der Mann, der ihm den Feierabend mit <strong>hanebüchenen</strong> Mutmaßungen versaut hatte, aber er beherrschte sich. (<i>Marlow</i>, 31)',
+	'Böhms Verdacht war so schrecklich, so entsetzlich, so ungeheuerlich, dass er mit niemandem darüber reden konnte. Irgendwelche Beweise, die seine Theorie (die jeder Staatsanwalt, den er kannte, als <strong>hanebüchen</strong> abgelehnt hätte) belastbar hätten stüzen können, hatte er in all den Jahren dennoch nicht gefunden. (<i>Marlow</i>, 85-86)',
 ],
 'hart im Nehmen sein': [
 	'<strong>hart im Nehmen sein</strong>: be tough, able to take a lot'+
@@ -14962,6 +15013,8 @@ sperrig: [
 	'Rath drängte sich hinter Henning an einem <strong>sperrigen</strong> Scheinwerferstativ vorbei auf die Szene. (<i>Der stumme Tod</i>, 23)',
 	'<u>Lunapark</u>', 
 	'Rath wurde seine Wut einfact nicht los. Wie ein <strong>sperriger</strong> Widerhaken saß sie fest und wollte nicht weichen, sosehr er das Gaspedal auch durchtrat. (<i>Lunapark</i>, 66)',
+	'<u>Marlow</u>',
+	'Aber selten hatte ihn (<i>Böhm</i>) ein Wort derart elektrisiert wie jenes, das Gereon Rath vorhin ausgesprochen hatte. <i>Glioblastom</i>. Dieses staubtrocken <strong>sperrige</strong> medizinische Wort hatte eine Kaskade von Erinnerungen in ihm ausgelöst, die kaum zu bändigen waren. (<i>Marlow</i>, 85)', 
 ],
 Schlagseite: [
 	'die <strong>Schlagseite</strong>,-<strong>n</strong>: list (nautical)'+
@@ -15068,20 +15121,6 @@ Sause: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/sause?q=Sause"target="target3">Sause</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sause"target="target4">Sause</a>',
 	'<u>Lunapark</u>', 
 	'Fritze ließ die Zeitung sinken und schaute sie (<i>Charly</i>) an. "Hier steht schon wieder was vom Tempelhofer Feld drin", sagte er.. "Wird \'ne Riesen<strong>sause</strong>!".. In zwei Wochen war auf dem Tempelhofer Feld ein großes Zeltlager der Hitlerjugend anberaumt.. "Schön", sagte Charly. "Wenn das so eine Riesen<strong>sause</strong> wird, dann steht am nächsten Tag bestimmt auch genug darüber in der Zeitung." (<i>Lunapark</i>, 29)',
-],
-schlampig: [
-	'<strong>schlampig</strong>: sloppy, slipshod, untidy'+
-	'<br>die <strong>Schlamperei</strong>,-<strong>en</strong>: mess, sloppiness'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlampig"target="target1">schlampig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlamperei"target="target2">Schlamperei</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlampig"target="target3">schlampig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlamperei"target="target4">Schlamperei</a>',
-	'<u>Der nasse Fisch</u>',
- 	'<i>Rath</i>: "Der beste Kiminalbeamte jedenfalls war er (<i>Wolter</i>) damals nicht." "Sie meinen die Vernehmungsprotokolle?", fragte Gennat. "Ist Ihnen auch aufgefallen, wie <strong>schlampig</strong> Wolter die Vernehmungen geführt hat?..." <i>Der nasse Fisch</i>, 471)',
-	'Rath nickte gedankenverloren. Er musste an seine eigenen Ermittlungen im Fall Wilczek denken. Auch bei Wolter schien hinter der vermeintlichen <strong>Schlamperei</strong> ein System zu stecken. <i>Der nasse Fisch</i>, 471-72)',
-	'<u>Der stumme Tod</u>',   
-	'"Vielleicht wollte jemand den Scheinwerfer neu justieren, und dann hat er vergessen, die Bolzen wieder festzuschrauben", schlug Rath vor. <i>Lüdenbach</i>: "Doch nicht mitten im Dreh!" "Aber irgendwie muss sich der Scheinwerfer aus der Halterung gelöst haben. Eine doppelte Materialermüdung erscheint mir jedenfalls sehr viel unwahrscheinlicher als die Möglichkeit, dass hier einfach irgendjemand <strong>schlampig</strong> gearbeitet hat." Lüdenbach lief rot an: "Meine Leute arbeiten nicht <strong>schlampig</strong>", empörte er sich. (<i>Der stumme Tod</i>, 32-33)',
-	'<u>Lunapark</u>',
-	'Rath antwortete mit dem <strong>schlampigen</strong> Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können.... (<i>Lunapark</i>, 20)',
-	'Raths Wiedersehensfreude hielt sich in Grenzen. Er brachte es nicht fertig, Gräfs Deutschen Gruß zu erwidern, nicht eimal in der <strong>schlampigen</strong> Rath-Variante. (<i>Lunapark</i>, 23)', 
 ],
 stülpen: [
 	'(sich) <strong>stülpen</strong>: turn sth. up, inside out; put sth. on/over sth.'+
@@ -15577,13 +15616,15 @@ Schrippe: [
 	'Es war weit nach Mitternacht, als Rath in den Spiegel seines Hotelzimmers schaute und den Mann, der ihn dort anblickte, kaum erkannte. Er <strong>schüttete sich</strong> kaltes Wasser ins Gesicht. (<i>Der nasse Fisch</i>, 463)',
 	'Er (<i>Rath</i>) <strong>schüttete sich</strong> jede Menge Wasser ins Gesicht und wusch sich auch den Oberkörper, dann gab er ein wenig Zahnpasta auf seinen Zeigefinger, reinigte sich notdürtig die Zähne und spüllte den Mund mit ein bisschen Odol aus. (<i>Der nasse Fisch</i>, 497)',
 	'<u>Märzgefallene</u>',
-	'.. Leo (vergaß) manchmal, dass ihm ein Auge fehlte. Bis ihn das Leben wieder unbarmherzig daran erinnerte. Wenn er etwas mit dem Fuß gegen ein Hindernis stieß oder sein Bier beim Einschenken neben das Glas <strong>schüttete</strong>. Er konnte keine Entfernungen mehr einschätzen.  (<i>Märzgefallene</i>, 386)',
+	'.. Leo (vergaß) manchmal, dass ihm ein Auge fehlte. Bis ihn das Leben wieder unbarmherzig daran erinnerte. Wenn er etwas mit dem Fuß gegen ein Hindernis stieß oder sein Bier beim Einschenken neben das Glas <strong>schüttete</strong>. Er konnte keine Entfernungen mehr einschätzen. (<i>Märzgefallene</i>, 386)',
 	'"Einmal volltanken, bitte. Auch den Reservekanister." Während der Tankwart der Aufforderung nachkam, vertrat Rath sich ein wenig die Beine und suchte die Toilette auf. Bevor er wieder hinaustrat in die beginnende Nacht, <strong>schüttete</strong> er sich noch etwas Wasser ins Gesicht gegen die Müdigkeit. (<i>Märzgefallene</i>, 436)',
-	'Es <strong>schüttete</strong> wie aus Eimern. Er (<i>Roddeck</i>) hatte das Redemanuskript in die Brusttasche seine Mantels gesteckt und hoffte, es möge nicht aufweichen.  (<i>Märzgefallene</i>, 552)',
+	'Es <strong>schüttete</strong> wie aus Eimern. Er (<i>Roddeck</i>) hatte das Redemanuskript in die Brusttasche seine Mantels gesteckt und hoffte, es möge nicht aufweichen. (<i>Märzgefallene</i>, 552)',
 	'Mitternacht wollte Engel ihn treffen, im stillgelegten Arm des Lindentunnels. Der lag direkt unter dem Platz, auf dem jetzt die Bücher brannten, die Einfahrtsrampe hatte man vor wenigen Jahren <strong>zugeschüttet</strong>, als auch die Grünanlagen beseitigt und der ganze Platz neu gepflastert worden war. (<i>Märzgefallene</i>, 563)',
 	'<u>Lunapark</u>',
-	'Er (<i>Gereon</i>) saß da im Wohnzimmer, in seinem Lieblingssessel und mit demselben dicken Kopfverband, den sie schon im Krankenhaus gesehen hatte, <strong>schüttete</strong> Afri-Cola in sich hinein und brütete vor sich hin. Auf dem Plattenteller drehte sich Duke Ellington.     (<i>Lunapark</i>, 394)',
+	'Er (<i>Gereon</i>) saß da im Wohnzimmer, in seinem Lieblingssessel und mit demselben dicken Kopfverband, den sie (<i>Charly</i>) schon im Krankenhaus gesehen hatte, <strong>schüttete</strong> Afri-Cola in sich hinein und brütete vor sich hin. Auf dem Plattenteller drehte sich Duke Ellington. (<i>Lunapark</i>, 394)',
 	'Zuerst holte er (<i>Fritze</i>) Gereons Klamotten vom Sofa und warf sie in die Wäschetruhe. Dann <strong>schüttete</strong> er den Aschenbecher <strong>aus</strong> und kippte den Kaffeerest in den Spülstein. (<i>Lunapark</i>, 515)',
+	'<u>Marlow</u>',
+	'Im Mittelpunk sämtlicer Aktivitäten der Kriminalgruppe M ... standen derzeit die Ermittlungen zum S-Bahn-Tunnel-Einsturz in der Hermann-Göring-Straße.. Die Bergungsarbeiten.. zogen sich hin, die ersten Toten waren erst nach Tagen geborgen worden. Auch für die anderen <strong>verschütteten</strong> Arbeiter.. gab es nicht viel Hoffnung. (<i>Marlow</i>, 88)',
 ],
 Spalier: [
 	'das <strong>Spalier</strong>,-<strong>e</strong>: cordon; honor guard; trellis'+
@@ -16614,6 +16655,8 @@ spicken: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spicken"target="target3">spicken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=spicken"target="target4">spicken</a>',
 	'<u>Märzgefallene</u>',
 	'Das Unternehmen Alberich war als Rückzug eine taktisch genial durchdachte Operation gewesen, in der Art und Weise aber, wie ihre Truppen das Rückzugsgebiet als völlig verwüstetes, mit zahllosen Todesfallen <strong>gespicktes</strong> Terrain hinterlassen hatten, eine Schande für die deutsche Armee. (<i>Märzgefallene</i>, 134)',
+	'<u>Marlow</u>',
+	'Insgesamt fünf Beamte trugen ihre Berichte vor, die derart mit Fremdwörtern <strong>gespickt</strong> waren, dass Rath nicht einmal die Hälfte verstand. (<i>Marlow</i>, 88)',
 ],
 Sprechmuschel: [
 	'die <strong>Sprechmuschel</strong>,-<strong>n</strong>: mouthpiece (telephone)'+

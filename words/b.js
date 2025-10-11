@@ -90,6 +90,7 @@ const b = [
     'brüllen, Gebrüll', //   duplicated 
     'brummig, Brummigkeit',  // 
     'Brüstung',  // Brüstung: 
+    'brüten',  // brüten:
     'brutzeln',  // brutzeln: 
     'Buche',    // Buche: 
     'Büchse',   // Büchse: 

@@ -49,7 +49,7 @@ const s = [
    'schlaksig', // schlaksig: 
    'Schlamassel', // Schlamassel: 
    'Schlampe', // Schlampe: 
-   'schlampig',  // schlampig: 
+   'Schlamperei, schlampen, schlampig',  
    'schlängeln',  // schlängeln:  
    'schlapp, schlappmachen',
    'Schlappschwanz',  // Schlappschwanz: 

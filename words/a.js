@@ -188,7 +188,8 @@ const a = [
 	'Ausreißer',    // Ausreißer:  
 	'ausreizen',  // ausreizen: 
 	'ausrücken, anrücken, nachrücken',  //  triplicated 
-	'aussägen, sägen', //   duplicated  
+	'aussägen, sägen', //   duplicated 
+	'Aussatz, Aussätziger, aussätzig', 
 	'Ausschachtung',  // Ausschachtung: 
 	'ausscheren',   // ausscheren:  
 	'ausschlachten', // ausschlachten:  

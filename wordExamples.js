@@ -13,7 +13,7 @@ Laufgitter:	'Als Rat sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach 
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 Fluter = Scheinwerfer (spotlight)  
 Include brummen with 'brummig, Brummigkeit';  brummen pg 67 Marlow  appears in "unwirsch"
-zzz : [  
+zzz: [  
 	'<strong>zzz</strong>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
@@ -29,6 +29,32 @@ zzz : [
 	'   (<i>Marlow</i>, 000)',
 ],
 */
+Aufgebot: [  
+	'das <strong>Aufgebot</strong>: public notice, official wedding notice; contingent, body of men'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aufgebot"target="target1">Aufgebot</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Aufgebot"target="target2">Aufgebot</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufgebot"target="target3">Aufgebot</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Aufgebot&id=substantiv%3AAufgebot"target="target4">Aufgebot</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Ein großes <strong>Aufgebot</strong> an Uniformierten bewachte die Stelle, an der sie Jänickes Leiche gefunden hatten, eine schäbige Bretterbude. (<i>Der nasse Fisch</i>, 322)',
+
+// continue:
+	'<u>Der stumme Tod</u>',
+	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'<i>Charly</i>: ".. ich bin keine Volljuristin, ich dürfte Sie (<i>Liang</i>) vor Gericht niemals vertreten." "Das müssen Sie auch nicht. Sie müssen mir nur helfen zu heiraten." Nun war Charly perplex. Beinah hätte sie gelacht. "Ich weiß nicht, was ich da groß helfen soll. Sie brauchen eine Braut, zwei Trauzeugen und einen Termin beim Standesamt." "Ich war gerade in Pankow auf dem Standesamt. Um das <strong>Aufgebot</strong> zu bestellen." (<i>Marlow</i>, 95)',
+],
+unverwandt: [  
+	'<strong>unverwandt</strong>: fixed, unwavering'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unverwandt"target="target1">unverwandt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unverwandt"target="target2">unverwandt</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/unverwandt"target="target3">unverwandt</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/unverwandt"target="target4">unverwandt</a>',
+//	'<u>Der stumme Tod</u>',
+// unverwandt	'   (<i>Der stumme Tod</i>, 206)',	
+	'<u>Marlow</u>',  
+	'Er (<i>Liang</i>) schwieg. Aber seine Augen ruhten auf ihr (<i>Charly</i>), schauten sie an, <strong>unverwandt</strong>; dunkle, tiefe Augen, die einem direkt in die Seele zu blicken schienen. (<i>Marlow</i>, 95)',
+],
 'Schlamperei, schlampen, schlampig': [  
 	'die <strong>Schlamperei</strong>,-<strong>en</strong>: mess, sloppiness'+
 	'<br><strong>schlampen</strong>: do a poor job, be sloppy, work carelessly'+
@@ -1460,6 +1486,7 @@ ungezogen: [
 	'<i>Voss</i>: "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch.... <i>Rath</i>: "Märzgefallene. Der Roman unseres Freiherrn. Da stehen seine Kriegserlebnisse drin." "Heißt das, ich hätte mir das Mitstenographieren sparen können?" Erika Voss präsentierte eine sauber <strong>geheftete</strong> Aktenmappe. "Das Protokoll. Fertig getippt." (<i>Märzgefallene</i>, 147)',
 	'<u>Marlow</u>',  
 	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
+	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den Umstandskrämer. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten <strong>heften</strong>, Oberkommissar!" (<i>Marlow</i>, 91)',
 ],
 'abheften, heften, Hefter': [  
 	'der <strong>Hefter</strong>,-: folder, binder; stapler'+
@@ -1479,6 +1506,7 @@ ungezogen: [
 	'<i>Voss</i>: "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch.... <i>Rath</i>: "Märzgefallene. Der Roman unseres Freiherrn. Da stehen seine Kriegserlebnisse drin." "Heißt das, ich hätte mir das Mitstenographieren sparen können?" Erika Voss präsentierte eine sauber <strong>geheftete</strong> Aktenmappe. "Das Protokoll. Fertig getippt." (<i>Märzgefallene</i>, 147)',
 	'<u>Marlow</u>',  
 	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
+	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den Umstandskrämer. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten <strong>heften</strong>, Oberkommissar!" (<i>Marlow</i>, 91)',
 ],
 'Hefter, abheften, heften': [  
 	'der <strong>Hefter</strong>,-: folder, binder; stapler'+
@@ -1498,6 +1526,7 @@ ungezogen: [
 	'<i>Voss</i>: "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch.... <i>Rath</i>: "Märzgefallene. Der Roman unseres Freiherrn. Da stehen seine Kriegserlebnisse drin." "Heißt das, ich hätte mir das Mitstenographieren sparen können?" Erika Voss präsentierte eine sauber <strong>geheftete</strong> Aktenmappe. "Das Protokoll. Fertig getippt." (<i>Märzgefallene</i>, 147)',
 	'<u>Marlow</u>',  
 	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
+	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den Umstandskrämer. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten <strong>heften</strong>, Oberkommissar!" (<i>Marlow</i>, 91)',
 ],
 nölen: [  
 	'<strong>nölen</strong>: moan, grumble, whine'+
@@ -2248,6 +2277,8 @@ Umstandskrämer: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Umstandskr%C3%A4mer&id=substantiv%3AUmstandskra3mer"target="target3">Umstandskrämer</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Umstandskr%C3%A4mer"target="target4">Umstandskrämer</a>',
 	'<u>Lunapark</u>',  
 	'<i>Rath</i>: "Herr Adenauer ist gestern Abend von der Geheimen Staatspolizei Potsdam verhaftet worden, und ich würde gerne mit ihm sprechen." <i>Beamte an der Pforte</i>: "Mit wem? Mit dem Kollejen oder mit dem Häftling?" "Mit beiden." "Wie heeßt denn der Kolleje?" Rath platzte den Kragen. Er hatte alles andere, nur Zeit hatte er nicht, und genau die stahl ihm dieser <strong>Umstandskrämer</strong> gerade. "Woher soll ich das wissen?", blaffte er den Mann an. "So viele werden\'s wohl nicht sein können, so viele passen in Ihr Häuschen hier ja gar nicht rein." (<i>Lunapark</i>, 505)', 
+	'<u>Marlow</u>',  
+	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den <strong>Umstandskrämer</strong>. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten heften, Oberkommissar!" (<i>Marlow</i>, 91)',
 ],
 besudeln: [  
 	'<strong>besudeln</strong>: dirty, soil, besmirch, befoul'+
@@ -3162,15 +3193,22 @@ knacken: [
 	'Bei einem seiner ersten Einbruchsversuche war ein Passant des Weges gekommen, gerade als Rath dabei war, das Schloss zu <strong>knacken</strong>. Er hatte den Riegel schon bewegt und so getan, als stecke er einen ganz normalen Schlüsselbund zurück in die Tasche. (<i>Lunapark</i>, 483)',
 	'Dann prügelte er (<i>Rath</i>) auf ihn (<i>Leo</i>) ein, mit aller Wut, die er hatte, und glaubte sogar, Knochen <strong>knacken</strong> zu hören. (<i>Lunapark</i>, 527)',
 ],
-vorsätzlich: [
-	'<strong>vorsätzlich</strong>: intentional, deliberate, intentionally'+
+'Vorsatz, vorsätzlich, Vorsätzlichkeit': [  // Vorsätze
+	'der/dass <strong>Vorsatz</strong>,-<strong>sätze</strong>: intention, purpose, deliberate act'+
+	'<br><strong>vorsätzlich</strong>: intentional(ly), deliberate'+
 	'<br>die <strong>Vorsätzlichkeit</strong>,-<strong>en</strong>: deliberateness, wilfulness'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorsaetzlich"target="target1">vorsätzlich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vors%C3%A4tzlich"target="target2">vorsätzlich</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorsatzlich"target="target3">vorsätzlich</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=vors%C3%A4tzlich&id=adjektiv%3Avorsa3tzlich"target="target4">vorsätzlich</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vorsatz"target="target1">Vorsatz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vors%C3%A4tzlich"target="target2">vorsätzlich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Vors%C3%A4tzlichkeit"target="target3">Vorsätzlichkeit</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Vorsatz"target="target4">Vorsatz</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=vors%C3%A4tzlich&id=adjektiv%3Avorsa3tzlich"target="target5">vorsätzlich</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/vorsaetzlichkeit"target="target6">Vorsätzlichkeit</a>',
 	'<u>Der nasse Fisch</u>', 
+	'Es wurde Zeit, dass er (<i>Rath</i>) diese Frau aus dem Kopf bekam!.. Er hatte zu arbeiten! Es sollte beim guten <strong>Vorsatz</strong> beiben. Den ganzen Tag hatte er ihr hübsches Gesicht nicht aus seinem Kopf vertreiben können, sosehr er sich auch bemüht hatte. (<i>Der nasse Fisch</i>, 196-97)',
 	'Er (<i>Wolter</i>) war aufgestanden und ging zu einem dunklen Schrank, hinter dessen Glastür sich die Hausbar befand. Mit der Cognacflasche kehrte er zurück. "Besser, die steht auf dem Tisch", meinte er. <i>Rath</i>: "Das ist <strong>vorsätzliches</strong> Besaufen, was wir hier machen." Bruno zuckte mit den Schultern und schenkte nach. "Wenn man sich an einem solchen Tag nicht <strong>vorsätzlich</strong> besaufen soll, wann denn dann?" (<i>Der nasse Fisch</i>, 335)', 
-//	'<u>Märzgefallene</u>',    
-//	'<u>Lunapark</u>',   
+//	'<u>Der stumme Tod</u>', pg 134 444  
+	'<u>Märzgefallene</u>',
+	'"Er (<i>Roddeck</i>) hat mir (<i>Marlene de Graaf</i>) etwas vorgemacht. Hat mir vorgemacht, mich zu lieben, hat sogar von Hochzeit gesprochen. Bis ich irgendwann selbst davon geträumt habe, wieder zu heiraten. Gegen all meine <strong>Vorsätze</strong>. (<i>Märzgefallene</i>, 338)',    
+	'(<i>Rath zu Thelen</i>): "Sie sollten ein Auge auf seine (<i>Engels</i>) Familie haben?" "So ist es. Ich habe ihn regelmäßig besucht und Bericht erstattet.." "Haben Sie sich ihr (<i>Engels Frau, Eva Heinen</i>) oder den Kindern zu erkennen gegeben?" "Nein, wo denken Sie hin! Das wollte Hauptmann Engel nicht. Unter keinen Umständen. Von diesem <strong>Vorsatz<strong> ist er erst abgewichen, als das Möbelhaus in den Strudel der Inflation geriet." (<i>Märzgefallene</i>, 518)', 
+	'<u>Marlow</u>', 
+	'Als zweites folgte ein Bericht über den Abschluss der Brandermittlungen auf dem Messegelände, wo nur einen Tag vor dem S-Bahn-Unglück mitten in der Funkausstellung die zentrale Halle IV abgebrannte war... <strong>Vorsatz</strong> oder gar Sabotage schlossen die Brandermittler nach Auswertung aller Zeugenaussagen und Brandexpertengutachten aus... (<i>Marlow</i>, 88)',
+// pgs 216  367
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 blutrünstig: [  
@@ -7414,6 +7452,7 @@ Brüstung: [
 	'Rath fühlte sich etwas unwohl, als er Felten durch den riesigen Saal folgte, der tatsächlich wie ein Palast wirkte, üppig und schwülstig dekoriert. Eine leichte Staubschicht hatte sich auf die Pracht gelegt, kaum wahrnehmbar, aber den Eindruck von Verfall vermittelnd. Felten schien seine Gedanken erraten zu haben. "Bald werden wir wieder Leben in der <strong>Bude</strong> haben", sagte er und deutete auf ein Gerüst an der Längswand, "die Arbeiten haben schon begonnen." (<i>Der nasse Fisch</i>, 134-35)',
 	'"Ganz schön was los hier, was?" Bruno stand neben ihm, wie was dem Nichts gewachsen. Rath nickte. "Nicht so langweilig wie Zörgiebels Versammlungen." "Ja, endlich mal Leben in der <strong>Bude</strong>. (<i>Der nasse Fisch</i>, 255)',
 	'In der <strong>Bude</strong> war es dunkel, ein strenger Uringeruch lag in der Luft, nur in schmalen Streifen drang Tageslicht ein. (<i>Der nasse Fisch</i>, 320)',
+	'Ein großes Aufgebot an Uniformierten bewachte die Stelle, an der sie Jänickes Leiche gefunden hatten, eine schäbige Bretter<strong>bude</strong>. (<i>Der nasse Fisch</i>, 322)',
 	'Dann musste Wolter nur noch einen anonymen Hinweis streuen und dem Pornokaiser einen Trupp Uniformierte auf die <strong>Bude</strong> schicken, damit sie die Tatwaffe bei ihm fänden. (<i>Der nasse Fisch</i>, 380)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Ich kann nicht aus dem Haus. Wenn mich jemand sieht." Dazu war Charly doch zu sehr Preußin. Krankheitsbeding am Arbeitsplatz fehlen, dann aber munter durch die Stadt spazieren, das war für sie unvorstellbar. Rath hatte sich das Wochenende mit ihr anders vorgestellt. "Willst du etwa den ganzen Tag in der <strong>Bude</strong> hocken?" (<i>Märzgefallene</i>, 388-89)',
@@ -10234,6 +10273,8 @@ Gelände:[
 	'Immerhin hatten sie das Versteck der Gruppe Wolff gefunden, wenigstens das. Kreutzmanns Männer waren überall auf dem Lunapark<strong>gelände</strong> unterwegs und sammelten Spuren.. Auch auf dem <strong>Gelände</strong> waren sie fündig geworden. (<i>Lunapark</i>, 387-88)',
 	'Wenn er (<i>Rath</i>) die Wahl hätte, würde er lieber in einem Gartenhäuschen übernachten als mitten im Blut- und Tiergestank des Schlachthof<strong>geländes</strong> - das überdies durch Nachtwächter gesichert sein dürfte. (<i>Lunapark</i>, 449-50)',
 	'Er (<i>Rath</i>) fragte sich, wie sicher Leo Jurtzka sich in solch einer Kolonie fühlen mochte. Und war dann auf die Idee gekommen, dass der Gangster sich auch hier wahrscheinlich nur im Schutze der Dunkelhiet auf das <strong>Gelände</strong> wagte. (<i>Lunapark</i>, 466)',
+	'<u>Marlow</u>', 
+	'Als zweites folgte ein Bericht über den Abschluss der Brandermittlungen auf dem Messe<strong>gelände</strong>, wo nur einen Tag vor dem S-Bahn-Unglück mitten in der Funkausstellung die zentrale Halle IV abgebrannte war... (<i>Marlow</i>, 88)',
 ],
 Geländer:[
 	'das <strong>Geländer</strong>,-: handrail, balustrade, bannister, guardrail'+
@@ -10862,6 +10903,8 @@ Häkchen: [
 	'Heute Morgen, in Gegenwart des Jungen, hatten sie (<i>Charly und Gereon</i>) nicht mehr darüber gesprochen, aber sie wusste, dass Gereon alles daransetzen würde, den Nordpiraten und ihrem SA-Sturm das <strong>Handwerk zu legen</strong>. Hermann Lapke hatte einen Fehler gemacht: Er hatte sich an Charly vergriffen, und da verstand eine Gereon Rath keinen Spaß. (<i>Lunapark</i>, 206)',
 	'<i>Marlow</i>: "Ich bin hier, um mir das Spektakel anzuschauen. Natürlich auch, um die Gelegenheit zu nutzen, Ihnen zu danken." <i>Rath</i>: "Keine Ursache. Darf ich fragen, wofür?" Marlow zeigte hinüber zu den Lastwagen, wo gerade die letzten Braunhemden aufsteigen mussten. "Dass Sie Lapke und seiner Truppe endlich das <strong>Handwerk legen</strong>..." (<i>Lunapark</i>, 223)',
 	'Rath wusste nicht, was er dann tun sollte, um Charly und den Jungen vor Marlow zu schützen. Sich selbst anzeigen und alles offenlegen? Sich Gennat anvertrauen, in der Hoffnung, dass der Buddha Doktor M. und dessen Leuten schon das <strong>Handwerk legen</strong> würde? (<i>Lunapark</i>, 482)',
+	'<u>Marlow</u>',
+	'Doch der Mann, der das geräumige Vorzimmer der Kanzlei (<i>Blum & Scherer</i>) betrat und sich vorsichtig und ein wenig schüchtern umschaute, gehörte zu keiner der beiden Gruppen (<i>arme Schlucker oder Schnösel</i>). Charly wusste das, weil sie ihn kannte. Liang Kuen-Yao. Der Schatten von Johann Marlow, dem ungekrönten Unterweltkönig von Berlin, dem nicht einmal die neue Regierung das <strong>Handwerk hatte legen können</strong>. Oder nicht hatte legen wollen. (<i>Marlow</i>, 93-94)',
 ],
 hanebüchen: [
 	'<strong>hanebüchen</strong>: outrageous, scandalous'+
@@ -11916,6 +11959,8 @@ katzbuckeln: [
 	'<u>Märzgefallene</u>',
 	'Er (<i>Gereon</i>) hatte ihr (<i>Charly</i>) nicht verraten, wohin er sie ausführen wollte, lediglich erzählt, dass elegante Abendgarderobe nötig sein würde.... Der Empfangskellner, der zunächst einen arrogant blasierten Eindruck gemacht hatte, konnte sich vor lauter <strong>Katzbuckeln</strong> gar nicht mehr einkriegen, kaum hatte er den Namen Rath vernommen. (<i>Märzgefallene</i>, 191-92)',
 	'Er (<i>Rath</i>) konnte Charlys Unwillen immer mehr nachvollziehen, auch ihm machte die Arbeit in der Burg keinen richtigen Spaß mehr, seit die Politik alles andere beherrschte... Ernst Gennat schien es ähnlich zu gehen, jedenfalls <strong>katzbuckelte</strong> der Kriminalrat nicht vor dem neuen Polizeipräsidenten wie so viele andere. (<i>Märzgefallene</i>, 536)',
+	'<u>Marlow</u>',
+	'Rath machte sich auf den Weg. Draußen vor der Tür passte ihn Kriminalkommissar Westermann vom Vermisstendezernat ab, ein Mann, dessen <strong>katzbuckelnde</strong> Art er noch nie hatte leiden können. (<i>Marlow</i>, 90)',
 ],
 kauern: [
 	'<strong>kauern</strong>: crouch (down); cower'+
@@ -13454,6 +13499,8 @@ Nervensäge: [
 	'Er (<i>Rath</i>) hatte sie (<i>Kathi</i>) regelrecht wegzerren müssen von der <strong>Nervensäge</strong>, zurück auf den Dachgarten, wo die Festgesellschaft das Feuerwerk am Nachthimmel über Charlottenburg bestaunte, und in eine dunkle Ecke, in der er sie wieder küsste während um sie herum die Leute lachten und grölten und die Feuerwerksraketen pfiffen und krachten. (<i>Der stumme Tod</i>, 15)',
 	'<u>Märzgefallene</u>',
 	'Der Knirps (<i>Fritze</i>) hatte sich zu einer regelrechten <strong>Nervensäge</strong> entwickelt. Wie eine Klette klebte der Junge an ihr (<i>Hannah</i>), sie wurde ihn einfach nicht mehr los. (<i>Märzgefallene</i>, 252)',                 
+	'<u>Marlow</u>',
+	'Rath machte sich auf den Weg. Draußen vor der Tür passte ihn Kriminalkommissar Westermann vom Vermisstendezernat ab, ein Mann, dessen katzbuckelnde Art er noch nie hatte leiden können.. <i>Westermann</i>: "Wir haben ja gerade gehört, dass Sie Ihren toten Fahrgast identifiziert haben." Immerhin, dachte Rath, wenigstens das Vermisstendezernat hatte ihm zugehört. Ausgerechnet <strong>Nervensäge</strong> Westermann. "Gleichwohl", sagte die <strong>Nervensäge</strong>, "habe ich noch etwas für Sie..." (<i>Marlow</i>, 90)',
 ],
 nuscheln: [
 	'<strong>nuscheln</strong>: mumble'+
@@ -14935,6 +14982,8 @@ Schieblehre: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schlucker?q=armer+Schlucker"target="target3">armer Schlucker</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/armer+Schlucker"target="target4">armer Schlucker</a>',
 	'<u>Lunapark</u>',
 	'"Friedrichsen", brummte der Meister und nickte entschieden. "Det is eins von Friedrichsen." <i>Rath</i>: "Das können Sie so genau sehen?" Kessler nickte. "Friedrichsens Prothesen erkenne ich immer. Gibt kaum bessere in Berlin. Bis auf meine vielleicht. Hab nie verstanden, warum er seine Glasaugen nur an die <strong>armen Schlucker</strong> verkauft, Kriegsblinde und so \'n Kroppzeug..." (<i>Lunapark</i>, 135)',
+	'<u>Marlow</u>',
+	'Jetzt ging auch noch die Tür auf, dabei stand der nächste Termin erst für halb elf im Kalender. Also ein unangemeldeter Besucher. Vielleich ein <strong>armer Schlucker</strong>, der kein Telefon hatte, um einen Termin auszumachen... (<i>Marlow</i>, 93)',
 ],
 'armer Schlucker': [
 	'der <strong>armer Schlucker</strong>,-: wretch, poor devil'+
@@ -14942,6 +14991,8 @@ Schieblehre: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schlucker?q=armer+Schlucker"target="target3">armer Schlucker</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/armer+Schlucker"target="target4">armer Schlucker</a>',
 	'<u>Lunapark</u>',
 	'"Friedrichsen", brummte der Meister und nickte entschieden. "Det is eins von Friedrichsen." <i>Rath</i>: "Das können Sie so genau sehen?" Kessler nickte. "Friedrichsens Prothesen erkenne ich immer. Gibt kaum bessere in Berlin. Bis auf meine vielleicht. Hab nie verstanden, warum er seine Glasaugen nur an die <strong>armen Schlucker</strong> verkauft, Kriegsblinde und so \'n Kroppzeug..." (<i>Lunapark</i>, 135)',
+	'<u>Marlow</u>',
+	'Jetzt ging auch noch die Tür auf, dabei stand der nächste Termin erst für halb elf im Kalender. Also ein unangemeldeter Besucher. Vielleich ein <strong>armer Schlucker</strong>, der kein Telefon hatte, um einen Termin auszumachen... (<i>Marlow</i>, 93)',
 ],
 Schrotflinte: [
 	'die <strong>Schrotflinte</strong>,-<strong>n</strong>: shotgun'+
@@ -16271,21 +16322,23 @@ schnarchen: [
 	'Auf dem Sofa lag jemand unter einer Bettdecke und <strong>schnarchte</strong> leise. (<i>Märzgefallene</i>, 71)',
 	'"Jedenfalls sollten wir nicht auffallen", nölte Czerwinski. "Wäre schön, wenn du mal ein bisschen Land gewinnst." "Dann solltest du aber auch aufhören zu <strong>schnarchen</strong>", meinte Rath und verabschiedete sich mit einem letzten Klopfen aufs Wagendach. (<i>Der nasse Fisch</i>, 465-66)',
 ],
-'schnattern (in einem fort)': [
-	'<strong>schnattern</strong>: chatter, babble'+
-	'<br><strong>in einem fort</strong>: on and on, constantly'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target1">schnattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target2">in einem fort</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target3">schnattern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fort?q=in+einem+fort"target="target4">in einem fort</a>',
+'in einem fort': [
+	'<strong>in einem fort</strong>: on and on, constantly'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+einem+fort&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in einem fort</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target2">in einem fort</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=in%20einem%20fort"target="target3">in einem fort</a> &nbsp;<a href="https://context.reverso.net/translation/german-english/in+einem+fort"target="target4">in einem fort</a>',
 	'<u>Märzgefallene</u>',
-	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, <strong>schnatterte in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten. (<i>Märzgefallene</i>, 187)',
+	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, schnatterte <strong>in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten. (<i>Märzgefallene</i>, 187)',
+	'<u>Marlow</u>',
+	'Die wachsende Beliebtheit der Kanzlei <i>Blum & Scherer</i> führte nämlich dazu, dass an manchen Tagen <strong>in einem fort</strong> das Telefon klingelte und sie (<i>Charly</i>) vor lauter Telefonaten gar nicht mehr dazu kam, ihre eigentliche Arbeit zu machen. (<i>Marlow</i>, 93)',
 ],
-'in einem fort (schnattern)': [
+schnattern: [
 	'<strong>schnattern</strong>: chatter, babble'+
-	'<br><strong>in einem fort</strong>: on and on, constantly'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target1">schnattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/in%20einem%20fort"target="target2">in einem fort</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target3">schnattern</a> &nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fort?q=in+einem+fort"target="target4">in einem fort</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnattern"target="target1">schnattern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnattern"target="target2">schnattern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnattern"target="target3">schnattern</a> &nbsp;<a href="https://www.verbformen.com/?w=schnattern&id=verb%3Aschnattern"target="target4">schnattern</a>',
+//	'<u>Der stumme Tod</u>',
+//schnattern	' (<i>Der stumme Tod</i>, 69)',
 	'<u>Märzgefallene</u>',
-	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, <strong>schnatterte in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten. (<i>Märzgefallene</i>, 187)',
+	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, <strong>schnatterte</strong> in einem fort von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten. (<i>Märzgefallene</i>, 187)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -16361,6 +16414,8 @@ Schnösel: [
 	'<u>Lunapark</u>',
 	'Und nun arbeiteten sie (<i>Rath und Gräf</i>) wieder zusammen. Nur das der Kriminalsekretär nun Kommissar der Staatspolizei war und sich nichts mehr sagen ließ. Früher hatte er Gräf einfach wegschicken können, wenn der Mann ihm nicht in den Kram passte, jetzt hatte er ihn am Hals. Wenigstens diesen SS-<strong>Schnösel</strong> war er losgeworden, den hatte er Andreas Lange zugeschanzt. (<i>Lunapark</i>, 35-36)',
 	'Rath fand das Büro sofort. Er klopfte an und wartete nicht lange auf das "Herein". Als er die Tür öffnete, saß da jedoch nicht Sperling hinter einem Schreibtisch, sondern ein geschniegelter SA-Mann.. "Ja bitte?", sagte der <strong>Schnösel</strong>. (<i>Lunapark</i>, 93)',
+	'<u>Marlow</u>',
+	'Jetzt ging auch noch die Tür auf, dabei stand der nächste Termin erst für halb elf im Kalender. Also ein unangemeldeter Besucher. Vielleich ein armer Schlucker, der kein Telefon hatte, um einen Termin auszumachen, wahrscheinlicher aber einer von den reichen <strong>Schnöseln</strong>, die immmer häufiger vorbeischauten und glaubten, so wichtig zu sein, dass so etwas Profanes wie eine Terminvereinbarung für sie nicht nötig sei. (<i>Marlow</i>, 93)',
 ],
 'schnuppern, erschnuppern': [
 	'<strong>schnuppern</strong>: sniff'+
@@ -20352,6 +20407,7 @@ Geheiß:   Lunapark 57
  'glättern'  ;   Nworte++;  Märzgefallene 419 
  Glatze  Märzgefallene 595
  glitschig  Lunapark  41  Sstart
+ gram Marlow 92
  grauen Der nasse Fisch 383
  Grimasse  Märzgefallene 457
  grollen Lunapark 250
@@ -20509,7 +20565,12 @@ belegt: [
 	'<u>Lunapark</u>', 
 	'<i>Charly</i>: "Was ist denn los? Wo ist Kirie?" <i>Gereon</i>: "Nicht mehr da." Seine Stimme klang <strong>belegt</strong>. "Wie: nicht mehr da?" ".. Kirie ist tot." (<i>Lunapark</i>, 365-66)',  
 	'"Jawohl, Herr Kriminaldirektor." Rath hatte das so beiläufig sagen wollen wie die vielen Malen zuvor, doch seine Stimme war plötzlich <strong>belegt</strong>, und er musste sich räuspern. (<i>Lunapark</i>, 549)',
-], 
+],
+
+//schnattern	' (<i>Der stumme Tod</i>, 69)',
+// unverwandt	'   (<i>Der stumme Tod</i>, 206)',	
+
+
 complete later:
 brummen: [  
 	'<strong>brummen</strong>: buzz, hum, drone; grumble'+

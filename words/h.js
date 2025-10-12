@@ -14,16 +14,16 @@ const h = [
   // 'hämmern',
    'Handfessel, Handschelle',  
    'Handlanger', // Handlanger:  
-   'Handwerk legen',  // 
+   'Handwerk legen',   
    'handzahm, zahm', //  duplicated 
    'hanebüchen',  // hanebüchen: 
    'hapern',  // hapern: 
-   'Happen, Häppchen',  //   
+   'Happen, Häppchen',     
    'harren',  // harren: 
-   'hart im Nehmen sein', //  
+   'hart im Nehmen sein',   
    'Hatz',  // Hatz: 
    'Haube, Kühlerhaube', // duplicated  
-   'Hausierer, hausieren',  // 
+   'Hausierer, hausieren',   
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
    'hechten, Hechtsprung',

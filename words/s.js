@@ -94,7 +94,7 @@ const s = [
    'Schnapsidee' ,  // Schnapsidee:  
    'schnarchen' ,  // schnarchen:  
    'schnarren',  // schnarren:  
-   'schnattern (in einem fort)',  //  duplicated 
+   'schnattern',  // schnattern: 
    'schnauben', // schnauben: 
    'schnaufen',  // schnaufen: 
    'schneidig',  // schneidig: 

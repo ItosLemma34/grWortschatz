@@ -130,7 +130,7 @@ const v = [
    'vorknöpfen',  // vorknöpfen:    
    'vorliebnehmen',  // vorliebnehmen: 
    'Vornehm/Nobel geht die Welt zugrunde', // duplicated 
-   'vorsätzlich', // vorsätzlich:    check for other entries
+   'Vorsatz, vorsätzlich, Vorsätzlichkeit', 
    'vorsintflutlich',  // vorsintflutlich: 
 ];
 

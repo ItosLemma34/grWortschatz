@@ -10,7 +10,7 @@ const i = [
    'in die Quere kommen', //  duplicated 
    'in die Zange nehmen', //  duplicated 
    'in drei Teufels Namen', //  duplicated 
-   'in einem fort (schnattern)', // duplicated 
+   'in einem fort',  
    'in Schuss sein', //  duplicated 
    'ins Fettnäpfchen treten', //  duplicated 
    'ins Handwerk pfuschen, pfuschen',  //  duplicated 

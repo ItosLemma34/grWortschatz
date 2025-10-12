@@ -135,7 +135,7 @@ const a = [
 	'auffächern, fächern', //  duplicated 
 	'auffliegen',  // auffliegen:  
 	'aufgabeln',   // aufgabeln:
-//	'Aufgebot',  // Aufgebot:  
+	'Aufgebot',  // Aufgebot:  
 	'aufgedunsen', // aufgedunsen:  
 	'aufgekratzt', // aufgekratzt: 
 	'aufgelöst',   // aufgelöst:   only for the "distraught" definition

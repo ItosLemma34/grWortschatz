@@ -4,12 +4,12 @@ export const wordExamples = {
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Böhm</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // <strong> (<i>Märzgefallene</i>, 000)', (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // ' (<i>Der nasse Fisch</i>, 000)',  ' (<i>Der stumme Tod</i>, 000)', ' (<i>Märzgefallene</i>, 000)', ' (<i>Lunapark</i>, 000)', 
 // ' (<i>Marlow</i>, 000)',
 
-Laufgitter:	'Als Rat sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
+Laufgitter:	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 Fluter = Scheinwerfer (spotlight)  
 Include brummen with 'brummig, Brummigkeit';  brummen pg 67 Marlow  appears in "unwirsch"
@@ -29,21 +29,28 @@ zzz: [
 	'   (<i>Marlow</i>, 000)',
 ],
 */
+brodeln: [  
+	'<strong>brodeln</strong>: brew, bubble, simmer, seethe'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brodeln"target="target1">brodeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/brodeln"target="target2">brodeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/brodeln"target="target3">brodeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=brodeln&id=verb%3Abrodeln"target="target4">brodeln</a>',
+	'<u>Lunapark</u>',   
+	'<i>Engelbert Rath, zu Gereon</i>: "Mein Junge, du redest mal wieder von Dingen, von denen du keine Ahnung hast. Meinst du etwa, Goebbels reitet seine Kampagne ohne Grund? Die Herren Nazis sind nervös, das Volk murrt. Und in der Regierung <strong>brodelt</strong> es. Glaubst du, den anderen Kabinettsmitgliedern gefällt es, was die Nazis sich alles herausnehmen?" (<i>Lunapark</i>, 87)',	
+	'<i>Charly</i>: "Wovon redest du? Plant irgendwer ein Attentat?" Er (<i>Gereon</i>) schaute sie verdutzt an, dann lachte er. "Aber nein. Ich spreche von Hindenburg. In der Reichsregierung <strong>brodelt</strong> es gewaltig, und wem, meinst du wohl, wird Hindenburg eher Gehör schenken, dem Kanzler oder dem Vizekanzler?" (<i>Lunapark</i>, 130)',   
+	'<u>Marlow</u>',  
+	'<i>Liang:</i> "Ich war gerade in Pankow auf dem Standesamt. Um das Aufgebot (<i>zum Heiraten</i>) zu bestellen." Jetzt erst merkte Charly, wie es hinter der so undurchdringlich scheinenden ruhigen Fassade des Chinesen <strong>brodelte</strong>. (<i>Marlow</i>, 95)',
+],
 Aufgebot: [  
-	'das <strong>Aufgebot</strong>: public notice, official wedding notice; contingent, body of men'+
+	'das <strong>Aufgebot</strong>,-<strong>e</strong>: contingent, body of men; public notice, official wedding notice'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aufgebot"target="target1">Aufgebot</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Aufgebot"target="target2">Aufgebot</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufgebot"target="target3">Aufgebot</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Aufgebot&id=substantiv%3AAufgebot"target="target4">Aufgebot</a>',
 	'<u>Der nasse Fisch</u>',   
 	'Ein großes <strong>Aufgebot</strong> an Uniformierten bewachte die Stelle, an der sie Jänickes Leiche gefunden hatten, eine schäbige Bretterbude. (<i>Der nasse Fisch</i>, 322)',
-
-// continue:
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
 	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
+	'(<i>Doktor</i>) Schwartz stellte seine Tasche ab und schaute sich um. "Sie sind ja nicht gerade mit großem <strong>Aufgebot</strong> hier", sagte er. <i>Böhm</i>: "Ich bin froh, dass man mir wenigstens das Mordauto gegönnt hat und ich nicht das Fahrrad nehmen musste..." (<i>Märzgefallene</i>,14)',
 	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
-	'<u>Marlow</u>',  
+	'Charly hatte ihm (<i>Gereon</i>) gestern Abend, als der Junge im Bett war und sie in Ruhe reden konnten, davon erzählt. Dass das Wiederzusammenbringen von Karl und Alex Reinhold gründlich danebengegangen war. Das Staatspolizei mit großem <strong>Aufgebot</strong> vor dem Industriepalast vorgefahren war, gerade in dem Moment, als sie mit Alex und der Kontaktperson dort vorbeischauen wollte. (<i>Lunapark</i>, 326)',
+	'Rath seufzte. Staatspolizei. Das hatte ihm noch gefehlt. Jetzt würden sie hier mit dem ganz großen <strong>Aufgebot</strong> anrollen. (<i>Lunapark</i>, 382)',
+	'<u>Marlow</u>',   
 	'<i>Charly</i>: ".. ich bin keine Volljuristin, ich dürfte Sie (<i>Liang</i>) vor Gericht niemals vertreten." "Das müssen Sie auch nicht. Sie müssen mir nur helfen zu heiraten." Nun war Charly perplex. Beinah hätte sie gelacht. "Ich weiß nicht, was ich da groß helfen soll. Sie brauchen eine Braut, zwei Trauzeugen und einen Termin beim Standesamt." "Ich war gerade in Pankow auf dem Standesamt. Um das <strong>Aufgebot</strong> zu bestellen." (<i>Marlow</i>, 95)',
 ],
 unverwandt: [  
@@ -87,8 +94,9 @@ unverwandt: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aussatz"target="target4">Aussatz</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aussaetziger"target="target5">Aussätziger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=auss%C3%A4tzig&id=adjektiv%3Aaussa3tzig"target="target6">aussätzig</a>',
 	'<u>Marlow</u>',  
 	'Die Kollegen schauten ihn (<i>Rath</i>) an wie einen <strong>Aussätzigen</strong>, als er den kleinen Konferenzsaal betrat, jedenfalls kam es ihm so vor. (<i>Marlow</i>, 87)',
-// next pg 96
+	'<i>Liang:</i> "Ich war gerade in Pankow auf dem Standesamt. Um das Aufgebot (<i>zum Heiraten</i>) zu bestellen." Jetzt erst merkte Charly, wie es hinter der so undurchdringlich scheinenden ruhigen Fassade des Chinesen brodelte. Liang wirkte auf eine Weise aufgewühlt, als habe irgendetwas ihn sehr, sehr aufgeregt und er müsse alle Kraft aufbringen, sich zu beherrschen. "Dort hat man mich behandelt wie einen <strong>Aussätzigen</strong>", fuhr er fort... "Bevor man mich wieder vor die Tür setzte". (<i>Marlow</i>, 95-96)',
 ],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 brüten: [  
 	'<strong>brüten</strong>: brood, pore over sth.; breed'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/brueten"target="target1">brüten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/br%C3%BCten"target="target2">brüten</a>'+
@@ -3276,6 +3284,8 @@ klotzen: [
 	'<i>Charly</i>: "Dann werde ich mir das bei Gelegenheit mal anschauen. Danke für den Hinweis." Sie sagte das möglichst beiläufig, sie wollte sich nicht anmerken lassen, wie sehr sie Kellermanns Nachtricht <strong>aufwühlte</strong>. (<i>Märzgefallene</i>, 289)',   
 	'<u>Lunapark</u>', 
 	'"Das hier", sagte Guido, "ist der Originaltext der Rede, die Papen am Sonntag in Marburg gehalten hat.".. Er begann zu lesen: ".. <i>Das Geschehen der letzten anderhalb Jahre.. hat das ganze deutsche Volk erfaßt und in seinen Tiefen <strong>aufgewühlt</strong></i>..." (<i>Lunapark</i>, 348)',  
+	'<u>Marlow</u>',  
+	'<i>Liang:</i> "Ich war gerade in Pankow auf dem Standesamt. Um das Aufgebot (<i>zum Heiraten</i>) zu bestellen." Jetzt erst merkte Charly, wie es hinter der so undurchdringlich scheinenden ruhigen Fassade des Chinesen brodelte. Liang wirkte auf eine Weise <strong>aufgewühlt<strong>, als habe irgendetwas ihn sehr, sehr aufgeregt und er müsse alle Kraft aufbringen, sich zu beherrschen. (<i>Marlow</i>, 95)',
 ],
 büffeln: [
 	'<strong>büffeln</strong>: cram, study hard'+
@@ -3865,7 +3875,7 @@ Lastkahn: [
 	'<u>Lunapark</u>',
 	'Das Grün und die angenehme Stille, in der kein Auto zu hören war, sondern nur Vogel<strong>gezwitscher</strong> und Blätterrauschen, beruhigten ihn (<i>Rath</i>). (<i>Lunapark</i>, 351)',   
 	'Hier war es still. Ab und zu fuhr der Wind durch die Baumwipfel, ein paar Vögel <strong>zwitscherten</strong>, der See gluckerte aus der Ferne, das war\'s. (<i>Lunapark</i>, 459)',
-	'Die Vögel <strong>zwitscherten<strong> laut, so früh am Morgen war der Hof noch leer, bis auf ein paar SA-Männer, die rauchend auf den Morgenappell warteten, auf die Häftlinge, die sie dann gehörig triezen konnten. (<i>Lunapark</i>, 491)',
+	'Die Vögel <strong>zwitscherten</strong> laut, so früh am Morgen war der Hof noch leer, bis auf ein paar SA-Männer, die rauchend auf den Morgenappell warteten, auf die Häftlinge, die sie dann gehörig triezen konnten. (<i>Lunapark</i>, 491)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel <strong>zwitscherten</strong> in den Bäumen, die Sonne malte hellgrün leuchtende Tupfen in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'Der Morgen hatte bereits gegraut, die Vögel in den Bäumen.. <strong>zwitscherten</strong>, als er (<i>Rath</i>) an Fritzes Bett gesessen und ihm alles eingebläut hatte. (<i>Lunapark</i>, 539)',
 	'<u>Marlow</u>',
@@ -3883,7 +3893,7 @@ Lastkahn: [
 	'<u>Lunapark</u>',
 	'Das Grün und die angenehme Stille, in der kein Auto zu hören war, sondern nur Vogel<strong>gezwitscher</strong> und Blätterrauschen, beruhigten ihn (<i>Rath</i>).  (<i>Lunapark</i>, 351)',   
 	'Hier war es still. Ab und zu fuhr der Wind durch die Baumwipfel, ein paar Vögel <strong>zwitscherten</strong>, der See gluckerte aus der Ferne, das war\'s. (<i>Lunapark</i>, 459)',
-	'Die Vögel <strong>zwitscherten<strong> laut, so früh am Morgen war der Hof noch leer, bis auf ein paar SA-Männer, die rauchend auf den Morgenappell warteten, auf die Häftlinge, die sie dann gehörig triezen konnten. (<i>Lunapark</i>, 491)',
+	'Die Vögel <strong>zwitscherten</strong> laut, so früh am Morgen war der Hof noch leer, bis auf ein paar SA-Männer, die rauchend auf den Morgenappell warteten, auf die Häftlinge, die sie dann gehörig triezen konnten. (<i>Lunapark</i>, 491)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel <strong>zwitscherten</strong> in den Bäumen, die Sonne malte hellgrün leuchtende Tupfen in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'Der Morgen hatte bereits gegraut, die Vögel in den Bäumen.. <strong>zwitscherten</strong>, als er (<i>Rath</i>) an Fritzes Bett gesessen und ihm alles eingebläut hatte. (<i>Lunapark</i>, 539)',
 	'<u>Marlow</u>',
@@ -6046,7 +6056,7 @@ ausquetschen: [
 ],
 'auf den Zahn fühlen': [
 	'jmdm. <strong>auf den Zahn fühlen</strong>: grill, probe someone'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20einer%20Sache%20auf%20den%20Zahn%20f%C3%BChlen"target="target1">auf den Zahn fühlen</a> &nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/5539-rtkl-redewendung-auf-den-zahn-fuehlen"target="target2">auf den Zahn fühlen</a>'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20einer%20Sache%20auf%20den%20Zahn%20f%C3%BChlen"target="target1">auf den Zahn fühlen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/5539-rtkl-redewendung-auf-den-zahn-fuehlen"target="target2">auf den Zahn fühlen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zahn?q=auf+den+Zahn+f%C3%BChlen"target="target3">auf den Zahn fühlen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Zahn+f%C3%BChlen"target="target4">auf den Zahn fühlen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Sie (<i>die Polizei</i>) suchten den Mörder jetzt in Verbrecherkreisen. Nun musste erst einmal der <i>Berolina</i> (<i>einem Ringverein</i>) <strong>auf den Zahn gefühlt</strong> werden. (<i>Der nasse Fisch</i>, 291)',
@@ -6059,7 +6069,7 @@ ausquetschen: [
 ],
 'Zahn (auf den Z. fühlen)': [
 	'jmdm. <strong>auf den Zahn fühlen</strong>: grill, probe someone'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20einer%20Sache%20auf%20den%20Zahn%20f%C3%BChlen"target="target1">auf den Zahn fühlen</a> &nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/5539-rtkl-redewendung-auf-den-zahn-fuehlen"target="target2">auf den Zahn fühlen</a>'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%2C%20einer%20Sache%20auf%20den%20Zahn%20f%C3%BChlen"target="target1">auf den Zahn fühlen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/5539-rtkl-redewendung-auf-den-zahn-fuehlen"target="target2">auf den Zahn fühlen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zahn?q=auf+den+Zahn+f%C3%BChlen"target="target3">auf den Zahn fühlen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Zahn+f%C3%BChlen"target="target4">auf den Zahn fühlen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Sie (<i>die Polizei</i>) suchten den Mörder jetzt in Verbrecherkreisen. Nun musste erst einmal der <i>Berolina</i> (<i>einem Ringverein</i>) <strong>auf den Zahn gefühlt</strong> werden. (<i>Der nasse Fisch</i>, 291)',
@@ -13418,6 +13428,7 @@ murren: [
 	'Erika Voss hatte zwar skeptisch geguckt, als Charly ihr sagte, sie habe den Auftrag, Unterlagen für Kommissar Rath mit nach Hause zu nehmen, dann aber alles ohne zu <strong>murren</strong> rausgerückt. (<i>Märzgefallene</i>, 292)',                 
 	'Rath hatte nur Alfons Henning als Unterstützung mitgenommen und dafür das unzertrennliche Pärchen Plisch und Plum auseinandergerissen. Czerwinski hatte zwar <strong>gemurrt</strong>, als er seinen Lieblingskollegn ziehen lassen sollte, doch im Notsitz des Buick hatte er dann auch nicht Platz nehmen wollen. (<i>Märzgefallene</i>, 344)',
 	'<u>Lunapark</u>',
+	'<i>Engelbert Rath, zu Gereon</i>: "Mein Junge, du redest mal wieder von Dingen, von denen du keine Ahnung hast. Meinst du etwa, Goebbels reitet seine Kampagne ohne Grund? Die Herren Nazis sind nervös, das Volk <strong>murrt</strong>. Und in der Regierung brodelt es. Glaubst du, den anderen Kabinettsmitgliedern gefällt es, was die Nazis sich alles herausnehmen?" (<i>Lunapark</i>, 87)',	
 	'Die Braunhemden verstanden keinen Spaß, wenn man ihnen den Hitlergruß verweigerte oder ihnen gar aus dem Wege ging. Kein Wunder, dass die Leute <strong>murrten</strong>. (<i>Lunapark</i>, 91)', 
 	'<i>Rath</i>: "Wenn ich noch einen Blick in Ihr Auto werfen dürfte, Herr Leister?" Auch das ließ Wilhelm Leister ohne <strong>Murren</strong> über sich ergehen. Rath schaute ins Wageninnere, in den Kofferraum und unter die Motorhaube. Nichts Verdächtiges. Natürlich nicht. (<i>Lunapark</i>, 233)', 
 	'Der Junge (<i>Fritze</i>) freute sich seit Tagen auf das Zeltlager. Ohne zu <strong>murren</strong>, hatte er den Hund versorgt und war mit Kirie extra lange Gassi gegangen. (<i>Lunapark</i>, 279)',  
@@ -15960,6 +15971,8 @@ scheren: [
 	'"Und nun machen Sie, dass Sie fortkommen, Roddeck", sagte er (<i>Rath</i>)... "Ich will Sie nie wiedersehen, ich möchte Ihren Namen nie wieder in der Zeitung lesen." <i>Roddeck</i>: "Aber... wo soll ich denn hin?" Jetzt klang der blonde Leutnant wieder so weinerlich wie vorhin. <i>Rath</i>: "<strong>Scheren Sie sich</strong> meinetwegen <strong>zum Teufel</strong>." (<i>Märzgefallene</i>, 581)',
 	'<u>Lunapark</u>',
 	'Charly konnte es nicht mehr hören. Er (<i>Guido Scherer</i>) kam ihr unglaublich naiv vor in seinem Vertrauen auf das deutsche Rechtssystem.. Wusste er nicht, wie viel Macht die SA im neuen Deutschland hatte? Wie wenig die <strong>sich</strong> um den Rechtsstaat <strong>scherte</strong>? (<i>Lunapark</i>, 347)',
+	'<u>Marlow</u>',
+	'<i>Liang</i>: "Ich bin in China geboren", fuhr er fort. "Meine Mutter ist mit mir von den Japanern nach Deutschland geflohen." <i>Charly</i>: "Mit der chinesischen Staatsbürgerschaft könnten Sie in der chinesischen Botschaft heiraten, die <strong>scheren sich</strong> nicht um Rassehygiene." (<i>Marlow</i>, 97)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -19984,7 +19997,7 @@ Ziegelwand: [
 ],
 zig: [	
 	'<strong>zig</strong>: umpteen, dozens, hundreds of'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zig"target="target1">zig</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/zig"target="target2">zig</a> ' +
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zig"target="target1">zig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zig"target="target2">zig</a> ' +
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zig"target="target3">zig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zig_1"target="target4">zig</a>',
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Hannah und Fritze</i>) waren durch eine Tür in den riesigen Bürotrakt gelaufen, waren irgendwo die Treppen runter und im Hinterhof durch ein Fenster raus. Waren irgendwie auf einem Hof gelandet, auf dem <strong>zig</strong> Aschinger-Lieferwagen standen.... (<i>Märzgefallene</i>, 173)',

@@ -11,7 +11,8 @@ const g = [
    'Gebrüll, brüllen',  //  duplicated 
    'Gebüsch, Busch',  //  duplicated 
    'gediegen',  // gediegen: 
-   'Gedränge',  // Gedränge:  
+   'Gedränge',  // Gedränge: 
+   'Gedudel, dudeln',  // duplicated 
    'gefasst',  // gefasst: 
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig:

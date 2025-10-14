@@ -7,7 +7,7 @@ const s = [
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
    'Saum, säumen',  
-   'Säure',  // Säure:  
+   'Säure, säuerlich',   
    'Sause',  // Sause:  
    'sausen', // sausen:  
    'schaben, abschaben', // duplicated 

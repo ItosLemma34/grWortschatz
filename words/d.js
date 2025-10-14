@@ -34,7 +34,7 @@ const d = [
    'drunter und drüber gehen',  
    //'den Hintern plattsitzen', 
    'ducken, wegducken',  // duplicated 
-   'dudeln',   // dudeln: 
+   'dudeln, Gedudel',   // duplicated
    'dumpf',    // dumpf: 
    'Dunst, Dunstkreis',   
    'durch den Wind sein', //  dulicated 

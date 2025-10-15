@@ -15,6 +15,7 @@ const z = [
    'zechen',     // zechen: 
    'Zehenspitze',  // Zehenspitze: 
    'Zeltplane' ,   // Zeltplane: 
+   'zerbeulen, verbeulen, Beule, beulen',  // triplicated
    'zerdeppern',   // zerdeppern: 
    'zerfleddert',  // zerfleddert:
    'zerfurchen, zerfurcht', 

@@ -28,8 +28,71 @@ zzz: [
 	'<u>Marlow</u>',  
 	'   (<i>Marlow</i>, 000)',
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
+'Beule, beulen, verbeulen, zerbeulen': [ 
+	'die <strong>Beule</strong>,-<strong>n</strong>: dent, blister, bump, bruise'+
+	'<br>(sich) <strong>beulen</strong>: bulge'+
+	'<br><strong>verbeulen</strong>: dent, batter sth.'+ 
+	'<br><strong>zerbeulen</strong>: dent badly, crush, deform'+ 
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beule"target="target1">Beule</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beulen"target="target2">beulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verbeulen"target="target3">verbeulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerbeulen"target="target4">zerbeulen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beule"target="target5">Beule</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Beulen"target="target6">beulen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verbeulen&id=verb%3Averbeulen"target="target7">verbeulen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/zerbeulen"target="target8">zerbeulen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Der Kaffee in der <strong>verbeulten</strong> Emailtasse, den sie ihm hingestellt hatten, schmeckte scheußlich. (<i>Der nasse Fisch</i>, 15)' ,
+	'Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der nasse Fisch</i>, 81-82)',
+	'<u>Der stumme Tod</u>',
+	'Am Moritzplatz staute sich der Verkehr, ein <strong>zerbeulter</strong> Lastwagen blockierte fast die gesamte Fahrbahn, und ein Schupo musste die Fahrzeuge einzeln an der Unfallstelle vorbeilotsen. (<i>Der stumme Tod</i>, 45)',
+	'<u>Märzgefallene</u>',
+	'Die Teeküche teilten sie sich mit den anderen Kolleginnen auf dem Gang, und Charly war froh, dass sie keiner einzigen begegnete, als sie den <strong>zerbeulten</strong> Teekessel mit frischem Wasser füllte und auf die elektrische Kochplatte stellte. (<i>Märzgefallene</i>, 31)',
+	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt. (<i>Märzgefallene</i>, 220)',
+	'Roddeck schwieg. Er gab ein trostloses Bild ab mit der blutenden <strong>Beule</strong> an der Stirn, den wirren Haarsträhnen im Gesicht und dem vom Wasser fleckigen Regenmantel. (<i>Märzgefallene</i>, 578)',
+	'<u>Lunapark</u>',
+	'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <strong>verbeulten</strong>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+	'Wenn er die Akten zuhause in Ruhe durchging und morgen wieder zurückstellte, würde schon niemand etwas merken. Dem Beamten am Ausgang fiel jedenfalls nicht auf, dass <strong>sich</strong> Raths Tasche beim Hinausgehen ein wenig mehr <strong>beulte</strong> als beim Hineingehen. (<i>Lunapark</i>, 261)',
+	'.. schließlich hielt der Wagen in der Victoriastraße, vor jener Villa in Niederschönhausen, an der Rath vor wenigen Wochen noch vergeblich geklingelt hatte. Diesmal öffnete kein arroganter Hausdiener, sondern ein Mann, dessen Jackett ein Pistolenholster <strong>beulte</strong>. (<i>Lunapark</i>, 353)',
+],	
+'verbeulen, zerbeulen, Beule, beulen': [ 
+	'die <strong>Beule</strong>,-<strong>n</strong>: dent, blister, bump, bruise'+
+	'<br>(sich) <strong>beulen</strong>: bulge'+
+	'<br><strong>verbeulen</strong>: dent, batter sth.'+ 
+	'<br><strong>zerbeulen</strong>: dent badly, crush, deform'+ 
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beule"target="target1">Beule</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beulen"target="target2">beulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verbeulen"target="target3">verbeulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerbeulen"target="target4">zerbeulen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beule"target="target5">Beule</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Beulen"target="target6">beulen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verbeulen&id=verb%3Averbeulen"target="target7">verbeulen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/zerbeulen"target="target8">zerbeulen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Der Kaffee in der <strong>verbeulten</strong> Emailtasse, den sie ihm hingestellt hatten, schmeckte scheußlich. (<i>Der nasse Fisch</i>, 15)' ,
+	'Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der nasse Fisch</i>, 81-82)',
+	'<u>Der stumme Tod</u>',
+	'Am Moritzplatz staute sich der Verkehr, ein <strong>zerbeulter</strong> Lastwagen blockierte fast die gesamte Fahrbahn, und ein Schupo musste die Fahrzeuge einzeln an der Unfallstelle vorbeilotsen. (<i>Der stumme Tod</i>, 45)',
+	'<u>Märzgefallene</u>',
+	'Die Teeküche teilten sie sich mit den anderen Kolleginnen auf dem Gang, und Charly war froh, dass sie keiner einzigen begegnete, als sie den <strong>zerbeulten</strong> Teekessel mit frischem Wasser füllte und auf die elektrische Kochplatte stellte. (<i>Märzgefallene</i>, 31)',
+	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt. (<i>Märzgefallene</i>, 220)',
+	'Roddeck schwieg. Er gab ein trostloses Bild ab mit der blutenden <strong>Beule</strong> an der Stirn, den wirren Haarsträhnen im Gesicht und dem vom Wasser fleckigen Regenmantel. (<i>Märzgefallene</i>, 578)',
+	'<u>Lunapark</u>',
+	'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <strong>verbeulten</strong>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+	'Wenn er die Akten zuhause in Ruhe durchging und morgen wieder zurückstellte, würde schon niemand etwas merken. Dem Beamten am Ausgang fiel jedenfalls nicht auf, dass <strong>sich</strong> Raths Tasche beim Hinausgehen ein wenig mehr <strong>beulte</strong> als beim Hineingehen. (<i>Lunapark</i>, 261)',
+	'.. schließlich hielt der Wagen in der Victoriastraße, vor jener Villa in Niederschönhausen, an der Rath vor wenigen Wochen noch vergeblich geklingelt hatte. Diesmal öffnete kein arroganter Hausdiener, sondern ein Mann, dessen Jackett ein Pistolenholster <strong>beulte</strong>. (<i>Lunapark</i>, 353)',
+],	
+'zerbeulen, verbeulen, Beule, beulen': [ 
+	'die <strong>Beule</strong>,-<strong>n</strong>: dent, blister, bump, bruise'+
+	'<br>(sich) <strong>beulen</strong>: bulge'+
+	'<br><strong>verbeulen</strong>: dent, batter sth.'+ 
+	'<br><strong>zerbeulen</strong>: dent badly, crush, deform'+ 
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beule"target="target1">Beule</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beulen"target="target2">beulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verbeulen"target="target3">verbeulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerbeulen"target="target4">zerbeulen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beule"target="target5">Beule</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Beulen"target="target6">beulen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verbeulen&id=verb%3Averbeulen"target="target7">verbeulen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/zerbeulen"target="target8">zerbeulen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Der Kaffee in der <strong>verbeulten</strong> Emailtasse, den sie ihm hingestellt hatten, schmeckte scheußlich. (<i>Der nasse Fisch</i>, 15)' ,
+	'Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der nasse Fisch</i>, 81-82)',
+	'<u>Der stumme Tod</u>',
+	'Am Moritzplatz staute sich der Verkehr, ein <strong>zerbeulter</strong> Lastwagen blockierte fast die gesamte Fahrbahn, und ein Schupo musste die Fahrzeuge einzeln an der Unfallstelle vorbeilotsen. (<i>Der stumme Tod</i>, 45)',
+	'<u>Märzgefallene</u>',
+	'Die Teeküche teilten sie sich mit den anderen Kolleginnen auf dem Gang, und Charly war froh, dass sie keiner einzigen begegnete, als sie den <strong>zerbeulten</strong> Teekessel mit frischem Wasser füllte und auf die elektrische Kochplatte stellte. (<i>Märzgefallene</i>, 31)',
+	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt. (<i>Märzgefallene</i>, 220)',
+	'Roddeck schwieg. Er gab ein trostloses Bild ab mit der blutenden <strong>Beule</strong> an der Stirn, den wirren Haarsträhnen im Gesicht und dem vom Wasser fleckigen Regenmantel. (<i>Märzgefallene</i>, 578)',
+	'<u>Lunapark</u>',
+	'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <strong>verbeulten</strong>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
+	'Wenn er die Akten zuhause in Ruhe durchging und morgen wieder zurückstellte, würde schon niemand etwas merken. Dem Beamten am Ausgang fiel jedenfalls nicht auf, dass <strong>sich</strong> Raths Tasche beim Hinausgehen ein wenig mehr <strong>beulte</strong> als beim Hineingehen. (<i>Lunapark</i>, 261)',
+	'.. schließlich hielt der Wagen in der Victoriastraße, vor jener Villa in Niederschönhausen, an der Rath vor wenigen Wochen noch vergeblich geklingelt hatte. Diesmal öffnete kein arroganter Hausdiener, sondern ein Mann, dessen Jackett ein Pistolenholster <strong>beulte</strong>. (<i>Lunapark</i>, 353)',
+],	
 'dudeln, Gedudel': [ 
 	'<strong>dudeln</strong>: drone, hum, tootle'+
 	'<br>das <strong>Gedudel</strong>: tootling, droning, tedious music'+
@@ -1186,7 +1249,7 @@ schlängeln: [
 	'<u>Der stumme Tod</u>',
 	'Der schwer bepackte Henning musste aufpassen, dass er nicht stolperte, überall <strong>schlängelten sich</strong> Kabel über den Boden, andere waren quer durch den Raum gespannt. (<i>Der stumme Tod</i>, 22)',
 ],
-Gewirr: [
+Gewirr: [  
 	'das <strong>Gewirr</strong>,-<strong>e</strong>: tangle, babble, jumble, confusion'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewirr"target="target1">Gewirr</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gewirr"target="target2">Gewirr</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gewirr?q=Gewirr"target="target3">Gewirr</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gewirr"target="target4">Gewirr</a>',
@@ -1196,6 +1259,8 @@ Gewirr: [
 	'Er (<i>Gereon</i>) hatte warten müssen.. Und dann wurde er für sein Warten belohnt. Sie (<i>Charly</i>) kam. Mit energischen Schritten stiefelte sie auf die Lücke zwischen den Bauzäunen zu, die die Fußgänger durch das <strong>Gewirr</strong> der Baustellen sicher zum Bahnhof Alexanderplatz leiteten... (<i>Der nasse Fisch</i>, 268)',
 	'Immer mehr Unruhe kam in die Begräbnisgesellschaft.. Ein Murmeln war zu hören, das zu einem immer lauteren Stimmen<strong>gewirr</strong> anschwoll. (<i>Der nasse Fisch</i>, 405)',
 	'Rath nickte. In dem Stimmen<strong>gewirr</strong> um sie herum war es schwierig, sich verständlich zu machen. Kaum zu glauben, dass in dem Chaos überhaupt jemand bedient wurde. Aber die Kellner schlängelten sich mit erhobenen Tabletts hindurch wie Zirkusartisten. (<i>Der nasse Fisch</i>, 538)',
+	'<u>Der stumme Tod</u>',
+	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmen<strong>gewirr</strong> klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'<u>Lunapark</u>',
 	'Rath hatte sich schon häufiger gefragt, ob man den Alex früher, im <strong>Gewirr</strong> der Baustellenzäune, trotz aller Hindernisse nicht scheller und einfacher hatte überqueren können als heute... (<i>Lunapark</i>, 341)',
 ],
@@ -4760,6 +4825,8 @@ Klüngel: [
 	'<strong>Klüngel</strong>: clique, faction'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kluengel"target="target1">Klüngel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kl%C3%BCngel"target="target2">Klüngel</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Kl%C3%BCngel"target="target3">Klüngel</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kluengel"target="target4">Klüngel</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Adenauer</i>: "Ihr Vater, lieber Herr Rath (<i>Gereon</i>), hilft mir jerade in einer äußerst delikaten Anjelejenheit, und et trifft sich jut, dat die Familie Rath in Berlin vertreten ist..." So schnell also konnte der kölsche <strong>Klüngel</strong> einen einholen, auch mitten in der Reichshauptstadt! (<i>Der stumme Tod</i>, 48)',
 	'<u>Märzgefallene</u>',
 	'"Ich (<i>Gereon</i>) kann verstehen, dass dir (<i>Engelbert</i>) die aktuellen Entwicklungen nicht behagen. Aber mach es nicht mir zum Vorwurf, wenn dein kölscher <strong>Klüngel</strong> sich gerade in Wohlgefallen auflöst. Hast du wohl auf die falschen Pferde gesetzt. Wer Karriere machen will, darf heute kein Zentrumsbonze sein. Wärst du mal besser Nazi geworden." (<i>Märzgefallene</i>, 85)',
 	'Rath erinnerte sich daran, wie sein Vater ihn letzten Sommer gefragt hatte, ob er nicht zur Einweihung (<i>der vierspurigen Straße</i>) kommen wolle - ähnlich wie die Rosenmontagseinladung ins Rathaus ein Versuch, den Herrn Sohn in den kölschen <strong>Klüngel</strong> einzubinden. (<i>Märzgefallene</i>, 297)',              
@@ -7605,20 +7672,6 @@ Buche: [
 	'Am Rande des Abgrunds aber stand eine alte <strong>Buche</strong> mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell betupft war. Steine, wie Rath erkannte, als er sich hinhockte, kleine Kieselsteine vom Rheinufer, die jemand hier abgelegt hatte... Hinter einem Felsen, von dem aus er den Weg und die <strong>Buche</strong> gut im Blick hatte, fand er ein passendes Versteck. (<i>Märzgefallene</i>, 440)',
 	'Einen Moment fürchtete Rath, sie (<i>Eva Heinen</i>) werde an der <strong>Buche</strong> vorübergehen und wirklich nur ein Stückchen in den Wald, dann aber blieb sie genau vor dem Baum mit den vielen kleinen Kieselsteinen stehen. (<i>Märzgefallene</i>, 441)',
 ],	
-'Beule, beulen': [ 
-	'die <strong>Beule</strong>,-<strong>n</strong>: dent, blister, bump, bruise'+
-	'<br>(sich) <strong>beulen</strong>: bulge'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Beule"target="target1">Beule</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beulen"target="target2">beulen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beule"target="target3">Beule</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Beulen"target="target4">beulen</a>',
-	'<u>Der nasse Fisch</u>',
-	'Abgesehen von den <strong>Beulen</strong>, die vom Aufprall auf die Uferbegrenzung stammten, war der Horch fast wie neu. (<i>Der nasse Fisch</i>, 81-82)',
-	'<u>Märzgefallene</u>',
-	'Leo (<i>Juretzka</i>) stand auf. Alle Knochen schmerzten, überall hatte er <strong>Beulen</strong> und blaue Flecken, an einigen Stellen war die Haut aufgeplatzt. (<i>Märzgefallene</i>, 220)',
-	'Roddeck schwieg. Er gab ein trostloses Bild ab mit der blutenden <strong>Beule</strong> an der Stirn, den wirren Haarsträhnen im Gesicht und dem vom Wasser fleckigen Regenmantel. (<i>Märzgefallene</i>, 578)',
-	'<u>Lunapark</u>',
-	'Wenn er die Akten zuhause in Ruhe durchging und morgen wieder zurückstellte, würde schon niemand etwas merken. Dem Beamten am Ausgang fiel jedenfalls nicht auf, dass <strong>sich</strong> Raths Tasche beim Hinausgehen ein wenig mehr <strong>beulte</strong> als beim Hineingehen. (<i>Lunapark</i>, 261)',
-	'.. schließlich hielt der Wagen in der Victoriastraße, vor jener Villa in Niederschönhausen, an der Rath vor wenigen Wochen noch vergeblich geklingelt hatte. Diesmal öffnete kein arroganter Hausdiener, sondern ein Mann, dessen Jackett ein Pistolenholster <strong>beulte</strong>. (<i>Lunapark</i>, 353)',
-],	
 Bartstoppel: [ 
 	'die <strong>Bartstoppel</strong>,-<strong>n</strong>: stubble, five o\'clock shadow'+  
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bartstoppel"target="target1">Bartstoppel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bartstoppel"target="target2">Bartstoppel</a>'+
@@ -9656,6 +9709,7 @@ geflissentlich: [
 	'Das Bild musste bei Raths erstem Besuch in diesen Räumen schon hier gehangen haben. Da war es ihm nur noch nicht aufgefallen, da hatte er diesen Altar für einen gefallenen Soldaten <strong>geflissentlich</strong> ignoriert. (<i>Der nasse Fisch</i>, 446)',
 	'<u>Der stumme Tod</u>',
 	'Henning lachte <strong>geflissentlich</strong>, wie es von seinem Dienstrang (<i>Kriminalassistent</i>) erwartet wurde, wenn ein Kommissar Witze riss. (<i>Der stumme Tod</i>, 21)',
+	'<i>Adenauer</i>: "Lassen Sie mal die Tittel beiseite. Kein OB (<i>Oberbürgermeister</i>) und kein Staatsratspräsident bitte! Wir treffen uns hier rein privat. Drei Kölner in Berlin." Gereon lächelte <strong>geflissentlich</strong>. (<i>Der stumme Tod</i>, 46)',
 	'<u>Lunapark</u>',
 	'War Gereon Rath eigentlich der einzige Beamte im ganzen Präsidium, der niemals befördert wurde? Die Sozis hatten ihn schon <strong>geflissentlich</strong> übersehen, und seit der Nazi Magnus von Levetzow Polizeipräsident war, hatten sich Raths Aussichten auf Beförderung nicht gerade verbessert. (<i>Lunapark</i>, 19)',
 ],
@@ -9841,7 +9895,9 @@ Gage: [
 	'<br><strong>getäfelt</strong>: boarded, paneled'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%A4feln"target="target2">täfeln</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%A4feln"target="target4">täfeln</a>',
-  	'<u>Märzgefallene</u>',
+	'<u>Der stumme Tod</u>',
+	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<strong>getäfelten</strong> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
+	'<u>Märzgefallene</u>',
   	'Die Verwaltung des Möbelhauses lag in der ersten Etage. Der Verkäufer führte ihn (<i>Rath</i>) über eine dunkel holz<strong>getäfelte</strong> Treppe und durch dunkel holz<strong>getäfelte</strong> Gänge. Alles atmete gediegene Seriosität, wie auch das Büro von Eva Heinen, das kleiner war, als Rath erwartet hätte, aber ebenso dunkel und holz<strong>getäfelt</strong>. (<i>Märzgefallene</i>, 451-52)',
 	'<u>Lunapark</u>',
 	'Nichts erinnerte an die unerwartete Pracht, die Rath mit eigenen Augen gesehen hatte, an die holz<strong>getäfelte</strong> Inneneinrichtung, die Marlows Zentrale das Flair eines englischen Herrenhauses gegeben hatte. Stattdessen nachte Backsteinwände. (<i>Lunapark</i>, 120)',
@@ -9852,6 +9908,8 @@ Gage: [
 	'<br><strong>getäfelt</strong>: boarded, paneled'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%A4feln"target="target2">täfeln</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%A4feln"target="target4">täfeln</a>',
+	'<u>Der stumme Tod</u>',
+	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<strong>getäfelten</strong> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
   	'<u>Märzgefallene</u>',
   	'Die Verwaltung des Möbelhauses lag in der ersten Etage. Der Verkäufer führte ihn (<i>Rath</i>) über eine dunkel holz<strong>getäfelte</strong> Treppe und durch dunkel holz<strong>getäfelte</strong> Gänge. Alles atmete gediegene Seriosität, wie auch das Büro von Eva Heinen, das kleiner war, als Rath erwartet hätte, aber ebenso dunkel und holz<strong>getäfelt</strong>. (<i>Märzgefallene</i>, 451-52)',
 	'<u>Lunapark</u>',
@@ -9865,7 +9923,9 @@ gesittet: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gesittet"target="target3">gesittet</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gesittet"target="target4">gesittet</a>',
 	'<u>Der nasse Fisch</u>',
 	'Wer sich von dem lauten Treiben ein wenig erholen wollte, der suchte den Teeraum auf... Getanzt wurde nur im zweiten Stockwerk, doch die Musik war überall zu hören... Ein Plakat wies darauf hin, das die <i>Excellos Seven</i> hier so <strong>gesittet</strong> spielten. (<i>Der nasse Fisch</i>, 120)',
-//	'<u>Märzgefallene</u>',
+	'<u>Der stumme Tod</u>',
+	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichengetäfelten Saal <strong>gesitteter</strong> als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
+	//	'<u>Märzgefallene</u>',
 ],
 'Geäst, Ast': [
 	'der <strong>Ast</strong>,-<strong>Äste</strong>: branch, limb'+
@@ -12162,6 +12222,8 @@ klappern: [
 	'Schnell drehte er (<i>Rath</i>) sich um und ging in den Trakt der Sittenpolizei... Auch auf ihrem Gang war alles ruhig, kein Geräusch drang aus den Büros, keine Stimmen, kein Schreibmaschinen<strong>klappern</strong>. (<i>Der nasse Fisch</i>, 142)',
 	'Schmittchen, ihre Sekretärin, hatte bereits Kaffee gekocht. Aus dem Vorzimmer hörte man das unentwegte <strong>Klappern</strong> ihrer Schreibmaschine. Ratatata - schnell wie ein Maschingengewehr. (<i>Der nasse Fisch</i>, 175)',
 	'In der Tür <strong>klapperte</strong> Geschirr, Tretschkow kam mit einem kleinen Tablett zurück, auf dem zwei Teetassen dampften. (<i>Der nasse Fisch</i>, 312)',
+	'<u>Der stumme Tod</u>',
+	'"Mit Fräulein Preußner habe ich schon gesprochen." Engelbert Rath deutete mit dem Kopf zur Küche, in der Kathi immer noch mit dem Geschirr <strong>klapperte</strong>. (<i>Der stumme Tod</i>, 44)',
 	'<u>Märzgefallene</u>',
 	'In der Küche zischte irgendetwas, und Charly verschwand so schnell, wie sie erschienen war. Rath hörte Töpfe <strong>klappern</strong> und leises Fluchen. Er beschloss, besser nicht zu stören, und ging direkt ins Wohnzimmer. (<i>Märzgefallene</i>, 101-102)',
 	'In der Küche <strong>klapperte</strong> Geschirr. (<i>Märzgefallene</i>, 103)',
@@ -12266,6 +12328,7 @@ klirren: [
 	'Gräf entsicherte für alle Fälle die Pistole und stieg so leise es ging die Treppe empor. Für einige Augenblicke hörte er nichts als sein eigenes Atmen und das leise Knarren der Stufen. Langsam arbeitet er sich vor vis in den zweiten Stock. Dann <strong>klirrte</strong> oben ein Schlüsselbund, und gleich darauf hallte eine Frauenstimme durchs Treppenhaus. (<i>Der nasse Fisch</i>, 476)',
 	'<u>Der stumme Tod</u>',
 	'Die Männer (<i>Engelbert und Gereon Rath</i>) schwiegen sich an. Aus der Küche war Gluckern und Porzellan<strong>klirren</strong> zu hören. Kathi erledigte alles, was sie tat, mit viel Elan. (<i>Der stumme Tod</i>, 43)',
+	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläser<strong>klirren</strong> gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'<u>Märzgefallene</u>',
 	'Böhm rührte in seinem Kaffee, obwohl die Tasse leer war....Mit einem <strong>Klirren</strong> landete der Kaffeelöffel auf der Untertasse.  (<i>Märzgefallene</i>, 33)',
 	'Teetassen <strong>klirrten</strong> auf dem Tablett, das Frieda gerade in den Salon brachte, und Rath fühlte sich nicht wohl in seiner Haut.  (<i>Märzgefallene</i>, 34)',
@@ -12861,6 +12924,8 @@ lotsen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lotsen"target="target3">lotsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lotsen"target="target4">lotsen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Dass er (<i>Gereon</i>) eigentlich keinen Damenbesuch empfangen durfte, hatte er Charly gestern bereits gestanden. "Ich wollte immer schon mal etwas illegales tun", hatte sie nur gesagt. Und so hatte er sie leise in sein Zimmer <strong>gelotst</strong>. (<i>Der nasse Fisch</i>, 193)',
+	'<u>Der stumme Tod</u>',
+	'Am Moritzplatz staute sich der Verkehr, ein zerbeulter Lastwagen blockierte fast die gesamte Fahrbahn, und ein Schupo musste die Fahrzeuge einzeln an der Unfallstelle vorbei<strong>lotsen</strong>. (<i>Der stumme Tod</i>, 45)',
 	'<u>Märzgefallene</u>',
 	'Berthold Weinert fühlte sich nicht wohl in der Kaschemme, in die Gereon Rath ihn <strong>gelotst</strong> hatte. Es war nicht das erste Mal, dass sie sich im Nassen Dreieck am Wassertorplatz trafen, und Weinert hatte die Kneipe noch nie gemocht. (<i>Märzgefallene</i>, 530)',
 	'Auf dem Besucherstuhl im Vorzimmer saß ein Mann in kauernder Haltung, wie ein Bittsteller, und faltete einen Hut. Rath konnte seine Überraschung nicht verbergen. "Ede!", entfuhr es ihm. "Du in Berlin?".. Erika Voss schaute zunehmend neugierig, und Rath <strong>lotste</strong> Eduard Schürmann nach hinten in sein Büro und schloss die Zwischentür. (<i>Märzgefallene</i>, 543)',
@@ -15861,6 +15926,8 @@ soufflieren: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/soufflieren"target="target2">soufflieren</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/soufflieren"target="target3">soufflieren</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Oh, was für eine Überraschung", sagte Rath, legte Zeitungen und Portemonnaie dem Dicken vor die Nase auf den Verkaufstresen und lüftete seinen Hut. "Wohnen Sie (<i>Fräulein Ritter</i>) hier in der Gegend?".. "Ich bin dienstlich hier", antwortete sie brav. "Die Dame ist bei der Polizei", <strong>soufflierte</strong> der Dicke. (<i>Der nasse Fisch</i>, 117)',
+	'<u>Der stumme Tod</u>',
+	'"Um et kurz zu machen", fuhr der Indianer (<i>Adenauer</i>) fort: "Ich werde erpresst." "Unser Herr Oberbürgermeister bekommt anonyme Briefe", <strong>soufflierte</strong> Engelbert Rath. (<i>Der stumme Tod</i>, 48)',
 	'<u>Märzgefallene</u>',
 	'<i>Adenauer</i>: "Und wie jefällt Ihnen Berlin? Schon einjelebt?" Rath zuckte die Achseln und aschte ab. "Gereon wird bald heiraten", <strong>soufflierte</strong> sein Vater und lächelte. "Eine waschechte Berlinerin." (<i>Märzgefallene</i>, 37)',
 	'"Mein Mandant (<i>Leo Juretzka</i>) zieht es vor, das Protokoll nicht zu unterzeichnen", <strong>soufflierte</strong> Kohn (<i>Juretzkas Advokat</i>). "Er zieht seine Aussage zurück." (<i>Märzgefallene</i>, 262)',
@@ -18339,16 +18406,6 @@ verrenken: [
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-verbeulen: [ 
-	'<strong>verbeulen</strong>: dent sth.'+
-	'die <strong>Beule</strong>,-<strong>n</strong>: bump, dent'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verbeulen"target="target1">verbeulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verbeulen"target="target2">verbeulen</a> ' +
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verbeulen"target="target3">verbeulen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verbeulen"target="target4">verbeulen</a> ' ,
-	'<u>Der nasse Fisch</u>',
-	'Der Kaffee in der <strong>verbeulten</strong> Emailtasse, den sie ihm hingestellt hatten, schmeckte scheußlich.  (<i>Der nasse Fisch</i>, 15)' ,
-	'<u>Lunapark</u>',
-	'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <strong>verbeulten</strong>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen.  (<i>Lunapark</i>, 117)' ,
-],
 versickern: [
 	'<strong>versickern</strong>: seep, trickle, drain away'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versickern"target="target1">versickern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versickern"target="target2">versickern</a>'+
@@ -19084,7 +19141,7 @@ wuchten: [
 	'"Wenn hier einer gleich die Nerven verliert, dann bin ich das", sagte Rath, zog den Russen am Kragen hoch and <strong>wuchtete</strong> ihn gegen die Wand. (<i>Der nasse Fisch</i>, 123)',
 	'Er (<i>Rath</i>) hielt ihr (<i>Frau Schäffner</i>) die Tür zum Hof auf, und sie <strong>wuchtete</strong> ihren Körper hindurch. (<i>Der nasse Fisch</i>, 235)',
 	'Die Spurensicherung war inzwischen wieder aus dem Grab gestiegen, nun hatte Kriminalassistent Reinhold Gräf den Fotoapparat hinunter<strong>gewuchtet</strong> und machte einige Nahaufnahmen. (<i>Der nasse Fisch</i>, 408)',
-	'Rath stieg aus. Der Mayback fuhr wieder an, wendete und hielt auf der anderen Straßenseite vor dem Hotel <i>Continental</>. Ein Boy öffnete, und Zörgiebel <strong>wuchtete<strong> seinen Körper aus dem Wagen. (<i>Der nasse Fisch</i>, 506-07)',
+	'Rath stieg aus. Der Mayback fuhr wieder an, wendete und hielt auf der anderen Straßenseite vor dem Hotel <i>Continental</>. Ein Boy öffnete, und Zörgiebel <strong>wuchtete</strong> seinen Körper aus dem Wagen. (<i>Der nasse Fisch</i>, 506-07)',
 	'<u>Der stumme Tod</u>',
 	'Hinter Rath keuchte es. Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel <strong>gewuchtet</strong> hatte. (<i>Der stumme Tod</i>, 22)',
 	'<u>Märzgefallene</u>',
@@ -19363,7 +19420,7 @@ Wickelgamasche: [
 	'<br><strong>wickeln</strong>: wrap, wind'+
 	'<br>die <strong>Gamaschen</strong>: leggings'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wickelgamasche"target="target1">Wickelgamasche</a>&nbsp;&nbsp;<a href="https://www.bing.com/search?q=Bilder+von+Wickelgamaschen&cvid=580ec717725c4aa8a2a7de12a937e57a&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDk0OTBqMGozqAIIsAIB&FORM=ANAB01&PC=DCTS"target="target2">Wickelgamasche</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wickelgamasche"target="target3">Wickelgamasche</a> &nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Wickelgamasche&id=substantiv%3AWickelgamasche"target="target4">Wickelgamasche</a>',
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wickelgamasche"target="target3">Wickelgamasche</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Wickelgamasche&id=substantiv%3AWickelgamasche"target="target4">Wickelgamasche</a>',
 	'<u>Märzgefallene</u>',
 	'...Rath und Charly passierten die Werbeposten am Eingang ohne weitere Zwischenfälle. Nicht einmal böse Blicke kassierten sie, die SA-Männer schauten zur Seite oder auf ihre <strong>Wickelgamaschen</strong>. (<i>Märzgefallene</i>, 201)',
 ],
@@ -19394,7 +19451,7 @@ Wickelgamasche: [
 'wie bestellt und nicht abgeholt': [
 	'<strong>wie bestellt und nicht abgeholt</strong>: all dressed up with nowhere to go'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=wie+bestellt+und+nicht+abgeholt&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">wie bestellt und nicht abgeholt</a>&nbsp;&nbsp;<a href="https://de.wiktionary.org/wiki/dastehen_wie_bestellt_und_nicht_abgeholt"target="target2">wie bestellt und nicht abgeholt</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=wie+bestellt+und+nicht+abgeholt"target="target3">wie bestellt und nicht abgeholt</a> &nbsp;&nbsp;<a href="https://tureng.com/en/german-english/wie%20bestellt%20und%20nicht%20abgeholt"target="target4">wie bestellt und nicht abgeholt</a>',
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=wie+bestellt+und+nicht+abgeholt"target="target3">wie bestellt und nicht abgeholt</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/wie%20bestellt%20und%20nicht%20abgeholt"target="target4">wie bestellt und nicht abgeholt</a>',
 	'<u>Märzgefallene</u>',
 	'Ein Schupo stand in der Gegend herum <strong>wie bestellt und nicht abgeholt</strong>, wippte auf den Absätzen seiner Stiefel vor und zurück und klopfte sich die behandschuhten Hände warm. (<i>Märzgefallene</i>, 93)',
 ],
@@ -19545,8 +19602,8 @@ wogen: [
 'wummern, Gewummer': [ 
 	'<strong>wummern</strong>: drum, thump, bang on sth.'+
 	'<br>das <strong>Gewummer</strong>,-: pounding, throbbing'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wummern"target="target1">wummern</a> &nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Gewummer/"target="target2">Gewummer</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wummern"target="target3">wummern</a> &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gewummer"target="target4">Gewummer</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wummern"target="target1">wummern</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Gewummer/"target="target2">Gewummer</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wummern"target="target3">wummern</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gewummer"target="target4">Gewummer</a>',
 	'<u>Der nasse Fisch</u>',
 	'Noch während er (<i>Rath</i>) überlegte, hörte er die schwere Haustür ins Schloss fallen. Kurz darauf zog jemand die Türglocke. Um diese Uhrzeit drönte sie so laut wie eine Kirchenglocke. Dann hörte Rath es gegen die Wohnungstür <strong>wummern</strong>. (<i>Der nasse Fisch</i>, 38)',
 	'<u>Märzgefallene</u>',
@@ -19556,8 +19613,8 @@ wogen: [
 'Gewummer, wummern': [
 	'<strong>wummern</strong>: drum, thump, bang on sth.'+
 	'<br>das <strong>Gewummer</strong>,-: pounding, throbbing'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wummern"target="target1">wummern</a> &nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Gewummer/"target="target2">Gewummer</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wummern"target="target3">wummern</a> &nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gewummer"target="target4">Gewummer</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wummern"target="target1">wummern</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Gewummer/"target="target2">Gewummer</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wummern"target="target3">wummern</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gewummer"target="target4">Gewummer</a>',
 	'<u>Der nasse Fisch</u>',
 	'Noch während er (<i>Rath</i>) überlegte, hörte er die schwere Haustür ins Schloss fallen. Kurz darauf zog jemand die Türglocke. Um diese Uhrzeit drönte sie so laut wie eine Kirchenglocke. Dann hörte Rath es gegen die Wohnungstür <strong>wummern</strong>. (<i>Der nasse Fisch</i>, 38)',
 	'<u>Märzgefallene</u>',
@@ -19736,7 +19793,7 @@ Zaunpfahlwink: [
 	'der<strong>Zaunpfahl</strong>,-<strong>pfähle</strong>: fence post'+
 	'<br>der <strong>Wink</strong>,-<strong>e</strong>: hint, sign, nod <br>der <strong>Zaunpfahlwink</strong> = <strong>Wink mit dem Zaunpfahl</strong>: big hint'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wink%20mit%20dem%20Zaunpfahl"target="target1">Wink mit dem Zaunpfahl</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Wink+mit+dem+Zaunpfahl&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Wink mit dem Zaunpfahl</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wink?q=Wink+mit+dem+Zaunpfahl"target="target3">Wink mit dem Zaunpfahl</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Wink+mit+dem+Zaunpfahl"target="target4">Wink mit dem Zaunpfahl</a>',
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wink?q=Wink+mit+dem+Zaunpfahl"target="target3">Wink mit dem Zaunpfahl</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Wink+mit+dem+Zaunpfahl"target="target4">Wink mit dem Zaunpfahl</a>',
 	'<u>Märzgefallene</u>', 
 	'"Fritze, das ist Fräulein van Almsick, meine Kollegin", sagte Charly... "Einfach nur Almsick", sagte Karin... "Ohne <i>van</i>."... "Friedrich von Thormann", sagte er (<i>Fritze</i>) und zwinkerte. "Aber ohne <i>von</i>." Karin guckte pikiert, Charly musste sich zusammenreißen, um nicht laut loszulachen. Sie hoffte, dass Fritze den <strong>Zaunpfahlwink</strong> mit der Kollegin mitbekommen hatte und sich nicht verplapperte. (<i>Märzgefallene</i>, 448)',
 	'<u>Lunapark</u>', 
@@ -19746,7 +19803,7 @@ Zaunpfahlwink: [
 	'der<strong>Zaunpfahl</strong>,-<strong>pfähle</strong>: fence post'+
 	'<br>der <strong>Wink</strong>,-<strong>e</strong>: hint, sign, nod <br>der <strong>Zaunpfahlwink</strong> = <strong>Wink mit dem Zaunpfahl</strong>: big hint'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wink%20mit%20dem%20Zaunpfahl"target="target1">Wink mit dem Zaunpfahl</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Wink+mit+dem+Zaunpfahl&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Wink mit dem Zaunpfahl</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wink?q=Wink+mit+dem+Zaunpfahl"target="target3">Wink mit dem Zaunpfahl</a> &nbsp;&nbsp;<a href="https://www.dict.cc/?s=Wink+mit+dem+Zaunpfahl"target="target4">Wink mit dem Zaunpfahl</a>',
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wink?q=Wink+mit+dem+Zaunpfahl"target="target3">Wink mit dem Zaunpfahl</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Wink+mit+dem+Zaunpfahl"target="target4">Wink mit dem Zaunpfahl</a>',
 	'<u>Märzgefallene</u>', 
 	'"Fritze, das ist Fräulein van Almsick, meine Kollegin", sagte Charly... "Einfach nur Almsick", sagte Karin... "Ohne <i>van</i>."... "Friedrich von Thormann", sagte er (<i>Fritze</i>) und zwinkerte. "Aber ohne <i>von</i>." Karin guckte pikiert, Charly musste sich zusammenreißen, um nicht laut loszulachen. Sie hoffte, dass Fritze den <strong>Zaunpfahlwink</strong> mit der Kollegin mitbekommen hatte und sich nicht verplapperte. (<i>Märzgefallene</i>, 448)',
 	'<u>Lunapark</u>', 
@@ -20327,7 +20384,7 @@ For some definitions you must scroll down a bit to find the right expression. Fo
 Some very common words are included because they have, in addition to their normal meaning, an "unusual" meaning not easy to guess. Example: "Schritt" generally means "step, stride", but also has the unexpected meaning "crotch" ("Hosenschritt"). In English webpage definitions for such words, the "unusual" meanings may be ignored, or you must scroll way down to find them.
 For some idioms, the dictionary entry starts with a single word, but includes the entire idiom further down the web page. An example: a web page for "nach dem Rechten sehen" starts with the definition of  "Recht", but further down includes the whole phrase. Same for WordReference with "sich keinen Zwang antun"
 For "was das Zeug hält", the English translation begins with "Zeug", but if you scroll down enough you find the phrase "was das Zeug hält". Same for "mit allen Wassern gewaschen", way down under "Wasser" in Eng def
-For "nach dem Rechten sehen" one of the English websites opens with "Recht", scroll down to find "nach dem Rechten sehen"
+For "nach dem Rechten seklappernklappernhen" one of the English websites opens with "Recht", scroll down to find "nach dem Rechten sehen"
 jmdn. achtkantig rausschmeißen = jmdn. achtkanig hinauswerfen, given as usage example in dwde under "achtkantig"
 'auf die Nase binden': scroll way down on the website for "Nase"
 'wie bestellt und nicht abgeholt' listed only under "wie"; 'wie aus dem Ei gepellt' under 'wie' and 'Ei'
@@ -20337,8 +20394,8 @@ if you don't find a Redewendung by its first word, look for it under one of its 
 'schleichen, an-, nach-' 
 
 // '<u>Marlow</u>' Säure pg 224
-
-ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen       
+                                                                                                                                                                                                                                            
+ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen                                                                                   
  'abaschen'  ;   Nworte++;    Märzgefallene   37 
  abfärben  Marlow 53
  abgelten   Märzgefallene  542 
@@ -20590,6 +20647,10 @@ nölen Der nasse Fisch 465
  ä  Ä  ö  Ö  ü  Ü   ß 
  streicheln  Marlow 11              
 Strich drehen  Der nasse Fisch 471
+
+Strippen ziehen Der stumme Tod 45
+
+
 schallen Marlow 51
 schwanken  Der stumme Tod 32
 schwuchtel Märzgefallene  554
@@ -20637,7 +20698,8 @@ belegt: [
 //schnattern	' (<i>Der stumme Tod</i>, 69)',
 // unverwandt	'   (<i>Der stumme Tod</i>, 206)',	
 // saure, pg 479 maybe Der stumme Tod
-
+// verbeulen  425 zerbeulen 469 Der Stumme Tod
+// geflissentlich  Marlow 248
 
 complete later:
 brummen: [  

@@ -47,7 +47,7 @@ const b = [
 //    'betreten',   // betreten:  consider what to do with "beteten"
     'Bettfeder',  // Bettfeder:
     'betupfen, abtupfen, T(t)upfen',   //  triplicated  
-    'Beule, beulen',    
+    'Beule, beulen, verbeulen, zerbeulen', // triplicated   
     'bibbern',    // bibbern: 
     'bieder',     // bieder: 
     'Biege machen', // 

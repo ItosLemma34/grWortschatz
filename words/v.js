@@ -2,8 +2,8 @@ const v = [
    'Ventil',  // Ventil: 
    'veralbern', // veralbern:
    'Verband' ,  // Verband: 
+   'verbeulen, zerbeulen, Beule, beulen', // triplicated
    'verblassen', // verblassen: 
-   'verbeulen', // verbeulen: 
    'verbocken' , // verbocken: 
    'verbohrt',  // verbohrt: 
    'verdampfen',  // verdampfen: 

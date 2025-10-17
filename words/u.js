@@ -27,6 +27,7 @@ const u = [
    'ungehalten',  // ungehalten: 
    'ungehobelt',  // ungehobelt: 
    'ungelegen',  // ungelegen: 
+   'ungelenk',  // ungelenk:
    'ungestüm',  // ungestüm: 
    'ungesühnt', // ungesühnt: 
    "ungezogen", // ungezogen:   

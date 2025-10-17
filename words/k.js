@@ -111,7 +111,7 @@ const k = [
    'krachen, Krach',  
    'Krähe, krähen',    
    'Krake', // Krake: 
-   'krakelig/kraklig', // krakelig/kraklig: 
+   'krakelig/kraklig', // 'krakelig/kraklig':   needs the apostrophes 
    'Kralle, krallen',  
    'Kram (in den K. passen)', //  duplicated 
    'kramen',  // kramen: 

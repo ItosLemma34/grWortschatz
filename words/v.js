@@ -79,6 +79,7 @@ const v = [
    'verschorft, verschorfen', // 
    'verschränken, verschränkt, Verschränkung',  //   
    'verschrumpeln',  // verschrumpeln: 
+   'verschüchtern, schüchtern',  //duplicated
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  

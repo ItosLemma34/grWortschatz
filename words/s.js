@@ -121,12 +121,13 @@ const s = [
    'Schrott',  // Schrott:  
    'Schrubber, schrubben',    
    'schubsen',  // schubsen:  
+   'schüchtern, verschüchtern',  // duplicated  
    'schummrig',  // schummrig: 
    'Schund',  // Schund: 
    'schunkeln', // schunkeln: 
    'Schuppen',  // Schuppen:   
    'schüren',  // schüren: 
-   'schürfen, Schürfwunde',   
+   'schürfen, Schürfwunde', 
    'schurigeln', // schurigeln:         
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated 

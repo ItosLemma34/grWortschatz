@@ -215,7 +215,7 @@ const s = [
    'Stränge (über die S. schlagen)',  // duplicated 
    'Strauch, Gesträuch',  // duplicated 
    'Strebe', // Strebe: 
-   'Streich spielen', // 
+   'Streich, einen Streich spielen', // duplicated
    'Strich (auf den S. gehen)', //  duplicated 
    'gegen den Strich gehen',  // duplicated
    'Strick (einen S. drehen)', // duplicated 

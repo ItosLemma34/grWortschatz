@@ -10,6 +10,7 @@ const e = [
    'Eindruck schinden', // 
    'eine Flappe ziehen',  // duplicated  
    'einen Korb bekommen/geben', // duplicated 
+   'einen Streich spielen, Streich',   // duplicated
    'einen Strick drehen',  // duplicated  
    'einfädeln',  // einfädeln:  
    'einflößen',  // einflößen: 

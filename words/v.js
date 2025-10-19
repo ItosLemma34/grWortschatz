@@ -105,6 +105,7 @@ const v = [
    'verunfallen',  // verunfallen:
    'verunglimpfen',  // verunglimpfen:  
    'verunzieren',  // verunzieren:  
+   'verwackeln, wackeln', // duplicated
    'Verwahrlosung, verwahrlosen', // 
    'verwaisen, verwaist', //  
    'verweben, weben', // duplicated

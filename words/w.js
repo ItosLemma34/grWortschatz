@@ -1,5 +1,6 @@
 const w = [
    'wabbeln', // wabbeln:  
+   'wackeln, verwackeln', // duplicated
    'wacker', // wacker:  
    'Wade' ,  // Wade: 
    'waghalsig', // waghalsig: 

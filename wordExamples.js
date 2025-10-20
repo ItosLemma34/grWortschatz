@@ -31,6 +31,21 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
+wringen: [  
+	'<strong>wringen</strong>: to wringe'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">wringen</a>&nbsp;&nbsp;<a href=""target="target2">wringen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">wringen</a>&nbsp;&nbsp;<a href=""target="target4">wringen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'   (<i>Der nasse Fisch</i>, 000)',
+	'<u>Der stumme Tod</u>',
+	'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein <strong>ausgewrungener</strong> Putzlappen. (<i>Der stumme Tod</i>, 65)',
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'   (<i>Marlow</i>, 000)',
+],
 'verwackeln, wackeln': [  
 	'<strong>wackeln</strong>: wobble, totter, reel, shake, waggle'+
 	'<br><strong>verwackeln</strong>: blur'+
@@ -5606,15 +5621,27 @@ abstottern: [
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000), (<i>Der stumme Tod</i>, 000), (<i>Märzgefallene</i>, 000), (<i>Lunapark</i>, 000), 
-'schleichen, an-, nach-': [ 
+'schleichen': [ 
 	'<strong>schleichen</strong>: creep, slink, crawl along'+
 	'<br><strong>anschleichen</strong>: sneak/creep up on sb./sth.'+
+	'<br><strong>heranschleichen</strong>: sneak/creep toward sb./sth.'+
 	'<br><strong>nachschleichen</strong>: shadow, creep after sb.'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schleichen"target="target1">schleichen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschleichen"target="target2">anschleichen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nachschleichen"target="target3">nachschleichen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schleichen"target="target4">schleichen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschleichen"target="target5">anschleichen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/nachschleichen"target="target6">nachschleichen</a>',
+	'<br><strong>herumschleichen</strong>: sneak/creep around'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schleichen"target="target1">schleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.dwds.de/wb/anschleichen"target="target2">anschleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.dwds.de/wb/heranschleichen"target="target3">heranschleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.dwds.de/wb/nachschleichen"target="target4">nachschleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.dwds.de/wb/herumschleichen"target="target5">herumschleichen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schleichen"target="target6">schleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.verbformen.com/?w=anschleichen"target="target7">anschleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.verbformen.com/?w=heranschleichen"target="target8">heranschleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.collinsdictionary.com/dictionary/german-english/nachschleichen"target="target9">nachschleichen</a>&nbsp;&nbsp;'+
+		'<a href="https://www.verbformen.com/?w=herumschleichen&id=verb%3Aherumschleichen"target="target10">herumschleichen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Ebenso unauffällig, wie sie (<i>Charly und Gereon</i>) aus der Wohnung <strong>geschlichen</strong> waren, betraten sie eine knappe Stunde später das Präsidium. (<i>Der nasse Fisch</i>, 194)',
 	'Aber aus unerfindlichen Gründen hatte er (<i>Rath</i>) den Schein wahren, es nicht zum offenen Bruch kommen zu lassen wollen. Vielleicht um die letzte Hoffnung noch zu erhalten, alles könne sich noch als ein einziger großer Irrtum herausstelen. Um dann am frühen Morgen schon aus dem Haus zu <strong>schleichen</strong>. (<i>Der nasse Fisch</i>, 391)',
+	'<u>Der stumme Tod</u>',
+	'Rath holte ein neues Glas aus dem Schrank, ließ sich in den Sessel fallen und schenkte ein. Wie bescheuert</strong> du doch bist, dachte er, <strong>schleichst</strong> hier <strong>herum</strong> wie ein Einbrecher, benimmst dich wie ein Fremder in der eigenen Wohnung! (<i>Der stumme Tod</i>, 65)',
 	'<u>Märzgefallene</u>',
 	'Dem SA-Mann schien es zu gefallen, wie Rath mit dem Anwalt redete. In sein eben noch angestrengtes Gesicht hatte <strong>sich</strong> ein Grinsen <strong>geschlichen</strong>. (<i>Märzgefallene</i>, 243)',
 	'<u>Lunapark</u>',
@@ -7593,7 +7620,8 @@ bescheuert: [
 	'<u>Der nasse Fisch</u>', 
 	'Er (<i>Gereon</i>) merkte, dass sein Lachen gezwungen klang. Sie hatte ihn auf dem falschen Fuß erwischt. <i>Charly</i>: "Was ist los mit dir? Stimmt etwas nicht?.. Ich komme mir gerade ziemlich <strong>bescheuert</strong> vor. Hätte ich nicht anrufen sollen?" <i>Gereon</i>: "Aber nein!" Er wusste, dass er nicht so klang, wie er sollte. "Ich bin nur noch etwas müde, das ist alles." (<i>Der nasse Fisch</i>, 228-29)',
 	'<u>Der stumme Tod</u>',
-	'Genau jetzt die Ohrfeige. Sie (<i>Betty</i>) spürte, wie sie sein (<i>Victors</i>) Gesicht traf. Nun hatte sie doch zu fest zugeschlagen!.. Umso realistischer würde ihr Streit wirken. Da erst fiel ihr auf, dass etwas nicht stimmte. Kein Donner. Stattdessen ein helles metallenes Geräusch, ein leises <i>Pling</i>; hinter ihr musste ein kleines Metallteil auf den Boden geknallt sein.. Nicht irgendeine bescheuerte <strong>Technikpanne</strong>! (<i>Der stumme Tod</i>, 13)',
+	'Genau jetzt die Ohrfeige. Sie (<i>Betty</i>) spürte, wie sie sein (<i>Victors</i>) Gesicht traf. Nun hatte sie doch zu fest zugeschlagen!.. Umso realistischer würde ihr Streit wirken. Da erst fiel ihr auf, dass etwas nicht stimmte. Kein Donner. Stattdessen ein helles metallenes Geräusch, ein leises <i>Pling</i>; hinter ihr musste ein kleines Metallteil auf den Boden geknallt sein.. Nicht irgendeine <strong>bescheuerte</strong> Technikpanne! (<i>Der stumme Tod</i>, 13)',
+	'Rath holte ein neues Glas aus dem Schrank, ließ sich in den Sessel fallen und schenkte ein. Wie <strong>bescheuert</strong> du doch bist, dachte er, schleichst hier herum wie ein Einbrecher, benimmst dich wie ein Fremder in der eigenen Wohnung! (<i>Der stumme Tod</i>, 65)',
 ],
 'Buckel, bucklig': [
 	'der <strong>Buckel</strong>,-: hump, mound, knoll'+
@@ -13012,9 +13040,11 @@ Lappen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target4">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target5">Lappen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Lappen+gehen"target="target6">durch die Lappen gehen<a/>',
 	'<u>Der nasse Fisch</u>',
 	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie wedelte demonstrativ mit einem Staub<strong>lappen</strong> durchs Regal. (<i>Der nasse Fisch</i>, 231)',
-	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <strong>Lappen</strong> geräuschvoll auswrang.  (<i>Der nasse Fisch</i>, 234)',
-	'<i>Rath</i>: "Gönnen Sie sich mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putz<strong>lappen</strong> zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab.  (<i>Der nasse Fisch</i>, 234)',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <strong>Lappen</strong> geräuschvoll auswrang. (<i>Der nasse Fisch</i>, 234)',
+	'<i>Rath</i>: "Gönnen Sie sich mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putz<strong>lappen</strong> zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab. (<i>Der nasse Fisch</i>, 234)',
 	'<i>Elisabeth Behnke</i>: "Kannst du mir mal verraten, warum du Putz<strong>lappen</strong> in den Badeofen steckst?.. <i>Rath</i>: "Tut mir leid." Er bedauerte es tatsächlich.. "Komm, lass mal, ich mach das schon weg.".. Plötzlich fing sie an zu schluchzen und hielt sich ihre rußgeschwärzten Hände vors Gesicht.. <i>Rath</i>: "Elisabeth, ist doch schon gut. Ich hab nicht nachgedacht, der alte <strong>Lappen</strong> musste weg und..." Sie stand auf und sah ihn aus verweinten und schwarzverschmierten Augen an. "Warum kannst du nicht einfach ein Arschloch sein?", sagte sie und verschwand durch die Tür. (<i>Der nasse Fisch</i>, 263)',
+	'<u>Der stumme Tod</u>',
+	'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein ausgewrungener Putz<strong>lappen</strong>. (<i>Der stumme Tod</i>, 65)',
 	'<u>Märzgefallene</u>',
 	'"Ach, Charly", sagte er (<i>Kellermann</i>), "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden?" "Das nicht. Aber sie ist gesehen worden.. Ich hab den Fall nicht betreut. Aber sehen Sie doch im Bericht nach.. Liegt alles bei Kommissar Rath auf dem Schribtisch." <i>Charly</i>: "Dann werde ich mir das bei Gelegeneit mal anschauen.." Sie sagte das möglichst beiläufig, sie wollte sich nicht anerken lassen, wie sehr sie Kellermanns Nachricht aufwülhlte. Und wie erleichtert sie war, dass Hannah den Fahndern <strong>durch die Lappen</strong> gegangen war. (<i>Märzgefallene</i>, 289)',
 	'<u>Lunapark</u>',
@@ -15993,6 +16023,7 @@ Spalier: [
 	'Er (<i>Rath</i>) schüttete sich jede Menge Wasser ins Gesicht und wusch sich auch den Oberkörper, dann gab er ein wenig Zahnpasta auf seinen Zeigefinger, reinigte sich notdürtig die Zähne und <strong>spüllte</strong> den Mund mit ein bisschen Odol <strong>aus</strong>. (<i>Der nasse Fisch</i>, 497)',
 	'<u>Der stumme Tod</u>',
 	'Engelbert Rath stand auf. Es dauerte etwas, bis er den richtigen Knopf gefunden hatte und den Plattenspieler leiser drehen konnte. So leise, dass das Geräusch des einlaufended <strong>Spül</strong>wassers aus der Kúche zu hören war. (<i>Der stumme Tod</i>, 42)',
+	'Rath holte ein neues Glas aus dem Schrank, ließ sich in den Sessel fallen und schenkte ein. Wie bescheuert du doch bist, dachte er, schleichst hier herum wie ein Einbrecher, benimmst dich wie ein Fremder in der eigenen Wohnung! Dann <strong>spülte/<strong> er diese Gedanken mit dem Cognac <strong>hinunter</strong>. (<i>Der stumme Tod</i>, 65)',
 	'<u>Märzgefallene</u>',
 	'"Mein Gorilla hat\'ne Villa im Zoo...", sang Charly und wühlte mit der <strong>Spülbürste</strong> durchs warme Wasser, bis sie eine Kaffeetasse erwischte. (<i>Märzgefallene</i>, 350)',
 	'Sie (<i>Charly</i>) tanzte durch die Küche, die <strong>Spülbürste</strong> wie ein Mikrofon haltend, und versuchte, ihr Publikum zu etwas mehr Begeisterung hinzureißen. Doch Kirie dachte gar nicht daran, einen begeisterten Eindruck zu machen. (<i>Märzgefallene</i>, 351)',
@@ -16023,6 +16054,8 @@ schummrig: [
 	'Die Musik kam immer näher, als sie durch einen schwarzen Gang schritten. Rote Lampions an den Wänden warfen ein <strong>schummriges</strong> Licht. (<i>Der nasse Fisch</i>, 200)',
 	'Er (<i>Rath</i>) schaute sich um. Es war kein normaler Hinterhof, auf den er hier geraten war. Im <strong>schummrigen</strong> Licht der Hofbeleuchtung erkannte er einen Bauzaun, dahinter wurde offensichtlich ein Neubau hochgezogen. (<i>Der nasse Fisch</i>, 212)',
 	'Die Musik wurde lauter, und plötzlich standen sie (<i>Wolter und Rath</i>) in einem großen Gewölbe, in dem nur wenige <strong>schummrige</strong> Lampen brannten. (<i>Der nasse Fisch</i>, 242)',
+	'<u>Der stumme Tod</u>',
+	'Auch dort schloss er (<i>Rath</i>) die Tür und tastete sich bis zu seinem Sessel. Direkt danaeben stand die Stehlampe, schnell hatte er den Schalter gefunden. Ein Klick, und die Lampe warf ihr <strong>schummriges</strong> Licht in den Raum. (<i>Der stumme Tod</i>, 200)',
 	'<u>Märzgefallene</u>',
 	'Wenigstens zeigten ihm (<i>Rath</i>) die Mündungsblitze (<i>der Pistole</i>), dass Roddeck nicht weit war, Rath sah dessen Silhouette, wie sie sich vor dem <strong>schummrigen</strong> Licht am Ende des Tunnels abzeichnete. (<i>Märzgefallene</i>, 577)',
 	'<u>Lunapark</u>',
@@ -20543,7 +20576,6 @@ Example of how dictionary definitions often don't capture the idiomatic meaning:
 requirieren: example of words whose meanings are (generally, not always!) obvious, when reading or hearing, but may not be in one's "active" vocabulary, for immediate use in speakingreüssieren:
 A bunch of words/phrases shoplifted from the Gereon-Rath-Krimis, to help me promote them from my passive to my active German vocabulary. And to learn some new ones. Which must be "in context". Which these detective novels provide. Not comprehensively, of course -- you can't expect a few examples to cover all meanings/nuances. Nor can you expect every context to be enlightening. But seeing/using a word/phrase in several (many!) contexts is the best way forward. 
 It is not obvious how Redewendungen should be listed alphabetically. Some are listed according to the first word, such as "auf den Arm nehmen". Others according to the "main" word in the phrase. For example, "was das Zeug hält" is listed as "Zeug (was das Z. hält)". These choices, obviously arbitrary, are made solely by what "sounds" right to me. Seek and you shall find! If they are there.
-If you can't find a word with a common prefix, such as an-, auf-, etc, search for the base word. And vice-versa. They may appear as one entry. For example, "schnorren" and "anschnorren" are listed as one entry, under "s": "schnorren, anschnorren". Or it could be the other way around. (Imposing consistency would be tedious.) Zum Beispiel:   Seek and you shall find! If they are there.
 Phrases can be hard to find as "stand alone" definitions, but may be embedded as examples of usage of the key word. For example, the phrase "sich keinen Zwang antun" is defined in WordReference within the usage examples for "Zwang".
 On some of the websites that give English definitions you may have to scroll down to find the appropriate definition. For example, a website for "Schuppen" might first treat the verb "schuppen", then the very different noun "Schuppen"
 Wie warme Semmeln = etwas verkauft sich sehr gut, sehr schnell, große Nachfrage   große Stücke
@@ -20558,7 +20590,9 @@ jmdn. achtkantig rausschmeißen = jmdn. achtkanig hinauswerfen, given as usage e
 'Wohlgefallen (sich in W. auflösen) doesn't fit in any of the schemes
 'Gräfin Swetlana Sorokina
 if you don't find a Redewendung by its first word, look for it under one of its main words; eg, "sich ins Hemd machen" can be found under "Hemd (sich ins H. machen)"
-'schleichen, an-, nach-' 
+
+If you can't find a word with a common prefix, such as an-, auf-, etc, search for the base word. And vice-versa. They may appear as one entry. For example, "schnorren" and "anschnorren" are listed as one entry, under "s": "schnorren, anschnorren". Or it could be the other way around. (Imposing consistency would be tedious.) Zum Beispiel:   Seek and you shall find! If they are there.
+'schleichen, an-, um- herum- nach- etc.' ALL under schleichen!
 
 // '<u>Marlow</u>' Säure pg 224
                                                                                                                                                                                                                                             

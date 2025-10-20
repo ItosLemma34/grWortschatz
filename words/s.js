@@ -55,7 +55,7 @@ const s = [
    'Schlappschwanz',  // Schlappschwanz: 
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch:
-   'schleichen, an-, nach-', 
+   'schleichen', 
    'schleifen, Schleifer',  
    'schlendern' , // schlendern:  
    'Schlendrian', // Schlendrian: 
@@ -178,7 +178,7 @@ const s = [
    'Sprung (auf dem S.)',  //  duplicated  
    'Speichel',  // Speichel:  
    'Sprosse',  // Sprosse:  
-   'spülen; Spül -ung, -e, -stein, -bürste', // 
+   'spülen; Spül -ung, -e, -stein, -bürste',  
    'Spund', // Spund:  
    'spuren',  // spuren: 
    'sputen', // sputen: 

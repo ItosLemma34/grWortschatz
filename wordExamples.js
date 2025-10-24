@@ -13,7 +13,9 @@ Laufgitter:	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 Fluter = Scheinwerfer (spotlight)  
 Include brummen with 'brummig, Brummigkeit';  brummen pg 67 Marlow  appears in "unwirsch"
-a b c d e f g h i j k l m n o p q r s t u v  
+
+general appearance:  a b c d e f g h i j k l m n o p q r s t u v  
+umlaut sortig:  b c d e f g h i j k l m n o p q r s t u v w x y z
 zzz: [  
 	'<strong>zzz</strong>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
@@ -31,20 +33,67 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
-wringen: [  
-	'<strong>wringen</strong>: to wringe'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">wringen</a>&nbsp;&nbsp;<a href=""target="target2">wringen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">wringen</a>&nbsp;&nbsp;<a href=""target="target4">wringen</a>',
+ausmergeln: [  
+	'<strong>ausmergeln</strong>: emaciate; exhaust, impoverish (eg, <i>Boden</i>)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausmergeln"target="target1">ausmergeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausmergeln"target="target2">ausmergeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausmergeln"target="target3">ausmergeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausmergeln&id=verb%3Aausmergeln"target="target4">ausmergeln</a>',
+	'<u>Marlow</u>',  
+	'Der Hausartz der Familie Lehmann.. war ein eher korpulenter Mann, obwohl er mitten in einem Arbeiterviertel praktizierte und es dort meist mit ziemlich <strong>ausgemergelten</strong> Patienten zu tun hatte. (<i>Marlow</i>, 104)',
+],
+Geschwulst: [  
+	'die (oder das) <strong>Geschwulst</strong>,-<strong>wulste</strong>/<strong>wülste</strong>: swelling, lump, growth, tumor'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschwulst"target="target1">Geschwulst</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geschwulst"target="target2">Geschwulst</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschwulst"target="target3">Geschwulst</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Geschwulst"target="target4">Geschwulst</a>',
+	'<u>Marlow</u>',  
+	'<i>Rath</i>: ".. Der Gerichtsmediziner hat einen bösartigen Tumor im Schädel Ihres (<i>Frau Lehmanns</i>) Mannes gefunden.. Eine Art <strong>Geschwulst</strong>. Krebs. Eine schlimme Krankheit, die ihm Beschwerden bereitet haben muss..." (<i>Marlow</i>, 102)',
+],
+vorbauen: [  
+	'<strong>vorbauen</strong>: take precautions, provide against; build on at the front'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vorbauen"target="target1">vorbauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vorbauen"target="target2">vorbauen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vorbauen"target="target3">vorbauen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/vorbauen"target="target4">vorbauen</a>',
 	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
+	'<i>Rath</i>: "Eine Mordermittlung ist nie einfach, Herr Polizeipräsident." Er wurde langsam lockerer. Schon mal ein bisschen <strong>vorbauen</strong>. Der Tage würde kommen, an dem auch Kommissar Rath den Polizeipräsidenten würde enttäushen müsssen. (<i>Der nasse Fisch</i>, 304)',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Marlow</u>',  
+	'Seit der SS-Chef (<i>Himmler</i>) den Dicken (<i>Göring</i>) aus der Verantwortung für die Gestapo gedrängt hatte, wartete der nur auf eine Gelegenheit zur Revanche. Und Himmler <strong>baute</strong> dem offenbar <strong>vor</strong>, indem er seinen SD einsetzte, um möglichst viel über den Konkurrenten im Reichsluftfahrtministerium in Erfahrung zu bringen. (<i>Marlow</i>, 101)',
+],
+// ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+'verschwägert, verschwägern': [  
+	'<strong>verschwägert</strong>: related by marriage '+
+	'<br><strong>sich verschwägern</strong>: become related to sb. by marriage to sb'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschwaegert"target="target1">verschwägert</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschw%C3%A4gern"target="target2">verschwägern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verschwaegert"target="target3">verschwägert</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschw%C3%A4gern&id=verb%3Averschwa3gern"target="target4">verschwägern</a>',
+	'<u>Marlow</u>',  
+	'"Schmeling," hatte Westermann gesagt, als er Rath die Vermisstenanzeige in die Hand drückte. "Wie Max, nur Irene. Aber weder verwandt noch <strong>verschwägert</strong>, wie die Wilmersdorfer Kollegen sagen." (<i>Marlow</i>, 98)',
+],
+'wringen, auswringen': [  
+	'<strong>wringen</strong>: to wring'+
+	'<br><strong>auswringen</strong>: squeeze, wring out'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wringen"target="target1">wringen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auswringen"target="target2">auswringen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/wringen"target="target3">wringen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=auswringen&id=verb%3Aauswringen"target="target4">auswringen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll <strong>auswrang</strong>. (<i>Der nasse Fisch</i>, 234)',
+	'Die Wohnung von Herrn Müller stand offen. Rath ging hinein - und platschte in eine große Wasserlache. Die ganze Diele stand unter Wasser. Margarete Schäffner hockte auf dem Boden und <strong>wrang</strong> ein Putztuch aus. Das Wasser plätscherte in den Eimer. (<i>Der nasse Fisch</i>, 432)',
+	'Er (<i>Rath</i>) hatte ein paar Leute von der Spurensicherung angefordert und der Portiersfrau verboten, das übergelaufene Wannenwasser weiter in den Eimer zu <strong>wringen</strong>. (<i>Der nasse Fisch</i>, 435)',
 	'<u>Der stumme Tod</u>',
 	'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein <strong>ausgewrungener</strong> Putzlappen. (<i>Der stumme Tod</i>, 65)',
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
-	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
-	'<u>Marlow</u>',  
-	'   (<i>Marlow</i>, 000)',
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 000)',
+],
+'auswringen, wringen': [  
+	'<strong>wringen</strong>: to wring'+
+	'<br><strong>auswringen</strong>: squeeze, wring out'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wringen"target="target1">wringen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auswringen"target="target2">auswringen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/wringen"target="target3">wringen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=auswringen&id=verb%3Aauswringen"target="target4">auswringen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den Lappen geräuschvoll <strong>auswrang</strong>. (<i>Der nasse Fisch</i>, 234)',
+	'Die Wohnung von Herrn Müller stand offen. Rath ging hinein - und platschte in eine große Wasserlache. Die ganze Diele stand unter Wasser. Margarete Schäffner hockte auf dem Boden und <strong>wrang</strong> ein Putztuch aus. Das Wasser plätscherte in den Eimer. (<i>Der nasse Fisch</i>, 432)',
+	'Er (<i>Rath</i>) hatte ein paar Leute von der Spurensicherung angefordert und der Portiersfrau verboten, das übergelaufene Wannenwasser weiter in den Eimer zu <strong>wringen</strong>. (<i>Der nasse Fisch</i>, 435)',
+	'<u>Der stumme Tod</u>',
+	'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein <strong>ausgewrungener</strong> Putzlappen. (<i>Der stumme Tod</i>, 65)',
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 000)',
 ],
 'verwackeln, wackeln': [  
 	'<strong>wackeln</strong>: wobble, totter, reel, shake, waggle'+
@@ -744,6 +793,7 @@ Jammerlappen: [
 //	'<u>Der stumme Tod</u>',   
 	'<u>Marlow</u>',
 	'Wie hatte er (<i>Fritze</i>) sich mit Atze auf den Marsch gefreut! Und nun war der gar nicht dabei. Aber vielleicht war das auch besser so, vielleich hätte Atze sonst zu einem dieser <strong>Jammerlappen</strong> gehört, zu Krücken, die es leider auch gab und die die ganze Gemeinschaft schwächten. (<i>Marlow</i>, 52)',
+	'<i>Rath, zu Frau Lehmann</i>: "Aber vielleicht erinnern sie sich, ob er (<i>Otto Lehmann</i>) in der jüngsten Zeit mal über Kopfschmerzen geklagt hat..." "Otto war doch keen <strong>Jammerlappen</strong>! Kopfschmerzen! Wenn ick det schon höre! Det kann sich unsereins nich leisten, det is wat für feine Herrschaften, die sich dann ins Bette lejen." (<i>Marlow</i>, 103)',
 ],
 Plane: [  
 	'die <strong>Plane</strong>,-<strong>n</strong>: tarpaulin, awning, canvas'+
@@ -1749,6 +1799,7 @@ ungezogen: [
 	'<u>Marlow</u>',  
 	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
 	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den Umstandskrämer. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten <strong>heften</strong>, Oberkommissar!" (<i>Marlow</i>, 91)',
+	'Rath parkte den Buick in der Deidesheimer Straße und nahm die Vermisstenanzeige vom Beifahrersitz. Er hatte die Anzeige entgegen der Empfehlung Heinrich Westermanns nicht in die Ermittungsakte <strong>geheftet</strong>.., sondern war mit ihr auf Reisen gegangen. (<i>Marlow</i>, 98)',
 ],
 'abheften, heften, Hefter': [  
 	'der <strong>Hefter</strong>,-: folder, binder; stapler'+
@@ -1769,6 +1820,7 @@ ungezogen: [
 	'<u>Marlow</u>',  
 	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
 	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den Umstandskrämer. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten <strong>heften</strong>, Oberkommissar!" (<i>Marlow</i>, 91)',
+	'Rath parkte den Buick in der Deidesheimer Straße und nahm die Vermisstenanzeige vom Beifahrersitz. Er hatte die Anzeige entgegen der Empfehlung Heinrich Westermanns nicht in die Ermittungsakte <strong>geheftet</strong>.., sondern war mit ihr auf Reisen gegangen. (<i>Marlow</i>, 98)',
 ],
 'Hefter, abheften, heften': [  
 	'der <strong>Hefter</strong>,-: folder, binder; stapler'+
@@ -1789,6 +1841,7 @@ ungezogen: [
 	'<u>Marlow</u>',  
 	'Er (<i>Rath</i>) holte die beiden grünen Mappen aus dem aufgerissenen Umschlag. Eigentlich hatte er die beiden Akten nur in den neuen Umschlag legen und den dann zukleben wollen, doch er konnte nicht. Die beiden dunkelgrünen <strong>Hefter</strong> lagen auf seinem Schoß, und er stierte sie an. (<i>Marlow</i>, 39-40)',	
 	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den Umstandskrämer. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten <strong>heften</strong>, Oberkommissar!" (<i>Marlow</i>, 91)',
+	'Rath parkte den Buick in der Deidesheimer Straße und nahm die Vermisstenanzeige vom Beifahrersitz. Er hatte die Anzeige entgegen der Empfehlung Heinrich Westermanns nicht in die Ermittungsakte <strong>geheftet</strong>.., sondern war mit ihr auf Reisen gegangen. (<i>Marlow</i>, 98)',
 ],
 nölen: [  
 	'<strong>nölen</strong>: moan, grumble, whine'+
@@ -2556,12 +2609,14 @@ schlurfen: [
 ],
 Umstandskrämer: [  
 	'<strong>Umstandskrämer</strong>: pedant, fusspot, fussbudget'+
+	'<br><strong>Umstandskrämerei</strong>: fussiness, pedantry; unnecessary ceremony, excessive formality'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Umstandskraemer"target="target1">Umstandskrämer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Umstandskr%C3%A4mer"target="target2">Umstandskrämer</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Umstandskr%C3%A4mer&id=substantiv%3AUmstandskra3mer"target="target3">Umstandskrämer</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Umstandskr%C3%A4mer"target="target4">Umstandskrämer</a>',
 	'<u>Lunapark</u>',  
 	'<i>Rath</i>: "Herr Adenauer ist gestern Abend von der Geheimen Staatspolizei Potsdam verhaftet worden, und ich würde gerne mit ihm sprechen." <i>Beamte an der Pforte</i>: "Mit wem? Mit dem Kollejen oder mit dem Häftling?" "Mit beiden." "Wie heeßt denn der Kolleje?" Rath platzte den Kragen. Er hatte alles andere, nur Zeit hatte er nicht, und genau die stahl ihm dieser <strong>Umstandskrämer</strong> gerade. "Woher soll ich das wissen?", blaffte er den Mann an. "So viele werden\'s wohl nicht sein können, so viele passen in Ihr Häuschen hier ja gar nicht rein." (<i>Lunapark</i>, 505)', 
 	'<u>Marlow</u>',  
 	'<i>Rath</i>: "Sie haben ein Foto?" Westermann nickte. "Hat die Zeugin zur Verfügung gestellt..." "Schon gut", unterbrach Rath den <strong>Umstandskrämer</strong>. ".. Wie wäre es, wenn ich kurz mit Ihnen in Ihr Büro gehe, damit ich einen Blick darauf werfen kann?" "Sie sollten es nicht nur anschauen, Sie sollten es auch mitnehmen und zu Ihren Akten heften, Oberkommissar!" (<i>Marlow</i>, 91)',
+	'Czerwinski hatte gestern zwar eifrig mit dem Sicherheitsdienst telefoniert, dabei aber nicht einmal Brunners private Lebensumstände in Erfahrung gebracht. Stattdessen saß er nun den ganzen Morgen schon im Prinz-Albrecth-Palais. Der SS war es durchaus zuzutrauen, einem Kriminalbeamten telefonishe Auskünfte zu verweigern und ihn stattdessn herzuzitieren, andererseits hatte <strong>Umstandskrämerei</strong> bei Czerwinski System: Warum eine Arbeit schnell erledigen, wenn das nur hieß, dass man gleich die nächste aufgebrummt bekam? (<i>Marlow</i>, 99)',
 ],
 besudeln: [  
 	'<strong>besudeln</strong>: dirty, soil, besmirch, befoul'+
@@ -4082,6 +4137,8 @@ aufbrummen: [
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'<i>Rath</i>: "Was meinen Sie, Marlow, wie lange Sie mich noch mit dem Tod von Josef Wilczek unter Druck setzen können, mit dem angeblichen Augenzeugen? Gibt es den überhaupt?.. Und meinen Sie nicht", fuhr Rath fort, "ich könnte in einem solchen Fall auch Sie belasten? Glauben Sie im Ernst, man würde Ihnen dann weniger Jahre <strong>aufbrummen</strong> als mir?" (<i>Lunapark</i>, 357)',  
+	'<u>Marlow</u>', 
+	'Czerwinski hatte gestern zwar eifrig mit dem Sicherheitsdienst telefoniert, dabei aber nicht einmal Brunners private Lebensumstände in Erfahrung gebracht. Stattdessen saß er nun den ganzen Morgen schon im Prinz-Albrecth-Palais. Der SS war es durchaus zuzutrauen, einem Kriminalbeamten telefonishe Auskünfte zu verweigern und ihn stattdessn herzuzitieren, andererseits hatte Umstandskrämerei bei Czerwinski System: Warum eine Arbeit schnell erledigen, wenn das nur hieß, dass man gleich die nächste <strong>aufgebrummt</strong> bekam? Nach dieser Maxime handelte er. Und gestern hatte Rath dem Eicken verdammt viel <strong>aufgebrummt</strong>. (<i>Marlow</i>, 99)',
 ],
 Schlendrian: [
 	'der <strong>Schlendrian</strong>: laziness, dawdling, jog trot'+
@@ -4372,6 +4429,8 @@ Gauner: [
 	'<i>Rath</i>: "Sie (<i>Grimberg und Thelen</i>) haben zusammen Engel gesucht..." <i>Grimberg</i>: "Ja, obwohl das ziemlich zwecklos war, in diesem riesigen Trümmerfeld zu <strong>buddeln</strong>...." (<i>Märzgefallene</i>, 279)',
 	'Als Grimberg sich der Baracke näherte, in der sein kleines Büro untergebracht war, die ihm gleichzeitig als Lager für alle nicht explosiven Materialien diente, empfing ihn Jüppchen, sein Gehilfe, bereits so aufgeregt, als müsse er einen Zündversager wieder <strong>ausbuddeln</strong>. (<i>Märzgefallene</i>, 549)',
 	'Rath schaute in den Graben hinein und konnte einen rostigen Spaten endecken, der hier vergessen worden war. <i>Charly</i>: "Ob das ein deutscher oder ein französischer Spaten ist?" "Wahrscheinlich ein deutscher", sagte Rath. "Damit haben sie all diese Gräben hier <strong>gebuddelt</strong>." (<i>Märzgefallene</i>, 598)',
+	'<u>Marlow</u>',
+	'Die Bergung der ersten S-Bahn-Bauarbeiter wurde dort (<i>in einer Zeitung</i>) in den pathetischsten Tönen beschrieben. Goebbels hatte ein paar Worte gesprochen, und es las sich, als habe der Propagandaminister die Unfallopfer höchstpersönlich <strong>ausgebuddelt</strong>. (<i>Marlow</i>, 104)',
 ],
 prangen: [
 	'<strong>prangen</strong>: be resplendent, be emblazoned on; shine, sparkle'+
@@ -5693,6 +5752,7 @@ Asservat: [
 	'<i>Rath</i>: "Vielleicht kann Herr Kreutzmann dann gleich auch die Untersuchung des Geldes übernehmen", sagte Rath und zeigte auf den Koffer in Pfeiffers Hand.. "Ich denke, das kann Kreutzmann übernehmen", sagte Gräf. "Pfeiffer, Sie können das <strong>Asservat</strong> gleich an die Spurensicherung geben. Vielleicht haben wir dann morgen auch in dieser Sache schon Ergebnisse." (<i>Lunapark</i>, 62)',
 	'<u>Marlow</u>',
 	'"Überlassen Sie das Vermuten mal lieber der Kripo", sagte Rath (<i>zum Hauptwachtmeister</i>). "Und sorgen Sie dafür, dass die <strong>Asservate</strong> ordentlich eingetütet und beschriftet werden." (<i>Marlow</i>, 29)',
+	'Wer auch immer die geheimen Dokumente erwartete: Es war besser, das er sie erhielt, als dass sie wegen einens ebenso dummen wie tragischen Unfalls in der <strong>Asservaten</strong>kammer der Polizei landeten. Oder auf dem Schreibtisch des ermittelnden Oberkommissars Gereon Rath. (<i>Marlow</i>, 101)',
 ],
 'auf der Hut sein': [ 
 	'<strong>auf der Hut sein</strong>: be on guard, alert, wary of'+
@@ -9418,6 +9478,8 @@ fummeln: [
 	'In der dritten Etage bogen sie (<i>Gräf und Rath</i>) in einen langen Gang ein, den sie fast bis zum Ende durchwanderten, bis Gräf unvermittelt vor einer Tür stehen blieb. "Wir sind da", sagte er. <i>DEZERNAT IIIB1, KOMMISAR Z.A.R. GRÄF</i> las Rath auf dem Schild.. "Das <i>z.A</i> kommt ja bald weg", sagte Gräf und lächelte säuerlich. Er <strong>fummelte</strong> eine Schlüssel aus seiner Westentasche und schloss auf. (<i>Lunapark</i>, 52-53)',
 	'"Das ist meine Dienstwaffe", erklärte Rath. "Ich bin Kriminalbeamter. Die Dienstmarke finden Sie in meiner Weste." Der SA-Mann <strong>fummelte</strong> die Blechmarke heraus, die mittels einer Uhrenkette mit Raths Weste verbunden war, und zeigte auch die dem Brüllaffen, der immer noch sein Gewehr auf Rath gerichtete hatte. (<i>Lunapark</i>, 90-91)',
 	'Rath überlegte kurz, dann holte er sein Portemonnaie aus der Manteltasche und <strong>fummelte</strong> das Foto heraus, das er immer bei sich trug... (<i>Lunapark</i>, 291)',
+	'<u>Marlow</u>',
+	'Auf dem Weg nach unten begegnete ihm (<i>Rath</i>) eine Frau, die gerade ihre Einkaufstüten vor der Wohnungstür abstellte und einen Schlüssel aus der Manteltasche <strong>fummelte</strong>. (<i>Marlow</i>, 100)',
 ],
 'Fall der Fälle': [
 	'<strong>Fall der Fälle</strong>: worst-case scenario; just in case'+
@@ -11022,6 +11084,8 @@ harren: [
 	'<i>von Roddeck schreibt</i>: Ich folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer Ziegelwand <strong>harren</strong>, an der bis gestern noch bis zur Decke Weinregale gestanden haben. (<i>Märzgefallene</i>, 161)',
 	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, an die WKP, an Friederike Wieking, an Karin van Almsick, wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung <strong>harrten</strong>. (<i>Märzgefallene</i>, 485)',
 	'<i>Bernard Weiß schreibt an Charly</i>: "In Prag hält der Früling Einzug und taucht die Stadt in goldenes Licht. Da kann man eigentlich nur optimistischer Stimmung sein. Wir sind jedenfalls nun erst in Sicherheit und <strong>harren</strong> der Dinge, die da kommen.... (<i>Märzgefallene</i>, 487-88)',
+	'<u>Marlow</u>',
+	'Und als sie (<i>Erika Voss</i>) merkte, dass ihr Chef (<i>Rath</i>) zu Hut und Mantel griff, hatte sie noch einmal die zahlreichen Anrufer aufgeführt, die seines Rückrufes <strong>harrten</strong>. (<i>Marlow</i>, 98)',
 ],
 hapern: [
 	'es <strong>hapert</strong> an etwas: &nbsp;there\'s a problem with sth., sth. is in short supply'+
@@ -11423,6 +11487,7 @@ heiser: [
 	'Sie (<i>Charly</i>) holte die kleine Kamera aus der Handtasche und ihren Schminkspiegel, legte den Spiegel auf den Boden und probierte so lange herum, bis der Winkel stimmte und sie die Nachbarkabine, den Stuhl mit der Kleidung und die Kabinentür im Blick hatte, ohne <strong>sich</strong> auf den Boden <strong>hocken</strong> zu müssen. (<i>Marlow</i>, 23)',
 	'Rath <strong>hockte sich</strong> zu der unbekannten Leiche und schlug die Leinendecke zurück. (<i>Marlow</i>, 29)',
 	'Auf den letzten Fotos, die Charly gemacht hatte, sah man noch, wie die Bademeisterin in die <strong>Hocke</strong> gegangen war und die breitbeinig auf dem Wannenrand sitzende Martha Döring da küsste, wo es Siegmund Döring wahrscheinlich noch nie.. getan hatte. (<i>Marlow</i>, 41)',
+	'Er (<i>Rath</i>) hatte Wichtigeres zu tun als im Büro zu <strong>hocken</strong>. (<i>Marlow</i>, 98)',
 ], 
 Hosenmatz: [
 	'der <strong>Hosenmatz</strong>,-<strong>mätze</strong>/<strong>matze</strong>: tiny tot'+
@@ -16660,6 +16725,7 @@ schnarchen: [
 	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, schnatterte <strong>in einem fort</strong> von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten. (<i>Märzgefallene</i>, 187)',
 	'<u>Marlow</u>',
 	'Die wachsende Beliebtheit der Kanzlei <i>Blum & Scherer</i> führte nämlich dazu, dass an manchen Tagen <strong>in einem fort</strong> das Telefon klingelte und sie (<i>Charly</i>) vor lauter Telefonaten gar nicht mehr dazu kam, ihre eigentliche Arbeit zu machen. (<i>Marlow</i>, 93)',
+	'Dann ging es um Rassenhygiene, ein Thema, das immer öfter in den Zeitungen zu finden war. Weil es auch <strong>in einem fort</strong> Vorträge zu dem Thema gab. (<i>Marlow</i>, 104)',
 ],
 schnattern: [
 	'<strong>schnattern</strong>: chatter, babble'+
@@ -16788,6 +16854,8 @@ Schnösel: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnur"target="target3">Schnur</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnüren"target="target4">schnüren</a>',
 	'<u>Der nasse Fisch</u>',
 	'Noch zwei Namen kamen ihm (<i>Rath</i>) in den Sinn. Russen, mit denen er noch eine Rechnung offen hatte. Die irgendetwas mit Kardakow zu tun haben mussten und deswegen in das Paket gehörten, das er Zörgiebel <strong>schnüren</strong> wollte. (<i>Der nasse Fisch</i>, 351)',
+	'<u>Der stumme Tod</u>',
+	'Mit einem Mal <strong>schnürte</strong> ihm eine ungeheure Angst die Kehle <strong>zu</strong>. Die Nacht war noch nicht zu Ende. Sie fing gerade erst an. (<i>Der stumme Tod</i>, 66)',
 	'<u>Märzgefallene</u>',
 	'Mit vereinten Kräften gelang es den beiden Wärtern, die arme Hannah Singer in die Zwangsjacke zu stecken, die sie mitgebracht hatten. Es schien ihnen Spaß zu machen, einer der beiden hatte tatsächlich so etwas wie ein zufriedenes Grinsen im Gesicht, als er an den <strong>Schnüren</strong> zog. (<i>Märzgefallene</i>, 48)', 
 ],
@@ -16800,7 +16868,7 @@ schnurstracks: [
 	'<u>Märzgefallene</u>',
 	'Rath wollte gerade doch eine Frage zu der braunen Uniform stellen, da öffnete sich die Badezimmertür, und ein Mann kam heraus, ein Handtuch um die Hüfte geschlungen, das blonde Haar noch nass, aber bereits perfekt gescheitelt, und marschierte <strong>schnurstracks</strong> in die Küche. (<i>Märzgefallene</i>, 117)',
 ],
-//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',    
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',  
 //                   ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde                         ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident   würde                                ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können Polizeipräsident  würde
 Schotter: [
 	'der <strong>Schotter</strong>,-: crushed rock, macadam'+
@@ -17302,6 +17370,7 @@ stibitzen: [
 	'Du (<i>Marlow</i>) nimmst dem Alten die Laterne ab und <strong>stiefelst</strong> zu den Gesindehäusern hinüber, die sich im Mondschatten des Herrenhauses ducken wie schüchterne Kinder. (<i>Marlow</i>, 9)',
 	'"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u>, und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert <strong>Stiefel</strong> knirschten im Kies wie einer. (<i>Marlow</i>, 51)'+
 	'<br>[<i>der <u>Bann</u>: district, jurisdictional territory</i> (outdated meaning); &nbsp;&nbsp;or: <i>Gliederungsbereich innerhalb der Hitlerjugend</i>]',
+	'Rath nahm das Foto (<i>von Brunner/Heller</i>) aus der Akte, steckte es in den Mantel und <strong>stiefelte</strong> die Treppen <strong>hoch</strong>. Irene Schmeling wohnte ganz oben unterm Dach. (<i>Marlow</i>, 99)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -18848,6 +18917,8 @@ verplempern: [
 	'Und so kam es, dass Oberkommissar Wilhelm Böhm nun seine Zeit damit <strong>verplempern</strong> musste, irgendwo im preußischen Innenministerium in einem Vorzimmer zu sitzen, seinen Bowler in der Hand zu kneten und darauf zu warten, dass er endlich hereingebeten wurde. (<i>Märzgefallene</i>, 140)',
 	'"Ich bin Journalistin", sagte sie (<i>Charly</i>) schließlich. "Meine Redaktion hat mich beauftragt, eine Reportage über das frühere Leben Achim von Roddecks zu schreiben. Deswegen bin ich hier.".... "Wenn dem so ist", sagte Bertrand (<i>der Eintänzer</i>), "sollten Sie Ihre und meine Zeit nicht beim Tanzen <strong>verplempern</strong>....." (<i>Märzgefallene</i>, 308)',                
 	'Und dann dachte sie (<i>Charly</i>) an Karin van Almsick, die sie vorhin in der Burg mit einer fadenscheinigen Ausrede zurückgelassen hatte, und wusste wieder warum sie das tat: Um nicht den ganzen Tag mit sinnlosem Stumpfsinn zu <strong>verplempern</strong>. (<i>Märzgefallene</i>, 335)',
+	'<u>Marlow</u>',
+	'"Es geht um Otto Lehmann", meinte Rath. "Sie (<i>Doktor Wrede</i>) haben ihn behandelt?" "Ich muss gestehen, mir sagt der Name jetzt so direkt nichts..." <i>Na wunderbar</i>, dachte Rath. <i>Du <strong>verplemperst</strong> hier den halben Tag, und am Ende war Lehmann doch nicht beim Arzt. Wie du es Gennat schon gesagt hast.</i> (<i>Marlow</i>, 104)',
 ],
 verrecken: [
 	'<strong>verrecken</strong>: die a miserable death'+
@@ -20635,6 +20706,7 @@ Augenpartie Märzgefallene 336
 auf den Schreck  Marlow 69
 auf der Pelle hängen  Der nasse Fisch 369
 aufkratzen  Der nasse Fisch 355
+aus allen Wolken fallen Marlow 101
 aus der Reihe tanzen Märzgefallene 381
 Aushebung  Der nasse Fisch 19  aushebeln  31  
 ausheulen  Märzgefallene  508   ausgeheult    
@@ -20737,6 +20809,7 @@ Geheiß:   Lunapark 57
  Grimasse  Märzgefallene 457
  grollen Lunapark 250
  Grübeln  Der nasse Fisch 300
+ grummeln  Marlow 100
  einer Sache habhaft werden   Märzgefallene 495
  Habgier  Lunapark 24
 
@@ -20851,7 +20924,7 @@ nölen Der nasse Fisch 465
 Strich drehen  Der nasse Fisch 471
 
 Strippen ziehen Der stumme Tod 45
-
+stolpern Der stumme Tod 65
 
 schallen Marlow 51
 schwanken  Der stumme Tod 32
@@ -20866,6 +20939,7 @@ Trakt  Der stumme Tod 54Ks
  verkohlen Der stumme Tod 23
  wacklig Der stumme Tod 29
  wehen Marlow 54  appears in 'meucheln, Meuchelmord'
+ wiehern Marlow 100
  zerreisen (?) Der nasse fisch 473
  zucken  Der nasse Fisch 471
  Zuhälter Der nasse Fisch  457

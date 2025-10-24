@@ -97,7 +97,7 @@ const b = [
     'Büchse',   // Büchse: 
     'Buckel, bucklig',     
     'bücken',  // bücken:
-    'buddeln, ein-, ver-, aus-',  // 
+    'buddeln, ein-, ver-, aus-',   
     'Bude, Büdchen',   
     'büffeln', // büffeln:  
     'Bügel', // Bügel: 

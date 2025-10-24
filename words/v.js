@@ -80,6 +80,7 @@ const v = [
    'verschränken, verschränkt, Verschränkung',  //   
    'verschrumpeln',  // verschrumpeln: 
    'verschüchtern, schüchtern',  //duplicated
+   'verschwägert, verschwägern',
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
@@ -124,6 +125,7 @@ const v = [
    'von der Fahne gehen', //  duplicated 
    'vor die Hunde gehen',  // duplicated 
    'vor Schmutz starren',  // duplicated with "starren"
+   'vorbauen',  // vorbauen:
    'vorführen',  // vorführen:  
    'vorgaukeln',  // vorgaukeln:  
    'Vorgeplänkel, Geplänkel',  // duplicated 

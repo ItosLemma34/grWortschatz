@@ -36,10 +36,10 @@ const a = [
 	'Abzweig, abzweigen',    
 	'Achterbahn', // Achterbahn: 
 	'achtkantig hinauswerfen',  
-	'ächzen',     // ächzen: 
 	'Ader',  // Ader: 
 	'Adlatus', // Adlatus:  
 	'adrett',   // adrett:  
+	'ächzen',     // ächzen:  ä sorted as ae 
 	'Affekthandlung',   // Affekthandlung: 
 	'Affenzahn (mit einem A.)', // duplicated
 	'alle naselang',  
@@ -127,8 +127,8 @@ const a = [
 	'auf Granit beißen',  
 	'auf Halde legen',    
 	'auf Zack sein',     
+	'aufbäumen',  // aufbäumen:  ä sorted as ae 
 	'aufbahren',   // aufbahren:
-	'aufbäumen',  // aufbäumen:  
 	'aufbauschen, bauschen', // duplicated   
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern',  // aufdonnern: 
@@ -176,13 +176,14 @@ const a = [
 	'ausborgen',  // ausborgen:  
 	'ausbügeln',  // ausbügeln:  
 	'ausbremsen', // ausbremsen:  
-	'ausbüxen',    // ausbüxen:  
 	'Ausdünstung',  // Ausdünstung:  
+	'ausbüxen',    // ausbüxen:  
 	'Ausfallstraße',   // Ausfallstraße:  
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung',      
 	'ausklinken, einklinken',  // duplicated 
 	'ausleiern', // ausleiern: 
+	'ausmergeln', // ausmergeln:
 	'ausmisten',  // ausmisten:   
 	'ausquetschen',  // ausquetschen: 
 	'ausräuchern', // ausräuchern:  
@@ -203,7 +204,6 @@ const a = [
 	'austoben',   // austoben:  
 	'austüfteln',  // austüfteln: 
 	'auswischen',  // auswischen:  
-	'auswringen', // auswringen:  
+	'auswringen, wringen', // duplicated  
 ];
-
 export default a;

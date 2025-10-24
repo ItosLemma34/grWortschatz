@@ -47,6 +47,7 @@ const w = [
    'Wohlgefallen (sich in W. auflösen)', // 
    'wölben',  // wölben:  
    'Wolf (durch den W. drehen)', //  duplicated 
+   'wringen, auswringen', // duplicated
    'wuchern, überwuchern',  // duplicated 
    'wuchten',  // wuchten: 
    'wühlen, durchwühlen' ,  // duplicated 

@@ -65,7 +65,7 @@ const k = [
    'klimpern', // klimpern: 
    'Klinge, über die K. springen', //  duplicated 
    'Klippe', //  Klippe: 
-   'klirren', // klirren: 
+   'klirren, Geklirr', // duplicated
    'klitzeklein', // klitzeklein: 
    'Kloschüssel, Schüssel', // duplicate 
    'Kloß',   // Kloß: 

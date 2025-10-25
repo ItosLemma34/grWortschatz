@@ -3,11 +3,6 @@ export const wordExamples = {
 /*
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-//'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Böhm</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-// <strong> (<i>Märzgefallene</i>, 000)', (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
-// ' (<i>Der nasse Fisch</i>, 000)',  ' (<i>Der stumme Tod</i>, 000)', ' (<i>Märzgefallene</i>, 000)', ' (<i>Lunapark</i>, 000)', 
-// ' (<i>Marlow</i>, 000)',
 
 Laufgitter:	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
@@ -33,6 +28,16 @@ zzz: [
 ],
 // ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 */
+'Schneid abkaufen': [  
+	'der (oder die) <strong>Schneid</strong>: courage, guts'+
+	'<br>jmdm. <strong>den Schneid abkaufen</strong>: discourage, take the fight out of so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schneid"target="target1">Schneid</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20den%20Schneid%20abkaufen"target="target2">den Schneid abkaufen</a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=jhE87T1N9SE"target="target3">den Schneid abkaufen (YouTube)</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schneid"target="target4">Schneid</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=schneid+abkaufen"target="target5">den Schneid abkaufen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Schneid"target="target6">Schneid, den Schneid abkaufen</a>',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Marlow</u>',  
+	'<i>Rath, zu Czerwinski</i>: ".. kannst du wenigstens die Angehörigen von Brunner informieren. Die Adressen hast du doch jetzt." &nbsp;"Ne, eben nich. Die (<i>vom SD</i>) wollten die nicht rausrücken, nicht mal die Adresse von Brunner. Und die Angehörigen benachrichtigt der SD selbst. Das müsse ein SS-Mann machen, haben sie gesagt." &nbsp;"Verdammt, Paul! Da hast du dir aber gehörig <strong>den Schneid abkaufen</strong> lassen!" &nbsp;(<i>Marlow</i>, 106)',
+],
 ausmergeln: [  
 	'<strong>ausmergeln</strong>: emaciate; exhaust, impoverish (eg, <i>Boden</i>)'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausmergeln"target="target1">ausmergeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausmergeln"target="target2">ausmergeln</a>'+
@@ -1470,6 +1475,8 @@ Gewirr: [
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmen<strong>gewirr</strong> klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'<u>Lunapark</u>',
 	'Rath hatte sich schon häufiger gefragt, ob man den Alex früher, im <strong>Gewirr</strong> der Baustellenzäune, trotz aller Hindernisse nicht scheller und einfacher hatte überqueren können als heute... (<i>Lunapark</i>, 341)',
+	'<u>Marlow</u>',
+	'Durch die Tür drangen, stark gedämpft, die Geräusche eines gelungenen Abends: Musik und Gelächter, Gläsergeklirr und Stimmen<strong>gewirr</strong>. (<i>Marlow</i>, 110)',
 ],
 Gedränge: [  
 	'das <strong>Gedränge</strong>: crowd, crush, throng'+
@@ -5927,6 +5934,8 @@ austoben: [
 	'Sie (<i>Kathi</i>) hielt es für Leidenschaft, doch eigentlich war es Wut, eine unbennbare Aggression, die sich Bahn brach und an einer Unschuldigen <strong>austobte</strong>, auch später, als sie ihn (<i>Rath</i>) mit in ihr kleines Dachzimmer genommen hatte und er <strong>sich austobte<strong>, als habe er hundert Jahre keine Frau mehr gehabt. (<i>Der stumme Tod</i>, 32)',
 	'<u>Lunapark</u>',
 	'Das Feldjägerkorps statete den Junden in der Grenadierstraße einen Besuch ab. Zur Aufklärung des gestrigen Todesfalles würde diese Maßnahme natürlich nichts beitragen, aber die SA hatte einen Vorwand, um <strong>sich</strong> mal wieder <strong>auszutoben</strong>. (<i>Lunapark</i>, 194)',
+	'<u>Marlow</u>',
+	'Rath hatte es selbst miterlebt; die Nazis hatten <strong>sich ausgetobt</strong>, im Sommer 31, noch zu Zeiten der Republik; die Polizei hatte viel zu lange gebraucht, um die Sache unter Kontrolle zu bekommen. (<i>Marlow</i>, 107-08)',
 ],
 aufwiegen: [ 
 	'<strong>aufwiegen</strong>: make up/compensate for, offset, balance out'+
@@ -6054,7 +6063,9 @@ ausschwärmen: [
 	'Er (<i>Gräf</i>) <strong>horchte</strong> in die Stille. Alles lieb ruhig. Hatte denn niemand im Haus etwas gehört? (<i>Der nasse Fisch</i>, 477)',
 	'Auf sein (<i>Raths</i>) Klingeln öffnete niemand. Er probierte es noch einmal. Während er an der Haustür <strong>horchte</strong>, wie die Türklingel verhallte, fiel ihm ein rasselndes, schepperndes Geräusch auf. Rath schaute um die Ecke in den Garten... (<i>Der nasse Fisch</i>, 483)',
 	'<i>Charly, zu Gereon</i>: "Du hast mich <strong>ausgehorcht</strong>! Du hast mich benutzt! Hast mir irgendwelche Gefühle vorgeheuchelt! Und da wunderst du dich noch, dass ich dich nicht sehen will? Geh mir aus den Augen!..." (<i>Der nasse Fisch</i>, 493)',
-	//	'<u>Märzgefallene</u>', 
+	'<u>Marlow</u>', 
+	'<i>Czerwinski</i>: "Die haben mir keine andere Wahl gelassen. Zuerst waren wir heute morgen im Leichenschauhaus, alles ganz normal, aber nach der Identifizierung ihres Kollegen (<i>Brunner/Heller</i>) haben die mich mit zum SD genommen. Haben mich regelrecht <strong>ausgehorcht</strong>. Haben nach allem möglichen gefragt, nach jeder Kleinigkeit..." (<i>Marlow</i>, 106)',
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
 aufscheuchen: [ 
 	'<strong>aufscheuchen</strong>: startle, shock; rouse, flush (an animal)'+
@@ -6655,6 +6666,7 @@ abknallen: [
 	'"Zeigen Sie mir doch bitte, wo genau Sie sich befunden haben, als sich der Unfall ereignete", sagte er (<i>Rath</i>).. Gebhardt wies auf den Gehweg knapp neben dem Taxiwrack. <i>Rath</i>: "Und Sie sind in diese Pfütze dort gehechtet?" Der Zeuge nickte. "Und dann hat es auch schon <strong>geknallt</strong>." (<i>Marlow</i>, 31)',
 	'Der andere Zeuge (<i>Herr Brückner</i>) zuckte die Achsen. "Aber eines kann ick bestätigen. Der hat nicht gebremst, sondern noch Gas gegeben. Is mit \'nem Affenzahn quer über die Straße auf den Gehweg gerast... Bevor ick verstand, wat da los is, kam ooch schon der <strong>Knall</strong>." (<i>Marlow</i>, 33)',   
 	'<i>Böhm</i>: ".. Tun Sie (<i>Herr Döring</i>), wie Ihnen beliebt. Aber begleichen Sie bitte zunächst einmal die Rechnung." Mit einem letzten Schnaufen steckte ihr Klient den Briefumschlag mit der Abschlussrechnung und dem letzten Bericht ein und verließ die Detektei W. Böhm. Mit einem Türen<strong>knallen</strong>. (<i>Marlow</i>, 69)',
+	'Er (<i>Rath</i>) folgte dem Kriminalsekretär noch bis ins Vorzimmer, konnte ihn aber nicht mehr aufhalten, und nun stand er da mit offenem Mund und starrte auf die Tür, die Czerwinski gerade <strong>zugeknallt</strong> hatte. (<i>Marlow</i>, 107)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -12019,6 +12031,8 @@ Kaffeekränzchen: [
 	'<i>Rath</i>: "Aber dennoch - oder gerade deswegen - könnte der Erpresser Schaden anrichten, und das soll ich verhindern." Adenauer nickte. "Schnelle Auffassungsjabe, dein Sohn", sagte er zu Engelbert Rath. Gereon fühlte sich so ähnliche wie damals, als seine Mutter vor dem versammelten <strong>Kaffeekränzchen</strong> die Schulnoten ihres Sohnes lobte. (<i>Der stumme Tod</i>, 50)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Ja, der Doktor sagt, Ruhe sei das Wichtigste." Charly kam sich vor wie ihre eigene Großmutter, die mit ihrem <strong>Kaffeekränzchen</strong> auch immer nur die jeweils aktuellen Zipperlein und Wehwehchen zu besprechen hatte. (<i>Märzgefallene</i>, 447)',
+	'<u>Marlow</u>',
+	'<i>Voss, zu Rath</i>: "..Sie sollen sich bei Frau Körte melden. Mit der kann ich bald ein <strong>Kaffeekränzchen</strong> aufmachen, so oft haben wir beide in den letzten Tagen miteinander telefoniert. Beim Duzen sind wir jedenfalls schon." (<i>Marlow</i>, 109)',
 ],
 klammheimlich: [
 	'<strong>klammheimlich</strong>: clandestine, on the quiet'+
@@ -12565,10 +12579,11 @@ klimpern: [
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-klirren: [
-	'<strong>klirren</strong>: clink, clang, rattle'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target3">klirren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target4">klirren</a>',
+'klirren, Geklirr': [
+	'<strong>klirren</strong>: to clink, clang, rattle'+
+	'<br>das <strong>Geklirr</strong>: clink, clang'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geklirr"target="target3">Geklirr</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target4">klirren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target5">klirren</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Geklirr"target="target6">Geklirr</a>',
 	'<u>Der nasse Fisch</u>',
 	'<i>die Witwe Behnke</i>: "Sie Ärmster (<i>Rath und die Polizei</i>) haben ja beruflich dauerned mit diesem Sündenpfuhl zu tun." Sie hantierte geräuschvoll mit der Teekante, als müsse sie gegen den Sündenpfuhl an<strong>klirren</strong>, und stellte zwei Tassen auf den Tisch. (<i>Der nasse Fisch</i>, 41)',
 	'Mit ängstlichen Blicken suchten sie (<i>die Bereitschaftspolizisten</i>) die Fenster nach Heckenschützen ab, die Gewehre im Anschlag. Eine kurze Weile blieb es ruhig... Dann ein knatternder Schuss aus einem Karabiner. Eine Fensterscheibe <strong>klirrte</strong> auf das Pflaster.  (<i>Der nasse Fisch</i>, 70)',
@@ -12592,6 +12607,39 @@ klirren: [
 	'Das Serviermädchen erschien mit einem Tablett, auf dem neben Wein- und Sektgläsern ein eisamer Cognacschwenker leise <strong>klirrte</strong>. Rath stellte sein Sektglas aufs Tablett und nahm den Cognac herunter. (<i>Lunapark</i>, 158)',
 	'Noch bevor er genau wusste, was überhaupt geschehen war, spürte Rath einen heftigen Schmerz an der Schulter und fand sich auf dem Boden wieder. Glas splitterte mit einem <strong>Klirren</strong>, das ihm nach der beinahe andächtigen Stille, die bislang geherrscht hatte, irrsinnig laut erschien, Scherben regneten auf ihn hinab. Seine Waffe rutschte aus der Manteltasche und schlidderte über den Kies. (<i>Lunapark</i>, 526)',
 	'"Es sind Verbrecher, die uns regieren, wann verstehst du das endlich?" Emilie Osterberg schlug mit der Faust auf den Tisch, dass das Frühstücksgeschirr <strong>klirrte<strong>. (<i>Lunapark</i>, 555)',
+	'<u>Marlow</u>',
+	'Durch die Tür drangen, stark gedämpft, die Geräusche eines gelungenen Abends: Musik und Gelächter, Gläser<strong>geklirr</strong> und Stimmengewirr. Hier drinnen aber <strong>klirrte</strong> nur das Eis in seinem Whiskyglas. (<i>Marlow</i>, 110)',
+],  
+'Geklirr, klirren': [
+	'<strong>klirren</strong>: to clink, clang, rattle'+
+	'<br>das <strong>Geklirr</strong>: clink, clang'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geklirr"target="target3">Geklirr</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target4">klirren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target5">klirren</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Geklirr"target="target6">Geklirr</a>',
+	'<u>Der nasse Fisch</u>',
+	'<i>die Witwe Behnke</i>: "Sie Ärmster (<i>Rath und die Polizei</i>) haben ja beruflich dauerned mit diesem Sündenpfuhl zu tun." Sie hantierte geräuschvoll mit der Teekante, als müsse sie gegen den Sündenpfuhl an<strong>klirren</strong>, und stellte zwei Tassen auf den Tisch. (<i>Der nasse Fisch</i>, 41)',
+	'Mit ängstlichen Blicken suchten sie (<i>die Bereitschaftspolizisten</i>) die Fenster nach Heckenschützen ab, die Gewehre im Anschlag. Eine kurze Weile blieb es ruhig... Dann ein knatternder Schuss aus einem Karabiner. Eine Fensterscheibe <strong>klirrte</strong> auf das Pflaster.  (<i>Der nasse Fisch</i>, 70)',
+	'Weiter hinten in der Wohnung hörte man das Durcheinander vieler Stimmen und das <strong>Klirren</strong> von Gläsern. Ein Plattenspieler dudelte Schlager. (<i>Der nasse Fisch</i>, 166)',
+	'Hinter sich hörte er (<i>Rath</i>) ein sattes <strong>Klirren</strong>, eine kleine, nasse Explosion. Instinktive drehte er den Kopf. Kein Mensch zu sehen, nur eine weiße, zischende Pfüze auf dem Pflaster und rotbraun leuchtende Scherben. (<i>Der nasse Fisch</i>, 213)',
+	'<i>Doktor Schwartz</i>: "Tag, Herr Kommissar", sagte der Mediziner und gab ihm die Hand. "Na, dann wollen wir mal". Der Schlüsselbund <strong>klirrte</strong> laut, als er aufschloss. Rath folgte ihm in den Raum, in dem die Leiche bereits auf dem Marmortisch lag, noch mit einem Laken verdeckt. (<i>Der nasse Fisch</i>, 294)',
+	'Weinert machte eine Pause und trank einen großen Schluck Selterswasser. "Tja, und dann habe ich - irgendwann im März muss das gewesen sein, es war jedenfalls <strong>klirrend</strong> kalt - zufällig etwas aufgeschnappt..."  (<i>Der nasse Fisch</i>, 345)',
+	'Ihm (<i>Rath</i>) blieb keine Zeit mehr, diese Gedanken noch länger durchzukauen. Er hatte ein Geräusch gehört. Das Drehen eines Schlüssels im Schloss, das <strong>Klirren</strong> eines Schlüsselbundes. Und dann das satte Zuschnappen der schweren Wolter\'schen Haustür. (<i>Der nasse Fisch</i>, 381)',
+	'Gräf entsicherte für alle Fälle die Pistole und stieg so leise es ging die Treppe empor. Für einige Augenblicke hörte er nichts als sein eigenes Atmen und das leise Knarren der Stufen. Langsam arbeitet er sich vor vis in den zweiten Stock. Dann <strong>klirrte</strong> oben ein Schlüsselbund, und gleich darauf hallte eine Frauenstimme durchs Treppenhaus. (<i>Der nasse Fisch</i>, 476)',
+	'<u>Der stumme Tod</u>',
+	'Die Männer (<i>Engelbert und Gereon Rath</i>) schwiegen sich an. Aus der Küche war Gluckern und Porzellan<strong>klirren</strong> zu hören. Kathi erledigte alles, was sie tat, mit viel Elan. (<i>Der stumme Tod</i>, 43)',
+	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläser<strong>klirren</strong> gedämpfter... (<i>Der stumme Tod</i>, 46)',
+	'<u>Märzgefallene</u>',
+	'Böhm rührte in seinem Kaffee, obwohl die Tasse leer war....Mit einem <strong>Klirren</strong> landete der Kaffeelöffel auf der Untertasse.  (<i>Märzgefallene</i>, 33)',
+	'Teetassen <strong>klirrten</strong> auf dem Tablett, das Frieda gerade in den Salon brachte, und Rath fühlte sich nicht wohl in seiner Haut.  (<i>Märzgefallene</i>, 34)',
+	'Es <strong>klirrte</strong>, als ein Feuerwehrmann das Glas mit seiner Axt einschlug.   (<i>Märzgefallene</i>, 55)',
+	'Er zuckte zusammen, als er das <strong>Klirren</strong> von Glas hörte und ein unwirkliches Brausen.  (<i>Märzgefallene</i>, 56)',
+	'Hier im Halbdunkel hörte sich das Gewummer ihres Verfolgers noch lauter an. Und jetzt wummerte es nicht mehr, es krachte, Holz splitterte und Glas <strong>klirrte</strong>.  (<i>Märzgefallene</i>, 69)',
+	'Mit einem <strong>klirrenden</strong> Geräusch schlidderte der Dolch über das Pflaster, sie (<i>Hannah</i>) musste ihm (<i>Huckebein</i>) das Ding aus der Hand geschlagen haben.',
+	'<u>Lunapark</u>',
+	'Das Serviermädchen erschien mit einem Tablett, auf dem neben Wein- und Sektgläsern ein eisamer Cognacschwenker leise <strong>klirrte</strong>. Rath stellte sein Sektglas aufs Tablett und nahm den Cognac herunter. (<i>Lunapark</i>, 158)',
+	'Noch bevor er genau wusste, was überhaupt geschehen war, spürte Rath einen heftigen Schmerz an der Schulter und fand sich auf dem Boden wieder. Glas splitterte mit einem <strong>Klirren</strong>, das ihm nach der beinahe andächtigen Stille, die bislang geherrscht hatte, irrsinnig laut erschien, Scherben regneten auf ihn hinab. Seine Waffe rutschte aus der Manteltasche und schlidderte über den Kies. (<i>Lunapark</i>, 526)',
+	'"Es sind Verbrecher, die uns regieren, wann verstehst du das endlich?" Emilie Osterberg schlug mit der Faust auf den Tisch, dass das Frühstücksgeschirr <strong>klirrte<strong>. (<i>Lunapark</i>, 555)',
+	'<u>Marlow</u>',
+	'Durch die Tür drangen, stark gedämpft, die Geräusche eines gelungenen Abends: Musik und Gelächter, Gläser<strong>geklirr</strong> und Stimmengewirr. Hier drinnen aber <strong>klirrte</strong> nur das Eis in seinem Whiskyglas. (<i>Marlow</i>, 110)',
 ],  
 kneten: [
 	'<strong>kneten</strong>: knead, massage, mold, form'+
@@ -20191,6 +20239,7 @@ zackig: [
 	'So <strong>zackig</strong> hatte er (<i>Rath</i>) Reinhold Gräf noch nie erlebt. Geradezu im Kasernenhofton prügelte der Mann sie durch die Tagesordnung der Morgenlage. (<i>Lunapark</i>, 325)',
 	'<u>Marlow</u>',
 	'Unter der Brücke hatte ein Leichenwagen gehalten, aus dem zwei Herren in Schwarz stiegen. Der Hauptwachtmeister empfing die beiden mit dem Deutschen Gruß, den sie <strong>zackig</strong> erwiderten. Dann aber schüttelten sich die Männer gegenseitig die Hände wie alte Freunde. (<i>Marlow</i>, 36-37)',
+	'Heinrich Graf Helldorf, ein <strong>zackiger</strong> Nazi der ersten Stunde, war seit einigen Wochen.. neuer Polizeipräsident von Berlin. (<i>Marlow</i>, 107)',
 ],
 Zapfen: [ 
 	'der <strong>Zapfen</strong>,-: cone; tap, plug, spigot'+
@@ -20700,6 +20749,7 @@ anbellen Marlow 37
  anschleichen Lunapark 78
  anstellen (sich)  Märzgefallene   383
  anwidern Lunapark 283
+ aussetzen  Marlow 107
 'Ast'  ;   Nworte++;    Märzgefallene   27    34
  'attestieren'  ;   Nworte++;    Märzgefallene   27
 Augenpartie Märzgefallene 336
@@ -20840,6 +20890,7 @@ Geheiß:   Lunapark 57
  Klack  Lunapark 530
  'klackern'  ;   Nworte++;    Märzgefallene   59
  kleben Marlow 39
+ kleine Brötchen backen  Marlow 107
  kalauern  Der nasse Fisch 160       
  karrieregeil  Der nasse Fisch 84
  klauben  Lunapark 265

@@ -22,7 +22,8 @@ const g = [
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
-   'geizen',   // geizen:  
+   'geizen',   // geizen:
+   'Geklirr, klirren',  //duplicated  
    'Gekrächz',  // Gekrächz:   
    'Gelände',   // Gelände:  
    'Geländer',  // Geländer:  

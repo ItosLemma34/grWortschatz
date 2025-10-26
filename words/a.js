@@ -51,7 +51,8 @@ const a = [
 	'Anbiederung', // Anbiederung:  
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    // anbrechen:  
-	'anecken',      // anecken:   
+	'andrehen',   // andrehen: 
+	'anecken',      // anecken:  
 	'anekeln, Ekel, eklig, ekelhaft', // duplicated 
 	'anfauchen, fauchen', //  duplicated 
 	'anflehen, flehen, flehentlich',  // duplicated 

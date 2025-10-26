@@ -1,9 +1,6 @@
 export const wordExamples = {              
 //Büro möchte Überraschung Männer draußen 
 /*
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-
 Laufgitter:	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 Fluter = Scheinwerfer (spotlight)  
@@ -26,8 +23,30 @@ zzz: [
 	'<u>Marlow</u>',  
 	'   (<i>Marlow</i>, 000)',
 ],
-// ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 */
+andrehen: [  
+	'<strong>andrehen</strong>: crank, turn; fob/palm/foist sth. off on so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/andrehen"target="target1">andrehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/andrehen"target="target2">andrehen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/andrehen"target="target3">andrehen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=andrehen&id=verb%3Aandrehen"target="target4">andrehen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Weinert öffnete die Tür. "Na, so eine Überraschung", meinte der Journalist und grinste ihn (<i>Rath</i>) an, "der Mann, der mir eine Leiche als Mórder <strong>angedreht</strong> hat!" "Na komm, du hast meine Theorie doch auch für plausibel gehalten." (<i>Der nasse Fisch</i>, 443)',
+	'<u>Marlow</u>',  
+	'Hatte der Idiot (<i>Sebald</i>) in all den Jahren nicht verstanden, warum der Venuskeller solch ein Erfolg war? Weil man den Gästen eben keinen billigen Fusel <strong>angedreht</strong> hatte. Und noch weniger gestreckte Drogen. (<i>Marlow</i>, 111)',
+],
+strecken: [  
+	'<strong>strecken</strong>: stretch, extend; dilute</i>'+
+	'<br><strong>strecken</strong>: cut (dilute) a drug, eg. heroin'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/strecken"target="target1">strecken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/strecken"target="target2">strecken</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strecken"target="target3">strecken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=strecken&id=verb%3Astrecken"target="target4">strecken</a>'+
+	'<br><i>references below refer only to the idiomatic usage: dilute a drug</i>',
+	'<u>Marlow</u>',  
+	'<i>Marlow, zu Sebald</i>: "Ist es üblich, dass Sie Ihre Besuche empfangen, während in Ihrem Büro Heroin <strong>gestreckt</strong> wird?" "Entschuldiung. Natürlich nicht." Sebald wedelte mit der Hand zu dem großen Tisch hinüber. "Macht mal Pause, Jungs. Geht für \'ne Weile an die frische Luft." (<i>Marlow</i>, 110)',
+	'<i>Marlow, zu Sebald</i>: "Was ist es?" fragte er. "Milchpulver? Mehl?" "Mannit und Ascorbinsäure." Sebald räusperte sich. Das ist der Grund, warum ich Sie hergebeten habe.. Jaeger hat nicht geliefert, wir müssen improvisieren." "Und den Leuten <strong>gestreckten</strong> Mist verkaufen? Der Venuskeller hat einen Ruf zu verlieren." "Besser man verkauft den Leuten <strong>gestreckten</strong> Mist als gar nichts... (<i>Marlow</i>, 111)',
+	'Hatte der Idiot (<i>Sebald</i>) in all den Jahren nicht verstanden, warum der Venuskeller solch ein Erfolg war? Weil man den Gästen eben keinen billigen Fusel angedreht hatte. Und noch weniger <strong>gestreckte</strong> Drogen. (<i>Marlow</i>, 111)',
+	'<i>Marlow, zu Sebald</i>: "Es tut mir weh, mit anzusehen, wie Sie den Venuskeller zugrunderichten, doch das ist Ihre Sache. Merken Sie sich nur zwei Dinge: Erstens: Belästigen Sie mich nie wieder mit Ihren Problemen. Zweitens: Egal was Sie sonst tun, wagen Sie es ja nicht, Ihr <strong>gestrecktes</strong> Zeug jemals an den Kunden G. (<i>Göring?</i>) zu liefern. Verstanden?" (<i>Marlow</i>, 111)',
+],
 'Schneid abkaufen': [  
 	'der (oder die) <strong>Schneid</strong>: courage, guts'+
 	'<br>jmdm. <strong>den Schneid abkaufen</strong>: discourage, take the fight out of so.'+
@@ -1976,6 +1995,8 @@ Fusel: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fusel"target="target3">Fusel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fusel&id=substantiv%3AFusel"target="target4">Fusel</a>',
 	'<u>Der nasse Fisch</u>',
 	'Marlow gab dem Chinesen einen Wink, und Liang goss Whisky in zwei Gläser. Rath roch an seinem Glas und nickte anerkennend. "Aus Schottland", sagte Marlow. "Besser als der <strong>Fusel</strong>, den Sebald draußen serviert." Sein Kopf zeigte auf die Tür, die zum <i>Venuskeller</i> führte. (<i>Der nasse Fisch</i>, 454)',  
+	'<u>Marlow</u>',
+	'Hatte der Idiot (<i>Sebald</i>) in all den Jahren nicht verstanden, warum der Venuskeller solch ein Erfolg war? Weil man den Gästen eben keinen billigen <strong>Fusel</strong> angedreht hatte. Und noch weniger gestreckte Drogen. (<i>Marlow</i>, 111)',
 ],
 Wanst: [  
 	'der <strong>Wanst</strong>,-<strong>Wänste</strong>: paunch, belly'+
@@ -4505,13 +4526,15 @@ Bagger: [
 	'Fritze <strong>zog eine Flappe</strong> und trollte sich, Kirie legte sich in ihre Kiste. (<i>Lunapark</i>, 340)',
 ],
 Sündenbock: [
-	'<strong>Sündenbock</strong>: scapegoat'+
+	'der <strong>Sündenbock</strong>,-<strong>böcke</strong>: scapegoat'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Suendenbock"target="target1">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/S%C3%BCndenbock"target="target2">Sündenbock</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/suendenbock#S%C3%BCndenbock"target="target3">Sündenbock</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=S%C3%BCndenbock"target="target4">Sündenbock</a>',
 	'<u>Lunapark</u>',  
 	'Lapkes Männer hatten so viel Übles auf Horst Kaczmarek abgewälzt, dass Lange sich zwischenzeitlich gefragt hatte, ob der Mord im Wedding womöglich auf ihr Konto ging. Ob sie womöglich mit einer Polizeiaktion gerechtnet und deswegen rechtzeitig für einen <strong>Sündenbock</strong> gesorgt hatten. Einen <strong>Sündenbock</strong>, der sich nicht mehr wehren konnte. (<i>Lunapark</i>, 259-60)', 
 	'<i>Charly</i>: "Aber er (<i>Karl Reinhold</i>) war\'s nicht! Er hat sich doch nur versteckt, er war an keiner politischen Aktion beteiligt. Nur seiner Freundin wegen ist er nach Berlin zurückgekehrt." <i>Gereon</i>: "Das sagst du. Für die Staatspolizei ist er der Hauptverdächtige. "Die brauchen einen <strong>Sündenbock</strong>, das ist alles." (<i>Lunapark</i>, 338)', 
 	'Gräf war froh, einen <strong>Sündenbock</strong> gefunden zu haben, den er seinen Chefs Nebe und Heydrich präsentieren konnte, doch er erwartete von Karl Reinhold nicht nur das Geständnis weiterer Morde, er wollte vor allem Hinweise auf das Versteck der Gruppe Wolff. (<i>Lunapark</i>, 342)', 
+	'<u>Marlow</u>',
+	'Offensichtlich hatte Daluege (<i>Polizeigeneral</i>) auf Verhaftungen gedrängt, und so hatten sie, obwohl Gennat.. dies für völlig übereilt hielt, zähneknirschend Haftbefehle für drei verantwortliche Ingenieure beantragt, trotz einer eher dünnen Beweislage. Aber irgendwer ganz oben schien ein paar <strong>Sündenböcke</strong> zu brauchen, und Daluege musste liefern. Und deshalb musste auch Gennat liefern. (<i>Marlow</i>, 112)',  
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -5742,6 +5765,8 @@ abkanzeln: [
 	'Als Rath den Wunsch äußerte, alle Klassen besuchen zu dürfen, deren Fenster zum Friedhof hinausgingen, <strong>kanzelte</strong> ihn der Schulleiter.. rigoros <strong>ab</strong>: Das sei doch wohl überflüssig! Natürlich habe niemand etwas beobachten können! "Unsere Schüler folgen dem Unterricht, sie schauen nicht auf die Straße", lautete die lapidare Auskunft. (<i>Der nasse Fisch</i>, 423)',
 	'<u>Lunapark</u>',
 	'Sperling hatte nichts vergessen. Rath hatte den wenig kooperationswilligen Mann seinerzeit <strong>abgekanzelt</strong> und schlankweg behauptet, ein Kriminalkommissar sei einem SA-Sturmführer gegenüber selbstverständlich weisungsbefugt. Und Sperling hatte gespurt. Bis sein Vorgesetzter aufgekreuzt war und Rath achtkantig hinausgeworfen hatte. (<i>Lunapark</i>, 94)',
+	'<u>Marlow</u>',
+	'<i>Genat, zu Rath</i>: "Aber bevor Sie zur Wilhelmstraße fahren, kommen Sie bitte noch in mein Büro." Nun kam sich Rath vor wie ein Schuljunge, der vor der ganzen Klasse <strong>abgekanzelt</strong> und hernach noch zum Direx (<i>principal, headmaster</i>) geschickt wird. (<i>Marlow</i>, 114)',
 ],  
 'aufgießen, Aufguss': [ 
 	'<strong>aufgießen</strong>: pour sth. on sth.'+
@@ -5959,6 +5984,8 @@ anwidern: [
 	'Raths Blick ging zu der großen blechernen Mülltonne hinüber, die weiter hinten an der Wand stand.. Je mehr er sich der Tonne näherte, desto penetranter wurde der Gestank von verfaultem Fleisch und geronnenem Blut.. "Was für eine Schweinerei ist denn das da in der Tonne?" fragte Rath und wandte sich <strong>angewidert</strong> ab. (<i>Lunapark</i>, 41-42)',
 	'Er (<i>Gräf</i>) machte eine Pause und schaute derart wichtig in die Runde, dass es Rath regelrecht <strong>anwiderte</strong>. (<i>Lunapark</i>, 61)',
 	'"Diese Prozedur (<i>des Augensaugens</i>)", fuhr Lange fort, "hat Kaczmarek mehrfach in SA-Gefängnissen zelebriert.. Er hat das tatsächlich meist vor großem Publikum gemacht. Die Bestrafung des Delinquenten sollte auch die anderen Häftlinge gefügig machen..".. Rath machte ein <strong>angewidertes</strong> Gesicht. Er versuchte, sich vorzustellen, was vor zwei Wochen in der Gartenstraße passiert sein mochte. (<i>Lunapark</i>, 266-67)', 
+	'<u>Marlow</u>',
+	'Rath gähnte. Selten hatte ihn die Langeweile der tägichen Morgenlage so <strong>angewidert</strong> wie heute. (<i>Marlow</i>, 112)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Allerwerteste: [ 
@@ -11070,6 +11097,10 @@ halbseiden: [
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) musste den Hut festhalten, als er auf den Platz bog, der Wind pfiff heftig über den Alex. Auch am Sonntag herrschte dichtes Gewühl zwischen den Bauzäunen. Ein Zeitschriftenhändler rief <strong>halbseidene</strong> Magazine aus, Stückpreis 20 Pfennige. (<i>Der nasse Fisch</i>, 144)',
 	'Als er (<i>Gereon</i>) zurückkam, saß da jemand bei ihr (<i>Charly</i>) am Tisch. Ein öliger, schmieriger Typ mit Nussknackerlachen. Irgend so ein <strong>halbseidener</strong> Angeber, der sich unglaublich toll vorkam and nicht merkte, dass er Charlotte anwiderte. (<i>Der nasse Fisch</i>, 190-91)',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der nasse Fisch</i>, 441)',
+	'<u>Marlow</u>',
+	'Und es war ihm (<i>Marlow</i>) lieber, Sebald zu besuchen, als dass der ihn besuchte. In der Villa in Niederschönhausen gingen inzwischen wichtige Leute ein und aus, da konnte sich ein <strong>halbseidener</strong> Kerl wie Winfried Sebald nicht mehr blicken lassen. (<i>Marlow</i>, 110)',
 ],
 'hinters Licht führen': [
 	'jmdn. <strong>hinters Licht führen</strong>: deceive/dupe sb.'+
@@ -12208,6 +12239,11 @@ klapprig: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klapprig"target="target3">klapprig</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klapprig"target="target4">klapprig</a>',
 	'<u>Der nasse Fisch</u>',
 	'Ein kräftiger Tritt hätte gereicht, um die <strong>klapprige</strong> Tür in den Raum fliegen zu lassen, doch Wolter schob den Bereitschaftsführer beiseite. Rath sah, wie der Onkel einen Dietrich aus der Manteltasche zog und sich am Schloss zu schaffen machte. (<i>Der nasse Fisch</i>, 18-19)',
+	'<u>Lunapark</u>',
+	'Das Auto von Pastor Warszawski war ein <strong>klappriger</strong> dunkelgrüner Hanomag. (<i>Lunapark</i>, 415-16)',
+	'<u>Marlow</u>',
+	'Er (<i>Rath</i>) saß auf einem <strong>klapprigen</strong> Stuhl im überheizten kleinen Konferenzsaal und kämpfte gegen den Schlaf. (<i>Marlow</i>, 112)',
+// more to come
 ],
 klitzeklein: [
 	'<strong>klitzeklein</strong>: tiny, teensy-weensy'+
@@ -12576,6 +12612,8 @@ klimpern: [
 	'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, knisterndes Zeitungspapier, das <strong>Klimpern</strong> eines Löffels, der leise gegen den Tassenrand schlug. (<i>Lunapark</i>, 28)',
  	'Er (<i>Marlow</i>) schenkte ihr (<i>Charly</i>) Wasser ein, aus einem Krug, in dem jede Menge Eiswürfel <strong>klimperten</strong>. Charly trank. Das tat gut in der Hitze. (<i>Lunapark</i>, 479)',
 	'Sie (<i>Charly</i>) hob ihren Blick und betrachtete die Tischgesellschaft, die immer noch ehrfurchtsvoll schwieg und sich ihren Teetassen widmete. Niemand schien das Wort ergreifen zu wollen, außer dem <strong>Klimpern</strong> der Teelöffel war nichts zu hören. (<i>Lunapark</i>, 533)',
+	'<u>Marlow</u>',
+	'Er (<i>Marlow</i>) ließ das Eis in seinem Whiskyglas <strong>klimpern</strong> und schaute Sebald an. Der Mann hatte Schweißperlen auf der Stirn. (<i>Marlow</i>, 110)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -16383,6 +16421,7 @@ Scherbe: [
 	'Der Fahrersitz bot keinen schönen Anblick, er war voller Blut und voller <strong>Scherben</strong>. (<i>Marlow</i>, 34)',
 	'Er (<i>Rath</i>) wischte die <strong>Scherben</strong> vom Leder (<i>einer Aktentasche</i>) und suchte nach einem Namensschild oder ähnlichem, doch alles, was er fand, waren eine Schachtel Asbachbohnen und ein großer brauner Briefumschlag, die sauber voneinander getrennt in der Tasche verstaut waren. (<i>Marlow</i>, 34-35)',
 	'<i>Czerwinski</i>: "Und? Was gefunden, Chef?".. "Nichts Besonderes", antwortete er (<i>Rath</i>). "Nur eine Aktentasche. Ist alles voller Blumen und <strong>Scherben</strong>. Fotografier das mal." (<i>Marlow</i>, 36)',
+	'Marlow ließ den Kragen los, und Sebald zupfte sich den Anzug zurecht, wischte sich die <strong>Scherben</strong> von der Schulter. (<i>Marlow</i>, 112)',
 ],
 scheren: [
 	'<strong>scheren</strong>: clip, shear, shave'+
@@ -17384,6 +17423,8 @@ stibitzen: [
 	'<u>Lunapark</u>',
 	'Ein ganz normaler Montag. Ein ganz normaler erster Arbeitstag. Also hatte sie (<i>Charly</i>) Fritze die Zeitung <strong>stibitzt</strong> und am Steinplatz die Linie 5 genommen, die führte auf direktem Wege in den Wedding. (<i>Lunapark</i>, 207)',
 	'Leo biss in den Apfel, den er vor wenigen Stunden von einem Obststand <strong>stibitzt</strong> hatte, und betrachtete Madam Luna in ihrem Glaskasten.. Vielleicht würde sie ihm sagen, was er tun sollte. (<i>Lunapark</i>, 207)',
+	'<u>Marlow</u>',
+	'<i>Gennat</i>: "Und wenn die im Prinz-Albrecht-Palais Schwierigkeiten machen sollten, informieren Sie mich. Dann lassen wir das ganze über den Polizeipräsidenten laufen. Wäre ja noch schöner, wenn wir uns einfach Ermittlungsakten <strong>stibitzen</strong> lassen..." (<i>Marlow</i>, 114)',
 ],
 'Stiefel, stiefeln': [ 
 	'der <strong>Stiefel</strong>,-: boot'+
@@ -18217,6 +18258,8 @@ unterbuttern: [
 	'Rath und Spindler blickten sich an. Der Kommunist hatte wohl nicht damit gerechnet, dass ausgerechnet ein Polizeibeamter ihn zu seinem nächsten Versteck bringen sollte. Das hatte Warszawski ja prima eingefädelt. "Na, dann wollen wir mal", sagte Rath. "Das Auto steht draußen vor der Kolonie." Spindler wirkte ebenso <strong>überrumpelt</strong> wie Rath. (<i>Lunapark</i>, 419-20)',
 	'Es klackte, als Rademann Fritzes Finger bewegte und mit den Fingern zwei Metallhebel umlegte. »Jetzt leg deinen Zeigefinger an den Abzug.« Fritze war die Sache nicht ganz geheuer.. Sollte er wirklich schießen?! Einerseits fand er das natürlich knorke, andererseits fühlte er sich ein bisschen <strong>überrumpelt</strong>. Er hatte sich auf einen Angelausflug eingestellt. (<i>Lunapark</i>, 460)',
 	'Juretzka war so <strong>überrumpelt</strong>, dass er sich gar nicht richtig wehrte, auch weil er damit beschäftigt war, den Schläger nicht aus der Hand zu geben, dann aber setzte er eine gezielte kurze Gerade, die Rath mitten im Gesicht erwischte... (<i>Lunapark</i>, 527)',
+	'<u>Marlow</u>',
+	'Und Rath erzählte die Geschichte. Dass es bei dem toten Fahrgast Gerhard Brunner um einen SS-Mann handele und man deshalb dessen Dienststelle in Kenntnis gesetzt habe. Dass diese den Kollegen Czerwinske <strong>überrumpelt</strong> und sämtliche Unterlagen sowie die SS-Uniform des Toten an sich genommen habe. (<i>Marlow</i>, 113)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 umpflügen: [
@@ -19664,6 +19707,7 @@ wedeln: [
 	'Gereon sagte immer noch nichts, mit versteinertem Gesicht hängte er Hut und Mantel an die Garderobe. Erst jetzt fiel ihr (<i>Charly</i>) auf, was nicht stimmte. Kein schwanz<strong>wedelnder</strong> Hund, der sich zwischen Gereons Beinen und dem Türrahmen in die Wohnung quetschte und sein Herrchen dabei beinahe zu Fall brachte. (<i>Lunapark</i>, 365)' ,
 	'<u>Marlow</u>',
 	'(<i>Elli Blarr</i>): "Kann ich das mitnehmen?" Sie <strong>wedelte</strong> mit dem Foto. "Für die Versicherung?" <i>Rath</i>: "Meinetwegen. Wenn es hilft." (<i>Marlow</i>, 61)',
+	'<i>Marlow, zu Sebald</i>: "Ist es üblich, dass Sie Ihre Besuche empfangen, während in Ihrem Büro Heroin gestreckt wird?" "Entschuldiung. Natürlich nicht." Sebald <strong>wedelte</strong> mit der Hand zu dem großen Tisch hinüber. "Macht mal Pause, Jungs, Geht für\'ne Weile an die frische Luft." (<i>Marlow</i>, 110)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -20204,6 +20248,8 @@ zupfen: [
 	'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede <strong>zupfte</strong> seinen Kittel zurecht und betätigte einen Hebel an der vorsintflutlichen Kasse.... "Wollen Se mal sehen, Kommessar: Ebbe, nix als Ebbe...." (<i>Märzgefallene</i>, 317)',
 	'<u>Lunapark</u>', 
 	'"Schon gut, schon gut", sagte er (<i>Rath</i>). "Ich habe verstanden. Wenn die Kriminalpolizei nicht vorgelassen wird, wird sie nicht vorgelassen." Die Wachen ließen ihn los, and Rath <strong>zupfte</strong> sein Jackett wieder in Form.  (<i>Lunapark</i>, 274)',
+	'<u>Marlow</u>', 
+	'Marlow ließ den Kragen los, und Sebald <strong>zupfte sich</strong> den Anzug <strong>zurecht</strong>, wischte sich die Scherben von der Schulter. (<i>Marlow</i>, 112)',
 ],
 Zinnober: [
 	'der <strong>Zinnober</strong> (no plural): rubbish, junk, nonsense; vermillion'+

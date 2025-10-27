@@ -5,7 +5,7 @@ const m = [
    'malochen', // malochen:
    'Mangel (durch die M. drehen)', //  duplicated 
    'Mangel (in die M. nehmen)' ,  //  duplicated 
-   'Männchen machen',  
+   'Männchen machen, Männchenmachen',  
    'Manschettenknopf',  // Manschettenknopf: 
    'markieren (den dicken Max m.)',  
    'Marotte',  // Marotte: 

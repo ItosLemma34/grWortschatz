@@ -180,7 +180,7 @@ const s = [
    'Speichel',  // Speichel:  
    'Sprosse',  // Sprosse:  
    'spülen; Spül -ung, -e, -stein, -bürste',  
-   'Spund', // Spund:  
+   'Spund, Jungspund', // duplicated  
    'spuren',  // spuren: 
    'sputen', // sputen: 
    'Stadtstreicher', // Stadtstreicher:  

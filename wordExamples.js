@@ -1,5 +1,8 @@
 export const wordExamples = {              
 //Büro möchte Überraschung Männer draußen 
+
+// search for photos
+
 /*
 Laufgitter:	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
@@ -26,6 +29,13 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 */
+rundmachen: [  
+	'<strong>rundmachen</strong>: scold, reprimand; make round'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rundmachen"target="target1">rundmachen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rundmachen"target="target2">rundmachen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=rundmachen"target="target3">rundmachen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/rundmachen"target="target4">rundmachen</a>',
+	'<u>Marlow</u>',  
+	'So langsam ging Rath ein Licht auf. Als Gennat ihn vorhin vor allen Kollegen <strong>rundmachte</strong> und in die Wilhelmstraße schickte, hatte er (<i>Gennat</i>) schon von der Fahenflucht seines einstigen Lieblings gewusst. (<i>Marlow</i>, 115)',
+],
 andrehen: [  
 	'<strong>andrehen</strong>: crank, turn; fob/palm/foist sth. off on so.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/andrehen"target="target1">andrehen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/andrehen"target="target2">andrehen</a>'+
@@ -737,15 +747,16 @@ Spind: [
 	'<u>Marlow</u>',
 	'Große Schilder wiesen den Weg zu den Schließfächern. Rath schaute sich um. Er fand die Nummer 57 in einer Reihe großer Blechschränke, die wie <strong>Spinde</strong> aussahen. (<i>Marlow</i>, 65)',
 ],
-'Männchen machen': [  
-	'<strong>Männchen machen</strong>: stand up straight (on hind legs, at attention)'+
-	'<br>Deutsch:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=M%C3%A4nnchen+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Männchen machen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/M%C3%A4nnchen%20machen"target="target2">Männchen machen</a>'+
-	'<br>English & photos:&nbsp;&nbsp;<a href="https://www.dict.cc/?s=M%C3%A4nnchen+machen"target="target3">Männchen machen</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/de/search?k=%22m%C3%A4nnchen+machen%22&asset_id=158664515"target="target4">Männchen machen</a>',
+'Männchen machen, Männchenmachen': [  
+	'<strong>Männchen machen, Männchenmachen</strong>: stand up straight (on hind legs, at attention)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=M%C3%A4nnchen+machen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Männchen machen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/M%C3%A4nnchen%20machen"target="target2">Männchen machen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=M%C3%A4nnchen+machen"target="target3">Männchen machen</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/de/search?k=%22m%C3%A4nnchen+machen%22&asset_id=158664515"target="target4">Männchen machen (photos)</a>',
 //	'<u>Der stumme Tod</u>',   
 	'<u>Lunapark</u>', 
 	'Rath antwortete mit dem schlampigen Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und nuschelte sein "Heil". Bislang hatte er sich damit durchmogeln können... Und er selbst fühlte sich besser, wenn er nicht, wie so viele Polizeibeamte, strammstand und <strong>Männchen machte</strong>. (<i>Lunapark</i>, 20)',
 	'<u>Marlow</u>',
 	'Mit diesen Worten stieg Rath aus. Einen Moment juckte es ihn, den rechten Arm zu heben und den renitenten Taxifahrer <strong>Männchen machen</strong> zu lassen, aber dann verzichtete er lieber auf jeglichen Gruß und ging zum Bahnhofsgebäude hinüber. (<i>Marlow</i>, 64-65)',
+	'<i>Sturmbannführer Sowa</i>: "Heil Hitler, Oberkommissar!" <i>Oberkommissar Rath</i>: "Heil Hitler, Sturmbannführer!" Rath hasste es, wenn er zum <strong>Männchenmachen</strong> gezwungen wurde. Schon deswegen konnte er den Mann in der schwarzen Uniform nicht leiden. (<i>Marlow</i>, 120-21)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß Bilder von Blechschäden    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'besaitet, zartbesaitet': [  
@@ -4975,13 +4986,15 @@ Napf: [
 	'Sie (<i>Charly und Fritze</i>) schwiegen sich eine Weile an, und es war seltsam still in der Wohnung. Und dann wusste Charly auch, was fehlte: das Schlabbern des Hundes, der sich über seinen <strong>Napf</strong> hermachte. (<i>Lunapark</i>, 411)',
 ], 
 heischen: [
-	'<strong>heischen</strong>: beg; demand'+
+	'<strong>heischen</strong>: demand'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/heischen"target="target1">heischen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/heischen"target="target2">heischen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/heischen"target="target3">heischen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/heischen"target="target4">heischen</a>',
 //	'<u>Der nasse Fisch</u>',   
 //	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>', 
 	'In diesem Augenblick trat ein junger Mann in den Flur, dem die SA-Mütze am Garderobenhaken gehören musste, denn er trug den Rest der dazugehörigen Uniform. Und hatte sich eine weiße Serviette in den Kragen gesteckt, was die respekt<strong>heischende</strong> Wirkung der SA-Uniform völlig zunichtemachte. (<i>Lunapark</i>, 269)',  
+	'<u>Marlow</u>', 
+	'Rath ahnte, was die Voss gemeint hatte, als er den SS-Wachen, die vor den Kolonnaden an der Wilhelmstraße Wache schoben, seinen Dienstausweis zeigte: Die schwarzen Uniformen <strong>heischten</strong> Respekt, ob man wollte oder nicht. (<i>Marlow</i>, 117)',  
 ],
 vorknöpfen: [
 	'<strong>sich vorknöpfen</strong>: take to task, confront, take care of sth.'+
@@ -5003,14 +5016,27 @@ Vertriebsweg: [
 	'<u>Lunapark</u>',
 	'"Lange", sagte er (<i>der Buddha</i>), "Sie erinnern sich doch sicher an die <i>Weiße Hand</i>, an den Waffenschmuggel unserer korrupten Kollegen anno einunddreißig?" "Natürlich, Herr Kriminaldirektor." "Gut. Gehen Sie doch bitte in die Registratur und suchen Sie die betreffenden Akten zusammen. Die Nordpiraten waren in diese Sache verstrickt, schlagen Sie nach, wie das damals gelaufen ist, <strong>Vertriebswege</strong> und so." (<i>Lunapark</i>, 260)',   
 ],
-Spund: [
+'Spund, Jungspund': [
 	'der <strong>Spund</strong>,-<strong>ünde</strong>: stopper, bung, plug, spigot'+
-	'<br><strong>junger Spund</strong>: whippersnapper, greenhorn'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spund"target="target1">Spund</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Spund"target="target2">Spund</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spund"target="target3">Spund</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Spund"target="target4">Spund</a>',
+	'<br><strong>junger Spund, Jungspund</strong>: whippersnapper, greenhorn'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spund"target="target1">Spund</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Jungspund"target="target2">Jungspund</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spund"target="target3">Spund</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Jungspund"target="target4">Jungspund</a>',
 //	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
+	'<u>Lunapark</u>',    
 	'.. der Buddha musste seine Wut hinunterschlucken, denn ihm gegenüber saß der Standortführer der SA Berlin persönlich, Gruppenführer Karl Ernst. Ein junger <strong>Spund</strong>, keine dreißig, mit weichen Gesichtszügen und einer beeindruckenden Uniform. (<i>Lunapark</i>, 258)',   
+	'<u>Marlow</u>',
+	'"Heil Hitler, OberKommissar!", machte der SS-<strong>Jungspund</strong> sogleich, zackiger als Rath es jemals bei irgendwem sonst gesehen hatte, "wenn Sie mir bitte folgen wollen? Sturmbannführer Sowa erwartet Sie." (<i>Marlow</i>, 118)',
+],
+'Jungspund, Spund': [
+	'der <strong>Spund</strong>,-<strong>ünde</strong>: stopper, bung, plug, spigot'+
+	'<br><strong>junger Spund, Jungspund</strong>: whippersnapper, greenhorn'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spund"target="target1">Spund</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Jungspund"target="target2">Jungspund</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spund"target="target3">Spund</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Jungspund"target="target4">Jungspund</a>',
+//	'<u>Der nasse Fisch</u>',   
+	'<u>Lunapark</u>',    
+	'.. der Buddha musste seine Wut hinunterschlucken, denn ihm gegenüber saß der Standortführer der SA Berlin persönlich, Gruppenführer Karl Ernst. Ein junger <strong>Spund</strong>, keine dreißig, mit weichen Gesichtszügen und einer beeindruckenden Uniform. (<i>Lunapark</i>, 258)',   
+	'<u>Marlow</u>',
+	'"Heil Hitler, OberKommissar!", machte der SS-<strong>Jungspund</strong> sogleich, zackiger als Rath es jemals bei irgendwem sonst gesehen hatte, "wenn Sie mir bitte folgen wollen? Sturmbannführer Sowa erwartet Sie." (<i>Marlow</i>, 118)',
 ],
 knistern: [
 	'<strong>knistern</strong>: crackle, creak, rustle'+
@@ -5178,6 +5204,8 @@ kreischen: [
 	'<u>Lunapark</u>', 
 	'Sie (<i>Charly</i>) schenkte Husen, der ebenfalls nicht mitsang, ein Lächeln und tanzte schweigend weiter. Bis ein <strong>Kreischen</strong> sie aufschrecken ließ. Ein <strong>Kreischen</strong>, gefolgt von einem Poltern. (<i>Lunapark</i>, 164)',
 	'Leo musste daran denken, wie oft er mit Vera dort (<i>im Lunapark</i>) gesessen hatte. Die Rummelvergnügungen hatten sie nie sonerlich interessiert, sie wollte einfach nur auf den See blicken und das <strong>Kreischen</strong> und Lachen und Rufen der Besucher hören... (<i>Lunapark</i>, 250)',  
+	'<u>Marlow</u>',
+	'Aus dem Treppenhaus drangen Hammerschläge an sein (<i>Raths</i>) Ohr  und das <strong>Kreischen</strong> einer Kreissäge; Geräusche, die nicht gerade zu seinem Wohlbefinden beitrugen. (<i>Marlow</i>, 118)', 
 ],
 // ä Ä ö Ö ü Ü ß   „ “     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß  „ “   ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß „ “   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “   ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß   „ “      ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß   „ “    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -6768,6 +6796,7 @@ abwimmeln: [
 	'"Danke." Sie (<i>Gussie Adenauer</i>) seufzte das Wort mehr, als dass sie es sprach. Ihr Dank kam aus derart tiefster Seele, dass Rath sich schämte. Dafür dass er sie eigentlich nur <strong>abgewimmelt</strong> hatte. Aber eine Frau, die hysterisch wurde, weil man ihren Mann verhaftet hatte, konnte er jetzt am allerwenigsten gebrauchen. (<i>Lunapark</i>, 489)',
 	'<u>Marlow</u>',
 	'Rechts neben dem Wrack lagen zwei Leichen auf dem Asphalt, bedeckt von Leinentüchern. Vier, fünf Schupos sicherten die Unfallstele, <strong>wimmelten</strong> Neugierige <strong>ab</strong>, leiteten den Verkehr um und lotsten Fußgänger auf die andere Straßenseite. (<i>Marlow</i>, 27)',
+	'Dieser Bürokrat jedoch hörte sich Raths Ausführungen mit stoischem Gleichmut an und sagte dann nur: "Ich werde sehen, was sich in Ihrer Angelegenheit machen lässt." Sein "Nehmen Sie doch bitte Platz, Oberkommissar Rath", mit dem er den Bittsteller endgültig <strong>abwimmelte</strong>, klang so, als seien Nachname und Dienstrang schon die ersten Einträge in jener Akte, die der SD nun über den Kriminalbeamten Rath anzulegen gedenke. (<i>Marlow</i>, 118)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß   „ “      ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß   „ “    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -7588,6 +7617,8 @@ ausscheren: [
 	'Die drei SA-Leute begannen zu tuscheln. Dann zeigte der in der Mitte auf Weiß. "Das ist doch der Isidor", rief er. "Was will der denn noch hier?".... Bevor Weiß irgendetwas entgegnen konnte, war Charly aus der Schlange <strong>ausgeschert</strong> und hatte sich vor den SA-Männern aufgestellt. "Dieser Herr heißt nicht Isidor, sondern Doktor Bernhard Weiß und ist der beste Polizeibeamte, den Berlin jemals hatte." (<i>Märzgefallene</i>, 200)',
 	'<u>Lunapark</u>',
 	'Leo wartete, bis er (<i>Rath</i>) seinen Ford passiert hatte und sich zwei weitere Autos zwischen sie setzten, dann erst <strong>scherte</strong> auch er aus der Parklücke <strong>aus</strong>. (<i>Lunapark</i>, 454)',
+	'<u>Marlow</u>',
+	'<i>Gennat zu Rath</i>: "Wenn die Akte Lehmann komplett und vollständig auf meinem Schreibtisch liegt, dann haben Sie Ihren Fall abgeschlossen, vorher nicht." "Natürlich, Kiminaldirektor." "Und nun <strong>scheren Sie sich raus</strong> und holen Sie unsere Akte zurück!" (<i>Marlow</i>, 117)',
 ],
 ausschlachten: [ 
 	'<strong>ausschlachten</strong>: cut up; salvage parts from; exploit sth.'+
@@ -10478,6 +10509,8 @@ Gerümpel: [
 	'Rath überlegte. Wo sollte er seine Suche fortsetzen? Er betrat die Zustiegsrampe der Berg- und Talbahn und tastete sich vorsichtig voran in die dunklen Eingeweide. Er konnte sich kaum vorstellen, dass das <strong>Gerüst</strong> der hözernen Berglandschaft ein ideales Versteck war, vermutlich nicht einmal regendicht. (<i>Lunapark</i>, 373)',
 	'Rath schloss die Augen, um sich an die Dunkelheit zu gewöhnen. Dann tastete er sich langsam voran, zwischen den soliden Balken des <strong>Gerüsts</strong> hindurch. (<i>Lunapark</i>, 524)',
 	'aus Raths Protokoll: ".. <i>Der Angreifer floh auf das <strong>Gerüst</strong> der Achterbahn</i>..." (<i>Lunapark</i>, 546)',
+	'<u>Marlow</u>',
+	'Der Mann (<i>der SS-Jungspund</i>) stakste so schnell durch die Halle und die Treppen hoch, dass Rath kaum folgen konnte. Als sie den ersten Stock erreichten, mussten sie einen Umweg nehmen, weil ein Bau<strong>gerüst</strong> den Weg versperrte. (<i>Marlow</i>, 119)',
 ],
 'einrüsten, Gerüst': [
 	'das <strong>Gerüst</strong>,-<strong>e</strong>: scaffolding; framework, structure'+
@@ -10511,6 +10544,8 @@ Gerümpel: [
 	'Rath überlegte. Wo sollte er seine Suche fortsetzen? Er betrat die Zustiegsrampe der Berg- und Talbahn und tastete sich vorsichtig voran in die dunklen Eingeweide. Er konnte sich kaum vorstellen, dass das <strong>Gerüst</strong> der hözernen Berglandschaft ein ideales Versteck war, vermutlich nicht einmal regendicht. (<i>Lunapark</i>, 373)',
 	'Rath schloss die Augen, um sich an die Dunkelheit zu gewöhnen. Dann tastete er sich langsam voran, zwischen den soliden Balken des <strong>Gerüsts</strong> hindurch. (<i>Lunapark</i>, 524)',
 	'aus Raths Protokoll: ".. <i>Der Angreifer floh auf das <strong>Gerüst</strong> der Achterbahn</i>..." (<i>Lunapark</i>, 546)',
+	'<u>Marlow</u>',
+	'Der Mann (<i>der SS-Jungspund</i>) stakste so schnell durch die Halle und die Treppen hoch, dass Rath kaum folgen konnte. Als sie den ersten Stock erreichten, mussten sie einen Umweg nehmen, weil ein Bau<strong>gerüst</strong> den Weg versperrte. (<i>Marlow</i>, 119)',
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -13240,6 +13275,8 @@ Lackaffe: [
 	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast,...dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst. Hast du mich verstanden?" Die letzte Frage unterstrich er, indem er seinen Schraubstockgriff noch fester anzog. Der <strong>Lackaffe</strong> nickte eifrig. (<i>Der nasse Fisch</i>, 191)',
 	'<u>Lunapark</u>',
 	'"Heil Hitler", sagte Gräf und schaute ihn (<i>Rath</i>) dabei gar nicht an, nur die beiden <strong>Lackaffen</strong>, die Rath hergebracht hatten. (<i>Lunapark</i>, 149)',
+	'<u>Marlow</u>',
+	'Man durfte sich nicht blenden lassen. Rath hatte diesem von sich selbst und seiner Sendung so überzeugten österreichischen <strong>Lackaffen</strong> noch nie viel abgewinnen können, auch nicht wenn Hitler eine seiner vielgelobten reden hielt. (<i>Marlow</i>, 119)',
 ],
 'Lobhudelei, Hudelei': [ 
 	'die <strong>Hudelei</strong>,-<strong>en</strong>: sloppiness'+
@@ -17197,6 +17234,7 @@ spicken: [
 	'Das Unternehmen Alberich war als Rückzug eine taktisch genial durchdachte Operation gewesen, in der Art und Weise aber, wie ihre Truppen das Rückzugsgebiet als völlig verwüstetes, mit zahllosen Todesfallen <strong>gespicktes</strong> Terrain hinterlassen hatten, eine Schande für die deutsche Armee. (<i>Märzgefallene</i>, 134)',
 	'<u>Marlow</u>',
 	'Insgesamt fünf Beamte trugen ihre Berichte vor, die derart mit Fremdwörtern <strong>gespickt</strong> waren, dass Rath nicht einmal die Hälfte verstand. (<i>Marlow</i>, 88)',
+	'Brav zeigte Rath den Dienstausweis und trug seine Angelegenheit vor... Sein Vortrag, angefangen bei dem wohl strammsten Hitlergruß, den er jemals gezeigt hatte, <strong>gespickt</strong> mit devoten Speichelleckereien und dem wiederholten Berufen auf die Befehle, die man ihm an ubergeordneter Stelle erteilt und die er auszuführen habe; eigentlich eine Mischung, die bei überzeugten Nazis immer funktionierte. (<i>Marlow</i>, 117-18)',
 ],
 Sprechmuschel: [
 	'die <strong>Sprechmuschel</strong>,-<strong>n</strong>: mouthpiece (telephone)'+
@@ -17245,7 +17283,7 @@ Stadtstreicher: [
    '<i>Der Nazi Polizeipäsident zu Böhm</i>: "Der Tod eines erfrorenen <strong>Stadtstreichers</strong> sollte schon längst zu den Akten gelegt sein. Wir haben derzeit andere Prioritäten...." (<i>Märzgefallene</i>, 140)',
 ],
 staksen: [
-	'<strong>staksen</strong>: stagger, hobble, teeter'+
+	'<strong>staksen</strong>: stalk, strut'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/staksen"target="target1">staksen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/staksen"target="target2">staksen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/staksen"target="target3">staksen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=staksen"target="target4">staksen</a>',
 	'<u>Der nasse Fisch</u>',
@@ -17254,6 +17292,8 @@ staksen: [
 	'"Pssst", zischte Charly, als Gereon ins Wohnzimmer kam und so etwas wie "Guten Abend" sagte. Sie wedelte mit den Armen und hoffte, er möge sie verstehen, und er verstand. Jedenfalls grinste er, legte den Finger an die Lippen und <strong>stakste</strong> so übertrieben auf Zehenspitzen zu seinem Sessel, dass es sie schon wieder ärgerte. (<i>Märzgefallene</i>, 210)',
 	'<u>Lunapark</u>',
 	'Als sie in der Kanzlei eintraf, war die Putzfrau gerade dabei, den Boden zu wischen. Nichts deutete darauf hin, was vorgestern hier passiert war, dass überhaupt etwas passiert war. Charly <strong>stakste</strong> vorsichtig über den feuchten Fußboden und fand Guido in seinem Büro. (<i>Lunapark</i>, 207)',
+	'<u>Marlow</u>',
+	'Der Mann (<i>der SS-Jungspund</i>) <strong>stakste</strong> so schnell durch die Halle und die Treppen hoch, dass Rath kaum folgen konnte. (<i>Marlow</i>, 119)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Standpauke: [
@@ -17828,6 +17868,8 @@ Tresen: [
 	'<i>Zum letzten Heller</i> stand über der Kneipentür. Nicht eben einfallsreich, Rath kannte mindestens ein Dutzend Kneipen.. die diesen Namen trugen. Doch als er eintrat, war er angenehm überrascht. Keine heruntergekommene Kaschemme wie Walter Bestmanns Nordpiratenhöhle.. Gediegene Holzvertäfelung, eine ansehnliche Speisekarte an der Wand, und vor allem war der Laden sauber,.. keine schmierigen, blinden Biergläser hinter dem <strong>Tresen</strong>... (<i>Lunapark</i>, 276)',
 	'<i>Rath</i>: "Sie erinnern sich? Der Mann, der Ihre Kneipe durchquert hat. Vor einer Woche ungefähr. Den Sie angeblich nicht gesehen haben." "Weiß nicht, wovon Sie reden." Rath packte den Wirt am Kragen und zog ihn halb über den <strong>Tresen</strong>. Das Glas, das der Mann gerade poliert hatte, fiel zu Boden und zersprang.  (<i>Lunapark</i>, 330-31)',
 	'"Kommissar Rath ist im Dienst", hatte der Pförtner gesagt, und diese Antwort hatte Gräf noch wütender werden lassen. "Ist er eben nicht!", hatte er den Mann angefaucht, der hinter seinem <strong>Tresen</strong> zusammengezuckt war. (<i>Lunapark</i>, 404)',
+	'<u>Marlow</u>',
+	'Genau drei Zigaretten später - Rath war drauf und dran, sich den Bürokraten am Empfangs<strong>tresen</strong> noch einmal vorzunehmen und mit dem Polizeipräsidenten zu drohen - tat sich etwas. (<i>Marlow</i>, 118)',
 ],  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 triezen: [
@@ -18075,6 +18117,8 @@ umkrempeln: [
 	'<u>Lunapark</u>',
 	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen Einstand, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört.. <i>Die Pfeife mit drei F</i> war nicht einmal Polizeibeamter: ein SS-Truppführer ohne jede Polizeiausbildung, mit seinen Kameraden von München nach Berlin versetzt, um die preußische Geheime Staatspolizei im Sinne Himmlers <strong>umzukrempeln</strong>. (<i>Lunapark</i>, 46)',
 	'<i>Reinhard Heydrich, Chef der Gestapo</i>: "Kommissar (<i>Gräf</i>), verschonen Sie mich mit diesen Kommunisten. Was mich interessiert: Haben Sie über die toten SA-Männer schon etwas herausgefunden?.. Man wühlt doch ganz schön im Dreck bei einer Mordermittlung, nicht wahr? <strong>Krempelt</strong> das Leben der Opfer richtiggehend <strong>um</strong> ..." (<i>Lunapark</i>, 308)',
+	'<u>Marlow</u>',
+	'Charly war in den alten Zeiten stehengeblieben und wollte nichts von Veränderungen überhaupt wissen.. Zum Beispiel eine neue Regierung, mit der sie sich auch nach fast drei Jahren nicht abfinden konnte. Nun gut, die Nazis hatten Deutschand gehörig <strong>umgekrempelt</strong>, und auch ihm (<i>Gereon</i>) gefiel längst nicht alles. Aber was sollte man denn tun? (<i>Marlow</i>, 116-17)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
@@ -19776,6 +19820,8 @@ weichklopfen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/weichklopfen"target="target3">weichklopfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=weichklopfen"target="target4">weichklopfen</a>',
 	'<u>Märzgefallene</u>',
 	'<i>Lapke</i>: "Die Nordpiraten haben die Zeichen der Zeit erkannt. Sie werden weiter Geschäfte mahttps://www.duden.de/rechtschreibung/weichklopfen_uebertragenchen, wenn eure albernen Vereine längst von der Bildfläche verschwunden sind." <i>Leo</i>: "Davon träumst du also jede Nacht!...." Lapke drehte sich um zu Sperling, der nach wie vor hinter seinem Schreibtisch saß. "Ich dachte, der Kerl wäre <strong>weichgeklopft</strong>. Dafür hat er aber immer noch ein verdammt großes Maul." "Noch haben wir ihn nicht entlassen", sagte Sperling und betrachtete seine Fingernägel. "Wir kriegen ihn bestimmt noch ein bisschen <strong>weicher geklopft</strong>." (<i>Märzgefallene</i>, 222)',
+	'<u>Marlow</u>',
+	'So langsam ahnte er (<i>Rath</i>), warum Czerwinski gestern den ganzen Morgen im Prinz-Albrecht-Palais verbringen musste. Und er hatte dem Dicken Faulheit unterstellt. Rath spürte, wie auch ihn das Warten <strong>weichklopfte</strong>. Selbst die Baugeräusche schienen, so kam es ihm vor, allein diesem Zweck zu dienen. (<i>Marlow</i>, 118)',
 ],
 	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Wickelgamasche: [ 
@@ -20286,6 +20332,8 @@ zackig: [
 	'<u>Marlow</u>',
 	'Unter der Brücke hatte ein Leichenwagen gehalten, aus dem zwei Herren in Schwarz stiegen. Der Hauptwachtmeister empfing die beiden mit dem Deutschen Gruß, den sie <strong>zackig</strong> erwiderten. Dann aber schüttelten sich die Männer gegenseitig die Hände wie alte Freunde. (<i>Marlow</i>, 36-37)',
 	'Heinrich Graf Helldorf, ein <strong>zackiger</strong> Nazi der ersten Stunde, war seit einigen Wochen.. neuer Polizeipräsident von Berlin. (<i>Marlow</i>, 107)',
+	'"Heil Hitler, OberKommissar!", machte der SS-Jungspund sogleich, <strong>zackiger</strong> als Rath es jemals bei irgendwem sonst gesehen hatte, "wenn Sie mir bitte folgen wollen? Sturmbannführer Sowa erwartet Sie." (<i>Marlow</i>, 118)',
+	'Bevor er (<i>der SS-Jungspund</i>) etwas sagte, salutierte er <strong>zackig</strong>. "Der Herr Oberkommissar wäre jetzt hier, Sturmbannführer." "Soll reinkommen!".. Der SS-Mann drehte <strong>zackig</strong> rechts um und wandte sich Rath zu. "Sie können.." ".. reinkommen, ich hab\'s gehört." (<i>Marlow</i>, 120)',
 ],
 Zapfen: [ 
 	'der <strong>Zapfen</strong>,-: cone; tap, plug, spigot'+
@@ -21026,6 +21074,7 @@ stolpern Der stumme Tod 65
 schallen Marlow 51
 schwanken  Der stumme Tod 32
 schwuchtel Märzgefallene  554
+stampfen  Marlow 119
 Tattergreis  Der stumme Tod 32
 Trakt  Der stumme Tod 54Ks
 überschlagen (sich) Marlow 18
@@ -21034,6 +21083,7 @@ Trakt  Der stumme Tod 54Ks
  Verätzungen  Der nasse Fisch 540
  verhökert  Der nasse Fisch 517
  verkohlen Der stumme Tod 23
+ Vorsehung  Marlow 119
  wacklig Der stumme Tod 29
  wehen Marlow 54  appears in 'meucheln, Meuchelmord'
  wiehern Marlow 100

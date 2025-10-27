@@ -7,6 +7,7 @@ const j = [
    'johlen',  // johlen: 
    'Joppe',  // Joppe: 
    'jucken',  // jucken: 
+   'Jungspund, Spund',  // Duplicated
 ];
 
 export default j;   

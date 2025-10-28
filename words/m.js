@@ -33,6 +33,7 @@ const m = [
    'Mullbinde', // Mullbinde: 
    'mulmig',  // mulmig: 
    'Mumm',  // Mumm: 
+   'Mummenschanz',  //  Mummenschanz:
    'Mumpitz',  // Mumpitz: 
    'munkeln',  // munkeln: 
    'Murmel', // Murmel: 

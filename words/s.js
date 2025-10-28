@@ -14,6 +14,7 @@ const s = [
    'Schablone',  // Schablone:
    'Schachtel',  // Schachtel:   
    'schade (zu schade sein)',   //duplicated 
+   'Schäferstündchen', // Schäferstündchen:
    'schälen', // schälen:    
    'Schank',  // Schank: 
    'Schar',  // Schar:  

@@ -1,8 +1,6 @@
 export const wordExamples = {              
 //Büro möchte Überraschung Männer draußen 
 
-// search for photos
-
 /*
 Laufgitter:	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt <strong>quietschete</strong> und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
@@ -29,6 +27,38 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 */
+Mummenschanz: [  
+	'der <strong>Mummenschanz</strong>, -<strong>schänze</strong>: disguise, masquerade, fancy-dress ball'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Mummenschanz"target="target1">Mummenschanz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Mummenschanz"target="target2">Mummenschanz</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/mummenschanz"target="target3">Mummenschanz</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Mummenschanz"target="target4">Mummenschanz</a>',
+	'<u>Marlow</u>',  
+	'<i>SS-Sturmbannführer Sowa zu Rath</i>: "Wie gesagt, Oberkommissar, überlassen Sie das bitte uns. Und seien Sie versichert: Sollte sich Ihr Verdacht bestätigen - und ich stimme Ihnen zu: eine andere Erklärung für den <strong>Mummenschanz</strong> des Obersturmführers (<i>Brunner</i>) gibt es nicht -, dann werden wir alles tun, um die Ehre von Fräulein Schmeling wieder herzustellen..." (<i>Marlow</i>, 125)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+Schäferstündchen: [  
+	'das <strong>Schäferstündchen</strong>: amorous tête-à-tête, lovers’ tryst/rendezvous'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schaeferstuendchen"target="target1">Schäferstündchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%A4ferst%C3%BCndchen"target="target2">Schäferstündchen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schaeferstuendchen"target="target3">Schäferstündchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%A4ferst%C3%BCndchen&id=substantiv%3AScha3ferstu3ndchen"target="target4">Schäferstündchen</a>',
+	'<u>Marlow</u>', 
+	'Charly wollte eigentlich gar nicht hinsehen, aber der rote Schaukasten befand sich nun einmal direkt gegenüber der Volksbadeanstalt, und in der Spiegelung des Glases konnte sie unauffällig beobachten, was auf der anderen Straßenseite geschah. Hinter dem Glas jedoch hing die aktuelle Ausgabe des <i>Stürmer</i> aus, und die dicken Buchstaben.. der antisemitischen Parolen sprangen sie an wie kleine Vampire... Sie schaute hin, obwohl sie eigentlich nicht hinsehen wollte. Las die Schlagzeile. <i>Jud Rennert - Der Rassenschänder in Mannheim - Wie er die Notlage einer deutschen Frau ausnützen wollte - Vom <strong>Schäferstündchen</strong> ins Konzentrationslager</i>... (<i>Marlow</i>, 19)', 
+	'"Nun", sagte Rath, "einige Spuren am Unfallort lassen darauf schließen, dass der Obersturmführer auf dem Weg zu einem <strong>Schäferstündchen</strong> war. Wir haben neben Blumen und Konfekt sogar einen Verlobungsring gefunden..." (<i>Marlow</i>, 123)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+lauern: [  
+	'<strong>lauern</strong>: lurk, watch, lie in wait for'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lauern"target="target1">lauern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lauern"target="target2">lauern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lauern"target="target3">lauern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lauern&id=verb%3Alauern"target="target4">lauern</a>',
+//	'<u>Der nasse Fisch</u>',   
+//	'   (<i>Der nasse Fisch</i>, 000)',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 000)',	
+//	'<u>Märzgefallene</u>',    
+//	'   (<i>Märzgefallene</i>, 000)',
+//	'<u>Lunapark</u>',   
+//	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'<i>Rath</i>: "Nun, wir hatten da noch eine Vermisstenanzeige, die sich eindeutig auf den toten Fahrgast bezog, den wir als Gerhard Brunner identifiziert hatten, die aber auf einen völlig anderen Namen lautete.".. Sturmbannführer Sowa tat gelangweilt, doch Rath wusste dass das genau die Dinge waren, auf die er <strong>lauerte</strong>. Was wusste die lästige Kripo über die SD-Tätigkeit des sauberen Herrn Brunner, das war alles, was ihn interessierte. (<i>Marlow</i>, 122-23)',
+],
 rundmachen: [  
 	'<strong>rundmachen</strong>: scold, reprimand; make round'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rundmachen"target="target1">rundmachen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rundmachen"target="target2">rundmachen</a>'+
@@ -3445,6 +3475,8 @@ Gerangel: [
 	'<u>Lunapark</u>', 
 	'"Noch eine Sache", sagte Rath nach einer Weile. "Irgendjemand hat mir meine Dienstwaffe abgenommen. Wissen Sie, wer?" <i>Walter Spindler</i>: "Keine Ahnung. Da war das <strong>Gerangel</strong> mit Leo und dann Ihr Schuss... Es ging alles ziemlich schnell. Wir haben zusammengepackt, was wir mitnehmen konnten, und sind raus. Ob da jemand die Pistole an sich genommen hat, weiß ich nicht..." (<i>Lunapark</i>, 423)', 
 	'aus Raths Protokoll: ".. <i>Im <strong>Gerangel</strong> löste sich ein Schuß, der den Juretzka aus nächster Nähe in den Brustkorb traf. Der Mann stürzte in die Tiefe</i>." (<i>Lunapark</i>, 547)',
+	'<u>Marlow</u>', 
+	'Aber wenn die SS eine Sache übernehmen wollte, dann tat sie das. Kompetenz<strong>gerangel</strong> zwischen staatlichen und parteieigenen Behörden gehörte zum Alltag im neuen Deutschland, und im Zweifel setzten sich die Parteiinstitutionen durch. Und von denen war die SS mittlerweile die unangefochten stärkste. (<i>Marlow</i>, 126)',
 ],
 verschaukeln: [  
 	'jmdn. <strong>verschaukeln</strong>: deceive, sell so. down the river'+
@@ -7425,6 +7457,8 @@ auftischen: [
 	'<u>Lunapark</u>',
 	'Charly wusste nicht, ob er (<i>Guido</i>) die dünne Geschichte, die sie ihm <strong>aufgetischt</strong> hatte, wirklich glaubte, aber seinen Wagen, einen kleinen Opel, hatte er ihr anstandslos geliehen. (<i>Lunapark</i>, 441)',
 	'Doch Fritze nickte, immer wieder, bis Gereon seine Geschichte erzählt hatte. Die Geschichte, die er wenige Stunden später auch Charly <strong>auftischte</strong>, als die endlich von der Ostsee zurückgekommen war. Obwohl er so getan hatte, als habe er sie hundert Jahre nicht gesehen, hatte er auch die eigene Frau eiskalt belogen. (<i>Lunapark</i>, 542)',
+	'<u>Marlow</u>',
+	'Rath fragte sich, welche Legende der SD dem armen Fräulein Schmeling <strong>auftischen</strong> würde. Jedenfalls eine, in der mit keinem Wort von der beruflichen Tätigkeit und dem SS-Dienstrang ihres toten Bräutigams die Rede sein würde. (<i>Marlow</i>, 125)',
 ],
 'aus dem Konzept bringen': [
 	'jmdn. <strong>aus dem Konzept bringen</strong>: distract, rattle, trip someone up'+
@@ -9303,6 +9337,8 @@ ergattern: [
 	'Die Gräfin besaß ihr Papier nicht mehr. Selbst wenn sie Fallin in die Hände gefallen war, würde das dem Narbengesicht nichts nützen. Rath wusste das, dennoch hatte er Marlow nicht von dessen größter Sorge befreit: Die Schwarzhunderter könnten auch noch das Papier der Gräfin <strong>ergattern</strong> und das Goldversteck aufspüren. (<i>Der nasse Fisch</i>, 464)',
 	'<u>Märzgefallene</u>',
 	'Der Film hatte gestern erst Premiere gehabt, aber mit Hilfe seines Dienstausweises, den er beim Herausholen seines Portemonnaies beiläufig auf den Verkaufstresen gelegt hatte, war es Rath gelungen, noch zwei gute Plätze für die Samstagabendvorstellung zu <strong>ergattern</strong>. (<i>Märzgefallene</i>, 348)',
+	'<u>Marlow</u>',
+	'Sowa tat überrascht, doch Rath hätte darauf wetten können, dass der Sturmbannführer von Brunners Doppelleben wusste, dass er es womöglich sogar angeordnet hatte, dass es jedenfals ein dienstliches Doppelleben war, geführt mit dem Ziel, delikate Informationen von einer Sekretärin Hermann Görings zu <strong>ergattern</strong>. (<i>Marlow</i>, 123)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
@@ -10511,6 +10547,7 @@ Gerümpel: [
 	'aus Raths Protokoll: ".. <i>Der Angreifer floh auf das <strong>Gerüst</strong> der Achterbahn</i>..." (<i>Lunapark</i>, 546)',
 	'<u>Marlow</u>',
 	'Der Mann (<i>der SS-Jungspund</i>) stakste so schnell durch die Halle und die Treppen hoch, dass Rath kaum folgen konnte. Als sie den ersten Stock erreichten, mussten sie einen Umweg nehmen, weil ein Bau<strong>gerüst</strong> den Weg versperrte. (<i>Marlow</i>, 119)',
+	'Als Rath an Sowa vorbei aus dem Fenster schaute, erspähte er auf dem Bau<strong>gerüst</strong> auf der anderen Seite der Prinz-Albrecht-Straße einen weiß uniformierten dicken Mann, in Begleitung eines weiteren Uniformierten und mehrerer Handwerker und Bauarbeiter. Ein seltsames Bild, die saubere weiße Uniform auf dem dreckigen Bau<strong>gerüst</strong>. (<i>Marlow</i>, 126)',
 ],
 'einrüsten, Gerüst': [
 	'das <strong>Gerüst</strong>,-<strong>e</strong>: scaffolding; framework, structure'+
@@ -10546,6 +10583,7 @@ Gerümpel: [
 	'aus Raths Protokoll: ".. <i>Der Angreifer floh auf das <strong>Gerüst</strong> der Achterbahn</i>..." (<i>Lunapark</i>, 546)',
 	'<u>Marlow</u>',
 	'Der Mann (<i>der SS-Jungspund</i>) stakste so schnell durch die Halle und die Treppen hoch, dass Rath kaum folgen konnte. Als sie den ersten Stock erreichten, mussten sie einen Umweg nehmen, weil ein Bau<strong>gerüst</strong> den Weg versperrte. (<i>Marlow</i>, 119)',
+	'Als Rath an Sowa vorbei aus dem Fenster schaute, erspähte er auf dem Bau<strong>gerüst</strong> auf der anderen Seite der Prinz-Albrecht-Straße einen weiß uniformierten dicken Mann, in Begleitung eines weiteren Uniformierten und mehrerer Handwerker und Bauarbeiter. Ein seltsames Bild, die saubere weiße Uniform auf dem dreckigen Bau<strong>gerüst</strong>. (<i>Marlow</i>, 126)',
 ],
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -14007,6 +14045,7 @@ Nervensäge: [
 	'Der Knirps (<i>Fritze</i>) hatte sich zu einer regelrechten <strong>Nervensäge</strong> entwickelt. Wie eine Klette klebte der Junge an ihr (<i>Hannah</i>), sie wurde ihn einfach nicht mehr los. (<i>Märzgefallene</i>, 252)',                 
 	'<u>Marlow</u>',
 	'Rath machte sich auf den Weg. Draußen vor der Tür passte ihn Kriminalkommissar Westermann vom Vermisstendezernat ab, ein Mann, dessen katzbuckelnde Art er noch nie hatte leiden können.. <i>Westermann</i>: "Wir haben ja gerade gehört, dass Sie Ihren toten Fahrgast identifiziert haben." Immerhin, dachte Rath, wenigstens das Vermisstendezernat hatte ihm zugehört. Ausgerechnet <strong>Nervensäge</strong> Westermann. "Gleichwohl", sagte die <strong>Nervensäge</strong>, "habe ich noch etwas für Sie..." (<i>Marlow</i>, 90)',
+	'Pomme, diese <strong>Nervensäge</strong>. Der Mann wäre mal besser bei Göring geblieben, hätte er dem auf die Nerven gehen können." (<i>Marlow</i>, 125)',
 ],
 nuscheln: [
 	'<strong>nuscheln</strong>: mumble'+
@@ -14544,6 +14583,7 @@ postieren: [
 	'Er (<i>Rath</i>) schloss die Tür und setzte sich an den Schreibtisch, betrachtete die Fotos über dem Stadtplan, die Fotos aus der Verbrecherkartei, die Gräf dorthin <strong>gepappt</strong> hatte. (<i>Lunapark</i>, 390)',
 	'<u>Marlow</u>',   
 	'Schwarzgraues Verdeck, dunkelgrünes Chassis, schwarz-weiße Karostreifen - ohne Frage eine Kraftdroschke (<i>Taxi</i>). Von dem Wagen war allerdings nur das Heck zu sehen, die vordere Hälfte schien in der Mauer verschwunden zu sein. Als sie die Unfallstelle passierten, konnte Rath erkennen, dass die Kühlerhaube zusammengeschoben worden war, als sei sie aus <strong>Pappe</strong>. (<i>Marlow</i>, 26)',
+	'Er (<i>Rath</i>) erkannte die Akte Lehmann, die vor Sowa auf dem Schreibtisch lag, auf dem <strong>Papp</strong>deckel prangte die Handschrift der Voss. (<i>Marlow</i>, 121)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

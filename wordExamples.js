@@ -27,6 +27,86 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 */
+// complete anstellen:
+anstellen: [  
+	'<strong>anstellen</strong>: many meanings: see references'+
+	'<strong>sich anstellen</strong>: act, behave'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anstellen"target="target1">anstellen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anstellen"target="target2">anstellen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">anstellen</a>&nbsp;&nbsp;<a href=""target="target4">anstellen</a>'+
+	'<i>examples below refer only to "sich anstellen"</i>',
+	'<u>Der nasse Fisch</u>',   
+	'   (<i>Der nasse Fisch</i>, 000)',
+	'<u>Der stumme Tod</u>',
+	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'<i>Böhm zu Rath</i>: "Der Arzt. Können Sie mir den Namen des Arztes nennen, der den kranken Taxifahrer behandelt hat?" "Nichts würde ich lieber tun, lieber Böhm, aber ich fürchte, das kann ich nicht." "Na, nun <strong>stellen</strong> Sie sich doch nicht so <strong>an</strong>!" "Ich kann es nicht, weil es diesen Arzt nicht gibt. Otto Lehmann war nämlich gar nicht in Behandlung." (<i>Marlow</i>, 129)',
+],
+'Buckel, bucklig, auf dem Buckel': [  
+	'der <strong>Buckel</strong>,-: hump, knob, bump, mound, knoll'+
+	'<br><strong>bucklig</strong>: humpbacked, bumpy, hilly, undulating'+
+	'<br><strong>auf dem Buckel haben</strong>: have a lot on one\'s plate'+
+	'<br><strong>wenn du so viele Jahre auf dem Buckel hast wie ich</strong>: when you are as old as I am'+
+	'<br><strong>mit mehr als zehn Dienstjahren auf dem Buckel</strong>: with more than ten years of service under their belt'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target2">bucklig</a>'+	
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target3">auf dem Buckel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target4">Buckel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target5">bucklig</a>'+
+		'&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target6">auf dem Buckel</a>',
+//	'<u>Der stumme Tod</u>',
+//	'pgs 158 and 490   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',
+	'Wie ein pelziger Flaum überzog maigrünes Grass die <strong>Buckel</strong>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+	'<u>Lunapark</u>',
+	'Die <strong>bucklige</strong> Silhouette der Berg- und Talbahn hob sich schwarz und scharf wie ein Scherenschnitt vom nachglimmenden Abendhimmel ab. (<i>Lunapark</i>, 311)',
+	'<u>Marlow</u>',  
+	'So gut wie jeder Kriminalbeamte mit mehr als zehn Dienstjahren <strong>auf dem Buckel</strong> schleppte einen Fall mit sich herum, der ihn nicht losließ. Meist jedoch waren das ungelöste Fälle. Aber das passte zu Böhm, dass der selbst bei einem Fall, mit dessen Aufklärung alle zufrieden waren, noch ein Haar in der Suppe fand. (<i>Marlow</i>, 130)',
+],
+'auf dem Buckel, Buckel, bucklig': [  
+	'der <strong>Buckel</strong>,-: hump, knob, bump, mound, knoll'+
+	'<br><strong>bucklig</strong>: humpbacked, bumpy, hilly, undulating'+
+	'<br><strong>auf dem Buckel haben</strong>: have a lot on one\'s plate'+
+	'<br><strong>wenn du so viele Jahre auf dem Buckel hast wie ich</strong>: when you are as old as I am'+
+	'<br><strong>mit mehr als zehn Dienstjahren auf dem Buckel</strong>: with more than ten years of service under their belt'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target2">bucklig</a>'+	
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target3">auf dem Buckel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target4">Buckel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target5">bucklig</a>'+
+		'&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target6">auf dem Buckel</a>',
+//	'<u>Der stumme Tod</u>',
+//	'pgs 158 and 490   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',
+	'Wie ein pelziger Flaum überzog maigrünes Grass die <strong>Buckel</strong>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+	'<u>Lunapark</u>',
+	'Die <strong>bucklige</strong> Silhouette der Berg- und Talbahn hob sich schwarz und scharf wie ein Scherenschnitt vom nachglimmenden Abendhimmel ab. (<i>Lunapark</i>, 311)',
+	'<u>Marlow</u>',  
+	'So gut wie jeder Kriminalbeamte mit mehr als zehn Dienstjahren <strong>auf dem Buckel</strong> schleppte einen Fall mit sich herum, der ihn nicht losließ. Meist jedoch waren das ungelöste Fälle. Aber das passte zu Böhm, dass der selbst bei einem Fall, mit dessen Aufklärung alle zufrieden waren, noch ein Haar in der Suppe fand. (<i>Marlow</i>, 130)',
+],
+beackern: [  
+	'<strong>beackern</strong>: plow, cultivate; explore, examine, investigate'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beackern"target="target1">beackern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/beackern"target="target2">beackern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/beackern"target="target3">beackern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=beackern&id=verb%3Abeackern"target="target4">beackern</a>',
+	'<u>Marlow</u>',  
+	'Der Wechsel zum LKA war ein klarer Schnitt; Rath würde alle Akten, die er jemals für Gennat <strong>beackert</strong> hatte, hinter sich lassen und für immer vergessen. (<i>Marlow</i>, 128)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+schnöde: [  
+	'<strong>schnöde</strong>: despicable, contemptible, vile, base'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnoede"target="target1">schnöde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schn%C3%B6de"target="target2">schnöde</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnode"target="target3">schnöde</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schn%C3%B6de&id=adjektiv%3Aschno3de%23schno3de"target="target4">schnöde</a>',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Marlow</u>',  
+	'Was, wenn sein Zug ganz einfach Verspätung hatte? Sein Taxi im Verkehr steckengeblieben war? Wollte sie ihn (<i>Brunner/Heller</i>) dann mit verweinten Augen empfangen? Reiß dich zusammen, Heulsuse! Eine innere Stimme sagte ihr (<i>Irene Schmeling</i>), dass es nicht sein konnte, dass er sie nie und nimmer einfach so <strong>schnöde</strong> sitzen ließe. Und je mehr sich diese Zuversicht in ihr festsetzte, desto unbarmherziger wuchs die Sorge, ihm könne etwas zugestoßen sein. (<i>Marlow</i>, 25)',
+	'Ganz gleich, ob Gennat oder dem Staatsanwalt das Ergebnis gefiel, der Deckel würde heute zugeklappt, seine (<i>Raths</i>) letzte Ermittlung für die Mordinspecktion, so <strong>schnöde</strong> sie auch war, abgeschlossen. (<i>Marlow</i>, 128)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Mummenschanz: [  
 	'der <strong>Mummenschanz</strong>, -<strong>schänze</strong>: disguise, masquerade, fancy-dress ball'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Mummenschanz"target="target1">Mummenschanz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Mummenschanz"target="target2">Mummenschanz</a>'+
@@ -2099,6 +2179,8 @@ niederträchtig: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/niedertraechtig#niedertr%C3%A4chtig"target="target3">niederträchtig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=niedertr%C3%A4chtig&id=adjektiv%3Aniedertra3chtig%23niedertra3chtig"target="target4">niederträchtig</a>',
 	'<u>Lunapark</u>',
 	'Er (<i>Osterberg</i>) war ein aufrechter Patriot, er liebte nicht nur seine Firma, seine Stadt, er liebte sein Land, das er im Krieg gegen die Russen verteidigt hatte. Allein der Gedanke, es verlassen zu wollen, erschien ihm wie <strong>niederträchtiger</strong> Verrat. (<i>Lunapark</i>, 557)',
+	'<u>Marlow</u>',
+	'<i>Rath zu Böhm</i>: "Na gut", knurrte er. "Ich werde mal schauen, was sich machen lässt." "Danke." Böhm klang ehrlich erleichtert. Und nicht so, als sei er gerade durch eine <strong>niederträchtige</strong> Erpressung ans Ziel gelangt. (<i>Marlow</i>, 131)',
 ],
 nachbeten: [  
 	'<strong>nachbeten</strong>: parrot, regurgitate, echo'+
@@ -3200,14 +3282,29 @@ abspecken: [
 //	'<u>Märzgefallene</u>',    
 //	'<u>Lunapark</u>',   
 ],
-'Ekel, (an)ekeln, eklig, ekelhaft': [  
-	'der <strong>Ekel</strong>: disgust, revulsion, nausea'+
+'ekeln an-, hinaus-; Ekel, eklig, ekelhaft': [  
+	'<strong>(an)ekeln</strong>: appall, disgust, gross out'+
+	'<br><strong>hinausekeln</strong>: freeze/drive out of (eg, by being objectionable)'+
+	'<br>der <strong>Ekel</strong>: disgust, revulsion, nausea'+
 	'<br>das <strong>Ekel</strong>,-: nasty person, bastard; pest, nuisance'+
-	'<br><strong>(an)ekeln</strong>: appall, disgust, gross out'+
 	'<br><strong>eklig</strong>: disgusting, nasty, yucky, gross'+
 	'<br><strong>ekelhaft</strong>: repulsive, revolting'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ekel_Gefuehl"target="target1">der Ekel</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ekel_Person"target="target2">das Ekel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ekeln"target="target3">ekeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eklig"target="target4">eklig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ekelhaft"target="target5">ekelhaft</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Ekel"target="target6">der Ekel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/search?term=das+Ekel&q_cat=%2F%2F"target="target7">das Ekel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ekeln"target="target8">ekeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eklig"target="target9">eklig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ekelhaft"target="target10">ekelhaft</a>',
+	'<br>Deutsch:'+
+		'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ekeln"target="target1">ekeln</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anekeln"target="target2">anekeln</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hinausekeln"target="target3">hinausanekeln</a>'+
+		'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ekel_Gefuehl"target="target4">der Ekel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ekel_Person"target="target5">das Ekel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eklig"target="target6">eklig</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ekelhaft"target="target7">ekelhaft</a>'+
+	'<br>English:'+
+		'&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/ekeln"target="target8">ekeln</a>'+
+		'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/anekeln"target="target9">anekeln</a>'+
+		'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hinausekeln"target="target10">hinausanekeln</a>'+
+		'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ekel"target="target11">der Ekel</a>'+
+		'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ekel"target="target12">das Ekel</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eklig&id=adjektiv%3Aeklig%23eklig"target="target13">eklig</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ekelhaft&id=adjektiv%3Aekelhaft%23ekelhaft"target="target14">ekelhaft</a>',
 	'<u>Der nasse Fisch</u>',
 	'<i>Böhm</i>: "Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!" Rath zog ungerührt eine Overstolz aus der Schachtel. Jetzt einfach lässig bleiben. Das <strong>Ekel</strong> konnte unmöglich etwas wissen. Böhm nutzte nur jede Gelegenheit, die er fand, um Untergebene anzuschnauzen. (<i>Der nasse Fisch</i>, 180)',
 	'In der Inspektion A traf er (<i>Rath</i>) nur einen überaus schlecht gelaunten Wilhelm Böhm, der kein Wort mit ihm sprach und ihn anschaute, als sei er ein <strong>ekliges</strong> Insekt. (<i>Der nasse Fisch</i>, 368)',   
@@ -3217,24 +3314,7 @@ abspecken: [
 	'<u>Marlow</u>',
 	'Du (<i>Marlow</i>) fragst dich, ob der Alte (<i>sein Vater</i>) immer schon so zynisch und verbittert war oder ob ihn erst der Tod seiner Frau, nur wenige Monate nach eurem Eintreffen in China, zu dem misanthropischen <strong>Ekel</strong> gemacht hat, das jetzt vor dir sitzt. (<i>Marlow</i>, 11)', 
 	'Er brummte unwirsch vor sich hin. Wilhelm Böhm hasste es, die Wahrheit zu verbiegen,.. aber gleichwohl hatte der Mann ein Gewissen. Und sie (<i>Charly</i>) hoffte inständig, dass das Gewissen in diesem Fall die Oberhad behielt. Zumal Siegmund Döring Parteimitlied war. Und die Partei es war, die Wilhelm Böhm aus dem Polizeipräsidium und dem Beruf <strong>geekelt</strong> hatte. (<i>Marlow</i>, 67)',
-],
-'anekeln, Ekel, eklig, ekelhaft': [  
-	'der <strong>Ekel</strong>: disgust, revulsion, nausea'+
-	'<br>das <strong>Ekel</strong>,-: nasty person, bastard; pest, nuisance'+
-	'<br><strong>(an)ekeln</strong>: appall, disgust, gross out'+
-	'<br><strong>eklig</strong>: disgusting, nasty, yucky, gross'+
-	'<br><strong>ekelhaft</strong>: repulsive, revolting'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ekel_Gefuehl"target="target1">der Ekel</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ekel_Person"target="target2">das Ekel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ekeln"target="target3">ekeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/eklig"target="target4">eklig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ekelhaft"target="target5">ekelhaft</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Ekel"target="target6">der Ekel</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/search?term=das+Ekel&q_cat=%2F%2F"target="target7">das Ekel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ekeln"target="target8">ekeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eklig"target="target9">eklig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ekelhaft"target="target10">ekelhaft</a>',
-	'<u>Der nasse Fisch</u>',
-	'<i>Böhm</i>: "Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!" Rath zog ungerührt eine Overstolz aus der Schachtel. Jetzt einfach lässig bleiben. Das <strong>Ekel</strong> konnte unmöglich etwas wissen. Böhm nutzte nur jede Gelegenheit, die er fand, um Untergebene anzuschnauzen. (<i>Der nasse Fisch</i>, 180)',
-	'In der Inspektion A traf er (<i>Rath</i>) nur einen überaus schlecht gelaunten Wilhelm Böhm, der kein Wort mit ihm sprach und ihn anschaute, als sei er ein <strong>ekliges</strong> Insekt. (<i>Der nasse Fisch</i>, 368)',   
-	'<u>Märzgefallene</u>',  
-	'Charly stand am Fenster und schaute hinaus. Der Vollmond... machte dem Gaslicht Konkurrenz. Früher wäre sie an solch einem Abend vielleicht noch ausgegangen,... aber irgendwie stand ihr nicht der Sinn danach. Die Stadt da draußen <strong>ekelte</strong> sie regelrecht <strong>an</strong>, es kam ihr vor, als habe ein böser Zauberer ihr geliebtes Berlin verhext... (<i>Märzgefallene</i>, 280)',
-	'Der Reporter schilderte soeben mit ergriffener Stimme, wie Hitler dem endlich eintreffeden Hindenburg mit tiefer Verbeugung die Hand schüttelte.. Charly konnte sich nicht helfen, ihr wurde bei dem ganzen Pathos, das da aus dem Radio dröhnte, einfach nur schlecht, ja, sie empfand tatsächlich körperlichen <strong>Ekel</strong>. (<i>Märzgefallene</i>, 372)',
-	'<u>Marlow</u>',
-	'Du (<i>Marlow</i>) fragst dich, ob der Alte (<i>sein Vater</i>) immer schon so zynisch und verbittert war oder ob ihn erst der Tod seiner Frau, nur wenige Monate nach eurem Eintreffen in China, zu dem misanthropischen <strong>Ekel</strong> gemacht hat, das jetzt vor dir sitzt. (<i>Marlow</i>, 11)', 
-	'Er brummte unwirsch vor sich hin. Wilhelm Böhm hasste es, die Wahrheit zu verbiegen,.. aber gleichwohl hatte der Mann ein Gewissen. Und sie (<i>Charly</i>) hoffte inständig, dass das Gewissen in diesem Fall die Oberhad behielt. Zumal Siegmund Döring Parteimitlied war. Und die Partei es war, die Wilhelm Böhm aus dem Polizeipräsidium und dem Beruf <strong>geekelt</strong> hatte. (<i>Marlow</i>, 67)',
+	'Er (<i>Rath</i>) erzählte irgendetwas von wegen <i>neue Herausforderungen suchen</i> und dass das Leben doch immer wieder Veränderungen bereithalte und ähnlichen Schwachsinn. Dass Gennat ihn mehr oder weniger aus der Mordinspektion <strong>hinausgeekelt</strong> hatte, wollte er natürlich nicht zugeben. (<i>Marlow</i>, 128)', 
 ],
 unverblümt: [  // make duplicate if "verblümt" found
 	'<strong>verblümt</strong>: allusive, oblique'+
@@ -6829,6 +6909,7 @@ abwimmeln: [
 	'<u>Marlow</u>',
 	'Rechts neben dem Wrack lagen zwei Leichen auf dem Asphalt, bedeckt von Leinentüchern. Vier, fünf Schupos sicherten die Unfallstele, <strong>wimmelten</strong> Neugierige <strong>ab</strong>, leiteten den Verkehr um und lotsten Fußgänger auf die andere Straßenseite. (<i>Marlow</i>, 27)',
 	'Dieser Bürokrat jedoch hörte sich Raths Ausführungen mit stoischem Gleichmut an und sagte dann nur: "Ich werde sehen, was sich in Ihrer Angelegenheit machen lässt." Sein "Nehmen Sie doch bitte Platz, Oberkommissar Rath", mit dem er den Bittsteller endgültig <strong>abwimmelte</strong>, klang so, als seien Nachname und Dienstrang schon die ersten Einträge in jener Akte, die der SD nun über den Kriminalbeamten Rath anzulegen gedenke. (<i>Marlow</i>, 118)',
+	'Das Telefonklingen unterbrach seine Gedanken. Er (<i>Rath</i>) hob ab. Es war Erika Voss. "Ich habe Wilhelm Böhm in der Leitung, Oberkommissar. Lässt sich nicht <strong>abwimmeln</strong>." (<i>Marlow</i>, 129)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß   „ “      ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß   „ “    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -7787,16 +7868,6 @@ bescheuert: [
 	'Genau jetzt die Ohrfeige. Sie (<i>Betty</i>) spürte, wie sie sein (<i>Victors</i>) Gesicht traf. Nun hatte sie doch zu fest zugeschlagen!.. Umso realistischer würde ihr Streit wirken. Da erst fiel ihr auf, dass etwas nicht stimmte. Kein Donner. Stattdessen ein helles metallenes Geräusch, ein leises <i>Pling</i>; hinter ihr musste ein kleines Metallteil auf den Boden geknallt sein.. Nicht irgendeine <strong>bescheuerte</strong> Technikpanne! (<i>Der stumme Tod</i>, 13)',
 	'Rath holte ein neues Glas aus dem Schrank, ließ sich in den Sessel fallen und schenkte ein. Wie <strong>bescheuert</strong> du doch bist, dachte er, schleichst hier herum wie ein Einbrecher, benimmst dich wie ein Fremder in der eigenen Wohnung! (<i>Der stumme Tod</i>, 65)',
 ],
-'Buckel, bucklig': [
-	'der <strong>Buckel</strong>,-: hump, mound, knoll'+
-	'<br><strong>bucklig</strong>: humpbacked, bumpy, hilly, undulating'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target2">bucklig</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target3">Buckel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target4">bucklig</a>',
-	'<u>Märzgefallene</u>',
-	'Wie ein pelziger Flaum überzog maigrünes Grass die <strong>Buckel</strong>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
-	'<u>Lunapark</u>',
-	'Die <strong>bucklige</strong> Silhouette der Berg- und Talbahn hob sich schwarz und scharf wie ein Scherenschnitt vom nachglimmenden Abendhimmel ab. (<i>Lunapark</i>, 311)',
-],	
 benommen: [   
 	'<strong>benommen</strong>: stunned, dazed <br>pp of <strong>benehmen</strong>'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/benommen"target="target1">benommen</a> &nbsp;<a href="https://www.dwds.de/wb/benommen"target="target2">benommen</a>'+
@@ -7825,6 +7896,8 @@ beredt: [
 	'<u>Märzgefallene</u>', 
 	'Der stets korrekte und noch mehr auf Korrektheit pochende Böhm war offensichtlich mit seinem Verhalten auch mal angeeckt. Vielleicht würde das ihren (<i>Charlys</i>) Helden ein klein wenig vom Sockel stoßen. Rath hatte ohnehin nie verstanden warum Charly so große Stücke auf den <strong>brummigen</strong> Oberkommissar hielt. (<i>Märzgefallene</i>, 129)',
 	'"Ist das eigentlich eine Spinne, die da aus dem Kelch krabbelt?", fragte Charly plötzlich in die Stille hinein und zeigte auf das Heiligenbild an der Wand hinter dem Pastor. "Der heilige Norbert", beeilte Rath sich zu erklären.... "Unser Pfarrpatron", sagte Pastor Warszawski. In seiner <strong>Brummigkeit</strong> hatte er Rath schon immer an Wilhelm Böhm errinnert. <i>Charly</i>: "Und was hat es mit der Spinne da auf sich?" "Das erkär ich dir zu Hause", sagte Rath. Warszawski lachte. Und mit dem Lachen fiel das <strong>Brummige</strong> von ihm ab. (<i>Märzgefallene</i>, 382)',
+	'<u>Marlow</u>', 
+	'Obwohl Wilhelm Böhm ganz offensichtlich ein Anliegen hatte, klang seine Stimme so <strong>brummig</strong> wie eh und je. Der Mann konnte einfach nicht anders, selbst wenn er freundlich sein wollte. (<i>Marlow</i>, 129)',
 ],
 berappen: [ 
 	'<strong>berappen</strong>: fork over/shell out for sth.'+
@@ -12867,6 +12940,9 @@ knurren: [
 	'Essenszeit. In den Gängen der Wittenauer Heilstätten roch es nach Kohl und Bratwurst, und ihr Magen  <strong>knurrte</strong>. Sie (<i>Charly</i>) eilte den blankgebohnerten Flur entlang, im Bemühen, mit Oberschwester Ingeborg Schritt zu halten. (<i>Märzgefallene</i>, 78)',
 	'<u>Lunapark</u>',
 	'Rath nahm die Autoschlüssel entgegen. Und dann wusste er mit einem Mal, was er zu tun hat. "Mir fällt gerade ein", sagte er zu Gräf und schloss den Buick wieder auf, "ich kenne auch einen SA-Mann, den ich fragen könnte.. Sogar einen aus dem Wedding", <strong>knurrte</strong> Rath und stieg in sein Auto. (<i>Lunapark</i>, 194-95)',
+	'<u>Marlow</u>', 
+	'Obwohl Wilhelm Böhm ganz offensichtlich ein Anliegen hatte, klang seine Stimme so brummig wie eh und je. Der Mann konnte einfach nicht anders, selbst wenn er freundlich sein wollte. "Gut, dass ich Sie erreiche, Rath", <strong>knurrte</strong> er in den Hörer. (<i>Marlow</i>, 129)',
+	'<i>Rath zu Böhm</i>: "Na gut", <strong>knurrte</strong> er. "Ich werde mal schauen, was sich machen lässt." "Danke." Böhm klang ehrlich erleichtert. Und nicht so, als sei er gerade durch eine niederträchtige Erpressung ans Ziel gelangt. (<i>Marlow</i>, 131)',
 ],
 köpfen: [
 	'<strong>köpfen</strong>: behead; open (eine Flasche)'+
@@ -19792,6 +19868,7 @@ wedeln: [
 	'<u>Marlow</u>',
 	'(<i>Elli Blarr</i>): "Kann ich das mitnehmen?" Sie <strong>wedelte</strong> mit dem Foto. "Für die Versicherung?" <i>Rath</i>: "Meinetwegen. Wenn es hilft." (<i>Marlow</i>, 61)',
 	'<i>Marlow, zu Sebald</i>: "Ist es üblich, dass Sie Ihre Besuche empfangen, während in Ihrem Büro Heroin gestreckt wird?" "Entschuldiung. Natürlich nicht." Sebald <strong>wedelte</strong> mit der Hand zu dem großen Tisch hinüber. "Macht mal Pause, Jungs, Geht für\'ne Weile an die frische Luft." (<i>Marlow</i>, 110)',
+	'Rath <strong>wedelte</strong> mit der Aktenmappe wie mit einer Trophäe, als er das Büro am nächsten Morgen betrat. (<i>Marlow</i>, 127)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -20856,7 +20933,9 @@ If you can't find a word with a common prefix, such as an-, auf-, etc, search fo
  abgelten   Märzgefallene  542 
  abhaken Lunapark 449
  'abheften'  ;   Nworte++;    Märzgefallene   27
- abklopfen  Lunapark 468 
+
+ abklopfen  Lunapark 468  Marlow 129
+
  abmontieren Der nasse Fisch 319 
  abprallen Lunapark 537 
  abrasiert  Der nasse Fish 485  

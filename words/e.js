@@ -46,7 +46,7 @@ const e = [
    'eintrichtern',  // eintrichtern:    
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten:  
-   'Ekel, (an)ekeln, eklig, ekelhaft', // duplicated with "anekeln,..."  
+   'ekeln an-, hinaus-; Ekel, eklig, ekelhaft',  
    'Empore',     // Empore:  
    'entbieten',  // entbieten:  
    'entgegenfiebern',  // entgegenfiebern: 

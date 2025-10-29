@@ -103,10 +103,11 @@ const s = [
    'Schneise',  // Schneise:   
    'schnieke',  // schnieke:  
    'schnippen',  // schnippen: 
-   'schnippisch', // schnippisch: 
-   'schnörkelig, Schnörkel', // 
+   'schnippisch', // schnippisch:
+   'schnöde',  // schnöde:  schnoede 
+   'schnörkelig, Schnörkel', //   schnoekelig
+   'Schnösel',  // Schnösel:  Schnoesel
    'schnorren, anschnorren', // duplicated 
-   'Schnösel',  // Schnösel:  
    'schnuppern, erschnuppern',  // duplicated 
    'Schnur, schnüren', // 
    'schnurstracks', // schnurstracks: 

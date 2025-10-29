@@ -10,7 +10,8 @@ const b = [
     'Baskenmütze',  // Baskenmütze:  
     'bäuchlings', // bäuchlings: 
     'bauschen, aufbauschen',  //  duplicated 
-    'beäugen',  // beäugen: 
+    'beackern',  // beackern:
+    'beäugen',  // beäugen:   beaeugen
     'bedröppelt',  // bedröppelt: 
     'beflissen',  // beflissen: 
     'begrapschen',  // begrapschen:  
@@ -95,7 +96,7 @@ const b = [
     'brutzeln',  // brutzeln: 
     'Buche',    // Buche: 
     'Büchse',   // Büchse: 
-    'Buckel, bucklig',     
+    'Buckel, bucklig, auf dem Buckel', //duplicated    
     'bücken',  // bücken:
     'buddeln, ein-, ver-, aus-',   
     'Bude, Büdchen',   

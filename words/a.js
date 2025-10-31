@@ -138,13 +138,13 @@ const a = [
 	'aufgabeln',   // aufgabeln:
 	'Aufgebot',  // Aufgebot:  
 	'aufgedunsen', // aufgedunsen:  
-	'aufgekratzt', // aufgekratzt: 
 	'aufgelöst',   // aufgelöst:   only for the "distraught" definition
 	'aufgeweckt',  // aufgeweckt: 
 	'aufgießen, Aufguss',  
 	'aufglimmen, glimmen',  //  duplicated  
 	'aufhalsen',   // aufhalsen: 
 	'aufjaulen',   // aufjaulen:  
+	'aufkratzen, aufgekratzt', 
 	'auflauern',   // auflauern: 
 	'aufmucken',   // aufmucken:  
 	'aufmüpfig',  // aufmüpfig: 
@@ -179,7 +179,8 @@ const a = [
 	'ausbremsen', // ausbremsen:  
 	'Ausdünstung',  // Ausdünstung:  
 	'ausbüxen',    // ausbüxen:  
-	'Ausfallstraße',   // Ausfallstraße:  
+	'Ausfallstraße',   // Ausfallstraße:
+	'ausfransen',  // ausfransen:  
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung',      
 	'ausklinken, einklinken',  // duplicated 

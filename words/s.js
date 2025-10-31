@@ -140,7 +140,8 @@ const s = [
    'Schutzbefohlene',  // Schutzbefohlene:  
    'Schütze, Schützengraben',  
    'Schwaden', // Schwaden:  
-   'schwafeln', // schwafeln 
+   'schwafeln', // schwafeln
+   'Schwall',  // Schwall: 
    'schwanen', // schwanen:  
    'Schwanz einziehen/einkneifen', // 
    'Schwebebahn',  // Schwebebahn: 

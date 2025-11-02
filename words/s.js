@@ -98,7 +98,7 @@ const s = [
    'schnattern',  // schnattern: 
    'schnauben', // schnauben: 
    'schnaufen',  // schnaufen: 
-   'Schneid abkaufen',   // put as 'Schneid, Schneid abkaufen' if Schneid by itself found
+   'Schneid abkaufen',   // duplicated as "den Schneid abkaufen";   put as 'Schneid, Schneid abkaufen' if Schneid by itself found
    'schneidig',  // schneidig: 
    'Schneise',  // Schneise:   
    'schnieke',  // schnieke:  

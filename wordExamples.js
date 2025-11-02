@@ -11,7 +11,7 @@ general appearance:  a b c d e f g h i j k l m n o p q r s t u v
 umlaut sortig:  b c d e f g h i j k l m n o p q r s t u v w x y z
 
 
-aufkratzen  Der nasse Fisch 355
+aufkratzen  Der nasse Fisch 355  YouTube
 
 
 zzz: [  
@@ -269,7 +269,17 @@ strecken: [
 //	'<u>Der stumme Tod</u>',
 //	'   (<i>Der stumme Tod</i>, 000)',	
 	'<u>Marlow</u>',  
-	'<i>Rath, zu Czerwinski</i>: ".. kannst du wenigstens die Angehörigen von Brunner informieren. Die Adressen hast du doch jetzt." &nbsp;"Ne, eben nich. Die (<i>vom SD</i>) wollten die nicht rausrücken, nicht mal die Adresse von Brunner. Und die Angehörigen benachrichtigt der SD selbst. Das müsse ein SS-Mann machen, haben sie gesagt." &nbsp;"Verdammt, Paul! Da hast du dir aber gehörig <strong>den Schneid abkaufen</strong> lassen!" &nbsp;(<i>Marlow</i>, 106)',
+	'<i>Rath, zu Czerwinski</i>: ".. kannst du wenigstens die Angehörigen von Brunner informieren. Die Adressen hast du doch jetzt." &nbsp;"Ne, eben nich. Die (<i>vom SD</i>) wollten die nicht rausrücken, nicht mal die Adresse von Brunner. Und die Angehörigen benachrichtigt der SD selbst. Das müsse ein SS-Mann machen, haben sie gesagt." &nbsp;"Verdammt, Paul! Da hast du dir aber gehörig <strong>den Schneid abkaufen</strong> lassen!" (<i>Marlow</i>, 106)',
+],
+'den Schneid abkaufen': [  
+	'der (oder die) <strong>Schneid</strong>: courage, guts'+
+	'<br>jmdm. <strong>den Schneid abkaufen</strong>: discourage, take the fight out of so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schneid"target="target1">Schneid</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20den%20Schneid%20abkaufen"target="target2">den Schneid abkaufen</a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=jhE87T1N9SE"target="target3">den Schneid abkaufen (YouTube)</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schneid"target="target4">Schneid</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=schneid+abkaufen"target="target5">den Schneid abkaufen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Schneid"target="target6">Schneid, den Schneid abkaufen</a>',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Marlow</u>',  
+	'<i>Rath, zu Czerwinski</i>: ".. kannst du wenigstens die Angehörigen von Brunner informieren. Die Adressen hast du doch jetzt." &nbsp;"Ne, eben nich. Die (<i>vom SD</i>) wollten die nicht rausrücken, nicht mal die Adresse von Brunner. Und die Angehörigen benachrichtigt der SD selbst. Das müsse ein SS-Mann machen, haben sie gesagt." &nbsp;"Verdammt, Paul! Da hast du dir aber gehörig <strong>den Schneid abkaufen</strong> lassen!" (<i>Marlow</i>, 106)',
 ],
 ausmergeln: [  
 	'<strong>ausmergeln</strong>: emaciate; exhaust, impoverish (eg, <i>Boden</i>)'+

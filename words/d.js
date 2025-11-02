@@ -11,6 +11,7 @@ const d = [
    'Deckel',   // Deckel: 
    'Deichsel',  // Deichsel:  
    'deichseln', // deichseln: 
+   'den Schneid abkaufen', //duplicated
    'deponieren', // deponieren:  
    'Depp',  // Depp:  
    'dezent',   // dezent: 

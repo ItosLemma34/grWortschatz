@@ -168,6 +168,7 @@ const s = [
    'Spaten',  // Spaten:  
    'speckig', // speckig: 
    'speiübel', // speiübel: 
+   'spendabel, spendable',
    'sperrangelweit',  // sperrangelweit:  
    'Sperrhaken',  // Sperrhaken:  
    'sperrig',  // sperrig:       
@@ -222,7 +223,7 @@ const s = [
    'strecken',  //strecken:
    'Streich, einen Streich spielen', // duplicated
    'Strich (auf den S. gehen)', //  duplicated 
-   'gegen den Strich gehen',  // duplicated
+   'Strich (gegen den S. gehen)', // duplicated
    'Strick (einen S. drehen)', // duplicated 
    'Strickjacke', // Strickjacke: 
    'Striemen',  // Striemen: 

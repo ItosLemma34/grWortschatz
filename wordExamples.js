@@ -32,6 +32,60 @@ zzz: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 */
+hangeln: [  
+	'(sich) <strong>hangeln</strong>: climb/work/swing along sth. with one’s hands'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hangeln"target="target1">hangeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hangeln"target="target2">hangeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hangeln"target="target3">hangeln</a>&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=hangeln"target="target4">hangeln</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Oppenberg zu Rath</i>: "Sie müssen wissen, dass unsere Branche gerade einen durchgreifenden Wandel erlebt. Wenn Sie den überstehen wollen, müssen Sie Tonfilme drehen, und das ist ein teures Vergnügen. Nur wenige Produktionsfirmen sind so finanzkräftig wie die große Ufa. Die meisten sind kleine kreative Betriebe, die <strong>sich</strong> von einer Produktion zu nächsten <strong>hangeln</strong> ..." (<i>Der stumme Tod</i>, 77-78)',	
+],
+'spendabel, spendable': [  
+	'<strong>spendabel</strong>: generous, open-handed'+
+	'<br><strong>spendable</strong>: "Bei <i>spendabel</i> fällt, wenn es dekliniert oder gesteigert'+
+	'<br>&nbsp;&nbsp;&nbsp;wird, das <i><strong>e</strong></i> in der Endung gewöhnlich weg: <i>eine spendable Person,'+
+	'<br>&nbsp;&nbsp;&nbsp;du warst früher viel spendabler, das ist ein spendables Angebot</i>."'+
+	'<br>&nbsp;&nbsp;&nbsp;(Duden, <u>Sprachliche Zweifelsfälle</u>, 9. Auflage, Seite 875)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spendabel"target="target1">spendabel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spendabel"target="target2">spendabel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spendabel"target="target3">spendabel</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spendabel"target="target4">spendabel</a>',
+	'<u>Der nasse Fisch</u>',    
+	'Bevor er (<i>Rath</i>) zum Auto zurückging, schloss er sich in einer Kabine der Bahnhofstoilette ein. Er hatte nicht viel Übung in der Einnahme von Kokain. Die Nacht im Venuskeller, er versuchte sich zu erinnern. Der <strong>spendable</strong> Oppenberg. Die nymphomanische Vivian. (<i>Der nasse Fisch</i>, 480)',	
+	'<u>Der stumme Tod</u>',    
+	'"Vor allem", sagte der Produzent (<i>Oppenberg</i>).. "sollten Sie (<i>Rath</i>) sich hier nicht so aufführen, wo ich Ihnen gegenüber schon einmal so <strong>spendabel</strong> war. Ich denke, selbst wenn Sie damals privatim unterwegs waren, werden Ihre Vorgesetzten es nicht gerne hören, dass Sie Kokain schnupfen!" (<i>Der stumme Tod</i>, 77)',	
+// continue: 131 and 391
+	'<u>Märzgefallene</u>',    
+	'"Sie erlauben?", fragte Achim von Roddeck und entnahm einem silbernen wappengeschmückten Zigarettenetui eine Manoli. Rath nickte, schob einen Aschenbecher über den Tisch und zückte sein Feuerzeug. Der Freiherr machte keinerlei Anstalten, sich mit seinen Zigaretten <strong>spendabel</strong> zu zeigen, so fischte Rath sein eigenes, wappenloses Etui aus dem Jackett. (<i>Märzgefallene</i>, 131)',
+	'Die Sache mit Felix jedoch lief nicht so, wie Hannah sich das gewünscht hätte. Zwar teilte er seine Bleibe mit ihr und zeigte sich auch sonst recht <strong>spendabel</strong>, aber des Nachts wollte er eine Gegenleistung für seine Freigiebigkeit, und Hannah war nicht bereit, ihm diese zu gewähren. (<i>Märzgefallene</i>, 391)',
+	'Hier am Görlitzer Bahnhof war nicht viel zu holen. Wenig Leute mit Geld in den Taschen... Aber an einem Tag wie heute, an dem die Sonne schien, konnte man nie wissen. Gutes Wetter machte gute Laune, und gute Laune machte die Menschen <strong>spendabler</strong>. (<i>Märzgefallene</i>, 396)',
+],
+'anbinden, kurz angebunden': [  
+	'<strong>anbinden</strong>: tether, fasten, fix, bind, tie'+
+	'<br><strong>kurz angebunden</strong>: snippy, curt, short'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anbinden"target="target1">anbinden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kurz%20angebunden"target="target2">kurz angebunden</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anbinden"target="target3">anbinden</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kurz-angebunden"target="target4">kurz angebunden</a>',
+	'<u>Der stumme Tod</u>',
+	'"Mein lieber Freund", sagte er und schüttelte Rath die Hand. "Sie sind es! Was kann ich für Sie tun?" Rath blieb <strong>kurz angebunden</strong>. Bloß nicht einwickeln lassen von dem Filmfritzen. "Es geht um Mord", sagte er, und Oppenbergs Lächeln wurde zu Eis. (<i>Der stumme Tod</i>, 75)',	
+	'<u>Lunapark</u>',   
+	'Charly drehte sich in die andere Richtung, blieb eine Weile vor dem Schaufenster des Kolonialwarenladens stehen und betrachtete die Auslagen. Ein verstohlener Blick zeigte ihr, dass die SA immer noch in ihre Richtung marschierte. Kurzerhand <strong>band</strong> sie Kirie draußen <strong>an</strong> und stieg die drei Stufen zum Laden hinauf. (<i>Lunapark</i>, 115)',	
+	'"Na, was ist?", sagte er (<i>Gereon</i>) zu Kirie, die schwanzwedelnd auf die Aschinger-Tüte starrte. "Verabschiede dich von deinen Freunden!" Der Hund gehorchte und ließ ein Bellen hören. Die <strong>angebundene</strong> Meute (<i>andere Hunde</i>) antwortete mit einem kleinen Kläffkonzert, das sich steigerte, als Rath eine Boulette aus der Papiertüte holte und Kirie zuwarf. (<i>Lunapark</i>, 341)',
+	'Sie (<i>Elisabeth Spindler</i>) warf einen Blick auf ihren Sohn, bevor sie weitersprach. "Es war vor seches, sieben Wochen ungefähr. Pastor Lichtenberg war ungewohnt <strong>kurz angebunden</strong>. Er bat mich, nach der Beichte ins Hedwigkrankenhaus zu kommen. Unverzüglich. (<i>Lunapark</i>, 435)',
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 000)',
+],
+'kurz angebunden, anbinden': [  
+	'<strong>anbinden</strong>: tether, fasten, fix, bind, tie'+
+	'<br><strong>kurz angebunden</strong>: snippy, curt, short'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anbinden"target="target1">anbinden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kurz%20angebunden"target="target2">kurz angebunden</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anbinden"target="target3">anbinden</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kurz-angebunden"target="target4">kurz angebunden</a>',
+	'<u>Der stumme Tod</u>',
+	'"Mein lieber Freund", sagte er und schüttelte Rath die Hand. "Sie sind es! Was kann ich für Sie tun?" Rath blieb <strong>kurz angebunden</strong>. Bloß nicht einwickeln lassen von dem Filmfritzen. "Es geht um Mord", sagte er, und Oppenbergs Lächeln wurde zu Eis. (<i>Der stumme Tod</i>, 75)',	
+	'<u>Lunapark</u>',   
+	'Charly drehte sich in die andere Richtung, blieb eine Weile vor dem Schaufenster des Kolonialwarenladens stehen und betrachtete die Auslagen. Ein verstohlener Blick zeigte ihr, dass die SA immer noch in ihre Richtung marschierte. Kurzerhand <strong>band</strong> sie Kirie draußen <strong>an</strong> und stieg die drei Stufen zum Laden hinauf. (<i>Lunapark</i>, 115)',	
+	'"Na, was ist?", sagte er (<i>Gereon</i>) zu Kirie, die schwanzwedelnd auf die Aschinger-Tüte starrte. "Verabschiede dich von deinen Freunden!" Der Hund gehorchte und ließ ein Bellen hören. Die <strong>angebundene</strong> Meute (<i>andere Hunde</i>) antwortete mit einem kleinen Kläffkonzert, das sich steigerte, als Rath eine Boulette aus der Papiertüte holte und Kirie zuwarf. (<i>Lunapark</i>, 341)',
+	'Sie (<i>Elisabeth Spindler</i>) warf einen Blick auf ihren Sohn, bevor sie weitersprach. "Es war vor seches, sieben Wochen ungefähr. Pastor Lichtenberg war ungewohnt <strong>kurz angebunden</strong>. Er bat mich, nach der Beichte ins Hedwigkrankenhaus zu kommen. Unverzüglich. (<i>Lunapark</i>, 435)',
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 000)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ausfransen: [  
 	'<strong>ausfransen</strong>: fray, frazzle, unravel'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausfransen"target="target1">ausfransen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausfransen"target="target2">ausfransen</a>'+
@@ -1131,6 +1185,7 @@ Fritze: [
  	'"Ein Unfall", sagte er (<i>Rath</i>). "Hört sich ja spannend an. Was für ein Atelier war das gleich noch?" <i>Böhm</i>: "Terra. Film<strong>fritzen</strong>. Irgendjemand vom Gerüst gefallen oder so..." (<i>Der stumme Tod</i>, 19)',
  	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten... "Haben wir den Film<strong>fritzen</strong> jetzt gratis den Boden geputzt?", schimpfte ein EDler. (<i>Der stumme Tod</i>, 34)',
 	'Als Bellmann mitten im Satz abbrach und sich von den Journalisten abwandte, ein Taschentuch vorm Gesicht, da hätte Rath am liebsten <i>Scheiße</i> gerufen. Was für eine Schmierenkomödie! Und die Kriminalbeamten Rath und Gräf als Laiendarsteller und Stichwortgeber mit auf dem Podium. Noch einmal würde er sich von diesen Film<strong>fritzen</strong> nicht einseifen lassen, das hatte Rath sich geschworen. (<i>Der stumme Tod</i>, 40)',
+	'"Mein lieber Freund", sagte er und schüttelte Rath die Hand. "Sie sind es! Was kann ich für Sie tun?" Rath blieb kurz angebunden. Bloß nicht einwickeln lassen von dem Film<strong>fritzen</strong>. "Es geht um Mord", sagte er, und Oppenbergs Lächeln wurde zu Eis. (<i>Der stumme Tod</i>, 75)',	
 	//	'<u>Märzgefallene</u>',    
 //	'<u>Lunapark</u>',   
 //	'<u>Marlow</u>',
@@ -3539,12 +3594,14 @@ Depp: [
 //	'<u>Lunapark</u>',   
 ],
 einschleusen: [  
-	'<strong>einschleusen</strong>: infiltrate, introduce, smuggle in'+
+	'<strong>einschleusen</strong>: infiltrate, smuggle in'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einschleusen"target="target1">einschleusen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einschleusen"target="target2">einschleusen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einschleusen"target="target3">einschleusen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einschleusen&id=verb%3Aeinschleusen"target="target4">einschleusen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Vitali Pjotrewitsch Selenskij wohnte am Luisenufer!.. Jetzt war Rath sicher, dass die Muskelrussen zu Kardakow und zur <i>Roten Festung</i> gehörten. Wahrscheinlich seine Leibwächter. Und einer abkommandiert zum Schutz der Freundin des Chefs, unter dem Allerweltsnamen Müller in deren Mietshaus <strong>eingeschleust</strong>. (<i>Der nasse Fisch</i>, 351)',   
 	'Die Politische Polizei hatte Stephan Jänicke rekrutiert, als der noch gar nicht in der Inspektion E arbeitete. Und das konnte nur eines bedeuten: Sie hatten einen strebsamen und fähigen Polizeischüler ausgesucht und ihn ganz bewusst in die Inspektion E <strong>eingeschleust</strong>. (<i>Der nasse Fisch</i>, 385)',
+	'<u>Der stumme Tod</u>',
+	'Rath entschloss sich zum Frontalangriff. "Herr Oppenberg, lassen wir das Versteckspiel, lassen Sie mich offen sprechen: Sie haben Felix Krempin unter falschem Namen bei Ihrem Konkurrenten Bellmann <strong>eingeschleust</strong>. Und dort hat er einen Unfall ausgelöst, der Betty Winter das Leben gekostet hat." (<i>Der stumme Tod</i>, 78-77)',
 	//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Das Leben Ihres Bruders ist auch gefährdet. Ich bin Juristin, habe sogar als Polizistin gearbeitet..." Helmut Reinhold schaute sie an. "Hab vor einem Jahr schon gekündigt. Wollen Sie mein Entlassungsurkunde sehen?" <i>Reinhold</i>: "Was nützt das? Was meinen Sie wie viele Spitzel heute mit falschen Papieren irgendwo <strong>eingeschleust</strong> werden. Oder aus wie vielen einst aufrechten Roten die Geheime Staatspolizei Spitzel gemacht hat?" (<i>Lunapark</i>, 104)', 
@@ -5784,7 +5841,8 @@ anheuern: [
 //	'<u>Der nasse Fisch</u>',
 	'<u>Der stumme Tod</u>',
 	'Mord als ultimatives Mittel der Sabotage, das schien Rath denn doch ein wenig hoch gegriffen, aber er konnte die Wut des Filmproduzenten (<i>Bellmann</i>) verstehen. Es musste einen Grund geben, dass Krempin unter falschem Namen bei der La Belle <strong>angeheuert</strong> hatte. Der Mann was eine Sache für die Fahndung. (<i>Der stumme Tod</i>, 58)',
-//	'<u>Märzgefallene</u>',
+	'Oppenberg zündete sich eine neue Zigarette an. Er nahm einen tiefen Zug, bevor er begann. "In einem haben Sie (<i>Rath</i>) recht: Felix Krempin hat tatsächlich in meinem Auftrag bei Bellmann <strong>angeheuert</strong>. Aber niemals ging es um Sabotage oder gar um Mord! Lassen Sie mich kurz erklären..." (<i>Der stumme Tod</i>, 77)',
+	//	'<u>Märzgefallene</u>',
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Es war deine (<i>Gereons</i>) Idee, dass ich da (in <i>Haus Vaterland</i>) als Küchenhilfe <strong>anheuern</strong> sollte, wenn ich dich daran erinnern darf. Und Herr Husen ist Kellner im <i>Vaterland</i>. Hat mir damals wichtige Hinweise gegeben." (<i>Lunapark</i>, 160)',
 ],
@@ -10833,6 +10891,7 @@ Gelände:[
 	'<u>Der stumme Tod</u>', 
 	'Eine lange Backsteinmauer säumte das <strong>Gelände</strong>. (<i>Der stumme Tod</i>, 22)',  
 	'Er (<i>Rath</i>) parkte den Buick an der Stahnsdorfer Straße und schaute sich um. Der Eingang zum Film<strong>gelände</strong> sah aus wie der zu einer Fabrik, flankiert von zwei Torhäusern mit Pförtnerloge, gesichert durch eine Schranke... Rath fragte nach dem Weg. Der Pförtner zeigte irgendwo ins <strong>Gelände</strong>. (<i>Der stumme Tod</i>, 73)',
+	'Der Produzent (<i>Oppenberg</i>) warf einen Seitenblick auf den Wachmann, der betont unbeteiligt in der Gegend herumglotzte, und nahm Rath beiseite. "Kommen Sie, lassen Sie uns die Sache irgendwo besprechen, wo wir ungestört sind. Ich habe hier auf dem <strong>Gelände</strong> zwar kein Büro, aber wir können da hinten in die Maske gehen, da haben wir Ruhe." (<i>Der stumme Tod</i>, 75)',
 	'<u>Märzgefallene</u>',
 	'Der gepflasterte Weg, auf dem sie (<i>Felix und Hannah</i>) stehengeblieben waren, sah aus wie eine Mischung aus Fabrik<strong>gelände</strong> und Hinterhof.... (<i>Märzgefallene</i>, 394)',
 	'Schilder warnten davor, das <strong>Gelände</strong> zu betreten. (<i>Märzgefallene</i>, 601-602)',
@@ -11040,6 +11099,8 @@ giggeln: [
 	'<u>Der nasse Fisch</u>',
 	'"Ach", meinte er (<i>Rath</i>) und drehte sich noch einmal zu Schäffner um. Der Hauswart <strong>glotzte</strong> durch den Türspalt wie ein Kaninchen durch das Maschendraht. (<i>Der nasse Fisch</i>, 466)',
 	'Die beiden SA-Männer stiefelten zu dem ersten Waggon. Schäffner öffnete eilfertig den Riegel and schob die schwere Tür beiseite. Dann <strong>glotzte</strong> er in den Wagen, als habe er ein Gespenst gesehen. (<i>Der nasse Fisch</i>, 523)',
+	'<u>Der stumme Tod</u>',
+	'Der Produzent (<i>Oppenberg</i>) warf einen Seitenblick auf den Wachmann, der betont unbeteiligt in der Gegend <strong>herumglotzte</strong>, und nahm Rath beiseite. "Kommen Sie, lassen Sie uns die Sache irgendwo besprechen, wo wir ungestört sind. (<i>Der stumme Tod</i>, 75)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Dieser Herr heißt nicht Isidor, sondern Doktor Bernhard Weiß und ist der beste Polizeibeamte, den Berlin jemals hatte." Rath schaute Weiß an. Dem schien die forsche Art der Kommissaranwärterin zu gefallen. Trotz der Beleidigung, die er eben hatte hören müssen, spielte ein Schmunzeln um seine Mundwinkel. Die Braunhemden ihrerseits waren so perplex, dass sie nichts sagten, sondern nur <strong>glozten</strong>. (<i>Märzgefallene</i>, 200)',
 	'Charly konnte es nicht glauben, als sie das Gesicht sah, doch es gab keinen Zweifel: Sie kannte den Mann, der da in die Kamera <strong>glotzte</strong>, als sei er betrunken. (<i>Märzgefallene</i>, 450)',
@@ -11056,6 +11117,8 @@ giggeln: [
 	'<u>Der nasse Fisch</u>',
 	'"Ach", meinte er (<i>Rath</i>) und drehte sich noch einmal zu Schäffner um. Der Hauswart <strong>glotzte</strong> durch den Türspalt wie ein Kaninchen durch das Maschendraht. (<i>Der nasse Fisch</i>, 466)',
 	'Die beiden SA-Männer stiefelten zu dem ersten Waggon. Schäffner öffnete eilfertig den Riegel and schob die schwere Tür beiseite. Dann <strong>glotzte</strong> er in den Wagen, als habe er ein Gespenst gesehen. (<i>Der nasse Fisch</i>, 523)',
+	'<u>Der stumme Tod</u>',
+	'Der Produzent (<i>Oppenberg</i>) warf einen Seitenblick auf den Wachmann, der betont unbeteiligt in der Gegend <strong>herumglotzte</strong>, und nahm Rath beiseite. "Kommen Sie, lassen Sie uns die Sache irgendwo besprechen, wo wir ungestört sind. (<i>Der stumme Tod</i>, 75)',
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Dieser Herr heißt nicht Isidor, sondern Doktor Bernhard Weiß und ist der beste Polizeibeamte, den Berlin jemals hatte." Rath schaute Weiß an. Dem schien die forsche Art der Kommissaranwärterin zu gefallen. Trotz der Beleidigung, die er eben hatte hören müssen, spielte ein Schmunzeln um seine Mundwinkel. Die Braunhemden ihrerseits waren so perplex, dass sie nichts sagten, sondern nur <strong>glozten</strong>. (<i>Märzgefallene</i>, 200)',
 	'Charly konnte es nicht glauben, als sie das Gesicht sah, doch es gab keinen Zweifel: Sie kannte den Mann, der da in die Kamera <strong>glotzte</strong>, als sei er betrunken. (<i>Märzgefallene</i>, 450)',
@@ -19858,6 +19921,7 @@ Wappen: [
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Wappen"target="target1">Wappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wappen"target="target2">Wappen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wappen?q=Wappen"target="target3">Wappen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wappen"target="target4">Wappen</a>',
 	'<u>Märzgefallene</u>',
+	'"Sie erlauben?", fragte Achim von Roddeck und entnahm einem silbernen <strong>wappen</strong>geschmückten Zigarettenetui eine Manoli. Rath nickte, schob einen Aschenbecher über den Tisch und zückte sein Feuerzeug. Der Freiherr machte keinerlei Anstalten, sich mit seinen Zigaretten spendabel zu zeigen, so fischte Rath sein eigenes, <strong>wappen</strong>loses Etui aus dem Jackett. (<i>Märzgefallene</i>, 131)',
 	'Roddeck inhalierte tief... als er das Zigarettenetui zuklappte und wieder einsteckte. Das <strong>Wappen</strong> auf dem silbernen Deckel zeigte eine Axt, gekreuzt mit einem Schwert, und ein paar andere Symbole, die Rath nicht identifizieren konnte. (<i>Märzgefallene</i>, 131)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 

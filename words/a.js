@@ -48,7 +48,8 @@ const a = [
 	'an der Backe haben',  
 	'an die große Glocke hängen',   
 	'anbändeln',    // anbändeln:  
-	'Anbiederung', // Anbiederung:  
+	'Anbiederung', // Anbiederung:
+	'anbinden, kurz angebunden',   // duplicated  
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    // anbrechen:  
 	'andrehen',   // andrehen: 

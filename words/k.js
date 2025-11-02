@@ -146,6 +146,7 @@ const k = [
    'Kuppe',  // Kuppe:   
    'Kuppel',  // Kuppel: 
    'kurbeln', // kurbeln: 
+   'kurz angebunden, anbinden',  // duplicated
    'kuscheln', // kuscheln: 
    'kuschen',  // kuschen: 
    'Kuvert',  // Kuvert:

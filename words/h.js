@@ -18,6 +18,7 @@ const h = [
    'Handwerk legen',   
    'handzahm, zahm', //  duplicated 
    'hanebüchen',  // hanebüchen: 
+   'hangeln',  // hangeln:
    'hapern',  // hapern: 
    'Happen, Häppchen',     
    'harren',  // harren: 

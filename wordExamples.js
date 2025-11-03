@@ -29,9 +29,9 @@ zzz: [
 	'<u>Marlow</u>',  
 	'   (<i>Marlow</i>, 000)',
 ],
+*/
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-*/
 hangeln: [  
 	'(sich) <strong>hangeln</strong>: climb/work/swing along sth. with one’s hands'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hangeln"target="target1">hangeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hangeln"target="target2">hangeln</a>'+
@@ -1196,6 +1196,7 @@ Fritze: [
  	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten... "Haben wir den Film<strong>fritzen</strong> jetzt gratis den Boden geputzt?", schimpfte ein EDler. (<i>Der stumme Tod</i>, 34)',
 	'Als Bellmann mitten im Satz abbrach und sich von den Journalisten abwandte, ein Taschentuch vorm Gesicht, da hätte Rath am liebsten <i>Scheiße</i> gerufen. Was für eine Schmierenkomödie! Und die Kriminalbeamten Rath und Gräf als Laiendarsteller und Stichwortgeber mit auf dem Podium. Noch einmal würde er sich von diesen Film<strong>fritzen</strong> nicht einseifen lassen, das hatte Rath sich geschworen. (<i>Der stumme Tod</i>, 40)',
 	'"Mein lieber Freund", sagte er und schüttelte Rath die Hand. "Sie sind es! Was kann ich für Sie tun?" Rath blieb kurz angebunden. Bloß nicht einwickeln lassen von dem Film<strong>fritzen</strong>. "Es geht um Mord", sagte er, und Oppenbergs Lächeln wurde zu Eis. (<i>Der stumme Tod</i>, 75)',	
+	'<i>Gräf zu Rath</i>: "Apropos Laufarbeit: Henning und Czerwinski sind immer noch draußen bei den Film<strong>fritzen</strong>. Lassen sich Zeit, wie immer." (<i>Der stumme Tod</i>, 83)',	
 	//	'<u>Märzgefallene</u>',    
 //	'<u>Lunapark</u>',   
 //	'<u>Marlow</u>',
@@ -2216,6 +2217,8 @@ durchbrennen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/durchbrennen"target="target3">durchbrennen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/durchbrennen"target="target4">durchbrennen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Rath dachte kurz nach. "Vielleicht hat Kardakow Sie einfach hinters Licht geführt", meinte er. "Stellt Ihnen einen Chemiezug hin und will selbst mit dem Gold <strong>durchbrennen</strong>." (<i>Der nasse Fisch</i>, 460)',   
+	'<u>Der stumme Tod</u>',
+	'Rath musste an Bellmanns Foto denken: Krempin neben Betty Winter. Ob es das Hobby des gut aussehenden Mannes war, Filmsternchen aufzureißen? Vielleicht war er ja mit Vivian Franck <strong>durchgebrannt</strong> und untergetaucht. (<i>Der stumme Tod</i>, 81)',   
 ],
 Fusel: [  
 	'der <strong>Fusel</strong>,-: cheap booze, hooch, rotgut'+
@@ -4398,7 +4401,7 @@ aufbrummen: [
 	'<u>Lunapark</u>', 
 	'<i>Rath</i>: "Was meinen Sie, Marlow, wie lange Sie mich noch mit dem Tod von Josef Wilczek unter Druck setzen können, mit dem angeblichen Augenzeugen? Gibt es den überhaupt?.. Und meinen Sie nicht", fuhr Rath fort, "ich könnte in einem solchen Fall auch Sie belasten? Glauben Sie im Ernst, man würde Ihnen dann weniger Jahre <strong>aufbrummen</strong> als mir?" (<i>Lunapark</i>, 357)',  
 	'<u>Marlow</u>', 
-	'Czerwinski hatte gestern zwar eifrig mit dem Sicherheitsdienst telefoniert, dabei aber nicht einmal Brunners private Lebensumstände in Erfahrung gebracht. Stattdessen saß er nun den ganzen Morgen schon im Prinz-Albrecth-Palais. Der SS war es durchaus zuzutrauen, einem Kriminalbeamten telefonishe Auskünfte zu verweigern und ihn stattdessn herzuzitieren, andererseits hatte Umstandskrämerei bei Czerwinski System: Warum eine Arbeit schnell erledigen, wenn das nur hieß, dass man gleich die nächste <strong>aufgebrummt</strong> bekam? Nach dieser Maxime handelte er. Und gestern hatte Rath dem Eicken verdammt viel <strong>aufgebrummt</strong>. (<i>Marlow</i>, 99)',
+	'Czerwinski hatte gestern zwar eifrig mit dem Sicherheitsdienst telefoniert, dabei aber nicht einmal Brunners private Lebensumstände in Erfahrung gebracht. Stattdessen saß er nun den ganzen Morgen schon im Prinz-Albrecth-Palais. Der SS war es durchaus zuzutrauen, einem Kriminalbeamten telefonishe Auskünfte zu verweigern und ihn stattdessn herzuzitieren, andererseits hatte Umstandskrämerei bei Czerwinski System: Warum eine Arbeit schnell erledigen, wenn das nur hieß, dass man gleich die nächste <strong>aufgebrummt</strong> bekam? Nach dieser Maxime handelte er. Und gestern hatte Rath dem Dicken verdammt viel <strong>aufgebrummt</strong>. (<i>Marlow</i>, 99)',
 ],
 Schlendrian: [
 	'der <strong>Schlendrian</strong>: laziness, dawdling, jog trot'+
@@ -4499,6 +4502,8 @@ Lastkahn: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kotze"target="target4">Kotze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kotzen"target="target5">kotzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ankotzen"target="target5">ankotzen</a>',
 	'<u>Der nasse Fisch</u>',   
 	'"Ich hoffe, Sie haben das Finale gerade nicht fotografiert"", sagte er (<i>Rath</i>) zu dem bleichen Mann. "Nee, ich war mit <strong>Kotzen</strong> beschäftigt", sagte Gräf. Rath bot ihm eine Overstolz an, und der Krimialassistent griff diesmal tatsächlich zu. (<i>Der nasse Fisch</i>, 528)',
+	'<u>Der stumme Tod</u>',   
+	'"Du (<i>Rath</i>) benutzt so ziemlich dieselben Worte wie Doktor Schwartz", sagte Gräf. "Aber mit Verlaub: Ich finde euren Zynismus reichlich unangebracht. Wir reden von einem tragischen Todesfall." <i>Rath</i>: "Das machen die vielen Dienstjahre. Lässt sich nicht vermeiden. Wenn dir in der Gerichtsmedizin mal nicht mehr schlecht wird, dann ist es bei dir auch so weit." "Danke. Dann <strong>kotze</strong> ich lieber", sagte Gräf. (<i>Der stumme Tod</i>, 82)',
 	'<u>Lunapark</u>', 
 	'"Damals konnte ja auch kein Mensch ahnen, dass Hindenburg einen böhmischen Gefreiten zum Kanzler machen würde." Guido Scherer hob die Schultern, als müsse er sich entschuldigen. "Aber sieh es doch mal so: Lieber das kleinere Übel als..." <i>Charly</i>: "Hör mir auf mit kleineren oder größeren Übeln! Sonst wird mir nämlich übel. Und ich möchte nicht auf deinen schönen neuen Teppich <strong>kotzen</strong>!" (<i>Lunapark</i>, 351)',  
 	'Die Tablette schien zu wirken, Rath fühlte sich schon besser. Er winkte den Schupo herbei, dem er vorhin beinahe vor die Füße <strong>gekotzt</strong> hätte, und ließ den Mann Bericht erstatten. (<i>Lunapark</i>, 383-84)', 
@@ -6858,6 +6863,8 @@ abklappern: [
 	'Er (<i>Rath</i>) hoffte, die beiden Experten aus der Mordinspektion mit dem <strong>Abkappern</strong> der Wohnblöcke möglichst lange möglichst sinnlos zu beschäftigen. (<i>Der nasse Fisch</i>, 292)',
 	'Er hatte seine Leute eingeteilt. Czerwinski und Henning trieben sich immer noch im Stralauer Viertel herum und <strong>klapperten</strong> die Mietskasernen rund um die Baustelle <strong>ab</strong>. (<i>Der nasse Fisch</i>, 299)',
 	'Kein Wunder, dass er (<i>Rath</i>) müde war, der Nachmittag hatte sich nach dem Besuch im Passamt noch ganz schön in die Länge gezogen. Es hatte gedauert, bis Rath alle sechs Namen auf seiner Liste <strong>abgeklappert</strong> hatte. (<i>Der nasse Fisch</i>, 353)',
+	'<u>Der stumme Tod</u>',
+	'<i>Oppenberg</i>: "Dienstag wäre ihr erster Drehtag gewesen, und sie (<i>Vivian</i>) ist nicht erschienen." <i>Rath</i>: "Haben Sie denn schon selbst nach ihr gesucht?" "Natürlich. Ich lauf doch nicht gleich zur Polizei!" "Und?" "Wir haben alles <strong>abgeklappert</strong>, sämtliche Verwandte und Bekannte, sämtliche Bars und Restaurants, in denen sie verkehrt. Nichts..." (<i>Der stumme Tod</i>, 79)',
 	'<u>Märzgefallene</u>',
 	'"Strausberger Straße?", fragte Gereon. Gräf nickte...."Zur schlesischen Olga." <i>Gereon</i>: "Hört sich nicht gerade amtlich an." <i>Gräf</i>: "Die städtischen Asyle habe ich alle schon <strong>abgeklappert</strong>." <i>Gereon</i>: "Also ein privates Asyl." <i>Gräf</i>: "Wenn man so will." (<i>Märzgefallene</i>, 121)',
 	'<i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch...". <i>Levetzow, der Polizeipräsident</i>: "Dann fühlen Sie weiter! <strong>Klappern</strong> Sie sämtliche Personen <strong>ab</strong>, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!...." (<i>Märzgefallene</i>, 358)',
@@ -7045,6 +7052,8 @@ anblaffen: [
 	'<strong>anblaffen</strong>: snap, bark at so.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anblaffen"target="target1">anblaffen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anblaffen"target="target2">anblaffen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anblaffen"target="target3">anblaffen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/anblaffen"target="target4">anblaffen</a>',
+	'<u>Der stumme Tod</u>',
+	'Er (<i>Rath</i>) legte auf und schob das Telefon über den Tisch zurück zu Oppenbergs Blondine. Die ließ sich beim Tippen nicht stören. "Danke", sagte er. Die Schreibmaschine hämmerte weiter. "Könnte ich Ihnen noch ein paar Fragen stellen?" Das Hämmern hörte auf. "Woher soll ick wissen, was Sie alles können?" Wollte sie flirten? Oder <strong>blaffte</strong> sie ihn einfach an? Rath konnte den Berliner Umgangston auch nach fast einem Jahr immer noch nicht richtig einordnen. (<i>Der stumme Tod</i>, 83)',
 	'<u>Märzgefallene</u>',
 	'<i>Engel</i>: "Wollen Sie mir erklären, was Krieg ist, Soldat? Führen Sie meinen Befehl aus! Schaffen Sie die Leichen fort!" <i>Wegener, der Rekrut</i>: "Ich kann das nicht! Das muß man doch melden, das muß untersucht werden!" "Beruhigen Sie sich, Mann!", <strong>blafft</strong> Hauptmann Engel den Rekruten <strong>an</strong>, "Sie sind ja völlig hysterisch!" (<i>Märzgefallene</i>, 169)',
 	'Er (<i>Gereon</i>) hatte Gräf unverhältnismäßig scharf <strong>angeblafft</strong> und bereute es sogleich.   (<i>Märzgefallene</i>, 261)',
@@ -7533,6 +7542,7 @@ auflauern: [
 	'<i>ein Reporter</i>: "Herr Kommissar, vor über einer Woche hat man uns an dieser Stelle Fotos von einem verstümmelten toten Mann gezeigt, den die Polizei aus dem Landwehrkanal gezogen hat. Wir haben die Fotos brav veröffentlicht, nun haben wir ein Recht darauf, über den Fortgang der Ermittlungen informiert zu werden.".. Sie (<i>die Reporter</i>) <strong>schaukelten sich</strong> wieder hoch. Rath hob beschwichtigend die Hand. (<i>Der nasse Fisch</i>, 309)',
 	'<u>Der stumme Tod</u>',
 	'Rath hielt sich an der <strong>schaukelnden</strong> Bühne fest, und sofort verkrampften sich seine schweißnassen Hände wieder. Ihm war flau im Magen, Hans Lüdenback dagegen stand so sicher an dem schwankenden Geländer wie ein Steuermann bei schwerer See. (<i>Der stumme Tod</i>, 32)',
+	'Als Rath in den Kleiderschrank schaute, klapperte es hölzern, die meisten Bügel <strong>schaukelten</strong> leer auf der Stange. Auch die Schubladen in der Kommode waren bis auf wenige Reste ausgeräumt. Krempin hatte in aller Ruhe gepackt, bevor er verschwunden war. (<i>Der stumme Tod</i>, 86)',
 	'<u>Märzgefallene</u>',
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die kahlen Kronen <strong>schaukeln</strong>. (<i>Märzgefallene</i>, 39)',
 	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>... (<i>Märzgefallene</i>, 46)',
@@ -7555,6 +7565,7 @@ auflauern: [
 	'<i>ein Reporter</i>: "Herr Kommissar, vor über einer Woche hat man uns an dieser Stelle Fotos von einem verstümmelten toten Mann gezeigt, den die Polizei aus dem Landwehrkanal gezogen hat. Wir haben die Fotos brav veröffentlicht, nun haben wir ein Recht darauf, über den Fortgang der Ermittlungen informiert zu werden.".. Sie (<i>die Reporter</i>) <strong>schaukelten sich</strong> wieder hoch. Rath hob beschwichtigend die Hand. (<i>Der nasse Fisch</i>, 309)',
 	'<u>Der stumme Tod</u>',
 	'Rath hielt sich an der <strong>schaukelnden</strong> Bühne fest, und sofort verkrampften sich seine schweißnassen Hände wieder. Ihm war flau im Magen, Hans Lüdenback dagegen stand so sicher an dem schwankenden Geländer wie ein Steuermann bei schwerer See. (<i>Der stumme Tod</i>, 32)',
+	'Als Rath in den Kleiderschrank schaute, klapperte es hölzern, die meisten Bügel <strong>schaukelten</strong> leer auf der Stange. Auch die Schubladen in der Kommode waren bis auf wenige Reste ausgeräumt. Krempin hatte in aller Ruhe gepackt, bevor er verschwunden war. (<i>Der stumme Tod</i>, 86)',
 	'<u>Märzgefallene</u>',
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die kahlen Kronen <strong>schaukeln</strong>. (<i>Märzgefallene</i>, 39)',
 	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>... (<i>Märzgefallene</i>, 46)',
@@ -8917,6 +8928,8 @@ Dietrich: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dietrich"target="target3">Dietrich</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dietrich"target="target4">Dietrich</a>',
 	'<u>Der nasse Fisch</u>',
 	'Ein kräftiger Tritt hätte gereicht, um die klapprige Tür in den Raum fliegen zu lassen, doch Wolter schob den Bereitschaftsführer beiseite. Rath sah, wie der Onkel einen <strong>Dietrich</strong> aus der Manteltasche zog und sich am Schloss zu schaffen machte. (<i>Der nasse Fisch</i>, 18-19)',
+	'<u>Der stumme Tod</u>',
+	'Rath hatte noch nicht viel Übung mit dem <strong>Dietrich</strong> und brauchte etwas länger, bis er das Schloss geknackt hatte. (<i>Der stumme Tod</i>, 85)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -9805,6 +9818,7 @@ fleddern: [
 	'<i>Gräfin Sorokina</i>: "Und dafür soll ich Ihnen dankbar sein?" <i>Rath</i>: "Es reicht, wenn Sie mir nicht länger mit der Pistole vor der Nase herum<strong>fuchteln</strong>." (<i>Der nasse Fisch</i>, 533)',	
 	'<u>Der stumme Tod</u>',
 	'<i>Rath</i>: "Ich glaube, den (<i>Victor Meisner</i>) kenn ich." Gräf hob die Augenbrauen. "Du gehst als doch ins Kino?" "Hab ihn mal in \'nem Kriminalfilm gesehen. Hat dauernd mit einer Knarre rum<strong>gefuchtelt</strong> und irgendwelche Frauen gerettet." (<i>Der stumme Tod</i>, 25)',
+	'Die Blondine telefonierte auch dieses Mal, as Rath die Büroräume in der Kantstraße betrat. Die Personalakte Krempin lag schon auf dem Schreibtisch, die Sekretärin <strong>fuchtelte<strong> wild mit dem Zeigefinger. (<i>Der stumme Tod</i>, 80)',
 	'<u>Märzgefallene</u>',
 	'Aus den verschwommenen Lichtschlieren löste sich der große Schatten von Huckebein, und sie (<i>Hannah</i>) sah ihn herum<strong>fuchteln</strong>, als wolle er einen unsichtbaren Schwarm bösartiger Wespen vertreiben. (<i>Märzgefallene</i>, 401)',
 	'Da stand er und <strong>fuchtelte</strong> mit einer Knarre rum... Achim von Roddeck guckte wie er immer schon geguckt hatte, wenn er mit einer Situation überfordert war. (<i>Märzgefallene</i>, 570)',
@@ -12787,6 +12801,7 @@ klappern: [
 	'In der Tür <strong>klapperte</strong> Geschirr, Tretschkow kam mit einem kleinen Tablett zurück, auf dem zwei Teetassen dampften. (<i>Der nasse Fisch</i>, 312)',
 	'<u>Der stumme Tod</u>',
 	'"Mit Fräulein Preußner habe ich schon gesprochen." Engelbert Rath deutete mit dem Kopf zur Küche, in der Kathi immer noch mit dem Geschirr <strong>klapperte</strong>. (<i>Der stumme Tod</i>, 44)',
+	'Als Rath in den Kleiderschrank schaute, <strong>klapperte</strong> es hölzern, die meisten Bügel schaukelten leer auf der Stange. Auch die Schubladen in der Kommode waren bis auf wenige Reste ausgeräumt. Krempin hatte in aller Ruhe gepackt, bevor er verschwunden war. (<i>Der stumme Tod</i>, 86)',
 	'<u>Märzgefallene</u>',
 	'In der Küche zischte irgendetwas, und Charly verschwand so schnell, wie sie erschienen war. Rath hörte Töpfe <strong>klappern</strong> und leises Fluchen. Er beschloss, besser nicht zu stören, und ging direkt ins Wohnzimmer. (<i>Märzgefallene</i>, 101-102)',
 	'In der Küche <strong>klapperte</strong> Geschirr. (<i>Märzgefallene</i>, 103)',
@@ -17554,6 +17569,8 @@ Stange: [
 	'Rath schaute den Dicken (<i>Kioskbetreiber</i>) an, der gerade damit beschäftigt war, eine <strong>Stange</strong> Juno (<i>Zigaretten</i>) aufzureißen, und mit dem Papier kämpfte... "Ist aber versetzt worden", meldete sich der Mann im Kiosk und hielt ihr (<i>Charly</i>) eine Sechserpackung Juno hin. "Wird hier selten gekauft", murmelte er entschuldigend, drehte sich auf seinem Stuhl nach hinten und begann, die übrigen Packungen aus der <strong>Stange</strong> im Regal zu verstauen. (<i>Der nasse Fisch</i>, 118-19)',
 	'<i>Charly</i>: "..Er (<i>der Tote im Landwehrkanal</i>) war schon acht bis zehn Stunden tot, als das Auto mit ihm in den Kanal fuhr. Jemand hat das Gaspedal mit einer Metall<strong>stange</strong> fixiert. Kurioserweise mit der Lenk<strong>stange</strong> eines Opels. (<i>Der nasse Fisch</i>, 187)',
 	'Zwei von Marlows Leuten hatten den defekten Kesselwagen von der anderen Seite erklommen und versuchten, das zerschossene Ventil mit einer Eisen<strong>stange</strong> wieder zu schließen. (<i>Der nasse Fisch</i>, 526)',
+	'<u>Der stumme Tod</u>',
+	'Als Rath in den Kleiderschrank schaute, klapperte es hölzern, die meisten Bügel schaukelten leer auf der <strong>Stange</strong>. Auch die Schubladen in der Kommode waren bis auf wenige Reste ausgeräumt. Krempin hatte in aller Ruhe gepackt, bevor er verschwunden war. (<i>Der stumme Tod</i>, 86)',
 	'<u>Goldstein</u>',
 	'Wenigstens hingen keine Kleiderbügel an der <strong>Stange</strong>. (<i>Goldstein</i>, 9)',
 	'<u>Märzgefallene</u>',

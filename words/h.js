@@ -33,8 +33,7 @@ const h = [
    'Hecke', // Hecke: 
    'Heckenschütze',  // Heckenschütze:  
    'Heft des Handelns nehmen',  
-   'heften, abheften, Hefter', // triplicated 
-   'Hefter, abheften, heften', // triplicated 
+   'heften, abheften, Hefter', // duplicated
    'hegen',  // hegen:  
    'Hehler', // Hehler:  
    'Heidenarbeit', // Heidenarbeit:  

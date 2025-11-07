@@ -49,6 +49,7 @@ const v = [
    'verpfeifen',  // verpfeifen: 
    'verplappern', // verplappern:   
    'verplempern',  // verplempern: 
+   'verpönen, verpönt', 
    'verputzen',  // verputzen: 
    'verquirlen', // verquirlen 
    'verrammeln',  // verrammeln:  
@@ -107,14 +108,14 @@ const v = [
    'verunglimpfen',  // verunglimpfen:  
    'verunzieren',  // verunzieren:  
    'verwackeln, wackeln', // duplicated
-   'Verwahrlosung, verwahrlosen', // 
-   'verwaisen, verwaist', //  
+   'Verwahrlosung, verwahrlosen',  
+   'verwaisen, verwaist',   
    'verweben, weben', // duplicated
    'verwegen',  // verwegen:  
    'verwesen, Verwesung', //  
    'verwetten',  // verwetten: 
    'verwittern', // verwittern:  
-   'verwuscheln, verwuschelt', // 
+   'verwuscheln, verwuschelt',  
    'verwüsten',  // verwüsten:
    'verzieren', // verzieren:  
    'verzückt', // verzückt:  

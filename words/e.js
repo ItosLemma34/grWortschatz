@@ -3,7 +3,7 @@ const e = [
    'echoen',  // echoen: 
    'Ei (wie aus dem Ei gepellt)', //  duplicated  
    'einbetonieren', // einbetonieren:  
-   'einbläuen',  // einbläuen:  
+   'einbleuen = einbläuen', 
    'einbrocken',  // einbrocken:  
    'einbuchten',  // einbuchten:  
    'eindösen, dösen', //   duplicated 

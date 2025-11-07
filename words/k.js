@@ -97,6 +97,7 @@ const k = [
    'Knüppel', // Knüppel: 
    'knurren',  // knurren:   
    'Köder',   // Köder: 
+   'Kommode', // Kommode:
   // 'Kontor',
    'Konterfei',  // Konterfei: 
    'Konzept (aus dem K. bringen)', // duplicated  

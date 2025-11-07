@@ -9,7 +9,7 @@ const a = [
 	'abgreifen, abgegriffen',
 	'abhalftern, abgehalftert',   
 //	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
-	'abheften, heften, Hefter', // triplicated 
+	'abheften, heften, Hefter', // duplicated 
 	'abkanzeln' , // abkanzeln:  
 	'abklappern', // abklappern: 
 	'abknallen',  // abknallen:  
@@ -23,6 +23,7 @@ const a = [
 	'abschaben, schaben',  // duplicated 
 	'Abschaum',  // Abschaum: 
 	'abschüssig',  // abschüssig: 
+	'abschweifen, schweifen',   // duplicated
 	'absegnen',  // absegnen: 
 	'abspecken',  // abspecken: 
 	'abspulen',   // abspulen:  

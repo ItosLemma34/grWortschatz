@@ -65,7 +65,8 @@ const s = [
    'Schleuse, schleusen',  
    'Schliche (auf die S. kommen)', //  duplicated 
    'Schliere, schlieren',  
-   'schliddern, schlittern',  
+   'schliddern, schlittern', 
+   'Schliff',  // Schliff: 
    'Schlips (auf den S. treten)', //  duplicated 
    'schluchzen' ,  // schluchzen: 
    'Schlucker (armer)', //  duplicated 
@@ -84,6 +85,7 @@ const s = [
    'Schmierfink', // Schmierfink: 
    'Schminke', // Schminke:  
    'schmissig', // schmissig: 
+   'schmollen',  // schmollen:
    'Schmonzette', // Schmonzette: 
    'schmoren' , // schmoren:  
    'schmökern', // schmökern: 
@@ -145,6 +147,7 @@ const s = [
    'schwanen', // schwanen:  
    'Schwanz einziehen/einkneifen', // 
    'Schwebebahn',  // Schwebebahn: 
+   'schweifen, abschweifen',  // duplicated
    'schwelgen', // schwelgen: 
    'Schwenker', // Schwenker: 
    'Schwerenöter',  // Schwerenöter: 

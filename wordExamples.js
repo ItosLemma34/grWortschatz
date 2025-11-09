@@ -45,6 +45,38 @@ zzz: [
 */
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      C Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+verseuchen: [  
+	'<strong>verseuchen</strong>: pollute, contaminate'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verseuchen"target="target1">verseuchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verseuchen"target="target2">verseuchen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/verseuchen"target="target3">verseuchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verseuchen&id=verb%3Averseuchen"target="target4">verseuchen</a>',
+	'<u>Märzgefallene</u>',    
+	'Wir sprengen Schienen, Brücken und Straßen, wir <strong>verseuchen</strong> Brunnen und versengen Felder, wir verarbeiten Obstbäume zu Kleinholz und lassen Chausseebäume quer über die Straßen stürzen, ja, wir roden und versengen ganze Wälder. (<i>Märzgefallene</i>, 160)',
+	'Dabei rede ich (<i>von Roddeck</i>) nicht von dem Spaß, den meine Männer sich daraus machen, ein feindliches Haus niederzureißen. Mag der gemeine Soldat Vergnügen beim Zerstören empfinden, beim Einreißen von Häusern und Sprengen von Brücken, so ist schon das <strong>Verseuchen</strong> von Brunnen ein Befehl, dem wir allein aus soldatischer Pflicht nachkommen. (<i>Märzgefallene</i>, 163)',
+	'<u>Marlow</u>',  
+	'Überhaupt fällt dir auf, dass es um die allgemeine Wehrmoral nicht mehr zum Besten bestellt ist. Die meisten Soldaten sind den Krieg leid; sie haben es satt, in den von Ratten und Läusen und Schimmel <strong>verseuchten</strong> und versifften Gräben zu hocken, sich in schöner Regelmäßigkeit mit Granaten zu beschießen oder mit Giftgas einnebeln zu lassen, sie haben es satt, in einem fort Angst um das eigene Leben zu haben, immer wieder Kameraden zu verlieren, ohne dass noch ein Sinn darin zu erkennen wäre. (<i>Marlow</i>, 162)',
+],
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      C Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+versifft: [  
+	'<strong>versifft</strong>: filthy'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versifft"target="target1">versifft</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versifft"target="target2">versifft</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/versifft"target="target3">versifft</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versifft&id=adjektiv%3Aversifft%23versifft"target="target4">versifft</a>',
+	'<u>Marlow</u>',  
+	'Überhaupt fällt dir auf, dass es um die allgemeine Wehrmoral nicht mehr zum Besten bestellt ist. Die meisten Soldaten sind den Krieg leid; sie haben es satt, in den von Ratten und Läusen und Schimmel verseuchten und <strong>versifften</strong> Gräben zu hocken, sich in schöner Regelmäßigkeit mit Granaten zu beschießen oder mit Giftgas einnebeln zu lassen, sie haben es satt, in einem fort Angst um das eigene Leben zu haben ... (<i>Marlow</i>, 162)',
+],
+einschärfen: [  
+	'jmdm. etwas <strong>einschärfen</strong>: inculcate so. with sth., impress sth. on so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einschaerfen"target="target1">einschärfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einsch%C3%A4rfen"target="target2">einschärfen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einscharfen"target="target3">einschärfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einsch%C3%A4rfen&id=verb%3Aeinscha3rfen"target="target4">einschärfen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Wolter hatte auf Ergebnisse gedrängt, weil die Zeit knapp wurde. "Wir müssen uns beeilen mit den Verhören", hatte er ihnen <strong>eingeschärft</strong>. "Die IA bracht morgen jede Menge Platz im Zellentrakt, am ersten Mai werden unsere Freunde nach Moabit verlegt, bis dahin sollten wir endlich etwas Verwertbares aus ihnen herausbekommen haben." (<i>Der nasse Fisch</i>, 51)',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 174, 296, 304, 358)',	
+	'<u>Lunapark</u>',
+	'Rath musste nicht lange überlegen, er tauschte die Magazine: Das volle aus seiner alten Walther PP, die er dem sterbenden Juretzka aus der Hand wand, gegen das aus Fritzes Pistole. "Bring sie dahin zurück, wo du sie herhast", hatte er ihm <strong>eingeschärft</strong>, "aus dieser Pistole ist nie geschossen worden." Der Junge nickte. (<i>Lunapark</i>, 538)',
+	'<u>Marlow</u>',  
+	'Du kannst schon gar nicht mehr zählen, wie oft du die gut 140 Kilometer nach Marlow gefahren bist... Du bist dennoch gefahren. Hast dem Jungen beigebracht, wie man eine Morphinspritze verabreicht, und ihm <strong>eingeschärft</strong>, wie wichtig, wie überlebenswichtig die richtige Dosierung ist. (<i>Marlow</i>, 161)',
+],
 'einbleuen = einbläuen': [  
 	'jmdm. etwas <strong>einbleuen/einbläuen</strong>: hammer/drum sth. into sb.'+
 	'<br><br><i>Die frühere orthografische Unterscheidung zwischen <strong>einbläuen</strong></i> ='+
@@ -53,12 +85,6 @@ zzz: [
 	'<br>einbläuen</i>.&nbsp;&nbsp;(Duden, <u>Sprachliche Zweifelsfälle</u>, 9. Auflage, Seite 23)'+
 	'<br><br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einblaeuen_einschaerfen"target="target1">einbläuen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einbl%C3%A4uen"target="target2">einbläuen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einblaeuen#einbl%C3%A4uen"target="target3">einbläuen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einbl%C3%A4uen&id=verb%3Aeinbla3uen"target="target4">einbläuen</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'   (<i>Der nasse Fisch</i>, 000)',
-//	'<u>Der stumme Tod</u>',
-//	'   (<i>Der stumme Tod</i>, 000)',	
-//	'<u>Märzgefallene</u>',    
-//	'   (<i>Märzgefallene</i>, 000)',
 	'<u>Lunapark</u>',   
 	'Der Morgen hatte bereits gegraut, die Vögel in den Bäumen.. zwitscherten, als er (<i>Rath</i>) an Fritzes Bett gesessen und ihm alles <strong>eingebläut</strong> hatte. (<i>Lunapark</i>, 539)',
 	'<u>Marlow</u>',  
@@ -3649,6 +3675,7 @@ Handlanger: [
 	'<i>Rath</i>: ".. Wie lief die Vernehmung? Hat Frau Lehmann ihren Mann identifiziert?" <i>Czerwinski</i>: "Hat sie." "Un die Zeugen?" "Kein neuer Sacherhalt, aber ein paar neue Einzelheiten. Die Voss hat schon angefangen, die Protokolle <strong>ins Reine</strong> zu tippen, müsste gleich fertig sein." (<i>Marlow</i>, 72)',
 	'Rath ging ins Vorzimmer. Seine Sekretärin war immer noch damit beschäftigt, die Vernehmungsprotokolle <strong>ins Reine</strong> zu tippen. (<i>Marlow</i>, 73)',
 	'Rath saß an seinem Schreibtisch und ertappte sich, wie er bereits die Stunden runterzählte. Und von den Stunden die Minuten. Erika Voss war dabei, die letzten Seiten der Akte Lehmann <strong>ins Reine</strong> zu tippen... (<i>Marlow</i>, 139)',
+	'Rath hatte Erika Voss noch das Gesprächsprotokoll <strong>ins Reine</strong> tippen und Friedrich Manske unterschreiben lassen, dann brav die Runde gemacht und jedem die Hand gegeben, aber er war schon gar nicht mehr bei der Sache, weil die Fragen in seinem Kopf ihm keine Ruhe ließen. (<i>Marlow</i>, 157)',
 ],
 'Reine (ins R.)': [  
 	'<strong>ins Reine</strong> schreiben/tippen: make a neat/fair copy'+
@@ -3665,6 +3692,7 @@ Handlanger: [
 	'<i>Rath</i>: ".. Wie lief die Vernehmung? Hat Frau Lehmann ihren Mann identifiziert?" <i>Czerwinski</i>: "Hat sie." "Un die Zeugen?" "Kein neuer Sacherhalt, aber ein paar neue Einzelheiten. Die Voss hat schon angefangen, die Protokolle <strong>ins Reine</strong> zu tippen, müsste gleich fertig sein." (<i>Marlow</i>, 72)',
 	'Rath ging ins Vorzimmer. Seine Sekretärin war immer noch damit beschäftigt, die Vernehmungsprotokolle <strong>ins Reine</strong> zu tippen. (<i>Marlow</i>, 73)',
 	'Rath saß an seinem Schreibtisch und ertappte sich, wie er bereits die Stunden runterzählte. Und von den Stunden die Minuten. Erika Voss war dabei, die letzten Seiten der Akte Lehmann <strong>ins Reine</strong> zu tippen... (<i>Marlow</i>, 139)',
+	'Rath hatte Erika Voss noch das Gesprächsprotokoll <strong>ins Reine</strong> tippen und Friedrich Manske unterschreiben lassen, dann brav die Runde gemacht und jedem die Hand gegeben, aber er war schon gar nicht mehr bei der Sache, weil die Fragen in seinem Kopf ihm keine Ruhe ließen. (<i>Marlow</i>, 157)',
 ],
 Trauerkloß: [  
 	'der <strong>Trauerkloß</strong>,-<strong>klöße</strong>: wet blanket, stick-in-the-mud, depressing person'+
@@ -5105,7 +5133,7 @@ ungesühnt: [
 	'<i>Reinhard Heydrich, Chef der Gestapo</i>: ".. Und genau dieses Kroppzeug.. fängt nun an, ohne jeden Respekt über die Staatspolizei und über die SS zu reden, die nicht einmal in der Lage sei, einen Mörder zu fangen, der ungestraft SA-Männer totschlägt." <i>Gräf</i>: "Das ist sehr bedauerlich, Standartenführer." "In der Tat! Unsere Behörde kann es sich nicht erlauben, diese Morde <strong>ungesühnt</strong> zu lassen, verstehen Sie das?" "Jawohl, Standartenführer!" (<i>Lunapark</i>, 309)',
 ],
 stutzig: [
-	'<strong>stutzig</strong>: puzzled, suspicious, perplexed'+
+	'<strong>stutzig</strong>: puzzled, amazed, perplexed'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stutzig"target="target1">stutzig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stutzig"target="target2">stutzig</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/stutzig"target="target3">stutzig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stutzig"target="target4">stutzig</a>',
 	'<u>Der nasse Fisch</u>',
@@ -5116,6 +5144,8 @@ stutzig: [
 	'Rath hatten die morgendlichen Ausflüge von Eva Heinen, gerade wegen ihrer Regelmäßkeit, irgendwann <strong>stutzig</strong> gemacht. Und genau aus diesem Grund war er hier. (<i>Märzgefallene</i>, 441)',   
 	'<u>Lunapark</u>',
 	'Er (<i>Rath</i>) fragte sich, warum der Name ihn so <strong>stutzig</strong> machte. Lunapark. Als habe er kürzlich noch damit zu tun gehabt. (<i>Lunapark</i>, 306)',   
+	'<u>Marlow</u>',
+	'Kurz darauf saß er mit dem Taxifahrer in Vernehmungsraum B... Eigentlich hatte Rath sich vorgenommen, den Mann nach einer kurzen Befragung auf dem schnellsten Wege wieder loszuwerden, doch dann wurde er <strong>stutzig</strong>, als Friedrich Manske nach Aufnahme der Personalien mit seiner Aussage begann. (<i>Marlow</i>, 149)',
 ],
 Gestrüpp: [
 	'das <strong>Gestrüpp</strong>,-<strong>e</strong>: bush, thicket, undergrowth, copse'+
@@ -5986,13 +6016,13 @@ anheuern: [
 	'<strong>anheuern</strong>: hire; sign on/up (for)'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anheuern"target="target1">anheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anheuern"target="target2">anheuern</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anheuern"target="target3">anheuern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anheuern"target="target4">anheuern</a>',
-//	'<u>Der nasse Fisch</u>',
 	'<u>Der stumme Tod</u>',
 	'Mord als ultimatives Mittel der Sabotage, das schien Rath denn doch ein wenig hoch gegriffen, aber er konnte die Wut des Filmproduzenten (<i>Bellmann</i>) verstehen. Es musste einen Grund geben, dass Krempin unter falschem Namen bei der La Belle <strong>angeheuert</strong> hatte. Der Mann was eine Sache für die Fahndung. (<i>Der stumme Tod</i>, 58)',
 	'Oppenberg zündete sich eine neue Zigarette an. Er nahm einen tiefen Zug, bevor er begann. "In einem haben Sie (<i>Rath</i>) recht: Felix Krempin hat tatsächlich in meinem Auftrag bei Bellmann <strong>angeheuert</strong>. Aber niemals ging es um Sabotage oder gar um Mord! Lassen Sie mich kurz erklären..." (<i>Der stumme Tod</i>, 77)',
-	//	'<u>Märzgefallene</u>',
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Es war deine (<i>Gereons</i>) Idee, dass ich da (in <i>Haus Vaterland</i>) als Küchenhilfe <strong>anheuern</strong> sollte, wenn ich dich daran erinnern darf. Und Herr Husen ist Kellner im <i>Vaterland</i>. Hat mir damals wichtige Hinweise gegeben." (<i>Lunapark</i>, 160)',
+	'<u>Marlow</u>',
+	'"Wer zum Teufel sind Sie?", fragte Martha Döring. "Und wer zum Teufel soll mich verfolgen? Ich bin doch keine Spionin!" <i>Charly</i>: "Ein Mann im hellen Trenchcoat und dunklem Hut beschattet Sie. Wahrscheinlich ein Privatdetektiv. Und mit hundertprozentiger Sicherheit von Ihrem Mann <strong>angeheuert</strong>." (<i>Marlow</i>, 153)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -7154,6 +7184,7 @@ abwimmeln: [
 	'Rechts neben dem Wrack lagen zwei Leichen auf dem Asphalt, bedeckt von Leinentüchern. Vier, fünf Schupos sicherten die Unfallstele, <strong>wimmelten</strong> Neugierige <strong>ab</strong>, leiteten den Verkehr um und lotsten Fußgänger auf die andere Straßenseite. (<i>Marlow</i>, 27)',
 	'Dieser Bürokrat jedoch hörte sich Raths Ausführungen mit stoischem Gleichmut an und sagte dann nur: "Ich werde sehen, was sich in Ihrer Angelegenheit machen lässt." Sein "Nehmen Sie doch bitte Platz, Oberkommissar Rath", mit dem er den Bittsteller endgültig <strong>abwimmelte</strong>, klang so, als seien Nachname und Dienstrang schon die ersten Einträge in jener Akte, die der SD nun über den Kriminalbeamten Rath anzulegen gedenke. (<i>Marlow</i>, 118)',
 	'Das Telefonklingen unterbrach seine Gedanken. Er (<i>Rath</i>) hob ab. Es war Erika Voss. "Ich habe Wilhelm Böhm in der Leitung, Oberkommissar. Lässt sich nicht <strong>abwimmeln</strong>." (<i>Marlow</i>, 129)',
+	'Kurz darauf saß er mit dem Taxifahrer in Vernehmungsraum B... Eigentlich hatte Rath sich vorgenommen, den Mann nach einer kurzen Befragung auf dem schnellsten Wege wieder loszuwerden, doch dann wurde er stutzig, als Friedrich Manske nach Aufnahme der Personalien mit seiner Aussage begann. "Otto (<i>Lehmann</i>) hatte uns doch jebeten, den Kerl (<i>Gerhard Brunner</i>) <strong>abzuwimmeln</strong>. Wollte den Fahrjast unbedingt für sich." (<i>Marlow</i>, 149)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß   „ “      ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß   „ “    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -11322,6 +11353,8 @@ gluckern: [
 	'Sie (<i>Charly</i>) sprach einen der Blauen an und zückte ihren Dienstausweis. <i>der Schupo</i>: "Sind Se von der Fahndung? Die haben uns vorjestern schon Löcher in den Bauch jefragt. Jefunden haben se det <strong>Gör</strong> (<i>Hannah</i>) aber ooch nich." (<i>Märzgefallene</i>, 295-96)',
 	'Er hatte die <strong>Göre</strong> genau gesehen am Banhof Zoo, jedes einzelne Kleidungsstück, das sie trug, hatte sich ihm eingeprägt. Und so beschrieb er sie auch. Vergaß nicht darauf hinzuweisen, das es sich bei Hannah Singer um eine gefährliche Irre handelte. (<i>Märzgefallene</i>, 379)',
 	'Er (<i>Huckebein</i>) hatte sie (<i>Hannah</i>) in die Ecke gedrängt. In seiner Rechten hielt er den langen Dolch, mit dem er vor den Krähen immer geprahlt hatte... "Da guckste, was, blödes <strong>Gör</strong>? Noch mal entkommste mir nicht." (<i>Märzgefallene</i>, 399)',
+	'<u>Marlow</u>',
+	'<i>Rath</i>: "Wissen Sie denn, wo die Ärmsten (<i>Frau Lehmann und Kinder</i>) untergekommen sind?" Der Nachbarin war das nur ein Achselzucken wert. "Ne.. Aber Se sind doch \'n Kriminaler, vielleicht fraaren Se mal bei der Firma Hertling nach." "Hat Frau Lehmann da gearbeitet?" "Arbeiten? Mit drei <strong>Gören</strong>?" Sie schüttelte den Kopf, als sei Rath nicht ganz bei Trost. (<i>Marlow</i>, 158)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 /// <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -12051,6 +12084,8 @@ huschen: [
 	'<u>Märzgefallene</u>',
 	'Er (<i>Paul</i>) schlug Rath auf die Schulter. "Lass dir das Nasenfahrad da <strong>in drei Teufels Namen</strong> einpacken.  Und dann gehen wir zu mir und wühlen uns durch die Karnevalskisten." (<i>Märzgefallene</i>, 20)',
 	'<i>Rath</i>: "Ich bin Polizist, ich muss von jeder Möglichkeit ausgehen, auch von den unwahrscheinlichen." <i>Walter Engel</i>: "Dann stellen Sie <strong>in drei Teufels Namen</strong> Ihre Fragen...." (<i>Märzgefallene</i>, 376-77)',
+	'<u>Marlow</u>',
+	'<i>Charly</i>: "Frau Döring, steigen Sie ein. Schnell! Wir müssen hier weg, Sie werden bereits verfolgt." Uwillkürlich schaute Martha Döring sich um. "Wie?", fragte sie ungläubig. "Ich erkläre Ihnen alles, aber steigen Sie <strong>in drei Teufels Namen</strong> ein!" (<i>Marlow</i>, 152-53)',
 ],
 'Teufel (in drei T. Namen)': [
 	'<strong>in drei Teufels Namen</strong>: for heaven\'s sake; who\\what\\how the hell'+
@@ -12059,6 +12094,8 @@ huschen: [
 	'<u>Märzgefallene</u>',
 	'Er (<i>Paul</i>) schlug Rath auf die Schulter. "Lass dir das Nasenfahrad da <strong>in drei Teufels Namen</strong> einpacken.  Und dann gehen wir zu mir und wühlen uns durch die Karnevalskisten." (<i>Märzgefallene</i>, 20)',
 	'<i>Rath</i>: "Ich bin Polizist, ich muss von jeder Möglichkeit ausgehen, auch von den unwahrscheinlichen." <i>Walter Engel</i>: "Dann stellen Sie <strong>in drei Teufels Namen</strong> Ihre Fragen...." (<i>Märzgefallene</i>, 376-77)',
+	'<u>Marlow</u>',
+	'<i>Charly</i>: "Frau Döring, steigen Sie ein. Schnell! Wir müssen hier weg, Sie werden bereits verfolgt." Uwillkürlich schaute Martha Döring sich um. "Wie?", fragte sie ungläubig. "Ich erkläre Ihnen alles, aber steigen Sie <strong>in drei Teufels Namen</strong> ein!" (<i>Marlow</i>, 152-53)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -13151,6 +13188,7 @@ Kloß: [
 	'<u>Marlow</u>',
 	'Bei der Verabschiedung in Berlin vor zwei Wochen hatte er (<i>Fritze</i>) einen <strong>Kloß</strong> im Hals gehabt, aber geweint hatte er nicht. Obwohl ihm danach zumute war. (<i>Marlow</i>, 53)',
 	'... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den <strong>Kloß</strong> in seinem Hals runterzuwürgen, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)', 
+	'"Wo sind..." Rath räusperte sich. Er hatte einen <strong>Kloß</strong> im Hals und fühlte sich unbehaglich, als sei er persönlich für das Schicksal der Familie Lehmann verantwortlich. "Wissen Sie denn, wo die Ärmsten untergekommen sind?" (<i>Marlow</i>, 158)',
 ], 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
@@ -13222,6 +13260,7 @@ knurren: [
 	'<u>Marlow</u>', 
 	'Obwohl Wilhelm Böhm ganz offensichtlich ein Anliegen hatte, klang seine Stimme so brummig wie eh und je. Der Mann konnte einfach nicht anders, selbst wenn er freundlich sein wollte. "Gut, dass ich Sie erreiche, Rath", <strong>knurrte</strong> er in den Hörer. (<i>Marlow</i>, 129)',
 	'<i>Rath zu Böhm</i>: "Na gut", <strong>knurrte</strong> er. "Ich werde mal schauen, was sich machen lässt." "Danke." Böhm klang ehrlich erleichtert. Und nicht so, als sei er gerade durch eine niederträchtige Erpressung ans Ziel gelangt. (<i>Marlow</i>, 131)',
+	'"Ich weiß, wo die Bismarckstraße ist", <strong>knurrte</strong> Rath. "Ich wohne da in der Gegend." (<i>Marlow</i>, 158)',
 ],
 köpfen: [
 	'<strong>köpfen</strong>: behead; open (eine Flasche)'+
@@ -15388,14 +15427,29 @@ Rauflust: [
 	'<u>Lunapark</u>',
 	'Osterbergs Fahrer (<i>Schulze</i>) blieb ruhig. Er öffnete die Tür und stieg aus. "Schulze hört sich nicht besonders jüdisch an", sagte der Rottenführer, dem die <strong>Rauflust</strong> geradezu aus den Augen sprang. "Ich bin katholisch", sagte Schulze mit leiser Stimme. (<i>Lunapark</i>, 10)',  
 ], 
-rupfen: [
+'rupfen, Hühnchen rupfen': [
 	'<strong>rupfen</strong>: pluck, pull out'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rupfen_entfernen_zupfen_ziehen"target="target1">rupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rupfen"target="target2">rupfen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rupfen"target="target3">rupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rupfen"target="target4">rupfen</a>',
+	'<br>mit jmdm. ein <strong>Hühnchen rupfen</strong>: have an axe to grind, pick a bone, settle a score with so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rupfen_entfernen_zupfen_ziehen"target="target1">rupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rupfen"target="target2">rupfen</a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=vBW53ozc7A4"target="target3">Hühnchen rupfen (YouTube)</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rupfen"target="target4">rupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rupfen"target="target5">rupfen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ein+H%C3%BChnchen+rupfen"target="target6">Hühnchen rupfen</a>',
 	'<u>Der nasse Fisch</u>',
-	'Mit einem Ruck hatte er das Telefonkabel was der Wand <strong>gerupft</strong>. (<i>Der nasse Fisch</i>, 449)',	
+	'Mit einem Ruck hatte er das Telefonkabel aus der Wand <strong>gerupft</strong>. (<i>Der nasse Fisch</i>, 449)',	
 	'<u>Märzgefallene</u>',
 	'Er (<i>Grimberg</i>) <strong>rupfte</strong> die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen Krempel zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden. (<i>Märzgefallene</i>, 549)',  
+	'<u>Marlow</u>',
+	'Warum hatte der Taxifahrer den SS-Mann unbedingt in seine Droschke bekommen wollen? Nur mit ihm gegen eine Brückenwand zu fahren? War es Lehmanns Absicht, Brunner mit in den Tod zu reißen? Hatte er mit der SS noch ein <strong>Hühnchen zu rupfen</strong>?  (<i>Marlow</i>, 156)', 
+],
+'Hühnchen rupfen, rupfen': [
+	'<strong>rupfen</strong>: pluck, pull out'+
+	'<br>mit jmdm. ein <strong>Hühnchen rupfen</strong>: have an axe to grind, pick a bone, settle a score with so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rupfen_entfernen_zupfen_ziehen"target="target1">rupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rupfen"target="target2">rupfen</a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=vBW53ozc7A4"target="target3">Hühnchen rupfen (YouTube)</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rupfen"target="target4">rupfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rupfen"target="target5">rupfen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/ein+H%C3%BChnchen+rupfen"target="target6">Hühnchen rupfen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Mit einem Ruck hatte er das Telefonkabel aus der Wand <strong>gerupft</strong>. (<i>Der nasse Fisch</i>, 449)',	
+	'<u>Märzgefallene</u>',
+	'Er (<i>Grimberg</i>) <strong>rupfte</strong> die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen Krempel zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden. (<i>Märzgefallene</i>, 549)',  
+	'<u>Marlow</u>',
+	'Warum hatte der Taxifahrer den SS-Mann unbedingt in seine Droschke bekommen wollen? Nur mit ihm gegen eine Brückenwand zu fahren? War es Lehmanns Absicht, Brunner mit in den Tod zu reißen? Hatte er mit der SS noch ein <strong>Hühnchen zu rupfen</strong>?  (<i>Marlow</i>, 156)', 
 ],
 Rabe: [
 	'der <strong>Rabe</strong>,-<strong>n</strong>: raven'+
@@ -15415,7 +15469,7 @@ Reinfall: [
 	'Der Monokel-Mann setzte sich auf den Barhocker neben ihn (<i>Rath</i>), die Frau einen Platz weiter. Rath bestellte noch einen Americano. Für heute hatte er sich nach dem <strong>Reinfall</strong> am Sonntag eine andere Taktik überlegt. Und dafür war die Bar der richtige Ausgangspunkt. (<i>Der nasse Fisch</i>, 198)',
 	//	'<u>Märzgefallene</u>',   
 ],
-//<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//<strong> (<i>Charly</i>) (<i>Gereon</i>) Hündchen rupfen (<i>Rath</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Rummel: [
 	'der <strong>Rummel</strong>: commotion, hubbub; amusement park, fair'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rummel_Betriebsamkeit__Jahrmarkt"target="target1">Rummel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rummel"target="target2">Rummel</a>'+
@@ -16948,6 +17002,8 @@ schikanieren: [
 	'"Sie (<i>Böhm</i>) sollten hören, was Doktor Schwartz zu sagen hat", meinte Gennat, "schließlich geht es da um Ihren Fall." <i>Böhm</i>: "Ich glaube nicht, dass es meine Idee war, nach dem Mann zu fahnden, der da unten vor sich hin <strong>schimmelt</strong>!" (<i>Der nasse Fisch</i>, 411)',
 	'<u>Märzgefallene</u>',
 	'Als er (<i>Gräf</i>) die Kellertreppe zum zweiten Hinterhaus hinunterging, schlug ihm der beißende Geruch von <strong>Schimmel</strong> und Männerschweiß entgegen. (<i>Märzgefallene</i>, 122)',
+	'<u>Marlow</u>',  
+	'Überhaupt fällt dir auf, dass es um die allgemeine Wehrmoral nicht mehr zum Besten bestellt ist. Die meisten Soldaten sind den Krieg leid; sie haben es satt, in den von Ratten und Läusen und <strong>Schimmel</strong> verseuchten und versifften Gräben zu hocken, sich in schöner Regelmäßigkeit mit Granaten zu beschießen oder mit Giftgas einnebeln zu lassen ... (<i>Marlow</i>, 162)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -17104,6 +17160,7 @@ schluchzen: [
 	'<u>Marlow</u>',
 	'Dreimal hatte Rademann seinen Sohn gefragt, ob er wirklich aufgeben wolle. Zweimal hatte Atze sich wieder hochgerappelt, beim dritten Mal aber war er richtiggehend zusammengebrochen, hatte nur noch <strong>schluchzen</strong> können, jedoch keinen Schritt mehr gehen mit dem schweren Rucksack. (<i>Marlow</i>, 53)',
 	'Sie stockte und fasste sich mit der Linken an die Stirn. Für einen Moment befürchtete Rath, sie würde anfangen zu <strong>schluchzen</strong>, doch Irene Schmeling hatte sich im Griff. (<i>Marlow</i>, 144)',
+	'Plötzlich fing Martha Döring, die vor wenigen Minuten noch so stark und mutig gewirkt hatte, an zu <strong>schluchzen</strong> wie ein kleines Mädchen. "Das Leben ist aber auch so scheiße", schimpfte sie, und Charly erkannte, dass es Tränen der Wut waren. (<i>Marlow</i>, 154)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -17276,6 +17333,8 @@ schneidig: [
 	'<u>Lunapark</u>',
 	'Drei Feldjäger saßen in dem Hanomag Rekord (<i>ein Fahrzeug</i>), und einen davon kannte Rath. Walter Fritsch, SA-Standartenführer und Chef des SA-Feldjägerkorps. Der Mann, der ihn in der Papestraße aus Sperlings Büro geworfen hatte.. Der Mann trat genauso <strong>schneidig</strong> auf wie damals. (<i>Lunapark</i>, 139)',
 	'Den hartnäckigen Gerüchten, er sei ebenso wie SA-Stabschef Röhm homosexuell, versuchte Karl Ernst mit besonders <strong>schneidigem</strong> Auftreten entgegenzuwirken. (<i>Lunapark</i>, 258)',
+	'<u>Marlow</u>',
+	'Als er (<i>Rath</i>) in der Bahn saß, holte er die Fotos aus der Tasche und schaute sie lange an, als könnten sie allein durch Anstarren dazu bewegt werden, Antworten zu geben. Gerhard Brunner, einmal als <strong>schneidiger</strong> SS-Offizier, das andere Mal tot und im Sommeranzug. (<i>Marlow</i>, 156)',
 ],
 schnippisch: [
 	'<strong>schnippisch</strong>: cheeky, sassy, flippant'+
@@ -18279,6 +18338,7 @@ Tresen: [
 	'"Kommissar Rath ist im Dienst", hatte der Pförtner gesagt, und diese Antwort hatte Gräf noch wütender werden lassen. "Ist er eben nicht!", hatte er den Mann angefaucht, der hinter seinem <strong>Tresen</strong> zusammengezuckt war. (<i>Lunapark</i>, 404)',
 	'<u>Marlow</u>',
 	'Genau drei Zigaretten später - Rath war drauf und dran, sich den Bürokraten am Empfangs<strong>tresen</strong> noch einmal vorzunehmen und mit dem Polizeipräsidenten zu drohen - tat sich etwas. (<i>Marlow</i>, 118)',
+	'<i>Lieske, der Firma Hertling, zu Rath</i>: ".. Es ging doch um die Familie Lehmann, nicht wahr, Familie Otto Lehmann?" "Wobei Otto Lehmann leider nicht mehr unter uns weilt." "Das tut mir leid. Geht aber aus dem Terminkalender nicht hervor." Sie fuhr mit dem rechten Zeigefinger die Seite eines dicken Buches entlang, das aufgeschlagen auf einem Geschäfts<strong>tresen</strong> lag. "Lehmann, hier ist es. Ziemlich kleiner Auftrag. Und kurzfristig. Aber wie der Chef immer sagt: Kleinvieh macht auch Mist." (<i>Marlow</i>, 159)',
 ],  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 triezen: [
@@ -18356,6 +18416,8 @@ Tropf: [
 	'Kannst du kurz unterbrechen?", fragte Rath. Wolter.. ging mit Rath nach draußen. Der Onkel zog ihn in eine Nische.. "<strong>Bist</strong> du noch <strong>bei Trost</strong>?", zischte er, als sie unter sich waren. "Du kannst doch nicht einfach so in mein Büro stürmen und ein Verhör unterbrechen." (<i>Der nasse Fisch</i>, 266)',
 	'<u>Märzgefallene</u>',
 	'"Gibt es etwas Neues von Hannah Singer?", fragte Charly, als sie ihm (<i>Gereon</i>) den Salzstreuer reichte. "Wie?" Sie guckte ihn an, als sei er <strong>nicht</strong> ganz <strong>bei Trost</strong>. (<i>Märzgefallene</i>, 105)',
+	'<u>Marlow</u>',
+	'<i>Rath</i>: "Wissen Sie denn, wo die Ärmsten (<i>Frau Lehmann und Kinder</i>) untergekommen sind?" Der Nachbarin war das nur ein Achselzucken wert. "Ne.. Aber Se sind doch \'n Kriminaler, vielleicht fraaren Se mal bei der Firma Hertling nach." "Hat Frau Lehmann da gearbeitet?" "Arbeiten? Mit drei Gören?" Sie schüttelte den Kopf, als <strong>sei</strong> Rath <strong>nicht ganz bei Trost</strong>. (<i>Marlow</i>, 158)',
 ],
 'nicht bei Trost sein': [
 	'der <strong>Trost</strong>: comfort, consolation <br><strong>nicht bei Trost sein</strong>: be out of one\'s mind '+
@@ -18365,6 +18427,8 @@ Tropf: [
 	'Kannst du kurz unterbrechen?", fragte Rath. Wolter.. ging mit Rath nach draußen. Der Onkel zog ihn in eine Nische.. "<strong>Bist</strong> du noch <strong>bei Trost</strong>?", zischte er, als sie unter sich waren. "Du kannst doch nicht einfach so in mein Büro stürmen und ein Verhör unterbrechen." (<i>Der nasse Fisch</i>, 266)',
 	'<u>Märzgefallene</u>',
 	'"Gibt es etwas Neues von Hannah Singer?", fragte Charly, als sie ihm (<i>Gereon</i>) den Salzstreuer reichte. "Wie?" Sie guckte ihn an, als sei er <strong>nicht</strong> ganz <strong>bei Trost</strong>. (<i>Märzgefallene</i>, 105)',
+	'<u>Marlow</u>',
+	'<i>Rath</i>: "Wissen Sie denn, wo die Ärmsten (<i>Frau Lehmann und Kinder</i>) untergekommen sind?" Der Nachbarin war das nur ein Achselzucken wert. "Ne.. Aber Se sind doch \'n Kriminaler, vielleicht fraaren Se mal bei der Firma Hertling nach." "Hat Frau Lehmann da gearbeitet?" "Arbeiten? Mit drei Gören?" Sie schüttelte den Kopf, als <strong>sei</strong> Rath <strong>nicht ganz bei Trost</strong>. (<i>Marlow</i>, 158)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -18452,6 +18516,8 @@ tuscheln: [
 	'Er (<i>Leo Juretska</i>) hatte an der Litfaßsäule.. gestanden, nicht weit von Katsches Haus, und gewartet. Schon Mitternacht durch,.. da erschienen die andere (<i>seine kommunistischen Kollegen</i>) auf der Bildfläche, von der Ackerstraße her,.. wo Leo auf Katsche wartete, und er hatte sich hinter der Litfaßsäule versteckt und gehofft, die Kerle mochten so schnell als möglich weiterziehen. Doch sie waren stehen geblieben,.. hatten <strong>getuschelt</strong>, und als Leo einmal um die Säule lugte, sah er, dass sie zu pinseln begonnen hatten, ganz langsam und aufreizend. (<i>Lunapark</i>, 248)',
 	'"Also schön, meine Herren", sagte er (<i>Gräf</i>) dann in die Runde, "Sie kennen Ihre Aufgaben. Dann wollen wir mal." Die Männer begannen zu <strong>tuscheln</strong>, Stühle rückten. (<i>Lunapark</i>, 287)',
 	'Die meisten Menschen draußen auf der Straße.. waren stehen geblieben. Mehr oder weniger verstohlen schielten sie zu den Einsatzfahrzeugen und den beiden Schupos hinüber, die mit geladenen Karabinern neben der Einfahrt standen. Einige <strong>tuschelten</strong> miteinander, andere glotzten einfach nur. (<i>Lunapark</i>, 320)',
+	'<u>Marlow</u>',
+	'Charly zuckte die Achseln. "Wissen Sie, ich habe auch einmal mit einer Frau zusammengewohnt. Wir hatten keine Liebesbeziehung, Greta war meine beste Freundin, sonst nichts, und dennoch haben die Nachbarn <strong>getuschelt</strong>. Sollen Sie doch. Aber es waren längst nicht alle, den meisten waren wir einfach egal, die haben uns gar nicht wahrgenommen.  So ist das doch in einer Großstadt: die meisten lassen einen in Ruhe." (<i>Marlow</i>, 156)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -19321,6 +19387,8 @@ vergewissern: [
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) klingelte bei Adolf Weiß, und es dauerte eine ganze Weile, ehe ein Dienstmädchen ihr die Tür öffnete. Wahrscheinlich hatten sie <strong>sich</strong> erst einmal <strong>vergewissern</strong> müssen, dass da kein SA-Rollkommando vor der Tür stand, auf der Suche nach dem Bruder. (<i>Märzgefallene</i>, 281)',
 	'Achim von Roddeck ließ seinen Blick über die Wartenden schweifen... Dann stutzte er. Konnte das sein? Er glaubte, ein Gesicht erkannt zu haben, das er seit sechzehn Jahren nicht mehr gesehen hatte. Eine Hauptmannsuniform aus dem Weltkrieg. Hatte er gerade den Mann (<i>Engel</i>) gesehen, den sie seit Wochen aus der Reserve locken wollten?... Roddeck suchte weiter, fieberhaft, er musste <strong>sich vergewissern</strong>, dass er sich die Sache nicht nur einbildete. (<i>Märzgefallene</i>, 556-57)',
+	'<u>Marlow</u>',
+	'<i>Charly</i>: "Frau Döring, steigen Sie ein. Schnell! Wir müssen hier weg, Sie werden bereits verfolgt." Uwillkürlich schaute Martha Döring sich um. "Wie?", fragte sie ungläubig. "Ich erkläre Ihnen alles, aber steigen Sie in drei Teufels Namen ein!" Martha Döring <strong>vergewisserte sich</strong> mit einem Blick, dass außer Charly keine weiteren Menschen in dem Auto saßen, dann tat sie endlich wie geheißen. (<i>Marlow</i>, 152-53)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -19469,6 +19537,7 @@ verplempern: [
 	'Und dann dachte sie (<i>Charly</i>) an Karin van Almsick, die sie vorhin in der Burg mit einer fadenscheinigen Ausrede zurückgelassen hatte, und wusste wieder warum sie das tat: Um nicht den ganzen Tag mit sinnlosem Stumpfsinn zu <strong>verplempern</strong>. (<i>Märzgefallene</i>, 335)',
 	'<u>Marlow</u>',
 	'"Es geht um Otto Lehmann", meinte Rath. "Sie (<i>Doktor Wrede</i>) haben ihn behandelt?" "Ich muss gestehen, mir sagt der Name jetzt so direkt nichts..." <i>Na wunderbar</i>, dachte Rath. <i>Du <strong>verplemperst</strong> hier den halben Tag, und am Ende war Lehmann doch nicht beim Arzt. Wie du es Gennat schon gesagt hast.</i> (<i>Marlow</i>, 104)',
+	'<i>Charly zu Martha Döring</i>: "Ich erkläre Ihnen alles, aber steigen Sie in drei Teufels Namen ein!" Martha Döring vergewisserte sich mit einem Blick, dass außer Charly keine weiteren Menschen in dem Auto saßen, dann tat sie endlich wie geheißen... Im Rückspiegel erkannte sie (<i>Charly</i>), wie der Mann im Grabenmantel schneller wurde und nun keine Zeit mehr an irgendwelchen Schaufenstern <strong>verplemperte</strong>. Sie trat aufs Gas, und der Buick schoss auf den Fahrdamm. (<i>Marlow</i>, 152-53)',
 ],
 verrecken: [
 	'<strong>verrecken</strong>: die a miserable death'+
@@ -20701,12 +20770,19 @@ zechen: [
 	'<u>Der nasse Fisch</u>', 
 	'<i>die Witwe Behnke</i>: "Jedenfalls hat Ihr (<i>Raths</i>) Vormieter öfter mal für unruhige Nächte gesorgt... Da hat es in Ihrem Zimmer manchmal von Russen gewimmelt. Und immer haben sie bis tief in die Nacht <strong>gezecht</strong> und wurden dann laut." (<i>Der nasse Fisch</i>, 40)',
 ],
-züchtigen: [
+'züchtigen, züchtig': [
 	'<strong>züchtigen</strong>: beat, flog; punish, castigate'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuechtigen"target="target1">züchtigen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCchtigen"target="target2">züchtigen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuchtigen"target="target3">züchtigen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=z%C3%BCchtigen"target="target4">züchtigen</a>',
+	'<br><strong>züchtig</strong>: modest, chaste, virtuous, prim and proper'+
+	'<br><br>Note: <i><u>züchtigen</u> and <u>züchtig</u> seem to be unrelated.'+
+	'<br>But they derive from related historical origins:'+
+	'<br><u>Züchtigen</u>: the act of imparting discipline (often harshly)'+
+	'<br><u>züchtig</u>: having that discipline (being well-behaved, modest, virtuous)</i>'+
+	'<br><br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuechtigen"target="target1">züchtigen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCchtig"target="target2">züchtig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zuchtigen"target="target3">züchtigen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=z%C3%BCchtig"target="target4">züchtig</a>',
 	'<u>Märzgefallene</u>', 
 	'Der Schupo wirkte, als sei er drauf and dran, den Jungen (<i>Fritze</i>) wieder zu <strong>züchtigen</strong>, dann aber stoppte die Hand, die bereits ausgeholt hatte, und er beließ es bei einem Räuspern. "Entschuldigen Sie, aber wir hatten gedacht, der Bengel sei aus einem Heim ausgebüxt." (<i>Märzgefallene</i>, 352)',
+	'<u>Marlow</u>', 
+	'Die Geschäftsräume waren bereits geschlossen, er musste an die Fensterscheibe klopfen. Irgendwo hinten aus dem Halbdunkel kam eine junge Frau mit <strong>züchtig</strong> frisiertem Blondhaar, die neugierig nach draußen blickte, wo Rath seinen Dienstausweis gegen das Glas drückte. (<i>Marlow</i>, 159)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -21069,6 +21145,7 @@ zücken: [
 	'<u>Marlow</u>',
 	'"Einmal bitte", sagte Charly und <strong>zückte</strong> ihr Portemonnaie. "Einmal wat? Schwimmen"? Baden? Brausen?" (<i>Marlow</i>, 20)',   
 	'Er (<i>Rath</i>) <strong>zückte</strong> den Tintenkuli (<i>stylographic pen </i>), den Charly ihm zu Weihnachten geschenkt hatte, legte den neuen auf den alten Umschlag und wollte gerade ansetzen und die Anschrift kopieren, da nahm ihm ein Schatten das Licht, und der Schreck fuhr ihm in alle Glieder. (<i>Marlow</i>, 39)',
+	'<i>Rath zu Lieske, der Firma Hertling</i>: "Man verdient eben immer gerne mit, auch bei einer Zwangsräumung, nicht wahr?" Sie schaute ihn verständnislos an. "Zwangsräumung? Wer erzählt denn so was? Das war doch keine Zwangsräumung! Der Anruf kam von Frau Lehmann selbst."... "Also keine Zwangsräumung, wie auch immer", sagte er (<i>Rath</i>) und <strong>zückte</strong> Stift und Notizblock. "Ich höre." (<i>Marlow</i>, 159)', 
 ], 
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

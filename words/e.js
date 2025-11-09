@@ -35,6 +35,7 @@ const e = [
    'einrenken', // einrenken:      
    'einrüsten, Gerüst', // duplicated  
    'einsacken',  // einsacken: 
+   'einschärfen',  // einschärfen:
    'einschleusen',  //  einschleusen: 
    'einseifen',  // einseifen:  
    'einspannen, ausspannen', // duplicated  

@@ -51,7 +51,7 @@ const z = [
    'zu nahe treten',  // duplicated  
    'zu schade sein',  //  duplicated 
    'Zucht, züchten',   // 
-   'züchtigen',  // züchtigen: 
+   'züchtigen, züchtig',   
    'zücken',   // zücken:     
    'Zugehfrau',  // Zugehfrau: 
    'zügeln',   // zügeln: 

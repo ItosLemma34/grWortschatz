@@ -72,6 +72,7 @@ const h = [
    'Hosenmatz',  // Hosenmatz:  
    'Hosennaht',  // Hosennaht:  
    'Hudelei, Lobhudelei', //  duplicated 
+   'Hühnchen rupfen, rupfen',  // duplicated
    'Hühnerauge', // Hühnerauge: 
    'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  

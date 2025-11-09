@@ -62,7 +62,7 @@ const r = [
    'rümpfen', // rümpfen: 
    'rumsen',  // rumsen: 
    'rundmachen',  // rundmachen:
-   'rupfen', // rupfen: 
+   'rupfen, Hühnchen rupfen', // duplicated
    'Rüsche', // Rüsche: 
    'Ruß, verrußt',  // duplicated 
    'rüstig', // rüstig: 

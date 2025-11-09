@@ -87,10 +87,12 @@ const v = [
    'versehentlich',  // versehentlich:  
 //   'versehren',   need more past examples
    'versengen',  // versengen:  
+   'verseuchen', // verseuchen:
    'versickern',  // versickern: 
    'versieben',  // versieben:  check for other entries
    'versiegeln, Siegel', // duplicated 
-   'versiegen',   // versiegen:  
+   'versiegen',   // versiegen: 
+   'versifft',  // versifft: 
    'versprengen', // versprengen:   
    'verstauen',  // verstauen:  
    'versteifen', //  check for other entries  

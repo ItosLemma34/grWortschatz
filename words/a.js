@@ -29,6 +29,7 @@ const a = [
 	'abspulen',   // abspulen:  
 	'abstauben',  // abstauben: 
 	'abstottern', // abstottern: 
+	'abstumpfen',  // abstumpfen:
 	'abtrünnig',  // abtrünnig: 
 	'abtupfen, betupfen, T(t)upfen', // triplicated   
 	'abwiegeln',  // abwiegeln:      

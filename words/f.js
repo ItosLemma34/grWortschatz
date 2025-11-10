@@ -61,7 +61,8 @@ const f = [
    'Freiersfüße', // Freiersfüße: 
    'frequentieren',  // frequentieren:  
    'Frevel',    // Frevel:  
-   'frisieren',  // frisieren: 
+   'frisieren',  // frisieren:
+   'fristen',  // fristen: 
    'Fritze',  // Fritze:  
    'frösteln', // frösteln:  
    'Frotzelei, frotzeln',  //  

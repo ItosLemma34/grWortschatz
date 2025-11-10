@@ -44,6 +44,7 @@ const s = [
 //   'schimmern', // schimmern: 
    'schimmern, Schimmer, keinen S. haben', 
    'Schinder, schinden, geschunden',  // duplicated 
+   'Schippe (von der S. springen)',  // duplicated
    'schlabbern', // schlabbern: 
    'Schlacke',  // Schlacke: 
    'Schlagseite',  // Schlagseite: 
@@ -208,7 +209,7 @@ const s = [
    'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-   'Stich (einen Stich versetzen)',   
+   'Stich (einen S. versetzen)',   
    'Stiefel, stiefeln',  
    'stieren, anstieren',  // duplicated 
    'stöbern, aufstöbern',  // duplicated   
@@ -240,6 +241,7 @@ const s = [
 	'stülpen', // stülpen:  
    'Stummel',  // Stummel: 
    'Stümper, stümperhaft', // 
+   'Sturzbach',  // Sturzbach:
    'stutzig', // stutzig: 
    'süffisant',  // süffisant: 
    'summen, aufsummen', //  duplicated  

@@ -73,6 +73,7 @@ const v = [
    'Verschlag',   // Verschlag:  
    'verschleißen', // verschleißen:  check for other entries
    'verschmieren', // verschmieren: 
+   'verschmitzt',  // verschmitzt:
    'verschnörkelt, verschnörkeln', //  check for other entries
    'verschnupft',  // verschnupft:  
    'verschnüren',  // verschnüren:  
@@ -126,6 +127,7 @@ const v = [
    'vollsaugen', // vollsaugen:  
    'Vollwaise', // Vollwaise:  
    'von der Fahne gehen', //  duplicated 
+   'von der Schippe springen',  // duplicated
    'vor die Hunde gehen',  // duplicated 
    'vor Schmutz starren',  // duplicated with "starren"
    'vorbauen',  // vorbauen:

@@ -41,7 +41,6 @@ const s = [
    'Schilde (im S. führen)', //  duplicated  
    'Schimmel, (ver)schimmeln', // 
 //   'Schimmer (keinen blassen S.)', // 
-//   'schimmern', // schimmern: 
    'schimmern, Schimmer, keinen S. haben', 
    'Schinder, schinden, geschunden',  // duplicated 
    'Schippe (von der S. springen)',  // duplicated

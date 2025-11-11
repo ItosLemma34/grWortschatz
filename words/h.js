@@ -1,7 +1,7 @@
 const h = [
    'Habgier',  // Habgier: 
-  // 'Hacken (sich die H. ablaufen)' can't find Deutsche Definition
   // 'hacken, zerhacken',  EXPAND
+   'Hacke, hacken',  
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
    'haken, Haken, Haken schlagen',  

@@ -57,10 +57,13 @@ zzz: [
 	'<u>Marlow</u>',  
 	'"Der Junge (<i>Liang Kuen-Yao</i>) ist gut in der Schule", fährt sie (<i>Chen-Lu</i>) schließlich fort. "Auch in den Sprachen. Begabter als du (<i>Magnus/Marlow</i>)." Sie lächelt verschmitzt, kichert sogar ein heiseres Kichern, und es versetzt dir ein Stich. Du musst an ihren Unterricht in Tsingtau denken. Wo sie <strong>vergeblich</strong> versucht hat, dem Sohn des kaiserlichen Forstverwalters (<i>Friedrich Larsen</i>) Mandarin beizubringen. Eine <strong>Vergeblichkeit</strong>, die gewiss nicht ihr vorzuwerfen war. (<i>Marlow</i>, 164)',
 ], */
-Hacke: [  
+'Hacke, hacken': [  
 	'die <strong>Hacke</strong>,-<strong>n</strong>: hoe, pickaxe; heel'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Hacke"target="target2">Hacke</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target3">Hacke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hacke&id=substantiv%3AHacke"target="target4">Hacke</a>',
+	'<br><strong>hacken</strong>: hack, chop, hoe'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target3">Hacke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target4">hacken</a>',
+	'<u>Der nasse Fisch</u>',
+	'"Du wolltest mich sprechen?", fragte Weinert. "Hast du endlich was für mich?" Rath zündete sich eine Zigarette an bevor er antwortete.. "Nicht das, was du denkst." "Natürlich. Eine Krähe <strong>hackt</strong> der anderen kein Auge aus." (<i>Der nasse Fisch</i>, 538)',
 	'<u>Märzgefallene</u>',    
 	'Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <strong>Hacken</strong> zusammen. (<i>Märzgefallene</i>, 232)',                
 	'Nun hatte er (<i>Rath</i>) Adenauers Werk - oder eigentlich das von Hunderten arbeitslosen Männern, die hier mit <strong>Hacke</strong> und Schaufel angerückt waren - mit einem halben Jahr Verspätung doch noch eingeweiht. (<i>Märzgefallene</i>, 297)',
@@ -70,6 +73,8 @@ Hacke: [
 	'Und dass Gräf nun ein Staatspolizist war, schien von Vorteil, wenn es galt, widerspenstige Zeugen ein wenig einzuschüchtern. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <strong>Hacken</strong> zusammenschlug. (<i>Lunapark</i>, 33)',
 	'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, knallte die <strong>Hacken</strong> zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
 	'<u>Marlow</u>',  
+	'"Schließen Sie doch bitte die Tür, Wegener, und lassen uns allein"", sagte Sowa. Der Adjutant, oder was der Mensch, der Rath hergeführt hatte, sonst sein mochte, salutierte, schlug die <strong>Hacken</strong> zusammen und gehorchte. (<i>Marlow</i>, 121)',
+	'Rath wollte es gerade sagen, aber da klopfte es an der Tür und Scharführer Wegener kam herein und schlug die <strong>Hacken</strong> zusammen... Wegener schlug die <strong>Hacken</strong> ein zweites Mal zusammen und verschwand. (<i>Marlow</i>, 124-25)',
 	'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitz<strong>hacke</strong>, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
 ],
 Sturzbach: [  
@@ -6568,6 +6573,9 @@ ausschwärmen: [
 	'<i>Rath</i"Wenn ich einen Vorschlag machen darf, Kriminaldirektor: Wir sollten die ganze Sache zunächst nicht an die große Glocke hängen und den korrupten FJK-Offizier außen vor lassen. Lassen Sie mich ausreichend Beweise sammeln, die eine <strong>Aushebung</strong> rechtfertigen. Dann schlagen wir zu, ohne dem Maulwurf im FJK Gelegenheit zu geben, seinen Freund Lapke zu warnen. Der Rest wird sich dann schon finden." (<i>Lunapark</i>, 211)',
 	'"Kriminalpolizei", sagte er (<i>Rath</i>) in die plötzliche Stille. "Dies ist eine <strong>Aushebung</strong>! Ich nehme an, Sie wissen, was das bedeutet: Also nehme Sie bitte alle schön die Hände hoch und lassen Ihre Waffen stecken. Widerstand ist zwecklos. Weglaufen ebenso." (<i>Lunapark</i>, 218-19)',
 	'<i>Rath</i>: "Woher wussten Sie davon? Von unserem Schlag gegen Lapke?" <i>Marlow</i>: "Meinen Sie etwa, Sie wären mein einziger Informant am Alex?" "Ich bin nicht Ihr Informant." "Nein, Sie haben mir einen viel größeren Dienst erwiesen, Kommissar." "Ich habe überhaupt nichts <i>für</i> Sie getan. Ich habe ein Verbrechernest <strong>ausgehoben</strong>." (<i>Lunapark</i>, 240)',
+	'<u>Marlow</u>',
+	'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitzhacke, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben.. Einen halben Meter hast du bereits <strong>ausgehoben</strong>, da hörst du ein metallisch scharfes Geräusch und schaust auf. Da steht der Junge, am anderen Ende der noch flachen Zwei-Meter-Grube, und hat ebenfalls einen Spaten in den Boden gerammt. (<i>Marlow</i>, 167)',
+	'So grabt ihr (<i>Magnus/Marlow und Liang Kuen-Yao</i>) also beide, andächtig und schweigend. Nur das Geräusch eurer Spaten ist zu hören und gelegentlich der Wind, der sich im Wipfel der Ulme fängt. Als das Grab <strong>ausgehoben</strong> ist und ihr zurück in die Hütte geht, redet ihr immer noch nicht. Chen-Lus Leichnam ist bereits in ein schneeweißes sauberes Laken gewickelt. (<i>Marlow</i>, 167)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'auf dem Sprung': [ 
@@ -8427,7 +8435,7 @@ Brüstung: [
 	'Er (<i>Rath</i>) machte eine belanglose Bemerkung, aß einen Happen, trank einen Schluck, sagte wieder etwas Belangloses, aber nicht das, was er eigentlich sagen wollte. Als er sich den Mund <strong>abtupfte</strong>, die Serviette auf den Tisch legte und sich räusperte, wusste sie (<i>Charly</i>), das jetzt das kam, was er die ganze Zeit schon loswerden wollte. (<i>Lunapark</i>, 444)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel zwitscherten in den Bäumen, die Sonne malte hellgrün leuchtende <strong>Tupfen</strong> in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'<u>Marlow</u>',
-	'Du (<i>Marlow/Magnus</i>) ziehst eine Spritze auf und gibst sie ihr (<i>Chen-Lu</i>), so sanft wie möglich. "Noch eine", sagt sie, als du die Nadel aus ihrer Vene ziehst und die Wunde <strong>abtupfst</strong>. (<i>Marlow</i>, 166)',
+	'Du (<i>Magnus/Marlow</i>) ziehst eine Spritze auf und gibst sie ihr (<i>Chen-Lu</i>), so sanft wie möglich. "Noch eine", sagt sie, als du die Nadel aus ihrer Vene ziehst und die Wunde <strong>abtupfst</strong>. (<i>Marlow</i>, 166)',
 ],
 'T(t)upfen, abtupfen, betupfen': [ 
 	'<strong>tupfen</strong>: dab, swab, sponge'+
@@ -8452,7 +8460,7 @@ Brüstung: [
 	'Er (<i>Rath</i>) machte eine belanglose Bemerkung, aß einen Happen, trank einen Schluck, sagte wieder etwas Belangloses, aber nicht das, was er eigentlich sagen wollte. Als er sich den Mund <strong>abtupfte</strong>, die Serviette auf den Tisch legte und sich räusperte, wusste sie (<i>Charly</i>), das jetzt das kam, was er die ganze Zeit schon loswerden wollte. (<i>Lunapark</i>, 444)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel zwitscherten in den Bäumen, die Sonne malte hellgrün leuchtende <strong>Tupfen</strong> in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'<u>Marlow</u>',
-	'Du (<i>Marlow/Magnus</i>) ziehst eine Spritze auf und gibst sie ihr (<i>Chen-Lu</i>), so sanft wie möglich. "Noch eine", sagt sie, als du die Nadel aus ihrer Vene ziehst und die Wunde <strong>abtupfst</strong>. (<i>Marlow</i>, 166)',
+	'Du (<i>Magnus/Marlow</i>) ziehst eine Spritze auf und gibst sie ihr (<i>Chen-Lu</i>), so sanft wie möglich. "Noch eine", sagt sie, als du die Nadel aus ihrer Vene ziehst und die Wunde <strong>abtupfst</strong>. (<i>Marlow</i>, 166)',
 ],
 'abtupfen, betupfen, T(t)upfen': [ 
 	'<strong>tupfen</strong>: dab, swab, sponge'+
@@ -8477,7 +8485,7 @@ Brüstung: [
 	'Er (<i>Rath</i>) machte eine belanglose Bemerkung, aß einen Happen, trank einen Schluck, sagte wieder etwas Belangloses, aber nicht das, was er eigentlich sagen wollte. Als er sich den Mund <strong>abtupfte</strong>, die Serviette auf den Tisch legte und sich räusperte, wusste sie (<i>Charly</i>), das jetzt das kam, was er die ganze Zeit schon loswerden wollte. (<i>Lunapark</i>, 444)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel zwitscherten in den Bäumen, die Sonne malte hellgrün leuchtende <strong>Tupfen</strong> in die Baumwipfel. (<i>Lunapark</i>, 500)',
 	'<u>Marlow</u>',
-	'Du (<i>Marlow/Magnus</i>) ziehst eine Spritze auf und gibst sie ihr (<i>Chen-Lu</i>), so sanft wie möglich. "Noch eine", sagt sie, als du die Nadel aus ihrer Vene ziehst und die Wunde <strong>abtupfst</strong>. (<i>Marlow</i>, 166)',
+	'Du (<i>Magnus/Marlow</i>) ziehst eine Spritze auf und gibst sie ihr (<i>Chen-Lu</i>), so sanft wie möglich. "Noch eine", sagt sie, als du die Nadel aus ihrer Vene ziehst und die Wunde <strong>abtupfst</strong>. (<i>Marlow</i>, 166)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Buche: [ 
@@ -11458,6 +11466,7 @@ gluckern: [
 	'Hier war es still. Ab und zu fuhr der Wind durch die Baumwipfel, ein paar Vögel zwitscherten, der See <strong>gluckerte</strong> aus der Ferne, das war\'s. (<i>Lunapark</i>, 459)',
 	'<u>Marlow</u>',  
 	'Rademanns Blick allein reichte, und es wurde so still, dass man nur noch die nahgelegen Saale (<i>ein Fluss</i>) plätschern und <strong>gluckern</strong> hörte. Bis ein scharfer Befehl die Stille zerschnitte. (<i>Marlow</i>, 51)',
+	'"Setz dich schon mal ins Auto, Kuen-Yao", sagst du (<i>Magnus/Marlow</i>). "Ich bein gleich wieder da." Dann holst du den Reservekanister aus dem Kofferraum und gehst zum Herrenhaus hinüber, das in der beginnenden Dämmerung langsam Konturen annimmt. Das Benzin <strong>gluckert</strong> bei jedem deiner Schritte. (<i>Marlow</i>, 168)',
 ],
 'Gör, Göre': [
 	'das <strong>Gör</strong>,-<strong>en</strong> oder die <strong>Göre</strong>,-<strong>n</strong>: brat, guttersnipe gal'+
@@ -13310,7 +13319,7 @@ Kloß: [
 	'Bei der Verabschiedung in Berlin vor zwei Wochen hatte er (<i>Fritze</i>) einen <strong>Kloß</strong> im Hals gehabt, aber geweint hatte er nicht. Obwohl ihm danach zumute war. (<i>Marlow</i>, 53)',
 	'... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den <strong>Kloß</strong> in seinem Hals runterzuwürgen, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)', 
 	'"Wo sind..." Rath räusperte sich. Er hatte einen <strong>Kloß</strong> im Hals und fühlte sich unbehaglich, als sei er persönlich für das Schicksal der Familie Lehmann verantwortlich. "Wissen Sie denn, wo die Ärmsten untergekommen sind?" (<i>Marlow</i>, 158)',
-	'<i>Chen-Lu zu Marlow/Magnus</i>: ".. Suche eine gute Schule für ihn (<i>Liang Kuen-Yao</i>), er muss lernen. Sei ihm .. ein guter Vater..".. "Das werde ich!" Ein <strong>Kloß</strong> sitzt fest in deinem Hals, doch du sprichst einfach dagegen an. "Ich verspreche dir, das werde ich." (<i>Marlow</i>, 165-66)',
+	'<i>Chen-Lu zu Magnus/Marlow</i>: ".. Suche eine gute Schule für ihn (<i>Liang Kuen-Yao</i>), er muss lernen. Sei ihm .. ein guter Vater..".. "Das werde ich!" Ein <strong>Kloß</strong> sitzt fest in deinem Hals, doch du sprichst einfach dagegen an. "Ich verspreche dir, das werde ich." (<i>Marlow</i>, 165-66)',
 ], 
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 //'<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>', '<u>Marlow</u>',
@@ -13980,6 +13989,8 @@ Laken: [
 	'Und als man in dem Bett<strong>laken</strong>, das man mitsamt einiger Pflastersteine... ebenfalls geborgen hatte, auch noch einen Grabendolch fand, dessen Klinge einen dreieckigen Querschnitt aufwies, war der Fall für die Kollegen Gräf und Steinke ein eindeutiger gewesen...: Der gesuchte mehrfache Mörder Benjamin Engel sei aufgetaucht, im wahrsten Sinne des Wortes, als Leiche aus dem Tiefen der Spree.  (<i>Märzgefallene</i>, 495)',
 	'<u>Lunapark</u>',
 	'"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karthaus eine Rollbahre, die an der Wand geparkt war, unter eine der großen Lampen und schlug das <strong>Laken</strong> zurück.  (<i>Lunapark</i>, 108)',
+	'<u>Marlow</u>',
+	'So grabt ihr (<i>Magnus/Marlow und Liang Kuen-Yao</i>) also beide, andächtig und schweigend. Nur das Geräusch eurer Spaten ist zu hören und gelegentlich der Wind, der sich im Wipfel der Ulme fängt. Als das Grab ausgehoben ist und ihr zurück in die Hütte geht, redet ihr immer noch nicht. Chen-Lus Leichnam ist bereits in ein schneeweißes sauberes <strong>Laken</strong> gewickelt. (<i>Marlow</i>, 167)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -15770,6 +15781,8 @@ rammen: [
 	'<i>Rath</i>: "Was, wenn ich dir sage, dass nicht Engel, sondern Leutnant von Roddek selbst hinter diesen Morden stekt?" <i>Weinert</i>: "Der Schriftsteller? Aber das passt doch nicht zu dem Steckbrief. Außerdem wurde die Mordwaffe bei der Spreeleiche gefunden." <i>Rath</i>: "Meinst du, einer wie Roddeck <strong>rammt</strong> jemandem einen Grabendolch in den Schädel? Für so was ist der zu fein, für so was hat der seinen treuen Heinrich." (<i>Märzgefallene</i>, 531)',
 	'<u>Lunapark</u>',
 	'Und dann folgte der Donner.. <i>Charly</i>: ".. Wir wollten keine Zeit verlieren, du weißt, wie diese Neger sind. Wir haben uns gleich ein Zimmer genommen und es getrieben wie die Tiere!" Rath wusste nichts zu erwidern. Sprachlos starrte er Charly an. Am liebsten hätte er seine Faust irgendwo hinein<strong>gerammt</strong>, aber da stand nur Charly. Charly, die er niemals im Leben würde schlagen können. (<i>Lunapark</i>, 160)',
+	'<u>Marlow</u>', 
+	'Du nimmst einen Spaten und eine Spitzhacke, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben.. Einen halben Meter hast du bereits ausgehoben, da hörst du ein metallisch scharfes Geräusch und schaust auf. Da steht der Junge, am anderen Ende der noch flachen Zwei-Meter-Grube, und hat ebenfalls einen Spaten in den Boden <strong>gerammt</strong>. (<i>Marlow</i>, 167)',
 ],
 'ramponiert, ramponieren': [
 	'<strong>ramponiert</strong>: battered, bashed-up'+
@@ -16289,6 +16302,7 @@ Schuppen: [
 	'Der Pfarrer (<i>Warszawski</i>) kramte zwei Wäscheklammern aus der Tasche, mit denen er seine Hosenbeine fixierte, und stieg auf ein Herrenfahrrad, das draußen am <strong>Schuppen</strong> lehnte. (<i>Lunapark</i>, 419)',
 	'<u>Marlow</u>', 
 	'Du stehst auf und gehst hinaus in die Nacht. Der Geräte<strong>schuppen</strong> ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitzhacke, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
+	'Ihr (<i>Magnus/Marlow und Liang Kuen-Yao</i>) bringt das Werkzug zurück in den <strong>Schuppen</strong>, Kuen-Yao holt sein Bündel aus der Hütte, du die Arzttasche, dann geht ihr zum Auto und werft euer Gepäck auf den Rücksitz. (<i>Marlow</i>, 167)',
 ],
 schnarren: [
 	'<strong>schnarren</strong>: rasp, rattle, snarl, growl'+
@@ -16972,6 +16986,8 @@ Schar: [
 	'Sie (<i>Hannah</i>) <strong>schaufelte</strong> drei Löffel Zucker in ihren Kaffee. Dann schmeckte die dünne Brühe wenigstens nach etwas, und sie hatte das Gefühl, ein bisschen im Magen zu haben. (<i>Märzgefallene</i>, 322)',
 	'<u>Lunapark</u>',
 	'Der Kaufmann wandte sich an seine nächste Kundin. "Sie wünschen?", sagte er, und Charly fragte sich, ob es irgendetwas in diesem Laden gab, was sie für zuhause einkaufen könnte. "Ähh... Zucker... ein Pfund Zucker, bitte." "Sehr wohl." Der Mann drehte sich um und füllte Zucker mit einer großen metallenen <strong>Schaufel</strong> in eine Papiertüte. (<i>Lunapark</i>, 116)',
+	'<u>Marlow</u>',
+	'Ihr (<i>Magnus/Marlow und Liang Kuen-Yao</i>) steht eine Weile am Grab und schaut auf das schneeweiße Bündel hinab, das im Mondlicht schimmert. Dann beginnst du, das Grab <strong>zuzuschaufeln</strong>, und auch der Junge greift zu seinem Spaten. (<i>Marlow</i>, 167)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -17154,6 +17170,7 @@ schikanieren: [
 	'Irgendetwas an der jungen Frau kam Charly vage bekannt vor, vielleicht ihre Bewegungen, vielleicht die Art wie sie den Kopf in den Nacken legte, dennoch hatte sie <strong>keinen blassen Schimmer</strong>, um wen es sich handeln konnte. (<i>Lunapark</i>, 50)',
 	'<u>Marlow</u>',
 	'Der Junge schaut dich an mit einer Mischung aus Misstrauen und Zuneigung. Über seine unergründlich dunklen Augen huscht ein kleiner <strong>Schimmer</strong> der Hoffnung. Dann steht er auf und verlässt den Raum. (<i>Marlow</i>, 9)',
+	'Ihr steht eine Weile am Grab und schaut auf das schneeweiße Bündel hinab, das im Mondlicht <strong>schimmert</strong>. Dann beginnst du, das Grab zuzuschaufeln, und auch der Junge greift zu seinem Spaten. (<i>Marlow</i>, 167)',
 ],
 'keinen S. haben, schimmern, Schimmer': [
 	'<strong>schimmern</strong>: glimmer, shimmer; shed a dim light'+
@@ -17784,7 +17801,9 @@ Spaten: [
 	'<u>Lunapark</u>',
 	'Aber dann.. sah er (<i>Rath</i>) in der dunklen Ecke neben einem Rechen und einem <strong>Spaten</strong> etwas an der Wand lehnen... Und nun wurde ihm bewusst, was es war: ein Baseballschläger. (<i>Lunapark</i>, 484)',  
 	'<u>Marlow</u>', 
-	'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen <strong>Spaten</strong> und eine Spitzhacke, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
+	'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen <strong>Spaten</strong> und eine Spitzhacke, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben.. Einen halben Meter hast du bereits ausgehoben, da hörst du ein metallisch scharfes Geräusch und schaust auf. Da steht der Junge, am anderen Ende der noch flachen Zwei-Meter-Grube, und hat ebenfalls einen <strong>Spaten</strong> in den Boden gerammt. (<i>Marlow</i>, 167)',
+	'So grabt ihr (<i>Magnus/Marlow und Liang Kuen-Yao</i>) also beide, andächtig und schweigend. Nur das Geräusch eurer <strong>Spaten</strong> ist zu hören und gelegentlich der Wind, der sich im Wipfel der Ulme fängt. (<i>Marlow</i>, 167)',
+	'Ihr steht eine Weile am Grab und schaut auf das schneeweiße Bündel hinab, das im Mondlicht schimmert. Dann beginnst du, das Grab zuzuschaufeln, und auch der Junge greift zu seinem <strong>Spaten</strong>. (<i>Marlow</i>, 167)',
 ],
 speckig: [
 	'<strong>speckig</strong>: fatty, greasy'+
@@ -20546,8 +20565,10 @@ Wipfel: [
 	'Hier war es still. Ab und zu fuhr der Wind durch die Baum<strong>wipfel</strong>, ein paar Vögel zwitscherten, der See gluckerte aus der Ferne, das war\'s. (<i>Lunapark</i>, 459)',
 	'Bevor er (<i>Rath</i>) in sein Auto einstieg, schaute er sich noch einmal um. Ein ruhiges, gediegenes Viertel, die Vögel zwitscherten in den Bäumen, die Sonne malte hellgrün leuchtende Tupfen in die Baum<strong>wipfel</strong>. (<i>Lunapark</i>, 500)',
 	'Jetzt war nichts dergleichen zu sehen, alles ruhig, nicht einmal die Baum<strong>wipfel</strong> bewegten sich, es herrschte vollkommene Windstille, das Wasser des Halensees war spiegelglatt. (<i>Lunapark</i>, 525)',
+	'<u>Marlow</u>', 
+	'So grabt ihr (<i>Magnus/Marlow und Liang Kuen-Yao</i>) also beide, andächtig und schweigend. Nur das Geräusch eurer Spaten ist zu hören und gelegentlich der Wind, der sich im <strong>Wipfel</strong> der Ulme fängt. (<i>Marlow</i>, 167)',
 ],
-//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 wippen: [
 	'<strong>wippen</strong>: bob, seesaw, bounce'+

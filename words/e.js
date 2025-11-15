@@ -17,6 +17,7 @@ const e = [
    'einfrieden', // einfrieden: 
    'Eingebung',   // Eingebung:  
    'Eingeweide', // Eingeweide: 
+   'einhaken',   //  einhaken:
    'einheimsen',  // einheimsen:
    'einhüllen',  // einhüllen: 
    'einigeln', // einigeln:  

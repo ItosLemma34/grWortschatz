@@ -107,7 +107,7 @@ const s = [
    'schnippen',  // schnippen: 
    'schnippisch', // schnippisch:
    'schnöde',  // schnöde:  schnoede 
-   'schnörkelig, Schnörkel', //   schnoekelig
+   'schnörkelig, Schnörkel', 
    'Schnösel',  // Schnösel:  Schnoesel
    'schnorren, anschnorren', // duplicated 
    'schnuppern, erschnuppern',  // duplicated 
@@ -145,7 +145,8 @@ const s = [
    'schwafeln', // schwafeln
    'Schwall',  // Schwall: 
    'schwanen', // schwanen:  
-   'Schwanz einziehen/einkneifen', // 
+   'Schwanz, S. einziehen/einkneifen',  
+   'schwänzen',  // schwänzen:
    'Schwebebahn',  // Schwebebahn: 
    'schweifen, abschweifen',  // duplicated
    'schwelgen', // schwelgen: 
@@ -170,6 +171,7 @@ const s = [
    'Spanner', // Spanner:  
    'Spaten',  // Spaten:  
    'speckig', // speckig: 
+   'Speichel',  // Speichel:  
    'speiübel', // speiübel: 
    'spendabel, spendable',
    'sperrangelweit',  // sperrangelweit:  
@@ -184,8 +186,8 @@ const s = [
    'Sprenkel', // Sprenkel: 
    'Spreu vom Weizen trennen',  // 
    'Sprung (auf dem S.)',  //  duplicated  
-   'Speichel',  // Speichel:  
    'Sprosse',  // Sprosse:  
+   'Sprünge (auf die S. helfen)',  // duplicated
    'spülen; Spül -ung, -e, -stein, -bürste',  
    'Spund, Jungspund', // duplicated  
    'spuren',  // spuren: 

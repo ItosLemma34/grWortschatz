@@ -25,6 +25,7 @@ const r = [
    'Rechen',  // Rechen: 
    'recken',  // recken:  
    'Regler', // Regler:
+   'reihern',  // reihern:
    'Reim (keinen R. machen', //  duplicated 
    'Reine (ins R.)', // duplicated 
    'Reinfall', // Reinfall:  

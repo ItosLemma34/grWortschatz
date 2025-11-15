@@ -33,7 +33,8 @@ const v = [
    'verhunzen',  // verhunzen: 
    'verkatert, Kater',  //  duplicated 
    'verkneifen, verkniffen',  // 
-   'verknicken',  // verknicken: 
+   'verknicken',  // verknicken:
+   'verknittern, zerknittern',  // duplicated 
    'verknoten',  // verknoten:  
    'verkommen',  // verkommen: 
    'verkorkst',   // verkorkst:  

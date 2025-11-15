@@ -95,7 +95,8 @@ const k = [
    'knüllen, zerknüllen',  // duplicated  
    'Knüller',  // Knüller: 
    'Knüppel', // Knüppel: 
-   'knurren',  // knurren:   
+   'knurren',  // knurren: 
+   'knutschen',  // knutschen:  
    'Köder',   // Köder: 
    'Kommode', // Kommode:
   // 'Kontor',

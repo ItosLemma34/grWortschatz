@@ -126,6 +126,7 @@ const a = [
 	'auf die Palme treiben/bringen',  //  duplicated 
 	'auf die Pelle rücken',   //  duplicated 
 	'auf die Schliche kommen',  //  duplicated 
+	'auf die Sprünge helfen',   // duplicated
 	'auf die Tube drücken',   //  duplicated 
 	'auf etwas aus sein',   
 	'auf Granit beißen',  

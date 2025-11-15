@@ -21,7 +21,7 @@ const z = [
    'zerfurchen, zerfurcht', 
    'zerknicken' ,  // zerknicken:  
    'zerknirscht',  // zerknirscht: 
-   'zerknittern',  // zerknittern: 
+   'zerknittern, verknittern',  // duplicated 
    'zerknüllen, knüllen', // duplicated 
    'zerlumpt',    // zerlumpt:  
    'zermatschen',  // zermatschen: 

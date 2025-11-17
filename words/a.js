@@ -57,7 +57,8 @@ const a = [
 	'andrehen',   // andrehen: 
 	'anecken',      // anecken:  
 	'anfauchen, fauchen', //  duplicated 
-	'anflehen, flehen, flehentlich',  // duplicated 
+	'anflehen, flehen, flehentlich',  // duplicated
+	'anfunkeln',  // anfunkeln: 
 	'angeben, Angeber',    
 	'angeschickert', // angeschickert: 
 	'angiften, giften', // duplicated

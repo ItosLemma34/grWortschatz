@@ -32,6 +32,7 @@ const k = [
    'Kerbholz (auf dem K. haben)',//  duplicated 
    'Kerbe',  // Kerbe:  
    'ketten, Kette, Kettenkarussell', // 
+   'keuchen',  // keuchen:
    'Keule', // Keule: 
    'kichern',  // kichern: 
    'Kieker (auf dem K. haben)', // 

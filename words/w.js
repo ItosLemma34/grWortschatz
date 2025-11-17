@@ -49,7 +49,7 @@ const w = [
    'Wolf (durch den W. drehen)', //  duplicated 
    'wringen, auswringen', // duplicated
    'wuchern, überwuchern',  // duplicated 
-   'wuchten',  // wuchten: 
+   'wuchten, Wucht',  
    'wühlen, durchwühlen' ,  // duplicated 
    'wummern, Gewummer', //  duplicated  
    'Würge, würgen, reinwürgen',  // duplicated 

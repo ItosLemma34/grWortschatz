@@ -64,6 +64,7 @@ const f = [
    'frisieren',  // frisieren:
    'fristen',  // fristen: 
    'Fritze',  // Fritze:  
+   'frönen',  // frönen
    'frösteln', // frösteln:  
    'Frotzelei, frotzeln',  //  
    'fuchteln, Fuchtel', //  

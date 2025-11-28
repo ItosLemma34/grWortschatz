@@ -23,6 +23,7 @@ const m = [
    'mickrig',  // mickrig: 
    'miefig, Mief',   
    'mimen', // mimen: 
+   'missraten',  // missraten:
    'mit allen Wassern gewaschen', //  duplicated 
    'mit einem Affenzahn',   // duplicated
    'mitgenommen',  // mitgenommen: 

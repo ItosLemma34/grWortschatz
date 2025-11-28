@@ -30,7 +30,8 @@ const k = [
    'keinen Zwang antun',  // duplicated 
    'Kelch',  // Kelch: 
    'Kerbholz (auf dem K. haben)',//  duplicated 
-   'Kerbe',  // Kerbe:  
+   'Kerbe',  // Kerbe: 
+   'Kerker', // Kerker: 
    'ketten, Kette, Kettenkarussell', // 
    'keuchen',  // keuchen:
    'Keule', // Keule: 

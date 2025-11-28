@@ -42,7 +42,8 @@ const h = [
    'heimzahlen',  // heimzahlen: 
    'heischen', // heischen: 
    'heiser',  // heiser: 
-   'Hemd (sich ins H. machen)',  
+   'Hemd (sich ins H. machen)',
+   'Henkelmann',  // Henkelmann:  
    'hereinlegen, reinlegen',  // duplicated 
    'herrisch',  // herrisch: 
    'herumärgern, rumärgern', //  duplicated 
@@ -51,7 +52,7 @@ const h = [
    'herumlungern', // herumlungern:  
    'hetzen, gehetzt',  //  duplicated *
    'heucheln, vorheucheln', // duplicated 
-   'heulen, verheult',  // duplicated
+   'heulen, ausheulen, verheult',  // triplicated
    'Heulsuse', // Heulsuse:  
    'hieven',  // hieven: 
    'hineinreiten, reinreiten',  // duplicated 

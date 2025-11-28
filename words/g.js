@@ -14,6 +14,7 @@ const g = [
    'Gedränge',  // Gedränge: 
    'Gedudel, dudeln',  // duplicated 
    'gefasst',  // gefasst: 
+   'Geflecht',  // Geflecht:
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig:
    'gegen den Strich gehen', // duplicated 

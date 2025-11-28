@@ -27,7 +27,7 @@ const v = [
    'verhallen' ,  // verhallen: 
    'verheben',  // verheben:  
    'verheddern',  // verheddern: 
-   'verheult, heulen',  // duplicated
+   'verheult, ausheulen, heulen',  // triplicated
    'verhexen',   // verhexen: 
    'verhökern',  // verhökern: 
    'verhunzen',  // verhunzen: 
@@ -48,6 +48,7 @@ const v = [
    'vermodern', // vermodern: 
    'verpetzen', // verpetzen:  
    'verpfeifen',  // verpfeifen: 
+   'verpfuschen, verpfuscht',
    'verplappern', // verplappern:   
    'verplempern',  // verplempern: 
    'verpönen, verpönt', 
@@ -118,6 +119,7 @@ const v = [
    'verwegen',  // verwegen:  
    'verwesen, Verwesung', //  
    'verwetten',  // verwetten: 
+   'verwinkelt',  // verwinkelt:
    'verwittern', // verwittern:  
    'verwuscheln, verwuschelt',  
    'verwüsten',  // verwüsten:

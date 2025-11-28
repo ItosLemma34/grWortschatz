@@ -3,6 +3,7 @@ const s = [
    'Sägemehl', // Sägemehl: 
    'sägen, aussägen', // duplicated 
    'Salbung, salbungsvoll', 
+   'Samen',  // Samen:
    'Sammelsurium', // Sammelsurium:  
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
@@ -78,6 +79,7 @@ const s = [
    'Schmach', // Schmach:  
    'schmachten, anschmachten', // duplicated 
    'schmächtig', // schmächtig:  
+   'schmatzen',  // schmatzen:
    'schmettern', // schmettern: 
    'schmiegen', // 
    'Schmiere stehen', // 
@@ -110,6 +112,7 @@ const s = [
    'schnörkelig, Schnörkel', 
    'Schnösel',  // Schnösel:  Schnoesel
    'schnorren, anschnorren', // duplicated 
+   'Schnulze',  // Schnulze:
    'schnuppern, erschnuppern',  // duplicated 
    'Schnur, schnüren', // 
    'schnurstracks', // schnurstracks: 
@@ -155,7 +158,8 @@ const s = [
    'schwirren', // schwirren: 
    'Schwitzkasten', // Schwitzkasten: 
    'schwül, Schwüle',  
-   'schwülstig',  // schwülstig:  
+   'schwülstig',  // schwülstig: 
+   'seicht',  // seicht: 
    'Seil',  // Seil: 
    'Seilschaft',  // Seilschaft: 
    'Sichtblende', // Sichtblende:  
@@ -210,7 +214,7 @@ const s = [
    'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-   'Stich (einen S. versetzen)',   
+//   'Stich, einen S. versetzen',   // revive later
    'Stiefel, stiefeln',  
    'stieren, anstieren',  // duplicated 
    'stöbern, aufstöbern',  // duplicated   

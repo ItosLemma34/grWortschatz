@@ -187,7 +187,8 @@ const a = [
 	'Ausfallstraße',   // Ausfallstraße:
 	'ausfransen',  // ausfransen:  
 	'ausfressen',   // ausfressen:  
-	'ausheben, Aushebung',      
+	'ausheben, Aushebung', 
+	'ausheulen, heulen, verheult',  // triplicated     
 	'ausklinken, einklinken',  // duplicated 
 	'ausleiern', // ausleiern: 
 	'ausmergeln', // ausmergeln:

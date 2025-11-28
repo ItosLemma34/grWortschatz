@@ -46,6 +46,7 @@ const e = [
    'einstecken',  // einstecken: 
    'einstielen', // einstielen:  
    'Eintänzer',   // Eintänzer: 
+   'Eintopf',  // Eintopf:
    'eintrichtern',  // eintrichtern:    
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten:  
@@ -53,6 +54,7 @@ const e = [
    'ekeln an-, hinaus-; Ekel, eklig, ekelhaft',  
    'Empore',     // Empore:  
    'entbieten',  // entbieten:  
+   'entblößen', // entblößen:
    'entgegenfiebern',  // entgegenfiebern: 
    'entgeistert',  // entgeistert:   
    'entriegeln',  // entriegeln: 

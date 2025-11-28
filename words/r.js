@@ -8,7 +8,8 @@ const r = [
    'rammen',  // rammen:  
    'ramponiert, ramponieren',   
    'Rangelei',  // Rangelei: 
-   'Ranzen',  // Ranzen:  
+   'Ranzen',  // Ranzen:
+   'rappeln',  // rappeln:  
    'rascheln', // rascheln: 
    'rasen, Rasen',   
    'Rasenmäher, mähen',  // duplicated 

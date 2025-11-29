@@ -8,7 +8,7 @@ const l = [
    'Laken', // Laken: 
    'lallen',  // lallen: 
    'lange Nase zeigen/machen', //  duplicated 
-   'Lappen',   // Lappen: 
+   'Lappen, durch die L. gehen',   // duplicated
    'läppisch', // läppisch:  
    'lässig',  // lässig:  
    'lasten',  // lasten: 

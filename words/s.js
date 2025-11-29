@@ -160,6 +160,7 @@ const s = [
    'schwül, Schwüle',  
    'schwülstig',  // schwülstig: 
    'seicht',  // seicht: 
+   'Seidel', // Seidel:
    'Seil',  // Seil: 
    'Seilschaft',  // Seilschaft: 
    'Sichtblende', // Sichtblende:  

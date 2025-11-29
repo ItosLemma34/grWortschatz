@@ -61,6 +61,20 @@ zzz: [
 ], */
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   Eintopf   C Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+verzapfen: [  
+	'<strong>verzapfen</strong>: draft (Bier); spout (nonsense, rubbish)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verzapfen"target="target1">verzapfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verzapfen"target="target2">verzapfen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verzapfen"target="target3">verzapfen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verzapfen"target="target4">verzapfen</a>',
+	'<u>Der stumme Tod</u>',
+	'Den Protestparolen gegen den Tonfilm, die da vorn ins Mikrofon geschickt wurden, konnte er (<i>Rath</i>) nichts abgewinnen, und dennoch konnte er sich der Wirkung dieser ein wenig rauen, aber gleichwohl angenehmen Stimme nicht entziehen. Rath war froh, dass dieser Mann keine politischen Parolen <strong>verzapfte</strong>, sondern sich auf Protestreden gegen den sprechenden Film beschränkte. (<i>Der stumme Tod</i>, 141)',	
+],
+Seidel: [   
+	'das <strong>Seidel</strong>,-: beer mug, stein; pint'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Seidel"target="target1">Seidel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Seidel"target="target2">Seidel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/seidel"target="target3">Seidel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Seidel&id=substantiv%3ASeidel"target="target4">Seidel</a>',
+	'<u>Der stumme Tod</u>',
+	'Das Pschorr-Haus stand direkt am Potsdamer Platz, schon oft war er (<i>Rath</i>) hier vorbeigefahren, hatte den Bau aber noch nie betreten. Zigarettenrauch und Bierdunst empfingen ihn in der dunkel holzgetäfelten Gaststube. Er hielt einen Kellner an, der ein Tablett voller Bier<strong>seidel</strong> balancierte, und fragte ihn nach der heutigen Versammlung. "Sie meinen die Filmtheaterbesitzer?" Rath nickte. (<i>Der stumme Tod</i>, 140)',
+],
 rappeln: [  
 	'<strong>rappeln</strong>: rattle, clatter; be crazy, have a screw loose'+
 	'<br><strong>sich</strong> (<strong>auf</strong>)<strong>rappeln</strong>: recover, get back on one\'s feet'+
@@ -4193,6 +4207,7 @@ einschleusen: [
 	'Die Politische Polizei hatte Stephan Jänicke rekrutiert, als der noch gar nicht in der Inspektion E arbeitete. Und das konnte nur eines bedeuten: Sie hatten einen strebsamen und fähigen Polizeischüler ausgesucht und ihn ganz bewusst in die Inspektion E <strong>eingeschleust</strong>. (<i>Der nasse Fisch</i>, 385)',
 	'<u>Der stumme Tod</u>',
 	'Rath entschloss sich zum Frontalangriff. "Herr Oppenberg, lassen wir das Versteckspiel, lassen Sie mich offen sprechen: Sie haben Felix Krempin unter falschem Namen bei Ihrem Konkurrenten Bellmann <strong>eingeschleust</strong>. Und dort hat er einen Unfall ausgelöst, der Betty Winter das Leben gekostet hat." (<i>Der stumme Tod</i>, 78-77)',
+	'"So", sagte Oppenberg, nun schon wieder aufgeräumter als vorhin auf der Straße. "Dann erzählen Sie mir doch mal in aller Ruhe, was Krempin Ihnen mitgeteilt hat und warum Sie sich so aufregen." <i>Rath</i>: "Weil Sie gelogen haben! Sie haben Ihren Mann durchaus mit Sabotageabsichten bei Bellmann <strong>eingeschleust</strong>. Er sollte die Dreharbeiten verzögern." (<i>Der stumme Tod</i>, 145)',
 	//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Das Leben Ihres Bruders ist auch gefährdet. Ich bin Juristin, habe sogar als Polizistin gearbeitet..." Helmut Reinhold schaute sie an. "Hab vor einem Jahr schon gekündigt. Wollen Sie mein Entlassungsurkunde sehen?" <i>Reinhold</i>: "Was nützt das? Was meinen Sie wie viele Spitzel heute mit falschen Papieren irgendwo <strong>eingeschleust</strong> werden. Oder aus wie vielen einst aufrechten Roten die Geheime Staatspolizei Spitzel gemacht hat?" (<i>Lunapark</i>, 104)', 
@@ -11104,6 +11119,7 @@ Gage: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%A4feln"target="target4">täfeln</a>',
 	'<u>Der stumme Tod</u>',
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<strong>getäfelten</strong> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
+	'Das Pschorr-Haus stand direkt am Potsdamer Platz, schon oft war er (<i>Rath</i>) hier vorbeigefahren, hatte den Bau aber noch nie betreten. Zigarettenrauch und Bierdunst empfingen ihn in der dunkel holz<strong>getäfelten</strong> Gaststube. (<i>Der stumme Tod</i>, 140)',
 	'<u>Märzgefallene</u>',
   	'Die Verwaltung des Möbelhauses lag in der ersten Etage. Der Verkäufer führte ihn (<i>Rath</i>) über eine dunkel holz<strong>getäfelte</strong> Treppe und durch dunkel holz<strong>getäfelte</strong> Gänge. Alles atmete gediegene Seriosität, wie auch das Büro von Eva Heinen, das kleiner war, als Rath erwartet hätte, aber ebenso dunkel und holz<strong>getäfelt</strong>. (<i>Märzgefallene</i>, 451-52)',
 	'<u>Lunapark</u>',
@@ -11117,6 +11133,7 @@ Gage: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%A4feln"target="target4">täfeln</a>',
 	'<u>Der stumme Tod</u>',
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<strong>getäfelten</strong> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
+	'Das Pschorr-Haus stand direkt am Potsdamer Platz, schon oft war er (<i>Rath</i>) hier vorbeigefahren, hatte den Bau aber noch nie betreten. Zigarettenrauch und Bierdunst empfingen ihn in der dunkel holz<strong>getäfelten</strong> Gaststube. (<i>Der stumme Tod</i>, 140)',
   	'<u>Märzgefallene</u>',
   	'Die Verwaltung des Möbelhauses lag in der ersten Etage. Der Verkäufer führte ihn (<i>Rath</i>) über eine dunkel holz<strong>getäfelte</strong> Treppe und durch dunkel holz<strong>getäfelte</strong> Gänge. Alles atmete gediegene Seriosität, wie auch das Büro von Eva Heinen, das kleiner war, als Rath erwartet hätte, aber ebenso dunkel und holz<strong>getäfelt</strong>. (<i>Märzgefallene</i>, 451-52)',
 	'<u>Lunapark</u>',
@@ -13601,6 +13618,7 @@ klimpern: [
 	'Die Männer (<i>Engelbert und Gereon Rath</i>) schwiegen sich an. Aus der Küche war Gluckern und Porzellan<strong>klirren</strong> zu hören. Kathi erledigte alles, was sie tat, mit viel Elan. (<i>Der stumme Tod</i>, 43)',
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläser<strong>klirren</strong> gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'<i>Kriminalkommissar Brenner zu Rath</i>: "Man munkelt, sie (<i>Charly</i>) hätte dich mal rangelassen." Brenner legte es offisichtlich darauf an, ihn zu provozieren. "Wie war sie denn so? Hat sie auch deinen Schwanz in den Mund genommen?" Blitzschnell hatte Rath den Dicken an seinem Sträflingskragen gepackt, das Bierglass fiel zu Boden und zerplatzte mit einem feuchten <strong>Klirren</strong>, Bier und Scherben spritzten nach allen Seiten... (<i>Der stumme Tod</i>, 105)',
+	'Er (<i>Rath</i>) schloss die Tür schnell wieder, und vom Lärm aus der Gaststube, dem Mishmasch aus Stimmen und Gläser<strong>klirren</strong>, war kaum noch etwas zu hören. Das hier waren massive Eichentüren. (<i>Der stumme Tod</i>, 140)',
 	'<u>Märzgefallene</u>',
 	'Böhm rührte in seinem Kaffee, obwohl die Tasse leer war....Mit einem <strong>Klirren</strong> landete der Kaffeelöffel auf der Untertasse.  (<i>Märzgefallene</i>, 33)',
 	'Teetassen <strong>klirrten</strong> auf dem Tablett, das Frieda gerade in den Salon brachte, und Rath fühlte sich nicht wohl in seiner Haut.  (<i>Märzgefallene</i>, 34)',
@@ -13632,6 +13650,8 @@ klimpern: [
 	'<u>Der stumme Tod</u>',
 	'Die Männer (<i>Engelbert und Gereon Rath</i>) schwiegen sich an. Aus der Küche war Gluckern und Porzellan<strong>klirren</strong> zu hören. Kathi erledigte alles, was sie tat, mit viel Elan. (<i>Der stumme Tod</i>, 43)',
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläser<strong>klirren</strong> gedämpfter... (<i>Der stumme Tod</i>, 46)',
+	'<i>Kriminalkommissar Brenner zu Rath</i>: "Man munkelt, sie (<i>Charly</i>) hätte dich mal rangelassen." Brenner legte es offisichtlich darauf an, ihn zu provozieren. "Wie war sie denn so? Hat sie auch deinen Schwanz in den Mund genommen?" Blitzschnell hatte Rath den Dicken an seinem Sträflingskragen gepackt, das Bierglass fiel zu Boden und zerplatzte mit einem feuchten <strong>Klirren</strong>, Bier und Scherben spritzten nach allen Seiten... (<i>Der stumme Tod</i>, 105)',
+	'Er (<i>Rath</i>) schloss die Tür schnell wieder, und vom Lärm aus der Gaststube, dem Mishmasch aus Stimmen und Gläser<strong>klirren</strong>, war kaum noch etwas zu hören. Das hier waren massive Eichentüren. (<i>Der stumme Tod</i>, 140)',
 	'<u>Märzgefallene</u>',
 	'Böhm rührte in seinem Kaffee, obwohl die Tasse leer war....Mit einem <strong>Klirren</strong> landete der Kaffeelöffel auf der Untertasse.  (<i>Märzgefallene</i>, 33)',
 	'Teetassen <strong>klirrten</strong> auf dem Tablett, das Frieda gerade in den Salon brachte, und Rath fühlte sich nicht wohl in seiner Haut.  (<i>Märzgefallene</i>, 34)',
@@ -13830,11 +13850,12 @@ krabbeln: [
 	'Die Stimme kam von oben. Gräf überlegte noch, ob er sich übers Geländer beugen und nachschauen sollte, wer da oben gerufen, wer den Russen erwartet hatte, da war plötzlich ein Knachen und <strong>Krachen</strong> zu hören wie von brechendem Holz, gleich darauf ein kurzer, gellender Schrei und ein dumpfes Poltern. (<i>Der nasse Fisch</i>, 476)',
 	'<u>Der stumme Tod</u>',
 	'Er (<i>Rath</i>) hatte sie (<i>Kathi</i>) regelrecht wegzerren müssen von der Nervensäge, zurück auf den Dachgarten, wo die Festgesellschaft das Feuerwerk am Nachthimmel über Charlottenburg bestaunte, und in eine dunkle Ecke, in der er sie wieder küsste während um sie herum die Leute lachten und grölten und die Feuerwerksraketen pfiffen und <strong>krachten</strong>. (<i>Der stumme Tod</i>, 15)',
+	'"So", sagte Oppenberg, nun schon wieder aufgeräumter als vorhin auf der Straße. "Dann erzählen Sie mir doch mal in aller Ruhe, was Krempin Ihnen mitgeteilt hat und warum Sie sich so aufregen." <i>Rath</i>: "Weil Sie gelogen haben! Sie haben Ihren Mann durchaus mit Sabotageabsichten bei Bellmann eingeschleust. Er sollte die Dreharbeiten verzögern." "Die Dreharbeiten verzögern, das ist doch keine Sabotage." "Wie nennen Sie es den sonst, wenn Sie einen zentnerschweren Scheinwerfer auf eine teure Tonfilmkamera <strong>krachen</strong> lassen?" (<i>Der stumme Tod</i>, 145)',
 	'<u>Märzgefallene</u>',
 	'Niemand beachtete ihn (<i>Weinert</i>), die Männer hatten mehr als genug mit den Löscharbeiten (<i>für den Reichstagbrand</i>) zu tun. Es <strong>krachte</strong> laut, als ein Teil der Holzverkleidung nach unten stürzte und Tausende Funken aufstieben ließ wie eine Armee angriffslustiger Glühwürmchen. (<i>Märzgefallene</i>, 57)',
 	'Hier im Halbdunkel hörte sich das Gewummer ihres (<i>Hannahs</i>) Verfolgers noch lauter an. Und jetzt wummerte es nicht mehr, es <strong>krachte</strong>, Holz splitterte und Glas klirrte.  (<i>Märzgefallene</i>, 69)',
 	'Rath begann die Kurbel zu drehen. Während die Bohnen in der Kaffeemühle <strong>krachten</strong>, dachte er über die bizarre Situation nach. (<i>Märzgefallene</i>, 118)',
-	'Dort (<i>in einem französischen Veteranenheim</i>) hat er (<i>Engel</i>) das Kriegsende miterlebt. Und genau an diesem Tag hat er sich wieder erinnert. Die Salutschüsse, das Feuerwerk, der ganze Krach, mit dem das Ende des Krieges begrüßt wurde, hat die Errinnerung an die Explosion.. zurückgebracht."  (<i>Märzgefallene</i>, 517)',
+	'Dort (<i>in einem französischen Veteranenheim</i>) hat er (<i>Engel</i>) das Kriegsende miterlebt. Und genau an diesem Tag hat er sich wieder erinnert. Die Salutschüsse, das Feuerwerk, der ganze <strong>Krach</strong>, mit dem das Ende des Krieges begrüßt wurde, hat die Errinnerung an die Explosion.. zurückgebracht."  (<i>Märzgefallene</i>, 517)',
 	'<u>Lunapark</u>',
 	'"Ist Ihre Frau nicht zuhause?", fragte sie (<i>Charly</i>), während er (<i>Helmut Reinhold</i>) mit der Kaffemühle hantierte. "Martha wohnt hier nicht mehr. Dabei bin ich ihretwegen seinerzeit in die SPD eingetreten. Und hab den <strong>Krach</strong> mit Vattern riskiert."  (<i>Lunapark</i>, 100-01)',
 	'Rath klingelte dreimal,.. doch in der Wohnung blieb es still. Er horchte und schaute sich kurz um. Das Treppenhaus schien leer zu sein, und er zog die Sperrhaken aus der Tasche. Bruno Wolter, sein erster Chef in Berlin, hatte ihm das beigegracht, und Rath hatte diese Fertigkeit schon oft gebrauchen können. Es <strong>krachte</strong> laut und hallte durchs Treppenhaus, als das Schloss aufsprang.  (<i>Lunapark</i>, 137)' ,
@@ -14164,7 +14185,7 @@ Lache: [
 	'Er(<i>Rath</i>) packte die Sachen zusammen, die er für die Nacht in der <strong>Laube</strong> zusammengesucht hatte, und machte sich auf den Weg zurück nach Lichtenberg. (<i>Lunapark</i>, 490)',
 	'Karl Reinhold schloss die Augen. Er hörte <strong>Laub</strong> rascheln und Vögel singen. Was für eine trügerische Idylle in seinen Ohren. (<i>Lunapark</i>, 493)',
 ],     
-Lappen: [
+'Lappen, durch die L. gehen': [
 	'der <strong>Lappen</strong>,-: rag, cloth'+
 	'<br>jmdm. <strong>durch die Lappen gehen</strong>: slip through so.\'s fingers'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lappen"target="target2">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20durch%20die%20Lappen%20gehen"target="target3">durch die Lappen gehen</a>'+
@@ -14176,8 +14197,27 @@ Lappen: [
 	'<i>Elisabeth Behnke</i>: "Kannst du mir mal verraten, warum du Putz<strong>lappen</strong> in den Badeofen steckst?.. <i>Rath</i>: "Tut mir leid." Er bedauerte es tatsächlich.. "Komm, lass mal, ich mach das schon weg.".. Plötzlich fing sie an zu schluchzen und hielt sich ihre rußgeschwärzten Hände vors Gesicht.. <i>Rath</i>: "Elisabeth, ist doch schon gut. Ich hab nicht nachgedacht, der alte <strong>Lappen</strong> musste weg und..." Sie stand auf und sah ihn aus verweinten und schwarzverschmierten Augen an. "Warum kannst du nicht einfach ein Arschloch sein?", sagte sie und verschwand durch die Tür. (<i>Der nasse Fisch</i>, 263)',
 	'<u>Der stumme Tod</u>',
 	'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein ausgewrungener Putz<strong>lappen</strong>. (<i>Der stumme Tod</i>, 65)',
+	'Er (<i>Rath</i>) hatte das Eintreffen der Kollegen nicht abgewartet und sich gleich wieder von Plisch und Plum verabschiedet. Böhm würde sich ärgern. Erstens weil er Krempins Versteck nicht selbst entdeckt hatte, zweitens weil Rath ihm wieder <strong>durch die Lappen gegangen war</strong>. (<i>Der stumme Tod</i>, 139)',
 	'<u>Märzgefallene</u>',
-	'"Ach, Charly", sagte er (<i>Kellermann</i>), "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden?" "Das nicht. Aber sie ist gesehen worden.. Ich hab den Fall nicht betreut. Aber sehen Sie doch im Bericht nach.. Liegt alles bei Kommissar Rath auf dem Schribtisch." <i>Charly</i>: "Dann werde ich mir das bei Gelegeneit mal anschauen.." Sie sagte das möglichst beiläufig, sie wollte sich nicht anerken lassen, wie sehr sie Kellermanns Nachricht aufwülhlte. Und wie erleichtert sie war, dass Hannah den Fahndern <strong>durch die Lappen</strong> gegangen war. (<i>Märzgefallene</i>, 289)',
+	'"Ach, Charly", sagte er (<i>Kellermann</i>), "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden?" "Das nicht. Aber sie ist gesehen worden.. Ich hab den Fall nicht betreut. Aber sehen Sie doch im Bericht nach.. Liegt alles bei Kommissar Rath auf dem Schribtisch." <i>Charly</i>: "Dann werde ich mir das bei Gelegeneit mal anschauen.." Sie sagte das möglichst beiläufig, sie wollte sich nicht anerken lassen, wie sehr sie Kellermanns Nachricht aufwülhlte. Und wie erleichtert sie war, dass Hannah den Fahndern <strong>durch die Lappen gegangen war</strong>. (<i>Märzgefallene</i>, 289)',
+	'<u>Lunapark</u>',
+	'Zeyen überlegte. "Jetzt, wo Sie es sagen. Da waren so ein paar weiße Sprenkel auf der Beifahrertür. Zuerst hab ich gedacht, das ist Vogeldreck, aber das war auch auf dem Sitz, ein paar weiße Tupfen auf dem schwarzen Leder. Hab mir nicht viel dabei gedacht. Ging gut wieder raus mit ’nem feuchten <strong>Lappen</strong>. (<i>Lunapark</i>, 305)',
+],  
+'durch die Lappen gehen, Lappen': [
+	'der <strong>Lappen</strong>,-: rag, cloth'+
+	'<br>jmdm. <strong>durch die Lappen gehen</strong>: slip through so.\'s fingers'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lappen"target="target2">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20durch%20die%20Lappen%20gehen"target="target3">durch die Lappen gehen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target4">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target5">Lappen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Lappen+gehen"target="target6">durch die Lappen gehen<a/>',
+	'<u>Der nasse Fisch</u>',
+	'"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie wedelte demonstrativ mit einem Staub<strong>lappen</strong> durchs Regal. (<i>Der nasse Fisch</i>, 231)',
+	'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <strong>Lappen</strong> geräuschvoll auswrang. (<i>Der nasse Fisch</i>, 234)',
+	'<i>Rath</i>: "Gönnen Sie sich mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putz<strong>lappen</strong> zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab. (<i>Der nasse Fisch</i>, 234)',
+	'<i>Elisabeth Behnke</i>: "Kannst du mir mal verraten, warum du Putz<strong>lappen</strong> in den Badeofen steckst?.. <i>Rath</i>: "Tut mir leid." Er bedauerte es tatsächlich.. "Komm, lass mal, ich mach das schon weg.".. Plötzlich fing sie an zu schluchzen und hielt sich ihre rußgeschwärzten Hände vors Gesicht.. <i>Rath</i>: "Elisabeth, ist doch schon gut. Ich hab nicht nachgedacht, der alte <strong>Lappen</strong> musste weg und..." Sie stand auf und sah ihn aus verweinten und schwarzverschmierten Augen an. "Warum kannst du nicht einfach ein Arschloch sein?", sagte sie und verschwand durch die Tür. (<i>Der nasse Fisch</i>, 263)',
+	'<u>Der stumme Tod</u>',
+	'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein ausgewrungener Putz<strong>lappen</strong>. (<i>Der stumme Tod</i>, 65)',
+	'Er (<i>Rath</i>) hatte das Eintreffen der Kollegen nicht abgewartet und sich gleich wieder von Plisch und Plum verabschiedet. Böhm würde sich ärgern. Erstens weil er Krempins Versteck nicht selbst entdeckt hatte, zweitens weil Rath ihm wieder <strong>durch die Lappen gegangen war</strong>. (<i>Der stumme Tod</i>, 139)',
+	'<u>Märzgefallene</u>',
+	'"Ach, Charly", sagte er (<i>Kellermann</i>), "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden?" "Das nicht. Aber sie ist gesehen worden.. Ich hab den Fall nicht betreut. Aber sehen Sie doch im Bericht nach.. Liegt alles bei Kommissar Rath auf dem Schribtisch." <i>Charly</i>: "Dann werde ich mir das bei Gelegeneit mal anschauen.." Sie sagte das möglichst beiläufig, sie wollte sich nicht anerken lassen, wie sehr sie Kellermanns Nachricht aufwülhlte. Und wie erleichtert sie war, dass Hannah den Fahndern <strong>durch die Lappen gegangen war</strong>. (<i>Märzgefallene</i>, 289)',
 	'<u>Lunapark</u>',
 	'Zeyen überlegte. "Jetzt, wo Sie es sagen. Da waren so ein paar weiße Sprenkel auf der Beifahrertür. Zuerst hab ich gedacht, das ist Vogeldreck, aber das war auch auf dem Sitz, ein paar weiße Tupfen auf dem schwarzen Leder. Hab mir nicht viel dabei gedacht. Ging gut wieder raus mit ’nem feuchten <strong>Lappen</strong>. (<i>Lunapark</i>, 305)',
 ],  
@@ -18747,6 +18787,8 @@ Theke: [
 	'Gefügig wie die Lämmer ließen sich die meisten Gäste abführen. Auch die Musiker machten keine Anstalten zu fliehen. Das Personal hinter der <strong>Theke</strong> blieb ebenfalls ruhig. (<i>Der nasse Fisch</i>, 243)',
 	'Der Kellner blieb beinahe ungerührt und verschwand mit seinem Tablett. Rath schaute ihm nach und zündete sich eine Zigarette an. Der Mann ging nicht zur <strong>Theke</strong>, er öffnete direkt neben der Tanzfläche, auf der sich nur wenige Paare bewegten, eine unscheinbare Tür. (<i>Der nasse Fisch</i>, 448)',
 	'Nur vier Tische hatten in dem Schankraum Platz. Rath war das egal. Er saß sowieso meistens an der <strong>Theke</strong>. Wie auch jetzt. (<i>Der nasse Fish</i>, 529)',
+	'<u>Der stumme Tod</u>',
+	'"Sie meinen die Filmtheaterbesitzer?" Rath nickte. "Dahinten." Der Kellner zeigte die Richtung mit seiem Kopf. "An der <strong>Theke</strong> vorbei, dann rechts die große Tür. Die haben aber schon angefangen." "Macht nichts", meinte Rath. "Das Beste kommt doch immer zum Schluss." (<i>Der stumme Tod</i>, 140)',
 	'<u>Lunapark</u>',
 	'Eingetrocknete Bierlachen auf dem Boden ließen die Schuhsohlen bei jedem Schritt kleben. Neben der <strong>Theke</strong> eine Tür, die weiter nach hinten führte. (<i>Lunapark</i>, 35)',
 	'Begleitet vom Klingeling der Ladentür betrat sie (<i>Charly</i>) den dunklen und angenehm kühlen Raum. Hinter der <strong>Theke</strong> stand ein Mann in einem grauen Kaufmannskittel, vor der <strong>Theke</strong> ihre Bekanntschaft aus dem Treppenhaus. (<i>Lunapark</i>, 115)',
@@ -19779,6 +19821,7 @@ versauen: [
 	'<i>Böhm</i>: "Dieser Wessel wird morgen um fünf beerdigt. Ich möchte, dass Sie sich das Spektakel mal anschauen. Diskret natürlich." Natürlich! Hatte die Bulldogge noch etwas gefunden, um ihm (<i>Rath</i>) das Wochenende zu <strong>versauen</strong>! (<i>Der stumme Tod</i>, 20)',
 	'Rath kam nicht mehr dazu, noch ein schönes Wochenende zu wünschen, Gräf hatte aufgelegt. Natürlich hatte Rath seinem Kriminalsekrtär den Samstagabend <strong>versaut</strong>, aber er selbst hockte ja auch nicht zu seinem Vergnügen in einer wildfremden, kalten Wohnung am Reichskanzlerplatz. (<i>Der stumme Tod</i>, 92)',
 	'"Was macht ihr (<i>Plisch und Plum</i>) denn hier", wunderte sich Rath. "Ich dachte ihr gehört zu meiner Ermittlungsgruppe." "Deine Gruppe gibt\'s nicht mehr", meinte Czerwinski, "die hat Böhm übernommen. Und uns gleich das Wochenende <strong>versaut</strong>. Der war übrigens stinksauer, als du nirgends aufzutreiben warst." (<i>Der stumme Tod</i>, 135)',
+	'Rath hatte es <strong>versaut</strong>. Das wusste zwar niemand und durfte auch nie jemand erfahren, dennoch schwor er sich, diesen Fehler irgendwie wiedergutzumachen. (<i>Der stumme Tod</i>, 140)',
 	'<u>Märzgefallene</u>',
 	'Das Wochenende, das er (<i>Gräf</i>) eigentlich mit Conny hatte verbringen wollen, hatte ihm der tote Stadtstreicher sowieso <strong>versaut</strong>.... (<i>Märzgefallene</i>, 405)',
 	'<u>Lunapark</u>',

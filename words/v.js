@@ -123,6 +123,7 @@ const v = [
    'verwittern', // verwittern:  
    'verwuscheln, verwuschelt',  
    'verwüsten',  // verwüsten:
+   'verzapfen',  // verzapfen:
    'verzieren', // verzieren:  
    'verzückt', // verzückt:  
    'vierschrötig', // vierschrötig:   

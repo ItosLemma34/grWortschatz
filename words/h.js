@@ -4,7 +4,7 @@ const h = [
    'Hacke, hacken',  
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
-   'haken, Haken, Haken schlagen',  
+   'haken, Haken, H. schlagen',  
    'halbgar', // halbgar:  
    'halbseiden',  // halbseiden: 
    'Halde (auf H. legen)',

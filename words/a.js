@@ -96,7 +96,6 @@ const a = [
 	'Anzeige erstatten',  
 	'anzetteln',  // anzetteln:  
 	'anzüglich',  //  anzüglich:  
-//	'anzwinkern',  // anzwinkern:  excluded, for now; if include, include also zuzwinkern?
 	'apportieren', // apportieren: 
 	'Areal' ,  // Areal:  
 	'Arm (auf den A. nehmen)',  //  duplicated 
@@ -133,8 +132,8 @@ const a = [
 	'auf Granit beißen',  
 	'auf Halde legen',    
 	'auf Zack sein',     
-	'aufbäumen',  // aufbäumen:  ä sorted as ae 
 	'aufbahren',   // aufbahren:
+	'aufbäumen',  // aufbäumen:  ä sorted as ae 
 	'aufbauschen, bauschen', // duplicated   
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern',  // aufdonnern: 
@@ -180,8 +179,8 @@ const a = [
 	'aus der Haut fahren',   
 	'ausbaldowern', // ausbaldowern:  
 	'ausborgen',  // ausborgen:  
-	'ausbügeln',  // ausbügeln:  
 	'ausbremsen', // ausbremsen:  
+	'ausbügeln',  // ausbügeln:  
 	'Ausdünstung',  // Ausdünstung:  
 	'ausbüxen',    // ausbüxen:  
 	'Ausfallstraße',   // Ausfallstraße:

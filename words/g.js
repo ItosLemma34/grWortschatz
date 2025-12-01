@@ -83,7 +83,8 @@ const g = [
    'Gier, gieren',   // 
    'giften, angiften',
    'giggeln',  // giggeln:  
-   'Gips',   // Gips:  
+   'Gips',   // Gips:
+   'Gitter, Laufgitter',  // duplicated  
    'gleißen, gleißend',     
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated 

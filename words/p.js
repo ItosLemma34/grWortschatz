@@ -17,6 +17,7 @@ const p = [
    'peinigen, Peiniger', 
    'Peitsche, peitschen', 
    'Pelle (auf die P. rücken)', //  duplicated 
+   'perlen',  // perlen:
    'Pest an den Hals', 
    'petzen', // petzen: 
    'Pfaffe', // Pfaffe: 

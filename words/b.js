@@ -90,7 +90,7 @@ const b = [
     'Brocken',  // Brocken: 
     'brodeln',  // brodeln:
     'brüllen, Gebrüll', //   duplicated 
-    'brummig, Brummigkeit',  // 
+    'brummen, brummig, Brummigkeit',  // 
     'Brüstung',  // Brüstung: 
     'brüten',  // brüten:
     'brutzeln',  // brutzeln: 

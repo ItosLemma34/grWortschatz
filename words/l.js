@@ -4,9 +4,10 @@ const l = [
    'Lackaffe',  // Lackaffe:  
    'lädieren',  // lädieren: 
    'laff',  // laff: 
-   'Lahmarsch, lahmarschig, Lahmarschigkeit',  
+//   'Lahmarsch, lahmarschig, Lahmarschigkeit',
+   'lahmarschig, Lahmarschigkeit',  
    'Laken', // Laken: 
-   'lallen',  // lallen: 
+   'lallen',  // lallen:
    'lange Nase zeigen/machen', //  duplicated 
    'Lappen, durch die L. gehen',   // duplicated
    'läppisch', // läppisch:  
@@ -18,6 +19,7 @@ const l = [
    'lauern',  // lauern:  
    'Lauf',    // Lauf: 
    'Laufbursche',  // Laufbursche: 
+   'Laufgitter, Gitter',  //  duplicated
    'lausig',  // lausig: 
    'läutern, Läuterung',  
    'Leibesvisitation', // Leibesvisitation: 

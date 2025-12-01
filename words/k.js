@@ -101,6 +101,7 @@ const k = [
    'knutschen',  // knutschen:  
    'Köder',   // Köder: 
    'Kommode', // Kommode:
+   'komplimentieren',  // komplimentieren:
   // 'Kontor',
    'Konterfei',  // Konterfei: 
    'Konzept (aus dem K. bringen)', // duplicated  

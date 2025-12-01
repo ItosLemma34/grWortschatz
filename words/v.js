@@ -1,6 +1,6 @@
 const v = [
    'Ventil',  // Ventil: 
-   'veralbern', // veralbern:
+   'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
    'Verband' ,  // Verband: 
    'verbeulen, zerbeulen, Beule, beulen', // triplicated
    'verblassen', // verblassen: 

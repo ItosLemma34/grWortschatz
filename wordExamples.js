@@ -4569,7 +4569,7 @@ vermaledeit: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'einspannen, ausspannen': [
-	'<strong>einspannen</strong>: clamp, fit, hitch, mount, insert; harness; involve, rope in'+
+	'<strong>einspannen</strong>: clamp, fit, hitch, mount; harness; involve, rope in'+
 	'<br><strong>ausspannen</strong>: remove, unhitch, unclamp; relax'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einspannen"target="target1">einspannen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausspannen"target="target2">ausspannen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einspannen"target="target3">einspannen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausspannen"target="target4">ausspannen</a>',
@@ -4580,9 +4580,11 @@ vermaledeit: [
 	'<i>Zörgiebel, Polizeipräsident</i>: "..Und vielleicht fällt Ihnen (<i>Rath</i>) noch etwas ein, wie wir die Bevölkerung um Hilfe bitten könnten. Zeugen gesucht, Sie wissen schon. So was macht sich immer gut. Dann haben Sie die Journaille schon auf Ihrer Seite, wenn Sie die für so etwas <strong>einspannen</strong> können." (<i>Der nasse Fisch</i>, 305)',  
 	'Die Einsamkeit in Roeders Büro empfing ihn (<i>Rath</i>) wie einen alten Freund. Eine Schreibmaschine gab es nur im Vorzimmer. Also setzte sich Rath an den verwaisten Sekretärinnenschreibtisch, <strong>spannte</strong> ein Blatt Papier <strong>ein</strong> und überlegte. (<i>Der nasse Fisch</i>, 306)',  
 	'Böhm trat ans Pult, sprach ein paar Takte und verteilte Papiere mit seinen Anweisungen wie ein Lehrer in der Schule die Aufgabenblätter. Außer der Kripo sollte auch die Abteilung IA <strong>eingespannt</strong> werden.. Der Polizeipräsident glaubte offensichtlich wirklich an einen politisch motivierten Mord und wollte das Spitzelsystem der Politischen Polizei <strong>einspannen</strong>. (<i>Der nasse Fisch</i>, 326-27)',
-	'Zörgiebel <strong>spannte</strong> Jänickes Tod unverblümt für seine Zwecke <strong>ein</strong>.  (<i>Der nasse Fisch</i>, 329)',
+	'Zörgiebel <strong>spannte</strong> Jänickes Tod unverblümt für seine Zwecke <strong>ein</strong>. (<i>Der nasse Fisch</i>, 329)',
 	'Kardakow wollte zusammen mit seiner Freundin das Sorokin-Gold nach Deutschland schmuggeln und für seine hochgesteckten politischen Ziele nutzbar machen. Und Marlow sollte das auffällige Gold.. in unauffällige Reichsmarkscheine und Kontoauszüge verwandeln. Kardakow hatte seinen Chef (<i>Marlow</i>) als Hehler <strong>eingespannt</strong>. Für vierzig Prozent.  (<i>Der nasse Fisch</i>, 347)',
 	'Skeptisch war er (<i>Wolter</i>) zu dem Treffen gefahren, fest davon überzeugt, der Mann (<i>Krajewski, der Pornokaiser</i>) wolle sich nur wichtigmachen, womögmlich seine Knarre zurück oder Geld schnorren. Doch Krajewski hatte erstaunlich gut Bescheid gewusst. Der Pornofritze hatte tatsächlich einen Kumpel in der Berolina! Einen Kumpel, der ihm die Freundin <strong>ausgespannt</strong> hatte und den er jetzt reinreiten wollte. (<i>Der nasse Fisch</i>, 516)',
+	'<u>Der stumme Tod</u>',
+	'<i>Bellmann zu Rath</i>: "Was hat Oppenberg Ihnen erzählt? Dass ich ihm seine drittklassigen Schauspielerinnen <strong>ausspane</strong>? Na, vielen Dank! Eine Schlampe wie die Franck, die brauche ich nicht!" (<i>Der stumme Tod</i>, 152)',
 	'<u>Märzgefallene</u>',    
 	'Rath setzte sich an Klaßens Schreibmaschine, <strong>spannte</strong> ein Spurensicherungsberichtsformular <strong>ein</strong> und begann zu tippen. (<i>Märzgefallene</i>, 96)',
 	'<i>Rath</i>: "Wie soll ich das alleine schaffen, Oberkommissar? Das braucht doch ewig. Können Sie mir dafür nicht noch einen Mann geben?" <i>Böhm</i>: "Sehe ich aus, als hätte ich einen in der Hosentasche? Sind doch alle auf Kommunistenjagd... Sie haben doch eine Sekretärin. <strong>Spannen</strong> Sie die <strong>ein</strong>, wenn Sie das allein nicht schaffen!" (<i>Märzgefallene</i>, 100)',
@@ -4602,7 +4604,7 @@ vermaledeit: [
 	'Die Soko-Akten lagen auf seinem Schreibisch... Den ganzen Nachmittage..hatte er (<i>Rath</i>) sie durchgeblättert, hatte Erika Voss, die sich ehrlich über seine Rückkehr gefreut hatte, nur zum Kaffeekochen <strong>eingespannt</strong> und ihre Neugier mit der bewährten Ausrede "streng geheim, Gestapamaterial" abgewehrt. (<i>Lunapark</i>, 467)',
 ],
 'ausspannen, einspannen': [
-	'<strong>einspannen</strong>: clamp, fit, hitch, mount, insert; harness; involve, rope in'+
+	'<strong>einspannen</strong>: clamp, fit, hitch, mount; harness; involve, rope in'+
 	'<br><strong>ausspannen</strong>: remove, unhitch, unclamp; relax'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einspannen"target="target1">einspannen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausspannen"target="target2">ausspannen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einspannen"target="target3">einspannen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausspannen"target="target4">ausspannen</a>',
@@ -4616,6 +4618,8 @@ vermaledeit: [
 	'Zörgiebel <strong>spannte</strong> Jänickes Tod unverblümt für seine Zwecke <strong>ein</strong>.  (<i>Der nasse Fisch</i>, 329)',
 	'Kardakow wollte zusammen mit seiner Freundin das Sorokin-Gold nach Deutschland schmuggeln und für seine hochgesteckten politischen Ziele nutzbar machen. Und Marlow sollte das auffällige Gold.. in unauffällige Reichsmarkscheine und Kontoauszüge verwandeln. Kardakow hatte seinen Chef (<i>Marlow</i>) als Hehler <strong>eingespannt</strong>. Für vierzig Prozent.  (<i>Der nasse Fisch</i>, 347)',
 	'Skeptisch war er (<i>Wolter</i>) zu dem Treffen gefahren, fest davon überzeugt, der Mann (<i>Krajewski, der Pornokaiser</i>) wolle sich nur wichtigmachen, womögmlich seine Knarre zurück oder Geld schnorren. Doch Krajewski hatte erstaunlich gut Bescheid gewusst. Der Pornofritze hatte tatsächlich einen Kumpel in der Berolina! Einen Kumpel, der ihm die Freundin <strong>ausgespannt</strong> hatte und den er jetzt reinreiten wollte. (<i>Der nasse Fisch</i>, 516)',
+	'<u>Der stumme Tod</u>',
+	'<i>Bellmann zu Rath</i>: "Was hat Oppenberg Ihnen erzählt? Dass ich ihm seine drittklassigen Schauspielerinnen <strong>ausspane</strong>? Na, vielen Dank! Eine Schlampe wie die Franck, die brauche ich nicht!" (<i>Der stumme Tod</i>, 152)',
 	'<u>Märzgefallene</u>',    
 	'Rath setzte sich an Klaßens Schreibmaschine, <strong>spannte</strong> ein Spurensicherungsberichtsformular <strong>ein</strong> und begann zu tippen. (<i>Märzgefallene</i>, 96)',
 	'<i>Rath</i>: "Wie soll ich das alleine schaffen, Oberkommissar? Das braucht doch ewig. Können Sie mir dafür nicht noch einen Mann geben?" <i>Böhm</i>: "Sehe ich aus, als hätte ich einen in der Hosentasche? Sind doch alle auf Kommunistenjagd... Sie haben doch eine Sekretärin. <strong>Spannen</strong> Sie die <strong>ein</strong>, wenn Sie das allein nicht schaffen!" (<i>Märzgefallene</i>, 100)',
@@ -4938,8 +4942,10 @@ Flittchen: [
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Flittchen"target="target1">Flittchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flittchen"target="target2">Flittchen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/flittchen?q=Flittchen"target="target3">Flittchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Flittchen"target="target4">Flittchen</a>',
 	'<u>Der nasse Fisch</u>',
-	'<i>Charly</i>: "..Ich hab nach dir (<i>Gereon</i>) gefragt, und sie (<i>Frau Behnke</i>) hat gesagt, du wohnst nicht bei ihr. Und ich hab gefragt, ob da nicht Nürnberger Straße 28 sei, und da ist sie auf einmal laut geworden und hat wie eine Furie gebrüllt, ich solle es künftig ja nicht wagen, noch einen Fuß in ihr Haus zu setzen, das sei ein anständiges Haus und ich ein <strong>Flittchen<strong>.. Sie hat mich <strong>Flittchen<strong> genannt, dabei wollte ich dir doch bloß guten Tag sagen!" (<i>Der nasse Fisch</i>, 339-40)',   
-//	'<u>Märzgefallene</u>',    
+	'<i>Charly zu Gereon</i>: "..Ich hab nach dir gefragt, und sie (<i>Frau Behnke</i>) hat gesagt, du wohnst nicht bei ihr. Und ich hab gefragt, ob da nicht Nürnberger Straße 28 sei, und da ist sie auf einmal laut geworden und hat wie eine Furie gebrüllt, ich solle es künftig ja nicht wagen, noch einen Fuß in ihr Haus zu setzen, das sei ein anständiges Haus und ich ein <strong>Flittchen</strong>.. Sie hat mich <strong>Flittchen</strong> genannt, dabei wollte ich dir doch bloß guten Tag sagen!" (<i>Der nasse Fisch</i>, 339-40)',   
+	'<u>Der stumme Tod</u>',
+	'<i>Kriminalkommissar Brenner zu Rath</i>: "Man munkelt, sie (<i>Charly</i>) hätte dich mal rangelassen." Brenner legte es offisichtlich darauf an, ihn zu provozieren. "Wie war sie denn so? Hat sie auch deinen Schwanz in den Mund genommen?" Blitzschnell hatte Rath den Dicken an seinem Sträflingskragen gepackt... "Wenn du nicht sofort deine verdammte Schnauze hälst, dann passiert was", zischte Rath und funkelte Brenner an. "He, was soll das?", keuchte der, offensictlich unter Atemnot leidend, "man wird doch wohl noch einen Witz machen dürfen. Meinst du, du bist der Einzige, dem dieses <strong>Flittchen</strong> einen geblasen hat?" (<i>Der stumme Tod</i>, 105)',
+	'Rath drehte sich um. Heinrich Bellmann trat aus dem Dunkel hinter der Scheinwerferfront und kam auf ihn zu. Der Produzent schüttelte ihm die Hand. "Haben Sie Neuigkeiten?", fragte er. "Lag ich mit meiner Vermutung richtig? Hat Oppenberg seine schmutzigen Finger im Spiel?" <i>Rath</i>: "Kennen Sie eigentlich Vivian Franck?" "Oppenbers <strong>Flittchen</strong>? Was soll die Frage?" (<i>Der stumme Tod</i>, 152)', 
 	'<u>Lunapark</u>',
 	'"Du verlangst von mir, dass ich herausfinde, was aus einem Weibsbild geworden ist, das sich mit Volksfeinden herumtreibt?", fuhr Conny ihn (<i>Gräf</i>) an. "Und dann? Soll ich die feine Dame für dich aus der Schutzhaft holen? Mit welcher Begründung denn bitte schön?" "Ihr braucht ja auch keine Begründung, um sie einzusperren. Charlotte ist eine Freundin, verdammt noch mal!" "Eine Freundin? Bist du scharf auf das <strong>Flittchen</strong>, oder was?" War Conny eifersüchtig? Oder warum reagierte er so barsch? "Charlotte Rath ist kein <strong>Flittchen</strong>", sagte Gräf. "Und sie ist auch keine Volksfeindin. Sie tut sich nur schwer mit den neuen Zeiten." (<i>Lunapark</i>, 190-91)',
 ],
@@ -5501,8 +5507,8 @@ Schlampe: [
 	'die <strong>Schlampe</strong>,-<strong>n</strong>: slut'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlampe"target="target1">Schlampe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlampe"target="target2">Schlampe</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schlampe"target="target3">Schlampe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schlampe"target="target4">Schlampe</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
+	'<u>Der stumme Tod</u>', 
+	'<i>Bellmann zu Rath</i>: "Was hat Oppenberg Ihnen erzählt? Dass ich ihm seine drittklassigen Schauspielerinnen ausspane? Na, vielen Dank! Eine <strong>Schlampe</strong> wie die Franck, die brauche ich nicht!" (<i>Der stumme Tod</i>, 152)',
 	'<u>Lunapark</u>',
 	'Der Blick des Mannes (<i>Herr Brachwitz</i>) wanderte von Rath zu seiner Frau und wieder zurück. "Und du <strong>Schlampe</strong>", fuhr er sie an, "läufst um diese Zeit noch im Morgenmantel rum? Mach, dass du rauskommst, und zieh dir was an!" (<i>Lunapark</i>, 189)',
 	'"Was ist passiert?", zischte Alex, während sie ins Schaufenster starrte. "Hat diese <strong>Schlampe</strong> meinen Bruder verraten?" "So soll es vielleicht aussehen", sagte Charly, "aber das glaube ich nicht. Wenn Else wirklich eine Verräterin wäre, hätte man uns auch verhaftet. (<i>Lunapark</i>, 321-22)',   

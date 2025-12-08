@@ -1,12 +1,14 @@
 export const wordExamples = {              
 //Büro möchte Überraschung Männer draußen 
 // Klack  Lunapark 530
+// an den Pranger  Der stumme Tod 209  Marlow 295
+// geknickt Der stumme Tod 536
 //Fluter = Scheinwerfer (spotlight)  
 
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v  
 // finish later:
-/*   
- zzz: [  
+/*   	
+zzz: [  
 	'<strong>zzz</strong>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
@@ -24,6 +26,76 @@ export const wordExamples = {
 */
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+'fluten, Fluter': [  
+	'<strong>fluten</strong>: to stream, flood, swell, surge'+
+	'<br>der <strong>Fluter</strong> = der <strong>Scheinwerfer</strong>: <i>chatGPT</i>: Fluter = floodlight (stage-lighting jargon)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fluten"target="target1">fluten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fluter"target="target2">Fluter</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/fluten"target="target3">fluten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fluter&id=substantiv%3AFluter"target="target4">Fluter</a>',
+	'<u>Der stumme Tod</u>',
+	'"Tja", fuhr Dressler fort, "und dann krachte plötzlich der <strong>Fluter</strong> von der Decke." <i>Rath</i>: "Der was?" "Der Scheinwerfer, der Betty erwischte..." (<i>Der stumme Tod</i>, 28)',	
+	'<i>Rath zu Lüdenbach</i>: "Überprüfen Sie denn nicht regelmäßig, ob da oben auch alles richtig festgeschraubt ist?" "Aber natürlich! Bevor das Licht nicht stimmt, kann doch überhaupt nicht gedreht werden!" "Und mit dem <strong>Fluter</strong> war alles in Ordnung?" "Optimal eingestellt. Einwandfreies Licht..." (<i>Der stumme Tod</i>, 30-31)',
+	'<i>Rath zu Lüdenbach</i>: "Dann zeigen Sie mir doch mal die Stelle, wo der <strong>Fluter</strong> gehangen hat", sagte er, und Lüdenbach steuerte auf eine schmale Stahlleiter zu, die geradeweg in den Himmel zu führen schien. (<i>Der stumme Tod</i>, 31)',
+	'<i>Lüdenbach zu Rath</i>: "Meine Leute arbeiten nicht schlampig", empörte er sich. "Und gerade Glaser! Der versteht sein Geschäft!" "Wer?" "Peter Glaser. Mein Beleuchtungsassistent. Der ist für den <strong>Fluter</strong> zuständig." (<i>Der stumme Tod</i>, 33)',
+	'Rath horchte auf. "Können Sie mir das bitte mal zeigen, diesen Schalter? Und diesen Draht?" "Meinen Sie..." Lüdenbach schüttelte den Kopf. "Nein, nein! Selbst wenn der Draht den <strong>Fluter</strong> mit voller Wucht getroffen haben sollte, das hätte niemals gereicht, um die Aufhängung zu zerstören. Niemals!" (<i>Der stumme Tod</i>, 156)',	
+	'<i>Krieger zu Rath</i>: ".. Als wir gestern Morgen mit Victor und Eva drehten, klemmte der Effekthebel, und der Donner wurde nicht ausgelöst.. Ich hab mir die Donnermaschine angeschaut, der Draht fehlte, also habe ich ihn vom Hebel aus verfolgt bis an diese Stelle. Da hing er." Sie standen nicht weit entfernt von der Stelle, wo sich der <strong>Fluter</strong> verabschiedet hatte. (<i>Der stumme Tod</i>, 159)',	
+	'Sie (<i>Krieger und Rath</i>) suchten weiter und fanden an einer Ecke sogar eine Umlenkrolle. Die Reihe der Ösen führte bis zu der Stelle, wo der <strong>Fluter</strong> vor drei Tagen eine Lücke in die Scheinwerferbatterie gerissen hatte. (<i>Der stumme Tod</i>, 160)',
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'   (<i>Marlow</i>, 000)',
+],
+geknickt: [  
+	'<strong>geknickt</strong>: dejected, disheartened, downcast'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geknickt"target="target1">geknickt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/geknickt"target="target2">geknickt</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geknickt"target="target3">geknickt</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=geknickt&id=adjektiv%3Ageknickt%23geknickt"target="target4">geknickt</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Krieg</i>: "Ja. Der Scheinwerfer kam in dem Moment runter, als es eigentlich donnern sollte." <i>Rath</i>: "Und wer stand am Hebel?" Der Techniker schaute so <strong>geknickt</strong>, wie ein Mann seiner Statur nur dreinschauen konnte. "Ich fürchte", sagte er, "das war ich." (<i>Der stumme Tod</i>, 160)',	
+//536
+],
+spinnert: [  
+	'<strong>spinnert</strong>: eccentric, daft, crazy'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spinnert"target="target1">spinnert</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spinnert"target="target2">spinnert</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=spinnert"target="target3">spinnert</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/spinnert"target="target4">spinnert</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Krieg</i>: "Der Donner spielt eine eintscheidende Rolle. Die männliche Hauptrolle - wie soll ich das erklären, klingt ein bisschen <strong>spinnert</strong>..." "Sie glauben nicht was für verrückte Dinge sich ein Polizist manchmal so anhören muss", sagte Rath. (<i>Der stumme Tod</i>, 158)',	
+],
+Lamelle: [  
+	'die <strong>Lamelle</strong>,-<strong>n</strong>: slat (as in Venetian blind); blade, leaf'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lamelle"target="target1">Lamelle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lamelle"target="target2">Lamelle</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lamelle"target="target3">Lamelle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Lamelle&id=substantiv%3ALamelle"target="target4">Lamelle</a>',
+	'<u>Der stumme Tod</u>',
+	'"Damit lösen wir die Donnermaschine aus", sagte Krieg. "Die brauchen wir häufiger für <i>Liebesgewitter</i>. Ein ganz normaler Theaterdonner, Eisenkugeln, die über Holz<strong>lamellen</strong> poltern. Im fertigen Film können Sie das von echtem Donner nicht unterscheiden." (<i>Der stumme Tod</i>, 157)',
+],
+Öse: [  
+	'die <strong>Öse</strong>,-<strong>n</strong>: loop, eyelet'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Oese"target="target1">Öse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%96se"target="target2">Öse</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ose?q=%C3%96se"target="target3">Öse</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%96se&id=substantiv%3AO3se"target="target4">Öse</a>',
+	'<u>Der stumme Tod</u>',
+	'"Schön, Herr Krieg." Rath zeigte auf die Konstruktion an der Wand. "Vielleicht können Sie mir erst einmal diesen Hebel erklären", sagte er. "Ist das der Draht?" "Genau genommen ein dünnes Drahtseil." Krieg zeigte auf einen Seilzug, der mit dem Hebel verbunden war und sich, durch kleine <strong>Ösen</strong> und Rollen geführt, oben im Atelierhimmel verlor, doch Rath konnte nicht erkennen, wohin, er sah nur das bekannte Labyrinth aus stählernen Laufstegen und schweren Stoffbahnen. (<i>Der stumme Tod</i>, 157)',	
+	'Rath untersuchte den Metallrost, auf dem sie hockten. Plötzlich stutzte er. "Und warum sind dann auf diesem Steg auch <strong>Ösen</strong> angebracht?" Rath zeigte auf die Stelle. Außen an der Beleuchtungsbrücke waren <strong>Ösen</strong> befestigt, durch ganz ähnliche wurde der Effektdraht an der Wand nach oben geführt. (<i>Der stumme Tod</i>, 160)',
+	'Sie suchten weiter und fanden an einer Ecke sogar eine Umlenkrolle. Die Reihe der <strong>Ösen</strong> führte bis zu der Stelle, wo der Fluter vor drei Tagen eine Lücke in die Scheinwerferbatterie gerissen hatte. (<i>Der stumme Tod</i>, 160)',
+],
+verhaken: [  
+	'(sich) <strong>verhaken</strong>: interlock, get entangled; snag, get caught in'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verhaken"target="target1">verhaken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verhaken"target="target2">verhaken</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verhaken"target="target3">verhaken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verhaken&id=verb%3Averhaken"target="target4">verhaken</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Lüdenbach</i>: "Also, nicht direkt an den Scheinwerfern, aber oben im Laufgitter hing so was. Ein dünner Draht, kaum zu sehen. Ist erst aufgefallen, als die Kollegen unten gestern den Effekthebel kontrolliert haben. Der Draht hätte nämlich eigentlich die Donnermaschine auslösen sollen, aber irgendwie hat er sich wohl losgerissen, hatte <strong>sich</strong> wahrscheinlich irgendwo <strong>verhakt</strong> und unter Spannung gestanden und hat sich dann bis oben in die Beleuchtungsbrücken katapultiert..." (<i>Der stumme Tod</i>, 156)',	
+	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird geklemmt haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit. Hing noch ein kleiner Splint dran, an dem hatte er <strong>sich</strong> wohl <strong>verhakt</strong>." (<i>Der stumme Tod</i>, 159-60)',	
+],
+'an den Pranger': [  
+	'der <strong>Pranger</strong>,-: pillory'+
+	'<br>jmdn. <strong>an den Pranger stellen</strong>: to pillory, shame/denounce so.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=an+den+Pranger&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">an den Pranger</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20an%20den%20Pranger%20stellen"target="target2">an den Pranger</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=an+den+Pranger+stellen"target="target3">an den Pranger</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/an-den-pranger-stellen/"target="target4">an den Pranger</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Bellmann zu Rath</i>: ".. Sie <strong>stellen</strong> mich <strong>an den Pranger</strong>, mich, den Geschädigten, und die eigentlichen Verbrecher lassen Sie unbehelligt, darum geht es! Auch Sie haben Vorgesetzte, Herr Rath! Ich lasse nicht alles mit mir machen! Sie sollten erkennen, wo Ihre Grenze ist!" (<i>Der stumme Tod</i>, 155)',
+//pg 209
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 295)',
+],
  perlen: [  
 	'<strong>perlen</strong>: sparkle, bubble'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/perlen_schaeumen_sprudeln"target="target1">perlen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/perlen"target="target2">perlen</a>'+
@@ -31,36 +103,48 @@ export const wordExamples = {
 	'<u>Der stumme Tod</u>',
 	'Um halb sieben saß er (<i>Rath</i>) vor einer Tasse Kaffee am Küchentisch und dachte nach. Aus dem Wohnzimmer <strong>perlte</strong> leise das Klavier von Duke Ellington herüber. (<i>Der stumme Tod</i>, 150)',	
 ],
-'Gitter, Laufgitter': [  
-	'das <strong>Gitter</strong>,-: grid, grating, lattie, grill, mesh'+
-	'<br>das <strong>Laufgitter</strong>,-: play pen; cat walk'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gitter"target="target1">Gitter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufgitter"target="target2">Laufgitter</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gitter"target="target3">Gitter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufgitter&id=substantiv%3ALaufgitter"target="target4">Laufgitter</a>',
-	'<u>Der nasse Fisch</u>',   
-	'Wenn das hier vorbei wäre, stünden noch die Verhöre im Präsidium an. Viel Arbeit, nur um ein paar Ratten an die Wand zu nageln, die ihr Geld damit verdienten, andere beim Bumsen zu fotografieren... An die Hintermänner die das wirklich große Geld machten, würden sie sowieso nicht rankommen, statdessen würden wieder ein paar arme Schweine hinter <strong>Gittern</strong> landen. (<i>Der nasse Fisch</i>, 20)',
-	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast,...dann werde ich auch dafür sorgen, dass du hinter <strong>Gitter</strong> wanderst. (<i>Der nasse Fisch</i>, 191)',
-	'Beide (<i>Russen</i>) trugen ihr Schicksal mit stoischer Gelassenheit. Eine Nacht hinter Gittern schien für sie nichts Erschreckendes zu haben.  (<i>Der nasse Fisch</i>, 191)',
+'Gitter-, Metal- rost; Lauf- gitter, steg': [ 
+	'das <strong>Gitter</strong>,-: grid, grating, grill, mesh'+
+	'<br>das <strong>Laufgitter</strong>,-: play pen; catwalk'+
+	'<br>der <strong>Steg</strong>,-<strong>e</strong>: runway, overhead crossing, pedestrian bridge'+
+	'<br>der <strong>Laufsteg</strong>,-<strong>e</strong>: catwalk, runway, footbridge'+
+	'der <strong>Rost</strong>,-<strong>e</strong>: grating, grid, grill, base; rust'+
+	'<br>der <strong>Gitterrost</strong>,-<strong>e</strong>: metal grating, grated walkway'+
+	'<br>der <strong>Metalrost</strong>,-<strong>e</strong>: metal grating, grated walkway'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gitter"target="target1">Gitter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufgitter"target="target2">Laufgitter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufsteg"target="target3">Laufsteg</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Gitterrost&sei=p-g0acCFAbyz5NoPl8WziA4"target="target4">Gitterrost (fotos)</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gitter"target="target5">Gitter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufgitter&id=substantiv%3ALaufgitter"target="target6">Laufgitter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufsteg&id=substantiv%3ALaufsteg"target="target7">Laufsteg</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/gitterrost"target="target8">Gitterrost</a>',
 	'<u>Der stumme Tod</u>',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige <strong>Laufgitter</strong> folgte, das bei jedem Schritt quietschete und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue Kittel am Boden des <strong>Laufgitters</strong>. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
+	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den Gewindebolzen noch irgendein Teil? Eine Stange, ein Draht, was weiß ich, irgendetwas Verdächtiges..." "Ein Draht?.. Also, nicht direkt an den Scheinwerfern, aber oben im <strong>Laufgitter</strong> hing so was." (<i>Der stumme Tod</i>, 156)',
+	'"Schön, Herr Krieg." Rath zeigte auf die Konstruktion an der Wand. "Vielleicht können Sie mir erst einmal diesen Hebel erklären", sagte er. "Ist das der Draht?" "Genau genommen ein dünnes Drahtseil." Krieg zeigte auf einen Seilzug, der mit dem Hebel verbunden war und sich, durch kleine Ösen und Rollen geführt, oben im Atelierhimmel verlor, doch Rath konnte nicht erkennen, wohin, er sah nur das bekannte Labyrinth aus stählernen <strong>Laufstegen</strong> und schweren Stoffbahnen. (<i>Der stumme Tod</i>, 157)',	
+	'"Gut", sagte er (<i>Rath</i>) zu dem Bühnentechniker, "dann zeigen Sie mir doch mal, so Sie den Draht gefunden haben." Sie mussten wieder nach oben. Max Krieg war deutlich schwerer als der schmächtige Oberbeleuchter, entsprechend wackelten die Beleuchtungsbrücken. Der Bühnentechniker ging in die Hocke und zeigte ihm eine Stelle im <strong>Gitterrost</strong>. "Hier ungefähr hing das Ende fest. War kaum zu erkennen - außer wenn man auf allen vieren hier entlangkrabbelte." (<i>Der stumme Tod</i>, 159)',
+	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird geklemmt haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit. Hing noch ein kleiner Splint dran, an dem hatte er sich wohl verhakt." "Das heiß, normalerweise führt der Draht nicht über dieses <strong>Laufgitter</strong>?" "Nein. Ein paar Meter weiter, der Steg parallel zu diesem." (<i>Der stumme Tod</i>, 159-60)',	
+	'Rath untersuchte den <strong>Metallrost</strong>, auf dem sie hockten. Plötzlich stutzte er. "Und warum sind dann auf diesem Steg auch Ösen angebracht?" Rath zeigte auf die Stelle. Außen an der Beleuchtungsbrücke waren Ösen befestigt, durch ganz ähnliche wurde der Effektdraht an der Wand nach oben geführt. (<i>Der stumme Tod</i>, 160)',
 	// pg 346
 	'<u>Lunapark</u>',   
 	'Während er (<i>Rath</i>) sich die Hände wusch, ließ er seinen Blick über den Hof schweifen... In der Mitte ungefähr war ein Gully in das Pflaster eingelassen, über den das Regenwasser abfließen sollte, doch in Rath löste der Anblck des metallenen <strong>Gitters</strong> düstere Erinnerungen aus. Ein Schuss, eine klaffende Wunde, ein lebloser Körper. Und Blut, das in einen Gully sickert. (<i>Lunapark</i>, 39)',
 //	'<u>Marlow</u>',  
 //	'   (<i>Marlow</i>, 458)',
 ],
-'Laufgitter, Gitter': [  
-	'das <strong>Gitter</strong>,-: grid, grating, lattie, grill, mesh'+
-	'<br>das <strong>Laufgitter</strong>,-: play pen; cat walk'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gitter"target="target1">Gitter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufgitter"target="target2">Laufgitter</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gitter"target="target3">Gitter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufgitter&id=substantiv%3ALaufgitter"target="target4">Laufgitter</a>',
-	'<u>Der nasse Fisch</u>',   
-	'Wenn das hier vorbei wäre, stünden noch die Verhöre im Präsidium an. Viel Arbeit, nur um ein paar Ratten an die Wand zu nageln, die ihr Geld damit verdienten, andere beim Bumsen zu fotografieren... An die Hintermänner die das wirklich große Geld machten, würden sie sowieso nicht rankommen, statdessen würden wieder ein paar arme Schweine hinter <strong>Gittern</strong> landen. (<i>Der nasse Fisch</i>, 20)',
-	'"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast,...dann werde ich auch dafür sorgen, dass du hinter <strong>Gitter</strong> wanderst. (<i>Der nasse Fisch</i>, 191)',
-	'Beide (<i>Russen</i>) trugen ihr Schicksal mit stoischer Gelassenheit. Eine Nacht hinter Gittern schien für sie nichts Erschreckendes zu haben.  (<i>Der nasse Fisch</i>, 191)',
+'Lauf- gitter, steg; Gitter-, Metal- rost': [ 
+	'das <strong>Gitter</strong>,-: grid, grating, grill, mesh'+
+	'<br>das <strong>Laufgitter</strong>,-: play pen; catwalk'+
+	'<br>der <strong>Steg</strong>,-<strong>e</strong>: runway, overhead crossing, pedestrian bridge'+
+	'<br>der <strong>Laufsteg</strong>,-<strong>e</strong>: catwalk, runway, footbridge'+
+	'der <strong>Rost</strong>,-<strong>e</strong>: grating, grid, grill, base; rust'+
+	'<br>der <strong>Gitterrost</strong>,-<strong>e</strong>: metal grating, grated walkway'+
+	'<br>der <strong>Metalrost</strong>,-<strong>e</strong>: metal grating, grated walkway'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gitter"target="target1">Gitter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufgitter"target="target2">Laufgitter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laufsteg"target="target3">Laufsteg</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Gitterrost&sei=p-g0acCFAbyz5NoPl8WziA4"target="target4">Gitterrost (fotos)</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gitter"target="target5">Gitter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufgitter&id=substantiv%3ALaufgitter"target="target6">Laufgitter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Laufsteg&id=substantiv%3ALaufsteg"target="target7">Laufsteg</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/gitterrost"target="target8">Gitterrost</a>',
 	'<u>Der stumme Tod</u>',
 	'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige <strong>Laufgitter</strong> folgte, das bei jedem Schritt quietschete und schepperte, versuchte der den Blick in die Tiefe zu vermeiden... (<i>Der stumme Tod</i>, 31)', 
 	'Als Rath sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue Kittel am Boden des <strong>Laufgitters</strong>. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
+	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den Gewindebolzen noch irgendein Teil? Eine Stange, ein Draht, was weiß ich, irgendetwas Verdächtiges..." "Ein Draht?.. Also, nicht direkt an den Scheinwerfern, aber oben im <strong>Laufgitter</strong> hing so was." (<i>Der stumme Tod</i>, 156)',
+	'"Schön, Herr Krieg." Rath zeigte auf die Konstruktion an der Wand. "Vielleicht können Sie mir erst einmal diesen Hebel erklären", sagte er. "Ist das der Draht?" "Genau genommen ein dünnes Drahtseil." Krieg zeigte auf einen Seilzug, der mit dem Hebel verbunden war und sich, durch kleine Ösen und Rollen geführt, oben im Atelierhimmel verlor, doch Rath konnte nicht erkennen, wohin, er sah nur das bekannte Labyrinth aus stählernen <strong>Laufstegen</strong> und schweren Stoffbahnen. (<i>Der stumme Tod</i>, 157)',	
+	'"Gut", sagte er (<i>Rath</i>) zu dem Bühnentechniker, "dann zeigen Sie mir doch mal, so Sie den Draht gefunden haben." Sie mussten wieder nach oben. Max Krieg war deutlich schwerer als der schmächtige Oberbeleuchter, entsprechend wackelten die Beleuchtungsbrücken. Der Bühnentechniker ging in die Hocke und zeigte ihm eine Stelle im <strong>Gitterrost</strong>. "Hier ungefähr hing das Ende fest. War kaum zu erkennen - außer wenn man auf allen vieren hier entlangkrabbelte." (<i>Der stumme Tod</i>, 159)',
+	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird geklemmt haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit. Hing noch ein kleiner Splint dran, an dem hatte er sich wohl verhakt." "Das heiß, normalerweise führt der Draht nicht über dieses <strong>Laufgitter</strong>?" "Nein. Ein paar Meter weiter, der Steg parallel zu diesem." (<i>Der stumme Tod</i>, 159-60)',	
+	'Rath untersuchte den <strong>Metallrost</strong>, auf dem sie hockten. Plötzlich stutzte er. "Und warum sind dann auf diesem Steg auch Ösen angebracht?" Rath zeigte auf die Stelle. Außen an der Beleuchtungsbrücke waren Ösen befestigt, durch ganz ähnliche wurde der Effektdraht an der Wand nach oben geführt. (<i>Der stumme Tod</i>, 160)',
 	// pg 346
 	'<u>Lunapark</u>',   
 	'Während er (<i>Rath</i>) sich die Hände wusch, ließ er seinen Blick über den Hof schweifen... In der Mitte ungefähr war ein Gully in das Pflaster eingelassen, über den das Regenwasser abfließen sollte, doch in Rath löste der Anblck des metallenen <strong>Gitters</strong> düstere Erinnerungen aus. Ein Schuss, eine klaffende Wunde, ein lebloser Körper. Und Blut, das in einen Gully sickert. (<i>Lunapark</i>, 39)',
@@ -731,15 +815,15 @@ radieren: [
 	'<br><strong>bucklig</strong>: humpbacked, bumpy, hilly, undulating'+
 	'<br><strong>auf dem Buckel haben</strong>: have a lot on one\'s plate'+
 	'<br><strong>wenn du so viele Jahre auf dem Buckel hast wie ich</strong>: when you are as old as I am'+
-	'<br><strong>mit mehr als zehn Dienstjahren auf dem Buckel</strong>: with more than ten years of service under their belt'+
+	'<br><strong>mit mehr als zehn Dienstjahren auf dem Buckel</strong>: with more than ten years of service'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>'+
 		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target2">bucklig</a>'+	
 		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target3">auf dem Buckel</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target4">Buckel</a>'+
 		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target5">bucklig</a>'+
 		'&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target6">auf dem Buckel</a>',
-//	'<u>Der stumme Tod</u>',
-//	'pgs 158 and 490   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre <strong>auf dem Buckel</strong>. Aus Bellmanns altem Theater. War \'ne ganz schöne Plackerei, die hier reinzuwuchten." (<i>Der stumme Tod</i>, 157-58)',	
 	'<u>Märzgefallene</u>',
 	'Wie ein pelziger Flaum überzog maigrünes Grass die <strong>Buckel</strong>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
 	'<u>Lunapark</u>',
@@ -752,15 +836,15 @@ radieren: [
 	'<br><strong>bucklig</strong>: humpbacked, bumpy, hilly, undulating'+
 	'<br><strong>auf dem Buckel haben</strong>: have a lot on one\'s plate'+
 	'<br><strong>wenn du so viele Jahre auf dem Buckel hast wie ich</strong>: when you are as old as I am'+
-	'<br><strong>mit mehr als zehn Dienstjahren auf dem Buckel</strong>: with more than ten years of service under their belt'+
+	'<br><strong>mit mehr als zehn Dienstjahren auf dem Buckel</strong>: with more than ten years of service'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>'+
 		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target2">bucklig</a>'+	
 		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target3">auf dem Buckel</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target4">Buckel</a>'+
 		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target5">bucklig</a>'+
 		'&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target6">auf dem Buckel</a>',
-//	'<u>Der stumme Tod</u>',
-//	'pgs 158 and 490   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre <strong>auf dem Buckel</strong>. Aus Bellmanns altem Theater. War \'ne ganz schöne Plackerei, die hier reinzuwuchten." (<i>Der stumme Tod</i>, 157-58)',	
 	'<u>Märzgefallene</u>',
 	'Wie ein pelziger Flaum überzog maigrünes Grass die <strong>Buckel</strong>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
 	'<u>Lunapark</u>',
@@ -1405,6 +1489,7 @@ Rudel: [
 	'Die Männer vom ED, die zusammen mit dem Gerichtsmediziner inzwischen eingetroffen waren, robbten auf der Suche nach zwei <strong>Gewindebolzen</strong> über den Boden, während Dr. Schwartz neben der Leiche hockte und die Brandwunden an Kopf und Schultern begutachtete. (<i>Der stumme Tod</i>, 33-34)',
 	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten, dennoch war Gräf derjenige, der einen der <strong>Gewindebolzen</strong> schließlich fand, ein unscheinbares, öligschwarzes Metallstück, das unter ein Scheinwerferstativ gerollt war. Lüdenback bestätigte, dass es sich um einen <strong>Bolzen</strong> der Scheinwerferhalterung handelte.. Der zweite <strong>Bolzen</strong> allerdings blieb unauffindbar.. "Na, wenigsten einen <strong>Bolzen</strong> haben wir", meinte Gräf, und Rath nickte. "Vielleicht hat Glaser den anderen", sagte er. "Wollte Beweisstücke entsorgen, nur dass er den zweiten <strong>Bolzen</strong> nicht gefunden hat, bevor er sich aus dem Staub machte." (<i>Der stumme Tod</i>, 34)',
 	'Der ED hatte die Scheinwerferaufhängung bereits unter die Lupe genommen. Die technische Untersuchung war zu dem Schluss gekommen, dass keine Materialfehler vorlagen. Sämtliche <strong>Gewinde</strong> waren noch in Ordnung, der <strong>Bolzen</strong>, den Gräf gefunden hatte, intakt. Er musste von irgendjemandem mit Absicht herausgedreht worden sein. (<i>Der stumme Tod</i>, 122)',
+	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den <strong>Gewindebolzen</strong> noch irgendein Teil? Eine Stange, ein Draht, was weiß ich, irgendetwas Verdächtiges..." (<i>Der stumme Tod</i>, 156)',
 ],
 'Bolzen, Gewinde, Gewindebolzen': [  
 	'das <strong>Gewinde</strong>: thread, screw thread; spire; wreath'+
@@ -1421,6 +1506,7 @@ Rudel: [
 	'Die Männer vom ED, die zusammen mit dem Gerichtsmediziner inzwischen eingetroffen waren, robbten auf der Suche nach zwei <strong>Gewindebolzen</strong> über den Boden, während Dr. Schwartz neben der Leiche hockte und die Brandwunden an Kopf und Schultern begutachtete. (<i>Der stumme Tod</i>, 33-34)',
 	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten, dennoch war Gräf derjenige, der einen der <strong>Gewindebolzen</strong> schließlich fand, ein unscheinbares, öligschwarzes Metallstück, das unter ein Scheinwerferstativ gerollt war. Lüdenback bestätigte, dass es sich um einen <strong>Bolzen</strong> der Scheinwerferhalterung handelte.. Der zweite <strong>Bolzen</strong> allerdings blieb unauffindbar.. "Na, wenigsten einen <strong>Bolzen</strong> haben wir", meinte Gräf, und Rath nickte. "Vielleicht hat Glaser den anderen", sagte er. "Wollte Beweisstücke entsorgen, nur dass er den zweiten <strong>Bolzen</strong> nicht gefunden hat, bevor er sich aus dem Staub machte." (<i>Der stumme Tod</i>, 34)',
 	'Der ED hatte die Scheinwerferaufhängung bereits unter die Lupe genommen. Die technische Untersuchung war zu dem Schluss gekommen, dass keine Materialfehler vorlagen. Sämtliche <strong>Gewinde</strong> waren noch in Ordnung, der <strong>Bolzen</strong>, den Gräf gefunden hatte, intakt. Er musste von irgendjemandem mit Absicht herausgedreht worden sein. (<i>Der stumme Tod</i>, 122)',
+	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den <strong>Gewindebolzen</strong> noch irgendein Teil? Eine Stange, ein Draht, was weiß ich, irgendetwas Verdächtiges..." (<i>Der stumme Tod</i>, 156)',
 ],
 robben: [
 	'<strong>robben</strong>: crawl commando-style (on your stomach)'+
@@ -1439,8 +1525,8 @@ robben: [
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/behaebig"target="target1">be­hä­big</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Beh%C3%A4bigkeit"target="target2">Behäbigkeit</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/behabig"target="target3">be­hä­big</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/behaebigkeit"target="target4">Behäbigkeit</a>',
 	'<u>Der stumme Tod</u>',
-	'Rath ging die <strong>Behäbigkeit</strong> des Männleins (<i>Hans Lüdenbach, Oberbeleuchter</i>) langsam auf die Nerven. (<i>Der stumme Tod</i>, 33)',
-//	'<u>Marlow</u>',  
+	'<i>Lüdenbach zu Rath</i>: "Meine Leute arbeiten nicht schlampig", empörte er sich. "Und gerade Glaser! Der versteht sein Geschäft!" "Wer?" "Peter Glaser. Mein Beleuchtungsassistent. Der ist für den Fluter zuständig." Rath ging die <strong>Behäbigkeit</strong> des Männleins langsam auf die Nerven. (<i>Der stumme Tod</i>, 33)',
+	//	'<u>Marlow</u>',  
 ],
 'tattern, Tattergreis': [
 	'<strong>tattern</strong>: shake, tremble'+
@@ -2039,11 +2125,14 @@ schleudern: [
 	'Wolters Durchwahl konnte er (<i>Rath</i>) im Schlaf runterbeten. Der Onkel nahm ab, und Rath murmelte eine Entschuldigung in die Sprechmuschel. Am anderen Ende der Leitung hörte er ein Lachen. "Du hörst dich nicht gerade gesund an, alter Junge. Wohl ein wenig <strong>über die Stränge geschlagen</strong>!" (<i>Der nasse Fisch</i>, 43)',
 ],
 Steg: [ 
-	'der <strong>Steg</strong>,-<strong>e</strong>: footbridge, gangplank, overpass; bridges, spans'+
+	'der <strong>Steg</strong>,-<strong>e</strong>: footbridge, gangplank, overpass'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Steg"target="target1">Steg</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Steg"target="target2">Steg</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/steg"target="target3">Steg</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Steg"target="target4">Steg</a>',
 	'<u>Der nasse Fisch</u>',
 	'Sie (<i>Charly</i>) lief zur Spree hinunter. Er (<i>Gereon</i>) sprintete los. Jetzt wusste er wenigstens, wo sie war. Kurz vor dem <strong>Steg</strong>, der zum Bahnhof Bellevue hinüberführte, hatte er sie eingeholt. (<i>Der nasse Fisch</i>, 492)',
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird geklemmt haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit. Hing noch ein kleiner Splint dran, an dem hatte er sich wohl verhakt." "Das heiß, normalerweise führt der Draht nicht über dieses Laufgitter?" "Nein. Ein paar Meter weiter, der <strong>Steg</strong> parallel zu diesem." (<i>Der stumme Tod</i>, 159-60)',	
+	'Rath untersuchte den Metallrost, auf dem sie hockten. Plötzlich stutzte er. "Und warum sind dann auf diesem <strong>Steg</strong> auch Ösen angebracht?" (<i>Der stumme Tod</i>, 160)',
 	'<u>Märzgefallene</u>',
 	'Auf dem <strong>Steg</strong>, der hinüber zum Bellevue führte, musste Charly an Gereon denken. (<i>Märzgefallene</i>, 62)',
 	'<u>Marlow</u>',
@@ -4220,6 +4309,7 @@ einschleusen: [
 	'<u>Der stumme Tod</u>',
 	'Rath entschloss sich zum Frontalangriff. "Herr Oppenberg, lassen wir das Versteckspiel, lassen Sie mich offen sprechen: Sie haben Felix Krempin unter falschem Namen bei Ihrem Konkurrenten Bellmann <strong>eingeschleust</strong>. Und dort hat er einen Unfall ausgelöst, der Betty Winter das Leben gekostet hat." (<i>Der stumme Tod</i>, 78-77)',
 	'"So", sagte Oppenberg, nun schon wieder aufgeräumter als vorhin auf der Straße. "Dann erzählen Sie mir doch mal in aller Ruhe, was Krempin Ihnen mitgeteilt hat und warum Sie sich so aufregen." <i>Rath</i>: "Weil Sie gelogen haben! Sie haben Ihren Mann durchaus mit Sabotageabsichten bei Bellmann <strong>eingeschleust</strong>. Er sollte die Dreharbeiten verzögern." (<i>Der stumme Tod</i>, 145)',
+	'<i>Bellmann zu Rath</i>: "Bevor Sie in meiner Firma herumschnüffeln, sollten Sie sich lieber mal den Laden von Oppenberg anschauen!" Nun hielt Bellmann seine Wut nicht länger im Zaum. "Dieser Jude kann unbehelligt Saboteure und Mörder bei mir <strong>einschleusen</strong>, während ich mich von Ihnen wie ein Verbrecher behandeln lassen muss!" (<i>Der stumme Tod</i>, 155)',
 	//	'<u>Märzgefallene</u>',    
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Das Leben Ihres Bruders ist auch gefährdet. Ich bin Juristin, habe sogar als Polizistin gearbeitet..." Helmut Reinhold schaute sie an. "Hab vor einem Jahr schon gekündigt. Wollen Sie mein Entlassungsurkunde sehen?" <i>Reinhold</i>: "Was nützt das? Was meinen Sie wie viele Spitzel heute mit falschen Papieren irgendwo <strong>eingeschleust</strong> werden. Oder aus wie vielen einst aufrechten Roten die Geheime Staatspolizei Spitzel gemacht hat?" (<i>Lunapark</i>, 104)', 
@@ -4648,6 +4738,9 @@ vermaledeit: [
 	'Inzwischen hatte Rath so viel Aufmerksamkeit erlangt, dass die Meute von Zörgiebel (<i>der Polizeipräsident</i>) abließ. Der nutzte die neu gewonnene Freiheit und arbeitete sich weiter zum Ausgang vor. Dort warteten Schupos, die die Aufgabe übernahmen, den Polizeichef <strong>unbehelligt</strong> aus dem Saal zu bringen. (<i>Der nasse Fisch</i>, 308)',
 	'Tretschkow sagte nichts mehr, aber in seinem Gesicht sah Rath, dass er die schlimmsten Ängste des Musikers ausgesprochen hatte. Er stand auf. Es war Zeit, in die Burg zurückzukehren. "Gut, Herr Tretschkow, ich möchte Sie nicht länger <strong>behelligen</strong>..." (<i>Der nasse Fisch</i>, 318)',
 	'Rath wusste inzwischen: Wolter wäre es nicht anders ergangen als Scheer, hätte er seine Verätzungen überlebt: kaltgestellt, aber nicht bestraft. Etwas anderes hatte der Polizeipräsident nie vorgehabt. Und ein Mann wie Generalmajor Seegers war völlig <strong>unbehelligt</strong> geblieben. (<i>Der nasse Fisch</i>, 540)',
+	'<u>Der stumme Tod</u>',
+	'<i>Bellmann zu Rath</i>: "Bevor Sie in meiner Firma herumschnüffeln, sollten Sie sich lieber mal den Laden von Oppenberg anschauen!" Nun hielt Bellmann seine Wut nicht länger im Zaum. "Dieser Jude kann <strong>unbehelligt</strong> Saboteure und Mörder bei mir einschleusen, während ich mich von Ihnen wie ein Verbrecher behandeln lassen muss!" (<i>Der stumme Tod</i>, 155)',
+	'<i>Bellmann zu Rath</i>: ".. Sie stellen mich an den Pranger, mich, den Geschädigten, und die eigentlichen Verbrecher lassen Sie <strong>unbehelligt</strong>, darum geht es! Auch Sie haben Vorgesetzte, Herr Rath! Ich lasse nicht alles mit mir machen! Sie sollten erkennen, wo Ihre Grenze ist!" (<i>Der stumme Tod</i>, 155)',
 	'<u>Märzgefallene</u>', 
 	'Ein hagergesichtiges Mädchen in einem groben, viel zu großen Mantel und Gummistiefeln fiel da (<i>im Kaufhaus Jonass</i>) nicht weiter auf. Hannah schlenderte durch die Gänge, vorbei an den Kleiderständern, fuhr die Treppen hinauf und hinunter, ohne <strong>behelligt</strong> zu werden. (<i>Märzgefallene</i>, 152)',
     'Charly beschleunigte ihren Schritt und sah, wie der braune Mob nach vorne wogte, gegen die Polizeikette und wieder zurück. "Macht den Weg frei!", riefen die Braununiformierten den Blauuniformierten zu. Und dann skandierten sie: "Judenbüttel! Judenbüttel!" Charly fragte sich, wie sie durch diesen aggressiven Mob <strong>unbehelligt</strong> zur Carmenstraße gelangen sollte... (<i>Märzgefallene</i>, 204)',
@@ -4672,6 +4765,9 @@ vermaledeit: [
 	'Inzwischen hatte Rath so viel Aufmerksamkeit erlangt, dass die Meute von Zörgiebel (<i>der Polizeipräsident</i>) abließ. Der nutzte die neu gewonnene Freiheit und arbeitete sich weiter zum Ausgang vor. Dort warteten Schupos, die die Aufgabe übernahmen, den Polizeichef <strong>unbehelligt</strong> aus dem Saal zu bringen. (<i>Der nasse Fisch</i>, 308)',
 	'Tretschkow sagte nichts mehr, aber in seinem Gesicht sah Rath, dass er die schlimmsten Ängste des Musikers ausgesprochen hatte. Er stand auf. Es war Zeit, in die Burg zurückzukehren. "Gut, Herr Tretschkow, ich möchte Sie nicht länger <strong>behelligen</strong>..." (<i>Der nasse Fisch</i>, 318)',
 	'Rath wusste inzwischen: Wolter wäre es nicht anders ergangen als Scheer, hätte er seine Verätzungen überlebt: kaltgestellt, aber nicht bestraft. Etwas anderes hatte der Polizeipräsident nie vorgehabt. Und ein Mann wie Generalmajor Seegers war völlig <strong>unbehelligt</strong> geblieben. (<i>Der nasse Fisch</i>, 540)',
+	'<u>Der stumme Tod</u>',
+	'<i>Bellmann zu Rath</i>: "Bevor Sie in meiner Firma herumschnüffeln, sollten Sie sich lieber mal den Laden von Oppenberg anschauen!" Nun hielt Bellmann seine Wut nicht länger im Zaum. "Dieser Jude kann <strong>unbehelligt</strong> Saboteure und Mörder bei mir einschleusen, während ich mich von Ihnen wie ein Verbrecher behandeln lassen muss!" (<i>Der stumme Tod</i>, 155)',
+	'<i>Bellmann zu Rath</i>: ".. Sie stellen mich an den Pranger, mich, den Geschädigten, und die eigentlichen Verbrecher lassen Sie <strong>unbehelligt</strong>, darum geht es! Auch Sie haben Vorgesetzte, Herr Rath! Ich lasse nicht alles mit mir machen! Sie sollten erkennen, wo Ihre Grenze ist!" (<i>Der stumme Tod</i>, 155)',
 	'<u>Märzgefallene</u>',
 	'Ein hagergesichtiges Mädchen in einem groben, viel zu großen Mantel und Gummistiefeln fiel da (<i>im Kaufhaus Jonass</i>) nicht weiter auf. Hannah schlenderte durch die Gänge, vorbei an den Kleiderständern, fuhr die Treppen hinauf und hinunter, ohne <strong>behelligt</strong> zu werden. (<i>Märzgefallene</i>, 152)',
     'Charly beschleunigte ihren Schritt und sah, wie der braune Mob nach vorne wogte, gegen die Polizeikette und wieder zurück. "Macht den Weg frei!", riefen die Braununiformierten den Blauuniformierten zu. Und dann skandierten sie: "Judenbüttel! Judenbüttel!" Charly fragte sich, wie sie durch diesen aggressiven Mob <strong>unbehelligt</strong> zur Carmenstraße gelangen sollte... (<i>Märzgefallene</i>, 204)',
@@ -5409,6 +5505,8 @@ schmächtig: [
 	'<u>Der stumme Tod</u>',
 	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der <strong>schmächtige</strong> Kriminalassistent manövrierte die Kamera mit dem sperrigen Stativ hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
 	'Der Kriminalassistent (<i>Henning</i>) erschien mit einem <strong>schmächtigen</strong> Mann im Schlepptau, den er als Hans Lüdenbach vorstellte. (<i>Der stumme Tod</i>, 30)',
+	'Rath nahm den <strong>schmächtigen</strong> Oberbeleuchter (<i>Lüdenbach</i>) bei der Schulter und entfernte sich mit ihm. Bellmann blickte ihnen beleidigt nach und rauschte schließlich ab. (<i>Der stumme Tod</i>, 156)',
+	'"Gut", sagte er (<i>Rath</i>) zu dem Bühnentechniker, "dann zeigen Sie mir doch mal, so Sie den Draht gefunden haben." Sie mussten wieder nach oben. Max Krieg war deutlich schwerer als der <strong>schmächtige</strong> Oberbeleuchter, entsprechend wackelten die Beleuchtungsbrücken. Der Bühnentechniker ging in die Hocke und zeigte ihm eine Stelle im Gitterrost. "Hier ungefähr hing das Ende fest. War kaum zu erkennen - außer wenn man auf allen vieren hier entlangkrabbelte." (<i>Der stumme Tod</i>, 159)',
 	'<u>Märzgefallene</u>', 
 	'"Sie wollen auch alle zu Herrn Rubens (<i>von Roddek</i>)?", fragte er (<i>Rath</i>) die wartende Journalistenmeute.. "Da muss man schon Geduld mitbringen", sagte Raths Nachbar, ein <strong>schmächtiges</strong> Männlein, das sich seinen Presseausweis nach amerikanischer Manier ins Hutband gesteckt hatte. (<i>Märzgefallene</i>, 329)' ,
 	'<u>Lunapark</u>',
@@ -11126,6 +11224,9 @@ Gage: [
 	'Rath hatte die Künstlerkartei schnell gefunden. Jede Menge Musiker waren dort vermerkt... Mit Adressen, Künstlernamen, besonderen Fähigkeiten und der Höhe der ausgehandelten <strong>Gage</strong>. (<i>Der nasse Fisch</i>, 135)',
 	'<u>Der stumme Tod</u>',
 	'Rudolf Czerny lebte deutlich bescheidener als seine Geliebte. Er wurde ja auch nicht von Manfred Oppenberg ausgehalten, sondern musste das alles allein von seiner <strong>Gage</strong> bestreiten. (<i>Der stumme Tod</i>, 90)',
+	'<i>Bellmann</i>: "Mehrsprachigkeit ist eine der vielen Vorzüge, die Eva (<i>Kröger</i>) mit sich bringt." <i>Rath</i>: "Und waahrscheinlich bekommt sie als Debütantin auch noch weniger <strong>Gage</strong> als die große Winter. Da haben Sie ja wirklich ein gutes Geschäft gemacht!" (<i>Der stumme Tod</i>, 154)',
+	'<i>Bellmann</i>: "Aber wenn Sie mir hier irgendwas unterstellen wollen, sollten Sie sich in Acht nehmen. Ich habe gute Anwälte.".. <i>Rath</i>: "Niemand möchte Ihnen etwas unterstellen. Es geht mir um Tatsachen. Sollte ich die Höhe der <strong>Gage</strong> falsch eingeschätzt haben, können Sie mir die Verträge gerne zeigen." (<i>Der stumme Tod</i>, 155)',
+	''
 ],
 'getäfelt, täfeln': [
   	'<strong>täfeln</strong>: to panel, line with wooden panels'+
@@ -12477,12 +12578,14 @@ heiser: [
 	'<i>Rath</i>: "Und Fallins Sturz haben Sie <i>Gräfin Sorokina</i> auch nicht verursacht?" "Als ich ihn rief, beugte er sich über das Geländer. Ich wollte abdrücken. Da fiel er auch schon. Und ich lief hinunter. Ich schwöre Ihnen, ich hätte ihn erschossen, wenn er noch am Leben gewesen wäre. Aber unten bei ihm <strong>hockte</strong> ein Mann, der sagte mir, Fallin sei tot." (<i>Der nasse Fisch</i>, 533)',
 	'<u>Der stumme Tod</u>',
 	'Als Rat sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt <strong>hockte</strong> der graue Kittel am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
-	'"Hier", murmelte der Mann im grauen Kittel (<i>Lüdenbach</i>), und Rath <strong>hockte sich<strong> neben ihm, "gucken Sie sich das mal an, das gibt\'s doch gar nicht." (<i>Der stumme Tod</i>, 32)',
+	'"Hier", murmelte der Mann im grauen Kittel (<i>Lüdenbach</i>), und Rath <strong>hockte sich</strong> neben ihm, "gucken Sie sich das mal an, das gibt\'s doch gar nicht." (<i>Der stumme Tod</i>, 32)',
 	'Die Männer vom ED, die zusammen mit dem Gerichtsmediziner inzwischen eingetroffen waren, robbten auf der Suche nach zwei Gewindebolzen über den Boden, während Dr. Schwartz neben der Leiche <strong>hockte</strong> und die Brandwunden an Kopf und Schultern begutachtete. (<i>Der stumme Tod</i>, 33-34)',
 	'<i>Rath</i>: "Seit dem ersten November neunzehnhundertneundzwanzig arbeiten Sie als Beleuchter bei der La Belle Filmproduktion in Marien..." "Wie?" Der Mann (<i>Peter Glaser</i>), der bislang wie ein Schluck Wasser auf seinem Stuhl <strong>gehockt</strong> hatte, richtete sich auf. (<i>Der stumme Tod</i>, 55)',
 	'Rath kam nicht mehr dazu, noch ein schönes Wochenende zu wünschen, Gräf hatte aufgelegt. Natürlich hatte Rath seinem Kriminalsekrtär den Samstagabend versaut, aber er selbst <strong>hockte</strong> ja auch nicht zu seinem Vergnügen in einer wildfremden, kalten Wohnung am Reichskanzlerplatz. (<i>Der stumme Tod</i>, 92)',
 	'Rath leerte sein Glas und stand auf, nahm die Weinflasche aus dem Kühler und ging an die Bar. Als er einen freien Bar<strong>hocker</strong> gefunden hatte, stellte er fest, dass es sogar an der Bar Tischtelefon und Rohrpost gab. (<i>Der stumme Tod</i>, 101)',
 	'Fast fühlte er sich wie damals, er (<i>Rath</i>) musste zwölf oder dreizehn gewesen sein, als er ein paar von Annos Zigaretten stibitzt und mit seinen Kumpels auf ihrem Baustellenversteck in Klettenberg geraucht hatte. Damals hatte er sich auch gut gefühlt. Allerdings nur am Anfang. Am Ende hatten sie alle vier an der Baugrube <strong>gehocht</strong> und gereihert wie die Weltmeister. (<i>Der stumme Tod</i>, 102)',
+	'"Gut", sagte er (<i>Rath</i>) zu dem Bühnentechniker, "dann zeigen Sie mir doch mal, so Sie den Draht gefunden haben." Sie mussten wieder nach oben. Max Krieg war deutlich schwerer als der schmächtige Oberbeleuchter, entsprechend wackelten die Beleuchtungsbrücken. Der Bühnentechniker ging in die <strong>Hocke</strong> und zeigte ihm eine Stelle im Gitterrost. "Hier ungefähr hing das Ende fest. War kaum zu erkennen - außer wenn man auf allen vieren hier entlangkrabbelte." (<i>Der stumme Tod</i>, 159)',
+	'Rath untersuchte den Metallrost, auf dem sie <strong>hockten</strong>. Plötzlich stutzte er. "Und warum sind dann auf diesem Steg auch Ösen angebracht?" (<i>Der stumme Tod</i>, 160)',
 	'<u>Märzgefallene</u>',
 	'Böhm hielt die Luft an, als er in die <strong>Hocke</strong> ging; der tote Mann, den er in Augenschein nehmen wollte, sah einfach aus wie jemand, der stank, ein Stadtstreicher eben... (<i>Märzgefallene</i>, 9)',
 	'Rath <strong>hockte sich</strong> zu dem Hund hinunter und drohte mit dem Zeigefinger. "Schäm dich", schimpfte er, und Kirie schloss die Augen. Weniger aus Scham, vermutete Rath, eher, um Schlaf nachzuholen. (<i>Märzgefallene</i>, 116)',
@@ -13460,7 +13563,8 @@ Kittel: [
 	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeits<strong>kitteln</strong>. (<i>Der stumme Tod</i>, 23)', 
 	'Der Kriminalassistent (<i>Henning</i>) erschien mit einem schmächtigen Mann im Schlepptau, den er als Hans Lüdenbach vorstellte. Rath musterte das Männlein das in seinem grauen Arbeits<strong>kittel</strong> wie ein unterbezahlter Hausmeister wirkte. (<i>Der stumme Tod</i>, 30)',
 	'Als Rat sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
-	'"Hier", murmelte der Mann im grauen <strong>Kittel<strong> (<i>Lüdenbach</i>), und Rath hockte sich neben ihm, "gucken Sie sich das mal an, das gibt\'s doch gar nicht." (<i>Der stumme Tod</i>, 32)',
+	'"Hier", murmelte der Mann im grauen <strong>Kittel</strong> (<i>Lüdenbach</i>), und Rath hockte sich neben ihm, "gucken Sie sich das mal an, das gibt\'s doch gar nicht." (<i>Der stumme Tod</i>, 32)',
+	'"Max, kommst du mal?", rief Lüdenbach in die Kulisse, und ein kräftiger Mann erschien auf der Bildfläche. Er trug einen ähnlichen <strong>Kittel</strong> wie Lüdenbach, wirkte darin aber wie ein Metzger. (<i>Der stumme Tod</i>, 156-57)',
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) verstummte, denn die Tür hatte sich mit einem leisen Knarren geöffnet. Eine Pflegerin im gestärkten weißen <strong>Kittel</strong> stand im Türrahmen....  (<i>Märzgefallene</i>, 43)',
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei <strong>Kittel</strong>schürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
@@ -13558,7 +13662,7 @@ Klaue: [
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 'Klemme, klemmen': [
 	'die <strong>Klemme</strong>,-<strong>n</strong>: clip, clamp; tight spot, dilemma'+ 
-	'<br><strong>klemmen</strong>: clip, clamp; wedge, jam'+	
+	'<br><strong>klemmen</strong>: to clip, clamp; wedge, jam'+	
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klemme"target="target1">Klemme</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klemmen?o=klemmem"target="target2">klemmem</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Klemme"target="target3">Klemme</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=klemmen"target="target4">klemmen</a>',
 	'<u>Der nasse Fisch</u>',
@@ -13568,6 +13672,9 @@ Klaue: [
 	'Er (<i>Rath</i>) nahm noch die Visitenkarte von Josef Schneid aus seiner Brieftasche und <strong>klemmte</strong> sie an das Programmheft. (<i>Der nasse Fisch</i>, 150)',
 	'Er war gerade dabei sich das Hemd in die neue Hose zu stopfen als das Telefon auf seinem Schreibtisch klingelte. "Rath, Kriminalpolizei." "Hier ebenfalls." So meldete sich nur einer: Kriminaldirektor Engelbert Rath.. "Oh, was für eine Überraschung", knurrte Gereon in den Hörer.. Er <strong>klemmte</strong> den Hörer mit der Schulter fest und zog sich weiter an, während er seinem Vater zuhörte. (<i>Der nasse Fisch</i>, 236)',
 	'Roeder <strong>klemmte</strong> die Schachtel fest unter den Arm und machte sich auf den Weg zum Treppenhaus. (<i>Der nasse Fisch</i>, 395)',
+	'<u>Der stumme Tod</u>',
+	'<i>Krieger zu Rath</i>: ".. Als wir gestern Morgen mit Victor und Eva drehten, <strong>klemmte</strong> der Effekthebel, und der Donner wurde nicht ausgelöst..."  (<i>Der stumme Tod</i>, 159)',	
+	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird <strong>geklemmt</strong> haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit." (<i>Der stumme Tod</i>, 159-60)',	
 	'<u>Märzgefallene</u>',
 	'Kommissaranwärter Steinke näherte sich mit dem Fotoapparat, die unhandliche Kamera unter den Arm <strong>geklemmt</strong>, das schwere Stativ geschultert. (<i>Märzgefallene</i>, 12)',
 	'"Na, wo isser denn, Ihr Ausweis? Her damit! Sonst können Sie die Nacht am Alex verbringen."....Klang wie ein Bulle. Was hätte Weinert darum gegeben, wäre jetzt Gereon Rath um die Ecke gekommen, der hätte ihm bestimmt aus der <strong>Klemme</strong> helfen können. (<i>Märzgefallene</i>, 59)',
@@ -13853,6 +13960,8 @@ krabbeln: [
 	'<strong>krabbeln</strong>: crawl, creep'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/krabbeln"target="target1">krabbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/krabbeln"target="target2">krabbeln</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/krabbeln"target="target3">krabbeln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/krabbeln"target="target4">krabbeln</a> ' ,
+	'<u>Der stumme Tod</u>',
+	'"Gut", sagte er (<i>Rath</i>) zu dem Bühnentechniker, "dann zeigen Sie mir doch mal, so Sie den Draht gefunden haben." Sie mussten wieder nach oben. Max Krieg war deutlich schwerer als der schmächtige Oberbeleuchter, entsprechend wackelten die Beleuchtungsbrücken. Der Bühnentechniker ging in die Hocke und zeigte ihm eine Stelle im Gitterrost. "Hier ungefähr hing das Ende fest. War kaum zu erkennen - außer wenn man auf allen vieren hier entlang<strong>krabbelte</strong>." (<i>Der stumme Tod</i>, 159)',
 	'<u>Märzgefallene</u>',
 	'Der Junge hob den Deckel hoch, und es wurde hell.... Er schaute sich im Verkaufsraum um, dann stieg er aus der Truhe. "Wir müssen los", sagte er und streckte sich. "Bevor die hier antanzen und wieder aufschließen. Wenn die uns aus der Kiste <strong>krabbeln</strong> sehen, denn is’s aus." (<i>Märzgefallene</i>, 172)',
 	'Pastor Warszawski hatte über den tieferen Sinn des Ehesakraments gesprochen,... er hatte ihre Personalien aufgenommen und war gerade dabei, sie einzutragen. "Ist das eigentlich eine Spinne, die da aus dem Kelch <strong>krabbelt</strong>?", fragte Charly plötzlich in die Stille hinein und zeigte auf das Heiligenbild an der Wand hinter dem Pastor. (<i>Märzgefallene</i>, 382)',
@@ -15298,8 +15407,10 @@ Plackerei: [
 	'die <strong>Plackerei</strong>,-<strong>en</strong>: drudgery, grind, rough going' +
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Plackerei"target="target1">Plackerei</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Plackerei/"target="target2">Plackerei</a>' +
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/plackerei"target="target3">Plackerei</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Plackerei"target="target4">Plackerei</a>' ,
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre auf dem Buckel. Aus Bellmanns altem Theater. War \'ne ganz schöne <strong>Plackerei</strong>, die hier reinzuwuchten." (<i>Der stumme Tod</i>, 157-58)',	
 	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Sie (<i>Thelen</i>) wollten mir von Ihrem Plan erzälen... Wie Sie das Gold nach Bonn geschafft haben." "Ganz einfach... Wir haben Möbel bestellt... In einer französischen Möbelfabrik bei Cambrai. Und sind mit einem großen Möbelwagen über die Grenze... Ich habe Walther mitgenommen. Der war damals erst sechzehn, konnte aber schon gut anpacken. War eine ganz schöne <strong>Plackerei</strong>, bei Nacht und Nebel. Hat aber funktioniert, wir haben die Barren hinter die Möbel gepackt, hat kein Mensch gemerkt."     (<i>Märzgefallene</i>, 519)' ,
+	'<i>Rath</i>: "Sie (<i>Thelen</i>) wollten mir von Ihrem Plan erzälen... Wie Sie das Gold nach Bonn geschafft haben." "Ganz einfach... Wir haben Möbel bestellt... In einer französischen Möbelfabrik bei Cambrai. Und sind mit einem großen Möbelwagen über die Grenze... Ich habe Walther mitgenommen. Der war damals erst sechzehn, konnte aber schon gut anpacken. War eine ganz schöne <strong>Plackerei</strong>, bei Nacht und Nebel. Hat aber funktioniert, wir haben die Barren hinter die Möbel gepackt, hat kein Mensch gemerkt. (<i>Märzgefallene</i>, 519)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -15757,6 +15868,8 @@ poltern: [
 	'<u>Der stumme Tod</u>',
 	'Ein lautes <strong>Poltern</strong> riss Gräf aus seinem Satz. Der Kriminalsekretär warf Czerwinski und Henning, die gerade umständlich begonnen hatte, das Kamerastativ auseinanderzufalten, einen kurzen Blick zu. "Vielleicht sollte <i>ich</i> lieber die Fotos machen.. Bevor die Kollegen die Kamera komplett zerlegen." (<i>Der stumme Tod</i>, 25-26)',
 	'"Das Taxi, mit dem Frau Franck weggefahren ist?", sagte er (<i>der Hotelportier</i>). "War\'n Großtarifwagen.." "Das muss am achten Februar gewesen sein," half Rath ihm auf die Sprünge. "Sind Sie sicher? Warten Sie, ich schau mal eben schnell nach." Rath hörte ein hohles <strong>Poltern</strong>, als der Hörer auf den Tresen knallte, und dann Papier rascheln. (<i>Der stumme Tod</i>, 97)',
+	'"Damit lösen wir die Donnermaschine aus", sagte Krieg. "Die brauchen wir häufiger für <i>Liebesgewitter</i>. Ein ganz normaler Theaterdonner, Eisenkugeln, die über Holzlamellen <strong>poltern</strong>. Im fertigen Film können Sie das von echtem Donner nicht unterscheiden." (<i>Der stumme Tod</i>, 157)',
+	'<i>Rath</i>: "Und wie funktioniert das Monstrum?" "Ganz einfach." Krieg zeigte auf die Spitze des Holzkastens. "Da oben drin sind Eisenkugeln. Und wenn Sie die runter<strong>poltern</strong> lassen, dann donnert\'s." (<i>Der stumme Tod</i>, 158)',
 	'<u>Märzgefallene</u>',
 	'Hanna stieß den Stuhl beiseite und war draußen, hörte hinter sich den  Stuhl <strong>poltern</strong>... (<i>Märzgefallene</i>, 69)'  ,
 	'Mitten in der Nacht waren sie gekommen, hatten gegen die Wohnungstür <strong>gepoltert</strong> und sie eingetreten, noch bevor er (<i>Leo</i>) sie öffnen konnte, und wenige Sekunden später schon im Schlafzimmer gestanden. (<i>Märzgefallene</i>, 108)',
@@ -17611,6 +17724,7 @@ schielen: [
 	'Es war Zeit, endgültig Zeit, das Ganze zu beenden. Nur nicht am Telefon. Und ganz bestimmt nicht am Diensttelefon. Rath hatte zu Gräf hinüber<strong>geschielt</strong>, zu dem konzentriert durch irgendeine Akte blätternden Kriminalsekretär, und hatte Kathi kurzerhand ins Uhlandeck bestellt. Zum Reden. (<i>Der stumme Tod</i>, 16)',
 	'"Hier", sagte Bellmann und klopfte auf das Foto, "das ist Glaser. Hat sich mit Betty gut verstanden. Besonder an diesem Abend.. Ich kann es immer noch nicht glauben. Dass sie nicht mehr da ist, meine ich." Peter Glaser hatte schon die ganze Zeit neugierig auf das Foto <strong>geschielt</strong>. Nun wurde sein Hals immer länger, die Augen fielen ihm fast aus dem Kopf. "Mensch, ich blaub\'s nicht", sagte er. "Det is ja der Felix! Wat machten der neben der Winter?" (<i>Der stumme Tod</i>, 57)',
 	'Während er (<i>Rath</i>) rauchte, blieb er im Wagen sitzen, beobachtete die Haustür, aus der kein Mensch kam, <strong>schielte</strong> ab und an zu ihren (<i>Charlys</i>) Fenstern hoch, an denen sich niemand zeigte. (<i>Der stumme Tod</i>, 119)',
+	'Lüdenbach, der Oberbeleuchter, stand wie aus dem Boden gewachsen neben ihnen und <strong>schielte</strong> ein wenig irritiert auf seinen Chef (<i>Bellmann</i>), der den Kommissar (<i>Rath</i>) anfunkelte wie ein zum Angriff bereiter Kampfhund. (<i>Der stumme Tod</i>, 155)',
 	'<u>Märzgefallene</u>',
 	'Die dunklen braunen Augen waren nach wie vor auf den Boden gerichtet. Hannah <strong>schielte</strong> nicht einmal zu dem Foto hinüber, das direkt vor ihr an der Tischkante lag. (<i>Märzgefallene</i>, 44)',
 	'Rath <strong>schielte</strong> zu dem verschmierten Gesicht hinüber. Sie (<i>die wilde Hilde</i>) sah nicht schlecht aus, soweit er das erkennen konnte. Blond und drall, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte?  (<i>Märzgefallene</i>, 72)',
@@ -17621,7 +17735,7 @@ schielen: [
 	'(<i>Rath</i>): "Und deswegen dachten Sie (<i>der Bettler</i>), das sind alte Freunde?" "Wat heeßt Freunde? Uff jeden Fall kannten die sich, det konnte sojar \'n Blinder mi\'m Krückstock sehen..." Der Bettler verstummte und <strong>schielte</strong> verlegen auf seinen Blindenstock. (<i>Märzgefallene</i>, 474)',
 	'"Eine kurze Frage", sagte er (<i>Weinert</i>). "Habe Sie schon eine Verdacht, wer den Man ermordet haben könnte?" Gräf wirkte ein wenig irritiert und <strong>schielte</strong> zu Levetzow hinüber.  (<i>Märzgefallene</i>, 498)',
 	'<u>Lunapark</u>',
-	'Sie (<i>Charly</i>) schaute Kirie an. Der Hund hatte innegehalten in seinem unruhigen Hin und Her and schielte zur Tür, durch die Fritze gerade verschwunden war.  (<i>Lunapark</i>, 31)',
+	'Sie (<i>Charly</i>) schaute Kirie an. Der Hund hatte innegehalten in seinem unruhigen Hin und Her and <strong>schielte</strong> zur Tür, durch die Fritze gerade verschwunden war.  (<i>Lunapark</i>, 31)',
 	'Raths Blick ging zu der großen blechernen Mülltonne hinüber, die weiter hinten an der Wand stand. Der Wirt hatte dort hinüber<strong>geschielt</strong> während seiner Antwort.  (<i>Lunapark</i>, 41)',
 	'Dennoch hielt sie (<i>Charly</i>) sich das <i>Tageblatt</i> weiterhin vors Gesicht und <strong>shielte</strong> über den Zeitungsrand ab und an hinüber zur anderen Straßenseite.  (<i>Lunapark</i>, 49)',
 	'Rath klingelte dreimal,.. doch in der Wohnung blieb es still. Er horchte und schaute sich kurz um. Das Treppenhaus schien leer zu sein, und er zog die Sperrhaken aus der Tasche. Bruno Wolter, sein erster Chef in Berlin, hatte ihm das beigegracht, und Rath hatte diese Fertigkeit schon oft gebrauchen können. Es krachte laut und hallte durchs Treppenhaus, als das Schloss aufsprang. Rath trat einen Schritt zurück und <strong>schielte</strong> noch einmal die Treppe hinunter, nach wie vor niemand zu sehen.       (<i>Lunapark</i>, 137)' ,
@@ -18276,6 +18390,8 @@ Seil: [
 	'Er zitterte. Nur die <strong>Seile</strong> in den Armbeugen hielten ihn aufrecht.... Er legte seine ganze Kraft in die Arme und vermied es, den Boden zu berühren. Das <strong>Seil</strong> scheuerte, er schwitzte am ganzen Körper. (<i>Der nasse Fisch</i>, 9)',
 	'Sie hatten ihn nicht gefesselt. Nachdem sie ihm Hände und Füße zertrümmert hatten, hatten sie ihn lediglich in die <strong>Seile</strong> gehängt, um ihn besser bearbeiten zu können.... (<i>Der nasse Fisch</i>, 11)',
 	'Die Wirkung der Droge ließ nach. Der Schmerz würde unerträglich sein, würde ihn womöglich zurück in die Ohnmacht treiben, wenn er den Halt der <strong>Seile</strong> aufgäbe. (<i>Der nasse Fisch</i>, 11)',
+	'<u>Der stumme Tod</u>',
+	'"Schön, Herr Krieg." Rath zeigte auf die Konstruktion an der Wand. "Vielleicht können Sie mir erst einmal diesen Hebel erklären", sagte er. "Ist das der Draht?" "Genau genommen ein dünnes Draht<strong>seil</strong>." Krieg zeigte auf einen <strong>Seil</strong>zug, der mit dem Hebel verbunden war und sich, durch kleine Ösen und Rollen geführt, oben im Atelierhimmel verlor, doch Rath konnte nicht erkennen, wohin, er sah nur das bekannte Labyrinth aus stählernen Laufstegen und schweren Stoffbahnen. (<i>Der stumme Tod</i>, 157)',
 	'<u>Märzgefallene</u>',
 	'Der Balken ächzt wie unter einer schweren Last, als das Draht<strong>seil</strong> an ihm zerrt, doch bewegen will er sich nicht. Erst als wir ein viertes Pferd anspannen, gibt er schlußendlich nach, und das Haus verliert seine letzte Stütze. (<i>Märzgefallene</i>, 159)',
 ],
@@ -18455,6 +18571,7 @@ Stange: [
 	'Zwei von Marlows Leuten hatten den defekten Kesselwagen von der anderen Seite erklommen und versuchten, das zerschossene Ventil mit einer Eisen<strong>stange</strong> wieder zu schließen. (<i>Der nasse Fisch</i>, 526)',
 	'<u>Der stumme Tod</u>',
 	'Als Rath in den Kleiderschrank schaute, klapperte es hölzern, die meisten Bügel schaukelten leer auf der <strong>Stange</strong>. Auch die Schubladen in der Kommode waren bis auf wenige Reste ausgeräumt. Krempin hatte in aller Ruhe gepackt, bevor er verschwunden war. (<i>Der stumme Tod</i>, 86)',
+	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den Gewindebolzen noch irgendein Teil? Eine <strong>Stange</strong>, ein Draht, was weiß ich, irgendetwas Verdächtiges..." (<i>Der stumme Tod</i>, 156)',
 	'<u>Goldstein</u>',
 	'Wenigstens hingen keine Kleiderbügel an der <strong>Stange</strong>. (<i>Goldstein</i>, 9)',
 	'<u>Märzgefallene</u>',
@@ -20735,6 +20852,7 @@ waghalsig: [
 	'Hinter Rath keuchte es. Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel <strong>gewuchtet</strong> hatte. (<i>Der stumme Tod</i>, 22)',
 	'Rath legte seine ganze Wut in einen trockenen, ansatzlosen Schlag, der Brenners Magengrube traf. Der Kommissar im Sträflingskostüm klappte zusammen, und Rath <strong>wuchtete</strong> ihn mit einem linken Haken wieder nach oben... (<i>Der stumme Tod</i>, 105)',
 	'<i>Rath träumt</i>: Unbeirt setzte das Messer seinen Weg fort. Langsam zwar, aber dennoch mit ungebremster <strong>Wucht</strong>. Langsam drang es in Kathis Brustkorb ein, mit einem widerlich lang gezogenen, schmatzende Geräusch. (<i>Der stumme Tod</i>, 111)',
+	'<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre auf dem Buckel. Aus Bellmanns altem Theater. War \'ne ganz schöne Plackerei, die hier reinzu<strong>wuchten</strong>." (<i>Der stumme Tod</i>, 157-58)',	
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und <strong>wuchtete</strong> seinen Pappkarton durch die Tür. (<i>Märzgefallene</i>, 540)',
 	'<u>Lunapark</u>',

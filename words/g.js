@@ -24,7 +24,8 @@ const g = [
    'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'geizen',   // geizen:
-   'Geklirr, klirren',  //duplicated  
+   'Geklirr, klirren',  //duplicated
+   'geknickt',  // geknickt:  
    'Gekrächz',  // Gekrächz:   
    'Gelände',   // Gelände:  
    'Geländer',  // Geländer:  
@@ -84,7 +85,7 @@ const g = [
    'giften, angiften',
    'giggeln',  // giggeln:  
    'Gips',   // Gips:
-   'Gitter, Laufgitter',  // duplicated  
+   'Gitter-, Metal- rost; Lauf- gitter, steg',  // duplicated 
    'gleißen, gleißend',     
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated 

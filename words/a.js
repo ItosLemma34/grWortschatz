@@ -47,6 +47,7 @@ const a = [
 	'alle naselang',  
 	'Allerwerteste',   // Allerwerteste:  
 	'alteingesessen',  // alteingesessen: 
+	'an den Pranger',  
 	'an der Backe haben',  
 	'an die große Glocke hängen',   
 	'anbändeln',    // anbändeln:  

@@ -8,6 +8,7 @@ const l = [
    'lahmarschig, Lahmarschigkeit',  
    'Laken', // Laken: 
    'lallen',  // lallen:
+   'Lamelle',  // Lamelle:
    'lange Nase zeigen/machen', //  duplicated 
    'Lappen, durch die L. gehen',   // duplicated
    'läppisch', // läppisch:  
@@ -19,7 +20,7 @@ const l = [
    'lauern',  // lauern:  
    'Lauf',    // Lauf: 
    'Laufbursche',  // Laufbursche: 
-   'Laufgitter, Gitter',  //  duplicated
+   'Lauf- gitter, steg; Gitter-, Metal- rost',  //  duplicated
    'lausig',  // lausig: 
    'läutern, Läuterung',  
    'Leibesvisitation', // Leibesvisitation: 

@@ -22,8 +22,9 @@ const v = [
    'vergeigen', //  vergeigen: 
    'vergewissern', //  vergewissern:  
    'ver­grau­len, Vergraulung', // 
-   'vergreifen', // vergreifen:  
+   'vergreifen', // vergreifen:
    'verhageln' ,  // verhageln:  
+   'verhaken',  // verhaken:  
    'verhallen' ,  // verhallen: 
    'verheben',  // verheben:  
    'verheddern',  // verheddern: 

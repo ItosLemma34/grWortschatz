@@ -185,6 +185,7 @@ const s = [
    'spicken',  // spicken:  
    'Spieß, spießen, aufspießen',  //  duplicated
    'Spind',  // Spind:
+   'spinnert',  // spinnert:
    'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel: 
    'spreizen', // spreizen: 

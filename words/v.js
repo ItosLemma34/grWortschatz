@@ -28,7 +28,6 @@ const v = [
    'verhallen' ,  // verhallen: 
    'verheben',  // verheben:  
    'verheddern',  // verheddern: 
-   'verheult, ausheulen, heulen',  // triplicated
    'verhexen',   // verhexen: 
    'verhökern',  // verhökern: 
    'verhunzen',  // verhunzen: 
@@ -63,7 +62,8 @@ const v = [
    'verrufen', // verrufen:  
    'verrußt, Ruß', // duplicated 
    'verrutschen',  // verrutschen:  
-   'versacken',  // versacken:  
+   'versacken',  // versacken:
+   'versanden',  // versanden:  
    'versauen',   // versauen:  
    'versaufen', // versaufen: 
    'verschanzen',  // verschanzen:  

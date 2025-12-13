@@ -52,7 +52,7 @@ const h = [
    'herumlungern', // herumlungern:  
    'hetzen, gehetzt',  //  duplicated *
    'heucheln, vorheucheln', // duplicated 
-   'heulen, ausheulen, verheult',  // triplicated
+   'heulen, aus-, ver-, voll-',  
    'Heulsuse', // Heulsuse:  
    'hieven',  // hieven: 
    'hineinreiten, reinreiten',  // duplicated 
@@ -72,7 +72,8 @@ const h = [
    'Hose (in die H. machen/gehen)', // duplicated     
    'Hosenmatz',  // Hosenmatz:  
    'Hosennaht',  // Hosennaht:  
-   'Hudelei, Lobhudelei', //  duplicated 
+   'Hudelei, Lobhudelei', //  duplicated
+   'Hufeisen',  // Hufeisen: 
    'Hühnchen rupfen, rupfen',  // duplicated
    'Hühnerauge', // Hühnerauge: 
    'Hülse',  // Hülse: 
@@ -81,7 +82,6 @@ const h = [
    'Hüne',  // Hüne: 
    'huschen',  // huschen: 
    'husten, hüsteln',
-   'Hut (auf der H. sein)',  //  duplicated 
  ];
 
 export default h;

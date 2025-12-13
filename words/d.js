@@ -31,6 +31,7 @@ const d = [
    'Dreizack',  // Dreizack  
    'Dreistigkeit, dreist',   
    'drosseln',  // drosseln: 
+   'Drücker (auf den letzten D.)',  //duplicated
    'Druckfahne', // Druckfahne: 
    'drucksen, herumdrucksen',   // duplicated 
    'drunter und drüber gehen',  

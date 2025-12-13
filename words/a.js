@@ -116,12 +116,14 @@ const a = [
 	'auf dem Trockenen sitzen', // duplicated 
 	'auf den Arm nehmen',  //  duplicated 
 	'auf den Leim gehen',  //  duplicated 
+	'auf den letzten Drücker',  // duplicated
 	'auf den Putz hauen',  //   duplicated 
 	'auf den Schlips treten', //  duplicated 
 	'auf den Strich gehen', //  duplicated 
 	'auf den Wecker gehen', //  duplicated 
 	'auf den Zahn fühlen',  //  duplicated 
-	'auf der Hut sein',  //  duplicated 
+	'auf der hohen Kante',
+	'auf der Hut sein',  
 	'auf der Nase herumtanzen',  // duplicated 
 	'auf die Nase binden',  //  duplicated 
 	'auf die Palme treiben/bringen',  //  duplicated 
@@ -188,7 +190,6 @@ const a = [
 	'ausfransen',  // ausfransen:  
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung', 
-	'ausheulen, heulen, verheult',  // triplicated     
 	'ausklinken, einklinken',  // duplicated 
 	'ausleiern', // ausleiern: 
 	'ausmergeln', // ausmergeln:

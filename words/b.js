@@ -4,7 +4,8 @@ const b = [
     'Bälde',  // Bälde:
     'Balken, Gebälk', // duplicated  
     'ballern',  // ballern:  
-    'Banderole', // Banderole: 
+    'Banderole', // Banderole:
+    'bärbeißig',  // bärbeißig: 
     'barsch',   // barsch: 
     'Bartstoppel', // Bartstoppel: 
     'Baskenmütze',  // Baskenmütze:  
@@ -76,7 +77,8 @@ const b = [
     'Bordstein', // Bordstein: 
     'borniert',  // borniert: 
     'Böschung', // Böschung: 
-    'Bösewicht',  // Bösewicht:  
+    'Bösewicht',  // Bösewicht: 
+    'Bottich',  // Bottich: 
     'Boulette',   // Boulette:  
     'Brache',  // Brache:  
     'brandschatzen',  // brandschatzen: 

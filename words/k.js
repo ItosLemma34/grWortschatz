@@ -21,10 +21,11 @@ const k = [
    'kauern',  // kauern: 
    'Kaution', // Kaution: 
    'Kauz, kauzig',  // 
-   'kegeln',  // kegeln: 
-   'keilen, Keil',  // 
-   'Keim, keimen',  // 
-   'kein Kraut gewachsen', // 
+   'kegeln',  // kegeln:
+   'keifen',  // keifen: 
+   'keilen, Keil',   
+   'Keim, keimen',   
+   'kein Kraut gewachsen',  
    'keinen Reim machen können', //  duplicated 
    'keinen S. haben, schimmern, Schimmer', // duplicated
    'keinen Zwang antun',  // duplicated 
@@ -32,17 +33,17 @@ const k = [
    'Kerbholz (auf dem K. haben)',//  duplicated 
    'Kerbe',  // Kerbe: 
    'Kerker', // Kerker: 
-   'ketten, Kette, Kettenkarussell', // 
+   'ketten, Kette, Kettenkarussell',  
    'keuchen',  // keuchen:
    'Keule', // Keule: 
    'kichern',  // kichern: 
-   'Kieker (auf dem K. haben)', // 
-   'Kies, Kiesel', // 
-   'Kimme und Korn',  // 
+   'Kieker (auf dem K. haben)',  
+   'Kies, Kiesel',  
+   'Kimme und Korn',   
    'Kinderficker',  // Kinderficker: 
    'Kinkerlitzchen', // Kinkerlitzchen: 
    'Kipplaster',  // Kipplaster: 
-   'Kirschen essen', // 
+   'Kirschen essen',  
    'Kittel',  // Kittel: 
    'kitten',  // kitten:
    'kitzeln', // kitzeln: 
@@ -51,7 +52,7 @@ const k = [
    'Kladde',  // Kladde: 
    'klaffen', // klaffen: 
    'klamm',  // klamm: 
-   'Klammer, klammern', //  
+   'Klammer, klammern',   
    'klammheimlich', // klammheimlich: 
    'Klappe', // Klappe: 
    'klappern',  // klappern: 
@@ -72,7 +73,7 @@ const k = [
    'Kloschüssel, Schüssel', // duplicate 
    'Kloß',   // Kloß: 
    'klotzen', // klotzen: 
-   'Klumpen, Klumpfuß',  // 
+   'Klumpen, Klumpfuß',   
    'Klüngel',  // Klüngel:   
    'knacken',  // knacken: 
    'Knall, knallen',  
@@ -93,7 +94,7 @@ const k = [
    'Knochen/Kopf hinhalten', // duplicated 
    'knorke',  // knorke:  
    'knorrig',  // knorrig: 
-   'Knuff, knuffen',  //   
+   'Knuff, knuffen',     
    'knüllen, zerknüllen',  // duplicated  
    'Knüller',  // Knüller: 
    'Knüppel', // Knüppel: 

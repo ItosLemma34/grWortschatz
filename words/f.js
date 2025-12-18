@@ -59,7 +59,8 @@ const f = [
    'Fraktur', // Fraktur:   
    'Fratze',  // Fratze: 
    'Freiersfüße', // Freiersfüße: 
-   'frequentieren',  // frequentieren:  
+   'frequentieren',  // frequentieren:
+   'Fresse',  // Fresse:  
    'Frevel',    // Frevel:  
    'frisieren',  // frisieren:
    'fristen',  // fristen: 

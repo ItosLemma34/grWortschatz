@@ -12,7 +12,7 @@ const b = [
     'bäuchlings', // bäuchlings: 
     'bauschen, aufbauschen',  //  duplicated 
     'beackern',  // beackern:
-    'beäugen',  // beäugen:   beaeugen
+    'beäugen',  // beäugen:  
     'bedröppelt',  // bedröppelt: 
     'beflissen',  // beflissen: 
     'begrapschen',  // begrapschen:  
@@ -62,12 +62,12 @@ const b = [
     'Blechschaden',  // Blechschaden: 
     'blendend',  // blendend:  
     'blinzeln',  // blinzeln:  
-    'Blöße, sich keine B. geben', //   
+    'Blöße, sich keine B. geben',    
     'bloßstellen', // bloßstellen: 
     'blutrünstig', // blutrünstig: 
     'bockig' ,  // bockig: 
     'Bodensatz',  // Bodensatz:  
-    'Bogen, den B. raushaben', //   
+    'Bogen, den B. raushaben',  
     'Bohei',   // Bohei: 
     'Bohle',    // Bohle:  
     'bohnern',  // bohnern: 

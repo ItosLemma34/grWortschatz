@@ -15,7 +15,8 @@ const e = [
    'einfädeln',  // einfädeln:  
    'einflößen',  // einflößen: 
    'einfrieden', // einfrieden: 
-   'Eingebung',   // Eingebung:  
+   'Eingebung',   // Eingebung:
+   'eingehen wie eine Primel',  // duplicated  
    'Eingeweide', // Eingeweide: 
    'einhaken',   //  einhaken:
    'einheimsen',  // einheimsen:

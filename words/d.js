@@ -1,5 +1,4 @@
 const d = [
-   'Dach (aufs D. steigen)', //duplicated 
    'Dachlatte, Zaunlatte', // duplicated  
    'dahinraffen, raffen',  // duplicated 
    'dämlich, Dämlichkeit',  

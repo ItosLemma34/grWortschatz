@@ -59,17 +59,18 @@ const p = [
    'Präsent, präsent',   
    'prasseln',  // prasseln: 
    'preschen',  // preschen: 
-   'prickeln',  // prickeln: 
+   'prickeln',  // prickeln:
+   'Primel, eingehen wie eine P.',  // duplicated 
    'Prise' ,  // Prise: 
    'Pritsche', // Pritsche: 
    'Prothese', // Prothese: 
-   'Protz, protzen, protzig', // 
+   'Protz, protzen, protzig',  
    'prusten',  // prusten:  
    'pudern',  // pudern: 
    'Pulle',  // Pulle: 
    'pumpen', // pumpen: 
    'Puppen (bis in die P.)', // duplicated 
-   'Puste, pusten', // 
+   'Puste, pusten',  
    'Pute',  // Pute: 
    'Putz', // Putz: 
    'Putz (auf den P. hauen)', //  duplicated  

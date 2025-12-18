@@ -82,14 +82,15 @@ const v = [
    'verschnüren',  // verschnüren:  
    'verschollen', // verschollen:  
    'verschorft, verschorfen', // 
-   'verschränken, verschränkt, Verschränkung',  //   
+   'verschränken, verschränkt, Verschränkung',  
+   'verschreien',  // verschreien:   
    'verschrumpeln',  // verschrumpeln: 
    'verschüchtern, schüchtern',  //duplicated
    'verschwägert, verschwägern',
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
-//   'versehren',   need more past examples
+//   'versehren',   need more past examples  
    'versengen',  // versengen:  
    'verseuchen', // verseuchen:
    'versickern',  // versickern: 

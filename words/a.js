@@ -9,7 +9,6 @@ const a = [
 	'abgreifen, abgegriffen',
 	'abhalftern, abgehalftert',   
 //	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
-	'abheften, heften, Hefter', // duplicated 
 	'abkanzeln' , // abkanzeln:  
 	'abklappern', // abklappern: 
 	'abknallen',  // abknallen:  
@@ -44,6 +43,7 @@ const a = [
 	'ächzen',     // ächzen:  ä sorted as ae 
 	'Affekthandlung',   // Affekthandlung: 
 	'Affenzahn (mit einem A.)', // duplicated
+	'Albernheit, albern, herum-',
 	'alle naselang',  
 	'Allerwerteste',   // Allerwerteste:  
 	'alteingesessen',  // alteingesessen: 
@@ -160,7 +160,7 @@ const a = [
 	'aufputschen',  // aufputschen: 
 	'aufrappeln, hochrappeln', // duplicated  
 	'aufs Auge drücken', // duplicated   
-	'aufs Dach steigen',    // duplicated    
+	'aufs Dach steigen',       
 	'aufs Korn nehmen',  // duplicated 
 	'aufschaukeln, schaukeln', //  duplicated  
 	'aufscheuchen',    // aufscheuchen:   
@@ -173,7 +173,8 @@ const a = [
 	'auftakeln',     // auftakeln: 
 	'auftischen',    // auftischen:  
 	'Aufwartung machen',  
-	'aufwiegen',     // aufwiegen:  
+	'aufwiegen',     // aufwiegen: 
+	'aufwirbeln, wirbeln',  // duplicated 
 	'aufwühlen, aufgewühlt',  
 	'Auge (aufs A. drücken)',  // duplicted 
 	'aus dem Konzept bringen', // duplicated     

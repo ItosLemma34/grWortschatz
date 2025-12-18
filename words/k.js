@@ -36,7 +36,7 @@ const k = [
    'ketten, Kette, Kettenkarussell',  
    'keuchen',  // keuchen:
    'Keule', // Keule: 
-   'kichern',  // kichern: 
+   'kichern, Gekicher',  // duplicated 
    'Kieker (auf dem K. haben)',  
    'Kies, Kiesel',  
    'Kimme und Korn',   

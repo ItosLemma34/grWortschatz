@@ -47,6 +47,7 @@ const u = [
    'unverfänglich', // unverfänglich: 
    'unverfroren',  // unverfroren:  
    'unverrichteter Dinge',
+   'Unversehrtheit, versehren',  // duplicated
    'unverwandt', // unverwandt:  
    'unwirsch',  // unwirsch: 
 ];

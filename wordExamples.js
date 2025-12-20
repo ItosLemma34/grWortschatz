@@ -2560,6 +2560,8 @@ Gewirr: [
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmen<strong>gewirr</strong> klang in dem eichengetäfelten Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'Rath war für einen Moment unaufmerksam und fand sich plötzlich in den engen Basargassen einer orientalischen Stadt wieder, die wie ein verirrter Traum aus Tausendundeiner Nacht in der märkischen Winterlandschaft stand. Am Ende des Gassen<strong>gewirrs</strong> trat er durch das große Portal einer Moschee wieder ins Freie und sah die unverputzte Rückseite. (<i>Der stumme Tod</i>, 73)',
 	'Der Laden war brechend voll. Das Stimmen<strong>gewirr</strong> übertönte fast die Musik. Sogar einen Sänger leistete man sich, der die jüngsten Stimmungsschlager zum besten gab. (<i>Der stumme Tod</i>, 98-99)',
+	'<u>Märzgefallene</u>',
+	'Der Gesang von Willi Ostermann kratzte aus den Lautsprechern und übertönte das Stimmen<strong>gewirr</strong> der Leute, die sich im Lichthof des Kaufhauses Tietz zu den Rolltreppen drängten. (<i>Märzgefallene</i>, 18)',
 	'<u>Lunapark</u>',
 	'Rath hatte sich schon häufiger gefragt, ob man den Alex früher, im <strong>Gewirr</strong> der Baustellenzäune, trotz aller Hindernisse nicht scheller und einfacher hatte überqueren können als heute... (<i>Lunapark</i>, 341)',
 	'<u>Marlow</u>',
@@ -3734,7 +3736,8 @@ Sims: [
 	'<u>Der nasse Fisch</u>',   
 	'"Nein", sagte sie und schüttelte energisch den Kopf, "auf dem <strong>Sims</strong>!.. Da ist er einfach raus, und nun kommt er nicht mehr zurück! Der arme Napoleon!" Rath beugte sich aus dem Fenster. Fünf, sechs Meter rechts von ihm saß ein fetter schwarzer Kater auf dem Fassadenvorsprung und fauchte ihn an. (<i>Der nasse Fisch</i>, 425)',
 	'Rath wusste zwar nicht warum, aber er merkte, dass er hier nicht eher rauskam, bevor ein fetter Kater namens Napoleon einer alten Dame namens Elfriede Gaede wieder um die Beine strich. Er legte Hut und Jackett ab und kletterte aus dem Fenster. Das <strong>Sims</strong> war nicht sehr breit. Wie eine Klette klebte er an der Wand und tastete sich auf den Kater zu. (<i>Der nasse Fisch</i>, 425-26)',
-//	'<u>Märzgefallene</u>',    
+	'<u>Der stumme Tod</u>',
+	'Der Projektor begann zu surren, ein Lichtstrahl schoss durch das Dunkel und ließ den Zigarettenrauch tanzen. Die Rollen zogen an, und kurz daraus sahen die Männer eine Filmklappe auf der Leinwand. Winkler stellte scharf, die Klappe wurde weggezogen, und Rath erkannte Betty Winter im Seidenkleid. Sie atmete heftig, im Hintergrund lehnte Victor Meiner im Abendanzug am Kamin<strong>sims</strong>. (<i>Der stumme Tod</i>, 164)',
 //	'<u>Lunapark</u>',   
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
@@ -8234,6 +8237,8 @@ Armbeuge: [
 	'Grimberg zögerte. "Hat Roddeck Ihnen das nicht erzählt? Das wir wieder in Frankreich waren, nach dem Krieg?" "Nein." Dass er es versäumt hatte Roddeck ernsthaft zu befragen, weil er dessen Geschichte nicht geglaubt hatte, wollte Rath dem Sprengmeister nicht <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 275)',
 	'<u>Lunapark</u>',
 	'Dann hatte der Kriminaldirektor die Sitzung beendet, Rath jedoch gebeten, ihm Berict zu erstatten, wenn er aus der Gerichtsmedizin zurückgekehrt sei. Dass er auf dem Weg zum Leichenschauhaus einen Umweg über die Kleine Alexanderstraße machen würde, hatte Rath seinem Vorgesetzten nicht <strong>auf die Nase gebunden</strong>. (<i>Lunapark</i>, 89)',
+	'<u>Marlow</u>',
+	'<i>Böhm</i>: "Sagen Sie, Oberkommissar, der Fahrgast, der bei jener Todesfahrt ums Leben gekommen ist .. könnten Sie sich vorstellen, dass irgendjemand diesen Mann tot sehen wollte? Und falls ja, könnten Sie sich vorstellen wer?" "Cui bono, meinen Sie?", fragte Rath und kratzte sich am Kinn. Natürlich gab es da einige denkbare Mordmotive, wenn er an Brunners Geheimdiensttätigkeit dachte, nur konnte er die Böhm nicht <strong>auf die Nase binden</strong>. (<i>Marlow</i>, 206)',
 ],
 'Nase (auf die N. binden)': [ 
 	'<strong>auf die Nase binden</strong>: tell so. sth. he doesn\'t need to/want to/shouldn\'t hear'+
@@ -8246,6 +8251,8 @@ Armbeuge: [
 	'Grimberg zögerte. "Hat Roddeck Ihnen das nicht erzählt? Das wir wieder in Frankreich waren, nach dem Krieg?" "Nein." Dass er es versäumt hatte Roddeck ernsthaft zu befragen, weil er dessen Geschichte nicht geglaubt hatte, wollte Rath dem Sprengmeister nicht <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 275)',
 	'<u>Lunapark</u>',
 	'Dann hatte der Kriminaldirektor die Sitzung beendet, Rath jedoch gebeten, ihm Berict zu erstatten, wenn er aus der Gerichtsmedizin zurückgekehrt sei. Dass er auf dem Weg zum Leichenschauhaus einen Umweg über die Kleine Alexanderstraße machen würde, hatte Rath seinem Vorgesetzten nicht <strong>auf die Nase gebunden</strong>. (<i>Lunapark</i>, 89)',
+	'<u>Marlow</u>',
+	'<i>Böhm</i>: "Sagen Sie, Oberkommissar, der Fahrgast, der bei jener Todesfahrt ums Leben gekommen ist .. könnten Sie sich vorstellen, dass irgendjemand diesen Mann tot sehen wollte? Und falls ja, könnten Sie sich vorstellen wer?" "Cui bono, meinen Sie?", fragte Rath und kratzte sich am Kinn. Natürlich gab es da einige denkbare Mordmotive, wenn er an Brunners Geheimdiensttätigkeit dachte, nur konnte er die Böhm nicht <strong>auf die Nase binden</strong>. (<i>Marlow</i>, 206)',
 ],
 'auf die Palme treiben/bringen': [ 
 	'jmdn. <strong>auf die Palme treiben\/bringen</strong>: drive so. up the wall, make angry'+
@@ -12951,18 +12958,43 @@ johlen: [
 ],
 	// '<u>Der nvonasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', 
 //<strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Gräf</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-kratzen: [
+kratzen: [  
 	'<strong>kratzen</strong>: scratch, scrape, grate'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kratzen"target="target1">kratzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kratzen"target="target2">kratzen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kratzen"target="target3">kratzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kratzen"target="target4">kratzen</a>',
-//	'<u>Der nasse Fisch</u>',
-//	'<u>Der stumme Tod</u>',
-//	'<u>Märzgefallene</u>',
+	'<u>Der nasse Fisch</u>',
+	'Mit verklebten Augen schaute er (<i>Rath</i>) sich um. Auf dem Plattenspieler drehte eine Platte sinnlose Pirouetten und ließ den Lautsprecher leise <strong>kratzen</strong>. (<i>Der nasse Fisch</i>, 43)',
+	'Sie (<i>Wolter und Rath</i>) schauten sich suchend um. Kein Mensch zu sehen, keine Stimme mehr zu hören. In der Nachbarwohnung sang Richard Tauber mit <strong>kratzender</strong> Grammophonstimme, als gingen ihn die Ereignisse draußen nichts an. (<i>Der nasse Fisch</i>, 71)',
+	'"Rath, Kommissar Gereon Rath, Inspektion E", sagte der Polizist. "Wir haben vorhin telefoniert." Doktor schwartz nickte ihm zu und <strong>kratzte sich</strong> am Kinn. "Stimmt", sagte er, "aber das passt jetzt nicht. Ich habe hier mit Oberkommissar Böhm noch eine Besprechung." (<i>Der nasse Fisch</i>, 84)',
+	'Sein (<i>Gennats</i>) Blick, der gerade noch dem zurückgelassenen Kuchenteller nachgetrauert hatte, wurde plötzlich ernst. "Wo?", fragte er und zückte einen Bleistift. "Wann?" Der Bleistift <strong>kratzte</strong> über Papier.. Gennat ließ den Bleistift <strong>kratzen</strong> und schwieg. Ob er zuhörte oder überlegte, war nicht zu erkennen. (<i>Der nasse Fisch</i>, 279)',
+	'"So", sagte er (<i>Rath</i>). "Dann erzählen Sie doch mal von Anfang an: Wann und wie haben Sie entdeckt, dass da auf der Baustelle was nicht stimmt?" Der Polier <strong>kratzte sich</strong> am Kopf. "Na, heut Morjen natürlich. Ick hoffe, Sie wollen jetzt keene jenaue Uhrzeit wissen, wa?" (<i>Der nasse Fisch</i>, 284)',
+	'<i>Wolter</i>: "Was für eine Überraschung", sagte er. "Schon feierabend? Man erählt sich, die Inspektion A hat in der letzten Zeit viel zu tun." <i>Rath</i>: "Das kann man wohl sagen. Gerade eben habe wir einen Mann von einem Steinboden <strong>kratzen</strong> müssen. Wollte durchs Treppenhaus fliegen, ist ihm nicht bekommen. Gestern ein toter Russe, heute schon wieder. Diese Leute leben gefährlich!..." (<i>Der nasse Fisch</i>, 484)',
+	'<u>Der stumme Tod</u>',
+	'"Du musst laut stellen", sagte Dressler. Winkler drehte an einem Knopf, es <strong>kratzte</strong>, und dann hörten sie wieder Dresslers Stimme, diesmal aber wie von ferne aus dem Lautsprecher: "Uuunnnd... bitte!" (<i>Der stumme Tod</i>, 164)',
+	'"Ende der Vorstellung", sagte Winkler in die Stille, in der außer dem Surren des Projektors und dem <strong>Kratzen</strong> im Lautsprecher nichts mehr zu hören war. "Wollen Sie\'s noch mal sehen?" Rath nickte. (<i>Der stumme Tod</i>, 165)',
+	'<u>Märzgefallene</u>',
+	'Der Gesang von Willi Ostermann <strong>kratzte</strong> aus den Lautsprechern und übertönte das Stimmengewirr der Leute, die sich im Lichthof des Kaufhauses Tietz zu den Rolltreppen drängten. (<i>Märzgefallene</i>, 18)',
+	'<i>Charly zu Gereon</i>: "Bist du etwa eifersüchtig?" "Quatsch. Aber.. wir sind verlobt! Wenn du ausgehst, sollte ich eigentlich mitkommen. Gerade an einem Abend wie heute." "Das fehlte noch! Greta <strong>kratzt</strong> dir die Augen aus." (<i>Märzgefallene</i>, 106)',
+	'Der SA-Mann schritt den Weg unter den Abwasserrohren entlang, bis er bei ihnen angekommen war. "Juretzka, Leopold!" Beim ersten Versuch versagte Leos Stimme, dann aber <strong>kratzte</strong> er ein "Hier" aus seinem Hals. (<i>Märzgefallene</i>, 111)',
+	'"Sie waren also mit Heinrich Wosniak bekannt", begann er das Gespräch, und Roddeck nickte. Rath zeigte auf Erika Voss. "Antworten Sie bitte mit Ja oder Nein - für das Protokoll." "Ja, ich kannte ihn", sagte der Freiherr, und der Stenostift <strong>kratzte</strong> über das Papier. (<i>Märzgefallene</i>, 131)',
+	'".. wir alle haben ihn für tot gehalten, doch er lebt. Ohne jeden Zweifel. Und er hat meinen treuen Heinrich getötet." <i>Rath</i>: "Wer, Herr von Roddeck?" Achim von Roddeck zog noch einmal an seiner Zigarette, und Erika Voss verdrehte die Augen. "Sein Name ist Benjamin Engel. Er war unser Hauptmann an der Westfront." Und endlich konnte der Bleistift der Voss übers Papier <strong>kratzen</strong>. (<i>Märzgefallene</i>, 134)',
+	'"Ich fühle mich nicht gut", sagte sie (<i>Charly</i>) zu Karin... "Ich befürchte fast, dass ich mir in der Nacht am Reichstag etwas eingefangen habe." "Ja, das geht schnell in dieser Jahreszeit", meinte Karin. "Ich hab auch schon so ein <strong>Kratzen</strong> im Hals." (<i>Märzgefallene</i>, 188)',
+	'"Haben Sie sich alles gemerkt?", fragte er (<i>Rath</i>). "Den Nollendorfplatz kennen Sie doch?" "Ja", sagte Juretzka. Seine Stimme <strong>kratzte</strong>, er schien länger nicht mehr gesprochen zu haben. (<i>Märzgefallene</i>, 242)',
+	'Roddeck blitzte ihn (<i>Rath</i>) zornfunkelnd an. Die Temme hatte aufgehört, den Leutnant anzuhimmeln, und konzentrierte sich nun ganz auf ihren Stenoblock und ihren Bleistift. "Was wissen Sie schon!?", rief Roddeck aus. Der Stenostift <strong>kratzte</strong> übers Papier, und der Leutnant schaute irritert, als er feststellte, das die Temme auch solche Sätze mitschrieb. (<i>Märzgefallene</i>, 342)',
+	'"Wie geht\'s dir?", fragte er (<i>Fritze</i>). Sie (<i>Hannah</i>) sagte nichts, sondern nahm ihn in den Arm, zog ihn regelrecht an sich. Sie war selbst überrascht, wie sehr sie sich freute, ihn zu sehen. "Schon besser", sagte sie und merkte, wie ihre Stimme <strong>kratzte</strong>. "Schon besser." (<i>Märzgefallene</i>, 463)',
+	'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, <strong>kratzte</strong> unter den Armen, und mit der weißen Haube auf ihren blond gefärbten Haaren und der weißen Rüschenschürze fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
 	'<u>Lunapark</u>',
+	'Ein Spurensicherer <strong>kratzte</strong> etwas Farbe von der Parole an der Wand und ließ sie in eine Blechdose rieseln, ein anderer markierte einen größeren eingetrockneten Farbklecks auf dem Boden, unweit der Leiche. (<i>Lunapark</i>, 21-22)',
+	'<i>Bestmann</i>: ".. Katsche ist meist alleene nach Hause. Gestern ooch. Is ja nich weit." <i>Rath</i>: "Und draußen auf der Straße? Ist da jemand hinter ihm her?" Bestmann <strong>kratzte sich</strong> am Kopf. "Keene Ahnung..." (<i>Lunapark</i>, 34)',
 	'Die Menschen standen in kleinen Gruppen beisammen, tranken, rauchten und redeten. Aus dem Lautsprecher eines elektrischen Plattenspielers <strong>kratzte</strong> die Stimme von Max Hansen. (<i>Lunapark</i>, 155)',
 	'Der Anführer machte eine Kopfbewegung zum Plattenspieler, und ein SA-Mann griff in den Tonarm und beendete den Gesang mit einem hässlichen <strong>Kratzen</strong>. Er nahm die Schallplatte vom Teller und ließ sie quer durch den Raum segeln, wo sie an einem Aktenschrank zerschellte. (<i>Lunapark</i>, 165)',
+	'Bei jedem Wort, das Gennat oder der SA-Mann sprachen, machte Christel Temme Notizen. Und das <strong>Kratzen</strong> des Bleistifts schien Wilhelm Landvogt noch nervöser zu machen als die Fragen des Dicken. (<i>Lunapark</i>, 232)',
+	'<u>Marlow</u>',
+	'<i>Rath</i>: "Nun, Herr Brückner, stimmt das? Hat der Fahrer wirklich Gas gegeben?" "Jawohl, Oberkommissar. Man hat den Motor richtig aufheulen jehört." "Hmm", machte Rath und <strong>kratze sich</strong> am Kinn. "Vielleicht hat er in Panik die Pedale verwechselt. Das kommt vor." (<i>Marlow</i>, 32)',
+	'Im Fußraum entdeckte er (<i>Rath</i>) eine schwarzlederne Aktentasche, die unter den Sitz gerutscht sein musste und dort festklemmte. Rath musste kräftig ziehen, um sie zu befreien. Sie sah so gut wie unversehrt aus. Wie zerbrechlich doch so ein Mensch ist, dachte er. Zwei Männer sterben, und diese Tasche bekommt nicht einmal einen <strong>Kratzer</strong> ab. (<i>Marlow</i>, 34)',
+	'<i>Böhm</i>: "Sagen Sie, Oberkommissar, der Fahrgast, der bei jener Todesfahrt ums Leben gekommen ist .. könnten Sie sich vorstellen, dass irgendjemand diesen Mann tot sehen wollte? Und falls ja, könnten Sie sich vorstellen wer?" "Cui bono, meinen Sie?", fragte Rath und <strong>kratzte sich</strong> am Kinn. Natürlich gab es da einige denkbare Mordmotive, wenn er an Brunners Geheimdiensttätigkeit dachte, nur konnte er die Böhm nicht auf die Nase binden. (<i>Marlow</i>, 206)',
 ],
-// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
+// ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü c       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 // (<i>Der nasse Fisch</i>, 000)', (<i>Der stumme Tod</i>, 000)', (<i>Märzgefallene</i>, 000)', (<i>Lunapark</i>, 000)', 
 kreuzfidel: [
@@ -13037,6 +13069,8 @@ Klappe: [
 	'<u>Der stumme Tod</u>',
 	'Ton und Kamera liefen wieder, im Atelier wurde es still wie in einer Kirche vor dem Segen. Die <strong>Klappe</strong> zerhackte die Stille. (<i>Der stumme Tod</i>, 12)',
 	'Gegen die riesige stählerne Schiebetür hätte sich ein Scheunentor bescheiden ausgenommen. Die darin eingelassene Stahltür normaler Große erinnerte an eine Katzen<strong>klappe</strong>. Mit leichtem Quietschen ließ sie sich öffnen, und Rath trat hindurch. Hinter der Katzen<strong>klappe</strong> erwartete ihn ein uniformierter Wachmann. (<i>Der stumme Tod</i>, 74)',
+	'Der Projektor begann zu surren, ein Lichtstrahl schoss durch das Dunkel und ließ den Zigarettenrauch tanzen. Die Rollen zogen an, und kurz daraus sahen die Männer eine Film<strong>klappe</strong> auf der Leinwand. Winkler stellte scharf, die <strong>Klappe</strong> wurde weggezogen, und Rath erkannte Betty Winter im Seidenkleid. (<i>Der stumme Tod</i>, 164)',
+	'Der Kameramann ließ den Film zurücklaufen bis zu der Stelle, an der die Klappe zusammengeschlagen wurde. Dann holte er eine zweite Rolle, die er in ein Gerät einlegte, auf dem <i>Klangfilm</i>-Schriftzug prangte. (<i>Der stumme Tod</i>, 164)',
 	'<u>Märzgefallene</u>',
 	'"Dürfte ich Sie jetzt bitten, nicht mehr zu reden. Damit stören Sie die Befragung." Charly hatte das, in strengem Ton, zu der Schwester gesagt, aber auch Karin gemeint. Die sollte verdammt noch mal stenografieren und die <strong>Klappe</strong> halten! (<i>Märzgefallene</i>, 44)',
 	'<i>Verdammt</i>, dachte Leo. <i>Halt deine große <strong>Klappe</strong>, Leopold Juretzka, nur einmal im Leben, halt deine <strong>Klappe</strong></i>! Er blieb stumm, als Lapke weiterredete.  (<i>Märzgefallene</i>, 222)',
@@ -13724,6 +13758,7 @@ Kittel: [
 	'Als Rat sich ein paar Meter vorgearbeitet hatte, sah er Lüdenbach wieder. Höchstens drei Meter entfernt hockte der graue <strong>Kittel</strong> am Boden des Laufgitters. "Bin gleich bei Ihnen", sagte Rath. "Fassen Sie bitte nichts an!" (<i>Der stumme Tod</i>, 32)',
 	'"Hier", murmelte der Mann im grauen <strong>Kittel</strong> (<i>Lüdenbach</i>), und Rath hockte sich neben ihm, "gucken Sie sich das mal an, das gibt\'s doch gar nicht." (<i>Der stumme Tod</i>, 32)',
 	'"Max, kommst du mal?", rief Lüdenbach in die Kulisse, und ein kräftiger Mann erschien auf der Bildfläche. Er trug einen ähnlichen <strong>Kittel</strong> wie Lüdenbach, wirkte darin aber wie ein Metzger. (<i>Der stumme Tod</i>, 156-57)',
+	'Auf der kurzen Fahrt nach Tempelhof hatten sie kaum gesprochen, und auch jetzt schauten die drei Männer schweigend auf die Tür, in der ein hektishcer Weiß<strong>kittel</strong> mit Dresslers Auftragszettel verschwunden war.. Endlich kam der Laborant mit zehn Filmdosen unterm Arm zurück.. "Wir brauchen einen Vorführraum", sagte Dressler. Der Mann im weißen <strong>Kittel</strong> nickte. "Selbstverständlich." (<i>Der stumme Tod</i>, 163)',
 	'<u>Märzgefallene</u>',
 	'Sie (<i>Charly</i>) verstummte, denn die Tür hatte sich mit einem leisen Knarren geöffnet. Eine Pflegerin im gestärkten weißen <strong>Kittel</strong> stand im Türrahmen....  (<i>Märzgefallene</i>, 43)',
 	'Die Putzfrau stand an einer Garderobenleiste, an der zwei <strong>Kittel</strong>schürzen hingen, die genauso aussahen wie die, die sie selber trug. (<i>Märzgefallene</i>, 83)',
@@ -17123,6 +17158,8 @@ surren: [
 	'Mit dem Verstummen der Orgel waren für einen kurzen Moment nur vereinzeltes Stöhnen und das <strong>Surren</strong> des Projektors zu hören, dann erstarben auch die Stöhngeräusche, bevor das Aufleuchten von Raths Taschenlampe den Startschuss zu einem vorübergehenden Tumult gab. (<i>Der nasse Fisch</i>, 245)',
 	'<u>Der stumme Tod</u>',
 	'Schau her, sagt der Vater, das ist dein Geburtstagsgeschenk. Und der öffnet die Augen. Er hört ein leises <strong>Surren</strong> in der Dunkelheit, und dann sieht er es und weiß mit einem Mal, warum er am Leben bleiben muss... Und er hört sie sprechen, hört die Blätter im Wind rauschen, obwohl er weiß, dass da nichts ist außer dem <strong>Surren</strong> des Projektors. (<i>Der stumme Tod</i>, 129)',
+	'Der Projektor begann zu <strong>surren</strong>, ein Lichtstrahl schoss durch das Dunkel und ließ den Zigarettenrauch tanzen. Die Rollen zogen an, und kurz daraus sahen die Männer eine Filmklappe auf der Leinwand. Winkler stellte scharf, die Klappe wurde weggezogen, und Rath erkannte Betty Winter im Seidenkleid. (<i>Der stumme Tod</i>, 164)',
+	'"Ende der Vorstellung", sagte Winkler in die Stille, in der außer dem <strong>Surren</strong> des Projektors und dem Kratzen im Lautsprecher nichts mehr zu hören war. "Wollen Sie\'s noch mal sehen?" Rath nickte. (<i>Der stumme Tod</i>, 165)',
 	'<u>Märzgefallene</u>',
 	'An der Wand stand eine seltsame Apparatur... Der Apparat <strong>surrte</strong> leise, und Rath schaltete ihn ab. (<i>Märzgefallene</i>, 579)',
 ],
@@ -19283,6 +19320,7 @@ Tresen: [
 	'Nun verließ Rath seinen Platz an der Tür doch noch. Er zog das Foto aus der Tasche, das ihm Oppenbergs Sekretärin herausgesucht hatte, und legte es auf den <strong>Tresen</strong>. (<i>Der stumme Tod</i>, 90)',
 	'"Das Taxi, mit dem Frau Franck weggefahren ist?", sagte er (<i>der Hotelportier</i>). "War\'n Großtarifwagen.." "Das muss am achten Februar gewesen sein," half Rath ihm auf die Sprünge. "Sind Sie sicher? Warten Sie, ich schau mal eben schnell nach." Rath hörte ein hohles Poltern, als der Hörer auf den <strong>Tresen</strong> knallte, und dann Papier rascheln. (<i>Der stumme Tod</i>, 97)',
 	'Rath nahm einen Schluck von seinem Cognac und bestellte gleich noch einen. Der Barmann stellte ein neues Glas auf den <strong>Tresen</strong>, und im selben Augenblick klingelte etwas und ein Lämpchen leuchtete auf. (<i>Der stumme Tod</i>, 103)',
+	// skipped pg 163
 	'<u>Märzgefallene</u>',
 	'Der Kellner ließ sich Zeit, sie (<i>die wilde Hilde</i>) ging zum <strong>Tresen</strong> und verschwand gleich nach der Bestellung auf der Toilette. (<i>Märzgefallene</i>, 74)',
 	'Sie (<i>Hannah</i>) blinzelte gegen den Zigarettenqualm an, und dann entdeckte sie am <strong>Tresen</strong> zu ihrer Überraschung ein bekanntes Gesicht. (<i>Märzgefallene</i>, 321)',
@@ -22167,6 +22205,7 @@ zücken: [
 	'Aus der Königstraße kam gerade ein weiterer Lastwagen, von dem ein Trupp Uniformierter absprang, die Kinnriemen festgezurrt. Die Schupos auf dem Platz bildeten zusammen mit der Verstärkung eine Kette und <strong>zückten</strong> die Gummiknüppel. (<i>Der nasse Fisch</i>, 54)',
 	'"Einen Americano bitte", sagte er (<i>Rath</i>), lehnte sich an den Tresen und hörte der Band zu.... Der Barmann kam zurück und stellte ein Glas auf den blankpolierten Tresen. Rath ließ ein Markstück in seine Hand fallen und <strong>zückte</strong> das Foto. Der Barmann wirkte gelangweilt.... Er zuckte die Achseln. Auch Diskretion gehörte hier zum Service.  (<i>Der nasse Fisch</i>, 95)',
 	'Wolter hatte die Blechmarke auf seiner Weste freigelegt und ging mit langsamen Schritten und <strong>gezückter</strong> Waffe das Kellergewölbe entlang. (<i>Der nasse Fisch</i>, 242)',
+	'Sein (<i>Gennats</i>) Blick, der gerade noch dem zurückgelassenen Kuchenteller nachgetrauert hatte, wurde plötzlich ernst. "Wo?", fragte er und <strong>zückte</strong> einen Bleistift. "Wann?" Der Bleistift kratzte über Papier. (<i>Der nasse Fisch</i>, 279)',
 	'Ein Blitzlicht flammte auf und tauchte den Leichnam für einen Augenblick in gespenstisch grelles Licht. Ein paar Reporter hatten ihre Fotoapparate <strong>gezückt</strong> und begannen instinktiv zu fotografieren. (<i>Der nasse Fisch</i>, 405)',
 	'Seit den Maiunruhen waren die Wachen des Polizeipräsidenten nervös, die Kommunisten hatten ganz schön Stimmung gemacht gegen den Mann, der hier wohnte. Rath <strong>zückte</strong> seinen Dienstausweis, um klarzustellen, dass er kein Roter war. (<i>Der nasse Fisch</i>, 502)',
 	'Als die Männer die Laderampe erreichten, trat Fred unten aus dem Schatten. "Guten Abend", sagte er. "Sie betreten gerade Privatgelände. Darf ich fragen, was Sie hier suchen?" Der Anfürer <strong>zückte</strong> einen Ausweis. "Kriminalpolizei", sagte er." (<i>Der nasse Fisch</i>, 519)',

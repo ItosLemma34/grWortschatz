@@ -254,7 +254,7 @@ const s = [
    'summen, aufsummen', //  duplicated  
    'Sündenbock', // Sündenbock: 
    'Sündenpfuhl', // Sündenpfuhl: 
-   'surren',   //surren:  
+   'surren',   // surren:  
    ];
 
 export default s;      

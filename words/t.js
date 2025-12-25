@@ -3,8 +3,8 @@ const t = [
    'täfeln, getäfelt', //  duplicated  
    'Tantieme',  // Tantieme: 
    'tapsen' ,  // tapsen: 
-   'tattern, Tattergreis',  
    'tätscheln', // tätscheln: 
+   'tattern, Tattergreis',  
    'taxieren' , // taxieren: 
    'Teufel (in drei T. Namen)', //  duplicated 
    'Teufel tun',  //  

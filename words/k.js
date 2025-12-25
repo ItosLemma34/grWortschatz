@@ -70,6 +70,7 @@ const k = [
    'Klippe', //  Klippe: 
    'klirren, Geklirr', // duplicated
    'klitzeklein', // klitzeklein: 
+   'klobig',  // klobig:
    'Kloschüssel, Schüssel', // duplicate 
    'Kloß',   // Kloß: 
    'klotzen', // klotzen: 

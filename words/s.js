@@ -115,6 +115,8 @@ const s = [
    'Schnulze',  // Schnulze:
    'schnuppern, erschnuppern',  // duplicated 
    'Schnur, schnüren', // 
+   'Schnürchen (wie am S.)',  // duplicated
+   'Schnürsenkeln',   // Schnürsenkeln:
    'schnurstracks', // schnurstracks: 
    'schnurz­pie­pe, schnurzegal', //    make duplicate if example of "schnurzegal found"
    'Schoppen',  // Schoppen: 

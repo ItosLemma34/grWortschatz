@@ -75,6 +75,7 @@ const v = [
    'verschimmeln',  // verschimmeln:  
    'Verschlag',   // Verschlag:  
    'verschleißen', // verschleißen:  check for other entries
+   'verschlingen',  // verschlingen:
    'verschmieren', // verschmieren: 
    'verschmitzt',  // verschmitzt:
    'verschnörkelt, verschnörkeln', //  check for other entries
@@ -133,6 +134,7 @@ const v = [
    'vollsaugen', // vollsaugen:  
    'Vollwaise', // Vollwaise:  
    'von der Fahne gehen', //  duplicated 
+   'von der Pike auf',
    'von der Schippe springen',  // duplicated
    'vor die Hunde gehen',  // duplicated 
    'vor Schmutz starren',  // duplicated with "starren"

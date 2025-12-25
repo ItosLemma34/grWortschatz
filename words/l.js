@@ -34,7 +34,7 @@ const l = [
    'lichterloh brennen',   
    'Litfaßsäule',  // Litfaßsäule: 
    'Lobhudelei, Hudelei',  //  duplicated 
-   'Loch in den Bauch fragen',  
+   'löchern, Löcher in den Bauch fragen',  
    'lodern',  // lodern: 
    'loseisen',  // loseisen: 
    'lotsen',  // lotsen: 

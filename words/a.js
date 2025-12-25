@@ -63,7 +63,6 @@ const a = [
 	'angeben, Angeber',    
 	'angeschickert', // angeschickert: 
 	'angiften, giften', // duplicated
-	'anglotzen, glotzen', //  duplicated  
 	'angrienen',  // angrienen:
 	'anherrschen',  // anherrschen:
 	'anheuern',  // anheuern: 
@@ -100,6 +99,7 @@ const a = [
 	'apportieren', // apportieren: 
 	'Areal' ,  // Areal:  
 	'Arm (auf den A. nehmen)',  //  duplicated 
+	'Armaturenbrett, Brett, Bretter-', // duplicated
 	'Armbeuge',    // Armbeuge:   
 	'arme Ritter', //   duplicated 
 	'armer Schlucker', //  duplicated 
@@ -123,7 +123,7 @@ const a = [
 	'auf den Wecker gehen', //  duplicated 
 	'auf den Zahn fühlen',  //  duplicated 
 	'auf der hohen Kante',
-	'auf der Hut sein',  
+	'auf der Hut',  
 	'auf der Nase herumtanzen',  // duplicated 
 	'auf die Nase binden',  //  duplicated 
 	'auf die Palme treiben/bringen',  //  duplicated 

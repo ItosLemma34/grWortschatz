@@ -41,7 +41,7 @@ const h = [
    'Heimtücke, heimtückisch',  
    'heimzahlen',  // heimzahlen: 
    'heischen', // heischen: 
-   'heiser',  // heiser: 
+   'heiser, Heiserkeit',  
    'Hemd (sich ins H. machen)',
    'Henkelmann',  // Henkelmann:  
    'hereinlegen, reinlegen',  // duplicated 

@@ -23,6 +23,7 @@ const g = [
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
+   'Geier',  //  Geier:
    'geizen',   // geizen:
    'Gekicher, kichern',  // duplicated
    'Geklirr, klirren',  //duplicated
@@ -90,7 +91,7 @@ const g = [
    'gleißen, gleißend',     
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated 
-   'glotzen, anglotzen',  //  duplicated   
+   'glotzen, an-',    
    'gluckern', // gluckern:  
    'goldene Nase (sich verdienen)',   
    'Gör, Göre',    

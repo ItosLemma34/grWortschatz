@@ -27,6 +27,7 @@ const w = [
    'Wichs',  // Wichs: 
    'Wickelgamasche',  // Wickelgamasche: 
    'Widerhaken', // Widerhaken: 
+   'wie am Schnürchen', // duplicated
    'wie aus dem Ei gepellt',  //  duplicated 
    'wie bestellt und nicht abgeholt', // 
    'wienern' , // wienern: 

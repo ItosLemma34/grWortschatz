@@ -40,11 +40,12 @@ const f = [
    'Flaum',  // Flaum:  
    'fläzen',  // fläzen:  
    'fleddern',  // fleddern:             
-   'flehen, flehentlich, anflehen', //  
+   'flehen, flehentlich, anflehen', // duplicated 
    'flennen', // flennen:  
    'flicken',  // flicken:  
    'Fliese, fliesen',  //  
-   'flink',  // flink:  
+   'flink',  // flink:
+   'flirren',  // flirren:  
    'Flittchen',  // Flittchen: 
    'flitzen', // flitzen: 
    'Floskel', // Floskel: 

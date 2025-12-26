@@ -128,7 +128,7 @@ const s = [
    'Schrippe', // Schrippe:  
    'Schritt',  // Schritt:  
    'Schrotflinte', // Schrotflinte: 
-   'Schrott',  // Schrott:  
+   'Schrott, schrottreif',   
    'Schrubber, schrubben',    
    'schubsen',  // schubsen:  
    'schüchtern, verschüchtern',  // duplicated  

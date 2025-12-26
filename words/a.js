@@ -93,6 +93,7 @@ const a = [
 	'Anwesen',      // Anwesen: 
 	'anwidern',     // anwidern:
 	'anwinkeln',  // anwinkeln: 
+	'anzapfen, Zapfen, zapfen', // duplicated
 	'Anzeige erstatten',  
 	'anzetteln',  // anzetteln:  
 	'anzüglich',  //  anzüglich:  

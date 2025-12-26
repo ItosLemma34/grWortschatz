@@ -5,7 +5,7 @@ const z = [
    'Zahn (auf den Z. fühlen)', //  duplicated 
    'Zange (in die Z. nehmen)', //  duplicated 
    'zanken',  // 
-   'Zapfen', // Zapfen: 
+   'Zapfen, zapfen, anzapfen', // duplicated 
    'zappeln', // zappeln:  
    'Zarge' , // Zarge:  
    'zartbesaitet, besaitet',  // duplicated

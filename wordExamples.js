@@ -8,6 +8,7 @@ export const wordExamples = {
 //'aufkratzen, aufgekratzt'Stumme Tod 279 448   Marlow 489
 // 'Strick (einen S. drehen)'  stumme Tod pg 481
 // verschlingen  Der stumme Tod 453
+// angezapft  Der stumme Tod 533
 //Fluter = Scheinwerfer (spotlight)  
 /* finish later:
 patzig: [
@@ -16,7 +17,6 @@ patzig: [
 	'   (<i>Lunapark</i>, 519)' ,
 ], */ 
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v  
-
 /*   	
 zzz: [  
 	'<strong>zzz</strong>: '+
@@ -53,20 +53,58 @@ zzz: [
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
 ],
-anzapfen: [  
-	'<strong>anzapfen</strong>: tap (eg, beer); wiretap; siphon; draw from (a source)'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anzapfen"target="target1">anzapfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anzapfen"target="target2">anzapfen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anzapfen"target="target3">anzapfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anzapfen&id=verb%3Aanzapfen"target="target4">anzapfen</a>',
+'geigen (die Meinung geigen)': [  
+	'<strong>geigen</strong>: play the violin, fiddle'+
+	'<br>jmdm. die <strong>Meinung geigen</strong>: tell so. off, chew so. out'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geigen"target="target1">geigen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20die%20Meinung%20geigen"target="target2">Meinung geigen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geigen"target="target3">geigen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/die+Meinung+geigen"target="target4">Meinung geigen</a>',
 	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
+	'Böhm hatte sich ziemlich beherrschen müssen, um dem Kommunistenarzt nicht <strong>die Meinung zu geigen</strong>. (<i>Der nasse Fisch</i>, 86)',
+	'Wann war es eigentlich passiert? Kurz nachdem er diesem Gigolo die <strong>Meinung gegeigt hatte</strong>, waren Tretschkows Musiker aufs Podium zurückgekehrt, und er hatte Charlotte wieder zur Tanzfläche geführt. (<i>Der nasse Fisch</i>, 192)',
 	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
+	'Er (<i>Rath</i>) hatte den Wecker auf eine frühe Zeit gestellt, doch war es das Telefon, das ihn aus dem Schlaf schreckte.. Rath stand auf, fest entschlossen, dem Anrufer <strong>die Meinung zu geigen</strong>. Doch es war jemand, zu dem er freundlich sein musste. (<i>Der stumme Tod</i>, 190)',	
 	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
-	'<u>Marlow</u>',  
-	'   (<i>Marlow</i>, 000)',
+	'"Herr Kommissar", sagte Lapke und baute sich vor Rath auf. "Gibt es Neuigkeiten? Wissen Sie endlich, wer für den bedauerlichen Tod des Kameraden Kaczmarek verantwortlich ist? Meine Männer können es kaum erwarten, der roten Sau die <strong>Meinung zu geigen</strong>." (<i>Lunapark</i>, 196)',
+//	'<u>Marlow</u>',   
+//	'   (<i>Marlow</i>, 408)',
+],
+'Zapfen, zapfen, anzapfen': [  
+	'der <strong>Zapfen</strong>,-: cone; tap, plug, spigot'+
+	'<br><strong>zapfen</strong>: tap, draw (eg, beer)'+
+	'<br><strong>anzapfen</strong>: tap (eg, beer); wiretap; siphon; draw from (a source)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zapfen"target="target1">Zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zapfen"target="target2">zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anzapfen"target="target3">anzapfen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Zapfen&id=substantiv%3AZapfen"target="target4">Zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zapfen&id=verb%3Azapfen"target="target5">zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anzapfen&id=verb%3Aanzapfen"target="target6">anzapfen</a>',
+	'<u>Der stumme Tod</u>',
+	'"Kennst du einen Journalisten namens Fink?", fragte Rath... <i>Weinert</i>: "Wollte der dich <strong>anzapfen</strong>?" Weinert schüttelte den Kopf. "Vorsicht, Vorsicht, sage ich dir. Solche Vereinbarungen wie mit mir kannst du mit <i>dem</i> nicht treffen. Ein ganz harter Hund. Sensation geht vor Wahrheit." (<i>Der stumme Tod</i>, 183)',	
+	'<u>Märzgefallene</u>', 
+	'Erinnerungen an warme Nächte im Park hatten sie (<i>Hannah</i>) auch jetzt, gleich nach ihrer Flucht, zum Märchenbrunnen getrieben, doch an den Nasen von Hänsel und Gretel hingen Eis<strong>zapfen</strong>, und weit und breit war kein Jugendlicher zu sehen. (<i>Märzgefallene</i>, 153)',
+	'<u>Lunapark</u>',   
+	'Der Wirt.. schaltete das elektrische Licht ein, eine Handvoll funzeliger 40-Watt-Birnen, die den Raum kaum heller werden ließen, und stellte sich hinter den Tresen, als wolle er den Beamten ein Bier <strong>zapfen</strong>. (<i>Lunapark</i>, 32)',
+	'Rath wartete, bis der Wirt mit dem Zapfen fertig war. (<i>Lunapark</i>, 277)',
+	'Sie (<i>Gussie Adenauer</i>) senkte ihre Stimme, als wolle sie sichergehen, dass außer ihm (<i>Rath</i>) niemand mithörte. Wobei die Staatspolizei, sollte sie das Telefon der Adenauers <strong>angezapft</strong> haben, Gussie Adenauer genau so klar und deutlich vernehmen würde, wie Gereon Rath sie nun hörte. (<i>Lunapark</i>, 489)',
+],
+'anzapfen, Zapfen, zapfen': [  
+	'der <strong>Zapfen</strong>,-: cone; tap, plug, spigot'+
+	'<br><strong>zapfen</strong>: tap, draw (eg, beer)'+
+	'<br><strong>anzapfen</strong>: tap (eg, beer); wiretap; siphon; draw from (a source)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zapfen"target="target1">Zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zapfen"target="target2">zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anzapfen"target="target3">anzapfen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Zapfen&id=substantiv%3AZapfen"target="target4">Zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zapfen&id=verb%3Azapfen"target="target5">zapfen</a>'+
+	'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anzapfen&id=verb%3Aanzapfen"target="target6">anzapfen</a>',
+	'<u>Der stumme Tod</u>',
+	'"Kennst du einen Journalisten namens Fink?", fragte Rath... <i>Weinert</i>: "Wollte der dich <strong>anzapfen</strong>?" Weinert schüttelte den Kopf. "Vorsicht, Vorsicht, sage ich dir. Solche Vereinbarungen wie mit mir kannst du mit <i>dem</i> nicht treffen. Ein ganz harter Hund. Sensation geht vor Wahrheit." (<i>Der stumme Tod</i>, 183)',	
+	'<u>Märzgefallene</u>', 
+	'Erinnerungen an warme Nächte im Park hatten sie (<i>Hannah</i>) auch jetzt, gleich nach ihrer Flucht, zum Märchenbrunnen getrieben, doch an den Nasen von Hänsel und Gretel hingen Eis<strong>zapfen</strong>, und weit und breit war kein Jugendlicher zu sehen. (<i>Märzgefallene</i>, 153)',
+	'<u>Lunapark</u>',   
+	'Der Wirt.. schaltete das elektrische Licht ein, eine Handvoll funzeliger 40-Watt-Birnen, die den Raum kaum heller werden ließen, und stellte sich hinter den Tresen, als wolle er den Beamten ein Bier <strong>zapfen</strong>. (<i>Lunapark</i>, 32)',
+	'Rath wartete, bis der Wirt mit dem Zapfen fertig war. (<i>Lunapark</i>, 277)',
+	'Sie (<i>Gussie Adenauer</i>) senkte ihre Stimme, als wolle sie sichergehen, dass außer ihm (<i>Rath</i>) niemand mithörte. Wobei die Staatspolizei, sollte sie das Telefon der Adenauers <strong>angezapft</strong> haben, Gussie Adenauer genau so klar und deutlich vernehmen würde, wie Gereon Rath sie nun hörte. (<i>Lunapark</i>, 489)',
 ],
 einverleiben: [  
 	'<strong>einverleiben</strong>: incorporate, absorb/annex/gobble up sth.'+
@@ -160,6 +198,9 @@ klobig: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/klobig"target="target3">klobig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=klobig"target="target4">klobig</a>',
 	'<u>Der stumme Tod</u>',
 	'Die Burg, dieses <strong>klobige</strong>, Respekt einflößende Gebäude, dieser riesige, unüberschubare Polizeiapparat, hatte ihn (<i>Rath</i>) wieder verschluckt, das Gefühl von Freiheit, das er bei der Arbeit auf der Straße genoss, gleich wieder erstickt... (<i>Der stumme Tod</i>, 169)',	
+	'Rath hatte es nicht weit bis nach Hause, nur einmal quer über Kreuzung. Schwer bepackt, die <strong>klobige</strong> Schreibmaschine vor der Brust, darauf das Skript, den Drehplan und die beiden Filmdosen balancierend, kreuzte er ein paar Minuten später den Hof am Luisenufer. (<i>Der stumme Tod</i>, 185)',	
+// ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // pg 186
 ],
 flirren: [  
@@ -8390,6 +8431,8 @@ Armbeuge: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nase?q=auf+die+Nase+binden"target="target3">auf die Nase binden</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/auf-die-nase-binden/"target="target4">auf die Nase binden</a>',  
 	'<u>Der nasse Fisch</u>',
 	'Sein besonderes Interesse an den Russen wollte er (<i>Rath</i>) niemandem <strong>auf die Nase binden</strong>. Rath musste sich durch eine ganze Parade mehr oder weniger vorlauter Kleinganoven.. arbeiten.. bis die Liste endlich bis zu den beiden Männern abgehakt war. (<i>Der nasse Fisch</i>, 264)',
+	'<u>Der stumme Tod</u>',
+	'Und Rath erzählte Weinert all die Dinge, die er morgen Böhm in schriftlicher Form auf den Schreibtisch legen wollte. Nur die Anrufe Felix Krempins unterschlug er. Aber die wollte er ohnhin niemandem <strong>auf die Nase binden</strong>, auch nicht den Kollegen in der Burg. (<i>Der stumme Tod</i>, 184)',
 	'<u>Märzgefallene</u>',
 	'"Wir haben Hunderte von Kommunisten einsitzen, wenn nicht Tausende", fuhr Zientek (<i>Nazi Kriminalsekretär</i>) fort. "Die wollen alle verhört werden. Und verhören, das haben Sie (<i>Rath</i>) doch gelernt bei der Kripo, nicht wahr?"....<i>Rath</i>: "Aber am Sonntag wird gewählt!" Außerdem war das sein Geburtstag, aber das wollte Rath dem Kriminalsekretär nicht auch noch <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 186)',
 	'Grimberg zögerte. "Hat Roddeck Ihnen das nicht erzählt? Das wir wieder in Frankreich waren, nach dem Krieg?" "Nein." Dass er es versäumt hatte Roddeck ernsthaft zu befragen, weil er dessen Geschichte nicht geglaubt hatte, wollte Rath dem Sprengmeister nicht <strong>auf die Nase binden</strong>. (<i>Märzgefallene</i>, 275)',
@@ -10108,6 +10151,8 @@ Deckel: [
 	'Der Offizier zog ein kleines silbernes Etui aus seiner Uniformjacke und klappte den <strong>Deckel</strong> auf. (<i>Der nasse Fisch</i>, 169)',
 	'Er musste die Pistole so schnell wie möglich loswerden! Rath überlegte nicht lange, dazu fehlte die Zeit. Er nahm den <strong>Deckel</strong> von der Pappschachtel, fasste die Pistole vorsichtig mit einem Aktenblatt,.. und ließ sie hinter den großen Stapel Fotos rutschen... Doch jetzt klappte Rath nur den <strong>Deckel</strong> zu, bevor Roeder etwas bemerken konnte, und hob den schweren Karton aus der Schublade. (<i>Der nasse Fisch</i>, 394)',
 	'<i>Rath</i>: "Ist es das, was Sie suchen?" Roeder nickte eifrig und nahm ihm die Schachtel aus der Hand. Rath hoffte vergeblich, er würde nicht hineinschauen wollen. "Sie erlauben?" Roeder hob den <strong>Deckel</strong> ein wenig an und blätterte durch die obersten Hockglanzfotos. (<i>Der nasse Fisch</i>, 394-95)',
+	'<u>Der stumme Tod</u>',
+	'Rath gehörte eben nicht zu den Bürokraten im Polizeicorps, die mit ihren fetten Hintern Bürostühle schrottreif saßen, er war unterwegs, auf der Straße. Die Wahrheit war nur draußen zu finden, vor Ort, wo sich die Verbrechen abspielten, nicht zwischen zwei Akten<strong>deckeln</strong>. (<i>Der stumme Tod</i>, 186)',
 	'<u>Märzgefallene</u>',
 	'Roddeck inhalierte tief... als er das Zigarettenetui zuklappte und wieder einsteckte. Das Wappen auf dem silbernen <strong>Deckel</strong> zeigte eine Axt, gekreuzt mit einem Schwert, und ein paar andere Symbole, die Rath nicht identifizieren konnte. (<i>Märzgefallene</i>, 131)',
 	'Sie (<i>Hannah</i>) schaute sich alles genau an, bis sie glaubte, den geeigneten Schlafplatz gefunden zu haben. Eine große hölzerne Truhe,...in die bestimmt kein Nachtwächter hineinschauen würde. Am liebsten wäre sie sogleich dort hineingestiegen, doch das ging nicht. Schon als sie den <strong>Deckel</strong> nur kurz anhob, spürte sie ein halbes Dutzend Augenpaare neugierig auf sich gerichtet. Hannah machte ein prüfendes, abschätzendes Gesicht, als spiele sie tatsächlich mit dem Gedanken, die Truhe zu kaufen, und ließ den <strong>Deckel</strong> wieder sinken. (<i>Märzgefallene</i>, 152)',
@@ -12551,10 +12596,12 @@ Hatz: [
 	'"Als Walter und Robert aus der SA-Haft zurückkamen", fuhr Elisabeth Spindler fort, "waren sie verändert. Wortkarg, in sich gekehrt.. Aber als dann der Reichstag brannte, haben sie gewusst, dass es wieder losgehen würde mit der Kommunisten<strong>hatz</strong>. Sie sind noch in derselben Nacht aus dem Haus, ohne mir zu sagen, wohin. Und seitdem habe ich sie nicht wiedergesehen." (<i>Lunapark</i>, 140)',
 ],
 harren: [
-	'jmds/einer Sache <strong>harren</strong>: wait for so./sth.'+
+	'jmds./einer Sache <strong>harren</strong>: wait for so./sth.'+
 	'<br>auf jmdn/etw <strong>harren</strong>: await so./sth.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/harren"target="target1">harren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/harren"target="target2">harren</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/harren"target="target3">harren</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/harren"target="target4">harren</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Du schreibst Drehbücher?" <i>Weinert</i>: "Der Mensch muss sehen, wo er bleibt. Verkauft habe ich noch keins. Aber ein paar liegen auf Produzentenschreibtischen und <strong>harren</strong> der Entdeckung..." (<i>Der stumme Tod</i>, 184)',
 	'<u>Märzgefallene</u>',
 	'<i>von Roddeck schreibt</i>: Ich folge ihm (<i>Wosniak</i>) hinab in den Keller, wo die Männer vor einer Ziegelwand <strong>harren</strong>, an der bis gestern noch bis zur Decke Weinregale gestanden haben. (<i>Märzgefallene</i>, 161)',
 	'Wenn sie (<i>Charly</i>) an ihr Büro dachte, an die WKP, an Friederike Wieking, an Karin van Almsick, wurde ihr richtiggehend schlecht. Noch mehr, wenn sie an die Akten dachte, die auf ihrem Schreibtisch der Bearbeitung <strong>harrten</strong>. (<i>Märzgefallene</i>, 485)',
@@ -13351,6 +13398,8 @@ Kinkerlitzchen: [
 	'<br><strong>zerknüllen</strong>: crumble, scrunch sth. up'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knuellen"target="target1">knüllen</a> &nbsp;<a href="https://www.dwds.de/wb/zerkn%C3%BCllen"target="target2">zerknüllen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/kn%C3%BCllen"target=target3>knüllen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zerkn%C3%BCllen"target=target4>zerknüllen</a>',
+	'<u>Der stumme Tod</u>',
+	'Wort für Wort hämmerte er (<i>Rath, mit der Schreibmaschine</i>) die Buchstaben auf das Papier... Der Berg mit <strong>zerknüllten</strong> Blättern auf dem Fußboden wuchs, die Cognacflasche wurder leerer. (<i>Der stumme Tod</i>, 186-87)',
 	'<u>Märzgefallene</u>',
 	'Als Rath endlich wieder sein Büro betrat, saß Erika Voss in Hut und Mantel an ihrem Schreibtisch und kritzelte etwas auf ein Stück Papier, das sie <strong>zerknüllte</strong>, als sie ihren Chef erblickte. (<i>Märzgefallene</i>, 147)',
 	'<u>Lunapark</u>',
@@ -16107,6 +16156,8 @@ petzen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/petzen"target="target3">petzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=petzen"target="target4">petzen</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Morgen, Herr Kommissar", begrüßte ihn (<i>Rath</i>) der Buddha. "Heute schon in der Yorckstraße gewesen?" Plisch und Plum hatten also <strong>gepetzt</strong>. Rath nickte. "Wollte Fallin überprüfen. Aber die Wohnung wird ja bereits observiert." (<i>Der nasse Fisch</i>, 467)',	
+	'<u>Der stumme Tod</u>',
+	'<i>aus dem Brief von Böhm an Rath</i>: ".. <i>Melden Sie sich nach Erhalt dieses Schreibens unverzüglich beim Rechtsunterzeichner</i>." Der Rechtsunterzeichner war Wilhelm Böhm. Links hatte Ernst Gennat den Brief unterschrieben. Hatte die Bulldogge also schon beim Buddha <strong>gepetzt</strong>. (<i>Der stumme Tod</i>, 186)',	
 	'<u>Märzgefallene</u>',
 	'Als sich ihre Blicke das erste Mal trafen, zuckte sie (<i>Karin</i>) die Achseln, als wolle sie sagen: <i>Tschuldigung, wollte nicht <strong>petzen</strong></i>. Was Charly ihr nicht glaubte. (<i>Märzgefallene</i>, 90)',
 	'<i>Levetzow, Nazi Polizeipräsident</i>: "... Sie (<i>Rath</i>) stehen hier, weil Sie Ihre polizeilichen Befugnisse und die damit verbundene Machtposition in einer Weise ausgereizt haben, die ich nicht dulden kann." <i>Rath</i>: "Ich verstehe nicht ganz, was Herr Polizeipräsident meinen." Rath ahnte durchaus, worauf Levetzow anspielte: Roddeck hatte doch <strong>gepetzt</strong>. (<i>Märzgefallene</i>, 357)',
@@ -17611,7 +17662,9 @@ schnippen: [
 	'<u>Der nasse Fisch</u>',
 	'Er (<i>Rath</i>) <strong>schnippte</strong> seine Zigarettenkippe in die Spree und bahnte sich einen Weg durch die Menge. (<i>Der nasse Fisch</i>, 90)',
 	'Als er (<i>Rath</i>) wieder auf der Straße stand, zündete er sich eine Zigarette an, um besser nachdenken zu können. Er wollte das Streichholz vor dem Haus auf die Straße <strong>schnippen</strong>, ließ es aber sein, als er hinter einem Erdgeschossfenster die Konturen eines dicken Kopfes bemerkte. (<i>Der nasse Fisch</i>, 110-11)',
-	'Rath <strong>schnippte<strong> etwas Asche von seiner Zigarette... Schließlich <strong>schnippte<strong> Rath den Stummel seiner abgebrannten Zigarette durch das offene Fenster auf den Fahrdamm. Er öffnete die Tür. (<i>Der nasse Fisch</i>, 473)',
+	'Rath <strong>schnippte</strong> etwas Asche von seiner Zigarette... Schließlich <strong>schnippte</strong> Rath den Stummel seiner abgebrannten Zigarette durch das offene Fenster auf den Fahrdamm. Er öffnete die Tür. (<i>Der nasse Fisch</i>, 473)',
+	'<u>Der stumme Tod</u>',
+	'Weinert nickte. "Ich werde sehen, was sich machen lässt", sagte er. "Die Runde geht auf mich." Weinert <strong>schnippte</strong> nach Schorsch, eine Angewohnheit, die der Wirt des <i>Dreiecks</i> gar nicht leiden konnte, aber der Journalist war zu euphorisch, um das zu bemerken. (<i>Der stumme Tod</i>, 185)',
 	'<u>Märzgefallene</u>',
 	'Rath <strong>schnippte</strong> seine Asche in den verregneten Garten.  (<i>Märzgefallene</i>, 469)',
 	'<u>Lunapark</u>',
@@ -18666,12 +18719,15 @@ Schotter: [
 	'Und diesmal, als er (<i>Leo</i>) wieder an einen bösen Scherz glaubte, hatten sie ihn wirklich aus dem Auto, das noch ausrollte, geworfen, auf spitzen <strong>Schotter</strong>, der ihn ins Fleisch schnitt und stach. (<i>Märzgefallene</i>, 109)',
 	'Es war das erste Mal, dass sie ihn (<i>Leo</i>) am helllichten Tag nach oben führten, zum ersten Mal konnte er draußen vor den Fenstern etwas sehen. Er blickte auf einen <strong>schotter</strong>bedeckten Hof, auf dem ein paar Autos parkten. (<i>Märzgefallene</i>, 220)',
 ],
-Schrott: [ 
+'Schrott, schrottreif': [ 
 	'der <strong>Schrott</strong>,-<strong>e</strong>: scrap (metal), junk'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schrott"target="target1">Schrott</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schrott"target="target2">Schrott</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schrott?q=Schrott"target="target3">Schrott</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schrott"target="target4">Schrott</a>',
+	'<br><strong>schrottreif</strong>: decrepit, ready for the scrap heap'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schrott"target="target1">Schrott</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schrottreif"target="target2">schrottreif</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schrott?q=Schrott"target="target3">Schrott</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schrottreif&id=adjektiv%3Aschrottreif%23schrottreif"target="target4">schrottreif</a>',
 	'<u>Der nasse Fisch</u>',
 	'<i>Rath</i>: "Vielleicht kommt es erst mit einer zweiten Lieferung. Irgendeine unauffällige Fracht, irgendein <strong>Schrott</strong>, in dem das Gold versteckt ist. Und mit dem Königswasser können Sie es dann herauslösen." (<i>Der nasse Fisch</i>, 461)',
+	'<u>Der stumme Tod</u>',
+	'Rath gehörte eben nicht zu den Bürokraten im Polizeicorps, die mit ihren fetten Hintern Bürostühle <strong>schrottreif</strong> saßen, er war unterwegs, auf der Straße. Die Wahrheit war nur draußen zu finden, vor Ort, wo sich die Verbrechen abspielten, nicht zwischen zwei Aktendeckeln. (<i>Der stumme Tod</i>, 186)',
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Halten Sie es für möglich, dass jemand eine Ihrer Spengfallen überlebt?" <i>Grimberg</i>: "Wir haben immer ziemlich viel <strong>Schrott</strong> rund um die Sprengladung gepackt, Nägel, Bleche, alte Schrauben und so \'n Zeug das ist ziemlich tödlich, wenn es durch die Gegend fliegt." (<i>Märzgefallene</i>, 279)',
 ],
@@ -19026,6 +19082,8 @@ Stange: [
 	'<i>die Witwe Behnke</i>: "Sieht nicht so aus, als hätte hier überhaupt jemand was abgeholt." Sie hatte Recht. Bis zur Decke <strong>stapelte sich</strong> das Gerümpel. (<i>Der nasse Fisch</i>, 90-91)', 
 	'Aber das <i>Delphi</i> (<i>der Delphi-Palast</i>) wirkte wie ausgestorben. Die Pflanzen, die den Weg zum Hauptportal flankierten, machten einen jämmerlichen Eindruck. Ein paar exotisch anmutende Korbstühle, lieblos aufeinander<strong>gestapelt</strong> und vom Wetter gezeichnet, standen in der Gartenecke und schimmelten vor sich hin. (<i>Der nasse Fisch</i>, 133)',
 	'Er musste die Pistole so schnell wie möglich loswerden! Rath überlegte nicht lange, dazu fehlte die Zeit. Er nahm den Deckel von der Pappschachtel, fasste die Pistole vorsichtig mit einem Aktenblatt,.. und ließ sie hinter den großen <strong>Stapel</strong> Fotos rutschen. (<i>Der nasse Fisch</i>, 394)',
+	'<u>Der stumme Tod</u>',
+	'Wort für Wort hämmerte er (<i>Rath, mit der Schreibmaschine</i>) die Buchstaben auf das Papier... Der Berg mit zerknüllten Blättern auf dem Fußboden wuchs, die Cognacflasche wurder leerer.. Er fühlte sich halbwegs im Reinen mit sich selbst, als er das letzte Blatt auf den inzwischen ganz ansehnlichen Papier<strong>stapel</strong> legte. (<i>Der stumme Tod</i>, 186-87)',
 	'<u>Märzgefallene</u>',
 	'Der neue Chef der Berliner Polizei hatte auf die Zeitungen geklopft, die auf seinem Schreibtisch lagen, ein ganzer <strong>Stapel</strong>, von der Kreuzzeitung bis zum <i>Tag</i>.... (<i>Märzgefallene</i>, 139)',
 	'Kurt Daluege, ein geschniegelter Grünschnabel mit hoher Stirn und arrogant geschwungenen Lippen... saß hinter einem Schreibtisch, auf dem sich bergeweise Akten <strong>stapelten</strong>, und schrieb irgendetwas auf. (<i>Märzgefallene</i>, 141)',
@@ -22179,14 +22237,6 @@ Zinnober: [
 	'Bevor er (<i>der SS-Jungspund</i>) etwas sagte, salutierte er <strong>zackig</strong>. "Der Herr Oberkommissar wäre jetzt hier, Sturmbannführer." "Soll reinkommen!".. Der SS-Mann drehte <strong>zackig</strong> rechts um und wandte sich Rath zu. "Sie können.." ".. reinkommen, ich hab\'s gehört." (<i>Marlow</i>, 120)',
 	'Er (<i>Rath</i>) fragte sich, wie Czerwinski zu den Männern stand, die seit nun fast drei Jahren im Land das Sagen hatten. Ein Nazi war er bestimmt nicht. Aber er lehnte sich auch nicht dagegen auf, sein Hitlergruß wirkte so phlegmatisch wie alles, was er tat, wenn auch immer noch <strong>zackiger</strong> als der von Rath. (<i>Marlow</i>, 140)',
 	'Die Sekretärinnen standen von ihren Stühlen auf, die Brünette eine Idee <strong>zackiger</strong> als die Blondine. "Heil Hitler, Oberkommissar", sagten beide unisono und ließen, beinahe synchron, ihren rechten Arm hochschnellen. "Hei\'", nuschelte Rath wie üblich und winkelte seine Rechte kurz an. (<i>Marlow</i>, 179)',
-],
-Zapfen: [ 
-	'der <strong>Zapfen</strong>,-: cone; tap, plug, spigot'+
-	'<br><strong>zapfen</strong>: tap, draw'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zapfen"target="target1">Zapfen</a> &nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zapfen"target="target2">zapfen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Zapfen"target="target3">Zapfen</a> &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zapfen"target="target4">zapfen</a>',
-	'<u>Märzgefallene</u>', 
-	'Erinnerungen an warme Nächte im Park hatten sie (<i>Hannah</i>) auch jetzt, gleich nach ihrer Flucht, zum Märchenbrunnen getrieben, doch an den Nasen von Hänsel und Gretel hingen Eis<strong>zapfen</strong>, und weit und breit war kein Jugendlicher zu sehen. (<i>Märzgefallene</i>, 153)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

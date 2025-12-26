@@ -24,6 +24,7 @@ const g = [
    'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'Geier',  //  Geier:
+   'geigen (die Meinung geigen)',
    'geizen',   // geizen:
    'Gekicher, kichern',  // duplicated
    'Geklirr, klirren',  //duplicated

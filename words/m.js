@@ -30,7 +30,8 @@ const m = [
    'mitgenommen',  // mitgenommen: 
    'Mohrrübe', // Mohrrübe: 
    'Mucks',  // Mucks:  
-   'Muffel',  // Muffel: 
+   'Muffel',  // Muffel:
+   'mühen, ab-',  // duplicated 
    'Mühle',  // Mühle: 
    'Mullbinde', // Mullbinde: 
    'mulmig',  // mulmig: 

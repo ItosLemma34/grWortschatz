@@ -15,7 +15,7 @@ const a = [
 	'abkommandieren',  // abkommandieren: 
 	'Ablage',     // Ablage:  
 	'abluchsen',  // abluchsen: 
-	'abmühen',  // abmühen:
+	'abmühen, mühen',  // duplicated
 	'Abordnung',  // Abordnung: 
 	'abpassen',   // abpassen: 
 	'absäbeln',  //  absäbeln: 

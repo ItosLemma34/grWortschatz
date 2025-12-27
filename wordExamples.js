@@ -2158,8 +2158,9 @@ Tropen: [
 	'Von den riesigen Fenstern, die das Gebäude von außen wie ein <strong>Tropen</strong>haus wirken ließen, war hier drinnen nichts mehr zu sehen, schwere Tücher hingen unter der Decke, auch die Wände waren komplett mit Stoffbahnen verkleidet. (<i>Der stumme Tod</i>, 22)',
 //	'<u>Marlow</u>',
 ],
-abmühen: [  
-	'<strong>sich abmühen</strong>: plod, struggle, toil, labor'+
+'abmühen, mühen': [  
+	'(sich) <strong>mühen</strong>: to labor'+
+	'<br>(sich) <strong>abmühen</strong>: plod, struggle, toil, labor'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abmuehen"target="target1">abmühen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abm%C3%BChen"target="target2">abmühen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abmuehen#abm%C3%BChen"target="target3">abmühen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abm%C3%BChen&id=verb%3Aabmu3hen"target="target4">abmühen</a>',
 	'<u>Der nasse Fisch</u>',
@@ -2167,9 +2168,32 @@ abmühen: [
 	'"Henning, bringen Sie den Fotoapparat hier runter", rief er (<i>Rath</i>) nach oben.. Der Kriminalassistent hatte den Fotoapparat geschultert und <strong>mühte sich</strong> nun die Böschung hinunter. (<i>Der nasse Fisch</i>, 283)',
 	'<u>Der stumme Tod</u>',   
 	'Hinter Rath keuchte es. Henning <strong>mühte sich</strong> unter dem Fotoapparat <strong>ab</strong>, den er aus dem Opel gewuchtet hatte. (<i>Der stumme Tod</i>, 22)',
-	'<u>Märzgefallene</u>',
+    '<i>Taxifahrer Ziehlke zu Rath</i>: "Det jepäck warnwer nämlich schon vorher quitt jeworden. Jetze fällt\'s mir wieder in, so Se fragen: Vom Kaiserdamm sind wer erst mal zum Bahnhof Zoo, da hab ick mir noch mal mit ihre Koffer <strong>abmühen</strong> dürfen, und dann erst jing et weiter nach Wilmersdort." (<i>Der stumme Tod</i>, 191)'+
+	'<br>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -'+
+    '<br><i>Hochdeutsch</i>: "Das Gepäck waren wir nämlich schon vorher quitt geworden. Jetzt fällt’s mir wieder ein, da Sie fragen: Vom Kaiserdamm sind wir erst mal zum Bahnhof Zoo gefahren, da habe ich mich noch mal mit ihren Koffern <strong>abmühen</strong> dürfen, und dann erst ging es weiter nach Wilmersdorf."',
+   '<u>Märzgefallene</u>',
 	'Das Telefon klingelte. Sie (<i>Charly</i>) <strong>mühte sich</strong> aus dem Sessel und nahm den Hörer ab. Merkte, dass sie schon ein bisschen wankte. Nach dem Glas sollte sie besser aufhören mit dem Wein. (<i>Märzgefallene</i>, 282)',    
-//	'Das Podium füllte sich langsam. Alle waren sie dabei, sogar Gennat <strong>mühte</strong> seinen schweren Körper die zwei Stufen hinauf, obwohl er es hasste, für den Polizeipräsidenten den Grüßaugust zu machen. Denn mehr war das hier nicht: Levetzow war es seit Wochen schon nicht mehr um Ermittlungen gegangen, sondern nur noch darum, Benjamin Engel irgendwie zu fassen und der Öffentlichkeit zu präsentieren. (<i>Märzgefallene</i>, 496)',
+	'Das Podium füllte sich langsam. Alle waren sie dabei, sogar Gennat <strong>mühte</strong> seinen schweren Körper die zwei Stufen hinauf, obwohl er es hasste, für den Polizeipräsidenten den Grüßaugust zu machen. Denn mehr war das hier nicht: Levetzow war es seit Wochen schon nicht mehr um Ermittlungen gegangen, sondern nur noch darum, Benjamin Engel irgendwie zu fassen und der Öffentlichkeit zu präsentieren. (<i>Märzgefallene</i>, 496)',
+	'<u>Lunapark</u>',
+	'Würde es ihm (<i>Rath</i>) ähnlich ergehen wie Paul Czerwinski, der seit Ewigkeiten auf der Stufe des Kriminalsekretärs stehen geblieben war? Doch Czerwinski, der <strong>sich</strong> gerade mit dem Fotoapparate <strong>abmühte</strong>, war kein Maßstab. (<i>Lunapark</i>, 19)',   
+//	'<u>Marlow</u>',
+],
+'mühen, ab-': [  
+	'(sich) <strong>mühen</strong>: to labor'+
+	'<br>(sich) <strong>abmühen</strong>: plod, struggle, toil, labor'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abmuehen"target="target1">abmühen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abm%C3%BChen"target="target2">abmühen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abmuehen#abm%C3%BChen"target="target3">abmühen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abm%C3%BChen&id=verb%3Aabmu3hen"target="target4">abmühen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Auf einem grünen Kanapee <strong>mühte sich</strong> gerade ein muskulöser Hindenburg auf einer Nackten <strong>ab</strong>, die entfernt an Mata Hari erinnerte. (<i>Der nasse Fisch</i>, 19)',   
+	'"Henning, bringen Sie den Fotoapparat hier runter", rief er (<i>Rath</i>) nach oben.. Der Kriminalassistent hatte den Fotoapparat geschultert und <strong>mühte sich</strong> nun die Böschung hinunter. (<i>Der nasse Fisch</i>, 283)',
+	'<u>Der stumme Tod</u>',   
+	'Hinter Rath keuchte es. Henning <strong>mühte sich</strong> unter dem Fotoapparat <strong>ab</strong>, den er aus dem Opel gewuchtet hatte. (<i>Der stumme Tod</i>, 22)',
+    '<i>Taxifahrer Ziehlke zu Rath</i>: "Det jepäck warnwer nämlich schon vorher quitt jeworden. Jetze fällt\'s mir wieder in, so Se fragen: Vom Kaiserdamm sind wer erst mal zum Bahnhof Zoo, da hab ick mir noch mal mit ihre Koffer <strong>abmühen</strong> dürfen, und dann erst jing et weiter nach Wilmersdort." (<i>Der stumme Tod</i>, 191)'+
+	'<br>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -'+
+    '<br><i>Hochdeutsch</i>: "Das Gepäck waren wir nämlich schon vorher quitt geworden. Jetzt fällt’s mir wieder ein, da Sie fragen: Vom Kaiserdamm sind wir erst mal zum Bahnhof Zoo gefahren, da habe ich mich noch mal mit ihren Koffern <strong>abmühen</strong> dürfen, und dann erst ging es weiter nach Wilmersdorf."',
+   '<u>Märzgefallene</u>',
+	'Das Telefon klingelte. Sie (<i>Charly</i>) <strong>mühte sich</strong> aus dem Sessel und nahm den Hörer ab. Merkte, dass sie schon ein bisschen wankte. Nach dem Glas sollte sie besser aufhören mit dem Wein. (<i>Märzgefallene</i>, 282)',    
+	'Das Podium füllte sich langsam. Alle waren sie dabei, sogar Gennat <strong>mühte</strong> seinen schweren Körper die zwei Stufen hinauf, obwohl er es hasste, für den Polizeipräsidenten den Grüßaugust zu machen. Denn mehr war das hier nicht: Levetzow war es seit Wochen schon nicht mehr um Ermittlungen gegangen, sondern nur noch darum, Benjamin Engel irgendwie zu fassen und der Öffentlichkeit zu präsentieren. (<i>Märzgefallene</i>, 496)',
 	'<u>Lunapark</u>',
 	'Würde es ihm (<i>Rath</i>) ähnlich ergehen wie Paul Czerwinski, der seit Ewigkeiten auf der Stufe des Kriminalsekretärs stehen geblieben war? Doch Czerwinski, der <strong>sich</strong> gerade mit dem Fotoapparate <strong>abmühte</strong>, war kein Maßstab. (<i>Lunapark</i>, 19)',   
 //	'<u>Marlow</u>',
@@ -16515,12 +16539,18 @@ quietschen: [
 	'Der SS-Mann, der neben dem Bettgestell stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan, der ganze Körper, obwohl an Händen und Fußknöcheln fixiert, krampfte sich zusammen, die rostigen Bettfedern <strong>quietschten</strong>. (<i>Lunapark</i>, 333)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-quitt: [
+quitt: [ //xxx
 	'<strong>quitt</strong>: be even (with sb); be rid of (sb/sth)'+ 
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/quitt"target="target1">quitt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/quitt"target="target2">quitt</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/quitt"target="target3">quitt</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/quitt"target="target4">quitt</a>',
-   '<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Hör mir mal gut zu, Ede. Ich weiß, dass du das Geld eingesackt hast, bevor du das Portemonnaie hast fallen lassen...." <i>Ede</i>: "Ich will ja auch nit mih klaue, ävver die Versuchung is manchmal einfach zu jroß.... Manchmal is da einfach so\'n Kribbeln, un dann kann ich nit widerstonn." <i>Rath</i>: "Vielleicht solltest du zum Arzt gehen und etwas gegen dieses Kribbeln tun." Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind <strong>quitt</strong>." (<i>Märzgefallene</i>, 317)',
+	'<u>Der stumme Tod</u>',
+	'<i>Taxifahrer Ziehlke zu Rath</i>: "Det jepäck warnwer nämlich schon vorher <strong>quitt</strong> jeworden. Jetze fällt\'s mir wieder in, so Se fragen: Vom Kaiserdamm sind wer erst mal zum Bahnhof Zoo, da hab ick mir noch mal mit ihre Koffer abmühen dürfen, und dann erst jing et weiter nach Wilmersdort." (<i>Der stumme Tod</i>, 191)'+
+	'<br>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -'+
+    '<br><i>Hochdeutsch</i>: "Das Gepäck waren wir nämlich schon vorher <strong>quitt</strong> geworden. Jetzt fällt’s mir wieder ein, da Sie fragen: Vom Kaiserdamm sind wir erst mal zum Bahnhof Zoo gefahren, da habe ich mich noch mal mit ihren Koffern abmühen dürfen, und dann erst ging es weiter nach Wilmersdorf."',
+    '<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Hör mir mal gut zu, Ede. Ich weiß, dass du das Geld eingesackt hast, bevor du das Portemonnaie hast fallen lassen." [...] <i>Ede</i>: "Ich will ja auch nit mih klaue, ävver die Versuchung is manchmal einfach zu jroß." [...] "Manchmal is da einfach so\'n Kribbeln, un dann kann ich nit widerstonn." <i>Rath</i>: "Vielleicht solltest du zum Arzt gehen und etwas gegen dieses Kribbeln tun." Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind <strong>quitt</strong>." (<i>Märzgefallene</i>, 317)'+
+	'<br>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -'+
+    '<br><i>Hochdeutsch</i>: <i>Ede</i>: "Ich will ja auch nicht mehr klauen, aber die Versuchung ist manchmal einfach zu groß." [...] "Manchmal ist da einfach so ein Kribbeln, und dann kann ich nicht widerstehen."',
 ],
 // '<u>Der nasse Fisch</u>',  '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',  '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

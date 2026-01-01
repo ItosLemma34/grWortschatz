@@ -9,6 +9,8 @@ export const wordExamples = {
 // 'Strick (einen S. drehen)'  stumme Tod pg 481
 // verschlingen  Der stumme Tod 453
 // angezapft  Der stumme Tod 533
+// geschwängert  Marlow 457
+// Splint  pg 447
 //Fluter = Scheinwerfer (spotlight)  
 /* finish later:
 patzig: [
@@ -52,6 +54,66 @@ zzz: [
 	'<u>Lunapark</u>',   
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
+],
+rappelvoll: [  
+	'<strong>rappelvoll</strong>: jampacked'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rappelvoll"target="target1">rappelvoll</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rappelvoll"target="target2">rappelvoll</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/rappelvoll"target="target3">rappelvoll</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/rappelvoll"target="target4">rappelvoll</a>',
+	'<u>Der stumme Tod</u>',
+	'Den Alex ohne Aschinger, das hätte Rath sich auch kaum vorstellen können. Das halbe Präsidium aß hier zu Mittag oder trank sein Feierabendbierchen. Wie immer um die Mittagszeit war es <strong>rappelvoll</strong>. (<i>Der stumme Tod</i>, 202)',	
+	'<u>Marlow</u>',  
+	'<i>Böhm</i>: "..trotzem ist es so ein perfekter Zufall, dass diese Explosion genau diese zwei Menschen trifft, die sowieso ermordet werden sollten, dass ich nicht an einen Zufall glauben kann." <i>Rath</i>: "Und die Wirtin?" "Deren Tod hat man in Kauf genommen. Und den Tod weiterer Unschuldiger. Nur eine Stunde später wäre die Kneipe <strong>rappelvoll</strong> gewesen." (<i>Marlow</i>, 203)',
+],
+'Scheffel (Licht unter den S.)': [  
+	'der <strong>Scheffel</strong>,-: bushel'+
+	'<br><strong>Licht unter den Scheffel stellen</strong>:'+
+	'<br>"<i>Man zündet auch nicht ein Licht an und setzt es unter einen Scheffel, sondern auf einen Leuchter; so leuchtet es allen, die im Hause sind</i>." (<i>Matthäus 5, 15</i>)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sein%20eigenes%20Licht%20nicht%20unter%20den%20Scheffel%20stellen"target="target1">Licht unter den Scheffel stellen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/6023-rtkl-redewendung-sein-licht-unter-den-scheffel-stellen"target="target2">Licht unter den Scheffel stellen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=licht+unter+den+scheffel+stellen"target="target3">Licht unter den Scheffel stellen</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/sein-licht-unter-den-scheffel-stellen/"target="target4">Licht unter den Scheffel stellen</a>',
+	'<u>Der stumme Tod</u>',
+	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den Hefter in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein Geplänkel! Kommen Sie bitte zur Sache!" Rath schaute zu Böhm, der ihn unterbrochen hatte. Dessen Augen starrten ihn so unbeweglich an wie zwei festgefrorene Glasmurmeln. Gut, dachte Rath, dann die volle Breitseite, <strong>stell dein Licht nicht unter den Scheffel</strong>! (<i>Der stumme Tod</i>, 198-99)',
+],
+'Licht unter den Scheffel': [  
+	'der <strong>Scheffel</strong>,-: bushel'+
+	'<br><strong>Licht unter den Scheffel stellen</strong>:'+
+	'<br>"<i>Man zündet auch nicht ein Licht an und setzt es unter einen Scheffel, sondern auf einen Leuchter; so leuchtet es allen, die im Hause sind</i>." (<i>Matthäus 5, 15</i>)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sein%20eigenes%20Licht%20nicht%20unter%20den%20Scheffel%20stellen"target="target1">Licht unter den Scheffel stellen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/6023-rtkl-redewendung-sein-licht-unter-den-scheffel-stellen"target="target2">Licht unter den Scheffel stellen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=licht+unter+den+scheffel+stellen"target="target3">Licht unter den Scheffel stellen</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/sein-licht-unter-den-scheffel-stellen/"target="target4">Licht unter den Scheffel stellen</a>',
+	'<u>Der stumme Tod</u>',
+	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den Hefter in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein Geplänkel! Kommen Sie bitte zur Sache!" Rath schaute zu Böhm, der ihn unterbrochen hatte. Dessen Augen starrten ihn so unbeweglich an wie zwei festgefrorene Glasmurmeln. Gut, dachte Rath, dann die volle Breitseite, <strong>stell dein Licht nicht unter den Scheffel</strong>! (<i>Der stumme Tod</i>, 198-99)',
+],
+Splint: [  
+	'der <strong>Splint</strong>,-<strong>e</strong>: cotter pin (a pin or wedge that fixes parts tightly together)'+  
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Splint"target="target1">Splint</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Splint"target="target2">Splint</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/splint"target="target3">Splint</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Splint&id=substantiv%3ASplint"target="target4">Splint</a>',
+	'<u>Der stumme Tod</u>',
+	'"Hier müsste eigentlich ein Gewindebolzen sitzen", erklärte Lüdenbach. "Der muss sich gelöst haben. Eigentlich unmöglich, die sind alle mit einem <strong>Splint</strong> gesichert." (<i>Der stumme Tod</i>, 32)', 
+	'Der zweite Bolzen allerdings blieb unauffindbar, auch einen <strong>Splint</strong> fanden sie nicht. (<i>Der stumme Tod</i>, 34)',
+	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird geklemmt haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit. Hing noch ein kleiner <strong>Splint</strong> dran, an dem hatte er sich wohl verhakt." (<i>Der stumme Tod</i>, 159-60)',	
+	'Vorn am Pult erläuterte Kronberg vom ED gerade die gestrigen Erkenntnisse. [...] ".. manuell entfernt, sodass der Scheinwerfer nur noch an einem Bolzen hängt, der, bereits gelöst, nur noch von einem Sicherungs<strong>splint</strong> gehalten wird", leierte Kronbergs unnachahmlich eintönige Stimme gerade... "Zieht man nun", fuhr Kronberg fort, "diesen <strong>Splint</strong> mittels des bereits beschriebenen Hebels und des daran befestigten Drahtzuges aus dem Bolzen, ergibt sich als Folge das Lösen des Bolzens und damit das Herabstürzen des Scheinwerfers, da dieser somit seiner kompletten Halterung verlustig gegangen ist..." (<i>Der stumme Tod</i>, 197-98)',
+// pg 447  
+],
+'schwängern, geschwängert': [  
+	'<strong>schwanger</strong>: pregnant'+
+	'<br><strong>schwängern</strong>: impregnate, inseminate'+
+	'<br><strong>geschwängert</strong> (<i>colloquial</i>): to be heavy with, saturated, permeated'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schwaengern"target="target1">schwängern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schw%C3%A4ngern"target="target2">schwängern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schwangern"target="target3">schwängern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schw%C3%A4ngern&id=verb%3Aschwa3ngern"target="target4">schwängern</a>',  //https://www.verbformen.com/?w=schw%C3%A4ngern&id=verb%3Aschwa3ngern  geschwängert
+	'<u>Der stumme Tod</u>',
+	'Mit der Ledertasche unter dem Arm fühlte er (<i>Rath</i>) sich wenigstens irgendwie bewaffnet, als er die Tür zum kleinen Konferenzsaal öffnete. Die Besprechung lief schon gut zwanzig Minuten, entsprechend nikotin<strong>geschwängert</strong> war die Luft. (<i>Der stumme Tod</i>, 197)',	
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 457)',
+],
+'geschwängert, schwängern': [  
+	'<strong>schwanger</strong>: pregnant'+
+	'<br><strong>schwängern</strong>: impregnate, inseminate'+
+	'<br><strong>geschwängert</strong> (<i>colloquial</i>): to be heavy with, saturated, permeated'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schwaengern"target="target1">schwängern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schw%C3%A4ngern"target="target2">schwängern</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schwangern"target="target3">schwängern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schw%C3%A4ngern&id=verb%3Aschwa3ngern"target="target4">schwängern</a>',  //https://www.verbformen.com/?w=schw%C3%A4ngern&id=verb%3Aschwa3ngern  geschwängert
+	'<u>Der stumme Tod</u>',
+	'Mit der Ledertasche unter dem Arm fühlte er (<i>Rath</i>) sich wenigstens irgendwie bewaffnet, als er die Tür zum kleinen Konferenzsaal öffnete. Die Besprechung lief schon gut zwanzig Minuten, entsprechend nikotin<strong>geschwängert</strong> war die Luft. (<i>Der stumme Tod</i>, 197)',	
+//	'<u>Marlow</u>',  
+//	'   (<i>Marlow</i>, 457)',
 ],
 'geigen (die Meinung geigen)': [  
 	'<strong>geigen</strong>: play the violin, fiddle'+
@@ -1805,7 +1867,7 @@ Rudel: [
 	'das <strong>Gewinde</strong>: thread, screw thread; spire; wreath'+
 	'<br>der <strong>Bolzen</strong>,-: bolt, spike, pin, stud'+
 	'<br>der <strong>Gewindebolzen</strong>: threaded stud/bolt/pin'+ 
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewinde"target="target1">Gewinde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bolzen"target="target2">Bolzen</a>&nbsp;&nbsp;<a href="https://www.bing.com/search?q=Bilder+von+Gewindebolzen&cvid=19171246208c44848facab9a66f42b16&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDgyODhqMGozqAIIsAIB&FORM=ANAB01&PC=DCTS"target="target3">Gewindebolzen</a> (Fotos)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewinde"target="target1">Gewinde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bolzen"target="target2">Bolzen</a>&nbsp;&nbsp;<a href="https://www.bing.com/search?q=Bilder+von+Gewindebolzen&cvid=19171246208c44848facab9a66f42b16&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDgyODhqMGozqAIIsAIB&FORM=ANAB01&PC=DCTS"target="target3">Gewindebolzen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gewinde&id=substantiv%3AGewinde"target="target4">Gewinde</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/bolzen#Bolzen"target="target5">Bolzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gewindebolzen"target="target6">Gewindebolzen</a>',
 	'<u>Der nasse Fisch</u>',   
 	'Wie in Zeitlupe sah Rath einen metallenen <strong>Bolzen</strong> schräg hinter Wolter auf den Boden fallen. Ein Geräusch wie von einem Glockenschlegel war zu hören, als das schwere Teil am Boden aufschlug. (<i>Der nasse Fisch</i>, 525)',
@@ -1817,12 +1879,13 @@ Rudel: [
 	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten, dennoch war Gräf derjenige, der einen der <strong>Gewindebolzen</strong> schließlich fand, ein unscheinbares, öligschwarzes Metallstück, das unter ein Scheinwerferstativ gerollt war. Lüdenback bestätigte, dass es sich um einen <strong>Bolzen</strong> der Scheinwerferhalterung handelte.. Der zweite <strong>Bolzen</strong> allerdings blieb unauffindbar.. "Na, wenigsten einen <strong>Bolzen</strong> haben wir", meinte Gräf, und Rath nickte. "Vielleicht hat Glaser den anderen", sagte er. "Wollte Beweisstücke entsorgen, nur dass er den zweiten <strong>Bolzen</strong> nicht gefunden hat, bevor er sich aus dem Staub machte." (<i>Der stumme Tod</i>, 34)',
 	'Der ED hatte die Scheinwerferaufhängung bereits unter die Lupe genommen. Die technische Untersuchung war zu dem Schluss gekommen, dass keine Materialfehler vorlagen. Sämtliche <strong>Gewinde</strong> waren noch in Ordnung, der <strong>Bolzen</strong>, den Gräf gefunden hatte, intakt. Er musste von irgendjemandem mit Absicht herausgedreht worden sein. (<i>Der stumme Tod</i>, 122)',
 	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den <strong>Gewindebolzen</strong> noch irgendein Teil? Eine Stange, ein Draht, was weiß ich, irgendetwas Verdächtiges..." (<i>Der stumme Tod</i>, 156)',
+	'Vorn am Pult erläuterte Kronberg vom ED gerade die gestrigen Erkenntnisse. [...] ".. manuell entfernt, sodass der Scheinwerfer nur noch an einem <strong>Bolzen</strong> hängt, der, bereits gelöst, nur noch von einem Sicherungssplint gehalten wird", leierte Kronbergs unnachahmlich eintönige Stimme gerade... "Zieht man nun", fuhr Kronberg fort, "diesen Splint mittels des bereits beschriebenen Hebels und des daran befestigten Drahtzuges aus dem <strong>Bolzen</strong>, ergibt sich als Folge das Lösen des <strong>Bolzens</strong> und damit das Herabstürzen des Scheinwerfers, da dieser somit seiner kompletten Halterung verlustig gegangen ist..." (<i>Der stumme Tod</i>, 197-98)',
 ],
 'Bolzen, Gewinde, Gewindebolzen': [  
 	'das <strong>Gewinde</strong>: thread, screw thread; spire; wreath'+
 	'<br>der <strong>Bolzen</strong>,-: bolt, spike, pin, stud'+
 	'<br>der <strong>Gewindebolzen</strong>: threaded stud/bolt/pin'+  
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewinde"target="target1">Gewinde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bolzen"target="target2">Bolzen</a>&nbsp;&nbsp;<a href="https://www.bing.com/search?q=Bilder+von+Gewindebolzen&cvid=19171246208c44848facab9a66f42b16&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDgyODhqMGozqAIIsAIB&FORM=ANAB01&PC=DCTS"target="target3">Gewindebolzen</a> (Fotos)'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewinde"target="target1">Gewinde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bolzen"target="target2">Bolzen</a>&nbsp;&nbsp;<a href="https://www.bing.com/search?q=Bilder+von+Gewindebolzen&cvid=19171246208c44848facab9a66f42b16&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDgyODhqMGozqAIIsAIB&FORM=ANAB01&PC=DCTS"target="target3">Gewindebolzen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gewinde&id=substantiv%3AGewinde"target="target4">Gewinde</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/bolzen#Bolzen"target="target5">Bolzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gewindebolzen"target="target6">Gewindebolzen</a>',
 	'<u>Der nasse Fisch</u>',   
 	'Wie in Zeitlupe sah Rath einen metallenen <strong>Bolzen</strong> schräg hinter Wolter auf den Boden fallen. Ein Geräusch wie von einem Glockenschlegel war zu hören, als das schwere Teil am Boden aufschlug. (<i>Der nasse Fisch</i>, 525)',
@@ -1831,9 +1894,10 @@ Rudel: [
 	'"Hier müsste eigentlich ein <strong>Gewinde</strong>bolzen sitzen", erklärte Lüdenbach. "Der muss sich gelöst haben. Eigentlich unmöglich, die sind alle mit einem Splint gesichert." Rath schaute sich die Halterung aus der Nähe an. "Vielleicht ist er ja gebrochen, der Bolzen!" Lüdenbach zuckte ratlos mit den Schultern. "Dann ist da immer noch der auf der anderen Seite", meinte er. "Hier." Auf der anderen Seite der Halterung bot sich jedoch das gleiche Bild: kein <strong>Gewinde</strong>bolzen. (<i>Der stumme Tod</i>, 32)', 
 	'Lüdenbach wackelte mit dem Kopf wie ein Tattergreis. "Das gibt\'s doch nicht," murmelte er, "das gibt\'s doch gar nicht!... Das darf eigentlich nicht passieren... Deswegen sind die Scheinwerfer doch doppelt gesichert: Bricht einer der <strong>Bolzen</strong>, ist da immer noch der auf der anderen Seite." "Vielleicht wollte jemand den Scheinwerfer neu justieren, und dann hat er vergessen, die <strong>Bolzen</strong> wieder festzuschrauben", schlug Rath vor. (<i>Der stumme Tod</i>, 32)',
 	'Die Männer vom ED, die zusammen mit dem Gerichtsmediziner inzwischen eingetroffen waren, robbten auf der Suche nach zwei <strong>Gewindebolzen</strong> über den Boden, während Dr. Schwartz neben der Leiche hockte und die Brandwunden an Kopf und Schultern begutachtete. (<i>Der stumme Tod</i>, 33-34)',
-	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten, dennoch war Gräf derjenige, der einen der <strong>Gewindebolzen</strong> schließlich fand, ein unscheinbares, öligschwarzes Metallstück, das unter ein Scheinwerferstativ gerollt war. Lüdenback bestätigte, dass es sich um einen <strong>Bolzen</strong> der Scheinwerferhalterung handelte.. Der zweite <strong>Bolzen</strong> allerdings blieb unauffindbar.. "Na, wenigsten einen <strong>Bolzen</strong> haben wir", meinte Gräf, und Rath nickte. "Vielleicht hat Glaser den anderen", sagte er. "Wollte Beweisstücke entsorgen, nur dass er den zweiten <strong>Bolzen</strong> nicht gefunden hat, bevor er sich aus dem Staub machte." (<i>Der stumme Tod</i>, 34)',
+	'Kronbergs Leute suchten so systematisch, wie nur Erkennungsdienstler solch eine Aufgabe angehen konnten, dennoch war Gräf derjenige, der einen der <strong>Gewindebolzen</strong> schließlich fand, ein unscheinbares, öligschwarzes Metallstück, das unter ein Scheinwerferstativ gerollt war. Lüdenback bestätigte, dass es sich um einen <strong>Bolzen</strong> der Scheinwerferhalterung handelte.. Der zweite <strong>Bolzen</strong> allerdings blieb unauffindbar... "Na, wenigsten einen <strong>Bolzen</strong> haben wir", meinte Gräf, und Rath nickte. "Vielleicht hat Glaser den anderen", sagte er. "Wollte Beweisstücke entsorgen, nur dass er den zweiten <strong>Bolzen</strong> nicht gefunden hat, bevor er sich aus dem Staub machte." (<i>Der stumme Tod</i>, 34)',
 	'Der ED hatte die Scheinwerferaufhängung bereits unter die Lupe genommen. Die technische Untersuchung war zu dem Schluss gekommen, dass keine Materialfehler vorlagen. Sämtliche <strong>Gewinde</strong> waren noch in Ordnung, der <strong>Bolzen</strong>, den Gräf gefunden hatte, intakt. Er musste von irgendjemandem mit Absicht herausgedreht worden sein. (<i>Der stumme Tod</i>, 122)',
 	'"Sie haben die Beleuchtungsanlage wieder in Ordnung gebracht, sehe ich", sagte Rath. "Ist Ihnen dabei etwas aufgefallen?" Der Beleuchter (<i>Lüdenbach</i>) zog die Schultern hoch. "Wie meinen Sie das?" "Nun, fehlte außer den <strong>Gewindebolzen</strong> noch irgendein Teil? Eine Stange, ein Draht, was weiß ich, irgendetwas Verdächtiges..." (<i>Der stumme Tod</i>, 156)',
+	'Vorn am Pult erläuterte Kronberg vom ED gerade die gestrigen Erkenntnisse. [...] ".. manuell entfernt, sodass der Scheinwerfer nur noch an einem <strong>Bolzen</strong> hängt, der, bereits gelöst, nur noch von einem Sicherungssplint gehalten wird", leierte Kronbergs unnachahmlich eintönige Stimme gerade... "Zieht man nun", fuhr Kronberg fort, "diesen Splint mittels des bereits beschriebenen Hebels und des daran befestigten Drahtzuges aus dem <strong>Bolzen</strong>, ergibt sich als Folge das Lösen des <strong>Bolzens</strong> und damit das Herabstürzen des Scheinwerfers, da dieser somit seiner kompletten Halterung verlustig gegangen ist..." (<i>Der stumme Tod</i>, 197-98)',
 ],
 robben: [
 	'<strong>robben</strong>: crawl commando-style (on your stomach)'+
@@ -3081,6 +3145,11 @@ ungezogen: [
 	'Rath erinnerte sich daran, wie er es bei Böhm abgeliefert hatte. Der Oberkommissar hatte ihn und seine Lieferung mit keinem Blick gewürdigt und die Papiere auf dem Schreibtisch liegen lassen.. Dennoch waren sie in der Ermittlungsakte gelandet, allerdings lieblos <strong>abgeheftet</strong>, ohne jedes System. (<i>Der nasse Fisch</i>, 514)',
 	'<u>Der stumme Tod</u>', 
 	'Rath schaute auf die Uhr und packte alle <strong>Hefter</strong> wieder zusammen, stauchte sie akkurat zusammen und legte sie zurück an ihren Platz. Zeit zu gehen. (<i>Der stumme Tod</i>, 125)',
+	'Erika Voss erwartete ihn schon. "Da sind Sie ja! Herr Kommissar, Sie glauben gar nicht, was hier los ist! Oberkomissar Böhm..." <i>Rath</i>: "Dann rufen Sie Böhm an und sagen Sie ihm, dass ich hier bin. Das heiß: Warten Sie noch damit, ich muss erst ein paar Dinge <strong>abheften</strong>." [...] "Vor allem könnten Sie mir das hier schön säuberlich <strong>abheften</strong>." Er holte den Bericht aus der Tasche, den er gestern in Weinerts Maschine getippt hatte. Sie nickte brav, suchte einen neuen <strong>Hefter</strong> aus der Schublade und zog den großen schwarzen Locher zu sich herüber. (<i>Der stumme Tod</i>, 196)',
+	'Rath nahm den <strong>Hefter</strong> entgegen, der einen ganz manierlichen Eindruck machte, und steckte ihn zurück in die braune Ledertasche. (<i>Der stumme Tod</i>, 197)',
+	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den <strong>Hefter</strong> in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein Geplänkel! Kommen Sie bitte zur Sache!" (<i>Der stumme Tod</i>, 198-99)',
+	'"Sie können mir Ihren Bericht geben", sagte Böhm, "und dann sind Sie vorerst von der Mitarbeit am Fall Winter befreit." Rath hatte einen Protest auf den Lippen, aber er biss sich auf die Zunge. Würde ja doch nichts ändern. Er reichte Böhm den <strong>Hefter</strong>. (<i>Der stumme Tod</i>, 200)',
+	'Böhm hatte ausdrücklich - und schriftlich - vermerkt, dass Rath auch einen Bericht von der Wessel-Beisetzung zu den Akten <strong>heften</strong> solle, einen Bericht, den nur Gräf schreiben konnte, denn der war am Samstag auf dem Friedhof gewesen. (<i>Der stumme Tod</i>, 201)',
 	'<u>Märzgefallene</u>',  
 	'<i>Gräf</i>: "Es war kein Unfall. Die Kollegen haben Hannah Singer vor der brennenden Baracke aufgegriffen; die Streichhölzer, mit denen sie das Feuer entfacht hat, lagen noch zu ihren Füßen..." <i>Böhm</i>: "Und warum hat sie das getan?" "Wenn wir das wüssten." Gräf zuckte die Achseln und zeigte auf die Akte. "Hier sind sämtliche Verhöre <strong>abgeheftet</strong>, denen Hannah Singer damals unterzogen wurde. Elf an der Zahl. Und in keinem hat sie auch nur ein einziges Wort gesagt." (<i>Märzgefallene</i>, 27)',	
 	'<i>Voss</i>: "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch.... <i>Rath</i>: "Märzgefallene. Der Roman unseres Freiherrn. Da stehen seine Kriegserlebnisse drin." "Heißt das, ich hätte mir das Mitstenographieren sparen können?" Erika Voss präsentierte eine sauber <strong>geheftete</strong> Aktenmappe. "Das Protokoll. Fertig getippt." (<i>Märzgefallene</i>, 147)',
@@ -3259,11 +3328,13 @@ vergaloppieren: [
 ],
 'Knochen/Kopf hinhalten': [  
 	'<strong>hinhalten</strong>: hold sth. out; <i>fig</i>: stall/string along; take blame for sth.'+
-	'<br><strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck'+
+	'<br><strong>Knochen/Kopf hinhalten</strong>: risk one\'s neck, do the dirty work; take the rap, be the fall guy'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hinhalten"target="target1">hinhalten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hinhalten"target="target2">hinhalten</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hinhalten"target="target3">hinhalten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hinhalten&id=verb%3Ahinhalten"target="target4">hinhalten</a>',
 	'<u>Der nasse Fisch</u>',   
 	'<i>Wolter, zu Rath</i>: "Mein Junge, nicht so nachdenklich! Ich hätt dir den Kopf schon nicht abgerissen, wenn heute Abend ’ne Niete dabei gewesen wäre. Wir haben die Aktion zusammen geplant, und wenn irgendwas danebengegangen wäre, dann hätte ich meinen dicken Schädel schon dafür <strong>hingehalten</strong>. (<i>Der nasse Fisch</i>, 248)',
+	'<u>Der stumme Tod</u>',   
+	'Der Kriminalsekretär (<i>Gräf</i>) hat in den letzten Tagen recht häufig den <strong>Kopf</strong> für seinen Chef <strong>hinhalten</strong> müssen, dachte Rath, er durfte nicht vergessen, sich bei seinem Partner dafür ein wenig erkenntlich zu zeigen. (<i>Der stumme Tod</i>, 194-95)',
 	'<u>Märzgefallene</u>',
 	'Sie hatten ihre Gesundheit geopfert für das Vaterland, und nun kümmerte sich kein Mensch mehr um sie. Selbst den Leuten, die sie anbettelten, war ihr Anblick eher lästig, als dass sie Mitleid empfanden. Und schon gar keine Dankbarkeit. Dafür, dass diese Männer ihre <strong>Knochen hingehalten</strong> hatten für den Patriotismus der Daheimgebliebenen. (<i>Märzgefallene</i>, 10)',
 	'<i>von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese Schmierfinken über einen Mann, der für ihresgleichen seine <strong>Knochen hingehalten</strong> hat!" (<i>Märzgefallene</i>, 132)',
@@ -7864,6 +7935,7 @@ austüfteln: [
 	'Er (<i>Rath</i>) setzte sich ins Auto und machte es sich gemütlich. Von hier hatte er Krajewskis Haustür prächtig im Blick. Und genügend Zeit, den Plan noch einmal zu durchdenken, den er im Zug <strong>ausgetüftelt</strong> hatte. (<i>Der nasse Fisch</i>, 508)',
 	'<u>Der stumme Tod</u>',
 	'<i>Oppenberg</i>: "Felix würde nie das Leben eines Menschen riskieren. Was auch immer er da <strong>ausgetüftelt</strong> haben mag mit diesem Scheinwerfer, glauben Sie mir, es war perfekt." (<i>Der stumme Tod</i>, 146-47)',
+	'Rath erläuterte seine Theorie: Krempin habe die Drahtkonstruktion <strong>ausgetüftelt</strong>, um die Tonfilmkamera mit dem zentnerschweren Scheinwerfer zu zerstören, sei jedoch entdeckt worden. Deshalb habe er die Sache in letzter Sekunde entschärft und das Atelier Hals über Kopf verlassen. (<i>Der stumme Tod</i>, 199)',
 	'<u>Märzgefallene</u>',
 	'Rath musste sich mit einem Kommissar Stresow... auseinandersetzen, der den Personenschutz für Achim von Roddeck koordinierte. <i>Stresow</i>: "Fragen Sie an der Rezeption nach Herrn Rubens.... Wir benutzen täglich neue Decknamen." <i>Rath</i>: "Lassen Sie mich raten: Gestern hat er dann wohl noch Dürer geheißen?"....Rath zuckte die Achseln. "Da haben Sie jedenfalls ganz schön was <strong>ausgetüftelt</strong>!" (<i>Märzgefallene</i>, 328)',
 ],
@@ -7950,6 +8022,7 @@ abklappern: [
 	'Kein Wunder, dass er (<i>Rath</i>) müde war, der Nachmittag hatte sich nach dem Besuch im Passamt noch ganz schön in die Länge gezogen. Es hatte gedauert, bis Rath alle sechs Namen auf seiner Liste <strong>abgeklappert</strong> hatte. (<i>Der nasse Fisch</i>, 353)',
 	'<u>Der stumme Tod</u>',
 	'<i>Oppenberg</i>: "Dienstag wäre ihr erster Drehtag gewesen, und sie (<i>Vivian</i>) ist nicht erschienen." <i>Rath</i>: "Haben Sie denn schon selbst nach ihr gesucht?" "Natürlich. Ich lauf doch nicht gleich zur Polizei!" "Und?" "Wir haben alles <strong>abgeklappert</strong>, sämtliche Verwandte und Bekannte, sämtliche Bars und Restaurants, in denen sie verkehrt. Nichts..." (<i>Der stumme Tod</i>, 79)',
+	'<i>Rath</i>: "Wo bleibt denn Gräf? Der war doch gerade noch auf der Besprechung." "Schon wieder weg", sagte die Sekretärin. "Mit Lange raus zum Grunewald. Laubenkolonien <strong>abklappern</strong>, soviel ich weiß. Böhm glaubt, dass dieser Krempin sich dort irendwo versteckt." (<i>Der stumme Tod</i>, 201)',
 	'<u>Märzgefallene</u>',
 	'"Strausberger Straße?", fragte Gereon. Gräf nickte...."Zur schlesischen Olga." <i>Gereon</i>: "Hört sich nicht gerade amtlich an." <i>Gräf</i>: "Die städtischen Asyle habe ich alle schon <strong>abgeklappert</strong>." <i>Gereon</i>: "Also ein privates Asyl." <i>Gräf</i>: "Wenn man so will." (<i>Märzgefallene</i>, 121)',
 	'<i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch...". <i>Levetzow, der Polizeipräsident</i>: "Dann fühlen Sie weiter! <strong>Klappern</strong> Sie sämtliche Personen <strong>ab</strong>, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!...." (<i>Märzgefallene</i>, 358)',
@@ -10069,14 +10142,6 @@ durchkämmen: [
 	'"Was können Sie denn zur Sache beitragen?", fragte sie (<i>Charly</i>). "Ick kenn \'n paar Ecken, wo illegale Rote sich versteckt halten", sagte Herr Tutnüschtzursache, "könnt ick Ihnen zeigen. Laubenkolonien vor allem." <i>Charly</i>: "Hören Sie, ich hatte nicht vor, die ganze Stadt zu <strong>durchkämmen</strong>, ich hatte eigentlich auf konkrete Hinweise gehofft..." (<i>Lunapark</i>, 226)',
 	'Obwohl es mitten in der Nacht war, hatten seine (<i>Gräfs</i>) Männer schon begonnen, die Nachbarschaft abzuklappern und nach Zeugen zu suchen, welche die Flucht der aufgescheuchten Kommunisten mitbekommen hatten. Und natürlich würden sie überall in der Stadt die üblichen Verstecke <strong>durchkämmen</strong>: Laubenkolonien, Obdachlosensiedlungen und so weiter. (<i>Lunapark</i>, 388)',
 ],
-Dampframme: [ 
-	'die <strong>Ramme</strong>,-<strong>n</strong>: pile driver, hammer'+
-	'<br>die <strong>Dampframme</strong>,-<strong>n</strong>: steam-operated hammer, pile driver'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dampframme"target="target1">Dampframme</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Dampframme"target="target2">Dampframme</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dampframme"target="target3">Dampframme</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/dampframme"target="target4">Dampfamme</a>',
-	'<u>Der nasse Fisch</u>',
-	'Sogar auf eine der <strong>Dampframmen</strong> am Alex hatte ein U-Bahn-Bauarbeiter eine rote Fahne gepflanzt. Auch hier oben in den Büros der Burg hörte man die Menge skandieren: "Nie-der mit dem Deee-monstrations-verbot!" (<i>Der nasse Fisch</i>, 54)',
-],
 'Dreistigkeit, dreist' : [ 
 	'die <strong>Dreistigkeit</strong>,-<strong>en</strong>: audacity, brazenness, chutzpah'+
 	'<br><strong>dreist</strong>: audacious, bold'+
@@ -10512,6 +10577,8 @@ einlullen: [
 	'<u>Der nasse Fisch</u>',
 	'Die Waffe in der Hand zitterte leicht. Rath sah, dass es ein kleines Kaliber sein musste, aber sie standen nicht weit voneinander entfernt, für einen Polizistenmord würde es im Zweifelsfall reichen. <i>Wilhelm zwo, der Pornokaiser</i>: "Du willst mir nur <strong>einlullen</strong>, Scheißbulle! Bis dein Kumpel dir helfen kommt!" Der Kokser wusste gar nicht, wie recht er hatte: Rath sah, wie Wolter langsam hinter dem Mann auf die Bohlen kletterte. (<i>Der nasse Fisch</i>, 26)',
 	'Rath hätte nicht gedacht, noch einmal freiwillig hier aufzutauchen. Und nun saß er hier and kämpfte gegen die Müdigkeit. Der Lärm verschwamm in seinen Ohren zu einem einzigen zähen, <strong>einlullenden</strong> Brei. (<i>Der nasse Fisch</i>, 448)',
+	'<u>Der stumme Tod</u>',
+	'"Aufgrund der vorgefundenen Konstruktion und deren Platzierung liegt die Vermutung nahe, das..." <i>Böhm</i>: "Sie sollen nicht vermuten, mein lieber Kronberg, das überlassen Sie mal uns!" Böhm hatte Kronberg offensichtlich nicht <strong>einlullen</strong> können, die Bulldogge hatte aufgepasst. (<i>Der stumme Tod</i>, 198)',
 	'<u>Märzgefallene</u>',
 	'...mit dem nötigen Kleingeld in der Tasche konnte man sich hier (<i>in der Kadadu-Bar</i>) prima von der Welt da draußen ablenken. Und genau das hatte er (<i>Gereon</i>) auch vorgehabt, hatte ein paar neue Drinks ausprobiert, der Musik gelauscht und dem <strong>einlullenden</strong> Geplapper der Barbesucher. (<i>Märzgefallene</i>, 401-02)',
 ],
@@ -12013,6 +12080,8 @@ Gerümpel: [
 	'<br>das <strong>Geplänkel</strong>,-: banter, chit-chat; skirmish'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vorgeplaenkel"target="target1">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gepl%C3%A4nkel"target="target2">Geplänkel</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vorgepl%C3%A4nkel"target="target3">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gepl%C3%A4nkel"target="target4">Geplänkel</a>',
+	'<u>Der stumme Tod</u>', 
+	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den Hefter in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein <strong>Geplänkel</strong>! Kommen Sie bitte zur Sache!" (<i>Der stumme Tod</i>, 198-99)',
 	'<u>Märzgefallene</u>',
 	'"So, Kommissar, dann legen Sie mal los", sagte Roddeck.... "Gut, legen wir los." Rath fühlte sich angriffslustig.... Also fragte er ohne <strong>Vorgeplänkel</strong>. "Was haben Sie denn am einundzwanzigsten un zweiundzwansigsten Februar gemacht?" (<i>Märzgefallene</i>, 340-41)',
 	'<u>Lunapark</u>',
@@ -12025,6 +12094,8 @@ Gerümpel: [
 	'<br>das <strong>Geplänkel</strong>,-: banter, chit-chat; skirmish'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Vorgeplaenkel"target="target1">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gepl%C3%A4nkel"target="target2">Geplänkel</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vorgepl%C3%A4nkel"target="target3">Vorgeplänkel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gepl%C3%A4nkel"target="target4">Geplänkel</a>',
+	'<u>Der stumme Tod</u>', 
+	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den Hefter in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein <strong>Geplänkel</strong>! Kommen Sie bitte zur Sache!" (<i>Der stumme Tod</i>, 198-99)',
 	'<u>Märzgefallene</u>',
 	'"So, Kommissar, dann legen Sie mal los", sagte Roddeck.... "Gut, legen wir los." Rath fühlte sich angriffslustig.... Also fragte er ohne <strong>Vorgeplänkel</strong>. "Was haben Sie denn am einundzwanzigsten un zweiundzwansigsten Februar gemacht?" (<i>Märzgefallene</i>, 340-41)',
 	'<u>Lunapark</u>',
@@ -13868,6 +13939,8 @@ kahl: [
 	'<strong>kahl</strong>: bleak, bald, barren'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kahl"target="target1">kahl</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kahl"target="target2">kahl</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kahl"target="target3">kahl</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kahl"target="target4">kahl</a>',
+	'<u>Der stumme Tod</u>',
+	'Hinter den <strong>kahlen</strong> Bäumen im Zoo schob sich die Sonne langsam um die Ecke. Es schien auch heute ein schöner Tag zu werden. (<i>Der stumme Tod</i>, 194)', 
 	'<u>Märzgefallene</u>',
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die <strong>kahlen</strong> Kronen schaukeln. (<i>Märzgefallene</i>, 39)',  
 	'Auch wenn er (<i>Rath</i>) draußen vor dem Fenster nicht viel mehr als eine nackte Backsteinwand und ein paar <strong>kahle</strong> Bäume erkennen konnte, war ihm der Ausblick vertraut. (<i>Märzgefallene</i>, 71)',
@@ -14165,6 +14238,7 @@ Klaue: [
 	'<u>Der stumme Tod</u>',
 	'<i>Krieger zu Rath</i>: ".. Als wir gestern Morgen mit Victor und Eva drehten, <strong>klemmte</strong> der Effekthebel, und der Donner wurde nicht ausgelöst..."  (<i>Der stumme Tod</i>, 159)',	
 	'<i>Rath</i>: "Wie kam der Draht hierhin?" Der Bühnentechniker zuckte mit den Schultern. "Wird <strong>geklemmt</strong> haben und hat sich dann losgerissen. So ein Draht unter Spannung, wenn der reißt, der fliegt ganz schön weit." (<i>Der stumme Tod</i>, 159-60)',	
+	'Er (<i>Rath</i>) holte den Bericht aus der Tasche, den er gestern in Weinerts Maschine getippt hatte. Sie (<i>Erica Voss</i>) nickte brav, suchte einen neuen Hefter aus der Schublade und zog den großen schwarzen Locher zu sich herüber. "Sonst noch irgendwelche Unterlagen zum Fall Winter hier?", fragte Rath, während sie das Paper akkurat stauchte und unter den Locher <strong>klemmte</strong>. (<i>Der stumme Tod</i>, 196-97)',
 	'<u>Märzgefallene</u>',
 	'Kommissaranwärter Steinke näherte sich mit dem Fotoapparat, die unhandliche Kamera unter den Arm <strong>geklemmt</strong>, das schwere Stativ geschultert. (<i>Märzgefallene</i>, 12)',
 	'"Na, wo isser denn, Ihr Ausweis? Her damit! Sonst können Sie die Nacht am Alex verbringen."....Klang wie ein Bulle. Was hätte Weinert darum gegeben, wäre jetzt Gereon Rath um die Ecke gekommen, der hätte ihm bestimmt aus der <strong>Klemme</strong> helfen können. (<i>Märzgefallene</i>, 59)',
@@ -14732,6 +14806,8 @@ kuschen: [
 	'<strong>kuschen</strong>: kowtow, submit, knuckle under; lie down'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kuschen"target="target1">kuschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kuschen"target="target2">kuschen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kuschen"target="target3">kuschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kuschen"target="target4">kuschen</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Böhm</i>: "Wo wollen Sie hin?" <i>Rath</i>:"An die Arbeit." "Welche Arbeit? Habe ich Ihnen schon eine Aufgabe übertragen?" Rath sagte nichts. Er schaute der Bulldogge direkt in die Augen. Er wúrde Böhm nicht den Gefallen tun und <strong>kuschen</strong>. (<i>Der stumme Tod</i>, 200)',
 	'<u>Märzgefallene</u>',
 	'"Vogelsang, nun antworten Sie schon, wenn ich Sie aufrufe!" Der Schüler Vogelsang erhob sich und stand stramm wie auf dem Kasernenhof. Einen Moment wirkte es, als wolle er protestieren gegen diese Ungerechtigkeit, ließ es dann aber bleiben. Aus diesem Grunde hatte Meifert ihn ja auch ausgewählt. Vogelsang <strong>kuschte</strong> immer. (<i>Märzgefallene</i>, 128)',
 	'<u>Lunapark</u>',
@@ -14787,6 +14863,8 @@ Lache: [
 	'<br>der <strong>Laubenpieper</strong>,-: allotment gardener'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Laub"target="target1">Laub</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laube"target="target2">Laube</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laubenkolonie"target="target3">Laubenkolonie</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Laubenpieper"target="target4">Laubenpieper</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/laub"target="target5">Laub<a/>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/laube"target="target6">Laube</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/laubenkolonie"target="target7">Laubenkolonie</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/laubenpieper"target="target8">Laubenpieper</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Wo bleibt denn Gräf? Der war doch gerade noch auf der Besprechung." "Schon wieder weg", sagte die Sekretärin. "Mit Lange raus zum Grunewald. <strong>Laubenkolonien</strong> abklappern, soviel ich weiß. Böhm glaubt, dass dieser Krempin sich dort irendwo versteckt." (<i>Der stumme Tod</i>, 201)',
 	'<u>Lunapark</u>',
 	'"Vielleicht ist sie (<i>die Gruppe Wolff</i>) ja auch kreuz und quer in der ganzen Stadt verteilt", sagte Rath. "In irgendwelchen Wohnungen, die die Kommunisten für genau solche Zwecke vorhalten.." <i>Gräf</i>: " Die meisten dieser Wohnungen sind schon dreiunddreißig aufgeflogen.. Es ist natürlich nicht auszuschließ, dass die Bolschewiken diese zerschlagenen Strukturen wenigstens zum Teil wiederaufgebaut haben, aber ich glaube das nicht. Ich vermute, dass sie eher in irgendwelchen <strong>Laubenkolonien</strong> hausen, in Kellern oder auf Dachböden." (<i>Lunapark</i>, 60-61)',
 	'"Was können Sie denn zur Sache beitragen?", fragte sie (<i>Charly</i>). "Ick kenn \'n paar Ecken, wo illegale Rote sich versteckt halten", sagte Herr Tutnüschtzursache, "könnt ick ihnen zeigen. <strong>Laubenkolonien</strong> vor allem." "Hören Sie, ich hatte nicht vor, die ganze Stadt zu durchkämmen, ich hatte eigentlich auf konkrete Hinweise gehofft.. Das sich in den <strong>Laubenkolonien</strong> Kommunisten verstecken, weiß doch jedes Kind." (<i>Lunapark</i>, 226)',
@@ -15518,6 +15596,8 @@ Murmel: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murmel"target="target3">Murmel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Murmel"target="target4">Murmel</a>',
 	'<u>Der nasse Fisch</u>',
 	'(<i>Doktor</i>) Schwartz hatte die Schädeldecke fein rund ausgesägt, um an das Gehirn zu kommen.. Wenigstens hatte er Rath das Geräusch der Knochensäge nicht zugemutet, das hatte er immer am schlimmsten empfunden, viel schlimmer als all das Blut beispielsweise oder der Anblick eines gehäuteten Gesichts, aus dessen Augenhöhlen die Augäpfel wie zwei Glas<strong>murmeln</strong> stierten. (<i>Der nasse Fisch</i>, 294)',  
+	'<u>Der stumme Tod</u>',
+	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den Hefter in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein Geplänkel! Kommen Sie bitte zur Sache!" Rath schaute zu Böhm, der ihn unterbrochen hatte. Dessen Augen starrten ihn so unbeweglich an wie zwei festgefrorene Glas<strong>murmeln</strong>. Gut, dachte Rath, dann die volle Breitseite, stell dein Licht nicht unter den Scheffel! (<i>Der stumme Tod</i>, 198-99)',
 	'<u>Märzgefallene</u>',
 	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blutschlieren bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige <strong>Murmel</strong>... Der Sehnerv hing an seinem blutverschmierten Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)',
 ],
@@ -16365,6 +16445,8 @@ poltern: [
 	'<i>Rath</i>: "Und wie funktioniert das Monstrum?" "Ganz einfach." Krieg zeigte auf die Spitze des Holzkastens. "Da oben drin sind Eisenkugeln. Und wenn Sie die runter<strong>poltern</strong> lassen, dann donnert\'s." (<i>Der stumme Tod</i>, 158)',
 	'Nach der Ohrfeige lag ein Ausdruck der Überraschung in seinem (<i>Victor Meisners</i>) Gesicht, wahrscheinlich gespielte, vielleicht auch echte, weil sie (<i>Betty Winter</i>) seine Wange wirklich getroffen hatte. Oder hatte er in diesem Moment schon im Augenwinkel den herab<strong>polternden</strong> Scheinwerfer entdeckt und war deswegen instinktiv zurückgewichen? (<i>Der stumme Tod</i>, 167)',
 	'"Ich bin ein Mörder, Herr Kommissar", schrie Meisner plötzlich und sprang von seinem Stuhl auf, der <strong>polternd</strong> nach hinten kippte, "ich habe meine eigene Frau umgebracht!" (<i>Der stumme Tod</i>, 175)',
+	'"Vielen Dank, Kollege Kronberg", <strong>polterte</strong> die Bulldogge los. Bei Böhm klang selbst ein Dankeschön wie eine Beschimpfung. (<i>Der stumme Tod</i>, 198)',
+	'<i>Böhm</i>: "Meine Herren, Sie wissen, was Sie zu tun haben", sagte er. "An die Arbeit!" Lautes <strong>Poltern</strong> und leises Murmeln löste die Stille ab. Langsam leerte sich der Saal. (<i>Der stumme Tod</i>, 200)',
 	'<u>Märzgefallene</u>',
 	'Hanna stieß den Stuhl beiseite und war draußen, hörte hinter sich den  Stuhl <strong>poltern</strong>... (<i>Märzgefallene</i>, 69)'  ,
 	'Mitten in der Nacht waren sie gekommen, hatten gegen die Wohnungstür <strong>gepoltert</strong> und sie eingetreten, noch bevor er (<i>Leo</i>) sie öffnen konnte, und wenige Sekunden später schon im Schlafzimmer gestanden. (<i>Märzgefallene</i>, 108)',
@@ -16539,7 +16621,7 @@ quietschen: [
 	'Der SS-Mann, der neben dem Bettgestell stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan, der ganze Körper, obwohl an Händen und Fußknöcheln fixiert, krampfte sich zusammen, die rostigen Bettfedern <strong>quietschten</strong>. (<i>Lunapark</i>, 333)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-quitt: [ //xxx
+quitt: [ 
 	'<strong>quitt</strong>: be even (with sb); be rid of (sb/sth)'+ 
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/quitt"target="target1">quitt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/quitt"target="target2">quitt</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/quitt"target="target3">quitt</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/quitt"target="target4">quitt</a>',
@@ -16839,16 +16921,46 @@ rabiat: [
 	'<u>Märzgefallene</u>',
 	'<i>Charly</i>: "Im Moment gibt es kaum einen Berliner Kommunisten, der sich überhaupt noch auf die Straße traut." <i>Gereon</i>: "Na, dann hat die Sache ja wenigstens etwas Gutes! Wenn diese <strong>Radaubrüder</strong> sich endlich mal wegducken!" (<i>Märzgefallene</i>, 88)' ,
 ],
-//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',      
+//'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>',  '<u>Märzgefallene</u>',     Rammen 
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür   für über überhaupt  schön  zurück können   würde   <strong>  ä Ä ö Ö ü Ü ß   für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-rammen: [
+'rammen, Ramme, Dampf-': [
 	'<strong>rammen</strong>: hit, ram, drive/crash into'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rammen"target="target1">rammen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rammen"target="target2">rammen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rammen"target="target3">rammen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rammen"target="target4">rammen</a>',
+	'<br>die <strong>Ramme</strong>,-<strong>n</strong>: pile-driver'+
+	'<br>die <strong>Dampframme</strong>,-<strong>n</strong>: steam-operated hammer, pile driver'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rammen"target="target1">rammen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rammen"target="target2">rammen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dampframme"target="target3">Dampframme</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rammen"target="target4">rammen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rammen"target="target5">rammen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dampframme"target="target6">Dampframme</a>',
 	'<u>Der nasse Fisch</u>',
 	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den Ganoven zurecht und <strong>rammte</strong> ihm seine Rechte in den Magen. (<i>Der nasse Fisch</i>, 26)',
 	'Doch auch der Alexanderplatz war eine einzige Baustelle. Schwere Dampf<strong>rammen</strong> trieben den U-Bahn-Bau voran und hatten den Platz fast komplett ausgehöhlt. (<i>Der nasse Fisch</i>, 33)',
+	'Sogar auf eine der <strong>Dampframmen</strong> am Alex hatte ein U-Bahn-Bauarbeiter eine rote Fahne gepflanzt. Auch hier oben in den Büros der Burg hörte man die Menge skandieren: "Nie-der mit dem Deee-monstrations-verbot!" (<i>Der nasse Fisch</i>, 54)',
+	'<u>Der stumme Tod</u>',
+	'Draußen auf dem Alex war es laut. Die <strong>Dampframmen</strong> trieben immer noch Stützeisen in den Boden, obwohl die UBahn angeblich so gut wie fertig war. Überall versperrten Bauzäune den Weg... (<i>Der stumme Tod</i>, 202)',
+	'<u>Märzgefallene</u>',
+	'"Sicher bin ich nicht", sagte er (<i>Doktor Schwarz</i>), "würde mich jedoch nicht wundern, wenn jemand dem armen Kerl hier eine Stricknadel durch die Nase ins Gehirn <strong>gerammt</strong> hätte." (<i>Märzgefallene</i>, 16)',
+	'Hannah umfasste die Scherbe in ihrer Hand, die sie eigentlich Scholtens in seinen dämlichen Arsch hatte <strong>rammen</strong> wollen. (<i>Märzgefallene</i>, 67)',
+	'Sie (<i>Hannah</i>) zog die Scherbe raus und <strong>rammte</strong> sie noch einmal in seinen Körper und noch einmal, dann erst rollte sie vom Bett. (<i>Märzgefallene</i>, 68)',
+	'Der SA-Mann baute sich vor ihm auf und <strong>rammte</strong> ihm (<i>Leo</i>), ohne den Blick abzuwenden, ansatzlos den Gummiknüppel in die Magengrube. Leo krümmte sich vor Schmerz. (<i>Märzgefallene</i>, 111)',
+	'Er (<i>der Schaffner</i>) brach ab, als könne er nicht aussprechen, was da jemand einfach so getan hatte. Dem Fahrgast (<i>Wiebeau</i>) einen langen, spitzen Gegenstand durch die Nase ins Hirn <strong>gerammt</strong> und ihn auf diese einfache, aber effektive Weise getötet. (<i>Märzgefallene</i>, 344-45)',
+	'<i>Rath</i>: "Ich komme auf ganz andere Gedanken. Was halten Sie (<i>Roddeck</i>) von dem: Heinrich Wosniak besucht seinen alten Bettlerkumpanen Krumbiegel am Nollendorfplatz und schenkt ihm seinen alten Soldatenmantel... Und kaum hat der frierende Bettler das Ding angezogen, bekommt er die Klinge von Wosniaks Grabendolch ins Hirn <strong>gerammt</strong>." (<i>Märzgefallene</i>, 482)',
+	'<i>Rath</i>: "Was, wenn ich dir sage, dass nicht Engel, sondern Leutnant von Roddek selbst hinter diesen Morden stekt?" <i>Weinert</i>: "Der Schriftsteller? Aber das passt doch nicht zu dem Steckbrief. Außerdem wurde die Mordwaffe bei der Spreeleiche gefunden." <i>Rath</i>: "Meinst du, einer wie Roddeck <strong>rammt</strong> jemandem einen Grabendolch in den Schädel? Für so was ist der zu fein, für so was hat der seinen treuen Heinrich." (<i>Märzgefallene</i>, 531)',
+	'<u>Lunapark</u>',
+	'Und dann folgte der Donner.. <i>Charly</i>: ".. Wir wollten keine Zeit verlieren, du weißt, wie diese Neger sind. Wir haben uns gleich ein Zimmer genommen und es getrieben wie die Tiere!" Rath wusste nichts zu erwidern. Sprachlos starrte er Charly an. Am liebsten hätte er seine Faust irgendwo hinein<strong>gerammt</strong>, aber da stand nur Charly. Charly, die er niemals im Leben würde schlagen können. (<i>Lunapark</i>, 160)',
+	'<u>Marlow</u>', 
+	'Du nimmst einen Spaten und eine Spitzhacke, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben.. Einen halben Meter hast du bereits ausgehoben, da hörst du ein metallisch scharfes Geräusch und schaust auf. Da steht der Junge, am anderen Ende der noch flachen Zwei-Meter-Grube, und hat ebenfalls einen Spaten in den Boden <strong>gerammt</strong>. (<i>Marlow</i>, 167)',
+], 
+'Dampframme, Ramme, rammen': [
+	'<strong>rammen</strong>: hit, ram, drive/crash into'+
+	'<br>die <strong>Ramme</strong>,-<strong>n</strong>: pile-driver'+
+	'<br>die <strong>Dampframme</strong>,-<strong>n</strong>: steam-operated hammer, pile driver'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rammen"target="target1">rammen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rammen"target="target2">rammen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dampframme"target="target3">Dampframme</a>'+  
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rammen"target="target4">rammen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rammen"target="target5">rammen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/dampframme"target="target6">Dampframme</a>',
+	'<u>Der nasse Fisch</u>',
+	'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den Ganoven zurecht und <strong>rammte</strong> ihm seine Rechte in den Magen. (<i>Der nasse Fisch</i>, 26)',
+	'Doch auch der Alexanderplatz war eine einzige Baustelle. Schwere Dampf<strong>rammen</strong> trieben den U-Bahn-Bau voran und hatten den Platz fast komplett ausgehöhlt. (<i>Der nasse Fisch</i>, 33)',
+	'Sogar auf eine der <strong>Dampframmen</strong> am Alex hatte ein U-Bahn-Bauarbeiter eine rote Fahne gepflanzt. Auch hier oben in den Büros der Burg hörte man die Menge skandieren: "Nie-der mit dem Deee-monstrations-verbot!" (<i>Der nasse Fisch</i>, 54)',
+	'<u>Der stumme Tod</u>',
+	'Draußen auf dem Alex war es laut. Die <strong>Dampframmen</strong> trieben immer noch Stützeisen in den Boden, obwohl die UBahn angeblich so gut wie fertig war. Überall versperrten Bauzäune den Weg... (<i>Der stumme Tod</i>, 202)',
 	'<u>Märzgefallene</u>',
 	'"Sicher bin ich nicht", sagte er (<i>Doktor Schwarz</i>), "würde mich jedoch nicht wundern, wenn jemand dem armen Kerl hier eine Stricknadel durch die Nase ins Gehirn <strong>gerammt</strong> hätte." (<i>Märzgefallene</i>, 16)',
 	'Hannah umfasste die Scherbe in ihrer Hand, die sie eigentlich Scholtens in seinen dämlichen Arsch hatte <strong>rammen</strong> wollen. (<i>Märzgefallene</i>, 67)',
@@ -16905,12 +17017,14 @@ Räuberpistole: [
 	'<i>Charly</i>: "Ein Zeuge hat sich auch gemeldet, einer, der Wosniak kannte, sein alter Leutnant aus dem Krieg. Und der glaubt auch, den Mörder zu kennen." Charly erzählte Böhm die Geschichte, und als sie geendet hatte, schüttelte der Oberkommissar den Kopf. "Eine ziemliche <strong>Räuberpistole</strong>." (<i>Märzgefallene</i>, 239)',
 ],
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-'Raunen, raunen': [
-	'das <strong>Raunen</strong>: whispering, murmuring <br><strong>raunen</strong>: whisper, murmur'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Raunen"target="target1">Raunen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/raunen"target="target2">raunen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/raunen"target="target3">raunen</a> &nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=raunen"target="target4">raunen</a>',
+raunen: [
+	'<br><strong>raunen</strong>: to whisper, murmur'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/raunen"target="target1">raunen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/raunen"target="target2">raunen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/raunen"target="target3">raunen</a> &nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=raunen"target="target4">raunen</a>',
 	'<u>Der nasse Fisch</u>',
-	'...ein <strong>Raunen</strong> ging durch die Menge. Gummiknüppel sausten nieder. Die Demonstranten in der ersten Reihe duckten sich unter den Schlägen, einige stürzten. (<i>Der nasse Fisch</i>)',
+	'...ein <strong>Raunen</strong> ging durch die Menge. Gummiknüppel sausten nieder. Die Demonstranten in der ersten Reihe duckten sich unter den Schlägen, einige stürzten. (<i>Der nasse Fisch</i>, 54)',
+	'<u>Der stumme Tod</u>',
+	'Auch im Fall Winter verließen sich die Zeitungen vorrangig auf Spekulationen, in der Hauptsache Bellmanns Sabotagetheorien, ohne dass allerdings der Name Oppenberg fiel, so vorsichtig war die Journaille dann doch, denn Rath war sich sicher, dass Bellmann jedem Journalisten den Namen seines verhassten Konkurrenten sorgfältigst buchstabiert hatte, wahrscheinlich mit dem <strong>geraunten</strong> Zustaz: "Das haben Sie aber nicht von mir." (<i>Der stumme Tod</i>, 195)',
 	'<u>Märzgefallene</u>',
 	'Der Zug schien sich in Bewegung zu setzen, die Alaafrufe wurden zahlreicher und lauter.... Erst als das Alaaf immer leiser wurde und mit einem <strong>Raunen</strong>, das sich durch die Menge fraß, schließlich verstummte, konnte man verstehen, was die SA-Männer riefen. "Adenauer an die Mauer!" (<i>Märzgefallene</i>, 51-52)',
 	'Durch den Saal ging ein <strong>Raunen</strong>, das sogleich wieder abebbte, als Liebermann (<i>Nazi, Personalreferent im Innenministerium</i>) weiterredete.  (<i>Märzgefallene</i>, 182)',
@@ -17262,6 +17376,7 @@ stauchen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/stauchen"target="target3">stauchen</a> &nbsp;<a href="https://www.verbformen.com/?w=stauchen"target="target4">stauchen</a>',
 	'<u>Der stumme Tod</u>', 
 	'Rath schaute auf die Uhr und packte alle Hefter wieder zusammen, <strong>stauchte</strong> sie akkurat zusammen und legte sie zurück an ihren Platz. Zeit zu gehen. (<i>Der stumme Tod</i>, 125)',
+	'Er (<i>Rath</i>) holte den Bericht aus der Tasche, den er gestern in Weinerts Maschine getippt hatte. Sie (<i>Erica Voss</i>) nickte brav, suchte einen neuen Hefter aus der Schublade und zog den großen schwarzen Locher zu sich herüber. "Sonst noch irgendwelche Unterlagen zum Fall Winter hier?", fragte Rath, während sie das Paper akkurat <strong>stauchte</strong> und unter den Locher klemmte. (<i>Der stumme Tod</i>, 196-97)',
 	'<u>Lunapark</u>',  
     'Gräf klaubte die Fotos vom Schreibtisch, <strong>stauchte</strong> sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück. (<i>Lunapark</i>, 60)',
 	'<u>Marlow</u>',  
@@ -19114,6 +19229,11 @@ Stange: [
 	'Er musste die Pistole so schnell wie möglich loswerden! Rath überlegte nicht lange, dazu fehlte die Zeit. Er nahm den Deckel von der Pappschachtel, fasste die Pistole vorsichtig mit einem Aktenblatt,.. und ließ sie hinter den großen <strong>Stapel</strong> Fotos rutschen. (<i>Der nasse Fisch</i>, 394)',
 	'<u>Der stumme Tod</u>',
 	'Wort für Wort hämmerte er (<i>Rath, mit der Schreibmaschine</i>) die Buchstaben auf das Papier... Der Berg mit zerknüllten Blättern auf dem Fußboden wuchs, die Cognacflasche wurder leerer.. Er fühlte sich halbwegs im Reinen mit sich selbst, als er das letzte Blatt auf den inzwischen ganz ansehnlichen Papier<strong>stapel</strong> legte. (<i>Der stumme Tod</i>, 186-87)',
+	'Nach fünf Minuten kehrte der Mann zurück. Ohne Gepäckstücke, stattdessen mit einem <strong>Stapel</strong> Karteikarten, die er neben die Schreibmaschine auf den Tresen legte. "Det hier is allet, wat länger liecht als zwee Wochen. Woll\'n mal schauen." Er blätterte durch den <strong>Stapel</strong> und wurde tatsächlich fündig. (<i>Der stumme Tod</i>, 193-94)',
+	'Rath.. setzte sich in die Bahnhofsgaststätte. Noch genügend Zeit für eine Tasse Kaffee. Es gab nur Kännchen. Aber wenigstens sparte sich der Kellner eine Bemerkung über die Schreibmaschine, die auf dem Tisch stand, und hatte auch nichts gegen den <strong>Stapel</strong> Zeitunguen einzuwenden, den Rath mit an seinen Platz genommen hatte. (<i>Der stumme Tod</i>, 194)',
+	'Auf dem Schreibtisch türmten sich die Aktenberge. "Was soll ich denn hiermit?", fragte er (<i>Rath</i>) seine Sekretärin. Erika Voss zuckte die Achseln. "Hat Fräulein Steiner gerade gebracht. Mit schönem Gruß von Oberkommissar Böhm. Mehr hat sie nicht gesagt." Rath schaute sich die Papier<strong>stapel</strong> an. (<i>Der stumme Tod</i>, 200-01)',
+	'Rath begann die Unterlagen zu sortieren und hatte schon bald Papeier<strong>stapel</strong> unterschiedlicher Höhe angehäuft. (<i>Der stumme Tod</i>, 201)',
+	'Rath wollte dem Taxifahrer einen Platz anbieten, aber dann merkte er, dass auch auf dem Besucherstuhl ein Papier<strong>stapel</strong> mit WesselProtokollen lag. (<i>Der stumme Tod</i>, 202)',
 	'<u>Märzgefallene</u>',
 	'Der neue Chef der Berliner Polizei hatte auf die Zeitungen geklopft, die auf seinem Schreibtisch lagen, ein ganzer <strong>Stapel</strong>, von der Kreuzzeitung bis zum <i>Tag</i>.... (<i>Märzgefallene</i>, 139)',
 	'Kurt Daluege, ein geschniegelter Grünschnabel mit hoher Stirn und arrogant geschwungenen Lippen... saß hinter einem Schreibtisch, auf dem sich bergeweise Akten <strong>stapelten</strong>, und schrieb irgendetwas auf. (<i>Märzgefallene</i>, 141)',
@@ -19641,6 +19761,8 @@ Tresen: [
 	// skipped pg 163
 	'Rath parkte den Buick direkt vor dem Nassen Dreieck. "Lust auf ein Bier?", fragte er. Weinert nickte, und kurz darauf saßen sie am <strong>Tresen</strong>. (<i>Der stumme Tod</i>, 183)',
 	'Rath hatte sein Gepäck schon aus dem Auto geholt, Schreibmaschine, Filmrollen und Drehbuch hatte er nacheinander auf den <strong>Tresen</strong> gepackt. (<i>Der stumme Tod</i>, 183)',
+	'Rath zeigte dem Mann ein Foto von Vivian Franck. "Können Sie sich an diese Frau erinnern?" "Wer könnte det nich?" Die kleinen Augen hinter dem <strong>Tresen</strong> glänzten plötzlich. "Habse in <i>Verrucht</i> jesehen. Jöttlich! Det is doch die Franck, oder?" (<i>Der stumme Tod</i>, 193)',
+	'Nach fünf Minuten kehrte der Mann zurück. Ohne Gepäckstücke, stattdessen mit einem Stapel Karteikarten, die er neben die Schreibmaschine auf den <strong>Tresen</strong> legte. (<i>Der stumme Tod</i>, 193-94)',
 	'<u>Märzgefallene</u>',
 	'Der Kellner ließ sich Zeit, sie (<i>die wilde Hilde</i>) ging zum <strong>Tresen</strong> und verschwand gleich nach der Bestellung auf der Toilette. (<i>Märzgefallene</i>, 74)',
 	'Sie (<i>Hannah</i>) blinzelte gegen den Zigarettenqualm an, und dann entdeckte sie am <strong>Tresen</strong> zu ihrer Überraschung ein bekanntes Gesicht. (<i>Märzgefallene</i>, 321)',
@@ -19836,6 +19958,8 @@ tuscheln: [
 	'Die Schupos <strong>tuschelten</strong>. Ab und an warf ein Blauer dem Kriminalkommissar einen verstohlenen Blick zu. (<i>Der nasse Fisch</i>, 14)',
 	'Der Kellner kam mit zwei Speisekarten und zwei Gläsern <i>Heidsieck Monopol</i> an ihren Tisch zurück. "Ich habe mir erlaubt, schon etwas zu bestellen", sagte Rath und hob sein Glas. Deswegen also hatte er vorhin mit dem Kellner <strong>getuschelt</strong>. (<i>Der nasse Fisch</i>, 183)',
 	'Das Bühnenprogramm war ihm noch langweiliger erschienen als am Sonntag, fünf Tage zuvor... Seine Nachbarn im Zuschauerraum hatten sich über den Knödeltenor noch amüsieren können und <strong>getuschelt</strong> und gelacht. (<i>Der nasse Fisch</i>, 198)',
+	'<u>Der stumme Tod</u>',
+	'Mit der Ledertasche unter dem Arm fühlte er (<i>Rath</i>) sich wenigstens irgendwie bewaffnet, als er die Tür zum kleinen Konferenzsaal öffnete. Die Besprechung lief schon gut zwanzig Minuten, entsprechend nikotingeschwängert war die Luft. Rath widerstand der Versuchung, zu seiner Overstolzschachtel zu greifen, und erwiderte die neugierigen Blicke mit einem grüßenden Nicken. Ein paar Kollegen <strong>tuschelten</strong>, als sie ihn erkannten. (<i>Der stumme Tod</i>, 197)',	
 	'<u>Märzgefallene</u>',
 	'Liebermann (<i>Nazi, Personalreferent im Innenministerium</i>) flüsterte dem Kriminalrat (<i>Gennat</i>) noch ein paar Sätze ins Ohr, dann verließ er den Konferenzsaal, in dem das <strong>Tuscheln</strong> sogleich wieder einsetzte. (<i>Märzgefallene</i>, 182)',
 	'"Guten Morgen, Herr Doktor", grüßte Charly. Doktor Bernhard Weiß war der ehemalige Polizeivizepräsident von Berlin.... Die drei SA-Leute begannen zu <strong>tuscheln</strong>. Dann zeigte der in der Mitte auf Weiß. "Das ist doch der Isidor", rief er. "Was will der denn noch hier? Ich dachte, der ist längst in Palästina." Die anderen Braunhemden lachten dämlich. (<i>Märzgefallene</i>, 200)',
@@ -20123,6 +20247,8 @@ unbotmäßig: [
 	'<strong>unbotmäßig</strong>: insubordinate'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unbotmaeszig"target="target1">unbotmäßig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unbotm%C3%A4%C3%9Fig"target="target2">unbotmäßig</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=unbotm%C3%A4%C3%9Fig"target="target3">unbotmäßig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=unbotm%C3%A4%C3%9Fig"target="target4">unbotmäßig</a>',
+	'<u>Der stumme Tod</u>',
+	'Er (<i>Rath</i>) machte eine Pause und schaute in die Runde. Neugierige Gesichter, gespanntes Schweigen. Vielleicht waren die Kollegen aber auch nur neugierig darauf, wie Böhm einen <strong>unbotmäßigen</strong> Kommissar auseinandernehmen würde. (<i>Der stumme Tod</i>, 199)',
 	'<u>Märzgefallene</u>',
 	'Sein (<i>Gereons</i>) Mitleid hielt sich in Grenzen. Wie oft hatte Böhm selbst den <strong>unbotmäßigen</strong> Kriminalkommissar Gereon Rath zum Rapport antreten lassen? Nun konnte die Bulldogge am eigenen Leib die Erfahrung machen, was es hieß, wenn die Vorgesetzten einen triezten. (<i>Märzgefallene</i>, 129)',
 	'Also hatte der Polizeipräsident (<i>Levetzow</i>) den <strong>unbotmäßigen</strong> Kommissar, der ihm den jüdischen Meuchelmörder trotz ausdrücklichen Befehls immer noch nicht geliefert hatte, weder tot noch lebendig, am Montagmorgen erneut zum Rapport befohlen. (<i>Märzgefallene</i>, 356)',
@@ -21556,6 +21682,8 @@ Witzbold: [
 	'<u>Der nasse Fisch</u>',
 	'Einem jungen Bereitschaftspolizisten schienen ähnliche Gedanken durch den Kopf zu gehen. "Der Kaiser bumst beim König", witzelte er und schaute nervös grinsend in die Runde. Niemand lachte. Wolter postierte den <strong>Witzbold</strong> vor dem Eingang zum Hinterhaus... (<i>Der nasse Fisch</i>, 18)',
 	'"Na, meine Herren", sagte der Inspektionsleiter (<i>Gennat</i>) schließlich, nachdem er das vierte Stück Kuchen vertilgt hatte, "das haben wir uns verdient! Mal wieder viel Arbeit, und das nur wegen eines <strong>Witzboldes</strong>!"... "Ich glaube nicht, dass es ein <strong>Witzbold</strong> war, ich glaube, es war der Mörder", sagte Rath. (<i>Der nasse Fisch</i>, 399)',  
+	'<u>Der stumme Tod</u>',
+	'<i>Rath</i>: "Sie sollten im Varieté auftreten, ein <strong>Witzbold</strong> wie Sie [...] aber die Preußische Polizei ist dummerweise gänzlich humorlos..." (<i>Der stumme Tod</i>, 193)',
 	'<u>Märzgefallene</u>',
 	'<i>Hannah</i>: "Was willste?" Er (<i>Fritze</i>) legte den Kopf schief wie ein Hund. "Frühstücken?" <i>Hannah</i>: "Bisten <strong>Witzbold</strong>, wa? Wo soll’s denn hingehen, zu Kranzler oder lieber zu Josty?" "Bolle", sagte Fritze. Was er damit meinte, begriff Hannah, als sie kurz darauf über die noch menschenleere Winsstraße schlenderten und ein paar von den Milchflaschen einsammelten, die der Milchmann vor wenigen Minuten gerade dort abgestellt haben musste. (<i>Märzgefallene</i>, 174)',
 	'"Man merkt doch immer gleich, wenn einer von der Kripo kommt", sagte Zientek. "Was für <strong>Witzbolde</strong>..." (<i>Märzgefallene</i>, 217)',
@@ -21613,6 +21741,7 @@ wedeln: [
 	'Weinert blieb stehen. Rath reichte ihm die schwarze Mappe mit der getippten Beichte eines einfachen SA-Scharführers. "Was ist das?" "Keine Ahnung. Muss jemand hier vergessen haben. Vielleicht steht ja was Interessantes drin. Irgendwas über Waffenschiebereien zum Beispiel." Weinert schien zu verstehen. Sein Gesicht hellte sich auf... Weinert <strong>wedelte</strong> mit der Mappe. "Wenn ich mal wieder was für dich tun kann - sag Bescheid." (<i>Der nasse Fisch</i>, 541)',
 	'<u>Der stumme Tod</u>',
 	'Das Montana-Büro lag am teureren Ende der Kantstraße. Die blonde Frau, die ihn (<i>Rath</i>) eingelassen hatte, bedeutete ihm mit <strong>wedelnden</strong> Händen und einem tiefgekühlten Zwinkern, sich zu setzen, während sie weiterhin ohne Punkt und Komma ins Telefon schnatterte. (<i>Der stumme Tod</i>, 69)',
+	'Rath fand Gräf, neben dem noch ein Platz frei war, und setzte sich. "Guten Morgen", sagte er. "Mensch, Gereon", zischte der Kriminalsekretär, sagte sonst nichts weiter, sondern <strong>wedelte</strong> nur mit der Hand, als wolle er sagen: Achtung, dicke Luft! (<i>Der stumme Tod</i>, 197)',
 	'<u>Märzgefallene</u>',
 	'"Was hast du (<i>Gereon</i>) denn vor?" Paul <strong>wedelte</strong> mit dem Zeigefinger. "Du soltest dich benehmen, bald bist du ein verheirateter Mann."  (<i>Märzgefallene</i>, 19)',
 	'"Wilhelm Klefisch?", fragte er (<i>Rath</i>),..und der Dicke nickte. "Sie haben etwas verloren, Herr Klefisch", sagte Rath und <strong>wedelte</strong> mit der Brieftasche. Der Dicke betastete seinen Mantel, guckte verduzt und nahm die Brieftasche, die Rath ihm reichte, mit dankbarem Blick entgegen. (<i>Märzgefallene</i>, 24)',

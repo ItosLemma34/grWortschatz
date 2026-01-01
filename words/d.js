@@ -3,7 +3,7 @@ const d = [
    'dahinraffen, raffen',  // duplicated 
    'dämlich, Dämlichkeit',  
    'Damm',  // Damm: 
-   'Dampframme',  // Dampframme:  
+   'Dampframme, Ramme, rammen',  // duplicated  
    'Dampfwalze',  // Dampfwalze: 
    'dämm(e)rig', //  'dämm(e)rig':
    'darben',  // darben:

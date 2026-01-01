@@ -26,6 +26,7 @@ const s = [
    'schaufeln, Schaufel',  // 
    'Schaukasten', // Schaukasten:   
    'schaukeln, aufschaukeln',   // duplicated  
+   'Scheffel (Licht unter den S.)', // duplicated
    'scheiteln, Scheitel', // 
    'Scheiterhaufen',  // Scheiterhaufen: 
    'schellen',  // schellen: 
@@ -150,6 +151,7 @@ const s = [
    'schwafeln', // schwafeln
    'Schwall',  // Schwall: 
    'schwanen', // schwanen:  
+   'schwängern, geschwängert',  // duplicated
    'Schwanz, S. einziehen/einkneifen',  
    'schwänzen',  // schwänzen:
    'Schwebebahn',  // Schwebebahn: 
@@ -187,6 +189,7 @@ const s = [
    'spicken',  // spicken:  
    'Spieß, spießen, aufspießen',  //  duplicated
    'Spind',  // Spind:
+   'Splint',  // Splint:
    'spinnert',  // spinnert:
    'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel: 

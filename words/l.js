@@ -31,6 +31,7 @@ const l = [
    'Leinen',  // Leinen:   
    'Leiste',  // Leiste: 
    'Lenz' ,  // Lenz: 
+   'Licht unter den Scheffel',  // duplicated
    'lichterloh brennen',   
    'Litfaßsäule',  // Litfaßsäule: 
    'Lobhudelei, Hudelei',  //  duplicated 

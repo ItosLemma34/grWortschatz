@@ -5,11 +5,12 @@ const r = [
    'Radau, Radaubruder', 
    'radieren',  // radieren:  
    'raffen, dahinraffen',  // duplicated  
-   'rammen',  // rammen:  
+   'rammen, Ramme, Dampf-',  // duplicated  
    'ramponiert, ramponieren',   
    'Rangelei',  // Rangelei: 
    'Ranzen',  // Ranzen:
    'rappeln',  // rappeln:  
+   'rappelvoll',  // rappelvoll:
    'rascheln', // rascheln: 
    'rasen, Rasen',   
    'Rasenmäher, mähen',  // duplicated 
@@ -21,7 +22,7 @@ const r = [
    'Räuberzivil', // Räuberzivil:
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
-   'Raunen, raunen',  
+   'raunen',  // raunen:
    'Raureif', // Raureif: 
    'Rechen',  // Rechen: 
    'recken',  // recken:  

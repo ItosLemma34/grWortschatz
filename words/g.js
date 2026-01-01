@@ -50,13 +50,14 @@ const g = [
    'Geruckel',  // Geruckel: 
    'Gerümpel',   // Gerümpel:  
    'Gerüst, einrüsten', // duplicated  
-   'gesalzen',   // gesalzen:  
+   'gesalzen',   // gesalzen: 
    'geschliffen',  // geschliffen:  
    'geschniegelt',  // geschniegelt:  
    'Geschreibsel',  // Geschreibsel:  
    'geschunden, Schinder, schinden',  // duplicated 
    'Geschütz',  // Geschütz: 
    'Geschwafel',    // Geschwafel: 
+   'geschwängert, schwängern', // duplicated 
    'Geschwulst',  // Geschwulst:
    'Geseier',  // Geseier:
    'Gesinde',  // Gesinde:   

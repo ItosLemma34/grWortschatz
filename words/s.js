@@ -8,6 +8,7 @@ const s = [
    'Samt', // Samt:  
    'Sauklaue', // Sauklaue:  
    'Saum, säumen',  
+   'säumig',  // säumig:
    'Säure, säuerlich',   
    'Sause',  // Sause:  
    'sausen', // sausen:  
@@ -79,7 +80,8 @@ const s = [
    'schlurfen',  // schlurfen:  
    'Schmach', // Schmach:  
    'schmachten, anschmachten', // duplicated 
-   'schmächtig', // schmächtig:  
+   'schmächtig', // schmächtig: 
+   'schmählich',  // schmählich: 
    'schmatzen',  // schmatzen:
    'schmettern', // schmettern: 
    'schmiegen', // 
@@ -167,6 +169,7 @@ const s = [
    'Seidel', // Seidel:
    'Seil',  // Seil: 
    'Seilschaft',  // Seilschaft: 
+   'sezieren',  // sezieren:
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
    'Siegel, versiegeln', // duplicated 

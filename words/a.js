@@ -18,6 +18,7 @@ const a = [
 	'abmühen, mühen',  // duplicated
 	'Abordnung',  // Abordnung: 
 	'abpassen',   // abpassen: 
+	'abreiben, Abreibung',  
 	'absäbeln',  //  absäbeln: 
 	'abschaben, schaben',  // duplicated 
 	'Abschaum',  // Abschaum: 
@@ -134,7 +135,8 @@ const a = [
 	'auf die Tube drücken',   //  duplicated 
 	'auf etwas aus sein',   
 	'auf Granit beißen',  
-	'auf Halde legen',    
+	'auf Halde legen', 
+	'auf Trab bringen/halten',   
 	'auf Zack sein',     
 	'aufbahren',   // aufbahren:
 	'aufbäumen',  // aufbäumen:  ä sorted as ae 

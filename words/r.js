@@ -45,7 +45,7 @@ const r = [
    'Riegel, riegeln', //  
    'rieseln',  // rieseln: 
    'Rinde',  // Rinde: 
-   'Rindvieh', // Rindvieh:  
+   'Rind, Rindvieh, Rinderbraten',   
    'Rinne',  // Rinne: 
    'Rinnsal', // Rinnsal: 
    'Ritter (arme)', // duplicated 

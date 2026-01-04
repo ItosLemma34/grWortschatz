@@ -92,6 +92,7 @@ const v = [
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
 //   'versehren',   need more past examples  
+   'versemmeln',  // versemmeln:
    'versengen',  // versengen:  
    'verseuchen', // verseuchen:
    'versickern',  // versickern: 

@@ -13,6 +13,7 @@ export const wordExamples = {
 // Splint  pg 447  Der stumme Tod???
 // Abreibung  Marlow 505
 // auf Trab bringen/halten Der stumme Fisch 255
+// kess Der stumme Tod 283
 //Fluter = Scheinwerfer (spotlight)  
 /* finish later:
 patzig: [
@@ -56,6 +57,28 @@ zzz: [
 	'<u>Lunapark</u>',   
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
+],
+kess: [  
+	'<strong>kess</strong>: cheeky, pert, cocky, jaunty, impudent'+   
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/kess"target="target1">kess</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/kess"target="target2">kess</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kess"target="target3">kess</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=kess&id=adjektiv%3Akess%23kess"target="target4">kess</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Gennat zu Rath</i>: "Zum Glück für Sie ist Oberkommissar Böhm ein loyaler Mitarbeiter. Loyal seiner Abteilung gegenüber und auch dem letzten seiner Mitarbeiter, und sei er noch so renitent." "Ich vermute, damit meinen Sie mich, Herr Kriminalrat." "Nun werden Sie bloß nicht spitzfindig!" Gennat war nur ein kleines bisschen lauter geworden, aber Rath merkte, dass er besser keine allzu <strong>kesse</strong> Lippe riskierte. (<i>Der stumme Tod</i>, 211-12)',
+// 283
+],
+spitzfindig: [  
+	'<strong>spitzfindig</strong>: pedantic, nitpicking, hair-splitting'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spitzfindig"target="target1">spitzfindig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spitzfindig"target="target2">spitzfindig</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spitzfindig"target="target3">spitzfindig</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/spitzfindig"target="target4">spitzfindig</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Gennat zu Rath</i>: "Zum Glück für Sie ist Oberkommissar Böhm ein loyaler Mitarbeiter. Loyal seiner Abteilung gegenüber und auch dem letzten seiner Mitarbeiter, und sei er noch so renitent." "Ich vermute, damit meinen Sie mich, Herr Kriminalrat." "Nun werden Sie bloß nicht <strong>spitzfindig</strong>!" Gennat war nur ein kleines bisschen lauter geworden, aber Rath merkte, dass er besser keine allzu kesse Lippe riskierte. (<i>Der stumme Tod</i>, 211-12)',
+],
+versemmeln: [  
+	'<strong>versemmeln</strong>: drop the ball, mess/screw up, bungle '+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versemmeln"target="target1">versemmeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versemmeln"target="target2">versemmeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versemmeln&id=verb%3Aversemmeln"target="target3">versemmeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/versemmeln"target="target4">versemmeln</a>',
+	'<u>Der stumme Tod</u>',
+	'Gennat schwieg eine ganze Weile und schaute Rath einfach nur an. Nicht vorwurfsvoll, eher fragend. Ein unangenehmes Gefühl unter diesem Blick, der Blick eines Lehrers, der sich fragt, weshalb ausgerechnet sein Lieblingschüler das Abitur <strong>versemmelt</strong> hat. (<i>Der stumme Tod</i>, 211)',	
 ],
 sezieren: [  
 	'<strong>sezieren</strong>: dissect; analyze, take apart; perform an autopsy (on)'+
@@ -16152,6 +16175,7 @@ Prothese: [
 	'Nichts wies darauf hin, dass sich hier jemand versteckt haben könnte. Ein einziges Trümmerfeld. Neben allem möglichen Krimskrams aus bemaltem Gips, Holz und Pappe, fast alles zerbrochen, standen die Überreste eines Kanapees, aus dessen <strong>Polster</strong> die Federn sprangen, daneben ein verbogenes Bettgestell und eine zerrissene Matratze. (<i>Der nasse Fisch</i>, 442-43)',
 	'<u>Der stumme Tod</u>',
 	'Rath setzte sich neben Gennat in einen <strong>Polster</strong>sessel. Einen Moment lang herrschte Schweigen. Durch die <strong>gepolsterte</strong> Tür drang leise und irgendwie beruhigend das Geräusch einer Schreibmaschine. (<i>Der stumme Tod</i>, 205)',
+	'Der Buddha schloss die Tür und setzte sich an seinen Schreibtisch. Nicht einmal die durchgesessene <strong>Polster</strong>gruppe, in der Gennat sonst seine Gäste zu empfangen und zu bewirten pflegte, gönnte er Rath, sondern wies ihm Platz vor seinem Schreibtisch zu, der sonst den armen Sündern vorbehalten war, denen er hier Geständnisse entlockte. (<i>Der stumme Tod</i>, 210-11)',
 	'<u>Lunapark</u>',
 	'Die hell erleuchteten Fassaden der Großstadt glitten an ihm vorüber, und er (<i>Osterberg</i>) lehnte sich zurück in die Leder<strong>polster</strong>. Mehr als zwei Stunden Fahrt lagen noch vor ihm... (<i>Lunapark</i>, 7)',
 	'Als Rath Licht machte, sah er einen gut sortierten Barschrank und zwei Sofas an der Wand, neben der Bar auch einen Tresor älterer Bauart. Inmitten des Raumes, direkt unter der Lampe, stand ein mit grünem Filz bespannter großer, schwerer Tisch, umringt von gut einem Dutzend <strong>gepolsterter</strong> Stühle. (<i>Lunapark</i>, 331)',
@@ -16781,7 +16805,8 @@ Rauflust: [
 	'<u>Der nasse Fisch</u>',
 	'Mit einem Ruck hatte er das Telefonkabel aus der Wand <strong>gerupft</strong>. (<i>Der nasse Fisch</i>, 449)',	
 	'<u>Der stumme Tod</u>',
-	'<i>Rath träumt</i>: Da stand Vivian Franck vor ihm (<i>Rath</i>), so wie er sie aus dem <i>Venuskeller</i> in Erinnerung hatte. Sie lächelte ihn an, das gleiche Lächeln wie damals, als sie ihn verführen wollte. "Wir haben noch ein <strong>Hünchen zu rupfen</strong>, wir beide", sagte sie, "lassen Sie uns anfangen, wir haben nicht viel Zeit!" (<i>Der stumme Tod</i>, 112)',
+	'<i>Rath träumt</i>: Da stand Vivian Franck vor ihm, so wie er sie aus dem <i>Venuskeller</i> in Erinnerung hatte. Sie lächelte ihn an, das gleiche Lächeln wie damals, als sie ihn verführen wollte. "Wir haben noch ein <strong>Hünchen zu rupfen</strong>, wir beide", sagte sie, "lassen Sie uns anfangen, wir haben nicht viel Zeit!" (<i>Der stumme Tod</i>, 112)',
+	'<i>Rath</i>: "Das mit dem Kollegen Brenner tut mir leid. Aber es war nicht so schlimm, wie es sich vorhin angehört hat..." <i>Gennat</i>: "Ach hören Sie doch auf mit Brenner! Das war das <strong>Hühnchen</strong>, das Doktor Weiß mit Ihnen zu <strong>rupfen</strong> hat." (<i>Der stumme Tod</i>, 211)',
 	'<u>Märzgefallene</u>',
 	'Er (<i>Grimberg</i>) <strong>rupfte</strong> die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen Krempel zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden. (<i>Märzgefallene</i>, 549)',  
 	'<u>Marlow</u>',
@@ -16797,6 +16822,7 @@ Rauflust: [
 	'Mit einem Ruck hatte er das Telefonkabel aus der Wand <strong>gerupft</strong>. (<i>Der nasse Fisch</i>, 449)',	
 	'<u>Der stumme Tod</u>',
 	'<i>Rath träumt</i>: Da stand Vivian Franck vor ihm (<i>Rath</i>), so wie er sie aus dem <i>Venuskeller</i> in Erinnerung hatte. Sie lächelte ihn an, das gleiche Lächeln wie damals, als sie ihn verführen wollte. "Wir haben noch ein <strong>Hünchen zu rupfen</strong>, wir beide", sagte sie, "lassen Sie uns anfangen, wir haben nicht viel Zeit!" (<i>Der stumme Tod</i>, 112)',
+	'<i>Rath</i>: "Das mit dem Kollegen Brenner tut mir leid. Aber es war nicht so schlimm, wie es sich vorhin angehört hat..." <i>Gennat</i>: "Ach hören Sie doch auf mit Brenner! Das war das <strong>Hühnchen</strong>, das Doktor Weiß mit Ihnen zu <strong>rupfen</strong> hat." (<i>Der stumme Tod</i>, 211)',
 	'<u>Märzgefallene</u>',
 	'Er (<i>Grimberg</i>) <strong>rupfte</strong> die Kabel aus der Zündmaschine und begann, sie zusammenzurollen. Sobald er seinen Krempel zusammengepackt hatte, konnte er Feierabend machen. Bezahlt wurde er ohnehin nach Kubikmetern, nicht nach Stunden. (<i>Märzgefallene</i>, 549)',  
 	'<u>Marlow</u>',
@@ -17147,6 +17173,8 @@ renitent: [
 	'<strong>renitent</strong>: defiant, unruly, recalcitrant'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/renitent"target="target1">renitent</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/renitent"target="target2">renitent</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=renitent"target="target3">renitent</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/renitent"target="target4">renitent</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Gennat zu Rath</i>: "Zum Glück für Sie ist Oberkommissar Böhm ein loyaler Mitarbeiter. Loyal seiner Abteilung gegenüber und auch dem letzten seiner Mitarbeiter, und sei er noch so <strong>renitent</strong>." "Ich vermute, damit meinen Sie mich, Herr Kriminalrat." (<i>Der stumme Tod</i>, 211)',
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die <strong>renitenten</strong> Berliner knallten dann die Hacken zusammen. (<i>Märzgefallene</i>, 232)',                
 	'<u>Lunapark</u>',

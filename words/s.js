@@ -194,6 +194,7 @@ const s = [
    'Spind',  // Spind:
    'Splint',  // Splint:
    'spinnert',  // spinnert:
+   'spitzfindig',  // spitzfindig:
    'spitzkriegen',  // spitzkriegen:  
    'Sprechmuschel',  // Sprechmuschel: 
    'spreizen', // spreizen: 

@@ -32,7 +32,8 @@ const k = [
    'Kelch',  // Kelch: 
    'Kerbholz (auf dem K. haben)',//  duplicated 
    'Kerbe',  // Kerbe: 
-   'Kerker', // Kerker: 
+   'Kerker', // Kerker:
+   'kess',  // kess: 
    'ketten, Kette, Kettenkarussell',  
    'keuchen',  // keuchen:
    'Keule', // Keule: 

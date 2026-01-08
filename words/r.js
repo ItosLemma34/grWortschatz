@@ -1,7 +1,8 @@
 const r = [
    'Rabauke', // Rabauke:  
    'Rabe',  // Rabe: 
-   'rabiat', // rabiat: 
+   'rabiat', // rabiat:
+   'Rachen', // Rachen: 
    'Radau, Radaubruder', 
    'radieren',  // radieren:  
    'raffen, dahinraffen',  // duplicated  

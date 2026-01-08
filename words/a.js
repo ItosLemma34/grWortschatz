@@ -206,7 +206,7 @@ const a = [
 	'aussägen, sägen', //   duplicated 
 	'Aussatz, Aussätziger, aussätzig', 
 	'Ausschachtung',  // Ausschachtung: 
-	'ausscheren',   // ausscheren:  
+	'ausscheren, scheren, Schere',  // duplicated
 	'ausschlachten', // ausschlachten:  
 	'ausschwärmen',  // ausschwärmen: 
 	'Ausschweifung',  // Ausschweifung: 

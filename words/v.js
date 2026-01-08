@@ -43,7 +43,8 @@ const v = [
    'verkriechen',  // verkriechen:  
    'verkrümeln',  // verkrümeln:  
    'vermaledeit', // vermaledeit: 
-   'vermasseln',  // vermasseln: 
+   'vermasseln',  // vermasseln:
+   'vermengen',  // vermengen: 
    'verminen',  // verminen: 
    'vermodern', // vermodern: 
    'verpetzen', // verpetzen:  
@@ -66,6 +67,7 @@ const v = [
    'versanden',  // versanden:  
    'versauen',   // versauen:  
    'versaufen', // versaufen: 
+   'verschachteln',  // verschachteln:
    'verschanzen',  // verschanzen:  
    'verscharren',    // verscharren: 
    'verschaukeln',  // verschaukeln: 

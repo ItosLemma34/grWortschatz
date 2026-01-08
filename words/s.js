@@ -34,7 +34,7 @@ const s = [
    'Schemel',  // Schemel: 
    'scheppern',  // scheppern: 
    'Scherbe',  // Scherbe:   
-   'scheren',  // scheren: 
+   'Schere, scheren, aus-',  // duplicated
    'scheuern',  // scheuern: 
    'Schieblehre', // Schieblehre:  
    'Schiefertafel', // Schiefertafel: 
@@ -124,6 +124,7 @@ const s = [
    'schnurz­pie­pe, schnurzegal', //    make duplicate if example of "schnurzegal found"
    'Schoppen',  // Schoppen: 
    'Schotter', // Schotter: 
+   'schraffieren',  // schraffieren:
    'schrammen', // schrammen:  
    'schrappen',  // schrappen: 
    'Schraubstock', // Schraubstock:  

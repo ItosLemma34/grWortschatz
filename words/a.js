@@ -28,7 +28,6 @@ const a = [
 	'abstottern', // abstottern: 
 	'abstumpfen',  // abstumpfen:
 	'abtrünnig',  // abtrünnig: 
-	'abtupfen, betupfen, T(t)upfen', // triplicated   
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
 	'abzocken',  // abzocken:  
@@ -193,7 +192,6 @@ const a = [
 	'Ausreißer',    // Ausreißer:  
 	'ausreizen',  // ausreizen: 
 	'ausrücken, anrücken, nachrücken',  //  triplicated 
-	'aussägen, sägen', //   duplicated 
 	'Aussatz, Aussätziger, aussätzig', 
 	'Ausschachtung',  // Ausschachtung: 
 	'ausscheren, scheren, Schere',  // duplicated

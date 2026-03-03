@@ -43,6 +43,7 @@ const b = [
     'besaitet, zartbesaitet',  // duplicated
     'bescheuert',  // bescheuert: 
     'beschlagen', // beschlagen:
+    'beseelen, beseelt',
     'Besen',  // Besen: 
     'bestatten, Bestatter, Bestattung', 
     'Besteck',    // Besteck: 
@@ -50,7 +51,6 @@ const b = [
     'Beteuerung', // Beteuerung   
 //    'betreten',   // betreten:  consider what to do with "beteten"
     'Bettfeder',  // Bettfeder:
-    'betupfen, abtupfen, T(t)upfen',   //  triplicated  
     'Beule, beulen, ver-, zer-',    
     'bibbern',    // bibbern: 
     'bieder',     // bieder: 

@@ -30,7 +30,7 @@ const r = [
    'recken',  // recken:  
    'Regler', // Regler:
    'reihern',  // reihern:
-   'Reim (keinen R. machen', //  duplicated 
+   'Reim (keinen R. machen können)', //  duplicated 
    'Reine (ins R.)', // duplicated 
    'Reinfall', // Reinfall:  
    'reinlegen, hereinlegen',  // duplicated 

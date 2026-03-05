@@ -99,7 +99,7 @@ const k = [
    'knorke',  // knorke:  
    'knorrig',  // knorrig: 
    'Knuff, knuffen',     
-   'knüllen, zerknüllen',  // duplicated  
+   'knüllen, zer-',  
    'Knüller',  // Knüller: 
    'Knüppel', // Knüppel: 
    'knurren',  // knurren: 

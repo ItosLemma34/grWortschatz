@@ -71,7 +71,6 @@ const a = [
 	'anpumpen',     // anpumpen: 
 	'anquatschen',   // anquatschen: 
 	'Anrichte',     // Anrichte: 
-	'anrücken, ausrücken, nachrücken', //  triplicated   
 	'ans Bein binden',  //  duplicated 
 	'anschmachten, schmachten', //  duplicated 
 	'anschmiegsam', // anschmiegsam: 
@@ -123,7 +122,7 @@ const a = [
 	'auf die Pelle rücken',   //  duplicated 
 	'auf die Schliche kommen',  //  duplicated 
 	'auf die Sprünge helfen',   // duplicated
-	'auf die Tube drücken',   //  duplicated 
+	'auf die Tube drücken/treten',   //  duplicated 
 	'auf etwas aus sein',   
 	'auf Granit beißen',  
 	'auf Halde legen',
@@ -191,7 +190,6 @@ const a = [
 	'ausräuchern', // ausräuchern:  
 	'Ausreißer',    // Ausreißer:  
 	'ausreizen',  // ausreizen: 
-	'ausrücken, anrücken, nachrücken',  //  triplicated 
 	'Aussatz, Aussätziger, aussätzig', 
 	'Ausschachtung',  // Ausschachtung: 
 	'ausscheren, scheren, Schere',  // duplicated

@@ -59,6 +59,7 @@ const r = [
    'rosten', // rosten: 
    'Rottenführer',  // Rottenführer:
    'ruckeln, Geruckel',  // duplicated
+   'rücken: an-, aus-, nach-',
    'Rudel',  // Rudel: 
    'rührig',  // rührig: 
    'rülpsen', // rülpsen: 

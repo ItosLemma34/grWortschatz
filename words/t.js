@@ -49,7 +49,7 @@ const t = [
    'Truhe',  // Truhe: 
    'tuckern', // tuckern: 
    'tumb',   // tumb: 
-   'Tube (auf die T. drücken)', //  duplicated 
+   'Tube (auf die T. drücken/treten)', //  duplicated 
    'tünchen, Tünche', // 
    'tunken',  // tunken: 
    'T(t)upfen, ab-, be-',  //  triplicated 

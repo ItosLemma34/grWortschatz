@@ -12,7 +12,7 @@ const h = [
    'Halterung',  // Halterung:  
    'Halunke',  // Halunke: 
    'hämisch',  // hämisch: 
-  // 'hämmern',
+   'hämmern',
    'Handfessel, Handschelle',  
    'Handlanger', // Handlanger:  
    'Handwerk legen',   

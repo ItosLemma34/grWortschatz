@@ -53,6 +53,7 @@ const d = [
    'durchkämmen',  // durchkämmen: 
    'durchmogeln',  // durchmogeln: 
    'durchnässen',  //  durchnässen: 
+   'dusselig, Dusseligkeit',  
 ];
 
 export default d;

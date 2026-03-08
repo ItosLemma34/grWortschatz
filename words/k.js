@@ -21,8 +21,8 @@ const k = [
    'katzbuckeln',  // katzbuckeln: 
    'kauern',  // kauern: 
    'Kaution', // Kaution: 
-   'Kauz, kauzig',  // 
-   'kegeln',  // kegeln:
+   'Kauz, kauzig',   
+   'kegeln, Kegel',  
    'keifen',  // keifen: 
    'keilen, Keil',   
    'Keim, keimen',   

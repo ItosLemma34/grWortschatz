@@ -28,6 +28,7 @@ const z = [
    'zerschießen',  // zerschießen:  
    'zerschunden',  // zerschunden: 
    'zertrampeln',  // zertrampeln:
+   'zertrümmern',  // zertrümmern:
    'zerwühlen',    // zerwühlen:   
    'zerzausen',    // zerzausen:  
    'Zeter und Mordio schreien',

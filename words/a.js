@@ -55,7 +55,6 @@ const a = [
 	'anbrechen',    // anbrechen:  
 	'andrehen',   // andrehen: 
 	'anecken',      // anecken:  
-//	'anfauchen, fauchen', //  duplicated 
 	'anflehen, flehen, flehentlich',  // duplicated
 	'anfunkeln',  // anfunkeln: 
 	'angeben, Angeber',    
@@ -158,6 +157,7 @@ const a = [
 	'aufscheuchen',    // aufscheuchen:   
 	'aufschichten',   // aufschichten: 
 	'aufspießen, spießen, Spieß',  // duplicated 
+	'aufstemmen',  // aufstemmen:
 	'aufstieben',    // aufstieben:  
 	'auftakeln',     // auftakeln: 
 	'auftischen',    // auftischen:  

@@ -14,7 +14,8 @@ const b = [
     'bauschen, aufbauschen',  //  duplicated 
     'beackern',  // beackern:
     'beäugen',  // beäugen:  
-    'bedröppelt',  // bedröppelt: 
+    'bedröppelt',  // bedröppelt:
+    'befehligen',  // befehligen: 
     'beflissen',  // beflissen: 
     'begrapschen',  // begrapschen:  
     'Begriffsstutzigkeit', // Begriffsstutzigkeit:  

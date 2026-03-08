@@ -8,6 +8,7 @@ const i = [
    'in die Parade fahren', //  duplicated 
    'in die Pfanne hauen',  //  duplicated 
    'in die Quere kommen', //  duplicated 
+   'in die Schranken weisen',
    'in die Zange nehmen', //  duplicated 
    'in drei Teufels Namen', //  duplicated 
    'in einem fort',  

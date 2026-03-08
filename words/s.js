@@ -20,7 +20,8 @@ const s = [
    'schälen', // schälen:    
    'Schank',  // Schank: 
    'Schar',  // Schar:  
-   'Scharfmacher', // Scharfmacher:   
+   'Scharfmacher', // Scharfmacher:
+   'Scharmützel',  // Scharmützel:   
    'schassen',   // schassen:  
    'Schauder, schaudern', 
    'schauern, erschauern',  // duplicated 

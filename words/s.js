@@ -272,7 +272,8 @@ const s = [
    'stutzig', // stutzig: 
    'Suff',  // Suff:
    'süffisant',  // süffisant: 
-   'summen, auf-', //    
+   'summen, auf-', 
+   'Sumpf',  // Sumpf:    
    'Sündenbock', // Sündenbock: 
    'Sündenpfuhl', // Sündenpfuhl: 
    'surren',   // surren:  

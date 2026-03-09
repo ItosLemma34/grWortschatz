@@ -4,6 +4,7 @@ const f = [
    'fadenscheinig',  // fadenscheinig: 
    'Fahne (von der F. gehen)',  //  duplicated 
    'Fahnenabzug',  // Fahnenabzug: 
+   'Fährte',  // Fährte:
    'Faible' ,  // Faible: 
    'Fall der Fälle, des Falles',    
    'Fallbeil', // Fallbeil:  

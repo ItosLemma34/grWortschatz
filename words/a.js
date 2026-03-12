@@ -55,7 +55,6 @@ const a = [
 	'anbrechen',    // anbrechen:  
 	'andrehen',   // andrehen: 
 	'anecken',      // anecken:  
-	'anflehen, flehen, flehentlich',  // duplicated
 	'anfunkeln',  // anfunkeln: 
 	'angeben, Angeber',    
 	'angeschickert', // angeschickert: 
@@ -130,7 +129,6 @@ const a = [
 	'auf Zack sein',     
 	'aufbahren',   // aufbahren:
 	'aufbäumen',  // aufbäumen:  ä sorted as ae 
-	'aufbauschen, bauschen', // duplicated   
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern',  // aufdonnern: 
 	'auffliegen',  // auffliegen:  
@@ -192,7 +190,6 @@ const a = [
 	'ausreizen',  // ausreizen: 
 	'Aussatz, Aussätziger, aussätzig', 
 	'Ausschachtung',  // Ausschachtung: 
-	'ausscheren, scheren, Schere',  // duplicated
 	'ausschlachten', // ausschlachten:  
 	'ausschwärmen',  // ausschwärmen: 
 	'Ausschweifung, ausschweifend', 

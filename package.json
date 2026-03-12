@@ -1,0 +1,12 @@
+{
+  "name": "grWortschatz",
+  "version": "1.0.0",
+  "description": "grWortschatz",
+  "main": "script.js",
+  "scripts": {
+    "lint:html": "htmlhint **/*.html"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.1.4"
+  }
+}

@@ -92,7 +92,7 @@ const g = [
    'giften, an-',
    'giggeln',  // giggeln:  
    'Gips',   // Gips:
-   'Gitter-, Metal- rost; Lauf- gitter, steg',  // duplicated 
+   'Gitter -rost; Lauf -gitter, -steg; Metalrost',  // triplicated 
    'gleißen, gleißend',
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated 

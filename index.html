@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
-<html lang='de'>
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gereon-Rath-Krimis: Wortschatz und Redewendungen</title>
+    <title>Gereon-Rath-Krimis: Wortschatz</title>
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -11,10 +11,13 @@
     <header>
 
         <div class="main-header">
-            <a class="return" href="help.html" onclick="saveCurrentWord()">Info/Personenverzeichnise</a>
-            <a class="return short" href="help.html" onclick="saveCurrentWord()">Info/Personen</a>
-            <h3>Gereon-Rath-Krimis: Wortschatz und Redewendungen</h3>
-            <a class="return" href="help.html" onclick="saveCurrentWord()">Info/Personenverzeichnise</a>
+            <span class="return">
+                <a href="help.html" onclick="saveCurrentWord()">Help/Info</a>
+            </span>
+            <h3>Gereon-Rath-Krimis: Wortschatz</h3>
+            <span class="return">
+                <a href="personen.html" onclick="saveCurrentWord()">Personen</a>
+            </span>
         </div>
 
     </header>
@@ -24,13 +27,13 @@
         <div class="selection-container">
             <button id="randomSelectButton"><strong>Random Word/Phrase</strong></button>
             <br>
-            <label for="wordDropdown" class = "sizeOfLabels"><strong>Click on Word/Phrase:</strong></label>
-            <select id ="wordDropdown" class = "sizeOfLabels" size = 25></select>
+            <label for="wordDropdown" class="sizeOfLabels"><strong>Click on Word/Phrase:</strong></label>
+            <select id="wordDropdown" class="sizeOfLabels" size="25"></select>
         </div>
 
-         <div id="examplesContainer">
+         <div id="main-container">
          </div>
-
+    </main>
 
     <script src="script.js" type="module"></script>
     <script>

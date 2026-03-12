@@ -105,6 +105,7 @@ const k = [
    'knurren',  // knurren: 
    'knutschen',  // knutschen:  
    'Köder',   // Köder: 
+   'Kolben',  // Kolben:
    'Kommode', // Kommode:
    'komplimentieren',  // komplimentieren:
    'Konterfei',  // Konterfei: 

@@ -15,7 +15,7 @@ const r = [
    'rascheln', // rascheln: 
    'rasen, Rasen',   
    'Rasenmäher, mähen',  // duplicated 
-   'rasseln, zusammen-', // duplicated
+   'rasseln, zusammenrasseln', // duplicated
    'Ratsch', // Ratsch: 
    'Rätselraten', // Rätselraten: 
    'rattern',  // rattern:              

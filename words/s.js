@@ -35,7 +35,7 @@ const s = [
    'Schemel',  // Schemel: 
    'scheppern',  // scheppern: 
    'Scherbe',  // Scherbe:   
-   'Schere, scheren, aus-',  // duplicated
+   'Schere, scheren, aus-',  
    'scheuern',  // scheuern: 
    'Schieblehre', // Schieblehre:  
    'Schiefertafel', // Schiefertafel: 
@@ -180,7 +180,7 @@ const s = [
    'sezieren',  // sezieren:
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
-   'Siegel, siegeln, versiegeln', // duplicated 
+   'Siegel, siegeln, ver-', 
    'Sims',  //  Sims: 
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  

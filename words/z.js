@@ -13,7 +13,7 @@ const z = [
    'Zaunlatte, Dachlatte',  // duplicated 
    'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated 
    'zechen',     // zechen: 
-   'Zehenspitze',  // Zehenspitze: 
+   'Zeh, Zehenspitze',   
    'Zeltplane' ,   // Zeltplane: 
    'zerdeppern',   // zerdeppern: 
    'zerfleddert',  // zerfleddert:

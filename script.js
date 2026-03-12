@@ -30,27 +30,28 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function displaySelectedWord(word) {
-	const examplesContainer = document.getElementById('examplesContainer');
-	examplesContainer.innerHTML = `<div class="selected-word">${word}</div>`;
+	const mainContainer = document.getElementById('main-container');
+	mainContainer.innerHTML = `<div class="selected-word">${word}</div>`;
 
 	// Always create and append "Show Examples" button
 	const showExamplesButton = document.createElement('button');
 	showExamplesButton.id = 'showExamplesButton';
 	showExamplesButton.textContent = 'Bedeutung und Beispiele';
-	examplesContainer.appendChild(showExamplesButton);
+	mainContainer.appendChild(showExamplesButton);
 
 	showExamplesButton.addEventListener('click', () => displayExamples(word));
 }
 
 function displayExamples(word) {
-	const examplesContainer = document.getElementById('examplesContainer');
-	examplesContainer.innerHTML = `<div class="selected-word">${word}</div>`;
+	const mainContainer = document.getElementById('main-container');
+	mainContainer.innerHTML = `<div class="selected-word">${word}</div>`;
 
 	const examples = wordExamples[word] || [];
 	examples.forEach((example) => {
 		const exampleElement = document.createElement('div');
 		exampleElement.innerHTML = example;
 		exampleElement.classList.add('example');
-		examplesContainer.appendChild(exampleElement);
+		exampleElement.classList.add('main-container-item');
+		mainContainer.appendChild(exampleElement);
 	});
 }

@@ -104,7 +104,6 @@ const v = [
    'verseuchen', // verseuchen:
    'versickern',  // versickern: 
    'versieben',  // versieben:  check for other entries
-   'versiegeln, siegeln, Siegel', // duplicated 
    'versiegen',   // versiegen: 
    'versifft',  // versifft: 
    'versprengen', // versprengen:   

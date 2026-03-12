@@ -20,8 +20,8 @@ const l = [
    'Laub, Laube, Lauben-', 
    'lauern',  // lauern:  
    'Lauf',    // Lauf: 
+//   'Lauf -gitter, -steg; Gitter -rost; Metalrost',  //triplicated
    'Laufbursche',  // Laufbursche: 
-   'Lauf- gitter, steg; Gitter-, Metal- rost',  //  duplicated
    'lausig',  // lausig: 
    'läutern, Läuterung',  
    'Leibesvisitation', // Leibesvisitation: 

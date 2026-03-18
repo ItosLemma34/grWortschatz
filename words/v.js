@@ -101,6 +101,7 @@ const v = [
    'versehren, Unversehrtheit, unversehrt',  // duplicated
    'versemmeln',  // versemmeln:
    'versengen',  // versengen:  
+   'versetzen',  // versetzen:
    'verseuchen', // verseuchen:
    'versickern',  // versickern: 
    'versieben',  // versieben:  check for other entries

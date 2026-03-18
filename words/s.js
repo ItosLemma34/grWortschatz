@@ -155,7 +155,8 @@ const s = [
    'schütten, aus-, ver-, zu-',           
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
-   'Schütze, Schützengraben',  
+   'Schütze, Schützengraben',
+   'schwächeln',  // schwächeln:  
    'Schwaden', // Schwaden:  
    'schwafeln', // schwafeln
    'Schwall',  // Schwall: 

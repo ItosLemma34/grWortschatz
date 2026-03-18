@@ -12,7 +12,8 @@ const w = [
    'Wappen' ,  // Wappen: 
    'warm anziehen', // 
    'was das Zeug hält', //  duplicated  
-   'Wassern (mit allen W. gewaschen)',  //  duplicated  
+   'Wassern (mit allen W. gewaschen)',  //  duplicated 
+   'Watte, Wattebausch', 
    'weben, verweben', // duplicated
    'Wecker (auf den W. gehen)',  //  duplicated 
    'wedeln',  // wedeln: 

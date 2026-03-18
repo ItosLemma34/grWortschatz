@@ -14,7 +14,8 @@ const d = [
    'Deichsel',  // Deichsel:  
    'deichseln', // deichseln: 
    'deponieren', // deponieren:  
-   'Depp',  // Depp:  
+   'Depp',  // Depp:
+   'deuteln',  // deuteln:  
    'dezent',   // dezent: 
    'Diele',   // Diele:  
    'Dietrich',  // Dietrich: 

@@ -1,22 +1,8 @@
 export const wordExamples = {
-	//general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
-/*  'aufkratzen, aufgekratzt'  Der stuume Tod  279 448   Marlow  
-// 'aufkratzen, aufgekratzt' Marlow: 489    Der Stumme Tod:   279 448
-// zerknittern, verknittern	 Marlow  pg 378, 440
-// verflixt  Der stumme Tod 517
-// verdenken  Marlow 410
-// Schlamperei, schlampen, schlampig  Der stumme Tod 152
-//   Begriffsstutzigkeit  Marlow 
-//  'spießig, Spießer' Marlow 415
-Kolben Der stumme Tod 541
-dusselig  Der stumme Tod 528
-schwängern, geschwängert  Marlow 457
-// anberaumen  Der stumme Tod 284
-Fährte  Der stumme Tod 301
-// Rename:    finish later:
-//check   // COMPLETE   check gellen
+//general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
+/*  
 zzz: [  
-	'<strong>zzz</strong>: '+
+	'<b>zzz</b>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
 	'<u>Der nasse Fisch</u>',   
@@ -32,133 +18,147 @@ zzz: [
 ],
 */
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-//check for use in other books:
-verschlampen: [  
-	'<strong>verschlampen</strong>: shirk, dodge; lose (through carelessness); go to seed, become scruffy'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschlampen"target="target1">verschlampen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschlampen"target="target2">verschlampen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verschlampen"target="target3">verschlampen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschlampen&id=verb%3Averschlampen%23verschlampen_hat"target="target4">verschlampen</a>',
-	'<u>Marlow</u>',  
-	'Er, Gereon Rath, der in Berlin den Deutschen Gruß verweigerte und <strong>verschlampte</strong>, wo immer das nur möglich war, stand hier in Nürnberg am Straßenrand und riss, getragen von der Masse und ihrem Rhythmus, in einem fort den rechten Arm hoch. (<i>Marlow</i>, 280)',
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö  Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+entwischen: [  
+	'<b>entwischen</b>: escape, give so. the slip'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entwischen"target="target1">entwischen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entwischen"target="target2">entwischen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/entwischen"target="target3">entwischen</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/entwischen"target="target4">entwischen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Rath hatte genug gesehen und ging zurück ins Treppenhaus. Keine Gefahr mehr, dass einer (<i>der Gefangenen</i>) <b>entwischte</b>. (<i>Der nasse Fisch</i>, 20)',
+	'Er hielt sie fest, sie konnte ihm nicht mehr <b>entwischen</b>. (<i>Der nasse Fisch</i>, 492)',
+	//'<u>Der stumme Tod</u>',
+	//entwischen  ' 344, 496, 543   (<i>Der stumme Tod</i>, 000)',
+	'<u>Märzgefallene</u>',    
+	'<i>Kellermann zu Charly</i>: "Ein Zeuge hat sie (<i>Hannah</i>) erkannt. Wollte sie aufhalten, aber sie ist ihm <b>entwischt</b>. Als die Kollegen eingriffen, war sie schon über all Berge." (<i>Märzgefallene</i>, 289)',
+	'"Jedenfalls", fuhr sie (<i>Charly</i>) fort, "dürfte das... der Grund dafür gewesen sein, dass er (<i>Wosniak</i>) sie (<i>Hannah</i>) töten wollte: Sie war die einzige Zeugin, die den Schwindel hätte affliegen lassen können. In Dalldort hat er es das erste Mal versucht. Dann hat er sie in der Stadt noch einmal aufgespürt, und sie ist <b>entwischt</b>. Und beim dritten Mal hat er selber mit dem Leben bezahlt." (<i>Märzgefallene</i>, 468)',
+	'<u>Lunapark</u>',   
+	'<i>Rath zu Gräf</i>: ".. Die Schweine haben mich niedergeschlagen." "Kommunisten, hat der Schupo gesagt, der uns alarmiert hat. Bist du sicher?" Rath nickte und verzog das Gesicht. Sein Kopf schmerzte trotz der Tabletten noch immer, wenn er sich zu schnell bewegte. "Leider sind sie mir <b>entwischt</b>." (<i>Lunapark</i>, 384)',	
+	'Leo Juretzka war ihm <b>entwischt</b>. Und Rath hatte keine Ahnung, wo der Kerl untergetaucht sein mochte, er konnte überall sein, in jedem Stadtteil. (<i>Lunapark</i>, 393)',
 ],
-
-//versetzen  Der stumme Tod 263  stand somebody up   Marlow 305, included in kramen
-// COMPLETE: finished with Der nasse Fisch   Start Der stumme Tod
+deuteln: [  
+	'<b>deuteln</b>: quibble, niggle, split hairs'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/deuteln"target="target1">deuteln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/deuteln"target="target2">deuteln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/deuteln"target="target3">deuteln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/deuteln"target="target4">deuteln</a>',
+	'<u>Marlow</u>',  
+	'Der Wirt zuckte die Achseln. "Da wünsch ich Ihnen viel Glück. Des macht dann acht Mark bitte.".. Die wollten ihn tatsächlich loswerden hier.. Rath bezahlte, verzichtete auf ein Trinkgeld, das er unter anderen Umständen sicher gegeben hätte... Irgendwie stand er mit der fränkischen Hotellerie auf Kriegsfuß, daran gab es nun nichts mehr zu <b>deuteln</b>. (<i>Marlow</i>, 314-15)',
+],
+'auswechseln, ausgewechselt': [  
+	'<b>auswechseln</b>: renew, replace, change/exchange sth., substitute'+
+	'<br><b>ausgewechselt</b>: changed, altered, different'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/auswechseln"target="target1">auswechseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausgewechselt"target="target2">ausgewechselt</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/auswechseln"target="target3">auswechseln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/auswechseln"target="target4">ausgewechselt</a>',
+	'<u>Der stumme Tod</u>',
+	'Winkler <b>wechselte</b> die Filmrollen <b>aus</b>, und kurz darauf sahen sie die Szene noch einmal aus einer anderen Perspektive. (<i>Der stumme Tod</i>, 166)',	
+	'<u>Märzgefallene</u>',    
+	'Als Charly um kurz vor acht ins Hotel Eden zurückkehrte und den Saal wieder betrat, war die Stimmung wie <b>ausgewechselt</b>. Eine andere Kapelle, die nur leise spielte, keine Tänzer, nur wenige Gäste, die allesamt an den Tischen saßen. (<i>Märzgefallene</i>, 312)',
+	'<u>Lunapark</u>',   
+	'Die Gewitterluft hatte sie bis ins Treppenhaus verfolgt, kaum aber hatten sie das Haus verlassen, war der Junge wie <b>ausgewechselt</b>, und auch Rath spürte, wie sich seine Laune aufhellte. Fritze tänzelte und pfiff ein Lied...    (<i>Lunapark</i>, 279)',
+	'<i>Walter Spindler</i>: "Pastor Lichtenberg hat uns geholfen und mir die Stelle hier besorgt." <i>Rath</i>: "Als Küster?" "So ähnlich." Spindler nickte. "Orgel spielen kann ich zwar nicht, aber sonst kümmere ich mich um alles, was so anfällt: Rasen mähen, Dachrinne reparieren, Glühbirnen <b>auswechseln</b>, Gebetbücher sortieren, Kerzen anzünden. All so was." (<i>Lunapark</i>, 424)',
+	'<u>Marlow</u>',  
+	'Unter den Schriftstücken in dieser Mappe.. fand er (<i>Rath</i>) auch eine akribische Beschreibung, die schilderte, wie Hermann Göring.. eine Ration Morphium spritzte, ohne sich die Mühe zu machen, dies vor seinem Personal und seinen Gästen.. zu verbergen.. Unverhohlen voyeuristisch dann die Beschreibung, wie <b>ausgewechselt</b> der schwächelnde Göring nach der Injektion war... (<i>Marlow</i>, 308-09)',
+],
+schwächeln: [  
+	'<b>schwächeln</b>: weaken, flagg, falter'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schwaecheln"target="target1">schwächeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schw%C3%A4cheln"target="target2">schwächeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schwacheln"target="target3">schwächeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schw%C3%A4cheln&id=verb%3Aschwa3cheln"target="target4">schwächeln</a>',
+	'<u>Marlow</u>',  
+	'Unter den Schriftstücken in dieser Mappe.. fand er (<i>Rath</i>) auch eine akribische Beschreibung, die schilderte, wie Hermann Göring.. eine Ration Morphium spritzte, ohne sich die Mühe zu machen, dies vor seinem Personal und seinen Gästen.. zu verbergen.. Unverhohlen voyeuristisch dann die Beschreibung, wie ausgewechselt der <b>schwächelnde</b> Göring nach der Injektion war... (<i>Marlow</i>, 308-09)',
+],
+'Watte, Wattebausch': [ 
+	'die <b>Watte</b>,-<b>n</b>: (cotton) wadding, padding'+
+	'<br>der <b>Bausch</b>, die <b>Bausche</b>/<b>Bäusche</b>: dabber, ball, wad, puff'+
+	'<br>der <b>Wattebausch</b>, die <b>Wattebausche</b>/<b>Wattebäusche</b>: cotton ball, swab'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Watte"target="target1">Watte</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wattebausch"target="target2">Wattebausch</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/watte"target="target3">Watte</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Wattebausch&id=substantiv%3AWattebausch"target="target4">Wattebausch</a>',
+	'<u>Märzgefallene</u>',    
+	'Alles verkabelt, Grimberg schaute noch einmal auf die massive Kalksteinwand, dann drückte er den Hebel der Stangenzündmaschine nach unten... die Detonation erfolgte genau im berechneten Moment. Manche Sprengmeister stopften sich <b>Watte</b> ins Ohr, er nicht. Er wollte alles hören, wollte alles sehen. (<i>Märzgefallene</i>, 549)',
+	'<u>Lunapark</u>',   
+	'Der Kommunist (<i>Spindler</i>) öffnete die Dose und holte ein in <b>Watte</b> gepacktes Glasauge heraus, das er eine Weile prüfend betrachtete bevor er die Augenklappe abnahm, sodass Rath die gespenstisch leere Augenhöhle sehen konnte, und die Prothese einsetzte. Sah fast aus wie echt. (<i>Lunapark</i>, 418)',	
+	'<u>Marlow</u>',  
+	'Du setzt dich auf die Bettkante, schlägst die Wolldecke zurück und bindest den linken Knöchel ab, bis die Venen auf dem Fußrücken hervortreten. Die Spritze ist schon aufgezogn,.. du setzt sie genau zwischen den großen Zeh und seinen Nachbarn... Du lächelst und drückst den ganzen Inhalt des Kolbens zwischen die beiden Zehen, tupfst die Stelle mit einem <strong>Wattebausch</strong> ab, nachdem du die Nadel aus der Vene gezogen hast. Dann entfernst du die Staubinde (<i>tourniquet</i>). Du könntest jetzt gehen, die Arbeit ist getan, doch du bleibst. Packst die Spritze ins Etui, steckst den <b>Wattebausch</b> ein und rollst die Tourniquetbinde wieder zusammen. (<i>Marlow</i>, 354)',
+	'Du vergewisserst dich an des Leutnants Halsschlagader, dass wirklich alles vorbei ist, dann erst verlässt du das Zimmer. Gehst zurück in deine Kammer, wirfst den <b>Wattebausch</b> in den Ofen, packst Spritze und Tourniquebinde zurück in deine Arzttasche und legst dich hin. (<i>Marlow</i>, 355)',
+],
 versetzen: [ 
-	'<strong>versetzen</strong>: stand someone up'+
-	'<br><i>many other meanings: see references; only <u>stand so. up</u> examples quoted here</i>'+
-	'<br>see also: <i><strong>Stich, einen S. versetzen<strong></i>'+
+	'<strong>versetzen</strong>: move, shift, transfer; (<i>more: see references</i>); stand so. up (not show up)'+
+	'<br>see also in this program: <b>Stich, einen S. versetzen</b>'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versetzen"target="target1">versetzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versetzen"target="target2">versetzen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/versetzen"target="target3">versetzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versetzen"target="target4">versetzen</a>',
 	'<u>Der nasse Fisch</u>',   
+	'Seinen ersten Monat in der Inspektion E hatte er (<i>Rath</i>) nun fast hinter sich. Die Zeit war ihm vorgekommen wie eine Strafe.. Obwohl sie ihn nicht degradiert hatten, nur <strong>versetzt</strong>. Er hatte Köln verlassen müssen, und auch die Mordkommission. Aber er war immer noch Kriminalkommisar! (<i>Der nasse Fisch</i>, 16)',
+	'Er (<i>Rath</i>) fühlte, wie sich seine Hände um den Eisenträger krampften, als er den Blick nach unten richtete. Warum nur zog ihn die Tiefe derart an, wo sie ihn doch gleichzeitig so in Panik <strong>versetzte</strong>? (<i>Der nasse Fisch</i>, 24)',
 	'Der Dicke (<i>der Kioskbetreiber</i>) reichte ihm (<i>Rath</i>) eine Streichholzschachtel. "Hat Sie jemand versetzt?", fragte er unvermittelt... Rath schaute den Mann fragend an. "Na, das hat so ausgesehen, wie Sie da vorhin gewartet haben und niemand gekommen ist." (<i>Der nasse Fisch</i>, 113-14)',
 	'<i>Charly</i>: "Und was führt Sie in diese Gegend? Wohnen Sie etwa hier? Dann müsste ich auch Sie befragen." .."Ich hatte eine Verabredung", sagte er (<i>Rath</i>). "Ist aber <strong>versetzt</strong> worden", meldete sich der Mann im Kiosk... (<i>Der nasse Fisch</i>, 118-19)',
+	'Die Tür war fest verschlossen, er (<i>Rath</i>) <strong>versetzte</strong> ihr einen wohlgezielten Tritt genau in Höhe des Schlosses, und sie schwang auf, den Blick in einen dunklen Raum freigebend. (<i>Der nasse Fisch</i>, 244)',
+	'Natürlich, dachte Rath, Lanke wittert wieder Morgenluft.  Wenn Zörgiebel hatte durchblicken lassen, dass er daran dachte, einen Mann von der E abzuziehen und zur A zu <strong>versetzen</strong>, dann würde Lanke nur einwilligen, wenn er dafür Ersatz bekäme. (<i>Der nasse Fisch</i>, 249-50)',
 	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
+	'Rath blätterte in der Zeitschrit und suchte die Stelle, an der ihn der Kellner unterbrochen hatte. <i>Hirnach spürte die Sch. plötzlich einen Messerstich oder Schnitt am Halse und schrie laut um Hilfe. Sie glaubte, auf ihre Hilferufe sofort Gegenrufe gehört zu haben. "Baumgart" stach nun wahllos von vorn auf sie ein und <strong>versetzte</strong> ihr schließlich einen heftigen Stich in den Rücken</i>. (<i>Der stumme Tod</i>, 18)',	
+	'Eine Stunde ist sie nun schon überfällig. Er weiß nicht, warum sie ihn <strong>versetzt</strong> hat, aber er ist sich sicher, dass es etwas Wichtiges sein muss. Sie lässt ihn nicht einfach so sitzen... (<i>Der stumme Tod</i>, 37)',
+	'Nun war niemand da, nicht einmal Ursula, die hatte sich erst für den Nachmittag angekündigt. Und dann konnte seine Schwester doch nicht kommen, weil ihr dämlicher Mann sie versetzt hatte und sie mit den Kindern festsaß. (<i>Der stumme Tod</i>, 234)',
+	'Was fiel ihr (<i>Kathi</i>) ein, einfach so wieder aufzukreuzen? Nachdem sie ihn (<i>Gereon</i>) versetzt hatte! Nachdem er sie längst schon abgreschrieben hatte! Schon angefangen hatte, sie zu vergessen! (<i>Der stumme Tod</i>, 262)',
+	'<i>Kathi</i>: "Ach Gereon! Du kamst und kamst und kamst nicht! Ich dachte, du hättest mich wieder mal <b>versetzt</b>!" (<i>Der stumme Tod</i>, 263)',
+//	many more
 	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
+	'<i>Daluege zu Böhm</i>: "Sie werden vorest nicht mehr an Ihrem Todesfall arbeiten und auch nicht mehr am Alexanderplatz.. Sie werden zur Kriminalwache Köpernick versetzt, Oberkommissar Böhm." (<i>Märzgefallene</i>, 143)',
+	'<i>Rath</i>: "Und Thelen? Der wäre sowieso am Wagen geblieben, oder?" <i>Grimberg</i>: "So war es jedenfalls bei den anderen Sprengfallen, die wir inspiziert haben. Er war doch nur der Fahrer." "Würden Sie ihm eine solche Tat zutrauen? Wie stand er zu dem Hauptmann?" "Das müssten sie den Mann selber fragen, ich habe ihn kaum gekannt. Kurz nach dem Vorfall wurde er an die Ostfront <b>versetzt</b>." (<i>Märzgefallene</i>, 279)',
+	'Der Schupo <b><versetzte></b> dem Jungen (<i>Fritze</i>) einen Schlag in den Nacken. "Du redest nur, wenn du gefragt wirst", sagte er und wandte sich dann Charly zu. (<i>Märzgefallene</i>, 352)',
+	'Marlow zuckte die Achseln. "Ich fürchte, der Angriff dieses Messerstechers hat ihr (<i>Hannah</i>) einen Schock <b>versetzt</b>. Jedenfalls hat sie noch kein Wort gesprochen, seit sie bei uns ist, wirklich kein einziges." (<i>Märzgefallene</i>, 428)',
 	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
+	'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen Einstand, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört.. <i>Die Pfeife mit drei F</i> war nicht einmal Polizeibeamter: ein SS-Truppführer ohne jede Polizeiausbildung, mit seinen Kameraden von München nach Berlin <b>versetzt</b>, um die preußische Geheime Staatspolizei im Sinne Himmlers umzukrempeln. (<i>Lunapark</i>, 46)',
+	'Paul Czerwinski war immer nur dann gut gewesen, wenn er mit seinem Partner Alfons Henning zusammengearbeitet hatte. Die beiden waren so unzertrennlich, dass es ihnen die Spitznamen Plisch und Plum eingebracht hatte. Bis Henning die Kommissariatslaufbahn eingeschlagen hatte und ins Einbruchsdezernat <b>versetzt</b> worden war. (<i>Lunapark</i>, 61)',
+	'"Schnauze", sagte der Wortführer und <b>versetzte</i> dem Rechtsanwalt einen trochenen Faustschlag mitten ins Gesicht. Blum wandte sich ab und hielt sich die Hände vor die blutende Nase. (<i>Lunapark</i>, 165)',
+	'Guido, den der Artikel offensichtlich in eine euphorische Stimmung <b>versetzt</b> hatte, wirkte ein wenig beleidigt, aber er tat ihr (<i>Charly</i>) den Gefallen und überflog den Text, bis er eine Stelle gefunden hatte, die ihm wieder bemerkenswert erschien. (<i>Lunapark</i>, 349)',
+	'Der Gangster (<i>Marlow</i>) <b>versetzte</b> ihm einen ansatzlosen Schlag in die Magengrube, so fest, dass Rath nach Luft schnappen musste und glaubte, er müsse sich übergeben. (<i>Lunapark</i>, 359)',
+	'Gräf wusste nichts zu sagen, es war, als habe Rath ihm einen Schlag in die Magengrube <b>versetzt</b>; mit einem Mal sah er sein Gegenüber wie in einem dichten Nebel, in seinen Ohren rauschte es. (<i>Lunapark</i>, 430)',
 	'<u>Marlow</u>',  
+	'Bevor Brunner sich erklären konnte, was zum Teufel da gerade passierte, spürte er den Schlag, den der Bordstein ihrem Taxi <b>versetzte</b>, und dann sah er auch schon die Mauer auf sich zukommen... (<i>Marlow</i>, 18)',
+	'Erst als der Oberbannführer ihm eine Ohrfeige <b>versetzte</b>, hatte Atze mit dem Schluchzen aufgehört. Ein deutscher Junge weint nicht. (<i>Marlow</i>, 53)',
+	'<i>Rath</i>: "Böhm! Das ist aber eine Überraschung! Was kann ich für Sie tun?" "Das wissen Sie doch. Haben Sie die Akten?" "Dazu bin ich noch nicht gekommen. Wie Sie ja bereits wissen, bin ich zum Landeskriminalamt <b>versetz</b> worden. Und hatte die letzten Tage in der Kriminalgruppe M noch viel um die Ohren." (<i>Marlow</i>, 185)',
 	'Sie (<i>Irene Schmeling</i>) hoffte, der Anrufer möge sie nicht allzulange warten lassen. Oder gar <strong>versetzen</strong>. Sie kramte ihre Lesebrille aus der Handtasche und schaute auf den ausgehängten Fahrplan. Der nächste Bus fuhr in zwanzig Minuten, wenn bis dahin niemand erschiene, würde sie eben wieder nach Hause fahren. (<i>Marlow</i>, 305)',
-	'Immerhin war sie (<i>Irene Schmeling</i>) an ihrem freien Tag hier rausgefahren, das hätte sie doch wohl nicht getan, wenn sie fest damit rechnen würde, wieder <strong>versetzt</strong> zu werden. Und außerdem hatte Ferdi sie ja auch gar nicht <strong>versetzt</strong>, er war einfach in das falsche Taxi ...   (<i>Marlow</i>, 305)',
+	'Immerhin war sie (<i>Irene Schmeling</i>) an ihrem freien Tag hier rausgefahren, das hätte sie doch wohl nicht getan, wenn sie fest damit rechnen würde, wieder <strong>versetzt</strong> zu werden. Und außerdem hatte Ferdi sie ja auch gar nicht <strong>versetzt</strong>, er war einfach in das falsche Taxi ... (<i>Marlow</i>, 305)',
+	'Auch die Kapelle klang amerikanischer als in Deutschland mittlerweile üblich war, das lenkte ab. Wenn man die Augen schloss, konnte man sich wirklich in eine andere Zeit <b>versetzt</b> fühlen. Allerdings war Augen schließen beim Tanzen keine gute idee. (<i>Marlow</i>, 337)',
 ],
 'Stich, einen S. versetzen': [  
 	'der <strong>Stich</strong>,-<strong>e</strong>: stab, prick, puncture, sting &nbsp;verb: <strong>stechen</strong>'+
 	'<br>jmdm. <strong>einen Stich versetzen</strong>: sting, pain so., cut to the quick'+  
+	'<br>see also in this program: <b>versetzen</b>'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stich"target="target1">Stich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20einen%20Stich%20versetzen"target="target2">einen Stich versetzen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/stich#Stich"target="target3">Stich</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/einen+Stich+versetzen"target="target4">einen Stich versetzen</a>',
 	'<u>/Der nasse Fisch</u>',
 	'Erst kurz vor dem Hermannplatz hatte er (<i>Rath</i>) den Onkel wieder eingeholt. "Siehst du ihn?", keuchte Rath. Er spürte <strong>Stiche</strong> in der Seite und musste sich an einer Straßenlaterne abstützen. (<i>Der nasse Fisch</i>, 22)',
+	'Er (<i>Rath</i>) fühlte sich miserabel. Das Geräusch ihres Telefonhörers, der hart auf die Gabel knallte, hatte ihm <strong>einen Stich versetzt</strong>. (<i>Der nasse Fisch</i>, 229)',
 	'Verreist! Das konnte er (<i>Gereon</i>) nicht glauben. Charly hatte erst Sonntag frei. Und da hatten sie eigentlich zusammen ins Grüne fahren wollen. Allein der Gedanke daran, wie sie zusammen im <i>Excelsior</i> Pläne für die Feiertage geschmiedet hatten, <strong>versetzte ihm einen Stich</strong>. Irgendwann hatte er es aufgegeben, ihre Nummer zu wählen. (<i>Der nasse Fisch</i>, 367)',
 	'Ohne Vorwarnung überfiel Rath die Eifersucht und <strong>versetzte ihm einen schmerzhaften Stich</strong>. (<i>Der nasse Fisch</i>, 415)',
 	'<u>/Der stumme Tod</u>',
+	'Rath musste schlucken. Er hatte mit allem Möglichen gerechnet, aber nicht damit. Kathi hatte ihn sitzen lassen. Nannte man dass so? Das war doch billig! Die Nachright <strong>versetzte ihm einen Stich</strong>, trotz allem. (<i>Der stumme Tod</i>, 101)',
 	'Charlys entsetztes Gesicht auf der Tanzfläche. Wie sie ihn anschaute.. Rath fühlte wieder diesen <strong>Stich</strong>, den er schon gestern Abend kaum hatte ertragen können. (<i>Der stumme Tod</i>, 113)',
 	'<u>Märzgefallene</u>',
 	'Einmal noch hatte sie (<i>Hannah</i>) Fritze gesehen, am Görlitzer Bahnhof.... Aus ihrem Versteck heraus hatte sie Fritze noch eine Weile beobachtet. Es hatte <strong>ihr einen Stich versetzt</strong>, ihn wieder so betteln zu sehen... (<i>Märzgefallene</i>, 319)',
 	'<u>Lunapark</u>',
+	'Sie (<i>Charly</i>) wusste doch, dass Polizeibeamte auch außerhalb der Dienstzeiten aus dem Haus mussten, warum <b>versetzte</b> ihr solch ein unerwarteter Anruf aus dem Präsidium dann jedes Mal <b>einen Stich</b>? (<i>Lunapark</i>, 28)',
+	'Rath verspürte einen <b>Stich</b>. Das ganze lag schon eine halbe Ewigkeit zurück, doch sah er dieses Bild vor sich, als sei es erst gestern geschehen: Hochbetrieb im wiedereröffneten Aschinger. Charly, die sich inmitten dieses Trubels mit einem fremden Mann traf.. Er konnte es nicht ertragen, wenn andere Männer Charly zum Lachen brachten. Auch damals hatte es Rath <b>einen Stich versetzt</b>. (<i>Lunapark</i>, 158)',
 	'"Und du?", fragte er (<i>Gereon</i>).. "Wo kommst du gerade her?" Sie (<i>Charly</i>) zuckte die Achseln. "War nur kurz mit dem Hund draußen", sagte sie. Und lächelte ihn an, mit einem derart unschuldigen Blick, dass es <strong>ihm einen Stich versetzte</strong>. (<i>Lunapark</i>, 284-85)',
+	'"Ich sag\'s ja: ein süßes schwules Pärchen", zischte Pfeiffer. Wieder dieses Wort, das Gräf <b>einen Stich versetzte</b>. Pärchen. (<i>Lunapark</i>, 472)',
 	'Als Gereon gestern beim Frühstück erwähnte, dass er demnächst womöglich befördert werde, hatte das Fritze <strong>einen Stich versetzt</strong>. Erst da war ihm wirklich klar geworden, was Gereon ihm angetan hatte. (<i>Lunapark</i>, 542)',
 	'<u>Marlow</u>',
-	'"Der Junge (<i>Liang Kuen-Yao</i>) ist gut in der Schule", fährt sie (<i>Chen-Lu</i>) schließlich fort. "Auch in den Sprachen. Begabter als du (<i>Magnus/Marlow</i>)." Sie lächelt verschmitzt, kichert sogar ein heiseres Kichern, und es <strong>versetzt dir ein Stich</strong>. Du musst an ihren Unterricht in Tsingtau denken. Wo sie vergeblich versucht hat, dem Sohn des kaiserlichen Forstverwalters (<i>Friedrich Larsen</i>) Mandarin beizubringen. (<i>Marlow</i>, 164)',
-],
-// COMPLETE
-ausgewechselt: [  
-	'<strong>ausgewechselt</strong>: changed, altered, different'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">ausgewechselt</a>&nbsp;&nbsp;<a href=""target="target2">ausgewechselt</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">ausgewechselt</a>&nbsp;&nbsp;<a href=""target="target4">ausgewechselt</a>',
-	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
-	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
-	'<u>Marlow</u>',  
-	'Unter den Schriftstücken in dieser Mappe.. fand er (<i>Rath</i>) auch eine akribische Beschreibung, die schilderte, wie Hermann Göring.. eine Ration Morphium spritzte, ohne sich die Mühe zu machen, dies vor seinem Personal und seinen Gästen.. zu verbergen.. Unverhohlen voyeuristisch dann die Beschreibung, wie <strong>ausgewechselt</strong> der schwächelnde Göring nach der Injektion war... (<i>Marlow</i>, 308-09)',
-],
-// COMPLETE
-deuteln: [  
-	'<strong>deuteln</strong>: quibble, niggle, split hairs'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/deuteln"target="target1">deuteln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/deuteln"target="target2">deuteln</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/deuteln"target="target3">deuteln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/deuteln"target="target4">deuteln</a>',
-	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
-	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
-	'<u>Marlow</u>',  
-	'Der Wirt zuckte die Achseln. "Da wünsch ich Ihnen viel Glück. Des macht dann acht Mark bitte.".. Die wollten ihn tatsächlich loswerden hier.. Rath bezahlte, verzichtete auf ein Trinkgeld, das er unter anderen Umständen sicher gegeben hätte... Irgendwie stand er mit der fränkischen Hotellerie auf Kriegsfuß, daran gab es nun nichts mehr zu <strong>deuteln</strong>. (<i>Marlow</i>, 315)',
-],
-schwächeln: [  
-	'<strong>schwächeln</strong>: '+
-	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">schwächeln</a>&nbsp;&nbsp;<a href=""target="target2">schwächeln</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">schwächeln</a>&nbsp;&nbsp;<a href=""target="target4">schwächeln</a>',
-	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
-	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
-	'<u>Marlow</u>',  
-	'Unter den Schriftstücken in dieser Mappe.. fand er (<i>Rath</i>) auch eine akribische Beschreibung, die schilderte, wie Hermann Göring.. eine Ration Morphium spritzte, ohne sich die Mühe zu machen, dies vor seinem Personal und seinen Gästen.. zu verbergen.. Unverhohlen voyeuristisch dann die Beschreibung, wie ausgewechselt der <strong>schwächelnde</strong> Göring nach der Injektion war... (<i>Marlow</i>, 308-09)',
+	'"Der Junge (<i>Liang Kuen-Yao</i>) ist gut in der Schule", fährt sie (<i>Chen-Lu</i>) schließlich fort. "Auch in den Sprachen. Begabter als du (<i>Magnus/Marlow</i>)." Sie lächelt verschmitzt, kichert sogar ein heiseres Kichern, und es <b>versetzt dir ein Stich</b>. Du musst an ihren Unterricht in Tsingtau denken. Wo sie vergeblich versucht hat, dem Sohn des kaiserlichen Forstverwalters (<i>Friedrich Larsen</i>) Mandarin beizubringen. (<i>Marlow</i>, 164)',
+	'Er sah Charlys Gesicht an, <b>welchen Stich</b> ihr dieser Brief eines Hitlerjungen an seine Großmutter <b>versetzt</b> hatte. (<i>Marlow</i>, 232)',
 ],
 Anhöhe: [  
 	'die <strong>Anhöhe</strong>,-<strong>n</strong>: hill, knoll'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">Anhöhe</a>&nbsp;&nbsp;<a href=""target="target2">Anhöhe</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">Anhöhe</a>&nbsp;&nbsp;<a href=""target="target4">Anhöhe</a>',
-	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
-	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anhoehe"target="target1">Anhöhe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anh%C3%B6he"target="target2">Anhöhe</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/anhohe?q=Anh%C3%B6he"target="target3">Anhöhe</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anhoehe"target="target4">Anhöhe</a>',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 384)',	
 	'<u>Marlow</u>',  
-	'   (<i>Marlow</i>, 000)',
+	'Nach einer guten Stunde hielt er (<i>Rath</i>) im Schatten eines Baumes auf einer <b>Anhöhe</b>, die ihm eine schöne Sicht weit in die schöne Landschaft bescherte. Der richtige Ort zum Nachdenken. (<i>Marlow</i>, 307)',
 	'Als Rath erwachte, schien die Sonne in sein Zimmer, und er wusste im ersten Augenbick nicht, wo er sich befand. Bis es ihm wieder einfiel. Er hatte gestern Abend einfach den nächstbessten Ort auf der Reichsstraße angesteuert, der kurz hinter einer menschenleeren Autobahnbaustelle auf einer <strong>Anhöhe</strong> lag. (<i>Marlow</i>, 311)',
 ],
-Wattebausch: [  
-	'<strong>zzz</strong>: '+
-	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
-	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
-	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
+verschlampen: [  
+	'<strong>verschlampen</strong>: become scruffy; misplace, lose (thru carelessness); botch sth., perform sloppily'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschlampen"target="target1">verschlampen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschlampen"target="target2">verschlampen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/verschlampen"target="target3">verschlampen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschlampen&id=verb%3Averschlampen%23verschlampen_ist#google_vignette"target="target4">verschlampen</a>',
 	'<u>Marlow</u>',  
-	'Du setzt dich auf die Bettkante, schlägst die Wolldecke zurück und bindest den linken Knöchel ab, bis die Venen auf dem Fußrücken hervortreten. Die Spritze ist schon aufgezogn,.. du setzt sie genau zwischen den großen Zeh und seinen Nachbarn... Du lächelst und drückst den ganzen Inhalt des Kolbens zwischen die beiden Zehen, tupfst die Stelle mit einem <strong>Wattebausch</strong> ab, nachdem du die Nadel aus der Vene gezogen hast. Dann entfernst du die Staubinde (<i>tourniquet</i>). (<i>Marlow</i>, 354)',
+	'Er, Gereon Rath, der in Berlin den Deutschen Gruß verweigerte und <strong>verschlampte</strong>, wo immer das nur möglich war, stand hier in Nürnberg am Straßenrand und riss, getragen von der Masse und ihrem Rhythmus, in einem fort den rechten Arm hoch. (<i>Marlow</i>, 280)',
 ],
 Kolben: [  
 	'<strong>Kolben</strong>: flask (chem., med.); <i>many other descriptions</i>'+
@@ -10580,12 +10580,14 @@ entbieten: [
 	'<u>Marlow</u>',
 	'Es klopfte an der Tür. "Ja?" Czerwinski lugte durch den Türspalt und kam herein. Auch seine Augen weiteten sich, als er die SS-Uniform erblickte. Der Dicke nahm Haltung an, und für einen Moment sah es so aus, als sei er bereit, den Deutschen Gruß zu <strong>entbieten</strong>. (<i>Marlow</i>, 71)',
 ],
-einlochen: [
+einlochen: [  // locht ein, lochte ein, hat eingelocht
 	'<strong>einlochen</strong>: put so. behind bars; &nbsp;make a hole (golf)'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einlochen"target="target1">einlochen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einlochen"target="target2">einlochen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einlochen"target="target3">einlochen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einlochen"target="target4">einlochen</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Wenn du so eine Ratte <strong>einlochst</strong>, bekommst du gar nichts mehr aus ihr heraus", sagte er (<i>Wolter</i>). "Ist viel sinnvoller, wenn der jetzt durch Berlin läuft und weiß, dass wir ihn jederzeit <strong>einlochen</strong> <i>können</i>. Wenn wir ihn so in der Hand haben, dass er es nicht mal mehr wagt, einen Furz zu lassen, ohne uns zu fragen...." (<i>Der nasse Fisch</i>, 30)',
+//	'<u>Marlow</u>',
+//	pg 443  include lochen
 ],
 echoen: [
 	'<strong>echoen</strong>: echo'+
@@ -23102,24 +23104,6 @@ aufschließen: [
 
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-//COMPLETE:
-entwischen: [  // entwischt, entwischte, ist entwischt
-'<strong>entwischen</strong>: escape, give so. the slip'+
-'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/entwischen"target="target1">entwischen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entwischen"target="target2">entwischen</a>'+
-'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/entwischen"target="target3">entwischen</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/entwischen"target="target4">entwischen</a>',
-'<u>Der nasse Fisch</u>',   
-'Rath hatte genug gesehen und ging zurück ins Treppenhaus. Keine Gefahr mehr, dass einer (<i>der Gefangenen</i>) <strong>entwischte</strong>. (<i>Der nasse Fisch</i>, 20)',
-'Er hielt sie fest, sie konnte ihm nicht mehr <strong>entwischen</strong>. (<i>Der nasse Fisch</i>, 492)',
-//'<u>Der stumme Tod</u>',
-//'   (<i>Der stumme Tod</i>, 000)',
-'<u>Märzgefallene</u>',    
-'<i>Kellermann zu Charly</i>: "Ein Zeuge hat sie (<i>Hannah</i>) erkannt. Wollte sie aufhalten, aber sie ist ihm <strong>entwischt</strong>. Als die Kollegen eingriffen, war sie schon über all Berge." (<i>Märzgefallene</i>, 289)',
-// continue pg 468
-'<u>Lunapark</u>',   
-'   (<i>Lunapark</i>, 000)',	
-'<u>Marlow</u>',  
-'   (<i>Marlow</i>, 000)',
-],
 // COMPLETE, starting with Marzgefallene:
 'belangen, Belang': [  // belangt
 '<strong>belangen</strong>: prosecute, sue'+
@@ -23154,6 +23138,25 @@ Schränker: [
 ],
 
 */
+//'aufkratzen, aufgekratzt'  Der stuume Tod  279 448   Marlow  
+// 'aufkratzen, aufgekratzt' Marlow: 489    Der Stumme Tod:   279 448
+// zerknittern, verknittern	 Marlow  pg 378, 440
+// verflixt  Der stumme Tod 517
+// verdenken  Marlow 410
+// einlochen  Marlow 443
+// verzetzen  Der stumme Tod 'many more'
+// Anhöhe  Der stumme Tod 384 
+// 
+// Schlamperei, schlampen, schlampig  Der stumme Tod 152
+//   Begriffsstutzigkeit  Marlow 
+//  'spießig, Spießer' Marlow 415
+//Kolben Der stumme Tod 541
+//dusselig  Der stumme Tod 528
+//schwängern, geschwängert  Marlow 457
+// anberaumen  Der stumme Tod 284
+//Fährte  Der stumme Tod 301
+// Rename:    finish later:
+//check   // COMPLETE   check gellen
 	//Büro möchte Überraschung Männer draußen  
 	// Klack  Lunapark 530
 	// an den Pranger   Marlow 295
@@ -23180,7 +23183,7 @@ Schränker: [
 	// Buckel Der stumme Tod 490
 	// basteln  Marlow 494
 	// drangsalieren Marlow 293
-	// entwischen Der nasse Fisch 344  496  543
+//entwischen  ' 344, 496, 543   (<i>Der stumme Tod</i>, 000)',
 	/* finish later:
 	patzig: [
 		'<strong>patzig</strong>: &nbsp;cheeky, insolent, impudent <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/patzig" target="target1" >patzig</a> ' ,

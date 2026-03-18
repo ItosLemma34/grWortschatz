@@ -11,7 +11,7 @@ const b = [
     'Baskenmütze',  // Baskenmütze: 
     'basteln',  // basteln: 
     'bäuchlings', // bäuchlings: 
-    'bauschen, aufbauschen',  //  duplicated 
+    'bauschen, auf-',  
     'beackern',  // beackern:
     'beäugen',  // beäugen:  
     'bedröppelt',  // bedröppelt:

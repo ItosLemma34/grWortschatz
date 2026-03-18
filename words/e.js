@@ -62,7 +62,8 @@ const e = [
    'entsorgen',  // entsorgen:  
    'entstellen',  // entstellen: 
    'entwenden',  // entwenden:  
-   'entwinden',  // entwinden: 
+   'entwinden',  // entwinden:
+   'entwischen',  // entwischen: 
    'erbost, erbosen',    
    'erdreisten', // erdreisten:     
    'ergattern',   // ergattern:  

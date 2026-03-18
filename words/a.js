@@ -61,6 +61,7 @@ const a = [
 	'anherrschen',  // anherrschen:
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln: 
+	'Anhöhe',  // Anhöhe:
 	'anleinen',     // anleinen: 
 	'anmotzen',  // anmotzen:
 	'anpeilen',  // anpeilen:   
@@ -199,6 +200,7 @@ const a = [
 	'ausstopfen',    // ausstopfen: 
 	'austoben',   // austoben:  
 	'austüfteln',  // austüfteln: 
+	'auswechseln, ausgewechselt', 
 	'auswischen',  // auswischen:  
 	'auswringen, wringen', // duplicated  
 ];

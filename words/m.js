@@ -36,7 +36,7 @@ const m = [
    'Muffel',  // Muffel:
    'mühen, ab-',  // duplicated 
    'Mühle',  // Mühle: 
-   'Mullbinde', // Mullbinde: 
+   'Mullbinde, Mullverband',  
    'mulmig',  // mulmig: 
    'Mumm',  // Mumm: 
    'Mummenschanz',  //  Mummenschanz:

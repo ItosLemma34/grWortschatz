@@ -26,6 +26,7 @@ const w = [
    'Weihrauch, Weihrauchschwenker', // 
    'wellen, Welle',  // 
    'werkeln', // werkeln: 
+   'Wermutstropfen', // Wermutstropfen:
    'wettern',  // wettern: 
    'Wichs',  // Wichs: 
    'Wickelgamasche',  // Wickelgamasche: 

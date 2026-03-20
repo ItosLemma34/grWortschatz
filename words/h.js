@@ -51,7 +51,7 @@ const h = [
    'herumärgern, rumärgern', //  duplicated 
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  
-   'hetzen, gehetzt',  //  duplicated 
+   'hetzen, Hetze',   
    'heucheln, vor-', 
    'heulen, aus-, ver-, voll-',  
    'Heulsuse', // Heulsuse:  

@@ -22,7 +22,6 @@ const g = [
    'Gehege, ins G. kommen',  // duplicated
    'Geheimniskrämerei, Geheimniskrämer',
    'Geheiß', // Geheiß:   
-   'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'Geier',  //  Geier:
    'geigen (die Meinung geigen)',

@@ -1,7 +1,7 @@
 const v = [
    'Ventil',  // Ventil: 
    'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
-   'Verband' ,  // Verband: 
+   'Verband, Mull-',   
    'verblassen', // verblassen: 
    'verbocken' , // verbocken: 
    'verbohrt',  // verbohrt:

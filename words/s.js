@@ -130,7 +130,8 @@ const s = [
    'Schott, S. dicht machen',  
    'Schotter', // Schotter: 
    'schraffieren',  // schraffieren:
-   'schrammen', // schrammen:  
+   'schrammen', // schrammen: 
+   'Schränker', // Schränker: 
    'schrappen',  // schrappen: 
    'Schraubstock', // Schraubstock:  
    'Schrebergarten', // Schrebergarten:  

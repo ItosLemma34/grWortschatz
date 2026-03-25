@@ -202,6 +202,7 @@ const s = [
    'sperrig',  // sperrig:       
    'spicken',  // spicken:  
    'Spieß, spießen, aufspießen',  //  duplicated
+   'spießig, Spießigkeit',
    'Spind',  // Spind:
    'Splint',  // Splint:
    'spinnert',  // spinnert:
@@ -262,6 +263,7 @@ const s = [
    'Striemen',  // Striemen: 
    'Strippe',  // Strippe:  
    'stromern',  // stromern: 
+   'strotzen',  // strotzen:
    'strubbelig', // strubbelig: 
    'Strudel',  // Strudel: 
    'strunzdämlich',   // strunzdämlich:  
@@ -271,7 +273,7 @@ const s = [
    'Stummel',  // Stummel: 
    'Stümper, stümperhaft', // 
    'Sturzbach',  // Sturzbach:
-   'stutzig', // stutzig: 
+   'stutzen, stutzig', 
    'Suff',  // Suff:
    'süffisant',  // süffisant: 
    'summen, auf-', 

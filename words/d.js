@@ -19,6 +19,7 @@ const d = [
    'dezent',   // dezent: 
    'Diele',   // Diele:  
    'Dietrich',  // Dietrich: 
+   'dingen, gedungener Mörder',   // duplicated
    'dingfest',  // dingfest:  
    'direktemang', // direktemang:  
    'dösen, eindösen',  //   duplicated 

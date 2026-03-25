@@ -54,10 +54,11 @@ const e = [
    'eitern',  // eitern:
    'ekeln an-, hinaus-; Ekel, eklig, ekelhaft',  
    'Empore',     // Empore:  
+   'Engerling',  // Engerling: 
    'entbieten',  // entbieten:  
    'entblößen', // entblößen:
    'entgegenfiebern',  // entgegenfiebern: 
-   'entgeistert',  // entgeistert:   
+   'entgeistert',  // entgeistert:  
    'entriegeln',  // entriegeln: 
    'entsorgen',  // entsorgen:  
    'entstellen',  // entstellen: 

@@ -169,7 +169,8 @@ const a = [
 	'aus dem Staub machen', //  duplicated 
 	'aus dem Häuschen sein',     
 	'aus der Haut fahren',   
-	'ausbaldowern', // ausbaldowern:  
+	'ausbaldowern', // ausbaldowern: 
+	'ausblenden',  // ausblenden: 
 	'ausborgen',  // ausborgen:  
 	'ausbremsen', // ausbremsen:  
 	'ausbügeln',  // ausbügeln:  

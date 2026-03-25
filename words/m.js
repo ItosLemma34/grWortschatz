@@ -19,6 +19,7 @@ const m = [
    'meckern',  // meckern:
    'meißeln, Meißel',  
    'Melone',  // Melone: 
+   'Memme',  // Memme:
    'Menschentraube, Traube',  // duplicated
    'Messing',  // Messing:
 //   'Metalrost; Lauf -gitter, -steg; Gitter -rost',  // triplicated 
@@ -31,7 +32,8 @@ const m = [
    'mit allen Wassern gewaschen', //  duplicated 
    'mit einem Affenzahn',   // duplicated
    'mitgenommen',  // mitgenommen: 
-   'Mohrrübe', // Mohrrübe: 
+   'Mohrrübe', // Mohrrübe:
+   'Montur',  // Montur: 
    'Mucks',  // Mucks:  
    'Muffel',  // Muffel:
    'mühen, ab-',  // duplicated 

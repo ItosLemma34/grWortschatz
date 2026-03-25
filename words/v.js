@@ -3,13 +3,14 @@ const v = [
    'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
    'Verband, Mull-',   
    'verblassen', // verblassen: 
-   'verbocken' , // verbocken: 
+   'verbocken', // verbocken: 
    'verbohrt',  // verbohrt:
    'verbrämen',  // verbrämen: 
    'verdampfen',  // verdampfen: 
    'Verdeck',  // Verdeck: 
-   'verdenken' ,  // verdenken: 
-   'verdonnern' , // verdonnern: 
+   'verdenken',  // verdenken: 
+   'verdonnern', // verdonnern: 
+   'verdorren', // verdorren:
    'verdruckst',  //verdruckst: 
    'verdünnisieren', // verdünnisieren: 
    'verdunsten',  // verdunsten: 

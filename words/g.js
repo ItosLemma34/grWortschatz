@@ -13,6 +13,7 @@ const g = [
    'gediegen',  // gediegen: 
    'Gedränge',  // Gedränge: 
    'Gedudel, dudeln',  // duplicated 
+   'gedungener Mörder, dingen',  // duplicated
    'gefasst',  // gefasst: 
    'Geflecht',  // Geflecht:
    'geflissentlich',  // geflissentlich: 

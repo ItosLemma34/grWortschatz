@@ -69,8 +69,8 @@ const f = [
    'Fritze',  // Fritze:  
    'frönen',  // frönen
    'frösteln', // frösteln:  
-   'Frotzelei, frotzeln',  //  
-   'fuchteln, Fuchtel', //  
+   'Frotzelei, frotzeln',    
+   'fuchteln, Fuchtel',   
    'fuhrwerken', // fuhrwerken:    
    'fummeln',    // fummeln:  
    'funzelig',   // funzelig:   

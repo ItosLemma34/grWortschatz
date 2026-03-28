@@ -45,7 +45,7 @@ const m = [
    'Mumpitz',  // Mumpitz: 
    'munkeln',  // munkeln: 
    'Murmel', // Murmel: 
-   'murren', // murren: 
+   'murren, mürrisch', 
 ];
 
 export default m;      

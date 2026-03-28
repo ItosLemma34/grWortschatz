@@ -1,7 +1,8 @@
 const v = [
    'Ventil',  // Ventil: 
    'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
-   'Verband, Mull-',   
+   'Verband, Mull-',
+   'verbiegen',  // verbiegen:   
    'verblassen', // verblassen: 
    'verbocken', // verbocken: 
    'verbohrt',  // verbohrt:
@@ -120,7 +121,7 @@ const v = [
    'vertrackt',   // vertrackt:     combine with Vertrackt if found
    'vertreten (sich die Beine)', //  duplicated   
    'Vertriebsweg', // Vertriebsweg:  
-   'vertrödeln',  // vertrödeln 
+   'vertrödeln',  // vertrödeln: 
    'vertun, vertan',  // 
    'verunfallen',  // verunfallen:
    'verunglimpfen',  // verunglimpfen:  

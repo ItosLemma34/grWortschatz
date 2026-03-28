@@ -10,7 +10,8 @@ const s = [
    'Saum, säumen',  
    'säumig',  // säumig:
    'Säure, säuerlich',   
-   'Sause',  // Sause:  
+   'Sause',  // Sause:
+   'säuseln',  // säuseln:  
    'sausen', // sausen:  
    'schaben, ab-',  
    'Schablone',  // Schablone:
@@ -25,11 +26,11 @@ const s = [
    'schassen',   // schassen:  
    'Schauder, schaudern', 
    'schauern, erschauern',  // duplicated 
-   'schaufeln, Schaufel',  // 
+   'schaufeln, Schaufel',   
    'Schaukasten', // Schaukasten:   
    'schaukeln, auf-',     
    'Scheffel (Licht unter den S.)', // duplicated
-   'scheiteln, Scheitel', // 
+   'scheiteln, Scheitel',  
    'Scheiterhaufen',  // Scheiterhaufen: 
    'schellen',  // schellen: 
    'Schemel',  // Schemel: 
@@ -43,8 +44,8 @@ const s = [
 //   'Schienenstrang, Strang', // duplicated 
    'schikanieren', // schikanieren: 
    'Schilde (im S. führen)', //  duplicated  
-   'Schimmel, (ver)schimmeln', // 
-//   'Schimmer (keinen blassen S.)', // 
+   'Schimmel, (ver)schimmeln',  
+//   'Schimmer (keinen blassen S.)',  
    'schimmern, Schimmer, keinen S. haben', 
    'Schinder, schinden, geschunden',  // duplicated 
    'Schinken',  // Schinken:
@@ -182,6 +183,7 @@ const s = [
    'sezieren',  // sezieren:
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
+   'Sieb, sieben',
    'Siegel, siegeln, ver-', 
    'Sims',  //  Sims: 
    'Sippenhaft', // Sippenhaft: 

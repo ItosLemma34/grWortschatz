@@ -2,7 +2,6 @@ export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
 // needs more work:
 // not finished:  finish later: 
-//  Molle Lunapark 265 277  Der nasse Fisch 529  Marlow 382 (included in mürrisch) 384
 /*  
 zzz: [  
 	'<b>zzz</b>: '+
@@ -23,6 +22,22 @@ zzz: [
 //	'<u>Extra</u> (<u>nicht aus den Gereon-Rath-Krimis</u>):', 
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö  Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Molle: [  
+	'die <b>Molle</b>,-<b>n</b>: glass of beer'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Molle"target="target1">Molle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Molle"target="target2">Molle</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.wiktionary.org/wiki/Molle"target="target3">Molle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Molle&id=substantiv%3AMolle"target="target4">Molle</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Nur vier Tische hatten in dem Schankraum Platz. Rath war das egal. Er saß sowieso meistens an der Theke. Wie auch jetzt. "Schorsch, noch\'ne <b>Molle</b> und \'nen Kurzen für uns beide." "Also zwee <b>Mollen</b> und zwee Kurze?" "Jau." (<i>Der nasse Fish</i>, 529)',
+	'<u>Märzgefallene</u>',    
+	'Der Wirt hatte ihnen (<i>Rath und Weinert</i>) gerade zwei frische <b>Mollen</b> hingestellt. (<i>Märzgefallene</i>, 530)',
+	'"War gerade in der Gegend", sagte Rath und zuckte die Achseln. "Und da dachte ich: Noch eine <b>Molle</b> bei Schorsch. Hatte nicht viel Zeit, sonst hätte ich vorher mal bei dir (<i>Gräf</i>) geklingelt." (<i>Märzgefallene</i>, 539)',
+	'<u>Lunapark</u>',   
+	'Lange schob seinen Teller weit von sich und war sichtlich erfreut, als der Kellner kam und abräumte. "Noch \'ne <b>Molle</b>, die Herren?" Rath orderte noch zwei, und Lange fuhr fort. (<i>Lunapark</i>, 265)',	
+	'"Denn geben Sie mir mal \'ne <b>Molle</b> mit Korn", sagte er (<i>Rath</i>), und der Wirt nickte. (<i>Lunapark</i>, 277)',
+	'<u>Marlow</u>',  
+	'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der mürrische Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue <b>Molle</b> brauchte. (<i>Marlow</i>, 382)',
+	'Zum Glück unterbrach Schorsch das Gesprách und stellte zwei volle Schnapsgläser neben die <b>Mollen</b>. Sie (<i>Rath und Gräf</i>) stießen an und kippten die Kurzen weg. (<i>Marlow</i>, 384)',
+],
 verbiegen: [  
 	'<b>verbiegen</b>: bend, buckle, distort; corrupt'+
 	'<br><b>sich verbiegen lassen</b>: be corrupted'+
@@ -16016,7 +16031,7 @@ Murmel: [
 	'Der Junge (<i>Fritze</i>) freute sich seit Tagen auf das Zeltlager. Ohne zu <b>murren</b>, hatte er den Hund versorgt und war mit Kirie extra lange Gassi gegangen. (<i>Lunapark</i>, 279)',
 	'<u>Marlow</u>',  
 	'"So kann es nicht weitergehen", empörte sich plötzlich einer, und alle schauten ihn an. "Es wird Zeit, dass der Führer der grassierenden Rassenschande endlich Einhalt gebietet!" Rath hörte zustimmendes <b>Murren</b>, mehr nicht. (<i>Marlow</i>, 296)',
-	'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der <b>mürrische</b> Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue Molle brauchte. (<i>Marlow</i>, 382)',
+	'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der <b>mürrische</b> Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue <b>Molle</b> brauchte. (<i>Marlow</i>, 382)',
 ],
 //(<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 nagen: [
@@ -21077,7 +21092,7 @@ Vorhängeschloss: [
 	'Fritze führte ihn (<i>Rath</i>) zu einem alten, stillgelegten Kino, das entweder die Wirtschaftskrise oder den Tonfilm nicht überlebt hatte, oder beides. Die komplette Eingangsfront war mit dicken Ketten und <b>Vorhängeschlössern</b> verrammelt. (<i>Märzgefallene</i>, 405)',
 	'Er (<i>Rath</i>) wülte in seiner Manteltasche und fand die Sperrhaken. Dann machte er sich an einem der <b>Vorhängeschlösser</b> zu schaffen. Fritze schaute ihm bewundernd zu. Rath öffnete die Tür... und sie schlüpften hinein ins Gebäude. (<i>Märzgefallene</i>, 406)',
 ],
-// <b>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verrammeln: [
 	'<b>verrammeln</b>: bar, barricade, block up, seal off'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrammeln"target="target1">verrammeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrammeln"target="target2">verrammeln</a>'+
@@ -21160,7 +21175,7 @@ Verdeck: [
 	'<u>Marlow</u>',
 	'Schwarzgraues <b>Verdeck</b>, dunkelgrünes Chassis, schwarz-weiße Karostreifen - ohne Frage eine Kraftdroschke (<i>Taxi</i>). Von dem Wagen war allerdings nur das Heck zu sehen, die vordere Hälfte schien in der Mauer verschwunden zu sein. Als sie die Unfallstelle passierten, konnte Rath erkennen, dass die Kühlerhaube zusammengeschoben worden war, als sei sie aus Pappe. (<i>Marlow</i>, 26)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 verhunzen: [
 	'<b>verhunzen</b>: ruin, mess up'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verhunzen"target="target1">verhunzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verhunzen"target="target2">verhunzen</a>'+
@@ -21187,7 +21202,7 @@ verrenken: [
 	'Der tote SA-Mann lag mitten auf dem Gehweg im Schatten der Eisenbahnbrücke und war übel zugerichtet, die Gliedmaßen (<i>limbs</i>) unnatürlich verbogen und <b>verrenkt</b>, als habe man dem armen Kerl sämtliche Knochen gebrochen. (<i>Lunapark</i>, 17)',
 	'Die Spurensicherer hielten in ihrer Arbeit inne, Czerwinski blickte von der Kamera auf, Lange ließ seinen Notizblock sinken, und auch AEG-Arbeiter Egerland, ihr bislang einziger Zeuge, <b>verrenkte sich</b> den Hals, um zu sehen, wer da angekommen war. (<i>Lunapark</i>, 22)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 versickern: [
 	'<b>versickern</b>: seep, trickle, drain away'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versickern"target="target1">versickern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versickern"target="target2">versickern</a>'+
@@ -21266,7 +21281,7 @@ verdonnern: [
 	'<u>Marlow</u>',
 	'Eigentlich wäre er (<i>Rath</i>) jetzt schon auf dem Weg nach Hause. Hätte er nicht den Fehler begangen, kurz vor Feierabend noch ans Telefon zu gehen. Czerwinski, den er dazu <b>verdonnert</b> hatte mitzukommen, hatte nicht die allerbeste Laune. (<i>Marlow</i>, 26)',
 ],
-// <b>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verdünnisieren: [
 	'<b>sich verdünnisieren</b>: sneak away, beat a hasty retreat'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verduennisieren"target="target1">verdünnisieren</a> &nbsp;<a href="https://www.dwds.de/wb/verd%C3%BCnnisieren"target="target2">verdünnisieren</a>'+
@@ -21293,7 +21308,7 @@ vergewissern: [
 	'Sie (<i>Charly</i>) zog die Handbremse fest, <b>vergewisserte sich</b>, dass das Getriebe auf Leerlauf (<i>engine idling</i>) stand, und stieg aus. (<i>Marlow</i>, 199)',
 	'Du vergewisserst dich an des Leutnants Halsschlagader, dass wirklich alles vorbei ist, dann erst verlässt du das Zimmer. Gehst zurück in deine Kammer, wirfst den Wattebausch in den Ofen, packst Spritze und Tourniquetinde zurück in deine Arzttasche und legst dich hin. (<i>Marlow</i>, 355)',
 ],
-// <b>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verhageln: [
 	'<b>verhageln</b>: spoil sth. for so.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/verhageln"target="target1">verhageln</a> &nbsp;<a href="https://www.dwds.de/wb/verhageln"target="target2">verhageln</a>'+
@@ -21370,7 +21385,7 @@ verhexen: [
 	'Sie (<i>Charly</i>) trank einen Schluck Kaffee und schaute in die Runde. Fritze hatte sich immer noch hinter der Zeitung vergraben, Gereon rührte mit einem von einem leichten <b>Kater</b> gequälten Gesicht in seinem Kaffee. (<i>Lunapark</i>, 76)',
 	'Zusammen mit Pfeiffer durchkämmte er (<i>Gräf</i>) das Sturmlokal.. In den Fremdenzimmern schreckten sie ein paar <b>verkaterte</b> SA-Männer aus dem Schlaf. Die Gesuchten waren nicht darunter. (<i>Lunapark</i>, 473)',
 ],
-// <b>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'verkneifen, verkniffen': [
 	'<b>verkneifen</b>: squeeze/press/wrinkle up'+
 	'<br><b>sich verkneifen</b>: refrain from, deny oneself sth.'+
@@ -21467,7 +21482,7 @@ verrecken: [
 	'Doch auch von den Soldaten, die Marlow (<i>die Stadt</i>) dem Weltkrieg geopfert hat, haben nur die wenigsten das Meer sehen dürfen, der Großteil ist in Eisenbahnwaggons zur Front gekarrt worden, direkct in den Schlamm der Schützengräben, in dem die allermeisten dann auch <b>verreckt</b> sind. (<i>Marlow</i>, 7)',
 	'Mehr (<i>als Morphin</i>) kannst du (<i>Marlow</i>) nicht für sie tun. Kann niemand für sie tun. Und Doktor Erichsen, dieser Quacksalber, hat ihr selbst das verweigert.. Dieser Dreckskerl hätte Chen-Lu einfach elendig und qualvoll <b>verrecken</b> lassen. (<i>Marlow</i>, 10-11)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verrennen: [
 	'<b>sich verrennen</b>: get on the wrong track, go astray'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verrennen"target="target1">verrennen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verrennen"target="target2">verrennen</a>'+
@@ -21530,7 +21545,7 @@ verrutschen: [
 	'<u>Marlow</u>',
 	'<i>Rath</i>: "Bis meine Frau nach Hause kommt, das kann noch dauern, sie hat sehr unregelmäßige Arbeitszeiten." "Arbeitszeiten?" Die Mimik (<i>facial expression</i>) der Jugensamtsfrau <b>verrutschte</b> und machte irgendwo zwischen Unverständnis und Empörung Halt. (<i>Marlow</i>, 47)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verschanzen: [
 	'<b>verschanzen</b>: fortify, entrench'+
 	'<br><b>sich verschanzen</b>: barricade oneself, take shelter'+
@@ -21573,7 +21588,7 @@ verschmieren: [
 	'"Was ist das?", fragte Rath, als sie sich setzte. Die <b>verschmierte</b> Karnevalsschminke war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)',
 	'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blutschlieren bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige Murmel, bis sein Verstand bereit war, die Wahrheit zu akzeptieren. Der Sehnerv hing an seinem blut<b>verschmierten</b> Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verschnupft: [
 	'<b>verschnupft</b>: annoyed, irritated; have a cold'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnupft"target="target1">verschnupft</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschnupfen?o=verschnupft"target="target2">verschnupft</a>'+
@@ -21626,7 +21641,7 @@ verschütten: [
 	'<i>Rath</i>: "Ich wundere mich, dass die (<i>Franzosen</i>) ihn (<i>Engel</i>) nicht einfach totgeschlagen haben, einen Boche, den sie <b>verschüttet</b> und schwer verletzt in einem deutschen Schützengraben finden." (<i>Märzgefallene</i>, 517)',
 	'Aus dem Dunkel des blinden Tunnelarms... war ein Mann ins Licht getreten, der eine Pistole in der Hand hielt... Der Mann trug eine Hauptmannsuniform, die unmöglich die sein konnte, mit der er <b>verschüttet</b> worden war, und er hatte ein zweigeteiltes Gesicht: Die eine Hälfte irgendwie puppenhaft, allzu perfekt, die andere hingegen von roten Narben überzogen. (<i>Märzgefallene</i>, 575)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 versehen: [
 	'<b>versehen</b>: provide, supply; perform, discharge'+
 	'<br>das <b>Versehen</b>,-: mistake, error'+
@@ -21656,7 +21671,7 @@ versehentlich: [
 	'<u>Lunapark</u>',
 	'"Glückwunsch zur Beförderung, Sturmbannführer", sagte Rath. "Wie viele Sprossen auf der Karriereleiter haben Sie denn erklommen?" <i>Sperling</i>: "Jedenfalls so viele, dass Sie mir nichts mehr zu befehlen haben, Kommissar. Sie sind doch noch Kommissar - oder hat man Sie <b>versehentlich</b> befördert?" (<i>Lunapark</i>, 94)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 versengen: [
 	'<b>versengen</b>: scorch, sear, singe'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versengen"target="target1">versengen</a> &nbsp;<a href="https://www.dwds.de/wb/versengen"target="target2">versengen</a>'+
@@ -21687,7 +21702,7 @@ verstauen: [
 	'Rath <b>verstaute</b> den Inhalt seiner Reisetasche in dem kleinen Schrank, rasierte sich über der Waschschüssel, zog den Scheitel mit dem nassen Kamm nach und verließ das Haus auf dem schnellsten Weg. (<i>Marlow</i>, 266)',
 	'"Un was is des da?", fragte er (<i>Draxler</i>). "Das sehen Sie doch", sagte Rath. "Das ist eine Kurbel. Um den Motor zu starten, wenn der elektrische Anlasser mal nicht will." Er nahm dem Wachtmeister die Kurbel aus der Hand und <b>verstaute</b> sie wieder im Gepäckfach, das ansonsten völlig leer war. (<i>Marlow</i>, 327)',
 ],
-//<b>  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Verstellung: [
 	'<b>verstellen</b>: feign, pretend'+
 	'<br>die <b>Verstellung</b>,-<b>en</b>: pretense, feint, disguise'+
@@ -21719,7 +21734,7 @@ verunzieren: [
 	'Die Roten Ratten, das war eine Gruppe Halbwüchsiger..., die sich mit anderen Jugendlichen gelegentlich harmlose Bandenkämpfe lieferte, manchmal allerdings auch die SA in ihrem Viertel ärgerte, deren Sturmlokal mit Parolen <b>verunzierte</b>.... (<i>Märzgefallene</i>, 30)',
 	'Auf dem Weg zum Friedensplatz kam Rath an einigen Geschäften vorbei, und nicht alle hatten das Glück wie das ehemalige Möbelhaus Engel, sich auf ihre nun nichtjüdischen Besitzer berufen zu können. Vor diesen Geschäften standen jeweils zwei oder drei SA-Leute, an den Schaufenstern klebte das Plakat, das Rath jetzt schon kannte, manche waren zusätzlich mit einem hingeschmierten Davidstern <b>verunziert</b>. (<i>Märzgefallene</i>, 459)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Verwahrlosung, verwahrlosen': [
 	'die <b>Verwahrlosung</b>,-<b>en</b>: neglect, squalidness, dilapidation'+
 	'<br><b>verwahrlosen</b>: neglect; become dilapidated, go to seed'+
@@ -21765,7 +21780,7 @@ verunzieren: [
 	'Aber selbst Czerwinski, seinen dritten Partner und von allen sicherlich der unbegabteste Kriminalist, würde er vermissen, das merkte Rath, als er auf dessen <b>verwaisten</b> Schreibtisch blickte. (<i>Marlow</i>, 146)',
 	'Das Teilstück zwischen Leipzig und Halle, das sie (<i>Gereon und seine Schwiegermutter</i>) querten, war sogar schon fertig, die Autobahn allerdings so leer wie der Flughafen Tempelhof bei Windstärke zehn. Kein einziges Fahrzeug weit und breit. "Der Führer scheint seiner Zeit ja verdammt weit voraus zu sein", kommentierte Rath die <b>verwaiste</b> Betonpiste. (<i>Marlow</i>, 247)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verwegen: [  
 	'<b>verwegen</b>: daring, bold, dashing'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwegen"target="target1">verwegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verwegen"target="target2">verwegen</a>'+
@@ -22130,7 +22145,7 @@ Wappen: [
 	'<u>Marlow</u>',
 	'.. es waren fast durchweg Hakenkreuzfahnen, die hier hingen und eine seltsame Atmospháre schafften. Es gab nur wenige Ausnahmen, Fahnen, die irgendwelche Stadt<b>wappen</b> zeigten. (<i>Marlow</i>, 271)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 wedeln: [ 
 	'<b>wedeln</b>: wag, wave'+
 	'<br><b>auswedeln</b>: wave out (eg, a match)'+
@@ -22273,7 +22288,7 @@ weichklopfen: [
 	'<u>Marlow</u>',
 	'So langsam ahnte er (<i>Rath</i>), warum Czerwinski gestern den ganzen Morgen im Prinz-Albrecht-Palais verbringen musste. Und er hatte dem Dicken Faulheit unterstellt. Rath spürte, wie auch ihn das Warten <b>weichklopfte</b>. Selbst die Baugeräusche schienen, so kam es ihm vor, allein diesem Zweck zu dienen. (<i>Marlow</i>, 118)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Wickelgamasche: [
 	'die <b>Wickelgamasche</b>,-<b>n</b>: puttee'+
 	'<br><b>wickeln</b>: wrap, wind'+
@@ -23045,7 +23060,7 @@ Zopf: [
 	'Oder einer von ihnen (<i>den Nazis</i>) käme einfach so auf die Idee, eine harmlose Passantin (<i>Charly</i>) mit Hund anzurempeln, nur weil sie ihm zu jüdisch aussah.... Ihr (<i>Charlys</i>) dunkles kurzes Haar machte sie verdächtig genug; SA-Männer schwärmten für blonde <b>Zöpfe</b>. (<i>Märzgefallene</i>, 204)',
 	'Hilde sah gar nicht aus wie eine Nazischwärmerin, er (<i>Gereon</i>) hatte sie für ein modernes Mädchen gehalten, lebenslustig, keinem Abenteuer abgeneigt. Er hatte immer gedacht, Nazimädels trügen geflochte <b>Zöpfe</b> und keinen Bubikopf. (<i>Märzgefallene</i>, 304)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zücken: [
 	'<b>zücken</b>: draw, pull, take something out'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zuecken"target="target1">zücken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCcken"target="target2">zücken</a>'+
@@ -23348,7 +23363,7 @@ aufschließen: [
 ],
 
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // COMPLETE, starting with Marzgefallene:
 'belangen, Belang': [  // belangt
 '<b>belangen</b>: prosecute, sue'+

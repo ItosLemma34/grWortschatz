@@ -22,6 +22,32 @@ zzz: [
 //	'<u>Extra</u> (<u>nicht aus den Gereon-Rath-Krimis</u>):', 
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö  Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+'belangen, Belang, Belange': [ 
+	'<b>belangen</b>: prosecute, sue'+
+	'<br>der <b>Belang</b>,-<b>e</b>: importance, significance'+
+	'<br>die <b>Belange</b>: concerns, interests, issues, needs'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/belangen"target="target1">belangen</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Belang"target="target2">Belang</a>'+
+		'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Belange"target="target3">Belange</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/belangen"target="target4">belangen</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Belang&id=substantiv%3ABelang"target="target5">Belang</a>'+
+		'&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/belange"target="target6">Belange</a>',
+	'<u>Der stumme Tod</u>',
+	'"Worum geht es bitte?", unterbrach Rath den Anrufer. Er konnte es nicht leiden, wenn jemand nicht zur Sache kam. Und ihn zu Hause mit dienstlichen <b>Belangen</b> belästigte. (<i>Der stumme Tod</i>, 133)',	
+	//'   (<i>Der stumme Tod</i>, 448)',	
+	'<u>Märzgefallene</u>',    
+	'Sie (<i>Rath und Gräf</i>) hatten nie viel über Politik gesprochen, wenn sie sich trafen, meistens auf ein Bier im Dreieck, und auch nicht allzuviel über ihre privaten <b>Belange</b>. (<i>Märzgefallene</i>, 119)',
+	'<i>von Roddeck</i>: "Herr Kommissar! Ich hätte nicht gedacht, Sie noch einmal in diesem Leben zu sehen." <i>Rath</i>: "Tja, so kann man sich irren." "Was führt Sie zu mir? Soll ich Ihnen ein Buch signieren?" "Danke, kein Bedarf." "Na, dienstliche <b>Belange</b> können es ja nicht sein. Ermittlungsleiter sind Sie meines Wissens doch nicht mehr." (<i>Märzgefallene</i>, 480)',
+	'<u>Lunapark</u>',   
+	'Irgendwann würde er (<i>Gereon</i>) ihren (<i>Charlys</i>) Arbeitsvertrag unterschreiben müssen. Dem zu erwartenden Streit sah sie mutig entgegen, schließlich hatte er ihr seinerzeit, bevor sie seinen Heiratsantrag angenommen hatte, versprechen müssen, sich nicht in ihre beruflichen <b>Belange</b> einzumischen und sie arbeiten zu lassen, wenn sie dies wünschte. (<i>Lunapark</i>, 75-76)',	
+	'Heute aber hatte sie (<i>Charly</i>) sich in die S-Bahn gesetzt und war in den Osten gefahren. Gereon durfte sie das nicht erzählen. Sie wusste ja, wie er über Alex dachte. Und über Charlys Neigung, sich in die <b>Belange</b> von Straßenkindern zu mischen. (<i>Lunapark</i>, 98)',
+	'<i>Emilie zu Adolf Osterberg</i>: ""Die Weberei ist dein Lebenswerk, und vielleicht solltest du sie deshalb an deinen vertrauenswürdigsten Mitarbeiter verkaufen." <i>Adolf</i>: "Leyboldt?" Erich Leyboldt war sein Prokurist. Der Mann, der Emilie in der Zeit seiner Gefangenschaft in allen <b>Belangen</b> geholfen hatte. (<i>Lunapark</i>, 556)',
+	'<u>Marlow</u>',  
+	'<i>Rath zu Sowa</i>: "Es wird Sie nicht freuen, das zu hören, Sturmbannführer", fuhr Rath fort und zündete sich die Zigarette an, "aber ich fürchte, Obersturmführer Brunner hat sich nicht in allen <b>Belangen</b> so verhalten, wie man dies von einem SS-Mann erwarten sollte." (<i>Marlow</i>, 123)',
+	'Als er das Haus der Witwe passierte, bog der Hundebesitzer,.. auf den Fußweg, der zur Herta Rinkes Haustür führte, bückte sich kurz, steckte zwei Flaschen Milch in die Manteltaschen, nahm die anderen zwei in die Hand und ging, als sei nichts weiter geschehen, die restlichen Meter zu seinem Haus - ein in allen <b>Belangen</b> stattlicheres Anwesen als das von Herta Rinke - und verchwand mit seiner Beute in der Haustür, ohne sich noch einmal umzudrehen. (<i>Marlow</i>, 220)',
+	'Rath wunderte sich. Nicht nur darüber, dass in Bayern immer noch Gendarme mit Pickelhaube herumliefen, sondern auch darüber, dass man hier noch wegen Landstreicherei (<i>vagrancy</i>) <b>belangt</b> werden konnte. (<i>Marlow</i>, 264-65)',
+	// pg 556  
+],
 Molle: [  
 	'die <b>Molle</b>,-<b>n</b>: glass of beer'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Molle"target="target1">Molle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Molle"target="target2">Molle</a>'+
@@ -16034,6 +16060,17 @@ Murmel: [
 	'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der <b>mürrische</b> Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue <b>Molle</b> brauchte. (<i>Marlow</i>, 382)',
 ],
 //(<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+'nichts für ungut': [
+	'<b>nichts für ungut</b>: No offense! No harm meant!'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nichts%20f%C3%BCr%20ungut"target="target1">Nichts für ungut</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Nichts+f%C3%BCr+ungut&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Nichts für ungut</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ungut?q=Nichts+f%C3%BCr+ungut%21"target="target3">Nichts für ungut</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Nichts%20f%C3%BCr%20ungut"target="target4">Nichts für ungut</a>',
+	'<u>Der nasse Fisch</u>',
+	'Der Graubärtige klopfte ihm (<i>Rath</i>) auf die Schulter, sich vor Lachen schüttelnd. "<b>Nichts für ungut</b>, junger Freund, <b>nichts für ungut</b>." (<i>Der nasse Fisch</i>, 203)',
+	'<u>Der stumme Tod</u>',
+	'Rath notierte noch Krempins Adresse, dann ließ er Peter Glaser nach Hause bringen. "Vielen Dank für Ihre Hilfe", sagte Rath zum Abschied. "Und <b>nichts für ungut</b>. Aber Ihr Freund (<i>Krempin</i>) scheint Ihnen - und uns - einen üblen Streich gespielt zu haben. (<i>Der stumme Tod</i>, 57)',
+	'<u>Lunapark</u>',
+	'Er hatte den Gangster (<i>Lapke</i>) aus der Reserve gelockt, doch Rath war nicht stolz darauf. Womöglich machte ein unberechenbarer Lapke wirklich Ernst. Aber wenigstens hatte er einmal sein wahres Gesicht gezeigt. "<b>Nichts für ungut</b>, Sturmführer Lapke", sagte Rath brav, "ich bin nur hier, weil ich mir Sorgen um jemanden mache..." (<i>Lunapark</i>, 198)',
+],
 nagen: [
 	'<b>nagen</b>: nibble, gnaw, eat away at sth.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/nagen"target="target1">nagen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nagen"target="target2">nagen</a>'+
@@ -16060,19 +16097,6 @@ niegelnagelneu: [
 	'<u>Lunapark</u>',
 	'Das Donnern auf der stählernen Brücke hatte seine Sinne derart beansprucht, dass Rath erst jetzt den tiefschwarzen Mercedes bemerkte, der sich mit hoher Geschwindigkeit näherte... Der Zug oben auf der Brücke machte immer noch einen Höllenlärm, ansonsten hätte man die Reifen des Mercedes quietschen gehört. Eine 200er Limousine, <b>niegelnagelneu</b>. (<i>Lunapark</i>, 22)',
 ],
-'nichts für ungut': [
-	'<b>nichts für ungut</b>: No offense! No harm meant!'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nichts%20f%C3%BCr%20ungut"target="target1">Nichts für ungut</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Nichts+f%C3%BCr+ungut&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Nichts für ungut</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ungut?q=Nichts+f%C3%BCr+ungut%21"target="target3">Nichts für ungut</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/Nichts%20f%C3%BCr%20ungut"target="target4">Nichts für ungut</a>',
-	'<u>Der nasse Fisch</u>',
-	'Der Graubärtige klopfte ihm (<i>Rath</i>) auf die Schulter, sich vor Lachen schüttelnd. "<b>Nichts für ungut</b>, junger Freund, <b>nichts für ungut</b>." (<i>Der nasse Fisch</i>, 203)',
-	'<u>Der stumme Tod</u>',
-	'Rath notierte noch Krempins Adresse, dann ließ er Peter Glaser nach Hause bringen. "Vielen Dank für Ihre Hilfe", sagte Rath zum Abschied. "Und <b>nichts für ungut</b>. Aber Ihr Freund (<i>Krempin</i>) scheint Ihnen - und uns - einen üblen Streich gespielt zu haben. (<i>Der stumme Tod</i>, 57)',
-	'<u>Lunapark</u>',
-	'Er hatte den Gangster (<i>Lapke</i>) aus der Reserve gelockt, doch Rath war nicht stolz darauf. Womöglich machte ein unberechenbarer Lapke wirklich Ernst. Aber wenigstens hatte er einmal sein wahres Gesicht gezeigt. "<b>Nichts für ungut</b>, Sturmführer Lapke", sagte Rath brav, "ich bin nur hier, weil ich mir Sorgen um jemanden mache..." (<i>Lunapark</i>, 198)',
-],
-// ä Ä ö Ö ü Ü ß   einen Streich spielen        ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 Nepp: [
 	'der <b>Nepp</b>: swindle, con, rip-off'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Nepp"target="target1">Nepp</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Nepp"target="target2">Nepp</a>'+
@@ -23364,22 +23388,6 @@ aufschließen: [
 
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-// COMPLETE, starting with Marzgefallene:
-'belangen, Belang': [  // belangt
-'<b>belangen</b>: prosecute, sue'+
-'der <b>Belang</b>,-<b>e<b>: importance, significance; <b>Belange</b>: concerns, issues'+
-'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/belangen"target="target1">belangen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Belang"target="target2">Belang</a>'+
-'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/belangen"target="target3">belangen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Belang"target="target4">Belang</a>',
-'<u>Der stumme Tod</u>',
-'"Worum geht es bitte?", unterbrach Rath den Anrufer. Er konnte es nicht leiden, wenn jemand nicht zur Sache kam. Und ihn zu Hause mit dienstlichen <b>Belangen<b> belästigte. (<i>Der stumme Tod</i>, 133)',	
-//'   (<i>Der stumme Tod</i>, 448)',	
-'<u>Märzgefallene</u>',    
-'Sie (<i>Rath und Gräf</i>) hatten nie viel über Politik gesprochen, wenn sie sich trafen, meistens auf ein Bier im Dreieck, und auch nicht allzuviel über ihre privaten <b>Belange</b>. (<i>Märzgefallene</i>, 119)',
-'<u>Lunapark</u>',   
-'   (<i>Lunapark</i>, 000)',	
-'<u>Marlow</u>',  
-'Rath wunderte sich. Nicht nur darüber, dass in Bayern immer noch Gendarme mit Pickelhaube herumliefen, sondern auch darüber, dass man hier noch wegen Landstreicherei (<i>vagrancy</i>) <b>belangt</b> werden konnte. (<i>Marlow</i>, 264-65)',
-],
 
 */
 //'aufkratzen, aufgekratzt'  Der stuume Tod  279 448   Marlow  
@@ -23399,13 +23407,14 @@ aufschließen: [
 //schwängern, geschwängert  Marlow 457
 // anberaumen  Der stumme Tod 284
 //Fährte  Der stumme Tod 301
-// Rename:    finish later:
+//Belang, belangen (<i>Der stumme Tod</i>, 448)'
 //check   // COMPLETE   check gellen
 	//Büro möchte Überraschung Männer draußen  
 	// Klack  Lunapark 530
 	// an den Pranger   Marlow 295
 	// geknickt Der stumme Tod 536
 	// behäbig Marlow 327
+	// Marlow belangen pg 556
 	// klobig Der stumme Tod 185
 	//'aufkratzen, aufgekratzt'Stumme Tod 279 448   Marlow 489
 	// 'Strick (einen S. drehen)'  stumme Tod pg 481

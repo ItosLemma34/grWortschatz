@@ -32,6 +32,7 @@ const b = [
     'bekleckern',  // bekleckern:
   //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
     // bellen duplicate with Gebell if bellen found
+    'belangen, Belang, Belange',  
     'belauern',  // belauern:  
   //  'belegt',  // belegt:    complete with belegen?
     'Bengel',     // Bengel:  

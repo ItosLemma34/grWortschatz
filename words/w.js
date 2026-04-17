@@ -28,7 +28,8 @@ const w = [
    'werkeln', // werkeln: 
    'Wermutstropfen', // Wermutstropfen:
    'wettern',  // wettern: 
-   'Wichs',  // Wichs: 
+   'Wichs',  // Wichs:
+   'Wickel (am W. haben)',  // duplicated 
    'Wickelgamasche',  // Wickelgamasche: 
    'Widerhaken', // Widerhaken: 
    'wie am Schnürchen', // duplicated

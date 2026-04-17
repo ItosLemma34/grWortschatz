@@ -15,6 +15,7 @@ const g = [
    'Gedudel, dudeln',  // duplicated 
    'gedungener Mörder, dingen',  // duplicated
    'gefasst',  // gefasst: 
+   'Gefeilsche, feilschen',  // duplicated
    'Geflecht',  // Geflecht:
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig:
@@ -25,7 +26,7 @@ const g = [
    'Geheiß', // Geheiß:   
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'Geier',  //  Geier:
-   'geigen (die Meinung geigen)',
+   'geigen (Meinung geigen)', // duplicated
    'geifern, geifernd',  
    'geizen, geizig',
    'Gekicher, kichern',  // duplicated
@@ -37,6 +38,7 @@ const g = [
    'Geleit',  // Geleit:  
    'gelinde',   // gelinde:  
    'Gemächt',  // Gemächt: 
+   'Gemaule, maulen',  // duplicated
    'Gemetzel', // Gemetzel: 
    'Gemurmel',  // Gemurmel:  
    'gepfeffert, pfeffern', // duplicated  

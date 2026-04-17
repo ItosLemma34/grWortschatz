@@ -4,6 +4,7 @@ const f = [
    'fadenscheinig',  // fadenscheinig: 
    'Fahne (von der F. gehen)',  //  duplicated 
    'Fahnenabzug',  // Fahnenabzug: 
+   'Fähre, Anleger',  // duplicated
    'Fährte',  // Fährte:
    'Faible' ,  // Faible: 
    'Fall der Fälle, des Falles',    
@@ -17,7 +18,7 @@ const f = [
    'Feder',  //  Feder: 
    'fegen',  // fegen:  
    'feilbieten',  // feilbieten:  
-   'feilschen',  // feilschen:  
+   'feilschen, Gefeilsche',  // duplicated  
    'fesch',  // fesch: 
    'festfressen',  // festfressen: 
    'festzurren, zurren', //  duplicated  

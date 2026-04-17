@@ -13,6 +13,7 @@ const b = [
     'bäuchlings', // bäuchlings: 
     'bauschen, auf-',  
     'beackern',  // beackern:
+    'beanstanden',  // beanstanden:
     'beäugen',  // beäugen:  
     'bedröppelt',  // bedröppelt:
     'befehligen',  // befehligen: 
@@ -51,7 +52,7 @@ const b = [
     'Besteck',    // Besteck: 
     'besudeln',  // besudeln:    
     'Beteuerung', // Beteuerung   
-//    'betreten',   // betreten:  consider what to do with "beteten"
+    'betreten',   // betreten:  
     'Bettfeder',  // Bettfeder:
     'Beule, beulen, ver-, zer-',    
     'bibbern',    // bibbern: 

@@ -14,9 +14,11 @@ const m = [
    'maßschneidern, maßgeschneidert',  
    'Matsch',  // Matsch: 
    'mau', // mau: 
+   'maulen, Gemaule', // duplicated
    'Maulwurf',  // Maulwurf: 
    'Max (den dicken Max markieren)', // duplicated
    'meckern',  // meckern:
+   'Meinung geigen',  // duplicated
    'meißeln, Meißel',  
    'Melone',  // Melone: 
    'Memme',  // Memme:

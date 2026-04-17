@@ -24,7 +24,7 @@ const v = [
    'vergaloppieren', // vergaloppieren:  
    'vergeigen', //  vergeigen: 
    'vergewissern', //  vergewissern:  
-   'ver­grau­len, Vergraulung', // 
+   'ver­grau­len, Vergraulung',  
    'vergreifen', // vergreifen:
    'verhageln' ,  // verhageln:  
    'verhaken',  // verhaken:  

@@ -59,7 +59,8 @@ const h = [
    'hineinreiten, reinreiten',  // duplicated 
    'hinhalten, Knochen/Kopf hinhalten', // duplicated 
    'hinterlistig',  // hinterlistig: 
-   'hinters Licht führen',  
+   'hinters Licht führen', 
+   'Hippe',  // Hippe: 
    'hobeln', // hobeln: 
    'hochgestochen', // hochgestochen: 
    'hochrappeln, aufrappeln',  // duplicated 

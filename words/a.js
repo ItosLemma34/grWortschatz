@@ -44,6 +44,7 @@ const a = [
 	'alle naselang',  
 	'Allerwerteste',   // Allerwerteste:  
 	'alteingesessen',  // alteingesessen: 
+	'am Wickel haben',  // duplicated
 	'an den Pranger',  
 	'an der Backe haben',  
 	'an die große Glocke hängen',   
@@ -62,6 +63,7 @@ const a = [
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln: 
 	'Anhöhe',  // Anhöhe:
+	'Anleger, Fähre', // duplicated
 	'anleinen',     // anleinen: 
 	'anmotzen',  // anmotzen:
 	'anpeilen',  // anpeilen:   
@@ -77,6 +79,7 @@ const a = [
 	'anschwärzen',  // anschwärzen:  
 	'ansengen',     // ansengen:  
 	'Ansinnen' ,    // Ansinnen:  
+	'Anstand',     // Anstand:
 	'anstandslos',  // anstandslos:  
 	'anstupsen',    // anstupsen: 
 	'antanzen',     // antanzen:   

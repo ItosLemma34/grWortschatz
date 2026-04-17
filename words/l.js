@@ -17,6 +17,7 @@ const l = [
    'lasten',  // lasten: 
    'Laster',  // Laster:  
    'Lastkahn', // Lastkahn:   pair with Kahn:, if found
+   'latschen',  // latschen:
    'Laub, Laube, Lauben-', 
    'lauern',  // lauern:  
    'Lauf',    // Lauf: 

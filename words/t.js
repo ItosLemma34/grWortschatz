@@ -6,9 +6,11 @@ const t = [
    'tätscheln', // tätscheln: 
    'tattern, Tattergreis',  
    'taxieren' , // taxieren: 
-   'Teufel, (in drei T. Namen)', //  duplicated 
+   'Teufel (in drei T. Namen)', //  duplicated 
+   'Teufel scheren',
    'Teufel tun',  //  
-   'Theke',  // Theke:  
+   'Theke',  // Theke: 
+   'titschen',  // titschen: 
    'toben' , // toben:
    'todgeweiht, weihen, ein-', // duplicated
    'tollen', // tollen: 

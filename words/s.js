@@ -88,9 +88,9 @@ const s = [
    'schmählich',  // schmählich: 
    'schmatzen',  // schmatzen:
    'schmettern', // schmettern: 
-   'schmiegen', // 
-   'Schmiere stehen', // 
-   'Schmiererei, schmieren, schmierig', // 
+   'schmiegen',  // schmiegen:
+   'Schmiere stehen',  
+   'Schmiererei, schmieren, schmierig',  
    'Schmierfink', // Schmierfink: 
    'Schminke', // Schminke:  
    'schmissig', // schmissig: 
@@ -204,7 +204,7 @@ const s = [
    'sperrig',  // sperrig:       
    'spicken',  // spicken:  
    'Spieß, spießen, aufspießen',  //  duplicated
-   'spießig, Spießigkeit',
+   'spießig, Spießigkeit, Spießer',
    'Spind',  // Spind:
    'Splint',  // Splint:
    'spinnert',  // spinnert:
@@ -226,7 +226,6 @@ const s = [
    'staksen',  // staksen: 
    'stämmig',  // stämmig:
    'Ständchen',  // Ständchen:
-   'Standesdünkel, Dünkel', 
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
    'Stapel, stapeln, stapelweise',  

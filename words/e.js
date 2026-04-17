@@ -51,6 +51,7 @@ const e = [
    'eintrudeln',  // eintrudeln:  
    'eintüten',    // eintüten: 
    'einverleiben', // einverleiben: 
+   'einweisen',  // einweisen:
    'eitern',  // eitern:
    'ekeln an-, hinaus-; Ekel, eklig, ekelhaft',  
    'Empore',     // Empore:  

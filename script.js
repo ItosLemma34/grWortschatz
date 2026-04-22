@@ -28,18 +28,24 @@ class DropDown {
 
 		this.input.addEventListener('keydown', (e) => {
 			if (e.keyCode === EnterKey) {
-				displaySelectedWord(dropdown.value);
+				this.displaySelectedWord(dropdown.value);
 				this.resetInputText();
 			}
 		});
 
 		this.dropdown.addEventListener('change', () => {
-			displaySelectedWord(dropdown.value);
+			this.displaySelectedWord(dropdown.value);
 		});
 
 		this.dropdown.addEventListener('click', () => {
 			this.resetInputText();
-			displaySelectedWord(dropdown.value);
+			this.displaySelectedWord(dropdown.value);
+		});
+
+		this.dropdown.addEventListener('keydown', (e) => {
+			if (e.keyCode === EnterKey) {
+				displayExamples(dropdown.value);
+			}
 		});
 
 		this.dropdown.addEventListener('scroll', (e) => {
@@ -50,6 +56,21 @@ class DropDown {
 				this.resetInputText();
 			}
 		});
+	}
+
+	displaySelectedWord(word) {
+		const mainContainer = document.getElementById('main-container');
+		mainContainer.innerHTML = `<div class="selected-word">${word}</div>`;
+
+		// Always create and append "Show Examples" button
+		const showExamplesButton = document.createElement('button');
+		showExamplesButton.id = 'showExamplesButton';
+		showExamplesButton.textContent = 'Bedeutung und Beispiele';
+		mainContainer.appendChild(showExamplesButton);
+
+		showExamplesButton.addEventListener('click', () => displayExamples(word));
+
+		this.dropdown.focus();
 	}
 
 	reset() {
@@ -66,7 +87,7 @@ class DropDown {
 	sessionWordSelect(sessionWord) {
 		this.lastAutoScroll = new Date();
 		this.dropdown.value = sessionWord;
-		displaySelectedWord(sessionWord);
+		this.displaySelectedWord(sessionWord);
 	}
 
 	randomSelect() {
@@ -75,7 +96,7 @@ class DropDown {
 		this.reset();
 		const randomWord = allWords[Math.floor(Math.random() * allWords.length)];
 		wordDropdown.value = randomWord;
-		displaySelectedWord(randomWord);
+		this.displaySelectedWord(randomWord);
 	}
 
 	handleTextInput(e) {
@@ -159,17 +180,4 @@ function displayExamples(word) {
 		exampleElement.classList.add('main-container-item');
 		mainContainer.appendChild(exampleElement);
 	});
-}
-
-function displaySelectedWord(word) {
-	const mainContainer = document.getElementById('main-container');
-	mainContainer.innerHTML = `<div class="selected-word">${word}</div>`;
-
-	// Always create and append "Show Examples" button
-	const showExamplesButton = document.createElement('button');
-	showExamplesButton.id = 'showExamplesButton';
-	showExamplesButton.textContent = 'Bedeutung und Beispiele';
-	mainContainer.appendChild(showExamplesButton);
-
-	showExamplesButton.addEventListener('click', () => displayExamples(word));
 }

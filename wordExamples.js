@@ -1,10 +1,17 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
 //maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
+//lau Der stumme Tod 478
 // needs more work:
 // not finished:  finish later: 
 //recommence here:
 // put in anraunzen  Marlow 37, part of maulen
+
+//	'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
+//  knackig  Lunapark 37
+//Unrat
+//	'Als Rath unter vor der Hoteltür wieder auf der Straß stand, trat er gegen einen der Papierkörbe, die die Linden, Berlins alte Prachtstraße, von Unrat freihalten sollten. Der Korb <b>riss</b> aus seiner Verankerung, sein Inhalt verteilte sich auf dem Pflaster. (<i>Märzgefallene</i>, 482-83)',
+
 /*  
 zzz: [  
 	'<b>zzz</b>: '+
@@ -28,28 +35,35 @@ zzz: [
 
 //recommence here:   
 //reißen  ausreißen  abreißen losreißen  zusammenreißen  reißt  riss  gerissen  ausgerissen  abgerissen losgerissen zusammengerissen losreißen
-'reißen, ab-, aus-, los-, zer-, zusammen-': [ 
+'reißen, ab-, aus-, ein-, los-, zer-, zusammen-': [ 
 	'<b>reißen</b>: tear, pull'+
+	'<b>gerissen</b>: <i>adj</i>: shrewd, cunning, crafty, clever'+
 	'<br><b>an etwas reißen</b>: pull, strain at sth., trying to break/damage it'+
 	'<br><b>sich um etwas reißen</b>: be eager to do/have sth.'+
 	'<br><b>abreißen</b>: sever; rip, tear, pull; dismantle'+
+	'<br><b>abgerissen</b>: ragged, down-and-out, tattered; broken, disrupted'+
 	'<br><b>ausreißen</b>: run away; root/pull sth. out, eradicate'+
+	'<br><b>einreißen</b>: demolish, tear down'+
 	'<br><b>losreißen</b>: tear off, break free/loose from'+
 	'<br><b>zerreißen</b>: tear, rend, rip apart'+
-	'<br><b>sich die Mäuler zerreißen</b>: badmouth/disparage so.; trash so./sth.'+
+	'<br><b>sich die Mäuler (das Maul) zerreißen</b>: badmouth/disparage so.; trash so./sth.'+
 	'<br><b>sich zusammenreißen</b>: pull yourself together'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/reiszen"target="target1">reißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abrei%C3%9Fen"target="target2">abreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausrei%C3%9Fen"target="target3">ausreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/losrei%C3%9Fen"target="target4">losreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerrei%C3%9Fen"target="target5">zerreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zusammenreiszen"target="target6">zusammenreißen</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/reissen#rei%C3%9Fen"target="target7">reißen</a>'+
-		'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abreissen#abrei%C3%9Fen"target="target8">abreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreissen"target="target9">ausreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/losreissen"target="target10">losreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zerreissen"target="target11">zerreißen</a>'+
-		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zusammenrei%C3%9Fen&id=verb%3Azusammenreis5en"target="target12">zusammenreißen</a>',
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gerissen"target="target2">gerissen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abrei%C3%9Fen"target="target3">abreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausrei%C3%9Fen"target="target4">ausreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einrei%C3%9Fen"target="target5">einreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/losrei%C3%9Fen"target="target6">losreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerrei%C3%9Fen"target="target7">zerreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zusammenreiszen"target="target8">zusammenreißen</a>'+
+		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/reissen#rei%C3%9Fen"target="target9">reißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=gerissen&id=adjektiv%3Agerissen%23gerissen"target="target10">gerissen</a>'+
+			'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abreissen#abrei%C3%9Fen"target="target11">abreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreissen"target="target12">ausreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einreissen#einrei%C3%9Fen"target="target13">einreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/losreissen"target="target14">losreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zerreissen"target="target15">zerreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zusammenrei%C3%9Fen&id=verb%3Azusammenreis5en"target="target16">zusammenreißen</a>',
 	'<u>Der nasse Fisch</u>',
 	'In der Dunkelheit geriet jedes kleinste Geräusch zu einem Höllenlärm, jedes Flüstern wuchs zu einem Brüllen heran, die Stille selbst lärmte in seinen Ohren. Ein immerwährendes Dröhnen und Rauschen. Der Schmerz machte ihn halb wahsinnig, er musste <b>sich zusammenreißen</b>. (<i>Der nasse Fisch</i>, 9)',
 	'Hatte sie (<i>Swetlana</i>) nicht dasselbe gewollt? Die Verbrecher verjagen, die dort die Macht an sich <b>gerissen</b> hatten. (<i>Der nasse Fisch</i>, 10)',
@@ -133,32 +147,80 @@ zzz: [
 	'Rath <b>riss</b> an dem roten Papier und förderte ein schlichtes metallenes Feuerzeug zutage. Und ein dazu passendes Zigarettenetui. (<i>Der stumme Tod</i>, 239)',
 	'Erst das Telefon <b>riss</b> ihn aus seinen Gedanken. "Rath, Kriminalpolizei." "Hier ebenfalls." So meldete sich nur einer am Telefon. "Herzlichen Glückwunsch, mein Junge", sagte Engelbert Rath. (<i>Der stumme Tod</i>, 251)',
 	// pg 270 315/16 332 358 373 466
-	// ß           ß    sich die Mäuler zerreißen            ß                 ß                   ß                   ß               ß                                 ß                                          ß                               ß                                                   ß                                                            ß                                             ß
-// continue:
+	// ß           ß    sich die Mäuler zerreißen           ß                 ß                   ß                   ß               ß                                 ß                                          ß                               ß                                                   ß                                                            ß                                             ß
 	'<u>Märzgefallene</u>',
-	'<i>Rath</i>: "Tun Sie mir noch einen Gefallen: Bringen Sie den Kram in mein Auto. Steht da drüben."  Der Schupo sah nicht so aus, als <b>risse er sich um</b> die Aufgabe, aber er gehorchte. (<i>Märzgefallene</i>, 95)',
+	'Kein Polizist <b>riss sich</b> darum, den Tod eines ungewaschenen Obdachlosen zu bearbeiten, auch nicht die Kollgen vom 174. Revier. (<i>Märzgefallene</i>, 10)',
+	'<i>Gereon zu Engelbert Rath</i>: ".. Und glaubst du im Ernst, auf dem Rathausbalkon würden andere Köpfe zu sehen sein, wenn wir keine Demokratie hätten?" "Jedenfalls nicht der von Konrad Adenauer. Du hast gehört, wie die Nazis über ihn reden." "Ach, die <b>reißen</b> nur ihr Maul <b>auf</b>, das kennt man doch. Nach der Wahl sind die so klein mit Hut. Und du und deine Parteifreunde, ihr seid wieder obenauf." (<i>Märzgefallene</i>, 39)',
+	'Es waren wirre Träume, aus denen er (<i>Rath</i>) <b>gerissen</b> wurde, und als er die Augen aufschlug, wusste er im ersten Moment nicht, ob er wirklich wach war, denn er blickte auf ein Paar riesige schwarze Ohren. (<i>Märzgefallene</i>, 70)',
+	'Am liebsten hätte er (<i>Rath</i>) die Gelegenheit genutzt und sich nun selbst durch die Hintertür verdrückt, doch er <b>riss sich zusammen</b> und kehrte zurück. (<i>Märzgefallene</i>, 75)',
+	'Die Tür hing schief in den Angeln, sie war regelrecht zertrümmert, das Glas des kleinen Sichtfensters herausgesplittert, der Riegel hatte die Türzarge aus ihrer Verankerung <b>gerissen</b>. Es sah aus, als sei hier ein wütender Gorilla am Werk gewesen, nicht aber ein sechzehnjähriges Mädchen. (<i>Märzgefallene</i>, 80)',
+	'Weiter kam sie (<i>Charly</i>) nicht. Die Wieking war schon am Schreibtisch und <b>riss</b> ihr das Telefon aus der Hand. (<i>Märzgefallene</i>, 90)',
+	'"Gut, dann wissen Sie ja, was Sie zu tun haben", sagte die Kriminalrätin. In der Tür drehte sie sich noch einmal um, <b>riss</b> den rechten Arm hoch und ließ ein zackiges "Heil Hitler!" hören. Dann verließ Friederike Wieking das Büro, ohne eine Antwort abzuwarten. (<i>Märzgefallene</i>, 92)',
+	'Nun konnte er (<i>Rath</i>) das missmutige Gesicht des Schupos verstehen. Er musste <b>sich zusammenreißen</b>, damit ihm die eigenen Gesichtszüge nicht verrutschten. Deswegen hatte er seinen Karnevalsurlaub abbrechen und nach Berlin zurückkehren müssen? Für so eine – im wahrsten Sinne des Wortes – Scheißarbeit? (<i>Märzgefallene</i>, 93)',
+	'<i>Rath</i>: "Tun Sie mir noch einen Gefallen: Bringen Sie den Kram in mein Auto. Steht da drüben."  Der Schupo sah nicht so aus, als <b>risse</b> er <b>sich</b> um die Aufgabe, aber er gehorchte. (<i>Märzgefallene</i>, 95)',
+	'Er (<i>Rath</i>)...spürte erst jetzt, dass er heute aufs Mittagessen verzichtet hatte. Der Hund schien noch hungriger zu sein, so stark <b>riss</b> er an der Leine, und zog sein Herrchen schnuppernd bis zur Wohnungstür. (<i>Märzgefallene</i>, 101)',
+	'Vielleicht roch sie (<i>Kirie</i>) auch nur ein Stück Leberwurst, jedenfalls <b>riss</b> sie <b>sich los</b> und verschwand durch den Türspalt in der Wohnung. (<i>Märzgefallene</i>, 116)',
+	'Bei Jonass was das anders, hier konnte man auf Pump kaufen, und so fanden deutlich mehr <b>abgerissene</b> Gestalten ihren Weg ans Prenzlauer Tor als in andere Kaufhäuser. (<i>Märzgefallene</i>, 152)',
+	'Und als sie (<i>Hannah</i>) noch darüber nachdachte, warum der Nachtwächter im Halbdunkeln da draußen rumschlich und nicht einmal eine Taschenlampe einschaltete, öffnete sich der Deckel über ihr. Hannahs Herz blieb stehen, sie war starr vor Angst. Sie schielte nach oben und erkannte, dass es ihrem Entdecker ebenso erging. Ein Junge stand dort, elf, vielleicht zwölf Jahre alt, noch <b>abgerissener</b> gekleidet als sie selbst, der sie mit großen, ängstlichen Augen anstarrte. (<i>Märzgefallene</i>, 155)',
+	'<i>aus Roddecks Manuskript</i>: Ich sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne Murren meine Befehle. Sie <b>reißen</b> die Ziegelwand komplett <b>ein</b> und haben gerade begonnen, die Goldbarren aus der Geheimkammer nach vorne zu holen, als auf der Kellertreppe Schritte zu hören sind. (<i>Märzgefallene</i>, 162)',
+	'Irgendetwas rüttelte an ihr (<i>Hannah</i>) und <b>riss</b> sie aus dem Schlaf. (<i>Märzgefallene</i>, 171)',
+	'Und nach einer solchen Vernehmung ging Karin van Almsick in die Teepause, als sei nichts geschehen, schnatterte in einem fort von ihrem neuesten Bewunderer, einem schneidigen SA-Hilfspolizisten, und schwärmte von den neuen Zeiten. Charly musste <b>sich zusammenreißen</b>, der Kollegin keine Teetasse an den Kopf zu werfen. (<i>Märzgefallene</i>, 187)',
+	'"Um zehn muss ich in der Burg sein", sagte er (<i>Gereon</i>). <i>Charly</i>: "Sie werden dir schon nicht den Kopf <b>abreißen</b>, wenn du etwas später erscheinst, nur weil du deinen Pflichten als Staatsbürger nachgekommen bist." (<i>Märzgefallene</i>, 198)',
+	'Rath steckte sich eine Overstolz zwischen die Lippen und bot auch Charly eine an. Sie lehnte ab. Er zuckte die Achseln und <b>riss</b> ein Zündholz <b>an</b>. Länger als eine Zigarettenlänge würden sie hoffentlich nicht mehr warten müssen. (<i>Märzgefallene</i>, 199)',
+	'Hannah musste <b>sich zusammenreißen</b>, um keine allzu hektishe Bewegung zu machen. (<i>Märzgefallene</i>, 254)',
+	'"Eine Unverschämtheit ist das", brüllte Kohn und <b>riss</b> die Tür <b>auf</b>. "Eine Unverschämtheit!" (<i>Märzgefallene</i>, 258)',
+	'<i>Kriminalkommissar Lehmann in Potsdam</i>: "Ich habe mir keinerlei Verletzung irgendwelcher Dienstvorschriften vorzuwerfen." <i>Rath</i>: "Das vielleicht nicht. Aber wie wäre es mit mangelnder Kooperationsbereitschaft?" Rath musste <b>sich</b> sehr <b>zusammenreißen</b>, um nicht aus der Haut zu fahren. (<i>Märzgefallene</i>, 266)',
+	'Sprengfallen. Das hörte sich aus dem Munde dieses Mannes so harmlos an, als ginge es um Knallfrösche (<i>grasshoppers</i>). Dabei hatten diese Fallen unzählige Engländer und Franzosen in den Tod <b>gerissen</b>.  (<i>Märzgefallene</i>, 274)',
+	'<i>Sprengmeister Grimberg</i>: "Wosniak hat sogar Meifert beschuldigt, sich das Gold selbst unter den Nagel <b>gerissen</b> zu haben." <i>Rath</i>: "Den Mathematiklehrer? So einen harmlosen Tropf?" "Damals war Minus Meiert immerhin Unteroffizier. Vielleicht nicht der mutigste, aber <b>gerissen</b> war er." (<i>Märzgefallene</i>, 276)',
+	'Eine Viertelstunde später wartete Charly im Bahnhof Alexanderplatz auf die S-Bahn, einen schwarzen Hund an der Leine, einen Stapel Akten unter dem Arm und ein zufriedenes Lächeln im Gesicht. Sie hatte <b>sich</b> ernsthaft <b>zusammenreißen</b> müssen, als die Kollegin mit ihren Mutmaßungen losgelegt hatte. Schwanger! Wenn Karin van Almsick wüsste, mit welchen Methoden sie so alles verhütete! (<i>Märzgefallene</i>, 291)',
+	'Rath rief den Ober und zahlte. Die Rechnung <b>riss</b> große Löcher in seine Reisekasse, dennoch gab er dem Mann ein ordentliches Trinkgeld. (<i>Märzgefallene</i>, 300)',
+	'Er (<i>Rath</i>) legte ein Zweimarkstück auf den Tisch, mehr als genug für die Rechnung, <b>riss</b> Hut und Mantel von der Garderobe und verschwand. (<i>Märzgefallene</i>, 305)',
+	'Rath <b>riss</b> das Kuvert <b>auf</b>. (<i>Märzgefallene</i>, 310)',
+	'Rath <b>riss</b> der Geduldsfaden, er packte Schürmann am Kragen seines grauen Kittels. "Hör mir mal gut zu, Ede. Ich weiß, dass du das Geld eingesackt hast..." (<i>Märzgefallene</i>, 317)',
+	'Die Kaschemme in der Flughafenstraße, die sie (<i>Hannah</i>) an diesem Morgan besuchte, war eine, in der sie sich waschen konnte, allerdings hing das Waschbecken draußen auf dem Hof, man musste <b>sich/<b> schon gehörig <b>zusammenreißen</b>, um nicht laut aufzuschreien bei jeder Berührung des kalten Wassers mit der Haut. (<i>Märzgefallene</i>, 320)',
+	'Er (<i>Gereon</i>) hob beschwichtigend die Hände. "Schon gut, Charly, du hast recht. Die meisten Invaliden sind <b>abgerissene</b> Gestalten, die Leute wie uns anbetteln, dazu müssen wir nicht da rübergehen. Aber auch wenn gutgekleidete Kriegsinvaliden eher selten sind, kann das genausogut ein Zufall sein." "Du weißt genau, dass das keiner ist: Der Mann, der Hannah Singer erkannt hat, und der, der im Zug nach Magdeburg war, der höchstwahrscheinlich Hermann Wibeau ermordet hat, das war ein und derselbe." (<i>Märzgefallene</i>, 349-350)',
+	'(<i>Charly zu Fritze</i>): "...du sagst mir nicht einmal deinen Namen! Du sagst mir gar nichts!"... Er guckte empört. "Ick hab meinen Namen doch jesaacht." "Du heißt also wirklich Erwin?" "Aber sicher! Wenn ick det saare!" Charly musste <b>sich zusammenreißen</b>, um nicht zu grinsen. War doch nicht mit allen Wassern gewaschen, der Kleine. (<i>Märzgefallene</i>, 355)',
+	'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die Hacken zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. Und kam sich schon draußen auf dem Gang vor wie ein Idiot. Aber immerhin hatte er <b>sich<b> nicht dazu <b>hinreißen</b> lassen, den rechten Arm in die Höhe zu <b>reißen</b>, dann hätte er sich nicht nur wie ein Idiot gefühlt, sondern wie ein Verräter. (<i>Märzgefallene</i>, 359)',
+	'Er (<i>Gereon</i>) schaute sie (<i>Charly</i>) an, angriffslustig, als wolle er gleich wieder streiten. "Sie (<i>Hannah</i>) drohte zu verbluten, verdammt, Charly, wo hättest du sie hingeschickt, zu deinem Ärztefreund? Eine Brandstifterin, eine <b>ausgerissene</b> Irre, eine mehrfache Mörderin?" (<i>Märzgefallene</i>, 408)',
 	'Die Stimme von Dagmar Kling <b>riss</b> ihn (<i>Rath</i>) aus seinen Gedanken. "Der Herr Polizeipräsident kann Sie jetzt empfangen." Er stand auf und betrat Levetzows Büro. (<i>Märzgefallene</i>, 419)',
+	'"Ist das nicht ein bisschen übertrieben", sagte Gereon. <i>Charly</i>: "Was?" "Sich wegen so etwas umzubringen. Ich meine, wer nimmt das denn ernst? Die Nazis <b>reißen</b> mal wieder das Maul <b>auf</b>. Meinst du im Ernst, die Berliner lassen sich vorschreiben, wo sie einzukaufen haben?" (<i>Märzgefallene</i>, 424-25)',
+	'"Fritze, das ist Fräulein van Almsick, meine Kollegin", sagte Charly... "Einfach nur Almsick", sagte Karin... "Ohne <i>van</i>."... "Friedrich von Thormann", sagte er (<i>Fritze</i>) und zwinkerte. "Aber ohne <i>von</i>." Karin guckte pikiert, Charly musste <b>sich zusammenreißen</b>, um nicht laut loszulachen. Sie hoffte, dass Fritze den Zaunpfahlwink mit der Kollegin mitbekommen hatte und sich nicht verplapperte. (<i>Märzgefallene</i>, 448)',
+	'<i>Rath zu Eva Heinen</i>: "Glauben Sie mir, ich interessiere mich nicht dafür, wer sich das Gold unter den Nagel <b>gerissen</b> hat, ich interessiere mich nur für den Grund den ein Kriegsveteran gehabt haben könnte, drei ehemalige Kameraden lange nach dem Krieg zu töten." (<i>Märzgefallene</i>, 455)',
+	'Als Rath unter vor der Hoteltür wieder auf der Straß stand, trat er gegen einen der Papierkörbe, die die Linden, Berlins alte Prachtstraße, von Unrat freihalten sollten. Der Korb <b>riss</b> aus seiner Verankerung, sein Inhalt verteilte sich auf dem Pflaster. (<i>Märzgefallene</i>, 482-83)',
+	'<i>Charly macht sich Sorgen um Fritze</i>: <i>Willst du dein ganzes Leben auf der Straße verbringen? Ich <b>reiß</b> mir hier den Arsch <b>auf</b>, damit du ein anständiges Leben bekommst, und du hältst es nicht einmal für nötig, dich ein bisschen dafür anzustrengen!</i> (<i>Märzgefallene</i>, 483-84)',
+	'Bis zur Mühlendammschleuse hatte es Heinrich Wosniak nicht geschafft; seine sterblichen Überreste waren von der Strömung der Spree nur bis kurz hinter die Schillingbrücke geschwemmt worden, wo einem aufmerksame Mitarbeiger der Volksbadeanstalt die weiße Gestalt.. aufgefallen war. Als der Bademeister und ein Kollege des selsamen Bündels mit langen Stöcken habhaft zu werden versuchten, <b>riss</b> der Stoff, die Leiche kam frei und trieb nach oben. (<i>Märzgefallene</i>, 494-95)',
+	'Erika Voss <b>riss</b> ihn (<i>Rath</i>) aus seinen Gedanken. Die Sekretärin klopfte an die Tür, obwohl er darum gebeten hatte, nicht gestört zu werden. (<i>Märzgefallene</i>, 512)',
+	'Heute Morgen hätte Rath noch einmal etwas sagen können zu dem Fall, hätte irgendeinen Zweifel in den Raum werfen können, um Gräf und Steinke aus ihrer Selbstzufriedenheit zu <b>reißen</b>. Aber er hatte nicht. (<i>Märzgefallene</i>, 535)',
+	'"Und die Zinsen?, brummte er (<i>Rath</i>). "Die Sache ist ja nun schon Monate her." Ede <b>riss</b> die Augen <b>auf</b>. "Herr Kommessar, et is doch och esu schonn vill Jeld!" "Schon gut. Anständig von dir, dass du hergekommen bist." (<i>Märzgefallene</i>, 543)',
+	'Erst sah Grimberg nur den Blitz,.. und spürte im nächsten Augenblick, wie es ihn von den Beinen und nach hinten <b>riss</b>, und hörte den ohrenbetäubenden Knall.., lauter als jede der zigtausend Explosionen, die er selbst in all den Jahren ausgelöst hatte... (<i>Märzgefallene</i>, 572)',
+	'"Haben Sie etwa gedacht, Sie wären mich losgeworden?" Rath <b>riss</b> Roddeck hoch und schubste ihn zurück in den stillgelegten Tunnelarm. (<i>Märzgefallene</i>, 577)',
+
+//finished with Märzgefallene  CONTINUE:
+//reißen  ausreißen  abreißen losreißen  zusammenreißen  reißt  riss  gerissen  ausgerissen  abgerissen losgerissen zusammengerissen losreißen
+
+//	'<u>Lunapark</u>',
+// 	'        (<i>Lunapark</i>, 000)',
+	
+	
 	'<u>Marlow</u>',
 	'Ja, sie (<i>Charly</i>) hatte Liangs Umschlag schließlich doch geöffnet. Weil sie sich gedacht hatte: Wieso nicht?... Vielleicth hatte sie sich auch einfach nur gelangweilt und das Kuvert deshalb <b>aufgerissen</b>. (<i>Marlow</i>, 250)',
 	'Kuen-Yao (<i>Liang</i>) war der einzige Mensch auf dieser Welt der ihm am Herzen lag.., und deshalbe würde Marlow, trotzt der rassistischen Bemerkungen, die in den Kreisen, in denen er neuerdings verkehrte, bei jeder Gelegenheit über seinen chinesischen Chauffeur und Assistenten fallengelassen wurde, immer an ihm festhalten, ganz gleich wie sehr die Meute <b>sich die Mäuler zerriss</b>... Kuen-Yao jedoch schienen sie auf diese Weise zu vergraulen, längst vergrault zu haben, und diese Erkenntnis <b>zerriss</b> ihm das Herz. (<i>Marlow</i>, 410)',
 	'Fritze war sich nicht sicher, was die Wochen der Abwesenheit für seine und Atzes Freundschaft bedeuteten, aber er hatte das Gefühl, dass der Junge, den er in Berlin wiedergetroffen hatte, ein anderer war als der, den er vor der Abreise gekannt hatte. Solange Herr Rademann dabei war, ging es, da <b>riss</b> Atze <b>sich zusammen</b>, aber in der letzten Woche hatten sie sich außerhalb der Schule kein einziges Mal getroffen... (<i>Marlow</i>, 421)',
 ],
-// complete:
 lau: [  
 	'<b>lau</b>: tepid, mild, lukewarm'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">lau</a>&nbsp;&nbsp;<a href=""target="target2">lau</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">lau</a>&nbsp;&nbsp;<a href=""target="target4">lau</a>',
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lau_mild"target="target1">lau</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lau"target="target2">lau</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lau"target="target3">lau</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lau"target="target4">lau</a>',
 	'<u>Der nasse Fisch</u>',   
-	'   (<i>Der nasse Fisch</i>, 000)',
-	'<u>Der stumme Tod</u>',
-	'   (<i>Der stumme Tod</i>, 000)',	
-	'<u>Märzgefallene</u>',    
-	'   (<i>Märzgefallene</i>, 000)',
+	'Da war sie, die große Chance für Kriminalkommissar Gereon Rath! Zörgiebel selbst wollte ihn in die Inspektion A hieven! Nach einer kleinen Anschubhilfe durch Engelbert Rath. "Bislang hat mir hier niemand gesagt, dass ich überhaupt in die Mordinspektion komme", sagte er (<i>Gereon</i>). "Geschweige den, was ich dort Tolles leisten soll." Ein <b>lauer</b> Protest. Er ärgerte sich über sich selbst. (<i>Der nasse Fisch</i>, 239)',
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 478)',	
 	'<u>Lunapark</u>',   
-	'   (<i>Lunapark</i>, 000)',	
+	'"Ich hab nicht viel." Charly bemerkte, dass sie ein schlechtes Gewissen hatte. Alex hatte sicher mehr von ihr erhofft als solch eine <b>laue</b> Auskunft. "Nur die Adresse von einem Mann, der etwas wissen könnte, aber der sitzt in Stapohaft." (<i>Lunapark</i>, 217)',	
 	'<u>Marlow</u>',  
 	'"Habt ihr schon gehört? Die Reichsautobahn soll nicht mehr weitergebaut werden", erzälte er (<i>Atze</i>). "Lohnt sich nicht: Die deutsche Jugend latscht ja eh überall zu Fuß hin." Ein <b>lauer</b> Witz, doch die anderen Jungen lachten. Alle außer Fritze, Kopper und Neumann. (<i>Marlow</i>, 421)',
 ],
+	// ß           ß    sich die Mäuler zerreißen           ß                 ß                   ß                   ß               ß                                 ß                                          ß                               ß                                                   ß                                                            ß                                             ß
 Anstand: [  
 	'der <b>Anstand</b>: decency, respectability, honesty'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anstand"target="target1">Anstand</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anstand#1"target="target2">Anstand</a>'+
@@ -331,10 +393,15 @@ betreten: [
 ],
 
 // include fraßen!
-Fraß: [  // fraßen
+Fraß: [  // fraßen  zum Fraß vorwerfen
 	'<der <b>Fraß</b>,-<b>e</b>: muck, grub, slop, swill'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Frasz"target="target1">Fraß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fra%C3%9F"target="target2">Fraß</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/frass#Fra%C3%9F"target="target3">Fraß</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fra%C3%9F&id=substantiv%3AFras5"target="target4">Fraß</a>',
+	'<jmdn. <b>zum Fraß vorwerfen</b>: throw so. to the lions, under the bus'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Frasz"target="target1">Fraß</a>',
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fra%C3%9F"target="target2">Fraß</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20etw.%2C%20jmdn.%20zum%20Fra%C3%9F%20vorwerfen"target="target3">zum Fraß vorwerfen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/frass#Fra%C3%9F"target="target4">Fraß</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fra%C3%9F&id=substantiv%3AFras5"target="target5">Fraß</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dict.cc/?s=zum+fra%C3%9F+vorwerfen"target="target6>zum Fraß vorwerfen</a>',
 	'<u>Der stumme Tod</u>',
 	'   (<i>Der stumme Tod</i>, 000)',	
 	'<u>Märzgefallene</u>',    
@@ -342,7 +409,7 @@ Fraß: [  // fraßen
 	'<u>Lunapark</u>',   
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
-	'"Marlow versorgt Göring mit Morphium.".. Charly senkte ihre Stimme. "Jedenfalls hat er das vor einem Jahr noch getan. Und Göring hat ihm dafür Hermann Lapke zum <b>Fraß</b> vorgeworfen. Scheint eine richtige Männerfreundschaft zu sein, mit Geben und Nehmen." (<i>Marlow</i>, 405)',
+	'"Marlow versorgt Göring mit Morphium.".. Charly senkte ihre Stimme. "Jedenfalls hat er das vor einem Jahr noch getan. Und Göring hat ihm dafür Hermann Lapke <b>zum Fraß vorgeworfen</b>. Scheint eine richtige Männerfreundschaft zu sein, mit Geben und Nehmen." (<i>Marlow</i>, 405)',
 ],
 titschen: [  
 	'<b>titschen</b>: dip in, dunk &nbsp;(= <i>eintauchen</i>)'+
@@ -866,6 +933,7 @@ Fährte: [
 	'<u>Marlow</u>',
 	'Trotz der vielen Fehlversuche, die er schon hinter sich hatte, wusste Rath in diesem Moment instinktiv, dass er auf der richtigen Fährte war. (<i>Marlow</i>, 285)',  
 	'Du musst gehen, hättest die Truppe längst verlassen sollen; die Situation ist ähnlich wie vor anderthalb Jahren, die Dinge sind in Auflösung begriffen, niemand hätte dir eine Träne nachgeweint, wärest du einfach in Berlin geblieben und hättest die Uniform ausgezogen, niemand sich auf deine <b>Fährte</b> gesetzt. (<i>Marlow</i>, 351)',
+	'"Marlow und Göring", sagte er (<i>Gereon</i>). "Kann man sich eigentlich nicht vorstellen, aber mein Gefühl sagt mir, dass ich auf der richtigen <b>Fährte</b> bin." <i>Charly</i>: "Bist du auch." Sie nickte. "Marlow versorgt Göring mit Morphium." (<i>Marlow</i>, 405)',
 ],
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -997,6 +1065,7 @@ dräuen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/draeuen#dr%C3%A4uen"target="target3">dräuen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=dr%C3%A4uen&id=verb%3Adra3uen"target="target4">dräuen</a>',
 	'<u>Marlow</u>',  
 	'.. überall im Blatt (<i>Der Stürmer</i>) herrschte das übelste Denunziantentum: <i>Judenknechte</i>, Menschen also, die nichts anderes getan hatten, als in einem jüdischen Geschäft einzukaufen, wurden mit vollem Namen genannt und an den Pranger gestellt... immer wieder die Namen jüdischer Männer, die vermeintlich Rassenschande mit arischen Mädels getrieben hatten... Und hinter allem <b>dräute</b> angeblich eine jüdische Weltverschwörung... (<i>Marlow</i>, 295)',
+	'Es war eine ganz normale Vernehmung. Rath saß auf einem unbequemen Stuhl, Sturmbannführer Sowa hinter dem Schreibtisch, und Scharführer Wegener lehnte mit verschränkten Armen an der Wand... Kein Bettgestell im Raum, und auch sonst nichts, was verdächtig oder unheil<b>dräuend</b> Der SD und die Gestapo kannten andere Methoden der Vernehmung... Ein nacktes Bettgestell, eine Lederpeitsche und viel Prügel spielten dabei eine große Rolle. (<i>Marlow</i>, 394)',
 ],
 'maßschneidern, maßgeschneidert': [  
 	'<b>maßschneidern</b>: tailor/custom make sth.'+
@@ -2362,11 +2431,16 @@ schwänzen: [
 	//	'<u>Marlow</u>',  
 	//	'   (<i>Marlow</i>, 000)',
 ],
-'Hacke, hacken': [
+'Hacke, hacken, Hacken ablaufen': [  
 	'die <b>Hacke</b>,-<b>n</b>: hoe, pickaxe; heel'+
 	'<br><b>hacken</b>: hack, chop, hoe'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target3">Hacke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target4">hacken</a>',
+	'<br><b>sich die Haken ablaufen</b>: run oneself ragged'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20die%20Hacken%20ablaufen?o=sich+die+Haken+ablaufen"target="target3">sich die Haken ablaufen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target4">Hacke</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target5">hacken</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+die+Haken+ablaufen"target="target6">sich die Haken ablaufen</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Du wolltest mich sprechen?", fragte Weinert. "Hast du endlich was für mich?" Rath zündete sich eine Zigarette an bevor er antwortete.. "Nicht das, was du denkst." "Natürlich. Eine Krähe <b>hackt</b> der anderen kein Auge aus." (<i>Der nasse Fisch</i>, 538)',
 	'<u>Märzgefallene</u>',
@@ -2375,7 +2449,7 @@ schwänzen: [
 	'Nun hatte er (<i>Rath</i>) Adenauers Werk - oder eigentlich das von Hunderten arbeitslosen Männern, die hier mit <b>Hacke</b> und Schaufel angerückt waren - mit einem halben Jahr Verspätung doch noch eingeweiht. (<i>Märzgefallene</i>, 297)',
 	'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
 	'<u>Lunapark</u>',
-	'"Kooperation", sagte Rath. "Wie die aussieht, das weiß ich aus den Zeiten, als die Staatspolizei noch Politische Polizei hieß: Wir machen die Drecksarbeit, laufen uns die <b>Hacken</b> ab, liefern euch brav zu. Und ihr schmückt euch am Ende mit den Lorbeeren." (<i>Lunapark</i>, 25)',
+	'"Kooperation", sagte Rath. "Wie die aussieht, das weiß ich aus den Zeiten, als die Staatspolizei noch Politische Polizei hieß: Wir machen die Drecksarbeit, <b>laufen uns die Hacken ab</b>, liefern euch brav zu. Und ihr schmückt euch am Ende mit den Lorbeeren." (<i>Lunapark</i>, 25)',
 	'Und dass Gräf nun ein Staatspolizist war, schien von Vorteil, wenn es galt, widerspenstige Zeugen ein wenig einzuschüchtern. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken</b> zusammenschlug. (<i>Lunapark</i>, 33)',
 	'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, knallte die <b>Hacken</b> zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
 	'<u>Marlow</u>',
@@ -12133,16 +12207,23 @@ faseln: [
 	'Noch war Deutschland schließlich eine Demokratie, da mochten die Nazis noch so viel von einer nationalen Erhebung <b>faseln</b>.  (<i>Märzgefallene</i> 14)',
 	'"Weiß ist nur entkommen", beendete sie (<i>Charly</i>) ihren Bericht, "weil die SA zu dämlich war, einen Posten vor den Dienstbotenaufgang zu stellen." Sie nickte zum Radio hinüber. "Unglaublich, dass der Funkstunde diese ungeheuerlichen Vorgänge nicht eine einzige Nachricht wert sind. <b>Faseln</b> stattdessen irgendwas von ruhigem Wahlverlauf." (<i>Märzgefallene</i>, 214)',
 ],
-Fass: [
+'Fass, Fass aufmachen': [
 	'das <b>Fass</b>, die <b>Fässer</b>: barrel, keg, cask'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fass"target="target1">Fass</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fass"target="target2">Fass</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fass"target="target3">Fass</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fass"target="target4">Fass</a>',
+	'<br><b>Fass aufmachen</b>: make a fuss about sb./sth.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fass"target="target1">Fass</a>'+
+		'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fass"target="target2">Fass</a>'+
+		'&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/1706-rtkl-redewendung-fass-aufmachen"target="target3">Fass aufmachen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fass"target="target4">Fass</a>'+
+		'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fass"target="target5">Fass</a>'+
+		'&nbsp;&nbsp;<a href="https://yourdailygerman.com/meaning/ein-fass-aufmachen/"target="target6">Fass aufmachen</a>',
 	'<u>Märzgefallene</u>',
 	'Auf dem Hof standen Lastwagen, die gerade beladen wurden, aber nicht mit Getränkekisten, sondern mit Metall<b>fässern</b>. (<i>Märzgefallene</i>, 302)',
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) war mit rund einem Dutzend Frauen in einem dunklen Raum untergebracht, in dem es auf eine penetrante Weise nach Blut roch, nach alten Kartoffeln und Urin. An der Wand stand ein Blech<b>fass</b>, in das sie ihre Notdurft verrichten konnten. Betten oder Pritschen gab es keine, nicht einmal Stroh. (<i>Lunapark</i>, 177)',
+	'<u>Marlow</u>',
+	'Der SD und die Gestapo kannten andere Methoden der Vernehmung... Ein nacktes Bettgestell, eine Lederpeitsche und viel Prügel spielten dabei eine große Rolle. Das wenigstene blieb ihm (<i>Rath</i>) erspart. Und so langsam ahnte er auch warum. Der SD konnte kein allzu großes <b>Fass aufmachen</b>. Sie konnten einen Kriminaloberkommissar nicht einfach so des Diebstahls bezichtigen, vor allem nicht des Diebstahls von Geheimakten, die offiziell eigentlich gar nicht existierten. (<i>Marlow</i>, 394-95)',
 ],
-//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 fegen: [
 	'<b>fegen</b>: sweep (up/away); mop; rip through sth.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fegen"target="target1">fegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/fegen"target="target2">fegen</a>'+
@@ -13760,9 +13841,10 @@ Häkchen: [
 	'Die Küchentür stand immer noch offen, er (<i>Rath</i>) konnte die Garderobe draußen im Flur sehen und stutzte. Nein, er irrte sich nicht: Da hing tatsächlich eine SA-Uniform am Kleider<b>haken</b>. (<i>Märzgefallene</i>, 117)',
 	'"Ich bin dann mal weg", sagte der blonde Herr Kötter und nahm die Uniform vom <b>Haken</b>. (<i>Märzgefallene</i>, 118)',
 	'Sie (<i>Böhms Sekretärin</i>) guckte Rath aus großen Augen an, und als der nur die Achseln zuckte, nahm sie ihren Mantel vom <b>Haken</b> und rannte aus dem Büro. (<i>Märzgefallene</i>, 126)',
-	'Rath hängte Hut und Mantel an den Garderoben<b>haken</b>.  (<i>Märzgefallene</i>, 147)',
+	'Rath hängte Hut und Mantel an den Garderoben<b>haken</b>. (<i>Märzgefallene</i>, 147)',
 	'<i>Charly</i>: "Wo willst du hin?" Er (<i>Gereon</i>) antwortete nicht, er griff Kirie ins Halsband und zog den Hund in den Flur, holte Hundeleine, Hut und Mantel vom Garderoben<b>haken</b> und knallte die Wohnungstür. (<i>Märzgefallene</i>, 178)',
 	'<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <b>Hacken</b> zusammen. (<i>Märzgefallene</i>, 232)',
+	'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
 	'<u>Lunapark</u>',
 	'<i>Gräf</i>: "Sie (<i>Bestmann, der Wirt</i>) müssen lediglich unsere Fragen beantworten.".. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken</b> zusammenschlug. (<i>Lunapark</i>, 33)',
 	'Und dann erschienen braune Uniformen im Türrahmen. Charly ließ ihren Blick über die Braunhemden schweifen, die nun in den Raum drängten.. Einer der SA-Leute, irgendein höheres Tier, stellte sich breitbeinig hin, die Daumen in den Hosenbund <b>gehakt</b> und brüllte quer durch den Raum: "Das ist eine Aushebung! Niemand rührt sich!" (<i>Lunapark</i>, 164)',
@@ -16795,7 +16877,19 @@ Ordner: [
 	'Er (<i>Rath</i>) holte die Fotoumschläge aus dem <b>Ordner</b> und kippte sie aus, legte alle Bilderstapel nebeneinander vor sich auf den Tisch und ging sie der Reihe nach durch, in beinahe fiebriger Hast und dennoch hochkonzentriert. (<i>Marlow</i>, 377-78)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-pumpen: [
+'pumpen, auf Pump kaufen': [
+	'<b>pumpen</b>: pump; borrow/lend'+
+	'<br><b>auf Pump kaufen</b>: buy on credit'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pumpen"target="target1">pumpen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pumpen"target="target2">pumpen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pumpen"target="target3">pumpen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pumpen"target="target4">pumpen</a>',
+	'<u><i>Märzgefallene</i></u>',
+	'Böhm stand auf und spürte, wie seine Knie für einen Moment weich wurden wie Gummi, doch dann meldete sich der Trotz und <b>pumpte</b> ihn auf mit neuer Kraft. (<i>Märzgefallene</i>, 143)',
+	'Bei Jonass was das anders, hier konnte man <b>auf Pump kaufen</b>, und so fanden deutlich mehr abgerissene Gestalten ihren Weg ans Prenzlauer Tor als in andere Kaufhäuser. (<i>Märzgefallene</i>, 152)',
+	'Er (<i>Grimberg</i>) verspürte kaum Schmerz, merkte nur, wie sehr er nach Luft rang. Merkte, dass kein Atemzug reichte, genügend Sauerstoff in seine Lungen zu <b>pumpen</b>. (<i>Märzgefallene</i>, 573)',
+	'<u>Lunapark</u>',
+	'Fritze strahlte. "Wenn ick \'ne Uniform habe, darf ick mit nach Tempelhof", sagte er. "Kostet ooch nich ville, kann man abstottern." <i>Charly</i>: "Wie? Die Uniform müssen wir auch noch bezahlen?".."Zahl ick ooch selber", sagte der Junge. "Ick hab \'n bissken wat jespart.. Und vielleicht könnt ihr mir ja ooch \'n bissken <b>pumpen</b>?" (<i>Lunapark</i>, 129)',
+],
+'auf Pump kaufen, pumpen': [
 	'<b>pumpen</b>: pump; borrow/lend'+
 	'<br><b>auf Pump kaufen</b>: buy on credit'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pumpen"target="target1">pumpen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pumpen"target="target2">pumpen</a>'+
@@ -20193,6 +20287,7 @@ Stange: [
 	'Kurt Daluege, ein geschniegelter Grünschnabel mit hoher Stirn und arrogant geschwungenen Lippen... saß hinter einem Schreibtisch, auf dem sich bergeweise Akten <b>stapelten</b>, und schrieb irgendetwas auf. (<i>Märzgefallene</i>, 141)',
 	'"Herr von Roddeck drückt sich schriftlich besser aus als mündlich", sagte der Verleger und griff in seine Aktentasche. Er zog einen schweren, flexiblen Papier<b>stapel</b> heraus, der mit einer Paketkordel zusammengehalten wurde. "Hier", sagte er und reichte Rath den <b>Stapel</b>, "die Druckfahnen von <i>Märzgefallene</i>. Lesen Sie den Roman, und Sie werden alles verstehen." (<i>Märzgefallene</i>, 146)',
 	'<i>Rath</i>: "Hatte Gräf Erfolg?" <i>Voss</i>: "Nichts. Keine Spur von unserem Toten." Erika Voss konnte ihre Neugier nicht länger zügeln. "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch, das allein schon deshalb wie ein Fremdkörper wirkte, weil es ungleich dicker war als jeder andere Papier<b>stapel</b>, der dort lag. (<i>Märzgefallene</i>, 147)',
+	'Eine Viertelstunde später wartete Charly im Bahnhof Alexanderplatz auf die S-Bahn, einen schwarzen Hund an der Leine, einen <b>Stapel</b> Akten unter dem Arm und ein zufriedenes Lächeln im Gesicht. Sie hatte sich ernsthaft zusammenreißen müssen, als die Kollegin mit ihren Mutmaßungen losgelegt hatte. Schwanger! Wenn Karin van Almsick wüsste, mit welchen Methoden sie so alles verhütete! (<i>Märzgefallene</i>, 291)',
 	'Sie (<i>Charly und Gereon</i>) folgten dem leicht gewundenen Weg. Überall am Wegesrand <b>stapelte sich</b> Gerümpel, das die Sicht versperrte. (<i>Märzgefallene</i>, 410-11)',
 	'<u>Lunapark</u>',
 	'Er (<i>Lange</i>) legte das Heft zurück auf den <b>Stapel</b> und begann, die Schubladen zu durchsuchen. (<i>Lunapark</i>, 45)',
@@ -23824,11 +23919,6 @@ verscheuchen: [  // verscheucht, verscheuchte, hat verscheucht
 	'...wieder hatte Rath den Eindruck, dass Paula Lorenz ihm bei dieser Gelegenheit ein wenig zu tief in die Augen schaute. Flirtete die Sekretärin mit ihm? Obwohl sie wusste das er verheiratet war? Er <b>verscheuchte</b> diese Gedanken und hob sein Glas. (<i>Marlow</i>, 223)',
 ],
 
-	/*  finish later:
-	'Hacken (sich die H. ablaufen)': [  
-		'<b>sich die Haken ablaufen</b>: &nbsp;run oneself ragged <br>Deutsche Definition: &nbsp;<a href="https://www.duden.de/rechtschreibung/Handfessel"target="target1">Handfessel</a>  ',     
-		'<u>Lunapark</u>',
-	],*/
 
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö (<i>Der nasse Fisch</i>, 395)', Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           

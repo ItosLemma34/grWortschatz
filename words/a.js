@@ -128,7 +128,8 @@ const a = [
 	'auf etwas aus sein',   
 	'auf Granit beißen',  
 	'auf Halde legen',
-	'auf links drehen', 
+	'auf links drehen',
+	'auf Pump kaufen, pumpen',  // duplicated 
 	'auf Trab bringen/halten',   
 	'auf Zack sein',     
 	'aufbahren',   // aufbahren:

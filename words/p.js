@@ -71,7 +71,7 @@ const p = [
    'prusten',  // prusten:  
    'pudern',  // pudern: 
    'Pulle',  // Pulle: 
-   'pumpen', // pumpen: 
+   'pumpen, auf Pump kaufen', // duplicated
    'Puppen (bis in die P.)', // duplicated 
    'Puste, pusten, aus-',  
    'Pute',  // Pute: 

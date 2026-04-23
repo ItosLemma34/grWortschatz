@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 
+.personenTitle {color: maroon;}
 .headerbreak {margin-top:12px;}
-.sectionbreak {margin-top:6px;}
+.sectionbreak {margin-top:6px; color: navy; }
 .bodybreak {margin-top:3px;}
-
 
 body {
     font-family: Arial, Verdana, sans-serif;

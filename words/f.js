@@ -11,7 +11,7 @@ const f = [
    'Fallbeil', // Fallbeil:  
    'Fasan',  // Fasan:  
    'faseln',  // faseln:  
-   'Fass',  // Fass:   
+   'Fass, Fass aufmachen',    
    'Fatzke', // Fatzke: 
    'fauchen, an-', 
    'Faustpfand',  // Faustpfand:  

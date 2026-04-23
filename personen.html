@@ -19,7 +19,7 @@
 
     <main class="main-container">
         <div class="selection-container selection-container-book">
-            <button onclick="showPersonen('der-nasse-fisch')"><strong>Der nasse Fisch</strong></button>
+            <button onclick="showPersonen('der-nasse-fisch')"><b>Der nasse Fisch</b></button>
             <br>
             <button onclick="showPersonen('der-stumme-tod')"><strong>Der stumme Tod</strong></button>
             <br>
@@ -42,20 +42,22 @@
 
         <div id="main-container" class="main-container-item personen-by-book">
 
-<!--ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß -->
+<!--ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     Ä ö Ö ü Ü ß class="personenTitle"   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß -->
+
         <div id="der-nasse-fisch" class="main-container-item">
             <div>
-                <u><strong>Der nasse Fisch</strong></u>
-                <ul>
+                <p class="personenTitle"> <u><b>Der nasse Fisch</b></u> </p>  
+                <ul style="list-style-type: none;">
                 <li class="headerbreak"><b>Gereon Rath</b></li>
                 <li><b>Charlotte (Charly) Ritter:</b> Stenotypistin bei der Mordinspektion</li>
                 <li><b>Wilhelm Böhm:</b> Oberkommissar der Mordinspektion</li>
                 <li class="sectionbreak"><u>Historische Persönlichkeiten</u></li>
                 <li class="bodybreak"><b>Ernst Gennat:</b> "Der Buddha", Kriminaldirektor der Mordinspektion</li>
-                <li><b>Karl Zörgiebel:</b> Berliner Polizeipräsident; Engelbert Raths Duzfreund</li>
+                <li><b>"Dörrzwiebel":</b> Siehe Karl Zörgiebel</li>
+                <li><b>Karl Zörgiebel:</b> Berliner Polizeipräsident; Engelbert Raths Duzfreund; abfälliger Spitzname: "Dörrzwiebel"</li>
                 <li><b>Otto Bauknecht</b>: Kölner Polizeipräsident</li>
                 <li class="sectionbreak"><u>Fiktiv</u></li>
-                <li class="bodybreak"><b>Behnke, Elisabeth:</b> Witwe, Raths Vermieterin</li>
+                <li class="bodybreak"><b>Behnke, Elisabeth:</b> Witwe (Helmut Behnke gefallen im Krieg), Raths Vermieterin (bis er hinaufgeworfen wird)</li>
                 <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li> 
                 <li><b>Gloria (Gustav)</b>: Rasseweib im <i>Eldorado</i>; gibt Rath Auskunft über Marlow</li>          
                 <li><b>Gräf, Reinhold:</b> Kriminalassistent der Mordinspektion</li>
@@ -134,7 +136,7 @@
                 <u><strong>Märzgefallene</strong></u>
                 <ul style="list-style-type: none;">
                 <br>
-                <li><strong>Märzgefallene</strong> not yet available</li>
+                <li><b>Märzgefallene</b> not yet available</li>
 <!--               <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li> -->
 <!--                <li><b>Rath, Engelbert:</b> Gereons Vater, Kriminaldirektor in Köln</li> -->
 <!--                <li><b>Kirie:</b> </li> -->
@@ -144,10 +146,10 @@
             </div>
         </div>
 
-        <div id="lunapark" class="main-container-item">
+        <div id="lunapark" class="main-container-item"> 
             <div>
-                <u><strong><u>Lunapark</u></strong></u> 
-                <ul>
+                <u><b><u>Lunapark</u></b></u> 
+                <ul style="list-style-type: none;">
                 <li class="headerbreak"><b>Gereon Rath</b></li>
                 <li><b>Charlotte (Charly) Rath (geb. Ritter):</b> Raths Ehefrau, ehemalige Kommissaranwärterin</li>
                 <li><b>Fritze</b> (<b>Friedrich Thormann</b>): Pflegesohn von Gereon und Charlotte Rath</li>
@@ -223,7 +225,7 @@
 <!--ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß -->
         <div id="marlow" class="main-container-item">
             <div>
-                <u><strong>Marlow</strong></u>
+                <u><b>Marlow</b></u>
                 <ul style="list-style-type: none;">
                 <li class="headerbreak"><b>Gereon Rath</b></li>
                 <li><b>Charlotte (Charly) Rath (geb. Ritter):</b> Gereons Ehefrau, ehemalige Kommissaranwärterin; arbeitet für die Detektei Böhm</li>
@@ -256,7 +258,7 @@
                 <li><b>Draxler, Rosemarie:</b> Frau von Hauptwachtmeister Draxler</li> 
                 <li><b>Draxler, Schorsch:</b> Sohn von Hauptwachtmeister Draxler</li> 
                 <li><b>Fang Chun:</b> Chinesischer Beamter in Tsingtau; Charly telefoniert ihn</li>
-                <li><b>Gehrke, Rudolf:</b> Kriminalsekretär, leitete die Ermittlungen zur Gasexplosion; arbeitet jetzt bei den Rauschgiftfahndern</li> 
+                <li><b>Gehrke, Rudolf:</b> Kriminalsekretär, leitete die Ermittlungen zur Gasexplosion</li> <!-- arbeitet jetzt bei den Rauschgiftfahndern -->
                 <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li> 
                 <li><b>Gerlach:</b> Gefängniswärter, korrupter Kollege von Charlys Vater, in seiner Badewanne ertrunken</li> 
                 <li><b>Gräf, Reinhold:</b> ehemaliger Kriminalsekretär und "Freund" von Rath; nun Gestapo-Kommissar, dann SS-Untersturmführer</li>

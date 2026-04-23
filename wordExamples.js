@@ -198,14 +198,33 @@ zzz: [
 //finished with Märzgefallene  CONTINUE:
 //reißen  ausreißen  abreißen losreißen  zusammenreißen  reißt  riss  gerissen  ausgerissen  abgerissen losgerissen zusammengerissen losreißen
 
-//	'<u>Lunapark</u>',
-// 	'        (<i>Lunapark</i>, 000)',
+	'<u>Lunapark</u>',
+ 	'Max Hansen war inzwischen beim Refrain angelangt. <i>Ich <b>reiß</b> mir eine Wimper (eyelash) <b>aus</b> und stech dich damit tot</i>... (<i>Lunapark</i>, 156)',
+
+	'Und de facto war es sogar so, dass er, Reinhold Gräf, die Soko Wolff leitete. Schließlich war das eine Sonderkommission, die das Gestapa ins Leben gerufen hatte, und nicht die Kripo. Er hätte den Fall von Anfang an an sich <b>reißen</b> sollen und niemals auch nur einen einzigen Kriminalbeamten mit ins Boot holen dürfen, vor allem keinen Gereon Rath. (<i>Lunapark</i>, 404)',
 	
 	
+
 	'<u>Marlow</u>',
 	'Ja, sie (<i>Charly</i>) hatte Liangs Umschlag schließlich doch geöffnet. Weil sie sich gedacht hatte: Wieso nicht?... Vielleicth hatte sie sich auch einfach nur gelangweilt und das Kuvert deshalb <b>aufgerissen</b>. (<i>Marlow</i>, 250)',
 	'Kuen-Yao (<i>Liang</i>) war der einzige Mensch auf dieser Welt der ihm am Herzen lag.., und deshalbe würde Marlow, trotzt der rassistischen Bemerkungen, die in den Kreisen, in denen er neuerdings verkehrte, bei jeder Gelegenheit über seinen chinesischen Chauffeur und Assistenten fallengelassen wurde, immer an ihm festhalten, ganz gleich wie sehr die Meute <b>sich die Mäuler zerriss</b>... Kuen-Yao jedoch schienen sie auf diese Weise zu vergraulen, längst vergrault zu haben, und diese Erkenntnis <b>zerriss</b> ihm das Herz. (<i>Marlow</i>, 410)',
 	'Fritze war sich nicht sicher, was die Wochen der Abwesenheit für seine und Atzes Freundschaft bedeuteten, aber er hatte das Gefühl, dass der Junge, den er in Berlin wiedergetroffen hatte, ein anderer war als der, den er vor der Abreise gekannt hatte. Solange Herr Rademann dabei war, ging es, da <b>riss</b> Atze <b>sich zusammen</b>, aber in der letzten Woche hatten sie sich außerhalb der Schule kein einziges Mal getroffen... (<i>Marlow</i>, 421)',
+],
+'bescheren, Bescherung': [  
+	'<b>bescheren</b>: bring, bestow, grant so. sth.'+
+	'<br>die <b>Bescherung</b>,-<br>en</br>: giving of presents at Christmas; unpleasant surprise, mess'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bescheren"target="target1">bescheren</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bescherung"target="target2">Bescherung</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bescheren"target="target3">bescheren</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/bescherung"target="target4">Bescherung</a>',
+	'<u>Der nasse Fisch</u>',   
+	'   (<i>Der nasse Fisch</i>, 000)',
+	'<u>Der stumme Tod</u>',
+	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'<i>Gehrke zu Rath</i>: "Wie gesagt, ich wohne um die Ecke, da schaut man doch nach, wenn es in der Nachbarschaft so gewaltig rummst. Als ich die <b>Bescherung</b> dann sah, hab ich die Burg informiert und unverzüglich die Ermittlung aufgenommen, Feierabend hin oder her. Sie kennen das doch: Ein Polizeibeamter ist immer im Dienst..." (<i>Marlow</i>, 426)',
 ],
 lau: [  
 	'<b>lau</b>: tepid, mild, lukewarm'+
@@ -6463,6 +6482,7 @@ vermaledeit: [
 	'<i>Gussie Adenauer</i>: "Entschuldigen Sie, dass ich Sie mit so etwas <b>behellige</b>, Herr Rath, Sie haben bestimmt genug zu tun. Aber wir sind so etwas einfach nicht gewohnt. Dass Polizei kommt und einen (<i>Konrad Adenauer</i>) verhaftet." (<i>Lunapark</i>, 489)',
 	'<u>Marlow</u>',
 	'<i>Böhm</i>: "Charly!.. Ich wollte Sie da nicht mit hineinziehen. Diese Dinge sind nicht nur illegal, sie sind gefährlich, die können Sie ins Gefängnis bringen.. Ich hatte nicht vor, Sie mit diesen Dingen zu <b>behelligen</b>..." "Was heißt <b>behelligen</b>? Verdammt, das ist doch mal endlich etwas Sinnvolles in diesen Zeiten!..." (<i>Marlow</i>, 137)',
+	'"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht um den heißen Brei herumreden", begann Rath, "ich habe ein Anliegen.. Es ist auch eher privater Natur, deswegen möchte ich Sie damit nicht während Ihrer Dienstzeit <b>behelligen</b>." (<i>Marlow</i>, 425)',
 ],
 'unbehelligt, behelligen': [
 	'<b>behelligen</b>: bother, pester'+
@@ -6490,6 +6510,7 @@ vermaledeit: [
 	'<i>Gussie Adenauer</i>: "Entschuldigen Sie, dass ich Sie mit so etwas <b>behellige</b>, Herr Rath, Sie haben bestimmt genug zu tun. Aber wir sind so etwas einfach nicht gewohnt. Dass Polizei kommt und einen (<i>Konrad Adenauer</i>) verhaftet." (<i>Lunapark</i>, 489)',
 	'<u>Marlow</u>',
 	'<i>Böhm</i>: "Charly!.. Ich wollte Sie da nicht mit hineinziehen. Diese Dinge sind nicht nur illegal, sie sind gefährlich, die können Sie ins Gefängnis bringen.. Ich hatte nicht vor, Sie mit diesen Dingen zu <b>behelligen</b>..." "Was heißt <b>behelligen</b>? Verdammt, das ist doch mal endlich etwas Sinnvolles in diesen Zeiten!..." (<i>Marlow</i>, 137)',
+	'"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht um den heißen Brei herumreden", begann Rath, "ich habe ein Anliegen.. Es ist auch eher privater Natur, deswegen möchte ich Sie damit nicht während Ihrer Dienstzeit <b>behelligen</b>." (<i>Marlow</i>, 425)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 aufgeweckt: [
@@ -21198,6 +21219,7 @@ ummähen: [
 	'Wie die meisten Menschen, die wenig Zeit hatten, kam der Mann direkt zum Punkt. Charly mochte das. Nicht <b>um den heißen Brei herumreden</b>, kein Bohei, gleich Tacheles. (<i>Lunapark</i>, 456)',
 	'<u>Marlow</u>',
 	'Er (<i>Rath</i>) sah, wie es in Gräf arbeitete, wie er dabei war, die nächste, scheinbar beiläufige Bemerkung zu formulieren. Rath beneidete ihn nicht um diese Aufgabe. Der frischgebackene Untersturmführer musste <b>um den heiß Brei herumreden</b> und nach Möglichkeit dennoch Informationen aus Oberkommissar Gereon Rath herauslocken. (<i>Marlow</i>, 385)',
+	'"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht <b>um den heißen Brei herumreden</b>", begann Rath, "ich habe ein Anliegen." (<i>Marlow</i>, 425)',
 ],
 'Brei (um den heißen B. herumreden)': [
 	'<b>um den heißen Brei herumreden</b>: beat around the bush'+
@@ -21212,6 +21234,7 @@ ummähen: [
 	'Wie die meisten Menschen, die wenig Zeit hatten, kam der Mann direkt zum Punkt. Charly mochte das. Nicht <b>um den heißen Brei herumreden</b>, kein Bohei, gleich Tacheles. (<i>Lunapark</i>, 456)',
 	'<u>Marlow</u>',
 	'Er (<i>Rath</i>) sah, wie es in Gräf arbeitete, wie er dabei war, die nächste, scheinbar beiläufige Bemerkung zu formulieren. Rath beneidete ihn nicht um diese Aufgabe. Der frischgebackene Untersturmführer musste <b>um den heiß Brei herumreden</b> und nach Möglichkeit dennoch Informationen aus Oberkommissar Gereon Rath herauslocken. (<i>Marlow</i>, 385)',
+	'"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht <b>um den heißen Brei herumreden</b>", begann Rath, "ich habe ein Anliegen." (<i>Marlow</i>, 425)',
 ],
 'unverrichteter Dinge': [
 	'<b>unverrichteter Dinge</b>: empty handed, having achieved nothing'+

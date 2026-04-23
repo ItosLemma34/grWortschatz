@@ -1,7 +1,6 @@
 const h = [
    'Habgier',  // Habgier: 
-  // 'hacken, zerhacken',  EXPAND
-   'Hacke, hacken',  
+   'Hacke, hacken, Hacken ablaufen',  
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
    'haken, Haken, H. schlagen',  

@@ -9,7 +9,6 @@
 </head>
 <body>
     <header>
-
         <div class="main-header">
             <span class="return">
                 <a href="help.html" onclick="saveCurrentWord()">Help/Info</a>
@@ -19,23 +18,18 @@
                 <a href="personen.html" onclick="saveCurrentWord()">Personen</a>
             </span>
         </div>
-
     </header>
 
     <main class="main-container">
-
         <div class="selection-container">
-            <button id="randomSelectButton"><strong>Random Word/Phrase</strong></button>
-            <br>
+            <button id="randomSelectButton"><b>Random Word/Phrase</b></button> 
             <label for="find-as-you-type" class="sizeOfLabels"><strong>Enter Word/Phrase:</strong></label>
             <input id="find-as-you-type" autocomplete="off">
-            <br>
-            <label for="wordDropdown" class="sizeOfLabels"><strong>or Click on Word/Phrase:</strong></label>
+            <label for="wordDropdown" class="sizeOfLabels" id="Click"><strong>or Click on Word/Phrase:</strong></label>
             <select id="wordDropdown" class="sizeOfLabels" size="25"></select>
         </div>
-
-         <div id="main-container">
-         </div>
+        <div id="main-container">
+        </div>
     </main>
 
     <script src="script.js" type="module"></script>

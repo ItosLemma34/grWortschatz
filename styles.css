@@ -1,13 +1,8 @@
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    box-sizing: border-box;
-}
+* {margin: 0; padding: 0; border: 0; box-sizing: border-box;}
 
-.personenTitle {color: maroon;}
-.headerbreak {margin-top:12px;}
-.sectionbreak {margin-top:6px; color: navy; }
+.personenTitle {color: maroon; margin-top:5px; }
+.headerbreak {margin-top:10px;} 
+.sectionbreak {margin-top:5px; color: navy; }
 .bodybreak {margin-top:3px;}
 
 body {
@@ -32,30 +27,45 @@ header {
     /* Ensure header is above other content */
 }
 
+.return {
+   font-size: 110%;
+   font-weight: bold;
+   color: navy;
+}
+
 .main-header {
     font-size: 118%;
     display: flex;
     justify-content: space-evenly;
     /* Adjusted for better spacing */
-    align-items: center;
-}
-
-.return {
-    font-size: 95%;
-    font-weight: bold;
-    color: navy;
-}
+    align-items: center; }
 
 .main-container {
     display: flex;
-
     /* Full height minus header */
     height: calc(100vh - 52px);
-
     /* Prevent scrolling inside main container */
     overflow: hidden;
-    flex: 1;
+    flex: 1; }
+
+.selection-container {
+    width: 330px;
+    min-width: 250px;
+    max-width: 400px;
+    text-align: center;
+    padding: 0.6em;
+    border-right: 3px solid maroon;
+    background-color: #a1d3f08c;
+    height: 100%;
+    /* Allows scrolling within the container if necessary */
 }
+.selection-container-book {
+    width: 250px;
+    button {width: 11em;}
+}
+/*
+.return {font-size:200%; font-weight:bold; color:navy;}
+*/
 
 button {
     background-color: rgba(128, 0, 0, 0.637);
@@ -76,37 +86,13 @@ input, select {
     width: 99%;
 }
 
-#wordDropdown {
-    height: calc(100% - 170px);
-}
-
-.sizeOfLabels {
-    font-size: 115%;
-    display: block;
-    margin: 1px auto;
-}
-
-.selection-container {
-    width: 350px;
-    min-width: 350px;
-    max-width: 400px;
-    text-align: center;
-    padding: 0.6em;
-    border-right: 3px solid maroon;
-    background-color: #a1d3f08c;
-    height: 100%;
-    /* Allows scrolling within the container if necessary */
-}
-
-/* Same width buttons */
+#wordDropdown {height: calc(100% - 170px);}
+#Click {margin-top: 0.4em;}
+#randomSelectButton {margin-top: 0.3em;}
+.sizeOfLabels {font-size: 115%; display: block; margin: 1px auto;}
 
 /* Ideally a Web font is used instead of a System font which varies on each computer.
    Allowing to have precise geometry on each device. */
-.selection-container-book {
-    button {
-        width: 16em;
-    }
-}
 
 #main-container {
     flex-grow: 1;
@@ -120,17 +106,13 @@ input, select {
 .personen-by-book > div {
     /* JavaScript code determines on load which Personenverzeichnis
        to display */
-    display: none;
-
-    text-align: left;
-}
+    display: none; text-align: left; }
 
 .selected-word {
     font-size: 135%;
     font-weight: bold;
     margin-bottom: 12px; margin-top: 8px;
     text-align: center;
-    /*Alex: font-size: 23px;   margin-bottom: 20px;*/
 }
 
 #showExamplesButton {

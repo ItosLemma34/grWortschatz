@@ -2,6 +2,7 @@ export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
 //maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
 //lau Der stumme Tod 478
+// Der stumme Tod 360  Bescherung
 // needs more work:
 // not finished:  finish later: 
 //recommence here:
@@ -210,11 +211,31 @@ zzz: [
 	'Kuen-Yao (<i>Liang</i>) war der einzige Mensch auf dieser Welt der ihm am Herzen lag.., und deshalbe würde Marlow, trotzt der rassistischen Bemerkungen, die in den Kreisen, in denen er neuerdings verkehrte, bei jeder Gelegenheit über seinen chinesischen Chauffeur und Assistenten fallengelassen wurde, immer an ihm festhalten, ganz gleich wie sehr die Meute <b>sich die Mäuler zerriss</b>... Kuen-Yao jedoch schienen sie auf diese Weise zu vergraulen, längst vergrault zu haben, und diese Erkenntnis <b>zerriss</b> ihm das Herz. (<i>Marlow</i>, 410)',
 	'Fritze war sich nicht sicher, was die Wochen der Abwesenheit für seine und Atzes Freundschaft bedeuteten, aber er hatte das Gefühl, dass der Junge, den er in Berlin wiedergetroffen hatte, ein anderer war als der, den er vor der Abreise gekannt hatte. Solange Herr Rademann dabei war, ging es, da <b>riss</b> Atze <b>sich zusammen</b>, aber in der letzten Woche hatten sie sich außerhalb der Schule kein einziges Mal getroffen... (<i>Marlow</i>, 421)',
 ],
-'bescheren, Bescherung': [  
-	'<b>bescheren</b>: bring, bestow, grant so. sth.'+
-	'<br>die <b>Bescherung</b>,-<br>en</br>: giving of presents at Christmas; unpleasant surprise, mess'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bescheren"target="target1">bescheren</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bescherung"target="target2">Bescherung</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bescheren"target="target3">bescheren</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/bescherung"target="target4">Bescherung</a>',
+
+//Finish:  
+ausfechten: [  // ficht aus, focht aus, hat ausgefochten fechtet aus, fechtete aus, hat ausgefechtet
+	'<b>ausfechten</b>: fight it out'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausfechten"target="target1">ausfechten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausfechten"target="target2">ausfechten</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/ausfechten"target="target3">ausfechten</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausfechten&id=verb%3Aausfechten"target="target4">ausfechten</a>',
+/*
+	'<u>Der nasse Fisch</u>',   
+	'   (<i>Der nasse Fisch</i>, 000)',
+	'<u>Der stumme Tod</u>',
+	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	*/
+	'<u>Marlow</u>',  
+	'<i>Marlow</i>: ".. Lassen Sie die Toten ruhen.. Das sind Hunde, die wollen Sie nicht wecken." Hunde. Rath wusste nicht, ob Marlow diese Redewendung bewusst gewählt hatte, jedenfalls erinnerte es ihn an Kirie, an seinen Bouvierhund, dem Marlow vor einem Jahr kaltblütig das Genick gebrochen hatte, aus heiterem Himmel und ohne ersichtlichen Grund. Bis auf einen: ein Machtspielchen, das der Gangster gerade mit Rath <b>ausfocht</b> und dem das unschuldige Tier zum Opfer gefallen war. (<i>Marlow</i>, 430)',
+],
+
+// NEED to deactivieren Duden
+abstrampeln: [  
+	'<b>sich abstrampeln</b>: word hard, slave away'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">abstrampeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abstrampeln"target="target2">abstrampeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abstrampeln"target="target3">abstrampeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abstrampeln"target="target4">abstrampeln</a>',
 	'<u>Der nasse Fisch</u>',   
 	'   (<i>Der nasse Fisch</i>, 000)',
 	'<u>Der stumme Tod</u>',
@@ -224,6 +245,24 @@ zzz: [
 	'<u>Lunapark</u>',   
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
+	'Marlow hatte mächtige Freunde. Und mit seinem Hinweis auf die Ohnmacht es Rechtsstaates leider recht. Böhm und Charly mochten <b>sich</b> noch so <b>abstrampeln</b>, noch soviele Beweise sammeln und finden - letzten Endes waren sie machtlos, zahnlos und machtlos. (<i>Marlow</i>, 437)',
+],
+'bescheren, Bescherung': [  
+	'<b>bescheren</b>: bring, bestow, grant so. sth.'+
+	'<br>die <b>Bescherung</b>,-<b>en</b>: giving of presents at Christmas; unpleasant surprise, mess'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bescheren"target="target1">bescheren</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bescherung"target="target2">Bescherung</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bescheren"target="target3">bescheren</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/bescherung"target="target4">Bescherung</a>',
+	'<u>Der nasse Fisch</u>',   
+	'Der Polizeiapparat lief wie geschmiert. Hier im Konferenzsaal hatten sie eigentlich nicht mehr viel zu tun. Außer sich blicken zu lassen. Das war Ehrensache. Sie hatten die Aktion <i>Nachtfalke</i> zu verantworten, die den Beamten im Saal eine Nachtschicht <b>beschert</b> hatte. Und das am Wochenende. (<i>Der nasse Fisch</i>, 253-54)',
+	'Der Schupo zeigte auf einen elektrischen Haartrockner, der auf einem Holzschemel lag. "Das hier lag in der Wanne..." "Ick hab den Stecker jezogen", erklärte Schäffner, der Raths fragenden Blick bemerkte, "gleich as ick die <b>Bescherung</b> jesehen hab. Ick hab auch sofort det Wasser abjedreht, die Wanne lief ja schon über." (<i>Der nasse Fisch</i>, 434)',
+	'<u>Der stumme Tod</u>',   
+	'<i>Rath zu Gennat</i>: ".. Ich habe Oberkommissar Böhm einen entscheidenden Fortschritt in den Ermittlungen <b>beschert</b>, und er hat nichts Besseres zu tun, als sich bei übergeordneten Stellen über mich zu beschweren?" (<i>Der stumme Tod</i>, 211)',	
+	// pg 360
+	'<u>Märzgefallene</u>',    
+	'Die Leiche von Hermann Wibeau <b>bescherte</b> Rath den dritten Wochenenddienst in Folge. (<i>Märzgefallene</i>, 346)',
+	'<u>Marlow</u>',
+	'Nach einer guten Stunde hielt er (<i>Rath</i>) im Schatten eines Baumes auf einer Anhöhe, die ihm eine schöne Sicht weit in die schöne Landschaft <b>bescherte</b>. Der richtige Ort zum Nachdenken. (<i>Marlow</i>, 307)',
+	'Rademanns Eintrittskarte hatte Rath einen Platz auf der Haupttribüne <b>beschert</b>, zwar ziemlich am Rand, aber doch auf eben jener Tribüne, auf der die Techniker auch das Mikrophon aufgebaut hatten, durch das <i>er</i> (<i>Hitler</i>) zur deutschen Jugend sprechen sollte. (<i>Marlow</i>, 318)',
 	'<i>Gehrke zu Rath</i>: "Wie gesagt, ich wohne um die Ecke, da schaut man doch nach, wenn es in der Nachbarschaft so gewaltig rummst. Als ich die <b>Bescherung</b> dann sah, hab ich die Burg informiert und unverzüglich die Ermittlung aufgenommen, Feierabend hin oder her. Sie kennen das doch: Ein Polizeibeamter ist immer im Dienst..." (<i>Marlow</i>, 426)',
 ],
 lau: [  
@@ -3100,6 +3139,7 @@ ungelenk: [
 	'Als sie (<i>Charly</i>) die Wohnungstür in der Carmerstraße aufschloss, hörte sie das Radio <b>dudeln</b>. (<i>Lunapark</i>, 410)',
 	'<u>Marlow</u>',
 	'Noch allerdings <b>dudelte</b> langsame Orgelmusik über den Platz, irgendso\'n Kirchenzeug, nicht gerade die Musik, die Fritze mochte. (<i>Marlow</i>, 359)',
+	'So machte Wilhelm Böhm sich also wieder einmal in Raths Lieblingssessel breit. Das Radio <b>dudelte</b> politisch unverfängliche Schlager, während Charly von ihrem Zeugen erzählte und von dessen Beobachtung. (<i>Marlow</i>, 434)',
 ],
 'Gedudel, dudeln': [
 	'<b>dudeln</b>: drone, hum, tootle'+
@@ -3117,6 +3157,7 @@ ungelenk: [
 	'Als sie (<i>Charly</i>) die Wohnungstür in der Carmerstraße aufschloss, hörte sie das Radio <b>dudeln</b>. (<i>Lunapark</i>, 410)',
 	'<u>Marlow</u>',
 	'Noch allerdings <b>dudelte</b> langsame Orgelmusik über den Platz, irgendso\'n Kirchenzeug, nicht gerade die Musik, die Fritze mochte. (<i>Marlow</i>, 359)',
+	'So machte Wilhelm Böhm sich also wieder einmal in Raths Lieblingssessel breit. Das Radio <b>dudelte</b> politisch unverfängliche Schlager, während Charly von ihrem Zeugen erzählte und von dessen Beobachtung. (<i>Marlow</i>, 434)',
 ],
 // ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 brodeln: [
@@ -3179,7 +3220,10 @@ unverwandt: [
 	'Hatte die brünette Sekretärin ihn gerade angelächelt? Fräulein Lorenz. Vielleicht fand sie seinen <b>schlampigen</b> Deutschen Gruß ja doch nicht so schlimm. (<i>Marlow</i>, 182)',
 	'Dismal machte Rath seinen Hitlergruß nicht so <b>schlampig</b> wie sonst, sondern so zackig, als habe er sich bei der SS beworben. Er wollte den Kerlen hier keine Angriffsfläche bieten. Hernach würde Sturmbannführer Sowa wegen Verächtlichmachung des Deutschen Grußes oder eines ähnlichen Vergehens doch noch nach dem Bettgestell rufen. (<i>Marlow</i>, 400)',
 	'<i>Charly zu Gereon</i>: "Wir sollten uns auf die Brandermittlung fokussieren, da ist vielleicht noch etwas zu holen. Die ist derartig <b>schlampig</b> geführt worden.. -du solltest diesem Kriminalsekretär Gehrke mal ein paar Fragen stellen!..." (<i>Marlow</i>, 418-19)',
+	'<i>Rath zu Marlow</i>: "Sie haben mit Kriminalsekretär Gehrke gesprochen, nicht wahr? Hätte ich mir denken können, dass er Sie gleich heute noch anruft. Wie lange arbeitet der schöne Rudi denn schon für Sie? War seine <b>schlampige</b> Brandermittlung die erste Gefälligkeit oder gab\'s da noch mehr?" (<i>Marlow</i>, 430)',
+	'Böhm schüttelte den Kopf, als er alles gehört hatte. "Und ich hab das immer nur auf Gehrkes Faulheit geschoben", sagte er. "Auf die Idee, dass der Mann bewusst <b>schlampig</b> ermittelt hat, bin ich nie gekommen." (<i>Marlow</i>, 435)',
 ],
+	// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'Aussatz, Aussätziger, aussätzig': [
 	'der <b>Aussatz</b>: leprosy'+
 	'<br>der <b>Aussätziger</b>,-<b>en</b>: leper'+
@@ -3236,6 +3280,7 @@ Beteuerung: [
 	'Er (<i>Gereon</i>) machte sich Sorgen um sie (<i>Charly</i>). Fragte sich, ob der Auftraggeber, der für den Tod von Charlys Vater und so vieler anderer verantwortlich war, auch Brunner hatte töten lassen. Diesmal erfolgrich und von einem <b>todgeweihten</b> Taxifahrer. (<i>Marlow</i>, 225-26)',
 	'Dieser Krieg im Baltikum war brutaler noch als der Weltkrieg; das weißt du, weil du beide miterlebt hast. Jeder Zivilist, der euch in die Quere kam, war dem <b>Tode geweiht</b>, ihr habt keine Gefangenen gemacht. (<i>Marlow</i>, 348)',
 	'Er (<i>Rath</i>) musste sichergehen, dass seine Vermutung stimmte, musste wissen, ob Marlow wirklich mit Hermann Göring zu tun hatte, musste es sicher wissen. Denn wenn, dann war Marlow, der langjährige Geschäftsfreund von Hugo Lenz, das Bindeglied, nach dem Böhm schon all die Jahre suchte. Der eigentliche Auftraggeber von Bruck und Lehmann. Für den Doktor Wrede die geeigneten <b>todgeweihten</b> Patienten rekrutierte. (<i>Marlow</i>, 386)',
+	'<i>Rath zu Marlow</i>: "Sie können meine Vorgesetzten gerne informieren. Dann erzähle ich denen von Ihrem Freund Doktor Wrede. Dem Mann, der Ihnen die <b>todgeweihten</b> Patienten liefert, mit deren Hilfe Sie Auftragsmorde inszenieren, bei denen die Täter weder einen Bezug zu ihrem Opfer noch zu ihrem Auftraggeber haben. Morde, die nicht einmal wie Auftragsmorde aussehen." (<i>Marlow</i>, 431)',
 ],
 'weihen, ein-, todgeweiht': [  
 	'<b>weihen</b>: dedicate, sanctify, hallow'+
@@ -3264,6 +3309,7 @@ Beteuerung: [
 	'Er (<i>Gereon</i>) machte sich Sorgen um sie (<i>Charly</i>). Fragte sich, ob der Auftraggeber, der für den Tod von Charlys Vater und so vieler anderer verantwortlich war, auch Brunner hatte töten lassen. Diesmal erfolgrich und von einem <b>todgeweihten</b> Taxifahrer. (<i>Marlow</i>, 225-26)',
 	'Dieser Krieg im Baltikum war brutaler noch als der Weltkrieg; das weißt du, weil du beide miterlebt hast. Jeder Zivilist, der euch in die Quere kam, war dem <b>Tode geweiht</b>, ihr habt keine Gefangenen gemacht. (<i>Marlow</i>, 348)',
 	'Er (<i>Rath</i>) musste sichergehen, dass seine Vermutung stimmte, musste wissen, ob Marlow wirklich mit Hermann Göring zu tun hatte, musste es sicher wissen. Denn wenn, dann war Marlow, der langjährige Geschäftsfreund von Hugo Lenz, das Bindeglied, nach dem Böhm schon all die Jahre suchte. Der eigentliche Auftraggeber von Bruck und Lehmann. Für den Doktor Wrede die geeigneten <b>todgeweihten</b> Patienten rekrutierte. (<i>Marlow</i>, 386)',
+	'<i>Rath zu Marlow</i>: "Sie können meine Vorgesetzten gerne informieren. Dann erzähle ich denen von Ihrem Freund Doktor Wrede. Dem Mann, der Ihnen die <b>todgeweihten</b> Patienten liefert, mit deren Hilfe Sie Auftragsmorde inszenieren, bei denen die Täter weder einen Bezug zu ihrem Opfer noch zu ihrem Auftraggeber haben. Morde, die nicht einmal wie Auftragsmorde aussehen." (<i>Marlow</i>, 431)',
 ],
 'schürfen, Schürfwunde': [
 	'<b>schürfen</b>: scrape; dig/prospect for sth.'+
@@ -3457,6 +3503,8 @@ robben: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abhalftern&id=verb%3Aabhalftern"target="target3">abhalftern</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abgehalftert"target="target4">abgehalftert</a>',
 	'<u>Der stumme Tod</u>',
 	'Das Männlein (<i>Hans Lüdenbach</i>) öffnete den Mund, um etwas zu sagen, doch Bellmann kam ihm zuvor. "Herr Kommissar! Die Verantwortung für all das übernehme selbstverständlich ich!" Er klang wie ein <b>abgehalferter</b> Minister, der den Rücktrittsforderungen der Opposition zuvorkommen will. (<i>Der stumme Tod</i>, 30)',
+	'<u>Marlow</u>',
+	'<i>Marlow zu Rath</i>: "Bilden Sie sich nicht allzuviel auf Ihre Kombinationsgabe ein. Ich kann mir auch ein paar Dinge zusammenreimen. Zum Beispiel, wie es kommt, dass Sie und dieser <b>abgehalfterte</b> Ex-Bulle zusammenarbeiten. Sie konnte Wilhelm Böhm doch noch nie leiden..." (<i>Marlow</i>, 430-31)',
 ],
 aufbäumen: [
 	'<b>sich aufbäumen</b>: rear up; writhe with pain; rebel, rise in protest'+
@@ -5801,6 +5849,7 @@ Schlappschwanz: [
 	'"Walter Spindler", fuhr Pfeiffer fort, "hatte damals, in den Systemzeiten, als die Rotfront noch offen gegen die nationalsozialistische Bewegung Schlägereien und Saalschlachten anzettelte, eine <b>Masche</b>, mit der er der Polizei immer wieder durch die Lappen ging. (<i>Lunapark</i>, 289)',
 	'<u>Marlow</u>',
 	'Für die Amis war er (<i>Marlow</i>) als Geschäftspartner nur interessant, solange er in Berlin war. Und in Berlin waren auch all die Kontakte, die er über die Jahre hinweg geknüpft hatte, ein eng<b>maschiges</b> Netz an Beziehungen, Freundschaften und Abhängigkeiten, die seine eigentlich Macht ausmachten, mehr noch als sein Geld. (<i>Marlow</i>, 77)',
+	'<i>Rath zu Marlow</i>: "Wie lange verfolgen Sie diese <b>Masche</b> schon? Wieviele Leute sind von der Hand irgendwelcher bettelarmer oder hoch verschuldeter Krebspatienten gestorben? Bruck und Lehmann waren doch sicher nicht die einzigen..." (<i>Marlow</i>, 431-32)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -6483,6 +6532,9 @@ vermaledeit: [
 	'<u>Marlow</u>',
 	'<i>Böhm</i>: "Charly!.. Ich wollte Sie da nicht mit hineinziehen. Diese Dinge sind nicht nur illegal, sie sind gefährlich, die können Sie ins Gefängnis bringen.. Ich hatte nicht vor, Sie mit diesen Dingen zu <b>behelligen</b>..." "Was heißt <b>behelligen</b>? Verdammt, das ist doch mal endlich etwas Sinnvolles in diesen Zeiten!..." (<i>Marlow</i>, 137)',
 	'"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht um den heißen Brei herumreden", begann Rath, "ich habe ein Anliegen.. Es ist auch eher privater Natur, deswegen möchte ich Sie damit nicht während Ihrer Dienstzeit <b>behelligen</b>." (<i>Marlow</i>, 425)',
+	'(<i>Rath zu Gehrke</i>): ".. Ich würde Ihnen gern weitere Fragen stellen. Und da es rein privat ist, wollte ich Sie da nicht dienstlich <b>behelligen</b>." (<i>Marlow</i>, 427)',
+	'<i>Böhm</i>: "Es gibt eine schwache Stelle in dieser Angelegenheit, um die wir uns bislang nicht gekümmert haben. Ich wollte den Mann nicht <b>behelligen</b>, um niemanden aufzuschrecken, den man lieber in Sicherheit wiegt, aber wenn es einen Menschen gibt, den wir unter Umständen weichkochen könnten, dann ist das der Arzt." "Doktor Wrede?", fragte Charly. (<i>Marlow</i>, 436)'+
+	'<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>'
 ],
 'unbehelligt, behelligen': [
 	'<b>behelligen</b>: bother, pester'+
@@ -6511,6 +6563,9 @@ vermaledeit: [
 	'<u>Marlow</u>',
 	'<i>Böhm</i>: "Charly!.. Ich wollte Sie da nicht mit hineinziehen. Diese Dinge sind nicht nur illegal, sie sind gefährlich, die können Sie ins Gefängnis bringen.. Ich hatte nicht vor, Sie mit diesen Dingen zu <b>behelligen</b>..." "Was heißt <b>behelligen</b>? Verdammt, das ist doch mal endlich etwas Sinnvolles in diesen Zeiten!..." (<i>Marlow</i>, 137)',
 	'"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht um den heißen Brei herumreden", begann Rath, "ich habe ein Anliegen.. Es ist auch eher privater Natur, deswegen möchte ich Sie damit nicht während Ihrer Dienstzeit <b>behelligen</b>." (<i>Marlow</i>, 425)',
+	'(<i>Rath zu Gehrke</i>): ".. Ich würde Ihnen gern weitere Fragen stellen. Und da es rein privat ist, wollte ich Sie da nicht dienstlich <b>behelligen</b>." (<i>Marlow</i>, 427)',
+	'<i>Böhm</i>: "Es gibt eine schwache Stelle in dieser Angelegenheit, um die wir uns bislang nicht gekümmert haben. Ich wollte den Mann nicht <b>behelligen</b>, um niemanden aufzuschrecken, den man lieber in Sicherheit wiegt, aber wenn es einen Menschen gibt, den wir unter Umständen weichkochen könnten, dann ist das der Arzt." "Doktor Wrede?", fragte Charly. (<i>Marlow</i>, 436)'+
+	'<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>'
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 aufgeweckt: [
@@ -7482,7 +7537,7 @@ Backfisch: [
 	'In der elecktrischen Straßenbahn der Linie 47.. saß ein Mann mit einem schwarzen Hund auf dem Schoß, und stierte still vor sich hin, denn der Hund auf seinem Schoß war gar kein Hund mehr, doch das wussten die anderen Fahrgäste nicht. Sie mochten denken, der Hund schiefe oder <b>döse</b>, aber er schlief nicht und <b>döste</b> auch nicht, er war einfach nur tot. (<i>Lunapark</i>, 363)',
 	'Die Luft war rein, mit einem Satz sprang er (<i>Rath</i>) über das niedrige Gartentor und hoffte, dass nicht jemand im Schatten des Häuschens <b>döste</b>, den er übersehen hatte. (<i>Lunapark</i>, 483)',
 ],
-// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+// ä Ä ö Ö ü Ü ß  Bernhard Weiß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 hadern: [
 	'<b>hadern</b>: quarrel, wrangle with; bemoan sth.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hadern"target="target1">hadern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hadern"target="target2">hadern</a>'+
@@ -7494,6 +7549,7 @@ hadern: [
 	'<u>Marlow</u>',
 	'Das ganze Wochenende hatte Charly mit sich <b>gehadert</b> und sich gefragt, wie sie die Sache angehen sollte, dann aber gemerkt, dass sie gar nicht anders konnte, als mit offenen Karten zu spielen. (<i>Marlow</i>, 66)',
 	'Das einzige, was du (<i>Magnus/Marlow</i>) noch von Chen-Lu hören solltest, war Vaters lapidare Mitteilung, ein Jahr nach deiner Ankunft im Internat, dass die Dolmetscherin den chinesischen Chauffeur der Familie geheiratet und einen gesunden Jungen (<i>Liang Kuen-Yao</i>) zur Welt gebracht hat. Du weißt noch, wie sehr dich die Eifersucht quälte, wie verzweifelt du mit deinem Schicksal <b>gehadert</b> hast, wie wütend du warst. (<i>Marlow</i>, 165)',
+	'Als er (<i>Rath</i>) die Burg pünklich zum Dienstschluss verließ, hatte er schlechte Laune... Je länger er beim LKA (<i>Landeskriminalamt</i>) arbeitete, desto mehr <b>haderte</b> er mit seinem Wechsel (<i>von der Mordinspektion</i>). (<i>Marlow</i>, 428)',
 ],
 brenzlig: [
 	'<b>brenzlig</b>: precarious, dicey; smells like burning'+
@@ -8929,6 +8985,7 @@ anpumpen: [
 	'Wenn Frau Lennartz oder sonst wer, der die Schüsse gehört hatte, im Präsidium anriefe, würde Gennat bestimmt eine Mordkommission rausschicken. Und irgendwie behagte ihm (<i>Gräf</i>) der Gedanke nicht, sein alter Chef könne ihm <b>auf die Schliche kommen</b>, selbst wenn das keine rechtlichen Konsequenzen nach sich ziehen würde. (<i>Lunapark</i>, 476)',
 	'<u>Marlow</u>',
 	'Du hast neue Morphinampullen mitgebracht, hast die ganze Tasche vollgepackt, wie nur irgend hineinpasst, weil du dachtest, du müsstest ihr soviel Morphin dalassen wie möglich, bevor sie dir im Lazarett <b>auf die Schliche kommen</b> und der Nachschub versiegt. (<i>Marlow</i>, 163)',
+	'Rath hörte überhaupt nicht mehr hin, was Böhm und Charly besprachen, über Marlow und Doktor Wrede und wie man den beiden <b>auf die Schliche kommen</b> könnte. Das war alles doch völlig witzlos, das interessierte ihn nicht, das würde zu nichts führen. (<i>Marlow</i>, 437)',
 ],
 'Schliche (auf die S. kommen)': [
 	'jmdm., etwas <b>auf die Schliche kommen</b>: find so./sth. out, get wise to so./sth.'+
@@ -8944,6 +9001,7 @@ anpumpen: [
 	'Wenn Frau Lennartz oder sonst wer, der die Schüsse gehört hatte, im Präsidium anriefe, würde Gennat bestimmt eine Mordkommission rausschicken. Und irgendwie behagte ihm (<i>Gräf</i>) der Gedanke nicht, sein alter Chef könne ihm <b>auf die Schliche kommen</b>, selbst wenn das keine rechtlichen Konsequenzen nach sich ziehen würde. (<i>Lunapark</i>, 476)',
 	'<u>Marlow</u>',
 	'Du hast neue Morphinampullen mitgebracht, hast die ganze Tasche vollgepackt, wie nur irgend hineinpasst, weil du dachtest, du müsstest ihr soviel Morphin dalassen wie möglich, bevor sie dir im Lazarett <b>auf die Schliche kommen</b> und der Nachschub versiegt. (<i>Marlow</i>, 163)',
+	'Rath hörte überhaupt nicht mehr hin, was Böhm und Charly besprachen, über Marlow und Doktor Wrede und wie man den beiden <b>auf die Schliche kommen</b> könnte. Das war alles doch völlig witzlos, das interessierte ihn nicht, das würde zu nichts führen. (<i>Marlow</i>, 437)',
 ],
 // <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'angeben, Angeber': [
@@ -9585,6 +9643,7 @@ anschwärzen: [
 	'<i>Lange</i>: "..Ich denke, Sie (<i>Rath</i>) sollten das wissen: Lapke behauptet, Sie stünden auf der Gehaltsliste von Johann Marlow, genannt Doktor M., er habe sie beide zusammen gesehen... Ich will Sie nur warnen, dass Lapke womöglich weiterhin versuchen wird, Sie <b>anzuschwärzen</b>." (<i>Lunapark</i>, 264-65)',
 	'<u>Marlow</u>',
 	'Charly beugte sich zu ihm (<i>Fritze</i>) und redete eindringlich auf ihn ein. "Irgendwer hier im Haus hat uns <b>angeschwärzt</b>. Diese Frau will dich uns wegnehmen. Wir müssen ihr beweisen, dass wir eine prima Familie sind..." (<i>Marlow</i>, 392)',
+	'<i>Rath zu Marlow</i>: "Sie haben Böhm ja bereits erwähnt; er ist es, den diese alten Fälle nicht loslassen.. Den können Sie nicht so einfach einschüchtern wie mich." "Das muss ich auch nicht. Da verlasse ich mich ganz auf Sie. Ihnen wird schon etwas einfallen, um den Mann wieder in die Spur zu bringen. Zur Not <b>schwärzen</b> Sie ihn bei Gennat <b>an</b>. In so etwas haben Sie doch Übung." (<i>Marlow</i>, 433)',
 ],
 ansengen: [
 	'<b>ansengen</b>: scorch, singe'+
@@ -9745,6 +9804,7 @@ Armbeuge: [
 	'Dann hatte der Kriminaldirektor die Sitzung beendet, Rath jedoch gebeten, ihm Berict zu erstatten, wenn er aus der Gerichtsmedizin zurückgekehrt sei. Dass er auf dem Weg zum Leichenschauhaus einen Umweg über die Kleine Alexanderstraße machen würde, hatte Rath seinem Vorgesetzten nicht <b>auf die Nase gebunden</b>. (<i>Lunapark</i>, 89)',
 	'<u>Marlow</u>',
 	'<i>Böhm</i>: "Sagen Sie, Oberkommissar, der Fahrgast, der bei jener Todesfahrt ums Leben gekommen ist .. könnten Sie sich vorstellen, dass irgendjemand diesen Mann tot sehen wollte? Und falls ja, könnten Sie sich vorstellen wer?" "Cui bono, meinen Sie?", fragte Rath und kratzte sich am Kinn. Natürlich gab es da einige denkbare Mordmotive, wenn er an Brunners Geheimdiensttätigkeit dachte, nur konnte er die Böhm nicht <b>auf die Nase binden</b>. (<i>Marlow</i>, 206)',
+	'Dass ihre Wohnung womöglich abgehört wurde, dass die SS hier alles auf den Kopf gestellt hatte, genau das konnten sie (<i>Gereon und Charly</i>) Böhm natürlich nicht <b>auf die Nase binden</b>. Genausowenig wie alles andere, was irgendwie mit dem SD zu tun hatte. (<i>Marlow</i>, 435)',
 ],
 'Nase (auf die N. binden)': [
 	'<b>auf die Nase binden</b>: tell so. sth. he doesn\'t need to/want to/shouldn\'t hear'+
@@ -9764,6 +9824,7 @@ Armbeuge: [
 	'Dann hatte der Kriminaldirektor die Sitzung beendet, Rath jedoch gebeten, ihm Berict zu erstatten, wenn er aus der Gerichtsmedizin zurückgekehrt sei. Dass er auf dem Weg zum Leichenschauhaus einen Umweg über die Kleine Alexanderstraße machen würde, hatte Rath seinem Vorgesetzten nicht <b>auf die Nase gebunden</b>. (<i>Lunapark</i>, 89)',
 	'<u>Marlow</u>',
 	'<i>Böhm</i>: "Sagen Sie, Oberkommissar, der Fahrgast, der bei jener Todesfahrt ums Leben gekommen ist .. könnten Sie sich vorstellen, dass irgendjemand diesen Mann tot sehen wollte? Und falls ja, könnten Sie sich vorstellen wer?" "Cui bono, meinen Sie?", fragte Rath und kratzte sich am Kinn. Natürlich gab es da einige denkbare Mordmotive, wenn er an Brunners Geheimdiensttätigkeit dachte, nur konnte er die Böhm nicht <b>auf die Nase binden</b>. (<i>Marlow</i>, 206)',
+	'Dass ihre Wohnung womöglich abgehört wurde, dass die SS hier alles auf den Kopf gestellt hatte, genau das konnten sie (<i>Gereon und Charly</i>) Böhm natürlich nicht <b>auf die Nase binden</b>. Genausowenig wie alles andere, was irgendwie mit dem SD zu tun hatte. (<i>Marlow</i>, 435)',
 ],
 'auf die Palme treiben/bringen': [
 	'jmdn. <b>auf die Palme treiben\/bringen</b>: drive so. up the wall, make angry'+
@@ -10752,7 +10813,10 @@ bieder: [
 	'Hannah zählte stur weiter. Als sie bei hundertsiebenundachtzig angekommen war, hörte sie Schritte. Nicht aus dem Haus, aus der Gasse, die drüben hinter dem <b>Bogen</b> auf die Köpenicker Straße mündete. (<i>Märzgefallene</i>, 398)',
 	'<u>Lunapark</u>',
 	'Schulze verdrehte die Augen und ging zu Boden, denn die beiden SA-Männer hatten ihn losgelassen und machten ihrem Rottenführer Platz, der mit seinen schweren Stiefeln ausholte und gegen Schulzes Kopf trat wie gegen einen Fußball. Die Chauffeurmütze flog in hohem <b>Bogen</b> übers Pflaster. (<i>Lunapark</i>, 11)',
+	'<u>Marlow</u>',
+	'Als er (<i>Rath</i>) zu seinem Auto gehen wollte, das im Schatten der S-Bahn<b>bögen</b> parkte, hinderte ihn eine Adler-Limousine am Überqueren der Straße. (<i>Marlow</i>, 429)',
 ],
+//   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Bahre: [
 	'die <b>Bahre</b>,-<b>n</b>: bier, stretcher'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bahre"target="target1">Bahre</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bahre"target="target2">Bahre</a>'+
@@ -19277,6 +19341,8 @@ scheppern: [
 	'<u>Lunapark</u>',
 	'Obwohl er (<i>Rath</i>) dem Wirt das mit den Schlachtabfällen nun glaubte, musste Rath gegen den Würgereiz ankämpfen, der ihn mit aller Wucht überfiel. Er ließ den Deckel zurück auf die Tonne <b>scheppern</b>. (<i>Lunapark</i>, 42)',
 	'<i>Brachwitz</i> stand an der Tür, und er (<i>Rath</i>) drückte auf den Klingelknopf. In der Wohnung ertönte ein heiseres <b>Scheppern</b>, gleich darauf hörte er Schritte. (<i>Lunapark</i>, 186)',
+	'<u>Marlow</u>',
+	'<i>Rath zu Gehrke</i>: ".. Es geht mir nur darum, ob Sie vielleicht Beobachtungen gemacht haben, die darauf hindeuten, das es.. eventuell denkbar ist, dass das Leck in der Gasleitung unten im Keller nicht durch einen defekten Dichtungsring verursacht, sonder bewusst und absichtlich herbeigeführt worden ist." "Wenn dem so wäre, dann wäre ich dem wohl nachgeganen, meinen Sie nicht?" "Natürlich. Ich möchte Ihnen in keinster Weise zu nahe treten, Kollege Gehrke, aber..." "Wenn Sie das nicht wollen, <i>Kollege</i>, dann tun Sie das auch nicht." Gehrke ließ sein Besteck auf den Teller fallen, dass es <b>schepperte</b>. (<i>Marlow</i>, 427)',
 ],
 'stopfen, Stopfen': [
 	'<b>stopfen</b>: stuff, plug, tamp; darn'+
@@ -19361,6 +19427,7 @@ Scherbe: [
 	'<i>Liang</i>: "Ich bin in China geboren", fuhr er fort. "Meine Mutter ist mit mir von den Japanern nach Deutschland geflohen." <i>Charly</i>: "Mit der chinesischen Staatsbürgerschaft könnten Sie in der chinesischen Botschaft heiraten, die <b>scheren sich nicht um</b> Rassehygiene." (<i>Marlow</i>, 97)',
 	'<i>Gennat</i>: "Wenn die Akte Lehmann komplett und vollständig auf meinem Schreibtisch liegt, dann haben Sie Ihren Fall abgeschlossen vorher nicht." <i>Rath</i>: "Natürlich Kriminaldirektor." "Und nun <b>scheren Sie sich raus</b> und holen Sie unsere Akte zurück!" (<i>Marlow</i>, 117)',
 	'Und dann hatte Rath seine Familie heute Morgen gleich wieder belogen.. Hatte einen dienstlichen Termin vorgeschoben, den es nicht gab. Hatte sich dafür nicht einmal geschämt. Weil das Leben <b>sich</b> eben nicht <b>um</b> gute Vorsätze <b>scherte</b>, sondern einem allzuoft keine andere Wahl ließ, als gegen diese Vorsätze und die eigenen Grundsätze.. zu verstoßen. (<i>Marlow</i>, 366-67)',
+	'Rath schaute in den Rückspiegel. Der schwarze Audi, der zwei Auto hinter seinem Buick parkte, <b>scherte</b> nicht aus der Parklücke, hatte nicht einmal den Winker gesetzt. (<i>Marlow</i>, 429)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 scheuern: [
@@ -20204,7 +20271,9 @@ spuren: [
 	'<i>Rath</i>: "Dann erteile ich Ihnen hiermit die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen <b>spurten</b>, wenn man nur erst den Kasernenhofton anschlug. (<i>Märzgefallene</i>, 232)',
 	'Marlow hatte ihm (<i>Leo</i>) erklärt, warum er einen Bullen (<i>Rath</i>) hatte einspannen müssen, um Leo aus der Haft herauszuhauen.... Aber dann hatte Doktor M. ihm gesagt, <i>wann</i> er diesen Kommissar beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine Eier geschaukelt? Hätte dieser Kommissar, den Marlow angeblich in der Tasche hatte, wirklich <b>gespurt</b>,... müsste Leo Juretzka... jetzt nicht mit einer Augenklappe durch die Gegend laufen! (<i>Märzgefallene</i>, 387)',
 	'<u>Lunapark</u>',
-	'Sperling hatte nichts vergessen. Rath hatte den wenig kooperationswilligen Mann seinerzeit abgekanzelt und schlankweg behauptet, ein Kriminalkommissar sei einem SA-Sturmführer gegenüber selbstverständlich weisungsbefugt. Und Sperling hatte <b>gespurt</b>. Bis sein Vorgesetzter aufgekreuzt war und Rath achtkantig hinausgeworfen hatte.  (<i>Lunapark</i>, 94)',
+	'Sperling hatte nichts vergessen. Rath hatte den wenig kooperationswilligen Mann seinerzeit abgekanzelt und schlankweg behauptet, ein Kriminalkommissar sei einem SA-Sturmführer gegenüber selbstverständlich weisungsbefugt. Und Sperling hatte <b>gespurt</b>. Bis sein Vorgesetzter aufgekreuzt war und Rath achtkantig hinausgeworfen hatte. (<i>Lunapark</i>, 94)',
+	'<u>Marlow</u>',
+	'Schmerzhaft schossen die Erinnerungen hoch, Rath sah die leblose Kirie vor sich im Gras liegen. Damals hatte Marlow gedroht, mit Fritze oder Charly genauso zu verfahren wie mit dem Hund, sollte Rath sich seinen Wünschen und Anordnungen verweigern. Rath hatte <b>gespurt</b>. Und sich geschworen, das nie wieder zu tun. (<i>Marlow</i>, 432)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 sputen: [
@@ -20990,8 +21059,10 @@ Truhe: [
 	'<u>Lunapark</u>',
 	'Viel erkennen konnte er nicht, es sah alles gleichförmig aus. Und dann begriff er, warum: Über sämtliche Tische und Stühle, Sessel und Sofas, Schränke und <b>Truhen</b> hatte man weiße Tücher geworfen. Es wirkte wie eine Versammlung regloser Gespenster. Möbelgespenster. (<i>Lunapark</i>, 121)',
 	'Zuerst holte er (<i>Fritze</i>) Gereons Klamotten vom Sofa und warf sie in die Wäsche<b>truhe</b>. (<i>Lunapark</i>, 515)',
+	'<u>Marlow</u>',
+	'Er (<i>Rath</i>) wusste nicht, ob Böhm das mit Absicht machte, aber schon wieder saß der Mann in seinem Lieblingssessel, zwischen Fenster und Telefunken-Musik<b>truhe</b>. (<i>Marlow</i>, 434)',
 ],
-// <b>  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 tupfen: [
 	'<b>tupfen</b>: dab, swab, sponge'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tupfen"target="target1">tupfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tupfen"target="target2">tupfen</a>'+
@@ -21391,6 +21462,8 @@ unverfänglich: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/unverfaenglich#unverf%C3%A4nglich"target="target3">unverfänglich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/unverfanglich"target="target4">unverfänglich</a>',
 	'<u>Märzgefallene</u>',
 	'<i>Frau Heinen, Engels Witwe</i>: "Ihr Besuch wurde angekündigt, Kommissar.... Es geht um meinen verstorbenen Mann?" "Jawohl." Rath musste sich räuspern, er fühlte sich überrumpelt. Eigentlich hätte er mit einem <b>unverfänglicheren</b> Thema anfangen wollen. (<i>Märzgefallene</i>, 284)',
+	'<u>Marlow</u>',
+	'So machte Wilhelm Böhm sich also wieder einmal in Raths Lieblingssessel breit. Das Radio dudelte politisch <b>unverfängliche</b> Schlager, während Charly von ihrem Zeugen erzählte und von dessen Beobachtung. (<i>Marlow</i>, 434)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 vergreifen: [
@@ -22947,6 +23020,8 @@ weichkochen: [
 	'Stephan Jänicke saß mit einem derart eingefrorenen Gesicht auf der Rückbank, wie es wohl nur Ostpreußen zustande bekamen. Nicht die kleinste Gemütsregung war ihm anzusehen.. Jänicke war genau der richtige Mann für so eine Aufgabe, nichts machte einen Ganoven dieses Kalibers nervöser als ein Bulle, der kein Wort sprach. Wilfried Johnny Johnen würde <b>weichgekocht</b> sein, befor er das Präsidium überhaupt erreicht hatte.  (<i>Der nasse Fisch</i>, 246)',
 	'<u>Marlow</u>',
 	'Sollten sie (<i>die Nazis</i>) am Ende nicht nur ihrem (<i>Charlys</i>) Jungen, sondern auch ihrem Mann den Verstand mit ihrem Brimborium <b>weichgekocht</b> haben? Gereon war kein Nazi, nein, das bestimmt nicht. Aber dass er der Regierung und der Partei ausgesprochen kritisch gegenüberstand, das konnte man auch nicht gerade behaupten. (<i>Marlow</i>, 317)',
+	'<i>Böhm</i>: "Es gibt eine schwache Stelle in dieser Angelegenheit, um die wir uns bislang nicht gekümmert haben. Ich wollte den Mann nicht behelligen, um niemanden aufzuschrecken, den man lieber in Sicherheit wiegt, aber wenn es einen Menschen gibt, den wir unter Umständen <b>weichkochen</b> könnten, dann ist das der Arzt." "Doktor Wrede?", fragte Charly. (<i>Marlow</i>, 436)'+
+	'<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>'
 ],
 weichklopfen: [
 	'<b>weichklopfen</b>: tenderize, soften up'+
@@ -23296,6 +23371,8 @@ zaudern: [
 	'"Gereon! Hast du den Beruf gewechselt oder warum stehst du bei den Reportern?" Weinert zeigte auf das Podium. "Solltest du nicht da oben sitzen?" <i>Rath</i>: "Ist nicht mein Fall. Nicht mehr." <i>Weinert</i>: "Oh, tut mir leid. Wollte dir nicht <b>zu nahe treten</b>." (<i>Märzgefallene</i>, 495)',
 	'<u>Lunapark</u>',
 	'Reinhold Gräf saß in der Küche. Eine Flasche Luisenbrand und ein halbvolles Glass standen auf dem Tisch. Rath stellte seine Flasche dazu und setzte sich. "Tut mir leid wegen neulich", sagte er. "Ich wollte dir nicht <b>zu nahe tretten</b>. Ich war einfach sauer." Gräf sagte nichts, er griff zum Glas und trank einen Schluck. (<i>Lunapark</i>, 509)',
+	'<u>Marlow</u>',
+	'<i>Rath zu Gehrke</i>: ".. Es geht mir nur darum, ob Sie vielleicht Beobachtungen gemacht haben, die darauf hindeuten, das es.. eventuell denkbar ist, dass das Leck in der Gasleitung unten im Keller nicht durch einen defekten Dichtungsring verursacht, sonder bewusst und absichtlich herbeigeführt worden ist." "Wenn dem so wäre, dann wäre ich dem wohl nachgeganen, meinen Sie nicht?" "Natürlich. Ich möchte Ihnen in keinster Weise <b>zu nahe treten</b>, Kollege Gehrke, aber..." (<i>Marlow</i>, 427)',
 ],
 'treten (zu nahe T.)': [
 	'<b>zu nahe treten</b>: offend, slight so., step on someone’s toes; cross a line, get too personal'+
@@ -23313,6 +23390,8 @@ zaudern: [
 	'"Gereon! Hast du den Beruf gewechselt oder warum stehst du bei den Reportern?" Weinert zeigte auf das Podium. "Solltest du nicht da oben sitzen?" <i>Rath</i>: "Ist nicht mein Fall. Nicht mehr." <i>Weinert</i>: "Oh, tut mir leid. Wollte dir nicht <b>zu nahe treten</b>." (<i>Märzgefallene</i>, 495)',
 	'<u>Lunapark</u>',
 	'Reinhold Gräf saß in der Küche. Eine Flasche Luisenbrand und ein halbvolles Glass standen auf dem Tisch. Rath stellte seine Flasche dazu und setzte sich. "Tut mir leid wegen neulich", sagte er. "Ich wollte dir nicht <b>zu nahe tretten</b>. Ich war einfach sauer." Gräf sagte nichts, er griff zum Glas und trank einen Schluck. (<i>Lunapark</i>, 509)',
+	'<u>Marlow</u>',
+	'<i>Rath zu Gehrke</i>: ".. Es geht mir nur darum, ob Sie vielleicht Beobachtungen gemacht haben, die darauf hindeuten, das es.. eventuell denkbar ist, dass das Leck in der Gasleitung unten im Keller nicht durch einen defekten Dichtungsring verursacht, sonder bewusst und absichtlich herbeigeführt worden ist." "Wenn dem so wäre, dann wäre ich dem wohl nachgeganen, meinen Sie nicht?" "Natürlich. Ich möchte Ihnen in keinster Weise <b>zu nahe treten</b>, Kollege Gehrke, aber..." (<i>Marlow</i>, 427)',
 ],
 zuprosten: [
 	'jmdm. <b>zuprosten</b>: drink a toast to'+

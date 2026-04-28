@@ -1,8 +1,4 @@
-* {
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-}
+* {margin: 0; padding: 0; border: 0; box-sizing: border-box;}
 
 #update {text-align: center;}
 
@@ -13,8 +9,8 @@ html {
 body {
    font-family: Arial, Verdana, sans-serif;
    background-color: white;
-   width: 95%;  
-   margin: 2% auto;
+   width: 98%;  
+   margin: 1% auto;
 }
 
 .main-header {
@@ -27,18 +23,16 @@ body {
    padding: 1%;
 }
 
-#GR-Krimis {
-   color: maroon;
-}
+#GR-Krimis {color: maroon;}
 
 .return {
    font-size: 100%;
    font-weight: bold;
-   color: maroon;
+   color: navy;
 }
 
 main {
-   width: 80%;
+   width: 95%;
    margin: 10px auto;
    text-align: left;
    padding-bottom: 5%;

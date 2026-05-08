@@ -42,6 +42,7 @@ const l = [
    'lodern',  // lodern: 
    'loseisen',  // loseisen: 
    'lotsen',  // lotsen: 
+   'Lückenbüßer',  // Lückenbüßer:
    'Luder',  // Luder: 
    'lugen',  // lugen: 
    'Luke, Dachluke',  // duplicated

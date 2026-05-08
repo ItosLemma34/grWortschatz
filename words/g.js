@@ -62,7 +62,7 @@ const g = [
    'geschunden, Schinder, schinden',  // duplicated 
    'Geschütz',  // Geschütz: 
    'Geschwafel',    // Geschwafel: 
-   'geschwängert, schwängern', // duplicated 
+   'geschwängert, schwanger, schwängern',
    'Geschwulst',  // Geschwulst:
    'Geseier',  // Geseier:
    'Gesinde',  // Gesinde:   

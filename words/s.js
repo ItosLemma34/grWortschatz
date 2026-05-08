@@ -162,8 +162,8 @@ const s = [
    'Schwaden', // Schwaden:  
    'schwafeln', // schwafeln
    'Schwall',  // Schwall: 
-   'schwanen', // schwanen:  
-   'schwängern, geschwängert',  // duplicated
+   'schwanen', // schwanen:
+   'schwanger, schwängern, geschwängert', // duplicated  
    'Schwanz, S. einziehen/einkneifen',  
    'schwänzen',  // schwänzen:
    'Schwarte',  // Schwarte:

@@ -132,7 +132,7 @@ const v = [
    'verwaisen, verwaist',   
    'verweben, weben', // duplicated
    'verwegen',  // verwegen:  
-   'verwesen, Verwesung', //  
+   'verwesen, Verwesung',   
    'verwetten',  // verwetten: 
    'verwinkelt',  // verwinkelt:
    'verwittern', // verwittern:  

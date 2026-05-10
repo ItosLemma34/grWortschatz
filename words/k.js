@@ -63,7 +63,6 @@ const k = [
    'Klapsmühle', // Klapsmühle: 
    'Klatsch, klatschen',   
    'klauben', // klauben:  
-   'Klaue',  // Klaue: 
    'klebrig', // klebrig: 
    'kleistern, Kleister',  
    'Klemme, klemmen',   

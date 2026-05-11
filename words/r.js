@@ -66,6 +66,7 @@ const r = [
    'rülpsen', // rülpsen: 
    'rumärgern, herumärgern', // duplicated  
    'Rummel', // Rummel: 
+   'rumoren',  // rumoren:
    'rumpeln', // rumpeln: 
    'rümpfen', // rümpfen: 
    'rumsen',  // rumsen: 

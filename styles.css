@@ -1,8 +1,9 @@
 * { margin: 0; padding: 0; border: 0; box-sizing: border-box; }
-html {font-size:14px;}
+/*html {font-size:14px;}*/
+html {font-size:0.82rem}
 .personenTitle {color: maroon; margin-top: 0.2rem; }
 #title { font-size: 100%;}
-#titlePersonen {font-size: 1.25rem; font-weight: bold};
+#titlePersonen {font-size: 1.4rem; font-weight: bold};
 .return {font-size: 100%; font-weight: bold; color: navy; }
 .headerbreak {margin-top: 10px;}
 .sectionbreak {margin-top: 5px; color: navy; }
@@ -10,7 +11,7 @@ html {font-size:14px;}
 #Click {margin-top: 0.4em;}
 button, input, select, textarea {font: inherit;}
 #wordDropdown { height: calc(100% - 140px);}
-#randomSelectButton { margin-top: 0.3em; width:75%; font-size: 1.08rem;}
+#randomSelectButton { margin-top: 0.3em; width:80%; font-size: 1.07rem;}
 .sizeOfLabels {font-size: 1.19rem; display: block; margin: 1px auto; }
 
 
@@ -61,8 +62,9 @@ header {
     margin-bottom: 12px;
     margin-left: 6px;
     margin-right: 6px;
-    font-size: 1.18grem;
+    font-size: 1.18rem;
    /* font-size: 17px; */
+    font-size:1.2rem; 
     text-align: left;
 }
 .selection-container {
@@ -89,11 +91,11 @@ button {
     height: 2.2rem;
 }
 
-.selection-container-book {
-    width: 15rem;
-    min-width: 10rem;
-    max-width: 25rem;
-    button { width: 11rem; }
+.selection-container-book {  /*governs panel on left side of Personen*/
+    min-width: 10%;
+    max-width: 20%;
+ /*   button { width: 12rem; font-size: 120%;} */
+    button { width: 80%; font-size: 116%;}
 }
 
 input,select {

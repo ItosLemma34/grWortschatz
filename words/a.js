@@ -65,6 +65,7 @@ const a = [
 	'Anhöhe',  // Anhöhe:
 	'Anleger, Fähre', // duplicated
 	'anleinen',     // anleinen: 
+    'anmaßen',  // anmaßen:
 	'anmotzen',  // anmotzen:
 	'anpeilen',  // anpeilen:   
 	'Anpfiff' ,     // Anpfiff:  
@@ -122,7 +123,8 @@ const a = [
 	'auf die Nase binden',  //  duplicated 
 	'auf die Palme treiben/bringen',  //  duplicated 
 	'auf die Pelle rücken',   //  duplicated 
-	'auf die Schliche kommen',  //  duplicated 
+	'auf die Schliche kommen',  //  duplicated
+    'auf die Socken machen',  // duplicated 
 	'auf die Sprünge helfen',   // duplicated
 	'auf die Tube drücken/treten',   //  duplicated 
 	'auf etwas aus sein',   

@@ -188,6 +188,7 @@ const s = [
    'Sims',  //  Sims: 
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  
+   'Socken, auf die S. machen',  // duplicated
    'Sore',  // Sore: 
    'soufflieren',  // soufflieren: 
    'Spalier',  // Spalier:  

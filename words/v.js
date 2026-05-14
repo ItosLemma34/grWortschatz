@@ -16,6 +16,7 @@ const v = [
    'verdünnisieren', // verdünnisieren: 
    'verdunsten',  // verdunsten: 
    'verdutzt',  // verdutzt: 
+   'verfänglich', // verfänglich:
    'verflachen', // verflachen:  
    'verfilzen' ,  // verfilzen:  
    'verflixt',  //  verflixt:
@@ -138,6 +139,7 @@ const v = [
    'verwittern', // verwittern:  
    'verwuscheln, verwuschelt',  
    'verwüsten',  // verwüsten:
+   'verzwackt, verzwickt',
    'verzapfen',  // verzapfen:
    'verzieren', // verzieren:  
    'verzückt', // verzückt:  

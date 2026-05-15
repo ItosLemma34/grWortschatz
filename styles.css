@@ -10,10 +10,10 @@ html {font-size:0.82rem}
 .bodybreak {margin-top: 3px; }
 #Click {margin-top: 0.4em;}
 button, input, select, textarea {font: inherit;}
-#wordDropdown { height: calc(100% - 140px);}
-#randomSelectButton { margin-top: 0.3em; width:80%; font-size: 1.07rem;}
+#wordDropdown { height: calc(100% - 140px); border-width: 2px;}
+#randomSelectButton { margin-top: 0.3em; width:85%; font-size: 1.1rem;}
 .sizeOfLabels {font-size: 1.19rem; display: block; margin: 1px auto; }
-
+#find-as-you-type { font-size: 1.4rem;  margin: 2px auto; border-width: 2px;}
 
 body {
     font-family: Arial, Verdana, sans-serif;
@@ -36,7 +36,8 @@ header {
     /* Ensure header is above other content */
 }
 .main-header {
-    font-size: 130%;
+ /*   font-size: 130%;*/
+    font-size: 1.43rem;
     display: flex;
     justify-content: space-evenly;
     /* Adjusted for better spacing */
@@ -53,18 +54,20 @@ header {
 }
 #main-container {
     flex-grow: 1;
-    margin: 0.5em;
+ /*   margin-top: 0.36rem;*/
+    margin: 0.36rem 0rem 0rem 0rem;
+/*    margin-bottom: 5.1rem;
+    margin: 0.5rem;*/
     overflow: auto;
     text-align: center;
+    font-size: 1.13rem;
 }
 .main-container-item {
     margin-top: 5px;
     margin-bottom: 12px;
     margin-left: 6px;
     margin-right: 6px;
-    font-size: 1.18rem;
-   /* font-size: 17px; */
-    font-size:1.3rem; 
+    font-size: 1.3rem; 
     text-align: left;
 }
 .selection-container {
@@ -76,7 +79,7 @@ header {
     border-right: 3px solid maroon;
     background-color: #a1d3f08c;
     height: 100%;
-    font-size: 0.9rem;
+    font-size: 1rem;
     /* Allows scrolling within the container if necessary */
 }
 

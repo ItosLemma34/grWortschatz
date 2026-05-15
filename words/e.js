@@ -16,6 +16,7 @@ const e = [
    'einflößen',  // einflößen: 
    'einfrieden', // einfrieden: 
    'Eingebung',   // Eingebung:
+   'eingedenk',  // eingedenk:
    'eingehen wie eine Primel',  // duplicated  
    'Eingeweide', // Eingeweide: 
    'einhaken',   //  einhaken:

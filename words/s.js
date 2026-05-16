@@ -62,6 +62,7 @@ const s = [
    'Schlappschwanz',  // Schlappschwanz: 
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch:
+   'Schlaufe',  // Schlaufe:
    'schleichen, an-, heran-, nach-, herum-, hinaus-', 
    'Schleife',  // Schleife:
    'schleifen, Schleifer',  

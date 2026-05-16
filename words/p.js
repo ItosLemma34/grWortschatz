@@ -45,6 +45,7 @@ const p = [
   'platschen', // platschen: 
   'plätschern', // plätschern: 
   'Platzhirsch', // Platzhirsch: 
+  'Plausch, plauschen',
   'ploppen',  // ploppen: 
   'plump, plumpsen',
   'plüschig',  // plüschig:

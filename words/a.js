@@ -27,7 +27,8 @@ const a = [
 	'abstauben',  // abstauben: 
 	'abstottern', // abstottern: 
 	'abstumpfen',  // abstumpfen:
-	'abtrünnig',  // abtrünnig: 
+	'abtrünnig',  // abtrünnig:
+    'abwälzen',  // abwälzen: 
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
 	'abzocken',  // abzocken:  
@@ -149,7 +150,6 @@ const a = [
 	'aufhalsen',   // aufhalsen: 
 	'aufjaulen',   // aufjaulen:  
 	'aufkratzen, aufgekratzt', 
-	'auflauern',   // auflauern: 
 	'aufmucken',   // aufmucken:  
 	'aufmüpfig',  // aufmüpfig: 
 	'aufpäppeln',  // aufpäppeln:  

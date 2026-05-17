@@ -16,6 +16,7 @@ const g = [
    'gedungener Mörder, dingen',  // duplicated
    'gefasst',  // gefasst: 
    'Gefeilsche, feilschen',  // duplicated
+   'gefeit',  // gefeit:
    'Geflecht',  // Geflecht:
    'geflissentlich',  // geflissentlich: 
    'gefügig', // gefügig:

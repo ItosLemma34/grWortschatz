@@ -20,7 +20,7 @@ const l = [
    'latschen',  // latschen:
    'lau',   // lau:
    'Laub, Laube, Lauben-', 
-   'lauern',  // lauern:  
+   'lauern, auf-',    
    'Lauf',    // Lauf: 
 //   'Lauf -gitter, -steg; Gitter -rost; Metalrost',  //triplicated
    'Laufbursche',  // Laufbursche: 

@@ -55,7 +55,7 @@ const p = [
   'Polster, polstern, Polsterung',
   'poltern',  // poltern: 
   'postieren', // postieren: 
-  'prallen, auf-, ab-',
+  'prallen, ab-, auf-',
   // 'präparieren' ,
   'Prämisse',  // Prämisse:
   'prangen', // prangen: 

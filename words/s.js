@@ -1,7 +1,7 @@
 const s = [
    'sabbern',  // sabbern:  
    'Sägemehl', // Sägemehl: 
-   'sägen, aus-, auf', 
+   'sägen, auf-, aus-', 
    'Salbung, salbungsvoll', 
    'Samen',  // Samen:
    'Sammelsurium', // Sammelsurium:  

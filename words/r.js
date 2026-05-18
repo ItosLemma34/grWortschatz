@@ -5,7 +5,7 @@ const r = [
    'Rachen', // Rachen: 
    'Radau, Radaubruder', 
    'radieren',  // radieren:  
-   'raffen, dahinraffen',  // duplicated  
+   'raffen, dahin-',  
    'rammen, Ramme, Dampf-',  // duplicated  
    'ramponiert, ramponieren',   
    'Rangelei',  // Rangelei: 
@@ -15,7 +15,7 @@ const r = [
    'rascheln', // rascheln: 
    'rasen, Rasen',   
    'Rasenmäher, mähen',  // duplicated 
-   'rasseln, zusammenrasseln', // duplicated
+   'rasseln, zusammen-', 
    'Ratsch', // Ratsch: 
    'Rätselraten', // Rätselraten: 
    'rattern',  // rattern:              

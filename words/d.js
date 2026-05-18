@@ -2,7 +2,6 @@ const d = [
    'Dach (aufs D. steigen)',  // duplicated
    'Dachlatte, Zaunlatte', // duplicated  
    'Dachluke, Luke',  // duplicated
-   'dahinraffen, raffen',  // duplicated 
    'dämlich, Dämlichkeit',  
    'Damm',  // Damm: 
    'Dampframme, Ramme, rammen',  // duplicated  

@@ -88,7 +88,6 @@ const a = [
 	'Anwesen',      // Anwesen: 
 	'anwidern',     // anwidern:
 	'anwinkeln',  // anwinkeln: 
-	'anzapfen, Zapfen, zapfen', // duplicated
 	'Anzeige erstatten',  
 	'anzetteln',  // anzetteln:  
 	'anzüglich',  //  anzüglich:  
@@ -146,7 +145,6 @@ const a = [
 	'aufgelöst',   // aufgelöst:   only for the "distraught" definition
 	'aufgeweckt',  // aufgeweckt: 
 	'aufgießen, Aufguss',  
-	'aufglimmen, glimmen',  //  duplicated  
 	'aufhalsen',   // aufhalsen: 
 	'aufjaulen',   // aufjaulen:  
 	'aufkratzen, aufgekratzt', 
@@ -161,7 +159,6 @@ const a = [
 	'aufs Korn nehmen',  // duplicated 
 	'aufscheuchen',    // aufscheuchen:   
 	'aufschichten',   // aufschichten: 
-	'aufspießen, spießen, Spieß',  // duplicated 
 	'aufstemmen',  // aufstemmen:
 	'aufstieben',    // aufstieben:  
 	'auftakeln',     // auftakeln: 
@@ -173,7 +170,7 @@ const a = [
 	'Auge (aufs A. drücken)',  // duplicted 
 	'aus dem Konzept bringen', // duplicated     
 	'aus dem Staub machen', //  duplicated 
-	'aus dem Häuschen sein',     
+	'aus dem Häuschen', // duplicated    
 	'aus der Haut fahren',   
 	'ausbaldowern', // ausbaldowern: 
 	'ausblenden',  // ausblenden: 

@@ -37,7 +37,7 @@ const l = [
    'Licht unter den Scheffel',  // duplicated
    'lichterloh brennen',   
    'Litfaßsäule',  // Litfaßsäule: 
-   'Lobhudelei, Hudelei',  //  duplicated 
+   'Lobhudelei, lobhudeln, Hudelei',  //  duplicated 
    'löchern, Löcher in den Bauch fragen',  
    'lodern',  // lodern: 
    'loseisen',  // loseisen: 

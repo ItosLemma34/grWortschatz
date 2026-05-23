@@ -10,6 +10,7 @@ const e = [
    'Eindruck schinden', // 
    'eine Flappe ziehen',  // duplicated  
    'einen Korb bekommen/geben', // duplicated 
+   'einen Stich versetzen',  // duplicated
    'einen Streich spielen, Streich',   // duplicated
    'einen Strick drehen',  // duplicated  
    'einfädeln',  // einfädeln:  
@@ -71,7 +72,7 @@ const e = [
    'erdreisten', // erdreisten:     
    'ergattern',   // ergattern:  
    'erhaschen',   // erhaschen: 
-   'erheblich, unerheblich', // duplicated 
+   'erheblich, un-',  
    'Erker', // Erker:   
    'erkiesen',   // erkiesen:  
    'erpicht',   // erpicht: 

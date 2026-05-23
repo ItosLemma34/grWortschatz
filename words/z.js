@@ -4,8 +4,8 @@ const z = [
    'zahm, handzahm', //   duplicated  
    'Zahn (auf den Z. fühlen)', //  duplicated 
    'Zange (in die Z. nehmen)', //  duplicated 
-   'zanken',  // 
-   'Zapfen, zapfen, anzapfen', // duplicated 
+   'zanken',  // zanken: 
+   'Zapfen, zapfen, an-', // duplicated 
    'zappeln', // zappeln:  
    'Zarge' , // Zarge:  
    'zartbesaitet, besaitet',  // duplicated

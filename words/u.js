@@ -24,7 +24,6 @@ const u = [
    'unbescholten', // unbescholten: 
    'unbotmäßig',  // unbotmäßig:
    'unentwegt',  // unentwegt: 
-   'unerheblich, erheblich', //  duplicated 
    'unflätig',  // unflätig: 
    'ungehalten',  // ungehalten: 
    'ungehobelt',  // ungehobelt: 

@@ -205,7 +205,7 @@ const s = [
    'Sperrhaken',  // Sperrhaken:  
    'sperrig',  // sperrig:       
    'spicken',  // spicken:  
-   'Spieß, spießen, aufspießen',  //  duplicated
+   'Spieß, spießen, auf-',  
    'spießig, Spießigkeit, Spießer',
    'Spind',  // Spind:
    'Splint',  // Splint:
@@ -243,7 +243,7 @@ const s = [
    'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-   'Stich, einen S. versetzen',   
+   'Stich, einen S. versetzen', // duplicated  
    'Stiefel, stiefeln',  
    'stieren, an-',  
    'stöbern, auf-',    

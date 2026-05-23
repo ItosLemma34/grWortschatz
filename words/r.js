@@ -44,7 +44,8 @@ const r = [
    'renitent',  // renitent: 
    'requirieren', // requirieren: 
    'reüssieren',  // reüssieren: 
-   'Revers',  // Revers:  
+   'Revers',  // Revers: 
+   'Richtfest',  // Richtfest: 
    'Riegel, riegeln',   
    'rieseln',  // rieseln: 
    'Rinde',  // Rinde: 

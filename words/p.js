@@ -7,8 +7,9 @@ const p = [
   'päppeln', // päppeln:   
   'Pappenstiel', // Pappenstiel: 
   'Parade (in die P. fahren)', //  duplicated 
-  'Parzelle',  // Parzelle:  
+  'Parzelle',  // Parzelle:
   'Patrone', // Patrone: 
+  'patschen', // patschen:  
   'patzen',  // patzen:
   'patzig, Patzigkeit',
   'pauken', // pauken: 

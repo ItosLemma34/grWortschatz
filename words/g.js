@@ -72,7 +72,8 @@ const g = [
    'gestanden',  // gestanden: 
    'geständig',  // geständig 
    'Gestänge',   // Gestänge:  
-   'Gestell',    // Gestell:  
+   'Gestell',    // Gestell: 
+   'gestiefelt und gespornt', 
    'Gestöber',   // Gestöber: 
    'Gesträuch, Strauch',  // duplicated  
    'Gestrüpp',  // Gestrüpp: 
@@ -97,7 +98,7 @@ const g = [
    'Gitter -rost; Lauf -gitter, -steg; Metalrost',  // triplicated 
    'gleißen, gleißend',
    'glimpflich',  // glimpflich:  
-   'glimmen, aufglimmen', //  duplicated 
+   'glimmen, auf-',  
    'glotzen, an-',
    'gluckern', // gluckern:  
    'goldene Nase (sich verdienen)',

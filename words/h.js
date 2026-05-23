@@ -24,8 +24,10 @@ const h = [
    'harren',  // harren: 
    'hart im Nehmen sein',   
    'Hatz',  // Hatz: 
-   'Haube, Kühlerhaube', // duplicated  
-   'Hausierer, hausieren',   
+   'Haube, Kühlerhaube', // duplicated 
+   'Häuschen (aus dem H.)', // duplicated
+   'Hausierer, hausieren', 
+   'Haut (aus der H. fahren)',  // duplicated  
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
    'hechten, Hechtsprung',
@@ -73,7 +75,7 @@ const h = [
    'Hose (in die H. machen/gehen)', // duplicated     
    'Hosenmatz',  // Hosenmatz:  
    'Hosennaht',  // Hosennaht:  
-   'Hudelei, Lobhudelei', //  duplicated
+   'Hudelei, Lobhudelei, lobhudeln', //  duplicated
    'Hufeisen',  // Hufeisen: 
    'Hühnchen rupfen, rupfen',  // duplicated
    'Hühnerauge', // Hühnerauge: 

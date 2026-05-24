@@ -48,6 +48,7 @@ const r = [
    'Richtfest',  // Richtfest: 
    'Riegel, riegeln',   
    'rieseln',  // rieseln: 
+   'Rille', // Rille:
    'Rinde',  // Rinde: 
    'Rind, Rindvieh, Rinderbraten',   
    'Rinne',  // Rinne: 

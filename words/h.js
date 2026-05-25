@@ -64,7 +64,7 @@ const h = [
    'Hippe',  // Hippe: 
    'hobeln', // hobeln: 
    'hochgestochen', // hochgestochen: 
-   'hochrappeln, aufrappeln',  // duplicated 
+//   'hochrappeln, aufrappeln',  // duplicated 
    'Hochstapler',  // Hochstapler:
    'hocken, Hocke, Hocker',  
    'Hölle heißmachen',   

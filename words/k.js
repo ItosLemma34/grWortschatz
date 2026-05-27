@@ -49,7 +49,7 @@ const k = [
    'Kirschen essen',  
    'Kittel',  // Kittel: 
    'kitten',  // kitten:
-   'kitzeln', // kitzeln: 
+   'kitzeln, Kitzel',  
    'klackern', // klackern: 
    'Klacks',  // Klacks: 
    'Kladde',  // Kladde: 

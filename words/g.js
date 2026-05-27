@@ -60,7 +60,7 @@ const g = [
    'geschliffen',  // geschliffen:  
    'geschniegelt',  // geschniegelt:  
    'Geschreibsel',  // Geschreibsel:  
-   'geschunden, Schinder, schinden',  // duplicated 
+   'geschunden, Schinder, schinden, Eindruck-',  // triplicated 
    'Geschütz',  // Geschütz: 
    'Geschwafel',    // Geschwafel: 
    'geschwängert, schwanger, schwängern',

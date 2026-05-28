@@ -63,7 +63,7 @@ const s = [
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch:
    'Schlaufe',  // Schlaufe:
-   'schleichen, an-, heran-, nach-, herum-, hinaus-', 
+   'schleichen, an-, heran-, nach-, herum-, hinaus-, vorbei-', 
    'Schleife',  // Schleife:
    'schleifen, Schleifer',  
    'schlendern' , // schlendern:  

@@ -28,7 +28,8 @@ const p = [
   'pfeffern, gepfeffert',  //  duplicated 
   'Pfeiler',  // Pfeiler:  
   'pferchen, ein-, zusammen-',
-  'pfiffig',  // pfiffig: 
+  'pfiffig',  // pfiffig:
+  'pflücken, zer-',    
   'Pfropfen',  // Pfropfen: 
   'pfuschen, ins Handwerk p.', //  duplicated 
   'Pfütze',  // Pfütze:

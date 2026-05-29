@@ -52,14 +52,15 @@ const f = [
    'flitzen', // flitzen: 
    'Floskel', // Floskel: 
    'flöten', // flöten:  
-   'flott',  // flott:     
+   'flott',  // flott: 
    'Fluse',  // Fluse: 
    'Flüstertüte',  // Flüstertüte:   
    'flutschen',  // flutschen:  
    'Folie',  // Folie: 
    'formvollendet', // formvollendet:  
    'forsch',  // forsch: 
-   'Fraktur', // Fraktur:   
+   'Fraktur', // Fraktur:
+   'Fraß',  // Fraß:   
    'Fratze',  // Fratze: 
    'Freiersfüße', // Freiersfüße: 
    'frequentieren',  // frequentieren:

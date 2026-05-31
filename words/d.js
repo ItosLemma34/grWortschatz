@@ -21,7 +21,7 @@ const d = [
    'dingen, gedungener Mörder',   // duplicated
    'dingfest',  // dingfest:  
    'direktemang', // direktemang:  
-   'dösen, eindösen',  //   duplicated 
+   'dösen, ein-',  
    'dosieren',  // dosieren: 
    'drall',    // drall:  
    'drängeln',  // drängeln:

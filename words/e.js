@@ -6,7 +6,6 @@ const e = [
    'einbleuen = einbläuen', 
    'einbrocken',  // einbrocken:  
    'einbuchten',  // einbuchten:  
-   'eindösen, dösen', //   duplicated 
    'Eindruck schinden, Schinder, schinden, geschunden', // triplicated
    'eine Flappe ziehen',  // duplicated  
    'einen Korb bekommen/geben', // duplicated 

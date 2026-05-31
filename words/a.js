@@ -8,7 +8,6 @@ const a = [
 	'abgrasen',   // abgrasen:   
 	'abgreifen, abgegriffen',
 	'abhalftern, abgehalftert',   
-//	'abhängen',   // abhängen:  include only if more examples found for "leave behind"
 	'abkanzeln' , // abkanzeln:  
 	'abklappern', // abklappern: 
 	'abknallen',  // abknallen:  
@@ -75,7 +74,6 @@ const a = [
 	'anquatschen',   // anquatschen: 
 	'Anrichte',     // Anrichte: 
 	'ans Bein binden',  //  duplicated 
-	'anschmachten, schmachten', //  duplicated 
 	'anschmiegsam', // anschmiegsam: 
 	'anschnauzen',  // anschnauzen: 
 	'anschwärzen',  // anschwärzen:  

@@ -40,7 +40,7 @@ const t = [
    'trollen',   // trollen: 
    'Tropen',  // Tropen: 
    'Tropf',  // Tropf:  
-   'Tropfen, tropfen, abtropfen, tröpfeln',      
+   'Tropfen, tropfen, ab-, tröpfeln',      
    'Tross/Troß',  
 //   'Trost (nicht bei T. sein)',  //   duplicated  
    'Trott, trotten',   
@@ -53,7 +53,7 @@ const t = [
    'Tube (auf die T. drücken/treten)', //  duplicated 
    'tünchen, Tünche', // 
    'tunken',  // tunken: 
-   'T(t)upfen, ab-, be-',  //  triplicated 
+   'Tupfen, tupfen, ab-, be-',  //  triplicated 
    'türken',  // türken: 
    'türmen', // türmen 
 //   'turteln', // turteln:  duplicate with Geturtel

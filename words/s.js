@@ -84,7 +84,7 @@ const s = [
    'schlüpfrig', // schlüpfrig: 
    'schlurfen',  // schlurfen:  
    'Schmach', // Schmach:  
-   'schmachten, anschmachten', // duplicated 
+   'schmachten, an-',  
    'schmächtig', // schmächtig: 
    'schmählich',  // schmählich: 
    'schmatzen',  // schmatzen:

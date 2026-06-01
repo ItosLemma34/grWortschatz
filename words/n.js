@@ -14,7 +14,6 @@ const n = [
   'Nervensäge', // Nervensäge: 
   'Nessel (sich in die N. setzen)',
   'nesteln', // nesteln: 
-//  'nicht bei Trost sein', // duplicated 
   'Nichts für ungut',
   'niederreißen, einreißen',  // duplicated  
   'niederträchtig, Niedertracht',

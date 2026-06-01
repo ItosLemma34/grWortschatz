@@ -42,7 +42,7 @@ const t = [
    'Tropf',  // Tropf:  
    'Tropfen, tropfen, ab-, tröpfeln',      
    'Tross/Troß',  
-//   'Trost (nicht bei T. sein)',  //   duplicated  
+   'Trost (nicht bei T. sein)',    
    'Trott, trotten',   
    'Trottel',  // Trottel: 
    'Trubel',  // Trubel: 

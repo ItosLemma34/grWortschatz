@@ -23,13 +23,14 @@ const f = [
    'festfressen',  // festfressen: 
    'festzurren, zurren', //  duplicated  
    'Fettnäpfchen (ins F. treten)',  //  duplicated 
-   'Fetzen',  // Fetzen: 
+   'fetzen, Fetzen, zerfetzen',
    'Fichte',  // Fichte: 
    'filzen',  // filzen:  
    'Findling',   // Findling: 
    'fingieren',  // fingieren: 
    'Firlefanz',  // Firlefanz: 
    'Fischzug',   // Fischzug:  
+   'fixieren',   // fixieren:
    'Flachmann',  // Flachmann:  
    'Flachpfeife', // Flachpfeife: 
    'flackern',  // flackern:  

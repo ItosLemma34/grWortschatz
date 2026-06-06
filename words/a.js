@@ -151,7 +151,6 @@ const a = [
 	'aufpäppeln',  // aufpäppeln:  
 //	'aufplustern', // aufplustern:  why not?
 	'aufputschen',  // aufputschen: 
-//	'aufrappeln, hochrappeln', // duplicated  
 	'aufs Auge drücken', // duplicated   
 	'aufs Dach steigen',       
 	'aufs Korn nehmen',  // duplicated 

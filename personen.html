@@ -2,100 +2,101 @@
 <html lang="de">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gereon-Rath-Krimis: Wortschatz und Redewendungen</title>
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gereon-Rath-Krimis: Wortschatz und Redewendungen</title>
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <!--ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß -->
-    <header>
-        <div class="main-header">
-            <a class="return" href="index.html"><b>Home page</b></a>
-            <a id="titlePersonen">Personen</a>
-            <a class="return" href="index.html"><b>Home page</b></a>
-        </div>
-    </header>
+  <header>
+    <div class="main-header">
+      <a class="return" href="index.html"><b>Home page</b></a>
+      <a id="titlePersonen">Personen</a>
+      <a class="return" href="index.html"><b>Home page</b></a>
+    </div>
+  </header>
 
-    <main class="main-container">
-        <div class="selection-container selection-container-book">
-            <button onclick="showPersonen('der-nasse-fisch')"><b>Der nasse Fisch</b></button>
-            <br>
-            <button onclick="showPersonen('der-stumme-tod')"><strong>Der stumme Tod</strong></button>
-            <br>
-            <button onclick="showPersonen('goldstein')"><strong>Goldstein</strong></button>
-            <br>
-            <button onclick="showPersonen('die-akte-vaterland')"><strong>Die Akte Vaterland</strong></button>
-            <br>
-            <button onclick="showPersonen('maerzgefallene')"><strong>Märzgefallene</strong></button>
-            <br>
-            <button onclick="showPersonen('lunapark')"><strong>Lunapark</strong></button>
-            <br>
-            <button onclick="showPersonen('marlow')"><strong>Marlow</strong></button>
-            <br>
-            <button onclick="showPersonen('olympia')"><strong>Olympia</strong></button>
-            <br>
-            <button onclick="showPersonen('transatlantik')"><strong>Transatlantik</strong></button>
-            <br>
-            <button onclick="showPersonen('rath')"><strong>Rath</strong></button>
-        </div>
+<main class="main-container">
 
-        <div id="main-container" class="main-container-item personen-by-book">
+  <div class="selection-container selection-container-book">
+    <button onclick="showPersonen('der-nasse-fisch')"><b>Der nasse Fisch</b></button>
+    <br>
+    <button onclick="showPersonen('der-stumme-tod')"><strong>Der stumme Tod</strong></button>
+    <br>
+    <button onclick="showPersonen('goldstein')"><strong>Goldstein</strong></button>
+    <br>
+    <button onclick="showPersonen('die-akte-vaterland')"><strong>Die Akte Vaterland</strong></button>
+    <br>
+    <button onclick="showPersonen('maerzgefallene')"><strong>Märzgefallene</strong></button>
+    <br>
+    <button onclick="showPersonen('lunapark')"><strong>Lunapark</strong></button>
+    <br>
+    <button onclick="showPersonen('marlow')"><strong>Marlow</strong></button>
+    <br>
+    <button onclick="showPersonen('olympia')"><strong>Olympia</strong></button>
+    <br>
+    <button onclick="showPersonen('transatlantik')"><strong>Transatlantik</strong></button>
+    <br>
+    <button onclick="showPersonen('rath')"><strong>Rath</strong></button>
+  </div>
+
+  <div id="main-container" class="main-container-item personen-by-book">
 
 <!--ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     Ä ö Ö ü Ü ß class="personenTitle"   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß -->
-        <div id="der-nasse-fisch" class="main-container-item">
-            <div>
-                <p class="personenTitle"> <u><b>Der nasse Fisch</b></u> </p>
-                <ul style="list-style-type: none;">
-                <li class="headerbreak"><b>Gereon Rath</b></li>
-                <li><b>Charlotte (Charly) Ritter:</b> Stenotypistin bei der Mordinspektion</li>
-                <li><b>Wilhelm Böhm:</b> Oberkommissar der Mordinspektion</li>
-                <li class="sectionbreak"><u>Historische Persönlichkeiten</u></li>
-                <li class="bodybreak"><b>Ernst Gennat:</b> "Der Buddha", Kriminaldirektor der Mordinspektion</li>
-                <li><b>"Dörrzwiebel":</b> Siehe Karl Zörgiebel</li>
-                <li><b>Karl Zörgiebel:</b> Berliner Polizeipräsident; Engelbert Raths Duzfreund; abfälliger Spitzname: "Dörrzwiebel"</li>
-                <li><b>Otto Bauknecht</b>: Kölner Polizeipräsident</li>
-                <li class="sectionbreak"><u>Fiktiv</u></li>
-                <li class="bodybreak"><b>Behnke, Elisabeth:</b> Witwe (Helmut Behnke gefallen im Krieg), Raths Vermieterin (bis er hinaufgeworfen wird)</li>
-                <li><b>Fallin, Nikita</b> Russe, das Narbengesicht vom Bar <i>Kakadu, zusammen mit Vitali Selenskij</i></li>
-                <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li>
-                <li><b>Gloria (Gustav)</b>: Rasseweib im <i>Eldorado</i>; gibt Rath Auskunft über Marlow</li>
-                <li><b>Gräf, Reinhold:</b> Kriminalassistent der Mordinspektion</li>
-                <li><b>Jänicke, Stephan</b>: Kriminalassistent der Inspektion E ("die Sitte")</li>
-                <li><b>Kardakov, Alexei</b>: Russe, Raths Vormieter bei Elisabeth Behnke</li>
-                <li><b>Karpenko, Boris</b>: Russe, der Tote im Landwehrkanal</li>
-                <li><b>König, Johann</b>: fotografiert Pornografie, erfasst bei der Razzia in seinem Atelier</li>
-                <li><b>Krajewski, Franz</b>: "Der Pornokaiser", ein Kokser, erfasst bei der Razzia in Königs Atelier </li>
+    <div id="der-nasse-fisch" class="main-container-item">
+        <div>
+            <p class="personenTitle"> <u><b>Der nasse Fisch</b></u> </p>
+            <ul style="list-style-type: none;">
+            <li class="headerbreak"><b>Gereon Rath</b></li>
+            <li><b>Charlotte (Charly) Ritter:</b> Stenotypistin bei der Mordinspektion</li>
+            <li><b>Wilhelm Böhm:</b> Oberkommissar der Mordinspektion</li>
+            <li class="sectionbreak"><u>Historische Persönlichkeiten</u></li>
+            <li class="bodybreak"><b>Ernst Gennat:</b> "Der Buddha", Kriminaldirektor der Mordinspektion</li>
+            <li><b>"Dörrzwiebel":</b> Siehe Karl Zörgiebel</li>
+            <li><b>Karl Zörgiebel:</b> Berliner Polizeipräsident; Engelbert Raths Duzfreund; abfälliger Spitzname: "Dörrzwiebel"</li>
+            <li><b>Otto Bauknecht</b>: Kölner Polizeipräsident</li>
+            <li class="sectionbreak"><u>Fiktiv</u></li>
+            <li class="bodybreak"><b>Behnke, Elisabeth:</b> Witwe (Helmut Behnke gefallen im Krieg), Raths Vermieterin (bis er hinaufgeworfen wird)</li>
+            <li><b>Fallin, Nikita</b> Russe, das Narbengesicht vom Bar <i>Kakadu, zusammen mit Vitali Selenskij</i></li>
+            <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li>
+            <li><b>Gloria (Gustav)</b>: Rasseweib im <i>Eldorado</i>; gibt Rath Auskunft über Marlow</li>
+            <li><b>Gräf, Reinhold:</b> Kriminalassistent der Mordinspektion</li>
+            <li><b>Jänicke, Stephan</b>: Kriminalassistent der Inspektion E ("die Sitte")</li>
+            <li><b>Kardakov, Alexei</b>: Russe, Raths Vormieter bei Elisabeth Behnke</li>
+            <li><b>Karpenko, Boris</b>: Russe, der Tote im Landwehrkanal</li>
+            <li><b>König, Johann</b>: fotografiert Pornografie, erfasst bei der Razzia in seinem Atelier</li>
+            <li><b>Krajewski, Franz</b>: "Der Pornokaiser", ein Kokser, erfasst bei der Razzia in Königs Atelier </li>
         <!--        <li><b>Kreisch-Sylvie (Sylvia Walkowski</b>: pg 263 264 and earlier </li>  -->
-                <li><b>Lanke, Werner</b>: Kriminalrat, Chef der Inspektion E ("die Sitte")</li>
+            <li><b>Lanke, Werner</b>: Kriminalrat, Chef der Inspektion E ("die Sitte")</li>
         <!--    <li><b>Müller</b>: sought by Rath in Schäffner's Wohnhaus  110-11</li>          -->
-                <li><b>Nikoros, Lana</b>: Sängerin im Nachtclub <i>Delphi-Palast</i>; Deckname für Swetlana</li>
-                <li><b>Overbeck, Greta:</b> Charlys beste Freundin </li>
-                <li><b>Rath, Anno</b>: Raths älterer Bruder, im Krieg gefallen</li>
+            <li><b>Nikoros, Lana</b>: Sängerin im Nachtclub <i>Delphi-Palast</i>; Deckname für Swetlana</li>
+            <li><b>Overbeck, Greta:</b> Charlys beste Freundin </li>
+            <li><b>Rath, Anno</b>: Raths älterer Bruder, im Krieg gefallen</li>
         <!--    <li><b>rote Sophie</b>: pg 263</li>  -->
-                <li><b>Schäffner</b>: Frau von Hermann Schäffner, befragt von Rath</li>
+            <li><b>Schäffner</b>: Frau von Hermann Schäffner, befragt von Rath</li>
                 <li><b>Schäffner, Hermann</b>: Portier im Wohnhaus untersucht von Rath</li>
-        <!--    <li><b>Schneid, Josef</b>:   134,135    -->
-                <li><b>Schwartz, Magnus</b>: Arzt, Gerichtsmediziner (<i>forensic pathologist</i>)</li>
-                <li><b>Sehring</b>: Architekt, Besitzer und Erbauer des <i>Delphi-Palastes</i></li>
-                <li><b>Selenski, Vitali</b>: Russe, vom Bar <i>Kakadu, zusammen mit Nikita Fallin</i></li>
-                <li><b>Swetlana</b>: Swetlana Gräfin Sorokina (alias Lana Nikoros)</li>
+        <!--   <li><b>Schneid, Josef</b>:   134,135    -->
+            <li><b>Schultes</b>: Polizeibeamter; Rath und Wolter beobachten die Maidemonstrationen aus seinem Fenster</li>
+            <li><b>Schwartz, Magnus</b>: Arzt, Gerichtsmediziner (<i>forensic pathologist</i>)</li>
+            <li><b>Sehring</b>: Architekt, Besitzer und Erbauer des <i>Delphi-Palastes</i></li>
+            <li><b>Selenski, Vitali</b>: Russe, vom Bar <i>Kakadu, zusammen mit Nikita Fallin</i></li>
+            <li><b>Swetlana</b>: Swetlana Gräfin Sorokina (alias Lana Nikoros)</li>
         <!--    <li><b>Schmitt, Lieselotte</b>: Wolters Sekretärin  pg 99</li>        -->
         <!--    <li><b>Alexander LeClerk</b>: </li>    102    -->
         <!--    <li><b>Felten</b>: Sekretär von Herrn Sehring</li>    134-35    -->
-                <li><b>Tretschkow, Ilja</b>: Chef der Kapelle in der Svetlana (Lana Nikoros) gesungen hat</li>
-                <li><b>Weinert, Berthold</b>: Journalist, mietet auch ein Zimmer bei Behnke</li>
-                <li><b>Völcker, Peter</b>: Arzt, Kommunist</i></li>
-                <li><b>Wolter, Bruno</b>: "der Onkel", Oberkommissar der Inspektion E ("die Sitte")</li>
-                <li><b>Wolter, Emmi</b>: Bruno Wolters Frau</li>
+            <li><b>Tretschkow, Ilja</b>: Chef der Kapelle in der Svetlana (Lana Nikoros) gesungen hat</li>
+            <li><b>Weinert, Berthold</b>: Journalist, mietet auch ein Zimmer bei Behnke</li>
+            <li><b>Völcker, Peter</b>: Arzt, Kommunist</i></li>
+            <li><b>Wolter, Bruno</b>: "der Onkel", Oberkommissar der Inspektion E ("die Sitte")</li>
+            <li><b>Wolter, Emmi</b>: Bruno Wolters Frau</li>
                 <!--     Schultes  53,54 55      -->
-                </ul>
+            </ul>
             </div>
         </div>
 
-            <div id="der-stumme-tod" class="main-container-item">
+    <div id="der-stumme-tod" class="main-container-item">
                 <div>
                     <p class="personenTitle"> <u><b>Der stumme Tod is not yet availabe</b></u> </p>
                     <ul style="list-style-type: none;">
@@ -143,100 +144,86 @@
                     </ul>
                 </div>
             </div>
-            <div id="lunapark" class="main-container-item">
-                <div>
-                    <p class="personenTitle"> <u><b>Lunapark</b></u> </p>
-                    <ul style="list-style-type: none;">
-                        <li class="headerbreak"><b>Gereon Rath</b></li>
-                        <li><b>Charlotte (Charly) Rath (geb. Ritter):</b> Raths Ehefrau, ehemalige Kommissaranwärterin
-                        </li>
-                        <li><b>Fritze</b> (<b>Friedrich Thormann</b>): Pflegesohn von Gereon und Charlotte Rath</li>
-                        <li><b>Johann Marlow</b>: Unterweltkönig</li>
-                        <li class="sectionbreak"><u>Historische Persönlichkeiten</u></li>
-                        <li><b>Konrad Adenauer</b>: ehemaliger Oberbürgermeister von Köln, später Bundeskanzler
-                            (1949-63)</li>
-                        <li><b>Ernst Gennat</b>: "Der Buddha", Kriminaldirektor der Mordinspektion</li>
-                        <li><b>Reinhard Heydrich:</b> Gestapo-Chef</li>
-                        <!-- add more detail? should come after Himmler?-->
-                        <li><b>Heinrich Himmler:</b> SS-Chef</li> <!-- add more detail? -->
-                        <li class="sectionbreak"><u>Fiktiv</u></li>
-                        <li><b>Adler, Herbert:</b> Kommunist, bei der Gestapo-Razzia im Industriepalast verhaftet</li>
-                        <li><b>Beckmann, Heinrich:</b> von Karl Reinhold gemordet?</li>
-                        <li><b>Bestmann, Walter:</b> Inhaber der Bar im Sturmlokal 101</li>
-                        <li><b>Blum, Manfred; Scherer, Guido:</b> Anwälte und Inhaber einer neuen Rechtskanzlei</li>
-                        <li><b>Brachwitz, Gertraud:</b> Frau von Theo Brachwitz; von Rath befragt</li>
-                        <li><b>Brachwitz, Theo:</b> Handlungsreisender; von Gräf als mutmaßlicher Mörder Dewalds
-                            verdächtigt</li>
-                        <li><b>Brandt, Vera:</b> Juretskas Freundin</li>
-                        <li><b>Czerwinski, Paul:</b> Kriminalsekretär, Mitarbeiter von Rath</li>
-                        <li><b>Der rote Hugo:</b> ehemaliger Chef der Berolina, ermordet von der <i>Weißen Hand</i>;
-                            nach dessen Tod wurde Juretzka Chef der <i>Berolina</i></li>
-                        <li><b>Dettmann, Harald:</b> ehemaliger Kriminalkommissar, das <i>Phantom</i> im Roman <u>Die
-                                Akte Vaterland</u>; bekam seine Mordaufträge von Hermann Lapke</li>
-                        <li><b>Dewald, Hans:</b> SA-Feldjäger, zweites Mordopfer</li>
-                        <li><b>Ernst, Karl:</b> Standortführer der SA Berlin</li>
-                        <li><b>Friedemann:</b> Doktor, Besitzer der Villa in Freienwalde</li>
-                        <li><b>Fritsch, Walter:</b> SA-Standartenführer, Chef des SA-Feldjägerkorps</li>
-                        <!--   not in this book?             <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li> -->
-                        <li><b>Goldstein:</b> Amerikanischer Gangster aus dem Roman "<i>Goldstein</i>", möglicherweise
-                            in Kontakt mit Marlow</li>
-                        <li><b>Gräf, Reinhold:</b> Kommissar z.A. bei der Gestapo; zuvor Kriminalsekretär in der
-                            Mordinspektion</li> <!-- add clarification of z.A. -->
-                        <li><b>Hartmann:</b> SA-Scharführer, Pförtner im SA-Hauptquartier</li>
-                        <!--   <li><b>Hoffmann, Ingeborg:</b> Sekretärin bei Scherer und Blum</li> -->
-                        <li><b>Husen, Mohamed:</b> Askari, Klient von Scherer und Blum; Charly bearbeitet seinen Fall
-                        </li>
-                        <li><b>Juretska, Leo:</b> ehemaliger Chef des Ringvereins <i>Berolina</i>, will Rath töten</li>
-                        <li><b>Kaczmarek, Horst:</b> ehemaliger Nordpirat, Rottenführer im SA-Sturm 101, erstes
-                            Mordopfer</li> <!-- explain "Rotte" ?-->
-                        <li><b>Karthaus, Gero:</b> Arzt, Gerichtsmediziner (<i>forensic pathologist</i>)</li>
-                        <li><b>Keller, Marlene:</b>: früher Alexandra "Alex" Reinhold; Karl Reinholds Schwester</li>
-                        <li><b>Kilian:</b> Oberkommissar der Fahnder (<i>forensic investigators</i>)</li>
-                        <li><b>Kirie:</b> Gereons Hund</li>
-                        <li><b>Kötter, Conrad</b> ("<b>Conny</b>"):</b> SA-Mann, "Freund" von Gräf</li>
-                        <li><b>Jäger, Isolde</b>: Garderobiere der Volksbühne, Zeugin Dewalds Mord</li>
-                        <li><b>Lamprecht, Else:</b> Karl Reinholds Freundin</li>
-                        <li><b>Landauer:</b> Makler, Vermieter von Marlows Villa</li>
-                        <li><b>Landvogt, Wilhelm:</b> Mitglied des SA-Sturms 101, von Gennat und später von Lange
-                            verhört </li>
-                        <li><b>Lange, Andreas:</b> Kriminalkommissar z.A., arbeitet mit Rath</li>
-                        <li><b>Lapke, Herman:</b> Sturmführer des SA-Sturms 101, ehemaliger Nordpirat</li>
-                        <li><b>Leister, Wilhelm:</b> von Rath über seinen Ford Model A befragt </li>
-                        <li><b>Lichtenberg, Bernhard:</b> Dompfarrer von Sankt Hedwig</li>
-                <!--        Maschmeyer und Fiedler 400   -->
-                        <li><b>Mettmann, Fräulein:</b> Gräfs Sekretärin</li>
-                        <li><b>Meyerheim, Ferdinand:</b> Gastronom, Hotelbesitzer; vom Sturm 101 gefoltert, verlor sein
-                            rechtes Auge</li>
-                        <li><b>Osterberg, Adolf:</b> Textilfabrikant aus Cottbus</li>
-                        <li><b>Osterberg, Emilie:</b> Adolf Osterbergs Frau</li>
-                        <!--        <li><b>Overbeck, Greta:</b> Charlys beste Freundin </li>  -->
-                        <li><b>Pfeiffer, Hubert:</b> Gestapo-Truppführer ("<i>mit drei f</i>")</li>
-                        <li><b>Rademann, Atze:</b> Freund von Fritze</li>
-                        <li><b>Rademann, Wilhelm:</b> Stammführer, Vater von Atze, Mithelfer bei der Hitlerjugend</li>
-                        <li><b>Rambow, Erich:</b> Fleischergeselle, begleitet Charly bei ihrer Suche nach Karl Reinhold
-                        </li>
-                        <li><b>Rath, Engelbert:</b> Gereons Vater, ehemaliger Kriminaldirektor in Köln</li>
-                        <li><b>Reinhold, Helmut:</b> Vater von Marlene Keller (Alex Reinhold) und Karl Reinhold</li>
-                        <li><b>Reinhold, Karl:</b> Bruder von Marlene Keller, Kommunist</li>
-                        <li><b>Scherer, Guido; Blum, Manfred:</b> Anwälte und Inhaber einer neuen Rechtskanzlei</li>
-                        <li><b>Schulze, Johann:</b> Chauffeur für Osterberg</li>
-                        <li><b>Sperling, Eric:</b> SA-Sturmbannführer im Feldjägerkorps</li>
-                        <li><b>Spindler, Elisabeth:</b> Walter Spindlers Frau, Katholikin</li>
-                        <li><b>Spindler, Walter:</b> Kommunist; Besitzer des Glasauges, das in in Kaczmareks Luftröhre
-                            gefunden wurde</li>
-                        <!--    <li><b>Schweinebacke:</b> pg 492-93</li> -->
-                        <li><b>Temme, Christel:</b> Stenotypistin bei Gennat</li>
-                        <li><b>Voss, Erika:</b> Raths Sekretärin; passt auf Kirie, wenn Rath sie zur Arbeit mitbringt
-                        </li>
-                        <li><b>Warszawski, Johannes:</b> Pfarrer von Sankt Norbert, hat Gereon und Charly getraut</li>
-                        <li><b>Wilczek, Josef:</b> "<i>der heilige Josef</i>", getötet von Rath im ersten Roman (<i>Der
-                                nasse Fisch</i>)</li>
-                        <li><b>Wolff, Gregor:</b> Anführer der "Gruppe Wolff", angeblich eine rote Malerkolonne</li>
-                    </ul>
+        
+    <div id="lunapark" class="main-container-item">
+        <div>
+            <p class="personenTitle"> <u><b>Lunapark</b></u> </p>
+            <ul style="list-style-type: none;">
+            <li class="headerbreak"><b>Gereon Rath</b></li>
+            <li><b>Charlotte (Charly) Rath (geb. Ritter):</b> Raths Ehefrau, ehemalige Kommissaranwärterin</li>
+            <li><b>Fritze</b> (<b>Friedrich Thormann</b>): Pflegesohn von Gereon und Charlotte Rath</li>
+            <li><b>Johann Marlow</b>: Unterweltkönig</li>
+            <li class="sectionbreak"><u>Historische Persönlichkeiten</u></li>
+            <li><b>Konrad Adenauer</b>: ehemaliger Oberbürgermeister von Köln, später Bundeskanzler (1949-63)</li>
+            <li><b>Ernst Gennat</b>: "Der Buddha", Kriminaldirektor der Mordinspektion</li>
+            <li><b>Reinhard Heydrich:</b> Gestapo-Chef</li>
+            <!-- add more detail? should come after Himmler?-->
+            <li><b>Heinrich Himmler:</b> SS-Chef</li> <!-- add more detail? -->
+            <li class="sectionbreak"><u>Fiktiv</u></li>
+            <li><b>Adler, Herbert:</b> Kommunist, bei der Gestapo-Razzia im Industriepalast verhaftet</li>
+            <li><b>Beckmann, Heinrich:</b> von Karl Reinhold gemordet?</li>
+            <li><b>Bestmann, Walter:</b> Inhaber der Bar im Sturmlokal 101</li>
+            <li><b>Blum, Manfred; Scherer, Guido:</b> Anwälte und Inhaber einer neuen Rechtskanzlei</li>
+            <li><b>Brachwitz, Gertraud:</b> Frau von Theo Brachwitz; von Rath befragt</li>
+            <li><b>Brachwitz, Theo:</b> Handlungsreisender; von Gräf als mutmaßlicher Mörder Dewalds verdächtigt</li>
+            <li><b>Brandt, Vera:</b> Juretskas Freundin</li>
+            <li><b>Czerwinski, Paul:</b> Kriminalsekretär, Mitarbeiter von Rath</li>
+            <li><b>Der rote Hugo:</b> ehemaliger Chef der Berolina, ermordet von der <i>Weißen Hand</i>; nach dessen Tod wurde Juretzka Chef der <i>Berolina</i></li>
+            <li><b>Dettmann, Harald:</b> ehemaliger Kriminalkommissar, das <i>Phantom</i> im Roman <u>Die Akte Vaterland</u>; bekam seine Mordaufträge von Hermann Lapke</li>
+            <li><b>Dewald, Hans:</b> SA-Feldjäger, zweites Mordopfer</li>
+            <li><b>Ernst, Karl:</b> Standortführer der SA Berlin</li>
+            <li><b>Friedemann:</b> Doktor, Besitzer der Villa in Freienwalde</li>
+            <li><b>Fritsch, Walter:</b> SA-Standartenführer, Chef des SA-Feldjägerkorps</li>
+            <!--   not in this book?             <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li> -->
+            <li><b>Goldstein:</b> Amerikanischer Gangster aus dem Roman "<i>Goldstein</i>", möglicherweise in Kontakt mit Marlow</li>
+            <li><b>Gräf, Reinhold:</b> Kommissar z.A. bei der Gestapo; zuvor Kriminalsekretär in der Mordinspektion</li> <!-- add clarification of z.A. -->
+            <li><b>Hartmann:</b> SA-Scharführer, Pförtner im SA-Hauptquartier</li>
+            <!--   <li><b>Hoffmann, Ingeborg:</b> Sekretärin bei Scherer und Blum</li> -->
+            <li><b>Husen, Mohamed:</b> Askari, Klient von Scherer und Blum; Charly bearbeitet seinen Fall</li>
+            <li><b>Juretska, Leo:</b> ehemaliger Chef des Ringvereins <i>Berolina</i>, will Rath töten</li>
+            <li><b>Kaczmarek, Horst:</b> ehemaliger Nordpirat, Rottenführer im SA-Sturm 101, erstes Mordopfer</li> <!-- explain "Rotte" ?-->
+            <li><b>Karthaus, Gero:</b> Arzt, Gerichtsmediziner (<i>forensic pathologist</i>)</li>
+            <li><b>Keller, Marlene:</b>: früher Alexandra "Alex" Reinhold; Karl Reinholds Schwester</li>
+            <li><b>Kilian:</b> Oberkommissar der Fahnder (<i>forensic investigators</i>)</li>
+            <li><b>Kirie:</b> Gereons Hund</li>
+            <li><b>Kötter, Conrad</b> ("<b>Conny</b>"):</b> SA-Mann, "Freund" von Gräf</li>
+            <li><b>Jäger, Isolde</b>: Garderobiere der Volksbühne, Zeugin Dewalds Mord</li>
+            <li><b>Lamprecht, Else:</b> Karl Reinholds Freundin</li>
+            <li><b>Landauer:</b> Makler, Vermieter von Marlows Villa</li>
+            <li><b>Landvogt, Wilhelm:</b> Mitglied des SA-Sturms 101, von Gennat und später von Lange verhört </li>
+            <li><b>Lange, Andreas:</b> Kriminalkommissar z.A., arbeitet mit Rath</li>
+            <li><b>Lapke, Herman:</b> Sturmführer des SA-Sturms 101, ehemaliger Nordpirat</li>
+            <li><b>Leister, Wilhelm:</b> von Rath über seinen Ford Model A befragt </li>
+            <li><b>Lichtenberg, Bernhard:</b> Dompfarrer von Sankt Hedwig</li>
+            <!--        Maschmeyer und Fiedler 400   -->
+            <li><b>Mettmann, Fräulein:</b> Gräfs Sekretärin</li>
+            <li><b>Meyerheim, Ferdinand:</b> Gastronom, Hotelbesitzer; vom Sturm 101 gefoltert, verlor sein rechtes Auge</li>
+            <li><b>Osterberg, Adolf:</b> Textilfabrikant aus Cottbus</li>
+            <li><b>Osterberg, Emilie:</b> Adolf Osterbergs Frau</li>
+            <!--        <li><b>Overbeck, Greta:</b> Charlys beste Freundin </li>  -->
+            <li><b>Pfeiffer, Hubert:</b> Gestapo-Truppführer ("<i>mit drei f</i>")</li>
+            <li><b>Rademann, Atze:</b> Freund von Fritze</li>
+            <li><b>Rademann, Wilhelm:</b> Stammführer, Vater von Atze, Mithelfer bei der Hitlerjugend</li>
+            <li><b>Rambow, Erich:</b> Fleischergeselle, begleitet Charly bei ihrer Suche nach Karl Reinhold</li>
+            <li><b>Rath, Engelbert:</b> Gereons Vater, ehemaliger Kriminaldirektor in Köln</li>
+            <li><b>Reinhold, Helmut:</b> Vater von Marlene Keller (Alex Reinhold) und Karl Reinhold</li>
+            <li><b>Reinhold, Karl:</b> Bruder von Marlene Keller, Kommunist</li>
+            <li><b>Scherer, Guido; Blum, Manfred:</b> Anwälte und Inhaber einer neuen Rechtskanzlei</li>
+            <li><b>Schulze, Johann:</b> Chauffeur für Osterberg</li>
+            <li><b>Sperling, Eric:</b> SA-Sturmbannführer im Feldjägerkorps</li>
+            <li><b>Spindler, Elisabeth:</b> Walter Spindlers Frau, Katholikin</li>
+            <li><b>Spindler, Walter:</b> Kommunist; Besitzer des Glasauges, das in in Kaczmareks Luftröhre gefunden wurde</li>
+            <!--    <li><b>Schweinebacke:</b> pg 492-93</li> -->
+            <li><b>Temme, Christel:</b> Stenotypistin bei Gennat</li>
+            <li><b>Voss, Erika:</b> Raths Sekretärin; passt auf Kirie, wenn Rath sie zur Arbeit mitbringt</li>
+            <li><b>Warszawski, Johannes:</b> Pfarrer von Sankt Norbert, hat Gereon und Charly getraut</li>
+            <li><b>Wilczek, Josef:</b> "<i>der heilige Josef</i>", getötet von Rath im ersten Roman (<i>Der nasse Fisch</i>)</li>
+            <li><b>Wolff, Gregor:</b> Anführer der "Gruppe Wolff", angeblich eine rote Malerkolonne</li>
+            </ul>
                     <!--                Grego Wolff, Rudolf Kramer, Heiz Stephan pg 405 
                        Göring:  SA-Feldjägerkorps. Görings Truppe  pg 504                                                                  -->
-                </div>
-            </div>
+        </div>
+    </div>
 
 
             <!--ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß -->
@@ -245,9 +232,9 @@
                 <p class="personenTitle"> <u><b>Marlow</b></u> </p>
                 <ul style="list-style-type: none;">
                 <li class="headerbreak"><b>Gereon Rath</b></li>
-                <li><b>Charlotte (Charly) Rath (geb. Ritter):</b> Gereons Ehefrau, ehemalige Kommissaranwärterin; arbeitet für die Detektei Böhm</li>
+                <li><b>Charlotte (Charly) Rath (geb. Ritter):</b> Gereons Ehefrau; ehemalige Kriminalkommissarin; arbeitet jetzt für die Detektei Böhm</li>
                 <li><b>Fritze (Friedrich Thormann):</b> Pflegesohn von Gereon und Charly</b></li>
-                <li><b>Johann Marlow:</b> Unterweltkönig, inoffizieller Anführer des ehemaligen Ringvereins <i>Berolina</i></li>
+                <li><b>Johann Marlow:</b> Unterweltkönig, inoffizieller Anführer des ehemaligen Ringvereins <i>Berolina</i>; jetzt Ehrenmitglied der SS</li>
                 <li><b>Magnus Larsen:</b> Marlows Geburtsname</li>
                 <li><b>Wilhelm Böhm:</b> ehemaliger Oberkommissar der Mordinspektion; jetzt Chef der Detektei Böhm</li>
                 <li class="sectionbreak"><u>Historische Persönlichkeiten</u></li>
@@ -265,10 +252,9 @@
                 <li><b>Blarr, Elli:</b> Besitzerin einer Taxifirma, Eigentümerin des Unfalltaxis</li>
                 <li><b>Blum, Manfred; Scherer, Guido:</b> Anwälte und Inhaber der Rechtskanzlei <i>Blum & Scherer</i></li>
                 <li><b>Böttcher, E.:</b> Kommerzienrat; Nachbar, der Herta Rinkes Milch gestohlen hat</li>
-                <!--   <li><b>Bremer, Mathilde:</b> drittes Todesopfer der Gasexplosion in der Eckkneipe die sie betrieb</li> -->
                 <li><b>Bruck, Anton:</b> Ringvereinler; attackiert Winkler, stirbt von Glioblastom (Hirntumor), oder wurde ermordet</li>
                 <li><b>Brunner, Gerhard:</b> SS-Obersturmführer; spioniert Irene Schmeling aus, stirbt in Taxiunfall; siehe "Heller, Ferdinand"</li>
-                <li><b>Chen-Lu:</b> siehe "Liang, Chen-Lu"</li>
+                <li><b>Chen-Lu:</b> Siehe "Liang, Chen-Lu" (<i>chinesische Namen sind gelistet: "Familienname, Vorname"</i>)</li>
                 <li><b>Czerwinski, Paul:</b> Kriminalsekretär, arbeitet für Rath</li>
                 <li><b>Döring, Marta:</b> beschattet von Charly in einer Badeanstalt</li>
                 <li><b>Döring, Sigmund:</b> Martas Ehemann; engagiert Charly, von der Detektei Böhm, Marta zu observieren</li>
@@ -278,10 +264,9 @@
                 <li><b>Engelke:</b> Friedrich Larsens Diener</li>
                 <li><b>Fang Chun:</b> Chinesischer Beamter in Tsingtau; Charly telefoniert ihn</li>
                 <li><b>Gehrke, Rudolf:</b> Kriminalsekretär, leitete die Ermittlungen zur Gasexplosion</li>
-                    <!-- arbeitet jetzt bei den Rauschgiftfahndern -->
                 <li><b>Gerhard, Schorsch:</b> Wirt der Kneipe <i>Das Nasse Dreieck</i></li>
                 <li><b>Gerlach:</b> Gefängniswärter, korrupter Kollege von Charlys Vater, in seiner Badewanne ertrunken</li>
-                <!--  <li><b>Gosda, Wilhelm:</b> Hauswart von Wredes Arztpraxis   pg 460</li> -->
+                <li><b>Gosda, Wilhelm:</b> Hauswart von Wredes Arztpraxis</li> 
                 <li><b>Gräf, Reinhold:</b> ehemaliger Kriminalsekretär und "Freund" von Rath; nun Gestapo-Kommissar, dann SS-Untersturmführer</li>
                 <li><b>Grunert:</b> Gefängniswärter, korrupter Kollege von Charlys Vater, an Herzversagen gestorben</li>
                 <li><b>Heller, Ferdinand:</b> Deckname für Gerhard Brunner</li>
@@ -297,6 +282,7 @@
                 <li><b>Lehmann, Hedwig:</b> Otto Lehmanns Frau</li>
                 <li><b>Lehmann, Lotte:</b> Otto Lehmanns Tochter</li>
                 <li><b>Lehmann, Otto:</b> Taxifahrer, gestorben (mit Brunner) im Taxiunfall; leidet an Glioblastom</li>
+                <li><b>Lembeck, Hans:</b> organiziert Marlows Flucht aus Deutschland</li>
                 <li><b>Lenz, Hugo:</b> "Der rote Hugo", wurde Chef der <i>Berolina</i> nach Winklers Tod; gestorben vor Brunners Taxiunfall</li>
                 <li><b>Liang, Kuen-Yao:</b> Chen-Lus Sohn; Marlows Hauptassistent: "Der Schatten von Johann Marlow"</li>
                 <li><b>Liang, Tao:</b> Friedrich Larsens Chauffeur in China; heiratet Chen-Lu Liang; Kuen-Yao Liang glaubt, er sei sein Vater</li>
@@ -305,6 +291,7 @@
                 <li><b>Lorenz, Paula:</b> Sekretärin (die Brünette) im LKA</li>
                 <li><b>Manske, Friedrich:</b> Taxifahrer, von Lauenburg zu Rath geschickt; erzählt Rath über Lehmann/Brunner</li>
                 <li><b>Möller, Robert:</b> Kriminalsekretär im LKA; neuer Kollege von Rath</li>
+                <li><b>Noack, Hans:</b> Marlows Deckname, als er aus Deutschland flieht</li>
                 <li><b>Overbeck, Greta:</b> Charlys beste Freundin </li>
                 <li><b>Peters:</b> Fräulein, vom Jugendamt; besucht Rath und Charly, wegen Fritze</li>
                 <li><b>Priebe, Maria:</b> bewohnte die Gesindehäusern in Altendorf; befragt von Charly</li>
@@ -329,11 +316,8 @@
                 <li><b>Westermann:</b> Kriminalkommissar vom Vermisstendezernat</li>
                 <li><b>Winkler, Adolf:</b> Chef der <i>Berolina</i>, Strafgefangener; attackiert von Bruck; gestorben, mit Christian Ritter, in Gasexplosion</li>
                 <li><b>Wrede, Alexander:</b> Lehmanns Hausarzt</li>
-                <!--   <li><i>Anmerkung: chinesische Namen sind gelistet "Familienname, Vorname"</i></li>
-                <li>Brückner: zweiter Zeuge des Taxiunfalls pg. 32</li>
+                <!-- 
                 <li>Schwartz, Dr.: 222</li> 
-                <li>Brückner: zweiter Zeuge des Taxiunfalls pg. 32</li>
-                <li>Engelke: Diener in Friedrich Larsens Haushalt</li> 
                 Lauenburg: Taxi driver; Rath pressured him to interview other Taxi drivers pg 108 
                 Frau Körte: from LKA Landeskriminalamt; Vorzimmerdame von Nebe;  Voss makes Rath an appt. with her pg 109 
                 Heinrich Helldorf, 
@@ -371,18 +355,16 @@
                 </div>
             </div>
 
-    </main>
-
-    <script src="personen.js"></script>
-    <script>
+</main>
+  <script src="personen.js"></script>
+  <script>
         "use strict";
         function saveCurrentWord() {
             const currentWord = document.getElementById('wordDropdown').value;
             sessionStorage.setItem('returnWord', currentWord);
         }
-    </script>
+  </script>
 </body>
-
 </html>
 
 

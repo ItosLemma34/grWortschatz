@@ -55,7 +55,8 @@ const b = [
     'Beteuerung', // Beteuerung   
     'betreten',   // betreten:  
     'Bettfeder',  // Bettfeder:
-    'Beule, beulen, ver-, zer-',    
+    'Beule, beulen, ver-, zer-',
+    'bewenden lassen',    
     'bibbern',    // bibbern: 
     'bieder',     // bieder: 
     'Biege machen', // 

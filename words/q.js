@@ -2,7 +2,7 @@ const q = [
    'Quacksalber', // Quacksalber:
    'qualmen',  // qualmen: 
    'Quast', // Quast: 
-   'quellen, überquellen',  //  duplicated 
+   'quellen, über-, heraus-',   
    'quengeln', // quengeln: 
    'Quere (in die Q. kommen)', //  duplicated 
    'Querschläger',  // Querschläger: 

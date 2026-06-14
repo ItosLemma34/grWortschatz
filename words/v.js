@@ -81,6 +81,7 @@ const v = [
    'verschaukeln',  // verschaukeln: 
    'verscherbeln', // verscherbeln: 
    'verscherzen',  // verscherzen:  
+   'verscheuchen',  // verscheuchen:
    'verschieben',  // verschieben:   check for other entries
    'verschimmeln',  // verschimmeln:  
    'Verschlag',   // Verschlag:

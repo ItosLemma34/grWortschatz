@@ -14,7 +14,8 @@ const f = [
    'Fass, Fass aufmachen',    
    'Fatzke', // Fatzke: 
    'fauchen, an-', 
-   'Faustpfand',  // Faustpfand:  
+   'Faustpfand',  // Faustpfand:
+   'fechten, aus-, Gefecht',  // duplicated 
    'Feder',  //  Feder: 
    'fegen',  // fegen:  
    'feilbieten',  // feilbieten:  
@@ -23,7 +24,7 @@ const f = [
    'festfressen',  // festfressen: 
    'festzurren, zurren', //  duplicated  
    'Fettnäpfchen (ins F. treten)',  //  duplicated 
-   'fetzen, Fetzen, zerfetzen',
+   'Fetzen, fetzen, zer-',
    'Fichte',  // Fichte: 
    'filzen',  // filzen:  
    'Findling',   // Findling: 

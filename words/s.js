@@ -132,7 +132,7 @@ const s = [
    'Schott, S. dicht machen',  
    'Schotter', // Schotter: 
    'schraffieren',  // schraffieren:
-   'schrammen', // schrammen: 
+   'schrammen, entlang-, vorbei-',  
    'Schränker', // Schränker: 
    'schrappen',  // schrappen: 
    'Schraubstock', // Schraubstock:  
@@ -242,7 +242,8 @@ const s = [
    'stauchen', // stauchen:  
    'Steckbrief', // Steckbrief:  
    'Stecknadel im Heuhaufen',  
-   'Steg', // Steg: 
+   'Steg', // Steg:
+   'stempeln, s. gehen, Stempel, -kissen', 
    'stibitzen', // stibitzen: 
    'Stich, einen S. versetzen', // duplicated  
    'Stiefel, stiefeln',  
@@ -254,7 +255,7 @@ const s = [
    'stopfen, Stopfen',  
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 
-   'strampeln',  // strampeln: 
+   'strampeln, ab-',   
    'Strang, Schienen-, Kabel-',  
    'Stränge (über die S. schlagen)',  // duplicated 
    'Strauch, Gesträuch',  // duplicated 

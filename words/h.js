@@ -78,6 +78,7 @@ const h = [
    'Hufeisen',  // Hufeisen: 
    'Hühnchen rupfen, rupfen',  // duplicated
    'Hühnerauge', // Hühnerauge: 
+   'Hülle',  // Hülle: 
    'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  
    'Hunde (vor die H. gehen)',  // duplicated 

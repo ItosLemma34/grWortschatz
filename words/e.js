@@ -6,7 +6,7 @@ const e = [
    'einbleuen = einbläuen', 
    'einbrocken',  // einbrocken:  
    'einbuchten',  // einbuchten:  
-   'Eindruck schinden, Schinder, schinden, geschunden', // triplicated
+   'Eindruckschinden, Schinder, schinden, geschunden', // triplicated
    'eine Flappe ziehen',  // duplicated  
    'einen Korb bekommen/geben', // duplicated 
    'einen Stich versetzen',  // duplicated
@@ -34,7 +34,6 @@ const e = [
    'einnicken',  // einnicken:  
    'Einöde, öde',   // duplicated  
    'einrasten',  // einrasten:  
-   'einreißen, niederreißen',  //  duplicated  
    'einrenken', // einrenken:      
    'einrüsten, Gerüst', // duplicated  
    'einsacken',  // einsacken: 
@@ -54,7 +53,7 @@ const e = [
    'einverleiben', // einverleiben: 
    'einweisen',  // einweisen:
    'eitern',  // eitern:
-   'ekeln an-, hinaus-; Ekel, eklig, ekelhaft',  
+   'ekeln, an-, hinaus-; Ekel, eklig, ekelhaft',  
    'Empore',     // Empore:  
    'Engerling',  // Engerling: 
    'entbieten',  // entbieten:  

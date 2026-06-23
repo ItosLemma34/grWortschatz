@@ -34,7 +34,8 @@ const w = [
    'Widerhaken', // Widerhaken: 
    'wie am Schnürchen', // duplicated
    'wie aus dem Ei gepellt',  //  duplicated 
-   'wie bestellt und nicht abgeholt', // 
+   'wie bestellt und nicht abgeholt',
+   'wiehern', // wiehern:  
    'wienern', // wienern: 
    'wimmeln, Gewimmel',  //   duplicated 
    'wimmern', // wimmern: 

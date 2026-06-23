@@ -15,7 +15,6 @@ const n = [
   'Nessel (sich in die N. setzen)',
   'nesteln', // nesteln: 
   'Nichts für ungut',
-  'niederreißen, einreißen',  // duplicated  
   'niederträchtig, Niedertracht',
   'niegelnagelneu',  // niegelnagelneu: 
   'niesen',  // niesen: 

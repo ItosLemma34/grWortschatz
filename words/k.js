@@ -79,7 +79,7 @@ const k = [
    'Klumpen, Klumpfuß',   
    'Klüngel',  // Klüngel:   
    'knacken',  // knacken: 
-   'Knall, knallen',  
+   'Knall, knallen, zu-',  
    'Knarre',  // Knarre: 
    'knarren', // knarren: 
    'knarzen', // knarzen: 

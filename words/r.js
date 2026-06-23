@@ -38,6 +38,7 @@ const r = [
    'reinsemmeln', // reinsemmeln: 
    'reinwürgen, Würge, würgen',  // duplicate  
 //   'reißen, ab-,auf-,aus-,ein-,ent-,los-,zer-,zusammen-',  
+   'reißen, gerissen',
    'reißerisch',  // reißerisch: 
    'Reling',  // Reling
    'Rempler, rempeln, an-',

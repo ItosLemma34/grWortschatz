@@ -18,7 +18,8 @@ const s = [
    'Schachtel',  // Schachtel:   
    'schade (zu schade sein)',   //duplicated 
    'Schäferstündchen', // Schäferstündchen:
-   'schälen', // schälen:    
+   'schälen', // schälen:
+   'schallen, Schall',    
    'Schank',  // Schank: 
    'Schar',  // Schar:  
    'Scharfmacher', // Scharfmacher:
@@ -47,7 +48,7 @@ const s = [
    'Schimmel, (ver)schimmeln',  
 //   'Schimmer (keinen blassen S.)',  
    'schimmern, Schimmer, keinen S. haben', 
-   'Schinder, schinden, Eindruck-, geschunden',  // triplicated 
+   'Schinder, schinden, Eindruck-, geschunden', // triplicated 
    'Schinken',  // Schinken:
    'Schippe (von der S. springen)',  // duplicated
    'schlabbern', // schlabbern: 
@@ -64,6 +65,7 @@ const s = [
    'Schlauch', // Schlauch:
    'Schlaufe',  // Schlaufe:
    'schleichen, an-, heran-, nach-, herum-, hinaus-, vorbei-', 
+   'Schleier',  // Schleier:
    'Schleife',  // Schleife:
    'schleifen, Schleifer',  
    'schlendern' , // schlendern:  
@@ -274,8 +276,9 @@ const s = [
    'Strudel',  // Strudel: 
    'strunzdämlich',   // strunzdämlich:  
    'Stuck', // Stuck: 
+   'Stücke (große S. auf jmdn. halten)',
    'Stulle',  // Stulle: 
-	'stülpen', // stülpen:  
+   'stülpen', // stülpen:  
    'Stummel',  // Stummel: 
    'Stümper, stümperhaft', // 
    'Sturzbach',  // Sturzbach:

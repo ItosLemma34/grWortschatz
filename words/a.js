@@ -27,7 +27,8 @@ const a = [
 	'abstottern', // abstottern: 
 	'abstumpfen',  // abstumpfen:
 	'abtrünnig',  // abtrünnig:
-    'abwälzen',  // abwälzen: 
+    'abwälzen',  // abwälzen:
+    'abwetzen',  // abwetzen:     
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
 	'abzocken',  // abzocken:  
@@ -37,7 +38,7 @@ const a = [
 	'Ader',  // Ader: 
 	'Adlatus', // Adlatus:  
 	'adrett',   // adrett:  
-	'ächzen',     // ächzen:  ä sorted as ae 
+	'ächzen',     // ächzen:   
 	'Affekthandlung',   // Affekthandlung: 
 	'Affenzahn (mit einem A.)', // duplicated
 	'Albernheit, albern, herum-',
@@ -157,7 +158,8 @@ const a = [
 	'aufscheuchen',    // aufscheuchen:   
 	'aufschichten',   // aufschichten: 
 	'aufstemmen',  // aufstemmen:
-	'aufstieben',    // aufstieben:  
+	'aufstieben',    // aufstieben:
+    'aufstöbern',  // aufstöbern:  // duplicated as 'stöbern, auf-'
 	'auftakeln',     // auftakeln: 
 	'auftischen',    // auftischen:  
 	'Aufwartung machen',  

@@ -37,8 +37,8 @@ const r = [
    'reinreiten, hineinreiten',  // duplicated  
    'reinsemmeln', // reinsemmeln: 
    'reinwürgen, Würge, würgen',  // duplicate  
-//   'reißen, ab-,auf-,aus-,ein-,ent-,los-,zer-,zusammen-',  
-   'reißen, gerissen',
+//   'reißen, gerissen',
+//   'reißen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zusammen-,zuruck-',
    'reißerisch',  // reißerisch: 
    'Reling',  // Reling
    'Rempler, rempeln, an-',

@@ -143,6 +143,7 @@ const v = [
    'verwüsten',  // verwüsten:
    'verzwackt, verzwickt',
    'verzapfen',  // verzapfen:
+   'verzerren',  // verzerren:
    'verzieren', // verzieren:  
    'verzückt', // verzückt:  
    'vierschrötig', // vierschrötig:   

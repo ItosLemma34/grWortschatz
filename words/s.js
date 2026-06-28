@@ -5,7 +5,8 @@ const s = [
    'Salbung, salbungsvoll', 
    'Samen',  // Samen:
    'Sammelsurium', // Sammelsurium:  
-   'Samt', // Samt:  
+   'Samt', // Samt:
+   'saugen, ein-, Sog',   
    'Sauklaue', // Sauklaue:  
    'Saum, säumen',  
    'säumig',  // säumig:
@@ -192,6 +193,7 @@ const s = [
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  
    'Socken, auf die S. machen',  // duplicated
+   'Sog, saugen, ein-',  // duplicated
    'Sore',  // Sore: 
    'soufflieren',  // soufflieren: 
    'Spalier',  // Spalier:  
@@ -250,7 +252,7 @@ const s = [
    'Stich, einen S. versetzen', // duplicated  
    'Stiefel, stiefeln',  
    'stieren, an-',  
-   'stöbern, auf-',    
+   'stöbern, auf-',  // duplicated as aufstöbern:
    'stochern',  // stochern:  
    'stöckeln, Stöckelschuh',  
    'stöhnen, auf-',  

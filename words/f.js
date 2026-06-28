@@ -56,7 +56,8 @@ const f = [
    'flöten', // flöten:  
    'flott',  // flott: 
    'Fluse',  // Fluse: 
-   'Flüstertüte',  // Flüstertüte:   
+   'Flüstertüte',  // Flüstertüte:  
+   'fluten, Flut, Fluter', 
    'flutschen',  // flutschen:  
    'Folie',  // Folie: 
    'formvollendet', // formvollendet:  

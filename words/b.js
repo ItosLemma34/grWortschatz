@@ -94,7 +94,7 @@ const b = [
     'Brei (um den heißen B. herumreden)', // duplicated 
     'breitschlagen',  // breitschlagen:  
     'brenzlig', // brenzlig: 
-    'Brett, Armaturen-, Bretter-',  // duplicated  
+    'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // duplicated  
     'Brimborium',   // Brimborium:  
     'bröckeln',  // bröckeln: 
     'Brocken',  // Brocken: 

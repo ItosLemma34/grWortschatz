@@ -93,7 +93,7 @@ const a = [
 	'apportieren', // apportieren: 
 	'Areal' ,  // Areal:  
 	'Arm (auf den A. nehmen)',  //  duplicated 
-	'Armaturenbrett, Brett, Bretter-', // duplicated
+    'Armaturenbrett; Brett, Bretter -wand, -verschlag, -bude',  // duplicated
 	'Armbeuge',    // Armbeuge:   
 	'arme Ritter', //   duplicated 
 	'armer Schlucker', //  duplicated 

@@ -154,7 +154,7 @@ const v = [
    'von der Pike auf',
    'von der Schippe springen',  // duplicated
    'vor die Hunde gehen',  // duplicated 
-   'vor Schmutz starren',  // duplicated with "starren"
+   'vor Schmutz/Dreck starren, starren, an-', // duplicated
    'vorbauen',  // vorbauen:
    'vorführen',  // vorführen:  
    'vorgaukeln',  // vorgaukeln:  

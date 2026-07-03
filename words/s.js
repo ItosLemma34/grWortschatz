@@ -238,7 +238,7 @@ const s = [
    'Stange',  // Stange:  
    'Stapel, stapeln, stapelweise',  
    'stapfen, Fußstapfe',   // duplicated 
-   'starren (vor Schmutz starren)', // duplicated (with "vor Schmutz starren") 
+   'starren, an-, vor Schmutz/Dreck starren', // duplicated 
    'Statist', // Statist:  
    'Stativ',  // Stativ:  
    'statuieren', // statuieren:  

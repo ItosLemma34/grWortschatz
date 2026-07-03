@@ -71,7 +71,7 @@ const p = [
   'Pritsche', // Pritsche: 
   'Prothese', // Prothese: 
   'Protz, protzen, protzig',
-  'prusten',  // prusten:  
+  'prusten, los-',   
   'pudern',  // pudern: 
   'Pulle',  // Pulle: 
   'pumpen, auf Pump kaufen', // duplicated

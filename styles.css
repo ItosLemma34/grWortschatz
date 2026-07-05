@@ -1,12 +1,12 @@
 * { margin: 0; padding: 0; border: 0; box-sizing: border-box; }
 /*html {font-size:14px;}*/
 html {font-size:0.82rem}
-.personenTitle {color: maroon; margin-top: 0.2rem; }
+.personenTitle {font-size: 1.4rem; color: maroon; margin-top: 0.45rem; }
 #title { font-size: 100%;}
-#titlePersonen {font-size: 1.4rem; font-weight: bold};
+#titlePersonen {font-size: 1.6rem; font-weight: bold};
 .return {font-size: 100%; font-weight: bold; color: navy; }
 .headerbreak {margin-top: 10px;}
-.sectionbreak {margin-top: 5px; color: navy; }
+.sectionbreak {margin-top: 6px; font-weight: bold; font-size: 1.25rem; color: navy }
 .bodybreak {margin-top: 3px; }
 #Click {margin-top: 0.4em;}
 button, input, select, textarea {font: inherit;}
@@ -14,6 +14,7 @@ button, input, select, textarea {font: inherit;}
 #randomSelectButton { margin-top: 0.3em; width:85%; font-size: 1.1rem;}
 .sizeOfLabels {font-size: 1.19rem; display: block; margin: 1px auto; }
 #find-as-you-type { font-size: 1.4rem;  margin: 2px auto; border-width: 2px;}
+.bookTitle {color: darkblue; font-weight:bold; font-size: 1.23rem;}
 
 body {
     font-family: Arial, Verdana, sans-serif;
@@ -96,9 +97,9 @@ button {
 
 .selection-container-book {  /*governs panel on left side of Personen*/
     min-width: 10%;
-    max-width: 20%;
+    max-width: 17.5%;
  /*   button { width: 12rem; font-size: 120%;} */
-    button { width: 80%; font-size: 116%;}
+    button { width: 78%; font-size: 116%;}
 }
 
 input,select {

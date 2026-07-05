@@ -17,7 +17,7 @@ const f = [
    'Faustpfand',  // Faustpfand:
    'fechten, aus-, Gefecht',  // duplicated 
    'Feder',  //  Feder: 
-   'fegen',  // fegen:  
+   'fegen, auf-',    
    'feilbieten',  // feilbieten:  
    'feilschen, Gefeilsche',  // duplicated  
    'fesch',  // fesch: 

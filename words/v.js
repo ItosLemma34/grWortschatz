@@ -98,7 +98,6 @@ const v = [
    'verschränken, verschränkt, Verschränkung',  
    'verschreien',  // verschreien:   
    'verschrumpeln',  // verschrumpeln: 
-   'verschüchtern, schüchtern',  //duplicated
    'verschwägert, verschwägern',
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 

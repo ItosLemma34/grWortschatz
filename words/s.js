@@ -34,7 +34,7 @@ const s = [
    'Scheffel (Licht unter den S.)', // duplicated
    'scheiteln, Scheitel',  
    'Scheiterhaufen',  // Scheiterhaufen: 
-   'schellen',  // schellen: 
+   'schellen, zer-',   
    'Schemel',  // Schemel: 
    'scheppern',  // scheppern: 
    'Scherbe',  // Scherbe:   
@@ -146,7 +146,7 @@ const s = [
    'Schrott, schrottreif',   
    'Schrubber, schrubben',    
    'schubsen',  // schubsen:  
-   'schüchtern, verschüchtern',  // duplicated  
+   'schüchtern, ver-',    
    'schummrig',  // schummrig: 
    'Schund',  // Schund: 
    'schunkeln', // schunkeln: 

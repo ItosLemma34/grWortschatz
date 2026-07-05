@@ -35,7 +35,7 @@ const a = [
 	'Abzweig, abzweigen',    
 	'Achterbahn', // Achterbahn: 
 	'achtkantig hinauswerfen',  
-	'Ader',  // Ader: 
+	'Ader, Halsschlag-', 
 	'Adlatus', // Adlatus:  
 	'adrett',   // adrett:  
 	'ächzen',     // ächzen:   

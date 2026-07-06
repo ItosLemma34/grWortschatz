@@ -164,7 +164,6 @@ const a = [
 	'auftischen',    // auftischen:  
 	'Aufwartung machen',  
 	'aufwiegen',     // aufwiegen: 
-	'aufwirbeln, wirbeln',  // duplicated 
 	'aufwühlen, aufgewühlt',  
 	'Auge (aufs A. drücken)',  // duplicted 
 	'aus dem Konzept bringen', // duplicated     
@@ -186,6 +185,7 @@ const a = [
 	'ausladend',  // ausladend:
 	'ausleiern', // ausleiern: 
 	'ausloben',  //  ausloben:
+    'ausloten',  // ausloten:
 	'ausmergeln', // ausmergeln:
 	'ausmisten',  // ausmisten:   
 	'ausquetschen',  // ausquetschen: 

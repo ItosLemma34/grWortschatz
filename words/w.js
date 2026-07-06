@@ -48,7 +48,7 @@ const w = [
    'winseln',  // winseln: 
    'Wipfel',  // Wipfel:  
    'wippen' , // wippen: 
-   'wirbeln, aufwirbeln',  // duplicated
+   'wirbeln, auf-, herum-, ver-', 
    'Witzbold', // Witzbold: 
    'wogen' ,  // wogen: 
    'Wohl bekomm\'s!', // 

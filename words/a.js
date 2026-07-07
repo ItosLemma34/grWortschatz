@@ -51,7 +51,7 @@ const a = [
 	'an die große Glocke hängen',   
 	'anbändeln',    // anbändeln: 
 	'anberaumen',  // anberaumen: 
-	'Anbiederung', // Anbiederung:
+	'anbiedern, Anbiederung', 
 	'anbinden, kurz angebunden',   // duplicated  
 	'anblaffen',    // anblaffen:    
 	'anbrechen',    // anbrechen:  

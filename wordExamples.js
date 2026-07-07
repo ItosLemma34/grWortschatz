@@ -3107,9 +3107,13 @@ Schliff: [
     '<br><b>verpönt</b>: scorned, frowned upon, taboo'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verpoenen"target="target1">verpönen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verp%C3%B6nt"target="target2">verpönt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verp%C3%B6nen&id=verb%3Averpo3nen"target="target3">verpönen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verp%C3%B6nt"target="target4">verpönt</a>',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Sie (<i>Charly</i>) inhalierte tief und genoss die Wirkung des Nikotins. Ein Mann, der vorüberkam, warf ihr einen bösen Blick zu. Inswischen war es <b>verpönt</b>, wenn Frauen in der Öffentlichkeit rauchten. (<i>Marlow</i>, 135)',
     'Er (<i>Gereon</i>) hob die Zeitung vom Boden auf. Charly ließ sich das Blatt, eine deutschsprachige Zeitung, eine der letzten demokratischen deutschsprachigen Zeitungen, manchmal von Freunden aus der Tschechoslowakei mitbringen. Heimlich natürlich, denn das Lesen ausländischer Zeitungen war in Deutschland inzwischen ebenso <b>verpönt</b> wie das Hören ausländischer Radiosender. (<i>Marlow</i>, 403)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Seither hatte die Straße ihren Namen schon dreimal geändert: von Königgrätzer Straße in Stresemannstraße, dann ab dreiunddreißig wieder Königgrätzer, weil Stresemann bei den Nazis <b>verpönt</b> war, und seit einem Jahr nun also Saarlandstraße. (<i>Olympia</i>, 30-31)',
 ],
 piefig: [
     '<b>piefig</b>: tacky, square, straight-laced, small-minded'+
@@ -7814,12 +7818,17 @@ ausbaldowern: [
 ],
 // ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
-Anbiederung: [
-    '<b>Anbiederung</b>: ingratiation, sucking up to'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anbiederung"target="target1">Anbiederung</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anbiederung"target="target2">Anbiederung</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anbiederung"target="target3">Anbiederung</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anbiederung"target="target4">Anbiederung</a>',
+'anbiedern, Anbiederung': [
+    '<b>sich anbiedern</b>: ingratiate oneself, curry favor (with so.)'+
+    '<br><b>Anbiederung</b>: ingratiation, sucking up to'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anbiedern"target="target1">anbiedern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anbiederung"target="target2">Anbiederung</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/anbiedern"target="target3">anbiedern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anbiederung"target="target4">Anbiederung</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Gräf</i>: "Nun, Standartenführer, Kommissar Rath und ich, wir haben eng zusammengearbeitet am Alex, daher.." <i>Heydrich, Chef der Gestapo</i>: "Verbitten Sie sich solche <b>Anbiederungen</b>! Lassen Sie sich nicht vorführen! Zeigen Sie desem Kuckuck, den Ihnen die Kripo ins Nest gelegt hat, wer in diesem Haus das Sagen hat! Greifen Sie durch!" (<i>Lunapark</i>, 311)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Tornow räusperte sich. "Oberführer Grawitz, dann klären Sie den Oberkommissar doch bitte kurz auf." "Gern, Obersturmbanführer", sagte der ältere der beiden Mediziner, der seinen Schnurrbart trug with Adolf Hitler. Was eher lächerlich wirkte, wie Rath fand. <b>Anbiedernd>/b>. (<i>Olympia</i>, 32)',
 ],
 ausmisten: [
     '<b>ausmisten</b>: clean sth. out'+
@@ -11307,16 +11316,18 @@ Bengel: [
     'All das hatte Fritze fast vergessen, doch jetzt merkte er, dass es ihm nicht gefiel, wenn Rademann von <i>Juden<b>bengeln</b></i> sprach. Die jüdischen Jungen, die er gekannt hatte, waren keine Juden<b>bengel</b>. Und was, wenn er einem jüdischen Mädchen den Hof machte, wäre er dann ein Arier<b>bengel</b>? (<i>Marlow</i>, 364)',
     '"Der Chinesenbastard war\'s, sag ich Ihnen!", brach es plötzlich aus Maria Priebe heraus. "Der Chinesen<b>bengel</b> hat unser aller Leben zerstört. Hat seine Mutter begraben und alles angezündet. Und am nächsten Morgen war er weg." (<i>Marlow</i>, 451)',
 ],
-//   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 bieder: [
     '<b>bieder</b>: honest, upright; conventional, bourgeois'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/bieder"target="target1">bieder</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bieder"target="target2">bieder</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bieder"target="target3">bieder</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bieder"target="target4">bieder</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das neue Kaufhaus sollte dem <b>biederen</b> Hermannplatz einen Hauch von New York verleihen. (<i>Der nasse Fisch</i>, 22)',
     '"Hallo, Gereon!" Jänicke wirkte genauso überrascht wie er. <i>Gereon</i>: "Mensch, lässt dir diese Bande auch keine Ruhe? Ich wollte mir noch einmal die Sachen über König anschauen. Der Mann geht mir nicht aus dem Kopf. Ein <b>biederer</b> Fotograf, und dann solche Sauereien." (<i>Der nasse Fisch</i>, 142)',
     '<i>Schnucki</i>: "Du hast recht, mein Engel... Das hier ist ja ein ganz <b>biederer</b> Amüsierbetrieb... Nicht mal Champagner, nur klebriger Sekt. (<i>Der nasse Fisch</i>, 198)',
     'Rath sah den beiden Lastwagen hinterher, die von der Motzstraße zum Alex rollten. Der grüne Opel parkte noch am Straßenrand. Aus dem hinteren Seitenfenster schaute der Türsteher, Johnny, wie ihn die Transe genannt hatte. Laut Ausweis trug er den <b>biederen</b> Namen Wilfried Johnen. (<i>Der nasse Fisch</i>, 246)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Rath legte das Manuskript beiseite.... Er brauchte eine Pause. Das Pathos, das aus diesen Zeilen sprach, war schier unerträglich; ganz gleich, welche Stelle er herauspickte, der ganze Roman schien in diesem <b>bieder</b>-altväterlichen Tonfall geschrieben zu sein. (<i>Märzgefallene</i>, 165)',
     'Daneben wirkte die Wahlwerbung der Stahlhelmer eher <b>bieder</b> und einfallslos: <i>Wählt Liste 5: Hugenberg, Papen, Seldte. Kampffront Schwarz-Weiß-Rot</i>. (<i>Märzgefallene</i>, 200)',
@@ -11345,16 +11356,24 @@ bieder: [
     'die <b>Bahre</b>,-<b>n</b>: bier, stretcher'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Bahre"target="target1">Bahre</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bahre"target="target2">Bahre</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bahre"target="target3">Bahre</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Bahre"target="target4">Bahre</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Noch mehr Maileichen?", fragte (<i>Doktor</i>) Schwartz. Einer der beiden weißgekittelen Männer, die die <b>Bahren</b> schoben, nickte.... "Es sind tote Menschen, über die Sie hier reden, meine Herren!" Die vorwurfsvolle Stimme kam von einem der beiden Männer, die hinter den Weißkitteln den Raum betreten hatten, einem streng wirkenden hageren Mann in einem zerknitterten grauen Mantel. (<i>Der nasse Fisch</i>, 83)',
     'Der Gerichtsmediziner (<i>Doktor Schwartz</i>) trat ungeduldig von einem Bein aufs andere.. Er gab den Weißkitteln einen Wink. "Bringen Sie die beiden Frauen in den Keller, ich kümmere mich mor..." "Halt!" Völcker unterbrach ihn. Die beiden Männer, die schon Anstalten gemacht hatten, die <b>Bahren<b> wieder hinauszurollen, blieben stehen. (<i>Der nasse Fisch</i>, 85)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Doktor Ehrmanntraut</i>) öffnete die Tür eines Kühlraumes, in dem fünf <b>Bahren</b> mit zugedeckten Leichen standen, an deren Zehen Pappschildchen baumelten. Der Doktor setzte seine Brille auf, überprüfte die Zettel gewissenhaft und lüftete schießlich das Laken der vorletzten <b>Bahre</b>. (<i>Märzgefallene</i>, 267)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Na, dann kommen Sie mal mit", sagte er (<i>Doktor Karthaus</i>), und Rath folgte dem Doktor zurück in den Obduktionssaal. Dort zog Karhaus eine Roll<b>bahre</b>, die an der Wand geparkt war, unter eine der großen Lampen und schlug das Laken zurück. (<i>Lunapark</i>, 108)',
     'Auf der <b>Bahre</b> hatte Karthaus die Beine des Toten, die am Tatort unnatürlich verbogen gewesen waren, wieder gerichtet, dennoch war genau zu erkennen, wo sie gebrochen waren. (<i>Lunapark</i>, 109)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Sie haben mir eine Überraschug versprochen, Doktor", sagte Rath... Reincke stand auf. "Kommen Sie", sagte er. An der Roll<b>bahre</b> des toten SS-Manns ging der Gerichtsmediziner achtlos vorüber. (<i>Marlow</i>, 74)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Gräf schloss den Wagen ab und ging wortlos voran. Nicht in den Bettentrakt, sondern hinab in die Katakomben des Krankenhauses,.. in einen dunklen, gefliesten Raum, an dessen Längswand vier mit Leinentüchern abgedeckte Roll<b>bahren</b> standen. In der Mitte des Raumes, rings um eine weitere <b>Bahre</b>, auf der sich der behaarte bleiche Bauch eines toten Mannes wölbte, standen zwei Ärzte in weißen Kitteln und ein Mann in schwarzer Uniform. (<i>Olympia</i>, 32)',
+    'Der SS-Mann im Arztkittel nickte dem Obersturmbannführer zu und wies auf den dickbäuchigen Toten auf der <b>Bahre</b>. (<i>Olympia</i>, 33)',
 ],
 barsch: [
     '<b>barsch</b>: abrupt, blunt, brusque'+
@@ -12509,12 +12528,17 @@ Floskel: [
     '<br><b>fliesen</b>: to tile'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fliese"target="target1">Fliese</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/fliesen"target="target2">fliesen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fliese?q=Fliese"target="target3">Fliese</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=fliesen"target="target4">fliesen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Während der Ofen langsam heiß wurde, zog er (<i>Rath</i>) sich aus. Dann rollte er das Handtuch auseinander, und seine verschmutzten Sachen fielen auf die Boden<b>fliesen</b>. (<i>Der nasse Fisch, 230)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Auf der Toilette - eine hölzerne Kabine, eine <b>geflieste</b> Pinkelrinne, an der höchstens vier Mann nebeneinander Platz fanden - stank es bestialisch. Rath versuchte, möglichst nicht zu atmen, als er sich an die Rinne stellte. (<i>Lunapark</i>, 39)',
     'Die Brause war keine Brause, sondern ein gekachelter Raum, in dem früher Bier gebraut worden war und in dem sie einen mit einem Feuerwehrschlauch abspritzten, dessen Wasserstrahl so kalt und hart war, dass es einen gegen die <b>gefliesten</b> Wände warf. (<i>Lunapark</i>, 491)',
     'Eine einzige Tortur, aus der sie sich immer einen Spaß machten, vor allem bei Neuankömmlingen. Die wussten dann gleich, woran sie waren, wenn sie mit blauen Flecken und blutenden Platzwunden und vor Kälte bibbernd auf den grauen <b>Fliesen</b> lagen und später auf dem Betonboden in ihrer Zelle. (<i>Lunapark</i>, 491)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Gräf schloss den Wagen ab und ging wortlos voran. Nicht in den Bettentrakt, sondern hinab in die Katakomben des Krankenhauses,.. in einen dunklen, <b>gefliesten</b> Raum, an dessen Längswand vier mit Leinentüchern abgedeckte Rollbahren standen. (<i>Olympia</i>, 32)',
 ],
 festfressen: [
     '<b>sich festfressen</b>: jam, seize up'+
@@ -15860,6 +15884,9 @@ Kittel: [
     '.. Der Sanitätsdienst des Olympischen Dorfes hatte auch hier im Haus ein kleines Büro samt Behandlungszimmer. Er (<i>Fritze</i>) klopfte an die Tür und stürmte ohne abzuwarten hinein. Hinter dem Schreibtisch saß ein <b>weißbekittelter</b> Mann, der ihm mit hochgezogen Augenbrauen entgegenblickte. (<i>Olympia</i>, 24)',
     'Die Umstehenden machten bereitwillig Platz, auch der blonde Ersthelfer. Alle schauten den Mann im weißen <b>Kittel</b> an, als sei er eine Art Zauberer und könne alles wieder gut machen. (<i>Olympia</i>, 24)',
     '"Hey, Junge! Einen Moment noch!" Es war der Doktor, der sich ihm mit flatterndem <b>Kittel</b> näherte. Es wirkte, als müsse er sich um einen weiteren Notfall kümmern, doch legte er Fritze lediglich die Hand auf die Schulter. (<i>Olympia</i>, 25)',
+    'Gräf schloss den Wagen ab und ging wortlos voran. Nicht in den Bettentrakt, sondern hinab in die Katakomben des Krankenhauses,.. in einen dunklen, gefliesten Raum, an dessen Längswand vier mit Leinentüchern abgedeckte Rollbahren standen. In der Mitte des Raumes, rings um eine weitere Bahre, auf der sich der behaarte bleiche Bauch eines toten Mannes wölbte, standen zwei Ärzte in weißen <b>Kitteln</b> und ein Mann in schwarzer Uniform. (<i>Olympia</i>, 32)',
+    'Der SS-Mann im Arzt<b>kittel</b> nickte dem Obersturmbannführer zu und wies auf den dickbäuchigen Toten auf der Bahre. (<i>Olympia</i>, 33)',
+    '"..Noch während des Mittagsmahls ist Morgan plötzlich zusammengebrochen.. Kollege Schmidt.." - Grawitz deutete auf den zweiten Weiß<b>kittel</b> - "..attestierte vor Ort Herzversagen als Todesursache und..." "Danke, Oberführer!", unterbrach Tornow. "Ich denke, es ist nicht nötig, dass Sie sich in Einzelheiten verlieren..." (<i>Olympia</i>, 33)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klamm: [
@@ -17549,28 +17576,36 @@ nuscheln: [
     '<b>nuscheln</b>: mumble'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/nuscheln"target="target1">nuscheln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nuscheln"target="target2">nuscheln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nuscheln"target="target3">nuscheln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/nuscheln"target="target4">nuscheln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der schwarze Wagen fuhr so schnell, als sei den beiden Frauen hinten in den Zinksärgen noch zu helfen... "Langsam", meinte Rath, "zwei Leichen reichen doch wohl." Der Fahrer <b>nuschelte</b> eine unverständliche Antwort und ging ein wenig vom Gas. (<i>Der nasse Fisch</i>, 76)',
     'Wie auf Kommando klingelte das Telefon auf Raths Schreibtisch... Roth hob ab. Es war Wolter. Er <b>nuschelte</b> irgendetwas von wegen später kommen und gab ein paar knappe Anweisungen. (<i>Der nasse Fisch</i>, 175)',
     'Weiche Arme schlangen sich um seine Brust. Er (<i>Gereon</i>) hatte sie (<i>Charly</i>) gar nicht gehört. Ihr warmer Körper schmiegte sich an ihn. "Scheißwetter, was?", <b>nuschelte</b> sie schlaftrunken. (<i>Der nasse Fisch</i>, 357)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Böhm</i>: "Wo treiben Sie sich denn rum, Mann?.. Fräulein Voss konnte mir nicht einmal sagen, was Sie da im Westen überhaupt machen!" "Isolde Heer", <b>nuschelte</b> Rath, "ihr Suizid steht nun fest. Der Bericht ist so gut wie fertig. Liegt morgen auf Ihrem Schreibtisch." (<i>Der stumme Tod</i>, 19)',
     'Gräf setzte sich auf den freien Hocker neben Rath an die Theke. "Du rauchst wieder?" "Wie kommst du darauf?", <b>nuschelte</b> Rath und zündete die Overstolz an, die er sich gerade in den Mund gesteckt hatte. (<i>Der stumme Tod</i>, 227)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Ick hab Hannah gefunden", <b>nuschelte</b> er (<i>Fritze</i>) so leise, das Rath ihn kaum verstehen konnte. (<i>Märzgefallene</i>, 402)',
     '"Das wäre alles, Sie können gehen." Wieder ließ Levetzow (<i>der Polizeipräsident</i>) seinen rechten Arm nach vorne schnellen und verabschiedete den Kriminalkommissar mit einem zackigen "Heil Hitler". Diesmal war Rath darauf vorbereitet. Er hob den rechten Arm, in einer ähnlichen Weise wie Hitler höchselbst, allerdings nicht so zackig, sondern eher beiläufig und schlaff, so wie man jemandem Hallo sagt. Und sein <i>Heil</i> war derart <b>genuschelt</b>, dass es eher wie das amerikanishce <i>Hi</i> klang. (<i>Märzgefallene</i>, 421)',
     'Trotz der Überstunden hatte er (<i>Rath</i>) den Rothstein-Suizid... immer noch nicht abgeschlossen. Dennoch hatte er sich den Samstag freigenommen. Er hatte irgendwas von Hochzeitsvorbereitungen <b>genuschelt</b>, und der Buddha hatte ihm die Bitte nicht abschlagen können.... (<i>Märzgefallene</i>, 437)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath antwortete mit dem schlampigen Hitlergruß, den er sich in den vergangenen Monaten angewöhnt hatte, und <b>nuschelte</b> sein "Heil". Bislang hatte er sich damit durchmogeln können.... (<i>Lunapark</i>, 20)',
     '"Heil Hitler", riefen die Kettenhunde unisono und warfen ihre Arme in die Luft. "Hei`", <b>nuschelte</b> Rath und winkelte seinen rechten Arm kurz an. Ein letzter misstrauischer Blick, dann ließen die beiden ihn passieren. (<i>Lunapark</i>, 92)',
     '<i>Rath</i>: "Was meinen Sie?" <i>der alte Mann</i>: "Na, was wohl? Eine Aushebung." "Eine Razzia? Hier in diesen Räumen?" Der Alte nickte... "Was wissen Sie darüber?", hakte Rath nach. "Da fragen Se den Falschen. Ick war ja nich dabei. Fragen Se am besten die Polente, die wird det jenauer wissen." "Ich bin die Polente", sagte Rath und zeigte seine Marke. Der Alte wurde bleich. "Nix für unjut, Wachmeister", <b>nuschelte</b> er und ging seiner Wege. (<i>Lunapark</i>, 181)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Rath</i>: "Wenn sie mich entschuldigen wollen, Fräulein Peters (<i>die Jugendamtsfrau</i>), aber ich muss jetzt wirklich los. Kommen Sie doch ein andermal wieder. Am besten, Sie rufen vorher an." "Anders scheint es bei Ihnen ja auch kaum möglich zu sein!" Fräulein Peters klang nun sehr schnippisch. "Sie hören dann von mir", sagte sie. "Heil Hitler!" Und damit drehte sie sich um und ließ Rath stehen. Bevor er den rechten Arm heben und sein <i>Hei\'tler</i> <b>nuscheln</b> konnte, war sie schon im Treppenhaus verschwunden. (<i>Marlow</i>, 47)',
     'Die Sekretärinnen standen von ihren Stühlen auf, die Brünette eine Idee zackiger als die Blondine. "Heil Hitler, Oberkommissar", sagten beide unisono und ließen, beinahe synchron, ihren rechten Arm hochschnellen. "Hei\'", <b>nuschelte</b> Rath wie üblich und winkelte seine Rechte kurz an. (<i>Marlow</i>, 179)',
-    '"Gut", sagte Gräf, "lass uns morgen weiterrreden; ich muss wieder los. Heil Hitler!" Die Kollegen rissen die Arme hoch und erwiderten den Deutschen Gruß; Rath beließ es beim Anwinkeln und seinem <b>genuschelten</b> "Hei\'tler." <i>Marlow</i>, 375)',
-    'Unwillig machte Böhm den Hitlergruß und <b>nuschelte</b> ein Heil. Bloß keinen unnötigen Ärger riskieren. <i>Marlow</i>, 439)',
+    '"Gut", sagte Gräf, "lass uns morgen weiterrreden; ich muss wieder los. Heil Hitler!" Die Kollegen rissen die Arme hoch und erwiderten den Deutschen Gruß; Rath beließ es beim Anwinkeln und seinem <b>genuschelten</b> "Hei\'tler." (<i>Marlow</i>, 375)',
+    'Unwillig machte Böhm den Hitlergruß und <b>nuschelte</b> ein Heil. Bloß keinen unnötigen Ärger riskieren. (<i>Marlow</i>, 439)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Heil Hitler, Obersturmbannführer", sagte er (<i>Gräf</i>) und ließ den rechten Arm nach oben schnellen. Rath winkelte seine Rechte an und <b>nuschelte</b> sein "Hei\'itler". Mehr bekamen sie von ihm nicht, auch nicht die SS. (<i>Olympia</i>, 32)',
 ],
-// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Nase (lange N. zeigen/machen)': [
     '<b>lange Nase zeigen/machen</b>: thumb one\'s nose at'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=jemandem%2Bdie%2Blange%2BNase%2Bzeigen&bool=relevanz&gawoe=an&sp0=rart_ou"target="target1">lange Nase zeigen</a>&nbsp;&nbsp;<a href="https://de.wikipedia.org/wiki/Lange_Nase"target="target2">lange Nase zeigen</a>'+
@@ -23526,10 +23561,15 @@ wölben: [
     '<b>wölben</b>: curve, arch, bend'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/woelben"target="target1">wölben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/w%C3%B6lben"target="target2">wölben</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wolben?q=w%C3%B6lben"target="target3">wölben</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wolben"target="target4">wölben</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath blickte durch das Glas in ein schmales Gesicht (<i>Charlys Gesicht</i>). Ein entschlossen <b>gewölbter</b> Mund, dunkle Augen unter dem schwarzen, modisch kurz geschnittenen Haar. (<i>Der nasse Fisch</i>, 34)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Bevor er beginnt, wäscht er sich gründlich die Hände. Behutsam biegt er ihren Hals, überstreckt ihn, bis ihr Kopt über die Tishkante hängt, und schiebt das Rohr vorsichtig durch Mund und Rachen, bis zur Stimmritze (<i>glottis</i>), beobachtete, wie das Metall ihren Hals nach außen <b>wölbt</b>. (<i>Der stumme Tod</i>, 220)',
+    // Der Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Gräf schloss den Wagen ab und ging wortlos voran. Nicht in den Bettentrakt, sondern hinab in die Katakomben des Krankenhauses,.. in einen dunklen, gefliesten Raum, an dessen Längswand vier mit Leinentüchern abgedeckte Rollbahren standen. In der Mitte des Raumes, rings um eine weitere Bahre, auf der sich der behaarte bleiche Bauch eines toten Mannes <b>wölbte</b>, standen zwei Ärzte in weißen Kitteln und ein Mann in schwarzer Uniform. (<i>Olympia</i>, 32)',
 ],
 wuseln: [
     '<b>wuseln</b>: scurry, bustle about; be teeming'+
@@ -23791,26 +23831,38 @@ Wickelgamasche: [
     '<br><b>wie aus dem Ei gepellt</b>: spick and span, neat as a pin'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=wie+aus+dem+Ei+gepellt&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">wie aus dem Ei gepellt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wie%20aus%20dem%20Ei%20gepellt"target="target2">wie aus dem Ei gepellt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=wie+aus+dem+Ei+gepellt"target="target3">wie aus dem Ei gepellt</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/wie+aus+dem+Ei+gepellt"target="target4">wie aus dem Ei gepellt</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Neben dem Mordauto stand Doktor Magnus Schwartz, wie immer <b>wie aus dem Ei gepellt</b>, in der rechten Hand die schwarzlederne Arzttasche. (<i>Märzgefallene</i>, 14)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Charly</i>: "Habt ihr (<i>Guido und seine Kanzlei</i>) ja gut hingekriegt zum Eröffnungstag", sagte sie, "die ganze Kanzlei <b>wie aus dem gepellt</b>." <i>Guido</i>: "Gestern Abend sah es hier wüster aus." Er grinste. "Ich weiß allerdings nicht, ob unsere Gäste oder die SA schlimmer gewütet haben..." (<i>Lunapark</i>, 207)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Mann, der da auf dem Askanischen Platz stand, <b>wie aus dem Ei gepellt</b> in seinem sommerhellen Dreiteiler, sah völlig anders aus als der, der den Bahnhof gut zehn Minuten zuvor betreten hatte. (<i>Marlow</i>, 15)',
     'Sebastian Tornow war eben ein Typ für Uniformen, schon als Schutzpolizist war er das gewesen. Immer <b>aus dem Ei gepellt</b>. (<i>Marlow</i>, 508)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der rechte Uniformärmel des Oberstrumbannführers hing schlaff und akkurat gefaltet herab, den muskulösen linken, der sich nun zum Deutschen Gruß erhob, umspannte die rote Hakenkreuzbinde. Sebastian Tornow sah aus wie immer: <b>wie aus dem Ei gepellt</b>. (<i>Olympia</i>, 32)',
 ],
 'Ei (wie aus dem Ei gepellt)': [
     '<b>pellen</b>: peal'+
     '<br><b>wie aus dem Ei gepellt</b>: spick and span, neat as a pin'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=wie+aus+dem+Ei+gepellt&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">wie aus dem Ei gepellt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wie%20aus%20dem%20Ei%20gepellt"target="target2">wie aus dem Ei gepellt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=wie+aus+dem+Ei+gepellt"target="target3">wie aus dem Ei gepellt</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/wie+aus+dem+Ei+gepellt"target="target4">wie aus dem Ei gepellt</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Neben dem Mordauto stand Doktor Magnus Schwartz, wie immer <b>wie aus dem Ei gepellt</b>, in der rechten Hand die schwarzlederne Arzttasche. (<i>Märzgefallene</i>, 14)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Charly</i>: "Habt ihr (<i>Guido und seine Kanzlei</i>) ja gut hingekriegt zum Eröffnungstag", sagte sie, "die ganze Kanzlei <b>wie aus dem gepellt</b>." <i>Guido</i>: "Gestern Abend sah es hier wüster aus." Er grinste. "Ich weiß allerdings nicht, ob unsere Gäste oder die SA schlimmer gewütet haben..." (<i>Lunapark</i>, 207)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Mann, der da auf dem Askanischen Platz stand, <b>wie aus dem Ei gepellt</b> in seinem sommerhellen Dreiteiler, sah völlig anders aus als der, der den Bahnhof gut zehn Minuten zuvor betreten hatte. (<i>Marlow</i>, 15)',
     'Sebastian Tornow war eben ein Typ für Uniformen, schon als Schutzpolizist war er das gewesen. Immer <b>aus dem Ei gepellt</b>. (<i>Marlow</i>, 508)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der rechte Uniformärmel des Oberstrumbannführers hing schlaff und akkurat gefaltet herab, den muskulösen linken, der sich nun zum Deutschen Gruß erhob, umspannte die rote Hakenkreuzbinde. Sebastian Tornow sah aus wie immer: <b>wie aus dem Ei gepellt</b>. (<i>Olympia</i>, 32)',
 ],
 'wie bestellt und nicht abgeholt': [
     '<b>wie bestellt und nicht abgeholt</b>: all dressed up with nowhere to go'+
@@ -23850,11 +23902,16 @@ wimmern: [
     '<br><b>winkeln, anwinkeln</b>,-: bend'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Winkel"target="target1">Winkel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/winkeln"target="target2">winkeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/winkel?q=Winkel"target="target3">Winkel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/winkeln"target="target4">winkeln</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Rath räusperte sich. "Aber Sie können das bestätigen," fragte er, "derselbe modus operandi?" Schwartz (<i>der alte Gerichtsmediziner</i>) nickte. "Derselbe Stichkanal, sogar fast der identische <b>Winkel</b>, als habe der Täter diesen Stich schon öfter angebracht. Oder ihn sogar geübt." (<i>Märzgefallene</i>, 269)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Die Sekretärinnen standen von ihren Stühlen auf, die Brünette eine Idee zackiger als die Blondine. "Heil Hitler, Oberkommissar", sagten beide unisono und ließen, beinahe synchron, ihren rechten Arm hochschnellen. "Hei\'", nuschelte Rath wie üblich und <b>winkelte</b> seine Rechte kurz <b>an</b>. (<i>Marlow</i>, 179)',
     'Ein Konvoi schob sich die Straße hinunter, kaum schneller als Schrittempo, angeführt von einem schwarzen, offenen Mercedes, in dem ein paar Uniformierte saßen. Einer aber stand vor dem Beifahrersitz, hielt sich mit der Linken an der Windschutzsheibe fest und <b>winkelte</b> die Rechte in regelmäßigen Abständen zu jenem Gruß <b>an</b>, der seinen Namen trug. (<i>Marlow</i>, 279)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Heil Hitler, Obersturmbannführer", sagte er (<i>Gräf</i>) und ließ den rechten Arm nach oben schnellen. Rath <b>winkelte</b> seine Rechte an und nuschelte sein "Hei\'itler". Mehr bekamen sie von ihm nicht, auch nicht die SS. (<i>Olympia</i>, 32)',
 ],
 Winkeladvokat: [
     'der <b>Winkeladvokat</b>,-<b>en</b>: hack lawyer, shyster'+
@@ -24742,7 +24799,7 @@ Zwirn: [
     '<i>Emilie Osterberg</i>: "..Hast du <i>Adolf Osterberg</i> schon vergessen, was dir passiert ist? Und dem anderen Mann ist es noch schlimmer ergangen, dem haben sie ein Auge genommen. So viel zu deiner <b>zahmen</b> SA!" (<i>Lunapark</i>, 555)',
 ],
 // not finished:
-'wie ein Auto anschauen/gucken': [  // xxx
+'wie ein Auto anschauen/gucken': [  
     '<b>wie ein Auto anschauen/gucken</b>: stare at, blankly or with surprise.'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gucken%20wie%20ein%20Auto"target="target1">gucken wie ein Auto</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=wie+ein+Auto+anschauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">gucken wie ein Auto</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">gucken wie ein Auto</a>&nbsp;&nbsp;<a href=""target="target4">gucken wie ein Auto</a>',

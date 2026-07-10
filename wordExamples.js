@@ -1,6 +1,6 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
-      // concluded with: abebben  
+      // next: abluchsen:  
 //maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
 // Der stumme Tod 311 ausloten
 //Fallbeil  426  427  Der stumme Tod
@@ -30,6 +30,7 @@ export const wordExamples = {
 //     'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <b>verbeulten</b>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen. (<i>Lunapark</i>, 117)',
 
 //  make separate for Metalrost?  not finished: 
+
 /*  
 zzz: [  
     '<b>zzz</b>: '+
@@ -57,6 +58,14 @@ zzz: [
 */
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö  Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+Ölgötze: [  
+    '<b>wie ein Ölgötze</b>: like a stuffed dummy'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Oelgoetze"target="target1">Ölgötze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%96lg%C3%B6tze"target="target2">Ölgötze</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%96lg%C3%B6tze&id=substantiv%3AO3lgo3tze"target="target3">Ölgötze</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%96lg%C3%B6tze"target="target4">Ölgötze</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Die Kellner, von denen inzwischen ein halbes Dutzend um den Tisch herumstanden <b>wie die Ölgötzen</b>, reagierten nicht... (<i>Olympia</i>, 24)',
+],
 meutern: [  
     '<b>meutern</b>: mutiny, rebel, revolt'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/meutern"target="target1">meutern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/meutern"target="target2">meutern</a>'+
@@ -8849,12 +8858,15 @@ abkanzeln: [
     '<b>abkanzeln</b>: chew out, dress down'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abkanzeln"target="target1">abkanzeln</a> &nbsp;<a href="https://www.dwds.de/wb/abkanzeln"target="target2">abkanzeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abkanzeln"target="target3">abkanzeln</a> &nbsp;<a href="https://www.verbformen.com/?w=abkanzeln"target="target4">abkanzeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Als Rath den Wunsch äußerte, alle Klassen besuchen zu dürfen, deren Fenster zum Friedhof hinausgingen, <b>kanzelte</b> ihn der Schulleiter.. rigoros <b>ab</b>: Das sei doch wohl überflüssig! Natürlich habe niemand etwas beobachten können! "Unsere Schüler folgen dem Unterricht, sie schauen nicht auf die Straße", lautete die lapidare Auskunft. (<i>Der nasse Fisch</i>, 423)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Sperling hatte nichts vergessen. Rath hatte den wenig kooperationswilligen Mann seinerzeit <b>abgekanzelt</b> und schlankweg behauptet, ein Kriminalkommissar sei einem SA-Sturmführer gegenüber selbstverständlich weisungsbefugt. Und Sperling hatte gespurt. Bis sein Vorgesetzter aufgekreuzt war und Rath achtkantig hinausgeworfen hatte. (<i>Lunapark</i>, 94)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
-    '<i>Genat, zu Rath</i>: "Aber bevor Sie zur Wilhelmstraße fahren, kommen Sie bitte noch in mein Büro." Nun kam sich Rath vor wie ein Schuljunge, der vor der ganzen Klasse <b>abgekanzelt</b> und hernach noch zum Direx (<i>principal, headmaster</i>) geschickt wird. (<i>Marlow</i>, 114)',
+    '<i>Genat zu Rath</i>: "Aber bevor Sie zur Wilhelmstraße fahren, kommen Sie bitte noch in mein Büro." Nun kam sich Rath vor wie ein Schuljunge, der vor der ganzen Klasse <b>abgekanzelt</b> und hernach noch zum Direx (<i>principal, headmaster</i>) geschickt wird. (<i>Marlow</i>, 114)',
 ],
 'aufgießen, Aufguss': [
     '<b>aufgießen</b>: pour sth. on sth.'+
@@ -9507,20 +9519,23 @@ abschüssig: [
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 abgebrüht: [
-    '<b>abgebrüht</b>: cool, callous, hardened <br><b>abbrühen</b>: scald, boil out'+
+    '<b>abgebrüht</b>: callous, hardened, hard-nosed <br><b>abbrühen</b>: scald, boil out'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a> &nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht"target="target2">abgebrüht</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target2">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abbr%C3%BChen"target="target3">abbrühen</a>',
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target3">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht&id=adjektiv%3Aabgebru3ht%23abgebru3ht"target="target4">abgebrüht</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hutkrempe in die Stirn gezogen. Rath musste ein Lachen unterdrücken. Jänicke gab sich die größte Mühe, wie ein <b>abgebrühter</b> Großstadtbulle auszusehen, doch die ewig roten Wangen verrieten den Jungen vom Lande. (<i>Der nasse Fisch</i>, 17)',
     'Während die Menschen ins Kino drängten, stand Rath an den Schaukästen und betrachtete die Werbefotos. Gustav Fröhlich als Schupo und eine Frau, die ihn ein wenig an Charlotte erinnerte, nur dass die hier viel aufgedonnerter daherkam. Aber so war das eben im Film, da legten ja sogar die Männer Lippenstift auf. Selbst wenn sie einen Schupo spielten. Er musste schmunzeln, als er sich die <b>abgebrühten</b> Schupos vom Alex mit rot gemalten Lippen vorstellte. (<i>Der nasse Fisch</i>, 181-82)',
     'Sie (<i>Wolter, Rath, die Polizei</i>) trieben die Männer vor sich her, einige ergaben sich in ihr Schicksal, die meisten liefen davon. Es ging zu wie in einem Fuchsbau, die Füchse flüchteten zum zweiten Ausgang, nicht ahnend, dass auch dort eine Meute Hunde wartete. Scharfe Hunde.. Dort wartete ein Trupp <b>abgebrühter</b> Uniformierter, die nicht lange fackelten, denn dorthin würden vor allem die fliehen, die sich in diesem Kellerlabyrinth bestens auskannten. Die harten Jungs. (<i>Der nasse Fisch</i>, 242)',
     'Meist blieb Gennat in seinem fast wie ein Wohnzimmer eingerichteten Büro sitzen, aß Kuchen und zog die Fäden. Er wusste über alle Ermittlungen Bescheid, besonders knifflige Verhöre übernahm er immer noch selbst, sein psychologischer Scharfsinn war berüchtigt. Er hatte schon die <b>abgebrühtesten</b> Kerle dazu gebracht, ihm ihr Herz auszuschütten. (<i>Der nasse Fisch</i>, 276)',
     '"Mein Gott", stammelte Bruno, als er die Leiche sah. Sein Blick wanderte von Böhm zu Rath, dann hockte er sich zu dem toten Jänicke. So aufgewühlt hatte Rath den Onkel nicht erlebt. Eigentlich hatte er ihn immer für einen <b>abgebrühten</b> alten Knochen gehalten. (<i>Der nasse Fisch</i>, 325)',
-    '"Wenn wir die Waffe bei irgendwem fänden, dann hätten wir wahrscheinlich auch den Mörder", sagte Rath. Der Satz war ein Versuchsballon. Aber der Oberkommissar (<i>Wolter</i>) war zu <b>abgebrüht</b>, um sich in die Karten schauen zu lassen. "Gar nicht so enfach, eine Waffe zu finden in einer Millionenstadt", sagte er nur. (<i>Der nasse Fisch</i>, 388)',
+    '"Wenn wir die Waffe bei irgendwem fänden, dann hätten wir wahrscheinlich auch den Mörder", sagte Rath. Der Satz war ein Versuchsballon. Aber der Oberkommissar (<i>Wolter</i>) war zu <b>abgebrüht</b>, um sich in die Karten schauen zu lassen. "Gar nicht so einfach, eine Waffe zu finden in einer Millionenstadt", sagte er nur. (<i>Der nasse Fisch</i>, 388)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Sie (<i>Cora Bellmann</i>) hatte dem Mann (<i>Victor Meisner</i>) wieder seine Sonnenbrille aufgesetzt, wahrscheinlich, damit ihn draußen auf dem Alex niemand erkannte, und Rath dachte für einen Augenblick, wenn die beiden nur ein bisschen ärmlicher gekleident wären, könnten sie auf der Weidendammer Brücke eine Menge Geld verdienen, mit Streichhölzern oder Schnürsenkeln oder einfach mit dem Hut. Er schüttelte den Kopf. Aus diesen Filmfritzen wurde er einfach nicht schlau: Vor der Kamera sind sie <b>abgebrüht</b>, und im richtigen Leben brechen sie zusammen. (<i>Der stumme Tod</i>, 175-76)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Sie (<i>Charly</i>) hatte Alex an den Armen gepackt und drehte sie zu den Schaufenstern um. Charlys rüde, etwas brutale Art wirkte wie ein Eimer kaltes Wasser bei einem hysterischen Anfall: Aus der besorgten kleine Schwester wurde in Sekundenbruchteilen wieder die <b>abgebrüte</b> Alex, die sich jederzeit in Griff hatte und mit allen Härten des Lebens umzugehen gelernt hatte. (<i>Lunapark</i>, 321)',
+    'Sie (<i>Charly</i>) hatte Alex an den Armen gepackt und drehte sie zu den Schaufenstern um. Charlys rüde, etwas brutale Art wirkte wie ein Eimer kaltes Wasser bei einem hysterischen Anfall: Aus der besorgten kleine Schwester wurde in Sekundenbruchteilen wieder die <b>abgebrühte</b> Alex, die sich jederzeit in Griff hatte und mit allen Härten des Lebens umzugehen gelernt hatte. (<i>Lunapark</i>, 321)',
 ],
 ausquetschen: [
     '<b>ausquetschen</b>: pump so. for information, shake so. down; squeeze sth.'+
@@ -9715,10 +9730,13 @@ abfackeln: [
     '<b>abfackeln</b>: torch, flare, burn off'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abfackeln"target="target1">abfackeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abfackeln"target="target2">abfackeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abfackeln"target="target3">abfackeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/abfackeln"target="target4">abfackeln</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Das Foto gehört nicht ihr (<i>Hannah</i>)", sagte die Schwester (<i>Ingeborg</i>), "das hat man bei den Sachen ihres Vaters gefunden." <i>Charly</i>: Dann gehört es also doch ihr."  <i>Ingeborg</i>: "Haben Sie das Gutachten gelesen? Das Biest hat ihren Vater <b>abgefackelt</b>! Bei lebendigem Leibe." (<i>Märzgefallene</i>, 47)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Rath</i>: "Kannten Sie Rottenführer Kaczmarek?" Sperling nickte. "Wir haben zusammen gegen die Kommune gekämpft, im Frühjahr dreiunddreißig, als der Kampf um Deutschland noch längst nicht entschieden war und die Roten den Reichstag <b>abfackeln</b> wollten. (<i>Lunapark</i>, 95)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'In solchen Situationen muss man schnell handeln. Du (<i>Marlow</i>) hast keine Lust, dass irgendwelche dahergelaufenen Gauner aus dem Norden dir den <i>Venuskeller</i> <b>abfackeln</b>, nur weil sie nicht genügend Respekt vor dir haben. Und für diesen Respekt muss die Berolina sorgen, noch heute Abend, dafür bezahlst du schließlich. (<i>Marlow</i>, 519)',
 ],
@@ -9726,19 +9744,22 @@ abgrasen: [
     '<b>abgrasen</b>: graze; browse, look for something'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abgrasen"target="target1">abgrasen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abgrasen"target="target2">abgrasen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abgrasen"target="target3">abgrasen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abgrasen"target="target4">abgrasen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Gräf schüttelte den Kopf. "Fehlanzeige. Immer noch keine Spur, die Heinrich Wosniak in dieser Stadt hinterlassen hat. Habe nun alle einschlägigen Adressen rund um Bülowplatz und Nollendorfplatz <b>abgegrast</b> und noch niemanden getroffen, der ihn kannte." (<i>Märzgefallene</i>, 117)',
 ],
 'abgreifen, abgegriffen': [
     '<b>abgreifen</b>: feel, probe, tap into; wear out'+
-    '<br><b>abgegriffen</b>: in these examples: used, worn out'+
+    '<br><b>abgegriffen</b>: <i>in these examples</b>: used, worn out'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abgreifen#Bedeutung-1a"target="target1">abgreifen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abgegriffen"target="target2">abgegriffen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abgreifen"target="target3">abgreifen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abgegriffen"target="target4">abgegriffen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Der Oberkommisar faltete das speckige, <b>abgegriffene</b> Dokument auseinander. (<i>Märzgefallene</i>, 10)',
-    'Rath blätterte durch die Akte und schlug den <b>abgegriffenen</b> Wehrpass auf. "Im Ersten GardeReserve-Infanterie-Regiment." (<i>Märzgefallene</i>, 132)',
+    'Rath blätterte durch die Akte und schlug den <b>abgegriffenen</b> Wehrpass auf. "Im Ersten Garde-Reserve-Infanterie-Regiment." (<i>Märzgefallene</i>, 132)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Der Blick des Wirts huschte unsicher von Rath zu Gräf hinüber, der bislang geschwiegen hatte. Dessen fabrikneu funkelnde metallene Ausweismarke mit dem eingeprägten Schriftzug GEHEIME STAATSPOLIZEI hatte deutlich mehr Eindruck gemaht als Rath <b>abgegriffene</b> Kripomarke. (<i>Lunapark</i>, 33)',
+    'Der Blick des Wirts huschte unsicher von Rath zu Gräf hinüber, der bislang geschwiegen hatte. Dessen fabrikneu funkelnde metallene Ausweismarke mit dem eingeprägten Schriftzug GEHEIME STAATSPOLIZEI hatte deutlich mehr Eindruck gemaht als Raths <b>abgegriffene</b> Kripomarke. (<i>Lunapark</i>, 33)',
     'Lange blätterte sich durch das Heft. Da kamen auf wenigen Seiten einige Sexualpraktiken zusammen. Die anderen Hefte, zum Teil noch <b>abgegriffener</b>, enthielten ähnlich geschmackloses Zeug, meist mit sadistischem Einschlag. (<i>Lunapark</i>, 43)',
     '.. Andreas Lange pfiff leise durch die Zähne: rötlich braune Zwanzigmarkscheine, sauber gebündelt mit Banderole. Ein wenig <b>abgegriffen</b>, aber zweifellos echt. Lange schätzte die Packen auf mindestens zehntausend Mark, eine schöne Stange Geld für einen einfachen SA-Rottenführer. (<i>Lunapark</i>, 47)',
 ],
@@ -9747,6 +9768,7 @@ abklappern: [
     '<b>abklappern</b>: scour, canvass, do the rounds of'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abklappern"target="target1">abklappern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abklappern"target="target2">abklappern</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abklappern"target="target3">abklappern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abklappern"target="target4">abklappern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath schaute auf die Uhr. Mitternacht durch, und er war noch kein Stück weitergekommen. Er spürte den langen Tag in seinen Knochen. Die Russenlokale in der Gegend hatte er ebenso systematich wie erfolglos <b>abgeklappert</b>. (<i>Der nasse Fisch</i>, 94)',
     'Rath <b>klapperte</b> die Hauseingänge <b>ab</b> und überflog die Namen auf den Bewohnertafeln. Ein Kardakow war nicht dabei.... (<i>Der nasse Fisch</i>, 113)',
@@ -9754,21 +9776,25 @@ abklappern: [
     'Er (<i>Rath</i>) hoffte, die beiden Experten aus der Mordinspektion mit dem <b>Abkappern</b> der Wohnblöcke möglichst lange möglichst sinnlos zu beschäftigen. (<i>Der nasse Fisch</i>, 292)',
     'Er hatte seine Leute eingeteilt. Czerwinski und Henning trieben sich immer noch im Stralauer Viertel herum und <b>klapperten</b> die Mietskasernen rund um die Baustelle <b>ab</b>. (<i>Der nasse Fisch</i>, 299)',
     'Kein Wunder, dass er (<i>Rath</i>) müde war, der Nachmittag hatte sich nach dem Besuch im Passamt noch ganz schön in die Länge gezogen. Es hatte gedauert, bis Rath alle sechs Namen auf seiner Liste <b>abgeklappert</b> hatte. (<i>Der nasse Fisch</i>, 353)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Oppenberg</i>: "Dienstag wäre ihr erster Drehtag gewesen, und sie (<i>Vivian</i>) ist nicht erschienen." <i>Rath</i>: "Haben Sie denn schon selbst nach ihr gesucht?" "Natürlich. Ich lauf doch nicht gleich zur Polizei!" "Und?" "Wir haben alles <b>abgeklappert</b>, sämtliche Verwandte und Bekannte, sämtliche Bars und Restaurants, in denen sie verkehrt. Nichts..." (<i>Der stumme Tod</i>, 79)',
     '<i>Rath</i>: "Wo bleibt denn Gräf? Der war doch gerade noch auf der Besprechung." "Schon wieder weg", sagte die Sekretärin. "Mit Lange raus zum Grunewald. Laubenkolonien <b>abklappern</b>, soviel ich weiß. Böhm glaubt, dass dieser Krempin sich dort irendwo versteckt." (<i>Der stumme Tod</i>, 201)',
     '<i>Rath zu Gräf</i>: "Ich will nur wissen, wie es weitergeht. Das war unser Fall, und wir waren schon ganz schön weit, bis Böhm uns die Butter vom Brot genommen hat. Und jetzt? Lässt er dich im Grunewald Schrebergärten <b>abklappern</b>?" (<i>Der stumme Tod</i>, 228)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    '"Strausberger Straße?", fragte Gereon. Gräf nickte...."Zur schlesischen Olga." <i>Gereon</i>: "Hört sich nicht gerade amtlich an." <i>Gräf</i>: "Die städtischen Asyle habe ich alle schon <b>abgeklappert</b>." <i>Gereon</i>: "Also ein privates Asyl." <i>Gräf</i>: "Wenn man so will." (<i>Märzgefallene</i>, 121)',
-    '<i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident, aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch...". <i>Levetzow, der Polizeipräsident</i>: "Dann fühlen Sie weiter! <b>Klappern</b> Sie sämtliche Personen <b>ab</b>, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!...." (<i>Märzgefallene</i>, 358)',
+    '"Strausberger Straße?", fragte Gereon. Gräf nickte...."Zur schlesischen Olga." "Hört sich nicht gerade amtlich an." "Die städtischen Asyle habe ich alle schon <b>abgeklappert</b>." "Also ein privates Asyl." "Wenn man so will." (<i>Märzgefallene</i>, 121)',
+    '<i>Rath</i>: "Mit Verlaub, Herr Polizeipräsident (<i>Levetzow</i>), aber das tue ich doch. Ich habe seiner angeblichen Witwe auf den Zahn gefühlt, nach seinem Fahrer fahnden wir noch...". "Dann fühlen Sie weiter! <b>Klappern</b> Sie sämtliche Personen <b>ab</b>, mit denen Benjamin Engel in seinem Leben jemals zu tun hatte!...." (<i>Märzgefallene</i>, 358)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
-    '<i>Helmut Reinhold</i>: "Ab und zu helfe ich in einer Malerkolonne aus. Wir streichen Fassaden. Un da habe ich ihn (<i>Karl Reinhold</i>) gesehen. Ging unten auf dem Trottoir.. Ich hab dem Vorarbeiter irgendwas erzählt und bin runter vom Gerüst. Doch als ich unter war, hab ich ihn nicht mehr gefunden. Bin noch rumgelaufen, hab die Nebenstraßen <b>abgeklappert</b>, bin in den Park rin, aber: keine Spur." (<i>Lunapark</i>, 102)',
-    'Rath hatte ewig nichts von dem Mann gehört. Marlow hatte die Segel gestrichen.. Die <i>Berolina</i> (<i>ein Ringverein</i>), Marlows verlängerter Arm für seine illegalen Geschäfte, war im Sommer 33 aufgelöst worden, das Vereinsvermögen beschlagnahmt, fast alle Mitlieder verhaftet. Marlow.. war damals mit seinen treuesten Gefolgsleuten in einer Villa in Bad Freienwalde auf Tauchstation gegangen. Dennoch hatte Rath (<i>der Marlow suchte</i>) zunächst die ihm bekannten Berliner Adressen <b>abgeklappert</b>... (<i>Lunapark</i>, 119)',
+    '<i>Helmut Reinhold</i>: "Ab und zu helfe ich in einer Malerkolonne aus. Wir streichen Fassaden. Und da habe ich ihn (<i>Karl Reinhold</i>) gesehen. Ging unten auf dem Trottoir.. Ich hab dem Vorarbeiter irgendwas erzählt und bin runter vom Gerüst. Doch als ich unter war, hab ich ihn nicht mehr gefunden. Bin noch rumgelaufen, hab die Nebenstraßen <b>abgeklappert</b>, bin in den Park rin, aber: keine Spur." (<i>Lunapark</i>, 102)',
+    'Rath hatte ewig nichts von dem Mann gehört. Marlow hatte die Segel gestrichen.. Die <i>Berolina</i> (<i>ein Ringverein</i>), Marlows verlängerter Arm für seine illegalen Geschäfte, war im Sommer 33 aufgelöst worden, das Vereinsvermögen beschlagnahmt, fast alle Mitglieder verhaftet. Marlow.. war damals mit seinen treuesten Gefolgsleuten in einer Villa in Bad Freienwalde auf Tauchstation gegangen. Dennoch hatte Rath (<i>der Marlow suchte</i>) zunächst die ihm bekannten Berliner Adressen <b>abgeklappert</b>... (<i>Lunapark</i>, 119)',
     'Rath überlegte. "Machen Sie (<i>Lange</i>) hier weiter, ich fange oben an. Wir treffen uns in der Mitte und <b>klappern</b> das nächste Haus genauso <b>ab</b>." So machten sie es dann auch. Lange klingelte an der zweiten Tür im ersten Stock, Rath stiefelte die Treppe hinauf, bis zur vierten Etage. (<i>Lunapark</i>, 186)',
     'Rath fuhr über die Stresemannstraße nach Kreuzberg. Er hatte sieben Adressen von Fahrzeughaltern, die in der Nähe der Schlesischen Straße wohnten, die würde er so schnell wie möglich <b>abklappern</b>, um Gräf zufriedenzustellen. (<i>Lunapark</i>, 290)',
     'Rath studierte die Namen auf der Hausbewohnertafel. Keiner, der ihm bekannt vorkam.. Dennoch zückte er Stift und Block und notierte jeden einzelnen. Man konnte nie wissen. Dasselbe tat er mit den Firmennamen. Er <b>klapperte</b> alle Höfe des Industriepalastes <b>ab</b>, erst dann kehrte er zu seinem Auto zurück. (<i>Lunapark</i>, 292)',
     'Obwohl es mitten in der Nacht war, hatten seine (<i>Gräfs</i>) Männer schon begonnen, die Nachbarschaft <b>abzuklappern</b> und nach Zeugen zu suchen, welche die Flucht der aufgescheuchten Kommunisten mitbekommen hatten. (<i>Lunapark</i>, 388)',
     'Rath war nassgeschwitzt, das Hemd klebte an seinem Körper. Den ganzen Nachmittag <b>klapperte</b> er nun schon in drückender Hitze die Laubenkolonie in Lichtenberg <b>ab</b>, eine Parzelle nach der anderen. (<i>Lunapark</i>, 481)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath wollte gerade anfangen, die Wohnungen einzeln <b>abzuklappern</b> und sich durchzufragen, da kamen drei Kinder die Treppe hinunter, die er kannte. (<i>Marlow</i>, 172)',
     'Die wenigen Hotels hatte Rath schnell <b>abgeklappert</b>. Vergeblich. Auch Schwabach war komplett ausgebucht. (<i>Marlow</i>, 256)',
@@ -9780,19 +9806,22 @@ abknallen: [
     '<b>abknallen</b>: shoot down, kill, bump so. off'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abknallen"target="target1">abknallen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abknallen"target="target2">abknallen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abknallen"target="target3">abknallen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abknallen"target="target4">abknallen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Wolter hatte die Kugel herausgefischt. Die Kugel, die Rath hatte treffen sollen. "Hier", sagte er und hielt sie Rath hin. "Was soll ich damit?" "Nimm! Schließlich wollte er <i>dich</i> damit <b>abknallen</b>." (<i>Der nasse Fisch</i>, 30)',
     'Ein Mann lief geduckt über den Gehweg, die Hände über dem Kopf, als könne ihn das vor den Kugeln und dem herabfallenden Glas schützen. Er kam zu ihnen (<i>Wolter und Rath</i>) in den Hauseingang, zog einen Schlüssel aus der Tasche und schloss die schwere Haustür auf. "Na los", sagte er und hielt die Tür auf. "Kommt rein bevor die Bullen euch <b>abknallen</b>." Sie zögerten keinen Moment und stürzten ins Haus. (<i>Der nasse Fisch</i>, 70)',
     '<i>Rath zu Krajewski</i>: ".. Oberkommissar Wolter ist ein Drecksack. Er hat einen <b>abgeknallt</b> mit deiner Lignose (<i>deiner Pistole</i>), und jetzt will er es dir in die Schuhe schieben." (<i>Der nasse Fisch</i>, 509)',
     '"Ich fürchte, Herr <i>Ober</i>kommissar, meinen Männern ist es egal, wenn Sie mich <b>abknallen</b>. Allerdings werden sie in diesem Fall auf der Stelle Sie und Ihre Begleiter töten." (<i>Der nasse Fisch</i>, 520)',
-    '"Ich würde an eurer Stelle nicht schießen", herrschte er (<i>Rath</i>) Wolters Begleiter an, die ihre Waffen nervös in seine Richtung herumgerissen hatten... "Und warum", fragte er (<i>Wolter</i>) mit einem Lächeln, "soll ich meinen Leuten nicht den Befehl geben, dich einfach abzuknallen?" (<i>Der nasse Fisch</i>, 523-24)',
+    '"Ich würde an eurer Stelle nicht schießen", herrschte er (<i>Rath</i>) Wolters Begleiter an, die ihre Waffen nervös in seine Richtung herumgerissen hatten... "Und warum", fragte er (<i>Wolter</i>) mit einem Lächeln, "soll ich meinen Leuten nicht den Befehl geben, dich einfach <b>abzuknallen</b>?" (<i>Der nasse Fisch</i>, 523-24)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Wegener, der Rekrut</i>: "Das war Mord. Ich muß das melden!" Weiter kommt er nicht. Engel hat den fünften Schuß aus seinem Revolver abgefeuert. Wegener schaut auf den dunklen...Fleck, der sich links auf seiner Uniformbrust ausbreitet. Mit immer noch weitaufgerissenen Augen,... stürzt der Junge wie ein Baum nach vorne und kippt mit dem Gesicht auf den Waldboden.... Der Todesengel. Er hat einen von uns <b>abgeknallt</b> wie einen tollwütigen Hund. (<i>Märzgefallene</i>, 170)',
     '"Er (<i>Engel</i>) wird kommen", sagte Roddeck. "Ich habe ihn gesehen, oben bei der Bücherverbrennung. Er is da, irgendwo in der Menschenmenge." <i>Rath</i>: "Das er da oben ist, muss nicht heißen, dass er auch runterkommt. Vielleicht will er ja nur, dass wir beide uns hier über den Weg laufen. Und uns in Panik womöglich gegenseitig <b>abknallen</b>. Hätte ja beinahe auch geklappt." (<i>Märzgefallene</i>, 571)',
     'Jetzt lag er (<i>Grimberg</i>) da und lachte nicht mehr. Würde ihn nie wieder demütigen. Und Achim von Roddeck würde sich nie wieder abhängig fühlen. Weder von ihm noch von diesem düsteren Kerl Wosniak. Wenn der damals die beiden Franzosenkinder nicht so kaltblütig <b>abgeknallt</b> hätte, hätte Wegener auch nicht die Nerven verloren. Und Roddeck hätte den Rekruten nicht erschießen müssen. Und jetzt auch nicht Grimberg. (<i>Märzgefallene</i>, 574)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Pfeiffer</i>: "Diese hinterlistigen roten Schweine! Man sollte sie <b>abknallen</b>, ohne Gnade!" (<i>Lunapark</i>, 44)',
-    '"Jetzt reicht\'s, Kommissar!" Lapke trat so nah an ihn heran, dass Rath seinen schlechten Atem riechen konnt, und packte den Kommissar am Kragen. "Was hindert mich eigentlich daran, Sie einfach <b>abknallen</b> zu lassen?" (<i>Lunapark</i>, 198)',
+    '"Jetzt reicht\'s, Kommissar!" Lapke trat so nah an ihn heran, dass Rath seinen schlechten Atem riechen konnte, und packte den Kommissar am Kragen. "Was hindert mich eigentlich daran, Sie einfach <b>abknallen</b> zu lassen?" (<i>Lunapark</i>, 198)',
     'Allerdings war das tiefstes Nordpiratengebiet, und Rath bezweifelte sehr, dass Leo Juretzka sich in einer Gegend herumzutreiben wagte, wo jeder Ganove sein Gesicht kannte. Und wenn? Sollte er doch. Vielleicht entdeckte ihn einer seiner alten Feinde. Sollten sich die Scheißkerle doch gegenseitig <b>abknallen</b>. Dann hätte Gereon Rath ein Problem weniger. (<i>Lunapark</i>, 278)',
     'Sollte Leo sich irgendwo blicken lassen, würde er (<i>Rath</i>) ihn <b>abknallen</b>, das stand fest. (<i>Lunapark</i>, 524)',
     'Rath hatte das Gefühl, irgendwas zu dem Jungen (<i>Fritze</i>) sagen zu müssen, aber er wusste nicht, was. Dass es falsch war, mit einer Pistole auf Leute zu zielen? Dass er um diese Zeit ins Bett gehörte? Oder dass er den verfluchten Juretzka einfach <b>abknallen</b> sollte? (<i>Lunapark</i>, 529)',
@@ -9861,6 +9890,7 @@ abkommandieren: [
     '<b>abkommandieren</b>: post, assign, detail to'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abkommandieren"target="target1">abkommandieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abkommandieren"target="target2">abkommandieren</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/abkommandieren"target="target3">abkommandieren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abkommandieren"target="target4">abkommandieren</a>',
+    //  Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Erika Voss</i>: "Entschuldigen Sie die Störung, Herr Kommissar. Aber ich habe hier jemanden in der Leitung.... Ein Herr Frank", fuhr sie fort. "<i>Neue Preußische Zeitung</i>.... Ich weiß einfach nicht mehr, was ich ihm sagen soll." <i>Rath</i>: "Sie haben ihm doch hoffentlich nicht gesagt, dass ich derzeit zur IA <b>abkommandiert</b> bin?" (<i>Märzgefallene</i>, 227)',
 ],
@@ -9868,8 +9898,10 @@ Ablage: [
     'die <b>Ablage</b>,-<b>n</b>: shelf, tray; files, records'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ablage"target="target1">Ablage</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ablage"target="target2">Ablage</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ablage"target="target3">Ablage</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Ablage"target="target4">Ablage</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Auf der <b>Ablage</b> vor dem Spiegel standen zwei Zahnputzgläser. Und in jedem eine Zahnbürste. (<i>Märzgefallene</i>, 120)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Rath</i>: "Meine Frau macht sich sorgen, ich muss nach Hause..." <i>die Krankenschwester</i>: "Wir haben Ihre Frau selbstverständlich benachrichtigt, sie war heute Morgen schon kurz zu Besuch." Die Schwester zeigte auf die <b>Ablage</b> über dem Waschbecken. "Hat Ihnen Wäsche gebracht und Ihre Zahnbürste und so." (<i>Lunapark</i>, 389)',
 ],
@@ -17514,20 +17546,24 @@ Murmel: [
     '<br><b>mürrisch</b>: grumpy, surly, sullen, dour'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/murren"target="target1">murren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/m%C3%BCrrisch"target="target2">mürrisch</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murren"target="target3">murren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=mürrisch"target="target4">mürrisch</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Beifahrer hatte geschimpft, als er hörte, wer den Transport alles begleiten sollte: "Det is keen Mannschaftswagen, det issen Leichenwagen!" <b>Murrend</b> hatte er seinen Platz geräumt und saß nun hinten zwischen den schaukelnden Zinksärgen. (<i>Der nasse Fisch</i>, 76)',
     'Die nötigen polizeilichen Arbeiten hatten sogleich beginnen können - Gennat hatte fast alle Spezialisten vor Ort. Die meisten waren zwar nicht gerade passend angezogen, aber sie hatten sich ohne <b>Murren</b> an die Arbeit gemacht. (<i>Der nasse Fisch</i>, 406)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Welche Aufgabe, Herr Professor?" <i>Meifert</i>: "Sagte ich doch: Seite siebenundvierzig. Die ganze Seite." Ein <b>Murren</b> ging durch die Klasse, doch die Schüler fügten sich. (<i>Märzgefallene</i>, 128)',
     'Ich (<i>von Roddeck</i>) sehe den Männern die Enttäuschung an. Soviel Gold, und alles für den Kaiser. Dennoch befolgen sie ohne <b>Murren</b> meine Befehle. (<i>Märzgefallene</i>, 162)',
     'Juretzka erschien pünktlich um elf in der Burg eskortiert von zwei SA-Männern und Marlows Anwalt Doktor Kohn. Der Anwalt durfte mit in den Vernehmungsraum, die SA musste draußen bleiben. Die Braunhemden gehorchten Rath ohne <b>Murren</b>. (<i>Märzgefallene</i>, 256)',
     'Erika Voss hatte zwar skeptisch geguckt, als Charly ihr sagte, sie habe den Auftrag, Unterlagen für Kommissar Rath mit nach Hause zu nehmen, dann aber alles ohne zu <b>murren</b> rausgerückt. (<i>Märzgefallene</i>, 292)',
     'Rath hatte nur Alfons Henning als Unterstützung mitgenommen und dafür das unzertrennliche Pärchen Plisch und Plum auseinandergerissen. Czerwinski hatte zwar <b>gemurrt</b>, als er seinen Lieblingskollegn ziehen lassen sollte, doch im Notsitz des Buick hatte er dann auch nicht Platz nehmen wollen. (<i>Märzgefallene</i>, 344)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Engelbert Rath, zu Gereon</i>: "Mein Junge, du redest mal wieder von Dingen, von denen du keine Ahnung hast. Meinst du etwa, Goebbels reitet seine Kampagne ohne Grund? Die Herren Nazis sind nervös, das Volk <b>murrt</b>. Und in der Regierung brodelt es. Glaubst du, den anderen Kabinettsmitgliedern gefällt es, was die Nazis sich alles herausnehmen?" (<i>Lunapark</i>, 87)',
     'Die Braunhemden verstanden keinen Spaß, wenn man ihnen den Hitlergruß verweigerte oder ihnen gar aus dem Wege ging. Kein Wunder, dass die Leute <b>murrten</b>. (<i>Lunapark</i>, 91)',
     '<i>Rath</i>: "Wenn ich noch einen Blick in Ihr Auto werfen dürfte, Herr Leister?" Auch das ließ Wilhelm Leister ohne <b>Murren</b> über sich ergehen. Rath schaute ins Wageninnere, in den Kofferraum und unter die Motorhaube. Nichts Verdächtiges. Natürlich nicht. (<i>Lunapark</i>, 233)',
     'Der Junge (<i>Fritze</i>) freute sich seit Tagen auf das Zeltlager. Ohne zu <b>murren</b>, hatte er den Hund versorgt und war mit Kirie extra lange Gassi gegangen. (<i>Lunapark</i>, 279)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"So kann es nicht weitergehen", empörte sich plötzlich einer, und alle schauten ihn an. "Es wird Zeit, dass der Führer der grassierenden Rassenschande endlich Einhalt gebietet!" Rath hörte zustimmendes <b>Murren</b>, mehr nicht. (<i>Marlow</i>, 296)',
     'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der <b>mürrische</b> Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue <b>Molle</b> brauchte. (<i>Marlow</i>, 382)',

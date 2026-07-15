@@ -23,9 +23,8 @@ const a = [
 	'absegnen',  // absegnen: 
 	'abspecken',  // abspecken: 
 	'abspulen',   // abspulen:  
-	'abstauben',  // abstauben: 
 	'abstottern', // abstottern: 
-	'abstumpfen',  // abstumpfen:
+	'abstumpfen, stumpf',  // duplicated
 	'abtrünnig',  // abtrünnig:
     'abwälzen',  // abwälzen:
     'abwetzen',  // abwetzen:     
@@ -167,7 +166,6 @@ const a = [
 	'aufwühlen, aufgewühlt',  
 	'Auge (aufs A. drücken)',  // duplicted 
 	'aus dem Konzept bringen', // duplicated     
-	'aus dem Staub machen', //  duplicated 
 	'aus dem Häuschen', // duplicated    
 	'aus der Haut fahren',   
 	'ausbaldowern', // ausbaldowern: 

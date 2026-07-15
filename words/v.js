@@ -125,7 +125,8 @@ const v = [
    'vertreten (sich die Beine)', //  duplicated   
    'Vertriebsweg', // Vertriebsweg:  
    'vertrödeln',  // vertrödeln: 
-   'vertun, vertan',  // 
+   'vertun, vertan',  //
+   'vertuschen',  // vertuschen: 
    'verunfallen',  // verunfallen:
    'verunglimpfen',  // verunglimpfen:  
    'verunzieren',  // verunzieren:  

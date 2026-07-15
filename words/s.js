@@ -242,7 +242,7 @@ const s = [
    'Statist', // Statist:  
    'Stativ',  // Stativ:  
    'statuieren', // statuieren:  
-   'Staub (aus dem S. machen)', //  duplicated 
+   'Staub, stauben, ab-, aus dem Staub machen', //  duplicated 
    'stauchen', // stauchen:  
    'Steckbrief', // Steckbrief:  
    'Stecknadel im Heuhaufen',  
@@ -283,6 +283,7 @@ const s = [
    'stülpen', // stülpen:  
    'Stummel',  // Stummel: 
    'Stümper, stümperhaft', // 
+   'stumpf, abstumpfen',  // duplicated
    'Sturzbach',  // Sturzbach:
    'stutzen, stutzig', 
    'Suff',  // Suff:

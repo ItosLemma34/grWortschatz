@@ -28,7 +28,6 @@ const k = [
    'Keim, keimen',   
    'kein Kraut gewachsen',  
    'keinen Reim machen können', //  duplicated 
-   'keinen S. haben, schimmern, Schimmer', // duplicated
    'keinen Zwang antun',  // duplicated 
    'Kelch',  // Kelch: 
    'kentern',  // kentern:
@@ -65,7 +64,7 @@ const k = [
    'klauben', // klauben:  
    'klebrig', // klebrig: 
    'kleistern, Kleister',  
-   'Klemme, klemmen',   
+   'Klemme, klemmen, ab-',   
    'Klette',  // Klette: 
    'klimpern', // klimpern: 
    'Klinge, über die K. springen', //  duplicated 

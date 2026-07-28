@@ -72,7 +72,8 @@ const b = [
     'Blöße, sich keine B. geben',    
     'bloßstellen', // bloßstellen: 
     'blümerant',  // blümerant:
-    'blutrünstig', // blutrünstig: 
+    'blutrünstig', // blutrünstig:
+    'Bock, einen B. schießen', 
     'bockig' ,  // bockig: 
     'Bodensatz',  // Bodensatz:  
     'Bogen, den B. raushaben',  

@@ -98,8 +98,7 @@ button {
 .selection-container-book {  /*governs panel on left side of Personen*/
     min-width: 10%;
     max-width: 17.5%;
- /*   button { width: 12rem; font-size: 120%;} */
-    button { width: 78%; font-size: 116%;}
+    button { width: 13rem; font-size: 115%;} 
 }
 
 input,select {

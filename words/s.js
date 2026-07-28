@@ -181,7 +181,8 @@ const s = [
    'seicht',  // seicht: 
    'Seidel', // Seidel:
    'Seil',  // Seil: 
-   'Seilschaft',  // Seilschaft: 
+   'Seilschaft',  // Seilschaft:
+   'sesshaft',  // sesshaft: 
    'sezieren',  // sezieren:
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
@@ -240,11 +241,11 @@ const s = [
    'Statist', // Statist:  
    'Stativ',  // Stativ:  
    'statuieren', // statuieren:  
-   'Staub, stauben, ab-, aus dem Staub machen', //  duplicated 
+   'Staub, stauben, ab-, aus dem S. machen', //  duplicated 
    'stauchen', // stauchen:  
    'Steckbrief', // Steckbrief:  
    'Stecknadel im Heuhaufen',  
-   'Steg', // Steg:
+   'Steg, Lauf-', 
    'stempeln, s. gehen, Stempel, -kissen', 
    'stibitzen', // stibitzen: 
    'Stich, einen S. versetzen', // duplicated  

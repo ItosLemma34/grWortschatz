@@ -86,7 +86,7 @@ const k = [
    'Knäuel',  // Knäuel: 
    'Knauf',  // Knauf: 
    'knebeln', // knebeln: 
-   'kneifen', // kneifen: 
+   'kneifen, ein-, zu-, zusammen-',  
    'kneten', // kneten: 
    'kniff(e)lig', // kniff(e)lig: 
    'Knirps', // Knirps: 

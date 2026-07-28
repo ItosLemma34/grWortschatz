@@ -2,7 +2,8 @@ const v = [
    'Ventil',  // Ventil: 
    'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
    'Verband, Mull-',
-   'verbiegen',  // verbiegen:   
+   'verbiegen',  // verbiegen: 
+   'verbissen',  // verbissen:  
    'verblassen', // verblassen: 
    'verbocken', // verbocken: 
    'verbohrt',  // verbohrt:
@@ -134,7 +135,8 @@ const v = [
    'Verwahrlosung, verwahrlosen',  
    'verwaisen, verwaist',   
    'verweben, weben', // duplicated
-   'verwegen',  // verwegen:  
+   'verwegen',  // verwegen:
+   'Verweis, verweisen',  
    'verwesen, Verwesung',   
    'verwetten',  // verwetten: 
    'verwinkelt',  // verwinkelt:

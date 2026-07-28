@@ -82,7 +82,8 @@ const h = [
    'Hülse',  // Hülse: 
    'humpeln',  // humpeln:  
    'Hunde (vor die H. gehen)',  // duplicated 
-   'Hüne',  // Hüne: 
+   'Hüne',  // Hüne:
+   'hüpfen, Hüpfer, Gehüpfe',  // duplicated 
    'huschen',  // huschen: 
    'husten, hüsteln',
  ];

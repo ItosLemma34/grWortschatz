@@ -26,7 +26,6 @@ const a = [
 	'abstottern', // abstottern: 
 	'abstumpfen, stumpf',  // duplicated
 	'abtrünnig',  // abtrünnig:
-    'abwälzen',  // abwälzen:
     'abwetzen',  // abwetzen:     
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
@@ -100,7 +99,8 @@ const a = [
 	'Asservat',  // Asservat:  
 	'Ast, Geäst', //  duplicated 
 	'Attest, attestieren',     
-	'ätzen, wegätzen',  // duplicated 
+	'ätzen, wegätzen',  // duplicated
+    'Aue',  // Aue: 
 	'auf Biegen und Brechen', 
 	'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
 	'auf dem Kerbholz haben', //  duplicated  
@@ -108,7 +108,7 @@ const a = [
 	'auf dem Sprung',      //  duplicated  
 	'auf dem Trockenen sitzen', // duplicated 
 	'auf den Arm nehmen',  //  duplicated 
-	'auf den Leim gehen',  //  duplicated 
+	'auf den Leim gehen, Leim, leimen',  //  duplicated 
 	'auf den letzten Drücker',  // duplicated
 	'auf den Putz hauen',  //   duplicated 
 	'auf den Schlips treten', //  duplicated 
@@ -166,7 +166,8 @@ const a = [
 	'aufwühlen, aufgewühlt',  
 	'Auge (aufs A. drücken)',  // duplicted 
 	'aus dem Konzept bringen', // duplicated     
-	'aus dem Häuschen', // duplicated    
+	'aus dem Häuschen', // duplicated 
+    'aus dem Staub machen, Staub, stauben, ab-',
 	'aus der Haut fahren',   
 	'ausbaldowern', // ausbaldowern: 
 	'ausblenden',  // ausblenden: 

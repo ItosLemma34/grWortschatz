@@ -60,7 +60,7 @@ const r = [
    'röcheln', // röcheln: 
    'roden', // roden:  
    'Rohrkrepierer', // Rohrkrepierer: 
-   'rosten', // rosten: 
+   'rosten, Rost, Gitter-', //  
    'Rottenführer',  // Rottenführer:
    'ruckeln, Geruckel',  // duplicated
    'rücken: an-, aus-, nach-',

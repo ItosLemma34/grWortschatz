@@ -6,7 +6,7 @@ const w = [
    'waghalsig', // waghalsig: 
    'wähnen',  // wähnen: 
    'Walze',  // Walze: 
-   'wälzen',  // wälzen: 
+   'wälzen, ab-',  
    'Wampe', // Wampe: 
    'Wanst',  // Wanst:  
    'Wappen' ,  // Wappen: 
@@ -35,6 +35,7 @@ const w = [
    'wie am Schnürchen', // duplicated
    'wie aus dem Ei gepellt',  //  duplicated 
    'wie bestellt und nicht abgeholt',
+   'wie ein Auto anschauen/anstarren/gucken',
    'wiehern', // wiehern:  
    'wienern', // wienern: 
    'wimmeln, Gewimmel',  //   duplicated 

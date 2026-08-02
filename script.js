@@ -28,18 +28,26 @@ class DropDown {
 
 		this.input.addEventListener('keydown', (e) => {
 			if (e.keyCode === EnterKey) {
-				this.displaySelectedWord(dropdown.value);
+				const showExamplesButton = this.displaySelectedWord(dropdown.value);
 				this.resetInputText();
+				// Defer the focus move: if it happens synchronously while
+				// this Enter key is still down, the keyup fires on the
+				// button instead of the input and triggers its native
+				// Enter-activates-button behavior, jumping straight to
+				// the examples page.
+				setTimeout(() => showExamplesButton.focus(), 0);
 			}
 		});
 
 		this.dropdown.addEventListener('change', () => {
 			this.displaySelectedWord(dropdown.value);
+			this.dropdown.focus();
 		});
 
 		this.dropdown.addEventListener('click', () => {
 			this.resetInputText();
-			this.displaySelectedWord(dropdown.value);
+			const showExamplesButton = this.displaySelectedWord(dropdown.value);
+			showExamplesButton.focus();
 		});
 
 		this.dropdown.addEventListener('keydown', (e) => {
@@ -68,9 +76,12 @@ class DropDown {
 		showExamplesButton.textContent = 'Bedeutung und Beispiele';
 		mainContainer.appendChild(showExamplesButton);
 
-		showExamplesButton.addEventListener('click', () => displayExamples(word));
+		showExamplesButton.addEventListener('click', () => {
+			displayExamples(word);
+			this.input.focus();
+		});
 
-		this.dropdown.focus();
+		return showExamplesButton;
 	}
 
 	reset() {
@@ -96,7 +107,8 @@ class DropDown {
 		this.reset();
 		const randomWord = allWords[Math.floor(Math.random() * allWords.length)];
 		wordDropdown.value = randomWord;
-		this.displaySelectedWord(randomWord);
+		const showExamplesButton = this.displaySelectedWord(randomWord);
+		showExamplesButton.focus();
 	}
 
 	handleTextInput(e) {
@@ -156,6 +168,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	const findAsYouType = document.getElementById('find-as-you-type');
 	const wordDropdown = document.getElementById('wordDropdown');
 	const dropDown = new DropDown(findAsYouType, wordDropdown);
+	const randomSelectButton = document.getElementById('randomSelectButton');
 
 	// Check if there's a stored word from the session
 	const sessionWord = sessionStorage.getItem('returnWord');
@@ -163,17 +176,52 @@ document.addEventListener('DOMContentLoaded', function () {
 		dropDown.sessionWordSelect(sessionWord);
 	}
 
-	document.getElementById('randomSelectButton').addEventListener('click', () => {
+	randomSelectButton.addEventListener('click', () => {
 		dropDown.randomSelect();
+	});
+
+	document.addEventListener('click', (e) => {
+		if (e.target === findAsYouType) return;
+		if (wordDropdown.contains(e.target)) return;
+		// Random word/phrase moves focus to the "Show Examples" button
+		// itself; don't yank it back to the input.
+		if (randomSelectButton.contains(e.target)) return;
+		const selection = window.getSelection();
+		if (selection && selection.toString().length > 0) return;
+		findAsYouType.focus();
+	});
+
+	findAsYouType.focus();
+
+	window.addEventListener('pageshow', (e) => {
+		if (e.persisted) findAsYouType.focus();
 	});
 });
 
 function displayExamples(word) {
 	const mainContainer = document.getElementById('main-container');
-	mainContainer.innerHTML = `<div class="selected-word">${word}</div>`;
+	mainContainer.innerHTML = '';
 
 	const examples = wordExamples[word] || [];
-	examples.forEach((example) => {
+
+	// The header (word title + first entry, which is the definition/
+	// translation block) stays pinned to the top while the remaining
+	// literary examples scroll underneath it.
+	const header = document.createElement('div');
+	header.classList.add('main-container-header');
+	header.innerHTML = `<div class="selected-word">${word}</div>`;
+
+	if (examples.length > 0) {
+		const definitionElement = document.createElement('div');
+		definitionElement.innerHTML = examples[0];
+		definitionElement.classList.add('example');
+		definitionElement.classList.add('main-container-item');
+		header.appendChild(definitionElement);
+	}
+
+	mainContainer.appendChild(header);
+
+	examples.slice(1).forEach((example) => {
 		const exampleElement = document.createElement('div');
 		exampleElement.innerHTML = example;
 		exampleElement.classList.add('example');

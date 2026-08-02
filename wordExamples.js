@@ -2142,24 +2142,32 @@ basteln: [
     '<br><b>wenn du so viele Jahre auf dem Buckel hast wie ich</b>: when you are as old as I am'+
     '<br><b>mit mehr als zehn Dienstjahren auf dem Buckel</b>: with more than ten years of service'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/buckeln"target="target2">buckeln</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target3">bucklig</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target4">auf dem Buckel</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/buckeln"target="target2">buckeln</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target3">bucklig</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target4">auf dem Buckel</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target5">Buckel</a>'+
-    '&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/buckeln"target="target6">buckeln</a>'+
-    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target7">bucklig</a>'+
-    '&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target8">auf dem Buckel</a>',
+        '&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/buckeln"target="target6">buckeln</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target7">bucklig</a>'+
+        '&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target8">auf dem Buckel</a>',
+    // Der masse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath wusste zwar nicht warum, aber er merkte, dass er hier nicht eher rauskam, bevor ein fetter Kater namens Napoleon einer alten Dame namens Elfriede Gaede wieder um die Beine strich. Er legte Hut und Jackett ab und kletterte aus dem Fenster. Das Sims war nicht sehr breit. Wie eine Klette klebte er an der Wand und tastete sich auf den Kater zu. Das Tier schien wenig begeistert. Napoleon machte einen <b>Buckel</b>. Langsam wich er zurück. (<i>Der nasse Fisch</i>, 425-26)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre <b>auf dem Buckel</b>. Aus Bellmanns altem Theater. War \'ne ganz schöne Plackerei, die hier reinzuwuchten." (<i>Der stumme Tod</i>, 157-58)',
     '<i>Rath</i>: ".. Wie kommt es überhaupt, dass ihr hier seid? Müsst ihr nicht für Böhm <b>buckeln</b>?" "Passte ganz gut, wir waren gerade sowieso alle hier", sagte Henning. "Wir bauen natürlich darauf, dass du Böhm nicht auf die Nase bindest, wo wir nach der Besprechung waren." (<i>Der stumme Tod</i>, 239)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wie ein pelziger Flaum überzog maigrünes Grass die <b>Buckel</b>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Die <b>bucklige</b> Silhouette der Berg- und Talbahn hob sich schwarz und scharf wie ein Scherenschnitt vom nachglimmenden Abendhimmel ab. (<i>Lunapark</i>, 311)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'So gut wie jeder Kriminalbeamte mit mehr als zehn Dienstjahren <b>auf dem Buckel</b> schleppte einen Fall mit sich herum, der ihn nicht losließ. Meist jedoch waren das ungelöste Fälle. Aber das passte zu Böhm, dass der selbst bei einem Fall, mit dessen Aufklärung alle zufrieden waren, noch ein Haar in der Suppe fand. (<i>Marlow</i>, 130)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre <b>auf dem Buckel</b>, und das merkte man dem Wagen auch an: Die Ventile klapperten, der Auspuff schepperte, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
 ],
 'auf dem Buckel, Buckel, buckeln, bucklig': [
     'der <b>Buckel</b>,-: hump, knob, bump, mound, knoll'+
@@ -2169,24 +2177,32 @@ basteln: [
     '<br><b>wenn du so viele Jahre auf dem Buckel hast wie ich</b>: when you are as old as I am'+
     '<br><b>mit mehr als zehn Dienstjahren auf dem Buckel</b>: with more than ten years of service'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Buckel"target="target1">Buckel</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/buckeln"target="target2">buckeln</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target3">bucklig</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target4">auf dem Buckel</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/buckeln"target="target2">buckeln</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bucklig"target="target3">bucklig</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Buckel%20haben#d-1-2"target="target4">auf dem Buckel</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/buckel"target="target5">Buckel</a>'+
-    '&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/buckeln"target="target6">buckeln</a>'+
-    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target7">bucklig</a>'+
-    '&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target8">auf dem Buckel</a>',
+        '&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/buckeln"target="target6">buckeln</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bucklig"target="target7">bucklig</a>'+
+        '&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/auf+dem+buckel+haben"target="target8">auf dem Buckel</a>',
+    // Der masse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath wusste zwar nicht warum, aber er merkte, dass er hier nicht eher rauskam, bevor ein fetter Kater namens Napoleon einer alten Dame namens Elfriede Gaede wieder um die Beine strich. Er legte Hut und Jackett ab und kletterte aus dem Fenster. Das Sims war nicht sehr breit. Wie eine Klette klebte er an der Wand und tastete sich auf den Kater zu. Das Tier schien wenig begeistert. Napoleon machte einen <b>Buckel</b>. Langsam wich er zurück. (<i>Der nasse Fisch</i>, 425-26)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre <b>auf dem Buckel</b>. Aus Bellmanns altem Theater. War \'ne ganz schöne Plackerei, die hier reinzuwuchten." (<i>Der stumme Tod</i>, 157-58)',
     '<i>Rath</i>: ".. Wie kommt es überhaupt, dass ihr hier seid? Müsst ihr nicht für Böhm <b>buckeln</b>?" "Passte ganz gut, wir waren gerade sowieso alle hier", sagte Henning. "Wir bauen natürlich darauf, dass du Böhm nicht auf die Nase bindest, wo wir nach der Besprechung waren." (<i>Der stumme Tod</i>, 239)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wie ein pelziger Flaum überzog maigrünes Grass die <b>Buckel</b>landschaft, dazwischen Sträucher und junge Birken, die ihre dünnen Stämme in die Höhe reckten. (<i>Märzgefallene</i>, 598)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Die <b>bucklige</b> Silhouette der Berg- und Talbahn hob sich schwarz und scharf wie ein Scherenschnitt vom nachglimmenden Abendhimmel ab. (<i>Lunapark</i>, 311)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'So gut wie jeder Kriminalbeamte mit mehr als zehn Dienstjahren <b>auf dem Buckel</b> schleppte einen Fall mit sich herum, der ihn nicht losließ. Meist jedoch waren das ungelöste Fälle. Aber das passte zu Böhm, dass der selbst bei einem Fall, mit dessen Aufklärung alle zufrieden waren, noch ein Haar in der Suppe fand. (<i>Marlow</i>, 130)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre <b>auf dem Buckel</b>, und das merkte man dem Wagen auch an: Die Ventile klapperten, der Auspuff schepperte, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
 ],
 Ständchen: [
     '<b>Ständchen</b>: serenade'+
@@ -5310,24 +5326,34 @@ vorführen: [
     '<br>der <b>Rasenmäher</b>,-: lawnmower'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/maehen_ernten"target="target1">mähen</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Rasenm%C3%A4hern&sei=fiuWaOanKMCk5NoP_raeqAk"target="target2">Rasenmäher</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/mahen"target="target3">mähen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rasenm%C3%A4her&id=substantiv%3ARasenma3her"target="target4">Rasenmäher</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath schaute um die Ecke in den Garten.. Die Gartenmöbel standen auch heute draußen. Und da stapfte der Onkel durchs Gras. Er trug eine weite Arbeitshose, ein ärmelloses Unterhemd, einen breitkrempigen alten Hut und schob einen <b>Rasenmäher</b> vor sich her. (<i>Der nasse Fisch</i>, 483-84)',
     '<i>Wolter</i>: ".. Du (<i>Rath</i>) willst noch Karriere bei der Kripo machen, oder? Da solltest du so etwas können: Dinge einfach vergessen, wenn es angebracht ist, und nicht mehr Fragen stellen als nötig." <i>Rath</i>: "Erzähl du mir nicht, was angebracht ist!" Wolter <b>taxierte</b> ihn mit zugekniffenen Augen... Er setzte seinen Hut wieder auf, drehte sich um und stapfte zurück zu seinem <b>Rasenmäher</b>." (<i>Der nasse Fisch</i>, 488)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '.. dann nahm Marlow Kiries Kopf in beide Hände und drehte ihn mit einer kräftigen ruckartigen Bewegung nach rechts. Der Hund ließ ein kurzes Winseln hören, das in einem Röcheln endete, es knackte laut, und dann war er still.  Marlow ließ den unnatürlich verdrehten Kopf los, der schwarze Hundekörper sackte auf den frisch <b>gemähten</b> Rasen und blieb dort liegen.  (<i>Lunapark</i>, 358)',
     '<i>Walter Spindler</i>: "Pastor Lichtenberg hat uns geholfen und mir die Stelle hier besorgt." <i>Rath</i>: "Als Küster?" "So ähnlich." Spindler nickte. "Orgel spielen kann ich zwar nicht, aber sonst kümmere ich mich um alles, was so anfällt: Rasen <b>mähen</b>, Dachrinne reparieren, Glühbirnen auswechseln, Gebetbücher sortieren, Kerzen anzünden. All so was." (<i>Lunapark</i>, 424)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Ein Jägerzaun grenzte den Asphalt von den frisch <b>gemähten</b> Rasenflächen ab. (<i>Olympia</i>, 50)',
 ],
 'Rasenmäher, mähen': [
     '<b>mähen</b>: cut, mow (grass, lawn)'+
     '<br>der <b>Rasenmäher</b>,-: lawnmower'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/maehen_ernten"target="target1">mähen</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Rasenm%C3%A4hern&sei=fiuWaOanKMCk5NoP_raeqAk"target="target2">Rasenmäher</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/mahen"target="target3">mähen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rasenm%C3%A4her&id=substantiv%3ARasenma3her"target="target4">Rasenmäher</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath schaute um die Ecke in den Garten.. Die Gartenmöbel standen auch heute draußen. Und da stapfte der Onkel durchs Gras. Er trug eine weite Arbeitshose, ein ärmelloses Unterhemd, einen breitkrempigen alten Hut und schob einen <b>Rasenmäher</b> vor sich her. (<i>Der nasse Fisch</i>, 483-84)',
     '<i>Wolter</i>: ".. Du (<i>Rath</i>) willst noch Karriere bei der Kripo machen, oder? Da solltest du so etwas können: Dinge einfach vergessen, wenn es angebracht ist, und nicht mehr Fragen stellen als nötig." <i>Rath</i>: "Erzähl du mir nicht, was angebracht ist!" Wolter <b>taxierte</b> ihn mit zugekniffenen Augen... Er setzte seinen Hut wieder auf, drehte sich um und stapfte zurück zu seinem <b>Rasenmäher</b>." (<i>Der nasse Fisch</i>, 488)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '.. dann nahm Marlow Kiries Kopf in beide Hände und drehte ihn mit einer kräftigen ruckartigen Bewegung nach rechts. Der Hund ließ ein kurzes Winseln hören, das in einem Röcheln endete, es knackte laut, und dann war er still.  Marlow ließ den unnatürlich verdrehten Kopf los, der schwarze Hundekörper sackte auf den frisch <b>gemähten</b> Rasen und blieb dort liegen.  (<i>Lunapark</i>, 358)',
     '<i>Walter Spindler</i>: "Pastor Lichtenberg hat uns geholfen und mir die Stelle hier besorgt." <i>Rath</i>: "Als Küster?" "So ähnlich." Spindler nickte. "Orgel spielen kann ich zwar nicht, aber sonst kümmere ich mich um alles, was so anfällt: Rasen <b>mähen</b>, Dachrinne reparieren, Glühbirnen auswechseln, Gebetbücher sortieren, Kerzen anzünden. All so was." (<i>Lunapark</i>, 424)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Ein Jägerzaun grenzte den Asphalt von den frisch <b>gemähten</b> Rasenflächen ab. (<i>Olympia</i>, 50)',
 ],
 'prallen, ab-, auf-': [
     '<b>prallen</b>: bump/bang into, hit/bounce against'+
@@ -16608,6 +16634,9 @@ klappern: [
      // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'In der Küche hörte man Luise Ritter mit Töpfen und Pfannen <b>klappern</b> und vergnügt vor sich hin pfeifen. (<i>Marlow</i>, 241)',
+     // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre auf dem Buckel, und das merkte man dem Wagen auch an: Die Ventile <b>klapperten</b>, der Auspuff schepperte, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Klette: [
@@ -17559,23 +17588,33 @@ lodern: [
     '<br>die <b>Lackierung</b>,-<b>en</b>: varnishing, paintwork'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lack"target="target1">Lack</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lackieren"target="target2">lackieren</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lack?q=Lack"target="target3">Lack</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lackieren"target="target4">lackieren</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sein (<i>Raths</i>) grauer Hut wirkte zwischen all dem schwarzen <b>Lack</b> und den glitzernden Polizeisternen wie ein Fremdkörper.... (<i>Der nasse Fisch</i>, 15)',
     'Sie (<i>Charly</i>) ging nah an den Fahrzeugen vorbei. Das Licht der Straßenlaternen reichte kaum bis hierhin, sie musste ihre Augen anstrengen. Und doch fand sie es schließlich. Am Kotflügel eines pechschwarzen BMW. Heller <b>Lack</b>abrieb. (<i>Der nasse Fisch</i>, 61)',
     'Auf dem Abstellgleis standen vier Kesselwagen. Der Ruß vieler Lokomotiven hatte den weißen <b>Lack</b> auf den bauchigen Tanks grau gefärbt und den Schriftzug <i>Vereinigte Ölmühlen Insterburg</i> schmutzigrot. (<i>Der nasse Fisch</i>, 459)',
     'Am Ufer des Landwehrkanals war die verbogene Uferbegrenzung inzwischen gegen eine neue ausgetauscht worden. Das frisch <b>lackierte</b> Metall glänzte sauber in der Morgensonne. Nur die abgeschabte Baumrinde erinnerte noch an den Unfall. (<i>Der nasse Fisch</i>, 465)',
     'Oben im Lager standen Automobile, alle gestohlen, einige mit einer neuen <b>Lackierung</b> versehen. Die Russen schienen einen schwunghaften Autohandel betrieben zu haben... (<i>Der nasse Fisch</i>, 490)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Nach einem kurzen Moment erschien der Schauspieler wieder im Bild, seinem ernsten Gesicht war nicht anzusehen, was er machte, doch Rath wusste dass er gleich den Eimer schwang. Ein Stück des <b>lackierten</b> Blecheimers war kurz zu sehen, dann wurde auch dieser Film dunkel. (<i>Der stumme Tod</i>, 167)',
     'Von einem Lastkran wurden große Holzkisten geladen und neben der Halle gestapelt, an deren anderem Ende Rath Duzende blitzblank polierter Ford-A-Modelle erkennen konnte, in Reih und Glied aufgestellt, allesamt rotschwarz <b>lackiert</b>. (<i>Der stumme Tod</i>, 253)',
-    '<u>Goldstein</u>',
+    // Goldstein
+    '<span class="bookTitle"><u>Goldstein</u></span>',
     'Es roch nach Holz und Leim und frischem <b>Lack</b>. (<i>Goldstein</i>, 9)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Charly</i>: "Wie kommt es? Andere Menschen schildern Roddeck als durchaus charmant und liebenswert." <i>Die Gräfin</i>: "Das kann er auch sein. Wenn er etwas damit erreichen will. Aber im Grunde seines Herzens ist er ein durch und durch verkommenes Subjekt. Darüber täuschen der äußere Glanz und <b>Lack</b> und Charme nur hinweg." (<i>Märzgefallene</i>, 337)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Aber dann.. sah er (<i>Rath</i>) in der dunklen Ecke neben einem Rechen und einem Spaten etwas an der Wand lehnen..: ein Baseballschläger. Er näherte sich dem Sportgerät so ehrfürchtig wie einer Reliquie. Die glatt polierte und <b>lackierte</b> Oberfläche war an vielen Stellen eingekerbt, an einer jedoch besonders stark, und dort hatte sich das vom <b>Lack</b> befreite Holz mit Blut vollgesogen. (<i>Lunapark</i>, 484)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '... Rath schaute sich den schwarzen Lieferwagen näher an. Hier parkten eine ganze Menge Fahrzeuge am Rande der Wiese, so dass der ihm vorhin gar nicht weiter aufgefallen war. Jetzt aber las er die weiß-rote Schrift auf dem schwarzen <b>Lack</b>: <i>Deutsche Fahnenfabrik E. Seitz</i>. (<i>Marlow</i>, 259-60)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Das Olympische Dorf lag ganz schön jotwede (<i>ganz weit draußen</i>), dennoch war Rath eine Viertelstunde zu früh, als er seinen Buick.. auf den Platz vor dem Empfangsgebäude lenkte, auf dem neben drei wehrmachtsgrau <b>lackierten</b> Bussen auch ein paar zivile Pkw standen. (<i>Olympia</i>, 50)',
+    'Der sandfarbene <b>Lack</b> war stumpf und schmutzig, weil Rath dem Wagen schon länger keine Wäsche, geschweige denn eine Politur gegönnt hatte. (<i>Olympia</i>, 51)',
 ],
 Laken: [
     'das <b>Laken</b>: sheet'+
@@ -19066,15 +19105,12 @@ poltern: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Die warme feuchte Luft machte sie (<i>Charly</i>) schläfrig, bis ein Klopfen sie hochschrecken ließ. War ihre Zeit etwas schon abgelaufen? Nein, das kam von nebenan, in der Nachbarkabine regte sich etwas. Sie hörte ein <b>Poltern</b> und Plätschern: Martha Döring stieg aus der Wanne. (<i>Marlow</i>, 23-24)',
 ],
-
     /*präparieren: [
         '<b>präparieren</b>: &nbsp;prepare (obviously)  <br>Deutsche Definition:&nbsp;&nbsp;<a href ="https://www.duden.de/rechtschreibung/praeparieren" target="target1" >präparieren</a> ' ,
         '<span class="bookTitle"><u>Märzgefallene</u></span>',
         'Oberfeuerwerker Grimberg... gehört zu dem Trupp, den ich (<i>von Roddeck</i>) mit den entsprechenden Vorbereitungen beauftragt habe, er ist einer der Besten seines Fachs. Auf seine Weisung hin <b>präparieren</b> die Männer das Haus für die vorgesehene Sprengung.... (<i>Märzgefallene</i>, 161)' ,
         'Ich (<i>von Roddeck</i>) drehe mich um und sehe Hauptmann Engel am Fuße der Treppe stehen und die Stirn runzeln.... Er schaut sich um. "Ich dachte, Ihre Männer <b>präparieren</b> das Haus für die Sprengung?" (<i>Märzgefallene</i>, 162)' ,
     ],  */
-
-
 Prise: [
     'die <b>Prise</b>,-<b>n</b>: pinch, dash; &nbsp;prize, captured ship'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Prise"target="target1">Prise</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Prise"target="target2">Prise</a>'+
@@ -19090,11 +19126,16 @@ Prise: [
     '<br><b>protzig</b>: snobby, pretentious'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Protz_Angeber"target="target1">Protz</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/protzen"target="target2">protzen</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/protzig"target="target3">protzig</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/Protz"target="target4">Protz</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=protzen"target="target5">protzen</a> &nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/protzig"target="target6">protzig</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Tiergartenstraße war eine gute Adresse. Links das Grün des Parks, rechts Häuser mit <b>protzigen</b> Fassaden. (<i>Der nasse Fisch</i>, 136)',
     '"Kennst du die Depositenkasse der Deutschen Bank am Reichskanzlerplatz?", fragte Rath. Weinert nickte. "Ziemlich <b>protzig</b>, oder?" "Ziemlich reiche Kundschaft. Große Bareinlagen..." (<i>Der nasse Fisch</i>, 540)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Trotz der braunen Uniform und der kurzgeschorenen Haare erkannte Leo den Kerl sofort, er hatte ihn oft genug gesehen, meist vor der Tür des <i>Neunundsechzig</i> und in einem Abendanzug, in dem der Muskel<b>protz</b> seltsam deplaziert wirkte. (<i>Märzgefallene</i>, 112)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Rath stieg aus und ging zum Empfangsgebäude hinüber, das überraschend modern und bescheiden war. Nicht so <b>protzig</b> wie die Bauten, die man sonst in Deutschland mittlerweile zu bauen pflegte. (<i>Olympia</i>, 51)',
 ],
 Pulle: [
     'die <b>Pulle</b>,-<b>n</b>: bottle (colloq.)'+
@@ -20852,6 +20893,7 @@ scheppern: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Ein lautes <b>Scheppern</b> riss ihn (<i>Fritze</i>) aus seinen Gedanken. An einem Tische musste ein Teller zu Boden gegangen sein. (<i>Olympia</i>, 22)',
     'Und dann holte er (<i>Rath</i>) aus und wischte mit einer Bewegung seines Unterarms sämtliches Geschirr vom Tisch, das in seiner Reichweite stand. Es <b>schepperte laut</b>, ein Teller ging zu Bruch, der Inhalt einer halbvollen Kaffeetasse spritzte gegen die Tapete und hinterließ eine unschöne Spur. (<i>Olympia</i>, 43)',
+    'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre auf dem Buckel, und das merkte man dem Wagen auch an: Die Ventile klapperten, der Auspuff <b>schepperte</b>, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
 ], 
 'stopfen, Stopfen': [
     '<b>stopfen</b>: stuff, plug, tamp; darn'+
@@ -23250,8 +23292,12 @@ Ventil: [
     'das <b>Ventil</b>,-<b>e</b>: valve, vent, outlet'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ventil"target="target1">Ventil</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ventil"target="target2">Ventil</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ventil?q=Ventil"target="target3">Ventil</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ventil"target="target4">Ventil</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Mein lieber Doktor (<i>Völcker</i>)!" Wolter wurde laut. Er wirkte wie ein Dampfkessel, bei dem sich die Sicherheits<b>ventile</b> öffneten und den Überdruck zu einem zivilisierten Zischen bändigten. (<i>Der nasse Fisch</i>, 75)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre auf dem Buckel, und das merkte man dem Wagen auch an: Die <b>Ventile</b> klapperten, der Auspuff schepperte, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
 ],
 versauen: [
     '<b>versauen</b>: ruin, mess up; botch things'+

@@ -1,7 +1,18 @@
 * { margin: 0; padding: 0; border: 0; box-sizing: border-box; }
 /*html {font-size:14px;}*/
 html {font-size:0.82rem}
-.personenTitle {font-size: 1.4rem; color: maroon; margin-top: 0.45rem; }
+.personenTitle {
+    font-size: 1.4rem;
+    color: maroon;
+    margin-top: 0;
+    padding-top: 0.45rem;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #e6f5ff;
+    padding-bottom: 6px;
+    border-bottom: 2px solid maroon;
+}
 #title { font-size: 100%;}
 #titlePersonen {font-size: 1.6rem; font-weight: bold};
 .return {font-size: 100%; font-weight: bold; color: navy; }
@@ -63,6 +74,16 @@ header {
     text-align: center;
     font-size: 1.13rem;
 }
+.main-container-header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #e6f5ff;
+    padding-bottom: 6px;
+    border-bottom: 2px solid maroon;
+    display: flow-root;
+}
+
 .main-container-item {
     margin-top: 5px;
     margin-bottom: 12px;
@@ -71,6 +92,14 @@ header {
     font-size: 1.3rem; 
     text-align: left;
 }
+
+/* Zero out the book wrapper's own top margin: any offset here also
+   delays position:sticky on .personenTitle from locking to top:0
+   until the page has scrolled past it. */
+#main-container.personen-by-book > .main-container-item {
+    margin-top: 0;
+}
+
 .selection-container {
     width: 23.5%;
     min-width: 23.5%;
@@ -217,7 +246,19 @@ input,select {
         min-width: 0;
         border: none;
         margin: 0;
+    }
+
+    .selection-container {
         padding: 10px;
+    }
+
+    /* No top padding here: #main-container is the scrolling ancestor
+       that .main-container-header / .personenTitle stick to. Sticky
+       elements lock to the container's padding edge, so top padding
+       would push them down and leave an uncovered strip that
+       scrolled content peeks through. */
+    #main-container {
+        padding: 0 10px 10px 10px;
     }
 }
 

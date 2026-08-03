@@ -1,6 +1,9 @@
 const h = [
-   'Habgier',  // Habgier: 
+   'Habgier',  // Habgier:
+
+//   'Hacke', // Hacke:
    'Hacke, hacken, Hacken ablaufen',  
+
    'hadern',  // hadern:  
    'Häkchen',  // Häkchen: 
    'haken, Haken, H. schlagen',  

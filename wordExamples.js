@@ -3247,32 +3247,6 @@ schwänzen: [
     //	'<span class="bookTitle"><u>Marlow</u></span>',  
     //	'   (<i>Marlow</i>, 000)',
 ],
-'Hacke, hacken, Hacken ablaufen': [
-    'die <b>Hacke</b>,-<b>n</b>: hoe, pickaxe; heel'+
-    '<br><b>hacken</b>: hack, chop, hoe'+
-    '<br><b>sich die Haken ablaufen</b>: run oneself ragged'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20die%20Hacken%20ablaufen?o=sich+die+Haken+ablaufen"target="target3">sich die Haken ablaufen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target4">Hacke</a>'+
-    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target5">hacken</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+die+Haken+ablaufen"target="target6">sich die Haken ablaufen</a>',
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    '"Du wolltest mich sprechen?", fragte Weinert. "Hast du endlich was für mich?" Rath zündete sich eine Zigarette an bevor er antwortete.. "Nicht das, was du denkst." "Natürlich. Eine Krähe <b>hackt</b> der anderen kein Auge aus." (<i>Der nasse Fisch</i>, 538)',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Rath ging zum Schrank und holte die Kaffeemühle heraus. Die Küchentür stand immer noch offen, er konnte die Garderobe draußen im Flur sehen und stutzte. Nein, er irrte sich nicht: Da hing tatsächlich eine SA-Uniform am Kleider<b>haken</b>. (<i>Märzgefallene</i>, 117)',
-    'Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <b>Hacken</b> zusammen. (<i>Märzgefallene</i>, 232)',
-    'Nun hatte er (<i>Rath</i>) Adenauers Werk - oder eigentlich das von Hunderten arbeitslosen Männern, die hier mit <b>Hacke</b> und Schaufel angerückt waren - mit einem halben Jahr Verspätung doch noch eingeweiht. (<i>Märzgefallene</i>, 297)',
-    'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    '"Kooperation", sagte Rath. "Wie die aussieht, das weiß ich aus den Zeiten, als die Staatspolizei noch Politische Polizei hieß: Wir machen die Drecksarbeit, <b>laufen uns die Hacken ab</b>, liefern euch brav zu. Und ihr schmückt euch am Ende mit den Lorbeeren." (<i>Lunapark</i>, 25)',
-    'Und dass Gräf nun ein Staatspolizist war, schien von Vorteil, wenn es galt, widerspenstige Zeugen ein wenig einzuschüchtern. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken</b> zusammenschlug. (<i>Lunapark</i>, 33)',
-    'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, knallte die <b>Hacken</b> zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
-    '<span class="bookTitle"><u>Marlow</u></span>',
-    '"Schließen Sie doch bitte die Tür, Wegener, und lassen uns allein"", sagte Sowa. Der Adjutant, oder was der Mensch, der Rath hergeführt hatte, sonst sein mochte, salutierte, schlug die <b>Hacken</b> zusammen und gehorchte. (<i>Marlow</i>, 121)',
-    'Rath wollte es gerade sagen, aber da klopfte es an der Tür und Scharführer Wegener kam herein und schlug die <b>Hacken</b> zusammen... Wegener schlug die <b>Hacken</b> ein zweites Mal zusammen und verschwand. (<i>Marlow</i>, 124-25)',
-    'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitz<b>hacke</b>, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
-],
 Sturzbach: [
     'der <b>Sturzbach</b>,-<b>bäche</b>: torrent, fast-flowing stream'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Sturzbach"target="target1">Sturzbach</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sturzbach"target="target2">Sturzbach</a>'+
@@ -12217,6 +12191,9 @@ Bügel: [
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Im Kleiderschrank hingen allerdings nur Frauenkleider an den <b>Bügeln</b>. (<i>Lunapark</i>, 137)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Das Olympische Dort empfing seine Besucher mit einem freundlichen einstöckigen Gebäude in Form eines Kleider<b>bügels</b>, das sich dem Besucher mit offenen Armen entgegenstreckte. (<i>Olympia</i>, 51)',
 ],
 buhlen: [
     'um etwas <b>buhlen</b>: strive for sth.; court favor, recognition'+
@@ -14004,6 +13981,8 @@ Gage: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nichts hier hatte sich verändert, alles war wie eh und je: dreckig und dreieckig. Als sei die winzige Gaststätte zwischen den drei holz<b>vertäfelten</b> Wänden aus Zeit und Raum gefallen und hätte nichts, aber auch gar nichts mit dem zu tun, was vor ihrer Tür geschah. (<i>Olympia</i>, 27)',
+    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)'+
+    '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
 ],
 'Vertäfelung, täfeln, getäfelt': [
     '<b>täfeln</b>: to panel, line with wooden panels'+
@@ -14029,6 +14008,8 @@ Gage: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nichts hier hatte sich verändert, alles war wie eh und je: dreckig und dreieckig. Als sei die winzige Gaststätte zwischen den drei holz<b>vertäfelten</b> Wänden aus Zeit und Raum gefallen und hätte nichts, aber auch gar nichts mit dem zu tun, was vor ihrer Tür geschah. (<i>Olympia</i>, 27)',
+    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)'+
+    '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gesittet: [
@@ -15130,21 +15111,24 @@ Häkchen: [
     'Rath machte ein <b>Häkchen</b> hinter <i>Leister, Wilhelm</i>, legte die Unterlagen auf den Beifahrersitz und startete seinen Wagen. Schluss für heute. (<i>Märzgefallene</i>, 236)',
 ],
 'haken, Haken, H. schlagen': [
-    '<b>haken</b>: stick, hook'+
-    '<br>der <b>Haken</b>,-: heel, hook'+
-    '<br><b>Haken schlagen</b>: turn on a dime'+
+    '<b>haken</b>: to hook, hang, clasp'+
+    '<br>der <b>Haken</b>,-: hook, clasp, clamp; <i>fig</i>: catch (<i>Der Plan hat einen Haken</i>.)'+
+    '<br><b>Haken schlagen</b>: turn on a dime, zigzag; throw a punch'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/haken"target="target1">haken</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haken"target="target2">Haken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Haken%20schlagen"target="target3">Haken schlagen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=haken"target="target4">haken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/haken"target="target5">Haken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/haken?q=Haken+schlagen"target="target6">Haken schlagen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Von den Tschakos an den Garderoben<b>haken</b> tropfte Regenwasser auf den Linoleumboden....  (<i>Der nasse Fisch</i>, 14)',
     'Der falsche Kaiser guckte entsetzt und vergaß seine Gegenwehr für einen Moment. Wolter nutzte seine Chance und schlug die Schusshand mit aller Gewalt gegen einen Stahträger. Ein Schmerzensschrei, die Waffe polterte auf die Holzbohlen. Der Onkel (<i>Wolter</i>) drehte sich den Ganoven zurecht und rammte ihm seine Rechte in den Magen. Der Mann klappte augenblicklich zusammen, dennoch ließ der bullige Polizist einen linken <b>Haken</b> folgen, der den Kaiser endgültig auf die Bretter schickte. (<i>Der nasse Fisch</i>, 26)',
     '"Das ist doch keine Arbeit für die Kripo. Das hier können die Blauen eine Zeit lang auch alleine", sagte er (<i>Wolter</i>) und stiefelte zu den Mülltonnen hinüber, wo ein junger Polizist mit einem großen Schür<b>haken</b> in Asche und Abfällen wühlte. (<i>Der nasse Fisch</i>, 68)',
     'Rath verschärfte sein Tempo. Dann stoppte er abrupt und drehte sich um. Immer noch war niemand zu sehen... Rath wartete bis zur nächsten Straße und <b>schug</b> noch <b>einen Haken</b>. Er lief bis zur nächsten Hofeinfahrt und sprang hinein. (<i>Der nasse Fisch</i>, 212)',
     '"Ah, Herr Rath", sagte er (<i>der Portier</i>). "Eine gute Nachricht! Der Schlüssel zu Ihrem Zimmer..", er griff hinter sich und fischte ihn vom <b>Haken</b>,.. "Ich habe sofort veranlasst, dass das Zimmer für Sie so weit hergestellt wird, dass Sie es bald beziehen können. (<i>Der nasse Fisch</i>, 391)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath legte seine ganze Wut in einen trockenen, ansatzlosen Schlag, der Brenners Magengrube traf. Der Kommissar im Sträflingskostüm klappte zusammen, und Rath wuchtete ihn mit einem linken <b>Haken</b> wieder nach oben... (<i>Der stumme Tod</i>, 105)',
     'Er hatte ruhig geschlafen, dennoch war er vor der Zeit aufgewacht, der Wecker auf dem Nachttisch musste jeden Moment klingeln. Rath <b>hakte</b> den Alarm fest und stand auf. (<i>Der stumme Tod</i>, 150)',
     'Er (<i>Rath</i>) verließ die Montagehalle und ging hoch ins Personalbüro, um sich eine Liste sämtlicher Mitarbeiter geben zu lassen. Wenn er die mit der Kölner Liste verglich, stieß er mit etwas Glück vielleicht auf einen identischen Nachnamen oder sonst eine Auffälligkeit, könnte eine Verbindung zwischen Ford und <i>Der nasse Fisch</i>Bank herstellen. Und hätte den Erpresser hoffentlich am <b>Haken</b>. (<i>Der stumme Tod</i>, 257-58)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Sie (<i>Hannah</i>) zog sich ein Paar Gummistiefel über ihre nackten Füße...und nahm gleich drei Kittelschürzen vom <b>Haken</b>. (<i>Märzgefallene</i>, 69)',
     'Irgendwie war es ihm (<i>Leo</i>) gelungen, wieder aufzustehen und die Hosen, die noch auf halb acht hingen, endlich hochzuziehen, da hatten sie ihn unter<b>gehakt</b> und die Treppen hinuntergeschleift und auf den Rücksitz eines Wagens geworfen.... (<i>Märzgefallene</i>, 109)',
@@ -15153,19 +15137,72 @@ Häkchen: [
     'Sie (<i>Böhms Sekretärin</i>) guckte Rath aus großen Augen an, und als der nur die Achseln zuckte, nahm sie ihren Mantel vom <b>Haken</b> und rannte aus dem Büro. (<i>Märzgefallene</i>, 126)',
     'Rath hängte Hut und Mantel an den Garderoben<b>haken</b>. (<i>Märzgefallene</i>, 147)',
     '<i>Charly</i>: "Wo willst du hin?" Er (<i>Gereon</i>) antwortete nicht, er griff Kirie ins Halsband und zog den Hund in den Flur, holte Hundeleine, Hut und Mantel vom Garderoben<b>haken</b> und knallte die Wohnungstür. (<i>Märzgefallene</i>, 178)',
-    '<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <b>Hacken</b> zusammen. (<i>Märzgefallene</i>, 232)',
-    'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
+    // Der Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
-    '<>Gräf</i>: "Sie (<i>Bestmann, der Wirt</i>) müssen lediglich unsere Fragen beantworten.".. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken</b> zusammenschlug. (<i>Lunapark</i>, 33)',
     'Und dann erschienen braune Uniformen im Türrahmen. Charly ließ ihren Blick über die Braunhemden schweifen, die nun in den Raum drängten.. Einer der SA-Leute, irgendein höheres Tier, stellte sich breitbeinig hin, die Daumen in den Hosenbund <b>gehakt</b> und brüllte quer durch den Raum: "Das ist eine Aushebung! Niemand rührt sich!" (<i>Lunapark</i>, 164)',
     '"Die sind alle abjeholt!" Er (<i>Rath</i>) drehte sich um. Ein alter Mann stand im Treppenhaus.. <i>Rath</i>: "Was meinen Sie?" "Na, was wohl? Eine Aushebung." "Eine Razzia? Hier in diesen Räumen?" Der Alte nickte. "Und warum?" "Wird wohl seine Gründe haben", sagte der Mann vieldeutig.. "Was wissen Sie darüber?", <b>hakte</b> Rath <b>nach</b>. "Da fragen Se den Falschen.. Fragen Se am besten die Polente, die wird det jenauer wissen." "Ich bin die Polente", sagte Rath und zeigte seine Marke. (<i>Lunapark</i>, 181)',
     'Er (<i>Rath</i>) suchte im Telefonbuch nach einer Werkstatt. Die Kantgaragen hatten zum Glück auch sonntags geöffnet. "Zehn Minuten", sagte die Dame am Telefon, und tatsächlich dauerte es genau eine Zigarettenlänge, bis der Abschleppwagen eintraf. Weitere zehn Minuten, und der Buick hing am <b>Haken</b>. (<i>Lunapark</i>, 280)',
-    'Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, knallte die <b>Hacken</b> zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
     'Rath ließ seinen Blick durch die Hütte wandern. Tatsächlich eine Werkstatt. Dort, wo <b>Haken</b> für Hammer, Zangen und sonstige Werkzeuge angebracht waren, hing allerdings nichts mehr.  (<i>Lunapark</i>, 372)',
     'Rath tupfte die Fingerspitzen ins Weihwasserbecken und bekreuzigte sich, ohne darüber nachzudenken. Das tat man eben so, wenn man eine Kirche betrat. Dann suchte er sich eine Kirchenbank mit gutem Blick, hängte seinen Hut an den <b>Haken</b> und kniete sich hin. (<i>Lunapark</i>, 396)',
     'Angeln! Fritze hatte sich daran einmal versucht.. als er noch auf der Straße lebte und der Hungher ihn zu solchen Dingen getrieben hatte. Mit einer echten Angelschnur, die er geklaut hatte, und einem selbst gebastelten <b>Haken</b>. Hatte natürlich nicht funktioniert. (<i>Lunapark</i>, 458-59)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Öl<b>schinken</b> war verdammt schwer. Rath hatte Mühe, das sperrige Bild wieder an seinen Platz zurückzuhängen, nachdem er es einmal vom <b>Haken</b> genommen hatte und dahinter keine Tresortür hatte entdecken können. (<i>Marlow</i>, 272)',
+],
+'Hacke, hacken, Hacken ablaufen': [
+    'die <b>Hacke</b>,-<b>n</b>: hoe, pickaxe; heel'+
+    '<br><b>hacken</b>: hack, chop, hoe'+
+    '<br><b>sich die Haken ablaufen</b>: run oneself ragged'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>'+
+    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
+    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20die%20Hacken%20ablaufen?o=sich+die+Haken+ablaufen"target="target3">sich die Haken ablaufen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target4">Hacke</a>'+
+    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target5">hacken</a>'+
+    '&nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+die+Haken+ablaufen"target="target6">sich die Haken ablaufen</a>',
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    '"Du wolltest mich sprechen?", fragte Weinert. "Hast du endlich was für mich?" Rath zündete sich eine Zigarette an bevor er antwortete.. "Nicht das, was du denkst." "Natürlich. Eine Krähe <b>hackt</b> der anderen kein Auge aus." (<i>Der nasse Fisch</i>, 538)',
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    'Rath ging zum Schrank und holte die Kaffeemühle heraus. Die Küchentür stand immer noch offen, er konnte die Garderobe draußen im Flur sehen und stutzte. Nein, er irrte sich nicht: Da hing tatsächlich eine SA-Uniform am Kleider<b>haken</b>. (<i>Märzgefallene</i>, 117)',
+    'Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <b>Hacken</b> zusammen. (<i>Märzgefallene</i>, 232)',
+    'Nun hatte er (<i>Rath</i>) Adenauers Werk - oder eigentlich das von Hunderten arbeitslosen Männern, die hier mit <b>Hacke</b> und Schaufel angerückt waren - mit einem halben Jahr Verspätung doch noch eingeweiht. (<i>Märzgefallene</i>, 297)',
+    'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    '"Kooperation", sagte Rath. "Wie die aussieht, das weiß ich aus den Zeiten, als die Staatspolizei noch Politische Polizei hieß: Wir machen die Drecksarbeit, <b>laufen uns die Hacken ab</b>, liefern euch brav zu. Und ihr schmückt euch am Ende mit den Lorbeeren." (<i>Lunapark</i>, 25)',
+    'Und dass Gräf nun ein Staatspolizist war, schien von Vorteil, wenn es galt, widerspenstige Zeugen ein wenig einzuschüchtern. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken</b> zusammenschlug. (<i>Lunapark</i>, 33)',
+    'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, knallte die <b>Hacken</b> zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    '"Schließen Sie doch bitte die Tür, Wegener, und lassen uns allein"", sagte Sowa. Der Adjutant, oder was der Mensch, der Rath hergeführt hatte, sonst sein mochte, salutierte, schlug die <b>Hacken</b> zusammen und gehorchte. (<i>Marlow</i>, 121)',
+    'Rath wollte es gerade sagen, aber da klopfte es an der Tür und Scharführer Wegener kam herein und schlug die <b>Hacken</b> zusammen... Wegener schlug die <b>Hacken</b> ein zweites Mal zusammen und verschwand. (<i>Marlow</i>, 124-25)',
+    'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitz<b>hacke</b>, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
+],
+Hacke: [  // xxx
+    'die <b>Hacke</b>,-<b>n</b>: heel, hoe, hatchet, axe'+
+    '<br><b>Hacken zusammenschlagen/knallen</b>: click one\'s heels'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Ferse"target="target1">Hacke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/die%20Hacken%20zusammenschlagen"target="target2">Hacken zusammenschlagen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hacke&id=substantiv%3AHacke"target="target3">Hacke</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Hacken+zusammenschlagen"target="target4">Hacken zusammenschlagen</a>',
+    // Der nasse Fisch
+//    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+//    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+//    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+//    '   (<i>Der stumme Tod</i>, 000)',	
+    // Goldstein
+//    '<span class="bookTitle"><u>Goldstein</u></span>',
+//    '   (<i>Goldstein</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner <b>knallten</b> dann <b>die Hacken zusammen</b>. (<i>Märzgefallene</i>, 232)',
+    'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann <b>schlug</b> er einfach militärisch die <b>Hacken zusammen</b> und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '<>Gräf</i>: "Sie (<i>Bestmann, der Wirt</i>) müssen lediglich unsere Fragen beantworten.".. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken zusammenschlug</b>. (<i>Lunapark</i>, 33)',
+    'Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, <b>knallte die Hacken zusammen</b> und verließ das Büro. (<i>Lunapark</i>, 307)',
+    // Marlow
+//    '<span class="bookTitle"><u>Marlow</u></span>',  
+//    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Rath überlegte noch, ob man den Jungen hier Trinkgeld gab wie einem gewöhnlichen Hotelboy, da riss der auch schon den rechten Arm hoch, <b>schlug die Hacken zusammen</b> und verabschiedete sich mit einem strammen "Heil Hitler". (<i>Olympia</i>, 52)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Handwerk legen': [
@@ -22174,38 +22211,45 @@ stibitzen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Gennat</i>: "Und wenn die im Prinz-Albrecht-Palais Schwierigkeiten machen sollten, informieren Sie mich. Dann lassen wir das ganze über den Polizeipräsidenten laufen. Wäre ja noch schöner, wenn wir uns einfach Ermittlungsakten <b>stibitzen</b> lassen..." (<i>Marlow</i>, 114)',
 ],
-'Stiefel, stiefeln': [
+'Stiefel, stiefeln, entlang-, hinüber-, hoch-, los-, zu-': [
     'der <b>Stiefel</b>,-: boot'+
     '<br><b>stiefeln</b>: stride, march'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stiefel"target="target1">Stiefel</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/stiefeln"target="target2">stiefeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/stiefel"target="target3">Stiefel</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stiefeln"target="target4">stiefeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stiefel"target="target1">Stiefel</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stiefeln"target="target2">stiefeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/stiefel"target="target6">Stiefel</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stiefeln"target="target7">stiefeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    'Oberkommissar Böhm <b>stiefelte</b> auf den Schupo los, der die Bergungsaktion dirigierte. "Sagen Sie mal", schnauze er den Blauen grußlos an, "sind wir hier im Lunapark? Was haben die ganzen Leute am Tatort zu suchen...?" (<i>Der nasse Fisch</i>, 57)',
+    'Oberkommissar Böhm <b>stiefelte</b> auf den Schupo <b>los</b>, der die Bergungsaktion dirigierte. "Sagen Sie mal", schnauze er den Blauen grußlos an, "sind wir hier im Lunapark? Was haben die ganzen Leute am Tatort zu suchen...?" (<i>Der nasse Fisch</i>, 57)',
     'Sie (<i>Rath und Wolter</i>) konnten es Krajewske (<i>den Pornokaiser</i>) ansehen, dass ihm das Herz bis in die grauen Unterhosen rutschte, als ein ganzer Haufen Uniformierter an ihm vorbei in seine Wohnung <b>stiefelte</b>. Mit großen Augen hatte er Rath und Wolter angestarrt. Sie hatten ihn einen Moment zappeln lassen.  (<i>Der nasse Fisch</i>, 67)',
-    '"Das ist doch keine Arbeit für die Kripo. Das hier können die Blauen eine Zeit lang auch alleine", sagte er (<i>Wolter</i>) und <b>stiefelte</b> zu den Mülltonnen hinüber, wo ein junger Polizist mit einem großen Schürhaken in Asche und Abfällen wühlte. (<i>Der nasse Fisch</i>, 68)',
-    'Er (<i>Gereon</i>) hatte warten müssen.. Und dann wurde er für sein Warten belohnt. Sie (<i>Charly</i>) kam. Mit energischen Schritten <b>stiefelte</b> sie auf die Lücke zwischen den Bauzäunen zu, die die Fußgänger durch das Gewirr der Baustellen sicher zum Bahnhof Alexanderplatz leiteten...  (<i>Der nasse Fisch</i>, 268)',
-    'Neben der Baugrube hatten die Männer vom Erkennungsdienst mit ihrer Arbeit begonnen.. Aus einer Gruppe Bauarbeiter löste sich ein stämmiger Mann und kam ihnen entgegen.. Der Arbeiter begrüßte sie mit einem Nicken.. "Na, denn kommense man mit, die Herren", sagte er und <b>stiefelte</b> los.. Die Männer fluchten als der Polier sie quer über die Baustell führte. Überall Matsch, Schlamm und Pfützen. Sie hatten alle möglichen Dinge im Mordauto,.. aber an Gummi<b>stiefel</b> hatte niemand gedacht. (<i>Der nasse Fisch</i>, 281)',
+    '"Das ist doch keine Arbeit für die Kripo. Das hier können die Blauen eine Zeit lang auch alleine", sagte er (<i>Wolter</i>) und <b>stiefelte</b> zu den Mülltonnen <b>hinüber</b>, wo ein junger Polizist mit einem großen Schürhaken in Asche und Abfällen wühlte. (<i>Der nasse Fisch</i>, 68)',
+    'Er (<i>Gereon</i>) hatte warten müssen.. Und dann wurde er für sein Warten belohnt. Sie (<i>Charly</i>) kam. Mit energischen Schritten <b>stiefelte</b> sie auf die Lücke zwischen den Bauzäunen <b>zu</b>, die die Fußgänger durch das Gewirr der Baustellen sicher zum Bahnhof Alexanderplatz leiteten...  (<i>Der nasse Fisch</i>, 268)',
+    'Neben der Baugrube hatten die Männer vom Erkennungsdienst mit ihrer Arbeit begonnen.. Aus einer Gruppe Bauarbeiter löste sich ein stämmiger Mann und kam ihnen entgegen.. Der Arbeiter begrüßte sie mit einem Nicken.. "Na, denn kommense man mit, die Herren", sagte er und <b>stiefelte los</b>.. Die Männer fluchten als der Polier sie quer über die Baustell führte. Überall Matsch, Schlamm und Pfützen. Sie hatten alle möglichen Dinge im Mordauto,.. aber an Gummi<b>stiefel</b> hatte niemand gedacht. (<i>Der nasse Fisch</i>, 281)',
     'Ein Mann im grauen Mantel, in der rechten Hand eine Ledertasche, mit der linken den Hut festhaltend, überquerte die Baustelle und stakste durch den Matsch wie ein Storch. Rath erkannte Doktor Schwartz schon von weitem. Auch der Gerichtsmediziner hatte nicht an Gummi<b>stiefel</b> gedacht. (<i>Der nasse Fisch</i>, 286)',
     'Der Alte (<i>ein Passbeamte</i>) setzte seine Lesebrille auf und <b>stiefelte</b> mit Raths Namensliste zu den Rollschränken. (<i>Der nasse Fisch</i>, 350)',
     'Vorn am Altar stand der Sarg, bedeckt vom schlichten Schwarz-Weiß der preußischen Fahne, flankiert von zwei Schutzpolizisten in Paradeuniform mit blinkenden Knöpfen und blitzeblank gewienerten <b>Stiefeln</b>. (<i>Der nasse Fisch</i>, 402)',
     'In ihrem roten Kleid <b>stiefelte</b> sie (<i>Charly</i>) über den Friedhof, vorbei an den schwarz gekleideten Männern, in der einen Hand einen zugeklappten Regenschirm, in der anderen den Stenoblock. (<i>Der nasse Fisch</i>, 409)',
-    'Wolter <b>stiefelte</b> die Gleise entlang, seine Leute folgten ihm. (<i>Der nasse Fisch</i>, 517)',
+    'Wolter <b>stiefelte</b> die Gleise <b>entlang</b>, seine Leute folgten ihm. (<i>Der nasse Fisch</i>, 517)',
     'Die beiden SA-Männer <b>stiefelten</b> zu dem ersten Waggon. Schäffner öffnete eilfertig den Riegel und schob die schwere Tür beiseite. (<i>Der nasse Fisch</i>, 523)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath <b>stiefelte</b> bis zur vierten Etage hoch und klingelte. Es dauerte einen Moment, dann öffnete eine Frau in einer fleckigen Schürze, die noch an irgendtwas kaute. (<i>Der stumme Tod</i>, 115)',
     'Dann kam die Ohrfeige. Noch bevor ihre (<i>Betty Winters</i>) Hand das Gesicht traf und Meisner zurückwich, hörte Rath wieder das metallische Geräusch, diesmal eher ein Plong als ein Pling, dann das Klatschen der Ohrfeige, das sich in dieser Tonlage anhörte, als würde man einen <b>Stiefel</b> aus dem Matsch ziehen. (<i>Der stumme Tod</i>, 165-66)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Ein Schupo stand in der Gegend herum wie bestellt und nicht abgeholt, wippte auf den Absätzen seiner <b>Stiefel</b> vor und zurück und klopfte sich die behandschuhten Hände warm. (<i>Märzgefallene</i>, 93)',
     'Der SA-Mann aus der Dachgeschosswohnung nahm Hose und Braunhemd über den Arm, setzte die Uniformmütze auf und nahm die <b>Stiefel</b> in die Hand. (<i>Märzgefallene</i>, 118)',
     'Den Mantel behielt sie (<i>Hannah</i>), der war ganz gut in Schuss, doch ihre Gummi<b>stiefel</b> musste sie ebenfalls loswerden, sie hatte schon wunde Stellen an den Waden, so sehr scheuerten die. (<i>Märzgefallene</i>, 172)',
     'Und so <b>stiefelte</b> Rath um kurz vor zwei die Treppen zur Abteilung IA hoch.  (<i>Märzgefallene</i>, 185)',
-    '"Das nächste Mal sperren wir dich ein", fuhr der Schupo mit ernster Stimme fort, "dann können deine Eltern dich im Gefängnis abholen. Oder deine Tante!" Er zwinkerte Charly zu und gab seinem Begleiter einen versteckten Wink. Die beiden <b>stiefelten</b> die Treppe hinunter. (<i>Märzgefallene</i>, 353)',
+    '"Das nächste Mal sperren wir dich ein", fuhr der Schupo mit ernster Stimme fort, "dann können deine Eltern dich im Gefängnis abholen. Oder deine Tante!" Er zwinkerte Charly zu und gab seinem Begleiter einen versteckten Wink. Die beiden <b>stiefelten</b> die Treppe <b>hinunter</b>. (<i>Märzgefallene</i>, 353)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Schulze verdrehte die Augen und ging zu Boden, denn die beiden SA-Männer hatten ihn losgelassen und machten ihrem Rottenführer Platz, der mit seinen schweren <b>Stiefeln</b> ausholte und gegen Schulzes Kopf trat wie gegen einen Fußball. (<i>Lunapark</i>, 11)',
-    'Rath überlegte. "Machen Sie (<i>Lange</i>) hier weiter, ich fange oben an. Wir treffen uns in der Mitte und klappern das nächste Haus genauso ab." So machten sie es dann auch. Lange klingelte an der zweiten Tür im ersten Stock, Rath <b>stiefelte</b> die Treppe hinauf, bis zur vierten Etage.  (<i>Lunapark</i>, 186)',
+    'Rath überlegte. "Machen Sie (<i>Lange</i>) hier weiter, ich fange oben an. Wir treffen uns in der Mitte und klappern das nächste Haus genauso ab." So machten sie es dann auch. Lange klingelte an der zweiten Tür im ersten Stock, Rath <b>stiefelte</b> die Treppe <b>hinauf</b>, bis zur vierten Etage.  (<i>Lunapark</i>, 186)',
     'Raths Begleiter öffnete den Wagenschlag und beugte sich hinein. "Hab ihn eine Viertelstunde beobachtet. Ist allein gekommen." Nach diesen Worten trat er beiseite und <b>stiefelte</b> zurück in die Kneipe. (<i>Lunapark</i>, 238)',
     'Hinter der S-Bahn-Brücke hielt sich Werner Zeyen links. Rath musste aufpassen, den Ford nicht aus den Augen zu verlieren, der Lateinlehrer fuhr einen flotten <b>Stiefel</b>. (<i>Lunapark</i>, 304)',
-    'Gräf sprach kurz mit einem Schupo, und der deutete.. auf den Krankenwagen. Gräf gab den Spurensicherern kurz Anweisungen und schickte sie in den Keller, er selbst <b>stiefelte</b> zu Rath hinüber. (<i>Lunapark</i>, 384)',
+    'Gräf sprach kurz mit einem Schupo, und der deutete.. auf den Krankenwagen. Gräf gab den Spurensicherern kurz Anweisungen und schickte sie in den Keller, er selbst <b>stiefelte</b> zu Rath <b>hinüber</b>. (<i>Lunapark</i>, 384)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Du (<i>Marlow</i>) nimmst dem Alten die Laterne ab und <b>stiefelst</b> zu den Gesindehäusern hinüber, die sich im Mondschatten des Herrenhauses ducken wie schüchterne Kinder. (<i>Marlow</i>, 9)',
     '"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u>, und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert <b>Stiefel</b> knirschten im Kies wie einer. (<i>Marlow</i>, 51)'+
@@ -22213,6 +22257,9 @@ stibitzen: [
     'Rath nahm das Foto (<i>von Brunner/Heller</i>) aus der Akte, steckte es in den Mantel und <b>stiefelte</b> die Treppen <b>hoch</b>. Irene Schmeling wohnte ganz oben unterm Dach. (<i>Marlow</i>, 99)',
     'Die lauten <b>Stiefel</b> der marschierenden Wehrmacht hinterließen ein ungutes Gefühl bei ihm (<i>Rath</i>). (<i>Marlow</i>, 267)',
     'Es knirscht im Kies, schwere <b>Stiefel</b> nähern sich. Reit<b>stiefel</b>. (<i>Marlow</i>, 351)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Wenn Sie mir bitte folgen wollen, Oberkommissar (<i>Rath</i>)", sagte der Knabe und <b>stiefelte los</b>. Wirkte wie eine Mischung aus Pfadfinder und Liftboy in seiner Uniform. (<i>Olympia</i>, 52)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'stieren, an-': [
@@ -22621,6 +22668,7 @@ Tresen: [
     'Rath saß an dem dunkelhölzernen <b>Tresen</b> neben Reinhold Gräf,.. und schaute Schorsch beim Bierzapfen zu.. Der Wirt war schon dabei, zwei Mollen und zwei Kurze fertig zu machen. Er kannte seine Gäste. (<i>Olympia</i>, 27)',
     'Schorsch stellte zwei Biergläser und zwei Stumpen auf das abgewetzte, glänzende Holz des <b>Tresens</b>.. Die Schnapsgläser in einem Zug geleert und zurück auf den <b>Tresen</b> gestellt... (<i>Olympia</i>, 28)',
     'Rath drückte seine Zigarette aus, obwohl sie erst halb geraucht war, doch an irgendetwas musste er seine Wut auslassen. Das alles klang nach einem völlig verkorksten Abend. "Aber du zahlst", sagte er. "Es geht hier um die Staatssicherheit", sagte Gräf und legte ein paar Münzen auf den <b>Tresen</b>. (<i>Olympia</i>, 29)',
+    'Der Uniformierte schob ein Ausweispapier über den <b>Tresen</b>, das seinem Träger Zugang zu sämtlichen olympischen Stätten und dem Olympischen Dorf gewährte. (<i>Olympia</i>, 52)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 triezen: [
@@ -26157,6 +26205,7 @@ verzerren: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Es dauerte eine Weile, bis er (<i>Wilhelm Kessler</i>) merkte, dass der Mann, der da im Sessel kauerte, sich nicht mehr regte. Sondern mit <b>aufgerissenen</b> Augen in die Dunkelheit starrte, den Kopf seltsam schief. Beinahe als habe er sich zum Musikhören dorthin gesetzt und sein Ohr zum Plattenspieler geneigt, um zu lauschen. Doch es lief keine Musik. Und der Mann konnte auch nichts mehr hören. (<i>Olympia</i>, 12)',
     'Sie (<i>Fritze und Schröder</i>) hatten sich schon bis zur Unteren Dorfaue vorgearbeitet, da blieb Schröder plötzlich stehen und stellte seinen Blecheimer ab. "Pass mal auf", sagte er, nahm Anlauf und schleuderte den hölzernen Papierpicker mit der metallenen Spitze wie einen Speer durch die Luft. Ein paar Meter weiter landete das Ding auf dem Rasen, der Kamerad <b>riss</b> die Arme <b>hoch</b> und jubelte. (<i>Olympia</i>, 37)',
+    'Rath überlegte noch, ob man den Jungen hier Trinkgeld gab wie einem gewöhnlichen Hotelboy, da <b>riss</b> der auch schon den rechten Arm <b>hoch</b>, schlug die Hacken zusammen und verabschiedete sich mit einem strammen "Heil Hitler". (<i>Olympia</i>, 52)',
 ],
 
 };

@@ -46,7 +46,7 @@ const t = [
    'Trott, trotten',   
    'Trottel',  // Trottel: 
    'Trubel',  // Trubel: 
-   'trudeln',  // trudeln:
+   'trudeln, ein-',  
    'Truhe',  // Truhe: 
    'tuckern', // tuckern: 
    'tumb',   // tumb: 

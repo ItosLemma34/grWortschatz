@@ -1,95 +1,95 @@
 const s = [
-   'sabbern',  // sabbern:  
-   'Sägemehl', // Sägemehl: 
-   'sägen, auf-, aus-', 
-   'Salbung, salbungsvoll', 
-   'Samen',  // Samen:
-   'Sammelsurium', // Sammelsurium:  
-   'Samt', // Samt:
-   'saugen, ein-, Sog',   
-   'Sauklaue', // Sauklaue:  
-   'Saum, säumen',  
-   'säumig',  // säumig:
-   'Säure, säuerlich',   
-   'Sause',  // Sause:
-   'säuseln',  // säuseln:  
-   'sausen', // sausen:  
-   'schaben, ab-',  
-   'Schablone',  // Schablone:
-   'Schachtel',  // Schachtel:   
-   'schade (zu schade sein)',   //duplicated 
-   'Schäferstündchen', // Schäferstündchen:
-   'schälen', // schälen:
-   'schallen, Schall',    
-   'Schank',  // Schank: 
-   'Schar',  // Schar:  
-   'Scharfmacher', // Scharfmacher:
-   'Scharmützel',  // Scharmützel:   
-   'schassen',   // schassen:  
-   'Schauder, schaudern', 
-   'schauern, erschauern',  // duplicated 
-   'schaufeln, Schaufel',   
-   'Schaukasten', // Schaukasten:   
-   'schaukeln, auf-',     
-   'Scheffel (Licht unter den S.)', // duplicated
-   'scheiteln, Scheitel',  
-   'Scheiterhaufen',  // Scheiterhaufen: 
-   'schellen, zer-',   
-   'Schemel',  // Schemel: 
-   'scheppern',  // scheppern: 
-   'Scherbe',  // Scherbe:   
-   'Schere, scheren, aus-',  
-   'scheuern',  // scheuern: 
-   'Schieblehre', // Schieblehre:  
-   'Schiefertafel', // Schiefertafel: 
-   'schielen',  // schielen:
+'sabbern',  // sabbern:  
+'Sägemehl', // Sägemehl: 
+'sägen, auf-, aus-', 
+'Salbung, salbungsvoll', 
+'Samen',  // Samen:
+'Sammelsurium', // Sammelsurium:  
+'Samt', // Samt:
+'saugen, ein-, Sog',   
+'Sauklaue', // Sauklaue:  
+'Saum, säumen',  
+'säumig',  // säumig:
+'Säure, säuerlich',   
+'Sause',  // Sause:
+'säuseln',  // säuseln:  
+'sausen', // sausen:  
+'schaben, ab-',  
+'Schablone',  // Schablone:
+'Schachtel',  // Schachtel:   
+'schade (zu schade sein)',   //duplicated 
+'Schäferstündchen', // Schäferstündchen:
+'schälen', // schälen:
+'schallen, Schall',    
+'Schank',  // Schank: 
+'Schar',  // Schar:  
+'Scharfmacher', // Scharfmacher:
+'Scharmützel',  // Scharmützel:   
+'schassen',   // schassen:  
+'Schauder, schaudern', 
+'schauern, erschauern',  // duplicated 
+'schaufeln, Schaufel',   
+'Schaukasten', // Schaukasten:   
+'schaukeln, auf-',     
+'Scheffel (Licht unter den S.)', // duplicated
+'scheiteln, Scheitel',  
+'Scheiterhaufen',  // Scheiterhaufen: 
+'schellen, zer-',   
+'Schemel',  // Schemel: 
+'scheppern',  // scheppern: 
+'Scherbe',  // Scherbe:   
+'Schere, scheren, aus-',  
+'scheuern',  // scheuern: 
+'Schieblehre', // Schieblehre:  
+'Schiefertafel', // Schiefertafel: 
+'schielen',  // schielen:
 //   'Schienenstrang, Strang', // duplicated 
-   'schikanieren', // schikanieren: 
-   'Schilde (im S. führen)', //  duplicated  
-   'Schimmel, (ver)schimmeln',  
-   'schimmern, Schimmer, keinen blassen Schimmer', 
-   'Schinken',  // Schinken:
-   'Schippe (von der S. springen)',  // duplicated
-   'schlabbern', // schlabbern: 
-   'Schlacke',  // Schlacke: 
-   'Schlagseite',  // Schlagseite: 
-   'schlaksig', // schlaksig: 
-   'Schlamassel', // Schlamassel: 
-   'Schlampe', // Schlampe: 
-   'Schlamperei, schlampen, schlampig',  
-   'schlängeln',  // schlängeln:  
-   'schlapp, schlappmachen',
-   'Schlappschwanz',  // Schlappschwanz: 
-   'Schlauberger', // Schlauberger: 
-   'Schlauch', // Schlauch:
-   'Schlaufe',  // Schlaufe:
-   'schleichen, an-, heran-, nach-, herum-, hinaus-, vorbei-', 
-   'Schleier',  // Schleier:
-   'Schleife',  // Schleife:
-   'schleifen, Schleifer',  
-   'schlendern' , // schlendern:  
-   'Schlendrian', // Schlendrian: 
-   'Schlenker',  // Schlenker:
-   'schleudern', // schleudern: 
-   'Schleuse, schleusen',  
-   'Schliche (auf die S. kommen)', //  duplicated 
-   'Schliere, schlieren',  
-   'schliddern, schlittern', 
-   'Schliff',  // Schliff: 
-   'Schlips (auf den S. treten)', //  duplicated 
-   'schluchzen' ,  // schluchzen: 
-   'Schlucker (armer)', //  duplicated 
-   'Schlund',  // Schlund:  
-   'schlüpfen', // schlüpfen: 
-   'Schlüpfer',  // Schlüpfer: 
-   'schlüpfrig', // schlüpfrig: 
-   'schlurfen',  // schlurfen:  
-   'Schmach', // Schmach:  
-   'schmachten, an-',  
-   'schmächtig', // schmächtig: 
-   'schmählich',  // schmählich: 
-   'schmatzen',  // schmatzen:
-   'schmettern', // schmettern: 
+'schikanieren', // schikanieren: 
+'Schilde (im S. führen)', //  duplicated  
+'Schimmel, (ver)schimmeln',  
+'schimmern, Schimmer, keinen blassen Schimmer', 
+'Schinken',  // Schinken:
+'Schippe (von der S. springen)',  // duplicated
+'schlabbern', // schlabbern: 
+'Schlacke',  // Schlacke: 
+'Schlagseite',  // Schlagseite: 
+'schlaksig', // schlaksig: 
+'Schlamassel', // Schlamassel: 
+'Schlampe', // Schlampe: 
+'Schlamperei, schlampen, schlampig',  
+'schlängeln',  // schlängeln:  
+'schlapp, schlappmachen',
+'Schlappschwanz',  // Schlappschwanz: 
+'Schlauberger', // Schlauberger: 
+'Schlauch', // Schlauch:
+'Schlaufe',  // Schlaufe:
+'schleichen, an-, heran-, nach-, herum-, hinaus-, vorbei-', 
+'Schleier',  // Schleier:
+'Schleife',  // Schleife:
+'schleifen, Schleifer',  
+'schlendern' , // schlendern:  
+'Schlendrian', // Schlendrian: 
+'Schlenker',  // Schlenker:
+'schleudern', // schleudern: 
+'Schleuse, schleusen',  
+'Schliche (auf die S. kommen)', //  duplicated 
+'Schliere, schlieren',  
+'schliddern, schlittern', 
+'Schliff',  // Schliff: 
+'Schlips (auf den S. treten)', //  duplicated 
+'schluchzen' ,  // schluchzen: 
+'Schlucker (armer)', //  duplicated 
+'Schlund',  // Schlund:  
+'schlüpfen', // schlüpfen: 
+'Schlüpfer',  // Schlüpfer: 
+'schlüpfrig', // schlüpfrig: 
+'schlurfen',  // schlurfen:  
+'Schmach', // Schmach:  
+'schmachten, an-',  
+'schmächtig', // schmächtig: 
+'schmählich',  // schmählich: 
+'schmatzen',  // schmatzen:
+'schmettern', // schmettern: 
    'schmiegen',  // schmiegen:
    'Schmiere stehen',  
    'Schmiererei, schmieren, schmierig',  
@@ -223,7 +223,7 @@ const s = [
    'Sprosse',  // Sprosse:  
    'Sprünge (auf die S. helfen)',  // duplicated
    'Spule, spulen, ab-',  
-   'spülen; Spül -ung, -e, -stein, -bürste',  
+   'spülen, Spüler; Spül -bürste, -e, -stein, -ung',
    'Spund, Jungspund', // duplicated  
    'spuren',  // spuren: 
    'sputen', // sputen: 

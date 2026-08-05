@@ -90,69 +90,69 @@ const s = [
 'schmählich',  // schmählich: 
 'schmatzen',  // schmatzen:
 'schmettern', // schmettern: 
-   'schmiegen',  // schmiegen:
-   'Schmiere stehen',  
-   'Schmiererei, schmieren, schmierig',  
-   'Schmierfink', // Schmierfink: 
-   'Schminke', // Schminke:  
-   'schmissig', // schmissig: 
-   'schmollen',  // schmollen:
-   'Schmonzette', // Schmonzette: 
-   'schmoren' , // schmoren:  
-   'schmökern', // schmökern: 
-   'Schmuck, schmuck',  
-   'Schmuddel, -wetter, schmuddelig',  
-   'Schmunzeln, schmunzeln',  
-   'Schmutzfink',  // Schmutzfink:  
-   'Schnalle, schnallen',   
-   'Schnapsidee',  // Schnapsidee:  
-   'schnarchen',  // schnarchen:  
-   'schnarren',  // schnarren:  
-   'schnattern',  // schnattern: 
-   'schnauben', // schnauben: 
-   'schnaufen',  // schnaufen: 
-   'Schneid abkaufen',   
-   'schneidig',  // schneidig: 
-   'Schneise',  // Schneise:   
-   'schnieke',  // schnieke: 
-   'schnippeln', // schnippeln: 
-   'schnippen',  // schnippen: 
-   'schnippisch', // schnippisch:
-   'schnöde',  // schnöde:   
-   'schnörkelig, Schnörkel', 
-   'Schnösel',  // Schnösel:  
-   'schnorren, an-', 
-   'Schnulze',  // Schnulze:
-   'schnuppern, erschnuppern',  // duplicated 
-   'Schnur, schnüren', // 
-   'Schnürchen (wie am S.)',  // duplicated
-   'Schnürsenkeln',   // Schnürsenkeln:
-   'schnurstracks', // schnurstracks: 
-   'schnurz­pie­pe, schnurzegal', 
-   'Schoppen',  // Schoppen: 
-   'Schott, S. dicht machen',  
-   'Schotter', // Schotter: 
-   'schraffieren',  // schraffieren:
-   'schrammen, entlang-, vorbei-',  
-   'Schränker', // Schränker: 
-   'schrappen',  // schrappen: 
-   'Schraubstock', // Schraubstock:  
-   'Schrebergarten', // Schrebergarten:  
-   'Schrippe', // Schrippe:  
-   'Schritt',  // Schritt:  
-   'Schrotflinte', // Schrotflinte: 
-   'Schrott, schrottreif',   
-   'Schrubber, schrubben',    
-   'schubsen',  // schubsen:  
-   'schüchtern, ver-',    
-   'schummrig',  // schummrig: 
-   'Schund',  // Schund: 
-   'schunkeln', // schunkeln: 
-   'Schuppen',  // Schuppen:   
-   'schüren',  // schüren: 
-   'schürfen, Schürfwunde', 
-   'schurigeln', // schurigeln:         
-   'Schürze',  // Schürze:  
+'schmiegen',  // schmiegen:
+'Schmiere stehen',  
+'Schmiererei, schmieren, schmierig',  
+'Schmierfink', // Schmierfink: 
+'Schminke', // Schminke:  
+'schmissig', // schmissig: 
+'schmollen',  // schmollen:
+'Schmonzette', // Schmonzette: 
+'schmoren' , // schmoren:  
+'schmökern', // schmökern: 
+'Schmuck, schmuck',  
+'Schmuddel, -wetter, schmuddelig',  
+'Schmunzeln, schmunzeln',  
+'Schmutzfink',  // Schmutzfink:  
+'Schnalle, schnallen',   
+'Schnapsidee',  // Schnapsidee:  
+'schnarchen',  // schnarchen:  
+'schnarren',  // schnarren:  
+'schnattern',  // schnattern: 
+'schnauben', // schnauben: 
+'schnaufen',  // schnaufen: 
+'Schneid abkaufen',   
+'schneidig',  // schneidig: 
+'Schneise',  // Schneise:   
+'schnieke',  // schnieke: 
+'schnippeln', // schnippeln: 
+'schnippen',  // schnippen: 
+'schnippisch', // schnippisch:
+'schnöde',  // schnöde:   
+'schnörkelig, Schnörkel', 
+'Schnösel',  // Schnösel:  
+'schnorren, an-', 
+'Schnulze',  // Schnulze:
+'schnuppern, erschnuppern',  // duplicated 
+'Schnur, schnüren', // 
+'Schnürchen (wie am S.)',  // duplicated
+'Schnürsenkeln',   // Schnürsenkeln:
+'schnurstracks', // schnurstracks: 
+'schnurz­pie­pe, schnurzegal', 
+'Schoppen',  // Schoppen: 
+'Schott, S. dicht machen',  
+'Schotter', // Schotter: 
+'schraffieren',  // schraffieren:
+'schrammen, entlang-, vorbei-',  
+'Schränker', // Schränker: 
+'schrappen',  // schrappen: 
+'Schraubstock', // Schraubstock:  
+'Schrebergarten', // Schrebergarten:  
+'Schrippe', // Schrippe:  
+'Schritt',  // Schritt:  
+'Schrotflinte', // Schrotflinte: 
+'Schrott, schrottreif',   
+'Schrubber, schrubben',    
+'schubsen',  // schubsen:  
+'schüchtern, ver-',    
+'schummrig',  // schummrig: 
+'Schund',  // Schund: 
+'schunkeln', // schunkeln: 
+'Schuppen',  // Schuppen:   
+'schüren',  // schüren: 
+'schürfen, Schürfwunde', 
+'schurigeln', // schurigeln:         
+'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated 
    'Schüssel, Kloschüssel',  // duplicate 
    'Schutt',  // Schutt:

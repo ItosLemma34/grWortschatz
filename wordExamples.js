@@ -20781,24 +20781,24 @@ Spalier: [
     '<br><b>spülen, ausspülen</b>: wash, rinse out; flush (toillete)'+
     '<br>der <b>Spüler</b>,- <b>in</b>; die <b>Spüler</b>,-<b>innen</b>: dishwasher'+
     '<br>die <b>Bürste</b>,-<b>n</b>: brush'+
-    '<br>die <b>Spülbürste</b>,-<b>n</b>: dishwashing brush'+
+    '<br>die <b>Spülbürste</b>,-<b>n</b>: dishwashing brush/mop'+
     '<br>die <b>Spüle</b>,-<b>n</b>: sink'+
     '<br>der <b>Spülstein</b>,-<b>e</b>: sink; (old-fashioned: stone/ceramic sink)'+
     '<br>die <b>Spülung</b>,-<b>en</b>: flushing'+
      // spülen  Spüler  Spülbürste  Spüle  Spülstein  Spülung
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spuelen"target="target1">spülen</a>'+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClung"target="target2">Spüler</a>'+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BCler"target="target2">Spüler</a>'+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
         '&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+Sp%C3%BClb%C3%BCrste"target="target3">Spülbürste</a>'+                                                                                                                                                                                                                                                                                                                                                                                                                 
         '&nbsp;&nbsp;<a href="https://www.google.com/search?q=Bilder+von+%27Sp%C3%BClen&client=firefox-b-1-d&sca_esv=e5cef3e958d363d7&channel=entpr&ei=HrCsaI_CDKao5NoPupS3-Ac&ved=0ahUKEwiPyeOS0KaPAxUmFFkFHTrKDX8Q4dUDCBE&uact=5&oq=Bilder+von+%27Sp%C3%BClen&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0JpbGRlciB2b24gJ1Nww7xsZW4yBhAAGBYYHjIGEAAYFhgeMggQABiABBiiBDIFEAAY7wUyBRAAGO8FSPYqUJULWJkbcAF4AJABAJgBXqABmwGqAQEyuAEDyAEA-AEC-AEBmAIDoAKpAcICCRAAGLADGAgYHsICCxAAGIAEGLADGKIEwgIIEAAYsAMY7wWYAwCIBgGQBgaSBwEzoAfkBbIHATK4B6QBwgcDMi0zyAcL&sclient=gws-wiz-serp"target="target4">Spüle</a>'+  
         '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClstein"target="target5">Spülstein</a>'+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
         '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sp%C3%BClung"target="target6">Spülung</a>'+
      // spülen  Spüler  Spülbürste  Spüle  Spülstein  Spülung
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target7">spülen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sp%C3%BClen&id=verb%3Aspu3len%23spu3len_hat"target="target7">spülen</a>'+
         '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spuler"target="target8">Spüler</a>'+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-        '&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spuelbuerste"target="target9">Spülbürste</a>',
+        '&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spuelbuerste"target="target9">Spülbürste</a>'+
         '&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/spuele#Sp%C3%BCle"target="target10">Spüle</a>'+
         '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sp%C3%BClstein&id=substantiv%3ASpu3lstein"target="target11">Spülstein</a>'+
-        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spulung"target="target12">Spülung</a>'+
+        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spulung"target="target12">Spülung</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das Geräusch einer Toiletten<b>spülung</b> riss ihn (<i>Rath</i>) aus seinen Gedanken. (<i>Der nasse Fisch</i>, 21)',
@@ -20831,7 +20831,7 @@ Spalier: [
     'Eine Weile schwiegen sie vor sich hin, dann stellte Fräulein Peters ihre erste Frage. "Hilfst du gerne im Haushalt?", fragte sie. "Kochst Tee? Machst Bratkartoffeln?" "Ick <b>spüle</b> ooch", sagte Fritze. "Und mach mein Bette selber. Und jebügelt ha\'ck ooch schon mal!" (<i>Marlow</i>, 392)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
-    'Kurz darauf öffnete sich eine unscheinbare Tür in der holzvertäfelten Wand, und Rath betrat die Küche, folgte dem <b>Spüler</b> quer durch den Raum... (<i>Olympia</i>, 59)',
+    'Kurz darauf öffnete sich eine unscheinbare Tür in der holzvertäfelten Wand, und Rath betrat die Küche, folgte dem <b>Spüler</b> quer durch den Raum... "Da hinten steht der Chef." Der <b>Spüler</b> wies auf eine Gruppe von vier Männer, alle in Weiß... "Der mit dem Schnurrbart." (<i>Olympia</i>, 59)',
 ],
 Schlüpfer: [
     'der <b>Schlüpfer</b>,-: briefs, underpants'+

@@ -40,6 +40,7 @@ const s = [
 'Scherbe',  // Scherbe:   
 'Schere, scheren, aus-',  
 'scheuern',  // scheuern: 
+'Schickse',  // Schickse:
 'Schieblehre', // Schieblehre:  
 'Schiefertafel', // Schiefertafel: 
 'schielen',  // schielen:
@@ -100,7 +101,7 @@ const s = [
 'Schmonzette', // Schmonzette: 
 'schmoren' , // schmoren:  
 'schmökern', // schmökern: 
-'Schmuck, schmuck',  
+'Schmuck, schmuck, schmücken',  
 'Schmuddel, -wetter, schmuddelig',  
 'Schmunzeln, schmunzeln',  
 'Schmutzfink',  // Schmutzfink:  
@@ -153,10 +154,10 @@ const s = [
 'schürfen, Schürfwunde', 
 'schurigeln', // schurigeln:         
 'Schürze',  // Schürze:  
-   'Schuss (in S. sein)', //  duplicated 
-   'Schüssel, Kloschüssel',  // duplicate 
-   'Schutt',  // Schutt:
-   'schütten, aus-, ver-, zu-',           
+'Schuss (in S. sein)', //  duplicated 
+'Schüssel, Kloschüssel',  // duplicate 
+'Schutt',  // Schutt:
+'schütten, aus-, ver-, zu-',           
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
    'Schütze, Schützengraben',

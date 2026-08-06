@@ -5,7 +5,7 @@ export const wordExamples = {
 //Der stumme Tod 'aufkratzen, aufgekratzt' 279 448 
     // Gehüpfe 375  Der stumme Tod
     // pg 486  Verweis Der stumme Tod
-    // Der stumme Tod  gewälzt  438
+    // Der stumme Tod  gewälzt  438  geschwungen
 
 //Olympia  kniff 178 373
 // Der stumme Tod 'drucksen, herum-'  297
@@ -118,6 +118,22 @@ abschminken: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Auch der Mann hinter dem Schreibtisch, auf dessen zackiges "Herein" Rath nach höflichem Anklopfen den Raum betreten hatte, empfing ihn mit dem für Beamte vorgeschriebenen Deutschen Gruß. So barsch hatte Rath die Nazi-Grußformel, die sich ohnehin nicht gerade durch Liebenswürdigkeit auszeichnete, noch nie vernommen; Oberkommissar Franke schien eine <b>Laus über die Leber gelaufen</b> zu sein. (<i>Olympia</i>, 52-53)',
+],
+Schickse: [  
+    'die <b>Schickse</b>,-<b>n</b>: floozy, tart, slut, broad, hussy'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schickse"target="target1">Schickse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schickse"target="target2">Schickse</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schickse&id=substantiv%3ASchickse"target="target3">Schickse</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/Schickse"target="target4">Schickse</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Er (<i>Goldstein</i>) hätte niemals gedacht zu heiraten und schon gar keine <b>Schickse</b>. Aber Marion war ein Glücksfall. Sie war loyal, sie mochte ihn, sie mochte sein Geld, und sie stellte keine Fragen. (<i>Olympia</i>, 65)',
+],
+Wimpel: [  
+    'der <b>Wimpel</b>,-: pennant, streamer'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wimpel"target="target1">Wimpel</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/search?k=wimpeln"target="target2">Wimpel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/wimpel"target="target3">Wimpel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Wimpel&id=substantiv%3AWimpel"target="target4">Wimpel</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Jetzt schon, eine Woche vor der Eröffnung, waren nicht nur sämtliche Schaufenster mit den olympischen Ringen geschmückt; sie prangten auch auf den Speisekarten der Restaurants, auf Stadtplänen, Teetassen und Busfahrkarten. Und mindestens jedes zweite Auto war mit Olympiafähnchen und <b>Wimpeln</b> dekoriert. (<i>Olympia</i>, 63)',
 ],
 'behäbig, Behäbigkeit': [  
     '<b>behäbig</b>: placid, sedate, complacent'+
@@ -3635,6 +3651,9 @@ ausfransen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Dicke (<i>Göring</i>) wirkte jedenfalls ziemlich <b>aufgekratzt</b> und bester Laune, als er aus dem Dunkel trat, flankiert von einer Handvoll Männer der Landespolizeitruppe General Göring, seiner Prätorianergarde. (<i>Marlow</i>, 176-77)',
     '"Du bist ja nicht weit weg", sagte Charly, "wir können uns besuchen wann immer wir wollen." Fritze nickte. "Da muss ich Sie enttäuschen, aber das geht natürlich nicht. Eine kalte Stimme, <b>aufgekratztz</b> und kalt. Nicht zu überhören, dass Fräulein Peters Charly nicht leiden konnte. "Es würde den Jungen nur verwirren, wenn er zu seinen alten Pflegeeltern noch Kontakt hat." (<i>Marlow</i>, 489-90)',   
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Die meisten Menschen, denen sie (<i>Goldstein und Marion</i>) begegneten, waren in einer <b>aufgekratzten</b> Weise gut gelaunt und schienen den Beginn der Spiele kaum erwarten zu können. (<i>Olympia</i>, 63)',
 ],
 Schwall: [
     'der <b>Schwall</b>,-<b>e</b>: surge, flood, torrent, deluge'+
@@ -8140,6 +8159,7 @@ prangen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Fritze ging hinüber zur Terrassentür und klopfte... Schon bei der ersten Berührung seiner Fingerknöchel schwang die Tür nach innen. Er zuckte zurück, dann steckte er seinen Kopf durch den Spalt und lugte hinein. Ein großer Raum, menschenleer, an der Wand <b>prangte</b> eine Ansicht der Stadt Bautzen, eingerahmt von Frauen in Tracht. (<i>Olympia</i>, 19)',
+    'Jetzt schon, eine Woche vor der Eröffnung, waren nicht nur sämtliche Schaufenster mit den olympischen Ringen geschmückt; sie <b>prangten</b> auch auf den Speisekarten der Restaurants, auf Stadtplänen, Teetassen und Busfahrkarten. Und mindestens jedes zweite Auto war mit Olympiafähnchen und Wimpeln dekoriert. (<i>Olympia</i>, 63)',
 ], 
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Böschung: [
@@ -11209,15 +11229,21 @@ auftischen: [
     '<b>aus dem Häuschen sein</b>: be excited about, beside oneself; also: be angry'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/aus%20dem%20H%C3%A4uschen%20sein"target="target1">aus dem Häuschen sein</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aus%20dem%20H%C3%A4uschen%20sein"target="target2">aus dem Häuschen sein</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/aus%20dem%20H%C3%A4uschen%20sein"target="target3">aus dem Häuschen sein</a> &nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/aus+dem+H%C3%A4uschen+sein"target="target4">aus dem Häuschen sein</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Elisabeth Behnke war laut geworden. Hatte Weinert etwa vergessen, seine Frauen rechtzeitig aus dem Haus zu schaffen? Wahrscheinlich reichte auch weniger um die Behnke auf die Palme zu bringen. Die Laune seiner (<i>Raths</i>) Vermieterin hatte sich in den vergangenen Tagen zunehmend verschlechtert. Schon bei Kleinigkeiten geriet sie <b>aus dem Häuschen</b>. (<i>Der nasse Fisch</i>, 261)',
+    // >Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Rath</i>: "Die Elberfelder Kollegen haben sich schon bei Ihnen gemeldet?" Grimberg (<i>Roddecks Sprengmeister</i>) nickte. "Ein Schupo war gestern Abend hier, um nachzuschauen, ob ich noch lebe. Was soll denn die ganze Aufregung? Meine Frau <b>war</b> ganz <b>aus dem Häuschen</b>." (<i>Märzgefallene</i>, 273)',
     'Nun brach ein Applaus los, der Rath in seiner Stärke tatsächlich überraschte. Einige waren aufgestanden, immer mehr folgten, bis der ganze Saal Leutnant von Roddek in stehenden Ovationen schwelgen ließ... Er (<i>Rath</i>) stand auf und machte sich auf den Weg zum Ausgang. Bevor er den Saal verließ, schaute er noch einmal auf das Publikum, das shier <b>aus dem Häuschen</b> schien. (<i>Märzgefallene</i>, 478-79)',
     '<i>Charly</i>: "Ich muss dir etwas sagen, Gereon... Ich werde nach Ostern mit der Wieking sprechen, ich werde... kündigen." Nun war es raus. <i>Gereon</i>: "So kurz vor der Kommissarsprüfung?" Er schaute sie mit großen Augen an. "Ist es... Bist du schwanger?" "Aber nein!" Sie musste lachen, wie sie ihn da sitzen sah, völlig <b>aus dem Häuschen</b>. (<i>Märzgefallene</i>, 504)',
-    '<uMarlow</u>',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
     'Als sie (<i>Gereon und seine Schwiegermutter</i>) Leipzig hinter sich gelassen hatten, begegneten ihnen auf ihrer Strecke immer wieder Baustellen der Reichsautobahn, und auch bei deren Anblick geriet Luise Ritter regelmäßig <b>aus dem Häuschen</b>. (<i>Marlow</i>, 246)',
     'Plötzlich brach ein unbeschreiblicher Lärm los. Rath konnte das Geräusch zunächst nicht zuordnen, bis er merkte, dass es die Leute an den Straßenrändern waren, die kreischten, riefen und brüllten und mit einem Mal völlig <b>aus dem Häuschen waren</b>. (<i>Marlow</i>, 278-79)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Oder es (<i>die gute Laune der Berliner</i>) lag daran, dass nahezu die komplette Stadt im Olympiafieber und schier <b>aus dem Häuschen</b> war. (<i>Olympia</i>, 63)',
 ],
 'Häuschen (aus dem H.)': [
     '<b>aus dem Häuschen sein</b>: be excited about, beside oneself; also: be angry'+
@@ -21545,17 +21571,28 @@ schmoren: [
     '<i>Rath</i>: "Das ist also der Dank dafür, dass ich Sie aus der SA-Haft befreit habe." <i>Leo Juretzka</i>: "Das ist der Dank dafür, dass Sie mich eine Woche lang da haben <b>schmoren</b> lassen, bevor Sie sich endlich dazu herabgelassen haben, mir zu helfen. Wissen Sie, was die SA in einer Woche mit einem Menschen anstellen kann?" (<i>Lunapark</i>, 527-28)',
     'Er konnte sich nicht erinnern, irgendwann mal an den lieben Gott geglaubt zu haben. Fritze betete sogar dafür, es möge keinen Gott geben, weil einer wie er dann sowieso in der Hölle <b>schmoren</b> müsste. (<i>Lunapark</i>, 541)',
 ],
-'Schmuck, schmuck': [
+// schmückt, schmückte, hat geschmückt  
+'Schmuck, schmuck, schmücken': [ 
     'der <b>Schmuck</b>,-<b>e</b>: ornament, jewelry, embellishment'+
     '<br><b>schmuck</b>: neat, tidy, smart'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuck"target="target1">Schmuck</a> &nbsp;<a href="https://www.duden.de/rechtschreibung/schmuck"target="target2">schmuck</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmuck"target="target3">Schmuck</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schmuck"target="target4">schmuck</a>',
+    '<br><b>schmücken</b>: decorate, embellish, deck sth. out'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schmuck"target="target1">Schmuck</a>'+
+        '&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmuck"target="target2">schmuck</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schm%C3%BCcken"target="target3">schmücken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schmuck"target="target4">Schmuck</a>'+
+        '&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schmuck"target="target5">schmuck</a>'+
+        '&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/Schm%C3%BCcken"target="target6">schmücken</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Zum zweiten Mal, seit sie den Raum betreten hatte, hob Hannah Singer ihr Gesicht. Immer noch wich sie möglichst allen Blicken aus, ihre Augen schauten zum Boden, zur Wand, zur Decke.... Immer wieder aber kehrten sie zurück zu dem Foto auf dem Tisch, das Bild von dem <b>schmucken</b> Weltkriegssoldaten. (<i>Märzgefallene</i>, 46)',
     'Auf die Kaufhausidee hatte sie (<i>Hannah</i>) eine Geschichte aus der Märchenbrunnenclique gebracht. Von einem Mädchen hatten sie da erzählt, das sich in Kaufhäusern hatte einschließen lassen, um dort dann allen <b>Schmuck</b> mitgehen zu lassen und andere Dinge. Hannah wollte nichts rauben, keinen <b>Schmuck</b> jedenfalls, höchstens etwas zu beißen und vielleicht etwas Warmes gegen die Kälte.... (<i>Märzgefallene</i>, 152)',
     'Etwas abseits des Dorfes liegt ein stattliches Anwesen, an dem der Krieg wie durch ein Wunder noch keinerlei Spuren hinterlassen hat, eine <b>schmucke</b> Villa mitsamt Dienstbotenunterkünften und einem kleinen Park. (<i>Märzgefallene</i>, 160)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Pegnitz hatte einen <b>schmucken</b> Marktplatz, in dessen Mitte ein kleines historisches Rathaus stand (natürlich Fachwerk), ein neobarockes Kirchlein und vor allem eine landschaftlich reizvolle Umgebung. (<i>Marlow</i>, 312)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Jetzt schon, eine Woche vor der Eröffnung, waren nicht nur sämtliche Schaufenster mit den olympischen Ringen <b>geschmückt</b>; sie prangten auch auf den Speisekarten der Restaurants, auf Stadtplänen, Teetassen und Busfahrkarten. Und mindestens jedes zweite Auto war mit Olympiafähnchen und Wimpeln dekoriert. (<i>Olympia</i>, 63)',
 ],
 'Schmunzeln, schmunzeln': [
     'das <b>Schmunzeln</b>: smirk, amused smile'+
@@ -22930,14 +22967,21 @@ ungehobelt: [
     '<b>ungehobelt</b>: uncouth, crude; unpolished, ill-bred'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ungehobelt"target="target1">ungehobelt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ungehobelt"target="target2">ungehobelt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/ungehobelt"target="target3">ungehobelt</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ungehobelt"target="target4">ungehobelt</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Schien ein Kavalier zu sein, der Mann, hatte ihr (<i>Charly</i>) sogar seinen Mantel übergeworfen. Tja, daran hatte <i>er</i> mal wieder nicht gedacht, obwohl es seine Schuld war, dass sie nun im Ballkleid durch die Kälte laufen musste. Oberkommissar Wilhelm Böhm war eben ein <b>ungehobelter</b> Klotz, da war nichts zu machen. (<i>Der nasse Fisch</i>, 61-62)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Gereon</i>) schaute sie (<i>Charly</i>) an, angriffslustig, als wolle er gleich wieder streiten. "Sie (<i>Hannah</i>) drohte zu verbluten, verdammt, Charly, wo hättest du sie denn hingeschickt, zu deinem Ärztefreund? Eine Brandstifterin, eine ausgerissene Irre, eine mehrfache Mörderin?" Fritze hatte die Augen aufgerissen bei dem Wort Mörderin, und Charly hätte Gereon treten können für seine <b>ungehobelte</b> Art. (<i>Märzgefallene</i>, 408-09)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Rath</i>: "Sind Sie sicher, dass es Staatspolizei war, die Ihren Mann abgeholt hat?", fragte er. <i>Gussie Adenauer</i>: "Die Beamten waren zwar ziemlich <b>ungehobelt</b>, aber sie haben ihre Marken gezeigt." (<i>Lunapark</i>, 500)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Benno, Harry", sagst du (<i>Marlow</i>). "Zeigt dem unfreundlichen Zeitgenossen hier doch bitte den Weg zum Ausgang. Er hat sich verlaufen." Die beiden Türsteher packen den Nordpiraten rechts und links... Du stehst auf. "Hör mal zu, du <b>ungehobelter</b> Scheißkerl", sagst du, eiskalt und leise. "Sag deinen Chefs, dass sie sich mit dem Falschen anlegen. Und lass dich hier nie wieder blicken." (<i>Marlow</i>, 519)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Bei seinem letzten Besuch war ihm (<i>Goldstein</i>) die Stadt rauer vorgekommen, dreckiger, <b>ungehobelter</b>. Aber auch - freier. (<i>Olympia</i>, 63)',
 ],
 'über alle Berge': [
     '<b>über alle Berge</b>: be miles away, long gone'+
@@ -24898,6 +24942,7 @@ wimmern: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '"Heil Hitler, Obersturmbannführer", sagte er (<i>Gräf</i>) und ließ den rechten Arm nach oben schnellen. Rath <b>winkelte</b> seine Rechte an und nuschelte sein "Hei\'itler". Mehr bekamen sie von ihm nicht, auch nicht die SS. (<i>Olympia</i>, 32)',
+    '<i>Rath</i>: "Haben wir uns verstanden, Verflegungsoffizier?" "Natürlich, Oberkommissar." Pütz war ebenfalls aufgestanden und riss den rechten Arm hoch. "Heil Hitler." "Heil!" Rath <b>winkelte</b> seine Rechte so zackig <b>an</b> wie noch nie zuvor und verließ den Raum. Konnte nicht schaden, wenn ihn der Verpflegungsoffizier für einen strammen Nazi hielt. (<i>Olympia</i>, 62)',
 ],
 Winkeladvokat: [
     'der <b>Winkeladvokat</b>,-<b>en</b>: hack lawyer, shyster'+
@@ -25370,6 +25415,7 @@ Zinnober: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Auch der Mann hinter dem Schreibtisch, auf dessen <b>zackiges</b> "Herein" Rath nach höflichem Anklopfen den Raum betreten hatte, empfing ihn mit dem für Beamte vorgeschriebenen Deutschen Gruß. (<i>Olympia</i>, 52-53)',
+    '<i>Rath</i>: "Haben wir uns verstanden, Verflegungsoffizier?" "Natürlich, Oberkommissar." Pütz war ebenfalls aufgestanden und riss den rechten Arm hoch. "Heil Hitler." "Heil!" Rath winkelte seine Rechte so <b>zackig</b> an wie noch nie zuvor und verließ den Raum. Konnte nicht schaden, wenn ihn der Verpflegungsoffizier für einen strammen Nazi hielt. (<i>Olympia</i>, 62)',
 ],
 zappeln: [
     '<b>zappeln</b>: fidget, struggle, kick, wriggle'+
@@ -26358,6 +26404,7 @@ verzerren: [
     'Es dauerte eine Weile, bis er (<i>Wilhelm Kessler</i>) merkte, dass der Mann, der da im Sessel kauerte, sich nicht mehr regte. Sondern mit <b>aufgerissenen</b> Augen in die Dunkelheit starrte, den Kopf seltsam schief. Beinahe als habe er sich zum Musikhören dorthin gesetzt und sein Ohr zum Plattenspieler geneigt, um zu lauschen. Doch es lief keine Musik. Und der Mann konnte auch nichts mehr hören. (<i>Olympia</i>, 12)',
     'Sie (<i>Fritze und Schröder</i>) hatten sich schon bis zur Unteren Dorfaue vorgearbeitet, da blieb Schröder plötzlich stehen und stellte seinen Blecheimer ab. "Pass mal auf", sagte er, nahm Anlauf und schleuderte den hölzernen Papierpicker mit der metallenen Spitze wie einen Speer durch die Luft. Ein paar Meter weiter landete das Ding auf dem Rasen, der Kamerad <b>riss</b> die Arme <b>hoch</b> und jubelte. (<i>Olympia</i>, 37)',
     'Rath überlegte noch, ob man den Jungen hier Trinkgeld gab wie einem gewöhnlichen Hotelboy, da <b>riss</b> der auch schon den rechten Arm <b>hoch</b>, schlug die Hacken zusammen und verabschiedete sich mit einem strammen "Heil Hitler". (<i>Olympia</i>, 52)',
+    '<i>Rath</i>: "Haben wir uns verstanden, Verflegungsoffizier?" "Natürlich, Oberkommissar." Pütz war ebenfalls aufgestanden und <b>riss</b> den rechten Arm <b>hoch</b>. "Heil Hitler." "Heil!" Rath winkelte seine Rechte so zackig an wie noch nie zuvor und verließ den Raum. Konnte nicht schaden, wenn ihn der Verpflegungsoffizier für einen strammen Nazi hielt. (<i>Olympia</i>, 62)',
 ],
 
 };

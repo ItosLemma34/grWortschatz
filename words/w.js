@@ -27,37 +27,38 @@ const w = [
    'wellen, Welle',  // 
    'werkeln', // werkeln: 
    'Wermutstropfen', // Wermutstropfen:
-   'wettern',  // wettern: 
-   'Wichs',  // Wichs:
-   'Wickel (am W. haben)',  // duplicated 
-   'Wickelgamasche',  // Wickelgamasche: 
-   'Widerhaken', // Widerhaken: 
-   'wie am Schnürchen', // duplicated
-   'wie aus dem Ei gepellt',  //  duplicated 
-   'wie bestellt und nicht abgeholt',
-   'wie ein Auto anschauen/anstarren/gucken',
-   'wiehern', // wiehern:  
-   'wienern', // wienern: 
-   'wimmeln, Gewimmel',  //   duplicated 
-   'wimmern', // wimmern: 
-   'Wimper',   // Wimper:  
-   'Wind (durch den W. sein)', //  duplicated  
-   'winden, gewunden',  //  duplicated 
-   'Wink mit dem Zaunpfahl', //  duplicated    
-   'Winkel, winkeln, an-',  
-   'Winkeladvokat',  // Winkeladvokat: 
-   'winseln',  // winseln: 
-   'Wipfel',  // Wipfel:  
-   'wippen' , // wippen: 
-   'wirbeln, auf-, herum-, ver-', 
-   'Witzbold', // Witzbold: 
-   'wogen' ,  // wogen: 
-   'Wohl bekomm\'s!', // 
-   'Wohlgefallen (sich in W. auflösen)', // 
-   'wölben',  // wölben:  
-   'Wolf (durch den W. drehen)', //  duplicated 
-   'wringen, auswringen', // duplicated
-   'wuchern, überwuchern',  // duplicated 
+'wettern',  // wettern: 
+'Wichs',  // Wichs:
+'Wickel (am W. haben)',  // duplicated 
+'Wickelgamasche',  // Wickelgamasche: 
+'Widerhaken', // Widerhaken: 
+'wie am Schnürchen', // duplicated
+'wie aus dem Ei gepellt',  //  duplicated 
+'wie bestellt und nicht abgeholt',
+'wie ein Auto anschauen/anstarren/gucken',
+'wiehern', // wiehern:  
+'wienern', // wienern: 
+'wimmeln, Gewimmel',  //   duplicated 
+'wimmern', // wimmern: 
+'Wimpel',  // Wimpel: 
+'Wimper',   // Wimper:  
+'Wind (durch den W. sein)', //  duplicated  
+'winden, gewunden',  //  duplicated 
+'Wink mit dem Zaunpfahl', //  duplicated    
+'Winkel, winkeln, an-',  
+'Winkeladvokat',  // Winkeladvokat: 
+'winseln',  // winseln: 
+'Wipfel',  // Wipfel:  
+'wippen' , // wippen: 
+'wirbeln, auf-, herum-, ver-', 
+'Witzbold', // Witzbold: 
+'wogen' ,  // wogen: 
+'Wohl bekomm\'s!', // 
+'Wohlgefallen (sich in W. auflösen)', // 
+'wölben',  // wölben:  
+'Wolf (durch den W. drehen)', //  duplicated 
+'wringen, auswringen', // duplicated
+'wuchern, überwuchern',  // duplicated 
    'wuchten, Wucht',  
    'wühlen, durch-, herum-',  
    'wummern, Gewummer', //  duplicated  

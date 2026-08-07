@@ -60,6 +60,7 @@ const h = [
    'heulen, aus-, ver-, voll-',  
    'Heulsuse', // Heulsuse:  
    'hieven',  // hieven: 
+   'hinblättern', // hinblättern:
    'hineinreiten, reinreiten',  // duplicated 
    'hinhalten, Knochen/Kopf hinhalten', // duplicated 
    'hinterlistig',  // hinterlistig: 

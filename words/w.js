@@ -5,28 +5,28 @@ const w = [
    'Wade' ,  // Wade: 
    'waghalsig', // waghalsig: 
    'wähnen',  // wähnen: 
-   'Walze',  // Walze: 
-   'wälzen, ab-',  
-   'Wampe', // Wampe: 
-   'Wanst',  // Wanst:  
-   'Wappen' ,  // Wappen: 
-   'warm anziehen', // 
-   'was das Zeug hält', //  duplicated  
-   'Wassern (mit allen W. gewaschen)',  //  duplicated 
-   'Watte, Wattebausch', 
-   'weben, verweben', // duplicated
-   'Wecker (auf den W. gehen)',  //  duplicated 
-   'wedeln',  // wedeln: 
-   'wegätzen, ätzen',  // duplicated 
-   'wegducken, ducken',  // duplicated 
-   'Wehwehchen',  // Wehwehchen:  
-   'weichklopfen',  // weichklopfen: 
-   'weichkochen', // weichkochen: 
-   'weihen, ein-, todgeweiht',  // duplicated
-   'Weihrauch, Weihrauchschwenker', // 
-   'wellen, Welle',  // 
-   'werkeln', // werkeln: 
-   'Wermutstropfen', // Wermutstropfen:
+'Walze',  // Walze: 
+'wälzen, ab-',  
+'Wampe', // Wampe: 
+'Wanst',  // Wanst:  
+'Wappen' ,  // Wappen: 
+'warm anziehen', // 
+'was das Zeug hält', //  duplicated  
+'Wassern (mit allen W. gewaschen)',  //  duplicated 
+'Watte, Wattebausch', 
+'weben, verweben', // duplicated
+'Wecker (auf den W. gehen)',  //  duplicated 
+'wedeln',  // wedeln: 
+'wegätzen, ätzen',  // duplicated 
+'wegducken, ducken',  // duplicated 
+'Wehwehchen',  // Wehwehchen:  
+'weichklopfen',  // weichklopfen: 
+'weichkochen', // weichkochen: 
+'weihen, ein-, todgeweiht',  // duplicated
+'Weihrauch, Weihrauchschwenker', // 
+'wellen, Welle',  // 
+'werkeln', // werkeln: 
+'Wermutstropfen', // Wermutstropfen:
 'wettern',  // wettern: 
 'Wichs',  // Wichs:
 'Wickel (am W. haben)',  // duplicated 

@@ -19,7 +19,7 @@ const l = [
     'Lastkahn', // Lastkahn:   pair with Kahn:, if found
     'latschen',  // latschen:
     'lau',   // lau:
-    'Laub, Laube, Lauben-', 
+    'Laub, Laube, Lauben -gang, -kolonie, -pieper', 
     'lauern, auf-',    
     'Lauf',    // Lauf: 
     'Laufgitter; Gitter, Gitterrost',

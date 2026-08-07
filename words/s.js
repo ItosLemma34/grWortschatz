@@ -187,7 +187,7 @@ const s = [
    'sezieren',  // sezieren:
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
-   'Sieb, sieben, durch-',
+   'Sieb, sieben, aus-, durch-',
    'Siegel, siegeln, ver-', 
    'Sims',  //  Sims: 
    'Sippenhaft', // Sippenhaft: 

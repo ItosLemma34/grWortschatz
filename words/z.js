@@ -1,10 +1,10 @@
 const z = [
-   'Zack (auf Z. sein)',
-   'zackig, zacken',    
-   'zahm, handzahm', //   duplicated  
-   'Zahn (auf den Z. fühlen)', //  duplicated 
-   'Zange (in die Z. nehmen)', //  duplicated 
-   'zanken',  // zanken: 
+'Zack (auf Z. sein)',
+'zackig, zacken',    
+'zahm, handzahm', //   duplicated  
+'Zahn (auf den Z. fühlen)', //  duplicated 
+'Zange (in die Z. nehmen)', //  duplicated 
+'zanken',  // zanken: 
    'Zapfen, zapfen, an-', // duplicated 
    'zappeln', // zappeln:  
    'Zarge' , // Zarge:  
@@ -25,16 +25,16 @@ const z = [
    'zermatschen',  // zermatschen: 
    'zerpflücken',  // zerpflücken: 
    'zerren',      // zerren:  
-   'zerschießen',  // zerschießen:  
-   'zerschunden',  // zerschunden: 
-   'zertrampeln',  // zertrampeln:
-   'zertrümmern',  // zertrümmern:
-   'zerwühlen',    // zerwühlen:   
-   'zerzausen',    // zerzausen:  
-   'Zeter und Mordio schreien',
-   'Zeug (was das Z. hält)', //  duplicated 
-   'Zicke, Zicken machen',  // 
-   'zickig',  // zickig:  
+'zerschießen',  // zerschießen:  
+'zerschunden',  // zerschunden: 
+'zertrampeln',  // zertrampeln:
+'zertrümmern',  // zertrümmern:
+'zerwühlen',    // zerwühlen:   
+'zerzausen',    // zerzausen:  
+'Zeter und Mordio schreien',
+'Zeug (was das Z. hält)', //  duplicated 
+'Zicke, Zicken machen',  // 
+'zickig',  // zickig:  
    'Ziegelwand', // Ziegelwand: 
    'zig',   // zig:  
    'Zinne', // Zinne:  

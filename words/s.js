@@ -158,25 +158,25 @@ const s = [
 'Schüssel, Kloschüssel',  // duplicate 
 'Schutt',  // Schutt:
 'schütten, aus-, ver-, zu-',           
-   'schütter',  // schütter:  
-   'Schutzbefohlene',  // Schutzbefohlene:  
-   'Schütze, Schützengraben',
-   'schwächeln',  // schwächeln:  
-   'Schwaden', // Schwaden:  
-   'schwafeln', // schwafeln
-   'Schwall',  // Schwall: 
-   'schwanen', // schwanen:
-   'schwanger, schwängern, geschwängert', // duplicated  
-   'Schwanz, S. einziehen/einkneifen',  
-   'schwänzen',  // schwänzen:
-   'Schwarte',  // Schwarte:
-   'Schwebebahn',  // Schwebebahn: 
-   'schweifen, ab-', 
-   'schwelgen', // schwelgen: 
-   'Schwenker', // Schwenker: 
-   'Schwerenöter',  // Schwerenöter: 
-   'schwirren', // schwirren: 
-   'Schwitzkasten', // Schwitzkasten: 
+'schütter',  // schütter:  
+'Schutzbefohlene',  // Schutzbefohlene:  
+'Schütze, Schützengraben',
+'schwächeln',  // schwächeln:  
+'Schwaden', // Schwaden:  
+'schwafeln', // schwafeln
+'Schwall',  // Schwall: 
+'schwanen', // schwanen:
+'schwanger, schwängern, geschwängert', // duplicated  
+'Schwanz, S. einziehen/einkneifen',  
+'schwänzen',  // schwänzen:
+'Schwarte',  // Schwarte:
+'Schwebebahn',  // Schwebebahn: 
+'schweifen, ab-', 
+'schwelgen', // schwelgen: 
+'Schwenker', // Schwenker: 
+'Schwerenöter',  // Schwerenöter: 
+'schwirren', // schwirren: 
+'Schwitzkasten', // Schwitzkasten: 
    'schwül, Schwüle',  
    'schwülstig',  // schwülstig: 
    'seicht',  // seicht: 

@@ -97,30 +97,30 @@ const k = [
    'knorke',  // knorke:  
    'knorrig',  // knorrig: 
    'Knuff, knuffen',     
-   'knüllen, zer-',  
-   'Knüller',  // Knüller: 
-   'Knüppel', // Knüppel: 
-   'knurren',  // knurren: 
-   'knutschen',  // knutschen:  
-   'Köder',   // Köder: 
-   'Kolben',  // Kolben:
-   'Kommode', // Kommode:
-   'komplimentieren',  // komplimentieren:
-   'Konterfei',  // Konterfei: 
-   'Kontor',  // Kontor:
-   'Konzept (aus dem K. bringen)', // duplicated  
-   'köpfen',  // köpfen: 
-   'Korb (einen K. bekommen/geben)',  // duplicated 
-   'Korbstuhl',  // Korbstuhl:  
-   'Kordel',  // Kordel: 
-   'Korn (aufs K. nehmen)',  //  duplicated 
-   'Kot, koten, Kotflügel',  
-   'Kotze, kotzen, an-',  
-   'krabbeln',  // krabbeln: 
-   'krachen, Krach',  
-   'Krähe, krähen',    
-   'Krake', // Krake: 
-   'krakelig/kraklig', // 'krakelig/kraklig':   needs the apostrophes 
+'knüllen, zer-',  
+'Knüller',  // Knüller: 
+'Knüppel', // Knüppel: 
+'knurren',  // knurren: 
+'knutschen',  // knutschen:  
+'Köder',   // Köder: 
+'Kolben',  // Kolben:
+'Kommode', // Kommode:
+'komplimentieren',  // komplimentieren:
+'Konterfei',  // Konterfei: 
+'Kontor',  // Kontor:
+'Konzept (aus dem K. bringen)', // duplicated  
+'köpfen',  // köpfen: 
+'Korb (einen K. bekommen/geben)',  // duplicated 
+'Korbstuhl',  // Korbstuhl:  
+'Kordel',  // Kordel: 
+'Korn (aufs K. nehmen)',  //  duplicated 
+'Kot, koten, Kotflügel',  
+'Kotze, kotzen, an-',  
+'krabbeln',  // krabbeln: 
+'krachen, Krach',  
+'Krähe, krähen',    
+'Krake', // Krake: 
+'krakeln, krakelig/kraklig',   
    'Kralle, krallen',  
    'Kram, in den Kram passen', //  duplicated 
    'kramen',  // kramen: 

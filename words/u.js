@@ -1,12 +1,12 @@
 const u = [
-   'über alle Berge', 
-   'über Kreuz sein/liegen', // duplicated 
-   'über den Haufen',  
-   'über den Tisch ziehen',  
-   'über die Bühne gehen', 
-   'über die Klinge springen, Klinge',  // duplicated  
-   'über die Runden kommen',  
-   'über die Stränge schlagen',  // duplicated
+'über alle Berge', 
+'über Kreuz sein/liegen', // duplicated 
+'über den Haufen',  
+'über den Tisch ziehen',  
+'über die Bühne gehen', 
+'über die Klinge springen, Klinge',  // duplicated  
+'über die Runden kommen',  
+'über die Stränge schlagen',  // duplicated
 //   'überquellen, quellen',  // duplicated 
    'überrumpeln, Überrumpelung',   
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
@@ -21,11 +21,12 @@ const u = [
    'Umtrunk',  // Umtrunk:
    'umzingeln' ,  // umzingeln: 
    'unbehelligt, behelligen', //  duplicated 
+   'unbeholfen',  // unbeholfen: 
    'unbescholten', // unbescholten: 
    'unbotmäßig',  // unbotmäßig:
    'unentwegt',  // unentwegt: 
    'unflätig',  // unflätig: 
-   'ungehalten',  // ungehalten: 
+   'ungehalten',  // ungehalten:
    'ungehobelt',  // ungehobelt: 
    'ungelegen',  // ungelegen: 
    'ungelenk',  // ungelenk:

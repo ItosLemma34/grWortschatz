@@ -23,7 +23,7 @@ const r = [
    'Räuberzivil', // Räuberzivil:
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
-   'raunen',  // raunen:
+'raunen',  // raunen:
    'raunzen, an-',
    'Raureif', // Raureif: 
    'Rechen',  // Rechen: 

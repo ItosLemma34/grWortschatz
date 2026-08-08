@@ -89,10 +89,10 @@ const v = [
    'verschlampen',  // verschlampen:  
    'verschleißen', // verschleißen:  check for other entries
    'verschlingen',  // verschlingen:
-   'verschmieren', // verschmieren: 
-   'verschmitzt',  // verschmitzt:
-   'verschnörkelt, verschnörkeln', //  check for other entries
-   'verschnupft',  // verschnupft:  
+'verschmieren', // verschmieren: 
+'verschmitzt',  // verschmitzt:
+'verschnörkelt, verschnörkeln', //  check for other entries
+'verschnupft',  // verschnupft:  
    'verschnüren',  // verschnüren:  
    'verschollen', // verschollen:  
    'verschorft, verschorfen', // 

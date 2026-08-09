@@ -15378,12 +15378,20 @@ Häkchen: [
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath machte ein <b>Häkchen</b> hinter <i>Leister, Wilhelm</i>, legte die Unterlagen auf den Beifahrersitz und startete seinen Wagen. Schluss für heute. (<i>Märzgefallene</i>, 236)',
 ],
-'haken, Haken, H. schlagen': [
+'haken, nachhaken, Haken, H. schlagen': [
     '<b>haken</b>: to hook, hang, clasp'+
+    '<br><b>nachhaken</b>: dig deeper, ask further questions'+
     '<br>der <b>Haken</b>,-: hook, clasp, clamp; <i>fig</i>: catch (<i>Der Plan hat einen Haken</i>.)'+
-    '<br><b>Haken schlagen</b>: turn on a dime, zigzag; throw a punch'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/haken"target="target1">haken</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haken"target="target2">Haken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Haken%20schlagen"target="target3">Haken schlagen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=haken"target="target4">haken</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/haken"target="target5">Haken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/haken?q=Haken+schlagen"target="target6">Haken schlagen</a>',
+    '<br><b>Haken schlagen</b>: turn on a dime, zigzag; throw a punch (a hook)'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/haken"target="target1">haken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nachhaken"target="target2">nachhaken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haken"target="target3">Haken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einen%20Haken%20schlagen"target="target4">Haken schlagen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=spxXVlmha5k"target="target5"><i>extra</i>: Haken schlagen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=haken"target="target6">haken</a>'+
+        '&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/nachhaken"target="target7">nachhaken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/haken"target="target8">Haken</a>'+
+        '&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Haken+schlagen"target="target9">Haken schlagen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Von den Tschakos an den Garderoben<b>haken</b> tropfte Regenwasser auf den Linoleumboden....  (<i>Der nasse Fisch</i>, 14)',
@@ -15417,57 +15425,37 @@ Häkchen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Öl<b>schinken</b> war verdammt schwer. Rath hatte Mühe, das sperrige Bild wieder an seinen Platz zurückzuhängen, nachdem er es einmal vom <b>Haken</b> genommen hatte und dahinter keine Tresortür hatte entdecken können. (<i>Marlow</i>, 272)',
 ],
-'Hacke, hacken, Hacken ablaufen': [ // xxx
-    'die <b>Hacke</b>,-<b>n</b>: hoe, pickaxe; heel'+
+'Hacke, hacken; Hacken ablaufen, zusammenschlagen': [ 
+    'die <b>Hacke</b>,-<b>n</b>: heel; hoe, hatchet, axe'+
     '<br><b>hacken</b>: hack, chop, hoe'+
     '<br><b>sich die Haken ablaufen</b>: run oneself ragged'+
+    '<br><b>Hacken zusammenschlagen/knallen</b>: click one\'s heels'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Geraet"target="target1">Hacke</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20die%20Hacken%20ablaufen?o=sich+die+Haken+ablaufen"target="target3">sich die Haken ablaufen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target4">Hacke</a>'+
-    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target5">hacken</a>'+
-    '&nbsp;&nbsp;<a href="https://www.dict.cc/?s=sich+die+Haken+ablaufen"target="target6">sich die Haken ablaufen</a>',
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hacken"target="target2">hacken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20die%20Hacken%20ablaufen?o=sich+die+Haken+ablaufen"target="target3">sich die Haken ablaufen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/die%20Hacken%20zusammenschlagen"target="target4">Hacken zusammenschlagen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Hacke"target="target5">Hacke</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hacken&id=verb%3Ahacken"target="target6">hacken</a>'+
+        '&nbsp;&nbsp;<a href="https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/die+Hacken+ablaufen"target="target7">sich die Haken ablaufen</a>'+
+        '&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/die+Hacken+zusammenschlagen"target="target8">Hacken zusammenschlagen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Du wolltest mich sprechen?", fragte Weinert. "Hast du endlich was für mich?" Rath zündete sich eine Zigarette an bevor er antwortete.. "Nicht das, was du denkst." "Natürlich. Eine Krähe <b>hackt</b> der anderen kein Auge aus." (<i>Der nasse Fisch</i>, 538)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Rath ging zum Schrank und holte die Kaffeemühle heraus. Die Küchentür stand immer noch offen, er konnte die Garderobe draußen im Flur sehen und stutzte. Nein, er irrte sich nicht: Da hing tatsächlich eine SA-Uniform am Kleider<b>haken</b>. (<i>Märzgefallene</i>, 117)',
-    'Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner knallten dann die <b>Hacken</b> zusammen. (<i>Märzgefallene</i>, 232)',
+    'Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner <b>knallten</b> dann <b>die Hacken zusammen</b>. (<i>Märzgefallene</i>, 232)',
     'Nun hatte er (<i>Rath</i>) Adenauers Werk - oder eigentlich das von Hunderten arbeitslosen Männern, die hier mit <b>Hacke</b> und Schaufel angerückt waren - mit einem halben Jahr Verspätung doch noch eingeweiht. (<i>Märzgefallene</i>, 297)',
-    'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann schlug er einfach militärisch die <b>Hacken</b> zusammen und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    '"Kooperation", sagte Rath. "Wie die aussieht, das weiß ich aus den Zeiten, als die Staatspolizei noch Politische Polizei hieß: Wir machen die Drecksarbeit, <b>laufen uns die Hacken ab</b>, liefern euch brav zu. Und ihr schmückt euch am Ende mit den Lorbeeren." (<i>Lunapark</i>, 25)',
-    'Und dass Gräf nun ein Staatspolizist war, schien von Vorteil, wenn es galt, widerspenstige Zeugen ein wenig einzuschüchtern. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken</b> zusammenschlug. (<i>Lunapark</i>, 33)',
-    'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, knallte die <b>Hacken</b> zusammen und verließ das Büro. (<i>Lunapark</i>, 307)',
-    '<span class="bookTitle"><u>Marlow</u></span>',
-    '"Schließen Sie doch bitte die Tür, Wegener, und lassen uns allein"", sagte Sowa. Der Adjutant, oder was der Mensch, der Rath hergeführt hatte, sonst sein mochte, salutierte, schlug die <b>Hacken</b> zusammen und gehorchte. (<i>Marlow</i>, 121)',
-    'Rath wollte es gerade sagen, aber da klopfte es an der Tür und Scharführer Wegener kam herein und schlug die <b>Hacken</b> zusammen... Wegener schlug die <b>Hacken</b> ein zweites Mal zusammen und verschwand. (<i>Marlow</i>, 124-25)',
-    'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitz<b>hacke</b>, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
-],
-Hacke: [  // xxx
-    'die <b>Hacke</b>,-<b>n</b>: heel, hoe, hatchet, axe'+
-    '<br><b>Hacken zusammenschlagen/knallen</b>: click one\'s heels'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hacke_Ferse"target="target1">Hacke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/die%20Hacken%20zusammenschlagen"target="target2">Hacken zusammenschlagen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hacke&id=substantiv%3AHacke"target="target3">Hacke</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Hacken+zusammenschlagen"target="target4">Hacken zusammenschlagen</a>',
-    // Der nasse Fisch
-//    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-//    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-//    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-//    '   (<i>Der stumme Tod</i>, 000)',	
-    // Goldstein
-//    '<span class="bookTitle"><u>Goldstein</u></span>',
-//    '   (<i>Goldstein</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '<i>Rath</i>: "Dann erteile ich Ihnen hiermit, die strikte Order, den Mann in ein Krankenhaus zu bringen.... Ich mache Sie persönlich dafür verantwortlich, dass der Gefangene Juretzka in spätestens drei Tagen... hier erscheint". Der Scharführer stand stramm. "Zu Befehl, Herr Kommissar." Rath war immer wieder erstaunt, wie sehr die Preußen spurten, wenn man nur erst den Kasernenhofton anschlug. Selbst die renitenten Berliner <b>knallten</b> dann <b>die Hacken zusammen</b>. (<i>Märzgefallene</i>, 232)',
     'Der Nazigruß, den der Polizeipräsident so unerwartet darbrachte, erwischte Rath auf dem falschen Fuß. Im ersten Augenblick wusste er nicht, wie er reagieren sollte, dann <b>schlug</b> er einfach militärisch die <b>Hacken zusammen</b> und entfernte sich nach einer kurzen, knackigen Verbeugung. (<i>Märzgefallene</i>, 359)',
     // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    'Gräf</i>: "Sie (<i>Bestmann, der Wirt</i>) müssen lediglich unsere Fragen beantworten.".. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken zusammenschlug</b>. (<i>Lunapark</i>, 33)',
-    'Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, <b>knallte die Hacken zusammen</b> und verließ das Büro. (<i>Lunapark</i>, 307)',
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    '"Kooperation", sagte Rath. "Wie die aussieht, das weiß ich aus den Zeiten, als die Staatspolizei noch Politische Polizei hieß: Wir machen die Drecksarbeit, <b>laufen uns die Hacken ab</b>, liefern euch brav zu. Und ihr schmückt euch am Ende mit den Lorbeeren." (<i>Lunapark</i>, 25)',
+    'Und dass Gräf nun ein Staatspolizist war, schien von Vorteil, wenn es galt, widerspenstige Zeugen ein wenig einzuschüchtern. Es war deutlich zu sehen, wie Bestmann das Herz in die Hose rutschte, obwohl Gräf mit durchaus freundlicher Stimme gesprochen hatte. "Natürlich, jawohl", sagte der Wirt. Fehlte nur noch, dass er salutierte und die <b>Hacken zusammenschlug</b>. (<i>Lunapark</i>, 33)',
+    'Der Chef der Geheimen Staatspolizei saß hinter seinem Schreibtisch und unterschrieb ein paar Blätter, die ihm ein ebenfalls uniformierter Sekretär.. in einer schwarzledernen Unterschriftenmappe hingelegt hatte. Als alles unterschrieben war, klappte der Mann die Mappe zusammen, klemmte sie unter den linken Arm, ließ den rechten emporschnellen, <b>knallte die Hacken zusammen</b> und verließ das Büro. (<i>Lunapark</i>, 307)',
     // Marlow
-//    '<span class="bookTitle"><u>Marlow</u></span>',  
-//    '    (<i>Marlow</i>, 000)',
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    '"Schließen Sie doch bitte die Tür, Wegener, und lassen uns allein"", sagte Sowa. Der Adjutant, oder was der Mensch, der Rath hergeführt hatte, sonst sein mochte, salutierte, <b>schlug die Hacken zusammen</b> und gehorchte. (<i>Marlow</i>, 121)',
+    'Rath wollte es gerade sagen, aber da klopfte es an der Tür und Scharführer Wegener kam herein und <b>schlug</b> die <b>Hacken zusammen</b>... Wegener schlug die <b>Hacken</b> ein zweites Mal zusammen und verschwand. (<i>Marlow</i>, 124-25)',
+    'Du stehst auf und gehst hinaus in die Nacht. Der Geräteschuppen ist immer noch da, wo er schon vor sechzehn Jahren gestanden hat. Du nimmst einen Spaten und eine Spitz<b>hacke</b>, gehst hinüber zu der alten Ulme, in deren Schatten drei Generationen der Familie Larsen beerdigt sind, und fängst an zu graben. (<i>Marlow</i>, 167)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Rath überlegte noch, ob man den Jungen hier Trinkgeld gab wie einem gewöhnlichen Hotelboy, da riss der auch schon den rechten Arm hoch, <b>schlug die Hacken zusammen</b> und verabschiedete sich mit einem strammen "Heil Hitler". (<i>Olympia</i>, 52)',

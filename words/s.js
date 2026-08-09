@@ -177,122 +177,122 @@ const s = [
 'Schwerenöter',  // Schwerenöter: 
 'schwirren', // schwirren: 
 'Schwitzkasten', // Schwitzkasten: 
-   'schwül, Schwüle',  
-   'schwülstig',  // schwülstig: 
-   'seicht',  // seicht: 
-   'Seidel', // Seidel:
-   'Seil',  // Seil: 
-   'Seilschaft',  // Seilschaft:
-   'sesshaft',  // sesshaft: 
-   'sezieren',  // sezieren:
-   'Sichtblende', // Sichtblende:  
-   'sickern', // sickern: 
-   'Sieb, sieben, aus-, durch-',
-   'Siegel, siegeln, ver-', 
-   'Sims',  //  Sims: 
-   'Sippenhaft', // Sippenhaft: 
-   'skandieren', // skandieren:  
-   'Socken, auf die S. machen',  // duplicated
-   'Sog, saugen, ein-',  // duplicated
-   'Sore',  // Sore: 
-   'soufflieren',  // soufflieren: 
-   'Spalier',  // Spalier:  
-   'Span, Späne', // 
-   'Spange',  //  Spange:
-   'Spanner', // Spanner:  
-   'Spaten',  // Spaten:  
-   'speckig', // speckig: 
-   'Speichel',  // Speichel:  
-   'speiübel', // speiübel: 
-   'spendabel, spendable',
-   'sperrangelweit',  // sperrangelweit:  
-   'Sperrhaken',  // Sperrhaken:  
-   'sperrig',  // sperrig:       
-   'spicken',  // spicken:  
-   'Spieß, spießen, auf-',  
-   'spießig, Spießigkeit, Spießer',
-   'Spind',  // Spind:
-   'Splint',  // Splint:
-   'spinnert',  // spinnert:
-   'spitzfindig',  // spitzfindig:
-   'spitzkriegen',  // spitzkriegen:  
-   'Sprechmuschel',  // Sprechmuschel: 
-   'spreizen', // spreizen: 
-   'Sprenkel', // Sprenkel: 
-   'Spreu vom Weizen trennen',  // 
-   'Sprung (auf dem S.)',  //  duplicated  
-   'Sprosse',  // Sprosse:  
-   'Sprünge (auf die S. helfen)',  // duplicated
-   'Spule, spulen, ab-',  
-   'spülen, Spüler; Spül -bürste, -e, -stein, -ung',
-   'Spund, Jungspund', // duplicated  
-   'spuren',  // spuren: 
-   'sputen', // sputen: 
-   'Stadtstreicher', // Stadtstreicher:  
-   'Staffage', // Staffage: 
-   'staksen',  // staksen: 
-   'stammeln', // stammeln:
-   'stämmig',  // stämmig:
-   'Ständchen',  // Ständchen:
-   'Standpauke',  // Standpauke: 
-   'Stange',  // Stange:  
-   'Stapel, stapeln, stapelweise',  
-   'stapfen, Fußstapfe',   // duplicated 
-   'starren, an-, vor Schmutz/Dreck starren', // duplicated 
-   'Statist', // Statist:  
-   'Stativ',  // Stativ:  
-   'statuieren', // statuieren:  
-   'Staub, stauben, ab-, aus dem S. machen', //  duplicated 
-   'stauchen', // stauchen:  
-   'Steckbrief', // Steckbrief:  
-   'Stecknadel im Heuhaufen',  
-   'Steg, Lauf-', 
-   'stempeln, s. gehen, Stempel, -kissen', 
-   'stibitzen', // stibitzen: 
-   'Stich, einen S. versetzen', // duplicated  
-   'Stiefel, stiefeln, entlang-, hinüber-, los-, zu-',
-   'stieren, an-',  
-   'stöbern, auf-',  // duplicated as aufstöbern:
-   'stochern',  // stochern:  
-   'stöckeln, Stöckelschuh',  
-   'stöhnen, auf-',  
-   'stopfen, Stopfen',  
-   'Stöpsel',   // Stöpsel: 
-   'stolzieren', // stolzieren: 
-   'strampeln, ab-',   
-   'Strang, Schienen-, Kabel-',  
-   'Stränge (über die S. schlagen)',  // duplicated 
-   'Strauch, Gesträuch',  // duplicated 
-   'Strebe', // Strebe: 
-   'strecken',  //strecken:
-   'Streich, einen Streich spielen', // duplicated
-   'Strich (auf den S. gehen)', //  duplicated 
-   'Strich (gegen den S. gehen)', // duplicated
-   'Strick (einen S. drehen)', // duplicated 
-   'Strickjacke', // Strickjacke: 
-   'Striemen',  // Striemen: 
-   'Strippe',  // Strippe:  
-   'stromern',  // stromern: 
-   'strotzen',  // strotzen:
-   'strubbelig', // strubbelig: 
-   'Strudel',  // Strudel: 
-   'strunzdämlich',   // strunzdämlich:  
-   'Stuck', // Stuck: 
-   'Stücke (große S. auf jmdn. halten)',
-   'Stulle',  // Stulle: 
-   'stülpen', // stülpen:  
-   'Stummel',  // Stummel: 
-   'Stümper, stümperhaft', // 
-   'stumpf, abstumpfen',  // duplicated
-   'Sturzbach',  // Sturzbach:
-   'stutzen, stutzig', 
-   'Suff',  // Suff:
-   'süffisant',  // süffisant: 
-   'summen, auf-', 
-   'Sumpf',  // Sumpf:    
-   'Sündenbock', // Sündenbock: 
-   'Sündenpfuhl', // Sündenpfuhl: 
-   'surren',   // surren:  
-   ];
+'schwül, Schwüle',  
+'schwülstig',  // schwülstig: 
+'seicht',  // seicht: 
+'Seidel', // Seidel:
+'Seil',  // Seil: 
+'Seilschaft',  // Seilschaft:
+'sesshaft',  // sesshaft: 
+'sezieren',  // sezieren:
+'Sichtblende', // Sichtblende:  
+'sickern', // sickern: 
+'Sieb, sieben, aus-, durch-',
+'Siegel, siegeln, ver-', 
+'Sims',  //  Sims: 
+'Sippenhaft', // Sippenhaft: 
+'skandieren', // skandieren:  
+'Socken, auf die S. machen',  // duplicated
+'Sog, saugen, ein-',  // duplicated
+'Sore',  // Sore: 
+'soufflieren',  // soufflieren: 
+'Spalier',  // Spalier:  
+'Span, Späne', // 
+'Spange',  //  Spange:
+'Spanner', // Spanner:  
+'Spaten',  // Spaten:  
+'speckig', // speckig: 
+'Speichel',  // Speichel:  
+'speiübel', // speiübel: 
+'spendabel, spendable',
+'sperrangelweit',  // sperrangelweit:  
+'Sperrhaken',  // Sperrhaken:  
+'sperrig',  // sperrig:       
+'spicken',  // spicken:  
+'Spieß, spießen, auf-',  
+'spießig, Spießigkeit, Spießer',
+'Spind',  // Spind:
+'Splint',  // Splint:
+'spinnert',  // spinnert:
+'spitzfindig',  // spitzfindig:
+'spitzkriegen',  // spitzkriegen:  
+'Sprechmuschel',  // Sprechmuschel: 
+'spreizen', // spreizen: 
+'Sprenkel', // Sprenkel: 
+'Spreu vom Weizen trennen',  // 
+'Sprung (auf dem S.)',  //  duplicated  
+'Sprosse',  // Sprosse:  
+'Sprünge (auf die S. helfen)',  // duplicated
+'Spule, spulen, ab-',  
+'spülen, Spüler; Spül -bürste, -e, -stein, -ung',
+'Spund, Jungspund', // duplicated  
+'spuren',  // spuren: 
+'sputen', // sputen: 
+'Stadtstreicher', // Stadtstreicher:  
+'Staffage', // Staffage: 
+'staksen',  // staksen: 
+'stammeln', // stammeln:
+'stämmig',  // stämmig:
+'Ständchen',  // Ständchen:
+'Standpauke',  // Standpauke: 
+'Stange',  // Stange:  
+'Stapel, stapeln, stapelweise',  
+'stapfen, Fußstapfe',   // duplicated 
+'starren, an-, vor Schmutz/Dreck starren', // duplicated 
+'Statist', // Statist:  
+'Stativ',  // Stativ:  
+'statuieren', // statuieren:  
+'Staub, stauben, ab-, aus dem S. machen', //  duplicated 
+'stauchen', // stauchen:  
+'Steckbrief', // Steckbrief:  
+'Stecknadel im Heuhaufen',  
+'Steg, Lauf-', 
+'stempeln, s. gehen, Stempel, -kissen', 
+'stibitzen', // stibitzen: 
+'Stich, einen S. versetzen', // duplicated  
+'Stiefel, stiefeln, entlang-, hinüber-, los-, zu-',
+'stieren, an-',  
+'stöbern, auf-',  // duplicated as aufstöbern:
+'stochern',  // stochern:  
+'stöckeln, Stöckelschuh',  
+'stöhnen, auf-',  
+'stopfen, Stopfen',  
+'Stöpsel',   // Stöpsel: 
+'stolzieren', // stolzieren: 
+'strampeln, ab-',   
+'Strang, Schienen-, Kabel-',  
+'Stränge (über die S. schlagen)',  // duplicated 
+'Strauch, Gesträuch',  // duplicated 
+'Strebe', // Strebe: 
+'strecken',  //strecken:
+'Streich, einen Streich spielen', // duplicated
+'Strich (auf den S. gehen)', //  duplicated 
+'Strich (gegen den S. gehen)', // duplicated
+'Strick (einen S. drehen)', // duplicated 
+'Strickjacke', // Strickjacke: 
+'Striemen',  // Striemen: 
+'Strippe',  // Strippe:  
+'stromern',  // stromern: 
+'strotzen',  // strotzen:
+'strubbelig', // strubbelig: 
+'Strudel',  // Strudel: 
+'strunzdämlich',   // strunzdämlich:  
+'Stuck', // Stuck: 
+'Stücke (große S. auf jmdn. halten)',
+'Stulle',  // Stulle: 
+'stülpen', // stülpen:  
+'Stummel',  // Stummel: 
+'Stümper, stümperhaft', // 
+'stumpf, abstumpfen',  // duplicated
+'Sturzbach',  // Sturzbach:
+'stutzen, stutzig', 
+'Suff',  // Suff:
+'süffisant',  // süffisant: 
+'summen, auf-', 
+'Sumpf',  // Sumpf:    
+'Sündenbock', // Sündenbock: 
+'Sündenpfuhl', // Sündenpfuhl: 
+'surren',   // surren:  
+];
 
 export default s;      

@@ -1,20 +1,17 @@
 const h = [
-   'Habgier',  // Habgier:
-
-//   'Hacke', // Hacke:
-   'Hacke, hacken, Hacken ablaufen',  
-
-   'hadern',  // hadern:  
-   'Häkchen',  // Häkchen: 
-   'haken, Haken, H. schlagen',  
-   'halbgar', // halbgar:  
-   'halbseiden',  // halbseiden: 
-   'Halde (auf H. legen)',
-   'Hall, hallen',  
-   'Halterung',  // Halterung:  
-   'Halunke',  // Halunke: 
-   'hämisch',  // hämisch: 
-   'hämmern',
+'Habgier',  // Habgier:
+'Hacke, hacken; Hacken ablaufen, zusammenschlagen',
+'hadern',  // hadern:  
+'Häkchen',  // Häkchen: 
+'haken, nachhaken, Haken, H. schlagen',  
+'halbgar', // halbgar:  
+'halbseiden',  // halbseiden: 
+'Halde (auf H. legen)',
+'Hall, hallen',  
+'Halterung',  // Halterung:  
+'Halunke',  // Halunke: 
+'hämisch',  // hämisch: 
+'hämmern',
    'Handfessel, Handschelle',  
    'Handlanger', // Handlanger:  
    'Handwerk legen',   

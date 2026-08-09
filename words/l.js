@@ -4,35 +4,36 @@ const l = [
     'Lackaffe',  // Lackaffe:  
     'lädieren',  // lädieren: 
     'laff',  // laff: 
-    //   'Lahmarsch, lahmarschig, Lahmarschigkeit',
-    'lahmarschig, Lahmarschigkeit',  
-    'Laken', // Laken: 
-    'lallen',  // lallen:
-    'Lamelle',  // Lamelle:
-    'Land gewinnen',
-    'lange Nase zeigen/machen', //  duplicated 
-    'Lappen, durch die L. gehen',   // duplicated
-    'läppisch', // läppisch:  
-    'lässig',  // lässig:  
-    'lasten',  // lasten: 
-    'Laster',  // Laster:  
-    'Lastkahn', // Lastkahn:   pair with Kahn:, if found
-    'latschen',  // latschen:
-    'lau',   // lau:
-    'Laub, Laube, Lauben -gang, -kolonie, -pieper', 
-    'lauern, auf-',    
-    'Lauf',    // Lauf: 
-    'Laufgitter; Gitter, Gitterrost',
-    'Laufbursche',  // Laufbursche: 
-    'lausig',  // lausig: 
-    'läutern, Läuterung',  
-    'Leibesvisitation', // Leibesvisitation: 
-    'Leier',  // Leier: 
-    'leiern', // leiern:   
-    'leimen, Leim, auf den L. gehen',  // duplicated  
-    'Leinen',  // Leinen:   
-    'Leiste',  // Leiste: 
-    'Lenz' ,  // Lenz: 
+//   'Lahmarsch, lahmarschig, Lahmarschigkeit',
+'lahmarschig, Lahmarschigkeit',  
+'Laken', // Laken: 
+'lallen',  // lallen:
+'Lamelle',  // Lamelle:
+'Land gewinnen',
+'lange Nase zeigen/machen', //  duplicated 
+'Lappen, durch die L. gehen',   // duplicated
+'läppisch', // läppisch:  
+'lässig',  // lässig:  
+'lasten',  // lasten: 
+'Laster',  // Laster:  
+'Lastkahn', // Lastkahn:   pair with Kahn:, if found
+'latschen',  // latschen:
+'lau',   // lau:
+'Laub, Laube, Lauben -gang, -kolonie, -pieper', 
+'lauern, auf-',    
+'Lauf',    // Lauf: 
+'Laufgitter; Gitter, Gitterrost',
+'Laufbursche',  // Laufbursche:
+'Laus über die Leber laufen',
+'lausig',  // lausig: 
+'läutern, Läuterung',  
+'Leibesvisitation', // Leibesvisitation: 
+'Leier',  // Leier: 
+'leiern', // leiern:   
+'leimen, Leim, auf den L. gehen',  // duplicated  
+'Leinen',  // Leinen:   
+'Leiste',  // Leiste: 
+'Lenz' ,  // Lenz: 
     'Licht unter den Scheffel',  // duplicated
     'lichterloh brennen',   
     'Litfaßsäule',  // Litfaßsäule: 

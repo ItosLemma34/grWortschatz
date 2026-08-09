@@ -95,7 +95,7 @@ const s = [
 'Schmiere stehen',  
 'Schmiererei, schmieren, schmierig',  
 'Schmierfink', // Schmierfink: 
-'Schminke', // Schminke:  
+'Schminke, schminken, ab-',
 'schmissig', // schmissig: 
 'schmollen',  // schmollen:
 'Schmonzette', // Schmonzette: 

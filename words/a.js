@@ -42,13 +42,13 @@ const a = [
 	'Albernheit, albern, herum-',
 	'alle naselang',  
 	'Allerwerteste',   // Allerwerteste:  
-	'alteingesessen',  // alteingesessen: 
-	'am Wickel haben',  // duplicated
-	'an den Pranger',  
-	'an der Backe haben',  
-	'an die große Glocke hängen',   
-	'anbändeln',    // anbändeln: 
-	'anberaumen',  // anberaumen: 
+'alteingesessen',  // alteingesessen: 
+'am Wickel haben',  // duplicated
+'an den Pranger',  
+'an der Backe haben',  
+'an die große Glocke hängen',   
+'anbändeln',    // anbändeln: 
+'anberaumen',  // anberaumen: 
 	'anbiedern, Anbiederung', 
 	'anbinden, kurz angebunden',   // duplicated  
 	'anblaffen',    // anblaffen:    

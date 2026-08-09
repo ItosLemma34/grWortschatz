@@ -3,11 +3,11 @@ export const wordExamples = {
       // next: abwälzen:   complete: Staub,.... 
 //maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
 //Der stumme Tod 'aufkratzen, aufgekratzt' 279 448 
-    // Gehüpfe 375  Der stumme Tod
+    // Der stumme Tod Schminke   270  287 314 329 339  394  396 431 460   462 482  479   535
     // pg 486  Verweis Der stumme Tod
     // Der stumme Tod  gewälzt  438  geschwungen
  //unbeholfen   '   (<i>Der stumme Tod</i>, 000)', pgs 333, 370 426	
-
+//Der stumme Tod</i>, 326 Tross or Troß
 //Olympia  kniff 178 373
 // Olympia unbeholfen 331 461 487 525
 // Der stumme Tod 'drucksen, herum-'  297
@@ -68,7 +68,7 @@ zzz: [
     '    (<i>Olympia</i>, 000)',
 ],
 */
-abschminken: [  
+abschminken: [  //  schminkt ab, schminkte ab, hat abgeschminkt
     '<b>abschminken</b>: remove one\'s makeup'+
     '<br><b>sich abschminken</b>: <i>Das kannst du dir abschminken</i>! You can forget about that!'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abschminken"target="target1">abschminken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abschminken"target="target2">abschminken</a>'+
@@ -96,30 +96,51 @@ abschminken: [
     '<i>Franke</i>: ".. Hat das LKA Sie (<i>Rath</i>) denn nicht ausreichend instruiert? Oder haben die Sie nur hierhergeschickt, weil sie denken, in der Kriminalwace Elstal könne man eine ruhige Kugel schieben? Wenn das ist, Oberkommissar Rath - das können Sie <b>sich</b> schon mal <b>abschminken</b>." (<i>Olympia</i>, 56)',
 ],
 'Laus über die Leber laufen': [  
-    '<b>zzz</b>: '+
-    '<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Goldstein
-    '<span class="bookTitle"><u>Goldstein</u></span>',
-    '   (<i>Goldstein</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    '<b>Laus über die Leber laufen</b>: '+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20ist%20eine%20Laus%20%C3%BCber%20die%20Leber%20gelaufen"target="target1">Laus über die Leber laufen</a>&nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/7694-rtkl-redewendung-laus-ueber-die-leber-gelaufen"target="target2">Laus über die Leber laufen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://m.dict.cc/deutsch-englisch/Welche+Laus+ist+dir+denn+%C3%BCber+die+Leber+gelaufen.html"target="target3">Laus über die Leber laufen</a>&nbsp;&nbsp;<a href="https://en.wiktionary.org/wiki/jemandem_ist_eine_Laus_%C3%BCber_die_Leber_gelaufen"target="target4">Laus über die Leber laufen</a>',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Auch der Mann hinter dem Schreibtisch, auf dessen zackiges "Herein" Rath nach höflichem Anklopfen den Raum betreten hatte, empfing ihn mit dem für Beamte vorgeschriebenen Deutschen Gruß. So barsch hatte Rath die Nazi-Grußformel, die sich ohnehin nicht gerade durch Liebenswürdigkeit auszeichnete, noch nie vernommen; Oberkommissar Franke schien eine <b>Laus über die Leber gelaufen</b> zu sein. (<i>Olympia</i>, 52-53)',
+],
+'Tross/Troß': [  
+    '<b>Tross/Troß</b>: '+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Tross"target="target1">Tross</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Tross"target="target2">Tross</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/tross"target="target3">Tross</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/tross"target="target4">Tross</a>',
+    // Der stumme Tod
+//    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+//    '   (<i>Der stumme Tod</i>, 326)',	
+    // Goldstein
+//    '<span class="bookTitle"><u>Goldstein</u></span>',
+//    '   (<i>Goldstein</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    'Rath führte seinen Nachbarn mit dem Bärbelchen zusammen, murmelte eine Entschuldigung und schloss sich dem Tross des <b>Dreigestirns</b> an. Es ging eine Treppe hinunter, und schon standen sie draußen auf dem Alter Markt.  Während das <b>Dreigestirn</b> mit großem Hallo empfangen wurde, konnte Rath sich unauffällig unters Volk mischen. (<i>Märzgefallene</i>, 50)',
+    'Alle schauten ängstlich auf Leo und den Tross, der ihn begleitete. Ein gutes Dutzend SA-Männer stand ebenfalls da, mit verschränkten Armen und neugierigen, skeptischen Blicken. "Hallo, Katsche", sagte Leo. "Du sollst also das Tänzchen mit mir wagen? Haben wir Damenwahl?" <i>Katsche</i>: "Sehr witzig. Soll ich <b>ihm</b> (<i>Leo</i>) gleich <b>eine reinsemmeln</b>, Chef?" (<i>Märzgefallene</i>, 223)',
+    'Und dann <b>brauste</b> einige Zeit später das Automobil des Hauptmanns heran und holte unseren abziehenden Troß ein. (<i>Märzgefallene</i>, 272)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    'Der neue Stapo-Chef kam aus München und hieß Reinhard Heydrich, tanzte nach der Pfeife von SS-Chef Heinrich Himmler und hatte gleich einen ganzen <b>Tross</b> Mitarbeiter aus der Nazi-Stadt mit nach Berlin gebracht. (<i>Lunapark</i>, 24)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Pütz</i>: "Nun, was für einen Grund sollte die Kripo sonst haben, mit uns zu sprechen, als den, dass in unserem Speisesaal jemand gestorben ist." <i>Rath</i>: "Nicht jemand. Ein Mitglied des amerikanischen Olympia<b>trosses</b>. Das macht die Sache so delikat, deswegen wünsche ich auch, Sie unter vier Augen zu sprechen. Dieser Vorfall darf selbstverständlich nicht an die große Glocke gehängt werden." (<i>Olympia</i>, 60)',
+],
+übersäen: [  
+    '<b>übersäen</b>: be littered/dotted/bestrewn with'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/uebersaeen"target="target1">übersäen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCbers%C3%A4en"target="target2">übersäen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%BCbers%C3%A4en&id=verb%3Au3bersa3en"target="target3">übersäen</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/%C3%BCbers%C3%A4en"target="target4">übersäen</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '"Übel, übel!" Böhm pfiff durch die Zähne. "Und das hier?" Der ganze Körper des Toten war mit blauschwarzen Flecken <b>übersät</b>. (<i>Der nasse Fisch</i>, 83)',
+    // Goldstein
+//    '<span class="bookTitle"><u>Goldstein</u></span>',
+//    '   (<i>Goldstein</i>, 000)',	
+    // Lunapark 
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    'Der SS-Mann, der neben dem Bettgestell stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan, der ganze Körper, obwohl an Händen und Fußknöcheln fixiert, krampfte sich zusammen, die rostigen Bettfedern quietschten. Der nackte Rücken des Mordverdächtigen war von blutigen Striemen <b>übersät</b>, die Krusten, die sich auf den Spuren der gestrigen Verhöre gebildet hatten, waren abgeplatzt. (Lunapark</i>, 333)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Wenig später saß Rath in einem kleinen Büro vor einem ebenso kleinen Schreibtisch, hinter dem der Verpflegungsoffizier Platz genommen hatte. Umso größer was das Schwarze Brett an der Wand, das <b>übersät</b> war mit Notizzetteln, Preislisten, Briefen und ähnlichem. (<i>Olympia</i>, 60)',
 ],
 unbeholfen: [  
     '<b>unbeholfen</b>: clumsy, awkward, gauche'+
@@ -4360,10 +4381,15 @@ Rudel: [
     'das <b>Rudel</b>-,: pack; pride of lions'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rudel"target="target1">Rudel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rudel"target="target2">Rudel</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rudel"target="target3">Rudel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rudel&id=substantiv%3ARudel"target="target4">Rudel</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath drehte den Kopf und blickte in ein halbes Dutzend Objektive. Ein ganzes <b>Rudel</b> Reporter musste es irgendwie geschafft haben, an dem Schupo draußen vorbeizukommen. Bevor einer der Beamten eingreifen konnte, flackerte das Blitzlichtgewitter los. (<i>Der stumme Tod</i>, 35)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Levetzow, Nazi Polizeipräsident</i>: "Herr Kommissar, nicht das wir uns missverstehen, ich schätze es durchaus, wenn meine Beamten den Leuten auf die Pelle rücken und nicht lockerlassen wie ein <b>Rudel</b> Rottweiler..!" (<i>Märzgefallene</i>, 357-58)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Fritze spürte, dass er ein bisschen zu zickig reagiert hatte. Er fühlte sich einfach nicht wohl in seiner Haut. Mittlerweile hatten die anderen Jungen ihn umringt wie ein Wolfs<b>rudel</b> seine Beute, ein in die Enge getriebenes Reh. (<i>Olympia</i>, 76)',
 ],
 'Gewinde, Bolzen, Gewindebolzen': [
     'das <b>Gewinde</b>: thread, screw thread; spire; wreath'+
@@ -9597,18 +9623,26 @@ Ausschachtung: [
     'etwas <b>an die große Glocke hängen</b>: broadcast sth. around, shout from rooftops'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/etw.%20an%20die%20gro%C3%9Fe%20Glocke%20h%C3%A4ngen"target="target1">an die große Glocke hängen</a> &nbsp;&nbsp;<a href="https://www.geo.de/geolino/redewendungen/8143-rtkl-redewendung-die-grosse-glocke-haengen"target="target2">an die große Glocke hängen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=an+die+gro%C3%9Fe+Glocke+h%C3%A4ngen"target="target3">an die große Glocke hängen</a> &nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/an-die-grosse-glocke-haengen"target="target4">an die große Glocke hängen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Zörgiebel, Polizeipräsident</i>: "Ich dachte, wir können für heute Morgen eine Pressekonferenz einberufen. Was meinen Sie?".. <i>Rath</i>: "Eine Pressekonferenz?.. Meinen Sie, dass das nötig ist, Herr Polizeipräsident? Wir müssen diesen Fall doch nicht <b>an die große Glocke hängen</b>! Wahrscheinlich handelt es sich nur um das Opfer einer Schießerei unter Ganoven." (<i>Der nasse Fisch</i>, 304)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Lange blieb einen Moment stehen und druckste herum. Dann traute er sich doch. "Er (<i>Brenner</i>) hat angedeutet.. also.. Stimmt es, dass Sie (<i>Rath</i>) ihn.. zusammengeschlagen haben?" Rath zuckte die Achseln. "Sagen wir, ich habe ihm eine kleine Lektion erteil. <b>Hängen</b> Sie das mal nicht <b>an die große Glocke</b>." (<i>Der stumme Tod</i>, 120)',
     '"Herr Kommissar (<i>Rath</i>)", sagte Weiß, "kommen wir gleich zur Sache... Wie würden Sie selbst Ihr Verhältnis zu Kriminalkommissar Frank Brenner bezeichnen?" Daher also wehte der Wind! Brenner hatte ihren kleinen privaten Streit <b>an die ganz große Dienstglocke gehängt</b>. (<i>Der stumme Tod</i>, 205)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Ziehst du wieder ein?".. "Im Gegenteil", sagte er (<i>Gräf</i>), ich ziehe endgültig aus. Du bekommst einen neuen Kollegen." Rath war ehrlich überrascht. "Oh", sagte er, "davon war heute Morgen noch gar nicht die Rede." <i>Gräf</i>: "Gennat wollte das nicht <b>an die große Glocke hängen</b>. Nicht in meinem Beisein." (<i>Märzgefallene</i>, 537)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Rath</i>: "Wenn ich einen Vorschlag machen darf, Kriminaldirektor: Wir sollten die ganze Sache zunächst nicht <b>an die große Glocke hängen</b> und den korrupten FJK-Offizier außen vor lassen. Lassen Sie mich ausreichend Beweise sammeln, die eine Aushebung rechtfertigen. Dann schlagen wir zu, ohne dem Maulwurf im FJK Gelegenheit zu geben, seinen Freund Lapke zu warnen. Der Rest wird sich dann schon finden." (<i>Lunapark</i>, 211)',
     'Marlow fixierte Rath mit seinem durchdringenden Blick. "Was glauben Sie denn, warum ich in einer Gegend war, wo wieder einmal ein bedauernswerter SA-Mann zu Tode geprügelt wurde?.. Die Stapo hat die Daumen draf, nicht wahr? Oder ist es das FJK? Manche Dinge sollen eben nicht <b>an die große Glocke gehängt</b> werden.. Soll niemand erfahren, das in Berlin SA-Männer auf offener Straße erschlagen werden?" (<i>Lunapark</i>, 239)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Was weißt du darüber?", fragte er (<i>Gereon</i>) dann. "Über diese Akten?" <i>Charly</i>: "Dann stimmt es also! Du hast ihm (<i>Böhm</i>) die Akten besorgt! Aus der Burg?".. "Ich hab ihm halt einen Gefallen getan. Muss man ja nicht gleich <b>an die große Glocke hängen</b>." (<i>Marlow</i>, 338)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Pütz</i>: "Nun, was für einen Grund sollte die Kripo sonst haben, mit uns zu sprechen, als den, dass in unserem Speisesaal jemand gestorben ist." <i>Rath</i>: "Nicht jemand. Ein Mitglied des amerikanischen Olympiatrosses. Das macht die Sache so delikat, deswegen wünsche ich auch, Sie unter vier Augen zu sprechen. Dieser Vorfall darf selbstverständlich nicht <b>an die große Glocke gehängt</b> werden." (<i>Olympia</i>, 60)',
 ],
 auswringen: [
     '<b>auswringen</b>: squeeze, wring out'+
@@ -11141,13 +11175,16 @@ aufjaulen: [
     '<br><b>auflauern</b>: lie in wait for so./sth., waylay'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lauern"target="target1">lauern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auflauern"target="target2">auflauern</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lauern"target="target3">lauern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=auflauern"target="target4">auflauern</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Ihr Gesprächspartner hatte es offensichtlich endlich geschafft, auch einmal das Wort zu ergreifen. Mit offenem Mund hörte die Blondine zu, <b>lauerte</b> auf die Gelegenheit, und - schnapp - legte sie wieder los. (<i>Der stumme Tod</i>, 69)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam aufschaukelte, als <b>lauerte</b> da, verborgen in diesem kleinen Körper, eine ungeahnte Kraft, die, viel zu lange zurückgehalten, kurz vor der Explosion stand. (<i>Märzgefallene</i>, 46)',
     'Ihm (<i>Engel</i>) reicht es nicht, dem Feind nur eine Wüste zu hinterlasen, er soll eine menschenfeindliche Mondlandschaft vorfinden, eine heimtückische, in der hinter jedem Stein und in jedem Keller der Tod <b>lauert</b>. Das Verderben des Trinkwassers soll auf einen Befehl von ihm zurückgehen, ebenso die Sprengfallen, die in den Straßen <b>lauern</b>, in unseren aufgegebenen Gräben und Unterständen. (<i>Märzgefallene</i>, 163)',
     '<i>Engel</i>: "Also: Wie wird Ihr Bericht lauten, Leutnant?" <i>von Roddeck</i>: "Zwei Partisanen haben dem im Kampfe noch unerfahrenen Gefreiten Wegener <b>aufgelauert</b>, seine Kameraden konnten die Angreifer jedoch außer Gefecht setzen." (<i>Märzgefallene</i>, 171)',
     'Und dann hatte Roddeck noch nicht einmal geredet wie angekündigt, sondern war einfach von der Bildfläche verschwunden. Geradezu geflüchtet... Als ob er geahnt habe, das da einer in der Meute der Journalisten <b>lauere</b>, der ihn in den vergangenen Wochen schon mit seinen Fragen belästigt hatte. (<i>Märzgefallene</i>, 569)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Deutschland destabilisieren? Mit Parolen?" Rath lachte auf. "Hui, da bekomme ich es aber mit der Angst zu tun. Die komunistische Gefahr <b>lauert</b> wirklich allüberall!" (<i>Lunapark</i>, 57)',
     'Nach dem Gespräch bei Gertraud Brachwitz war er mehr als sicher, dass Hans Dewald nicht von auf frischer Tat ertappten kommunistischen Propagandisten erschlagen worden war, sondern von jemandem, der die Gewohnheiten des SA-Mannes über Tage beobachtet und ihm dann <b>aufgelauert</b> hatte. (<i>Lunapark</i>, 192)',
@@ -11156,12 +11193,17 @@ aufjaulen: [
     '<i>Reinhard Heydrich, Chef der Gestapo</i>: "Unsere Behörde kann es sich nicht erlauben, diese Morde ungesühnt zu lassen, verstehen Sie das?" <i>Gräf</i>: "Jawohl, Standartenführer!" <i>Heydrich</i>: "Überprüfen Sie doch noch einmal diesen Dewald. Warum ist der ausgerechnet in diesem Hauseingang erschlagen worden? Hat man ihm da <b>augelauert</b>?.." (<i>Lunapark</i>, 309)',
     'Er (<i>Rath</i>) überlegte, um die Bahn herumzugehen und dem Gangster an der Rückseite <b>aufzulauern</b>. (<i>Lunapark</i>, 532)',
     '<i>Charly</i>: "Hat Gereon nichts davon erzählt, dass ich wieder arbeite? Eine Kanzlei im Wedding. Schon seit vier Wochen." <i>Gräf</i>: "Natürlich. Hat er. Du und deine... Kollegen - ihr seid in eine SA-Razzia geraten, nicht wahr? Sein Mitgefühl klang seltsam <b>lauernd</b>." (<i>Lunapark</i>, 408)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Rath</i>: "Nun, wir hatten da noch eine Vermisstenanzeige, die sich eindeutig auf den toten Fahrgast bezog, den wir als Gerhard Brunner identifiziert hatten, die aber auf einen völlig anderen Namen lautete.".. Sturmbannführer Sowa tat gelangweilt, doch Rath wusste dass das genau die Dinge waren, auf die er <b>lauerte</b>. Was wusste die lästige Kripo über die SD-Tätigkeit des sauberen Herrn Brunner, das war alles, was ihn interessierte. (<i>Marlow</i>, 122-23)',
     '<i>Unbekannter</i>: "Mein Mann im Präsidium konnte in der Asservatkammer einen Blick in Brunners Aktentasche werfen. Leer... " <i>Göring</i>: "Kein Geheimfach oder so? Irgendwas ins Futter eingenäht?" "Nichts." "Oder haben <i>Sie</i> die Akte etwas einbehalten?" Der Blick des Dicken wurde <b>lauernd</b>. Zuviele Drogen konnten paranoid machen. Und Göring nahm zuviele Drogen. (<i>Marlow</i>, 177-78)',
     'Das war auf eine gewisse Weise das Geheimnis von Kuen-Yaos (<i>Liangs</i>) Blick, vor dem die halbe Stadt zitterte: Jeder sah in diesen Augen das, was er gerade am meisten fürchtete, spürte in diesem Blick genau das, was ihm am unangenehemsten war. Als würden diese Augen die schlimmsten Ängste und Sorgen, die in einem <b>lauerten</b>, verstärken und an die Oberfläche bringen. (<i>Marlow</i>, 409-10)',
     '.. ärgerlicherweise war Kurt Pomme nicht Heydrichs persönlicher Adjutant, sondern ihm nur in der Gestapo als solcher zugeteilt. Von sämtlichen SD-Aktivitäten war er also ausgeschlossen und abgeschnitten. Doch gerade dort <b>lauerte</b> die größte Gefahr. (<i>Marlow</i>, 453)',
     'Du (<i>Marlow</i>) hättest es wissen müssen. Hättest ihn (<i>Liang</i>) niemals hierhergeben dürfen. Aber hast du eine andere Wahl gehabt damals, als du auf der Flucht warst und den Jungen versorgen musstest? Das Internat war das einzige, das dir eingefallen ist, eine Schule in der Schweiz, weit weg von den düsteren Erinnerungen, die dem Jungen in Deutschland <b>auflauern</b>. (<i>Marlow</i>, 481)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Pütz</i>: "Nun, was für einen Grund sollte die Kripo sonst haben, mit uns zu sprechen, als den, dass in unserem Speisesaal jemand gestorben ist." <i>Rath</i>: "Nicht jemand. Ein Mitglied des amerikanischen Olympiatrosses. Das macht die Sache so delikat, deswegen wünsche ich auch, Sie unter vier Augen zu sprechen. Dieser Vorfall darf selbstverständlich nicht an die große Glocke gehängt werden." "Selbstverständlich." "Sie ahnen, dass die Lügenpresse im Ausland nur <b>darauf lauert</b>, der deutschen Olympiaorganisation einen Skandal anzuhängen." (<i>Olympia</i>, 60-61)',
+
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -13006,8 +13048,10 @@ einhaken: [
     '<b>sich einhaken</b>:  link arms with somebody; &nbsp;<b>einhaken</b>: hook, hitch sth.'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einhaken"target="target1">einhaken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einhaken"target="target2">einhaken<a/>'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einhaken"target="target3">einhaken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einhaken&id=verb%3Aeinhaken"target="target4">einhaken<a/>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der Laden war brechend voll. Das Stimmengewirr übertönte fast die Musik. Sogar einen Sänger leistete man sich, der die jüngsten Stimmungsschlager zum besten gab. Ein paar Gäste sangen mit, hatten <b>sich eingehakt</b> und schunkelten an ihren Tischen... (<i>Der stumme Tod</i>, 98-99)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Jetzt schepperte aus dem Lautsprecher wieder der unvermeidliche Willi Ostermann, die Leute hatten <b>sich eingehakt</b> und schunkelten. (<i>Märzgefallene</i>, 50)',
     'Er (<i>Rath</i>) aber stand auf einem Balkon an der Rückseite des Rathauses und schunkelte mit Leuten, die er nicht kannte; links eine grell geschminkte, dralle Dame mit gelben Strohzöpfen,... rechts ein Herr mit Ärmelschonern, der dreinblickte, als würde er sich viel lieber direkt bei dem Bärbelchen an Raths linker Seite <b>einhaken</b>. (<i>Märzgefallene</i>, 50)',
@@ -20493,8 +20537,10 @@ Striemen: [
     'der <b>Striemen</b>,-: welt, stria'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Striemen"target="target1">Striemen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Striemen"target="target2">Striemen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/strieme?q=Striemen"target="target3">Striemen</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/striemen"target="target4">Striemen</a>',
+    //  Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Der Mann nahm das halbe Gesicht ab wie eine Karnevalsmaske, und Rath schaute in das verschwitzte Gesicht von Walther Engel, das zur Hälfte mit roten <b>Striemen</b> bemalt war. (Märzgefallene</i>, 581)',
+    //  Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Der SS-Mann, der neben dem Bettgestell stand, schlug zu. Der Kommunist konnte seinen Schmerzensschrei unterdrücken. Doch es hatte ihm wehgetan, der ganze Körper, obwohl an Händen und Fußknöcheln fixiert, krampfte sich zusammen, die rostigen Bettfedern quietschten. Der nackte Rücken des Mordverdächtigen war von blutigen <b>Striemen</b> übersät... (Lunapark</i>, 333)',
 ],
@@ -21742,13 +21788,33 @@ Schmierfink: [
     '<i>Von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>Von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese <b>Schmierfinken</b> über einen Mann, der für ihresgleichen seine Knochen hingehalten hat!" (<i>Märzgefallene</i>, 132)',
     '"Sie sind sich doch darüber im Klaren, dass die Polizei sich solche Schlagzeilen nicht erlauben kann", hatte Magnus von Levetzow ihn angeschnauzt.... <i>Böhm</i>: "Mit Verlaub, Herr Polizeipräsident, aber ich habe diese Schlagzeilen nicht zu verantworten. Ich weiß nicht, wie diese <b>Schmierfinken</b> an meinen Namen gekommen sind." (<i>Märzgefallene</i>, 139)',
 ],
-Schminke: [
+'Schminke, schminken, ab-': [
     'die <b>Schminke</b>,-<b>n</b>: make-up'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schminke"target="target1">Schminke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schminke"target="target2">Schminke</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schminke?q=Schminke"target="target3">Schminke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schminke"target="target4">Schminke</a>',
+    '<br><b>schminken</b>: put on make-up'+
+    '<br><b>abschminken</b>: remove make-up'+
+    '<br><b>sich</b> (<i>dative</i>) <b>etw. abschminken</b>: get sth. out of one’s head'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schminke"target="target1">Schminke</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schminken"target="target2">schminken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abschminken"target="target3">abschminken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schminke?q=Schminke"target="target4">Schminke</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schminken"target="target5">schminken</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abschminken"target="target6">abschminken</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    'Er (<i>Gereon</i>) sollte nicht denken, sie (<i>Charly</i>) mache sich für ihn zurecht. Dennoch hatte Greta sie dabei ertappt, als sie sich sorgfältig <b>schminkte</b> und vor dem Spiegel prüfte, wie der Rock ihre langen Beine zur Geltung brächte. (<i>Der nasse Fisch</i>, 183)',
+    'Kurz darauf saß sie (<i>Charly</i>) wieder im Auto. Er (<i>Gereon</i>) war sich nicht sicher, aber er hätte fast darauf gewettet, dass sie frisch <b>geschminkt</b> war. Außerdem trug sie einen anderen Mantel. (<i>Der nasse Fisch</i>, 271)',
+    // Der stumme Tod
+//    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    // Der stumme Tod Schminke 270  287 314 329 339  394  396 431 460   462 482  479   535 
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    'Mit stoischem Blick schauten die kostümierten Puppen auf die Menschen, die sich an ihnen vorbeidrängten, sich an Regalen mit Perücken, Masken und <b>Schminke</b> vorbeischoben, vorbei an Kleiderständern mit schrägen Hüten, knappen Röcken und fabrikgefertigten Kostümen. (<i>Märzgefallene</i>, 18)',
     'Das Bündel auf dem Sofa seufzte und drehte sich auf die andere Seite. Eine junge Frau, in deren Gesicht schwarze und weiße <b>Schminke</b> zu einem abstrakten Kunstwerk verschmiert war. (<i>Märzgefallene</i>, 71)',
     '"Was ist das?", fragte Rath, als sie sich setzte. Die verschmierte Karnevals<b>schminke</b> war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)',
+    'Er (<i>Rath</i>) aber stand auf einem Balkon an der Rückseite des Rathauses und schunkelte mit Leuten, die er nicht kannte; links eine grell <b>geschminkte</b>, dralle Dame mit gelben Strohzöpfen,... rechts ein Herr mit Ärmelschonern, der dreinblickte, als würde er sich viel lieber direkt bei dem Bärbelchen an Raths linker Seite einhaken. (<i>Märzgefallene</i>, 50)',
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Franke zu Rath</i>: ".. Zu tun gibt es genug. Hat das LKA Sie denn nicht ausreichend instruiert?" Oder haben die Sie nur hierhergeschickt, weil sie denken, in der Kriminalwache Elstal könne man eine ruhige Kugel schieben? Wenn es das ist, Oberkommissar Rath - das können Sie <b>sich</b> schon mal <b>abschminken</b>. (<i>Olympia</i>, 56)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schmoren: [
@@ -21773,7 +21839,6 @@ schmoren: [
     '<i>Rath</i>: "Das ist also der Dank dafür, dass ich Sie aus der SA-Haft befreit habe." <i>Leo Juretzka</i>: "Das ist der Dank dafür, dass Sie mich eine Woche lang da haben <b>schmoren</b> lassen, bevor Sie sich endlich dazu herabgelassen haben, mir zu helfen. Wissen Sie, was die SA in einer Woche mit einem Menschen anstellen kann?" (<i>Lunapark</i>, 527-28)',
     'Er konnte sich nicht erinnern, irgendwann mal an den lieben Gott geglaubt zu haben. Fritze betete sogar dafür, es möge keinen Gott geben, weil einer wie er dann sowieso in der Hölle <b>schmoren</b> müsste. (<i>Lunapark</i>, 541)',
 ],
-// schmückt, schmückte, hat geschmückt  
 'Schmuck, schmuck, schmücken': [ 
     'der <b>Schmuck</b>,-<b>e</b>: ornament, jewelry, embellishment'+
     '<br><b>schmuck</b>: neat, tidy, smart'+

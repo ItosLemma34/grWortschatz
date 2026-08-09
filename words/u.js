@@ -8,50 +8,51 @@ const u = [
 'über die Runden kommen',  
 'über die Stränge schlagen',  // duplicated
 //   'überquellen, quellen',  // duplicated 
-   'überrumpeln, Überrumpelung',   
+'überrumpeln, Überrumpelung',   
    //'Überwindung kosten'  ;   haven't found Deutsche Definition
-   'übers Ohr hauen',  
-   'überwuchern, wuchern',  // duplicated  
-   'um den heißen Brei herumreden', // duplicated 
-   'umkrempeln', // umkrempeln: 
-   'ummähen' ,  // ummähen: 
-   'umpflügen',  // umpflügen:  
-   'umständlich',  // umständlich: 
-   'Umstandskrämer',  //  Umstandskrämer: 
-   'Umtrunk',  // Umtrunk:
-   'umzingeln' ,  // umzingeln: 
-   'unbehelligt, behelligen', //  duplicated 
-   'unbeholfen',  // unbeholfen: 
-   'unbescholten', // unbescholten: 
-   'unbotmäßig',  // unbotmäßig:
-   'unentwegt',  // unentwegt: 
-   'unflätig',  // unflätig: 
-   'ungehalten',  // ungehalten:
-   'ungehobelt',  // ungehobelt: 
-   'ungelegen',  // ungelegen: 
-   'ungelenk',  // ungelenk:
-   'ungestüm',  // ungestüm: 
-   'ungesühnt', // ungesühnt: 
-   "ungezogen", // ungezogen:   
-   'unten durch sein',  
-   'unter den Pantoffel stellen',  
-   'unter Fittiche nehmen',  
-   'unter Strom stehen',  
-   'unterbuttern',  // unterbuttern: 
-   'unterjubeln',  // unterjubeln: 
-   'Unterschlagung, unterschlagen',  
-   'unterschlüpfen, Unterschlupf',  
-   'untersetzt',  // untersetzt: 
-   'Unterstand',  // Unterstand: 
-   'unterstellen, Unterstellung',
-   'unverblümt',  // unverblümt:       make duplicate if "verblümt" found
-   'unverfänglich', // unverfänglich: 
-   'unverfroren',  // unverfroren:  
-   'unverhohlen',  // unverhohlen:
-   'unverrichteter Dinge',
-   'Unversehrtheit, unversehrt, versehren',  // duplicated
-   'unverwandt', // unverwandt:  
-   'unwirsch',  // unwirsch: 
+'übers Ohr hauen',
+'übersäen', // übersäen:  
+'überwuchern, wuchern',  // duplicated  
+'um den heißen Brei herumreden', // duplicated 
+'umkrempeln', // umkrempeln: 
+'ummähen' ,  // ummähen: 
+'umpflügen',  // umpflügen:  
+'umständlich',  // umständlich: 
+'Umstandskrämer',  //  Umstandskrämer: 
+'Umtrunk',  // Umtrunk:
+'umzingeln' ,  // umzingeln: 
+'unbehelligt, behelligen', //  duplicated 
+'unbeholfen',  // unbeholfen: 
+'unbescholten', // unbescholten: 
+'unbotmäßig',  // unbotmäßig:
+'unentwegt',  // unentwegt: 
+'unflätig',  // unflätig: 
+'ungehalten',  // ungehalten:
+'ungehobelt',  // ungehobelt: 
+'ungelegen',  // ungelegen: 
+'ungelenk',  // ungelenk:
+'ungestüm',  // ungestüm: 
+'ungesühnt', // ungesühnt: 
+'ungezogen', // ungezogen:   
+'unten durch sein',  
+'unter den Pantoffel stellen',  
+'unter Fittiche nehmen',  
+'unter Strom stehen',  
+'unterbuttern',  // unterbuttern: 
+'unterjubeln',  // unterjubeln: 
+'Unterschlagung, unterschlagen',  
+'unterschlüpfen, Unterschlupf',  
+'untersetzt',  // untersetzt: 
+'Unterstand',  // Unterstand: 
+'unterstellen, Unterstellung',
+'unverblümt',  // unverblümt:       make duplicate if "verblümt" found
+'unverfänglich', // unverfänglich: 
+'unverfroren',  // unverfroren:  
+'unverhohlen',  // unverhohlen:
+'unverrichteter Dinge',
+'Unversehrtheit, unversehrt, versehren',  // duplicated
+'unverwandt', // unverwandt:  
+'unwirsch',  // unwirsch: 
 ];
 
 export default u;      

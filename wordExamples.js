@@ -5,7 +5,7 @@ export const wordExamples = {
 //Der stumme Tod 'aufkratzen, aufgekratzt' 279 448 
     // Der stumme Tod Schminke   270  287 314 329 339  394  396 431 460   462 482  479   535
     // pg 486  Verweis Der stumme Tod
-    // Der stumme Tod  gewälzt  438  geschwungen
+    // Der stumme Tod  gewälzt  438  
  //unbeholfen   '   (<i>Der stumme Tod</i>, 000)', pgs 333, 370 426	
 //Der stumme Tod</i>, 326 Tross or Troß
 //Olympia  kniff 178 373
@@ -36,7 +36,7 @@ export const wordExamples = {
 // vorbeigeschrammt Der stumme Tod 526
 //    'Schleier 489, 491  (<i>Der stumme Tod</i>, 000)',
 // 'geizen, geizig'  Der stumme Tod 475	
-//Unrat  geschwungen
+//Unrat  
 //	'Als Rath unter vor der Hoteltür wieder auf der Straß stand, trat er gegen einen der Papierkörbe, die die Linden, Berlins alte Prachtstraße, von Unrat freihalten sollten. Der Korb <b>riss</b> aus seiner Verankerung, sein Inhalt verteilte sich auf dem Pflaster. (<i>Märzgefallene</i>, 482-83)',
 
 //     'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <b>verbeulten</b>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen. (<i>Lunapark</i>, 117)',
@@ -68,32 +68,31 @@ zzz: [
     '    (<i>Olympia</i>, 000)',
 ],
 */
-abschminken: [  //  schminkt ab, schminkte ab, hat abgeschminkt
-    '<b>abschminken</b>: remove one\'s makeup'+
-    '<br><b>sich abschminken</b>: <i>Das kannst du dir abschminken</i>! You can forget about that!'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abschminken"target="target1">abschminken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abschminken"target="target2">abschminken</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abschminken"target="target3">abschminken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abschminken&id=verb%3Aabschminken"target="target4">abschminken</a>',
+geschwungen: [  
+    '<b>geschwungen</b>: curved, sweeping, winding (<i>adj</i>)'+
+    '<br><i>geschwungen</i>: <i>also pp of <b>schwingen</b></i>'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geschwungen_gewoelbt_gebogen"target="target1">geschwungen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/geschwungen"target="target2">geschwungen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschwungen"target="target3">geschwungen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=geschwungen&id=adjektiv%3Ageschwungen%23geschwungen"target="target4">geschwungen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
+    'Unter den Manuskripten lag eine Mappe mit Fotos. Porträts eines jungen Mannes. Über einer großen Nase lagen dunkle Augen tief in ihren Höhlen. Eingefallene Wangen und ein traurig verzogener Mund, elegant <b>geschwungene</b> Lippen. (<i>Der nasse Fisch</i>, 92)',
     // Goldstein
-    '<span class="bookTitle"><u>Goldstein</u></span>',
-    '   (<i>Goldstein</i>, 000)',	
+//    '<span class="bookTitle"><u>Goldstein</u></span>',
+//    '   (<i>Goldstein</i>, 000)',	
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    'Kurt Daluege, ein geschniegelter Grünschnabel mit hoher Stirn und arrogant <b>geschwungenen</b> Lippen, kaum älter als dreißig, saß hinter einem Schreibtisch... (<i>Märzgefallene</i>, 141)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-    // Olympia  // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö  Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+    'Genauer war die Beschreibung der Mordwaffe, Isolde Jäger hatte sogar eine Zeichnung angefertigt. Ein seltsamer Gegenstand, eine eigentümlich <b>geschwungene</b> Keule, die ein wenig an eine langgezogene und von allen Schnökeln befreite Pfeffermühle erinnerte.. Bei Wilhelm Leister hatte er nichts dergleichen gefunden, auch bei keinem der Fahrzeughalter, in deren Wohnungen er sich zuvor umgeschaut hatte.. Schon gar keine schlanke hölzerne Keule im Kofferraum oder neben dem Nachttisch. (<i>Lunapark</i>, 236)',
+    'Er (<i>Rath</i>) stand zwischen zwei Gebäuden, rechts die große Halle des Wellenbades, links die Rückseite der Halenseeterrassen, die zum See hin ausgerichtet waren. Eine <b>geschwungene</b> Brücke führte in sechs, sieben Metern Höhe vom Terrassengebäude zum Wellenbad hinüber... (<i>Lunapark</i>, 370-71)',
+    'Der Stammführer trat mit der Waffe auf ihn (<i>Fritze</i>) zu un reichte ihm das kalte Metall. <i>WALTHER</i> stand in einem <b>geschwungenen</b> Schriftzug auf dem Lauf. Fritze kannte solche Pistolen. Gereon hatte auch so eine. (<i>Lunapark</i>, 459)',
+    // Olympia  
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    '<i>Franke</i>: ".. Hat das LKA Sie (<i>Rath</i>) denn nicht ausreichend instruiert? Oder haben die Sie nur hierhergeschickt, weil sie denken, in der Kriminalwace Elstal könne man eine ruhige Kugel schieben? Wenn das ist, Oberkommissar Rath - das können Sie <b>sich</b> schon mal <b>abschminken</b>." (<i>Olympia</i>, 56)',
+    'Rath.. gelangte in eine langgestreckte, <b>geschwungene</b> Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holzgetäfelten offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)',
+    'Die gastronomische Versorgung der Athleten im Olympischen Dorf lag in der Hand des Norddeutschen Lloyd, und in gewisser Weise erinnerte das konvex <b>geschwungene</b> Gebäude mit seiner blendend weißen Fassade und den umlaufenden Terrassen auch eher an einen Passagierdampfer als an ein Haus. (<i>Olympia</i>, 57)',
+    'Rath stand draußen auf einer Art Laubengang. Im Innenhof hatte das zentrale Speisehaus ebensolche umlaufenden Balkone wie an seiner Front, nur dass sie hier konvex gebogen waren. Sozusagen die nichtöffentliche Kehrseite von Haus Berlin. Er blickte in einen grünen Hof, den der ebenso <b>geschwungene</b>, aber eine Etage niedrigere Wirtschaftsflügel abschloss. Der gesamte Grundriss hatte die Form eines Auges. (<i>Olympia</i>, 59)',
+    // 169, 320
 ],
 'Laus über die Leber laufen': [  
     '<b>Laus über die Leber laufen</b>: '+
@@ -9140,6 +9139,7 @@ Keule: [
     'die <b>Keule</b>,-<b>n</b>: cudgel, club'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Keule"target="target1">Keule</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Keule"target="target2">Keule</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/keule?q=Keule"target="target3">Keule</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/keule"target="target4">Keule</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Kronbergs Leute haben ebenfalls Splitter gefunden", sagte Rath. "An der Bordsteinkante. Könnte also wirklich von der Tatwaffe stammen. Auf was für einen Gegenstand tippen Sie?" Karthaus überlegte. "Eine Art <b>Keule</b>, würde ich sagen. Fein geschliffen, kein grobes Holz..." (<i>Lunapark</i>, 109)',
     '<i>Rath</i>: "Sie haben was gesehen? Den Mord?" <i>Isolde Jäger</i>: "An Mord habe ich ja gar nicht gedacht. Ich hab nur gesehen, wie ein Mann auf einen anderen eingeprügelt hat. Mit einer <b>Keule</b>. Und dann verschwunden ist.".. <i>Rath</i>: "Er hat eine <b>Keule</b> benutzt, sagen Sie?.. Ein Schlagstock?" "Nein, Größer. Mit einem dickeren und einem dünneren Ende eben. Sah irgendwie elegant aus..." (<i>Lunapark</i>, 171-72)',
@@ -14229,8 +14229,8 @@ Gage: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nichts hier hatte sich verändert, alles war wie eh und je: dreckig und dreieckig. Als sei die winzige Gaststätte zwischen den drei holz<b>vertäfelten</b> Wänden aus Zeit und Raum gefallen und hätte nichts, aber auch gar nichts mit dem zu tun, was vor ihrer Tür geschah. (<i>Olympia</i>, 27)',
-    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)'+
-    '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
+    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)',
+ //   '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holz<b>vertäfelten</b> Wand, und Rath betrat die Küche, folgte dem Spüler quer durch den Raum... (<i>Olympia</i>, 59)',
 ],
 'Vertäfelung, täfeln, getäfelt': [
@@ -14257,8 +14257,8 @@ Gage: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nichts hier hatte sich verändert, alles war wie eh und je: dreckig und dreieckig. Als sei die winzige Gaststätte zwischen den drei holz<b>vertäfelten</b> Wänden aus Zeit und Raum gefallen und hätte nichts, aber auch gar nichts mit dem zu tun, was vor ihrer Tür geschah. (<i>Olympia</i>, 27)',
-    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)'+
-    '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
+    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)',
+ //   '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holz<b>vertäfelten</b> Wand, und Rath betrat die Küche, folgte dem Spüler quer durch den Raum... (<i>Olympia</i>, 59)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -14904,6 +14904,7 @@ geschniegelt: [
     '<br><b>geschniegelt</b>: smart, spruce, dapper &nbsp;'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geschniegelt"target="target1">geschniegelt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/geschniegelt"target="target2">geschniegelt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschniegelt"target="target3">geschniegelt</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschniegelt"target="target4">geschniegelt</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Kurt Daluege, ein <b>geschniegelter</b> Grünschnabel mit hoher Stirn und arrogant geschwungenen Lippen, kaum älter als dreißig, saß hinter einem Schreibtisch.... (<i>Märzgefallene</i>, 141)',
     '<span class="bookTitle"><u>Lunapark</u></span>',
@@ -15070,6 +15071,7 @@ Grünschnabel: [
     'der <b>Grünschnabel</b>,-<b>schnäbel</b>: rookie, greenhorn'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gruenschnabel"target="target1">Grünschnabel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gr%C3%BCnschnabel"target="target2">Grünschnabel</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/grunschnabel"target="target3">Grünschnabel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gr%C3%BCnschnabel"target="target4">Grünschnabel</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Kurt Daluege, ein geschniegelter <b>Grünschnabel</b> mit hoher Stirn und arrogant geschwungenen Lippen, kaum älter als dreißig, saß hinter einem Schreibtisch... (<i>Märzgefallene</i>, 141)',
 ],
@@ -17745,14 +17747,19 @@ Lauf: [
     'der <b>Lauf</b>, die <b>Läufe</b>: barrel (of a gun) &nbsp;(<i>many other meanings</i>)'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lauf"target="target1">Lauf</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lauf"target="target2">Lauf</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/lauf"target="target3">Lauf<a/>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Lauf"target="target4">Lauf<a/>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Wolter</i>: "Mit dieser Kugel hast du auf meinen Partner geschossen... Vielleicht ist diese Kugel aber auch niemals abgefeuert worden." Wolter wartete, bis der Mann die Worte verarbeitet hatte. Dann nahm er die Pistole, fasste sie am <b>Lauf</b> und ließ sie mit spitzen Fingern pendeln. (<i>Der nasse Fisch</i>, 28)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Grimberg zeigte auf die Parabellum (<i>Luger</i>) in der Hand des Leutnants. "Willst du mich erschießen?" Roddeck lächelte nervös und ließ den <b>Lauf</b> der Pistole sinken. "Entschuldige, ich dachte... Man weiß ja nicht, wer hier unten so herumläuft." (<i>Märzgefallene</i>, 571)',
     'Er (<i>Grimberg</i>) sah Achim von Roddeck die Pistole heben und schaute genau in den dunklen <b>Lauf</b> wie in einen tiefen, endlosen Tunnel, der ihn verschlucken wollte. Er sah es noch einmal blitzen, dann wurde es schwarz. (<i>Märzgefallene</i>, 573)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath stieg aus und suchte.. in der Westentasche nach seiner Marke, was einer der Wachleute wohl missverstand. "Stehen bleiben! Hände hoch!", brüllte der Mann, und Rath blickte, als er aufschaute, in den <b>Lauf</b> eines Karabiners. (<i>Lunapark</i>, 90)',
     '"Keine Bewegung", sagte eine heisere Stimme. Rath wagte nicht, sich zu rühren. "Hände hoch." Er nahm die Hände hoch. "Waffe fallen lassen." Rath klickte den Sicherungshebel zurück und gehorchte. Die Walther landete mit einem Poltern auf dem Parkett. "Umdrehen." Rath drehte sich um. Er blickte in den <b>Lauf</b> einer Schrotflinte... (<i>Lunapark</i>, 123)',
+    'Der Stammführer trat mit der Waffe auf ihn (<i>Fritze</i>) zu un reichte ihm das kalte Metall. <i>WALTHER</i> stand in einem geschwungenen Schriftzug auf dem <b>Lauf</b>. Fritze kannte solche Pistolen. Gereon hatte auch so eine. (<i>Lunapark</i>, 459)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Hände hoch!".. Rath gehorchte und drehte sich um. Da stand Hans Draxler im Nachthemd und mit Schlafmütze, als sei er einer Bildergeschichte von Wilhelm Busch entsprungen, und legte mit einer doppel<b>läufigen</b> Schrotflinte auf ihn an. (<i>Marlow</i>, 287)',
 ],
@@ -18510,13 +18517,16 @@ Mühle: [
     'die <b>Mühle</b>,-<b>n</b>: mill, grinder'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Muehle"target="target1">Mühle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/M%C3%BChle"target="target2">Mühle</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/muhle?q=M%C3%BChle"target="target3">Mühle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=M%C3%BChle"target="target4">Mühle</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Weinert ging zur Küchenzeile hinüber, setze Wasser auf und machte sich an der Kaffee<b>mühle</b> zu schaffen. (<i>Der nasse Fisch</i>, 444)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Rath ging zum Schrank und holte die Kaffee<b>mühle</b> heraus. (<i>Märzgefallene</i>, 117)',
     'Rath begann die Kurbel zu drehen. Während die Bohnen in der Kaffee<b>mühle</b> krachten, dachte er über die bizarre Situation nach. (<i>Märzgefallene</i>, 118)',
     'Während er (<i>Rath</i>) an der Kaffee<b>mühle</b> kurbelte, fiel sein Blick auf den Tisch, und er bemerkte, dass bereits für zwei Personen eingedeckt war. (<i>Märzgefallene</i>, 119)',
     'Er (<i>Rath</i>) setzte Wasser auf und gab Kaffeebohnen in die <b>Mühle</b> an der Wand. (<i>Märzgefallene</i>, 497-98)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Genauer war die Beschreibung der Mordwaffe, Isolde Jäger hatte sogar eine Zeichnung angefertigt. Ein seltsamer Gegenstand, eine eigentümlich geschwungene Keule, die ein wenig an eine langgezogene und von allen Schnökeln befreite Pfeffer<b>mühle</b> erinnerte. (<i>Lunapark</i>, 236)',
 ],
@@ -21945,10 +21955,12 @@ schnippisch: [
     '<br>der <b>Schnörkel</b>,-: twirl, squiggle, curlicue'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnoerkelig"target="target1">schnörkelig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schn%C3%B6rkel"target="target2">Schnörkel</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnorkelig"target="target3">schnörkelig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schn%C3%B6rkel"target="target4">Schnörkel</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Die Möbel verrieten den Geschmack von Manfred Oppenberg, schlicht, modern, elegant - und teuer. Edle Hölzer, viel Leder, viel Chrom, keine <b>Schnörkel</b>. (<i>Der stumme Tod</i>, 87)',
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Neben seinem Duzfreund Konrad, der direkt am <b>schnörkelig</b> geschmiedeten Balkongeländer auf die Menschenmenge blickte, stand allerdings auch Engelbert Rath nicht, dieser Platz war dem Dreigestirn vorbehalten, das den eigentlich als Karnevalsmuffel bekannten Oberbürgermeister eingerahmt hatte. (<i>Märzgefallene</i>, 49)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Genauer war die Beschreibung der Mordwaffe, Isolde Jäger hatte sogar eine Zeichnung angefertigt. Ein seltsamer Gegenstand, eine eigentümlich geschwungene Keule, die ein wenig an eine langgezogene und von allen <b>Schnökeln</b> befreite Pfeffermühle erinnerte. (<i>Lunapark</i>, 236)',
 ],

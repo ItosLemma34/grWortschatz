@@ -1,11 +1,11 @@
 const g = [
-    'Gage',  // Gage:
-    'Galgen', // Galgen:  
-    'Ganove', // Ganove:  
-    'Gänsehaut', // Gänsehaut: 
-    'Gassi gehen',  // 
-    'Gauner', // Gauner: 
-    'Geäst, Ast',  //  duplicated  
+'Gage',  // Gage:
+'Galgen', // Galgen:  
+'Ganove', // Ganove:  
+'Gänsehaut', // Gänsehaut: 
+'Gassi gehen',  // 
+'Gauner', // Gauner: 
+'Geäst, Ast',  //  duplicated  
     'Gebälk, Balken', //  duplicated  
     'Gebell', // Gebell:   duplicate with "bellen" if found
     'Gebrüll, brüllen, an-, los-',  //  duplicated 
@@ -67,8 +67,9 @@ const g = [
     'Geschwafel',    // Geschwafel: 
     'geschwängert, schwanger, schwängern', // duplicated
     'Geschwulst',  // Geschwulst:
-    'Geseier',  // Geseier:
-    'Gesinde',  // Gesinde:   
+'geschwungen', // geschwungen:
+'Geseier',  // Geseier:
+'Gesinde',  // Gesinde:   
     'Gesindel',    // Gesindel:  
     'gesittet',    // gesittet:  
     'gestanden',  // gestanden: 

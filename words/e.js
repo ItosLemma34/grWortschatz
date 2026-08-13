@@ -46,17 +46,17 @@ const e = [
    'einstecken',  // einstecken: 
    'einstielen', // einstielen:  
    'Eintänzer',   // Eintänzer: 
-   'Eintopf',  // Eintopf:
-   'eintrichtern',  // eintrichtern:    
-   'eintrudeln',  // eintrudeln:  
-   'eintüten',    // eintüten: 
-   'einverleiben', // einverleiben: 
-   'einweisen',  // einweisen:
-   'eitern',  // eitern:
-   'ekeln, an-, hinaus-; Ekel, eklig, ekelhaft',  
-   'Empore',     // Empore:  
-   'Engerling',  // Engerling: 
-   'entbieten',  // entbieten:  
+'Eintopf',  // Eintopf:
+'eintrichtern',  // eintrichtern:    
+'eintrudeln',  // eintrudeln:  
+'eintüten',    // eintüten: 
+'einverleiben', // einverleiben: 
+'einweisen',  // einweisen:
+'eitern',  // eitern:
+'ekeln, an-, hinaus-; Ekel, eklig, ekelhaft',  
+'Empore',     // Empore:  
+'Engerling',  // Engerling: 
+'entbieten',  // entbieten:  
    'entblößen', // entblößen:
    'entgegenfiebern',  // entgegenfiebern: 
    'entgeistert',  // entgeistert:  

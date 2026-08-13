@@ -1,88 +1,88 @@
 const f = [
-   'fächern, auf-',  
-   'fackeln',  // fackeln:  
-   'fadenscheinig',  // fadenscheinig: 
-   'Fahne (von der F. gehen)',  //  duplicated 
-   'Fahnenabzug',  // Fahnenabzug: 
-   'Fähre, Anleger',  // duplicated
-   'Fährte',  // Fährte:
-   'Faible' ,  // Faible: 
-   'Fall der Fälle, des Falles',    
-   'Fallbeil', // Fallbeil:  
-   'Fasan',  // Fasan:  
-   'faseln',  // faseln:  
-   'Fass, Fass aufmachen',    
-   'Fatzke', // Fatzke: 
-   'fauchen, an-', 
-   'Faustpfand',  // Faustpfand:
-   'fechten, aus-, Gefecht',  // duplicated 
-   'Feder',  //  Feder: 
-   'fegen, auf-',    
-   'feilbieten',  // feilbieten:  
-   'feilschen, Gefeilsche',  // duplicated  
-   'fesch',  // fesch: 
-   'festfressen',  // festfressen: 
-   'festzurren, zurren', //  duplicated  
-   'Fettnäpfchen (ins F. treten)',  //  duplicated 
-   'Fetzen, fetzen, zer-',
-   'Fichte',  // Fichte: 
-   'filzen',  // filzen:  
-   'Findling',   // Findling: 
-   'fingieren',  // fingieren: 
-   'Firlefanz',  // Firlefanz: 
-   'Fischzug',   // Fischzug:  
-   'fixieren',   // fixieren:
-   'Flachmann',  // Flachmann:  
-   'Flachpfeife', // Flachpfeife: 
-   'flackern',  // flackern:  
-   'flanieren',  // flanieren: 
-   'Flappe (eine F. ziehen)', // duplicated 
-   'flapsig, Flapsigkeit',   // 
-   'Flaschenzug', // Flaschenzug: 
-   'flattern', // flattern: 
-   'flau' ,  // flau: 
-   'Flaum',  // Flaum:  
-   'fläzen',  // fläzen:  
-   'fleddern',  // fleddern:             
-   'flehen, an-, flehentlich', 
-   'flennen', // flennen:  
-   'flicken',  // flicken:  
-   'Fliese, fliesen',    
-   'flink',  // flink:
-   'flirren',  // flirren:  
-   'Flittchen',  // Flittchen: 
-   'flitzen', // flitzen: 
-   'Floskel', // Floskel: 
-   'flöten', // flöten:  
-   'flott',  // flott: 
-   'Fluse',  // Fluse: 
-   'Flüstertüte',  // Flüstertüte:  
-   'fluten, Flut, Fluter', 
-   'flutschen',  // flutschen:  
-   'Folie',  // Folie: 
-   'formvollendet', // formvollendet:  
-   'forsch',  // forsch: 
-   'Fraktur', // Fraktur:
-   'Fraß',  // Fraß:   
-   'Fratze',  // Fratze: 
-   'Freiersfüße', // Freiersfüße: 
-   'frequentieren',  // frequentieren:
-   'Fresse',  // Fresse:  
-   'Frevel',    // Frevel:  
-   'frisieren',  // frisieren:
-   'fristen',  // fristen: 
-   'Fritze',  // Fritze:  
-   'frönen',  // frönen
-   'frösteln', // frösteln:  
-   'Frotzelei, frotzeln',    
-   'fuchteln, Fuchtel',   
-   'fuhrwerken', // fuhrwerken:    
-   'fummeln',    // fummeln:  
-   'funzelig',   // funzelig:   
-   'Furz',     // Furz: 
-   'Fusel', // Fusel:    
-   'Fußstapfe, stapfen',  // duplicated 
-   'Futter',  // Futter: 
+'fächern, auf-',  
+'fackeln',  // fackeln:  
+'fadenscheinig',  // fadenscheinig: 
+'Fahne (von der F. gehen)',  //  duplicated 
+'Fahnenabzug',  // Fahnenabzug: 
+'Fähre, Anleger',  // duplicated
+'Fährte',  // Fährte:
+'Faible' ,  // Faible: 
+'Fall der Fälle, des Falles',    
+'Fallbeil', // Fallbeil:  
+'Fasan',  // Fasan:  
+'faseln',  // faseln:  
+'Fass, Fass aufmachen',    
+'Fatzke', // Fatzke: 
+'fauchen, an-', 
+'Faustpfand',  // Faustpfand:
+'fechten, aus-, Gefecht',  // duplicated 
+'Feder',  //  Feder: 
+'fegen, auf-',    
+'feilbieten',  // feilbieten:  
+'feilschen, Gefeilsche',  // duplicated  
+'fesch',  // fesch: 
+'festfressen',  // festfressen: 
+'festzurren, zurren', //  duplicated  
+'Fettnäpfchen (ins F. treten)',  //  duplicated 
+'Fetzen, fetzen, zer-',
+'Fichte',  // Fichte: 
+'filzen',  // filzen:  
+'Findling',   // Findling: 
+'fingieren',  // fingieren: 
+'Firlefanz',  // Firlefanz: 
+'Fischzug',   // Fischzug:  
+'fixieren',   // fixieren:
+'Flachmann',  // Flachmann:  
+'Flachpfeife', // Flachpfeife: 
+'flackern',  // flackern:  
+'flanieren',  // flanieren: 
+'Flappe (eine F. ziehen)', // duplicated 
+'flapsig, Flapsigkeit',   // 
+'Flaschenzug', // Flaschenzug: 
+'flattern', // flattern: 
+'flau' ,  // flau: 
+'Flaum',  // Flaum:  
+'fläzen',  // fläzen:  
+'fleddern',  // fleddern:             
+'flehen, an-, flehentlich', 
+'flennen', // flennen:  
+'flicken',  // flicken:  
+'Fliese, fliesen',    
+'flink',  // flink:
+'flirren',  // flirren:  
+'Flittchen',  // Flittchen: 
+'flitzen', // flitzen: 
+'Floskel', // Floskel: 
+'flöten', // flöten:  
+'flott',  // flott: 
+'Fluse',  // Fluse: 
+'Flüstertüte',  // Flüstertüte:  
+'fluten, Flut, Fluter', 
+'flutschen',  // flutschen:  
+'Folie',  // Folie: 
+'formvollendet', // formvollendet:  
+'forsch',  // forsch: 
+'Fraktur', // Fraktur:
+'Fraß',  // Fraß:   
+'Fratze',  // Fratze: 
+'Freiersfüße', // Freiersfüße: 
+'frequentieren',  // frequentieren:
+'Fresse',  // Fresse:  
+'Frevel',    // Frevel:  
+'frisieren',  // frisieren:
+'fristen',  // fristen: 
+'Fritze',  // Fritze:  
+'frönen',  // frönen
+'frösteln', // frösteln:  
+'Frotzelei, frotzeln',    
+'fuchteln, Fuchtel',   
+'fuhrwerken', // fuhrwerken:    
+'fummeln',    // fummeln:  
+'funzelig',   // funzelig:   
+'Furz',     // Furz: 
+'Fusel', // Fusel:    
+'Fußstapfe, stapfen',  // duplicated 
+'Futter',  // Futter: 
  ];
 
 export default f;

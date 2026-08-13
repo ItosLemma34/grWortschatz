@@ -74,7 +74,7 @@ const a = [
 	'Anrichte',     // Anrichte: 
 	'ans Bein binden',  //  duplicated 
 	'anschmiegsam', // anschmiegsam: 
-	'anschnauzen',  // anschnauzen: 
+'anschnauzen',  // anschnauzen: 
 	'anschwärzen',  // anschwärzen:  
 	'ansengen',     // ansengen:  
 	'Ansinnen' ,    // Ansinnen:  
@@ -126,17 +126,17 @@ const a = [
 	'auf die Sprünge helfen',   // duplicated
 	'auf die Tube drücken/treten',   //  duplicated 
 	'auf etwas aus sein',   
-	'auf Granit beißen',  
-	'auf Halde legen',
-	'auf links drehen',
-	'auf Pump kaufen, pumpen',  // duplicated 
-	'auf Trab bringen/halten',   
-	'auf Zack sein',     
-	'aufbahren',   // aufbahren:
-	'aufbäumen',  // aufbäumen:  ä sorted as ae 
-	'aufbrummen', // aufbrummen: 
-	'aufdonnern',  // aufdonnern: 
-	'auffliegen',  // auffliegen:  
+'auf Granit beißen',  
+'auf Halde legen',
+'auf links drehen',
+'auf Pump kaufen, pumpen',  // duplicated 
+'auf Trab bringen/halten',   
+'auf Zack sein',     
+'aufbahren',   // aufbahren:
+'aufbäumen',  // aufbäumen:  ä sorted as ae 
+'aufbrummen', // aufbrummen: 
+'aufdonnern',  // aufdonnern: 
+'auffliegen',  // auffliegen:  
 	'aufgabeln',   // aufgabeln:
 	'Aufgebot',  // Aufgebot:  
 	'aufgedunsen', // aufgedunsen:  

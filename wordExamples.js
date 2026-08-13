@@ -1,6 +1,7 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
       // next: abwälzen:   complete: Staub,.... 
+//    ' unverfroren 72 139  350 (<i>Goldstein</i>, 000)',	
 //maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
 //Der stumme Tod 'aufkratzen, aufgekratzt' 279 448 
     // Der stumme Tod Schminke   270  287 314 329 339  394  396 431 460   462 482  479   535
@@ -68,6 +69,23 @@ zzz: [
     '    (<i>Olympia</i>, 000)',
 ],
 */
+unverfroren: [  
+    '<b>unverfroren</b>: unabashed, brazen, impertinent, fresh, insolent'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/unverfroren"target="target1">unverfroren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unverfroren"target="target2">unverfroren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/unverfroren"target="target3">unverfroren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=unverfroren&id=adjektiv%3Aunverfroren%23unverfroren"target="target4">unverfroren</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '<i>Zörgiebel</i>: "Ich gebe Ihnen noch eine einzige Chance, lieber Herr Rath, und ich rate Ihnen, die auch zu nutzen: Schaffen Sie mir endlich den Schuldigen herbei, der diese grausamen Verbrechen zu verantworten hat und die Polizei so <b>unverfroren</b> an der Nase herumführt. Damit wir diesen Unmenschen endlich aus dem Verkehr ziehen können..."   (<i>Der nasse Fisch</i>, 417)',
+    // Goldstein
+//    '<span class="bookTitle"><u>Goldstein</u></span>',
+//    ' unverfroren 72 139  350 (<i>Goldstein</i>, 000)',	
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    'Ob Rath also wieder mal auf eigene Rechnung arbeitete? Wenn überhaupt ein Mensch so <b>unverfroren</b> war, gegen die Geheime Staatspolizei zu arbeiten, dann Gereon Rath. (<i>Lunapark</i>, 142)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '<i>Charly</i>: "Es ist besser, Sie machen solche Behördendinge nicht allein." <i>Liang</i>: "Das möchte ich auch nicht. Ich möchte dass <i>Sie</i> das für mich tun." Charly war perplex. Verdammt <b>unverfroren</b> der Kerl. Andererseits stand sie wirklich bei ihm in der Schuld. Ohne ihn würden zwei Menschen, an denen ihr viel lag, nicht mehr leben. (<i>Marlow</i>, 210)',
+],
 geschwungen: [  
     '<b>geschwungen</b>: curved, sweeping, winding (<i>adj</i>)'+
     '<br><i>geschwungen</i>: <i>also pp of <b>schwingen</b></i>'+
@@ -6696,9 +6714,11 @@ verscherbeln: [
     '<b>verscherbeln</b>: sell (cheaply), flog'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verscherbeln"target="target1">verscherbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verscherbeln"target="target2">verscherbeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verscherbeln&id=verb%3Averscherbeln"target="target3">verscherbeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/verscherbeln"target="target4">verscherbeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er gab vor, seine Arbeit zu machen, während seine Gedanken um ganz andere Dinge kreisten. Rath merkte dass er geradezu nach Erklärungen suchte, die Bruno entlasten konnten. Hatte der Onkel die Lignose (<i>eine Pistole</i>) vielleicht an Krajewski (<i>der Pornokaiser</i>) zurückgegeben? Oder sie einfach <b>verscherbelt</b>? Aber warum sollte er? (<i>Der nasse Fisch</i>, 378)',
     '<i>Zörgiebel, zu Rath</i>: "Was glauben Sie eigentlich, was los ist, wenn diese Geschichte an die Öffentlichkeit dringt? Schon wegen der Maiunruhen gibt es einen Untersuchungsausschuss. Gegen die Polizei, nicht gegen die Roten! Was meinen Sie, was erst passiert, wenn herauskommt, dass einige von unseren Leuten Polizeiwaffen an die Nazis <b>verscherbeln</b>?" (<i>Der nasse Fisch</i>, 505-06)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Lanke</i>: "Ich glaube nicht, dass Lapkes Denken sich großartig geändert hat. Wenn er ein Geschäft machen kann, macht er ein Geschäft. Politik ist dem egal." <i>Rath</i>: "Du meinst, die Piraten <b>verscherbeln</b> auch heute noch Waffen an die Rotfront? Das wäre in der Tat ein Skandal." (<i>Lunapark</i>, 346)',
 ],
@@ -6913,12 +6933,15 @@ abspecken: [
         '&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ekel"target="target12">das Ekel</a>'+
         '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=eklig&id=adjektiv%3Aeklig%23eklig"target="target13">eklig</a>'+
         '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ekelhaft&id=adjektiv%3Aekelhaft%23ekelhaft"target="target14">ekelhaft</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Böhm</i>: "Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!" Rath zog ungerührt eine Overstolz aus der Schachtel. Jetzt einfach lässig bleiben. Das <b>Ekel</b> konnte unmöglich etwas wissen. Böhm nutzte nur jede Gelegenheit, die er fand, um Untergebene anzuschnauzen. (<i>Der nasse Fisch</i>, 180)',
     'In der Inspektion A traf er (<i>Rath</i>) nur einen überaus schlecht gelaunten Wilhelm Böhm, der kein Wort mit ihm sprach und ihn anschaute, als sei er ein <b>ekliges</b> Insekt. (<i>Der nasse Fisch</i>, 368)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Charly stand am Fenster und schaute hinaus. Der Vollmond... machte dem Gaslicht Konkurrenz. Früher wäre sie an solch einem Abend vielleicht noch ausgegangen,... aber irgendwie stand ihr nicht der Sinn danach. Die Stadt da draußen <b>ekelte</b> sie regelrecht <b>an</b>, es kam ihr vor, als habe ein böser Zauberer ihr geliebtes Berlin verhext... (<i>Märzgefallene</i>, 280)',
     'Der Reporter schilderte soeben mit ergriffener Stimme, wie Hitler dem endlich eintreffeden Hindenburg mit tiefer Verbeugung die Hand schüttelte.. Charly konnte sich nicht helfen, ihr wurde bei dem ganzen Pathos, das da aus dem Radio dröhnte, einfach nur schlecht, ja, sie empfand tatsächlich körperlichen <b>Ekel</b>. (<i>Märzgefallene</i>, 372)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Du (<i>Marlow</i>) fragst dich, ob der Alte (<i>sein Vater</i>) immer schon so zynisch und verbittert war oder ob ihn erst der Tod seiner Frau, nur wenige Monate nach eurem Eintreffen in China, zu dem misanthropischen <b>Ekel</b> gemacht hat, das jetzt vor dir sitzt. (<i>Marlow</i>, 11)',
     'Er brummte unwirsch vor sich hin. Wilhelm Böhm hasste es, die Wahrheit zu verbiegen,.. aber gleichwohl hatte der Mann ein Gewissen. Und sie (<i>Charly</i>) hoffte inständig, dass das Gewissen in diesem Fall die Oberhad behielt. Zumal Siegmund Döring Parteimitlied war. Und die Partei es war, die Wilhelm Böhm aus dem Polizeipräsidium und dem Beruf <b>geekelt</b> hatte. (<i>Marlow</i>, 67)',
@@ -6926,6 +6949,9 @@ abspecken: [
     'Sie (i>Charly</i>) hatte gerade die nächste (<i>Zigarette</i>) aus dem Etui genommen, da öffnete die Tür, und ein Mann kam heraus, der ein wenig erschrocken zurückzuckte, als er da jemanden auf der Wartebank sitzen sah. "Doktor Schwartz", rief sie. "Das ist aber eine Überraschung." "In der Tat", sagte der langjährige Gerichtsmediziner, einer der fähigsten, die sie gekannt hatte, bevor die Nazis ihn aus dem Amt <b>geekelt</b> hatten. (<i>Marlow</i>, 135-36)',
     '<i>Böhm</i>: ".. Obwohl die Nazis sie in ihrer viel beschworenen Volksgemeinschaft nicht dulden und am liebsten gar aus dem Land <b>ekeln</b> würden, ist es für Juden gar nicht so einfach, Deutschland zu verlassen." (<i>Marlow</i>, 137)',
     'Und dann begann ihr (<i>Charlys</i>) Leben in die andere Richtung zu laufen, beinahe wie ein Film, den man, bevor er am glücklichen Ende angekommen ist, wieder rückwärts auf die Spule laufen lässt: die unsägliche Nazi-Wieking, die Charly aus der Polizei <b>ekelt</b>... (<i>Marlow</i>, 196)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Oppenberg zuckte die Achseln. "Ich weiß nicht. Und wenn schon. Ich will Hitler diese Genugtuung nicht gönnen, mich aus dem Land <b>geekelt</b> zu haben. Das ist <i>mein</i> Vaterland und nicht das dieses dahergelaufenen Österreichers. Der soll dahin zurückgehen, wo er hergekommen ist. (<i>Olympia</i>, 79)',
 ],
 unverblümt: [  // make duplicate if "verblümt" found
     '<b>verblümt</b>: allusive, oblique'+
@@ -7606,25 +7632,30 @@ vermaledeit: [
     '<br><b>unbehelligt</b>: unmolested, undisturbed'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/behelligen"target="target1">behelligen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unbehelligt"target="target2">unbehelligt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/behelligen"target="target3">behelligen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/unbehelligt"target="target4">unbehelligt</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das war genau der Typus des preußischen Beamten, den man bei der Polizei nicht gebrauchen konnte. <i>der Beamte</i>: "... wohnhaft in der Nürnberger Stra..." <i>Rath</i>: "Nein, das is seine (<i>Kardakows</i>) alte Adresse." "Lieber Herr Kommissar! Warum <b>behelligen</b> Sie mich eigentlich, wenn Sie sowieso schon alles wissen?" (<i>Der nasse Fisch</i>, 140-41)',
     'Inzwischen hatte Rath so viel Aufmerksamkeit erlangt, dass die Meute von Zörgiebel (<i>der Polizeipräsident</i>) abließ. Der nutzte die neu gewonnene Freiheit und arbeitete sich weiter zum Ausgang vor. Dort warteten Schupos, die die Aufgabe übernahmen, den Polizeichef <b>unbehelligt</b> aus dem Saal zu bringen. (<i>Der nasse Fisch</i>, 308)',
     'Tretschkow sagte nichts mehr, aber in seinem Gesicht sah Rath, dass er die schlimmsten Ängste des Musikers ausgesprochen hatte. Er stand auf. Es war Zeit, in die Burg zurückzukehren. "Gut, Herr Tretschkow, ich möchte Sie nicht länger <b>behelligen</b>..." (<i>Der nasse Fisch</i>, 318)',
     'Rath wusste inzwischen: Wolter wäre es nicht anders ergangen als Scheer, hätte er seine Verätzungen überlebt: kaltgestellt, aber nicht bestraft. Etwas anderes hatte der Polizeipräsident nie vorgehabt. Und ein Mann wie Generalmajor Seegers war völlig <b>unbehelligt</b> geblieben. (<i>Der nasse Fisch</i>, 540)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Bellmann zu Rath</i>: "Bevor Sie in meiner Firma herumschnüffeln, sollten Sie sich lieber mal den Laden von Oppenberg anschauen!" Nun hielt Bellmann seine Wut nicht länger im Zaum. "Dieser Jude kann <b>unbehelligt</b> Saboteure und Mörder bei mir einschleusen, während ich mich von Ihnen wie ein Verbrecher behandeln lassen muss!" (<i>Der stumme Tod</i>, 155)',
     '<i>Bellmann zu Rath</i>: ".. Sie stellen mich an den Pranger, mich, den Geschädigten, und die eigentlichen Verbrecher lassen Sie <b>unbehelligt</b>, darum geht es! Auch Sie haben Vorgesetzte, Herr Rath! Ich lasse nicht alles mit mir machen! Sie sollten erkennen, wo Ihre Grenze ist!" (<i>Der stumme Tod</i>, 155)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Ein hagergesichtiges Mädchen in einem groben, viel zu großen Mantel und Gummistiefeln fiel da (<i>im Kaufhaus Jonass</i>) nicht weiter auf. Hannah schlenderte durch die Gänge, vorbei an den Kleiderständern, fuhr die Treppen hinauf und hinunter, ohne <b>behelligt</b> zu werden. (<i>Märzgefallene</i>, 152)',
     'Charly beschleunigte ihren Schritt und sah, wie der braune Mob nach vorne wogte, gegen die Polizeikette und wieder zurück. "Macht den Weg frei!", riefen die Braununiformierten den Blauuniformierten zu. Und dann skandierten sie: "Judenbüttel! Judenbüttel!" Charly fragte sich, wie sie durch diesen aggressiven Mob <b>unbehelligt</b> zur Carmenstraße gelangen sollte... (<i>Märzgefallene</i>, 204)',
     'Was liest du denn da?", fragte er (<i>Gereon</i>). <i>Charly</i>: "Hannah Singer. Eine neue Spur, sie ist in der Stade gesehen worden.".... <i>Gereon</i>: "Ist die Sache jetzt bei der WKP gelandet?" Sie schüttelte den Kopf. "Habe die Akte aus deinem Büro. Die Fahnder hatten sie dir auf den Schribtisch gelegt, und ich dachte, ich bringe sie dir nach Hause.".... Rath ärgerte sich, dass diese Notiz noch auf seiem Schreibtisch gelandet war. Die Fahnder sollten Hannah Singer gefälligst fangen und zurück in die Irrenanstalt bringen. Und nicht ihn damit <b>behelligen</b>. (<i>Märzgefallene</i>, 324)',
     '<i>Marlow</i>: "Die Nordpiraten sind der einzige Ringverein, der von der SA nicht <b>behelligt</b> wird, aber sie brauchen keinen Ringverein, um Geschäfte zu machen, sie brauchen die richtigen Leute. (<i>Märzgefallene</i>, 432-33)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Er (<i>Rath</i>) ging zu den Karteischränken hinüber, fand eine Schublade mit der Beschriftung <i>Me-Ri</i> und öffnete sie. "Na sehen Sie, Herr Bestmann", sagte er. "Da müssen wir Ihren Sturmführer ja gar nicht erst <b>behelligen</b> wegen der Adressen." (<i>Lunapark</i>, 37)',
     '"Das tut mir leid, Frau Spindler." Rath erhob sich und reichte ihr seine Karte. "Ich möchte Sie nicht weiter <b>behelligen</b>. Aber sollte Ihnen noch etwas einfallen, rufen Sie mich doch bitte an." (<i>Lunapark</i>, 140)',
     'Kaum hatte sie (<i>Gennats Sekretärin</i>) die Tür geschlossen, klingelte das Telefon auf Gennats Schreibtisch.. "Ja?" Sein Blick, der gerade noch dem zurückgelasenen Kuchenteller nachgetrauert hatte, wurde plötzlich ernst. "Wo?", fragte er und zückte einen Bleistift. "Wann?" Der Bleistift kratzte über Papier. "Nein. Böhm kann man damit nicht <b>behelligen</b>. Der hat genug um die Ohren. (<i>Lunapark</i>, 279)',
     'Bernhard Lichtenberg (<i>Dompfarrer</i>) wirkte gefasst. Wahrscheinlich hatte Elisabeth Spindler ihm bereits von ihrem Gespräch (<i>mit Rath</i>) vorhin in Sankt Hedwig erzählt. "Und um diesen Berufsverbrecher geht es Ihnen." Rath nickte. "Ich schwöre Ihnen, ich werde Walter Spindler <b>unbehelligt</b> lassen. Wenn er mich nur zu dem Mörder führt." (<i>Lunapark</i>, 402)',
     '<i>Gussie Adenauer</i>: "Entschuldigen Sie, dass ich Sie mit so etwas <b>behellige</b>, Herr Rath, Sie haben bestimmt genug zu tun. Aber wir sind so etwas einfach nicht gewohnt. Dass Polizei kommt und einen (<i>Konrad Adenauer</i>) verhaftet." (<i>Lunapark</i>, 489)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Böhm</i>: "Charly!.. Ich wollte Sie da nicht mit hineinziehen. Diese Dinge sind nicht nur illegal, sie sind gefährlich, die können Sie ins Gefängnis bringen.. Ich hatte nicht vor, Sie mit diesen Dingen zu <b>behelligen</b>..." "Was heißt <b>behelligen</b>? Verdammt, das ist doch mal endlich etwas Sinnvolles in diesen Zeiten!..." (<i>Marlow</i>, 137)',
     '"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht um den heißen Brei herumreden", begann Rath, "ich habe ein Anliegen.. Es ist auch eher privater Natur, deswegen möchte ich Sie damit nicht während Ihrer Dienstzeit <b>behelligen</b>." (<i>Marlow</i>, 425)',
@@ -7632,31 +7663,39 @@ vermaledeit: [
     '<i>Böhm</i>: "Es gibt eine schwache Stelle in dieser Angelegenheit, um die wir uns bislang nicht gekümmert haben. Ich wollte den Mann nicht <b>behelligen</b>, um niemanden aufzuschrecken, den man lieber in Sicherheit wiegt, aber wenn es einen Menschen gibt, den wir unter Umständen weichkochen könnten, dann ist das der Arzt." "Doktor Wrede?", fragte Charly. (<i>Marlow</i>, 436)'+
     '<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>',
     'Andernfalls könnten sie (<i>Charly und Böhm</i>) Marlow höchstens mit etwas Mühe nachweisen, dass er unter falschem Namen lebte, aber das war kaum ein Vorwurf, der sich mit einem geschickten Verteidiger nicht entkräften ließe und mit einem Freispruch.. enden würde. Und Liang bliebe sowieso völlig <b>unbehelligt</b>. Alles Gedanken, die Charly schmerzten. (<i>Marlow</i>, 459)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Oppenberg</i>: "Genau, Ich möchte an der Grenze behandelt werden wie ein normaler Mensch und nicht wie ein Aussätziger." "Ist Ihnen klar, wie riskant das ist? Normalerweise helfen wir (<i>Detektei Böhm: Böhm und Charly</i>) den Menschen, möglichst viel von ihrem Vermögen ins Ausland zu transferieren und <b>unbehelligt</b> über die Grenze zu kommen." (<i>Olympia</i>, 78-79)',
 ],
 'unbehelligt, behelligen': [
     '<b>behelligen</b>: bother, pester'+
     '<br><b>unbehelligt</b>: unmolested, undisturbed'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/behelligen"target="target1">behelligen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unbehelligt"target="target2">unbehelligt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/behelligen"target="target3">behelligen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/unbehelligt"target="target4">unbehelligt</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das war genau der Typus des preußischen Beamten, den man bei der Polizei nicht gebrauchen konnte. <i>der Beamte</i>: "... wohnhaft in der Nürnberger Stra..." <i>Rath</i>: "Nein, das is seine (<i>Kardakows</i>) alte Adresse." "Lieber Herr Kommissar! Warum <b>behelligen</b> Sie mich eigentlich, wenn Sie sowieso schon alles wissen?" (<i>Der nasse Fisch</i>, 140-41)',
     'Inzwischen hatte Rath so viel Aufmerksamkeit erlangt, dass die Meute von Zörgiebel (<i>der Polizeipräsident</i>) abließ. Der nutzte die neu gewonnene Freiheit und arbeitete sich weiter zum Ausgang vor. Dort warteten Schupos, die die Aufgabe übernahmen, den Polizeichef <b>unbehelligt</b> aus dem Saal zu bringen. (<i>Der nasse Fisch</i>, 308)',
     'Tretschkow sagte nichts mehr, aber in seinem Gesicht sah Rath, dass er die schlimmsten Ängste des Musikers ausgesprochen hatte. Er stand auf. Es war Zeit, in die Burg zurückzukehren. "Gut, Herr Tretschkow, ich möchte Sie nicht länger <b>behelligen</b>..." (<i>Der nasse Fisch</i>, 318)',
     'Rath wusste inzwischen: Wolter wäre es nicht anders ergangen als Scheer, hätte er seine Verätzungen überlebt: kaltgestellt, aber nicht bestraft. Etwas anderes hatte der Polizeipräsident nie vorgehabt. Und ein Mann wie Generalmajor Seegers war völlig <b>unbehelligt</b> geblieben. (<i>Der nasse Fisch</i>, 540)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Bellmann zu Rath</i>: "Bevor Sie in meiner Firma herumschnüffeln, sollten Sie sich lieber mal den Laden von Oppenberg anschauen!" Nun hielt Bellmann seine Wut nicht länger im Zaum. "Dieser Jude kann <b>unbehelligt</b> Saboteure und Mörder bei mir einschleusen, während ich mich von Ihnen wie ein Verbrecher behandeln lassen muss!" (<i>Der stumme Tod</i>, 155)',
     '<i>Bellmann zu Rath</i>: ".. Sie stellen mich an den Pranger, mich, den Geschädigten, und die eigentlichen Verbrecher lassen Sie <b>unbehelligt</b>, darum geht es! Auch Sie haben Vorgesetzte, Herr Rath! Ich lasse nicht alles mit mir machen! Sie sollten erkennen, wo Ihre Grenze ist!" (<i>Der stumme Tod</i>, 155)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Ein hagergesichtiges Mädchen in einem groben, viel zu großen Mantel und Gummistiefeln fiel da (<i>im Kaufhaus Jonass</i>) nicht weiter auf. Hannah schlenderte durch die Gänge, vorbei an den Kleiderständern, fuhr die Treppen hinauf und hinunter, ohne <b>behelligt</b> zu werden. (<i>Märzgefallene</i>, 152)',
     'Charly beschleunigte ihren Schritt und sah, wie der braune Mob nach vorne wogte, gegen die Polizeikette und wieder zurück. "Macht den Weg frei!", riefen die Braununiformierten den Blauuniformierten zu. Und dann skandierten sie: "Judenbüttel! Judenbüttel!" Charly fragte sich, wie sie durch diesen aggressiven Mob <b>unbehelligt</b> zur Carmenstraße gelangen sollte... (<i>Märzgefallene</i>, 204)',
     'Was liest du denn da?", fragte er (<i>Gereon</i>). <i>Charly</i>: "Hannah Singer. Eine neue Spur, sie ist in der Stade gesehen worden.".... <i>Gereon</i>: "Ist die Sache jetzt bei der WKP gelandet?" Sie schüttelte den Kopf. "Habe die Akte aus deinem Büro. Die Fahnder hatten sie dir auf den Schribtisch gelegt, und ich dachte, ich bringe sie dir nach Hause.".... Rath ärgerte sich, dass diese Notiz noch auf seiem Schreibtisch gelandet war. Die Fahnder sollten Hannah Singer gefälligst fangen und zurück in die Irrenanstalt bringen. Und nicht ihn damit <b>behelligen</b>. (<i>Märzgefallene</i>, 324)',
     '<i>Marlow</i>: "Die Nordpiraten sind der einzige Ringverein, der von der SA nicht <b>behelligt</b> wird, aber sie brauchen keinen Ringverein, um Geschäfte zu machen, sie brauchen die richtigen Leute. (<i>Märzgefallene</i>, 432-33)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Er (<i>Rath</i>) ging zu den Karteischränken hinüber, fand eine Schublade mit der Beschriftung <i>Me-Ri</i> und öffnete sie. "Na sehen Sie, Herr Bestmann", sagte er. "Da müssen wir Ihren Sturmführer ja gar nicht erst <b>behelligen</b> wegen der Adressen." (<i>Lunapark</i>, 37)',
     '"Das tut mir leid, Frau Spindler." Rath erhob sich und reichte ihr seine Karte. "Ich möchte Sie nicht weiter <b>behelligen</b>. Aber sollte Ihnen noch etwas einfallen, rufen Sie mich doch bitte an." (<i>Lunapark</i>, 140)',
     'Kaum hatte sie (<i>Gennats Sekretärin</i>) die Tür geschlossen, klingelte das Telefon auf Gennats Schreibtisch.. "Ja?" Sein Blick, der gerade noch dem zurückgelasenen Kuchenteller nachgetrauert hatte, wurde plötzlich ernst. "Wo?", fragte er und zückte einen Bleistift. "Wann?" Der Bleistift kratzte über Papier. "Nein. Böhm kann man damit nicht <b>behelligen</b>. Der hat genug um die Ohren. (<i>Lunapark</i>, 279)',
     'Bernhard Lichtenberg (<i>Dompfarrer</i>) wirkte gefasst. Wahrscheinlich hatte Elisabeth Spindler ihm bereits von ihrem Gespräch (<i>mit Rath</i>) vorhin in Sankt Hedwig erzählt. "Und um diesen Berufsverbrecher geht es Ihnen." Rath nickte. "Ich schwöre Ihnen, ich werde Walter Spindler <b>unbehelligt</b> lassen. Wenn er mich nur zu dem Mörder führt." (<i>Lunapark</i>, 402)',
     '<i>Gussie Adenauer</i>: "Entschuldigen Sie, dass ich Sie mit so etwas <b>behellige</b>, Herr Rath, Sie haben bestimmt genug zu tun. Aber wir sind so etwas einfach nicht gewohnt. Dass Polizei kommt und einen (<i>Konrad Adenauer</i>) verhaftet." (<i>Lunapark</i>, 489)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Böhm</i>: "Charly!.. Ich wollte Sie da nicht mit hineinziehen. Diese Dinge sind nicht nur illegal, sie sind gefährlich, die können Sie ins Gefängnis bringen.. Ich hatte nicht vor, Sie mit diesen Dingen zu <b>behelligen</b>..." "Was heißt <b>behelligen</b>? Verdammt, das ist doch mal endlich etwas Sinnvolles in diesen Zeiten!..." (<i>Marlow</i>, 137)',
     '"Kollege Gehrke!" Rath machte auf alter Kumpel. "Kann man sich dazusetzen?".. "Angenehm", sagte Gehrke, aber es hörte sich nach dem genauen Gegenteil an. "Hören Sie, Kollege, ich will nicht um den heißen Brei herumreden", begann Rath, "ich habe ein Anliegen.. Es ist auch eher privater Natur, deswegen möchte ich Sie damit nicht während Ihrer Dienstzeit <b>behelligen</b>." (<i>Marlow</i>, 425)',
@@ -7664,6 +7703,9 @@ vermaledeit: [
     '<i>Böhm</i>: "Es gibt eine schwache Stelle in dieser Angelegenheit, um die wir uns bislang nicht gekümmert haben. Ich wollte den Mann nicht <b>behelligen</b>, um niemanden aufzuschrecken, den man lieber in Sicherheit wiegt, aber wenn es einen Menschen gibt, den wir unter Umständen weichkochen könnten, dann ist das der Arzt." "Doktor Wrede?", fragte Charly. (<i>Marlow</i>, 436)'+
     '<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>',
     'Andernfalls könnten sie (<i>Charly und Böhm</i>) Marlow höchstens mit etwas Mühe nachweisen, dass er unter falschem Namen lebte, aber das war kaum ein Vorwurf, der sich mit einem geschickten Verteidiger nicht entkräften ließe und mit einem Freispruch.. enden würde. Und Liang bliebe sowieso völlig <b>unbehelligt</b>. Alles Gedanken, die Charly schmerzten. (<i>Marlow</i>, 459)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Oppenberg</i>: "Genau, Ich möchte an der Grenze behandelt werden wie ein normaler Mensch und nicht wie ein Aussätziger." "Ist Ihnen klar, wie riskant das ist? Normalerweise helfen wir (<i>Detektei Böhm: Böhm und Charly</i>) den Menschen, möglichst viel von ihrem Vermögen ins Ausland zu transferieren und <b>unbehelligt</b> über die Grenze zu kommen." (<i>Olympia</i>, 78-79)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 aufgeweckt: [
@@ -9861,8 +9903,13 @@ ausschwärmen: [
     '<b>horchen</b>: listen for sth., eavesdrop'+
     '<br><b>aufhorchen</b>: prick up one’s ears, take notice'+
     '<br><b>aushorchen</b>: sound out, pump for info'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/horchen"target="target1">horchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufhorchen"target="target2">aufhorchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aushorchen"target="target3">aushorchen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/horchen"target="target4">horchen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufhorchen"target="target5">aufhorchen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aushorchen"target="target6">aushorchen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/horchen"target="target1">horchen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufhorchen"target="target2">aufhorchen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aushorchen"target="target3">aushorchen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/horchen"target="target4">horchen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/aufhorchen"target="target5">aufhorchen</a>'+
+        '&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/aushorchen"target="target6">aushorchen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Das sollten Sie doch kennen. Eine Polizeikugel. Nicht die ersten Opfer, die Ihre Kollegen auf dem Geweissen haben." Völkers Ton hatte etwas unerträglich Selbstgerechtes, wie Rath fand. Den Witwer hatten die letzten Worte aus seiner Lethargie gerissen, er <b>horchte auf</b>. (<i>Der nasse Fisch</i>, 75)',
     'Rath ging die Treppe hinauf in den ersten Stock und schellte. In der Wohnung blieb alles ruhig. Er <b>horchte</b> an der Tür. Kein Laut. (<i>Der nasse Fisch</i>, 110)',
@@ -9873,10 +9920,14 @@ ausschwärmen: [
     'Er (<i>Gräf</i>) <b>horchte</b> in die Stille. Alles lieb ruhig. Hatte denn niemand im Haus etwas gehört? (<i>Der nasse Fisch</i>, 477)',
     'Auf sein (<i>Raths</i>) Klingeln öffnete niemand. Er probierte es noch einmal. Während er an der Haustür <b>horchte</b>, wie die Türklingel verhallte, fiel ihm ein rasselndes, schepperndes Geräusch auf. Rath schaute um die Ecke in den Garten... (<i>Der nasse Fisch</i>, 483)',
     '<i>Charly, zu Gereon</i>: "Du hast mich <b>ausgehorcht</b>! Du hast mich benutzt! Hast mir irgendwelche Gefühle vorgeheuchelt! Und da wunderst du dich noch, dass ich dich nicht sehen will? Geh mir aus den Augen!..." (<i>Der nasse Fisch</i>, 493)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Czerwinski</i>: "Die haben mir keine andere Wahl gelassen. Zuerst waren wir heute morgen im Leichenschauhaus, alles ganz normal, aber nach der Identifizierung ihres Kollegen (<i>Brunner/Heller</i>) haben die mich mit zum SD genommen. Haben mich regelrecht <b>ausgehorcht</b>. Haben nach allem möglichen gefragt, nach jeder Kleinigkeit..." (<i>Marlow</i>, 106)',
     'Er (<i>Rath</i>) <b>horchte</b> noch in die Dunkelheit, doch im ganzen Haus war nichts zu hören. (<i>Marlow</i>, 274)',
     'Reinhold Gräf war nicht zufällig in der Burg aufgekreuzt. Und hatte seinen alten Chef nicht zufällig eingeladen. Rath hatte damit gerechnet, dass sie irgendwann kommen würden, um ihn <b>auszuhorchen</b>. Er hätte jedoch nicht gedacht, dass es Gräf sein würde, den sie vorschickten. (<i>Marlow</i>, 385)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Dabei hatter er (<i>Goldstein</i>) ihr (<i>Marion</i>) mit der Fahrt doch eine Freude machen wollen. Eine Reise zurück in die Zeit, als er sie kennengelernt hatte, damals im <i>Excelsior</i>. Als sie ihn eigentlich nur verführen wollte, um ihn <b>auszuhorchen</b>. Und alles ganz anders gekommen war. (<i>Olympia</i>, 65)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 aufscheuchen: [
@@ -10829,20 +10880,26 @@ anschnauzen: [
     '<br><b>anschnauzen</b>: yell/snarl/bark at'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anschnauzen"target="target1">anschnauzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschnauzen"target="target2">anschnauzen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anschnauzen"target="target3">anschnauzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnauzen"target="target4">anschnauzen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath musste daran denken, wie sein neuer Chef ihn vor vier Wochen begrüßt hatte. "Ich weiß, dass Sie gute Beziehungen haben, Rath", hatte Lanke ihn <b>angeschnauzt</b>. "Doch wenn Sie denken, Sie müssen sich deshalb nicht schmutzig machen, dann haben Sie sich geschnitten!" (<i>Der nasse Fisch</i>, 16)',
     '<i>Böhm</i>: "..Lassen Sie mich eines klarstellen: Wenn Sie mir etwas zu sagen haben, dann sollten Sie es mir auch sagen. Ich mag es nicht, wenn man mir ins Handwerk pfuscht!" Rath zog ungerührt eine Overstolz aus der Schachtel. Jetzt einfach lässig bleiben... Böhm nutzte nur jede Gelegenheit, die er fand, um Untergebene <b>anzuschnauzen</b>. (<i>Der nasse Fisch</i>, 180)',
     'Als Lanke sie (<i>Wolter und Rath</i>) entdeckte, kroch ein Lächeln auf sein Gesicht, und er unterbrach sein Schlendern, um Kurs auf die beiden Sittenkommissare zu nehmen. Rath fühlte sich unbehaglich. Unangehemn, diesen Mann lächeln zu sehen. Beinahe noch unangenehmer, als von ihm <b>angeschnauzt</b> zu werden. (<i>Der nasse Fisch</i>, 257-58)',
+    'In der Inspektion A traf er (<i>Rath</i>) nur einen überaus schlecht gelaunten Wilhelm Böhm, der kein Wort mit ihm sprach und ihn anschaute, als sei er ein ekliges Insekt. Er hätte es nicht für möglich gehalten, aber das war noch schlimmer, als von dem Mann <b>angeschnauzt</b> zu werden. (<i>Der nasse Fisch</i>, 368)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath war kurz davor, den Dicken wegen dieser Respektlosigkeit <b>anzuschnauen</b>, doch er riss sich zusammen. Immerhin hatte Czerwinski gute Arbeit geleistet. Das kam selten genug vor. (<i>Der stumme Tod/i>, 51)',
     '"Ich wundere mich", sagte Fink, "dass es im Fall Winter überhaupt keine Neuigkeiten gibt.. Ihre Kollegen sind ziemlich zugeknöpft, man hat mich an einen Kommissar Böhm verwiesen, aber der hat mich nur <b>angeschnauzt</b>." "Oberkommissar", verbesserte Rath und wischte die letzten Suppenreste mit einer halben Schrippe auf. (<i>Der stumme Tod/i>, 178)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Sie sind sich doch darüber im Klaren, dass die Polizei sich solche Schlagzeilen nicht erlauben kann", hatte Magnus von Levetzow ihn (<i>Böhm</i>) <b>angeschnauzt</b>, im schneidigen Ton des ehemaligen Marineoffiziers. (<i>Märzgefallene</i>, 139)',
     'Rath zeigte seine Dienstmarke... Auf der Blechmarke stand in Großbuchstaben lediglich das Wort KRIMINALPOLIZEI, kein Hinweis darauf, aus welcher Stadt. Das stand nur im Dienstausweis. Hoffentlich wollten die SA-Leute den nicht sehen. Bevor einer der beiden auf diesen Gedanken kommen konnte, steckte Rath die Marke wieder ein und <b>schnauzte</b> die Braunhemden <b>an</b>. "Ich bein Kunde dieses Möbelhauses und kann Ihnen bestätigen, dass der Inhaber kein Jude ist." (<i>Märzgefallene</i>, 458)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Sie können das doch nicht einfach da rausnehmen", protestierte Bestmann. <i>Rath</i>: "Natürlich kann ich. Ich bin Polizist.. Ich denke, Sie sind nur der Wirt", <b>schnauzte</b> Rath den Mann <b>an</b>. "Wie wäre es dann, wenn Sie Ihre Arbeit machen, während ich die meine mache?" (<i>Lunapark</i>, 38)',
     'Charly konnte nicht verstehen, was der Truppführer geneau sagte, jedenfalls hatte er sich vor dem alten Herrn aufgebaut und <b>schnauzte</b> ihn <b>an</b>. Der Alte hatte seinen Fehler offensichtlich erkannt, er stand stramm und reckte den rechten Arm in die Höhe. (<i>Lunapark</i>, 116)',
     '"Jetzt seien Sie mal still", hatte ihr Wächter sie (<i>Charly</i>) <b>angeschnauzt</b>. (<i>Lunapark</i>, 177)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Ein Hauptwachtmeister, der neben den Leichen stand, schaute ihm erwartungsvoll entgegen. Freute sich wohl schon, den Fall endlich den Idioten von der Kripo zuschanzen zu dürfen.. "Wer hat die denn da so ordentlich hingelegt?", <b>schnauzte</b> er (<i>Rath</i>) den Blauen <b>an</b>.., und zeigte auf die Leichen. "Schon mal davon gehört, dass bis zum Eintreffen der Kriminalpolizei nichts anzurühren ist?" (<i>Marlow</i>, 27)',
 ],
@@ -11120,6 +11177,10 @@ auffliegen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Böhm klang skeptisch. "Doktor Schwartz ist nicht mein einziger Klient in diesem Bereich. Und er wird nicht mein letzter sein. Wenn das Ganze <b>auffliegt</b>, droht allen Beteiligten Gefängnis, im schlimmsten Fall das Schafott, wollen Sie das wirklich riskieren?" (<i>Marlow</i>, 138)',
     'Und der (<i>Tod</i>) von Irene Schmeling, davon war er (<i>Rath</i>) überzeugt, ging auf die Rechnung des SD. Sie war, ohne es zu wissen, Brunners Informantin gewesen, und Brunners Tod hatte dem SD gezeigt, dass diese Informatin <b>aufgeflogen</b> war. Sie war zu einem Sicherheitsrisiko und gleichzeitig nutzlos geworden. (<i>Marlow</i>, 388)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Ich verstehe Ihren Unmut, Herr Oppenberg", sagte Böhm, "aber ich kann Ihnen von Ihrem Vorhaben nur abraten. Es ist zu riskant. Einen Passfälscher, der Papiere dieser Qualität herstellen kann, haben wir leider nicht an der Hand. Und das Risiko, dass Sie mit einem falschen Pass, den Sie wieder und wieder an der Grenze vorzeigen, <b>auffliegen</b> werden, das ist immens." (<i>Olympia</i>, 79)',
+    '<i>Böhm</i>: ".. Aber so sind die Zeiten nun mal, und wir tun, was wir können, um dagegen anzugehen. Aber mit einem derartigen Ansinnen..", er schüttelte noch einmal den Kopf, ".. da ist es doch nur eine Frage der Zeit, dass er <b>auffliegt</b>. Und damit wir alle." (<i>Olympia</i>, 80)',
 ],
 aufgabeln: [
     '<b>aufgabeln</b>: fork, pick up, get hold of sth.'+
@@ -21092,6 +21153,7 @@ Spalier: [
     'Eine Weile schwiegen sie vor sich hin, dann stellte Fräulein Peters ihre erste Frage. "Hilfst du gerne im Haushalt?", fragte sie. "Kochst Tee? Machst Bratkartoffeln?" "Ick <b>spüle</b> ooch", sagte Fritze. "Und mach mein Bette selber. Und jebügelt ha\'ck ooch schon mal!" (<i>Marlow</i>, 392)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Zunächst einmal reicht mir den Dienstplan von Samstag", sagte er (<i>Rath</i>) also, "Sie haben hier doch bestimmt so etwas.".. "Müsste ich den Chef fragen", sagte der <b>Spüler</b>. (<i>Olympia</i>, 59)',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holzvertäfelten Wand, und Rath betrat die Küche, folgte dem <b>Spüler</b> quer durch den Raum... "Da hinten steht der Chef." Der <b>Spüler</b> wies auf eine Gruppe von vier Männer, alle in Weiß... "Der mit dem Schnurrbart." (<i>Olympia</i>, 59)',
 ],
 Schlüpfer: [
@@ -25111,13 +25173,18 @@ weichkochen: [
     '<b>weichkochen</b>: boil until soft; talk into, soften up'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/weichkochen_uebertragen"target="target1">weichkochen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/weichkochen"target="target2">weichkochen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=weichkochen"target="target3">weichkochen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=weichkochen"target="target4">weichkochen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Nachdem er den Alten Fritz im Vernehmungsraum <b>weichgekocht</b> hatte, hatte Rath dem Onkel (<i>Wolter</i>) die Liste mit den Namen gestern auf den Tisch gelegt.. Der erste Durchbruch in ihren Ermittlungen. (<i>Der nasse Fisch</i>, 50)',
     'Stephan Jänicke saß mit einem derart eingefrorenen Gesicht auf der Rückbank, wie es wohl nur Ostpreußen zustande bekamen. Nicht die kleinste Gemütsregung war ihm anzusehen.. Jänicke war genau der richtige Mann für so eine Aufgabe, nichts machte einen Ganoven dieses Kalibers nervöser als ein Bulle, der kein Wort sprach. Wilfried Johnny Johnen würde <b>weichgekocht</b> sein, befor er das Präsidium überhaupt erreicht hatte.  (<i>Der nasse Fisch</i>, 246)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Sollten sie (<i>die Nazis</i>) am Ende nicht nur ihrem (<i>Charlys</i>) Jungen, sondern auch ihrem Mann den Verstand mit ihrem Brimborium <b>weichgekocht</b> haben? Gereon war kein Nazi, nein, das bestimmt nicht. Aber dass er der Regierung und der Partei ausgesprochen kritisch gegenüberstand, das konnte man auch nicht gerade behaupten. (<i>Marlow</i>, 317)',
     '<i>Böhm</i>: "Es gibt eine schwache Stelle in dieser Angelegenheit, um die wir uns bislang nicht gekümmert haben. Ich wollte den Mann nicht behelligen, um niemanden aufzuschrecken, den man lieber in Sicherheit wiegt, aber wenn es einen Menschen gibt, den wir unter Umständen <b>weichkochen</b> könnten, dann ist das der Arzt." "Doktor Wrede?", fragte Charly. (<i>Marlow</i>, 436)'+
-    '<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>'
+    '<br>(<i>jemanden in Sicherheit wiegen: jemanden in dem Glauben lassen, dass keine Gefahr besteht)</i>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Zum Beispiel müssen wir wissen", fuhr Rath fort, "wer sich zur bewussten Uhrzeit im Dienst befand. In der Küche, im Service, in allen Bereichen, die hier mit dem Mittagessen zu tun haben." (<i>der Spüler</i>): "Soso. Wollen Sie vielleicht auch wissen, wer das Porzellan gebrannt hat?" Under anderen Umständen hätte Rath den Witzbold mit auf die Wache genommen und <b>weichgekocht</b>, aber hier musste er sich zurückhalten, Franke und Kollegen sollten nicht erfahren, was der Neue (<i>Rath</i>).. hinter ihrem Rücken trieb. (<i>Olympia</i>, 58-59)',
 ],
 weichklopfen: [
     '<b>weichklopfen</b>: tenderize, soften up'+

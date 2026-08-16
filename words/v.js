@@ -8,87 +8,87 @@ const v = [
    'verbocken', // verbocken: 
    'verbohrt',  // verbohrt:
    'verbrämen',  // verbrämen: 
-   'verdampfen',  // verdampfen: 
-   'Verdeck',  // Verdeck: 
-   'verdenken',  // verdenken: 
-   'verdonnern', // verdonnern: 
-   'verdorren', // verdorren:
-   'verdruckst',  //verdruckst: 
-   'verdünnisieren', // verdünnisieren: 
-   'verdunsten',  // verdunsten: 
-   'verdutzt',  // verdutzt: 
-   'verfänglich', // verfänglich:
-   'verflachen', // verflachen:  
-   'verfilzen' ,  // verfilzen:  
-   'verflixt',  //  verflixt:
-   'verfrachten',  // verfrachten
-   'vergackeiern',  // vergackeiern:  
-   'vergaloppieren', // vergaloppieren:  
-   'vergeigen', //  vergeigen: 
-   'vergewissern', //  vergewissern:  
-   'ver­grau­len, Vergraulung',  
-   'vergreifen', // vergreifen:
-   'verhageln' ,  // verhageln:  
-   'verhaken',  // verhaken:  
-   'verhallen' ,  // verhallen: 
-   'verheben',  // verheben:  
-   'verheddern',  // verheddern: 
-   'verhexen',   // verhexen: 
-   'verhöhnen',  // verhöhnen:
-   'verhökern',  // verhökern: 
-   'verhunzen',  // verhunzen: 
-   'verkatert, Kater',  //  duplicated 
-   'verklemmt',  // verklemmt:
-   'verkneifen, verkniffen',   
-   'verknicken',  // verknicken:
-   'verknittern, zerknittern',  // duplicated 
-   'verknoten',  // verknoten: 
-   'verkohlen, verkohlt', 
-   'verkommen',  // verkommen: 
-   'verkorkst',   // verkorkst:  
-   'verköstigen, beköstigen',  // duplicated  with beköstigen if beköstigen ever appears  
-   'verkrachen, verkracht', 
-   'verkrampfen',  // verkrampfen:
-   'verkriechen',  // verkriechen:  
-   'verkrümeln',  // verkrümeln:  
-   'vermaledeit', // vermaledeit: 
-   'vermasseln',  // vermasseln:
-   'vermengen',  // vermengen: 
-   'verminen',  // verminen: 
-   'vermodern', // vermodern: 
-   'verpetzen', // verpetzen:  
-   'verpfeifen',  // verpfeifen: 
-   'verpfuschen, verpfuscht',
-   'verplappern', // verplappern:   
-   'verplempern',  // verplempern: 
-   'verpönen, verpönt', 
-   'verputzen',  // verputzen: 
-   'verquirlen', // verquirlen 
-   'verrammeln',  // verrammeln:  
-   'verrecken',  // verrecken:  
-   'verrenken',  // verrenken:  
-   'verrennen',  // verrennen:  
-   'verrucht',  // verrucht:  
-   'verrufen', // verrufen:  
-   'verrußt, Ruß', // duplicated 
-   'verrutschen',  // verrutschen:  
-   'versacken',  // versacken:
-   'versanden',  // versanden:  
-   'versauen',   // versauen:  
-   'versaufen', // versaufen: 
-   'verschachteln',  // verschachteln:
-   'verschanzen',  // verschanzen:  
-   'verscharren',    // verscharren: 
-   'verschaukeln',  // verschaukeln: 
-   'verscherbeln', // verscherbeln: 
-   'verscherzen',  // verscherzen:  
-   'verscheuchen',  // verscheuchen:
-   'verschieben',  // verschieben:   check for other entries
-   'verschimmeln',  // verschimmeln:  
-   'Verschlag',   // Verschlag:
-   'verschlampen',  // verschlampen:  
-   'verschleißen', // verschleißen:  check for other entries
-   'verschlingen',  // verschlingen:
+'verdampfen',  // verdampfen: 
+'Verdeck',  // Verdeck: 
+'verdenken',  // verdenken: 
+'verdonnern', // verdonnern: 
+'verdorren', // verdorren:
+'verdruckst',  //verdruckst: 
+'verdünnisieren', // verdünnisieren: 
+'verdunsten',  // verdunsten: 
+'verdutzt',  // verdutzt: 
+'verfänglich', // verfänglich:
+'verflachen', // verflachen:  
+'verfilzen' ,  // verfilzen:  
+'verflixt',  //  verflixt:
+'verfrachten',  // verfrachten
+'vergackeiern',  // vergackeiern:  
+'vergaloppieren', // vergaloppieren:  
+'vergeigen', //  vergeigen: 
+'vergewissern', //  vergewissern:  
+'ver­grau­len, Vergraulung',  
+'vergreifen', // vergreifen:
+'verhageln' ,  // verhageln:  
+'verhaken',  // verhaken:  
+'verhallen' ,  // verhallen: 
+'verheben',  // verheben:  
+'verheddern',  // verheddern: 
+'verhexen',   // verhexen: 
+'verhöhnen',  // verhöhnen:
+'verhökern',  // verhökern: 
+'verhunzen',  // verhunzen: 
+'verkatert, Kater',  //  duplicated 
+'verklemmt',  // verklemmt:
+'verkneifen, verkniffen',   
+'verknicken',  // verknicken:
+'verknittern, zerknittern',  // duplicated 
+'verknoten',  // verknoten: 
+'verkohlen, verkohlt', 
+'verkommen',  // verkommen: 
+'verkorkst',   // verkorkst:  
+'verköstigen, beköstigen',  // duplicated  with beköstigen if beköstigen ever appears  
+'verkrachen, verkracht', 
+'verkrampfen',  // verkrampfen:
+'verkriechen',  // verkriechen:  
+'verkrümeln',  // verkrümeln:  
+'vermaledeit', // vermaledeit: 
+'vermasseln',  // vermasseln:
+'vermengen',  // vermengen: 
+'verminen',  // verminen: 
+'vermodern', // vermodern: 
+'verpetzen', // verpetzen:  
+'verpfeifen',  // verpfeifen: 
+'verpfuschen, verpfuscht',
+'verplappern', // verplappern:   
+'verplempern',  // verplempern: 
+'verpönen, verpönt', 
+'verputzen',  // verputzen: 
+'verquirlen', // verquirlen 
+'verrammeln',  // verrammeln:  
+'verrecken',  // verrecken:  
+'verrenken',  // verrenken:  
+'verrennen',  // verrennen:  
+'verrucht',  // verrucht:  
+'verrufen', // verrufen:  
+'verrußt, Ruß', // duplicated 
+'verrutschen',  // verrutschen:  
+'versacken',  // versacken:
+'versanden',  // versanden:  
+'versauen',   // versauen:  
+'versaufen', // versaufen: 
+'verschachteln',  // verschachteln:
+'verschanzen',  // verschanzen:  
+'verscharren',    // verscharren: 
+'verschaukeln',  // verschaukeln: 
+'verscherbeln', // verscherbeln: 
+'verscherzen',  // verscherzen:  
+'verscheuchen',  // verscheuchen:
+'verschieben',  // verschieben:   check for other entries
+'verschimmeln',  // verschimmeln:  
+'Verschlag',   // Verschlag:
+'verschlampen',  // verschlampen:  
+'verschleißen', // verschleißen:  check for other entries
+'verschlingen',  // verschlingen:
 'verschmieren', // verschmieren: 
 'verschmitzt',  // verschmitzt:
 'verschnörkelt, verschnörkeln', //  check for other entries

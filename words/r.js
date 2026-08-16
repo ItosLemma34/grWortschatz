@@ -39,7 +39,9 @@ const r = [
    'reinwürgen, Würge, würgen',  // duplicate  
 //   'reißen, gerissen',
 //   'reißen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zusammen-,zuruck-',
+
    'reißerisch',  // reißerisch: 
+
    'Reling',  // Reling
    'Rempler, rempeln, an-',
    'renitent',  // renitent: 
@@ -54,6 +56,7 @@ const r = [
    'Rind, Rindvieh, Rinderbraten',   
    'Rinne',  // Rinne: 
    'Rinnsal', // Rinnsal: 
+   'Riss, reißen', 
    'Ritter (arme)', // duplicated 
    'Ritze',  // Ritze:  
    'robben',  // robben: 

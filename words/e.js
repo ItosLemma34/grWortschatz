@@ -31,21 +31,22 @@ const e = [
    'einlullen',  // einlullen: 
    'einnässen',  // einnässen: 
    'einnebeln',  // einnebeln: 
-   'einnicken',  // einnicken:  
-   'Einöde, öde',   // duplicated  
-   'einrasten',  // einrasten:  
-   'einrenken', // einrenken:      
-   'einrüsten, Gerüst', // duplicated  
-   'einsacken',  // einsacken: 
-   'einschärfen',  // einschärfen:
-   'einschleusen',  //  einschleusen: 
-   'einseifen',  // einseifen:  
-   'einspannen, ausspannen', // duplicated  
-   'Einstand' ,  // Einstand: 
-   'einstäuben',  // einstäuben:  
-   'einstecken',  // einstecken: 
-   'einstielen', // einstielen:  
-   'Eintänzer',   // Eintänzer: 
+'einnicken',  // einnicken:  
+'Einöde, öde',   // duplicated  
+'einrasten',  // einrasten:  
+'einrenken', // einrenken:      
+'einrüsten, Gerüst', // duplicated  
+'einsacken',  // einsacken: 
+'einschärfen',  // einschärfen:
+'einschleusen',  //  einschleusen: 
+'einschneien, eingeschneit', 
+'einseifen',  // einseifen: 
+'einspannen, ausspannen', // duplicated  
+'Einstand' ,  // Einstand: 
+'einstäuben',  // einstäuben:  
+'einstecken',  // einstecken: 
+'einstielen', // einstielen:  
+'Eintänzer',   // Eintänzer: 
 'Eintopf',  // Eintopf:
 'eintrichtern',  // eintrichtern:    
 'eintrudeln',  // eintrudeln:  
@@ -57,19 +58,20 @@ const e = [
 'Empore',     // Empore:  
 'Engerling',  // Engerling: 
 'entbieten',  // entbieten:  
-   'entblößen', // entblößen:
-   'entgegenfiebern',  // entgegenfiebern: 
-   'entgeistert',  // entgeistert:  
-   'entriegeln',  // entriegeln: 
-   'entsorgen',  // entsorgen:  
-   'entstellen',  // entstellen: 
-   'entwenden',  // entwenden:  
-   'entwinden',  // entwinden:
-   'entwischen',  // entwischen: 
-   'erbosen, erbost',    
-   'erdreisten', // erdreisten:     
-   'ergattern',   // ergattern:  
-   'erhaschen',   // erhaschen: 
+'entblößen', // entblößen:
+'entgegenfiebern',  // entgegenfiebern: 
+'entgeistert',  // entgeistert:  
+'entriegeln',  // entriegeln: 
+'entsorgen',  // entsorgen:  
+'entstellen',  // entstellen: 
+'entwenden',  // entwenden:  
+'entwinden',  // entwinden:
+'entwischen',  // entwischen: 
+'erbosen, erbost',
+'erbrechen',  // erbrechen:    
+'erdreisten', // erdreisten:     
+'ergattern',   // ergattern:  
+'erhaschen',   // erhaschen: 
    'erheblich, un-',  
    'Erker', // Erker:   
    'erkiesen',   // erkiesen:  

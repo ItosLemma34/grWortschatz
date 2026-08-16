@@ -17,21 +17,21 @@ const k = [
    'Kaschemme',  // Kaschemme: 
    'kaschieren', // kaschieren: 
    'Kassiber',  // Kassiber: 
-   'Kater, verkatert', // duplicated 
-   'katzbuckeln',  // katzbuckeln: 
-   'kauern',  // kauern: 
-   'Kaution', // Kaution: 
-   'Kauz, kauzig',   
-   'kegeln, Kegel',  
-   'keifen',  // keifen: 
-   'keilen, Keil',   
-   'Keim, keimen',   
-   'kein Kraut gewachsen',  
-   'keinen Reim machen können', //  duplicated 
-   'keinen Zwang antun',  // duplicated 
-   'Kelch',  // Kelch: 
-   'kentern',  // kentern:
-   'Kerbholz (auf dem K. haben)',//  duplicated 
+'Kater, verkatert', // duplicated 
+'katzbuckeln',  // katzbuckeln: 
+'kauern',  // kauern: 
+'Kaution', // Kaution: 
+'Kauz, kauzig',   
+'kegeln, Kegel',  
+'keifen',  // keifen: 
+'keilen, Keil',   
+'Keim, keimen',   
+'kein Kraut gewachsen',  
+'keinen Reim machen können', //  duplicated 
+'keinen Zwang antun',  // duplicated 
+'Kelch',  // Kelch: 
+'kentern',  // kentern:
+'Kerbholz (auf dem K. haben)',//  duplicated 
    'Kerbe',  // Kerbe: 
    'Kerker', // Kerker:
    'kess',  // kess: 
@@ -121,28 +121,28 @@ const k = [
 'Krähe, krähen',    
 'Krake', // Krake: 
 'krakeln, krakelig/kraklig',   
-   'Kralle, krallen',  
-   'Kram, in den Kram passen', //  duplicated 
-   'kramen',  // kramen: 
-   'Kran',  // Kran: 
-   'Kratzbürstigkeit',  // Kratzbürstigkeit: 
-   'kratzen',  // kratzen:  
-   'kraulen',   // kraulen: 
-   'kräuseln',  // kräuseln: 
-   'kraxeln',  // kraxeln:  
-   'kreischen', // kreischen: 
-   'Kreisel',  // Kreisel:  
-   'Kreissäge',  // Kreissäge: 
-   'Krempe',  // Krempe: 
-   'Krempel',  // Krempel: 
-   'Kreuz (über K. sein/liegen)', // duplicated 
-   'Kreuze (zu K. kriechen)',  // duplicated 
-   'kreuzfidel', // kreuzfidel: 
-   'Kribbeln',  // Kribbeln: 
-   'Krimskrams',  // Krimskrams: 
-   'Kringel',  // Kringel: 
-   'Kritikaster',  // Kritikaster: 
-   'kritzeln' ,  // kritzeln: 
+'Kralle, krallen',  
+'Kram, in den Kram passen', //  duplicated 
+'kramen',  // kramen: 
+'Kran',  // Kran: 
+'Kratzbürstigkeit',  // Kratzbürstigkeit: 
+'kratzen',  // kratzen:  
+'kraulen',   // kraulen: 
+'kräuseln',  // kräuseln: 
+'kraxeln',  // kraxeln:  
+'kreischen', // kreischen: 
+'Kreisel',  // Kreisel:  
+'Kreissäge',  // Kreissäge: 
+'Krempe',  // Krempe: 
+'Krempel',  // Krempel: 
+'Kreuz (über K. sein/liegen)', // duplicated 
+'Kreuze (zu K. kriechen)',  // duplicated 
+'kreuzfidel', // kreuzfidel: 
+'Kribbeln',  // Kribbeln: 
+'Krimskrams',  // Krimskrams: 
+'Kringel',  // Kringel: 
+'Kritikaster',  // Kritikaster: 
+'kritzeln' ,  // kritzeln: 
    'Kroppzeug', // Kroppzeug: 
    'Kröte (K. schlucken)',  
    'Krücke', // Krücke:

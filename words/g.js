@@ -6,40 +6,40 @@ const g = [
 'Gassi gehen',  // 
 'Gauner', // Gauner: 
 'Geäst, Ast',  //  duplicated  
-    'Gebälk, Balken', //  duplicated  
-    'Gebell', // Gebell:   duplicate with "bellen" if found
-    'Gebrüll, brüllen, an-, los-',  //  duplicated 
-    'Gebüsch, Busch',  //  duplicated 
-    'gediegen',  // gediegen: 
-    'Gedränge',  // Gedränge: 
-    'Gedudel, dudeln',  // duplicated 
-    'gedungener Mörder, dingen',  // duplicated
-    'gefasst',  // gefasst:
-    'Gefecht, fechten, aus-',  // duplicated 
-    'Gefeilsche, feilschen',  // duplicated
-    'gefeit',  // gefeit:
-    'Geflecht',  // Geflecht:
-    'geflissentlich',  // geflissentlich: 
-    'gefügig', // gefügig:
-    'gegen den Strich gehen', // duplicated 
-    'Gehabe',  // Gehabe: 
-    'Gehege, ins G. kommen',  // duplicated
-    'Geheimniskrämerei, Geheimniskrämer',
-    'Geheiß', // Geheiß:   
-    'Gehirnerschütterung', // Gehirnerschütterung:
-    'Gehüpfe, hüpfen, Hüpfer',  // duplicated 
-    'Geier',  //  Geier:
-    'geigen (Meinung geigen)', // duplicated
-    'geifern, geifernd',  
-    'geizen, geizig',
-    'Gekicher, kichern',  // duplicated
-    'Geklirr, klirren, an-',  //duplicated
-    'geknickt',  // geknickt:  
-    'Gekrächz',  // Gekrächz: 
-    'Gelände',   // Gelände:  
-    'Geländer',  // Geländer:  
-    'Geleit',  // Geleit:  
-    'gelinde',   // gelinde:  
+'Gebälk, Balken', //  duplicated  
+'Gebell', // Gebell:   duplicate with "bellen" if found
+'Gebrüll, brüllen, an-, los-',  //  duplicated 
+'Gebüsch, Busch',  //  duplicated 
+'gediegen',  // gediegen: 
+'Gedränge',  // Gedränge: 
+'Gedudel, dudeln',  // duplicated 
+'gedungener Mörder, dingen',  // duplicated
+'gefasst',  // gefasst:
+'Gefecht, fechten, aus-',  // duplicated 
+'Gefeilsche, feilschen',  // duplicated
+'gefeit',  // gefeit:
+'Geflecht',  // Geflecht:
+'geflissentlich',  // geflissentlich: 
+'gefügig', // gefügig:
+'gegen den Strich gehen', // duplicated 
+'Gehabe',  // Gehabe: 
+'Gehege, ins G. kommen',  // duplicated
+'Geheimniskrämerei, Geheimniskrämer',
+'Geheiß', // Geheiß:   
+'Gehirnerschütterung', // Gehirnerschütterung:
+'Gehüpfe, hüpfen, Hüpfer',  // duplicated 
+'Geier',  //  Geier:
+'geigen (Meinung geigen)', // duplicated
+'geifern, geifernd',  
+'geizen, geizig',
+'Gekicher, kichern',  // duplicated
+'Geklirr, klirren, an-',  //duplicated
+'geknickt',  // geknickt:  
+'Gekrächz',  // Gekrächz: 
+'Gelände',   // Gelände:  
+'Geländer',  // Geländer:  
+'Geleit',  // Geleit:  
+'gelinde',   // gelinde:  
     'Gemächt',  // Gemächt: 
     'Gemaule, maulen',  // duplicated
     'Gemetzel', // Gemetzel: 

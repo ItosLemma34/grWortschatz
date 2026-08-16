@@ -75,10 +75,10 @@ const a = [
 	'ans Bein binden',  //  duplicated 
 	'anschmiegsam', // anschmiegsam: 
 'anschnauzen',  // anschnauzen: 
-	'anschwärzen',  // anschwärzen:  
-	'ansengen',     // ansengen:  
-	'Ansinnen' ,    // Ansinnen:  
-	'Anstand',     // Anstand:
+'anschwärzen',  // anschwärzen:  
+'ansengen',     // ansengen:  
+'Ansinnen' ,    // Ansinnen:  
+'Anstand',     // Anstand:
 	'anstandslos',  // anstandslos:  
 	'anstupsen',    // anstupsen: 
 	'antanzen',     // antanzen:   

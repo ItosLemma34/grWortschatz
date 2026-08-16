@@ -18,13 +18,13 @@ const z = [
    'zerdeppern',   // zerdeppern: 
    'zerfleddert',  // zerfleddert:
    'zerfurchen, zerfurcht', 
-   'zerknicken' ,  // zerknicken:  
-   'zerknirscht',  // zerknirscht: 
-   'zerknittern, verknittern',  // duplicated 
-   'zerlumpt',    // zerlumpt:  
-   'zermatschen',  // zermatschen: 
-   'zerpflücken',  // zerpflücken: 
-   'zerren',      // zerren:  
+'zerknicken' ,  // zerknicken:  
+'zerknirscht',  // zerknirscht: 
+'zerknittern, verknittern',  // duplicated 
+'zerlumpt',    // zerlumpt:  
+'zermatschen',  // zermatschen: 
+'zerpflücken',  // zerpflücken: 
+'zerren',      // zerren:  
 'zerschießen',  // zerschießen:  
 'zerschunden',  // zerschunden: 
 'zertrampeln',  // zertrampeln:

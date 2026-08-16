@@ -54,16 +54,16 @@ const b = [
     'besudeln',  // besudeln:    
     'Beteuerung', // Beteuerung   
     'betreten',   // betreten:  
-    'Bettfeder',  // Bettfeder:
-    'Beule, beulen, ver-, zer-',
-    'bewenden lassen',    
-    'bibbern',    // bibbern: 
-    'bieder',     // bieder: 
-    'Biege machen', // 
-    'bimmeln', // bimmeln: 
-    'bis in die Puppen', // duplicated  
-    'Blase',  // Blase:  
-    'blasiert',  // blasiert: 
+'Bettfeder',  // Bettfeder:
+'Beule, beulen, ver-, zer-',
+'bewenden lassen',    
+'bibbern',    // bibbern: 
+'bieder',     // bieder: 
+'Biege machen', // 
+'bimmeln', // bimmeln: 
+'bis in die Puppen', // duplicated  
+'Blase',  // Blase:  
+'blasiert',  // blasiert: 
     'Blaumann',  // Blaumann:  
     'Blech, blechern', // 
     'Blechschaden',  // Blechschaden: 
@@ -98,29 +98,29 @@ const b = [
     'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // duplicated  
     'Brimborium',   // Brimborium:  
     'bröckeln',  // bröckeln: 
-    'Brocken',  // Brocken: 
-    'brodeln',  // brodeln:
-    'brüllen, an-, los-, Gebrüll', //   duplicated 
-    'brummen, brummig, Brummigkeit',   
-    'Brüstung',  // Brüstung: 
-    'brüten',  // brüten:
-    'brutzeln',  // brutzeln: 
-    'Buche',    // Buche: 
-    'Büchse',   // Büchse: 
-    'Buckel, buckeln, bucklig, auf dem Buckel', //duplicated    
-    'bücken',  // bücken:
-    'buddeln, aus-, ein-, ver-',   
-    'Bude, Büdchen',   
-    'büffeln', // büffeln:  
-    'Bügel', // Bügel: 
-    'bugsieren', // bugsieren: 
-    'buhlen',   // buhlen: 
-    'bullig',  // bullig: 
-    'bumsen',  // bumsen: 
-    'Bursche',  // Bursche: 
-    'Busch, Gebüsch', //  duplicated 
-    'Büttel', // Büttel:
-    'bützen',  // bützen:  
+'Brocken',  // Brocken: 
+'brodeln',  // brodeln:
+'brüllen, an-, los-, Gebrüll', //   duplicated 
+'brummen, brummig, Brummigkeit',   
+'Brüstung',  // Brüstung: 
+'brüten',  // brüten:
+'brutzeln',  // brutzeln: 
+'Buche',    // Buche: 
+'Büchse',   // Büchse: 
+'Buckel, buckeln, bucklig, auf dem Buckel', //duplicated    
+'bücken',  // bücken:
+'buddeln, aus-, ein-, ver-',   
+'Bude, Büdchen',   
+'büffeln', // büffeln:  
+'Bügel', // Bügel: 
+'bugsieren', // bugsieren: 
+'buhlen',   // buhlen: 
+'bullig',  // bullig: 
+'bumsen',  // bumsen: 
+'Bursche',  // Bursche: 
+'Busch, Gebüsch', //  duplicated 
+'Büttel', // Büttel:
+'bützen',  // bützen:  
 ];
 
 export default b;

@@ -31,12 +31,12 @@ const h = [
    'Hautausschlag' , // Hautausschlag: 
    'hecheln', // hecheln: 
    'hechten, Hechtsprung',
-   'Heck',  // Heck:   
-   'Hecke', // Hecke: 
-   'Heckenschütze',  // Heckenschütze:  
-   'Heft des Handelns nehmen',  
-   'Hefter, heften, ab-, bei-', 
-   'hegen',  // hegen:  
+'Heck',  // Heck:   
+'Hecke', // Hecke: 
+'Heckenschütze',  // Heckenschütze:  
+'Heft des Handelns nehmen',  
+'Hefter, heften, ab-, bei-', 
+'hegen',  // hegen:  
    'Hehler', // Hehler:  
    'Heidenarbeit', // Heidenarbeit:  
    'Heidenrespekt/angst',  
@@ -70,23 +70,23 @@ const h = [
    'Hölle heißmachen',   
    'Holzstoß',  // Holzstoß: 
    'hopsnehmen', // hopsnehmen: 
-   'horchen, -auf, -aus',  
-   'Hornochse',  // Hornochse:  
-   'Hose (in die H. machen/gehen)', // duplicated     
-   'Hosenmatz',  // Hosenmatz:  
-   'Hosennaht',  // Hosennaht:  
-   'Hudelei, Lobhudelei, lobhudeln', //  duplicated
-   'Hufeisen',  // Hufeisen: 
-   'Hühnchen rupfen, rupfen',  // duplicated
-   'Hühnerauge', // Hühnerauge: 
-   'Hülle',  // Hülle: 
-   'Hülse',  // Hülse: 
-   'humpeln',  // humpeln:  
-   'Hunde (vor die H. gehen)',  // duplicated 
-   'Hüne',  // Hüne:
-   'hüpfen, Hüpfer, Gehüpfe',  // duplicated 
-   'huschen',  // huschen: 
-   'husten, hüsteln',
+'horchen, -auf, -aus',  
+'Hornochse',  // Hornochse:  
+'Hose (in die H. machen/gehen)', // duplicated     
+'Hosenmatz',  // Hosenmatz:  
+'Hosennaht',  // Hosennaht:  
+'Hudelei, Lobhudelei, lobhudeln', //  duplicated
+'Hufeisen',  // Hufeisen: 
+'Hühnchen rupfen, rupfen',  // duplicated
+'Hühnerauge', // Hühnerauge: 
+'Hülle',  // Hülle: 
+'Hülse',  // Hülse: 
+'humpeln',  // humpeln:  
+'Hunde (vor die H. gehen)',  // duplicated 
+'Hüne',  // Hüne:
+'hüpfen, Hüpfer, Gehüpfe',  // duplicated 
+'huschen',  // huschen: 
+'husten, hüsteln',
  ];
 
 export default h;

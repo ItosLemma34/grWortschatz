@@ -1,14 +1,14 @@
 const m = [
-   'mäandern',  // mäandern: 
-   'Machwerk',  // Machwerk:
-   'Made, madig, madigmachen', 
-   'mähen, Rasenmäher', // duplicated 
-   'malochen', // malochen:
-   'Mangel (durch die M. drehen)', //  duplicated 
-   'Mangel (in die M. nehmen)',  //  duplicated 
-   'Männchen machen, Männchenmachen',  
-   'Manschettenknopf',  // Manschettenknopf: 
-   'markieren (den dicken Max m.)',  // duplicated 
+'mäandern',  // mäandern: 
+'Machwerk',  // Machwerk:
+'Made, madig, madigmachen', 
+'mähen, Rasenmäher', // duplicated 
+'malochen', // malochen:
+'Mangel (durch die M. drehen)', //  duplicated 
+'Mangel (in die M. nehmen)',  //  duplicated 
+'Männchen machen, Männchenmachen',  
+'Manschettenknopf',  // Manschettenknopf: 
+'markieren (den dicken Max m.)',  // duplicated 
    'Marotte',  // Marotte: 
    'Masche, maschig',
    'maßregeln',  // maßregeln:

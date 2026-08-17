@@ -35,38 +35,37 @@ const z = [
 'Zeug (was das Z. hält)', //  duplicated 
 'Zicke, Zicken machen',  // 
 'zickig',  // zickig:  
-   'Ziegelwand', // Ziegelwand: 
-   'zig',   // zig:  
-   'Zinne', // Zinne:  
-   'Zinnober',  // Zinnober: 
-   'Zipfel',  // Zipfel: 
-   'Zipperlein', // Zipperlein: 
-   'zischen',  // zischen:   
-   'zittern, zittrig, erzittern', // duplicated 
-   'zockeln',  // zockeln: 
-   'zocken', // zocken: 
-   'Zopf',  // Zopf: 
-   'zu Kreuze kriechen',  // duplicated 
-   'zu nahe treten',  // duplicated  
-   'zu schade sein',  //  duplicated 
-   'Zucht, züchten',   // 
-   'züchtigen, züchtig',   
-   'zücken',   // zücken:     
-   'Zugehfrau',  // Zugehfrau: 
-   'zügeln',   // zügeln: 
-   'zünftig',  // zünftig: 
-   'zupasskommen',  // zupasskommen: 
-   'zupfen',  // zupfen: 
-   'zuprosten',  // zuprosten: 
-   'zurren, festzurren',  //  duplicated 
-   'zuschanzen',  // zuschanzen: 
-   'Zuspruch',  // Zuspruch: 
-   'zuwanken',   // zuwanken: 
-   'Zwang (keinen Z. antun)', // duplicated 
-   'zwinkern, an-, zu-',  
-   'zwirbeln',  // zwirbeln:  
-   'Zwirn',  // Zwirn: 
-   'zwitschern, Gezwitscher',  // duplicated 
+'Ziegelwand', // Ziegelwand: 
+'zig',   // zig:  
+'Zinne', // Zinne:  
+'Zinnober',  // Zinnober: 
+'Zipfel',  // Zipfel: 
+'Zipperlein', // Zipperlein: 
+'zischen',  // zischen:   
+'zittern, zittrig, erzittern', // duplicated 
+'zockeln',  // zockeln: 
+'zocken', // zocken: 
+'Zopf',  // Zopf: 
+'zu Kreuze kriechen',  // duplicated 
+'zu nahe treten',  // duplicated  
+'zu schade sein',  //  duplicated 
+'Zucht, züchten',   // 
+'züchtigen, züchtig',   
+'zücken',   // zücken:     
+'Zugehfrau',  // Zugehfrau: 
+'zügeln',   // zügeln: 
+'zünftig',  // zünftig: 
+'zupasskommen',  // zupasskommen: 
+'zuprosten',  // zuprosten: 
+'zurren, festzurren',  //  duplicated 
+'zuschanzen',  // zuschanzen: 
+'Zuspruch',  // Zuspruch: 
+'zuwanken',   // zuwanken: 
+'Zwang (keinen Z. antun)', // duplicated 
+'zwinkern, an-, zu-',  
+'zwirbeln',  // zwirbeln:  
+'Zwirn',  // Zwirn: 
+'zwitschern, Gezwitscher',  // duplicated 
 ];
 
 export default z;         

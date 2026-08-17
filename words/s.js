@@ -224,7 +224,7 @@ const s = [
 'Sprosse',  // Sprosse:  
 'Sprünge (auf die S. helfen)',  // duplicated
 'Spule, spulen, ab-',  
-'spülen, Spüler; Spül -bürste, -e, -stein, -ung',
+'spülen, Spüler; Spül -maschine,-bürste,-e,-stein,-ung',
 'Spund, Jungspund', // duplicated  
 'spuren',  // spuren: 
 'sputen', // sputen: 

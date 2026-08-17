@@ -28,15 +28,15 @@ const p = [
   'pfeffern, gepfeffert',  //  duplicated 
   'Pfeiler',  // Pfeiler:  
   'pferchen, ein-, zusammen-',
-  'pfiffig',  // pfiffig:
-  'pflücken, zer-',    
-  'Pfropfen',  // Pfropfen: 
-  'pfuschen, ins Handwerk p.', //  duplicated 
-  'Pfütze',  // Pfütze:
-  'piefig', // piefig:   
-  'pieksen, piksen',
-  'pilgern',  // pilgern: 
-  'Pimpf',  // Pimpf: 
+'pfiffig',  // pfiffig:
+'pflücken, zer-',    
+'Pfropfen',  // Pfropfen: 
+'pfuschen, ins Handwerk p.', //  duplicated 
+'Pfütze',  // Pfütze:
+'piefig', // piefig:   
+'pieksen, piksen',
+'pilgern',  // pilgern: 
+'Pimpf',  // Pimpf: 
   'Pinkel', // Pinkel: 
   'pinkeln',  // pinkeln: 
   'pinseln, bepinseln',  //  duplicated  

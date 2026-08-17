@@ -50,10 +50,10 @@ const b = [
     'beseelen, beseelt',
     'Besen',  // Besen: 
     'bestatten, Bestatter, Bestattung', 
-    'Besteck',    // Besteck: 
-    'besudeln',  // besudeln:    
-    'Beteuerung', // Beteuerung   
-    'betreten',   // betreten:  
+'Besteck',    // Besteck: 
+'besudeln',  // besudeln:    
+'Beteuerung', // Beteuerung   
+'betreten',   // betreten:  
 'Bettfeder',  // Bettfeder:
 'Beule, beulen, ver-, zer-',
 'bewenden lassen',    
@@ -83,15 +83,16 @@ const b = [
     'Bolzen, Gewinde, Gewindebolzen',  //  duplicated   
     'Bonze',   // Bonze:
     'Bordmittel',  // Bordmittel: 
-    'Bordstein', // Bordstein: 
-    'borniert',  // borniert: 
-    'Böschung', // Böschung: 
-    'Bösewicht',  // Bösewicht: 
-    'Bottich',  // Bottich: 
-    'Boulette',   // Boulette:  
-    'Brache',  // Brache:  
-    'brandschatzen',  // brandschatzen: 
-    'brausen, Brause',  // 
+'Bordstein', // Bordstein: 
+'borniert',  // borniert: 
+'Böschung', // Böschung: 
+'Bösewicht',  // Bösewicht: 
+'Bottich',  // Bottich: 
+'Boulette',   // Boulette:  
+'Brache',  // Brache: 
+'branden, auf-',       
+'brandschatzen',  // brandschatzen: 
+'brausen, Brause',  // 
     'Brei (um den heißen B. herumreden)', // duplicated 
     'breitschlagen',  // breitschlagen:  
     'brenzlig', // brenzlig: 

@@ -79,28 +79,28 @@ const a = [
 'ansengen',     // ansengen:  
 'Ansinnen' ,    // Ansinnen:  
 'Anstand',     // Anstand:
-	'anstandslos',  // anstandslos:  
-	'anstupsen',    // anstupsen: 
-	'antanzen',     // antanzen:   
-	'Anwesen',      // Anwesen: 
-	'anwidern',     // anwidern:
-	'anwinkeln',  // anwinkeln: 
-	'Anzeige erstatten',  
-	'anzetteln',  // anzetteln:  
-	'anzüglich',  //  anzüglich:  
-	'apportieren', // apportieren: 
-	'Areal' ,  // Areal:  
-	'Arm (auf den A. nehmen)',  //  duplicated 
-    'Armaturenbrett; Brett, Bretter -wand, -verschlag, -bude',  // duplicated
-	'Armbeuge',    // Armbeuge:   
-	'arme Ritter', //   duplicated 
-	'armer Schlucker', //  duplicated 
-	'Arsch (in den A. kriechen)', // duplicated   
-	'Asservat',  // Asservat:  
-	'Ast, Geäst', //  duplicated 
-	'Attest, attestieren',     
-	'ätzen, wegätzen',  // duplicated
-    'Aue',  // Aue: 
+'anstandslos',  // anstandslos:  
+'anstupsen',    // anstupsen: 
+'antanzen',     // antanzen:   
+'Anwesen',      // Anwesen: 
+'anwidern',     // anwidern:
+'anwinkeln',  // anwinkeln: 
+'Anzeige erstatten',  
+'anzetteln',  // anzetteln:  
+'anzüglich',  //  anzüglich:  
+'apportieren', // apportieren: 
+'Areal' ,  // Areal:  
+'Arm (auf den A. nehmen)',  //  duplicated 
+'Armaturenbrett; Brett, Bretter -wand, -verschlag, -bude',  // duplicated
+'Armbeuge',    // Armbeuge:   
+'arme Ritter', //   duplicated 
+'armer Schlucker', //  duplicated 
+'Arsch (in den A. kriechen)', // duplicated   
+'Asservat',  // Asservat:  
+'Ast, Geäst', //  duplicated 
+'Attest, attestieren',     
+'ätzen, wegätzen',  // duplicated
+'Aue',  // Aue: 
 	'auf Biegen und Brechen', 
 	'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
 	'auf dem Kerbholz haben', //  duplicated  
@@ -137,18 +137,18 @@ const a = [
 'aufbrummen', // aufbrummen: 
 'aufdonnern',  // aufdonnern: 
 'auffliegen',  // auffliegen:  
-	'aufgabeln',   // aufgabeln:
-	'Aufgebot',  // Aufgebot:  
-	'aufgedunsen', // aufgedunsen:  
-	'aufgelöst',   // aufgelöst:   only for the "distraught" definition
-	'aufgeweckt',  // aufgeweckt: 
-	'aufgießen, Aufguss',  
-	'aufhalsen',   // aufhalsen: 
-	'aufjaulen',   // aufjaulen:  
-	'aufkratzen, aufgekratzt', 
-	'aufmucken',   // aufmucken:  
-	'aufmüpfig',  // aufmüpfig: 
-	'aufpäppeln',  // aufpäppeln:  
+'aufgabeln',   // aufgabeln:
+'Aufgebot',  // Aufgebot:  
+'aufgedunsen', // aufgedunsen:  
+'aufgelöst',   // aufgelöst:   only for the "distraught" definition
+'aufgeweckt',  // aufgeweckt: 
+'aufgießen, Aufguss',  
+'aufhalsen',   // aufhalsen: 
+'aufjaulen',   // aufjaulen:  
+'aufkratzen, aufgekratzt', 
+'aufmucken',   // aufmucken:  
+'aufmüpfig',  // aufmüpfig: 
+'aufpäppeln',  // aufpäppeln:  
 //	'aufplustern', // aufplustern:  why not?
 	'aufputschen',  // aufputschen: 
 	'aufs Auge drücken', // duplicated   
@@ -168,17 +168,17 @@ const a = [
 	'aus dem Konzept bringen', // duplicated     
 	'aus dem Häuschen', // duplicated 
     'aus dem Staub machen, Staub, stauben, ab-',
-	'aus der Haut fahren',   
-	'ausbaldowern', // ausbaldowern: 
-	'ausblenden',  // ausblenden: 
-	'ausborgen',  // ausborgen:  
-	'ausbremsen', // ausbremsen:  
-	'ausbügeln',  // ausbügeln:  
-	'Ausdünstung',  // Ausdünstung:  
-	'ausbüxen',    // ausbüxen:  
-	'Ausfallstraße',   // Ausfallstraße:
-	'ausfransen',  // ausfransen:  
-	'ausfressen',   // ausfressen:  
+'aus der Haut fahren',   
+'ausbaldowern', // ausbaldowern: 
+'ausblenden',  // ausblenden: 
+'ausborgen',  // ausborgen:  
+'ausbremsen', // ausbremsen:  
+'ausbügeln',  // ausbügeln:  
+'Ausdünstung',  // Ausdünstung:  
+'ausbüxen',    // ausbüxen:  
+'Ausfallstraße',   // Ausfallstraße:
+'ausfransen',  // ausfransen:  
+'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung', 
 	'ausklinken, einklinken',  // duplicated 
 	'ausladend',  // ausladend:

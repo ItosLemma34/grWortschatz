@@ -1,32 +1,32 @@
 const a = [
-	'aalglatt',   // aalglatt:     
-	'abbinden',   // abbinden:  
-	'abblitzen',  // abblitzen: 
-	'abebben',    // abebben:  
-	'abfackeln',  // abfackeln:  
-	'abgebrüht',  // abgebrüht:   
-	'abgrasen',   // abgrasen:   
-	'abgreifen, abgegriffen',
-	'abhalftern, abgehalftert',   
-	'abkanzeln' , // abkanzeln:  
-	'abklappern', // abklappern: 
-	'abknallen',  // abknallen:  
-	'abkommandieren',  // abkommandieren: 
-	'Ablage',     // Ablage:  
-	'abluchsen',  // abluchsen: 
-	'Abordnung',  // Abordnung: 
-	'abpassen',   // abpassen: 
-	'abreiben, Abreibung',  
-	'absäbeln',  //  absäbeln: 
-	'Abschaum',  // Abschaum: 
-	'abschüssig',  // abschüssig: 
-	'absegnen',  // absegnen: 
-	'abspecken',  // abspecken: 
-	'abspulen',   // abspulen:  
-	'abstottern', // abstottern: 
-	'abstumpfen, stumpf',  // duplicated
-	'abtrünnig',  // abtrünnig:
-    'abwetzen',  // abwetzen:     
+'aalglatt',   // aalglatt:     
+'abbinden',   // abbinden:  
+'abblitzen',  // abblitzen: 
+'abebben',    // abebben:  
+'abfackeln',  // abfackeln:  
+'abgebrüht',  // abgebrüht:   
+'abgrasen',   // abgrasen:   
+'abgreifen, abgegriffen',
+'abhalftern, abgehalftert',   
+'abkanzeln' , // abkanzeln:  
+'abklappern', // abklappern: 
+'abknallen',  // abknallen:  
+'abkommandieren',  // abkommandieren: 
+'Ablage',     // Ablage:  
+'abluchsen',  // abluchsen: 
+'Abordnung',  // Abordnung: 
+'abpassen',   // abpassen: 
+'abreiben, Abreibung',  
+'absäbeln',  //  absäbeln: 
+'Abschaum',  // Abschaum: 
+'abschüssig',  // abschüssig: 
+'absegnen',  // absegnen: 
+'abspecken',  // abspecken: 
+'abspulen',   // abspulen:  
+'abstottern', // abstottern: 
+'abstumpfen, stumpf',  // duplicated
+'abtrünnig',  // abtrünnig:
+'abwetzen',  // abwetzen:     
 	'abwiegeln',  // abwiegeln:      
 	'abwimmeln',  // abwimmeln:     
 	'abzocken',  // abzocken:  
@@ -49,31 +49,31 @@ const a = [
 'an die große Glocke hängen',   
 'anbändeln',    // anbändeln: 
 'anberaumen',  // anberaumen: 
-	'anbiedern, Anbiederung', 
-	'anbinden, kurz angebunden',   // duplicated  
-	'anblaffen',    // anblaffen:    
-	'anbrechen',    // anbrechen:  
-	'andrehen',   // andrehen: 
-	'anecken',      // anecken:  
-	'anfunkeln',  // anfunkeln: 
-	'angeben, Angeber',    
-	'angeschickert', // angeschickert: 
-	'anherrschen',  // anherrschen:
-	'anheuern',  // anheuern: 
-	'anhimmeln',    // anhimmeln: 
-	'Anhöhe',  // Anhöhe:
-	'Anleger, Fähre', // duplicated
-	'anleinen',     // anleinen: 
-    'anmaßen',  // anmaßen:
-	'anmotzen',  // anmotzen:
-	'anpeilen',  // anpeilen:   
-	'Anpfiff' ,     // Anpfiff:  
-	'anpflaumen',   // anpflaumen:  
-	'anpumpen',     // anpumpen: 
-	'anquatschen',   // anquatschen: 
-	'Anrichte',     // Anrichte: 
-	'ans Bein binden',  //  duplicated 
-	'anschmiegsam', // anschmiegsam: 
+'anbiedern, Anbiederung', 
+'anbinden, kurz angebunden',   // duplicated  
+'anblaffen',    // anblaffen:    
+'anbrechen',    // anbrechen:  
+'andrehen',   // andrehen: 
+'anecken',      // anecken:  
+'anfunkeln',  // anfunkeln: 
+'angeben, Angeber',    
+'angeschickert', // angeschickert: 
+'anherrschen',  // anherrschen:
+'anheuern',  // anheuern: 
+'anhimmeln',    // anhimmeln: 
+'Anhöhe',  // Anhöhe:
+'Anleger, Fähre', // duplicated
+'anleinen',     // anleinen: 
+'anmaßen',  // anmaßen:
+'anmotzen',  // anmotzen:
+'anpeilen',  // anpeilen:   
+'Anpfiff' ,     // Anpfiff:  
+'anpflaumen',   // anpflaumen:  
+'anpumpen',     // anpumpen: 
+'anquatschen',   // anquatschen: 
+'Anrichte',     // Anrichte: 
+'ans Bein binden',  //  duplicated 
+'anschmiegsam', // anschmiegsam: 
 'anschnauzen',  // anschnauzen: 
 'anschwärzen',  // anschwärzen:  
 'ansengen',     // ansengen:  

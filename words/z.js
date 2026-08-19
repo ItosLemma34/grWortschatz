@@ -5,19 +5,19 @@ const z = [
 'Zahn (auf den Z. fühlen)', //  duplicated 
 'Zange (in die Z. nehmen)', //  duplicated 
 'zanken',  // zanken: 
-   'Zapfen, zapfen, an-', // duplicated 
-   'zappeln', // zappeln:  
-   'Zarge' , // Zarge:  
-   'zartbesaitet, besaitet',  // duplicated
-   'zaudern', // zaudern: 
-   'Zaunlatte, Dachlatte',  // duplicated 
-   'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated 
-   'zechen',     // zechen: 
-   'Zeh, Zehenspitze',   
-   'Zeltplane' ,   // Zeltplane: 
-   'zerdeppern',   // zerdeppern: 
-   'zerfleddert',  // zerfleddert:
-   'zerfurchen, zerfurcht', 
+'Zapfen, zapfen, an-', // duplicated 
+'zappeln', // zappeln:  
+'Zarge' , // Zarge:  
+'zartbesaitet, besaitet',  // duplicated
+'zaudern', // zaudern: 
+'Zaunlatte, Dachlatte',  // duplicated 
+'Zaunpfahlwink',  // Zaunpfahlwink:  duplicated 
+'zechen',     // zechen: 
+'Zeh, Zehenspitze',   
+'Zeltplane' ,   // Zeltplane: 
+'zerdeppern',   // zerdeppern: 
+'zerfleddert',  // zerfleddert:
+'zerfurchen, zerfurcht', 
 'zerknicken' ,  // zerknicken:  
 'zerknirscht',  // zerknirscht: 
 'zerknittern, verknittern',  // duplicated 

@@ -7,16 +7,16 @@ const k = [
    'Kajüte',  // Kajüte:  
    'Kalauer, kalauern', // 
    'Kanapee', // Kanapee: 
-   'Kanne',  // Kanne: 
-   'Kante (sich die K. geben)',
-   'Kantholz',  // Kantholz: 
-   'Karnickel', // Karnickel:
-   'Karosserie', // Karosserie:
-   'Karree',   // Karree:   
-   'karren, Karren',  //  
-   'Kaschemme',  // Kaschemme: 
-   'kaschieren', // kaschieren: 
-   'Kassiber',  // Kassiber: 
+'Kanne',  // Kanne: 
+'Kante (sich die K. geben)',
+'Kantholz',  // Kantholz: 
+'Karnickel', // Karnickel:
+'Karosserie', // Karosserie:
+'Karree',   // Karree:   
+'karren, Karren',  //  
+'Kaschemme',  // Kaschemme: 
+'kaschieren', // kaschieren: 
+'Kassiber',  // Kassiber: 
 'Kater, verkatert', // duplicated 
 'katzbuckeln',  // katzbuckeln: 
 'kauern',  // kauern: 
@@ -27,39 +27,40 @@ const k = [
 'keilen, Keil',   
 'Keim, keimen',   
 'kein Kraut gewachsen',  
+'keinen blassen Schimmer, schimmern, Schimmer', // duplicated
 'keinen Reim machen können', //  duplicated 
 'keinen Zwang antun',  // duplicated 
 'Kelch',  // Kelch: 
 'kentern',  // kentern:
 'Kerbholz (auf dem K. haben)',//  duplicated 
-   'Kerbe',  // Kerbe: 
-   'Kerker', // Kerker:
-   'kess',  // kess: 
-   'ketten, Kette, Kettenkarussell',  
-   'keuchen',  // keuchen:
-   'Keule', // Keule: 
-   'kichern, Gekicher',  // duplicated 
-   'Kieker (auf dem K. haben)',  
-   'Kies, Kiesel',  
-   'Kimme und Korn',   
-   'Kinderficker',  // Kinderficker: 
-   'Kinkerlitzchen', // Kinkerlitzchen: 
-   'Kipplaster',  // Kipplaster: 
-   'Kirschen essen',  
-   'Kittel',  // Kittel: 
-   'kitten',  // kitten:
-   'kitzeln, Kitzel',  
-   'klackern', // klackern: 
-   'Klacks',  // Klacks: 
-   'Kladde',  // Kladde: 
-   'klaffen', // klaffen: 
-   'klamm',  // klamm: 
-   'Klammer, klammern',   
-   'klammheimlich', // klammheimlich: 
-   'Klappe', // Klappe: 
-   'klappern',  // klappern: 
-   'klapprig',  // klapprig:  
-   'Klapsmühle', // Klapsmühle: 
+'Kerbe',  // Kerbe: 
+'Kerker', // Kerker:
+'kess',  // kess: 
+'ketten, Kette, Kettenkarussell',  
+'keuchen',  // keuchen:
+'Keule', // Keule: 
+'kichern, Gekicher',  // duplicated 
+'Kieker (auf dem K. haben)',  
+'Kies, Kiesel',  
+'Kimme und Korn',   
+'Kinderficker',  // Kinderficker: 
+'Kinkerlitzchen', // Kinkerlitzchen: 
+'Kipplaster',  // Kipplaster: 
+'Kirschen essen',  
+'Kittel',  // Kittel: 
+'kitten',  // kitten:
+'kitzeln, Kitzel',  
+'klackern', // klackern: 
+'Klacks',  // Klacks: 
+'Kladde',  // Kladde: 
+'klaffen', // klaffen: 
+'klamm',  // klamm: 
+'Klammer, klammern',   
+'klammheimlich', // klammheimlich: 
+'Klappe', // Klappe: 
+'klappern',  // klappern: 
+'klapprig',  // klapprig:  
+'Klapsmühle', // Klapsmühle: 
    'Klatsch, klatschen',   
    'klauben', // klauben:  
    'klebrig', // klebrig: 
@@ -73,15 +74,15 @@ const k = [
    'klitzeklein', // klitzeklein: 
    'klobig',  // klobig:
    'Kloschüssel, Schüssel', // duplicate 
-   'Kloß',   // Kloß: 
-   'klotzen', // klotzen: 
-   'Klumpen, Klumpfuß',   
-   'Klüngel',  // Klüngel:   
-   'knacken',  // knacken: 
-   'Knall, knallen, zu-',  
-   'Knarre',  // Knarre: 
-   'knarren', // knarren: 
-   'knarzen', // knarzen: 
+'Kloß',   // Kloß: 
+'klotzen', // klotzen: 
+'Klumpen, Klumpfuß',   
+'Klüngel',  // Klüngel:   
+'knacken',  // knacken: 
+'Knall, knallen, zu-',  
+'Knarre',  // Knarre: 
+'knarren', // knarren: 
+'knarzen', // knarzen: 
 'knattern', // knattern: 
 'Knäuel',  // Knäuel: 
 'Knauf',  // Knauf: 

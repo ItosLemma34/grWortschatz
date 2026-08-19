@@ -24,27 +24,24 @@ const r = [
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
 'raunen',  // raunen:
-   'raunzen, an-',
-   'Raureif', // Raureif: 
-   'Rechen',  // Rechen: 
-   'recken',  // recken:  
-   'Regler', // Regler:
-   'reihern',  // reihern:
-   'Reim (keinen R. machen können)', //  duplicated 
-   'Reine (ins R.)', // duplicated 
-   'Reinfall', // Reinfall:  
-   'reinlegen, hereinlegen',  // duplicated 
-   'reinreiten, hineinreiten',  // duplicated  
-   'reinsemmeln', // reinsemmeln: 
-   'reinwürgen, Würge, würgen',  // duplicate  
+'raunzen, an-',
+'Raureif', // Raureif: 
+'Rechen',  // Rechen: 
+'recken',  // recken:  
+'Regler', // Regler:
+'reihern',  // reihern:
+'Reim (keinen R. machen können)', //  duplicated 
+'Reine (ins R.)', // duplicated 
+'Reinfall', // Reinfall:  
+'reinlegen, hereinlegen',  // duplicated 
+'reinreiten, hineinreiten',  // duplicated  
+'reinsemmeln', // reinsemmeln: 
 //   'reißen, gerissen',
 //   'reißen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zusammen-,zuruck-',
-
-   'reißerisch',  // reißerisch: 
-
-   'Reling',  // Reling
-   'Rempler, rempeln, an-',
-   'renitent',  // renitent: 
+'reißerisch',  // reißerisch: 
+'Reling',  // Reling
+'Rempler, rempeln, an-',
+'renitent',  // renitent: 
    'requirieren', // requirieren: 
    'reüssieren',  // reüssieren: 
    'Revers',  // Revers: 

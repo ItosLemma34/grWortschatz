@@ -93,26 +93,26 @@ const v = [
 'verschmitzt',  // verschmitzt:
 'verschnörkelt, verschnörkeln', //  check for other entries
 'verschnupft',  // verschnupft:  
-   'verschnüren',  // verschnüren:  
-   'verschollen', // verschollen:  
-   'verschorft, verschorfen', // 
-   'verschränken, verschränkt, Verschränkung',  
-   'verschreien',  // verschreien:   
-   'verschrumpeln',  // verschrumpeln: 
-   'verschwägert, verschwägern',
-   'verschwimmen',  // verschwimmen: 
-   'versehen',  // versehen: 
-   'versehentlich',  // versehentlich:
-   'versehren, Unversehrtheit, unversehrt',  // duplicated
-   'versemmeln',  // versemmeln:
-   'versengen',  // versengen:  
-   'versetzen',  // versetzen:
-   'verseuchen', // verseuchen:
-   'versickern',  // versickern: 
-   'versieben',  // versieben:  check for other entries
-   'versiegen',   // versiegen: 
-   'versifft',  // versifft: 
-   'versprengen', // versprengen:   
+'verschnüren',  // verschnüren:  
+'verschollen', // verschollen:  
+'verschorft, verschorfen', // 
+'verschränken, verschränkt, Verschränkung',  
+'verschreien',  // verschreien:   
+'verschrumpeln',  // verschrumpeln: 
+'verschwägert, verschwägern',
+'verschwimmen',  // verschwimmen: 
+'versehen',  // versehen: 
+'versehentlich',  // versehentlich:
+'versehren, Unversehrtheit, unversehrt',  // duplicated
+'versemmeln',  // versemmeln:
+'versengen',  // versengen:  
+'versetzen',  // versetzen:
+'verseuchen', // verseuchen:
+'versickern',  // versickern: 
+'versieben',  // versieben:  check for other entries
+'versiegen',   // versiegen: 
+'versifft',  // versifft: 
+'versprengen', // versprengen:   
    'verstauen',  // verstauen:  
    'versteifen', //  check for other entries  
    'Verstellung',  // Verstellung:   combine with verstellen if verstellen found

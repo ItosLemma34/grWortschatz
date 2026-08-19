@@ -48,7 +48,7 @@ const s = [
 'schikanieren', // schikanieren: 
 'Schilde (im S. führen)', //  duplicated  
 'Schimmel, (ver)schimmeln',  
-'schimmern, Schimmer, keinen blassen Schimmer', 
+'schimmern, Schimmer, keinen blassen Schimmer', // duplicated
 'Schinken',  // Schinken:
 'Schippe (von der S. springen)',  // duplicated
 'schlabbern', // schlabbern: 

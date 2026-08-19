@@ -37,15 +37,15 @@ const p = [
 'pieksen, piksen',
 'pilgern',  // pilgern: 
 'Pimpf',  // Pimpf: 
-  'Pinkel', // Pinkel: 
-  'pinkeln',  // pinkeln: 
-  'pinseln, bepinseln',  //  duplicated  
-  'Plackerei', // Plackerei:
-  'Plane',  // Plane:
-  'planschen', // planschen:  
-  'plappern, nach-, Geplapper',  // duplicated  
-  'platschen', // platschen: 
-  'plätschern', // plätschern: 
+'Pinkel', // Pinkel: 
+'pinkeln',  // pinkeln: 
+'pinseln, bepinseln',  //  duplicated  
+'Plackerei', // Plackerei:
+'Plane',  // Plane:
+'planschen', // planschen:  
+'plappern, nach-, Geplapper',  // duplicated  
+'platschen', // platschen: 
+'plätschern', // plätschern: 
   'Platzhirsch', // Platzhirsch: 
   'Plausch, plauschen',
   'ploppen',  // ploppen: 

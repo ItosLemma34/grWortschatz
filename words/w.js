@@ -1,10 +1,10 @@
 const w = [
-   'wabbeln', // wabbeln:  
-   'wackeln, verwackeln', // duplicated
-   'wacker', // wacker:  
-   'Wade' ,  // Wade: 
-   'waghalsig', // waghalsig: 
-   'wähnen',  // wähnen: 
+'wabbeln', // wabbeln:  
+'wackeln, verwackeln', // duplicated
+'wacker', // wacker:  
+'Wade' ,  // Wade: 
+'waghalsig', // waghalsig: 
+'wähnen',  // wähnen: 
 'Walze',  // Walze: 
 'wälzen, ab-',  
 'Wampe', // Wampe: 
@@ -59,16 +59,16 @@ const w = [
 'Wolf (durch den W. drehen)', //  duplicated 
 'wringen, auswringen', // duplicated
 'wuchern, überwuchern',  // duplicated 
-   'wuchten, Wucht',  
-   'wühlen, durch-, herum-',  
-   'wummern, Gewummer', //  duplicated  
-   'Würge, würgen, reinwürgen',  // duplicated 
-   'wurmen', // wurmen: 
-   'Wurmfortsatz', // Wurmfortsatz: 
-   'wuscheln',  // wuscheln: 
-   'wuseln',  // wuseln: 
-   'wüten',  // wüten: 
-   'wutschnaubend', // wutschnaubend: 
-   ];
+'wuchten, Wucht',  
+'wühlen, durch-, herum-',  
+'wummern, Gewummer', //  duplicated  
+'würgen, hinunter-, rein-',   
+'wurmen', // wurmen: 
+'Wurmfortsatz', // Wurmfortsatz: 
+'wuscheln',  // wuscheln: 
+'wuseln',  // wuseln: 
+'wüten',  // wüten: 
+'wutschnaubend', // wutschnaubend: 
+];
 
 export default w;      

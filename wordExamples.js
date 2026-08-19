@@ -1101,6 +1101,7 @@ lau: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Fritze</i>) ging den Weg rechts hinunter, der am kleinen Waldsee entlangführte. Selbst auf dem Steg der Finnischen Sauna saß heute niemand, obwohl angenehme Temperaturen herrschten, so um die zwanzig Grad, ein <b>laues</b> Lüftchen. (<i>Olympia</i>, 103)',
+    'Auf der Terrasse des Invalidenheims hoch über dem See wehte ein angenehmer, <b>lauer</b> Wind. (<i>Olympia</i>, 107)',
 ],
 // ß           ß    sich die Mäuler zerreißen           ß                 ß                   ß                   ß               ß                                 ß                                          ß                               ß                                                   ß                                                            ß                                             ß
 Anstand: [
@@ -2683,6 +2684,9 @@ schmählich: [
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
 	'Gerade als er die Straße hatte überqueren wollen, war dieser Kerl aufgetaucht, scheinbar aus dem Nirgendwo... SD, hatte Marlow zunächst gedacht, Rath wird doch noch vom SD überwacht... Aber der Mann hatte nicht ausgesehen wie ein SDler. Und dann hatte er Rath einfach zu Boden geschlagen. Sich auf ihn gestürzt, als wolle er ihm eine ordentlich <b>Abreibung</b> verpassen. (<i>Marlow</i>, 505)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>', 
+    'Ohne dass es dazu eines Kommandos bedurft hätte, hatte sich ein Kreis um die beiden Streithäne gebildet. Hinter Schröder, der sich gerade die weißen Uniformärmel hochschob, standen mehr Jungen als hinter Fritze. "Lass den doch", flüsterte Maxe, der direkt neben ihm stand, "der isses nich wert, dass du Ärger kriegst." "Ich lass mich doch nicht beleidigen", zischte Fritze und machte Anstalten, seine Jacke auszuziehen. "Der kriegt seine <b>Abreibung</b>. Ist schon lange überfällig." (<i>Olympia</i>, 105)', 
 ],
 säumig: [
     '<b>säumig</b>: overdue, delinquent, tardy; in default'+
@@ -6339,15 +6343,21 @@ plätschern: [
     '<b>plätschern</b>: babble, splash, gurgle'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plaetschern"target="target1">plätschern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pl%C3%A4tschern"target="target2">plätschern</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/pl%C3%A4tschern"target="target3">plätschern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/platschern"target="target4">plätschern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Wohnung von Herrn Müller stand offen. Rath ging hinein - und platschte in eine große Wasserlache. Die ganze Diele stand unter Wasser. Margarete Schäffner hockte auf dem Boden und wrang ein Putztuch aus. Das Wasser <b>plätscherte</b> in den Eimer. Sie hatte noch viel zu tun. (<i>Der nasse Fisch</i>, 432)',
     '<i>Rath</i>: "Und was haben Sie gesehen?" <i>Hermann Schäffner</i>: "Wollt ick ja erzählen: Also: überall Wasser, mehr als jetze, Margarete hat det meiste ja schon wegjewischt. Und da hör ick \'nen Wasserhahn <b>plätschern</b> und jeh ins Bad. Und da liegt er da auch inner Wanne. Mausetot." (<i>Der nasse Fisch</i>, 433)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Erst als alle völlig durchnässt waren, hörte der Regen auf. Von jetzt auf gleich. Es war, als habe jemand die Bindfäden mit einer großen Schere abgeschnitten. Ein letztes Prasseln, mehr ein <b>Pläschern</b>, dann war es vorbei. (<i>Märzgefallene</i>, 554)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Die Wanne war beinahe voll, und Charly drehte den Wasserhahn zu. Das Nach<b>plätschern</b> der letzten Tropfen erinnerte sie daran, dass es ratsam wäre, ein paar Geräusche zu machen, die vortäuschten, dass auch in Kabine 115 jemand in der Wanne lag... Sie lauschte. Aus der linken Kabine war leises <b>Pläschern</b> zu hören und noch leiseres Summen. Martha Döring schien sich wohlzufühlen. (<i>Marlow</i>, 23)',
     'Die warme feuchte Luft machte sie (<i>Charly</i>) schläfrig, bis ein Klopfen sie hochschrecken ließ. War ihre Zeit etwas schon abgelaufen? Nein, das kam von nebenan, in der Nachbarkabine regte sich etwas. Sie hörte ein Poltern und <b>Plätschern</b>: Martha Döring stieg aus der Wanne. (<i>Marlow</i>, 23-24)',
     'Rademanns Blick allein reichte, und es wurde so still, dass man nur noch die nahgelegen Saale (<i>ein Fluss</i>) <b>plätschern</b> und gluckern hörte. Bis ein scharfer Befehl die Stille zerschnitte. (<i>Marlow</i>, 51)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Sie (<i>Kieling und Kaufmann</i>) standen nun direkt am Seeufer, das Wasser <b>plätscherte</b> zu seinen (<i>Kielings</i>) Füßen und umspielte die Gummireifen des Rollstuhls. (<i>Olympia</i>, 110)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -6727,45 +6737,38 @@ vertilgen: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Gereon</i>) <b>klinkte</b> Kiries Halsband <b>aus</b>, und der Hund trottete gleich wieder zu seinem Lieblingsplatz unter Raths Schreibtisch. (<i>Märzgefallene</i>, 147)',
 ],
-'Würge, würgen, reinwürgen': [
-    'die <b>Würge</b>,-<b>n</b>: choking, strangling (<i>altmodisch</i>)'+
+'würgen, hinunter-, rein-': [
     '<br><b>würgen</b>: strangle, choke, gag, retch'+
+    '<br><b>hinunterwürgen</b>: choke/force down'+
     '<br><b>reinwürgen</b>: gorge, push in, force down/in'+
     '<br>jmdm. <b>eins reinwürgen</b>: get back at, spite so.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuergen"target="target1">würgen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/reinw%C3%BCrgen"target="target2">reinwürgen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=eins+reinw%C3%BCrgen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target3">eins reinwürgen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/w%C3%BCrgen"target="target4">würgen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=reinw%C3%BCrgen&id=verb%3Areinwu3rgen"target="target5">reinwürgen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+eine+%2F+eins+reinw%C3%BCrgen"target="target6">eins reinwürgen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuergen"target="target1">würgen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hinunterw%C3%BCrgen"target="target2">hinunterwürgen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/reinw%C3%BCrgen"target="target3">reinwürgen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20eins%20reinw%C3%BCrgen"target="target4">eins reinwürgen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/w%C3%BCrgen"target="target5">würgen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hinunterwurgen"target="target6">hinunterwürgen</a>'+
+        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/reinwurgen"target="target7">reinwürgen</a>'+
+        '&nbsp;&nbsp;<a href="https://dictionary.reverso.net/german-english/eins+reinw%C3%BCrgen"target="target8">eins reinwürgen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Vielen Dank, Sie waren mir ein große Hilfe", sagte Rath, so freundlich es ihm möglich war. Innerlich aber kochte er. Am liebsten hätte er den Alten <b>gewürgt</b>. (<i>Der nasse Fisch</i>, 141)',
     'Rath selbst war der Appetit vergangen, aber er versuchte, es sich nicht anmerken zu lassen. So gut es ging, <b>würgte</b> er die Bratkartoffeln und die Spiegeleier hinunter. Dabei schmeckten sie nicht einmal schlecht. (<i>Der nasse Fisch</i>, 387)',
     '<i>Gereon</i>: "Das freut den alten Böhm aber, was? Wenn ich Ärger kriege?" Rath goss das kochende Wasser in den Filter. <i>Charly</i>: "Ich glaube, ihr solltet euch mal aussprechen. Wäre besser, wenn ihr zusammenarbeitet, anstatt zu überlegen, wie man dem anderen <b>eins reinwürgen</b> kann." (<i>Der nasse Fisch</i>, 498)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Leo blieb die Luft weg, denn wieder hatte Katsche zugeschlagen. Diesmal in die Magengrube, fest und gezielt. Er musste <b>würgen</b>, und Katsche packte ihn am Kragen und zog ihn hoch. (<i>Märzgefallene</i>, 113)',
     'So hatte der Junge (<i>Fritze</i>) es vorhin erzählt. Wie er auf den Hof gelaufen war, wie er gesehen hatte, dass der Narbenmann über Hannah hockte und sie <b>würgte</b>, wie er den Dolch genommen und auf den Mann eingestochen hatte.... (<i>Märzgefallene</i>, 410)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Und Leo.. war aus seiner Deckung getreten, den Schläger in der Hand, bereit, Horst Kaczmaek von dem Alten herunterzuprügeln. Doch bevor er nah genug herankommen konnte, griff Katsche sich plötzlich an die Gurgel und stand auf, taumelte hin und her, röchelte und <b>würgte</b>. (<i>Lunapark</i>, 249)',
     'Der nächste Schlag sauste nieder, und der Schrei des Kommunisten ging in ein <b>Würge</b>geräusch über. Karl Reinhold erbrach sich durch die Bettfedern in den Blecheimer, den sie vorsichtshalber unter sein Gesicht gestellt hatten. (<i>Lunapark</i>, 334)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
-    '... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den Kloß in seinem Hals runterzu<b>würgen</b>, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)',
-],
-'reinwürgen, Würge, würgen': [
-    'die <b>Würge</b>,-<b>n</b>: choking, strangling (<i>altmodisch</i>)'+
-    '<br><b>würgen</b>: strangle, choke, gag, retch'+
-    '<br><b>reinwürgen</b>: gorge, push in, force down/in'+
-    '<br>jmdm. <b>eins reinwürgen</b>: get back at, spite so.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuergen"target="target1">würgen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/reinw%C3%BCrgen"target="target2">reinwürgen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=eins+reinw%C3%BCrgen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target3">eins reinwürgen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/w%C3%BCrgen"target="target4">würgen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=reinw%C3%BCrgen&id=verb%3Areinwu3rgen"target="target5">reinwürgen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=jdm.+eine+%2F+eins+reinw%C3%BCrgen"target="target6">eins reinwürgen</a>',
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    '"Vielen Dank, Sie waren mir ein große Hilfe", sagte Rath, so freundlich es ihm möglich war. Innerlich aber kochte er. Am liebsten hätte er den Alten <b>gewürgt</b>. (<i>Der nasse Fisch</i>, 141)',
-    'Rath selbst war der Appetit vergangen, aber er versuchte, es sich nicht anmerken zu lassen. So gut es ging, <b>würgte</b> er die Bratkartoffeln und die Spiegeleier hinunter. Dabei schmeckten sie nicht einmal schlecht. (<i>Der nasse Fisch</i>, 387)',
-    '<i>Gereon</i>: "Das freut den alten Böhm aber, was? Wenn ich Ärger kriege?" Rath goss das kochende Wasser in den Filter. <i>Charly</i>: "Ich glaube, ihr solltet euch mal aussprechen. Wäre besser, wenn ihr zusammenarbeitet, anstatt zu überlegen, wie man dem anderen <b>eins reinwürgen</b> kann." (<i>Der nasse Fisch</i>, 498)',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Leo blieb die Luft weg, denn wieder hatte Katsche zugeschlagen. Diesmal in die Magengrube, fest und gezielt. Er musste <b>würgen</b>, und Katsche packte ihn am Kragen und zog ihn hoch. (<i>Märzgefallene</i>, 113)',
-    'So hatte der Junge (<i>Fritze</i>) es vorhin erzählt. Wie er auf den Hof gelaufen war, wie er gesehen hatte, dass der Narbenmann über Hannah hockte und sie <b>würgte</b>, wie er den Dolch genommen und auf den Mann eingestochen hatte.... (<i>Märzgefallene</i>, 410)',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Und Leo.. war aus seiner Deckung getreten, den Schläger in der Hand, bereit, Horst Kaczmaek von dem Alten herunterzuprügeln. Doch bevor er nah genug herankommen konnte, griff Katsche sich plötzlich an die Gurgel und stand auf, taumelte hin und her, röchelte und <b>würgte</b>. (<i>Lunapark</i>, 249)',
-    'Der nächste Schlag sauste nieder, und der Schrei des Kommunisten ging in ein <b>Würge</b>geräusch über. Karl Reinhold erbrach sich durch die Bettfedern in den Blecheimer, den sie vorsichtshalber unter sein Gesicht gestellt hatten. (<i>Lunapark</i>, 334)',
-    '<span class="bookTitle"><u>Marlow</u></span>',
-    '... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den Kloß in seinem Hals runterzu<b>würgen</b>, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)',
+    '... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den Kloß in seinem Hals <b>runterzuwürgen</b>, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Ich..", begann er (<i>Kieling</i>) und stockte, musste erst den Kloß in seinem Hals <b>hinunterwürgen</b>. "Ich meine: Richten Sie dem Reichsminister meinen allerherzlichsten Dank aus." <i>Kaufmann</b>: "Aber gerne." (<i>Olympia</i>, 110)',
 ],
 deponieren: [
     '<b>deponieren</b>: place, deposit, consign sth.'+
@@ -7645,10 +7648,15 @@ vermaledeit: [
     '<b>vermaledeit</b>: accursed, damned'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vermaledeit"target="target1">vermaledeit</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/vermaledeit/"target="target2">vermaledeit</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/vermaledeit"target="target3">vermaledeit</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/vermaledeit"target="target4">vermaledeit</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Ausgerechnet mit dem <b>vermaledeiten</b> Fall Wilczek sollte er (<i>Rath</i>) auch noch vor die Journaille treten! (<i>Der nasse Fisch</i>, 306)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Versprach sie (<i>Irene Schmeling</i>) sich Trost davon, Dinge von ihm (<i>Brunner</i>) zu erfahren, die sie noch nicht wusste?... Dass sie eine gemainsame Zukunft hätten haben können? Hätten haben können. Wenn er nicht in dieses <b>vermaledeite</b> Taxi gestiegen wäre. (<i>Marlow</i>, 306)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Er (<i>Kieling</i>) versuchte, sich mit den Händen aufzurichten, der See war hier jedoch schon zu tief, er hätte sich hinstellen müssen, um mit seinem Kopf an die Oberfläche zu gelangen, doch seine <b>vermaledeiten</b> Beine konnten nicht mehr stehen. <i>Er</i> konnte nicht mehr stehen. Seit dem elften Oktober fünfunddreißig (<i>dem Tag, an dem Liang getötet wurde, im Roman "Marlow"</i>). (<i>Olympia</i>, 111)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 'einspannen, ausspannen': [
@@ -8021,26 +8029,34 @@ schlüpfen: [
     '<b>schlüpfen</b>: slip (off, away, into, through)'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schluepfen"target="target1">schlüpfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schl%C3%BCpfen"target="target2">schlüpfen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schluepfen#schl%C3%BCpfen"target="target3">schlüpfen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlupfen"target="target4">schlüpfen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Schnell, aber ohne ein Geräusch zu verursachen, hatte er (<i>Rath</i>) die Tür geöffnet, war hinaus<b>geschlüpft</b> und hatte sie wieder geschlossen. (<i>Der nasse Fisch</i>, 382)',
     'Langsam öffnete er (<i>Rath</i>) die Tür und schielte hinaus. In der Diele war niemand. Ob das Bad frei war? Die Tür war nur angelehnt. Er <b>schlüpfte</b> aus dem Zimmer. Freie Bahn! (<i>Der nasse Fisch</i>, 497)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '"Meinen Sie etwa, der ist hier bei einem unter<b>geschlüpt</b>?", fragte ihn (<i>Rath</i>) ein bebrilltes Männlein in einer grauen Strickjacke, bei dem Rath im dritten Stock geklingelt hatte. "Sparense sich die Arbeit. So blöd ist hier keiner. Fragense lieber mal nebenan." (<i>Der stumme Tod</i>, 137)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Rath</i>) wülte in seiner Manteltasche und fand die Sperrhaken. Dann machte er sich an einem der Vorhängeschlösser zu schaffen. Fritze schaute ihm bewundernd zu. Rath öffnete die Tür... und sie <b>schlüpften</b> hinein ins Gebäude. (<i>Märzgefallene</i>, 406)',
     'Charly ging in den Flur und öffnete. Kaum war die Tür auch nur einen kleinen Spalt offen, <b>schlüpfte</b> der Hund hindurch und an Charly vorbei. Kirie hatte nach ihren Spaziergängen immer nichts Eiligeres zu tun, als sich umgehend wieder in ihr Körbchen zu legen. (<i>Märzgefallene</i>, 448)',
     'Und so hatte Wosniak als Erstes für seinen eigenen Tod gesorgt, um fortan in die Rolle des mordenden Todesengels <b>schlüpfen</b> zu können und zugleich die letzten Mitwisser auszuschalten. (<i>Märzgefallene</i>, 564)',
     '"Meinen Mantel, bitte, Fräulein", sagte die Frau... Hannah ging zur Garderobe, nahm den schweren Mantel vom Bügel, und die Frau <b>schlüpfte</b> hinein. (<i>Märzgefallene</i>, 594)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Schließlich spürte er (<i>Rath</i>), wie er die Zuhaltung (<i>des Schlosses</i>) zu fassen bekam, sie bewegte sich schwergängig, weil das Schloss wohl schon länger nicht mehr geöffnet worden war. Aber schießlich sprang der Riegel mit einem lauten Schnappen zurück. Ein letzter Blick auf die Straße, dann schob Rath den rechten Flügel des stählernen Tors langsam nach innen, nur so weit, dass er duch den Spalt <b>schlüpfen</b> konnte. (<i>Lunapark</i>, 370)',
     'Er (<i>Rath</i>) setzte sich auf, zog das Krankenhausnachthemd aus und <b>schlüpfte</b> in seine Sachen, die sauber gefaltet über einem Stuhl neben dem Bett hingen. (<i>Lunapark</i>, 389)',
     'Rath öffnete die Tür, neben der er stand und <b>schlüpfte</b> hinein, horchte auf die Schritte, die sich draußen in langsamem Stakkato näherten. (<i>Lunapark</i>, 432)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Brunner genoss dieses Gefühl. Ein anderer zu sein.. Weil er es liebte, in die Haut eines anderen zu <b>schlüpfen</b>, weil er es so glaubhaft erscheinen ließ, ein anderer zu sein. (<i>Marlow</i>, 15)',
     'Das Hoftor hatte er (<i>Rath</i>) mit Hilfe der Sperrhaken schnell überwunden; er zog es sofort wieder zu, nachdem er hindurch<b>geschlüpft</b> war, und hatte nun - vor Blicken geschützt durch die Mauer des Firmengeländes - alle Zeit der Welt, um in das Verwaltungsgebäude zu gelangen. (<i>Marlow</i>, 270)',
     'Auch jetzt bewegte er (<i>Rath</i>) sich ganz langsam und vorsichtig, öffnete die Tür nur so weit, dass er gerade hindurch<b>schlüpfen</b> konnte, dann ließ er sie langsam wieder ins Schloss fallen. (<i>Marlow</i>, 274)',
     'Während die anderen das Kirchenschiff betraten, wandte er (<i>Rath</i>) sich in der Vorhalle nach rechts und <b>schlüpfte</b> durch eine unscheinbare Tür ins Treppenhaus, das im Südturm untergebracht war und zum Wohnungs- und Bürotrakt hinaufführte. (<i>Marlow</i>, 441)',
     'Sebastian Tornow war führendes Mitglied der <i>Weißen Hand</i> gewesen, jenem Geheimbund frustrierter Polizeibeamter, die Selbstjustiz übten an Verbrechern, die dem Rechtsstaat durch die Maschen <b>geschlüpft</b> waren. Rath hatte ihnen das Handwerk gelegt und Tornow persönlich gestellt. (<i>Marlow</i>, 508)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Er (<i>Dave Albritton</i>) zeigte auf Fritze. "We have an appointment, remember?" Fritze konnte sich nicht erinnern, doch er <b>schlüpfte</b> zurück in die Ärmel seiner Uniform und nahm Haltung an. "Of course, Sir!" (<i>Olympia</i>, 106)',
 ],
 Schaukasten: [
     'der <b>Schaukasten</b>,-<b>kästen</b>: display, showcase'+
@@ -10372,15 +10388,15 @@ anstupsen: [
     'Unter dem großen Werbeschild über der Gegengeraden.. erblickte Hannah einen weißen Damenhut, der aus den vielen dunklen Herrenhüten hervorstach. Da standen sie. Alle vier. (<i>Gereon, Charly, Paul, Greta</i>) Als hätten sie sich dort verabredet. Sie <b>stupste</b> Fritze <b>an</b> und zeigte hinüber. Der Junge grinste. (<i>Märzgefallene</i>, 597)',
 ],
 abschüssig: [
-    '<b>abschüssig</b>: (steeply) sloping, precipitous'+
+    '<b>abschüssig</b>: sloping, precipitous'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abschuessig"target="target1">abschüssig</a> &nbsp;<a href="https://www.dwds.de/wb/absch%C3%BCssig"target="target2">abschüssig</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abschussig"target="target3">abschüssig</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abschuessig#absch%C3%BCssig"target="target4">abschüssig</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath war erstaunt, wie schnell der kräftig gebaute Wolter trotz seines Körpergewichts die leicht <b>abschüssige</b> Hermannstraße hinunterlief. (<i>Der nasse Fisch</i>, 22)',
     // Olympia
-//    '<span class="bookTitle"><u>Olympia Fisch</u></span>',
-//    '      (<i>Olympia</i>, 110)',    
+    '<span class="bookTitle"><u>Olympia Fisch</u></span>',
+    'Kaufmann schob ihn (<i>Kieling</i>) vom Kiesweg weg zum See hinunter, der dem Weg an dieser Stelle am nächsten kam. Nur ein paar Meter, leicht <b>abschüssig</b>. (<i>Olympia</i>, 110)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 abgebrüht: [
@@ -16888,13 +16904,19 @@ katzbuckeln: [
     '<b>katzbuckeln</b>: kowtow, bow & scrape'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/katzbuckeln"target="target1">katzbuckeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/katzbuckeln"target="target2">katzbuckeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/katzbuckeln"target="target3">katzbuckeln</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/katzbuckeln"target="target4">katzbuckeln</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '"Sie haben sich das selbst zuzuschreiben", sagte Gennat, "allein Ihre Eigenmächtigkeiten haben Sie in diese Situation gebracht." <i>Rath</i>: "Jawohl, Herr Kriminalrat." "Hören Sie auf zu <b>katzbuckeln</b>. Ändern Sie lieber ihr Verhalten!.."  (<i>Der stumme Tod</i>, 213)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Gereon</i>) hatte ihr (<i>Charly</i>) nicht verraten, wohin er sie ausführen wollte, lediglich erzählt, dass elegante Abendgarderobe nötig sein würde.... Der Empfangskellner, der zunächst einen arrogant blasierten Eindruck gemacht hatte, konnte sich vor lauter <b>Katzbuckeln</b> gar nicht mehr einkriegen, kaum hatte er den Namen Rath vernommen. (<i>Märzgefallene</i>, 191-92)',
     'Er (<i>Rath</i>) konnte Charlys Unwillen immer mehr nachvollziehen, auch ihm machte die Arbeit in der Burg keinen richtigen Spaß mehr, seit die Politik alles andere beherrschte... Ernst Gennat schien es ähnlich zu gehen, jedenfalls <b>katzbuckelte</b> der Kriminalrat nicht vor dem neuen Polizeipräsidenten wie so viele andere. (<i>Märzgefallene</i>, 536)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath machte sich auf den Weg. Draußen vor der Tür passte ihn Kriminalkommissar Westermann vom Vermisstendezernat ab, ein Mann, dessen <b>katzbuckelnde</b> Art er noch nie hatte leiden können. (<i>Marlow</i>, 90)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Er (<i>Fritze</i>) ging zu Albritton hinüber und folgte ihm in Richtung Schwimmhalle, hinter der die Unterkünfte der Amerikaner lagen. "Das will\'n deutscher Junge sein?", hörte er Schröder zu den anderen sagen. "Und <b>katzbuckel</b.> vor so\'nem Neger." (<i>Olympia</i>, 106)',
 ],
 kauern: [
     '<b>kauern</b>: crouch (down); cower'+  
@@ -16981,15 +17003,18 @@ kauern: [
     '<br>der <b>Kiesel</b>,-: pebble'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kies"target="target1">Kies</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kiesel"target="target2">Kiesel</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kies?q=Kies"target="target3">Kies</a> &nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kiesel?q=Kiesel"target="target4">Kiesel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die jungen Beamten warfen sich unsichere Blicke zu. Dann schulterten sie den Sarg wieder und trugen ihn langsam zurück auf den Friedhofsweg. Der Pfarrer, der auf dem <b>Kies</b> stehen geblieben war, um dort seine Worte zu sprechen, wich ihnen irritiert aus. (<i>Der nasse Fisch</i>, 404)',
     'Dienstbeflissen eilte der Schupo zum Tor und öffnete beide Flügel. Der <b>Kies</b> knirschte, als ein schwerer Mayback langsam aus der Einfahrt rollte. Im Fond erkannte Rath das Gesicht von Zörgiebel, der in irgendwelchen Akten las. (<i>Der nasse Fisch</i>, 502)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Minus (<i>Meifert</i>) saß auf einer Bank im hinteren Teil des Parks, wo der <b>Kies</b>weg dem Bahndamm am nächsten kam, und blätterte in einer Zeitung. (<i>Märzgefallene</i>, 245)',
     '"Marlow ist nervös", flüsterte er (<i>Gereon</i>), während sie (<i>Charly und Gereon</i>), geleitet von einer der Wachen, den <b>Kies</b>weg zum Haus hinaufgingen. "Seine Rivalen, die Nordpiraten, paktieren mit der Berliner SA." (<i>Märzgefallene</i>, 427)',
     'Am Rande des Abgrunds aber stand eine alte Buche mit grau-grün schimmernder Rinde, zwischen deren Wurzeln der Waldboden hell betupft war. Steine, wie Rath erkannte, als er sich hinhockte, kleine <b>Kiesel</b>steine vom Rheinufer, die jemand hier abgelegt hatte. (<i>Märzgefallene</i>, 440)',
     '...da hörte er (<i>Rath</i>) Motorengeräusche... und den knirschenden <b>Kies</b> des Parkplatzes, dann von der Straße her das typische Scheppern, das die Dienstwagen der preußischen Polizei verursachten. (<i>Märzgefallene</i>, 440)',
     'Einen Moment fürchtete Rath, sie (<i>Eva Heinen</i>) werde an der Buche vorübergehen und wirklich nur ein Stückchen in den Wald, dann aber blieb sie genau vor dem Baum mit den vielen kleinen <b>Kiesel</b>steinen stehen. (<i>Märzgefallene</i>, 441)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath trat seine Zigarette aus und ging über den <b>Kies</b>weg zur Haustür. (<i>Lunapark</i>, 233)',
     'Ein Geräusch riss ihn aus seinen Gedanken. Knirschender <b>Kies</b>. Schritte. Rath duckte sich neben den Kasten von Madame Luna und lauschte. Er täuschte sich nicht. Da kam tatsächlich jemand von der Berg- und Talbahn her über das Gelände. (<i>Lunapark</i>, 374)',
@@ -16998,10 +17023,15 @@ kauern: [
     'Noch bevor er genau wusste, was überhaupt geschehen war, spürte Rath einen heftigen Schmerz an der Schulter und fand sich auf dem Boden wieder. Glas splitterte mit einem Klirren, das ihm nach der beinahe andächtigen Stille, die bislang geherrscht hatte, irrsinnig laut erschien, Scherben regneten auf ihn hinab. Seine Waffe rutschte aus der Manteltasche und schlidderte über den <b>Kies</b>. (<i>Lunapark</i>, 526)',
     'Der Baseballschläger traf den <b>Kies</b> genau dort, wo Rath eben noch gelegen hatte, und ließ die kleinen Steine in alle Richtungen spritzen. (<i>Lunapark</i>, 526)',
     '...er (<i>Rath</i>) hatte den Baseballschläger genommen und zugeschlagen. So fest er konnte auf den Kopf geschlagen, bis der Mann still war. Hatte ihm den Puls gefühlt, um ganz sicher zu sein, und den Schläger zurück zu Madame Luna gebracht, wo noch die Spuren ihres Kampfes im <b>Kies</b> zu sehen waren. (<i>Lunapark</i>, 539)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u> und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert Stiefel knirschten im <b>Kies</b> wie einer. (<i>Marlow</i>, 51)'+
     '<br>[<i>der <u>Bann</u>: district, jurisdictional territory</i> (outdated meaning); &nbsp;&nbsp;or: <i>Gliederungsbereich innerhalb der Hitlerjugend</i>]',
     'Es knirscht im <b>Kies</b>, schwere Stiefel nähern sich. Reitstiefel. (<i>Marlow</i>, 351)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wollen wir nicht einen kleinen Spaziergang machen?" Ohne eine Antwort abzuwarten, nahm der Mann, der sich als Kaufmann vorgestellt hatte, den Rollstuhl und schob ihn (<i>Kieling</i>) weg von den anderen, die auf der Terrasse saßen und die Sonne und den Ausblick genossen. Der <b>Kies</b> knirschte, als die Gummireifen ihn erreichten. (<i>Olympia</i>, 109)',
+    'Kaufmann schob ihn (<i>Kieling</i>) vom <b>Kies</b>weg weg zum See hinunter, der dem Weg an dieser Stelle am nächsten kam. Nur ein paar Meter, leicht abschüssig. (<i>Olympia</i>, 110)',
 ],
 Klaue: [
     'die <b>Klaue</b>,-<b>n</b>: claw'+
@@ -17066,7 +17096,7 @@ Kittel: [
     'Der SS-Mann im Arzt<b>kittel</b> nickte dem Obersturmbannführer zu und wies auf den dickbäuchigen Toten auf der Bahre. (<i>Olympia</i>, 33)',
     '"..Noch während des Mittagsmahls ist Morgan plötzlich zusammengebrochen.. Kollege Schmidt.." - Grawitz deutete auf den zweiten Weiß<b>kittel</b> - "..attestierte vor Ort Herzversagen als Todesursache und..." "Danke, Oberführer!", unterbrach Tornow. "Ich denke, es ist nicht nötig, dass Sie sich in Einzelheiten verlieren..." (<i>Olympia</i>, 33)',
 ],
-// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klamm: [
     '<b>klamm</b>: clammy, dank, moist'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klamm"target="target1">klamm</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klamm"target="target2">klamm</a>'+
@@ -17349,22 +17379,27 @@ Kloß: [
     'der <b>Kloß</b>, die <b>Klöße</b>: dumpling, meatball; lump, clod, clump; fat slob'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Klosz"target="target1">Kloß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klo%C3%9F"target="target2">Kloß</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kloss?q=Klo%C3%9F"target="target3">Kloß</a>&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kloss#Klo%C3%9F"target="target4">Kloß</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Zwei Frauen lagen auf dem Balkon.... Blut sickerte aus Wunden an Kopf und Brust. Der Schrei musste von dem Mann gekommen sein, der sich über die ältere der beiden beugte. Sie (<i>Rath und Wolter</i>) erkannte den Mann, der ihnen eben noch die Tür geöffnet hatte... "Martha", sagte er. Immer nur dieses Wort: "Martha!" Rath spürte, wie sich ein <b>Kloß</b> in seinem Hals festsetzte, der immer dicker wurde. (<i>Der nasse Fisch</i>, 71)',
     'Rath nahm eine Sonntagszeitung vom Haken und suchte sich einen freien Tisch. Als der Kellner kam, bestellte er Sauerbraten mit <b>Klößen</b> und ein Bier. (<i>Der nasse Fisch</i>, 144)',
     'Gennat räusperte sich. "Herr Kommissar, sind Sie damit einverstanden, dass ich Ihr Büro durchsuchen lasse?" "Wenn Sie darauf bestehen, Herr Kriminalrat. Natürlich." Rath spürte einen <b>Kloß</b> im Hals aber er schluckte erst, als Gennat sich ans Telefon hängte und seine Leute anforderte. (<i>Der nasse Fisch</i>, 396)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath bestellte einmal Bierwurst mit Kartoffelsalat und eine Sinalco für Ziehlke, und für sich selbst Rinderbraten mit Kartoffel<b>klößen</b> und ein Glas Selters. (<i>Der stumme Tod</i>, 202)',
     'Ihre (<i>Kathis</i>) Schritte auf der Treppe. Zum letzten Mal. Dann sah er (<i>Gereon</i>) ihren roten Mantel unten im schummrigen Gaslicht des Hofes leuchten und dann im Dunkel der Toreinfahrt verschwinden. Zum letzten Mal. Er spürte einen <b>Kloß</b> in seinem Hals. (<i>Der stumme Tod</i>, 264)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Charly</i>: "Da bist du ja, dann kann ich die Kartoffel<b>klöße</b> ins Wasser geben." (<i>Märzgefallene</i>, 101)',
     'Er (<i>Gereon</i>) musste den <b>Kloß</b> aus seiner Kehle räuspern, bevor er weitersprechen konnte. (<i>Märzgefallene</i>, 104)',
     'Er (<i>Gereon</i>) steckte sich ein weiteres Stück in den Mund und kaute. "Gut", sagte er. Die <b>Klöße</b> und der Rotkohl schmeckten tatsächlich. (<i>Märzgefallene</i>, 105)',
     '<i>Charly</i>: "Jetzt bin ich hier, weil ich dir (<i>Hannah</i>) sagen möchte, dass der Mann, der dich töten wollte, nicht mehr lebt. Er wird dich nie mehr bedrohen." Hannah spürte einen riesigen <b>Kloß</b> in ihrer Kehle, der ihr sogar das Atmen schwermachte... "Warum wollte dieser Mann dich töten?", fragte sie (<i>Charly</i>) schließlich, und der <b>Kloß</b> in Hannahs Hals wurde größer, ließ keinen Ton nach außen dringen. (<i>Märzgefallene</i>, 435)',
     'Die Frau (<i>Charly</i>) setzte sich ans Bett. "Ich will dich (<i>Hannah</i>) nicht drängen. Aber ich brauche Gewissheit über den Mann, der dich hat umbringen wollen." Hannah spürte, wie der <b>Kloß</b> wieder dicker wurde. Die Frau sprach von Huckebein. (<i>Märzgefallene</i>, 465)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Charly wusste, dass ihre Wut ungerecht war, dennoch war sie da. Sie reagierte sich an Küchengeräten ab. Als die Kartoffel<b>klöße</b> endlich im Wasser waren, fing sie an aufzuräumen. (<i>Lunapark</i>, 127)',
     '<i>Gereon</i>: "..Kirie ist tot.".. <i>Charly</i>: "Mein Gott, das kann doch nicht wahr sein", sagte sie nach einer Weile, obwohl sie spürte, dass es das war. Sie hatte einen <b>Kloß</b> im Hals. "Was um Himmels willen ist denn passiert?" (<i>Lunapark</i>, 366)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Bei der Verabschiedung in Berlin vor zwei Wochen hatte er (<i>Fritze</i>) einen <b>Kloß</b> im Hals gehabt, aber geweint hatte er nicht. Obwohl ihm danach zumute war. (<i>Marlow</i>, 53)',
     '... Obergebietsführer Axmann hatte am Grab von Herbert Norkus eine Ansprache gehalten, am Grab jenes Hitlerjungen, den die Kommune vor drei Jahren gemeuchelt hatte. Fritze hatte kaum hingehört.., er hatte immer nur an Charly denken müssen und versucht, den <b>Kloß</b> in seinem Hals runterzuwürgen, was ihm aber nicht gelungen war. (<i>Marlow</i>, 54)',
@@ -17373,6 +17408,9 @@ Kloß: [
     'Fritze spürte, wie der <b>Kloß</b> in seinem Hals, den Rademann überhaupt erst verursacht hatte, indem er anfing, von Charly zu reden, immer größer wurde. (<i>Marlow</i>, 188)',
     '<i>Rademann zu Fritze</i>: "Die HJ tut alles dafür, aus euch genau die Jugend zu machen, die sich der Führer wünscht; die Jugend, die Deutschland braucht. Doch das geht nicht ohne Unterstützung aus dem Elternhaus." Wieder nickte Fritze. Einfach nur, weil er nicht wusste, was er sonst machen sollte. Außerdem spürte er einen <b>Kloß</b> in seinem Hals, der ihn am Sprechen hinderte. (<i>Marlow</i>, 423)',
     'Sie klingelten pünktlich. Fritze hätte es auch keine Sekunde länger ausgehalten da zu sitzen, gestiefelt und gespornt auf dem Sofa, alles sagen zu wollen und nichts sagen zu können, weil der <b>Kloß</b> im Hals viel zu dick war. (<i>Marlow</i>, 487)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Ich..", begann er (<i>Kieling</i>) und stockte, musste erst den <b>Kloß</b> in seinem Hals hinunterwürgen. "Ich meine: Richten Sie dem Reichsminister meinen allerherzlichsten Dank aus." <i>Kaufmann</b>: "Aber gerne." (<i>Olympia</i>, 110)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Knöchel: [
@@ -17394,20 +17432,27 @@ knirschen: [
     '<b>knirschen</b>: crunch, grind'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/knirschen"target="target1">knirschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/knirschen"target="target2">knirschen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/knirschen"target="target3">knirschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=knirschen"target="target4">knirschen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sämtliche Gaslaternen waren mit Steinen kaputt geworfen worden, ihr Glas <b>knirschte</b> auf dem Pflaster. An einigen Stellen waren die Holzstapel für den U-Bahn-Bau umgeworfen und über die Fahrbahn verteilt worden. (<i>Der nasse Fisch</i>, 69)',
     'Dienstbeflissen eilte der Schupo zum Tor und öffnete beide Flügel. Der Kies <b>knirschte</b>, als ein schwerer Mayback langsam aus der Einfahrt rollte. Im Fond erkannte Rath das Gesicht von Zörgiebel, der in irgendwelchen Akten las. (<i>Der nasse Fisch</i>, 502)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Es <b>knirscht</b>, als seine Mutter auf die Scherben tritt... Ihre Schritte <b>knirschen</b> weiter, auf sein Bett zu. (<i>Der stumme Tod</i>, 127)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Und diesmal, als er (<i>Leo</i>) wieder an einen bösen Scherz glaubte, hatten sie ihn wirklich aus dem Auto, das noch ausrollte, geworfen, auf spitzen Schotter, der ihn ins Fleisch schnitt und stach. Er hatte die Reifen noch über die Steine <b>knirschen</b> hören.., er vermutete, dass andere Männer bereits auf ihn gewartet hatten. (<i>Märzgefallene</i>, 109-10)',
     '...da hörte er (<i>Rath</i>) Motorengeräusche... und den <b>knirschenden</b> Kies des Parkplatzes, dann von der Straße her das typische Scheppern, das die Dienstwagen der preußischen Polizei verursachten. (<i>Märzgefallene</i>, 440)',
     'Er (<i>Rath</i>) hörte Schritte <b>knirschen</b> und erschrak. Dann sah er Charlys neugieriges Gesicht. Hatte sie sich doch noch überwinden können, die Verbotsschilder zu ignorieren, und war zu ihm hinabgestiegen. (<i>Märzgefallene</i>, 602)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Ganze Abteilung liiiinks um!" Sie kamen aus zwölf verschiedenen <u>Bannen</u> und dennoch reagierten sie auf Rademanns Befehl in derselben Präzision. Hundert Stiefel <b>knirschten</b> im Kies wie einer. (<i>Marlow</i>, 51)'+
     '<br>[<i>der <u>Bann</u>: district, jurisdictional territory (outdated meaning); &nbsp;&nbsp;or: Gliederungsbereich innerhalb der Hitlerjugend</i>]',
     'Es <b>knirscht</b> im Kies, schwere Stiefel nähern sich. Reitstiefel. (<i>Marlow</i>, 351)',
     'Charly schob einen zweiten Umschlag über den Tisch, den der Chinese irritiert anschaute, einen prall gefüllten Umschlag, der <b>knisterte</b>, wenn man ihn anfasste. (<i>Marlow</i>, 455)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wollen wir nicht einen kleinen Spaziergang machen?" Ohne eine Antwort abzuwarten, nahm der Mann, der sich als Kaufmann vorgestellt hatte, den Rollstuhl und schob ihn (<i>Kieling</i>) weg von den anderen, die auf der Terrasse saßen und die Sonne und den Ausblick genossen. Der Kies <b>knirschte</b>, als die Gummireifen ihn erreichten. (<i>Olympia</i>, 109)',
 ],
 Knüppel: [
     'der <b>Knüppel</b>,-: cudgel, club, truncheon'+
@@ -18264,6 +18309,7 @@ lässig: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Der Mann warf sich das Handtuch über die Schulter und deutete eine Verbeugung an. Sein dunkles Haar war noch feucht und streng gescheitelt, über der muskulösen Brust spannte sich ein Unterhemd. Wenigstens trug er bereits Hosen, doch hingen die Hosenträger noch schlaff an den Seiten herab. Auch das wirkte auf eine gewisse Weise <b>lässig</b>, und der Mann sah aus, als wisse er das. (<i>Olympia</i>, 48)',
+    'Owens schlenderte mit einer unglaublich <b>lässigen</b> Eleganz zu den Startlöchern, die er in die Asche gegraben hatte, und ging in Startposition. (<i>Olympia</i>, 104)',
 ],
 laff: [
     '<b>laff</b>: bland, weak, slack'+
@@ -21778,6 +21824,41 @@ schikanieren: [
     'Ihr steht eine Weile am Grab und schaut auf das schneeweiße Bündel hinab, das im Mondlicht <b>schimmert</b>. Dann beginnst du, das Grab zuzuschaufeln, und auch der Junge greift zu seinem Spaten. (<i>Marlow</i>, 167)',
     'Ein schöner Tag, die Sonne <b>schimmerte</b> durch das Blätterdach. (<i>Marlow</i>, 304)',
     'Er (<i>Rath</i>) hatte <b>keinen blassen Schimmer</b>, was ihn in der Wrangelstraße erwartete. Das heißt: Eigentlich schwirrten viel zu viele Gedanken in seinem Kopf herum, was alles passiert sein könnte, und bei einem, dem schlimmsten aller Gedanken, dass Charly etwas zugestoßen sein könnte, landete er immer wieder. (<i>Marlow</i>, 466)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der Mann vom Ministerium schob ihn(<i>Kieling/i>)  mit dem Rollstuhl in den Park hinein, immer weiter weg vom Haupthaus, vor dem die Kriegsinvaliden in der Sonne saßen. Sie tauchten in den Schatten der Bäume. Uralte Eichen und Buchen, zwischen denen das Wasser des Sees hindurch<b>schimmerte</b>. (<i>Olympia</i>, 110)',
+],
+'keinen blassen Schimmer, schimmern, Schimmer': [
+    '<b>schimmern</b>: glimmer, shimmer; shed a dim light'+
+    '<br>der <b>Schimmer</b>,-: shimmer, shine'+
+    '<br><b>keinen blassen Schimmer haben</b>: not have the foggiest idea'+
+    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schimmern"target="target1">schimmern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schimmer"target="target2">Schimmer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/keinen%20Schimmer%20haben"target="target3">keinen blassen Schimmer</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schimmern"target="target4">schimmern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schimmer"target="target5">Schimmer</a>&nbsp;&nbsp;<a href="https://glosbe.com/de/en/keinen%20blassen%20Schimmer%20haben"target="target6">keinen blassen Schimmer</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    'Er hatte keine Ahnung, wohin sie ihn verschleppt hatten.... Ein Keller, vermutete er. Oder eine Lagerhalle? Jedenfalls ein fensterloser Raum. Hier hinein drang kein Lichtstrahl, nur ein leises <b>Schimmern</b>. (<i>Der nasse Fisch</i>, 9)',
+    'Seit der Leichenwagen... losgefahren war, hatte Rath noch kein Wort mit Völcker gewechselt. Er betrachtete den Arzt aus den Augenwinkeln, eine hagere Gestalt in einem zerknitterten grauen Mantel, der ein wenig zu groß wirkte. Graue Bartstoppeln <b>schimmerten</b> an seinem spitzen Kinn.... (<i>Der nasse Fisch</i>, 77)',
+    'Er (<i>Gereon</i>) wollte neben ihr (<i>Charly</i>) einschlafen und neben ihr aufwachen. Und nun hatte er <b>keinen blassen Schimmer</b>, wie er sie unbemerkt an Elisabeth Behnke vorbeischmuggeln sollte. (<i>Der nasse Fisch</i>, 193)',
+    '<i>Weinert</i>: "..Ich glaube, die Russen hatten einen oder mehrere Deutsche zu Gast und gaben sich Mühe, Deutsch zu reden. Die einzigen russischen Wörter, die immer wieder fielen, waren - <i>Krasnaja Krepost</i>." <i>Rath</i>: "Die <i>Rote Festung</i>. Und da wusstest du plötzlich, dass das Kommis sind?" "Ich hatte <b>keinen blassen Schimmer</b>. Das habe ich alles erst später herausgefunden..." (<i>Der nasse Fisch</i>, 345)',
+    '<i>Rath</i>: "Wünschte, wir wären schon so weit. Bislang wissen wir nur, dass in der Stadt eine Waffenlieferung erwartet wird. Haben noch <b>keinen blassen Schimmer</b>, wann und wo." (<i>Der nasse Fisch</i>, 511)',
+    // Märzgefallene
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    'Er (<i>Leo</i>) hatte immer noch <b>keinen blassen Schimmer</b>, warum er hier eingesperrt war und was sie (<i>SA-Leute</i>) mit ihm vorhatten. (<i>Märzgefallene</i>, 218)',
+    'Roddeck blickte sich um. Als sich seine Augen an die Dunkelheit gewöhnt hatten, konnte er den Lichtschein erkennen, der von der Abzweigung her in den Tunnel glimmte und die Pfützen auf dem Betonboden gelblich <b>schimmern</b> ließ. (<i>Märzgefallene</i>, 566)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    '<i>Rath</i>: "Und deine (<i>Gräfs</i>) Pfeife mit drei F? (<i>gemeint ist Truppführer Pfeiffer</i>) Die da drüben gerade dem Kollegen Lange in die Parade fährt und die Zeugenvernehmung stört? Hat die auch nur <b>einen blassen Schimmer</b> von Polizeiarbeit?" (<i>Lunapark</i>, 25)',
+    'Irgendetwas an der jungen Frau kam Charly vage bekannt vor, vielleicht ihre Bewegungen, vielleicht die Art wie sie den Kopf in den Nacken legte, dennoch hatte sie <b>keinen blassen Schimmer</b>, um wen es sich handeln konnte. (<i>Lunapark</i>, 50)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    'Ihr Gesicht glänzt vor Schweiß und ist vom Schmerz gezeichnet. Kaum zu glauben, dass sie (<i>Chen-Lu</i>) gerade einmal Mitte dreißig ist, so zerfurcht wirken ihre Züge, so tief haben sich die Falten in ihre Haut gegraben. Und doch <b>schimmert</b> ihre Schönheit durch all dieses Leid hindurch. (<i>Marlow</i>, 9)',
+    'Der Junge schaut dich an mit einer Mischung aus Misstrauen und Zuneigung. Über seine unergründlich dunklen Augen huscht ein kleiner <b>Schimmer</b> der Hoffnung. Dann steht er auf und verlässt den Raum. (<i>Marlow</i>, 9)',
+    'Ihr steht eine Weile am Grab und schaut auf das schneeweiße Bündel hinab, das im Mondlicht <b>schimmert</b>. Dann beginnst du, das Grab zuzuschaufeln, und auch der Junge greift zu seinem Spaten. (<i>Marlow</i>, 167)',
+    'Ein schöner Tag, die Sonne <b>schimmerte</b> durch das Blätterdach. (<i>Marlow</i>, 304)',
+    'Er (<i>Rath</i>) hatte <b>keinen blassen Schimmer</b>, was ihn in der Wrangelstraße erwartete. Das heißt: Eigentlich schwirrten viel zu viele Gedanken in seinem Kopf herum, was alles passiert sein könnte, und bei einem, dem schlimmsten aller Gedanken, dass Charly etwas zugestoßen sein könnte, landete er immer wieder. (<i>Marlow</i>, 466)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der Mann vom Ministerium schob ihn mit dem Rollstuhl in den Park hinein, immer weiter weg vom Haupthaus, vor dem die Kriegsinvaliden in der Sonne saßen. Sie tauchten in den Schatten der Bäume. Uralte Eichen und Buchen, zwischen denen das Wasser des Sees hindurch<b>schimmerte</b>. (<i>Olympia</i>, 110)',
 ],
 'Schinder, schinden, Eindruck-, geschunden': [
     'der <b>Schinder</b>,-: oppressor, bully'+
@@ -21918,15 +21999,24 @@ schlendern: [
     '<b>schlendern</b>: saunter, stroll, amble'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlendern"target="target1">schlendern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlendern"target="target2">schlendern</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlendern"target="target3">schlendern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlendern"target="target4">schlendern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das <i>Theater am Nollendorfplatz</i> spuckte gerade das Publikum der letzten Vorstellung aus, als zwei Lastwagen um die Ecke bogen und in die Motzstraße rasten. Die Kinobesucher sahen den Wagen nach, die wenige Meter hinter der amerikanischen Kirche mit quietschenden Reifen hielten.. Da schien etwas los zu sein! Einige Kinogänger erwarteten offensichtlich eine Fortsetzung des Films im richtigen Leben und <b>schlenderten</b> neugierig dorthin. (<i>Der nasse Fisch</i>, 240)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Bei Jonass war das anders, hier konnte man auf Pump kaufen, und so fanden deutlich mehr abgerissene Gestalten ihren Weg ans Prenzlauer Tor als in andere Kaufhäuser. Ein hagergesichtiges Mädchen in einem groben, viel zu großen Mantel und Gummistiefeln fiel da nicht weiter auf. Hannah <b>schlenderte</b> durch die Gänge, vorbei an den Kleiderständern, fuhr die Treppen hinauf und hinunter, ohne behelligt zu werden. (<i>Märzgefallene</i>, 152)',
     '<i>Hannah</i>: "Was willste?" Er (<i>Fritze</i>) legte den Kopf schief wie ein Hund. "Frühstücken?" <i>Hannah</i>: "Bisten Witzbold, wa? Wo soll’s denn hingehen, zu Kranzler oder lieber zu Josty?" "Bolle", sagte Fritze. Was er damit meinte, begriff Hannah, als sie kurz darauf über die noch menschenleere Winsstraße <b>schlenderten</b> und ein paar von den Milchflaschen einsammelten, die der Milchmann vor wenigen Minuten gerade dort abgestellt haben musste. (<i>Märzgefallene</i>, 174)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Eine Familie mit Picknickkorb <b>schlenderte</b> auf dem Weg zu ihrer Parzelle am Gartentor vorbei. (<i>Lunapark</i>, 496)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Endlich war er (<i>Rath</i>) auf der Straße. Mit den Händen in den Manteltaschen die großen Umschläge fixierend, die in seinem Hosenbund steckten, <b>schlenderte</b> er zum Haus zurück. (<i>Marlow</i>, 286)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Owens <b>schlenderte</b> mit einer unglaublich lässigen Eleganz zu den Startlöchern, die er in die Asche gegraben hatte, und ging in Startposition. (<i>Olympia</i>, 104)',
 ],
 'Schliere, schlieren': [
     'die <b>Schliere</b>,-<b>n</b>: streak, smear'+
@@ -25971,22 +26061,29 @@ zappeln: [
     '<b>zappeln</b>: fidget, struggle, kick, wriggle'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zappeln"target="target1">zappeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zappeln"target="target2">zappeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zappeln"target="target3">zappeln</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/zappeln"target="target4">zappeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sie (<i>Rath und Wolter</i>) konnten es Krajewske (<i>den Pornokaiser</i>) ansehen, dass ihm das Herz bis in die grauen Unterhosen rutschte, als ein ganzer Haufen Uniformierter an ihm vorbei in seine Wohnung stiefelte. Mit großen Augen hatte er Rath und Wolter angestarrt. Sie hatten ihn einen Moment <b>zappeln</b> lassen. (<i>Der nasse Fisch</i>, 67)',
     '"Mörder!", rief er (<i>der Witwer</i>) und stürzte sich auf Wolter. Rath riss ihn zurück und nahm ihn in den Polizeigriff. "Beruhigen Sie sich doch", sagte er. Der Mann <b>zappelte</b> noch, wurde aber ruhiger und fing schließlich an zu schluchzen. (<i>Der nasse Fisch</i>, 75)',
     'Da zog der Engel ihn (<i>Rath</i>) schon vom Tisch. Die Tanzfläche befand sich am anderen Ende des Saals, direkt vor der Empore mit der Kapelle. Ekstatisch tanzende Menschen <b>zappelten</b> neben eng umschlungenen Liebespaaren. (<i>Der nasse Fisch</i>, 202)',
     '"Ich kann Ihnen zwei weitere Namen nennen." Rath ließ sich Zeit, als er seine Zigarette ausdrückte, um Marlow noch ein bisschen <b>zappeln</b> zu lassen. "Vitalie Selenskij und Nikita Fallin." (<i>Der nasse Fisch</i>, 456)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die (Ober)Schwester (<i>Ingeborg</i>) erwischte Hannahs Knöchel, umklammerte sie mit beiden Armen und brachte das zierliche Mädchen zu Fall. Hannah schrie und <b>zappelte</b>, doch es half ihr nichts. (<i>Märzgefallene</i>, 48)',
     'Während einer der Wärter Hannahs Arme nach hinten auf den Boden drückte und der andere sich mit seinem ganzen Gewicht auf ihre <b>zappelnden</b> Beine warf, klaubte Oberschwester Ingeborg dem Mädchen das Foto aus der Hand. <i>(Märzgefallene</i>, 48)',
     'Ebenso war es dem armen Teufel ergangen, der nach Stunden nervösen Herum<b>zappelns</b> seinen Urin nicht mehr hatte halten können. Sie hatten ihn mit dem Gesicht in die Urinpfütze gedrückt.... (<i>Märzgefallene</i>, 110)',
     'Mit der Macht der Verzweiflung versuchte Hannah, sich gegen seinen (<i>Huckebeins</i>) Griff zu wehren, doch es was zwecklos. Sie konnte ihre Arme unter dem Gewicht seiner spitzen Knie nicht bewegen, und mit ihren Beinen erreichte sie ihn gar nicht, es war das hilflose und vergebliche <b>Zappeln</b> eines Fischs auf dem Trockenen. (<i>Märzgefallene</i>, 400)',
     'Gretta... hatte Gereon abwimmeln wollen und in so etwas war sie nun einmal ausgesprochen gut. Charly hatte geschimpft mit der Freundin, aber die hatte nur mit den Ackseln gezuckt. "Du musst ihn einfach mal <b>zappeln</b> lassen", hatte sie gesagt, "glaub mir, das hilft." (<i>Märzgefallene</i>, 407)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Was ist mit ihr (<i>Charly</i>)?", fragte er (<i>Rath</i>). <i>Lapke</i>: "Nun, unseren Unterlagen zufolge gehörte sie tatsächlich einer Gesellschaft freigeistiger Salonkommunisten an, deren staatszersetzendes Treiben wir unterbunden haben." "Was haben Sie mit ihr gemacht?" "Nicht viel", antwortete Lapke und schaute auf seine manikürten Fingernägel. Er genoss es sichtlich, Rath <b>zappeln</b> zu lassen. (<i>Lunapark</i>, 199)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath notierte sich sämtliche Fremdwörter. Er ahnte, dass die Kollegen nur darauf warteten, dass er die erste Frage stellte. Er würde sie eine Weile <b>zappeln</b> lassen. Vielleicht erklärte sich die ein oder andere Sache ja auch von selbst. (<i>Marlow</i>, 182)',
     'Von Bülow ist erwacht. Reißt erst die Augen auf, dann den Mund. Will schreien, doch du bist schon bei ihm, drückst ihm das Gesicht tief in die Kissen, drückst solange, bis das <strongZappeln</strong aufhört und sein Körper schlaff auf die Matratze sinkt. (<i>Marlow</i>, 354)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Er (<i>Kieling</i>) meinte, dessen (<i>Kaufmanns</i>) Silhouette noch durch Wasser am Seeufer sehen zu können, doch waren seine Sinne zunehmend mit anderen Dingen beschäftigt. Mit dem schlammigen Seeboden, in dem seine Hände keinen Halt fanden, um wieder ans Ufer zu kriechen... Mit seinen schmerzenden Lungen, die ihm den letzten Rest klaren Verstandes raubten und ihn nur noch sinnloss herum<b>zappeln</b> ließen. (<i>Olympia</i>, 111)',
 ],
     //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde    Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Zarge: [

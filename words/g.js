@@ -40,33 +40,33 @@ const g = [
 'Geländer',  // Geländer:  
 'Geleit',  // Geleit:  
 'gelinde',   // gelinde:  
-    'Gemächt',  // Gemächt: 
-    'Gemaule, maulen',  // duplicated
-    'Gemetzel', // Gemetzel: 
-    'Gemurmel',  // Gemurmel:  
-    'gepfeffert, pfeffern', // duplicated  
-    'Geplänkel, Vorgeplänkel',  // duplicated  
-    'Geplapper, plappern, nach-', // duplicated 
-    'gerädert',  // gerädert: 
-    'Gerangel', // Gerangel:  
-    'Geräuschkulisse', // Geräuschkulisse:  
-    'gerieren',   // gerieren:  
-    'gerinnen',   // gerinnen:  
-    'Gerippe',    // Gerippe:  
-    'gerissen',   // gerissen:  
-    'Geröll',     // Geröll:  
-    'Geruckel, ruckeln',  // duplicated 
-    'Gerümpel',   // Gerümpel:  
-    'Gerüst, einrüsten', // duplicated  
-    'gesalzen',   // gesalzen: 
-    'geschliffen',  // geschliffen:  
-    'geschniegelt',  // geschniegelt:  
-    'Geschreibsel',  // Geschreibsel:  
-    'geschunden, Schinder, schinden, Eindruck-', // triplicated
-    'Geschütz',  // Geschütz: 
-    'Geschwafel',    // Geschwafel: 
-    'geschwängert, schwanger, schwängern', // duplicated
-    'Geschwulst',  // Geschwulst:
+'Gemächt',  // Gemächt: 
+'Gemaule, maulen',  // duplicated
+'Gemetzel', // Gemetzel: 
+'Gemurmel',  // Gemurmel:  
+'gepfeffert, pfeffern', // duplicated  
+'Geplänkel, Vorgeplänkel',  // duplicated  
+'Geplapper, plappern, nach-', // duplicated 
+'gerädert',  // gerädert: 
+'Gerangel', // Gerangel:  
+'Geräuschkulisse', // Geräuschkulisse:  
+'gerieren',   // gerieren:  
+'gerinnen',   // gerinnen:  
+'Gerippe',    // Gerippe:  
+//'gerissen, reißen',   // duplicated
+'Geröll',     // Geröll:  
+'Geruckel, ruckeln',  // duplicated 
+'Gerümpel',   // Gerümpel:  
+'Gerüst, einrüsten', // duplicated  
+'gesalzen',   // gesalzen: 
+'geschliffen',  // geschliffen:  
+'geschniegelt',  // geschniegelt:  
+'Geschreibsel',  // Geschreibsel:  
+'geschunden, Schinder, schinden, Eindruck-', // triplicated
+'Geschütz',  // Geschütz: 
+'Geschwafel',    // Geschwafel: 
+'geschwängert, schwanger, schwängern', // duplicated
+'Geschwulst',  // Geschwulst:
 'geschwungen', // geschwungen:
 'Geseier',  // Geseier:
 'Gesinde',  // Gesinde:   

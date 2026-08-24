@@ -1,28 +1,28 @@
 const r = [
-   'Rabauke', // Rabauke:  
-   'Rabe',  // Rabe: 
-   'rabiat', // rabiat:
-   'Rachen', // Rachen: 
-   'Radau, Radaubruder', 
-   'radieren',  // radieren:  
-   'raffen, dahin-',  
-   'rammen, Ramme, Dampf-',  // duplicated  
-   'ramponiert, ramponieren',   
-   'Rangelei',  // Rangelei: 
-   'Ranzen',  // Ranzen:
-   'rappeln, auf-, hoch-',   
-   'rappelvoll',  // rappelvoll:
-   'rascheln', // rascheln: 
-   'rasen, Rasen',   
-   'Rasenmäher, mähen',  // duplicated 
-   'rasseln, zusammen-', 
-   'Ratsch', // Ratsch: 
-   'Rätselraten', // Rätselraten: 
-   'rattern',  // rattern:              
-   'Räuberpistole',  // Räuberpistole: 
-   'Räuberzivil', // Räuberzivil:
-   'Raufbold', // Raufbold:  
-   'Rauflust',  // Rauflust: 
+'Rabauke', // Rabauke:  
+'Rabe',  // Rabe: 
+'rabiat', // rabiat:
+'Rachen', // Rachen: 
+'Radau, Radaubruder', 
+'radieren',  // radieren:  
+'raffen, dahin-',  
+'rammen, Ramme, Dampf-',  // duplicated  
+'ramponiert, ramponieren',   
+'Rangelei',  // Rangelei: 
+'Ranzen',  // Ranzen:
+'rappeln, auf-, hoch-',   
+'rappelvoll',  // rappelvoll:
+'rascheln', // rascheln: 
+'rasen, Rasen',   
+'Rasenmäher, mähen',  // duplicated 
+'rasseln, zusammen-', 
+'Ratsch', // Ratsch: 
+'Rätselraten', // Rätselraten: 
+'rattern',  // rattern:              
+'Räuberpistole',  // Räuberpistole: 
+'Räuberzivil', // Räuberzivil:
+'Raufbold', // Raufbold:  
+'Rauflust',  // Rauflust: 
 'raunen',  // raunen:
 'raunzen, an-',
 'Raureif', // Raureif: 
@@ -36,48 +36,46 @@ const r = [
 'reinlegen, hereinlegen',  // duplicated 
 'reinreiten, hineinreiten',  // duplicated  
 'reinsemmeln', // reinsemmeln: 
-//   'reißen, gerissen',
-//   'reißen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zusammen-,zuruck-',
+//'reißen, gerissen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zurück-,zusammen-', 
 'reißerisch',  // reißerisch: 
 'Reling',  // Reling
 'Rempler, rempeln, an-',
 'renitent',  // renitent: 
-   'requirieren', // requirieren: 
-   'reüssieren',  // reüssieren: 
-   'Revers',  // Revers: 
-   'Richtfest',  // Richtfest: 
-   'Riegel, riegeln',   
-   'rieseln',  // rieseln: 
-   'Rille', // Rille:
-   'Rinde',  // Rinde: 
-   'Rind, Rindvieh, Rinderbraten',   
-   'Rinne',  // Rinne: 
-   'Rinnsal', // Rinnsal: 
-   'Riss, reißen', 
-   'Ritter (arme)', // duplicated 
-   'Ritze',  // Ritze:  
-   'robben',  // robben: 
-   'röcheln', // röcheln: 
-   'roden', // roden:  
-   'Rohrkrepierer', // Rohrkrepierer: 
-   'rosten, Rost, Gitter-', //  
-   'Rottenführer',  // Rottenführer:
-   'ruckeln, Geruckel',  // duplicated
-   'rücken: an-, aus-, nach-',
-   'Rudel',  // Rudel: 
-   'rührig',  // rührig: 
-   'rülpsen', // rülpsen: 
-   'rumärgern, herumärgern', // duplicated  
-   'Rummel', // Rummel: 
-   'rumoren',  // rumoren:
-   'rumpeln', // rumpeln: 
-   'rümpfen', // rümpfen: 
-   'rumsen',  // rumsen: 
-   'rundmachen',  // rundmachen:
-   'rupfen, Hühnchen rupfen', // duplicated
-   'Rüsche', // Rüsche: 
-   'Ruß, verrußt',  // duplicated 
-   'rüstig', // rüstig: 
-   ];
+'requirieren', // requirieren: 
+'reüssieren',  // reüssieren: 
+'Revers',  // Revers: 
+'Richtfest',  // Richtfest: 
+'Riegel, riegeln',   
+'rieseln',  // rieseln: 
+'Rille', // Rille:
+'Rinde',  // Rinde: 
+'Rind, Rindvieh, Rinderbraten',   
+'Rinne',  // Rinne: 
+'Rinnsal', // Rinnsal: 
+'Ritter (arme)', // duplicated 
+'Ritze',  // Ritze:  
+'robben',  // robben: 
+'röcheln', // röcheln: 
+'roden', // roden:  
+'Rohrkrepierer', // Rohrkrepierer: 
+'rosten, Rost, Gitter-', //  
+'Rottenführer',  // Rottenführer:
+'ruckeln, Geruckel',  // duplicated
+'rücken: an-, aus-, nach-',
+'Rudel',  // Rudel: 
+'rührig',  // rührig: 
+'rülpsen', // rülpsen: 
+'rumärgern, herumärgern', // duplicated  
+'Rummel', // Rummel: 
+'rumoren',  // rumoren:
+'rumpeln', // rumpeln: 
+'rümpfen', // rümpfen: 
+'rumsen',  // rumsen: 
+'rundmachen',  // rundmachen:
+'rupfen, Hühnchen rupfen', // duplicated
+'Rüsche', // Rüsche: 
+'Ruß, verrußt',  // duplicated 
+'rüstig', // rüstig: 
+];
 
 export default r;      

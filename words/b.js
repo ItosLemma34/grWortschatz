@@ -64,25 +64,25 @@ const b = [
 'bis in die Puppen', // duplicated  
 'Blase',  // Blase:  
 'blasiert',  // blasiert: 
-    'Blaumann',  // Blaumann:  
-    'Blech, blechern', // 
-    'Blechschaden',  // Blechschaden: 
-    'blendend',  // blendend:  
-    'blinzeln',  // blinzeln:  
-    'Blöße, sich keine B. geben',    
-    'bloßstellen', // bloßstellen: 
-    'blümerant',  // blümerant:
-    'blutrünstig', // blutrünstig:
-    'Bock, einen B. schießen', 
-    'bockig' ,  // bockig: 
-    'Bodensatz',  // Bodensatz:  
-    'Bogen, den B. raushaben',  
-    'Bohei',   // Bohei: 
-    'Bohle',    // Bohle:  
-    'bohnern',  // bohnern: 
-    'Bolzen, Gewinde, Gewindebolzen',  //  duplicated   
-    'Bonze',   // Bonze:
-    'Bordmittel',  // Bordmittel: 
+'Blaumann',  // Blaumann:  
+'Blech, blechern', // 
+'Blechschaden',  // Blechschaden: 
+'blendend',  // blendend:  
+'blinzeln',  // blinzeln:  
+'Blöße, sich keine B. geben',    
+'bloßstellen', // bloßstellen: 
+'blümerant',  // blümerant:
+'blutrünstig', // blutrünstig:
+'Bock, einen B. schießen', 
+'bockig' ,  // bockig: 
+'Bodensatz',  // Bodensatz:  
+'Bogen, den B. raushaben',  
+'Bohei',   // Bohei: 
+'Bohle',    // Bohle:  
+'bohnern',  // bohnern: 
+'Bolzen, Gewinde, Gewindebolzen',  //  duplicated   
+'Bonze',   // Bonze:
+'Bordmittel',  // Bordmittel: 
 'Bordstein', // Bordstein: 
 'borniert',  // borniert: 
 'Böschung', // Böschung: 
@@ -93,12 +93,12 @@ const b = [
 'branden, auf-',       
 'brandschatzen',  // brandschatzen: 
 'brausen, Brause',  // 
-    'Brei (um den heißen B. herumreden)', // duplicated 
-    'breitschlagen',  // breitschlagen:  
-    'brenzlig', // brenzlig: 
-    'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // duplicated  
-    'Brimborium',   // Brimborium:  
-    'bröckeln',  // bröckeln: 
+'Brei (um den heißen B. herumreden)', // duplicated 
+'breitschlagen',  // breitschlagen:  
+'brenzlig', // brenzlig: 
+'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // duplicated  
+'Brimborium',   // Brimborium:  
+'bröckeln',  // bröckeln: 
 'Brocken',  // Brocken: 
 'brodeln',  // brodeln:
 'brüllen, an-, los-, Gebrüll', //   duplicated 

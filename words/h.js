@@ -12,38 +12,39 @@ const h = [
 'Halunke',  // Halunke: 
 'hämisch',  // hämisch: 
 'hämmern',
-   'Handfessel, Handschelle',  
-   'Handlanger', // Handlanger:  
-   'Handwerk legen',   
-   'handzahm, zahm', //  duplicated 
-   'hanebüchen',  // hanebüchen: 
-   'hangeln',  // hangeln:
-   'hantieren',  // hantieren:
-   'hapern',  // hapern: 
-   'Happen, Häppchen',     
-   'harren',  // harren: 
-   'hart im Nehmen sein',   
-   'Hatz',  // Hatz: 
-   'Haube, Kühlerhaube', // duplicated 
-   'Häuschen (aus dem H.)', // duplicated
-   'Hausierer, hausieren', 
-   'Haut (aus der H. fahren)',  // duplicated  
-   'Hautausschlag' , // Hautausschlag: 
-   'hecheln', // hecheln: 
-   'hechten, Hechtsprung',
+'Handfessel, Handschelle',  
+'Handlanger', // Handlanger:  
+'Handwerk legen',   
+'handzahm, zahm', //  duplicated 
+'hanebüchen',  // hanebüchen: 
+'hangeln',  // hangeln:
+'hantieren',  // hantieren:
+'hapern',  // hapern: 
+'Happen, Häppchen',     
+'harren',  // harren: 
+'hart im Nehmen sein',   
+'Hatz',  // Hatz: 
+'Haube, Kühlerhaube', // duplicated 
+'Haue, hauen, ab-',
+'Häuschen (aus dem H.)', // duplicated
+'Hausierer, hausieren', 
+'Haut (aus der H. fahren)',  // duplicated  
+'Hautausschlag' , // Hautausschlag: 
+'hecheln', // hecheln: 
+'hechten, Hechtsprung',
 'Heck',  // Heck:   
 'Hecke', // Hecke: 
 'Heckenschütze',  // Heckenschütze:  
 'Heft des Handelns nehmen',  
 'Hefter, heften, ab-, bei-', 
 'hegen',  // hegen:  
-   'Hehler', // Hehler:  
-   'Heidenarbeit', // Heidenarbeit:  
-   'Heidenrespekt/angst',  
-   'Heimtücke, heimtückisch',  
-   'heimzahlen',  // heimzahlen: 
-   'heischen', // heischen: 
-   'heiser, Heiserkeit',  
+'Hehler', // Hehler:  
+'Heidenarbeit', // Heidenarbeit:  
+'Heidenrespekt/angst',  
+'Heimtücke, heimtückisch',  
+'heimzahlen',  // heimzahlen: 
+'heischen', // heischen: 
+'heiser, Heiserkeit',  
    'Hemd (sich ins H. machen)',
    'Henkelmann',  // Henkelmann:  
    'herbequemen, bequemen',

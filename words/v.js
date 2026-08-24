@@ -1,13 +1,13 @@
 const v = [
-   'Ventil',  // Ventil: 
-   'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
-   'Verband, Mull-',
-   'verbiegen',  // verbiegen: 
-   'verbissen',  // verbissen:  
-   'verblassen', // verblassen: 
-   'verbocken', // verbocken: 
-   'verbohrt',  // verbohrt:
-   'verbrämen',  // verbrämen: 
+'Ventil',  // Ventil: 
+'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
+'Verband, Mull-',
+'verbiegen',  // verbiegen: 
+'verbissen',  // verbissen:  
+'verblassen', // verblassen: 
+'verbocken', // verbocken: 
+'verbohrt',  // verbohrt:
+'verbrämen',  // verbrämen: 
 'verdampfen',  // verdampfen: 
 'Verdeck',  // Verdeck: 
 'verdenken',  // verdenken: 
@@ -113,60 +113,60 @@ const v = [
 'versiegen',   // versiegen: 
 'versifft',  // versifft: 
 'versprengen', // versprengen:   
-   'verstauen',  // verstauen:  
-   'versteifen', //  check for other entries  
-   'Verstellung',  // Verstellung:   combine with verstellen if verstellen found
-   'verstockt' ,  // verstockt:  
-   'verstohlen',   // verstohlen: 
-   'verstümmeln, Verstümmelung', 
-   'Vertäfelung, täfeln, getäfelt',  // duplicated 
-   'vertäuen',  // vertäuen: 
-   'vertilgen',  // vertilgen: 
-   'vertrackt',   // vertrackt:     combine with Vertrackt if found
-   'vertreten (sich die Beine)', //  duplicated   
-   'Vertriebsweg', // Vertriebsweg:  
-   'vertrödeln',  // vertrödeln: 
-   'vertun, vertan',  //
-   'vertuschen',  // vertuschen: 
-   'verunfallen',  // verunfallen:
-   'verunglimpfen',  // verunglimpfen:  
-   'verunzieren',  // verunzieren:  
-   'verwackeln, wackeln', // duplicated
-   'Verwahrlosung, verwahrlosen',  
-   'verwaisen, verwaist',   
-   'verweben, weben', // duplicated
-   'verwegen',  // verwegen:
-   'Verweis, verweisen',  
-   'verwesen, Verwesung',   
-   'verwetten',  // verwetten: 
-   'verwinkelt',  // verwinkelt:
-   'verwittern', // verwittern:  
-   'verwuscheln, verwuschelt',  
-   'verwüsten',  // verwüsten:
-   'verzwackt, verzwickt',
-   'verzapfen',  // verzapfen:
-   'verzerren',  // verzerren:
-   'verzieren', // verzieren:  
-   'verzückt', // verzückt:  
-   'vierschrötig', // vierschrötig:   
-   'vögeln',    // vögeln: 
-   'vollsaugen', // vollsaugen:  
-   'Vollwaise', // Vollwaise:  
-   'von der Fahne gehen', //  duplicated 
-   'von der Pike auf',
-   'von der Schippe springen',  // duplicated
-   'vor die Hunde gehen',  // duplicated 
-   'vor Schmutz/Dreck starren, starren, an-', // duplicated
-   'vorbauen',  // vorbauen:
-   'vorführen',  // vorführen:  
-   'vorgaukeln',  // vorgaukeln:  
-   'Vorgeplänkel, Geplänkel',  // duplicated 
-   'Vorhängeschloss',  // Vorhängeschloss: 
-   'vorknöpfen',  // vorknöpfen:    
-   'vorliebnehmen',  // vorliebnehmen: 
-   'Vornehm/Nobel geht die Welt zugrunde', // duplicated 
-   'Vorsatz, vorsätzlich, Vorsätzlichkeit', 
-   'vorsintflutlich',  // vorsintflutlich: 
+'verstauen',  // verstauen:  
+'versteifen', //  check for other entries  
+'Verstellung',  // Verstellung:   combine with verstellen if verstellen found
+'verstockt' ,  // verstockt:  
+'verstohlen',   // verstohlen: 
+'verstümmeln, Verstümmelung', 
+'Vertäfelung, täfeln, getäfelt',  // duplicated 
+'vertäuen',  // vertäuen: 
+'vertilgen',  // vertilgen: 
+'vertrackt',   // vertrackt:     combine with Vertrackt if found
+'vertreten (sich die Beine)', //  duplicated   
+'Vertriebsweg', // Vertriebsweg:  
+'vertrödeln',  // vertrödeln: 
+'vertun, vertan',  //
+'vertuschen',  // vertuschen: 
+'verunfallen',  // verunfallen:
+'verunglimpfen',  // verunglimpfen:  
+'verunzieren',  // verunzieren:  
+'verwackeln, wackeln', // duplicated
+'Verwahrlosung, verwahrlosen',  
+'verwaisen, verwaist',   
+'verweben, weben', // duplicated
+'verwegen',  // verwegen:
+'Verweis, verweisen',  
+'verwesen, Verwesung',   
+'verwetten',  // verwetten: 
+'verwinkelt',  // verwinkelt:
+'verwittern', // verwittern:  
+'verwuscheln, verwuschelt',  
+'verwüsten',  // verwüsten:
+'verzwackt, verzwickt',
+'verzapfen',  // verzapfen:
+'verzerren',  // verzerren:
+'verzieren', // verzieren:  
+'verzückt', // verzückt:  
+'vierschrötig', // vierschrötig:   
+'vögeln',    // vögeln: 
+'vollsaugen', // vollsaugen:  
+'Vollwaise', // Vollwaise:  
+'von der Fahne gehen', //  duplicated 
+'von der Pike auf',
+'von der Schippe springen',  // duplicated
+'vor die Hunde gehen',  // duplicated 
+'vor Schmutz/Dreck starren, starren, an-', // duplicated
+'vorbauen',  // vorbauen:
+'vorführen',  // vorführen:  
+'vorgaukeln',  // vorgaukeln:  
+'Vorgeplänkel, Geplänkel',  // duplicated 
+'Vorhängeschloss',  // Vorhängeschloss: 
+'vorknöpfen',  // vorknöpfen:    
+'vorliebnehmen',  // vorliebnehmen: 
+'Vornehm/Nobel geht die Welt zugrunde', // duplicated 
+'Vorsatz, vorsätzlich, Vorsätzlichkeit', 
+'vorsintflutlich',  // vorsintflutlich: 
 ];
 
 export default v;    

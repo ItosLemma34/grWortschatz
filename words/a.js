@@ -27,21 +27,21 @@ const a = [
 'abstumpfen, stumpf',  // duplicated
 'abtrünnig',  // abtrünnig:
 'abwetzen',  // abwetzen:     
-	'abwiegeln',  // abwiegeln:      
-	'abwimmeln',  // abwimmeln:     
-	'abzocken',  // abzocken:  
-	'Abzweig, abzweigen',    
-	'Achterbahn', // Achterbahn: 
-	'achtkantig hinauswerfen',  
-	'Ader, Halsschlag-', 
-	'Adlatus', // Adlatus:  
-	'adrett',   // adrett:  
-	'ächzen',     // ächzen:   
-	'Affekthandlung',   // Affekthandlung: 
-	'Affenzahn (mit einem A.)', // duplicated
-	'Albernheit, albern, herum-',
-	'alle naselang',  
-	'Allerwerteste',   // Allerwerteste:  
+'abwiegeln',  // abwiegeln:      
+'abwimmeln',  // abwimmeln:     
+'abzocken',  // abzocken:  
+'Abzweig, abzweigen',    
+'Achterbahn', // Achterbahn: 
+'achtkantig hinauswerfen',  
+'Ader, Halsschlag-', 
+'Adlatus', // Adlatus:  
+'adrett',   // adrett:  
+'ächzen',     // ächzen:   
+'Affekthandlung',   // Affekthandlung: 
+'Affenzahn (mit einem A.)', // duplicated
+'Albernheit, albern, herum-',
+'alle naselang',  
+'Allerwerteste',   // Allerwerteste:  
 'alteingesessen',  // alteingesessen: 
 'am Wickel haben',  // duplicated
 'an den Pranger',  
@@ -101,31 +101,31 @@ const a = [
 'Attest, attestieren',     
 'ätzen, wegätzen',  // duplicated
 'Aue',  // Aue: 
-	'auf Biegen und Brechen', 
-	'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
-	'auf dem Kerbholz haben', //  duplicated  
-	'auf dem Kieker haben', //  duplicated 
-	'auf dem Sprung',      //  duplicated  
-	'auf dem Trockenen sitzen', // duplicated 
-	'auf den Arm nehmen',  //  duplicated 
-	'auf den Leim gehen, Leim, leimen',  //  duplicated 
-	'auf den letzten Drücker',  // duplicated
-	'auf den Putz hauen',  //   duplicated 
-	'auf den Schlips treten', //  duplicated 
-	'auf den Strich gehen', //  duplicated 
-	'auf den Wecker gehen', //  duplicated 
-	'auf den Zahn fühlen',  //  duplicated 
-	'auf der hohen Kante',
-	'auf der Hut',  
-	'auf der Nase herumtanzen',  // duplicated 
-	'auf die Nase binden',  //  duplicated 
-	'auf die Palme treiben/bringen',  //  duplicated 
-	'auf die Pelle rücken',   //  duplicated 
-	'auf die Schliche kommen',  //  duplicated
-    'auf die Socken machen',  // duplicated 
-	'auf die Sprünge helfen',   // duplicated
-	'auf die Tube drücken/treten',   //  duplicated 
-	'auf etwas aus sein',   
+'auf Biegen und Brechen', 
+'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
+'auf dem Kerbholz haben', //  duplicated  
+'auf dem Kieker haben', //  duplicated 
+'auf dem Sprung',      //  duplicated  
+'auf dem Trockenen sitzen', // duplicated 
+'auf den Arm nehmen',  //  duplicated 
+'auf den Leim gehen, Leim, leimen',  //  duplicated 
+'auf den letzten Drücker',  // duplicated
+'auf den Putz hauen',  //   duplicated 
+'auf den Schlips treten', //  duplicated 
+'auf den Strich gehen', //  duplicated 
+'auf den Wecker gehen', //  duplicated 
+'auf den Zahn fühlen',  //  duplicated 
+'auf der hohen Kante',
+'auf der Hut',  
+'auf der Nase herumtanzen',  // duplicated 
+'auf die Nase binden',  //  duplicated 
+'auf die Palme treiben/bringen',  //  duplicated 
+'auf die Pelle rücken',   //  duplicated 
+'auf die Schliche kommen',  //  duplicated
+'auf die Socken machen',  // duplicated 
+'auf die Sprünge helfen',   // duplicated
+'auf die Tube drücken/treten',   //  duplicated 
+'auf etwas aus sein',   
 'auf Granit beißen',  
 'auf Halde legen',
 'auf links drehen',
@@ -150,24 +150,24 @@ const a = [
 'aufmüpfig',  // aufmüpfig: 
 'aufpäppeln',  // aufpäppeln:  
 //	'aufplustern', // aufplustern:  why not?
-	'aufputschen',  // aufputschen: 
-	'aufs Auge drücken', // duplicated   
-	'aufs Dach steigen',       
-	'aufs Korn nehmen',  // duplicated 
-	'aufscheuchen',    // aufscheuchen:   
-	'aufschichten',   // aufschichten: 
-	'aufstemmen',  // aufstemmen:
-	'aufstieben',    // aufstieben:
-    'aufstöbern',  // aufstöbern:  // duplicated as 'stöbern, auf-'
-	'auftakeln',     // auftakeln: 
-	'auftischen',    // auftischen:  
-	'Aufwartung machen',  
-	'aufwiegen',     // aufwiegen: 
-	'aufwühlen, aufgewühlt',  
-	'Auge (aufs A. drücken)',  // duplicted 
-	'aus dem Konzept bringen', // duplicated     
-	'aus dem Häuschen', // duplicated 
-    'aus dem Staub machen, Staub, stauben, ab-',
+'aufputschen',  // aufputschen: 
+'aufs Auge drücken', // duplicated   
+'aufs Dach steigen',       
+'aufs Korn nehmen',  // duplicated 
+'aufscheuchen',    // aufscheuchen:   
+'aufschichten',   // aufschichten: 
+'aufstemmen',  // aufstemmen:
+'aufstieben',    // aufstieben:
+'aufstöbern',  // aufstöbern:  // duplicated as 'stöbern, auf-'
+'auftakeln',     // auftakeln: 
+'auftischen',    // auftischen:  
+'Aufwartung machen',  
+'aufwiegen',     // aufwiegen: 
+'aufwühlen, aufgewühlt',  
+'Auge (aufs A. drücken)',  // duplicted 
+'aus dem Konzept bringen', // duplicated     
+'aus dem Häuschen', // duplicated 
+'aus dem Staub machen, Staub, stauben, ab-',
 'aus der Haut fahren',   
 'ausbaldowern', // ausbaldowern: 
 'ausblenden',  // ausblenden: 
@@ -179,31 +179,31 @@ const a = [
 'Ausfallstraße',   // Ausfallstraße:
 'ausfransen',  // ausfransen:  
 'ausfressen',   // ausfressen:  
-	'ausheben, Aushebung', 
-	'ausklinken, einklinken',  // duplicated 
-	'ausladend',  // ausladend:
-	'ausleiern', // ausleiern: 
-	'ausloben',  //  ausloben:
-    'ausloten',  // ausloten:
-	'ausmergeln', // ausmergeln:
-	'ausmisten',  // ausmisten:   
-	'ausquetschen',  // ausquetschen: 
-	'ausräuchern', // ausräuchern:  
-	'Ausreißer',    // Ausreißer:  
-	'ausreizen',  // ausreizen: 
-	'Aussatz, Aussätziger, aussätzig', 
-	'Ausschachtung',  // Ausschachtung: 
-	'ausschlachten', // ausschlachten:  
-	'ausschwärmen',  // ausschwärmen: 
-	'Ausschweifung, ausschweifend', 
-	'ausspannen, einspannen',  // duplicated 
-	'ausspucken',   // ausspucken: 
-	'ausstaffieren',  // ausstaffieren:   
-	'ausstopfen',    // ausstopfen: 
-	'austoben',   // austoben:  
-	'austüfteln',  // austüfteln: 
-	'auswechseln, ausgewechselt', 
-	'auswischen',  // auswischen:  
-	'auswringen, wringen', // duplicated  
+'ausheben, Aushebung', 
+'ausklinken, einklinken',  // duplicated 
+'ausladend',  // ausladend:
+'ausleiern', // ausleiern: 
+'ausloben',  //  ausloben:
+'ausloten',  // ausloten:
+'ausmergeln', // ausmergeln:
+'ausmisten',  // ausmisten:   
+'ausquetschen',  // ausquetschen: 
+'ausräuchern', // ausräuchern:  
+'Ausreißer',    // Ausreißer:  
+'ausreizen',  // ausreizen: 
+'Aussatz, Aussätziger, aussätzig', 
+'Ausschachtung',  // Ausschachtung: 
+'ausschlachten', // ausschlachten:  
+'ausschwärmen',  // ausschwärmen: 
+'Ausschweifung, ausschweifend', 
+'ausspannen, einspannen',  // duplicated 
+'ausspucken',   // ausspucken: 
+'ausstaffieren',  // ausstaffieren:   
+'ausstopfen',    // ausstopfen: 
+'austoben',   // austoben:  
+'austüfteln',  // austüfteln: 
+'auswechseln, ausgewechselt', 
+'auswischen',  // auswischen:  
+'auswringen, wringen', // duplicated  
 ];
 export default a;

@@ -7,6 +7,7 @@ const u = [
 'über die Klinge springen, Klinge',  // duplicated  
 'über die Runden kommen',  
 'über die Stränge schlagen',  // duplicated
+'über Kreuz sein/liegen',  // duplicated
 //   'überquellen, quellen',  // duplicated 
 'überrumpeln, Überrumpelung',   
    //'Überwindung kosten'  ;   haven't found Deutsche Definition

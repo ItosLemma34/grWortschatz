@@ -1,19 +1,19 @@
 const k = [
-   'Kabuff',  // Kabuff: 
-   'kacheln', // kacheln: 
-   'Kaffeekränzchen',  // Kaffeekränzchen: 
-   'kahl',  // kahl: 
-   // Kahn -- pair with Lastkahn if "Kahn" found
-   'Kajüte',  // Kajüte:  
-   'Kalauer, kalauern', // 
-   'Kanapee', // Kanapee: 
+'Kabuff',  // Kabuff: 
+'kacheln', // kacheln: 
+'Kaffeekränzchen',  // Kaffeekränzchen: 
+'kahl',  // kahl: 
+// Kahn -- pair with Lastkahn if "Kahn" found
+'Kajüte',  // Kajüte:  
+'Kalauer, kalauern', // 
+'Kanapee', // Kanapee: 
 'Kanne',  // Kanne: 
 'Kante (sich die K. geben)',
 'Kantholz',  // Kantholz: 
 'Karnickel', // Karnickel:
 'Karosserie', // Karosserie:
 'Karree',   // Karree:   
-'karren, Karren',  //  
+'karren, Karren',    
 'Kaschemme',  // Kaschemme: 
 'kaschieren', // kaschieren: 
 'Kassiber',  // Kassiber: 
@@ -61,19 +61,19 @@ const k = [
 'klappern',  // klappern: 
 'klapprig',  // klapprig:  
 'Klapsmühle', // Klapsmühle: 
-   'Klatsch, klatschen',   
-   'klauben', // klauben:  
-   'klebrig', // klebrig: 
-   'kleistern, Kleister',  
-   'Klemme, klemmen, ab-',   
-   'Klette',  // Klette: 
-   'klimpern', // klimpern: 
-   'Klinge, über die K. springen', //  duplicated 
-   'Klippe', //  Klippe: 
-   'klirren, an-, Geklirr', // duplicated
-   'klitzeklein', // klitzeklein: 
-   'klobig',  // klobig:
-   'Kloschüssel, Schüssel', // duplicate 
+'Klatsch, klatschen',   
+'klauben', // klauben:  
+'klebrig', // klebrig: 
+'kleistern, Kleister',  
+'Klemme, klemmen, ab-',   
+'Klette',  // Klette: 
+'klimpern', // klimpern: 
+'Klinge, über die K. springen', //  duplicated 
+'Klippe', //  Klippe: 
+'klirren, an-, Geklirr', // duplicated
+'klitzeklein', // klitzeklein: 
+'klobig',  // klobig:
+'Kloschüssel, Schüssel', // duplicate 
 'Kloß',   // Kloß: 
 'klotzen', // klotzen: 
 'Klumpen, Klumpfuß',   
@@ -144,22 +144,22 @@ const k = [
 'Kringel',  // Kringel: 
 'Kritikaster',  // Kritikaster: 
 'kritzeln' ,  // kritzeln: 
-   'Kroppzeug', // Kroppzeug: 
-   'Kröte (K. schlucken)',  
-   'Krücke', // Krücke:
-   'Krümel',  // Krümel: 
-   'krümmen', // krümmen:
-   'Kühlerhaube, Haube', // duplicated 
-   'kullern', // kullern: 
-   'Kumpel', // Kumpel: 
-   'kundschaften', // kundschaften: 
-   'Kuppe',  // Kuppe:   
-   'Kuppel',  // Kuppel: 
-   'kurbeln', // kurbeln: 
-   'kurz angebunden, anbinden',  // duplicated
-   'kuscheln', // kuscheln: 
-   'kuschen',  // kuschen: 
-   'Kuvert',  // Kuvert:
+'Kroppzeug', // Kroppzeug: 
+'Kröte (K. schlucken)',  
+'Krücke', // Krücke:
+'Krümel',  // Krümel: 
+'krümmen', // krümmen:
+'Kühlerhaube, Haube', // duplicated 
+'kullern', // kullern: 
+'Kumpel', // Kumpel: 
+'kundschaften', // kundschaften: 
+'Kuppe',  // Kuppe:   
+'Kuppel',  // Kuppel: 
+'kurbeln', // kurbeln: 
+'kurz angebunden, anbinden',  // duplicated
+'kuscheln', // kuscheln: 
+'kuschen',  // kuschen: 
+'Kuvert',  // Kuvert:
 ];
 
 export default k;   

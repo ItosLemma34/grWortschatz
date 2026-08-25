@@ -46,41 +46,41 @@ const p = [
 'plappern, nach-, Geplapper',  // duplicated  
 'platschen', // platschen: 
 'plätschern', // plätschern: 
-  'Platzhirsch', // Platzhirsch: 
-  'Plausch, plauschen',
-  'ploppen',  // ploppen: 
-  'plump, plumpsen',
-  'plüschig',  // plüschig:
-  'Pobacke',  // Pobacke: 
-  'pöbeln, Pöbel',
-  'Polente', // Polente: 
-  'Polster, polstern, Polsterung',
-  'poltern',  // poltern: 
-  'postieren', // postieren: 
-  'prallen, ab-, auf-',
-  // 'präparieren' ,
-  'Prämisse',  // Prämisse:
-  'prangen', // prangen: 
-  'Pranke',  // Pranke: 
-  'Präsent, präsent',
-  'prasseln',  // prasseln: 
-  'preschen',  // preschen: 
-  'prickeln',  // prickeln:
-  'Primel, eingehen wie eine P.',  // duplicated 
-  'Prise',  // Prise: 
-  'Pritsche', // Pritsche: 
-  'Prothese', // Prothese: 
-  'Protz, protzen, protzig',
-  'prusten, los-',   
-  'pudern',  // pudern: 
-  'Pulle',  // Pulle: 
-  'pumpen, auf Pump kaufen', // duplicated
-  'Puppen (bis in die P.)', // duplicated 
-  'purzeln',  // purzeln:
-  'Puste, pusten, aus-',
-  'Pute',  // Pute: 
-  'Putz', // Putz: 
-  'Putz (auf den P. hauen)', //  duplicated  
+'Platzhirsch', // Platzhirsch: 
+'Plausch, plauschen',
+'ploppen',  // ploppen: 
+'plump, plumpsen',
+'plüschig',  // plüschig:
+'Pobacke',  // Pobacke: 
+'pöbeln, Pöbel',
+'Polente', // Polente: 
+'Polster, polstern, Polsterung',
+'poltern',  // poltern: 
+'postieren', // postieren: 
+'prallen, ab-, auf-',
+// 'präparieren' ,
+'Prämisse',  // Prämisse:
+'prangen', // prangen: 
+'Pranke',  // Pranke: 
+'Präsent, präsent',
+'prasseln',  // prasseln: 
+'preschen',  // preschen: 
+'prickeln',  // prickeln:
+'Primel, eingehen wie eine P.',  // duplicated 
+'Prise',  // Prise: 
+'Pritsche', // Pritsche: 
+'Prothese', // Prothese: 
+'Protz, protzen, protzig',
+'prusten, los-',   
+'pudern',  // pudern: 
+'Pulle',  // Pulle: 
+'pumpen, auf Pump kaufen', // duplicated
+'Puppen (bis in die P.)', // duplicated 
+'purzeln',  // purzeln:
+'Puste, pusten, aus-',
+'Pute',  // Pute: 
+'Putz', // Putz: 
+'Putz (auf den P. hauen)', //  duplicated  
 ];
 
 export default p;      

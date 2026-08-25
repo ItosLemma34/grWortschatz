@@ -1,36 +1,36 @@
 const e = [
-   'Ebbe',   // Ebbe:   
-   'echoen',  // echoen: 
-   'Ei (wie aus dem Ei gepellt)', //  duplicated  
-   'einbetonieren', // einbetonieren:  
-   'einbleuen = einbläuen', 
-   'einbrocken',  // einbrocken:  
-   'einbuchten',  // einbuchten:  
-   'Eindruckschinden, Schinder, schinden, geschunden', // triplicated
-   'eine Flappe ziehen',  // duplicated  
-   'einen Korb bekommen/geben', // duplicated 
-   'einen Stich versetzen',  // duplicated
-   'einen Streich spielen, Streich',   // duplicated
-   'einen Strick drehen',  // duplicated  
-   'einfädeln',  // einfädeln:  
-   'einflößen',  // einflößen: 
-   'einfrieden', // einfrieden: 
-   'Eingebung',   // Eingebung:
-   'eingedenk',  // eingedenk:
-   'eingehen wie eine Primel',  // duplicated  
-   'Eingeweide', // Eingeweide: 
-   'einhaken',   //  einhaken:
-   'einheimsen',  // einheimsen:
-   'einhüllen',  // einhüllen: 
-   'einigeln', // einigeln:  
-   'einkerben',  // einkerben: 
-   'einklinken, ausklinken', // duplicated 
-   'einkriegen',  // einkriegen:   
-   'einkringeln',  // einkringeln:  
-   'einlochen',  // einlochen:  
-   'einlullen',  // einlullen: 
-   'einnässen',  // einnässen: 
-   'einnebeln',  // einnebeln: 
+'Ebbe',   // Ebbe:   
+'echoen',  // echoen: 
+'Ei (wie aus dem Ei gepellt)', //  duplicated  
+'einbetonieren', // einbetonieren:  
+'einbleuen = einbläuen', 
+'einbrocken',  // einbrocken:  
+'einbuchten',  // einbuchten:  
+'Eindruckschinden, Schinder, schinden, geschunden', // triplicated
+'eine Flappe ziehen',  // duplicated  
+'einen Korb bekommen/geben', // duplicated 
+'einen Stich versetzen',  // duplicated
+'einen Streich spielen, Streich',   // duplicated
+'einen Strick drehen',  // duplicated  
+'einfädeln',  // einfädeln:  
+'einflößen',  // einflößen: 
+'einfrieden', // einfrieden: 
+'Eingebung',   // Eingebung:
+'eingedenk',  // eingedenk:
+'eingehen wie eine Primel',  // duplicated  
+'Eingeweide', // Eingeweide: 
+'einhaken',   //  einhaken:
+'einheimsen',  // einheimsen:
+'einhüllen',  // einhüllen: 
+'einigeln', // einigeln:  
+'einkerben',  // einkerben: 
+'einklinken, ausklinken', // duplicated 
+'einkriegen',  // einkriegen:   
+'einkringeln',  // einkringeln:  
+'einlochen',  // einlochen:  
+'einlullen',  // einlullen: 
+'einnässen',  // einnässen: 
+'einnebeln',  // einnebeln: 
 'einnicken',  // einnicken:  
 'Einöde, öde',   // duplicated  
 'einrasten',  // einrasten:  
@@ -72,16 +72,16 @@ const e = [
 'erdreisten', // erdreisten:     
 'ergattern',   // ergattern:  
 'erhaschen',   // erhaschen: 
-   'erheblich, un-',  
-   'Erker', // Erker:   
-   'erkiesen',   // erkiesen:  
-   'erpicht',   // erpicht: 
-   'erschallen',  // erschallen:
-   'erschauern, schauern',  // duplicated  
-   'erschnuppern, schnuppern', //  duplicated  
-   'erstehen',  // erstehen:  
-   'eruieren',  // eruieren: 
-   'erzittern, zittern, zittrig',  // duplicated 
+'erheblich, un-',  
+'Erker', // Erker:   
+'erkiesen',   // erkiesen:  
+'erpicht',   // erpicht: 
+'erschallen',  // erschallen:
+'erschauern, schauern',  // duplicated  
+'erschnuppern, schnuppern', //  duplicated  
+'erstehen',  // erstehen:  
+'eruieren',  // eruieren: 
+'erzittern, zittern, zittrig',  // duplicated 
 ];
 
 export default e;

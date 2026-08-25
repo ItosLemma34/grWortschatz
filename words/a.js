@@ -191,7 +191,7 @@ const a = [
 'ausräuchern', // ausräuchern:  
 'Ausreißer',    // Ausreißer:  
 'ausreizen',  // ausreizen: 
-'Aussatz, Aussätziger, aussätzig', 
+'Aussatz, Aussätzige, aussätzig', 
 'Ausschachtung',  // Ausschachtung: 
 'ausschlachten', // ausschlachten:  
 'ausschwärmen',  // ausschwärmen: 

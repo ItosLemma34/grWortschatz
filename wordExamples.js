@@ -4386,15 +4386,25 @@ unverwandt: [
     'Keine Schüsse mehr, es war still. Nur noch das Stöhnen der Verwundeten und Sterbenden war zu hören... Marlow hatte die ganze Zeit dagehockt wie erstarrt, nun aber machte er, dass er davonkam, tauchte ab in die dunkle, <b>schlammige Grube</b>... Marlow trat in <b>schlammige</b> Löcher, stieß sich das Schienbein an irgendwelchen Balken, die im Weg lagen, er griff in irgendwelce Dornen, als er wieder aus der Grube kletterte, doch er kam voran. (<i>Marlow</i>, 478)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-'Aussatz, Aussätziger, aussätzig': [
+'Aussatz, Aussätzige, aussätzig': [
     'der <b>Aussatz</b>: leprosy'+
-    '<br>der <b>Aussätziger</b>,-<b>en</b>: leper'+
+    '<br>der/die <b>Aussätzige</b>, die <b>Aussätzigen</b>: leper; outcast'+
     '<br><b>aussätzig</b>: leprous'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aussatz"target="target1">Aussatz</a>&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aussaetziger"target="target2">Aussätziger</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/auss%C3%A4tzig"target="target3">aussätzig</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aussatz"target="target4">Aussatz</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aussaetziger"target="target5">Aussätziger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=auss%C3%A4tzig&id=adjektiv%3Aaussa3tzig"target="target6">aussätzig</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Aussatz"target="target1">Aussatz</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Auss%C3%A4tzige"target="target2">Aussätzige</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/auss%C3%A4tzig"target="target3">aussätzig</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/aussatz"target="target4">Aussatz</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/aussatzige"target="target5">Aussätzige</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aussaetzig"target="target6">aussätzig</a>',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Die Kollegen schauten ihn (<i>Rath</i>) an wie einen <b>Aussätzigen</b>, als er den kleinen Konferenzsaal betrat, jedenfalls kam es ihm so vor. (<i>Marlow</i>, 87)',
-    '<i>Liang:</i> "Ich war gerade in Pankow auf dem Standesamt. Um das Aufgebot (<i>zum Heiraten</i>) zu bestellen." Jetzt erst merkte Charly, wie es hinter der so undurchdringlich scheinenden ruhigen Fassade des Chinesen brodelte. Liang wirkte auf eine Weise aufgewühlt, als habe irgendetwas ihn sehr, sehr aufgeregt und er müsse alle Kraft aufbringen, sich zu beherrschen. "Dort hat man mich behandelt wie einen <b>Aussätzigen</b>", fuhr er fort... "Bevor man mich wieder vor die Tür setzte". (<i>Marlow</i>, 95-96)',
+    '<i>Liang</i>: "Ich war gerade in Pankow auf dem Standesamt. Um das Aufgebot (<i>zum Heiraten</i>) zu bestellen." Jetzt erst merkte Charly, wie es hinter der so undurchdringlich scheinenden ruhigen Fassade des Chinesen brodelte. Liang wirkte auf eine Weise aufgewühlt, als habe irgendetwas ihn sehr, sehr aufgeregt und er müsse alle Kraft aufbringen, sich zu beherrschen. "Dort hat man mich behandelt wie einen <b>Aussätzigen</b>", fuhr er fort... "Bevor man mich wieder vor die Tür setzte". (<i>Marlow</i>, 95-96)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Oppenberg</i>: ".. Es geht mir darum, dass man mich ungestört außer Landes lässt und auch wieder hinein... Ich möchte an der Grenze behandelt werden wie ein normaler Mensch und nicht wie ein <b>Aussätziger</b>." (<i>Olympia</i>, 78)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 brüten: [
@@ -6454,8 +6464,12 @@ abpassen: [
 ],
 plätschern: [
     '<b>plätschern</b>: babble, splash, gurgle'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plaetschern"target="target1">plätschern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pl%C3%A4tschern"target="target2">plätschern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/pl%C3%A4tschern"target="target3">plätschern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/platschern"target="target4">plätschern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/plaetschern"target="target1">plätschern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/pl%C3%A4tschern"target="target2">plätschern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/pl%C3%A4tschern"target="target3">plätschern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/platschern"target="target4">plätschern</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Wohnung von Herrn Müller stand offen. Rath ging hinein - und platschte in eine große Wasserlache. Die ganze Diele stand unter Wasser. Margarete Schäffner hockte auf dem Boden und wrang ein Putztuch aus. Das Wasser <b>plätscherte</b> in den Eimer. Sie hatte noch viel zu tun. (<i>Der nasse Fisch</i>, 432)',
@@ -6476,12 +6490,19 @@ plätschern: [
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 einfrieden: [
     '<b>einfrieden</b>: enclose, fence in'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einfrieden"target="target1">einfrieden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einfrieden"target="target2">einfrieden</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einfrieden"target="target3">einfrieden</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einfrieden&id=verb%3Aeinfrieden"target="target4">einfrieden</a>',
+    '<br>Deutsch:'+
+        '&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einfrieden"target="target1">einfrieden</a'+
+        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einfrieden"target="target2">einfrieden</a>'+
+    '<br>English:'+
+        '&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/einfrieden"target="target3">einfrieden</a>'+
+        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einfrieden&id=verb%3Aeinfrieden"target="target4">einfrieden</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Dass am Luisenufer etwas nicht stimmte, sah er (<i>Rath</i>) schon auf der Straße. An dem schmiedeeisernen Zaun, der den kärglichen Vorgarten <b>einfriedete</b>, lehnten drei Polizeifahrräder. Vor der Tür zum Hinterhaus stand ein Schupo vom 106. Revier, dem Rath seine Dienstmarke zeigte. (<i>Der nasse Fisch</i>, 432)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '.. der Park (<i>Lunapark</i>) hatte nach der letzten Winterpause nicht mehr geöffnet, sein Abriss war beschlossene Sache. Eine Straße war geplant, die quer über das Gelände führen und den Ku\'damm mit der Kantstraße und der Messe verbinden sollte. <b>Eingefriedetes</b> Gelände, keine Nachtwächter, jede Menge leer stehende Gebäude - ein ideales Verstech für Menschen, die zur Fahndung ausgeschrieben waren... (<i>Lunapark</i>, 312)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Er (<i>Rath</i>) packte die Aktentasche aus und setzte sich auf die Veranda, um die letzten Reste der Abendsonne noch genießen zu können. Warzawskis Schrebegarten war von hohen Hecken <b>eingefriedet</b>, so dass man keine Angst vor ungebetenen Zuschauern haben musste. (<i>Marlow</i>, 376)',
 ],
@@ -19877,8 +19898,12 @@ pinkeln: [
 ],
 platschen: [
     '<b>platschen</b>: splash'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/platschen"target="target1">platschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/platschen"target="target2">platschen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/platschen"target="target3">platschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=platschen"target="target4">platschen</a> ',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/platschen"target="target1">platschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/platschen"target="target2">platschen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/platschen"target="target3">platschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=platschen"target="target4">platschen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Wohnung von Herrn Müller stand offen. Rath ging hinein - und <b>platschte</b> in eine große Wasserlache. Die ganze Diele stand unter Wasser. Margarete Schäffner hockte auf dem Boden und wrang ein Putztuch aus. Das Wasser plätscherte in den Eimer. Sie hatte noch viel zu tun. (<i>Der nasse Fisch</i>, 432)',

@@ -50,10 +50,16 @@ export const wordExamples = {
 
 //     'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <b>verbeulten</b>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen. (<i>Lunapark</i>, 117)',
 /*  
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 zzz: [  
     '<b>zzz</b>: '+
-    '<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href=""target="target3">zz</a>&nbsp;&nbsp;<a href=""target="target4">zz</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href=""target="target1">zz</a>&nbsp;&nbsp;'+
+        '<a href=""target="target2">zz</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href=""target="target3">zz</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">zz</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
     '   (<i>Der nasse Fisch</i>, 000)',
@@ -77,6 +83,39 @@ zzz: [
     '    (<i>Olympia</i>, 000)',
 ],
 */
+// FINISH!
+beschaulich: [  
+    '<b>beschaulich</b>: contemplative, introspective, meditative peaceful, tranquil'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href=""target="target1">beschaulich</a>&nbsp;&nbsp;'+
+        '<a href=""target="target2">beschaulich</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href=""target="target3">beschaulich</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">beschaulich</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Goldstein
+    '<span class="bookTitle"><u>Goldstein</u></span>',
+    '   (<i>Goldstein</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Er (<i>Rath</i>) wusste nicht, was es war, ob die Kollegen ihn für einen Gestapo-Beamten hielten oder nur für einen LKA-Beamten mit guten Kontakten zur Prinz-Albrecht-Straße, jedenfalls kannte er nun den Grund ihrer unerwarteten Freundlichkeit. Sie vermuteten in ihm einen Spitzel, den die Geheime Staatspolizei inmitten ihrer <b>beschaulichen</b> Kriminalwache plaziert hatte. (<i>Olympia</i>, 94-95)',
+],
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // FINISH!
 Schlafittchen: [  
     '<b>Schlafittchen</b>: '+
@@ -180,6 +219,22 @@ Schlafittchen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '    (<i>Olympia</i>, 000)',
+],
+zimperlich: [  
+    '<b>zimperlich</b>: prim, prudish, prissy'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/zimperlich"target="target1">zimperlich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/zimperlich"target="target2">zimperlich</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/zimperlich"target="target3">zimperlich</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/zimperlich"target="target4">zimperlich</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    'Vielleicht war es ja wirklich so: In dieser kalten, großen Stadt herrschte eine andere, härtere Gangart als in Köln. Daran sollte er sich besser gewöhnen. "Wenn du hier was werden willst, darfst du nicht <b>zimperlich</b> sein", meinte Wolter. Rath wunderte sich, wie gut der Kollege sein Schweigen deutete. (<i>Der nasse Fisch</i>, 31)',
+    'Rath überprüfte seine Mauser. Die würde er gebrauchen, wenn der Kerl (<i>Selenskij</i>) unangenehm werden sollte. Und das traute er dem Russen ohne weiteres zu. Rath glaubte nicht, dass die Geheimpolizei des Zaren seinerzeit besonders <b>zimperlich</b> zu Werke gegangen war. (<i>Der nasse Fisch</i>, 431-32)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '<i>Gennat</i>: "Ich sagte nur: Die Männer sind dringend tatverdächtig, gemeinschaftlich schwere Straftaten begangen zu haben. Und das muss untersucht werden." <i>Ernst</i>: "Es mag sein, dass der Sturm hunderteins den ein oder anderen Juden nicht gerade <b>zimperlich</b> angepackt hat.. So etwas kommt vor..." (<i>Lunapark</i>, 258)',	
 ],
 'branden, auf-': [  
     '<b>branden</b>: surge, break, roar'+
@@ -486,8 +541,12 @@ verbissen: [
 ],
 Aue: [ 
     'die <b>Aue</b>,-<b>n</b>: wetland, floodplain; meadow, pasture'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Aue_Wiesengelaende"target="target1">Aue</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Aue"target="target2">Aue</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aue"target="target3">Aue</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aue"target="target4">Aue</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Aue_Wiesengelaende"target="target1">Aue</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Aue"target="target2">Aue</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aue"target="target3">Aue</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/Aue"target="target4">Aue</a>',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Was für ein Mistwetter. Es war gespenstisch, die Dorf<b>aue</b> verschwand im dichten Nebel, das Olympische Dorf wirkte wie eine Geisterstadt. (<i>Olympia</i>, 37)',
@@ -495,6 +554,7 @@ Aue: [
     'Rath trat vor das Empfangsgebäude und schaute die Dorf<b>aue</b> hinauf. (<i>Olympia</i>, 57)',
     'Er (<i>Rath</i>) spazierte über die Dorf<b>aue</b> in Richtung des Empfangsgebäudes, doch dann dachte er an die Kriminalwache und die Kollegen dort und schlug eine andere Richtung ain. (<i>Olympia</i>, 70)',
     'Einer der Nackten vom Steg, schon im Anlauf begriffen, um ins Wasser zu springen, blieb stehen und schaute hinüber. Rath kam sich vor wie ein Voyeur, er setzte seinen Hut auf, der ins Gras gerollt war, und ging zurück in das Wäldchen auf die Dorf<b>aue</b> zu. (<i>Olympia</i>, 71)',
+    'Rath nahm Hut und Mantel und ging nach draußen. Die Abendstimmung im Dorf hatte etwas Idyllisches. Die Sonne stand tief und warf lange, warme Schatten, auf den Wegen waren junge Männer aller Hautfarben unterwegs, die sich unterhielten oder einfach nur über die Dorf<b>aue</b> schlenderten. (<i>Olympia</i>, 97)',
     'Er (<i>Rath</i>) stellte sich auf die Terrasse vor dem Speisesaal und ließ seinen Blick über das Dorf schweifen. Links säumten die Wohnhäuser der Amerikaner den Weg, gekrönt vom Sternenbanner, das im Abendwind knatterte, direkt vor ihm senkte sich das Gelände zur Dorf<b>aue</b>. (<i>Olympia</i>, 99)',
     'Als er (<i>Fritze</i>) das Postamt vor ungefähr zwanzig Minuten betreten hatte, um sich in die Schlange einzureihen, waren überall noch Menschen unterwegs gewesen, nun konnte er außer einem Gärtner, der den Rasen der Dorf<b>aue</b> mähte, und zwei, drei Flaneuren keine Menschenseele erblicken. (<i>Olympia</i>, 103)',
 ],
@@ -2288,11 +2348,19 @@ trödeln: [
 ],
 Schinken: [
     'der <b>Schinken</b>,-: big awful painting, large book; ham'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schinken"target="target1">Schinken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schinken"target="target2">Schinken</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schinken"target="target3">Schinken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schinken&id=substantiv%3ASchinken"target="target4">Schinken</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schinken"target="target1">Schinken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Schinken"target="target2">Schinken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/schinken"target="target3">Schinken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Schinken&id=substantiv%3ASchinken"target="target4">Schinken</a>',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Öl<b>schinken</b> war verdammt schwer. Rath hatte Mühe, das sperrige Bild wieder an seinen Platz zurückzuhängen, nachdem er es einmal vom Haken genommen hatte und dahinter keine Tresortür hatte entdecken können. (<i>Marlow</i>, 272)',
     'Im Schaufenster einer Buchhandlung entdeckte er (<i>Rath</i>) eine Biographie des glatzköpfigen Gauleiters (<i>Julius Streicher</i>) und ging kurzerhand hinein. Im Laden griff er sich das Buch und tat so, als schmökere er interessiert, so lange, bis er das Geburtsdatum gefunden hatte. Dann enttäuschte er die Buchhändlerin, als er den <b>Schinken</b> kommentarlos wieder weglegte und den Laden verließ. (<i>Marlow</i>, 275-76)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wenn Sie wollen", sagte Krause, "kann ich Ihnen morgen auch ein anderes Buch mitbringen. <i>Volk im Feuer</i> von Otto Paust..." Rath wunderte sich über den devoten Übereifer des dicken Kommissars. Warum empfahl der ihm einen Nazi<b>schinken</b>? Hielt der ihn für einen Linientreuen? (<i>Olympia</i>, 94)',
 ],
 verklemmt: [
     '<b>verklemmt</b>: uptight, inhibited'+
@@ -7991,6 +8059,7 @@ vermaledeit: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Oppenberg</i>: "Genau, Ich möchte an der Grenze behandelt werden wie ein normaler Mensch und nicht wie ein Aussätziger." "Ist Ihnen klar, wie riskant das ist? Normalerweise helfen wir (<i>Detektei Böhm: Böhm und Charly</i>) den Menschen, möglichst viel von ihrem Vermögen ins Ausland zu transferieren und <b>unbehelligt</b> über die Grenze zu kommen." (<i>Olympia</i>, 78-79)',
 ],
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 aufgeweckt: [
     '<b>aufgeweckt</b>: bright, sharp, smart; pp of aufwecken (wake up)'+
@@ -11824,8 +11893,12 @@ ausbüxen: [
 ],
 ausfressen: [
     '<b>ausfressen</b>: gobble up, wolf down; be up to something (wrong)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/etwas_ausgefressen_haben/"target="target1">ausfressen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausfressen"target="target2">ausfressen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausfressen"target="target3">ausfressen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ausfressen"target="target4">ausfressen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.wortbedeutung.info/etwas_ausgefressen_haben/"target="target1">ausfressen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/ausfressen"target="target2">ausfressen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/ausfressen"target="target3">ausfressen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=ausfressen"target="target4">ausfressen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Rath</i>: "Ist Ihnen in den vergangenen Wochen etwas aufgefallen? Ist jemand Neues hier eingezogen?" "Nicht das ick wüste." "Vielleicht unter einem anderen Namen." "Nee, beim besten Willen nicht. Wat soller denn ausjefressen (<b>ausgefressen</b>) haben?" (<i>Der nasse Fisch</i>, 49)',
@@ -21221,13 +21294,17 @@ schmissig: [
 'Stümper, stümperhaft': [
     'der <b>Stümper</b>,-: bumbler, incompetent'+
     '<br><b>stümperhaft</b>: botched, bungled, clumsy'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stuemper"target="target1">Stümper</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/st%C3%BCmperhaft"target="target2">stümperhaft</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/stuemper#St%C3%BCmper"target="target3">Stümper</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=st%C3%BCmperhaft"target="target4">stümperhaft</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Stuemper"target="target1">Stümper</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/st%C3%BCmperhaft"target="target2">stümperhaft</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/stuemper#St%C3%BCmper"target="target3">Stümper</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=st%C3%BCmperhaft"target="target4">stümperhaft</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Großeinsatz der Berliner Polizei hatte keine guten Kritiken bekommen. Die konservative und die nationale Presse hielten ihn im Grunde für richtig, die Ausführung aber für <b>stümperhaft</b>, Sozis traute man ein richtiges Durchgreifen eben nicht zu. (<i>Der nasse Fisch</i>, 104)',
     'Er konnte sich keinen fehler erlauben. Was in diesem Fall paradoxerweise hieß: möglichst viele Fehler zu machen. Fehler, die eine Lösung des Falles unmöglich machten und den Ermittlungsleiter dennoch nicht schlecht aussehen ließen. Wenn Rath diesen Fall nicht löste, musste er das auf eine intelligente Weise tun, auf eine plausible Weise also, ohne dass jemand ihn deswegen für einen <b>Stümper</b> hielt... (<i>Der nasse Fisch</i>, 290)',
-    '<i>Rath</i>: "Jeder unnatürlicher Tod muss selbstverständlich kriminalpolizeilich untersucht werden, auch ein Unfall! Da reichen die Nachforschungen einiger <b>Stümper</b> in Uniform (<i>Revierpolizisten</i>) nicht aus!" (<i>Der nasse Fisch</i>, 440)',
+    '<i>Genat</i>: "Jeder unnatürlicher Tod muss selbstverständlich kriminalpolizeilich untersucht werden, auch ein Unfall! Da reichen die Nachforschungen einiger <b>Stümper</b> in Uniform (<i>Revierpolizisten</i>) nicht aus!" (<i>Der nasse Fisch</i>, 440)',
     '<i>Wolter</i>: "Hast du heute schon in den Spiegel geschaut, Gereon? Meinst du, das Gericht glaubt einem koksenden Bullen, der jemanden erschossen hat und <b>stümperhaft</b> versucht, das zu vertuschen?" (<i>Der nasse Fisch</i>, 487)',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',

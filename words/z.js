@@ -36,7 +36,8 @@ const z = [
 'Zicke, Zicken machen',  // 
 'zickig',  // zickig:  
 'Ziegelwand', // Ziegelwand: 
-'zig',   // zig:  
+'zig',   // zig:
+'zimperlich',  // zimperlich:  
 'Zinne', // Zinne:  
 'Zinnober',  // Zinnober: 
 'Zipfel',  // Zipfel: 

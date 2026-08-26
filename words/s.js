@@ -282,7 +282,7 @@ const s = [
 'Stulle',  // Stulle: 
 'stülpen', // stülpen:  
 'Stummel',  // Stummel: 
-'Stümper, stümperhaft', // 
+'Stümper, stümperhaft',  
 'stumpf, abstumpfen',  // duplicated
 'Sturzbach',  // Sturzbach:
 'stutzen, stutzig', 

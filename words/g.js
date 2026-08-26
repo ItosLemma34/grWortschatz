@@ -83,25 +83,25 @@ const g = [
     'Getümmel',  // Getümmel: 
     'Geturtel',  // Geturtel:    duplicate, if found with turteln
     'Gewebe',    // Gewebe: 
-    'Gewehrkolben',  // Gewehrkolben:  
-    'Gewese',    // Gewese:  
-    'Gewimmel, wimmeln',  //  duplicated 
-    'Gewinde, Bolzen, Gewindebolzen',  // duplicated
-    'Gewinsel',  // Gewinsel: 
-    'Gewirr',    // Gewirr: 
-    'Gewölbe',  // Gewölbe: 
-    'Gewühl',   // Gewühl: 
-    'Gewummer, wummern', //  duplicated   
-    'gewunden, winden', //    duplicated 
-    'Gezwitscher, zwitschern', //  duplicated  
-    'Gier, gieren',   // 
-    'giften, an-',
-    'giggeln',  // giggeln:  
-    'Gips',   // Gips:
-    'Gitter, Gitterrost; Laufgitter',
-    'gleißen, gleißend',
-    'glimpflich',  // glimpflich:  
-    'glimmen, auf-',  
+'Gewehrkolben',  // Gewehrkolben:  
+'Gewese',    // Gewese:  
+'Gewimmel, wimmeln',  //  duplicated 
+'Gewinde, Bolzen, Gewindebolzen',  // duplicated
+'Gewinsel',  // Gewinsel: 
+'Gewirr',    // Gewirr: 
+'Gewölbe',  // Gewölbe: 
+'Gewühl',   // Gewühl: 
+'Gewummer, wummern', //  duplicated   
+'gewunden, winden', //    duplicated 
+'Gezwitscher, zwitschern', //  duplicated  
+'Gier, gieren',   // 
+'giften, an-',
+'giggeln',  // giggeln:  
+'Gips',   // Gips:
+'Gitter, Gitterrost; Laufgitter',
+'gleißen, gleißend',
+'glimpflich',  // glimpflich:  
+'glimmen, auf-',  
     'glotzen, an-',
     'gluckern', // gluckern:  
     'goldene Nase (sich verdienen)',

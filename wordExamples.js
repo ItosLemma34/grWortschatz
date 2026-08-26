@@ -14642,8 +14642,13 @@ gestanden: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Gips: [
     'der <b>Gips</b>,-<b>e</b>: plaster, gypsum'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gips"target="target1">Gips</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gips"target="target2">Gips</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gips?q=Gips"target="target3">Gips</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gips"target="target4">Gips</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Gips"target="target1">Gips</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gips"target="target2">Gips</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gips?q=Gips"target="target3">Gips</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/gips"target="target4">Gips</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der große Raum, den sie betraten, wirkte nicht wie ein Keller, sondern eher wie ein in rotes Licht getauchter Thronsaal... Überall an den Wänden schossen Amorfiguren aus <b>Gips</b> ihre Pfeile ab. (<i>Der nasse Fisch</i>, 200)',
     'Neben der Baugrube hatten die Männer vom Erkennungsdienst mit ihrer Arbeit begonnen. In einer kleinen Wanne rührten sie <b>Gips</b> an, um Fußspuren damit auszugießen. Aus einer Gruppe Bauarbeiter löste sich ein stämmiger Mann und kam ihnen entgegen.. Der Arbeiter begrüßte sie mit einem Nicken.. Er trug eine weiße Latzhose und einen blauen Wollpullover, an dem überall hart gewordener <b>Gips</b> und Beton hingen. (<i>Der nasse Fisch</i>, 281)',
@@ -14899,16 +14904,23 @@ Gewese: [
 ],
 Gerümpel: [
     'das <b>Gerümpel</b>: junk'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geruempel"target="target1">Gerümpel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ger%C3%BCmpel"target="target2">Gerümpel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gerumpel?q=Ger%C3%BCmpel"target="target3">Gerümpel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gerumpel_2"target="target4">Gerümpel</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Geruempel"target="target1">Gerümpel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Ger%C3%BCmpel"target="target2">Gerümpel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/gerumpel_2"target="target3">Gerümpel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/Ger%C3%BCmpel"target="target4">Gerümpel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>die Witwe Behnke</i>: "Herr Kardakow?... Hals über Kopf ist er letzten Monat ausgezogen. Seitdem habe ich ihn nicht mehr gesehen. Obwohl er mir noch eine Monnatsmiete schuldet und der ganze Keller vollsteht mit seinem <b>Gerümpel</b>...." (<i>Der nasse Fisch</i>, 42)',
     'Er (<i>Rath</i>) hatte ihr (<i>der Witwe Behnke</i>) versprochen, Kardakow zur Rede zu stellen. Wegen der noch ausstehenden letzten Monastmiete, wegen des <b>Gerümpels</b> im Keller und wegen des kaputten Schranks. (<i>Der nasse Fisch</i>, 48)',
     '<i>die Witwe Behnke</i>: "Sieht nicht so aus, als hätte hier überhaupt jemand was abgeholt." Sie hatte Recht. Bis zur Decke stapelte sich das <b>Gerümpel</b>. (<i>Der nasse Fisch</i>, 90-91)',
     'Einen Schlüssel suchte er (<i>Rath</i>) vergeblich unter all dem <b>Gerümpel</b>. (<i>Der nasse Fisch</i>, 380)',
     '<i>Rath</i>: "Sind Sie sicher, dass sie sich hier unten versteckt?" "Ich wüsste nicht, wo sonst. In dem Keller stehen nur Requisiten und <b>Gerümpel</b>..." Sie fanden tatsächlich nur Requisiten und <b>Gerümpel</b>. Keine Gräfin weit und breit. (<i>Der nasse Fisch</i>, 442)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Sie (<i>Charly und Gereon</i>) folgten dem leicht gewundenen Weg. Überall am Wegesrand stapelte sich <b>Gerümpel</b>, das die Sicht versperrte. (<i>Märzgefallene</i>, 410-11)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Zuerst holte er (<i>Fritze</i>) Gereons Klamotten vom Sofa und warf sie in die Wäschetruhe. Dann schüttete er den Aschenbecher aus und kippte den Kaffeerest in den Spülstein. Und schließlich faltete er die Zeitung zusammen und legte sie in den Zeitungsständer.. So sah das schon wohnlicher aus! Hieß ja auch Wohnzimmer und nicht <b>Gerümpel</b>zimmer. (<i>Lunapark</i>, 515)',
 ],
@@ -27002,9 +27014,12 @@ verzerren: [
     'Rath wurde aus seinen Gedanken <b>gerissen</b>, als die Schwingtür aufgestoßen wurde und Doktor Schwartz mit energischen Schritten und wehendem Kittel in den Gang trat. (<i>Der nasse Fisch</i>, 293)',
     'Eine plötzliche Unruhe im Saal <b>riss ihn</b> (<i>Rath</i>) aus seinen Gedanken. (<i>Der nasse Fisch</i>, 337)',
     'Gennat hatte <b>sich</b> das Gutachten unter den Nagel <b>gerissen</b>. Und gleich auch die Akte Wilczek übernommen. (<i>Der nasse Fisch</i>, 377)',
+    'Auch die Aktion im <i>Delphi</i> stand unter keinem guten Stern. Die Schupos in der Kantstraße zerrissen sich nicht gerade vor Eifer, um einem Bullen vom Alex zu helfen. (<i>Der nasse Fisch</i>, 442)',
+    'Nichts wies darauf hin, dass sich hier jemand versteckt haben könnte. Ein einziges Trümmerfeld. Neben allem möglichen Krimskrams aus bemaltem Gips, Holz und Pappe, fast alles zerbrochen, standen die Überreste eines Kanapees, aus dessen Polster die Federn sprangen, daneben ein verbogenes Bettgestell und eine <b>zerrissene</b> Matratze. (<i>Der nasse Fisch</i>, 442-43)',
     'Rath pfiff leise durch die Zähne. "Und wenn es wirklich die Männer vom <i>Schwarzen Hundert</i> waren, die Kardakow gefoltert haben, dann könnten sie <b>sich</b> auch sein Papier unter den Nagel <b>gerissen</b> haben." (<i>Der nasse Fisch</i>, 462)',
     'Erst einmal ging er (<i>Rath</i>) in den Bahnhof und öffnete sein Schließfach. Was für ein Sammelsurium sich hier inzwischen angehäuft hatte! Ein Notizbuch, eine Pistole, ein Foto alter Weltkriegskameraden, ein aus der Wand <b>gerissenes</b> Telefon. Und ein Kokainbriefchen. In diesem Schließfach lagen seine schmutzigen Geheimnisse. (<i>Der nasse Fisch</i>, 480)',
     '<i>Rath</i>: "Es sollte so aussehenen, als habe Boris sich das Gold der <i>Roten Festung</i> unter den Nagel <b>gerissen</b>?" "Wenn du es sagst", meinte Wolter achselzuckend. "Hört sich doch ganz plausibel an." (<i>Der nasse Fisch</i>, 485)',
+// ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Henning lachte geflissentlich, wie es von seihem Dienstrang erwartet wurde, wenn ein Kommissar Witze <b>riss</b>. (<i>Der stumme Tod</i>, 21)',

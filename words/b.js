@@ -1,55 +1,55 @@
 const b = [
-    'Backfisch', // Backfisch:   
-    'Bahre',  // Bahre: 
-    'Bälde',  // Bälde:
-    'Balken, Gebälk', // duplicated  
-    'ballern',  // ballern:  
-    'Banderole', // Banderole:
-    'bärbeißig',  // bärbeißig: 
-    'barsch',   // barsch: 
-    'Bartstoppel', // Bartstoppel: 
-    'Baskenmütze',  // Baskenmütze: 
-    'basteln',  // basteln: 
-    'bäuchlings', // bäuchlings: 
-    'bauschen, auf-',  
-    'beackern',  // beackern:
-    'beanstanden',  // beanstanden:
-    'beäugen',  // beäugen:  
-    'bedröppelt',  // bedröppelt:
-    'befehligen',  // befehligen: 
-    'beflissen',  // beflissen: 
-    'begrapschen',  // begrapschen:  
-    'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
-    'behäbig, Behäbigkeit', 
-    'behelligen, unbehelligt',   // duplicated  
-    'beherzt',     // beherzt:   
-    'beichten',  // beichten:  
-    'beikommen',   // beikommen: 
-    'Beil',  // Beil: 
-    'Bein (ans B. binden)', //   duplicated 
-    'Beine in den Bauch',   
-    'Beine (sich die B. vertreten)', // duplicated 
-    'beipflichten',   // beipflichten: 
-    'bekleckern',  // bekleckern:
-  //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
-    // bellen duplicate with Gebell if bellen found
-    'belangen, Belang, Belange',  
-    'belauern',  // belauern:  
-  //  'belegt',  // belegt:    complete with belegen?
-    'Bengel',     // Bengel:  
-    'benommen',   // benommen: 
-    'bepinseln, pinseln', //  duplicated 
-    'bequemen, herbequemen', // duplicate
-    'berappen',   // berappen:  
-    'beredt',     // beredt:  
-    'Beritt, beritten',     
-    'besaitet, zartbesaitet',  // duplicated
-    'bescheren, Bescherung',
-    'bescheuert',  // bescheuert: 
-    'beschlagen', // beschlagen:
-    'beseelen, beseelt',
-    'Besen',  // Besen: 
-    'bestatten, Bestatter, Bestattung', 
+'Backfisch', // Backfisch:   
+'Bahre',  // Bahre: 
+'Bälde',  // Bälde:
+'Balken, Gebälk', // duplicated  
+'ballern',  // ballern:  
+'Banderole', // Banderole:
+'bärbeißig',  // bärbeißig: 
+'barsch',   // barsch: 
+'Bartstoppel', // Bartstoppel: 
+'Baskenmütze',  // Baskenmütze: 
+'basteln',  // basteln: 
+'bäuchlings', // bäuchlings: 
+'bauschen, auf-',  
+'beackern',  // beackern:
+'beanstanden',  // beanstanden:
+'beäugen',  // beäugen:  
+'bedröppelt',  // bedröppelt:
+'befehligen',  // befehligen: 
+'beflissen',  // beflissen: 
+'begrapschen',  // begrapschen:  
+'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
+'behäbig, Behäbigkeit', 
+'behelligen, unbehelligt',   // duplicated  
+'beherzt',     // beherzt:   
+'beichten',  // beichten:  
+'beikommen',   // beikommen: 
+'Beil',  // Beil: 
+'Bein (ans B. binden)', //   duplicated 
+'Beine in den Bauch',   
+'Beine (sich die B. vertreten)', // duplicated 
+'beipflichten',   // beipflichten: 
+'bekleckern',  // bekleckern:
+//  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
+// bellen duplicate with Gebell if bellen found
+'belangen, Belang, Belange',  
+'belauern',  // belauern:  
+//  'belegt',  // belegt:    complete with belegen?
+'Bengel',     // Bengel:  
+'benommen',   // benommen: 
+'bepinseln, pinseln', //  duplicated 
+'bequemen, herbequemen', // duplicate
+'berappen',   // berappen:  
+'beredt',     // beredt:  
+'Beritt, beritten',     
+'besaitet, zartbesaitet',  // duplicated
+'bescheren, Bescherung',
+'bescheuert',  // bescheuert: 
+'beschlagen', // beschlagen:
+'beseelen, beseelt',
+'Besen',  // Besen: 
+'bestatten, Bestatter, Bestattung', 
 'Besteck',    // Besteck: 
 'besudeln',  // besudeln:    
 'Beteuerung', // Beteuerung   

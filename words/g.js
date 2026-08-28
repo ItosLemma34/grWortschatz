@@ -57,8 +57,9 @@ const g = [
 'Geröll',     // Geröll:  
 'Geruckel, ruckeln',  // duplicated 
 'Gerümpel',   // Gerümpel:  
-'Gerüst, einrüsten', // duplicated  
+'Gerüst, einrüsten', // duplicated 
 'gesalzen',   // gesalzen: 
+'Gesäß',  // Gesäß:
 'geschliffen',  // geschliffen:  
 'geschniegelt',  // geschniegelt:  
 'Geschreibsel',  // Geschreibsel:  
@@ -70,19 +71,19 @@ const g = [
 'geschwungen', // geschwungen:
 'Geseier',  // Geseier:
 'Gesinde',  // Gesinde:   
-    'Gesindel',    // Gesindel:  
-    'gesittet',    // gesittet:  
-    'gestanden',  // gestanden: 
-    'geständig',  // geständig 
-    'Gestänge',   // Gestänge:  
-    'Gestell',    // Gestell: 
-    'gestiefelt und gespornt', 
-    'Gestöber',   // Gestöber: 
-    'Gesträuch, Strauch',  // duplicated  
-    'Gestrüpp',  // Gestrüpp: 
-    'Getümmel',  // Getümmel: 
-    'Geturtel',  // Geturtel:    duplicate, if found with turteln
-    'Gewebe',    // Gewebe: 
+'Gesindel',    // Gesindel:  
+'gesittet',    // gesittet:  
+'gestanden',  // gestanden: 
+'geständig',  // geständig 
+'Gestänge',   // Gestänge:  
+'Gestell',    // Gestell: 
+'gestiefelt und gespornt', 
+'Gestöber',   // Gestöber: 
+'Gesträuch, Strauch',  // duplicated  
+'Gestrüpp',  // Gestrüpp: 
+'Getümmel',  // Getümmel: 
+'Geturtel',  // Geturtel:    duplicate, if found with turteln
+'Gewebe',    // Gewebe: 
 'Gewehrkolben',  // Gewehrkolben:  
 'Gewese',    // Gewese:  
 'Gewimmel, wimmeln',  //  duplicated 
@@ -102,31 +103,31 @@ const g = [
 'gleißen, gleißend',
 'glimpflich',  // glimpflich:  
 'glimmen, auf-',  
-    'glotzen, an-',
-    'gluckern', // gluckern:  
-    'goldene Nase (sich verdienen)',
-    'Gör, Göre',
-    'Gosse',  // Gosse:  
-    'grämen',  // grämen:
-    'Granit (auf G. beißen)',
-    'grapschen',  // grapschen:
-    'grassieren',  // grassieren: 
-    'grauen',  // grauen: 
-    'grienen, an-',
-    'Griesgram, griesgrämig',
-    'Grimm, grimmig', // 
-    'grölen', // grölen:  
-    'große Stücke auf jmdn. halten',
-    'Großmut',  // Großmut: 
-    'grübeln', // grübeln: 
-    'Grünschnabel', // Grünschnabel:  
-    'grunzen',   // grunzen:  
-    'Grüßaugust', // Grüßaugust: 
-    'Gully',  // Gully:  
-    'gurren',  // gurren:  
-    'Gurt',   // Gurt:      
-    //   'gut in Schuss',  //    rework this
-    'guten Mutes sein', //   
+'glotzen, an-',
+'gluckern', // gluckern:  
+'goldene Nase (sich verdienen)',
+'Gör, Göre',
+'Gosse',  // Gosse:  
+'grämen',  // grämen:
+'Granit (auf G. beißen)',
+'grapschen',  // grapschen:
+'grassieren',  // grassieren: 
+'grauen',  // grauen: 
+'grienen, an-',
+'Griesgram, griesgrämig',
+'Grimm, grimmig', // 
+'grölen', // grölen:  
+'große Stücke auf jmdn. halten',
+'Großmut',  // Großmut: 
+'grübeln', // grübeln: 
+'Grünschnabel', // Grünschnabel:  
+'grunzen',   // grunzen:  
+'Grüßaugust', // Grüßaugust: 
+'Gully',  // Gully:  
+'gurren',  // gurren:  
+'Gurt',   // Gurt:      
+//   'gut in Schuss',  //    rework this
+'guten Mutes sein', //   
 ];
 
 export default g;

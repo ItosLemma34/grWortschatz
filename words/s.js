@@ -250,7 +250,7 @@ const s = [
 'stempeln, s. gehen, Stempel, -kissen', 
 'stibitzen', // stibitzen: 
 'Stich, einen S. versetzen', // duplicated  
-'Stiefel, stiefeln, entlang-, hinüber-, los-, zu-',
+'Stiefel, stiefeln',
 'stieren, an-',  
 'stöbern, auf-',  // duplicated as aufstöbern:
 'stochern',  // stochern:  

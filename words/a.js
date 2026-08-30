@@ -133,7 +133,7 @@ const a = [
 'auf Trab bringen/halten',   
 'auf Zack sein',     
 'aufbahren',   // aufbahren:
-'aufbäumen',  // aufbäumen:  ä sorted as ae 
+'aufbäumen',  // aufbäumen:   
 'aufbrummen', // aufbrummen: 
 'aufdonnern',  // aufdonnern: 
 'auffliegen',  // auffliegen:  

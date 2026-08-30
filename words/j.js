@@ -1,13 +1,13 @@
 const j = [
-   'Jammerlappen', // Jammerlappen:
-   'japsen',  // japsen: 
-   'jauchzen', // jauchzen: 
-   'jaulen', // jaulen: 
-   'Jeton',  // Jeton:  
-   'johlen',  // johlen: 
-   'Joppe',  // Joppe: 
-   'jucken',  // jucken: 
-   'Jungspund, Spund',  // Duplicated
+'Jammerlappen', // Jammerlappen:
+'japsen',  // japsen: 
+'jauchzen', // jauchzen: 
+'jaulen', // jaulen: 
+'Jeton',  // Jeton:  
+'johlen',  // johlen: 
+'Joppe',  // Joppe: 
+'jucken',  // jucken: 
+'Jungspund, Spund',  // Duplicated
 ];
 
 export default j;   

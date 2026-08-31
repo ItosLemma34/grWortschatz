@@ -45,32 +45,32 @@ const h = [
 'heimzahlen',  // heimzahlen: 
 'heischen', // heischen: 
 'heiser, Heiserkeit',  
-   'Hemd (sich ins H. machen)',
-   'Henkelmann',  // Henkelmann:  
-   'herbequemen, bequemen',
-   'hereinlegen, reinlegen',  // duplicated 
-   'herrisch',  // herrisch: 
-   'herumärgern, rumärgern', //  duplicated 
-   'herumfuhrwerken',  // herumfuhrwerken: 
-   'herumlungern', // herumlungern:  
-   'hetzen, Hetze',   
-   'heucheln, vor-', 
-   'heulen, aus-, ver-, voll-',  
-   'Heulsuse', // Heulsuse:  
-   'hieven',  // hieven: 
-   'hinblättern', // hinblättern:
-   'hineinreiten, reinreiten',  // duplicated 
-   'hinhalten, Knochen/Kopf hinhalten', // duplicated 
-   'hinterlistig',  // hinterlistig: 
-   'hinters Licht führen', 
-   'Hippe',  // Hippe: 
-   'hobeln', // hobeln: 
-   'hochgestochen', // hochgestochen: 
-   'Hochstapler',  // Hochstapler:
-   'hocken, Hocke, Hocker',  
-   'Hölle heißmachen',   
-   'Holzstoß',  // Holzstoß: 
-   'hopsnehmen', // hopsnehmen: 
+'Hemd (sich ins H. machen)',
+'Henkelmann',  // Henkelmann:  
+'herbequemen, bequemen',
+'hereinlegen, reinlegen',  // duplicated 
+'herrisch',  // herrisch: 
+'herumärgern, rumärgern', //  duplicated 
+'herumfuhrwerken',  // herumfuhrwerken: 
+'herumlungern', // herumlungern:  
+'hetzen, Hetze',   
+'heucheln, vor-', 
+'heulen, aus-, ver-, voll-',  
+'Heulsuse', // Heulsuse:  
+'hieven',  // hieven: 
+'hinblättern', // hinblättern:
+'hineinreiten, reinreiten',  // duplicated 
+'hinhalten, Knochen/Kopf hinhalten', // duplicated 
+'hinterlistig',  // hinterlistig: 
+'hinters Licht führen', 
+'Hippe',  // Hippe: 
+'hobeln', // hobeln: 
+'hochgestochen', // hochgestochen: 
+'Hochstapler',  // Hochstapler:
+'hocken, Hocke, Hocker',  
+'Hölle heißmachen',   
+'Holzstoß',  // Holzstoß: 
+'hopsnehmen', // hopsnehmen: 
 'horchen, -auf, -aus',  
 'Hornochse',  // Hornochse:  
 'Hose (in die H. machen/gehen)', // duplicated     

@@ -252,6 +252,18 @@ vergönnen: [
 ],
 // Präfixe (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
+Ächtung: [  
+    'die <b>Ächtung</b>,-<b>en</b>: ostracism, proscription'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Aechtung"target="target1">Ächtung</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/%C3%84chtung"target="target2">Ächtung</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/aechtung"target="target3">Ächtung</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=%C3%84chtung&id=substantiv%3AA3chtung"target="target4">Ächtung</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Der Alte klang nun wieder ruhiger. "Wissen Sie, es ist eine Schande, dass Doktor Hoffmanns Erfindung in Ihrem (<i>Goldsteins</i>) Land verboten ist. Ohne die <b>Ächtung</b> in den USA hätten wir die Produktion (<i>von Heroin</i>) niemals einstellen müssen." (<i>Olympia</i>, 130)',
+],
 Gesäß: [  
     'das <b>Gesäß</b>,-<b>e</b>: buttocks, bottom, derrière, haunches'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -5632,13 +5644,23 @@ Seilschaft: [
 ],
 schlängeln: [
     '<b>sich schlängeln</b>: wriggle, snake, curl, wind, meander'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlaengeln"target="target1">schlängeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schl%C3%A4ngeln"target="target2">schlängeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlangeln"target="target3">schlängeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schl%C3%A4ngeln&id=verb%3Aschla3ngeln"target="target4">schlängeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/schlaengeln"target="target1">schlängeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schl%C3%A4ngeln"target="target2">schlängeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/schlangeln"target="target3">schlängeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=schl%C3%A4ngeln&id=verb%3Aschla3ngeln"target="target4">schlängeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Vor dem Zentralflughafen Tempelhof staute sich auch um diese Zeit der Verkehr. Rath <b>schlängelte sich</b> an dem Gewimmel vorbei und fuhr weiter nach Neukölln. (<i>Der nasse Fisch</i>, 507)',
     'Rath nickte. In dem Stimmengewirr um sie herum war es schwierig, sich verständlich zu machen. Kaum zu glauben, dass in dem Chaos überhaupt jemand bedient wurde. Aber die Kellner <b>schlängelten sich</b> mit erhobenen Tabletts hindurch wie Zirkusartisten. (<i>Der nasse Fisch</i>, 538)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der schwer bepackte Henning musste aufpassen, dass er nicht stolperte, überall <b>schlängelten sich</b> Kabel über den Boden, andere waren quer durch den Raum gespannt. (<i>Der stumme Tod</i>, 22)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Unten im engen Tal, zu beiden Seiten des kleinen Flüsschens, lag die riesige Chemiefabrik und streckte ihre Schornsteine, die kaum höher waren als die sie umgebenden Hügel, in den grauen Himmel. Und mitten hindurch rumpelte eine an Schienen hängende Bahn den <b>sich</b> durchs Tal <b>schlängelnden</b> Flusslauf entlang. (<i>Olympia</i>, 128)'+
+    '<br><i>an Schienen hängende Bahn</i> = &nbsp;&nbsp;<a href="https://www.bing.com/images/search?q=bilder+von+h%c3%a4ngebahn&qpvt=Bilder+von+H%c3%a4ngebahn&form=IGRE&first=1"target="target5"><i>Hängebahn</i> (photos)</a>', 
 ],
 Gewirr: [
     'das <b>Gewirr</b>,-<b>e</b>: tangle, babble, jumble, confusion'+
@@ -8436,11 +8458,17 @@ Fallbeil: [
 //    '<span class="bookTitle"><u>Olympia</u></span>',
 //    '    (<i>Olympia</i>, 000)', 
 ],
-'rasseln, zusammen-': [
+'rasseln': [  
     '<b>rasseln</b>: jangle, rattle, clank'+
+    '<br><i>trennbare Präfixe</i>: <b>weiter-, zusammen-</b>'+
+    '<br><b>weiterrasseln</b>: keep on rattling'+
     '<br><b>zusammenrasseln</b>: clash; have a fight'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rasseln"target="target1">rasseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zusammenrasseln"target="target2">zusammenrasseln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rasseln"target="target3">rasseln</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/zusammenrasseln"target="target4">zusammenrasseln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/rasseln"target="target1">rasseln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/zusammenrasseln"target="target2">zusammenrasseln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/rasseln"target="target3">rasseln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/zusammenrasseln"target="target4">zusammenrasseln</a>',
     // Der masse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Viel geschlafen hatte er nicht. Hatten sie (<i>Gereon und Charly</i>) nicht. Rath lag schon wach, als der Zeiger einrastete und die <b>rasselnde</b> Glocke auslösen wollte. Mit einem schnellen Schlag stoppte er das blecherne Monstrum auf dem Nachttisch, bevor es Lärm machen konnte. (<i>Der nasse Fisch</i>, 192)',
@@ -8449,7 +8477,7 @@ Fallbeil: [
     'Auf sein (<i>Raths</i>) Klingeln öffnete niemand. Er probierte es noch einmal. Während er an der Haustür horchte, wie die Türklingel verhallte, fiel ihm ein <b>rasselndes</b>, schepperndes Geräusch auf. Rath schaute um die Ecke in den Garten... (<i>Der nasse Fisch</i>, 483)',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    'Es klingelte heiser, und Rath zuckte zusammen. Nicht die Türklingel. Das Telefon! Er ging hinüber, doch dann zögerte er und blieb einen Moment vor dem schwarzen Apparat stehen, der unbeeindruckt weiter<b>rasselte</b>. (<i>Der stumme Tod</i>, 86)',
+    'Es klingelte heiser, und Rath zuckte zusammen. Nicht die Türklingel. Das Telefon! Er ging hinüber, doch dann zögerte er und blieb einen Moment vor dem schwarzen Apparat stehen, der unbeeindruckt <b>weiterrasselte</b>. (<i>Der stumme Tod</i>, 86)',
     'In den Gängen war er (<i>Rath</i>) keinem Bekannten begegnet, im Lichthof wäre er tatsächlich beinahe noch mit Brenner <b>zusammengerasselt</b>, konnte sich aber noch rechtzeitig hinter ein Einsatzfahrzeug ducken. (<i>Der stumme Tod</i>, 176-77)',
     'Und obwohl sie keine Stimme mehr hat, will sie wieder anfangen zu lachen, es <b>rasselt</b> und röchelt und gurgelt, Speichel sprüht aus ihrem Mund und Blut. (<i>Der stumme Tod</i>, 223)',
     // Märzgefallene
@@ -8459,6 +8487,9 @@ Fallbeil: [
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Und dann stand er (<i>Rath</i>) auf der Victoriastraße, ohne zu wissen, wie er dorthin gekommen war, ob sie ihn hinausgeworfen oder einfach nur dort abgestellt hatten, und hörte, wie das schwere schmiedeeiserne Tor hinter ihm ins Schloss <b>rasselte</b> und die Männer zurück ins Haus gingen. (<i>Lunapark</i>, 360)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Kurz darauf saß er im Auto und war froh, wieder unterwegs zu sein. Er wusste nicht, ob er überhaupt noch ins Olympische Dorf fahren sollte, nachdem er mit Tornow darart <b>zusammengerasselt war</b>. (<i>Olympia</i>, 127)',
 ],
 einbetonieren: [
     '<b>betonieren</b>: pour/set concrete'+
@@ -11467,20 +11498,30 @@ antanzen: [
 ],
 Anwesen: [
     'das <b>Anwesen</b>,-: estate, stately home; property'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anwesen"target="target1">Anwesen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anwesen"target="target2">Anwesen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anwesen"target="target3">Anwesen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anwesen"target="target4">Anwesen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anwesen"target="target1">Anwesen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Anwesen"target="target2">Anwesen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anwesen"target="target3">Anwesen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Anwesen"target="target4">Anwesen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Etwas abseits des Dorfes liegt ein stattliches <b>Anwesen</b>, an dem der Krieg wie durch ein Wunder noch keinerlei Spuren hinterlassen hat, eine schmucke Villa mitsamt Dienstbotenunterkünften und einem kleinen Park. (<i>Märzgefallene</i>, 160)',
     'Das <b>Anwesen</b> lag am äußersten Rand von Neuville, ein ganzes Stück abseits der anderen Häuser und unendlich weit entfernt vom nächsten bewohnten Haus.... (<i>Märzgefallene</i>, 166-67)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath betrachtete die Mauer, die das <b>Anwesen</b> (<i>Marlows Villa</i>) umgab. Gut zweieinhalb Meter hoch. (<i>Lunapark</i>, 121)',
     '<i>Rath</i>: "Ich suche Johann Marlow." <i>der Mann mit der Schrotflinte</i>: "Wen?" "Johann Marlow. Das ist sein Haus. War es jedenfalls vor einem Jahr." "Ich kenne keinen Marlow. Ich passe für Doktor Friedemann auf dieses Haus auf." "Friedemann?" "Der Besitzer dieses <b>Anwesens</b>." (<i>Lunapark</i>, 123)',
     '"Ich dachte, Sie (<i>Marlow</i>) hätten das <b>Anwesen</b> hier verkauft", sagte er (<i>Rath</i>) und ließ seinen Blick durch den Garten schweifen. (<i>Lunapark</i>, 354)',
     'Nun stand sie (<i>Charly</i>) vor der Adresse, die Landauer ihr gegeben hatte, stand dort mit ihrem Köfferchen, als sei sie die neue Köchin. Denn auch das Haus in der Victoriastraße war kein Haus, sondern ein <b>Anwesen</b>, wenn auch nicht ganz so eindrucksvoll wie das schlossähnliche in Freienwalde. (<i>Lunapark</i>, 478)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Ihr (<i>Charly</i>) hatte er (<i>Gereon</i>) einfach erklärt, dass das kleine Vermögen, das sein Lieblingsonkel ihm vererbt habe, langsam zur Neige gehe. Und nicht, das er nach Pankow gefahren war, um den letzten Geldumschlag, den Johann Marlow ihm hatte zukommen lassen, über den Zaun des Marlow\'schen <b>Anwesens</b> zu werfen. Zurück an den Absender. (<i>Marlow</i>, 45)',
     'Als er das Haus der Witwe passierte, bog der Hundebesitzer,.. auf den Fußweg, der zur Herta Rinkes Haustür führte, bückte sich kurz, steckte zwei Flaschen Milch in die Manteltaschen, nahm die anderen zwei in die Hand und ging, als sei nichts weiter geschehen, die restlichen Meter zu seinem Haus - ein in allen Belangen stattlicheres <b>Anwesen</b> als das von Herta Rinke - und verchwand mit seiner Beute in der Haustür, ohne sich noch einmal umzudrehen. (<i>Marlow</i>, 220)',
     'Hier auf der Wannseeinsel waren sie schon lange nicht mehr spazieren gegangen. Vorbei an den neiderweckend schönen <b>Anwesen</b> der Villenkolonie Alsen, dann in den Wald eintauchen, vorbei an Kiefern und Birken, bis irgendwann das Seeufer wieder auftauchte und dann.. der Fähranleger zur Pfaueninsel. (<i>Marlow</i>, 414)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Kurz darauf öffnete sich die Tür, und Goldstein stand einem grauhaarigen Mann gegenüber. Kein Diener in Livree oder Frack, wie man ihn in solch einem <b>Anwesen</b> erwartet hätte, sondern ein hagerer Mann in einem weißen Laborkittel, der die sechzig schon lange überschritten haben durfte. (<i>Olympia</i>, 129)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 'Anzeige erstatten': [
@@ -15134,8 +15175,13 @@ Gerümpel: [
 'Gewimmel, wimmeln': [
     '<b>wimmeln</b>: to swarm, abound'+
     '<br>das <b>Gewimmel</b>: swarm, throng, milling crowd'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewimmel"target="target1">Gewimmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wimmeln"target="target2">wimmeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gewimmel"target="target3">Gewimmel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wimmeln"target="target4">wimmeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/wimmeln"target="target1">wimmeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Gewimmel"target="target2">Gewimmel</a>&nbsp;&nbsp;'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/wimmeln"target="target3">wimmeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Gewimmel&id=substantiv%3AGewimmel"target="target4">Gewimmel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"In die U-Bahn hat er es jedenfalls nicht geschafft", meinte Wolter. "So viel Zeit hatte er nicht." Aber <i>dafür</i> hatte er Zeit", sagte Rath und deutete auf den Bauzaun. Eine mit Plakaten tapezierte Bretterwand... riegelte die gesamte Kaufhausbaustelle vom Menschen<b>gewimmel</b> auf dem Hermannplatz ab. (<i>Der nasse Fisch</i>, 23)',
     '<i>die Witwe Behnke</i>: "Jedenfalls hat Ihr (<i>Raths</i>) Vormieter öfter mal für unruhige Nächte gesorgt, so viel kann ich Ihnen sagen. Da hat es in Ihrem Zimmer manchmal von Russen <b>gewimmelt</b>. Und immer haben sie bis tief in die Nacht gezecht und wurden dann laut." (<i>Der nasse Fisch</i>, 40)',
@@ -15143,8 +15189,10 @@ Gerümpel: [
     'Bevor er (<i>Rath</i>) sich in die Wannseebahn setzte, deponierte er das Buch in einem Schließfach am Potsdamer Bahnhof. Den Schlüssel steckte er in ein Kuvert der preußischen Polizei, das er sorgfältig verschloss und frankierte. Dann suchte er im abendlichen <b>Gewimmel</b> des Bahnhofs nach einem Briefkasten der Reichspost. (<i>Der nasse Fisch</i>, 387)',
     'Sie (<i>Swetlana</i>) war Richtung Victoria-Park gegangen. Am Ende der Straße erhob sich grün der Kreuzberg, davor wippten die Köpfe der Passanten wie ein wogendes Meer. Er versuchte, ihren blauen Hut in dem <b>Gewimmel</b> zu entdecken. (<i>Der nasse Fisch</i>, 474)',
     'Vor dem Zentralflughafen Tempelhof staute sich auch um diese Zeit der Verkehr. Rath schlängelte sich an dem <b>Gewimmel</b> vorbei und fuhr weiter nach Neukölln. (<i>Der nasse Fisch</i>, 507)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath überflog die Gestalten auf dem Tanzparkett, da herrschte ein unglaubliches <b>Gewimmel</b>, nicht allzu viel zu erkennen. (<i>Der stumme Tod</i>, 99)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Weinert</i>) war unter den Männern, die sich hier am Tresen und rund um die vier Tische verteilt hatten, der einzige Journalist. Und Gereon Rath der einzige Polizist.. Besser also als ein Treffpunkt im Zeitungsviertel, wo es von neugierigen Kollegen <b>wimmelte</b>, oder am Alex, in dessen Umgebung so ungefähr jeder dritte Kneipengast entweder Bulle oder Ganove war. (<i>Märzgefallene</i>, 530)',
     '<span class="bookTitle"><u>Lunapark</u></span>',
@@ -15154,15 +15202,24 @@ Gerümpel: [
     'Es war eine katholische Kirche. Brandenburg an der Havel besaß eine ganze Reihe Kirchen, die ihre Türme über das <b>Gewimmel</b> der Dächer reckten, doch die katholische war mit Abstand die kleinste. (<i>Lunapark</i>, 424)',
     'Eine Familie mit Picknickkorb schlenderte auf dem Weg zu ihrer Parzelle am Gartentor vorbei. Da wurde ihm (<i>Rath</i>) endgültig klar, dass er umsonst gewartet hatte.. Bald würde es in der Kolonie von Sonntagsausflüglern <b>wimmeln</b>. Nur einer würde bestimmt nicht mehr erscheinen: Leo Juretzka. (<i>Lunapark</i>, 496)',
     'Er (<i>Rath</i>) setzte sich mit einer Tasse Kaffee und einer Zigarette an den Tisch und griff zur Sonntagszeitung... Dabei flatterte etwas zu Boden. Die blassgrüne Wahrsagekarte von Madame Luna. Wie war denn die dahingeraten? Er ließ sie liegen und schlug die Zeitung auf. Das Blatt <b>wimmelte</b> nur so von Meldungen zu den gestrigen Ereignissen. (<i>Lunapark</i>, 496-97)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'In der großen Halle, die sich zu den Gleisen hin öffnete, war es angenehm kühl. Das Menschen<b>gewimmel</b> und die Lautspecherdurchsagen weckten das Fernweh in Rath. (<i>Marlow</i>, 65)',
     'Wer auch immer da noch ein Hühnchen mit Gereon Rath zu rupfen hatte, er hatte ihm das Leben gerettet. Jetzt noch abzudrücken, in Gegenwart zweier Schupos, wäre viel zu riskant. Dann müsse er gleich alle erledigen: Rath, dessen Frau, die beiden Bullen und den unbekannten Angreifer... Unmöglich, dann noch unaffällig zu fliehen. Innerhalb weniger Minuten würde es hier nur so <b>wimmeln</b> von Uniformierten. Männer, die alle das Fahndungsfoto von Johann Marlow kannten... (<i>Marlow</i>, 505-06)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Es gab sogar Lokale (<i>in Berlin</i>), in denen man keinem einzigen Uniformierten, geschweige denn einem Hakenkreuzträger über den Weg lief, und das war in einem Land, in dem es vor Uniformen und Hakenkreuzen nur so <b>wimmelte</b>, schon einiges wert. (<i>Olympia</i>, 128)',
 ],
 'wimmeln, Gewimmel': [
     '<b>wimmeln</b>: to swarm, abound'+
     '<br>das <b>Gewimmel</b>: swarm, throng, milling crowd'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gewimmel"target="target1">Gewimmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wimmeln"target="target2">wimmeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gewimmel"target="target3">Gewimmel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wimmeln"target="target4">wimmeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/wimmeln"target="target1">wimmeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Gewimmel"target="target2">Gewimmel</a>&nbsp;&nbsp;'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/wimmeln"target="target3">wimmeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Gewimmel&id=substantiv%3AGewimmel"target="target4">Gewimmel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"In die U-Bahn hat er es jedenfalls nicht geschafft", meinte Wolter. "So viel Zeit hatte er nicht." Aber <i>dafür</i> hatte er Zeit", sagte Rath und deutete auf den Bauzaun. Eine mit Plakaten tapezierte Bretterwand... riegelte die gesamte Kaufhausbaustelle vom Menschen<b>gewimmel</b> auf dem Hermannplatz ab. (<i>Der nasse Fisch</i>, 23)',
     '<i>die Witwe Behnke</i>: "Jedenfalls hat Ihr (<i>Raths</i>) Vormieter öfter mal für unruhige Nächte gesorgt, so viel kann ich Ihnen sagen. Da hat es in Ihrem Zimmer manchmal von Russen <b>gewimmelt</b>. Und immer haben sie bis tief in die Nacht gezecht und wurden dann laut." (<i>Der nasse Fisch</i>, 40)',
@@ -15170,8 +15227,10 @@ Gerümpel: [
     'Bevor er (<i>Rath</i>) sich in die Wannseebahn setzte, deponierte er das Buch in einem Schließfach am Potsdamer Bahnhof. Den Schlüssel steckte er in ein Kuvert der preußischen Polizei, das er sorgfältig verschloss und frankierte. Dann suchte er im abendlichen <b>Gewimmel</b> des Bahnhofs nach einem Briefkasten der Reichspost. (<i>Der nasse Fisch</i>, 387)',
     'Sie (<i>Swetlana</i>) war Richtung Victoria-Park gegangen. Am Ende der Straße erhob sich grün der Kreuzberg, davor wippten die Köpfe der Passanten wie ein wogendes Meer. Er versuchte, ihren blauen Hut in dem <b>Gewimmel</b> zu entdecken. (<i>Der nasse Fisch</i>, 474)',
     'Vor dem Zentralflughafen Tempelhof staute sich auch um diese Zeit der Verkehr. Rath schlängelte sich an dem <b>Gewimmel</b> vorbei und fuhr weiter nach Neukölln. (<i>Der nasse Fisch</i>, 507)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath überflog die Gestalten auf dem Tanzparkett, da herrschte ein unglaubliches <b>Gewimmel</b>, nicht allzu viel zu erkennen. (<i>Der stumme Tod</i>, 99)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Weinert</i>) war unter den Männern, die sich hier am Tresen und rund um die vier Tische verteilt hatten, der einzige Journalist. Und Gereon Rath der einzige Polizist.. Besser also als ein Treffpunkt im Zeitungsviertel, wo es von neugierigen Kollegen <b>wimmelte</b>, oder am Alex, in dessen Umgebung so ungefähr jeder dritte Kneipengast entweder Bulle oder Ganove war. (<i>Märzgefallene</i>, 530)',
     '<span class="bookTitle"><u>Lunapark</u></span>',
@@ -15181,9 +15240,13 @@ Gerümpel: [
     'Es war eine katholische Kirche. Brandenburg an der Havel besaß eine ganze Reihe Kirchen, die ihre Türme über das <b>Gewimmel</b> der Dächer reckten, doch die katholische war mit Abstand die kleinste. (<i>Lunapark</i>, 424)',
     'Eine Familie mit Picknickkorb schlenderte auf dem Weg zu ihrer Parzelle am Gartentor vorbei. Da wurde ihm (<i>Rath</i>) endgültig klar, dass er umsonst gewartet hatte.. Bald würde es in der Kolonie von Sonntagsausflüglern <b>wimmeln</b>. Nur einer würde bestimmt nicht mehr erscheinen: Leo Juretzka. (<i>Lunapark</i>, 496)',
     'Er (<i>Rath</i>) setzte sich mit einer Tasse Kaffee und einer Zigarette an den Tisch und griff zur Sonntagszeitung... Dabei flatterte etwas zu Boden. Die blassgrüne Wahrsagekarte von Madame Luna. Wie war denn die dahingeraten? Er ließ sie liegen und schlug die Zeitung auf. Das Blatt <b>wimmelte</b> nur so von Meldungen zu den gestrigen Ereignissen. (<i>Lunapark</i>, 496-97)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'In der großen Halle, die sich zu den Gleisen hin öffnete, war es angenehm kühl. Das Menschen<b>gewimmel</b> und die Lautspecherdurchsagen weckten das Fernweh in Rath. (<i>Marlow</i>, 65)',
     'Wer auch immer da noch ein Hühnchen mit Gereon Rath zu rupfen hatte, er hatte ihm das Leben gerettet. Jetzt noch abzudrücken, in Gegenwart zweier Schupos, wäre viel zu riskant. Dann müsse er gleich alle erledigen: Rath, dessen Frau, die beiden Bullen und den unbekannten Angreifer... Unmöglich, dann noch unaffällig zu fliehen. Innerhalb weniger Minuten würde es hier nur so <b>wimmeln</b> von Uniformierten. Männer, die alle das Fahndungsfoto von Johann Marlow kannten... (<i>Marlow</i>, 505-06)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Es gab sogar Lokale (<i>in Berlin</i>), in denen man keinem einzigen Uniformierten, geschweige denn einem Hakenkreuzträger über den Weg lief, und das war in einem Land, in dem es vor Uniformen und Hakenkreuzen nur so <b>wimmelte</b>, schon einiges wert. (<i>Olympia</i>, 128)',
 ],
 'Gerüst, einrüsten': [
     'das <b>Gerüst</b>,-<b>e</b>: scaffolding; framework, structure'+
@@ -16256,8 +16319,12 @@ heimzahlen: [
 'heiser, Heiserkeit': [
     '<b>heiser</b>: hoarse, raspy, gravelly'+
     '<br>die <b>Heiserkeit</b>: hoarseness'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/heiser"target="target1">heiser</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Heiserkeit"target="target2">Heiserkeit</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/heiser"target="target3">heiser</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Heiserkeit&id=substantiv%3AHeiserkeit"target="target4">Heiserkeit</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/heiser"target="target1">heiser</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Heiserkeit"target="target2">Heiserkeit</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/heiser"target="target3">heiser</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Heiserkeit&id=substantiv%3AHeiserkeit"target="target4">Heiserkeit</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Langsam machte er (<i>Rath</i>) Fortschritte. Der Abstand zwischen ihm und Napoleon verringerte sich. Er hatte den Kater fast erreicht, da ertönte das <b>heisere</b> metallische Rasseln einer Schulklingel. Große Pause in der Volksschule. (<i>Der nasse Fisch</i>, 426)',
@@ -16288,7 +16355,10 @@ heimzahlen: [
     'Dann steckte sie (<i>Charly</i>) den Zündschlüssel ins Schloss und wollte den Motor starten. Der gab orgelnde und <b>heiser</b> leiernde Geräusche von sich, nur anspringen wollte er nicht. (<i>Marlow</i>, 199)',
     'Er (<i>Gereon</i>) hatte sich in Rage geredet und wartete auf ihre Antwort. Doch da kam nichts mehr. Charly saß da wie vom Blitz getroffen, während die Zigarette in ihrer Hand sinnlos vor sich hin qualmte, und starrte ins Leere. Als habe sie gerade ein Gespenst gesehen. Aber keines, das hier im Delphi herumspukte, sondern eines das sie in sich selbst, tief drinnen in ihrer Seele, entdeckt hatte. Als sie wieder sprach, klang es selsam <b>heiser</b>. "Glioblastom!" (<i>Marlow</i>, 340)',
     '"Was hast du mit mir gemacht, Larsen?", fragt er (<i>Leutnant von Bülow</i>), seine Stimme klingt brüchig und <b>heiser</b>. "Was hast .. du mit mir gemacht?" (<i>Marlow</i>, 355)',
-    'Jetzt erst kommen Benno und Harry herbeigelaufen. Machen bedröppelte Gesichter... "Das nächste Mal, wenn ihr einen rauswerft", sagst du (<i>Marlow</i>) und klingst noch ein wenig <b>heiser/<b>, "achtet darauf, dass er auch wirklich draußen ist." (<i>Marlow</i>, 521)',
+    'Jetzt erst kommen Benno und Harry herbeigelaufen. Machen bedröppelte Gesichter... "Das nächste Mal, wenn ihr einen rauswerft", sagst du (<i>Marlow</i>) und klingst noch ein wenig <b>heiser</b>, "achtet darauf, dass er auch wirklich draußen ist." (<i>Marlow</i>, 521)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Mister Rath? Sorry to bother you. But your phone is ringing." Rath öffnete die Tür und sah in das wie immer fröhlich lächelnde Gesicht von Frank Miller. "Thank you", nuschelte er und ging zum Telefon hinüber, das tatsächlich <b>heiser</b> shepperte. (<i>Olympia</i>, 125)',
 ],
 'hetzen, Hetze': [
     '<b>hetzen</b>: rush, hurry, hustle; agitate, hound, stir up (hatred, etc)'+
@@ -17509,8 +17579,12 @@ Klaue: [
 ],
 Kittel: [
     'der <b>Kittel</b>,-: lab/work coat/gown'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kittel"target="target1">Kittel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kittel"target="target2">Kittel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/kittel?q=Kittel"target="target3">Kittel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/kittel"target="target4">Kittel</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/Kittel"target="target1">Kittel</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/Kittel"target="target2">Kittel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://dictionary.cambridge.org/dictionary/german-english/kittel?q=Kittel"target="target3">Kittel</a>&nbsp;&nbsp;'+
+    '<a href="https://www.collinsdictionary.com/dictionary/german-english/kittel"target="target4">Kittel</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Mann hinter der Ladentheke sah eigentlich gar nicht aus wie ein Fleischermeister. Viel zu dünn, bleiches Gesicht, eingefallene Wangen. Nur die Blutspritzer auf dem weißen <b>Kittel</b> zeugten von seinem Beruf. (<i>Der nasse Fisch</i>, 72)',
@@ -17562,6 +17636,7 @@ Kittel: [
     'Gräf schloss den Wagen ab und ging wortlos voran. Nicht in den Bettentrakt, sondern hinab in die Katakomben des Krankenhauses,.. in einen dunklen, gefliesten Raum, an dessen Längswand vier mit Leinentüchern abgedeckte Rollbahren standen. In der Mitte des Raumes, rings um eine weitere Bahre, auf der sich der behaarte bleiche Bauch eines toten Mannes wölbte, standen zwei Ärzte in weißen <b>Kitteln</b> und ein Mann in schwarzer Uniform. (<i>Olympia</i>, 32)',
     'Der SS-Mann im Arzt<b>kittel</b> nickte dem Obersturmbannführer zu und wies auf den dickbäuchigen Toten auf der Bahre. (<i>Olympia</i>, 33)',
     '"..Noch während des Mittagsmahls ist Morgan plötzlich zusammengebrochen.. Kollege Schmidt.." - Grawitz deutete auf den zweiten Weiß<b>kittel</b> - "..attestierte vor Ort Herzversagen als Todesursache und..." "Danke, Oberführer!", unterbrach Tornow. "Ich denke, es ist nicht nötig, dass Sie sich in Einzelheiten verlieren..." (<i>Olympia</i>, 33)',
+    'Kurz darauf öffnete sich die Tür, und Goldstein stand einem grauhaarigen Mann gegenüber. Kein Diener in Livree oder Frack, wie man ihn in solch einem Anwesen erwartet hätte, sondern ein hagerer Mann in einem weißen Labor<b>kittel</b>, der die sechzig schon lange überschritten haben durfte. (<i>Olympia</i>, 129)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klamm: [
@@ -19422,9 +19497,13 @@ Nervensäge: [
     '<i>Charly zu Liang</i>: "Nicht dass Sie mich missverstehen", fauchte sie ihn an, kaum hatte sie Platz genommen und die Tür geschlossen. "Ich steige nur ein, weil Sie so eine <b>Nervensäge</b> sind." (<i>Marlow</i>, 208)',
 ],
 nuscheln: [
-    '<b>nuscheln</b>: mumble'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/nuscheln"target="target1">nuscheln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nuscheln"target="target2">nuscheln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/nuscheln"target="target3">nuscheln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/nuscheln"target="target4">nuscheln</a>',
+    '<b>nuscheln</b>: mumble, mutter'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/nuscheln"target="target1">nuscheln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/nuscheln"target="target2">nuscheln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/nuscheln"target="target3">nuscheln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/nuscheln"target="target4">nuscheln</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der schwarze Wagen fuhr so schnell, als sei den beiden Frauen hinten in den Zinksärgen noch zu helfen... "Langsam", meinte Rath, "zwei Leichen reichen doch wohl." Der Fahrer <b>nuschelte</b> eine unverständliche Antwort und ging ein wenig vom Gas. (<i>Der nasse Fisch</i>, 76)',
@@ -19453,6 +19532,7 @@ nuscheln: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '"Heil Hitler, Obersturmbannführer", sagte er (<i>Gräf</i>) und ließ den rechten Arm nach oben schnellen. Rath winkelte seine Rechte an und <b>nuschelte</b> sein "Hei\'itler". Mehr bekamen sie von ihm nicht, auch nicht die SS. (<i>Olympia</i>, 32)',
+    '"Mister Rath? Sorry to bother you. But your phone is ringing." Rath öffnete die Tür und sah in das wie immer fröhlich lächelnde Gesicht von Frank Miller. "Thank you", <b>nuschelte</b> er und ging zum Telefon hinüber, das tatsächlich heiser shepperte. (<i>Olympia</i>, 125)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Nase (lange N. zeigen/machen)': [
@@ -20981,16 +21061,28 @@ roden: [
 // (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rumpeln: [
     '<b>rumpeln</b>: rumble, bump, clatter'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rumpeln_ruetteln"target="target1">rumpeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rumpeln"target="target2">rumpeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/rumpeln"target="target3">rumpeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rumpeln"target="target4">rumpeln</a>',
+    '<br><i>trennbare Präfixe</i>: <b>entlang-, vorbei-</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/rumpeln_ruetteln"target="target1">rumpeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/rumpeln"target="target2">rumpeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/rumpeln"target="target3">rumpeln</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/rumpeln"target="target4">rumpeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Keine zehn Minuten später betrat er (<i>Rath</i>) das Präsidium über den Eingang Dircksenstraße. Hier, an der Stadtbahnseite, hatte die Kriminalpolizei ihre Büros. Das regelmäßige Rauschen und <b>Rumpeln</b> der Bahnen, die an seinem Fenster vorbeirollten, trommelten ihm Tag für Tag den Rhythmus. (<i>Der nasse Fisch</i>, 33)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Friedrich Grimberg, Roddecks ehemaliger Sprengmeister, lebte in der Tannenbergstraße..., in einer Wohnung im zweiten Stock, vor deren Fenstern die Schwebebahn in Augenhöhe entlang<b>rumpelte</b>. (<i>Märzgefallene</i>, 273)',
+    'Friedrich Grimberg, Roddecks ehemaliger Sprengmeister, lebte in der Tannenbergstraße..., in einer Wohnung im zweiten Stock, vor deren Fenstern die Schwebebahn in Augenhöhe <b>entlangrumpelte</b>. (<i>Märzgefallene</i>, 273)',
     'Grimberg musste eine Pause machen, denn eine Schwebebahn fuhr gerade an seinem Fenster vorbei. Es war höllisch laut, ein einziges Quietschen und <b>Rumpeln</b>. (<i>Märzgefallene</i>, 276)',
-    '"Du (<i>Gereon</i>) solltest die Vorhänge schließen", sagte sie (<i>Charly</i>) und zeigte auf das Fenster. Draußen <b>rumpelte</b> gerade eine S-Bahn vorbei. Wahrscheinlich die nach Potsdam. (<i>Märzgefallene</i>, 374)',
+    '"Du (<i>Gereon</i>) solltest die Vorhänge schließen", sagte sie (<i>Charly</i>) und zeigte auf das Fenster. Draußen <b>rumpelte</b> gerade eine S-Bahn <b>vorbei</b>. Wahrscheinlich die nach Potsdam. (<i>Märzgefallene</i>, 374)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Draußen <b>rumpelte</b> eine Hochbahn über die Skalitzer Straße und machte ordentlich Lärm. (<i>Marlow</i>, 382)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Unten im engen Tal, zu beiden Seiten des kleinen Flüsschens, lag die riesige Chemiefabrik und streckte ihre Schornsteine, die kaum höher waren als die sie umgebenden Hügel, in den grauen Himmel. Und mitten hindurch <b>rumpelte</b> eine an Schienen hängende Bahn den sich durchs Tal schlängelnden Flusslauf <b>entlang</b>. (<i>Olympia</i>, 128)'+
+    '<br><i>an Schienen hängende Bahn</i> = &nbsp;&nbsp;<a href="https://www.bing.com/images/search?q=bilder+von+h%c3%a4ngebahn&qpvt=Bilder+von+H%c3%a4ngebahn&form=IGRE&first=1"target="target5"><i>Hängebahn</i> (photos)</a>', 
 ],
 schlaksig: [
     '<b>schlaksig</b>: lanky, gangling'+
@@ -22118,6 +22210,7 @@ scheppern: [
     'Ein lautes <b>Scheppern</b> riss ihn (<i>Fritze</i>) aus seinen Gedanken. An einem Tische musste ein Teller zu Boden gegangen sein. (<i>Olympia</i>, 22)',
     'Und dann holte er (<i>Rath</i>) aus und wischte mit einer Bewegung seines Unterarms sämtliches Geschirr vom Tisch, das in seiner Reichweite stand. Es <b>schepperte laut</b>, ein Teller ging zu Bruch, der Inhalt einer halbvollen Kaffeetasse spritzte gegen die Tapete und hinterließ eine unschöne Spur. (<i>Olympia</i>, 43)',
     'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre auf dem Buckel, und das merkte man dem Wagen auch an: Die Ventile klapperten, der Auspuff <b>schepperte</b>, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
+    '"Mister Rath? Sorry to bother you. But your phone is ringing." Rath öffnete die Tür und sah in das wie immer fröhlich lächelnde Gesicht von Frank Miller. "Thank you", nuschelte er und ging zum Telefon hinüber, das tatsächlich heiser <b>shepperte</b>. (<i>Olympia</i>, 125)',
 ], 
 'stopfen, Stopfen': [
     '<b>stopfen</b>: stuff, plug, tamp; darn'+
@@ -27322,6 +27415,7 @@ verzerren: [
     'Er (<i>Rath</i>) wusste nicht, wie lange er geschafen hatte, als die Türklingel ihn aus seinen Träumen <b>riss</b>. (<i>Olympia</i>, 84)',
     'Ehlers schrie auf, als der SS-Mann langsam zu drehen begann und der Bohrer den Fingernagel durchstieß. Er schrie und <b>riss</b> an seinen Fesseln, doch der Stuhl stand fest, und Pechmann, der Folterknecht, der das offensichtlich nicht zum ersten Mal machte, ließ sich nicht aus der Ruhe bringen. (<i>Olympia</i>, 116)',
     'Damals, bei Gräfs Gestapo-Vernehmung, hatte Rath noch das Gefühl gehabt, dem einstigen Mordermittler sei es schwergefallen, einen Verdächtigen so brutal behandeln zu müssen, Gräf habe es aber als unumgänglich angesehen und sich <b>zusammengerissen</b>. (<i>Olympia</i>, 123)',
+    'So eine seltsame Stadt hatte Abraham Goldstein noch nie gesehen. Hier war es also erfunden worden, das Mittel, um das <b>sich</b> alle Welt <b>riss</b>, seit die Produktion vor fünf Jahren eingestellt worden war. (<i>Olympia</i>, 128-29)',
 ],
 
 // not included:

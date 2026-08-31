@@ -32,7 +32,8 @@ const a = [
 'abzocken',  // abzocken:  
 'Abzweig, abzweigen',    
 'Achterbahn', // Achterbahn: 
-'achtkantig hinauswerfen',  
+'achtkantig hinauswerfen', 
+'Ächtung', // Ächtung:
 'Ader, Halsschlag-', 
 'Adlatus', // Adlatus:  
 'adrett',   // adrett:  

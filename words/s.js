@@ -54,7 +54,7 @@ const s = [
 'schlabbern', // schlabbern: 
 'Schlacke',  // Schlacke: 
 'Schlagseite',  // Schlagseite: 
-'schlaksig', // schlaksig: 
+'schlaksig, Schlaks',  
 'Schlamassel', // Schlamassel: 
 'Schlampe', // Schlampe: 
 'Schlamperei, schlampen, schlampig',  

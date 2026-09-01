@@ -9,14 +9,14 @@ const m = [
 'Männchen machen, Männchenmachen',  
 'Manschettenknopf',  // Manschettenknopf: 
 'markieren (den dicken Max m.)',  // duplicated 
-   'Marotte',  // Marotte: 
-   'Masche, maschig',
-   'maßregeln',  // maßregeln:
-   'maßschneidern, maßgeschneidert',  
-   'Matsch',  // Matsch: 
-   'mau', // mau: 
-   'maulen, Gemaule', // duplicated
-   'Maulwurf',  // Maulwurf: 
+'Marotte',  // Marotte: 
+'Masche, maschig',
+'maßregeln',  // maßregeln:
+'maßschneidern, maßgeschneidert',  
+'Matsch',  // Matsch: 
+'mau', // mau: 
+'maulen, Gemaule', // duplicated
+'Maulwurf',  // Maulwurf: 
    'Max (den dicken Max markieren)', // duplicated
    'meckern',  // meckern:
    'Meinung geigen',  // duplicated

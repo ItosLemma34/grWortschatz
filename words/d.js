@@ -43,7 +43,7 @@ const d = [
 'dudeln, Gedudel',   // duplicated
 'dumpf',    // dumpf: 
 'Dünkel, Standes-, Rassen-',
-'Dunst, Dunstkreis',   
+'Dunst, dunstig, Dunstkreis',   
 'durch den Wind sein', //  dulicated 
 'durch den Wolf drehen',  //   duplicated 
 'durch die Lappen gehen, Lappen',  // duplicated

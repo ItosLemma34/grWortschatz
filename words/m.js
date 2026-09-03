@@ -4,8 +4,7 @@ const m = [
 'Made, madig, madigmachen', 
 'mähen, Rasenmäher', // duplicated 
 'malochen', // malochen:
-'Mangel (durch die M. drehen)', //  duplicated 
-'Mangel (in die M. nehmen)',  //  duplicated 
+'Mangel (in/durch die M. nehmen/drehen)',  //  triplicated 
 'Männchen machen, Männchenmachen',  
 'Manschettenknopf',  // Manschettenknopf: 
 'markieren (den dicken Max m.)',  // duplicated 
@@ -17,40 +16,40 @@ const m = [
 'mau', // mau: 
 'maulen, Gemaule', // duplicated
 'Maulwurf',  // Maulwurf: 
-   'Max (den dicken Max markieren)', // duplicated
-   'meckern',  // meckern:
-   'Meinung geigen',  // duplicated
-   'meißeln, Meißel',  
-   'Melone',  // Melone: 
-   'Memme',  // Memme:
-   'Menschentraube, Traube',  // duplicated
-   'Messing',  // Messing:
+'Max (den dicken Max markieren)', // duplicated
+'meckern',  // meckern:
+'Meinung geigen',  // duplicated
+'meißeln, Meißel',  
+'Melone',  // Melone: 
+'Memme',  // Memme:
+'Menschentraube, Traube',  // duplicated
+'Messing',  // Messing:
 //   'Metalrost; Lauf -gitter, -steg; Gitter -rost',  // triplicated 
-   'meucheln, Meuchelmord',  
-   'Meute',  // Meute: 
-   'meutern', // meutern:
-   'mickrig',  // mickrig: 
-   'miefig, Mief',   
-   'mimen', // mimen: 
-   'missraten',  // missraten:
-   'mit allen Wassern gewaschen', //  duplicated 
-   'mit einem Affenzahn',   // duplicated
-   'mitgenommen',  // mitgenommen: 
-   'Mohrrübe', // Mohrrübe:
-   'Molle', // Molle:
-   'Montur',  // Montur: 
-   'Mucks',  // Mucks:  
-   'Muffel',  // Muffel:
-   'mühen, ab-',  // duplicated 
-   'Mühle',  // Mühle: 
-   'Mullbinde, Mullverband',  
-   'mulmig',  // mulmig: 
-   'Mumm',  // Mumm: 
-   'Mummenschanz',  //  Mummenschanz:
-   'Mumpitz',  // Mumpitz: 
-   'munkeln',  // munkeln: 
-   'Murmel', // Murmel: 
-   'murren, mürrisch', 
+'meucheln, Meuchelmord',  
+'Meute',  // Meute: 
+'meutern', // meutern:
+'mickrig',  // mickrig: 
+'miefig, Mief',   
+'mimen', // mimen: 
+'missraten',  // missraten:
+'mit allen Wassern gewaschen', //  duplicated 
+'mit einem Affenzahn',   // duplicated
+'mitgenommen',  // mitgenommen: 
+'Mohrrübe', // Mohrrübe:
+'Molle', // Molle:
+'Montur',  // Montur: 
+'Mucks',  // Mucks:  
+'Muffel',  // Muffel:
+'mühen, ab-',  // duplicated 
+'Mühle',  // Mühle: 
+'Mullbinde, Mullverband',  
+'mulmig',  // mulmig: 
+'Mumm',  // Mumm: 
+'Mummenschanz',  //  Mummenschanz:
+'Mumpitz',  // Mumpitz: 
+'munkeln',  // munkeln: 
+'Murmel', // Murmel: 
+'murren, mürrisch', 
 ];
 
 export default m;      

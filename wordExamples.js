@@ -1,6 +1,8 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
-// FINISH!
+// next:  abbinden:
+//  check* if in other books
+// FINISH!  NEXT
 
 // check page number
 // Sims Olympia  424 (twice)  425  
@@ -8,7 +10,7 @@ export const wordExamples = {
 //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
 //    ' unverfroren 72 139  350 (<i>Goldstein</i>, 000)',	
 // Olympia Klette 191 
-//maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
+// Olympia hauen 489: "hau ab"  460 464//maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
 //Der stumme Tod 'aufkratzen, aufgekratzt' 279 448 
     // Der stumme Tod Schminke   270  287 314 329 339  394  396 431 460   462 482  479   535
     // pg 486  Verweis Der stumme Tod
@@ -145,43 +147,49 @@ Schlafittchen: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '    (<i>Olympia</i>, 000)',
 ],
-// FINISH!
 'Haue, hauen, ab-': [  
     'die <b>Haue</b>,-<b>n</b>: hoe, pickax; beating, thrashing'+
     '<br><b>hauen</b>: strike, beat, clout, hit, clobber, chop'+
-    '<br>see also:<b><i>auf den Putz hauen</i></b>'+
     '<br><b>abhauen</b>: cut sth. off; scram, scoot, vamoose, clear out, take off'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haue"target="target1">Haue</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hauen"target="target2">hauen</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abhauen"target="target3">abhauen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/haue"target="target4">Haue</a>'+
-        '&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/hauen"target="target5">hauen</a>'+
-        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abhauen&id=verb%3Aabhauen%23abhauen_regelm_ist"target="target6">abhauen</a>',
+    '<br>Siehe auch: <b>auf den Putz hauen</b>, <b>in die Pfanne hauen</b>, <b>übers Ohr hauen</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Haue"target="target1">Haue</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/hauen"target="target2">hauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/abhauen"target="target3">abhauen</a>&nbsp;&nbsp;'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/haue"target="target4">Haue</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/hauen"target="target5">hauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=abhauen&id=verb%3Aabhauen%23abhauen_regelm_ist"target="target6">abhauen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    'Der Tipp von Krajewski hatte seine (<i>Raths</i>) Schritte beflügelt. Kam genau zur richigen Zeit. Passte gut in ihre Pläne für Samstag. Er spürte, es würde ein guter Tag für ihn werden. Und dann das. Er war schon oben auf dem Treppenabsatz, da hatte ihn die Tür, die vom Treppenhaus auf den Gang führte, fast aus den Shuhen <b>gehauen</b>, dass er rücklings auf dem Boden gelandet war. (<i>Der nasse Fisch</i>, 179)',  // check page number
-    'Der Kurier (<i>Boris</i>) stirbt, nachdem er in der fremden Stadt Alexej Kardakow gesucht hat. Er scheint wütend auf Kardakow zu sein. Warum? Hat der ihn übers Ohr <b>gehauen</b>? (<i>Der nasse Fisch</i>, 210)',  // check page number
+    'Er (<i>Rath</i>) durfte hier (<i>im Eldorado</i>) nicht allzu sehr <b>auf den Putz hauen</b>. Das war Brunos Revier. Er war der Neue, er musste aufpassen. (<i>Der nasse Fisch</i>, 125)',
+    '<i>Weinert</i>: "Natürlich sind die Kommunisten mit ihrem großmäuligen Gehabe nicht ganz unschuldig an der algemeinen Hysterie. Auch jetzt noch <b>hauen</b> die <b>auf den Putz</b>. Die schlachten jeden Toten für ihre Propaganda aus, obwohl so gut wie keine Kommunisten darunder sind. (<i>Der nasse Fisch</i>, 131)',
+    'Der Tipp von Krajewski hatte seine (<i>Raths</i>) Schritte beflügelt. Kam genau zur richigen Zeit. Passte gut in ihre Pläne für Samstag. Er spürte, es würde ein guter Tag für ihn werden. Und dann das. Er war schon oben auf dem Treppenabsatz, da hatte ihn die Tür, die vom Treppenhaus auf den Gang führte, fast aus den Shuhen <b>gehauen</b>, dass er rücklings auf dem Boden gelandet war. (<i>Der nasse Fisch</i>, 179)',  
+    'Der Kurier (<i>Boris</i>) stirbt, nachdem er in der fremden Stadt Alexej Kardakow gesucht hat. Er scheint wütend auf Kardakow zu sein. Warum? Hat der ihn <b>übers Ohr gehauen</b>? (<i>Der nasse Fisch</i>, 211)',  
     'Er (<i>Rath</i>) hatte seine Zigarette gerade ausgetreten, da kam der Erste über die Mauer. Strohblonde Haare, sommersprossiges, freches Gesicht, vor Überraschung weit aufgerissene Augen. Der Junge machte Anstalten <b>abzuhauen</b>, doch Rath packte ihn am Schafittchen. (<i>Der nasse Fisch</i>, 427)',
-    'Jetzt waren sie (<i>Gereon und Charly</i>) allein. Was wollte er? Wenigstens hatte er keine Blumen dabei, die hätte sie ihm gleich um die Ohren <b>gehauen</b>. (<i>Der nasse Fisch</i>, 491)',  // check page number
-    // Der stumme Tod
-//    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-//    '   (<i>Der stumme Tod</i>, 000)',
+    'Jetzt waren sie (<i>Gereon und Charly</i>) allein. Was wollte er? Wenigstens hatte er keine Blumen dabei, die hätte sie ihm gleich um die Ohren <b>gehauen</b>. (<i>Der nasse Fisch</i>, 491)',  
+    //Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    'Der Ausflug in die Personalabteilung hatte sich gelohnt. Es war, wie er (<i>Rath</i>) vermutet hatte: Brenner <b>haute</b> schwer <b>auf den Putz</b>. Der Arzt musste ein Freund aus Jugendtagen sein oder jemand, der Frank Brenner einen Gefallen schuldig war. (<i>Der stumme Tod</i>, 248)',
     //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
-
-//start here:  Haue hauen abhauen haut, haute, hat/ist gehauen abgehauen
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-
+    '<i>Charly</i>: "Wenn sie mit seinem Tod nichts zu tun hat, warum ist Hannah dann <b>abgehauen</b>?" <i>Gereon</i>: "Warum fliehen Irre aus der Anstalt?.." (<i>Märzgefallene</i>, 105)',
+    '<i>Weinert</i>: "Gereon, schön, dass du anrufst, aber leider ist das jetzt gerade etwas ungünstig, wir blockieren hier eine Leitung." <i>Gereon</i>: "Es ist auch ziemlich ungünstig, jemanden als Informanten zu missbrauchen, der gar nicht weiß, dass er einer ist." <i>Weinert</i>: "Er? Meinst du nicht eher: sie?" <i>Gereon</i>: "Ich sehe, du weißt, worum es geht." <i>Weinert</i>: "Wir haben uns am Reichstag getroffen.... Haben uns lange nicht gesehen, da erzählt man sich doch, was man gerade so macht." <i>Gereon</i>: "Toll, wenn Leute so viel erzählen, nicht wahr? Dann kann man sie schön <b>in die Pfanne hauen</b>." <i>Weinert</i>: "Ich habe Charly doch nicht <b>in die Pfanne gehauen</b>. Lediglich Oberkommissar Böhm...." (<i>Märzgefallene</i>, 208-09)',
+    '<i>Gereon zu Gräf</i>: "Dieser Redakteur Frank hat mich ziemlich <b>in die Pfanne gehauen</b>, ich weiß nicht, wie du auf die Idee kommst, dass ich an so etwas interessiert sein könnte." (<i>Märzgefallene</i>, 260)',
+    'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten ans Bein zu binden... Wilhelm Böhm hatte den Fall viel zu früh abgegeben.. und Reinhold Gräf konnte er nicht <b>in die Pfanne hauen</b>, der hatte nun einen Posten bei der Staatspolizei, und mit der legte man sich besser nicht an. (<i>Märzgefallene</i>, 569)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
+    'Rath holte tief Luft. "Gestern haben Sie (<i>Doktor Karthaus</i>) vermutet, er (<i>Kaczmarek</i>) könne erstickt sein", sagte er brav. "Das hat die Leichenöffnung also bestätigt?" "Richtig." "Wie muss ich mir das vorstellen? Da wird jemand erwürgt und anschließend noch zu Brei <b>gehauen</b>?" (<i>Lunapark</i>, 110)',	
+    'Jetzt lachte der Grinsemann sogar. Das einzige Mal, dass Rath den Mann nicht lachend oder grinsend erlebt hatte, war, als er ihm einmal einen Strauß Rosen um die Ohren <b>gehauen</b> hatte. Das hatte selbst einem Guido Schere das Grinsen aus dem Gesicht getrieben. (<i>Lunapark</i>, 157)',	
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    '"Du ziehst zu mir", hatte sie gesagt, und näturlich hatte Charly protestieren wollen,.. doch Greta hatte sie gar nicht erst zu Wort kommen lassen. "Und wenn du auch nur auf die Idee kommst, nein zu sagen, <b>haue</b> ich dir ein paar in die Fresse!" (<i>Marlow</i>, 195)',
+    'Das <i>Prager Tagblatt</i>.. führte ihr (<i>Charly</i>) schmerzhaft vor Augen, was Zeitunungen eigentlich sein sollten und was deutsche Zeitungen seit zweieinhalb Jahren nicht mehr waren: eine vierte Gewalt, die den Mächtigen auf die Finger schaut. Un <b>haut</b>, wenn es nötig ist. Die deutschen Zeitungen <b>hauten</b> nicht mehr auf die Mächtigen, die <b>hauten</b> auf die Schwachen. (<i>Marlow</i>, 491)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    '    (<i>Olympia</i>, 000)',
+    'Der Alte kicherte. "Und woher wissen Sie, dass Sie mir vertrauen können?" <i>Goldstein</i>: "Nun, das ist ganz einfach: Auch wenn Sie aus Ihrem Namen so ein Geheimnis machen, glauben Sie ja nicht dass wir Sie nicht finden, sollten Sie jemals versuchen, uns <b>übers Ohr zu hauen</b>." Goldstein sprach diese Worte sanft und freundlich. "Warum sollte ich Sie <b>übers Ohr hauen</b>? Ich bin ain alter Mann." (<i>Olympia</i>, 131)',
+// Olympia hauen 489: "hau ab"  460 464
 ],
 // FINISH!
 'Reiz, reizen, gereizt': [  
@@ -223,20 +231,29 @@ Schlafittchen: [
     '    (<i>Olympia</i>, 000)',
 ],
 // FINISH!
-vergönnen: [  
-    '<b>vergönnen</b>: concede sth., grant so. sth.'+
+'vergönnen, gönnen': [  
+    '<b>gönnen</b>: treat oneself to sth.; not begrudge so. sth.'+
+    '<br><b>vergönnen</b>: grant so. sth.; allow so. to enjoy/have sth.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">vergönnen</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">vergönnen</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/goennen"target="target1">gönnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/verg%C3%B6nnen"target="target2">vergönnen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">vergönnen</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">vergönnen</a>',
+        '<a href="https://www.wordreference.com/deen/g%C3%B6nnen"target="target3">gönnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=verg%C3%B6nnen&id=verb%3Avergo3nnen"target="target4">vergönnen</a>',
     // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    '<i>Rath</i>: "<b>Gönnen Sie sich</b> mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putzlappen zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab. (<i>Der nasse Fisch</i>, 234)',
+// xxx
+
+    '".. Leichen in Beton sind eher selten, nicht wahr?" Rath hoffte, dass (<i>Doktor</i>) Schwartz ihm die Nervosität nicht anmerkte, mit der er hier hineinspaziert war. "Darauf würde ich nicht wetten, mein Freund", entgegnete Schwartz. "In Berlin wird viel gebaut. Und so manchem Toten <b>gönnt</b> man kein ordentliches Grab.. Möchte nicht wissen, wie viele Neubauten in dieser Stadt auf Knochen errichtet sind." (<i>Der nasse Fisch</i>, 294)',
+
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '   (<i>Der stumme Tod</i>, 000)',	
+
+// vergönnen  vergönnte  vergönnt
+
+
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     '   (<i>Märzgefallene</i>, 000)',
@@ -250,7 +267,7 @@ vergönnen: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '"Und ich dachte, jeder Jude hat mindestens einen Onkel oder Cousin in Amerika." <i>Charly</i>: "Greta Overbeck, du bist eine alte Antisemitin, weißt du das? Glaubst am Ende auch an das Weltjudentum, was?" "Ich glaube an das Weltbürgertum, das ist alles." "Aber das ist leider nicht jedem <b>vergönnt</b>." (<i>Olympia</i>, 121)',
 ],
-// Präfixe (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Ächtung: [  
     'die <b>Ächtung</b>,-<b>en</b>: ostracism, proscription'+
@@ -820,8 +837,12 @@ markig: [
 ],
 aalglatt: [
     '<b>aalglatt</b>: slippery, slick, glib'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/aalglatt"target="target1">aalglatt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aalglatt"target="target2">aalglatt</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/aalglatt"target="target3">aalglatt</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aalglatt"target="target4">aalglatt</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/aalglatt"target="target1">aalglatt</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/aalglatt"target="target2">aalglatt</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/aalglatt"target="target3">aalglatt</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=aalglatt"target="target4">aalglatt</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Geräuschpegel stieg wieder an, doch es war nur ein kurzes Anschwellen. Rath lächelte freundlich, aber bestimmt in die Runde. Wenn er wollte, konnte er <b>aalglatt</b> sein. Und diese Bande wildgewordener Geschichtenerfinder (<i>Reporter</i>) da unten hatte nichts anderes verdient als einen <b>aalglatten</b> Kriminalkommissar. (<i>Der nasse Fisch</i>, 309)',
@@ -834,7 +855,7 @@ aalglatt: [
     // Lunnapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Gräf</i>: "... nicht wahr, Gereon?" Rath blickte in die Runde, alle Augen waren auf ihn gerichtet. "Tschuldige, Reinhold. War gerade nicht bei der Sache." <i>Gräf</i>: "Ich habe über die Fluchtwagenspur gesprochen und dass du guten Mutes bist, bei der Fahrzeughalterüberprüfung noch einen Erfolg zu erziehen." Das hatte Rath gestern am Telefon zwar nicht gesagt, gleichwohl machte er gute Miene zum bösen Spiel und nickte.. Gräf warf ihm einen Blick zu, den Rath nicht zu deuten wusste. Irgendwo zwischen <b>aalglatt</b> und zickig. (<i>Lunapark</i>, 287)',
-    'Gräf war freundlich gewesen, keine Frage, in dieser Beziehung ganz der Alte, aber auf eine gewisse Weise hatte sein Auftreten auch etwas <b>Aalglattes</b> bekommen, das ihr früher an ihm nie aufgefallen war. (<i>Lunapark</i>, 408)',
+    'Gräf war freundlich gewesen, keine Frage, in dieser Beziehung ganz der Alte, aber auf eine gewisse Weise hatte sein Auftreten auch etwas <b>Aalglattes</b> bekommen, das ihr (<i>Charly</i>) früher an ihm nie aufgefallen war. (<i>Lunapark</i>, 408)',
 ],
 Schleier: [ 
     'der <b>Schleier</b>,-: veil; haze, mist'+
@@ -3188,10 +3209,14 @@ orgeln: [
 Fresse: [
     '<b>Fresse</b>: mouth, mug, face, kisser'+
     '<br><b>in die Fresse hauen</b>: punch in the face'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Fresse"target="target1">Fresse</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Fresse"target="target2">Fresse</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/fresse"target="target3">Fresse</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Fresse&id=substantiv%3AFresse"target="target4">Fresse</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Fresse"target="target1">Fresse</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Fresse"target="target2">Fresse</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/fresse"target="target3">Fresse</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Fresse&id=substantiv%3AFresse"target="target4">Fresse</a>',
     '<span class="bookTitle"><u>Marlow</u></span>',
-    '"Du ziehst zu mir", hatte sie (<i>Greta</i>) gesagt, und natürlich hatte Charly protestieren wollen, sie kam gegen ihren Stolz einfach nicht an, doch Greta hatte sie gar nicht erst zu Wort kommen lassen. "Und wenn du auch nur auf die Idee kommst, nein zu sagen, haue ich dir ein paar in die <b>Fresse</b>!" (<i>Marlow</i>, 195)',
+    '"Du ziehst zu mir", hatte sie (<i>Greta</i>) gesagt, und natürlich hatte Charly protestieren wollen,... doch Greta hatte sie gar nicht erst zu Wort kommen lassen. "Und wenn du auch nur auf die Idee kommst, nein zu sagen, haue ich dir ein paar in die <b>Fresse</b>!" (<i>Marlow</i>, 195)',
 ],
 'wirbeln, auf-, herum-, ver-': [
     '<b>wirbeln</b>: whirl, swirl, spin, gyrate'+
@@ -10268,10 +10293,14 @@ aufputschen: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Das Lob, das von allen Seiten auf ihn niederprasselte, musste ihn <b>aufgeputscht</b> haben, jedenfalls hatte Achim von Roddeck prompt zugesagt, die studentische Aktion zu unterstützen, wo ihn doch alle am Tisch als den idealen Repräsentanten einer neuen deutschen Literatur bezeichnet hatten. (<i>Märzgefallene</i>, 552-53)',
 ],
-abbinden: [
+abbinden: [  // check* if in other books
     '<b>abbinden</b>: bind, set, harden; put a tourniquet on; untie'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abbinden"target="target1">abbinden</a> &nbsp;<a href="https://www.dwds.de/wb/abbinden"target="target2">abbinden</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abbinden"target="target3">abbinden</a> &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abbinden"target="target4">abbinden</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/abbinden"target="target1">abbinden</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/abbinden"target="target2">abbinden</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/abbinden"target="target3">abbinden</a> &nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/abbinden"target="target4">abbinden</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) schaute sich um. Weit waren sie mit der Baustelle noch nicht gekommen, gerade erst die Fundamente und die Bodenplatte. Rath stieg in die Baugrube hinunter und testete den Beton mit einem Kantholz. Noch nicht <b>abgebunden</b>, sie mussten ihn heute erst gegossen haben. (<i>Der nasse Fisch</i>, 216)',
@@ -14659,14 +14688,21 @@ Gewölbe: [
 ],
 geflissentlich: [
     '<b>geflissentlich</b>: deliberately, intentionally'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geflissentlich"target="target1">geflissentlich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/geflissentlich"target="target2">geflissentlich</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geflissentlich"target="target3">geflissentlich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geflissentlich"target="target4">geflissentlich</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/geflissentlich"target="target1">geflissentlich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/geflissentlich"target="target2">geflissentlich</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/geflissentlich"target="target3">geflissentlich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/geflissentlich"target="target4">geflissentlich</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Meenense etwa, mit\'en Vorderhaus wär die Arbeit jetan? Na, Sie ham Nerven!" Er (<i>Rath</i>) überhörte den Vorwurf in ihrer Stimme <b>geflissentlich</b>. Es klang so, als ob die ganze Welt daran schuld sei, dass Margarete Schäffner Treppe putzen musste, insbesondere aber die Berliner Polizei und Kriminalkommissar Gereon Rath. (<i>Der nasse Fisch</i>, 234)',
     'Das Bild musste bei Raths erstem Besuch in diesen Räumen schon hier gehangen haben. Da war es ihm nur noch nicht aufgefallen, da hatte er diesen Altar für einen gefallenen Soldaten <b>geflissentlich</b> ignoriert. (<i>Der nasse Fisch</i>, 446)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Henning lachte <b>geflissentlich</b>, wie es von seinem Dienstrang (<i>Kriminalassistent</i>) erwartet wurde, wenn ein Kommissar Witze riss. (<i>Der stumme Tod</i>, 21)',
     '<i>Adenauer</i>: "Lassen Sie mal die Tittel beiseite. Kein OB (<i>Oberbürgermeister</i>) und kein Staatsratspräsident bitte! Wir treffen uns hier rein privat. Drei Kölner in Berlin." Gereon lächelte <b>geflissentlich</b>. (<i>Der stumme Tod</i>, 46)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'War Gereon Rath eigentlich der einzige Beamte im ganzen Präsidium, der niemals befördert wurde? Die Sozis hatten ihn schon <b>geflissentlich</b> übersehen, und seit der Nazi Magnus von Levetzow Polizeipräsident war, hatten sich Raths Aussichten auf Beförderung nicht gerade verbessert. (<i>Lunapark</i>, 19)',
 ],
@@ -17861,25 +17897,34 @@ Klette: [
 //    '<span class="bookTitle"><u>Olympia</u></span>',
 // Olympia Klette 191 
 ],
-klimpern: [
+klimpern: [ 
     '<b>klimpern</b>: jingle, clink; flutter; strum (eg, guitare)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klimpern"target="target1">klimpern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klimpern"target="target2">klimpern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klimpern"target="target3">klimpern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klimpern"target="target4">klimpern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/klimpern"target="target1">klimpern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/klimpern"target="target2">klimpern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/klimpern"target="target3">klimpern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/klimpern"target="target4">klimpern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) drehte sich um wie ertappt und blickte in ein lachendes Gesicht. "Du arbeitest immer noch bei uns", sagte Wolter und <b>klimperte</b> mit dem Autoschlüssel. (<i>Der nasse Fisch</i>, 34)',
     'Sie (<i>Gloria, im Eldorado</i>) beugte sich noch einmal zu ihm (<i>Rath</i>). Ihre Halsketten <b>klimperten</b>. (<i>Der nasse Fisch</i>, 127)',
     '<i>Rath</i>: "Wo finde ich denn Herrn Schneid?" Der Mann zuckte die Achseln. "In seinem alten Büro im <i>Delphi</i> jedenfalls nicht. Gegen ihn läuft ein Konkursverfahren." Er <b>klimperte</b> mit einem Schlüsselbund. "Die Schlüssel habe ich." (<i>Der nasse Fisch</i>, 134)',
     'Der Beamte verdrehte die Augen. Er schlug die Schublade wieder zu, schloss den Rollschank und <b>klimperte</b> geräuschvoll mit dem Schlüsselbund. (<i>Der nasse Fisch</i>, 140)',
+    '"Meenense etwa, mit\'en Vorderhaus wär die Arbeit jetan? Na, Sie ham Nerven!" Er (<i>Rath</i>) überhörte den Vorwurf in ihrer Stimme geflissentlich. Es klang so, als ob die ganze Welt daran schuld sei, dass Margarete Schäffner Treppe putzen musste, insbesondere aber die Berliner Polizei und Kriminalkommissar Gereon Rath. "Gute Nerven sind Einstellungsveraussetzung bei der preußischen Polizei, sagte er und <b>klimperte</b> mit dem Schlüsselbund." (<i>Der nasse Fisch</i>, 234)',
     'Und jetzt stand er (<i>Gereon</i>) vor dem Buick, <b>klimperte</b> mit dem Schlüsselbund und genoss ihre großen Augen. "Deiner?", fragte sie (<i>Charly</i>). "Wenn ich Frauen beeindrucken will, besorge ich mir immer ein Auto." (<i>Der nasse Fisch</i>, 270)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Rath</i>) kramte einen Groschen aus dem Portemonnaie und ließ ihn in den Hut <b>klimpern</b>. (<i>Märzgefallene</i>, 93)',
     'Damit was das Gespräch wieder abgewürgt. Eine Weile war nichts zu hören außer dem <b>Klimpern</b> des Bestecks und dem Stimmengemurmel von den anderen Tischen. (<i>Märzgefallene</i>, 261)',
     'Rath holte sein Portemonnaie aus dem Mantel und suchte nach Kleingeld, nahm einen Groschen heraus und hielt ihn eine Weile über den Hut (<i>des Bettlers</i>). Aber dann, anstatt die Münze hinein<b>klimpern</b> zu lassen, schloss er seine Faust und deutete einen harten, schnellen Schlag an.... (<i>Märzgefallene</i>, 473)',
     'Porzellan <b>klimperte</b>, wenn jemand in seiner Kaffeetasse rührte, sonst war nur das Knistern des Papiers zu hören. (<i>Märzgefallene</i>, 500)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Wenn sie (<i>Charly</i>) die Augen schloss, war das ein ganz normales Frühstück. Leise Musik aus dem Radio, knisterndes Zeitungspapier, das <b>Klimpern</b> eines Löffels, der leise gegen den Tassenrand schlug. (<i>Lunapark</i>, 28)',
     'Er (<i>Marlow</i>) schenkte ihr (<i>Charly</i>) Wasser ein, aus einem Krug, in dem jede Menge Eiswürfel <b>klimperten</b>. Charly trank. Das tat gut in der Hitze. (<i>Lunapark</i>, 479)',
     'Sie (<i>Charly</i>) hob ihren Blick und betrachtete die Tischgesellschaft, die immer noch ehrfurchtsvoll schwieg und sich ihren Teetassen widmete. Niemand schien das Wort ergreifen zu wollen, außer dem <b>Klimpern</b> der Teelöffel war nichts zu hören. (<i>Lunapark</i>, 533)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Er (<i>Marlow</i>) ließ das Eis in seinem Whiskyglas <b>klimpern</b> und schaute Sebald an. Der Mann hatte Schweißperlen auf der Stirn. (<i>Marlow</i>, 110)',
 ],
@@ -18622,20 +18667,31 @@ Lache: [
 'Lappen, durch die L. gehen': [
     'der <b>Lappen</b>,-: rag, cloth; note, bill (money); informal (dismissive): identification paper, card'+
     '<br>jmdm. <b>durch die Lappen gehen</b>: slip through so.\'s fingers'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Lappen"target="target2">Lappen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20durch%20die%20Lappen%20gehen"target="target3">durch die Lappen gehen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target4">Lappen<a/> &nbsp;<a href="https://en.langenscheidt.com/german-english/lappen"target="target5">Lappen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Lappen+gehen"target="target6">durch die Lappen gehen<a/>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Lappen"target="target1">Lappen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Lappen"target="target2">Lappen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdm.%20durch%20die%20Lappen%20gehen"target="target3">durch die Lappen gehen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/lappen?q=Lappen"target="target4">Lappen<a/> &nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/lappen"target="target5">Lappen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=durch+die+Lappen+gehen"target="target6">durch die Lappen gehen<a/>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Ich muss Ihnen noch ein paar Fragen stellen, Frau Schäffner." Rath verzichtete diesmal darauf, seinen Dienstausweis vorzuzeigen. Sie ließ ihn auch so herein. Er vermied es, sich wieder in den Sessel zu setzen, und blieb stehen. Sie wedelte demonstrativ mit einem Staub<b>lappen</b> durchs Regal. (<i>Der nasse Fisch</i>, 231)',
     'Kurz darauf stand er (<i>Rath</i>) Frau Schäffner wieder gegenüber... "Sie hier?", staunte Rath. "Haben Sie vorhin nicht noch im Vorderhaus Treppe geputzt?" Sie japste ausdrucksvoll nach Luft. Ihre fetten Oberarme wabbelten, als sie den <b>Lappen</b> geräuschvoll auswrang. (<i>Der nasse Fisch</i>, 234)',
     '<i>Rath</i>: "Gönnen Sie sich mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putz<b>lappen</b> zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab. (<i>Der nasse Fisch</i>, 234)',
     '<i>Elisabeth Behnke</i>: "Kannst du mir mal verraten, warum du Putz<b>lappen</b> in den Badeofen steckst?.. <i>Rath</i>: "Tut mir leid." Er bedauerte es tatsächlich.. "Komm, lass mal, ich mach das schon weg.".. Plötzlich fing sie an zu schluchzen und hielt sich ihre rußgeschwärzten Hände vors Gesicht.. <i>Rath</i>: "Elisabeth, ist doch schon gut. Ich hab nicht nachgedacht, der alte <b>Lappen</b> musste weg und..." Sie stand auf und sah ihn aus verweinten und schwarzverschmierten Augen an. "Warum kannst du nicht einfach ein Arschloch sein?", sagte sie und verschwand durch die Tür. (<i>Der nasse Fisch</i>, 263)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Das Glas musste ihm (<i>Rath</i>) aus der Hand gefallen sein, es lag neben dem Sessel auf dem Teppich, glücklicherweise hatte er es schon geleert. Er musste tatsächlich schon eine Weile geschlafen haben; seine Zunge schmeckte wie ein ausgewrungener Putz<b>lappen</b>. (<i>Der stumme Tod</i>, 65)',
     'Er (<i>Rath</i>) hatte das Eintreffen der Kollegen nicht abgewartet und sich gleich wieder von Plisch und Plum verabschiedet. Böhm würde sich ärgern. Erstens weil er Krempins Versteck nicht selbst entdeckt hatte, zweitens weil Rath ihm wieder <b>durch die Lappen gegangen war</b>. (<i>Der stumme Tod</i>, 139)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Ach, Charly", sagte er (<i>Kellermann</i>), "Sie interessieren sich doch für diese aus der Irrenanstlt entlaufene Brandstifterin, nicht wahr?" <i>Charly</i>: "Hannah Singer? Was ist mit ihr? Haben Sie das Mädchen gefunden?" "Das nicht. Aber sie ist gesehen worden.. Ich hab den Fall nicht betreut. Aber sehen Sie doch im Bericht nach.. Liegt alles bei Kommissar Rath auf dem Schribtisch." <i>Charly</i>: "Dann werde ich mir das bei Gelegeneit mal anschauen.." Sie sagte das möglichst beiläufig, sie wollte sich nicht anerken lassen, wie sehr sie Kellermanns Nachricht aufwülhlte. Und wie erleichtert sie war, dass Hannah den Fahndern <b>durch die Lappen gegangen war</b>. (<i>Märzgefallene</i>, 289)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Zeyen überlegte. "Jetzt, wo Sie es sagen. Da waren so ein paar weiße Sprenkel auf der Beifahrertür. Zuerst hab ich gedacht, das ist Vogeldreck, aber das war auch auf dem Sitz, ein paar weiße Tupfen auf dem schwarzen Leder. Hab mir nicht viel dabei gedacht. Ging gut wieder raus mit ’nem feuchten <b>Lappen</b>. (<i>Lunapark</i>, 305)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Schupo zu Rath und Herrn Döring</i>: "Dann möchte ich die Herren Streithähne erstmal bitten, sich auszuweisen", sagte er. Rath kramte seinen Dienstausweis aus der Innentasche seines Jacketts, der Andere reichte dem Blauen einen grauen <b>Lappen</b>, der ihn als SA-Mitglied auswies. (<i>Marlow</i>, 503)',
 ],
@@ -19253,9 +19309,15 @@ Machwerk: [
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'in die Mangel nehmen': [
-    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer  <br>also: <b>durch die Mangel drehen</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer'+
+    '<br>auch: <b>durch die Mangel drehen</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
     'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <b>in die Mangel nehmen</b> können. (<i>Der nasse Fisch</i>, 102)',
@@ -19264,11 +19326,14 @@ Machwerk: [
     '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns <b>in die Mangel genommen</b>..." (<i>Der nasse Fisch</i>, 267-68)',
     'Rath beschloss, seine Taktik zu ändern. Er konnte den Musiker (<i>Tretschkow</i>) ruhig ein wenig <b>in die Mangel nehmen</b>. Anders als bei ihrem ersten Gespräch war er nun immerhin offiziell ein Mitarbeiter der Mordinspektion, da konnte er mehr wagen. (<i>Der nasse Fisch</i>, 313)',
     '"Und was ist mit Fallin?" fragte Marlow. Rath zuckte die Achseln. "Keine Ahnung. Jedenfalls ist dessen Leiche noch nicht aufgetaucht." "Wollen wir hoffen, dass er noch lebt. Wenn er Kardakow tatsächlich <b>in die Mangel genommen</b> hat, dann weiß er auch am ehesten, wo das Gold versteckt ist." (<i>Der nasse Fisch</i>, 458)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath zu Oppenberg</i>: ".. Wenn Sie Ihre Beteiligungan der ganzen Chose unter der Decke halten wollen - gut. Ich werde Ihnen nicht in den Rücken fallen, aber unterschätzen Sie die Polizei nicht! Wenn die Ihren Freund erst einmal <b>in die Mangel zu nehmen</b>..." <i>Oppenberg</i>: "Felix denunziert mich nicht, der war immer loyal." (<i>Der stumme Tod</i>, 225)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Rath</i>:  "Was liegt denn so an heute?" Zientek schaute ihn an, als habe er gefragt, ob der Papst katholisch sei. "Na, was wohl? Wir machen da weiter, wo wir gestern aufgehört haben. Suchen uns einen freien Vernehmungsraum und <b>nehmen</b> Kommunisten <b>in die Mangel</b>." (<i>Märzgefallene</i>, 215)',
     'Hieß es nicht, Rache sei am besten kalt zu genießen? Und Leo merkte, wie sehr er es schon genoss, sich das Ganze in seiner Phantasie auszumalen. Wie er Katsche <b>in die Mangel nehmen</b> würde, Lapke und auch diesen Sperling. Und nicht zu vergessen diesen Kommissar. (<i>Märzgefallene</i>, 387)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Für Pornographie dieser Art konnte die Sitte einen ganz schön <b>in die Mangel nehmen</b>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)',
     'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <b>in die Mangel nehmen</b>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte. (<i>Lunapark</i>, 99)',
@@ -19276,40 +19341,20 @@ Machwerk: [
     'Wenigstens hatten sie (<i>die Gestapo</i>) Karl Reinhold in den vergangenen Tagen in Ruhe gelassen und einen anderen Kommunisten <b>durch die Mangel gedreht</b>, der ihnen an der Schlesischen Straße ins Netz gegangen war. (<i>Lunapark</i>, 352)',
     'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <b>in die Mangel nehmen</b>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
     'Schweinebacke legte ihm Handschellen an. "Hast Glück, Reinhold, die SS will dich <b>in die Mangel nehmen</b>. Die glauben, die können das besser als wir, aber ich glaube, du hast verdammtes Glück. (<i>Lunapark</i>, 492)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Und auch aus einem anderen Grund wollte Rath, dass Gennat Bescheid wusste, wohin er ging: Sollten die (<i>Sowa und der SD</i>) ihn hier tatsächlich noch einmal <b>in die Mangel nehmen</b> wollen, diesmal sogar mit Bettgestell, würden ihn die Kollegen am Alex schon wieder heraushauen. (<i>Marlow</i>, 507)',
 ],
-'Mangel (durch die M. drehen)': [
-    'jmdn. <b>durch die Mangel drehen</b>: grill so., put thru the wringer'+
-    '<br>also: <b>in die Mangel nehmen</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=durch+die+Mangel+drehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">durch die Mangel drehen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/%28jemanden%29+%28gr%C3%BCndlich%29+durch+die+Mangel+drehen"target="target2">durch die Mangel drehen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Mangel+drehen"target="target3">durch die Mangel drehen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn. durch die Mangel drehen"target="target4">durch die Mangel drehen</a>',
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
-    'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <b>in die Mangel nehmen</b> können. (<i>Der nasse Fisch</i>, 102)',
-    'Anders als die Männer in Königs Fotogeschichten, die ihre Rolle der Ähnlichkeit mit prominenten Preußen verdankten, waren die Damen allesamt Profis: Prostituierte... Vier Frauen hatten sie nach den sichergestellten Fotos einwandfrei identifizieren können und <b>in die Mangel genommen</b>. (<i>Der nasse Fisch</i>, 159)',
-    'Wolter schaute auf die Uhr. "In zwei Stunden müssten wir durch sein. Hältst du dich so lange noch auf den Beinen?" <i>Rath</i>: Eine Kanne starker Kaffee, ein paar Zigaretten, und ich <b>dreh</b> dir bis übermorgen die härtesten Kerle <b>durch die Mangel</b>!" (<i>Der nasse Fisch</i>, 248)',
-    '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns <b>in die Mangel genommen</b>..." (<i>Der nasse Fisch</i>, 267-68)',
-    'Rath beschloss, seine Taktik zu ändern. Er konnte den Musiker (<i>Tretschkow</i>) ruhig ein wenig <b>in die Mangel nehmen</b>. Anders als bei ihrem ersten Gespräch war er nun immerhin offiziell ein Mitarbeiter der Mordinspektion, da konnte er mehr wagen. (<i>Der nasse Fisch</i>, 313)',
-    '"Und was ist mit Fallin?" fragte Marlow. Rath zuckte die Achseln. "Keine Ahnung. Jedenfalls ist dessen Leiche noch nicht aufgetaucht." "Wollen wir hoffen, dass er noch lebt. Wenn er Kardakow tatsächlich <b>in die Mangel genommen</b> hat, dann weiß er auch am ehesten, wo das Gold versteckt ist." (<i>Der nasse Fisch</i>, 458)',
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '<i>Rath zu Oppenberg</i>: ".. Wenn Sie Ihre Beteiligungan der ganzen Chose unter der Decke halten wollen - gut. Ich werde Ihnen nicht in den Rücken fallen, aber unterschätzen Sie die Polizei nicht! Wenn die Ihren Freund erst einmal <b>in die Mangel zu nehmen</b>..." <i>Oppenberg</i>: "Felix denunziert mich nicht, der war immer loyal." (<i>Der stumme Tod</i>, 225)',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    '<i>Rath</i>:  "Was liegt denn so an heute?" Zientek schaute ihn an, als habe er gefragt, ob der Papst katholisch sei. "Na, was wohl? Wir machen da weiter, wo wir gestern aufgehört haben. Suchen uns einen freien Vernehmungsraum und <b>nehmen</b> Kommunisten <b>in die Mangel</b>." (<i>Märzgefallene</i>, 215)',
-    'Hieß es nicht, Rache sei am besten kalt zu genießen? Und Leo merkte, wie sehr er es schon genoss, sich das Ganze in seiner Phantasie auszumalen. Wie er Katsche <b>in die Mangel nehmen</b> würde, Lapke und auch diesen Sperling. Und nicht zu vergessen diesen Kommissar. (<i>Märzgefallene</i>, 387)',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Für Pornographie dieser Art konnte die Sitte einen ganz schön <b>in die Mangel nehmen</b>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)',
-    'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <b>in die Mangel nehmen</b>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte. (<i>Lunapark</i>, 99)',
-    'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten <b>in die Mangel genommen</b> zu werden. (<i>Lunapark</i>, 204)',
-    'Wenigstens hatten sie (<i>die Gestapo</i>) Karl Reinhold in den vergangenen Tagen in Ruhe gelassen und einen anderen Kommunisten <b>durch die Mangel gedreht</b>, der ihnen an der Schlesischen Straße ins Netz gegangen war. (<i>Lunapark</i>, 352)',
-    'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <b>in die Mangel nehmen</b>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
-    'Schweinebacke legte ihm Handschellen an. "Hast Glück, Reinhold, die SS will dich <b>in die Mangel nehmen</b>. Die glauben, die können das besser als wir, aber ich glaube, du hast verdammtes Glück. (<i>Lunapark</i>, 492)',
-],
 'durch die Mangel drehen': [
-    'jmdn. <b>durch die Mangel drehen</b>: grill so., put thru the wringer'+
-    '<br>also: <b>in die Mangel nehmen</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=durch+die+Mangel+drehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">durch die Mangel drehen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/%28jemanden%29+%28gr%C3%BCndlich%29+durch+die+Mangel+drehen"target="target2">durch die Mangel drehen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=durch+die+Mangel+drehen"target="target3">durch die Mangel drehen</a>&nbsp;&nbsp;<a href="https://dict.leo.org/german-english/jmdn. durch die Mangel drehen"target="target4">durch die Mangel drehen</a>',
+    'jmdn <b>durch die Mangel drehen</b>: grill so., put thru the wringer'+
+    '<br>references are to the equivalent <b>in die Mangel nehmen</b>',+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
     'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <b>in die Mangel nehmen</b> können. (<i>Der nasse Fisch</i>, 102)',
@@ -19318,11 +19363,14 @@ Machwerk: [
     '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns <b>in die Mangel genommen</b>..." (<i>Der nasse Fisch</i>, 267-68)',
     'Rath beschloss, seine Taktik zu ändern. Er konnte den Musiker (<i>Tretschkow</i>) ruhig ein wenig <b>in die Mangel nehmen</b>. Anders als bei ihrem ersten Gespräch war er nun immerhin offiziell ein Mitarbeiter der Mordinspektion, da konnte er mehr wagen. (<i>Der nasse Fisch</i>, 313)',
     '"Und was ist mit Fallin?" fragte Marlow. Rath zuckte die Achseln. "Keine Ahnung. Jedenfalls ist dessen Leiche noch nicht aufgetaucht." "Wollen wir hoffen, dass er noch lebt. Wenn er Kardakow tatsächlich <b>in die Mangel genommen</b> hat, dann weiß er auch am ehesten, wo das Gold versteckt ist." (<i>Der nasse Fisch</i>, 458)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath zu Oppenberg</i>: ".. Wenn Sie Ihre Beteiligungan der ganzen Chose unter der Decke halten wollen - gut. Ich werde Ihnen nicht in den Rücken fallen, aber unterschätzen Sie die Polizei nicht! Wenn die Ihren Freund erst einmal <b>in die Mangel zu nehmen</b>..." <i>Oppenberg</i>: "Felix denunziert mich nicht, der war immer loyal." (<i>Der stumme Tod</i>, 225)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Rath</i>:  "Was liegt denn so an heute?" Zientek schaute ihn an, als habe er gefragt, ob der Papst katholisch sei. "Na, was wohl? Wir machen da weiter, wo wir gestern aufgehört haben. Suchen uns einen freien Vernehmungsraum und <b>nehmen</b> Kommunisten <b>in die Mangel</b>." (<i>Märzgefallene</i>, 215)',
     'Hieß es nicht, Rache sei am besten kalt zu genießen? Und Leo merkte, wie sehr er es schon genoss, sich das Ganze in seiner Phantasie auszumalen. Wie er Katsche <b>in die Mangel nehmen</b> würde, Lapke und auch diesen Sperling. Und nicht zu vergessen diesen Kommissar. (<i>Märzgefallene</i>, 387)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Für Pornographie dieser Art konnte die Sitte einen ganz schön <b>in die Mangel nehmen</b>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)',
     'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <b>in die Mangel nehmen</b>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte. (<i>Lunapark</i>, 99)',
@@ -19330,6 +19378,46 @@ Machwerk: [
     'Wenigstens hatten sie (<i>die Gestapo</i>) Karl Reinhold in den vergangenen Tagen in Ruhe gelassen und einen anderen Kommunisten <b>durch die Mangel gedreht</b>, der ihnen an der Schlesischen Straße ins Netz gegangen war. (<i>Lunapark</i>, 352)',
     'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <b>in die Mangel nehmen</b>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
     'Schweinebacke legte ihm Handschellen an. "Hast Glück, Reinhold, die SS will dich <b>in die Mangel nehmen</b>. Die glauben, die können das besser als wir, aber ich glaube, du hast verdammtes Glück. (<i>Lunapark</i>, 492)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    'Und auch aus einem anderen Grund wollte Rath, dass Gennat Bescheid wusste, wohin er ging: Sollten die (<i>Sowa und der SD</i>) ihn hier tatsächlich noch einmal <b>in die Mangel nehmen</b> wollen, diesmal sogar mit Bettgestell, würden ihn die Kollegen am Alex schon wieder heraushauen. (<i>Marlow</i>, 507)',
+],
+'Mangel (in/durch die M. nehmen/drehen)': [
+    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer'+
+    '<br>also: <b>durch die Mangel drehen</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
+    'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <b>in die Mangel nehmen</b> können. (<i>Der nasse Fisch</i>, 102)',
+    'Anders als die Männer in Königs Fotogeschichten, die ihre Rolle der Ähnlichkeit mit prominenten Preußen verdankten, waren die Damen allesamt Profis: Prostituierte... Vier Frauen hatten sie nach den sichergestellten Fotos einwandfrei identifizieren können und <b>in die Mangel genommen</b>. (<i>Der nasse Fisch</i>, 159)',
+    'Wolter schaute auf die Uhr. "In zwei Stunden müssten wir durch sein. Hältst du dich so lange noch auf den Beinen?" <i>Rath</i>: Eine Kanne starker Kaffee, ein paar Zigaretten, und ich <b>dreh</b> dir bis übermorgen die härtesten Kerle <b>durch die Mangel</b>!" (<i>Der nasse Fisch</i>, 248)',
+    '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns <b>in die Mangel genommen</b>..." (<i>Der nasse Fisch</i>, 267-68)',
+    'Rath beschloss, seine Taktik zu ändern. Er konnte den Musiker (<i>Tretschkow</i>) ruhig ein wenig <b>in die Mangel nehmen</b>. Anders als bei ihrem ersten Gespräch war er nun immerhin offiziell ein Mitarbeiter der Mordinspektion, da konnte er mehr wagen. (<i>Der nasse Fisch</i>, 313)',
+    '"Und was ist mit Fallin?" fragte Marlow. Rath zuckte die Achseln. "Keine Ahnung. Jedenfalls ist dessen Leiche noch nicht aufgetaucht." "Wollen wir hoffen, dass er noch lebt. Wenn er Kardakow tatsächlich <b>in die Mangel genommen</b> hat, dann weiß er auch am ehesten, wo das Gold versteckt ist." (<i>Der nasse Fisch</i>, 458)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '<i>Rath zu Oppenberg</i>: ".. Wenn Sie Ihre Beteiligungan der ganzen Chose unter der Decke halten wollen - gut. Ich werde Ihnen nicht in den Rücken fallen, aber unterschätzen Sie die Polizei nicht! Wenn die Ihren Freund erst einmal <b>in die Mangel zu nehmen</b>..." <i>Oppenberg</i>: "Felix denunziert mich nicht, der war immer loyal." (<i>Der stumme Tod</i>, 225)',
+    // Märzgefallene
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    '<i>Rath</i>:  "Was liegt denn so an heute?" Zientek schaute ihn an, als habe er gefragt, ob der Papst katholisch sei. "Na, was wohl? Wir machen da weiter, wo wir gestern aufgehört haben. Suchen uns einen freien Vernehmungsraum und <b>nehmen</b> Kommunisten <b>in die Mangel</b>." (<i>Märzgefallene</i>, 215)',
+    'Hieß es nicht, Rache sei am besten kalt zu genießen? Und Leo merkte, wie sehr er es schon genoss, sich das Ganze in seiner Phantasie auszumalen. Wie er Katsche <b>in die Mangel nehmen</b> würde, Lapke und auch diesen Sperling. Und nicht zu vergessen diesen Kommissar. (<i>Märzgefallene</i>, 387)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    'Für Pornographie dieser Art konnte die Sitte einen ganz schön <b>in die Mangel nehmen</b>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)',
+    'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <b>in die Mangel nehmen</b>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte. (<i>Lunapark</i>, 99)',
+    'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas gönnte er nicht einmal ihm: von den Nordpiraten <b>in die Mangel genommen</b> zu werden. (<i>Lunapark</i>, 204)',
+    'Wenigstens hatten sie (<i>die Gestapo</i>) Karl Reinhold in den vergangenen Tagen in Ruhe gelassen und einen anderen Kommunisten <b>durch die Mangel gedreht</b>, der ihnen an der Schlesischen Straße ins Netz gegangen war. (<i>Lunapark</i>, 352)',
+    'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <b>in die Mangel nehmen</b>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
+    'Schweinebacke legte ihm Handschellen an. "Hast Glück, Reinhold, die SS will dich <b>in die Mangel nehmen</b>. Die glauben, die können das besser als wir, aber ich glaube, du hast verdammtes Glück. (<i>Lunapark</i>, 492)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    'Und auch aus einem anderen Grund wollte Rath, dass Gennat Bescheid wusste, wohin er ging: Sollten die (<i>Sowa und der SD</i>) ihn hier tatsächlich noch einmal <b>in die Mangel nehmen</b> wollen, diesmal sogar mit Bettgestell, würden ihn die Kollegen am Alex schon wieder heraushauen. (<i>Marlow</i>, 507)',
 ],
 'markieren (den dicken Max m.)': [
     '<b>markieren</b>: mark, tag, select; &nbsp;pretend to be<br><b>den dicken Max markieren</b>: show off, act like big shots<br><b>den Magenkranken markieren</b>: pretend to be sick (stomach ache)'+
@@ -20207,18 +20295,30 @@ petzen: [
     '<i>Levetzow, Nazi Polizeipräsident</i>: "... Sie (<i>Rath</i>) stehen hier, weil Sie Ihre polizeilichen Befugnisse und die damit verbundene Machtposition in einer Weise ausgereizt haben, die ich nicht dulden kann." <i>Rath</i>: "Ich verstehe nicht ganz, was Herr Polizeipräsident meinen." Rath ahnte durchaus, worauf Levetzow anspielte: Roddeck hatte doch <b>gepetzt</b>. (<i>Märzgefallene</i>, 357)',
 ],
 'Pfanne (in die P. hauen)': [
-    'die <b>Pfanne</b>,-<b>n</b>: pan <br><b>in die Pfanne hauen</b>: sell out, backstab, skewer so.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Pfanne+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target2">in die Pfanne hauen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target3">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Pfanne+hauen"target="target4">in die Pfanne hauen</a>',
+    'die <b>Pfanne</b>,-<b>n</b>: pan'+
+    '<br><b>in die Pfanne hauen</b>: sell out, backstab, skewer so.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Pfanne+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Pfanne hauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target2">in die Pfanne hauen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target3">in die Pfanne hauen</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/in+die+Pfanne+hauen"target="target4">in die Pfanne hauen</a>',
+    //Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Weinert</i>: "Gereon, schön, dass du anrufst, aber leider ist das jetzt gerade etwas ungünstig, wir blockieren hier eine Leitung." <i>Gereon</i>: "Es ist auch ziemlich ungünstig, jemanden als Informanten zu missbrauchen, der gar nicht weiß, dass er einer ist." <i>Weinert</i>: "Er? Meinst du nicht eher: sie?" <i>Gereon</i>: "Ich sehe, du weißt, worum es geht." <i>Weinert</i>: "Wir haben uns am Reichstag getroffen.... Haben uns lange nicht gesehen, da erzählt man sich doch, was man gerade so macht." <i>Gereon</i>: "Toll, wenn Leute so viel erzählen, nicht wahr? Dann kann man sie schön <b>in die Pfanne hauen</b>." <i>Weinert</i>: "Ich habe Charly doch nicht <b>in die Pfanne gehauen</b>. Lediglich Oberkommissar Böhm...." (<i>Märzgefallene</i>, 208-09)',
     '<i>Gereon zu Gräf</i>: "Dieser Redakteur Frank hat mich ziemlich <b>in die Pfanne gehauen</b>, ich weiß nicht, wie du auf die Idee kommst, dass ich an so etwas interessiert sein könnte." (<i>Märzgefallene</i>, 260)',
     'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten ans Bein zu binden... Wilhelm Böhm hatte den Fall viel zu früh abgegeben.. und Reinhold Gräf konnte er nicht <b>in die Pfanne hauen</b>, der hatte nun einen Posten bei der Staatspolizei, und mit der legte man sich besser nicht an. (<i>Märzgefallene</i>, 569)',
 ],
 'in die Pfanne hauen': [
-    'die <b>Pfanne</b>,-<b>n</b>: pan <br><b>in die Pfanne hauen</b>: sell out, backstab, skewer so.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Pfanne+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target2">in die Pfanne hauen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target3">in die Pfanne hauen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/in+die+Pfanne+hauen"target="target4">in die Pfanne hauen</a> ',
+    'die <b>Pfanne</b>,-<b>n</b>: pan'+
+    '<br><b>in die Pfanne hauen</b>: sell out, backstab, skewer so.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Pfanne+hauen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">in die Pfanne hauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20in%20die%20Pfanne%20hauen"target="target2">in die Pfanne hauen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=in+die+Pfanne+hauen"target="target3">in die Pfanne hauen</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/in+die+Pfanne+hauen"target="target4">in die Pfanne hauen</a>',
+    //Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Weinert</i>: "Gereon, schön, dass du anrufst, aber leider ist das jetzt gerade etwas ungünstig, wir blockieren hier eine Leitung." <i>Gereon</i>: "Es ist auch ziemlich ungünstig, jemanden als Informanten zu missbrauchen, der gar nicht weiß, dass er einer ist." <i>Weinert</i>: "Er? Meinst du nicht eher: sie?" <i>Gereon</i>: "Ich sehe, du weißt, worum es geht." <i>Weinert</i>: "Wir haben uns am Reichstag getroffen.... Haben uns lange nicht gesehen, da erzählt man sich doch, was man gerade so macht." <i>Gereon</i>: "Toll, wenn Leute so viel erzählen, nicht wahr? Dann kann man sie schön <b>in die Pfanne hauen</b>." <i>Weinert</i>: "Ich habe Charly doch nicht <b>in die Pfanne gehauen</b>. Lediglich Oberkommissar Böhm...." (<i>Märzgefallene</i>, 208-09)',
     '<i>Gereon zu Gräf</i>: "Dieser Redakteur Frank hat mich ziemlich <b>in die Pfanne gehauen</b>, ich weiß nicht, wie du auf die Idee kommst, dass ich an so etwas interessiert sein könnte." (<i>Märzgefallene</i>, 260)',

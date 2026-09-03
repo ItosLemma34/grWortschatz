@@ -4,7 +4,7 @@ const i = [
    'in den Arsch kriechen',  // duplicated 
    'in den Kram passen, Kram', // duplicated 
    'in die Hosen machen/gehen', // duplicated 
-   'in die Mangel nehmen', //   duplicated 
+   'in die Mangel nehmen', // triplicated
    'in die Parade fahren', //  duplicated 
    'in die Pfanne hauen',  //  duplicated 
    'in die Quere kommen', //  duplicated 

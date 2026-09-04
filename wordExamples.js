@@ -230,30 +230,30 @@ Schlafittchen: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '    (<i>Olympia</i>, 000)',
 ],
-// FINISH!
-'vergönnen, gönnen': [  
+// FINISH!  der Gönner | die Gönnerin  pl.: die Gönner, die Gönnerinnen
+'vergönnen, gönnen, Gönner': [  
     '<b>gönnen</b>: treat oneself to sth.; not begrudge so. sth.'+
+    '<br>der <b>Gönner</b>, die <b>Gönnerin</b>; die <b>Gönner</b>, die <b>Gönnerinnen</b>: patron, benefactor, sponsor'+
     '<br><b>vergönnen</b>: grant so. sth.; allow so. to enjoy/have sth.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/goennen"target="target1">gönnen</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/verg%C3%B6nnen"target="target2">vergönnen</a>'+
+        '<a href="https://www.dwds.de/wb/G%C3%B6nner"target="target2">Gönner</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/verg%C3%B6nnen"target="target3">vergönnen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.wordreference.com/deen/g%C3%B6nnen"target="target3">gönnen</a>&nbsp;&nbsp;'+
-        '<a href="https://www.verbformen.com/?w=verg%C3%B6nnen&id=verb%3Avergo3nnen"target="target4">vergönnen</a>',
+        '<a href="https://www.wordreference.com/deen/g%C3%B6nnen"target="target4">gönnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=G%C3%B6nner&id=substantiv%3AGo3nner"target="target5">Gönner</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=verg%C3%B6nnen&id=verb%3Avergo3nnen"target="target6">vergönnen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Rath</i>: "<b>Gönnen Sie sich</b> mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putzlappen zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab. (<i>Der nasse Fisch</i>, 234)',
-// xxx
-
+    '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns in die Mangel genommen. Und ihrem Freund und <b>Gönner</b> sind sie nach ihrer unverhofften Freilassung wieder ein paar Gefallen schuldig." (<i>Der nasse Fisch</i>, 267-68)',
     '".. Leichen in Beton sind eher selten, nicht wahr?" Rath hoffte, dass (<i>Doktor</i>) Schwartz ihm die Nervosität nicht anmerkte, mit der er hier hineinspaziert war. "Darauf würde ich nicht wetten, mein Freund", entgegnete Schwartz. "In Berlin wird viel gebaut. Und so manchem Toten <b>gönnt</b> man kein ordentliches Grab.. Möchte nicht wissen, wie viele Neubauten in dieser Stadt auf Knochen errichtet sind." (<i>Der nasse Fisch</i>, 294)',
-
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '   (<i>Der stumme Tod</i>, 000)',	
 
-// vergönnen  vergönnte  vergönnt
 
-
+// NEXT: Der stumme Tod vergönnen  vergönnte  vergönnt
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     '   (<i>Märzgefallene</i>, 000)',
@@ -266,6 +266,7 @@ Schlafittchen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '"Und ich dachte, jeder Jude hat mindestens einen Onkel oder Cousin in Amerika." <i>Charly</i>: "Greta Overbeck, du bist eine alte Antisemitin, weißt du das? Glaubst am Ende auch an das Weltjudentum, was?" "Ich glaube an das Weltbürgertum, das ist alles." "Aber das ist leider nicht jedem <b>vergönnt</b>." (<i>Olympia</i>, 121)',
+
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
@@ -19281,9 +19282,15 @@ Machwerk: [
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Mangel (in die M. nehmen)': [
-    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer  <br>also: <b>durch die Mangel drehen</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer'+
+    '<br>equivalent: <b>durch die Mangel drehen</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
     'Erst Brunos Gewaltausbruch auf dem Karstadtgerüst, und nun die Lektion im Wahrheitverbiegen. Aber vielleicht musste man das ja draufhaben, um in dieser Stadt zu überleben. Vielleicht war er schon für eine Provinzstadt wie Köln viel zu naiv gewesen. Vielleicht hatte LeClerk ihn mit seiner Pressekampagne nur deshalb so <b>in die Mangel nehmen</b> können. (<i>Der nasse Fisch</i>, 102)',
@@ -19292,11 +19299,14 @@ Machwerk: [
     '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns <b>in die Mangel genommen</b>..." (<i>Der nasse Fisch</i>, 267-68)',
     'Rath beschloss, seine Taktik zu ändern. Er konnte den Musiker (<i>Tretschkow</i>) ruhig ein wenig <b>in die Mangel nehmen</b>. Anders als bei ihrem ersten Gespräch war er nun immerhin offiziell ein Mitarbeiter der Mordinspektion, da konnte er mehr wagen. (<i>Der nasse Fisch</i>, 313)',
     '"Und was ist mit Fallin?" fragte Marlow. Rath zuckte die Achseln. "Keine Ahnung. Jedenfalls ist dessen Leiche noch nicht aufgetaucht." "Wollen wir hoffen, dass er noch lebt. Wenn er Kardakow tatsächlich <b>in die Mangel genommen</b> hat, dann weiß er auch am ehesten, wo das Gold versteckt ist." (<i>Der nasse Fisch</i>, 458)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath zu Oppenberg</i>: ".. Wenn Sie Ihre Beteiligungan der ganzen Chose unter der Decke halten wollen - gut. Ich werde Ihnen nicht in den Rücken fallen, aber unterschätzen Sie die Polizei nicht! Wenn die Ihren Freund erst einmal <b>in die Mangel zu nehmen</b>..." <i>Oppenberg</i>: "Felix denunziert mich nicht, der war immer loyal." (<i>Der stumme Tod</i>, 225)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Rath</i>:  "Was liegt denn so an heute?" Zientek schaute ihn an, als habe er gefragt, ob der Papst katholisch sei. "Na, was wohl? Wir machen da weiter, wo wir gestern aufgehört haben. Suchen uns einen freien Vernehmungsraum und <b>nehmen</b> Kommunisten <b>in die Mangel</b>." (<i>Märzgefallene</i>, 215)',
     'Hieß es nicht, Rache sei am besten kalt zu genießen? Und Leo merkte, wie sehr er es schon genoss, sich das Ganze in seiner Phantasie auszumalen. Wie er Katsche <b>in die Mangel nehmen</b> würde, Lapke und auch diesen Sperling. Und nicht zu vergessen diesen Kommissar. (<i>Märzgefallene</i>, 387)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Für Pornographie dieser Art konnte die Sitte einen ganz schön <b>in die Mangel nehmen</b>, da musste man kein Hundertfünfundsiebziger sein. (<i>Lunapark</i>, 43)',
     'Karl Reinhold war wie sein Vater überzeugter Kommunist, sollte er der Berliner Polizei in die Hände fallen, fiele er auch in die Hände der SA.. Die SA, die Staatspolizei und die SS würden Karl Reinhold <b>in die Mangel nehmen</b>, würden den Jungen tausend Tode sterben lassen, bis er alles verraten hatte, was er kannte und liebte. (<i>Lunapark</i>, 99)',
@@ -19304,19 +19314,20 @@ Machwerk: [
     'Wenigstens hatten sie (<i>die Gestapo</i>) Karl Reinhold in den vergangenen Tagen in Ruhe gelassen und einen anderen Kommunisten <b>durch die Mangel gedreht</b>, der ihnen an der Schlesischen Straße ins Netz gegangen war. (<i>Lunapark</i>, 352)',
     'Spindler starrte durch die Windschutzscheibe. Er schien angestrengt nachzudenken. "Und was passiert mit Leo, wenn Sie ihn haben? Wird die SA ihn dann <b>in die Mangel nehmen</b>? Oder Ihre Kollegen?" "Nein", sagte Rath. "Ich werde alles daransetzen, damit das nicht passiert." Das war nicht einmal gelogen. (<i>Lunapark</i>, 420)',
     'Schweinebacke legte ihm Handschellen an. "Hast Glück, Reinhold, die SS will dich <b>in die Mangel nehmen</b>. Die glauben, die können das besser als wir, aber ich glaube, du hast verdammtes Glück. (<i>Lunapark</i>, 492)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Und auch aus einem anderen Grund wollte Rath, dass Gennat Bescheid wusste, wohin er ging: Sollten die (<i>Sowa und der SD</i>) ihn hier tatsächlich noch einmal <b>in die Mangel nehmen</b> wollen, diesmal sogar mit Bettgestell, würden ihn die Kollegen am Alex schon wieder heraushauen. (<i>Marlow</i>, 507)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'in die Mangel nehmen': [
-    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer'+
-    '<br>auch: <b>durch die Mangel drehen</b>'+
+    'jmdn <b>in die Mangel nehmen</b>: interrogate, grill so. under severe pressure; put thru the wringer'+
+    '<br>equivalent: <b>durch die Mangel drehen</b>'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-    '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+        '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-    '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+        '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
@@ -19346,14 +19357,14 @@ Machwerk: [
     'Und auch aus einem anderen Grund wollte Rath, dass Gennat Bescheid wusste, wohin er ging: Sollten die (<i>Sowa und der SD</i>) ihn hier tatsächlich noch einmal <b>in die Mangel nehmen</b> wollen, diesmal sogar mit Bettgestell, würden ihn die Kollegen am Alex schon wieder heraushauen. (<i>Marlow</i>, 507)',
 ],
 'durch die Mangel drehen': [
-    'jmdn <b>durch die Mangel drehen</b>: grill so., put thru the wringer'+
-    '<br>references are to the equivalent <b>in die Mangel nehmen</b>',+
+    'jmdn <b>durch die Mangel drehen</b>: interrogate, grill so. under severe pressure; put thru the wringer'+
+    '<br>equivalent: <b>in die Mangel nehmen</b>',+
     '<br>Deutsch:&nbsp;&nbsp;'+
-    '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+        '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-    '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+        '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',
@@ -19383,14 +19394,14 @@ Machwerk: [
     'Und auch aus einem anderen Grund wollte Rath, dass Gennat Bescheid wusste, wohin er ging: Sollten die (<i>Sowa und der SD</i>) ihn hier tatsächlich noch einmal <b>in die Mangel nehmen</b> wollen, diesmal sogar mit Bettgestell, würden ihn die Kollegen am Alex schon wieder heraushauen. (<i>Marlow</i>, 507)',
 ],
 'Mangel (in/durch die M. nehmen/drehen)': [
-    'jmdn <b>in die Mangel nehmen</b>: grill so., put thru the wringer'+
-    '<br>also: <b>durch die Mangel drehen</b>'+
+    'jmdn <b>in die Mangel nehmen</b>: interrogate, grill so. under severe pressure; put thru the wringer'+
+    '<br>equivalent: <b>durch die Mangel drehen</b>'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-    '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
+        '<a href="https://www.dwds.de/wb/jmdn.%20in%20die%20Mangel%20nehmen"target="target1">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=in+die+Mangel+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">in die Mangel nehmen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-    '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
+        '<a href="https://www.dict.cc/?s=in+die+Mangel+nehmen"target="target3">in die Mangel nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/in%20die%20Mangel%20nehmen"target="target4">in die Mangel nehmen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath und Wolter hatten die Arbeiten (<i>das Durchkämmen Königs Atelier</i>) überwacht.... Sie hatten jede Menge Platten und Abzüge gefunden, mehr als genug für den Staatsanwalt. Und genug, um König ein bisschen <b>in die Mangel zu nehmen</b>. (<i>Der nasse Fisch</i>, 30)',

@@ -5,6 +5,8 @@ export const wordExamples = {
 // FINISH!  NEXT
 
 // check page number
+    // 'vergönnen, gönnen, Gönner' duplicated Der stumme Tod 410 487
+    // Olympia gönnen 208 211  220  288 299  326  432
 // Sims Olympia  424 (twice)  425  
 // Der stumme Tod   368  Klette      // next: abwälzen:   complete: Staub,.... 
 //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
@@ -230,10 +232,10 @@ Schlafittchen: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '    (<i>Olympia</i>, 000)',
 ],
-// FINISH!  der Gönner | die Gönnerin  pl.: die Gönner, die Gönnerinnen
-'vergönnen, gönnen, Gönner': [  
-    '<b>gönnen</b>: treat oneself to sth.; not begrudge so. sth.'+
-    '<br>der <b>Gönner</b>, die <b>Gönnerin</b>; die <b>Gönner</b>, die <b>Gönnerinnen</b>: patron, benefactor, sponsor'+
+'Gönner, gönnen, vergönnen': [  
+    '<b>gönnen</b>: not begrudge so. sth.; wish/allow so. the enjoyment of sth.'+
+    '<br><b>sich gönnen</b>: treat/indulge oneself; allow oneself the enjoyment of sth.'+
+    '<br>der <b>Gönner</b>,-<b>in</b>; die <b>Gönner</b>, die <b>Gönnerinnen</b>: patron, benefactor, sponsor'+
     '<br><b>vergönnen</b>: grant so. sth.; allow so. to enjoy/have sth.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/goennen"target="target1">gönnen</a>&nbsp;&nbsp;'+
@@ -250,23 +252,85 @@ Schlafittchen: [
     '".. Leichen in Beton sind eher selten, nicht wahr?" Rath hoffte, dass (<i>Doktor</i>) Schwartz ihm die Nervosität nicht anmerkte, mit der er hier hineinspaziert war. "Darauf würde ich nicht wetten, mein Freund", entgegnete Schwartz. "In Berlin wird viel gebaut. Und so manchem Toten <b>gönnt</b> man kein ordentliches Grab.. Möchte nicht wissen, wie viele Neubauten in dieser Stadt auf Knochen errichtet sind." (<i>Der nasse Fisch</i>, 294)',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-
-
-// NEXT: Der stumme Tod vergönnen  vergönnte  vergönnt
+    '.. er (<i>Rath</i>) rechnete nicht damit, Vivian Franck hier im Kleiderschrank oder im Bett zu finden, aber vielleicht irgendeinen Beweis für die Liebschaft zwischen ihr und Czerny... Gut möglich dass sie sich aus dem Staub gemacht hatte. Und Czerny? Hielt der die Stellung, um irgendwann nachzukommen? Oder hatte sie ihn ebenso sitzen lassen wie ihren <b>Gönner</b> Oppenberg? (<i>Der stumme Tod</i>, 90-91)',
+    '<i>Czerny</i>: "Ich kenne nur wenige Kollegen, die so hart arbeiten wie sie (<i>Vivian Franck</i>)." <i>Rath</i>: "Und dann schwänzt sie die Dreharbeiten zu einem Film, den Oppenberg nur macht, um ihr eine goldene Brücke in die Zukunft zu bauen? Warum? Nur um Ihnen und ihrem <b>Gönner</b> Oppenberg nicht mehr über den Weg laufen zu müssen? Nein, das passt doch nicht! Deswegen die Karriere aufs Spiel zui setzen." (<i>Der stumme Tod</i>, 95)',
+    'Der Buddha schloss die Tür und setzte sich an seinen Schreibtisch. Nicht einmal die durchgesessene Polstergruppe, in der Gennat sonst seine Gäste zu empfangen und zu bewirten pflegte, <b>gönnte</b> er Rath, sondern wies ihm den Platz vor seinem Schreibtisch zu, der sonst den armen Sündern vorbehalten war, denen er hier Geständnisse entlockte. (<i>Der stumme Tod</i>, 210-11)',
+    // 'vergönnen, gönnen, Gönner' duplicated Der stumme Tod 410 487
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    'Charly holte sich einen Kaffee und ein Stück Nusskuchen vom Buffet. Eigentlich machte sie sich nicht viel aus Kuchen, aber manchmal <b>gönnte</b> sie <b>sich</b> ein Stück, weil sie das an die alten Zeiten errinnerte. Kaum eine Besprechung bei Ernst Gennat, bei der nicht Kuchen auf dem Tisch gestanden hätte. (<i>Märzgefallene</i>, 31-32)',
+    'Richtig spüren, das wusste er (<i>Juretzka</i>) noch aus dem Krieg, würde er seine vielen Blessuren erst am nächsten Tag. Wenn die Kerle ihm diesen Tag denn überhaupt <b>gönnen</b> würden. (<i>Märzgefallene</i>, 110)',
+    'Kaum hatte Gräf die Beifahrertür zugeschlagen, wendete der Buick auf der Strausberger Straße und fuhr zurück zur Frankfurter Allee. Durch die Spiegelungen in der Windschutzscheibe konnte Gräf nicht erkennen, ob Gereon ihm noch einen Blick <b>gönnte</b>, und schon gar nicht welchen. (<i>Märzgefallene</i>, 122)',
+    'Kurz darauf hörte Charly die Wohnungstür ins Schloss fallen und die Schritte des Jungen und sein Pfeifen im Treppenhaus. Sie faltete die Zeitung zusammen. "Ich glaube, Fritze möchte uns ein wenig Zeit zu zweit <b>gönnen</b>." (<i>Märzgefallene</i>, 501)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
+    'Doch seit Kurzem war er wieder aufgetaucht. Nicht in Köln, sondern in Berlin. Konrad Adenauer wollte das preußische Innenministerium bewegen, die Aberkennung seiner Pensionsansprüche rückgängig zu machen, und hatte mit seiner Familie ein Haus in Neubabelsberg gemietet. Und seither drängte Engelbert Rath darauf, sein Sohn möge den alten Freund und <b>Gönner</b> der Familie Rath doch einmal besuchen. (<i>Lunapark</i>, 86-87)',
+    'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas <b>gönnte</b> er nicht einmal ihm: von den Nordpiraten in die Mangel genommen zu werden. (<i>Lunapark</i>, 204)',
+    'Als Tagesangebot gab es Tomatenspaghetti mit Parmesankäse, aber bei diesen langen italienischen Nudeln wusste Rath nie, wie er sie essen sollte, also bestellte er eine klassische Berliner Bratwurst mit Rotkohl und Kartoffeln und <b>gönnte sich</b> dazu ein Bier. (<i>Lunapark</i>, 236)',
+    'Und so stand Rath nun unten auf der Straße und inspizierte den schwarzen Ford. Keine Blutspuren im Kofferraum, auch keine hölzerne Keule. Natürlich nicht. Der Wagen sah aus, als <b>gönne</b> Werner Zeyen ihm jede Woche eine gründliche Wagenwäsche. (<i>Lunapark</i>, 302)',
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    'Als er (<i>Rath</i>) das erledigt hatte, überlegte er, ob er sich noch einen Cognac und ein paar von Severins Platten <b>gönnen</b> sollte, bevor er zu der unangenehmen Aufgabe aufbrach, eine Todesnachricht zu überbringen. (<i>Marlow</i>, 46)',
+    'Er (<i>Rath</i>) beschloss, etwas zu essen. Am Schlesischen Tor entdeckte er ein Restaurant, das sein Vertrauen weckte, und bestellte Deutsches Beefsteak mit Bratkartoffeln. Die Preise waren zivil, also <b>gönnte</b> er <b>sich</b> noch ein Bier. (<i>Marlow</i>, 103)',
+    '<i>Fritze</i>: "Komm doch eenfach mit zum Zeltlager. Du wirst staunen, wie riesig det is. Wieviele wir sind." Rath überlegte. So ein Abstecher passte ihm zwar nicht wirklich in den Kram, andererseits war es noch früh am Tag, da könnte er ruhig auch Fritze noch ein Stündchen <b>gönnen</b>. Er merkte, wie gut er sich fühlte, dass der Junge ihn an seinem Abenteuer teilhaben lassen wollte. (<i>Marlow</i>, 298-99)',
+    '<i>Man muss auch <b>gönnen</b> können</i>, hatte Gereon ihm mal gesagt, eine alte kölsche Redensart. Und da war was dran. <b>Gönnen</b>. Das konnten nicht viele in der HJ. (<i>Marlow</i>, 420)',
+    'Es war Charlys Idee gewesen, Böhm in die eigenen vier Wände einzuladen, und Rath hatte dem zugestimmt. Zähneknirschend. Was blieb ihm sonst auch übrig? Angesichts der Beschatter, die der SD ihm immer noch rund um die Uhr <b>gönnte</b>, war alles andere undenkbar. (<i>Marlow</i>, 434)',
     // Olympia
-    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<span class="bookTitle"><u>Olympia</u></span>', 
+    'Auch wenn ihm (<i>Morgan</i>) die Spiele in Berlin nicht mehr <b>vergönnt</b> waren, konnte er als Funktionär mehr Olympiateilnahmen denn als Sportler verbuchen. (<i>Olympia</i>, 68)',
+    'Oppenberg zuckte die Achseln. "Ich weiß nicht. Und wenn schon. Ich will Hitler diese Genugtuung nicht <b>gönnen</b>, mich aus dem Land geekelt zu haben. Das ist <i>mein</i> Vaterland und nicht das dieses dahergelaufenen Österreichers. Der soll dahin zurückgehen, wo er hergekommen ist. (<i>Olympia</i>, 79)',
     '"Und ich dachte, jeder Jude hat mindestens einen Onkel oder Cousin in Amerika." <i>Charly</i>: "Greta Overbeck, du bist eine alte Antisemitin, weißt du das? Glaubst am Ende auch an das Weltjudentum, was?" "Ich glaube an das Weltbürgertum, das ist alles." "Aber das ist leider nicht jedem <b>vergönnt</b>." (<i>Olympia</i>, 121)',
-
+    // Olympia gönnen 208 211  220  288 299  326  432
+],
+'vergönnen, gönnen, Gönner': [  
+    '<b>gönnen</b>: not begrudge so. sth.; wish/allow so. the enjoyment of sth.'+
+    '<br><b>sich gönnen</b>: treat/indulge oneself; allow oneself the enjoyment of sth.'+
+    '<br>der <b>Gönner</b>,-<b>in</b>; die <b>Gönner</b>, die <b>Gönnerinnen</b>: patron, benefactor, sponsor'+
+    '<br><b>vergönnen</b>: grant so. sth.; allow so. to enjoy/have sth.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/goennen"target="target1">gönnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/G%C3%B6nner"target="target2">Gönner</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/verg%C3%B6nnen"target="target3">vergönnen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/g%C3%B6nnen"target="target4">gönnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=G%C3%B6nner&id=substantiv%3AGo3nner"target="target5">Gönner</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=verg%C3%B6nnen&id=verb%3Avergo3nnen"target="target6">vergönnen</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    '<i>Rath</i>: "<b>Gönnen Sie sich</b> mal eine Pause.. Ich möchte Ihnen sowieso noch ein paar Fragen stellen." <i>Frau Schäffner</i>: "Schon wieder Fragen?" Sie ließ den Putzlappen zurück in den Blecheimer fallen und wischte sich die Hände an ihrer Schürze ab. (<i>Der nasse Fisch</i>, 234)',
+    '<i>Wolter</i>: ".. Außerdem sind deine (<i>Raths</i>) Spitzel bei ihren eigenen Leuten glaubwürdiger, wenn sie ab und zu auch mal Ärger mit den Bullen haben." <i>Rath</i>: "Aber nicht, wenn sie vorzeitig entlassen werden." <i>Wolter</i>: "Das bekommt doch kein Mensch mit. Für ihre Kumpels in der Zelle sieht das so aus, als würden sie zum Verhör geführt und von uns in die Mangel genommen. Und ihrem Freund und <b>Gönner</b> sind sie nach ihrer unverhofften Freilassung wieder ein paar Gefallen schuldig." (<i>Der nasse Fisch</i>, 267-68)',
+    '".. Leichen in Beton sind eher selten, nicht wahr?" Rath hoffte, dass (<i>Doktor</i>) Schwartz ihm die Nervosität nicht anmerkte, mit der er hier hineinspaziert war. "Darauf würde ich nicht wetten, mein Freund", entgegnete Schwartz. "In Berlin wird viel gebaut. Und so manchem Toten <b>gönnt</b> man kein ordentliches Grab.. Möchte nicht wissen, wie viele Neubauten in dieser Stadt auf Knochen errichtet sind." (<i>Der nasse Fisch</i>, 294)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '.. er (<i>Rath</i>) rechnete nicht damit, Vivian Franck hier im Kleiderschrank oder im Bett zu finden, aber vielleicht irgendeinen Beweis für die Liebschaft zwischen ihr und Czerny... Gut möglich dass sie sich aus dem Staub gemacht hatte. Und Czerny? Hielt der die Stellung, um irgendwann nachzukommen? Oder hatte sie ihn ebenso sitzen lassen wie ihren <b>Gönner</b> Oppenberg? (<i>Der stumme Tod</i>, 90-91)',
+    '<i>Czerny</i>: "Ich kenne nur wenige Kollegen, die so hart arbeiten wie sie (<i>Vivian Franck</i>)." <i>Rath</i>: "Und dann schwänzt sie die Dreharbeiten zu einem Film, den Oppenberg nur macht, um ihr eine goldene Brücke in die Zukunft zu bauen? Warum? Nur um Ihnen und ihrem <b>Gönner</b> Oppenberg nicht mehr über den Weg laufen zu müssen? Nein, das passt doch nicht! Deswegen die Karriere aufs Spiel zui setzen." (<i>Der stumme Tod</i>, 95)',
+    'Der Buddha schloss die Tür und setzte sich an seinen Schreibtisch. Nicht einmal die durchgesessene Polstergruppe, in der Gennat sonst seine Gäste zu empfangen und zu bewirten pflegte, <b>gönnte</b> er Rath, sondern wies ihm den Platz vor seinem Schreibtisch zu, der sonst den armen Sündern vorbehalten war, denen er hier Geständnisse entlockte. (<i>Der stumme Tod</i>, 210-11)',
+    // 'vergönnen, gönnen, Gönner' duplicated Der stumme Tod 410 487
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    'Charly holte sich einen Kaffee und ein Stück Nusskuchen vom Buffet. Eigentlich machte sie sich nicht viel aus Kuchen, aber manchmal <b>gönnte</b> sie <b>sich</b> ein Stück, weil sie das an die alten Zeiten errinnerte. Kaum eine Besprechung bei Ernst Gennat, bei der nicht Kuchen auf dem Tisch gestanden hätte. (<i>Märzgefallene</i>, 31-32)',
+    'Richtig spüren, das wusste er (<i>Juretzka</i>) noch aus dem Krieg, würde er seine vielen Blessuren erst am nächsten Tag. Wenn die Kerle ihm diesen Tag denn überhaupt <b>gönnen</b> würden. (<i>Märzgefallene</i>, 110)',
+    'Kaum hatte Gräf die Beifahrertür zugeschlagen, wendete der Buick auf der Strausberger Straße und fuhr zurück zur Frankfurter Allee. Durch die Spiegelungen in der Windschutzscheibe konnte Gräf nicht erkennen, ob Gereon ihm noch einen Blick <b>gönnte</b>, und schon gar nicht welchen. (<i>Märzgefallene</i>, 122)',
+    'Kurz darauf hörte Charly die Wohnungstür ins Schloss fallen und die Schritte des Jungen und sein Pfeifen im Treppenhaus. Sie faltete die Zeitung zusammen. "Ich glaube, Fritze möchte uns ein wenig Zeit zu zweit <b>gönnen</b>." (<i>Märzgefallene</i>, 501)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    'Doch seit Kurzem war er wieder aufgetaucht. Nicht in Köln, sondern in Berlin. Konrad Adenauer wollte das preußische Innenministerium bewegen, die Aberkennung seiner Pensionsansprüche rückgängig zu machen, und hatte mit seiner Familie ein Haus in Neubabelsberg gemietet. Und seither drängte Engelbert Rath darauf, sein Sohn möge den alten Freund und <b>Gönner</b> der Familie Rath doch einmal besuchen. (<i>Lunapark</i>, 86-87)',
+    'Sosehr ihm (<i>Rath</i>) der Grinsemann auch missfiel, so etwas <b>gönnte</b> er nicht einmal ihm: von den Nordpiraten in die Mangel genommen zu werden. (<i>Lunapark</i>, 204)',
+    'Als Tagesangebot gab es Tomatenspaghetti mit Parmesankäse, aber bei diesen langen italienischen Nudeln wusste Rath nie, wie er sie essen sollte, also bestellte er eine klassische Berliner Bratwurst mit Rotkohl und Kartoffeln und <b>gönnte sich</b> dazu ein Bier. (<i>Lunapark</i>, 236)',
+    'Und so stand Rath nun unten auf der Straße und inspizierte den schwarzen Ford. Keine Blutspuren im Kofferraum, auch keine hölzerne Keule. Natürlich nicht. Der Wagen sah aus, als <b>gönne</b> Werner Zeyen ihm jede Woche eine gründliche Wagenwäsche. (<i>Lunapark</i>, 302)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    'Als er (<i>Rath</i>) das erledigt hatte, überlegte er, ob er sich noch einen Cognac und ein paar von Severins Platten <b>gönnen</b> sollte, bevor er zu der unangenehmen Aufgabe aufbrach, eine Todesnachricht zu überbringen. (<i>Marlow</i>, 46)',
+    'Er (<i>Rath</i>) beschloss, etwas zu essen. Am Schlesischen Tor entdeckte er ein Restaurant, das sein Vertrauen weckte, und bestellte Deutsches Beefsteak mit Bratkartoffeln. Die Preise waren zivil, also <b>gönnte</b> er <b>sich</b> noch ein Bier. (<i>Marlow</i>, 103)',
+    '<i>Fritze</i>: "Komm doch eenfach mit zum Zeltlager. Du wirst staunen, wie riesig det is. Wieviele wir sind." Rath überlegte. So ein Abstecher passte ihm zwar nicht wirklich in den Kram, andererseits war es noch früh am Tag, da könnte er ruhig auch Fritze noch ein Stündchen <b>gönnen</b>. Er merkte, wie gut er sich fühlte, dass der Junge ihn an seinem Abenteuer teilhaben lassen wollte. (<i>Marlow</i>, 298-99)',
+    '<i>Man muss auch <b>gönnen</b> können</i>, hatte Gereon ihm mal gesagt, eine alte kölsche Redensart. Und da war was dran. <b>Gönnen</b>. Das konnten nicht viele in der HJ. (<i>Marlow</i>, 420)',
+    'Es war Charlys Idee gewesen, Böhm in die eigenen vier Wände einzuladen, und Rath hatte dem zugestimmt. Zähneknirschend. Was blieb ihm sonst auch übrig? Angesichts der Beschatter, die der SD ihm immer noch rund um die Uhr <b>gönnte</b>, war alles andere undenkbar. (<i>Marlow</i>, 434)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>', 
+    'Auch wenn ihm (<i>Morgan</i>) die Spiele in Berlin nicht mehr <b>vergönnt</b> waren, konnte er als Funktionär mehr Olympiateilnahmen denn als Sportler verbuchen. (<i>Olympia</i>, 68)',
+    'Oppenberg zuckte die Achseln. "Ich weiß nicht. Und wenn schon. Ich will Hitler diese Genugtuung nicht <b>gönnen</b>, mich aus dem Land geekelt zu haben. Das ist <i>mein</i> Vaterland und nicht das dieses dahergelaufenen Österreichers. Der soll dahin zurückgehen, wo er hergekommen ist. (<i>Olympia</i>, 79)',
+    '"Und ich dachte, jeder Jude hat mindestens einen Onkel oder Cousin in Amerika." <i>Charly</i>: "Greta Overbeck, du bist eine alte Antisemitin, weißt du das? Glaubst am Ende auch an das Weltjudentum, was?" "Ich glaube an das Weltbürgertum, das ist alles." "Aber das ist leider nicht jedem <b>vergönnt</b>." (<i>Olympia</i>, 121)',
+    // Olympia gönnen 208 211  220  288 299  326  432
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
@@ -3782,8 +3846,13 @@ knutschen: [
 ],
 schwänzen: [
     '<b>schwänzen</b>: play hooky/truant, skip sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schwaenzen"target="target1">schwänzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schw%C3%A4nzen"target="target2">schwänzen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schwaenzen#schw%C3%A4nzen"target="target3">schwänzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schw%C3%A4nzen&id=verb%3Aschwa3nzen"target="target4">schwänzen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/schwaenzen"target="target1">schwänzen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/schw%C3%A4nzen"target="target2">schwänzen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://en.langenscheidt.com/german-english/schwaenzen#schw%C3%A4nzen"target="target3">schwänzen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.verbformen.com/?w=schw%C3%A4nzen&id=verb%3Aschwa3nzen"target="target4">schwänzen</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Czerny</i>: "Ich kenne nur wenige Kollegen, die so hart arbeiten wie sie (<i>Vivian Franck</i>)." <i>Rath</i>: "Und dann <b>schwänzt</b> sie die Dreharbeiten zu einem Film, den Oppenberg nur macht, um ihr eine goldene Brücke in die Zukunft zu bauen?" (<i>Der stumme Tod</i>, 95)',
     //	'    (<i>Der stumme Tod</i>, 324)',
@@ -7425,7 +7494,7 @@ abspecken: [
     'Sie (i>Charly</i>) hatte gerade die nächste (<i>Zigarette</i>) aus dem Etui genommen, da öffnete die Tür, und ein Mann kam heraus, der ein wenig erschrocken zurückzuckte, als er da jemanden auf der Wartebank sitzen sah. "Doktor Schwartz", rief sie. "Das ist aber eine Überraschung." "In der Tat", sagte der langjährige Gerichtsmediziner, einer der fähigsten, die sie gekannt hatte, bevor die Nazis ihn aus dem Amt <b>geekelt</b> hatten. (<i>Marlow</i>, 135-36)',
     '<i>Böhm</i>: ".. Obwohl die Nazis sie in ihrer viel beschworenen Volksgemeinschaft nicht dulden und am liebsten gar aus dem Land <b>ekeln</b> würden, ist es für Juden gar nicht so einfach, Deutschland zu verlassen." (<i>Marlow</i>, 137)',
     'Und dann begann ihr (<i>Charlys</i>) Leben in die andere Richtung zu laufen, beinahe wie ein Film, den man, bevor er am glücklichen Ende angekommen ist, wieder rückwärts auf die Spule laufen lässt: die unsägliche Nazi-Wieking, die Charly aus der Polizei <b>ekelt</b>... (<i>Marlow</i>, 196)',
-    // Olympia
+    // Olympia  xxx
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Oppenberg zuckte die Achseln. "Ich weiß nicht. Und wenn schon. Ich will Hitler diese Genugtuung nicht gönnen, mich aus dem Land <b>geekelt</b> zu haben. Das ist <i>mein</i> Vaterland und nicht das dieses dahergelaufenen Österreichers. Der soll dahin zurückgehen, wo er hergekommen ist. (<i>Olympia</i>, 79)',
     'Sie (<i>Charly</i>) erzählte Greta die Geschichte von Manfred Oppenberg. "Böhm sagt, ich soll ihn überreden auszuwandern, aber ich weiß gar nicht, ob ich das will. Ich komme mir vor, als würde ich das Geschäft der Nazis betreiben und Juden aus dem Land <b>ekeln</b>." (<i>Olympia</i>, 120)',
@@ -16676,15 +16745,22 @@ huschen: [
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 inspizieren: [
     '<b>inspizieren</b>: inspect, scrutinize, examine'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/inspizieren"target="target1">inspizieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/inspizieren"target="target2">inspizieren</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/inspizieren"target="target3">inspizieren</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/inspizieren"target="target4">inspizieren</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/inspizieren"target="target1">inspizieren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/inspizieren"target="target2">inspizieren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/inspizieren"target="target3">inspizieren</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/inspizieren"target="target4">inspizieren</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Böhm</i>: "Kann man an so was sterben, Doktor?" "Man kann an fast allem sterben, mein lieber Böhm." Schwartz rückte seine Brille mit dem Zeigefinger zurecht und <b>inspizierte</b> den Brei aus Hautfetzen, Fleisch und Knochen genauer. (<i>Der nasse Fisch</i>, 65)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Ich (<i>von Roddeck</i>) sitze gerade in der Schreibstube, diktiere den aktuellen Lagebericht und warte auf den Hauptmann, der sich angekündigt hat, um die Lage in unserem Alberich-Abschnitt zu <b>inspizieren</b>.... (<i>Märzgefallene</i>, 161)',
     'Und dann brauste einige Zeit später das Automobil des Hauptmanns heran und holte unseren abziehenden Troß ein. Thelen, des Hauptmanns Fahrer, stieg aus, dann Grimberg, der Sprengmeister.... Sogleich erstatteten sie Bericht und wir erfuhren, was geschehen war: Hauptmann Engel sei beim <b>Inspizieren</b> der Sprengfallen ... einer Fehlzündung zum Opfer gefallen.... (<i>Märzgefallene</i>, 272)',
     'Der Sprengmeister nickte. "Ja, das waren alles meine Konstruktionen. Deswegen war ich am Morgen vor dem Rückzug ja auch dabei, als der Hauptmann die Fallen <b>inspizieren</b> wollte."  (<i>Märzgefallene</i>, 274)',
     '"Es war nur Zufall, dass wir (<i>Grimberg und Thelen</i>) noch am Wagen standen, als Engel in den Graben stieg. Eigentlich sollte ich (<i>Grimberg</i>) mit dem Hauptmann zusammen die Fallen <b>inspizieren</b>. Eigentlich wäre ich dabei gewesen...." <i>Rath</i>: "Und Thelen? Der wäre sowieso am Wagen geblieben, oder?" <i>Grimberg</i>: "So war es jedenfalls bei den anderen Sprengfallen, die wir <b>inspiziert</b> haben. Er war doch nur der Fahrer." (<i>Märzgefallene</i>, 278-79)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Gräf nickte und ging zu dem ED-Chef (<i>Kronberg</i>) hinüber, der mit einem seiner Mitarbeiter gerade die unvollendete Wandparole <b>inspizierte</b>. (<i>Lunapark</i>, 26)',
     'Fritsch (<i>Chef des SA-Feldjägerkorps</i>) verschränte die Hände hinter seinem Rücken, wie ein General, der seine Truppen <b>inspizierte</b>, und näherte sich dem Tatort, an dem Doktor Karthaus immer noch mit der Leiche beschäftigt war. (<i>Lunapark</i>, 174-75)',

@@ -106,6 +106,7 @@ const g = [
 'glotzen, an-',
 'gluckern', // gluckern:  
 'goldene Nase (sich verdienen)',
+'Gönner, gönnen, vergönnen',  // duplicated
 'Gör, Göre',
 'Gosse',  // Gosse:  
 'grämen',  // grämen:

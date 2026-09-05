@@ -25,7 +25,8 @@ const v = [
 'vergackeiern',  // vergackeiern:  
 'vergaloppieren', // vergaloppieren:  
 'vergeigen', //  vergeigen: 
-'vergewissern', //  vergewissern:  
+'vergewissern', //  vergewissern: 
+'vergönnen, gönnen, Gönner',  //duplicated 
 'ver­grau­len, Vergraulung',  
 'vergreifen', // vergreifen:
 'verhageln' ,  // verhageln:  

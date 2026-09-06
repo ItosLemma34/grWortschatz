@@ -38,6 +38,7 @@ const r = [
 'reinsemmeln', // reinsemmeln: 
 //'reißen, gerissen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zurück-,zusammen-', 
 'reißerisch',  // reißerisch: 
+'Reiz, reizen, gereizt',  // duplicated
 'Reling',  // Reling
 'Rempler, rempeln, an-',
 'renitent',  // renitent: 

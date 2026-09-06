@@ -10,8 +10,8 @@ const p = [
   'Parzelle',  // Parzelle:
   'Patrone', // Patrone: 
   'patschen, Patsche',   
-  'patzen',  // patzen:
-  'patzig, Patzigkeit',
+'patzen',  // patzen:
+'patzig, Patzigkeit',
   'pauken', // pauken: 
   'Pegel',  // Pegel: 
   'peilen', // peilen: 

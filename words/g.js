@@ -50,6 +50,7 @@ const g = [
 'gerädert',  // gerädert: 
 'Gerangel', // Gerangel:  
 'Geräuschkulisse', // Geräuschkulisse:  
+'gereizt, Reiz, reizen',  // duplicated
 'gerieren',   // gerieren:  
 'gerinnen',   // gerinnen:  
 'Gerippe',    // Gerippe:  

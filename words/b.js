@@ -44,6 +44,7 @@ const b = [
 'beredt',     // beredt:  
 'Beritt, beritten',     
 'besaitet, zartbesaitet',  // duplicated
+'beschaulich',
 'bescheren, Bescherung',
 'bescheuert',  // bescheuert: 
 'beschlagen', // beschlagen:

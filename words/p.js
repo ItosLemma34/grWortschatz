@@ -12,22 +12,22 @@ const p = [
   'patschen, Patsche',   
 'patzen',  // patzen:
 'patzig, Patzigkeit',
-  'pauken', // pauken: 
-  'Pegel',  // Pegel: 
-  'peilen', // peilen: 
-  'peinigen, Peiniger',
-  'Peitsche, peitschen',
-  'Pelle (auf die P. rücken)', //  duplicated 
-  'pennen',  // pennen:
-  'perlen',  // perlen:
-  'Pest an den Hals',
-  'petzen', // petzen: 
-  'Pfaffe', // Pfaffe: 
-  'Pfanne (in die P. hauen)',  // duplicated  
-  'Pfau',  // Pfau: 
-  'pfeffern, gepfeffert',  //  duplicated 
-  'Pfeiler',  // Pfeiler:  
-  'pferchen, ein-, zusammen-',
+'pauken', // pauken: 
+'Pegel',  // Pegel: 
+'peilen', // peilen: 
+'peinigen, Peiniger',
+'Peitsche, peitschen',
+'Pelle (auf die P. rücken)', //  duplicated 
+'pennen',  // pennen:
+'perlen',  // perlen:
+'Pest an den Hals',
+'petzen', // petzen: 
+'Pfaffe', // Pfaffe: 
+'Pfanne (in die P. hauen)',  // duplicated  
+'Pfau',  // Pfau: 
+'pfeffern, gepfeffert',  //  duplicated 
+'Pfeiler',  // Pfeiler:  
+'pferchen, ein-, zusammen-',
 'pfiffig',  // pfiffig:
 'pflücken, zer-',    
 'Pfropfen',  // Pfropfen: 

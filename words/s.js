@@ -53,6 +53,7 @@ const s = [
 'Schippe (von der S. springen)',  // duplicated
 'schlabbern', // schlabbern: 
 'Schlacke',  // Schlacke: 
+'Schlafittchen',
 'Schlagseite',  // Schlagseite: 
 'schlaksig, Schlaks',  
 'Schlamassel', // Schlamassel: 

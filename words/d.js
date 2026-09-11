@@ -36,7 +36,7 @@ const d = [
 'drosseln',  // drosseln: 
 'Drücker (auf den letzten D.)',  //duplicated
 'Druckfahne', // Druckfahne: 
-'drucksen, herum-', 
+'drucksen', 
 'drunter und drüber gehen',  
 //'den Hintern plattsitzen', 
 'ducken, wegducken',  // duplicated 

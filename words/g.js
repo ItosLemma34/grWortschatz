@@ -14,6 +14,7 @@ const g = [
 'Gedränge',  // Gedränge: 
 'Gedudel, dudeln',  // duplicated 
 'gedungener Mörder, dingen',  // duplicated
+'Gefäß',  // Gefäß:
 'gefasst',  // gefasst:
 'Gefecht, fechten, aus-',  // duplicated 
 'Gefeilsche, feilschen',  // duplicated

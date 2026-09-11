@@ -116,7 +116,7 @@ const k = [
 'Kordel',  // Kordel: 
 'Korn (aufs K. nehmen)',  //  duplicated 
 'Kot, koten, Kotflügel',  
-'Kotze, kotzen, an-',  
+'Kotze, kotzen',  
 'krabbeln',  // krabbeln: 
 'krachen, Krach',  
 'Krähe, krähen',    

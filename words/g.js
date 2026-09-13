@@ -105,7 +105,7 @@ const g = [
 'gleißen, gleißend',
 'glimpflich',  // glimpflich:  
 'glimmen, auf-',  
-'glotzen, an-',
+'glotzen',
 'gluckern', // gluckern:  
 'goldene Nase (sich verdienen)',
 'Gönner, gönnen, vergönnen',  // duplicated

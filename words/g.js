@@ -62,6 +62,7 @@ const g = [
 'Gerüst, einrüsten', // duplicated 
 'gesalzen',   // gesalzen: 
 'Gesäß',  // Gesäß:
+'Gesause, Gesumme',  // duplicated
 'geschliffen',  // geschliffen:  
 'geschniegelt',  // geschniegelt:  
 'Geschreibsel',  // Geschreibsel:  
@@ -83,6 +84,7 @@ const g = [
 'Gestöber',   // Gestöber: 
 'Gesträuch, Strauch',  // duplicated  
 'Gestrüpp',  // Gestrüpp: 
+'Gesumme, Gesause',  // duplicated
 'Getümmel',  // Getümmel: 
 'Geturtel',  // Geturtel:    duplicate, if found with turteln
 'Gewebe',    // Gewebe: 

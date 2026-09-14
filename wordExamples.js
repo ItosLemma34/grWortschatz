@@ -2,6 +2,7 @@ export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
 // next:  abfackeln:
 
+// Olympia: already used: '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum <b>Spülen</b> gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist <b>wegspülen</b>. Und als ich den <b>Spülkorb</b> ausräume, finde ich da so ein Glas, wo ich nicht weiß, wo das her ist. War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s <b>gespült</b> haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den Schüsseln und so war. Schade um das ganze Essen, aber das vollgekotzte Zeug war ja nicht mal mehr was für den Schweineeimer."  (<i>Olympia</i>, 152)',
 
 // Check if all the "auf die Nase binden" captured
 
@@ -95,6 +96,32 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+'Gesumme, Gesause': [  
+    'das <b>Gesumme</b>: humming, buzzing sound'+
+    '<br>das <b>Gesause</b>: whistling, rushing, roaring noise'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gesumme"target="target1">Gesumme</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gesause"target="target2">Gesause</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Gesumme"target="target3">Gesumme</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Gesause"target="target4">Gesause</a>',
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Das Stadion [<i>Olympiastadion</i>] war vielleicht zu zwei Dritteln gefüllt, und es herrschte bereits ein unglaublicher Geräuschpegel. Die Stimmem von zigtausend Menschen, die durcheinanderredeten und ihre Pläzte suchten. Doch mit einem Mal schob sich ein tieferer Ton unter dieses <b>Gesumme</b> und <b>Gesause</b>, ein tiefes monotones Brummen, als nähere sich eine riesige Hornisse (<i>hornet</i>) einem Bienenstock. (<i>Olympia</i>, 155)',
+],
+'Gesause, Gesumme': [  
+    'das <b>Gesause</b>: whistling, rushing, roaring noise'+
+    '<br>das <b>Gesumme</b>: humming, buzzing sound'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gesause"target="target1">Gesause</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gesumme"target="target2">Gesumme</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Gesause"target="target3">Gesause</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Gesumme"target="target4">Gesumme</a>',
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Das Stadion [<i>Olympiastadion</i>] war vielleicht zu zwei Dritteln gefüllt, und es herrschte bereits ein unglaublicher Geräuschpegel. Die Stimmem von zigtausend Menschen, die durcheinanderredeten und ihre Pläzte suchten. Doch mit einem Mal schob sich ein tieferer Ton unter dieses <b>Gesumme</b> und <b>Gesause</b>, ein tiefes monotones Brummen, als nähere sich eine riesige Hornisse (<i>hornet</i>) einem Bienenstock. (<i>Olympia</i>, 155)',
+],
 Gefäß: [  
     'das <b>Gefäß</b>,-<b>e</b>: container, jar, pot, vessel (<i>many similar meanings</i>)'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -5112,11 +5139,19 @@ verzieren: [
     'Dann schreckte sie (<i>Charly</i>) zurück, als sei in dem Paket etwas das nach ihr geschnappt habe. "Was ist das denn?" Rath wusste zunächst nicht, wie sie das meinte, denn es war ziemlich offensichtlich, was das war, das Paket roch ja sogar nach Lebkuchen. Dann aber sah er es: Die kreisrunden Elisenkuchen waren mit Hakenkreuzen aus Mandeln <b>verziert</b>. (<i>Marlow</i>, 334)',
 ],
 Spind: [
-    'der (oder das) <b>Spind</b>,-<b>e</b>: locker'+
-    '<br>Deutsch & Fotos:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Spind"target="target1">Spind</a>&nbsp;&nbsp;<a href="https://www.gettyimages.de/fotos/spinde"target="target2">Spind</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spind"target="target3">Spind</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Spind&id=substantiv%3ASpind%23Spind_mask"target="target4">Spind</a>',
+    'der/das <b>Spind</b>,-<b>e</b>: locker'+
+    '<br>Deutsch & Fotos:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Spind"target="target1">Spind</a>&nbsp;&nbsp;'+
+        '<a href="https://www.gettyimages.de/fotos/spinde"target="target2">Spind</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spind"target="target3">Spind</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Spind&id=substantiv%3ASpind%23Spind_mask"target="target4">Spind</a>',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Große Schilder wiesen den Weg zu den Schließfächern. Rath schaute sich um. Er fand die Nummer 57 in einer Reihe großer Blechschränke, die wie <b>Spinde</b> aussahen. (<i>Marlow</i>, 65)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Rath</i>: "Und was haben Sie dann mit dem Glas gemacht?" <i>Krömer</i>: "Na, was wohl? Ich hab\'s behalten. Kann man ja immer gebrauchen, so\'n kleines Glas. Ist praktisch. Mit Schraubverscluss." "Sie benutzen es hier in der Küche?" "Ne. Ich hab\'s mitgenommen.." "Mitgenommen? Wohin?" "Ist in meinem <b>Spind</b>. Muss ich holen, soll ich?" "Ich bitte darum." Krömer ging nach hinten, wo die <b>Spinde</b> des Küchenpersonals standen, und kehrte kurz darauf mit einem kleinen, verschließbaren Glas zurück... (<i>Olympia</i>, 153)',
 ],
 'Männchen machen, Männchenmachen': [
     '<b>Männchen machen, Männchenmachen</b>: stand up straight (on hind legs, at attention)'+
@@ -7803,10 +7838,18 @@ sabbern: [
 'verschnörkelt, verschnörkeln': [
     '<b>verschnörkelt</b>: squiggly, twirly, baroque'+
     '<br><b>verschnörkeln</b>: squiggle, embellish, adorn with flourishes'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnoerkelt"target="target1">verschnörkelt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschn%C3%B6rkeln?o=verschn%C3%B6rkelt"target="target2">verschnörkeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verschnoerkelt"target="target3">verschnörkelt</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschn%C3%B6rkeln&id=verb%3Averschno3rkeln"target="target4">verschnörkeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/verschnoerkelt"target="target1">verschnörkelt</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/verschn%C3%B6rkeln?o=verschn%C3%B6rkelt"target="target2">verschnörkeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verschnoerkelt"target="target3">verschnörkelt</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=verschn%C3%B6rkeln&id=verb%3Averschno3rkeln"target="target4">verschnörkeln</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Elisabeth Spindler öffnete eine große Doppelflügeltür, hinter der sich bestimmt nicht die Putzkammer verbarg. KAPELLE verrieten <b>verschnörkelte</b> Buchstaben an der Wand. (<i>Lunapark</i>, 431)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Fritze hatte recht gehabt. Auf dem schwarzen Blechdeckel war ein <b>verschnörkelter</b> Schriftzug gedruckt. ESPLANADE. Rath musste sich den Namen nicht notieren, das <i>Esplanade</i> war eines der bekanntesten Hotels der Stadt.. Die Adresse an der Walter Morgan abgestiegen war. (<i>Olympia</i>, 153)',
 ],
 direktemang: [
     '<b>direktemang</b>: direct(ly), straight'+
@@ -8892,6 +8935,7 @@ Lastkahn: [
     '<i>Gereon</i>: "Dann erzähl einfach, was du gesehen hast." "Also," begann Fritze. "Er ist vorher aufgestanden, der Ami. Bevor er umgefallen ist, meine ich. Hat sich an die Brust gefasst und über den ganzen Tisch <b>gekotzt</b>." (<i>Olympia</i>, 142)',
     'Fritze schwieg. Er versuchte sich zu erinnern, wie das war, als der dicke Mister Morgan umkippte. Wie er rot anlief, über den Tisch <b>kotzte</b> und dann umfiel. Die nutzlose Wiederbelebung. Die Kellner, die das voll<b>gekotzte</b> Geschirr einsammelten. (<i>Olympia</i>, 144)',
     '<i>Rath zu Hüppe</i>: "Sie haben mit Herbert Ehlers am Samstag den Tisch von Mister Morgen bedient.. Ist Ihnen da etwas aufgefallen?" "Was meinen Sie? Dass da einer tot umgefallen ist?".. "Etwas, was auf dem Tisch stand." "Das war alles voll<b>gekotzt</b>, das kann ich Ihnen sagen." (<i>Olympia</i>, 151-52)',
+    '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum Spülen gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen voll<b>gekotzten</b> Mist wegspülen. Und als ich den Spülkorb ausräume, finde ich da so ein Glas... War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s gespült haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den Schüsseln und so war. Schade um das ganze Essen, aber das voll<b>gekotzte</b> Zeug war ja nicht mal mehr was für den Schweineeimer." (<i>Olympia</i>, 152-53)',
 ],
 'läutern, Läuterung': [
     '<b>läutern</b>: cleanse, purge, purify'+
@@ -9465,21 +9509,27 @@ Backfisch: [
 // ä Ä ö Ö ü Ü ß  Bernhard Weiß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 hadern: [
     '<b>hadern</b>: quarrel, wrangle with; bemoan sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hadern"target="target1">hadern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/hadern"target="target2">hadern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hadern"target="target3">hadern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=hadern"target="target4">hadern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/hadern"target="target1">hadern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/hadern"target="target2">hadern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/hadern"target="target3">hadern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=hadern"target="target4">hadern</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Ob es richtig gewesen war, sich ausgerechnet jetzt auf Roeders Stelle zu bewerben? Jetzt, wo er an einem Fall arbeitete, von dem von vornherein klar war, dass er ihn zu den nassen Fischen stellen musste? Rath <b>haderte</b> mit sich, als er über die langen Gänge der Burg zurück in Roeders kleines Büro spazierte. Nicht der ideale Augenblick, zugegeben, aber würde es je einen besseren geben? (<i>Der nasse Fisch</i>, 306)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Als ihm (<i>Rath</i>) klar wurde, woher er dieses Gesicht kannte.., ahnte er mit einem Mal, was Charly, die seit Wochen, seit Monaten schlecht gelaunte und mit ihrem und Deutschlans <b>hadernde<b> Charly, vor ein paar Tagen hier gewollt hatte. (<i>Lunapark</i>, 294)',
+    'Als ihm (<i>Rath</i>) klar wurde, woher er dieses Gesicht kannte.., ahnte er mit einem Mal, was Charly, die seit Wochen, seit Monaten schlecht gelaunte und mit ihrem und Deutschlans <b>hadernde</b> Charly, vor ein paar Tagen hier gewollt hatte. (<i>Lunapark</i>, 294)',
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Das ganze Wochenende hatte Charly mit sich <b>gehadert</b> und sich gefragt, wie sie die Sache angehen sollte, dann aber gemerkt, dass sie gar nicht anders konnte, als mit offenen Karten zu spielen. (<i>Marlow</i>, 66)',
     'Das einzige, was du (<i>Magnus/Marlow</i>) noch von Chen-Lu hören solltest, war Vaters lapidare Mitteilung, ein Jahr nach deiner Ankunft im Internat, dass die Dolmetscherin den chinesischen Chauffeur der Familie geheiratet und einen gesunden Jungen (<i>Liang Kuen-Yao</i>) zur Welt gebracht hat. Du weißt noch, wie sehr dich die Eifersucht quälte, wie verzweifelt du mit deinem Schicksal <b>gehadert</b> hast, wie wütend du warst. (<i>Marlow</i>, 165)',
     'Als er (<i>Rath</i>) die Burg pünklich zum Dienstschluss verließ, hatte er schlechte Laune... Je länger er beim LKA (<i>Landeskriminalamt</i>) arbeitete, desto mehr <b>haderte</b> er mit seinem Wechsel (<i>von der Mordinspektion</i>). (<i>Marlow</i>, 428)',
     // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
     'Es was spät geworden. Grundsätzlich machte ihm (<i>Wilhelm Kessler</i>) das nichts aus, einen pünktlichen Feierabend hatte man in diesem Beruf ohnhin nie. Wenn er es dann allerdings nicht einmal mehr zur Abendvorstellung schaffte, <b>haderte</b> er doch mit seinem Schicksal. Ab und an ein Spielfilm, das war der einzige Luxus, den er sich erlaubte, seit er in dieser verschlafenen Stadt sein zurückgezogenes Leben lebte. (<i>Olympia</i>, 10)',
+    'Hauptsache widersprechen. So war Charly, wenn sie nicht die allerbeste Laune hatte. Rath beschloss, es zu erdulden. Wahrschleinlich <b>haderte</b> sie mit sich, das sie sich hatte überreden lassen. Vielleicht ärgerte sie sich auch nur darüber, dass das Spektakel hier (<i>im Olympiastadion</i>) sie mehr beeindruckte, als sie sich eingestehen wollte... (<i>Olympia</i>, 155)',
 ],
 brenzlig: [
     '<b>brenzlig</b>: precarious, dicey; smells like burning'+
@@ -13659,6 +13709,7 @@ Deckel: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Fritze</i>: "Da war noch was Komisches, auf dem Tisch. Was da irgendwie nicht hingehörte." Gereon horchte auf und zog die Augenbrauen hoch. "Ein Gefäß. Wie\'n kleines Marmeladenglas.. War ja kein Marmeladenglas, sah nur so aus. Vielleicht auch ein Gurkenglas, mit so\'nem Blech<b>deckel</b> zum Schrauben." (<i>Olympia</i>, 144)',
+    'Fritze hatte recht gehabt. Auf dem schwarzen Blech<b>deckel</b> war ein verschnörkelter Schriftzug gedruckt. ESPLANADE. Rath musste sich den Namen nicht notieren, das <i>Esplanade</i> war eines der bekanntesten Hotels der Stadt.. Die Adresse an der Walter Morgan abgestiegen war. (<i>Olympia</i>, 153)',
 ],
 dezent: [
     '<b>dezent</b>: discreet, inconspicuous; refined; subtle'+
@@ -14076,9 +14127,14 @@ einbuchten: [
     'Vor zehn Jahren hab ich (<i>Rath</i>) dich (<i>Ede</i>) wegen Taschendiebstahls in mehreren Fällen <b>einbuchten</b> lassen, und du willst mir erzählen, dass du jetzt in deinem Lehrberuf arbeitest? (<i>Märzgefallene</i>, 22)',
 ],
 einhaken: [
-    '<b>sich einhaken</b>:  link arms with somebody; &nbsp;<b>einhaken</b>: hook, hitch sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einhaken"target="target1">einhaken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einhaken"target="target2">einhaken<a/>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einhaken"target="target3">einhaken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einhaken&id=verb%3Aeinhaken"target="target4">einhaken<a/>',
+    '<b>einhaken</b>: hook, hitch sth.'+
+    '<br><b>sich einhaken</b>: link arms with somebody'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/einhaken"target="target1">einhaken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/einhaken"target="target2">einhaken<a/>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/einhaken"target="target3">einhaken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=einhaken&id=verb%3Aeinhaken"target="target4">einhaken<a/>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der Laden war brechend voll. Das Stimmengewirr übertönte fast die Musik. Sogar einen Sänger leistete man sich, der die jüngsten Stimmungsschlager zum besten gab. Ein paar Gäste sangen mit, hatten <b>sich eingehakt</b> und schunkelten an ihren Tischen... (<i>Der stumme Tod</i>, 98-99)',
@@ -14086,11 +14142,14 @@ einhaken: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Jetzt schepperte aus dem Lautsprecher wieder der unvermeidliche Willi Ostermann, die Leute hatten <b>sich eingehakt</b> und schunkelten. (<i>Märzgefallene</i>, 50)',
     'Er (<i>Rath</i>) aber stand auf einem Balkon an der Rückseite des Rathauses und schunkelte mit Leuten, die er nicht kannte; links eine grell geschminkte, dralle Dame mit gelben Strohzöpfen,... rechts ein Herr mit Ärmelschonern, der dreinblickte, als würde er sich viel lieber direkt bei dem Bärbelchen an Raths linker Seite <b>einhaken</b>. (<i>Märzgefallene</i>, 50)',
-    'Charly seufzte....Ich bin einfach keine gute Polizistin.  Oh, oh, sagte Greta und <b>hakte sich</b> bei ihr <b>ein</b>.   (<i>Märzgefallene</i>, 63)',
+    'Charly seufzte....Ich bin einfach keine gute Polizistin.  Oh, oh, sagte Greta und <b>hakte sich</b> bei ihr <b>ein</b>. (<i>Märzgefallene</i>, 63)',
     'Die Mickymäuse hatten ganz in der Nähe gestanden, im Schatten des Domes. Sie hatten sich zum Schunkeln <b>eingehakt</b>, und irgendwann schließlich waren sie alle zusammen in dieser Kneipe am Eigelstein gelandet.... (<i>Märzgefallene</i>, 71)',
     'Er (<i>Rath</i>) holte seine braunlederne Aktentasche, packte den Roddeck-Roman hinein und das Vernehmungsprotokoll. "Arbeit für zu Hause", sagte er der Sekretärin, die ihm fragend zuschaute, <b>hakte</b> die Hundeleine wieder <b>ein</b> und griff zu seinem Mantel.... (<i>Märzgefallene</i>, 149)',
     'Gereon Rath wählt SPD! Wenn sein Vater das erfahren sollte, der würde ihn glatt enterben! Wenigstens aber einen Nervenzusammenbruch erleiden. Und bei dieser Vorstellung lächelte Rath still in sich hinein, als er das Wahllokal mit Charly verließ.... Charly würdigte die Braunhemden keines Blickes und <b>hakte sich</b> bei ihm <b>ein</b>. (<i>Märzgefallene</i>, 201-02)',
     'Jetzt in der Dunkelheit sah die Stadt aus wie immer.... Rath bot Charly den Arm, und sie <b>hakte sich ein</b>. Lächelte ihn an. Na also. Alles wie früher. (<i>Märzgefallene</i>, 348)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wo müssen wir denn hin?", fragte Charly, als sie sich unter dem Schirm bei ihm <b>eingehakt</b> hatte, und Rath schaute auf die Eintrittskarten. "Südeingang", las er. "Oberring Block vierzehn, Reihe achtzehn." (<i>Olympia</i>, 154)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 einkriegen: [
@@ -17817,9 +17876,14 @@ kahl: [
 //  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'karren, Karren': [
     '<b>karren</b>: cart sth. somewhere'+
+    '<br><i>trennbares Präfix</i>: <b>heran-</b>'+
     '<br>der <b>Karren</b>,-: cart, (wheel)barrow, trolley'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/karren"target="target1">karren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Karren"target="target2">Karren</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/karren"target="target3">karren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Karren"target="target4">Karren</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/karren"target="target1">karren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Karren"target="target2">Karren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/karren"target="target3">karren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/Karren"target="target4">Karren</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Wolter</i>: "Solche Aktionen (<i>Razzien</i>) hat\'s früher regelmäßig gegeben. Damals haben wir die Leute lastwagenweise zum Alex <b>gekarrt</b>..." (<i>Der nasse Fisch</i>, 160)',
@@ -17834,6 +17898,9 @@ kahl: [
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Doch auch von den Soldaten, die Marlow (<i>die Stadt</i>) dem Weltkrieg geopfert hat, haben nur die wenigsten das Meer sehen dürfen, der Großteil ist in Eisenbahnwaggons zur Front <b>gekarrt</b> worden, direkct in den Schlamm der Schützengräben, in dem die allermeisten dann auch verreckt sind. (<i>Marlow</i>, 7)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Freundliche Herren in weißen Hosen und blauen Uniformjacken kontrollierten ihre Karten und wiesen ihnen den Weg zum richtigen Eingang und zum richtigen Aufgang (<i>des Olympiastadions</i>). Überhaupt waren alle so zuvorkommend und höflich, dass es einem nicht geheuer sein wollte. Das war nicht das Berlin, das Rath kannte. Wahrscheinlich hatten sie all die freundlichen Kartenabreißer und Platzanweiser aus anderen Städten <b>herangekarrt</b>. (<i>Olympia</i>, 155)',
 ],
 Kaschemme: [
     'die <b>Kaschemme</b>,-<b>n</b>: dive, gin palace'+
@@ -19917,15 +19984,25 @@ Mühle: [
 ],
 Murmel: [
     'die <b>Murmel</b>,-<b>n</b>: marble'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Murmel"target="target1">Murmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Murmel"target="target2">Murmel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murmel"target="target3">Murmel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Murmel"target="target4">Murmel</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Murmel"target="target1">Murmel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Murmel"target="target2">Murmel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murmel"target="target3">Murmel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Murmel"target="target4">Murmel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '(<i>Doktor</i>) Schwartz hatte die Schädeldecke fein rund ausgesägt, um an das Gehirn zu kommen.. Wenigstens hatte er Rath das Geräusch der Knochensäge nicht zugemutet, das hatte er immer am schlimmsten empfunden, viel schlimmer als all das Blut beispielsweise oder der Anblick eines gehäuteten Gesichts, aus dessen Augenhöhlen die Augäpfel wie zwei Glas<b>murmeln</b> stierten. (<i>Der nasse Fisch</i>, 294)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den Hefter in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein Geplänkel! Kommen Sie bitte zur Sache!" Rath schaute zu Böhm, der ihn unterbrochen hatte. Dessen Augen starrten ihn so unbeweglich an wie zwei festgefrorene Glas<b>murmeln</b>. Gut, dachte Rath, dann die volle Breitseite, stell dein Licht nicht unter den Scheffel! (<i>Der stumme Tod</i>, 198-99)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blutschlieren bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige <b>Murmel</b>... Der Sehnerv hing an seinem blutverschmierten Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)',
-],
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Rath</i>: "Und was haben Sie dann mit dem Glas gemacht?" <i>Krömer</i>: "Na, was wohl? Ich hab\'s behalten... Ist praktisch. Mit Schraubverscluss." "Sie benutzen es hier in der Küche?" "Ne. Ich hab\'s mitgenommen.." "Mitgenommen? Wohin?" "Ist in meinem Spind. Muss ich holen, soll ich?" "Ich bitte darum." Krömer ging nach hinten, wo die Spinde des Küchenpersonals standen, und kehrte kurz darauf mit einem kleinen, verschließbaren Glas zurück... Kröner hatte es, aus welchem Grund auch immer, mit Glas<b>murmeln</b> gefüllt. (<i>Olympia</i>, 153)',
+],  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'murren, mürrisch': [
     '<b>murren</b>: grumble, grouse'+
@@ -20391,13 +20468,21 @@ Putz: [
 ],
 Pegel: [
     'der <b>Pegel</b>,-: water level, depth gauge'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pegel"target="target1">Pegel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Pegel"target="target2">Pegel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pegel?q=Pegel"target="target3">Pegel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Pegel"target="target4">Pegel</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Pegel"target="target1">Pegel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Pegel"target="target2">Pegel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/pegel?q=Pegel"target="target3">Pegel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Pegel"target="target4">Pegel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath ließ die Kirche rechts liegen und ging den Kurfürstendamm hoch, quetschte sich durch eine Gruppe laut lachender Touristen, denen ihr Alkohol<b>pegel</b> deutlich anzumerken war. (<i>Der nasse Fisch</i>, 93)',
     'Wolter wirkte nicht enttäuscht, als sich die beiden Kollegen wenige Minuten später von ihm verabschiedeten. Die leichte Rötung seines Gesichts verriet den Alkohol<b>pegel</b>, den er inzwischen erreicht hatte. (<i>Der nasse Fisch</i>, 173)',
     'Die Meute hatte Blut geleckt.. Eine Meute hungriger Pressewölfe umlagerte den Polizeipräsidenten (<i>Zörgiebel</i>).. Noch einmal hob er die Hände, und für einen Moment schien es, als würde der Geräusch<b>pegel</b> durcheinanderrufenden Stimmen tatsächlich ein wenig sinken. (<i>Der nasse Fisch</i>, 307)',
     'Der Geräusch<b>pegel</b> stieg wieder an, doch es war nur ein kurzes Anschwellen. (<i>Der nasse Fisch</i>, 309)',
+    // Olympia
+    '<span class="bookTitle"><u>Olypia</u></span>',
+    'Das Stadion [<i>Olympiastadion</i>] war vielleicht zu zwei Dritteln gefüllt, und es herrschte bereits ein unglaublicher Geräusch<b>pegel</b>. Die Stimmem von zigtausend Menschen, die durcheinanderredeten und ihre Pläzte suchten. (<i>Olympia</i>, 155)',
 ],
 'Pest an den Hals': [
     'jmdm. die <b>Pest an den Hals</b> wünschen: curse sb., wish sb. would drop dead'+
@@ -22564,8 +22649,9 @@ Spalier: [
     '"Zunächst einmal reicht mir den Dienstplan von Samstag", sagte er (<i>Rath</i>) also, "Sie haben hier doch bestimmt so etwas.".. "Müsste ich den Chef fragen", sagte der <b>Spüler</b>. (<i>Olympia</i>, 59)',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holzvertäfelten Wand, und Rath betrat die Küche, folgte dem <b>Spüler</b> quer durch den Raum... "Da hinten steht der Chef." Der <b>Spüler</b> wies auf eine Gruppe von vier Männer, alle in Weiß... "Der mit dem Schnurrbart." (<i>Olympia</i>, 59)',
     'Im Speisesaal 12 war nicht mehr viel los, nur eine Handvoll weißgekleideter Männer war mit den letzten Arbeiten des Tages beschäftigt. In der Küche rauschte nur noch die <b>Spülmaschine</b>, während die Tische im Saal bereits für das Früstück eingedeckt wurden. (<i>Olympia</i>, 98)',
-    '<i>Rath zu Hüppe</i>: "Sie haben mit Herbert Ehlers am Samstag den Tisch von Mister Morgen bedient.. Ist Ihnen da etwas aufgefallen?" "Was meinen Sie? Dass da einer tot umgefallen ist?".. "Etwas, was auf dem Tisch stand." "Das war alles vollgekotzt, das kann ich Ihnen sagen. Und Ecki und ich, wir mussten den Mist in die <b>Spül</b>küche bringen..." "Was haben Sie denn alles in die <b>Spül</b>küche gebracht?" "Na, hab ich doch gesagt: Was auf dem Tisch stand, Teller, Gläser, Schüsseln, Besteck. Was da eben so steht." (<i>Olympia</i>, 151-52)',
-    '<i>Rath</i>: "Gut. Aber alles, was auf dem fraglichen Tisch stand, haben Sie in die <b>Spül</b>küche gebracht." "Mensch, wie oft sollen wir das noch wiederholen? Ja, haben wir." (<i>Olympia</i>, 152)',
+    '<i>Rath zu Hüppe</i>: "Sie haben mit Herbert Ehlers am Samstag den Tisch von Mister Morgen bedient.. Ist Ihnen da etwas aufgefallen?" "Was meinen Sie? Dass da einer tot umgefallen ist?".. "Etwas, was auf dem Tisch stand." "Das war alles vollgekotzt, das kann ich Ihnen sagen. Und Ecki und ich, wir mussten den Mist in die <b>Spülküche</b> bringen..." "Was haben Sie denn alles in die <b>Spülküche</b> gebracht?" "Na, hab ich doch gesagt: Was auf dem Tisch stand, Teller, Gläser, Schüsseln, Besteck. Was da eben so steht." (<i>Olympia</i>, 151-52)',
+    '<i>Rath</i>: "Gut. Aber alles, was auf dem fraglichen Tisch stand, haben Sie in die <b>Spülküche</b> gebracht." "Mensch, wie oft sollen wir das noch wiederholen? Ja, haben wir." "Wer hatte denn <b>Spüldienst</b> an diesem Tag?"... "Na, derselbe wie heute, oder, Ecki?" Der Dicke nickte. "Willi", sagte er. "Also: Wilhelm Krömer." "Und wo finde ich den?" "Na, wo wohl? An der <b>Spülmaschine</b>." (<i>Olympia</i>, 152)',
+    '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum <b>Spülen</b> gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist <b>wegspülen</b>. Und als ich den <b>Spülkorb</b> ausräume, finde ich da so ein Glas... War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s <b>gespült</b> haben?" "Was weiß ich, da achtet man nicht drauf..."  (<i>Olympia</i>, 152-53)',
 ],
 Schlüpfer: [
     'der <b>Schlüpfer</b>,-: briefs, underpants'+
@@ -23681,8 +23767,12 @@ schunkeln: [
 ],
 Schürze: [
     'die <b>Schürze</b>,-<b>n</b>: apron, skirt'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuerze"target="target1">Schürze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCrze"target="target2">Schürze</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuerze#Sch%C3%BCrze"target="target3">Schürze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCrze"target="target4">Schürze</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schuerze"target="target1">Schürze</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Sch%C3%BCrze"target="target2">Schürze</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schuerze#Sch%C3%BCrze"target="target3">Schürze</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Sch%C3%BCrze"target="target4">Schürze</a>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath stiefelte bis zur vierten Etage hoch und klingelte. Es dauerte einen Moment, dann öffnete eine Frau in einer fleckigen <b>Schürze</b>, die noch an irgendtwas kaute. (<i>Der stumme Tod</i>, 115)',
@@ -23706,44 +23796,67 @@ Schürze: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Gegenüber der Fensterreihe.. befand sich eine weitere, die aussah wie die Schalterwand einer Bank, nur dass man hinter den Schaltern eine Küche erkennen konnte, gestapelte Edelstahltöpfe, Pfannen und Kochlöffel, und hinter dem groß Elektroherd eine Spülmaschine, die ein weiß<b>geschürzter</b> Mann mit schmutzigem Geschirr fütterte. (<i>Olympia</i>, 58)',
     '"Zunächst einmal reicht mir der Dienstplan von Samstage," sagte er (<i>Rath</i>) also, "Sie haben hier doch bestimmt so etwas." <i>der Spüler</i>: "Klar haben wir Dienstpläne. Sind ja nicht bei den Hottentoten." Rath erwiderte nichts, er schaute den Mann mit der nassen <b>Schürze</b> nur an. Es wirkte. (<i>Olympia</i>, 59)',
+    'Wilhelm Krömer war genau der Mann, der Rath vor vier Tagen als erster in der Küche über den Weg gelaufen war. Der mit der durchnässten <b>Schürze</b>. (<i>Olympia</i>, 152)',
 ],
 'Schüssel, Kloschüssel': [
     'die <b>Schüssel</b>,-<b>n</b>: bowl, dish, pan'+
     '<br>die <b>Kloschüssel</b>: toilet bowl'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sie (<i>Gereon und Charly</i>) betrieben ein wenig Katzenwäsche an der Wasch<b>schüssel</b>, die auf dem altmodischen Frisiertisch in seinem Zimmer stand.  (<i>Der nasse Fisch</i>, 193)',
     'Als Rath die Tür (<i>zur Toilette</i>) öffnete, was es still in dem gekachelten Raum. Niemand schien hier zu sein. Dennoch schloss er sich in einer Kabine ein.. und öffnete den Klodeckel. Wieder zog er die Brieftasche aus dem Mantel. Schnell hatte er die Lignose-Kugel herausgeholt... Nun gab es eine bessere Verwendung für das Geschoss. Rath öffnete die Blechdose und ließ die Mauserkugel in die Toiletten<b>schüssel</b> fallen.. Durch das Wasser in der <b>Schüssel</b> zogen sich rote Schlieren, die sich langsam in blassrote Wolken auflösten. (<i>Der nasse Fisch</i>, 298)',
     'Nachdem er (<i>Rath</i>) die Spülung betätigt hatte, wartete er noch ein Weilchen, bis sich die Strudel in der Toiletten<b>schüssel</b> wieder beruhigt hatten. (<i>Der nasse Fisch</i>, 299)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Gereon</i>) war viel zu früh in der Burg.. Bevor er hineinging, drehte er noch eine Runde mit Kirie.. Dennoch waren sie die Ersten im Büro. Rath schloß auf, stellte Kirie eine <b>Schüssel</b> Wasser hin und hängte seine Sachen an die Garderobe. (<i>Märzgefallene</i>, 180)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Er (<i>Helmut Reinhold</i>) führte sie (<i>Charly</i>) in eine bescheidene Wohnküche, in der er einen Kessel auf den Herd stellte und für Kirie Wasser in eine <b>Schüssel</b> füllte. (<i>Lunapark</i>, 100)',
     'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und hockte sich vor die <b>Kloschüssel</b>. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Gut gesättigt fand sich Rath schließlich in einer fensterlosen Kammer wieder, in der ein großes, weiches Bett stand, daneben eine Frisierkommode mit Wasch<b>schüssel</b> und Waschkrug. Über der Tür hing ein großes Kruzifix. (<i>Marlow</i>, 266)',
     'Rath verstaute den Inhalt seiner Reisetasche in dem kleinen Schrank, rasierte sich über der Wasch<b>schüssel</b>, zog den Scheitel mit dem nassen Kamm nach und verließ das Haus auf dem schnellsten Weg. (<i>Marlow</i>, 266)',
     'Rath tastete nach der Armbanduhr. Halb sieben. Obwohl er am liebsten liegen geblieben wäre, stand er auf, beugte sich über die Wasch<b>schüssel</b> und goss sich kaltes Wasser ins Gesicht, kämmte sich die Haare nach hinten und zog sich an. (<i>Marlow</i>, 274)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum Spülen gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist wegspülen. Und als ich den Spülkorb ausräume, finde ich da so ein Glas, wo ich nicht weiß, wo das her ist. War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s gespült haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den <b>Schüsseln</b> und so war."  (<i>Olympia</i>, 152-53)',
 ],
 'Kloschüssel, Schüssel': [
     'die <b>Schüssel</b>,-<b>n</b>: bowl, dish, pan'+
     '<br>die <b>Kloschüssel</b>: toilet bowl'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schuessel"target="target1">Schüssel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Sch%C3%BCssel"target="target2">Schüssel</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schuessel#Sch%C3%BCssel"target="target3">Schüssel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Sch%C3%BCssel"target="target4">Schüssel</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sie (<i>Gereon und Charly</i>) betrieben ein wenig Katzenwäsche an der Wasch<b>schüssel</b>, die auf dem altmodischen Frisiertisch in seinem Zimmer stand.  (<i>Der nasse Fisch</i>, 193)',
     'Als Rath die Tür (<i>zur Toilette</i>) öffnete, was es still in dem gekachelten Raum. Niemand schien hier zu sein. Dennoch schloss er sich in einer Kabine ein.. und öffnete den Klodeckel. Wieder zog er die Brieftasche aus dem Mantel. Schnell hatte er die Lignose-Kugel herausgeholt... Nun gab es eine bessere Verwendung für das Geschoss. Rath öffnete die Blechdose und ließ die Mauserkugel in die Toiletten<b>schüssel</b> fallen.. Durch das Wasser in der <b>Schüssel</b> zogen sich rote Schlieren, die sich langsam in blassrote Wolken auflösten. (<i>Der nasse Fisch</i>, 298)',
     'Nachdem er (<i>Rath</i>) die Spülung betätigt hatte, wartete er noch ein Weilchen, bis sich die Strudel in der Toiletten<b>schüssel</b> wieder beruhigt hatten. (<i>Der nasse Fisch</i>, 299)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Gereon</i>) war viel zu früh in der Burg.. Bevor er hineinging, drehte er noch eine Runde mit Kirie.. Dennoch waren sie die Ersten im Büro. Rath schloß auf, stellte Kirie eine <b>Schüssel</b> Wasser hin und hängte seine Sachen an die Garderobe. (<i>Märzgefallene</i>, 180)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Er (<i>Helmut Reinhold</i>) führte sie (<i>Charly</i>) in eine bescheidene Wohnküche, in der er einen Kessel auf den Herd stellte und für Kirie Wasser in eine <b>Schüssel</b> füllte. (<i>Lunapark</i>, 100)',
     'Reinhold Gräf schaute auf die Uhr. Fünf Minuten blieben ihm noch. Er öffnete die Tür zur Herrentoilette, suchte sich eine freie Kabine und hockte sich vor die <b>Kloschüssel</b>. Ihm war speiübel, doch es kam nichts. Schließlich steckte er sich den Finger in den Hals, und es funktionierte. (<i>Lunapark</i>, 426)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Gut gesättigt fand sich Rath schließlich in einer fensterlosen Kammer wieder, in der ein großes, weiches Bett stand, daneben eine Frisierkommode mit Wasch<b>schüssel</b> und Waschkrug. Über der Tür hing ein großes Kruzifix. (<i>Marlow</i>, 266)',
     'Rath verstaute den Inhalt seiner Reisetasche in dem kleinen Schrank, rasierte sich über der Wasch<b>schüssel</b>, zog den Scheitel mit dem nassen Kamm nach und verließ das Haus auf dem schnellsten Weg. (<i>Marlow</i>, 266)',
     'Rath tastete nach der Armbanduhr. Halb sieben. Obwohl er am liebsten liegen geblieben wäre, stand er auf, beugte sich über die Wasch<b>schüssel</b> und goss sich kaltes Wasser ins Gesicht, kämmte sich die Haare nach hinten und zog sich an. (<i>Marlow</i>, 274)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum Spülen gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist wegspülen. Und als ich den Spülkorb ausräume, finde ich da so ein Glas, wo ich nicht weiß, wo das her ist. War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s gespült haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den <b>Schüsseln</b> und so war."  (<i>Olympia</i>, 152-53)',
 ],
 schütter: [
     '<b>schütter</b>: sparse, thin, scanty'+
@@ -24338,8 +24451,13 @@ Strippe: [
 //  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 stromern: [
     '<b>stromern</b>: roam'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stromern"target="target1">stromern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stromern"target="target2">stromern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/stromern"target="target3">stromern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stromern"target="target4">stromern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/stromern"target="target1">stromern</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/stromern"target="target2">stromern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://dictionary.cambridge.org/dictionary/german-english/stromern"target="target3">stromern</a>&nbsp;&nbsp;'+
+    '<a href="https://www.verbformen.com/?w=stromern"target="target4">stromern</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'In manchen Stunden war es schön, nicht allein durch die Stadt <b>stromern</b> zu müssen, manchmal hatte Fritze ihr (<i>Hannah</i>) sogar ein Lächeln entlocken können, wenn er mit seiner pfiffigen Art einen Apfel stibitzt oder einem Pelzkragenreichen eine Mark aus dem Portemonnaie geleiert hatte. (<i>Märzgefallene</i>, 252-53)',
     'Nach zwei Nächten unter einer warmen Decke mit einem richtigen Dach über dem Kopf war es nicht leicht, sich wieder an das Leben auf der Straße zu gewöhnen. Nach zwei Tagen... wieder allein durch die Gegend zu <b>stromern</b>. (<i>Märzgefallene</i>, 395)',

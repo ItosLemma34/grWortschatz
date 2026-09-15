@@ -57,7 +57,7 @@ const t = [
    'türken',  // türken: 
    'türmen', // türmen 
 //   'turteln', // turteln:  duplicate with Geturtel
-   'tuscheln',  // tuscheln: 
+   'tuscheln, Getuschel',  // duplicated 
 ];
 
 export default t;      

@@ -102,7 +102,7 @@ const b = [
 'bröckeln',  // bröckeln: 
 'Brocken',  // Brocken: 
 'brodeln',  // brodeln:
-'brüllen, an-, los-, Gebrüll', //   duplicated 
+'brüllen, Gebrüll',  // duplicated
 'brummen, brummig, Brummigkeit',   
 'Brüstung',  // Brüstung: 
 'brüten',  // brüten:

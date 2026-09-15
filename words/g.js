@@ -8,7 +8,7 @@ const g = [
 'Geäst, Ast',  //  duplicated  
 'Gebälk, Balken', //  duplicated  
 'Gebell', // Gebell:   duplicate with "bellen" if found
-'Gebrüll, brüllen, an-, los-',  //  duplicated 
+'Gebrüll, brüllen', // duplicated
 'Gebüsch, Busch',  //  duplicated 
 'gediegen',  // gediegen: 
 'Gedränge',  // Gedränge: 
@@ -87,6 +87,7 @@ const g = [
 'Gesumme, Gesause',  // duplicated
 'Getümmel',  // Getümmel: 
 'Geturtel',  // Geturtel:    duplicate, if found with turteln
+'Getuschel, tuscheln',  // duplicated
 'Gewebe',    // Gewebe: 
 'Gewehrkolben',  // Gewehrkolben:  
 'Gewese',    // Gewese:  

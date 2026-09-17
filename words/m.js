@@ -30,7 +30,8 @@ const m = [
 'meutern', // meutern:
 'mickrig',  // mickrig: 
 'miefig, Mief',   
-'mimen', // mimen: 
+'mimen', // mimen:
+'Mischpoke',  // Mischpoke: 
 'missraten',  // missraten:
 'mit allen Wassern gewaschen', //  duplicated 
 'mit einem Affenzahn',   // duplicated

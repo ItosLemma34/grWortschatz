@@ -47,7 +47,7 @@ const a = [
 'am Wickel haben',  // duplicated
 'an den Pranger',  
 'an der Backe haben',  
-'an die große Glocke hängen',   
+'an die große Glocke hängen', // duplicated  
 'anbändeln',    // anbändeln: 
 'anberaumen',  // anberaumen: 
 'anbiedern, Anbiederung', 

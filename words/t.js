@@ -19,7 +19,7 @@ const t = [
    'Tonne',  // Tonne:      
    'torkeln', // torkeln: 
    'tosen, tosend', // 
-   'Tracht Prügel', // 
+   'Tracht, Tracht Prügel',  
    'trachten',  // trachten:
    'traktieren',  // traktieren:
    'tranchieren', // tranchieren: 
@@ -40,7 +40,7 @@ const t = [
    'trollen',   // trollen: 
    'Tropen',  // Tropen: 
    'Tropf',  // Tropf:  
-   'Tropfen, tropfen, ab-, tröpfeln',      
+   'Tropfen, tropfen, tröpfeln',      
    'Tross/Troß',  
    'Trost, nicht bei T. sein, trösten',    
    'Trott, trotten',   

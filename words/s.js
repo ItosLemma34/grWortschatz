@@ -37,8 +37,9 @@ const s = [
 'schellen, zer-',   
 'Schemel',  // Schemel: 
 'scheppern',  // scheppern: 
-'Scherbe',  // Scherbe:   
+'Scherbe',  // Scherbe: 
 'Schere, scheren, aus-',  
+'Scherge', // Scherge:  
 'scheuern',  // scheuern: 
 'Schickse',  // Schickse:
 'Schieblehre', // Schieblehre:  

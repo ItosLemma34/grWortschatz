@@ -64,6 +64,7 @@ const h = [
 'hinterlistig',  // hinterlistig: 
 'hinters Licht führen', 
 'Hippe',  // Hippe: 
+'hissen', // hissen:
 'hobeln', // hobeln: 
 'hochgestochen', // hochgestochen: 
 'Hochstapler',  // Hochstapler:

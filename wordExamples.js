@@ -11,6 +11,7 @@ export const wordExamples = {
     // Olympia gönnen 208 211  220  288 299  326  432
    // 'Reiz  (<i>Olympia</i>, 160)',
     // Der stumme Tod auswischen 331 
+    // Olympia hissen 191
 // Sims Olympia  424 (twice)  425  
 // Der stumme Tod   368  Klette      // next: abwälzen:   complete: Staub,.... 
 //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
@@ -62,7 +63,6 @@ export const wordExamples = {
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  [<i>Olympiastadion</i>]  im Olympischen Dorf
-// FINISH:
 /*
 zzz: [  
     '<b>zzz</b>: '+
@@ -94,33 +94,18 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
-// FINISH:
 hissen: [  
-    '<b>hissen</b>: hoist sth. (eg, sails, a flag); '+
+    '<b>hissen</b>: hoist sth. (eg, sails, a flag);'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/hissen"target="target1">hissen</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/hissen"target="target2">hissen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/hissen"target="target3">hissen</a>&nbsp;&nbsp;'+
         '<a href="https://www.verbformen.com/?w=hissen&id=verb%3Ahissen"target="target4">hissen</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Der Tross der Offiziellen schritt gemächlich über die Aschenbahn zur Treppe hinüber, die hinauf zur Ehrentribüne führte. Oben angekommen, nahmen die Herrschaften.. auf bequemen Stühlen Platz. Hitler saß ganz vorne, ihm zu Ehren wurde eine Hakenkreuzstandarte in der Loge <b>gehisst</b>. (<i>Olympia</i>, 158)',
+    // Olympia hissen 191
 ],
 Scherge: [  
     'der <b>Scherge</b>,-<b>n</b>: henchman, thug'+
@@ -1324,22 +1309,26 @@ Schlaufe: [
     '<span class="bookTitle"><u>Marlow</u></span>',  
     'Der Dollar ist die einzige Währung, die derzeit im <i>Venuskeller</i> akzeptiert wird... Wo sonst kann man Drogen und Mädchen ohne den Schmuddelgeruch der Straße erwerben? Und die Kunden, die genau dies wollen, zahlen dafür jeden Preis. In amerikanischer Währung. So hast du (<i>Marlow</i>) das Risiko des Wechselkurses, das in der galoppierenden Inflation immer größer geworden ist, auf deine Kundschaft <b>abgewälzt</b>. (<i>Marlow</i>, 479-80)',
 ],
-'Trost, nicht bei T. sein, trösten': [  
-    'der <b>Trost</b>: consolation, solace'+
-    '<br><b>trösten</b>: comfort, console so.'+
+'trösten, Trost, nicht bei T. sein': [  
+    '<b>trösten</b>: comfort, console so.'+
+    '<br>der <b>Trost</b>: consolation, solace'+
     '<br><b>nicht bei Trost sein</b>: be crazy, out of one\'s mind'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Trost"target="target1">Trost</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/tr%C3%B6sten"target="target2">trösten</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/nicht%20bei%20Trost%20sein"target="target3">nicht bei Trost sein</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trost"target="target4">Trost</a>'+
-        '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=tr%C3%B6sten&id=verb%3Atro3sten"target="target5">trösten</a>'+
-        '&nbsp;&nbsp;<a href="https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/nicht+ganz+bei+Trost"target="target6">nicht bei Trost sein</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/troesten"target="target1">trösten</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Trost"target="target2">Trost</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/nicht%20bei%20Trost%20sein"target="target3">nicht bei Trost sein</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=tr%C3%B6sten&id=verb%3Atro3sten"target="target4">trösten</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trost"target="target5">Trost</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/nicht+ganz+bei+Trost"target="target6">nicht bei Trost sein</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
     '<i>Wolter</i>: "Ist aber gar nicht so einfach, da (<i>in die Mordkommission</i>) reinzukommen, Gennats Leute sind handverlesen. Da musst du schon einen Knüller hinlegen. Einen echten Knüller. Ein fickener Kaiser reicht da nicht." Er lachte. "Aber <b>tröste dich</b>: Auch wir normalsterblichen Kriminalbeamten dürfen ab und zu mal im Olymp arbeiten. Die Inspektion A leiht sich regelmäßig Beamte aus anderen Inspektionen aus. (<i>Der nasse Fisch</i>, 32)',
     '"Mörder!", rief er (<i>der Witwer</i>) und stürzte sich auf Wolter. Rath riss ihn zurück und nahm ihn in den Polizeigriff. "Beruhigen Sie sich doch", sagte er. Der Mann zappelte noch, wurde aber ruhiger und fing schließlich an zu schluchzen. Rath klopfte ihm <b>tröstend</b> auf die Schulter. (<i>Der nasse Fisch</i>, 75)',
     'Wolter befahl dem Uniformierten draußen auf dem Gang, ein Auge auf den Frackträger zu werfen, und ging mit Rath nach draußen. Der Onkel zog ihn in eine Nische, die zum Lichthof führte. "<b>Bist</b> du noch <b>bei Trost</b>?", zischte er, als sie unter sich waren. "Du kannst doch nicht einfach so in mein Büro stürmen und ein Verhör unterbrechen." (<i>Der nasse Fisch</i>, 265-66)',
     '<i>Gennat</i>: ".. Nicht, dass Sie das <b>trösten</b> könnte, Herr Rath: Aber es wäre nicht das erste Mal, dass ein Polizist einen Kollegen ermordet hat." Rath nickte. <i>Wenn der Budda wüsste, wie nah er mit diesem Satz an der Wahrheit vorbeischrammte</i>! (<i>Der nasse Fisch</i>, 398)',
     '"Nun machen Sie sich mal keine Vorwürfe, guter Mann! Darüber haben wir doch gesprochen", <b>tröstete</b> ihn der Schupo. (<i>Der nasse Fisch</i>, 434)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der einzige Mensch, der einen zu dieser Umgebung passenden Abendanzug trug, saß etwas abseits auf einem der Klappstühle, die rings um das Parkett zwischen Scheinwerferstativen und Kabelsträngen standen, ein blonder Mann, der sein Gesicht in den Armen verborgen hatte. Eine junge Frau in mausgrauem Kostüm schien ihn <b>trösten</b> zu wollen, sie hatte sich über ihn gebeugt und drückte seinen Kopf an ihren grauen Bauch. (<i>Der stumme Tod</i>, 23)',
     'Kathi schreibt ein Zettel für Gereon: <i>...Ich fühl mich so allein in dieser Wohnung, wenn Du nicht da bist. Ist wirklich nicht einfach, einen Polizisten zu lieben, aber ich habe mich fast daran gewöhnt. Fast. Heute wird\'s wohl nichts mehr mit uns bleiben. Hab ein Taxi gerufen und bin zu meiner Schwester gefahren, die braucht jemanden zum <b>Trösten</b>.</i> (<i>Der stumme Tod</i>, 66)',
@@ -1347,13 +1336,16 @@ Schlaufe: [
     'Ihre kurze Romanze lag schon so viele Monate zurück. Warum hatte er es nur vermasselt? Er (<i>Gereon</i>) hatte sie (<i>Charly</i>) hintergangen, belogen und ausgenutzt, etwas, das er eigentlich gar nicht hatte tun wollen, aber es hatte sich so ergeben. Und sie hatte ihm das nicht verzeihen können. Wie er selbst sich das nie hatte verzeihen können. Was natürlich kein <b>Trost</b> war. Im Gegenteil. (<i>Der stumme Tod</i>, 113)',
     'Einen <b>Trost</b> hatte er (<i>Rath</i>) jedenfalls: Schlimmer als vor einem Jahr konnte es kaum werden. (<i>Der stumme Tod</i>, 233)',
     'Schweigend ging sie (<i>Kathi</i>) zur Garderobe und zog ihren roten Mantel an. Plötzlich schüttelte es sie, die Tränen kamen erneut. Er (<i>Rath</i>) konnte den Anblick kaum ertragen, wie sie dastand und lautlos schluchzte, er musste gegen den Drang kämpfen, hinüberzugehen und sie zu <b>trösten</b>. (<i>Der stumme Tod</i>, 263-64)',
-// pg 360  450 492 492 513 531 
+    // pg 360  450 492 492 513 531 
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     '"Gibt es etwas Neues von Hannah Singer?", fragte Charly, als sie ihm (<i>Gereon</i>) den Salztreuer reichte. "Wie?" Sie guckte ihn an, als sei er <b>nicht ganz bei Trost</b>. (<i>Märzgefallene</i>, 105)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
     'Das Schlimmste aber war: Er (<i>Gereon</i>) kannte zwei Menschen, die dies ebenso wenig würden einsehen können, und er wusste, er würde beiden das Herz brechen. Würde ihnen das Herz brechen und hätte nichts beizusteuern zu ihrem <b>Trost</b> außer Lügen, Lügen, billigen Lügen. (<i>Lunapark</i>, 393)',	
     '<i>Charly</i>: "Dann ist Karl Reihold wirklkich frei?" "Seit heute Morgen." Marlow legte sein Besteck beiseite. "Hören Sie, Frau Rath, mögen Sie jetzt auch meine Gefangene sein, sehe ich Sie nicht als meine Feindin." "Wie überaus liebenswürdig. Was kann ich mir denn davon kaufen? \'ne Tüte <b>Trost</b>?" (<i>Lunapark</i>, 518)',
     'Normalerweise hätte sie (<i>Charly</i>) mit ihm (<i>Gereon</i>) gefühlt, sie wusste, wie es ihn bedrückte, dass er einmal einen Menschen getötet hatte, dass so etwas schwer auf der Seele liegen konnte, doch in diesem Fall hatte sie keinerlei Mitleid und keinen <b>Trost</b>, sondern nur eine Frage für ihn übrig gehabt: "War es das, warum Marlow mich als Geisel genommen hat? Damit du einen seiner Konkurrenten erschießt?" (<i>Lunapark</i>, 536)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
     'Den Türgriff in der Hand wandte er (<i>Gerhard Brunner</i>) den Blick von der heranrasenden Mauer im letzten Moment ab, als könne er das unerbittliche Schicksal durch Wegschauen doch noch besiegen. Das Letzte, was er in seinem Leben sehen sollte, war der Blumenstrauß auf dem Rücksitz, der ihm einen eigentümlichen <b>Trost</b> spendete. (<i>Marlow</i>, 18-19)',
     '"Es kommen auch wieder andere Zeiten", hatte Böhm gesagt. "Wir dürfen niemals aufgeben. Irgendwann wird Deutschland Menschen wie uns wieder brauchen." Und dieser Satz hatte sie (<i>Charly</i>) tatsächlich <b>getröstet</b>. Anders als Gereons Reaktion ein paar Stunden später. (<i>Marlow</i>, 43)',
@@ -16194,8 +16186,13 @@ Gelände: [
 ],
 Geländer: [
     'das <b>Geländer</b>,-: handrail, balustrade, bannister, guardrail'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gelaender"target="target1">Geländer</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gel%C3%A4nder"target="target2">Geländer</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gelander?q=Gel%C3%A4nder"target="target3">Geländer</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gelander"target="target4">Geländer</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Gelaender"target="target1">Geländer</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gel%C3%A4nder"target="target2">Geländer</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gelander?q=Gel%C3%A4nder"target="target3">Geländer</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/gelander"target="target4">Geländer</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath hatte genug gesehen und ging zurück ins Treppenhaus. Keine Gefahr mehr, dass einer entwischte. Er stand am <b>Geländer</b> und schaute in die Tiefe. (<i>Der nasse Fisch</i>, 20)',
     'Der falsche Wilhelm zwo brauchte keine Sekunde, um die Situation zu erfassen. Mit einem Satz war er über das <b>Geländer</b> und fast eine halbe Etage hinuntergesprungen. (<i>Der nasse Fisch</i>, 21)',
@@ -16204,9 +16201,11 @@ Geländer: [
     'Diesmal war es hundertprozentig klar, dass es sich um Mord handelte. Gräf hatte erzählt, wie er den Sturz erlebt hatte, und das <b>Geländer</b>stück, das unten neben der Leiche lag, wies eindeutige Sägespuren auf. Der Verdacht, dass jemand das Treppen<b>geländer</b> in eine tödliche Falle verwandelt hatte, bestätigte sich... Wahrscheinlich, so hatte Gräf rekonstruiert,.. hatte der Ruf der Frau den Russen überhaupt erst an das <b>Geländer</b> gelockt. (<i>Der nasse Fisch</i>, 479)',
     'Allerdings sah es so aus, als habe jemand bei den beiden Unfällen kräftig nachgeholfen. Ein elektrischer Haartrockner fiel nicht von alleine in dei Badewanne. Und das <b>Geländer</b> in der Yorckstraße war auch präpariert gewesen. (<i>Der nasse Fisch</i>, 490)',
     '<i>Rath</i>: "Und Fallins Sturz haben Sie <i>Gräfin Sorokina</i> auch nicht verursacht?" "Als ich ihn rief, beugte er sich über das <b>Geländer</b>. Ich wollte abdrücken. Da fiel er auch schon. Und ich lief hinunter. Ich schwöre Ihnen, ich hätte ihn erschossen, wenn er noch am Leben gewesen wäre. Aber unten bei ihm hockte ein Mann, der sagte mir, Fallin sei tot." (<i>Der nasse Fisch</i>, 533)',
+    // Der stume Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Er (<i>Rath</i>) schaute nicht nach unten, als er die Leiter Sprosse für Sprosse nach oben stieg... Auch als er Lüdenback über das wacklige Laufgitter folgte, das bei jedem Schritt quietschete und schepperte, versuchte der den Blick in die Tiefe zu vermeiden, er tastete sich voran, seine Hände umkrampften das <b>Geländer</b>, doch instinktiv schaute er auf seine Schuhspitze, als er einen Schritt nach vorn machte. (<i>Der stumme Tod</i>, 31)',
     'Rath hielt sich an der schaukelnden Bühne fest, und sofort verkrampften sich seine schweißnassen Hände wieder. Ihm war flau im Magen, Hans Lüdenback dagegen stand so sicher an dem schwankenden <b>Geländer</b> wie ein Steuermann bei schwerer See. (<i>Der stumme Tod</i>, 32)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Neben seinem Duzfreund Konrad, der direkt am schnörkelig geschmiedeten Balkon<b>geländer</b> auf die Menschenmenge blickte, stand allerdings auch Engelbert Rath nicht, dieser Platz war dem Dreigestirn vorbehalten, das den eigentlich als Karnevalsmuffel bekannten Oberbürgermeister eingerahmt hatte. (<i>Märzgefallene</i>, 49)',
     '...er (<i>Rath</i>) befand sich jetzt genau unter dem Balkon und wagte einen Blick hinauf. Von Engelbert Rath war gerade nur die Narrenkappe zu sehen, Konrad Adenauer aber stand direkt am <b>Geländer</b> und schunkelte mit unbewegtem Gesicht. (<i>Märzgefallene</i>, 51)',
@@ -16354,11 +16353,16 @@ Getümmel: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Weinert stellte sein Rad an einem Baum ab und schaute sich um. Feuerwehrleute, die Schläuche ausrollten, Schupos, die schaulustige Passanten auf Abstand hielten. Eine Absperrung aber gab es nicht, und so stürzte er sich einfach ins <b>Getümmel</b>, tat so, als gehöre er dazu.... (<i>Märzgefallene</i>, 55)',
 ],
-Geturtel: [
+'Geturtel, turteln': [  // duplicate with turteln
     'das <b>Geturtel</b>,-: billing and cooing'+
     '<br><b>turteln</b>: coo, whisper sweet nothings'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geturtel"target="target1">Geturtel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/turteln"target="target2">turteln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Geturtel"target="target3">Geturtel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/turteln"target="target4">turteln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Geturtel"target="target1">Geturtel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/turteln"target="target2">turteln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Geturtel"target="target3">Geturtel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/turteln"target="target4">turteln</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Es war Gereon. Er hatte ein Talent darin, sich tagelang überhaupt nicht zu melden, um dann genau im falschen Moment anzurufen. Angesichts ihrer schlecht gelaunten Kollegin, mit der sie eigentlich noch ein paar Dinge hätte klären müssen, war Charly ganz und gar nicht nach Liebes<b>geturtel</b> zumute. (<i>Märzgefallene</i>, 87)',
 ],

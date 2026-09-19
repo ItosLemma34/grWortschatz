@@ -86,7 +86,7 @@ const g = [
 'Gestrüpp',  // Gestrüpp: 
 'Gesumme, Gesause',  // duplicated
 'Getümmel',  // Getümmel: 
-'Geturtel',  // Geturtel:    duplicate, if found with turteln
+'Geturtel, turteln',  // duplicate, if found with turteln
 'Getuschel, tuscheln',  // duplicated
 'Gewebe',    // Gewebe: 
 'Gewehrkolben',  // Gewehrkolben:  

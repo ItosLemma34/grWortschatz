@@ -55,6 +55,7 @@ const z = [
 'zücken',   // zücken:     
 'Zugehfrau',  // Zugehfrau: 
 'zügeln',   // zügeln: 
+'Zumutung, zumuten, zumute',
 'zünftig',  // zünftig: 
 'zupasskommen',  // zupasskommen: 
 'zuprosten',  // zuprosten: 

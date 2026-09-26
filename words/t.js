@@ -1,5 +1,5 @@
 const t = [
-   'Tacheles reden', // 
+   'Tacheles reden',  
    'täfeln, getäfelt, Vertäfelung',  // duplicated
    'Tantieme',  // Tantieme: 
    'tapsen' ,  // tapsen: 
@@ -8,7 +8,7 @@ const t = [
    'taxieren' , // taxieren: 
    'Teufel (in drei T. Namen)', //  duplicated 
    'Teufel scheren',
-   'Teufel tun',  //  
+   'Teufel tun',    
    'Theke',  // Theke: 
    'titschen',  // titschen: 
    'toben' , // toben:

@@ -14,7 +14,7 @@ const u = [
 'übers Ohr hauen',
 'übersäen', // übersäen:  
 'überwuchern, wuchern',  // duplicated  
-'um den heißen Brei herumreden', // duplicated 
+'um den heißen Brei herumreden, Brei',  // duplicated
 'umkrempeln', // umkrempeln: 
 'ummähen' ,  // ummähen: 
 'umpflügen',  // umpflügen:  

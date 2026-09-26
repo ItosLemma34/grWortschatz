@@ -94,7 +94,7 @@ const b = [
 'branden, auf-',       
 'brandschatzen',  // brandschatzen: 
 'brausen, Brause',  // 
-'Brei (um den heißen B. herumreden)', // duplicated 
+'Brei, um den heißen B. herumreden', // duplicated 
 'breitschlagen',  // breitschlagen:  
 'brenzlig', // brenzlig: 
 'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // duplicated  

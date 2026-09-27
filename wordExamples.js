@@ -6,6 +6,7 @@ export const wordExamples = {
 // Check if all the "auf die Nase binden" captured
 //  check* if in other books
 
+
 // check page number
     //'Zumutung, zumuten, zumute' Der stumme Tod  pg 482
     // Der stumme Tod huschen 290 309 343 357 365 (twice) 538
@@ -97,6 +98,34 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+'Anmut, anmutig': [  
+    'die <b>Anmut</b>: grace, charm, loveliness, sweetness'+
+    '<br><b>anmugig</b>: charming, graceful, lovely'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anmut"target="target1">Anmut</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anmutig"target="target2">anmutig</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Anmut"target="target3">Anmut</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/anmutig"target="target4">anmutig</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    ' (<i>Olympia</i>, 000)',
+],
 'Zumutung, zumuten, zumute': [  
     'die <b>Zumutung</b>,-<b>en</b>: imposition, impertinence, unreasonable demand'+
     '<br>jmdm. etw. <b>zumuten</b>: expect sth. of so.'+
@@ -6124,14 +6153,23 @@ Gewirr: [
 ],
 Gedränge: [
     'das <b>Gedränge</b>: crowd, crush, throng'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gedraenge"target="target1">Gedränge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gedr%C3%A4nge"target="target2">Gedränge</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/gedraenge#Gedr%C3%A4nge"target="target3">Gedränge</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Gedr%C3%A4nge&id=substantiv%3AGedra3nge"target="target4">Gedränge</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Gedraenge"target="target1">Gedränge</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Gedr%C3%A4nge"target="target2">Gedränge</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/gedraenge#Gedr%C3%A4nge"target="target3">Gedränge</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Gedr%C3%A4nge&id=substantiv%3AGedra3nge"target="target4">Gedränge</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Niemand in der illustren Runde hatte bemerkt, dass gut ein Dutzend Polizisten mit gezogenen Pistolen das Atelier betreten hatte. Die jungen Bereitschaftspolizisten verrenkten sich die Hälse, um genug sehen zu können, und schoben weiter in den Raum. Es shepperte, als ein Scheinwerfer in dem <b>Gedränge</b> zu Boden ging. (<i>Der nasse Fisch</i>, 19)',
     'Doch die Berliner hatten der Eröffnung seit Wochen entgegengefiebert. Und sie liebten das Kaufhaus vom ersten Tag an. Vor allem das Dachrestaurant, wie es schien. Rath hatte Schwierigkeiten, Weinert in dem Gewühl überhaupt zu finden. Der Journalist hatte in dem <b>Gedränge</b> tatsächlich noch einen Platz ergattert. (<i>Der nasse Fisch</i>, 537)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Am Ausgang zur Schildergasse glaubte Rath, im <b>Gedränge</b> vor den großen Glastüren ein Gesicht gesehen zu haben, das ihm bekannt vorkam. (<i>Märzgefallene</i>, 21)',
     'Ede rückte im <b>Gedränge</b> draußen vor dem Ausgang einem beleibten Herrn mit steifem Hut näher auf die Pele, als das schicklich war. (<i>Märzgefallene</i>, 21)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'In Wirklichkeit aber war er (<i>Lohmann</i>) zum Hindenburghaus hinüber, das nicht weit entfernt lag von der Kriminalwache und das eine Fernsehstube besaß. Doch obwohl alle Athleten ja auf dem Reichssportfeld weilten, herrschte in der Stube ein solches <b>Gedränge</b> an Wehrmachtsoldaten, Ehrendienstlern und sonstigen Angestellten, dass Lohmann den kleinen Bildschirm.. gar nicht richtig sehen konnte und nur ab und an.. einen kurzen Blick erhaschte. (<i>Olympia</i>, 168-69)',
 ],
 'auf dem Trockenen sitzen': [
     '<b>auf dem Trockenen sitzen</b>: be stranded, left high and dry; be out of sth.'+
@@ -6881,8 +6919,12 @@ Kerbe: [
 ],
 Dreizack: [
     '<b>Dreizack</b>: trident (3 pronged spear); arrowgrass'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dreizack"target="target1">Dreizack</a>&nbsp;&nbsp;<a href="https://www.google.com/search?q=Bilder+von+Dreizack&client=firefox-b-1-d&sca_esv=6caf6192114de94e&channel=entpr&ei=0-2FaPKhJMuv5NoP8a_Q-A8&ved=0ahUKEwiy18fB2dyOAxXLF1kFHfEXFP8Q4dUDCBE&uact=5&oq=Bilder+von+Dreizack&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0JpbGRlciB2b24gRHJlaXphY2syBhAAGBYYHjIGEAAYFhgeMgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBUiOM1DGFFjxK3ABeAGQAQCYAW2gAZgEqgEDNy4xuAEDyAEA-AEBmAIJoALIBMICChAAGLADGNYEGEfCAgUQLhiABMICBRAAGIAEwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAgcQABiABBgTwgIJEAAYgAQYExgKwgIIEAAYExgWGB7CAggQABiABBiiBJgDAIgGAZAGCLoGBggBEAEYFJIHAzguMaAHgzCyBwM3LjG4B8IEwgcFMi04LjHIByY&sclient=gws-wiz-serp"target="target2">Dreizack</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Dreizack&id=substantiv%3ADreizack"target="target3">Dreizack</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Dreizack"target="target4">Dreizack</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Dreizack"target="target1">Dreizack</a>&nbsp;&nbsp;'+
+        '<a href="https://www.google.com/search?q=Bilder+von+Dreizack&client=firefox-b-1-d&sca_esv=6caf6192114de94e&channel=entpr&ei=0-2FaPKhJMuv5NoP8a_Q-A8&ved=0ahUKEwiy18fB2dyOAxXLF1kFHfEXFP8Q4dUDCBE&uact=5&oq=Bilder+von+Dreizack&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0JpbGRlciB2b24gRHJlaXphY2syBhAAGBYYHjIGEAAYFhgeMgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBUiOM1DGFFjxK3ABeAGQAQCYAW2gAZgEqgEDNy4xuAEDyAEA-AEBmAIJoALIBMICChAAGLADGNYEGEfCAgUQLhiABMICBRAAGIAEwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAgcQABiABBgTwgIJEAAYgAQYExgKwgIIEAAYExgWGB7CAggQABiABBiiBJgDAIgGAZAGCLoGBggBEAEYFJIHAzguMaAHgzCyBwM3LjG4B8IEwgcFMi04LjHIByY&sclient=gws-wiz-serp"target="target2">Dreizack</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Dreizack&id=substantiv%3ADreizack"target="target3">Dreizack</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/Dreizack"target="target4">Dreizack</a>',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'So standen sie sich gegenüber, der Gangster (<i>Leo</i>) mit dem Baseballschläger und der unbewaffnete Kommissar (<i>Rath</i>), und belauerten sich gegenseitig wie zwei Ringkämpfer. Oder eher wie zwei Gladiatoren im alten Rom. Nicht immer hatte der mit dem <b>Dreizack</b> und dem Netz gegen den mit dem Kurzschwert gewonnen. (<i>Lunapark</i>, 526)',
@@ -14203,14 +14245,23 @@ echoen: [
 ],
 erhaschen: [
     '<b>erhaschen</b>: catch, snatch sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/erhaschen"target="target1">erhaschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/erhaschen"target="target2">erhaschen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/erhaschen"target="target3">erhaschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=erhaschen"target="target4">erhaschen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/erhaschen"target="target1">erhaschen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/erhaschen"target="target2">erhaschen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://www.collinsdictionary.com/dictionary/german-english/erhaschen"target="target3">erhaschen</a>&nbsp;&nbsp;'+
+    '<a href="https://www.verbformen.com/?w=erhaschen"target="target4">erhaschen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Charly</i>: "Du hörst dich an, als hätte ich dich geweckt?".. Rath fühlte sich wie ertappt. Als sei der Projektor auch für Charly gelaufen, als habe sie einen Blick in die entlegensten Winkel seiner Seele <b>erhaschen</b> können und seine dunkle Seite gesehen. (<i>Der nasse Fisch</i>, 226-27)',
     'Sie (<i>Charly</i>) setzte sich vorn aufs Podium an einen Tisch und legte Stift und Papier bereit. Rath merkte, dass er nicht der einzige Mann im Raum war, der auf ihre Beine schielte. Er fühlte einen kleinen Stich von Eifersucht in seiner Brust. Ob sie ihn bewusst ignorierte? Wenigstens einen kleinen Blick hoffte er von ihr zu <b>erhaschen</b> - vergebens. (<i>Der nasse Fisch</i>, 336-37)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Mann ließ Rath noch eine Weile sitzen, wies ihm dann aber einen Platz an, an dem er sich hinstellen sollte, denn inzwischen hatten sich immer mehr Neugierige eingefunden, die hofften, einen Blick auf Hitler zu <b>erhaschen</b>... (<i>Marlow</i>, 322)',
     'Schon die Körperhaltung des Reiters ist dir vertraut vorgekommen, nun <b>erhaschst</b> du einen ersten Blick auf das Gesicht, dessen Schatten im Schein der Lagerfeuer tanzen. (<i>Marlow</i>, 351)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'In Wirklichkeit aber war er (<i>Lohmann</i>) zum Hindenburghaus hinüber, das nicht weit entfernt lag von der Kriminalwache und das eine Fernsehstube besaß. Doch obwohl alle Athleten ja auf dem Reichssportfeld weilten, herrschte in der Stube ein solches Gedränge an Wehrmachtsoldaten, Ehrendienstlern und sonstigen Angestellten, dass Lohmann den kleinen Bildschirm.. gar nicht richtig sehen konnte und nur ab und an.. einen kurzen Blick <b>erhaschte</b>. (<i>Olympia</i>, 168-69)',
 ],
 entgegenfiebern: [
     '<b>fiebern</b>: have a fever'+
@@ -17149,9 +17200,17 @@ heimzahlen: [
     'Es waren doch nicht alle Juden gleich, es <b>hetzten</b> doch nicht alle Juden gegen Deutschland. Hannah war jüdisch, aber die hatte nie gegen Deutschland <b>gehetzt</b>. (<i>Marlow</i>, 362)',
 ],
 'hocken, Hocke, Hocker': [
-    '(<b>sich</b>) <b>hocken</b>: squat/crouch (down)<br>die <b>Hocke</b>: squat, crouch &nbsp;der <b>Hocker</b>,-: stool'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hocken"target="target1">hocken</a> &nbsp;<a href="https://www.dwds.de/wb/Hocke"target="target2">Hocke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Hocker"target="target3">Hocker</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocken"target="target4">hocken</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocke?q=Hocke"target="target5">Hocke</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/hocker?q=Hocker"target="target6">Hocker</a>',
+    '(<b>sich</b>) <b>hocken</b>: squat/crouch (down)'+
+    '<br>die <b>Hocke</b>: squat, crouch'+
+    '<br>der <b>Hocker</b>,-: stool'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/hocken"target="target1">hocken</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/Hocke"target="target2">Hocke</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Hocker"target="target3">Hocker</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/hocken"target="target4">hocken</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/hocke?q=Hocke"target="target5">Hocke</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/hocker?q=Hocker"target="target6">Hocker</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die übrigen Darsteller, die Hälfte davon nackt, betrachteten die mit mehreren Scheinwerfern ausgeleuchtete Szene.... Ein Mann mit Ziegenbart <b>hockte</b> hinter einem Fotoapparat und gab dem Generalfeldmarschall Befehle. (<i>Der nasse Fisch</i>, 19)',
@@ -17234,6 +17293,7 @@ heimzahlen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Rath</i>) rutschte vom Bar<b>hocker</b> und griff nach Hut und Autoschlüsseln. "Gut, dann lass uns fahren." (<i>Olympia</i>, 30)',
     'Nun ging es schon auf den Abend zu, nach dem Fahnenappell würden sie das Dorf verlassen, und er (<i>Fritze</i>) hatte den ganzen Tag keinen Kriminalbeamten gesehen. Was nicht weiter verwunderlich war, denn die traten eher selten in Erscheinung, sondern <b>hockten</b> den lieben langen Tag in ihrem Büro. (<i>Olympia</i>, 87)',
+    'Und nun <b>hockten</b> sie alle beide hier im Büro und hörten Radio. Die Übertragung vom Reichssportfeld war eher langweilig. (<i>Olympia</i>, 168)',
 ],
 Hosenmatz: [
     'der <b>Hosenmatz</b>,-<b>mätze</b>/<b>matze</b>: tiny tot'+
@@ -20510,14 +20570,23 @@ Nutte: [
     '"Wie er (<i>Fritze</i>) seine Kameraden beneidete, die eine richtige Mutter hatten. Und keine <b>Nutte</b>, der ihre Kinder scheißegal waren..."   (<i>Marlow</i>, 54)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'nach dem Rechten sehen': [
-    '<b>nach dem Rechten sehen</b>: look after things, see if everything is all right'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=nach+dem+Rechten+sehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">nach dem Rechten sehen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/nach%20dem%20Rechten%20sehen"target="target2">nach dem Rechten sehen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/search?term=nach+dem+Rechten+sehen&q_cat=%2Fgerman-english%2F"target="target3">nach dem Rechten sehen</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/recht?q=nach+dem+Rechten+sehen"target="target4">nach dem Rechten sehen</a>',
+'nach dem Rechten sehen/schauen': [
+    '<b>nach dem Rechten sehen</b>/<b>schauen</b>: look after things, see if everything is all right'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=nach+dem+Rechten+sehen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">nach dem Rechten sehen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.openthesaurus.de/synonyme/nach%20dem%20Rechten%20sehen"target="target2">nach dem Rechten sehen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/search?term=nach+dem+Rechten+sehen&q_cat=%2Fgerman-english%2F"target="target3">nach dem Rechten sehen</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/recht?q=nach+dem+Rechten+sehen"target="target4">nach dem Rechten sehen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Rath</i>: "Aber Sie haben sich im ihr Zimmer gekümmert." <i>Tretschkow</i>: "Darum hat sie (<i>Gräfin Swetlana Sorokina</i>) mich gebeten. Ich solle <b>nach dem Rechten sehen</b>, die Blumen gießen. Einfach so tun, als sei sie für eine Weile verreist." (<i>Der nasse Fisch</i>, 316)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Du hast… gekocht?", fragte er (<i>Gereon</i>). So oft kam das nicht vor. Wenn überhaupt mal etwas Warmes bei ihnen auf dem Tisch landete, sorgte meist ihre Zugehfrau dafür, Lina, eine junge Schlesierin, die zweimal in der Woche <b>nach dem Rechten sah</b>. (<i>Märzgefallene</i>, 101)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Vorhin, um vier, hatte Lohmann das Büro für eine Weile verlassen, angeblich, um eine Runde durchs Dorf zu drehen und <b>nach dem Rechten zu schauen</b>. In Wirklichkeit aber war er zum Hindenburghaus hinüber, das nicht weit entfernt lag von der Kriminalwache und das eine Fernsehstube besaß. (<i>Olympia</i>, 168-69)',
 ],
 nachhaken: [
     '<b>nachhaken</b>: dig/probe deeper, ask further questions'+

@@ -1,5 +1,5 @@
 const n = [
-  'nach dem Rechten sehen',
+  'nach dem Rechten sehen/schauen',
   'nachbeten',  // nachbeten:  
   'nachhaken',  // nachhaken: 
   'Nachhut', // Nachhut:  

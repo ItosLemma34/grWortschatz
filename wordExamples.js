@@ -120,7 +120,7 @@ zzz: [
     // 'Anmut, anmuten, anmutig'  Der stumme Tod  430  
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    'War der Gloria-Palast mit seiner mittelalterlich anmutenden Fassade ein Zwilling des Romanischen Cafés, beeindruckte seine Innenarchitektur mit barocker Pracht. (<i>Märzgefallene</i>, 348)',
+    'War der Gloria-Palast mit seiner mittelalterlich <b>anmutenden</b> Fassade ein Zwilling des Romanischen Cafés, beeindruckte seine Innenarchitektur mit barocker Pracht. (<i>Märzgefallene</i>, 348)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Erst das Ende der Eröffnungsfeier, nun also das Festspiel. Ein schrilles Klingeln unterbrach den Radioreporter, der gerade versuchte, die <b>Anmut</b> der Tänzerinnen mit Worten zu beschreiben. (<i>Olympia</i>, 169)',

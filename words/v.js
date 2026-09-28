@@ -85,10 +85,11 @@ const v = [
 'verscherzen',  // verscherzen:  
 'verscheuchen',  // verscheuchen:
 'verschieben',  // verschieben:   check for other entries
-'verschimmeln',  // verschimmeln:  
+'verschimmeln, schimmeln, Schimmel', // duplicated
 'Verschlag',   // Verschlag:
 'verschlampen',  // verschlampen:  
 'verschleißen', // verschleißen:  check for other entries
+//'verschimmeln, schimmeln, Schimmel', // duplicated
 'verschlingen',  // verschlingen:
 'verschmieren', // verschmieren: 
 'verschmitzt',  // verschmitzt:

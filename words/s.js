@@ -48,7 +48,7 @@ const s = [
 //   'Schienenstrang, Strang', // duplicated 
 'schikanieren', // schikanieren: 
 'Schilde (im S. führen)', //  duplicated  
-'Schimmel, (ver)schimmeln',  
+'Schimmel, schimmeln, verschimmeln',  // duplicated
 'schimmern, Schimmer, keinen blassen Schimmer', // duplicated
 'Schinken',  // Schinken:
 'Schippe (von der S. springen)',  // duplicated

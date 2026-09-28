@@ -67,6 +67,7 @@ const a = [
 'anleinen',     // anleinen: 
 'anmaßen',  // anmaßen:
 'anmotzen',  // anmotzen:
+'Anmut, anmuten, anmutig',
 'anpeilen',  // anpeilen:   
 'Anpfiff' ,     // Anpfiff:  
 'anpflaumen',   // anpflaumen:  

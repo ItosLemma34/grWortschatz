@@ -8,6 +8,7 @@ export const wordExamples = {
 
 
 // check page number
+    // 'Anmut, anmuten, anmutig'  Der stumme Tod  430
     //'Zumutung, zumuten, zumute' Der stumme Tod  pg 482
     // Der stumme Tod huschen 290 309 343 357 365 (twice) 538
     // Der stumme Tod   Brei  111
@@ -98,33 +99,32 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
-'Anmut, anmutig': [  
+'Anmut, anmuten, anmutig': [  
     'die <b>Anmut</b>: grace, charm, loveliness, sweetness'+
+    '<br><b>anmuten</b>: appear as, seem to be'+
     '<br><b>anmugig</b>: charming, graceful, lovely'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Anmut"target="target1">Anmut</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/anmutig"target="target2">anmutig</a>'+
+        '<a href="https://www.dwds.de/wb/anmuten"target="target2">anmuten</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anmutig"target="target3">anmutig</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.verbformen.com/?w=Anmut"target="target3">Anmut</a>&nbsp;&nbsp;'+
-        '<a href="https://www.mydict.io/translation/german-english/anmutig"target="target4">anmutig</a>',
+        '<a href="https://www.verbformen.com/?w=Anmut"target="target4">Anmut</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anmuten"target="target5">anmuten</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/anmutig"target="target6">anmutig</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
+    'Aber das <i>Delphi</i> (<i>der Delphi-Palast</i>) wirkte wie ausgestorben. Die Pflanzen, die den Weg zum Hauptportal flankierten, machten einen jämmerlichen Eindruck. Ein paar exotisch <b>anmutende</b> Korbstühle, lieblos aufeinandergestapelt und vom Wetter gezeichnet, standen in der Gartenecke und schimmelten vor sich hin. (<i>Der nasse Fisch</i>, 133)',
     // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
+    //'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //'   (<i>Der stumme Tod</i>, 000)',	
+    // 'Anmut, anmuten, anmutig'  Der stumme Tod  430  
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    'War der Gloria-Palast mit seiner mittelalterlich anmutenden Fassade ein Zwilling des Romanischen Cafés, beeindruckte seine Innenarchitektur mit barocker Pracht. (<i>Märzgefallene</i>, 348)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    ' (<i>Olympia</i>, 000)',
+    'Erst das Ende der Eröffnungsfeier, nun also das Festspiel. Ein schrilles Klingeln unterbrach den Radioreporter, der gerade versuchte, die <b>Anmut</b> der Tänzerinnen mit Worten zu beschreiben. (<i>Olympia</i>, 169)',
+    // Olympia anmutende 466
 ],
 'Zumutung, zumuten, zumute': [  
     'die <b>Zumutung</b>,-<b>en</b>: imposition, impertinence, unreasonable demand'+
@@ -15673,8 +15673,12 @@ Gage: [
     '<b>täfeln</b>: to panel, line with wooden panels'+
     '<br><b>getäfelt</b>: boarded, paneled'+
     '<br>die <b>Vertäfelung</b>,-<b>en</b>: wood paneling'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;'+
+    '<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<b>getäfelten</b> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
@@ -15693,16 +15697,21 @@ Gage: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nichts hier hatte sich verändert, alles war wie eh und je: dreckig und dreieckig. Als sei die winzige Gaststätte zwischen den drei holz<b>vertäfelten</b> Wänden aus Zeit und Raum gefallen und hätte nichts, aber auch gar nichts mit dem zu tun, was vor ihrer Tür geschah. (<i>Olympia</i>, 27)',
-    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)',
- //   '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
+    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)'+
+    '<br><i>"langgestreckte, geschwungene Halle"</i>: <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holz<b>vertäfelten</b> Wand, und Rath betrat die Küche, folgte dem Spüler quer durch den Raum... (<i>Olympia</i>, 59)',
+    'Die (<i>olympische</i>) Halle war zum Glück nicht weit; die Halle der Nationen, wie die Wehrmacht den Empfang nannte. An den holz<b>getäfelten</b> Schaltern beidseits des sanft geschwungenen Raumes herrschte normalerweise Hochbetrieb, jetzt jedoch war kaum etwas los. (<i>Olympia</i>, 169)',
 ],
 'Vertäfelung, täfeln, getäfelt': [
     '<b>täfeln</b>: to panel, line with wooden panels'+
     '<br><b>getäfelt</b>: boarded, paneled'+
     '<br>die <b>Vertäfelung</b>,-<b>en</b>: wood paneling'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;'+
+    '<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<b>getäfelten</b> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
@@ -15721,9 +15730,10 @@ Gage: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nichts hier hatte sich verändert, alles war wie eh und je: dreckig und dreieckig. Als sei die winzige Gaststätte zwischen den drei holz<b>vertäfelten</b> Wänden aus Zeit und Raum gefallen und hätte nichts, aber auch gar nichts mit dem zu tun, was vor ihrer Tür geschah. (<i>Olympia</i>, 27)',
-    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)',
- //   '<br><i>"langgestreckte, geschwungene Halle"</i> = <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
+    'Rath.. gelangte in eine langgestreckte, geschwungene Halle, lichtdurchflutet und modern, beide Längsseiten flankiert von holz<b>getäfelten</b> offenen Schaltern und den Fahnen der Olympianationen. (<i>Olympia</i>, 51)'+
+    '<br><i>"langgestreckte, geschwungene Halle"</i>: <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holz<b>vertäfelten</b> Wand, und Rath betrat die Küche, folgte dem Spüler quer durch den Raum... (<i>Olympia</i>, 59)',
+    'Die (<i>olympische</i>) Halle war zum Glück nicht weit; die Halle der Nationen, wie die Wehrmacht den Empfang nannte. An den holz<b>getäfelten</b> Schaltern beidseits des sanft geschwungenen Raumes herrschte normalerweise Hochbetrieb, jetzt jedoch war kaum etwas los. (<i>Olympia</i>, 169)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gesittet: [
@@ -20387,8 +20397,12 @@ Murmel: [
 'murren, mürrisch': [
     '<b>murren</b>: grumble, grouse'+
     '<br><b>mürrisch</b>: grumpy, surly, sullen, dour'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/murren"target="target1">murren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/m%C3%BCrrisch"target="target2">mürrisch</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murren"target="target3">murren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=mürrisch"target="target4">mürrisch</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/murren"target="target1">murren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/m%C3%BCrrisch"target="target2">mürrisch</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/murren"target="target3">murren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=mürrisch"target="target4">mürrisch</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Beifahrer hatte geschimpft, als er hörte, wer den Transport alles begleiten sollte: "Det is keen Mannschaftswagen, det issen Leichenwagen!" <b>Murrend</b> hatte er seinen Platz geräumt und saß nun hinten zwischen den schaukelnden Zinksärgen. (<i>Der nasse Fisch</i>, 76)',
@@ -20410,8 +20424,11 @@ Murmel: [
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"So kann es nicht weitergehen", empörte sich plötzlich einer, und alle schauten ihn an. "Es wird Zeit, dass der Führer der grassierenden Rassenschande endlich Einhalt gebietet!" Rath hörte zustimmendes <b>Murren</b>, mehr nicht. (<i>Marlow</i>, 296)',
-    'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der <b>mürrische</b> Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue <b>Molle</b> brauchte. (<i>Marlow</i>, 382)',
+    'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der Theke stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. Der <b>mürrische</b> Gesichtsausdruck täuschte: Schorsch Gerhard mochte seine Gäste und hatte genau im Blick, wer gerade eine neue Molle brauchte. (<i>Marlow</i>, 382)',
     '"Mach dir keine Sorgen", sagte er (<i>Gereon</i>), "der kann uns nur beobachten, der hört nicht, was wir sprechen." "Dann sollten wir uns vielleicht erstmal küssen", sagte sie (<i>Charly</i>). "Um den Kerl ein bisschen neidisch zu machen." Und das taten sie dann auch. Standen an der Reling des kleinen Fährschiffs und küssten sich. So lange, bis die ersten Umstehenden <b>murrten</b>. (<i>Marlow</i>, 414-15)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Da fehlt irgendeiner. Schau\'n Sie sich die Sache doch einfach mal an." Franke machte eine Handbewegung, als wolle er den Kriminalsekretär aus dem Raum scheuchen. Fauler Sack, dachte Lohmann, stand aber ohne <b>Murren</b> auf und ging hinaus. (<i>Olympia</i>, 169)',
 ],
 //(<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'nichts für ungut': [
@@ -23477,17 +23494,53 @@ schikanieren: [
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Ohnehin hatte er (<i>Karl Reinhold</i>) immer mehr den Eindruck, sie wollten gar keine Namen aus ihm herausquetschen und keine Informationen, sondern ihn einfach nur <b>schikanieren</b>, ihn, den Mörder von SA-Scharführer Beckmann. (<i>Lunapark</i>, 490)',
 ],
-'Schimmel, (ver)schimmeln': [
+'Schimmel, schimmeln, verschimmeln': [ 
     'der <b>Schimmel</b>: mildew, mold'+
-    '<br><b>schimmeln, verschimmeln</b>: mildew, get moldy'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schimmel"target="target1">Schimmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schimmeln"target="target2">schimmeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schimmel"target="target3">Schimmel</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schimmeln"target="target4">schimmeln</a>',
+    '<br><b>schimmeln, verschimmeln</b>: get moldy, mildewed'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schimmel"target="target1">Schimmel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schimmeln"target="target2">schimmeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schimmel"target="target3">Schimmel</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schimmeln"target="target4">schimmeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Waren Sie schon einmal in einem dieser <b>verschimmelten</b> Dreckslöcher, für die man den Abeitern in dieser Stadt sogar noch Geld abknöpft?", hakte Völcker nach, als Rath schwieg. "Wissen Sie, unter welchen Bedingungen manche Menschen hier leben? Leben müssen?" (<i>Der nasse Fisch</i>, 78)',
     'Aber das <i>Delphi</i> (<i>der Delphi-Palast</i>) wirkte wie ausgestorben. Die Pflanzen, die den Weg zum Hauptportal flankierten, machten einen jämmerlichen Eindruck. Ein paar exotisch anmutende Korbstühle, lieblos aufeinandergestapelt und vom Wetter gezeichnet, standen in der Gartenecke und <b>schimmelten</b> vor sich hin. (<i>Der nasse Fisch</i>, 133)',
     '"Sie (<i>Böhm</i>) sollten hören, was Doktor Schwartz zu sagen hat", meinte Gennat, "schließlich geht es da um Ihren Fall." <i>Böhm</i>: "Ich glaube nicht, dass es meine Idee war, nach dem Mann zu fahnden, der da unten vor sich hin <b>schimmelt</b>!" (<i>Der nasse Fisch</i>, 411)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Als er (<i>Gräf</i>) die Kellertreppe zum zweiten Hinterhaus hinunterging, schlug ihm der beißende Geruch von <b>Schimmel</b> und Männerschweiß entgegen. (<i>Märzgefallene</i>, 122)',
+    'Vor allem im Norden und Osten Berlins gab es das: arme Würstchen (<i>poor souls</i>), die ihre armseligen, feucht <b>verschimmelten</b> Kellerwohnungen an noch ärmere Würstchen nächteweise vermieteten, um die Miete Woche für Woche zusammenkratzen zu können.... (<i>Märzgefallene</i>, 122)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    'Doktor Karthaus schaute auf, als Rath den Obduktionssaal betrat. Auf dem Marmortisch lag die bereits in Verwesung begriffene Leiche einer alten Frau, der er gerade den Brustkorb geöffnet hatte. Es sah aus, als habe man ein übergroßes Hänchen tranchiert. Ein graues <b>verschimmeltes</b> Hänchen. (<i>Lunapark</i>, 105-06)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    'Überhaupt fällt dir auf, dass es um die allgemeine Wehrmoral nicht mehr zum Besten bestellt ist. Die meisten Soldaten sind den Krieg leid; sie haben es satt, in den von Ratten und Läusen und <b>Schimmel</b> verseuchten und versifften Gräben zu hocken, sich in schöner Regelmäßigkeit mit Granaten zu beschießen oder mit Giftgas einnebeln zu lassen ... (<i>Marlow</i>, 162)',
+],
+'verschimmeln, schimmeln, Schimmel': [ 
+    'der <b>Schimmel</b>: mildew, mold'+
+    '<br><b>schimmeln, verschimmeln</b>: get moldy, mildewed'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schimmel"target="target1">Schimmel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schimmeln"target="target2">schimmeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schimmel"target="target3">Schimmel</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schimmeln"target="target4">schimmeln</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    'Waren Sie schon einmal in einem dieser <b>verschimmelten</b> Dreckslöcher, für die man den Abeitern in dieser Stadt sogar noch Geld abknöpft?", hakte Völcker nach, als Rath schwieg. "Wissen Sie, unter welchen Bedingungen manche Menschen hier leben? Leben müssen?" (<i>Der nasse Fisch</i>, 78)',
+    'Aber das <i>Delphi</i> (<i>der Delphi-Palast</i>) wirkte wie ausgestorben. Die Pflanzen, die den Weg zum Hauptportal flankierten, machten einen jämmerlichen Eindruck. Ein paar exotisch anmutende Korbstühle, lieblos aufeinandergestapelt und vom Wetter gezeichnet, standen in der Gartenecke und <b>schimmelten</b> vor sich hin. (<i>Der nasse Fisch</i>, 133)',
+    '"Sie (<i>Böhm</i>) sollten hören, was Doktor Schwartz zu sagen hat", meinte Gennat, "schließlich geht es da um Ihren Fall." <i>Böhm</i>: "Ich glaube nicht, dass es meine Idee war, nach dem Mann zu fahnden, der da unten vor sich hin <b>schimmelt</b>!" (<i>Der nasse Fisch</i>, 411)',
+    // Märzgefallene
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    'Als er (<i>Gräf</i>) die Kellertreppe zum zweiten Hinterhaus hinunterging, schlug ihm der beißende Geruch von <b>Schimmel</b> und Männerschweiß entgegen. (<i>Märzgefallene</i>, 122)',
+    'Vor allem im Norden und Osten Berlins gab es das: arme Würstchen (<i>poor souls</i>), die ihre armseligen, feucht <b>verschimmelten</b> Kellerwohnungen an noch ärmere Würstchen nächteweise vermieteten, um die Miete Woche für Woche zusammenkratzen zu können.... (<i>Märzgefallene</i>, 122)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    'Doktor Karthaus schaute auf, als Rath den Obduktionssaal betrat. Auf dem Marmortisch lag die bereits in Verwesung begriffene Leiche einer alten Frau, der er gerade den Brustkorb geöffnet hatte. Es sah aus, als habe man ein übergroßes Hänchen tranchiert. Ein graues <b>verschimmeltes</b> Hänchen. (<i>Lunapark</i>, 105-06)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Überhaupt fällt dir auf, dass es um die allgemeine Wehrmoral nicht mehr zum Besten bestellt ist. Die meisten Soldaten sind den Krieg leid; sie haben es satt, in den von Ratten und Läusen und <b>Schimmel</b> verseuchten und versifften Gräben zu hocken, sich in schöner Regelmäßigkeit mit Granaten zu beschießen oder mit Giftgas einnebeln zu lassen ... (<i>Marlow</i>, 162)',
 ],
@@ -23568,21 +23621,21 @@ schikanieren: [
         '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schinden"target="target6">schinden</a>'+
         '&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target7">Eindruck schinden</a>'+
         '&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschunden"target="target8">geschunden</a>',
-//   Der nasse Fisch
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Mit den Schlagzeilen, die er zuletzt gemacht hatte, konnte Zörgiebel bei seinen Genossen nicht viel <b>Eindruck schinden</b>. (<i>Der nasse Fisch</i>, 417)',
     'Nach ein paar Wasserduschen ließ das Dampfen nach, doch der Anblick des <b>geschundenen</b> Mannes war umso schrecklicher. Die Kleidung hing nur noch in Fetzen an Wolters Körper. (<i>Der nasse Fisch</i>, 526)',
-//   Der stumme Tod
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der Portier, der hinter der Drehtür in seiner Loge saß, musterte ihn kurz und sortierte ihn als unbekannt aus. "Ich bin verabredet", sagte Rath und überlegte, welcher Name hier wohl mehr <b>Eindruck schinden</b> mochte, "mit Herrn.. Heyer..", der Portier runzelte die Stirn, und Rath schob den zweiten Namen nach, ".. und Herrn Weinert." (<i>Der stumme Tod</i>, 240-41)',
-//   Märzgefallene
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wenn er (<i>Rath</i>) all dies in die Waagschale warf, erschien es weitaus vernünftiger, sich wie alle anderen auch, denen an ihrer Karriere gelegen war, an der Kommunistenjagd zu beteiligen, um beim neuen Polizeipräsidenten <b>Eindruck zu schinden</b>. (<i>Märzgefallene</i>, 184)',
     '<i>Rath</i>: "Unbeliebt, da muss man einen doch nicht gleich töten." <i>Sprengmeister Grimberg</i>: "Wenn es ein Mann ist der ohne Rüchsicht auf Verluste seine Leute ins Feuer schickt. Oder ein brutaler <b>Schinder</b>...." <i>Rath</i>: "Und Engel? War der ein brutaler <b>Schinder</b>?" (<i>Märzgefallene</i>, 278)',
-//   Lunapark
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Schon die Eingangshalle des Geheimen Staatspolizeiamtes <b>schindete Eindruck</b>. (<i>Lunapark</i>, 52)',
-//   Marlow
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Das Auto riecht immer noch neu, kein Wunder, ist vor wenigen Wochen erst aus Zwickau gekommen, frisch ab Werk. Ein Audi, Typ M, sechs Zylinder unter der Haube, viel Platz im Fahrgastraum, ein feiner Wagen, einer, der <b>Eindruck schindet</b>, einer den man einen Chauffeur braucht. (<i>Marlow</i>, 513)',
 ],
@@ -23599,21 +23652,21 @@ schikanieren: [
         '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schinden"target="target6">schinden</a>'+
         '&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target7">Eindruck schinden</a>'+
         '&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschunden"target="target8">geschunden</a>',
-//   Der nasse Fisch
+    //   Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Mit den Schlagzeilen, die er zuletzt gemacht hatte, konnte Zörgiebel bei seinen Genossen nicht viel <b>Eindruck schinden</b>. (<i>Der nasse Fisch</i>, 417)',
     'Nach ein paar Wasserduschen ließ das Dampfen nach, doch der Anblick des <b>geschundenen</b> Mannes war umso schrecklicher. Die Kleidung hing nur noch in Fetzen an Wolters Körper. (<i>Der nasse Fisch</i>, 526)',
-//   Der stumme Tod
+    //   Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der Portier, der hinter der Drehtür in seiner Loge saß, musterte ihn kurz und sortierte ihn als unbekannt aus. "Ich bin verabredet", sagte Rath und überlegte, welcher Name hier wohl mehr <b>Eindruck schinden</b> mochte, "mit Herrn.. Heyer..", der Portier runzelte die Stirn, und Rath schob den zweiten Namen nach, ".. und Herrn Weinert." (<i>Der stumme Tod</i>, 240-41)',
-//   Märzgefallene
+    //   Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wenn er (<i>Rath</i>) all dies in die Waagschale warf, erschien es weitaus vernünftiger, sich wie alle anderen auch, denen an ihrer Karriere gelegen war, an der Kommunistenjagd zu beteiligen, um beim neuen Polizeipräsidenten <b>Eindruck zu schinden</b>. (<i>Märzgefallene</i>, 184)',
     '<i>Rath</i>: "Unbeliebt, da muss man einen doch nicht gleich töten." <i>Sprengmeister Grimberg</i>: "Wenn es ein Mann ist der ohne Rüchsicht auf Verluste seine Leute ins Feuer schickt. Oder ein brutaler <b>Schinder</b>...." <i>Rath</i>: "Und Engel? War der ein brutaler <b>Schinder</b>?" (<i>Märzgefallene</i>, 278)',
-//   Lunapark
+    //   Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Schon die Eingangshalle des Geheimen Staatspolizeiamtes <b>schindete Eindruck</b>. (<i>Lunapark</i>, 52)',
-//   Marlow
+    //   Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Das Auto riecht immer noch neu, kein Wunder, ist vor wenigen Wochen erst aus Zwickau gekommen, frisch ab Werk. Ein Audi, Typ M, sechs Zylinder unter der Haube, viel Platz im Fahrgastraum, ein feiner Wagen, einer, der <b>Eindruck schindet</b>, einer den man einen Chauffeur braucht. (<i>Marlow</i>, 513)',
 ],
@@ -23630,21 +23683,21 @@ schikanieren: [
         '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schinden"target="target6">schinden</a>'+
         '&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Eindruck%20schinden"target="target7">Eindruck schinden</a>'+
         '&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschunden"target="target8">geschunden</a>',
-//   Der nasse Fisch
+    //   Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Mit den Schlagzeilen, die er zuletzt gemacht hatte, konnte Zörgiebel bei seinen Genossen nicht viel <b>Eindruck schinden</b>. (<i>Der nasse Fisch</i>, 417)',
     'Nach ein paar Wasserduschen ließ das Dampfen nach, doch der Anblick des <b>geschundenen</b> Mannes war umso schrecklicher. Die Kleidung hing nur noch in Fetzen an Wolters Körper. (<i>Der nasse Fisch</i>, 526)',
-//   Der stumme Tod
+    //   Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der Portier, der hinter der Drehtür in seiner Loge saß, musterte ihn kurz und sortierte ihn als unbekannt aus. "Ich bin verabredet", sagte Rath und überlegte, welcher Name hier wohl mehr <b>Eindruck schinden</b> mochte, "mit Herrn.. Heyer..", der Portier runzelte die Stirn, und Rath schob den zweiten Namen nach, ".. und Herrn Weinert." (<i>Der stumme Tod</i>, 240-41)',
-//   Märzgefallene
+    //   Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wenn er (<i>Rath</i>) all dies in die Waagschale warf, erschien es weitaus vernünftiger, sich wie alle anderen auch, denen an ihrer Karriere gelegen war, an der Kommunistenjagd zu beteiligen, um beim neuen Polizeipräsidenten <b>Eindruck zu schinden</b>. (<i>Märzgefallene</i>, 184)',
     '<i>Rath</i>: "Unbeliebt, da muss man einen doch nicht gleich töten." <i>Sprengmeister Grimberg</i>: "Wenn es ein Mann ist der ohne Rüchsicht auf Verluste seine Leute ins Feuer schickt. Oder ein brutaler <b>Schinder</b>...." <i>Rath</i>: "Und Engel? War der ein brutaler <b>Schinder</b>?" (<i>Märzgefallene</i>, 278)',
-//   Lunapark
+    //   Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Schon die Eingangshalle des Geheimen Staatspolizeiamtes <b>schindete Eindruck</b>. (<i>Lunapark</i>, 52)',
-//   Marlow
+    //   Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Das Auto riecht immer noch neu, kein Wunder, ist vor wenigen Wochen erst aus Zwickau gekommen, frisch ab Werk. Ein Audi, Typ M, sechs Zylinder unter der Haube, viel Platz im Fahrgastraum, ein feiner Wagen, einer, der <b>Eindruck schindet</b>, einer den man einen Chauffeur braucht. (<i>Marlow</i>, 513)',
 ],
@@ -26581,16 +26634,6 @@ verschanzen: [
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschanzen"target="target3">verschanzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verschanzen"target="target4">verschanzen</a>',
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wir werden zu den Letzten gehören, die das Alberich-Gebiet verlassen. Vier komplette Armeen haben <b>sich</b> bereits, vom Feinde unbemerkt, von den vordersten Frontlinien zurückgezogen und im unbezwingbaren Stahlbeton der Siegfried-Stellung <b>verschanzt</b>. (<i>Märzgefallene</i>, 160)',
-],
-verschimmeln: [
-    'der <b>Schimmel</b>: mold, mildew'+
-    '<br><b>verschimmeln</b>: get moldy, mildewed'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschimmeln"target="target1">verschimmeln</a> &nbsp;<a href="https://www.dwds.de/wb/verschimmeln"target="target2">verschimmeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschimmeln"target="target3">verschimmeln</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschimmeln"target="target4">verschimmeln</a>',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Vor allem im Norden und Osten Berlins gab es das: arme Würstchen (<i>poor souls</i>), die ihre armseligen, feucht <b>verschimmelten</b> Kellerwohnungen an noch ärmere Würstchen nächteweise vermieteten, um die Miete Woche für Woche zusammenkratzen zu können.... (<i>Märzgefallene</i>, 122)',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Doktor Karthaus schaute auf, als Rath den Obduktionssaal betrat. Auf dem Marmortisch lag die bereits in Verwesung begriffene Leiche einer alten Frau, der er gerade den Brustkorb geöffnet hatte. Es sah aus, als habe man ein übergroßes Hänchen tranchiert. Ein graues <b>verschimmeltes</b> Hänchen. (<i>Lunapark</i>, 105-06)',
 ],
 Verschlag: [
     'der <b>Verschlag</b>,-<b>läge</b>: shed, schack, crate; partitioned area'+

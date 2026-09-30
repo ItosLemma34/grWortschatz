@@ -105,7 +105,7 @@ const a = [
 'Aue',  // Aue: 
 'auf Biegen und Brechen', 
 'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
-'auf dem Kerbholz haben', //  duplicated  
+'auf dem Kerbholz haben, Kerbe, Kerbholz', //  duplicated  
 'auf dem Kieker haben', //  duplicated 
 'auf dem Sprung',      //  duplicated  
 'auf dem Trockenen sitzen', // duplicated 

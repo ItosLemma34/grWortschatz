@@ -68,11 +68,11 @@ export const wordExamples = {
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  [<i>Olympiastadion</i>]  im Olympischen Dorf
+    // '<br><i>trennbares Präfix</i>: <b> </b>'+
+    //  '<br><i>trennbare Präfixe</i>: <b> </b>'+
 /*
 zzz: [  
     '<b>zzz</b>: '+
-    // '<br><i>trennbares Präfix</i>: <b> </b>'+
-    //  '<br><i>trennbare Präfixe</i>: <b> </b>'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href=""target="target1">zzz</a>&nbsp;&nbsp;'+
         '<a href=""target="target2">zzz</a>'+
@@ -99,6 +99,21 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+Kommisskopp: [  
+    'der <b>Kommisskopp</b>, die <b>Kommissköppe</b> oder <b>Kommissköpfe</b>: drill-sergeant type'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ein%2BKommisskopf&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Kommisskopp</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Kommisskopf?o=Kommisskopp"target="target2">Kommisskopp</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Kommisskopp"target="target3">Kommisskopp</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/Kommisskopp"target="target4">Kommisskopp</a>',
+    // Märzgefallene xxx
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    'Levetzow hatte mit der Faust auf den Tisch gedonnert, doch von so etwas ließ Böhm sich nicht einschüchtern, da hatte er, damals im Krieg, weiß Gott schon schlimmere <b>Kommissköppe</b> erlebt. (<i>Märzgefallene</i>, 139)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Wenn er diesem <b>Kommisskopp</b> (<i>einem Wehrmachtoberleutnant</i>) verraten würde, was die Polizei in einem Vermisstenfall als erstes unternahm, dachte Lohmann..- der Oberleutnant würde ihn wahrscheinlich standrechtlich erschießen lassen. (<i>Olympia</i>, 170)',
+],
 'Anmut, anmuten, anmutig': [  
     'die <b>Anmut</b>: grace, charm, loveliness, sweetness'+
     '<br><b>anmuten</b>: appear as, seem to be'+
@@ -4330,12 +4345,21 @@ einschärfen: [
     '<br><i>Die frühere orthografische Unterscheidung zwischen <b>einbläuen</b></i> = "<i>Wäscheblau behandeln</i>"'+
     '<br><i>und <b>einbleuen</b></i> = "<i>jmdm. etwas mit Nachdruck einprägen oder einschärfen</i>" gibt es nicht:'+
     '<br><i> man schreibt in beiden Fällen einbläuen. (Duden, <u>Sprachliche Zweifelsfälle</u>, 9. Auflage, Seite 23)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einblaeuen_einschaerfen"target="target1">einbläuen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einbl%C3%A4uen"target="target2">einbläuen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einblaeuen#einbl%C3%A4uen"target="target3">einbläuen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=einbl%C3%A4uen&id=verb%3Aeinbla3uen"target="target4">einbläuen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/einblaeuen_einschaerfen"target="target1">einbläuen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/einbl%C3%A4uen"target="target2">einbläuen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/einblaeuen#einbl%C3%A4uen"target="target3">einbläuen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=einbl%C3%A4uen&id=verb%3Aeinbla3uen"target="target4">einbläuen</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Der Morgen hatte bereits gegraut, die Vögel in den Bäumen.. zwitscherten, als er (<i>Rath</i>) an Fritzes Bett gesessen und ihm alles <b>eingebläut</b> hatte. (<i>Lunapark</i>, 539)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Friedrich Manske zu Rath</i>: "Na, der Kollege Lauenburg. Hat Himmel und Hölle in Bewegung gesetzt, bis er mich gefunden hat. Un nu bin ick hier. Die letzte Fuhre von Otton Lehmann - ick kann Ihnen allet erzählen." Rath seufzte. Da hatte er dem renitenten Taxifahrer vom Anhalter Bahnhof wohl etwas zu viel Respekct <b>eingebleut</b>. (<i>Marlow</i>, 149)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Und was hat die Kriminalpolizei damit zu tun?", frage Lohmann. "Ich denke, die Wehrmacht kümmert sich um ihre Angelegenheiten selbst." So hatte Dorfkommandant von Gilsa es den Kriminalbeamten bei ihrem Dienstantritt <b>eingebleut</b>, und Lohmann hatte das nicht vergessen. (<i>Olympia</i>, 170)',
 ],
 'schweifen, ab-': [
     '<b>schweifen</b>: wander, roam, range, ramble'+
@@ -6880,13 +6904,14 @@ Gewinsel: [
     'Der Blick des Mannes (<i>Herr Brachwitz</i>) wanderte von Rath zu seiner Frau und wieder zurück. "Und du Schlampe", fuhr er sie an, "läufst um diese Zeit noch im Morgenmantel rum? Mach, dass du rauskommst, und zieh dir was an!" Die Frau raffte ihren Mantel zusammen, warf Rath noch einen <b>flehentlichen</b> Blick zu und verschwand dann nach hinten. (<i>Lunapark</i>, 189)',
     '<i>Juretzka</i>: "Es tut Ihnen leid? Meinen Sie, Ihr Mitleid bringt mir ein neues Auge?" <i>Rath</i>: "Sie haben sich da in etwas hineingesteigert, Juretzka! Ich <b>flehe</b> Sie <b>an</b>, verschonen Sie mich! Ich bin nur ein korrupter Bulle, Ich werde Sie laufen lassen." (<i>Lunapark</i>, 528)',
 ],
+/*
 Kerbe: [
     'die <b>Kerbe</b>,-<b>n</b>: nick, notch, groove, indentation'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kerbe"target="target1">Kerbe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kerbe"target="target2">Kerbe</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kerbe"target="target3">Kerbe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kerbe&id=substantiv%3AKerbe"target="target4">Kerbe</a>',
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath blutete und lag auf dem Boden, Juretzka hatte sich wieder aufgerappelt und stand nun über ihm, den Baseballschläger in der Hand. Rath konnte die <b>Kerben</b> erkennen und die blutgetränkte Stelle. Es war derselbe Schläger, den er in der Hütte gesehen hatte, Leo Juretzka musste ihn erst heute.. zurückgeholt haben. (<i>Lunapark</i>, 527)',
-],
+],*/
 'rappeln, auf-, hoch-': [ 
     '<b>rappeln</b>: rattle, clatter; be crazy, have a screw loose'+
     '<b>sich aufrappeln</b>: pick yourself up, recover'+
@@ -17840,34 +17865,49 @@ Korbstuhl: [
     'Dann ging sie (<i>Eva Heinen</i>) hinaus vor die Tür... Mit dem Öffnen der Glastür brachte sie den SA-Mann, der mit dem Kleben noch nicht ganz fertig war, aus dem Gleichgewicht, so dass er aus Versehen in seinen <b>Kleister</b>quast fasste. "Was machen Sie da?", fragte sie den Plakatekleber, doch der fluchte nur leise vor sich hin und zog ein Taschentuch hervor, um sich die voll<b>gekleisterte</b> Hand zu säubern. (<i>Märzgefallene</i>, 457)',
     '"Was Sie hier machen, ist Sachbeschädigung" sagte Rath und zeigte auf das schief und faltig <b>gekleisterte</b> Plakat auf der Eingangstür. "Unerlaubtes Plakatieren sowieso." (<i>Märzgefallene</i>, 458)',
 ],
-'Kerbholz (auf dem K. haben)': [
+'Kerbe, Kerbholz, auf dem K. haben': [ 
+    'die <b>Kerbe</b>,-<b>n</b>: nick, notch, groove, indentation'+
+    '<br>das <b>Kerbholz</b>, die <b>Kerbhölzer</b>: tally stick; notched wood'+
+    '<br><b>auf dem Kerbholz haben</b>: have a record of misdeeds/trouble; a lot to answer for'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/auf%20dem%20Kerbholz%20haben"target="target1">auf dem Kerbholz haben</a>&nbsp;&nbsp;'+
-        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+dem+Kerbholz+haben&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf dem Kerbholz haben</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/Kerbe"target="target1">Kerbe</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Kerbholz"target="target2">Kerbholz</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Kerbholz%20haben"target="target3">auf dem Kerbholz haben</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.dict.cc/?s=etwas+auf+dem+Kerbholz+haben"target="target3">auf dem Kerbholz haben</a>&nbsp;&nbsp;'+
-        '<a href="https://en.langenscheidt.com/german-english/search?term=etwas+auf+dem+Kerbholz+haben&q_cat=%2F%2F"target="target4">auf dem Kerbholz haben</a>',
+        '<a href="https://en.langenscheidt.com/german-english/kerbe"target="target4">Kerbe</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Kerbholz&id=substantiv%3AKerbholz"target="target2">Kerbholz</a>&nbsp;&nbsp;'+
+        '<a href="https://deutsch-mentor.com/tools/idioms/etwas-auf-dem-kerbholz-haben"target="target4">auf dem Kerbholz haben</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) zeigte ihr (<i>Gloria, im Eldorado</i>) das Foto. "Der muss hier öfter auftauchen."... <i>Gloria</i>: "Stimmt. Ein Russe, nicht wahr? Ein hübscher Kerl. Ihr habt ihn doch hoffentlich nicht weggesperrt? Das wäre zu schade." "Keine Angst. Im Moment suche ich ihn nur, weil ich etwas über einen seiner Freunde in Erfahrung bringen will." "Er <b>hat nichts auf dem Kerbholz</b>?" "Wenn man davon absieht, dass er mit Kokain handelt." (<i>Der nasse Fisch</i>, 126)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    'Rath blutete und lag auf dem Boden, Juretzka hatte sich wieder aufgerappelt und stand nun über ihm, den Baseballschläger in der Hand. Rath konnte die <b>Kerben</b> erkennen und die blutgetränkte Stelle. Es war derselbe Schläger, den er in der Hütte gesehen hatte, Leo Juretzka musste ihn erst heute.. zurückgeholt haben. (<i>Lunapark</i>, 527)',
     //Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
-    '<i>Rönnberg</i>: ".. ich muss zurück. Zu unseren Unterkünften." <i>Rath</i>: "Kein Problem, ich begleite dich. Reden wir auf dem Weg." Rönnberg nickte, was blieb ihm auch anderes übrig. Die Stewards warfen dem Jungen taxierende bis misstrauische Blicke zu, als fragten sie sich, was denn der Jugendehrendienstler <b>auf dem Kerbholz</b> haben könnte... (<i>Olympia</i>, 136)',
+    '<i>Rönnberg</i>: ".. ich muss zurück. Zu unseren Unterkünften." <i>Rath</i>: "Kein Problem, ich begleite dich. Reden wir auf dem Weg." Rönnberg nickte, was blieb ihm auch anderes übrig. Die Stewards warfen dem Jungen taxierende bis misstrauische Blicke zu, als fragten sie sich, was denn der Jugendehrendienstler <b>auf dem Kerbholz haben</b> könnte... (<i>Olympia</i>, 136)',
 ],
-'auf dem Kerbholz haben': [
-    'etwas <b>auf dem Kerbholz haben</b>: done something wrong, committed a crime'+
+'auf dem Kerbholz haben, Kerbe, Kerbholz': [ 
+    'die <b>Kerbe</b>,-<b>n</b>: nick, notch, groove, indentation'+
+    '<br>das <b>Kerbholz</b>, die <b>Kerbhölzer</b>: tally stick; notched wood'+
+    '<br><b>auf dem Kerbholz haben</b>: have a record of misdeeds/trouble; a lot to answer for'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/auf%20dem%20Kerbholz%20haben"target="target1">auf dem Kerbholz haben</a>&nbsp;&nbsp;'+
-        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+dem+Kerbholz+haben&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf dem Kerbholz haben</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/Kerbe"target="target1">Kerbe</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Kerbholz"target="target2">Kerbholz</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/etw.%20auf%20dem%20Kerbholz%20haben"target="target3">auf dem Kerbholz haben</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.dict.cc/?s=etwas+auf+dem+Kerbholz+haben"target="target3">auf dem Kerbholz haben</a>&nbsp;&nbsp;'+
-        '<a href="https://en.langenscheidt.com/german-english/search?term=etwas+auf+dem+Kerbholz+haben&q_cat=%2F%2F"target="target4">auf dem Kerbholz haben</a>',
+        '<a href="https://en.langenscheidt.com/german-english/kerbe"target="target4">Kerbe</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Kerbholz&id=substantiv%3AKerbholz"target="target2">Kerbholz</a>&nbsp;&nbsp;'+
+        '<a href="https://deutsch-mentor.com/tools/idioms/etwas-auf-dem-kerbholz-haben"target="target4">auf dem Kerbholz haben</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) zeigte ihr (<i>Gloria, im Eldorado</i>) das Foto. "Der muss hier öfter auftauchen."... <i>Gloria</i>: "Stimmt. Ein Russe, nicht wahr? Ein hübscher Kerl. Ihr habt ihn doch hoffentlich nicht weggesperrt? Das wäre zu schade." "Keine Angst. Im Moment suche ich ihn nur, weil ich etwas über einen seiner Freunde in Erfahrung bringen will." "Er <b>hat nichts auf dem Kerbholz</b>?" "Wenn man davon absieht, dass er mit Kokain handelt." (<i>Der nasse Fisch</i>, 126)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    'Rath blutete und lag auf dem Boden, Juretzka hatte sich wieder aufgerappelt und stand nun über ihm, den Baseballschläger in der Hand. Rath konnte die <b>Kerben</b> erkennen und die blutgetränkte Stelle. Es war derselbe Schläger, den er in der Hütte gesehen hatte, Leo Juretzka musste ihn erst heute.. zurückgeholt haben. (<i>Lunapark</i>, 527)',
     //Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
-    '<i>Rönnberg</i>: ".. ich muss zurück. Zu unseren Unterkünften." <i>Rath</i>: "Kein Problem, ich begleite dich. Reden wir auf dem Weg." Rönnberg nickte, was blieb ihm auch anderes übrig. Die Stewards warfen dem Jungen taxierende bis misstrauische Blicke zu, als fragten sie sich, was denn der Jugendehrendienstler <b>auf dem Kerbholz</b> haben könnte... (<i>Olympia</i>, 136)',
+    '<i>Rönnberg</i>: ".. ich muss zurück. Zu unseren Unterkünften." <i>Rath</i>: "Kein Problem, ich begleite dich. Reden wir auf dem Weg." Rönnberg nickte, was blieb ihm auch anderes übrig. Die Stewards warfen dem Jungen taxierende bis misstrauische Blicke zu, als fragten sie sich, was denn der Jugendehrendienstler <b>auf dem Kerbholz haben</b> könnte... (<i>Olympia</i>, 136)',
 ],
 'Kralle, krallen': [
     'die <b>Kralle</b>,-<b>n</b>: claw, talon'+
@@ -26882,6 +26922,7 @@ verunzieren: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Sie (<i>Charly</i>) hatte nicht einmal böse gewirkt, als sie mit ihrem Koffer aus dem Schlafzimmer gekommen war. Musste sie ja auch gar nicht. Wusste sie doch, wie weh es ihm (<i>Gereon</i>) tat, sie in Richtung Moabit ziehen zu lassen. Wie schwer es ihm fiel, allein zu sein. Er setzte sich an den <b>verwaisten</b> Frühstückstisch.. und starrte auf die Brötchenkrümel und den roten Marmeladenklecks auf Charlys Teller. (<i>Olympia</i>, 43)',
     'Die Tische im großen Vorgarten glänzten regennass und <b>verwaist</b>, umso mehr war drinnen los, die Olympiade machte sich auch in der Kantstraße bemerkbar. (<i>Olympia</i>, 165-66)',
+    'Der Schalter von Britisch-Indien war <b>verwaist</b>, davor jedoch stand ein Mann mit Turban neben zwei Männern in Feldgrau, einem Unteroffizier und einem Oberleutnant. (<i>Olympia</i>, 169-70)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verwegen: [

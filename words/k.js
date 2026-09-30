@@ -32,8 +32,8 @@ const k = [
 'keinen Zwang antun',  // duplicated 
 'Kelch',  // Kelch: 
 'kentern',  // kentern:
-'Kerbholz (auf dem K. haben)',//  duplicated 
-'Kerbe',  // Kerbe: 
+'Kerbe, Kerbholz, auf dem K. haben',  //  duplicated 
+//'Kerbe',  // Kerbe: 
 'Kerker', // Kerker:
 'kess',  // kess: 
 'ketten, Kette, Kettenkarussell',  
@@ -105,6 +105,7 @@ const k = [
 'knutschen',  // knutschen:  
 'Köder',   // Köder: 
 'Kolben',  // Kolben:
+'Kommisskopp',  // Kommisskopp:
 'Kommode', // Kommode:
 'komplimentieren',  // komplimentieren:
 'Konterfei',  // Konterfei: 

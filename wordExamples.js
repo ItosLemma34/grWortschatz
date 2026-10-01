@@ -8,6 +8,7 @@ export const wordExamples = {
 
 
 // check page number
+    // Der stumme Tod  auf den Arm nehmen  346  515  	
     // 'Anmut, anmuten, anmutig'  Der stumme Tod  430
     //'Zumutung, zumuten, zumute' Der stumme Tod  pg 482
     // Der stumme Tod huschen 290 309 343 357 365 (twice) 538
@@ -99,6 +100,33 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+mogeln: [  
+    '<b>mogeln</b>: cheat; slip, smuggle in/into/among'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/mogeln"target="target1">mogeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/mogeln"target="target2">mogeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/mogeln"target="target3">mogeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/mogeln"target="target4">mogeln</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Bis drei Uhr hatten sie (<i>Charly und Gereon</i>) im <i>Delpi</i> getanzt und dann eine Kraftdroshke nach Moabit genommen. Und sich schon im Taxi geküsst. Es hatte sich fast wie früher angefühlt, als sie noch nicht verheiratet gewesen waren. Als es noch prickelte. Als der Alltagstrott sie noch nicht eingeholt hatte. Als die Nazis sich nocht nicht in ihr Leben <b>gemogelt</b> hatten. (<i>Olympia</i>, 174)',
+],
 Kommisskopp: [  
     'der <b>Kommisskopp</b>, die <b>Kommissköppe</b> oder <b>Kommissköpfe</b>: drill-sergeant type'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -107,12 +135,50 @@ Kommisskopp: [
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.dict.cc/?s=Kommisskopp"target="target3">Kommisskopp</a>&nbsp;&nbsp;'+
         '<a href="https://www.wordreference.com/deen/Kommisskopp"target="target4">Kommisskopp</a>',
-    // Märzgefallene xxx
+    // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     'Levetzow hatte mit der Faust auf den Tisch gedonnert, doch von so etwas ließ Böhm sich nicht einschüchtern, da hatte er, damals im Krieg, weiß Gott schon schlimmere <b>Kommissköppe</b> erlebt. (<i>Märzgefallene</i>, 139)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Wenn er diesem <b>Kommisskopp</b> (<i>einem Wehrmachtoberleutnant</i>) verraten würde, was die Polizei in einem Vermisstenfall als erstes unternahm, dachte Lohmann..- der Oberleutnant würde ihn wahrscheinlich standrechtlich erschießen lassen. (<i>Olympia</i>, 170)',
+],
+'auf den Arm nehmen': [  
+    '<b>auf den Arm nehmen</b>: tease/kid so., pull someone\'s leg; pull a fast one'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Arm+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf den Arm nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target2">auf den Arm nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-arm-nehmen"target="target3">auf den Arm nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://crossidiomas.com/auf-den-arm-nehmen/"target="target4">auf den Arm nehmen</a>',
+    // Der stumme Tod
+    //'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //'   (<i>Der stumme Tod</i>, 000)',
+    // Der stumme Tod  auf den Arm nehmen  346  515  	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur – wie eine der Isidor-Zeichnungen, mit denen die Nazi-Postille <i>Der Angriff</i> seinerzeit Berlins Vize-Polizeipräsidenten Bernhard Weiß regelmäßig verunglimpft hatte. "Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln. "Wohl eher mit einem Juden, der sich <b>auf den Arm genommen</b> fühlt." (<i>Märzgefallene</i>, 19-20)',
+     // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Lohmann</i>: "Haben Sie denn schon in der Kaserne angerufen?" (<i>Wehrmacht Oberleutnant</i>): "Selbstverständlich. Dort ist Leutnant Dräger nicht." "Dann sollten wir es mal im Pausenraum versuchen oder im Restaurant." "Wollen Sie mich <b>auf den Arm nehmen</b>? Auch dort haben wir natürlich nachgeschaut." (<i>Olympia</i>, 170-71)',
+],
+'Arm (auf den A. nehmen)': [  
+    '<b>auf den Arm nehmen</b>: tease/kid so., pull someone\'s leg; pull a fast one'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Arm+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf den Arm nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target2">auf den Arm nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-arm-nehmen"target="target3">auf den Arm nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://crossidiomas.com/auf-den-arm-nehmen/"target="target4">auf den Arm nehmen</a>',
+    // Der stumme Tod
+    //'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //'   (<i>Der stumme Tod</i>, 000)',
+    // Der stumme Tod  auf den Arm nehmen  346  515  	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur – wie eine der Isidor-Zeichnungen, mit denen die Nazi-Postille <i>Der Angriff</i> seinerzeit Berlins Vize-Polizeipräsidenten Bernhard Weiß regelmäßig verunglimpft hatte. "Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln. "Wohl eher mit einem Juden, der sich <b>auf den Arm genommen</b> fühlt." (<i>Märzgefallene</i>, 19-20)',
+     // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Lohmann</i>: "Haben Sie denn schon in der Kaserne angerufen?" (<i>Wehrmacht Oberleutnant</i>): "Selbstverständlich. Dort ist Leutnant Dräger nicht." "Dann sollten wir es mal im Pausenraum versuchen oder im Restaurant." "Wollen Sie mich <b>auf den Arm nehmen</b>? Auch dort haben wir natürlich nachgeschaut." (<i>Olympia</i>, 170-71)',
 ],
 'Anmut, anmuten, anmutig': [  
     'die <b>Anmut</b>: grace, charm, loveliness, sweetness'+
@@ -6574,11 +6640,19 @@ nölen: [
 ],
 prickeln: [
     '<b>prickeln</b>: tingle, sparkle'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/prickeln"target="target1">prickeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/prickeln"target="target2">prickeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/prickeln"target="target3">prickeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=prickeln&id=verb%3Aprickeln"target="target4">prickeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/prickeln"target="target1">prickeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/prickeln"target="target2">prickeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/prickeln"target="target3">prickeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=prickeln&id=verb%3Aprickeln"target="target4">prickeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath kannte den Laden. Etwas für die, die es <b>prickelnd</b> fanden, nicht zu wissen, ob sie gerade mit Männlein oder Weiblein übers Tanzparkett schoben. Mindestens die Hälfte der Frauen im <i>Eldorado</i> waren gar keine. (<i>Der nasse Fisch</i>, 124)',
     'Die bleierne Müdigkeit verschwand sofort, als er (<i>Rath</i>) an den gestrigen Tag dachte. Adrenalin schoss in sein Blut. Es <b>prickelte</b>. Er brauchte kein Kokain, er brauchte eine kalte Dusche. (<i>Der nasse Fisch</i>, 465)',
+    // Olympia xxx
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Bis drei Uhr hatten sie (<i>Charly und Gereon</i>) im <i>Delpi</i> getanzt und dann eine Kraftdroshke nach Moabit genommen. Und sich schon im Taxi geküsst. Es hatte sich fast wie früher angefühlt, als sie noch nicht verheiratet gewesen waren. Als es noch <b>prickelte</b>. Als der Alltagstrott sie noch nicht eingeholt hatte. Als die Nazis sich nocht nicht in ihr Leben gemogelt hatten. (<i>Olympia</i>, 174)',
 ],
 'raffen, dahin-': [
     '<b>raffen</b>: gather, grab; get sth. (also other meanings)'+
@@ -6904,14 +6978,6 @@ Gewinsel: [
     'Der Blick des Mannes (<i>Herr Brachwitz</i>) wanderte von Rath zu seiner Frau und wieder zurück. "Und du Schlampe", fuhr er sie an, "läufst um diese Zeit noch im Morgenmantel rum? Mach, dass du rauskommst, und zieh dir was an!" Die Frau raffte ihren Mantel zusammen, warf Rath noch einen <b>flehentlichen</b> Blick zu und verschwand dann nach hinten. (<i>Lunapark</i>, 189)',
     '<i>Juretzka</i>: "Es tut Ihnen leid? Meinen Sie, Ihr Mitleid bringt mir ein neues Auge?" <i>Rath</i>: "Sie haben sich da in etwas hineingesteigert, Juretzka! Ich <b>flehe</b> Sie <b>an</b>, verschonen Sie mich! Ich bin nur ein korrupter Bulle, Ich werde Sie laufen lassen." (<i>Lunapark</i>, 528)',
 ],
-/*
-Kerbe: [
-    'die <b>Kerbe</b>,-<b>n</b>: nick, notch, groove, indentation'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Kerbe"target="target1">Kerbe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Kerbe"target="target2">Kerbe</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/kerbe"target="target3">Kerbe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Kerbe&id=substantiv%3AKerbe"target="target4">Kerbe</a>',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Rath blutete und lag auf dem Boden, Juretzka hatte sich wieder aufgerappelt und stand nun über ihm, den Baseballschläger in der Hand. Rath konnte die <b>Kerben</b> erkennen und die blutgetränkte Stelle. Es war derselbe Schläger, den er in der Hütte gesehen hatte, Leo Juretzka musste ihn erst heute.. zurückgeholt haben. (<i>Lunapark</i>, 527)',
-],*/
 'rappeln, auf-, hoch-': [ 
     '<b>rappeln</b>: rattle, clatter; be crazy, have a screw loose'+
     '<b>sich aufrappeln</b>: pick yourself up, recover'+
@@ -7419,8 +7485,8 @@ Sims: [
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der Projektor begann zu surren, ein Lichtstrahl schoss durch das Dunkel und ließ den Zigarettenrauch tanzen. Die Rollen zogen an, und kurz daraus sahen die Männer eine Filmklappe auf der Leinwand. Winkler stellte scharf, die Klappe wurde weggezogen, und Rath erkannte Betty Winter im Seidenkleid. Sie atmete heftig, im Hintergrund lehnte Victor Meiner im Abendanzug am Kamin<b>sims</b>. (<i>Der stumme Tod</i>, 164)',
     // Olympia
-//    '<span class="bookTitle"><u>Olympia</u></span>',
-// Sims Olympia  424 (twice)  425  
+    //    '<span class="bookTitle"><u>Olympia</u></span>',
+    // Sims Olympia  424 (twice)  425  
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Fichte: [
@@ -12232,20 +12298,6 @@ Armbeuge: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Charly</i>: "In der Kantine erzählen sie, dass selbst Diels vermutet, dass van der Lubbe ein Einzeltäter ist." <i>Gereon</i>: "Diels? Der Chef der IA (<i>die Politische Polizei</i>)?" <i>Charly</i>: "Dein neuer Chef." Sie grinste. "Nur weil Göring es so will, müssen <b>auf Biegen und Brechen</b> Spuren gefunden werden, die auf mehrere Täter hindeuten und auf eine kommunistische Verschwörung." (<i>Märzgefallene</i>, 196)',
 ],
-'auf den Arm nehmen': [
-    '<b>auf den Arm nehmen</b>: tease, make fun of, pull so.\'s chain'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target1">auf den Arm nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Arm+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Arm nehmen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-arm-nehmen"target="target3">auf den Arm nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Arm+nehmen"target="target4">auf den Arm nehmen</a>',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur...."Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln.  "Wohl eher mit einem Juden, der sich <b>auf den Arm genommen</b> fühlt." (<i>Märzgefallene</i>, 20)',
-],
-'Arm (auf den A. nehmen)': [
-    '<b>auf den Arm nehmen</b>: tease, make fun of, pull so.\'s chain'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdn.%2C%20sich%20auf%20den%20Arm%20nehmen"target="target1">auf den Arm nehmen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+den+Arm+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">auf den Arm nehmen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/auf-den-arm-nehmen"target="target3">auf den Arm nehmen</a>&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+Arm+nehmen"target="target4">auf den Arm nehmen</a>',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur...."Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln.  "Wohl eher mit einem Juden, der sich <b>auf den Arm genommen</b> fühlt." (<i>Märzgefallene</i>, 20)',
-],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'auf den Strich gehen': [
     'der <b>Strich</b>,-<b>e</b>: line, dash, stripe; red-light district'+
@@ -14647,8 +14699,12 @@ formvollendet: [
 ],
 Firlefanz: [
     'der <b>Firlefanz</b>,-<b>e</b>: rubbish, nonsense'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Firlefanz"target="target1">Firlefanz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Firlefanz"target="target2">Firlefanz</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/firlefanz"target="target3">Firlefanz</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Firlefanz"target="target4">Firlefanz</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Firlefanz"target="target1">Firlefanz</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Firlefanz"target="target2">Firlefanz</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/firlefanz"target="target3">Firlefanz</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Firlefanz"target="target4">Firlefanz</a>',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Gereon</i>: "Charly, fängst du schon wieder an?.. Fritze ist kein Nazi. Und wird so schnell auch keiner werden. Und wenn Hitler erst mal weg ist, dann wird das mit dem ganzen Nazi-<b>Firlefanz</b> sowieso weniger werden." (<i>Lunapark</i>, 130)',
@@ -14658,6 +14714,7 @@ Firlefanz: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Nach dem freundlich zivilen Empfang hatte Rath tatsächlich für einen Moment geglaubt, hier im Olympischen Dorf spiele der Nazi-<b>Firlefanz</b> keine Rolle. Spielte er natürlich doch. (<i>Olympia</i>, 52)',
+    'Der Abend gestern, so lausig er begonnen hatte mit all dem Nazi-<b>Firlefanz</b> im Stadion, hatte doch noch ein schönes Ende genommen. (<i>Olympia</i>, 174)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
     // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -17206,8 +17263,13 @@ heimzahlen: [
 'hetzen, Hetze': [
     '<b>hetzen</b>: rush, hurry, hustle; agitate, hound, stir up (hatred, etc)'+
     '<br>die <b>Hetze</b>,-<b>n</b>: haste, rush, hurry; agitation, baiting, smear campaign'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/hetzen"target="target1">hetzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Hetze"target="target2">Hetze</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/hetzen"target="target3">hetzen</a>&nbsp;&nbsp;<a href=""target="target4">Hetze</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/hetzen"target="target1">hetzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Hetze"target="target2">Hetze</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/hetzen"target="target3">hetzen</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">Hetze</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Ich verfolge den Flüchtigen. Machen Sie Meldung", brüllte Rath. Dann <b>hetzte</b> er durch die Tore auf die Hermannstraße. (<i>Der nasse Fisch</i>, 21)',
     'Wenn Bruno ihm (<i>den Pornokaiser</i>) den Weg abschneiden würde, dann hätten sie (<i>Bruno und Rath</i>) ihn in der Zange. Wilhelm zwo hatte ihn (<i>Rath</i>) bemerkt, sein Blick wurde zusehends <b>gehetzter</b>. (<i>Der nasse Fisch</i>, 23)',
@@ -17215,24 +17277,30 @@ heimzahlen: [
     'Der dünne Mann neben ihm (<i>Rath</i>) war ein wenig zu hektisch von seinem Hocker aufgestanden. Rath drehte instinktiv den Kopf zur Seite. Und kaum hatte er seinen Nebenmann im Visier, rannte der auch schon los. <b>Gehetzter</b> Blick, eingefallene Wangen. (<i>Der nasse Fisch</i>, 121)',
     'Er (<i>Rath</i>) musste diesen verfluchten Fall lösen. Jetzt erst recht! Irgendwem war er mit seiner Schnüffelei auf die Füße getreten. Der Terrier, den sie ihm auf den Hals <b>gehetzt</b> hatten, bestätigte ihm nur, dass er auf der richtigen Spur sein musste. (<i>Der nasse Fisch</i>, 231)',
     'Bruno Wolter kam herein. Der Onkel sah blass und <b>gehetzt</b> aus, als sei er von der Burg bis hierher gerannt. (<i>Der nasse Fisch</i>, 231)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Böser Hund", rief Rath. "Komm zu Herrchen! Bei Fuß!" Auf so etwas hatte Kirie noch nie gehört. Gräf und Rath <b>hetzten</b> hinterher und fanden sie in der Küche, just in der Ecke, in der sie sich auch schon zu den Zeiten, als sie noch hier gewohnt hatten, am liebsten zusammengerollt hatte. (<i>Märzgefallene</i>, 116)',
     'Sie (<i>Hannah und Fritze</i>) waren durch eine Tür in den riesigen Bürotrakt gelaufen, waren irgendwo die Treppen runter und im Hinterhof durch ein Fenster raus. Waren... auf die Straße gelangt und dann losgerannt, so schnell sie konnten, waren die Prenzlauer Allee hinauf<b>gehetzt</b>, bis ihnen die Lungen aus dem Hals hingen, und mit letzter Kraft irgendwie über eine Mauer. (<i>Märzgefallene</i>, 173)',
     'Seit Tagen verhörten sie nun die von der Fahndung überall im Wedding eingesammelten Jugendlichen, die den Roten Ratten zugerechnet wurden, und an Karin schien das abzuprallen wie Regen und einer Öljacke. Sie hatten es mit halben Kindern zu tun, denen die geballte Staatsmacht auf den Hals <b>gehetzt</b> wurde wegen einer einzigen lächerlichen Wandschmiererei. (<i>Märzgefallene</i>, 187)',
     'Die SA war immer unberechenbar, vor allem, wenn sie in solchen Massen auftrat. Womöglich erkannte ihr besonderer Freund von heute Morgen sie (<i>Charly</i>) wieder und <b>hetzte</b> seine Kupane auf sie. (<i>Märzgefallene</i>, 204)',
     'Nun saßen und standen sie also zu fünft in Zienteks engem Büro, und alle warteten gespannt darauf, welche Fragen der Kommissar (<i>Rath</i>) wohl stellen mochte. Rath hatte keine Ahnung, welche das sein könnten. Die Fragen, die ihm auf den Nägeln brannten, jedenfalls nicht. <i>Wer hat Sie so zugerichtet? Was wollen die Schweinehunde von Ihnen? Soll ich der SA Johann Marlow auf den Hals <b>hetzen</b></i>? (<i>Märzgefallene</i>, 230)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Zwei Männer stiegen aus und kamen ihm entgegen.. Für einen Moment befürchtete er, irgendwer, dem er auf die Füße getreten war, habe ihm zwei Schläger auf den Hals <b>gehetzt</b>, dann aber fummulte der Kleinere der beiden eine Blechmarke aus seinem Kleppermantel. (<i>Lunapark</i>, 148)',
     'Rath überquerte die Hankestraße und ging zurück zur Volksbühne. Er hatte den Bühneneingang fast erreicht, da kam endlich auch der sandfarbene Buick um die Ecke gebogen. Gräf hielf direkt neben ihm und stieg aus dem Wagen. Der Kollege machte einen <b>gehetzten</b> Eindruck, seine Wangen waren gerötet. (<i>Lunapark</i>, 194)',
     '<i>Lapke</i>: "An Ihrer Stelle würde ich mal darüber nachdenken, Herr Kriminaldirektor, warum ausgerechnet Gereon Rath, ein Polizeibeamter, der Johann Marlow aus der Hand frisst, Sie und den ganzen Polizeiapparat auf mich <b>gehetzt</b> hat." (<i>Lunapark</i>, 230)',
     'Er (<i>Marlow</i>) griff zu einem Ast, der vom letzten Sturm auf die Terrasse geweht worden sein mochte, und warf ihn weit in den Garten hinein. Kirie <b>hetzte</b> sofort hinterher. (<i>Lunapark</i>, 355)',
     'Endlich große Ferien! Endlich raus aus der Stadt, endlich raus aus dem Irrenhaus. Fritze war froh mit Atze und dessen Vater im Auto zu sitzen. Zuhause war es nicht mehr auszuhalten. Gereon ließ sich kaum noch blicken und wirkte von Tag zu Tag <b>gehetzter</b>. (<i>Lunapark</i>, 457)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Die Stimme des Fahrers klang heiser und, ganz im Gegensatz zu seiner Fahrweise, seltsam <b>gehetzt</b>, fast hektisch. (<i>Marlow</i>, 17)',
     'Während er (<i>Rath</i>) ihren (<i>Fräulein Peters</i>) Schritten nachhorchte, fragte er sich, was zum Teufel dieser Besuch zu bedeuten hatte. War so etwas wirklich üblich? Oder hatte ihnen jemand das Jugendamt auf den Hals <b>gehetzt</b>? Irgendeiner ihrer tugendhaften Nachbarn, die sich darüber mokierten, dass Charly nicht so oft Fenster putzte...? (<i>Marlow</i>, 47)',
     '<i>Hitler</i>: "<i>Die deutsche Reichsregierung.. ist dabei beherrscht von dem Gedanken, durch eine einmalige säkulare Lösung vielleicht doch eine Ebene schaffen zu können, auf der es dem deutschen Volke möglich wird, ein erträgliches Verhältnis zum jüdischen Volke finden zu können. Sollte sich diese Hoffnung nicht erfüllen, die innerdeutsche und internationale jüdische <b>Hetze</b> ihren Fortgang nehmen, wird eine neue Überprüfung der Lage stattfinden</i>..." (<i>Marlow</i>, 362)',
     'Er (<i>Fritze</i>) hatte sich noch nie viel Gedanken zur Rassenfrage gemacht. Dass die Juden im In- und Ausland gegen das nationalsozialistische Deutschland <b>hetzten</b>, das hörte man ja immer wieder, und natürlich musste man dagegen etwas tun. (<i>Marlow</i>, 362)',
     'Es waren doch nicht alle Juden gleich, es <b>hetzten</b> doch nicht alle Juden gegen Deutschland. Hannah war jüdisch, aber die hatte nie gegen Deutschland <b>gehetzt</b>. (<i>Marlow</i>, 362)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Gereon</i>: "Die Sozialisten sind aber auch nicht ganz ohne. Was man da alles in den Zeitungen liest." <i>Charly</i>: "Ja, in unseren Zeitungen. Meinst du etwa, die sind neutral? Wenn die gegen Sozialisten <b>hetzen</b> können, dann tun sie das." (<i>Olympia</i>, 173)',
 ],
 'hocken, Hocke, Hocker': [
     '(<b>sich</b>) <b>hocken</b>: squat/crouch (down)'+
@@ -17329,6 +17397,7 @@ heimzahlen: [
     'Er (<i>Rath</i>) rutschte vom Bar<b>hocker</b> und griff nach Hut und Autoschlüsseln. "Gut, dann lass uns fahren." (<i>Olympia</i>, 30)',
     'Nun ging es schon auf den Abend zu, nach dem Fahnenappell würden sie das Dorf verlassen, und er (<i>Fritze</i>) hatte den ganzen Tag keinen Kriminalbeamten gesehen. Was nicht weiter verwunderlich war, denn die traten eher selten in Erscheinung, sondern <b>hockten</b> den lieben langen Tag in ihrem Büro. (<i>Olympia</i>, 87)',
     'Und nun <b>hockten</b> sie alle beide hier im Büro und hörten Radio. Die Übertragung vom Reichssportfeld war eher langweilig. (<i>Olympia</i>, 168)',
+    '"Leutnant Dräger, sind Sie da drin? So antworten Sie doch". Lohmann klopfte und rief, doch nichts tat sich. Er <b>hockte sich</b> auf den Boden und schaute unter der Tür hindurch. Auf der Toilette saß jemand, er konnte Stiefel erkennen. Militärstiefel. (<i>Olympia</i>, 172)',
 ],
 Hosenmatz: [
     'der <b>Hosenmatz</b>,-<b>mätze</b>/<b>matze</b>: tiny tot'+
@@ -19666,10 +19735,18 @@ lotsen: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 lausig: [
     '<b>lausig</b>: crummy, dreadful, awful'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lausig"target="target1">lausig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lausig"target="target2">lausig</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lausig"target="target3">lausig</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lausig"target="target4">lausig</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/lausig"target="target1">lausig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/lausig"target="target2">lausig</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/lausig"target="target3">lausig</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/lausig"target="target4">lausig</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Während Gräf sich in der neugewonnenen Bewunderung sonnte, und sogar Steinke, der <b>lausige</b> Kommissaranwärter, ein paar Strahlen abbekam, empfand Rath nur Neid. (<i>Märzgefallene</i>, 511)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der Abend gestern, so <b>lausig</b> er begonnen hatte mit all dem Nazi-Firlefanz im Stadion, hatte doch noch ein schönes Ende genommen. (<i>Olympia</i>, 174)',
 ],
 'leimen, Leim, auf den L. gehen': [ 
     '<b>leimen</b>: to glue, paste; take sb. in/for a ride'+
@@ -24020,14 +24097,23 @@ schmoren: [
 ],
 Schnapsidee: [
     'die <b>Schnapsidee</b>,-<b>n</b>: crazy idea'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schnapsidee"target="target1">Schnapsidee</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schnapsidee"target="target2">Schnapsidee</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schnapsidee"target="target3">Schnapsidee</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schnapsidee"target="target4">Schnapsidee</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schnapsidee"target="target1">Schnapsidee</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Schnapsidee"target="target2">Schnapsidee</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/schnapsidee"target="target3">Schnapsidee</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Schnapsidee"target="target4">Schnapsidee</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Was hast du vor?, dachte er (<i>Gereon</i>). Bei Greta an der Tür klingeln und fragen, ob du Charly mit zum Alex nehmen kannst? Schöne <b>Schnapsidee</b>. (<i>Märzgefallene</i>, 115)',
     '"Du bis aber ein lieber Bello", fing der Junge (<i>Fritze</i>) an, doch Charly unterbrach ihn. "Bello heißt Kirie", schimpfte sie, "und du erzählst mir jetzt sofort, was für eine <b>Schnapsidee</b> dich zu mir geführt hat!" Er zuckte die Achseln. "Keine <b>Schnapsidee</b>. Eine Eingebung. Hatte doch noch Ihre Adresse." Er grinste. "Und hat ja funktioniert." (<i>Märzgefallene</i>, 353-54)',
     'Und dann erkärte sie (<i>Charly</i>) ihm (<i>Gereon</i>) ihren Plan. Rath wusste schon nach Charlys ersten Sätzen, dass es eine <b>Schnapsidee</b> war, doch da ihm selbst nichts Besseres einfiel, stimmte er schließlich zu. (<i>Märzgefallene</i>, 414)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Nach Nürnberg fahren, was für eine <b>Schnapsidee</b>! Auf dem Land, in irgendeinem Dorf, in irgendeinem ländlichen Postamt, da hätte er in Ruhe telefonieren können, in Nürnberg war das heute ein Ding der Unmöglichkeit. (<i>Marlow</i>, 278)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Er (<i>der Wehrmachtoberleutnant</i>) blieb mit pikiertem Gesicht bei den Urinalen stehen, während Lohmann in jede freie Kabine schaute und an die Türen der übrigen klopfte. "Leutnant Dräger? Sind Sie hier? Leutnant Dräger?"... Doch sie scheuchten nur einen Besucher (<i>der Toilette</i>) auf, der gerade sein Geschäft verrichtete... Jedenfalls verließ er die Waschräume hektisch mit herunterhängenden Hosenträgern... "Na, sehen Sie", meinte der Oberleutnant. "Habe ja gleich gesagt, das ist eine <b>Schnapsidee</b>." (<i>Olympia</i>, 171)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schnarchen: [
@@ -24893,6 +24979,7 @@ stibitzen: [
     'Wenn Sie mir bitte folgen wollen, Oberkommissar (<i>Rath</i>)", sagte der Knabe und <b>stiefelte los</b>. Wirkte wie eine Mischung aus Pfadfinder und Liftboy in seiner Uniform. (<i>Olympia</i>, 52)',
     'Gretas Nachbarin grummelte irgendetwas vor sich hin und <b>stiefelte</b> die Treppen <b>hinunter</b>. (<i>Olympia</i>, 118)',
     'Rönnberg schien es eilig zu haben. Mit großen Schritten <b>stiefelte</b> er an der Schwimmhalle <b>vorbei</b> und dem Sportplatz <b>entgegen</b>. Rath konnte kaum mithalten. (<i>Olympia</i>, 136)',
+    '"Leutnant Dräger, sind Sie da drin? So antworten Sie doch". Lohmann klopfte und rief, doch nichts tat sich. Er hockte sich auf den Boden und schaute unter der Tür hindurch. Auf der Toilette saß jemand, er konnte <b>Stiefel</b> erkennen. Militär<b>stiefel</b>. (<i>Olympia</i>, 172)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'stieren, an-': [

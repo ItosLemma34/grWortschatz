@@ -139,6 +139,7 @@ ausblenden  Marlow 134
 aufreißen  Der stumme Tod 81  in sense of "pick up "
 aushalten  Der stumme Tod 90  meaning "to be kept a kept woman"
 aushändigen  Marlow 257
+aussharren  Olympia  160
 Aushebung  Der nasse Fisch 19  aushebeln  31  
 ausheulen  Märzgefallene  508   ausgeheult    
 ausholen Der stumme Tod  10 included with gepfeffert 
@@ -237,11 +238,12 @@ entgleisen  Der nasse Fisch 404
  Gebirge Der stumme Tod 22 
   gefliest  Lunapark 39 
 Geheiß:   Lunapark 57
+geheuer  Olympia 155
  gegen den Strich gehen Der nasse Fisch 90
  gehörig  Lunapark 491  in "zwitschern"  Der stumme Tod 42
  gelitten  Der stumme Tod 123
  gelost,  losen  Lunapark 18
- gemächlich  Marlow 327
+ gemächlich  Marlow 327  Olympia 158
  Gemaule Der nasse Fisch 508
  gepresst Der stumme Tod 260
  geraten  Der nasse Fisch 448
@@ -275,7 +277,7 @@ Geheiß:   Lunapark 57
  handverlesen Der stumme Tod 17
  hasten Marlow 342
  Halter Lunapark 153
- Hauch Olympia 111
+ Hauch Olympia 111  151
  Heftzwecken  Lunapark 286
  Heimlichkeit Lunapark 464
  heimsuchen Der stumme Tod 71
@@ -305,6 +307,7 @@ Geheiß:   Lunapark 57
  kalauern  Der nasse Fisch 160       
  karrieregeil  Der nasse Fisch 84
  Keks Marlow 245
+ Klinker Lunapark 492 under beschaulich
  klar Schiff machen Marlow 139
  klauben  Lunapark 265
  Kluft  Lunapark 279
@@ -319,7 +322,6 @@ Geheiß:   Lunapark 57
  'Klump'  ;   Nworte++;    Der nasse Fisch 11
  Knöchel  Der nasse Fisch 117   
  knutschen  Der stumme Tod  99
- 'Kommissköppe'  ;   Nworte++;    Märzgefallene   139
  Kopfsteinpflaster  Marlow 281
  Koppel Der nasse Fisch 481
  koten  Lunapark 490
@@ -377,7 +379,7 @@ nölen Der nasse Fisch 465
  Parlamentär Lunapark 101
  'Pelle'  ;   Nworte++;  auf die Pelle      Märzgefallene   15
  pflücken  add to zerpflücken?
- pikiert  Lunapark 27
+ pikiert  Lunapark 27  Olympia 171
  Platte Marlow 46  342
  Prokurist  Marlow 276
  proper Der stumme Tod 44

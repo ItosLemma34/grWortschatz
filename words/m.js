@@ -36,6 +36,7 @@ const m = [
 'mit allen Wassern gewaschen', //  duplicated 
 'mit einem Affenzahn',   // duplicated
 'mitgenommen',  // mitgenommen: 
+'mogeln',  // mogeln:
 'Mohrrübe', // Mohrrübe:
 'Molle', // Molle:
 'Montur',  // Montur: 

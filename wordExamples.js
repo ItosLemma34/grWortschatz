@@ -32,7 +32,7 @@ export const wordExamples = {
     // Goldstein</i>, 81 184 erbrechen
  //unbeholfen   '   (<i>Der stumme Tod</i>, 000)', pgs 333, 370 426	
 //Der stumme Tod</i>, 326 Tross or Troß
-//Olympia  kniff 178 373   gereizter
+//Olympia  kniff  373   gereizter
 // Olympia unbeholfen 331 461 487 525
 // Der stumme Tod 'drucksen, herum-'  297
 //Der stumme Tod  Streich 388
@@ -101,31 +101,17 @@ zzz: [
 ],
 */
 mogeln: [  
-    '<b>mogeln</b>: cheat; slip, smuggle in/into/among'+
+    '<b>mogeln</b>: cheat, fudge'+
+    '<br><b>sich mogeln</b>: sneak/slip/worm one\'s way into'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/mogeln"target="target1">mogeln</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/mogeln"target="target2">mogeln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://dictionary.cambridge.org/dictionary/german-english/mogeln"target="target3">mogeln</a>&nbsp;&nbsp;'+
         '<a href="https://www.wordreference.com/deen/mogeln"target="target4">mogeln</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    'Bis drei Uhr hatten sie (<i>Charly und Gereon</i>) im <i>Delpi</i> getanzt und dann eine Kraftdroshke nach Moabit genommen. Und sich schon im Taxi geküsst. Es hatte sich fast wie früher angefühlt, als sie noch nicht verheiratet gewesen waren. Als es noch prickelte. Als der Alltagstrott sie noch nicht eingeholt hatte. Als die Nazis sich nocht nicht in ihr Leben <b>gemogelt</b> hatten. (<i>Olympia</i>, 174)',
+    'Bis drei Uhr hatten sie (<i>Charly und Gereon</i>) im <i>Delpi</i> getanzt und dann eine Kraftdroshke nach Moabit genommen. Und sich schon im Taxi geküsst. Es hatte sich fast wie früher angefühlt, als sie noch nicht verheiratet gewesen waren. Als es noch prickelte. Als der Alltagstrott sie noch nicht eingeholt hatte. Als die Nazis <b>sich</b> noch nicht in ihr Leben <b>gemogelt</b> hatten. (<i>Olympia</i>, 174)',
 ],
 Kommisskopp: [  
     'der <b>Kommisskopp</b>, die <b>Kommissköppe</b> oder <b>Kommissköpfe</b>: drill-sergeant type'+
@@ -840,7 +826,7 @@ hinblättern: [
      //    '   (<i>Goldstein</i>, 000)',	
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    'Jeden Tag würde er (<i>Rath</i>) hier (<i>die Besuchergaststätte des Olympischen Dorfes</i>) nicht zu Mittag speisen, das stand fest. Für sein Hühnerragout mit Reis und Spargel musste er zweifünfzig <b>hinblättern</b>.. - eindeutig mehr, als sein Oberkommissarsgehalt für ein Mittagsmahl hergab. (<i>Olympia</i>, 66)',
+    'Jeden Tag würde er (<i>Rath</i>) hier (<i>die Besuchergaststätte des Olympischen Dorfs</i>) nicht zu Mittag speisen, das stand fest. Für sein Hühnerragout mit Reis und Spargel musste er zweifünfzig <b>hinblättern</b>.. - eindeutig mehr, als sein Oberkommissarsgehalt für ein Mittagsmahl hergab. (<i>Olympia</i>, 66)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö  Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
@@ -6650,7 +6636,7 @@ prickeln: [
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath kannte den Laden. Etwas für die, die es <b>prickelnd</b> fanden, nicht zu wissen, ob sie gerade mit Männlein oder Weiblein übers Tanzparkett schoben. Mindestens die Hälfte der Frauen im <i>Eldorado</i> waren gar keine. (<i>Der nasse Fisch</i>, 124)',
     'Die bleierne Müdigkeit verschwand sofort, als er (<i>Rath</i>) an den gestrigen Tag dachte. Adrenalin schoss in sein Blut. Es <b>prickelte</b>. Er brauchte kein Kokain, er brauchte eine kalte Dusche. (<i>Der nasse Fisch</i>, 465)',
-    // Olympia xxx
+    // Olympia 
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Bis drei Uhr hatten sie (<i>Charly und Gereon</i>) im <i>Delpi</i> getanzt und dann eine Kraftdroshke nach Moabit genommen. Und sich schon im Taxi geküsst. Es hatte sich fast wie früher angefühlt, als sie noch nicht verheiratet gewesen waren. Als es noch <b>prickelte</b>. Als der Alltagstrott sie noch nicht eingeholt hatte. Als die Nazis sich nocht nicht in ihr Leben gemogelt hatten. (<i>Olympia</i>, 174)',
 ],
@@ -10053,7 +10039,8 @@ knistern: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Auf einer Dienstbesprechung vor ein, zwei Monaten hatte Nebe, sein Chef, das Thema aufgebracht und keinen Zweifel daran gelassen, was er von den Beamten des preußischen Landeskriminalamtes erwarte: Dass diese sich selbstverständlich und mit Freuden bereiterklären, einen ausländischen Gast für die Zeit der Olympischen Spiele zu beherbergen. Niemand hatte <b>gekniffen</b>, Rath hatte gar nicht anders gekonnt... (<i>Olympia</i>, 42)',
-//Olympia  kniff 178 373  
+    '<i>Rath</i>: "Kannten Sie den Toten?" "Kaum. Wie man einen Kameraden eben kennt." Der Soldat <b>kniff</b> die Lippen <b>zusammen</b> und machte den Eindruck, als sei es ihm eher unangehehm, dass man ihn auf den toten Kameraden ansprach. (<i>Olympia</i>, 178)',
+//Olympia  kniff  373  
 ],
 knebeln: [
     '<b>knebeln</b>: gag so.'+
@@ -10858,6 +10845,7 @@ Ausschachtung: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Pütz</i>: "Nun, was für einen Grund sollte die Kripo sonst haben, mit uns zu sprechen, als den, dass in unserem Speisesaal jemand gestorben ist." <i>Rath</i>: "Nicht jemand. Ein Mitglied des amerikanischen Olympiatrosses. Das macht die Sache so delikat, deswegen wünsche ich auch, Sie unter vier Augen zu sprechen. Dieser Vorfall darf selbstverständlich nicht <b>an die große Glocke gehängt</b> werden." (<i>Olympia</i>, 60)',
     'Ansonsten aber hatte er (<i>Gereon</i>) ihr (<i>Charly</i>) alles verraten. Verraten müssen. Wo sie doch eh schon viel zu viel wusste. Dass es um eine Todesfallermittlung ging, eine, die nicht <b>an die große Glocke gehängt</b> werden durfte. (<i>Olympia</i>, 164)',
+    '..."Jedenfalls", sagte er (<i>Gräf</i>)..."ist die offizielle Version (von Drägers Tod) eine, an deren Verbreitung auch die Wehrmacht kein Interesse hat... Ein drogensüchtiger Offizier im Olympischen Dorf. Einer von denen, die sich um Sportler aus aller Welt kümmern und Deutschland von seiner besten Seite präsentieren sollen. Wir müssen uns keine Sorgen machen, dass das irgendwer hier <b>an die große Glocke hängen</b> wird." (<i>Olympia</i>, 181)',
 ],
 'Glocke (an die große G. hängen)': [
     'etwas <b>an die große Glocke hängen</b>: broadcast sth. around, shout from rooftops'+
@@ -10888,6 +10876,7 @@ Ausschachtung: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Pütz</i>: "Nun, was für einen Grund sollte die Kripo sonst haben, mit uns zu sprechen, als den, dass in unserem Speisesaal jemand gestorben ist." <i>Rath</i>: "Nicht jemand. Ein Mitglied des amerikanischen Olympiatrosses. Das macht die Sache so delikat, deswegen wünsche ich auch, Sie unter vier Augen zu sprechen. Dieser Vorfall darf selbstverständlich nicht <b>an die große Glocke gehängt</b> werden." (<i>Olympia</i>, 60)',
     'Ansonsten aber hatte er (<i>Gereon</i>) ihr (<i>Charly</i>) alles verraten. Verraten müssen. Wo sie doch eh schon viel zu viel wusste. Dass es um eine Todesfallermittlung ging, eine, die nicht <b>an die große Glocke gehängt</b> werden durfte. (<i>Olympia</i>, 164)',
+    '..."Jedenfalls", sagte er (<i>Gräf</i>)..."ist die offizielle Version (von Drägers Tod) eine, an deren Verbreitung auch die Wehrmacht kein Interesse hat... Ein drogensüchtiger Offizier im Olympischen Dorf. Einer von denen, die sich um Sportler aus aller Welt kümmern und Deutschland von seiner besten Seite präsentieren sollen. Wir müssen uns keine Sorgen machen, dass das irgendwer hier <b>an die große Glocke hängen</b> wird." (<i>Olympia</i>, 181)',
 ],
 auswringen: [
     '<b>auswringen</b>: squeeze, wring out'+
@@ -16402,7 +16391,7 @@ Gelände: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Was für ein Mistwetter. Es war gespenstisch, die Dorfaue verschwand im dichten Nebel, das Olympische Dorf wirkte wie eine Geisterstadt. Hätte Fritze nicht gewusst, wieviele Menschen hier lebten, er hätte denken können, Schröder und er seien die Einzigen auf dem <b>Gelände</b>. (<i>Olympia</i>, 37)',
     '.. Sonntagmorgen, kurz nach halb sechs, so früh standen nicht einmal die Japaner auf. Aber zwei Jugendehrendienstler (<i>Fritze und Schröder</i>), denen man eine Strafarbeit aufgebrummt hatte. Rönnberg, ihr Stubenältester, hatte sie noch vor dem Frühstück aufs <b>Gelände</b> gejagt. (<i>Olympia</i>, 37)',
-    'Franke stand auf und legte die Mappe auf den Schreibtisch. Rath zündete sich eine Zigarette an und überflog das Anzeigenprotokoll... Wenigstens etwas zu tun. Und ein Vorwand, sich ein wenig auf dem <b>Gelände</b> des Olympischen Dorfes umzuschauen. (<i>Olympia</i>, 94)',
+    'Franke stand auf und legte die Mappe auf den Schreibtisch. Rath zündete sich eine Zigarette an und überflog das Anzeigenprotokoll... Wenigstens etwas zu tun. Und ein Vorwand, sich ein wenig auf dem <b>Gelände</b> des Olympischen Dorfs umzuschauen. (<i>Olympia</i>, 94)',
     'Er (<i>Rath</i>) stellte sich auf die Terrasse vor dem Speisesaal und ließ seinen Blick über das Dorf schweifen. Links säumten die Wohnhäuser der Amerikaner den Weg, gekrönt vom Sternenbanner, das im Abendwind knatterte, direkt vor ihm senkte sich das <b>Gelände</b> zur Dorfaue. (<i>Olympia</i>, 99)',
     'Er (<i>Rath</i>) ging erst gar nicht ins Büro, sondern direkt auf das <b>Gelände</b>. Das Abendessen war beendet, auf den Wegen in der Unteren Dorfaue.. war viel los. Rath hatte das Gefühl, dass heute, am Vorabend der Eröffnungsfeier, alle einen Hauch nervöser wirkten als sonst... (<i>Olympia</i>, 151)',
 ],
@@ -16517,7 +16506,7 @@ gesalzen: [
     //  Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Rath</i>) trank sein Bier aus und winkte dem Kellner. Auf ein Trinkgeld verzichtete er angesichts der <b>gesalzenen</b> Preise. (<i>Olympia</i>, 69)',
-    'Obwohl er es wegen der <b>gesalzenen</b> Preise eigentlich meiden wollte, saß Rath kurz darauf wieder im Besucherrestaurant des Olympischen Dorfes. Es war eine Menge los... (<i>Olympia</i>, 133)',
+    'Obwohl er es wegen der <b>gesalzenen</b> Preise eigentlich meiden wollte, saß Rath kurz darauf wieder im Besucherrestaurant des Olympischen Dorfs. Es war eine Menge los... (<i>Olympia</i>, 133)',
 ],
 geschniegelt: [
     '<b>schniegeln</b>: spruce sth. up'+
@@ -17398,6 +17387,7 @@ heimzahlen: [
     'Nun ging es schon auf den Abend zu, nach dem Fahnenappell würden sie das Dorf verlassen, und er (<i>Fritze</i>) hatte den ganzen Tag keinen Kriminalbeamten gesehen. Was nicht weiter verwunderlich war, denn die traten eher selten in Erscheinung, sondern <b>hockten</b> den lieben langen Tag in ihrem Büro. (<i>Olympia</i>, 87)',
     'Und nun <b>hockten</b> sie alle beide hier im Büro und hörten Radio. Die Übertragung vom Reichssportfeld war eher langweilig. (<i>Olympia</i>, 168)',
     '"Leutnant Dräger, sind Sie da drin? So antworten Sie doch". Lohmann klopfte und rief, doch nichts tat sich. Er <b>hockte sich</b> auf den Boden und schaute unter der Tür hindurch. Auf der Toilette saß jemand, er konnte Stiefel erkennen. Militärstiefel. (<i>Olympia</i>, 172)',
+    'Im Waschraum herrschte Hochbetrieb, allerdings nutzte niemand die sanitären Einrichtungen: Ein halbes Dutzend Männer war dort versammelt, und alle konzentrieten sich auf eine einzige Toilettenkabine. Ein paar Zivilbeamte <b>hockten</b> auf dem Boden und sicherten Spuren. (<i>Olympia</i>, 179)',
 ],
 Hosenmatz: [
     'der <b>Hosenmatz</b>,-<b>mätze</b>/<b>matze</b>: tiny tot'+
@@ -20424,19 +20414,30 @@ meckern: [
 ],
 Messing: [
     'das <b>Messing</b>,-<b>e</b>: brass'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Messing"target="target1">Messing</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Messing"target="target2">Messing</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/messing"target="target3">Messing</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Messing"target="target4">Messing</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Messing"target="target1">Messing</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Messing"target="target2">Messing</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/messing"target="target3">Messing</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Messing"target="target4">Messing</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Photoatelier Johann König, 4. Etage</i> verkündete ein <b>Messing</b>schild am Treppenaufgang. (<i>Der nasse Fisch</i>, 17)',
     'Ganz oben, vor der letzten Tür, blieben sie stehen. <i>Johann König, Photograph</i> stand dort angeschlagen, diesmal allerdings nicht in <b>Messing</b> graviert, sondern auf ein vergilbtes Pappschild gedruckt, das sich bereits wellte. (<i>Der nasse Fisch</i>, 18)',
     'Sie (<i>die Witwe Behnke</i>) hielt ihm (<i>Rath</i>) das billige, verbogene <b>Messing</b>schloss hin. "Wer es wohl aufgebrochen hat?", fragte sie und schaute ihn an, als wüsste ein Polizist auf solche Dinge immer eine Antwort. (<i>Der nasse Fisch</i>, 90)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '"Kabine zwei", sagte der Boy. Hier gab es gleich zwei Fernsprecher, hinter verglasten Türen aus dunklem Holz. Über der rechten leuchtete ein Lämpchen. Der Boy zeigte auf die <b>messing<b>glänzende Zwei direkt neben dem Lämpchen. (<i>Der stumme Tod</i>, 18)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Der (<i>Fritze</i>) schaute sich um und holte einen großen <b>Messing</b>aschenbecher aus einem der Warenregale, schleuderte ihn weit durch das Dämmerlicht, so dass er mit lautem Scheppern irgendwo am anderen Ende des riesigen Verkaufsraumes einschlug. (<i>Märzgefallene</i>, 173)',
+    // Marlow  
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>DER STÜRMER, Schriftleitung</i>, stand auf einer <b>Messing<b>tafel neben dem Eingang. Ob Juius Streichter hinter einem dieser Fenster da oben saß? (<i>Marlow</i>, 294)',
     'Da war das Gebäude. Und die <b>Messing</b>tafel. <i>Detektivbüro W. Böhm. Private Ermittlungen aller Art</i>. (<i>Marlow</i>, 345)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Im Besucherrestaurant (<i>des Olympischen Dorfs</i>) herrschte eher wenig Betrieb. Sonntagmorgen, genau zwischen Frühstücks- und Mittagszeit. Rath hielt sich nicht lange auf, an erwartungsvoll dreinblickenden Kellnern ging er gleich durch bis zu den Toiletten. An der Tür zu den Herren hing unter dem großen H aus <b>Messing</b> ein Pappschild: AUSSER BETRIEB... (<i>Olympia</i>, 178)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 mimen: [
@@ -21303,6 +21304,7 @@ postieren: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Gestern hatte Franke ihm eine mit den olympischen Ringen versehene Plakette gegeben, die es ihm erlaubte, auf einem der reservierten Pläze direkt vor dem Empfangsgebäude zu parken. Rath <b>pappte</b> die Plakette hinter die Windschutzscheibe und stieg aus. (<i>Olympia</i>, 150)',
+    'Im Besucherrestaurant (<i>des Olympischen Dorfs</i>) herrschte eher wenig Betrieb. Sonntagmorgen, genau zwischen Frühstücks- und Mittagszeit. Rath hielt sich nicht lange auf, an erwartungsvoll dreinblickenden Kellnern ging er gleich durch bis zu den Toiletten. An der Tür zu den Herren hing unter dem großen H aus Messing ein <b>Pappschild</b>: AUSSER BETRIEB... (<i>Olympia</i>, 178)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 petzen: [
@@ -21902,8 +21904,12 @@ Revers: [
 ],
 recken: [
     '<b>recken</b>: stretch, raise sth.; extend, elongate sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/recken"target="target1">recken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/recken"target="target2">recken</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/recken"target="target3">recken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=recken"target="target4">recken</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/recken"target="target1">recken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/recken"target="target2">recken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/recken"target="target3">recken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=recken"target="target4">recken</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das Letzte, an das er (<i>Rath</i>) sich erinnern konnte, war der Moment, in dem sie (<i>die Witwe Behnke</i>) ihm das Du angeboten hatte, nachdem sie die Rumflasche geleert hatten... Und danach? Fragen, die er allesamt nicht beantworten konnte. Die einzige Antwort war seine Zimmerwirtin, die neben ihm im Bett lag und gerade ihren üppigen Körper in den Morgen <b>reckte</b>. (<i>Der nasse Fisch</i>, 44)',
@@ -21921,8 +21927,9 @@ recken: [
     'Sie (<i>Charly</i>) <b>reckte</b> Zeige-, Mittelfinger und Daumen in die Höhe. Rath verdrehte die Augen und deutete eine Ohnmacht an. Charly musste grinsen. Seine Schwiegermutter hatte sich also entschlossen, ihnen das ganze Wochenende zu versauen. (<i>Marlow</i>, 228)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
-    'Ein Weg <b>reckte sich</b> in elegantem Schwung den grünen Hügel hinauf, überall standen einstöckige Häuschen mit roten Walmdächern in Reih und Glied,.. links, leicht erhöht, stand ein bruchsteinernes Rondell, in dem eine Bar untergebracht war, ganz oben aber, oben auf dem Hügel, thronte das zentrale Gebäude des Olympischen Dorfes: Haus Berlin, das Speisehaus der Nationen. (<i>Olympia</i>, 57)'+
+    'Ein Weg <b>reckte sich</b> in elegantem Schwung den grünen Hügel hinauf, überall standen einstöckige Häuschen mit roten Walmdächern in Reih und Glied,.. links, leicht erhöht, stand ein bruchsteinernes Rondell, in dem eine Bar untergebracht war, ganz oben aber, oben auf dem Hügel, thronte das zentrale Gebäude des Olympischen Dorfs: Haus Berlin, das Speisehaus der Nationen. (<i>Olympia</i>, 57)'+
     '<br><i>Walmdach</i> = <i>hipped roof</i>, <i>Rondell</i> = <i>round tower</i> (<i>architecture</i>)',
+    '"Meine Leute sind schon dabei, Untersturmführer." Gräf nickte, und der Erkennungsdienstler entfernte sich mit einem respektvoll in die Luft <b>gereckten</b> rechten Arm. (<i>Olympia</i>, 179)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rüstig: [
@@ -26774,19 +26781,28 @@ Verschlag: [
     'Rath ließ den Gerichtsmediziner mit der Frauenleiche allein und ging zu dessen Schreibtisch, der sich in einem kleinen Glas<b>verschlag</b> befand. (<i>Lunapark</i>, 106)',
     'Auf einem Hinterhof hatten sie nach wenigen Minuten Fahrt gehalten und waren durch geflieste (<i>tiled</i>) Räume in einen Keller gebracht worden. Auf dem Weg dorthin hatte Charly einen Mann gesehen, der in einer Art <b>Verschlag</b> saß, einen Mann im Abendanzug, der jedoch arg mitgenommen wirkte. (<i>Lunapark</i>, 177)',
 ],
-verschmieren: [
+verschmieren: [ // xxx add schmieren?
     '<b>verschmieren</b>: smear, smudge'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschmieren"target="target1">verschmieren</a> &nbsp;<a href="https://www.dwds.de/wb/verschmieren"target="target2">verschmieren</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/verschmieren"target="target3">verschmieren</a> &nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschmieren"target="target4">verschmieren</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/verschmieren"target="target1">verschmieren</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/verschmieren"target="target2">verschmieren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/verschmieren"target="target3">verschmieren</a> &nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/verschmieren"target="target4">verschmieren</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Hau ab, Bulle", sagte er (<i>der Pornokaiser</i>). Seine Stimme klang nervös und schrill. Alles andere als majestätisch. Seine Augen hatten etwas Wahnsinniges, ein Eindruck, den die <b>verschmierte</b> Theaterschminke noch verstärkte. (<i>Der nasse Fisch </i>, 25)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Der Doktor (<i>Schwartz</i>) fluchte. Eine der Tauben, die oben in den Stahlstreben gurrten, hatte einen hellen Fleck auf seinem dunklen Wintermantel hinterlassen. Schwartz zog ein blütenweißes Taschentuch hervor und versuchte, die Sauerei wieder wegzutupfen. Was ihm eher schlecht gelang, der Fleck war nun ein weiß <b>verschmierter</b> Streifen auf seiner linken Schulter. (<i>Märzgefallene</i>, 17)',
     'Das Bündel auf dem Sofa seufzte und drehte sich auf die andere Seite. Eine junge Frau, in deren Gesicht schwarze und weiße Schminke zu einem abstrakten Kunstwerk <b>verschmiert</b> war.. Rath schielte zu dem <b>verschmierten</b> Gesicht hinüber.. Blond und drall, warum nur waren es immer solche Frauen, mit denen er im Bett landete, wenn er zuviel getrunken hatte? (<i>Märzgefallene</i>, 71-72)',
     '"Was ist das?", fragte Rath, als sie sich setzte. Die <b>verschmierte</b> Karnevalsschminke war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)',
     'Warmes Blut lief aus seiner (<i>Leos</i>) rechten Augenhöhle über die Wange, das linke, noch intakte Auge tränte, und durch den Tränenschleier und den Schmerz erblickte Leo etwas auf dem Betonboden, eine mit Blutschlieren bedeckte Kugel. Er brauchte eine Weile, bis er verstand, was dort lag wie eine blutige Murmel, bis sein Verstand bereit war, die Wahrheit zu akzeptieren. Der Sehnerv hing an seinem blut<b>verschmierten</b> Augapfel wie eine Nabelschnur. (<i>Märzgefallene</i>, 224)',
+    // Märzgefallene
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Gräf ließ sich gerade etwas erklären und hörte interessiert zu. Rath stellte sich zu den beiden Männern. Der Spurensicherer unterbrach sich kurz, sprach aber weiter, als Gräf kurz nickte. "... an der Wand haben wir also Kletterspuren gefunden, den <b>verschmierten</b> Abdruck einer Schuhsohle." (<i>Olympia</i>, 179)',
 ],
-// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verschnupft: [
     '<b>verschnupft</b>: annoyed, irritated; have a cold'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verschnupft"target="target1">verschnupft</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verschnupfen?o=verschnupft"target="target2">verschnupft</a>'+

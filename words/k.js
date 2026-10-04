@@ -107,7 +107,7 @@ const k = [
 'Kolben',  // Kolben:
 'Kommisskopp',  // Kommisskopp:
 'Kommode', // Kommode:
-'komplimentieren',  // komplimentieren:
+'komplimentieren, hinaus-',  
 'Konterfei',  // Konterfei: 
 'Kontor',  // Kontor:
 'Konzept (aus dem K. bringen)', // duplicated  

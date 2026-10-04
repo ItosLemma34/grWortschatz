@@ -754,9 +754,6 @@ geschwungen: [
     // Der stumme Tod
     //    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     //    '   (<i>Der stumme Tod</i>, 326)',	
-    // Goldstein
-    //    '<span class="bookTitle"><u>Goldstein</u></span>',
-    //    '   (<i>Goldstein</i>, 000)',	
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     'Rath führte seinen Nachbarn mit dem Bärbelchen zusammen, murmelte eine Entschuldigung und schloss sich dem Tross des <b>Dreigestirns</b> an. Es ging eine Treppe hinunter, und schon standen sie draußen auf dem Alter Markt.  Während das <b>Dreigestirn</b> mit großem Hallo empfangen wurde, konnte Rath sich unauffällig unters Volk mischen. (<i>Märzgefallene</i>, 50)',
@@ -770,6 +767,7 @@ geschwungen: [
     '<i>Pütz</i>: "Nun, was für einen Grund sollte die Kripo sonst haben, mit uns zu sprechen, als den, dass in unserem Speisesaal jemand gestorben ist." <i>Rath</i>: "Nicht jemand. Ein Mitglied des amerikanischen Olympia<b>trosses</b>. Das macht die Sache so delikat, deswegen wünsche ich auch, Sie unter vier Augen zu sprechen. Dieser Vorfall darf selbstverständlich nicht an die große Glocke gehängt werden." (<i>Olympia</i>, 60)',
     '"Gleich kommt der Führer", tuschelte eine nervöse Dame neben Rath, die ihn an seine Schwiegermutter erinnerte. Auch Luise Ritter war immer ganz aufgeregt, wenn es um Hitler ging. Und tatsächlich, da kamen sie, der ganze <b>Tross</b> an wichtigen und offiziellen Leuten. Adolf Hitler ging voran, in Uniform, flankiert von zwei Herren in Frack und Zylinder, die sehr wichtig aussahen. (<i>Olympia</i>, 157)',
     'Der <b>Tross</b> der Offiziellen schritt gemächlich über die Aschenbahn zur Treppe hinüber, die hinauf zur Ehrentribüne führte. (<i>Olympia</i>, 158)',
+    'Fritze hatte sich staunend umgeschaut und sich im <b>Tross</b> mit all diesen großen Sportlern fast wie ein Gladiator gefühlt, der mit den anderen die Arena betritt. (<i>Olympia</i>, 187)',
 ],
 übersäen: [  
     '<b>übersäen</b>: be littered/dotted/bestrewn with'+
@@ -1784,10 +1782,18 @@ Anstand: [
 ],
 latschen: [
     '<b>latschen</b>: trudge, shuffle, traipse'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/latschen"target="target1">latschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/latschen#1"target="target2">latschen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/latschen"target="target3">latschen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/latschen"target="target4">latschen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/latschen"target="target1">latschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/latschen#1"target="target2">latschen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/latschen"target="target3">latschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/latschen"target="target4">latschen</a>',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Habt ihr schon gehört? Die Reichsautobahn soll nicht mehr weitergebaut werden", erzälte er (<i>Atze</i>). "Lohnt sich nicht: Die deutsche Jugend <b>latscht</b> ja eh überall zu Fuß hin." Ein lauer Witz, doch die anderen Jungen lachten. Alle außer Fritze, Kopper und Neumann. (<i>Marlow</i>, 421)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wir filmen hier", giftete die Frau. "Und du (<i>Fritze</i>) <b>latschst</b> mitten durchs Bild. Weißt du, was ein Meter Film kostet? Sieh mal zu, dass du Land gewinnst!" (<i>Olympia</i>, 188)',
 ],
 Ratsch: [
     'der <b>Ratsch</b>,-<b>e</b>: ripping noise; natter, gossip'+
@@ -3932,18 +3938,26 @@ perlen: [
 	'<span class="bookTitle"><u>Marlow</u></span>',  
 	'Charly hatte sich gewundert, wie wenig es ihm (<i>Gereon</i>) ausmachte, nicht dabei sein zu können, dabei wusste sie doch, wie sehr auch er darauf brannte, Marlow und Liang endlich hinter <b>Gitter</b> zu bringen und sie bezahlen zu lassen für das, was sie ihnen angetan hatten. (<i>Marlow</i>, 458)',
 ],
-komplimentieren: [
-    '<b>komplimentieren</b>: escort, usher, show sb. out; compliment'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/komplimentieren"target="target1">komplimentieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/komplimentieren"target="target2">komplimentieren</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=komplimentieren"target="target3">komplimentieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/conjugation/komplimentieren.htm"target="target4">komplimentieren</a>',
+'komplimentieren, hinaus-': [ 
+    '<b>komplimentieren</b>: escort, usher, show sb. out'+
+    '<br><b>hinauskomplimentieren</b>: usher out; get rid of, see so. off the premises'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/komplimentieren"target="target1">komplimentieren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/hinauskomplimentieren"target="target2">hinauskomplimentieren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=komplimentieren"target="target3">komplimentieren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/hinauskomplimentieren"target="target4">hinauskomplimentieren</a>&nbsp;&nbsp;',
     // Der nasse Fish
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Auf Wiedersehen, Herr Roeder." Rath konnte den Mann nicht länger ertragen. Er <b>komplimentierte</b> ihn an Erika Voss vorbei zur Tür. (<i>Der nasse Fisch</i>, 395)',
     'Die Beerdigungsgesellschaft hatte sich schnell zerstreut, dafür hatten die Schupos gesorgt. So behutsam es in dieser Situation eben möglich war, hatten sie die Tauernden vom Friedhof <b>komplimentiert</b>. (<i>Der nasse Fisch</i>, 406)',
     '<i>Schulrektor zu Rath</i>: "Da ist bei uns die zweite große Pause, da befinden sich alle Schüler auf dem Pausenhof. Und der geht nach hinten raus. Da kann niemand etwas gesehen haben!" Mit diesem Satz wurde Rath hinaus<b>komplimentiert</b>. Um Viertel vor Zehn stand er wieder auf der Straße. (<i>Der nasse Fisch</i>, 423)',
-    // Marlow
+    // Marlow  
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Als er (<i>Rath</i>) die Arztpraxis um kurz nach drei betrat, wollte die Sprechstundenhilfe ihn ins Wartezimmer <b>komplimentieren</b>. (<i>Marlow</i>, 104)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Und das nächste Mal, wenn du hier stehst, wage es nicht, mir ohne Ergebnisse unter die Augen zu treten." Das war alles, mehr hatte Tornow ihm nicht zu sagen. Um Rath endgültig <b>hinauszukomplimentieren</b>, reichte eine wedelnde Handbewegung. Wenigstens sparte er sich den Deutschen Gruß. Rath nickte kurz, die Hände an der Hosennaht, und ging. (<i>Olympia</i>, 186)',
 ],
 verzapfen: [
     '<b>verzapfen</b>: draft (Bier); spout (nonsense, rubbish)'+
@@ -6062,13 +6076,22 @@ Gesindel: [
     '<b>giften</b>: rile, infuriate; be nasty about'+
     '<br><b>sich giften</b>: bitch, be angry/furious'+
     '<br><b>angiften</b>: snap at, let fly at, lay into'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/giften"target="target1">giften</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/angiften"target="target2">angiften</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/giften"target="target3">giften</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=angiften&id=verb%3Aangiften"target="target4">angiften</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/giften"target="target1">giften</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/angiften"target="target2">angiften</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/giften"target="target3">giften</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=angiften&id=verb%3Aangiften"target="target4">angiften</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Da polterte es wieder gegen die Tür... "Tut mir Leid, ich kann Ihnen nicht helfen", sagte er (<i>Rath</i>). "Gehen Sie nach Hause! Gute Nacht!" Kaum hatte er die Tür geschlossen, ging das Poltern wieder los. "Jetzt reicht\'s aber," <b>giftete</b> Rath und riss die Tür wieder auf, "wenn Sie nicht augenblicklich verschwinden, bekommen Sie richtig Ärger!" (<i>Der nasse Fisch</i>, 38)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Sie hatte ihre Position am Kamin erreicht und <b>giftete</b> Victor <b>an</b>. (<i>Der stumme Tod</i>, 12)',
     'Rath legte seine ganze Wut in einen trockenen, ansatzlosen Schlag, der Brenners Magengrube traf. Der Kommissar im Sträflingskostüm klappte zusammen, und Rath wuchtete ihn mit einem linken Haken wieder nach oben... Brenner keuchte und fluchte. Der dicke Kommissar blutete aus Nase und Mund. "Hast du das bei deinen Gangsterfreunden gelernt?" <b>giftete</b> er. (<i>Der stumme Tod</i>, 105)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wir filmen hier", <b>giftete</b> die Frau. "Und du (<i>Fritze</i>) latschst mitten durchs Bild. Weißt du, was ein Meter Film kostet? Sieh mal zu, dass du Land gewinnst!" (<i>Olympia</i>, 188)',
 ],
 Hochstapler: [
     'der <b>Hochstapler</b>,-; die <b>Hochstaplerin</b>,-<b>nen</b>: fraud, imposter, con man'+
@@ -6404,8 +6427,12 @@ vorführen: [
 'rasen, Rasen': [
     '<b>rasen</b>: dash, race, hurtle; rave, rage'+
     '<br>der <b>Rasen</b>,-: lawn &nbsp;&nbsp;der <b>Rasenmäher</b>,-: lawnmower'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/rasen"target="target1">rasen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Rasen"target="target2">Rasen</a><br>'+
-    'English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/rasen"target="target3">rasen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Rasen&id=substantiv%3ARasen"target="target4">Rasen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/rasen"target="target1">rasen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Rasen"target="target2">Rasen</a><br>'+
+    'English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/rasen"target="target3">rasen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Rasen&id=substantiv%3ARasen"target="target4">Rasen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Fahrer hupte, als ein Passant die Friedrichstraße nicht schnell genug überquerte. Der Mann schaute sich erschrocken um und blickte dem pietätlos <b>rasenden</b> Leichenwagen kopfschüttelnd hinterher. (<i>Der nasse Fisch</i>, 80)',
@@ -6436,6 +6463,7 @@ vorführen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Als er (<i>Fritze</i>) das Postamt vor ungefähr zwanzig Minuten betreten hatte, um sich in die Schlange einzureihen, waren überall noch Menschen unterwegs gewesen, nun konnte er außer einem Gärtner, der den <b>Rasen</b> der Dorfaue mähte, und zwei, drei Flaneuren keine Menschenseele erblicken. (<i>Olympia</i>, 103)',
+    'Er (<i>Fritze</i>) zog weiter zu den Speerwerferinnen ans andere Ende des Fußballfeldes, weit entfernt von den Hochspringern. Wie die werfen konnte. Und wie die Kampfrichter immer lossprinteten mit ihren Maßbändern. Fritze schlenderte über den <b>Rasen</b>, um etwas näher dran zu sein, die Speere immer respektvoll im Blick. (<i>Olympia</i>, 188)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -9131,12 +9159,20 @@ aufbrummen: [
     '.. Sonntagmorgen, kurz nach halb sechs, so früh standen nicht einmal die Japaner auf. Aber zwei Jugendehrendienstler (<i>Fritze und Schröder</i>), denen man eine Strafarbeit <b>aufgebrummt</b> hatte. Rönnberg, ihr Stubenältester, hatte sie noch vor dem Frühstück aufs Gelände gejagt. (<i>Olympia</i>, 37)',
     'Gut, das, was Schröder gemacht hatte, war dagegen vergleichsweise harmlos, aber auch Bochert hatte nur einen Streich spielen wollen, und womöglich reichte ein Speerwurf, der ein Loch in den gepflegten Dorfrasen bohrte, ebenfalls für einen Verweis und die Verbannung aus dem Dorf - zumal, wenn man, wie Schröder und er (<i>Fritze</i>), sowieso schon einen Strafdienst <b>aufgebrummt</b> bekommen hatte. (<i>Olympia</i>, 38)',
 ], 
-Schlendrian: [
+Schlendrian: [ 
     'der <b>Schlendrian</b>: laziness, dawdling, jog trot'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schlendrian"target="target1">Schlendrian</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schlendrian"target="target2">Schlendrian</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schlendrian"target="target3">Schlendrian</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schlendrian"target="target4">Schlendrian</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schlendrian"target="target1">Schlendrian</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Schlendrian"target="target2">Schlendrian</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schlendrian"target="target3">Schlendrian</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schlendrian"target="target4">Schlendrian</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Herr Kommissar (<i>Rath</i>)", sagte Doktor M., "ich hatte es Ihrem rheinischen Phlegma angelastet, Ihrem <b>Schlendrian</b>, das Sie Leo noch nicht erledigt haben. Aber es ist schlimmer als das: Sie haben meine Befehle ignoriert." (<i>Lunapark</i>, 357)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Mit dem <b>Sclendrian</b> ist jetzt Schluss", sagte Tornow (<i>zu Rath</i>). "Es wird keine freien Tage mehr geben, keine Stadionbesuche, keine Tanzabende, nichts, was nicht durch deine Ermittlungen gerechtfertigt ist. Wir müssen wissen, wer hinter den Morden im Olympischen Dorf steckt, und wir müssen es schnell wissen. Bevor noch mehr passiert." (<i>Olympia</i>, 185-86)',
 ],
 apportieren: [
     '<b>apportieren</b>: retrieve, fetch'+
@@ -13037,6 +13073,7 @@ beredt: [
     '"Dann ist das wohl meiner", sagte Rath und ging hinüber. "Das ist der Schreibtisch von Kriminalsekretär Löhr", <b>brummte</b> Franke. Rath stutzte. Hatte der SD in Rekordzeit alles Nötige eingefädelt, um ihn ins Olympische Dorf zu schleusen, dann aber vergessen, ihm einen Schreibtisch ins Büro zu stellen? (<i>Olympia</i>, 53)',
     'Rath erschien eine Viertelstunde nach Dienstbeginn und hatte innerlich schon die Fäuste hochgenommen, um sein Zuspätkommen zu verteidigen, doch Oberkommissar Franke begrüßte ihn mit einem unerwartet freundlich klingenden "Heil Hitler". Rath war irritiert. Er <b>brummte</b> sein "Hei\'tler, Kollegen", hängte Hut und Mantel auf und setzte sich an seinen Platz. (<i>Olympia</i>, 93)',
     'Das Stadion [<i>Olympiastadion</i>] war vielleicht zu zwei Dritteln gefüllt, und es herrschte bereits ein unglaublicher Geräuschpegel. Die Stimmem von zigtausend Menschen, die durcheinanderredeten und ihre Pläzte suchten. Doch mit einem Mal schob sich ein tieferer Ton unter dieses Gesumme und Gesause, ein tiefes monotones <b>Brummen</b>... Und je lauter dieses <b>Brummen</b> wurde, desto leiser wurde das Getuschel und Gerede, bis es irgendwann ganz erstarb. (<i>Olympia</i>, 155)',
+    'Die Hochsprunganlage lag direkt am Fuß der Marathontreppe, über der das olympische Feuer brannte.  Fritze hatte Albrittons Tasche tragen dürfen, und von Anfang an hatte eine unglaubliche Spannung in der Luft gelegen, ein nervöses Summen und <b>Brummen</b> wie von einem aufgeregten Bienenschwarm, das ihnen von den Zuschauertribünen entgegenschlug. (<i>Olympia</i>, 187)',
 ],
 berappen: [
     '<b>berappen</b>: fork over/shell out for sth.'+
@@ -14710,8 +14747,12 @@ Firlefanz: [
 'fauchen, an-': [
     '<b>fauchen</b>: hiss, snarl at'+
     '<br><b>anfauchen</b>: hiss, growl, snap at'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/fauchen"target="target1">fauchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anfauchen"target="target2">anfauchen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/fauchen"target="target3">fauchen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/anfauchen"target="target4">anfauchen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/fauchen"target="target1">fauchen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anfauchen"target="target2">anfauchen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/fauchen"target="target3">fauchen</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/anfauchen"target="target4">anfauchen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sein (<i>Raths</i>) Versuch, Elisabeth Behnke aus dem Weg zu gehen, schlug fehl. Beinahe wäre er über sie gefallen. Was suchte die Zimmerwirtin auch am frühen Morgen ausgerechnet im Badezimmer ihrer Mieter? Wütend funkelte sie ihn an, während sie an der geöffneten Klappe des Badeofens hockte und mit einem Schürstab in der Asche herumfuhrwerkte. "Na", <b>fauchte</b> sie, "gut geschlafen, Herr Kommissar?" (<i>Der nasse Fisch</i>, 262)',
@@ -14734,7 +14775,8 @@ Firlefanz: [
     '<i>Charly</i>: "Warum lasst ihr nicht die Finger von diesen alten Geschichten?... Warum müsst ihr darin herumwühlen? Lasst die Toten doch ruhen! Es gibt nichts, was sie wieder lebendig machen kann!" Rath war aufgestanden, hatte sie bei den Schultern gefasst und wollte sie beruhigen, doch sie entwand sich seinem Griff und <b>fauchte</b> ihn <b>an</b>. "Lass mich los, verdammt, lass mich los!" (<i>Marlow</i>, 340)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
-    '"Wer is\'n dette? Der alte Mann bei Owens?", fragte er (<i>Fritz</i>). "Lawson Robertson, der Haupttrainer der Amis", sagte Maxe. Sein Freund war wie immer bestens informiert. "Einer muss den Negern ja erklären, wann sie loslaufen müssen und wohin." "Schröder, halt doch einfach mal deinen Mund", <b>fauchte</b> Maxe. "Ist für alle besser." (<i>Olympia</i>, 104)',
+    '"Wer is\'n dette? Der alte Mann bei Owens?", fragte er (<i>Fritze</i>). "Lawson Robertson, der Haupttrainer der Amis", sagte Maxe. Sein Freund war wie immer bestens informiert. "Einer muss den Negern ja erklären, wann sie loslaufen müssen und wohin." "Schröder, halt doch einfach mal deinen Mund", <b>fauchte</b> Maxe. "Ist für alle besser." (<i>Olympia</i>, 104)',
+    '"Hey Junge, pass doch auf, bitte!" Er (<i>Fritze</i>) drehte sich um. Eine Frau war es, die ihn <b>angefaucht</b> hatte. (<i>Olympia</i>, 188)',
 ],
 frösteln: [
     '<b>frösteln</b>: feel chilly, shiver'+
@@ -16607,7 +16649,6 @@ giggeln: [
     'Er (<i>Rath</i>) selbst war es gewesen, der ihr Hose und Strümpfe ausgezogen hatte. Und noch mehr.... Mein Gott, hatte er hier gewütet! Abwechselnd hatten sie aus der Flasche getrunken, sich zwischendurch geküsst und begrapscht und ausgezogen. Sie (<i>die wilde Hilda</i>) hatte <b>gegiggelt</b> und gekichert.... (<i>Märzgefallene</i>, 73)',
 ],
 glotzen: [
-    '<i>trennbares Präfix</i>: <b>an-</b>'+
     '<br><b>glotzen, anglotzen</b>: gape, stare (at)'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/glotzen"target="target1">glotzen</a>&nbsp;&nbsp;'+
@@ -16639,6 +16680,7 @@ glotzen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Fritze</i>) hatte sie (<i>Charly</i>) gleich entdeckt und kam an ihren Tisch.. Sie drückte ihn nur kurz, weil sie wusste, dass er das nicht mehr so mochte. "Was <b>glotzen</b> die (<i>die anderen im Café</i>) denn alle so?", flüsterte er, als er sich zu ihr setzte. "Bist eben ein Paradiesvogel hier. Müsst ihr die Uniformen nicht ausziehen, wenn ihr das Olympische Dorf verlasst?" (<i>Olympia</i>, 147)',
+    'Adolf Hitler mochte den besten Platz im Stadion haben,...doch hätte Fritze für kein Geld in der Welt mit ihm tauschen wollen. Nicht nur, weil er beim Hochsprung hautnah dabei war, viel näher als jeder Zuschauer, sondern weil er nun im ganzen Stadion umherlaufen und sich alles anschauen konnte, während der Führer in seiner Loge festsaß und sich von allen <b>anglotzen</b> lassen musste. (<i>Olympia</i>, 187)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gluckern: [
@@ -17400,10 +17442,18 @@ Hosenmatz: [
 Hosennaht: [
     'die <b>Naht</b>, die <b>Nähte</b>: seam'+
     '<br>die <b>Hosennaht</b>: trousers seam'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Hosennaht"target="target1">Hosennaht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Hosennaht"target="target2">Hosennaht</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/hosennaht"target="target3">Hosennaht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Hosennaht"target="target4">Hosennaht</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+    '<a href="https://www.duden.de/rechtschreibung/Hosennaht"target="target1">Hosennaht</a>&nbsp;&nbsp;'+
+    '<a href="https://www.dwds.de/wb/Hosennaht"target="target2">Hosennaht</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    '<a href="https://en.langenscheidt.com/german-english/hosennaht"target="target3">Hosennaht</a>&nbsp;&nbsp;'+
+    '<a href="https://www.verbformen.com/?w=Hosennaht"target="target4">Hosennaht</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Leo</i>) hatte keinerlei Gefühl mehr für die Zeit und nicht die geringste Ahnung, wie lange sie schon hier in diesem Keller standen, die Hände an der <b>Hosennaht</b> und akkurat aufgereiht, wie Mohrrüben, die auf die Ernte warten. (<i>Märzgefallene</i>, 110)',
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Und das nächste Mal, wenn du hier stehst, wage es nicht, mir ohne Ergebnisse unter die Augen zu treten." Das war alles, mehr hatte Tornow ihm nicht zu sagen. Um Rath endgültig hinauszukomplimentieren, reichte eine wedelnde Handbewegung. Wenigstens sparte er sich den Deutschen Gruß. Rath nickte kurz, die Hände an der <b>Hosennaht</b>, und ging. (<i>Olympia</i>, 186)',
 ],
 huschen: [
     '<b>huschen</b>: flit, dart; scamper, scurry'+
@@ -19800,10 +19850,18 @@ lallen: [
 //  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Land gewinnen': [
     '<b>Land gewinnen</b>: leave (quickly), scram'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Land+gewinnen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Land gewinnen</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/Land_gewinnen/"target="target2">Land gewinnen</a>'+  //
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Land+gewinnen"target="target3">Land gewinnen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Land+gewinnen"target="target4">Land gewinnen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Land+gewinnen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Land gewinnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wortbedeutung.info/Land_gewinnen/"target="target2">Land gewinnen</a>'+  
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Land+gewinnen"target="target3">Land gewinnen</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/Land+gewinnen"target="target4">Land gewinnen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Was wollen Sie noch hier?", schnauzte Böhm den Mann (<i>Rath</i>) an. "Habe ich Sie etwa gebeten, die Leiche zu identifizieren? "Natürlich nicht, Herr Oberkommissar!" Kommissar Rath stand wieder stramm. "Na, dann sehen Sie mal zu, dass Sie endlich <b>Land gewinnen</b>! Sie halten den Betrieb auf!" (<i>Der nasse Fisch</i>, 85)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wir filmen hier", giftete die Frau. "Und du (<i>Fritze</i>) latschst mitten durchs Bild. Weißt du, was ein Meter Film kostet? Sieh mal zu, dass du <b>Land gewinnst</b>!" (<i>Olympia</i>, 188)',
 ],
 Laufbursche: [
     'der <b>Laufbursche</b>,-<b>n</b>: gofer, errand boy'+
@@ -22490,18 +22548,29 @@ Stöpsel: [
 'summen, auf-': [
     '<b>summen</b>: buzz, hum, drone'+
     '<br><b>aufsummen</b>: add up, mount up; buzz up'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/summen_singen"target="target1">summen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/summen"target="target2">summen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/summen"target="target3">summen</a> &nbsp;<a href="https://www.verbformen.com/?w=summen"target="target4">summen</a>',
+    '<br>Deutsch:&nbsp;&nbsp'+
+        '<a href="https://www.duden.de/rechtschreibung/summen_singen"target="target1">summen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/summen"target="target2">summen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/summen"target="target3">summen</a> &nbsp;'+
+        '<a href="https://www.verbformen.com/?w=summen"target="target4">summen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath stand da und hielt sich das rechte Ohr, das schmerzte und <b>summte</b>. Erst jetzt begriff er, was passiert war. (<i>Der nasse Fisch</i>, 214)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath träumt</i>: Rath irrte weiter durch den Wald, und plötzlich sprangen oben, irgendwo über dem Nebel, Scheinwerfer mit einem elektrichen <b>Summen</b> an, einer nach dem anderen, und erhellten den Wald. (<i>Der stumme Tod</i>, 111)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Kleidung lag verstreut auf dem Boden.. Vor dem Bett leere Bierflaschen und ein überquellender Aschenbecher, eine zusammengeknüllte Papiertüte.., daneben eine fettgetränkte Bratwurstpappe, auf der ein Klacks Senf eingetrocknet war. Fliegen <b>summten auf</b>, als Lange dem Tisch zu nahe kam. (<i>Lunapark</i>, 42-43)',
     'Elisabeth Spindler saß am Bett ihres Sohnes, hielt dessen Hand und <b>summte</b> ein leises Lied. Womöglich das Schlaflied, das sie Robert schon als Kleinkind gesungen hatte... Sie <b>summte</b> und schaukelte dabei mit dem Oberkörper kaum merklich vor und zurück... Elisabeth Spindler <b>summte</b> und schaukelte. Auf dem Gesicht ihres Sohnes zeichnete sich so etwas wie ein seliges Lächeln ab. Und das ließ auch die Mutter lächeln. (<i>Lunapark</i>, 437)',
     'Elisabeth Spindler hörte auf zu <b>summen</b> und fauchte Rath unvermittelt an. "Meinten Sie das mit Ihrem Gerede vorhin ernst, dass man Ihnen vertrauen kann?" (<i>Lunapark</i>, 438)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Die Wanne war beinahe voll, und Charly drehte den Wasserhahn zu. Das Nachplätschern der letzten Tropfen erinnerte sie daran, dass es ratsam wäre, ein paar Geräusche zu machen, die vortäuschten, dass auch in Kabine 115 jemand in der Wanne lag... Sie lauschte. Aus der linken Kabine war leises Pläschern zu hören und noch leiseres <b>Summen</b>. Martha Döring schien sich wohlzufühlen. (<i>Marlow</i>, 23)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Die Hochsprunganlage lag direkt am Fuß der Marathontreppe, über der das olympische Feuer brannte.  Fritze hatte Albrittons Tasche tragen dürfen, und von Anfang an hatte eine unglaubliche Spannung in der Luft gelegen, ein nervöses <b>Summen</b> und Brummen wie von einem aufgeregten Bienenschwarm, das ihnen von den Zuschauertribünen entgegenschlug. (<i>Olympia</i>, 187)',
 ],
 schnaufen: [
     '<b>schnaufen</b>: puff, pant, wheeze'+
@@ -23156,10 +23225,18 @@ Schrippe: [
 ],
 Spalier: [
     'das <b>Spalier</b>,-<b>e</b>: cordon; honor guard; trellis'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spalier"target="target1">Spalier</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Spalier"target="target2">Spalier</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spalier?q=Spalier"target="target3">Spalier</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Spalier"target="target4">Spalier</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Spalier"target="target1">Spalier</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Spalier"target="target2">Spalier</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/spalier?q=Spalier"target="target3">Spalier</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Spalier"target="target4">Spalier</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"<i>Alles atmet fritzischen Geist, alles ist Preußentum</i>", sagte der Reporter gerade, nach einer endlosen Aufzählung der Regimenter, die hier <b>Spalier</b> standen, und zusammen mit SA und Stahlhelm auf die Begegnung von Hindenburg und Hitler warteten. (<i>Märzgefallene</i>, 372)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Er (<i>Fritze</i>) war nicht der einzige Ehrendienstler im Stadion, ihr Stubenältester Rönnberg war dabei und leider auch der unvermeidliche Schröder, das waren dann aber auch schon alle aus ihrer Stube. Anders als gestern, wo der ganze Jugendehrendienst im Stadion paradiert und für den Fackelläufer <b>Spalier</b> gestanden hatte, als der vom Osttor ins Stadion hinuntergelaufen war. (<i>Olympia</i>, 186)',
 ],
 'spülen, Spüler; Spül -maschine,-bürste,-e,-stein,-ung': [
     '<br><b>spülen, ausspülen</b>: wash, rinse out; flush (toillete)'+
@@ -23523,18 +23600,28 @@ Scherbe: [
 'Schere, scheren, aus-': [
     'die <b>Schere</b>,-<b>n</b>: scissor, shears'+
     '<br><b>scheren</b>: cut, clip, shear, shave'+
-    '<br><b>sich scheren</b>: <i>idiomatic</i>: scram, clear out, beat it'+
+    '<br><b>sich scheren</b>: scram, clear out, beat it'+
     '<br><b>sich scheren um</b> etwas: bother, care about'+
     '<br><b>sich zum Teufel scheren</b>: get lost, go to hell'+
+    '<br><b>sich scheren an</b>: push off, clear out, get going on a task'+
     '<br><b>ausscheren</b>: break rank, pull/swing out, deviate, diverge'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schere"target="target1">Schere</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheren"target="target2">scheren</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schere"target="target3">Schere</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/scheren"target="target4">scheren</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schere"target="target1">Schere</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/scheren"target="target2">scheren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/ausscheren"target="target3">ausscheren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schere"target="target4">Schere</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/scheren"target="target5">scheren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=ausscheren&id=verb%3Aausscheren"target="target6">ausscheren</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Während der Ofen langsam heiß wurde, zog er (<i>Rath</i>) sich aus. Dann rollte er das Handtuch auseinander, und seine verschmutzten Sachen fielen auf die Bodenfliesen. Aus seiner Badetasche holte er eine <b>Schere</b> und schnitt den nach Regen riechenden klammen Stoff in Streifen... (<i>Der nasse Fisch, 230)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath schwieg und starrte auf die Straße. Vor ihm <b>scherte</b> ein Taxi <b>aus</b>, und er ging vom Gas.. Schluss mit dem Geschwindigkeitsrausch. (<i>Der stumme Tod</i>, 41)',
     'Behutsam biegt er ihren Hals, überstreckt ihn, bis ihr Kopf über die Tishkante hängt, und schiebt das Rohr vorsichtig durch Mund und Rachen, bis zur Stimmritze (<i>glottis</i>), beobachtete, wie das Metall ihren Hals nach außen wölbt. Dann richtet er die Lampe ein, öffnet den kleinen schwarzen Koffer und legt die Instrumente bereit. Bevor er beginnt, wäscht er ich noch einmal gründlich die Hände. Greift zu der langen <b>Schere</b>, die er vor Jahren eigens hat anfertigen lassen... (<i>Der stumme Tod</i>, 220)',
     'Jetzt, wo er weiß, dass er handeln wird, fühlt er sich besser. Er hat sich lange vorbereitet, die <b>Schere</b> anfertigen lassen und das Rohr, im anatomischen Institut alle nötigen Handgriffe immer wieder geübt. Jetzt fühlt er sich sicher. (<i>Der stumme Tod</i>, 221)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Rath</i>) ging zum Buick hinüber, entriegelte den Notsitz und klappte ihn hoch. Der Adler (<i>Marlows Auto</i>) <b>scherte</b> aus der Parklücke und rollte langsam vorbei. (<i>Märzgefallene</i>, 150)',
     'Rath ließ Kirie, die einen Moment zögerte, ins Auto springen, stieg selbst ein und <b>scherte</b> so schnell aus der Parklücke, dass beim Anfahren die Reifen quietschten.  (<i>Märzgefallene</i>, 178)',
@@ -23543,10 +23630,12 @@ Scherbe: [
     'Sie (<i>Charly</i>) zuckte die Achseln. "Ich weiß nicht, Gereon. Grundsätzlich hast du ja recht. Aber wem willst du damit etwas beweisen? Meinst du, im neuen Deutschland <b>schert sich</b> noch irgendjemand <b>um</b> Gerechtigkeit?" (<i>Märzgefallene</i>, 504)',
     'Erst als alle völlig durchnässt waren, hörte der Regen auf. Von jetzt auf gleich. Es war, als habe jemand die Bindfäden mit einer großen <b>Schere</b> abgeschnitten. Ein letztes Prasseln, mehr ein Plätschern, dann war es vorbei. (<i>Märzgefallene</i>, 554)',
     '"Und nun machen Sie, dass Sie fortkommen, Roddeck", sagte er (<i>Rath</i>)... "Ich will Sie nie wiedersehen, ich möchte Ihren Namen nie wieder in der Zeitung lesen." <i>Roddeck</i>: "Aber... wo soll ich denn hin?" Jetzt klang der blonde Leutnant wieder so weinerlich wie vorhin. <i>Rath</i>: "<b>Scheren Sie sich</b> meinetwegen <b>zum Teufel</b>." (<i>Märzgefallene</i>, 581)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Er (<i>Rath</i>) würde dem Kerl (<i>Juretzka</i>) nicht einmal folgen können, der Buick stand in der Borstedter Straße, fast zehn Gehminuten entfernt. Rath sah das Taxi aus der Parklücke <b>scheren</b> und in Richtung Messegelände davon fahren. (<i>Lunapark</i>, 316)',
     'Charly konnte es nicht mehr hören. Er (<i>Guido Scherer</i>) kam ihr unglaublich naiv vor in seinem Vertrauen auf das deutsche Rechtssystem.. Wusste er nicht, wie viel Macht die SA im neuen Deutschland hatte? Wie wenig die <b>sich um</b> den Rechtsstaat <b>scherte</b>? (<i>Lunapark</i>, 347)',
     'Leo wartete, bis er (<i>Rath</i>) seinen Ford passiert hatte und sich zwei weitere Autos zwishen sie setzten, dann erst <b>scherte</b> auch er aus der Parklücke <b>aus</b>. (<i>Lunapark</i>, 454)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Rath</i>: "Frau Lehmann, ich verstehe, dass Sie erbost sind, aber..." "Nüscht verstehen Sie, jar nüscht!" Sie war aufgesprungen und fauchte ihn richtiggehend an. "Und nu <b>scheren</b> Se <b>sich</b> vom Acker. Ick hab zu tun..." (<i>Marlow</i>, 50)',
     '<i>Liang</i>: "Ich bin in China geboren", fuhr er fort. "Meine Mutter ist mit mir von den Japanern nach Deutschland geflohen." <i>Charly</i>: "Mit der chinesischen Staatsbürgerschaft könnten Sie in der chinesischen Botschaft heiraten, die <b>scheren sich nicht um</b> Rassehygiene." (<i>Marlow</i>, 97)',
@@ -23554,14 +23643,23 @@ Scherbe: [
     'Und dann hatte Rath seine Familie heute Morgen gleich wieder belogen.. Hatte einen dienstlichen Termin vorgeschoben, den es nicht gab. Hatte sich dafür nicht einmal geschämt. Weil das Leben <b>sich</b> eben nicht <b>um</b> gute Vorsätze <b>scherte</b>, sondern einem allzuoft keine andere Wahl ließ, als gegen diese Vorsätze und die eigenen Grundsätze.. zu verstoßen. (<i>Marlow</i>, 366-67)',
     'Rath schaute in den Rückspiegel. Der schwarze Audi, der zwei Auto hinter seinem Buick parkte, <b>scherte</b> nicht aus der Parklücke, hatte nicht einmal den Winker gesetzt. (<i>Marlow</i>, 429)',
     'Marlow drehte um und ging zurück zu seinem Auto. Betrachtete die Szene auf der anderen Straßenseite noch eine Weile im Rückspiegel und startete dann den Motor. Langsam <b>scherte</b> er aus der Parklücke <b>aus</b> und fuhr in Richtung Savignyplaz. (<i>Marlow</i>, 506)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Tornow</i>: "Hast du mich verstanden?" <i>Rath</i>: "Jawohl, Obersturmbannführer." "Na, was stehst du dann noch hier? <b>Scher dich</b> an deine verdammte Arbeit." "Jawohl, Obersturmbannführer." (<i>Olympia</i>, 186)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 scheuern: [
     '<b>scheuern</b>: rub, scrub, scour, scrape'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/scheuern"target="target1">scheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/scheuern"target="target2">scheuern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/scheuern"target="target3">scheuern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=scheuern"target="target4">scheuern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/scheuern"target="target1">scheuern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/scheuern"target="target2">scheuern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/scheuern"target="target3">scheuern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=scheuern"target="target4">scheuern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er zitterte. Nur die Seile in den Armbeugen hielten ihn aufrecht... Er legte seine ganze Kraft in die Arme und vermied es, den Boden zu berühren. Das Seil <b>scheuerte</b>, er schwitzte am ganzen Körper. (<i>Der nasse Fisch</i>, 9)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Den Mantel behielt sie (<i>Hannah</i>), der war ganz gut in Schuss, doch ihre Gummistiefel musste sie ebenfalls loswerden, sie hatte schon wunde Stellen an den Waden, so sehr <b>scheuerten</b> die.  (<i>Märzgefallene</i>, 172)',
     '"Was machsten so?", fragte sie (<i>Hannah</i>) ihn (<i>Felix</i>). "Siehst schnieke aus." So gut gekleidet wie jetzt hatte sie Felix tatsächlich nie gesehen im Sommer. Nicht gerade ein feiner Anzug - ein grober Wollmantel, Manchesterhosen, eine Schirmmütze -, aber alles ohne einen einzigen Flicken oder eine durch<b>gescheuerte</b> Stelle. (<i>Märzgefallene</i>, 322)',
@@ -23869,8 +23967,12 @@ Schlauch: [
 //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schlendern: [
     '<b>schlendern</b>: saunter, stroll, amble'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlendern"target="target1">schlendern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schlendern"target="target2">schlendern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schlendern"target="target3">schlendern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schlendern"target="target4">schlendern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/schlendern"target="target1">schlendern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schlendern"target="target2">schlendern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/schlendern"target="target3">schlendern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=schlendern"target="target4">schlendern</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das <i>Theater am Nollendorfplatz</i> spuckte gerade das Publikum der letzten Vorstellung aus, als zwei Lastwagen um die Ecke bogen und in die Motzstraße rasten. Die Kinobesucher sahen den Wagen nach, die wenige Meter hinter der amerikanischen Kirche mit quietschenden Reifen hielten.. Da schien etwas los zu sein! Einige Kinogänger erwarteten offensichtlich eine Fortsetzung des Films im richtigen Leben und <b>schlenderten</b> neugierig dorthin. (<i>Der nasse Fisch</i>, 240)',
@@ -23884,11 +23986,10 @@ schlendern: [
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Endlich war er (<i>Rath</i>) auf der Straße. Mit den Händen in den Manteltaschen die großen Umschläge fixierend, die in seinem Hosenbund steckten, <b>schlenderte</b> er zum Haus zurück. (<i>Marlow</i>, 286)',
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Owens <b>schlenderte</b> mit einer unglaublich lässigen Eleganz zu den Startlöchern, die er in die Asche gegraben hatte, und ging in Startposition. (<i>Olympia</i>, 104)',
+    'Er (<i>Fritze</i>) zog weiter zu den Speerwerferinnen ans andere Ende des Fußballfeldes, weit entfernt von den Hochspringern. Wie die werfen konnte. Und wie die Kampfrichter immer lossprinteten mit ihren Maßbändern. Fritze <b>schlenderte</b> über den Rasen, um etwas näher dran zu sein, die Speere immer respektvoll im Blick. (<i>Olympia</i>, 188)',
 ],
 'Schliere, schlieren': [
     'die <b>Schliere</b>,-<b>n</b>: streak, smear'+
@@ -25443,20 +25544,31 @@ triezen: [
 ],
 trollen: [
     '<b>sich trollen</b>: buzz off, beat it'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/trollen_entfernen"target="target1">trollen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/trollen"target="target2">trollen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/trollen"target="target3">trollen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trollen"target="target4">trollen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/trollen_entfernen"target="target1">trollen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/trollen"target="target2">trollen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/trollen"target="target3">trollen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/trollen"target="target4">trollen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Reporter <b>trollten sich</b> Richtung Tür, der Saal leerte sich immer schneller, als habe man in einer Badewanne den Stöpsel gezogen. (<i>Der nasse Fisch</i>, 309)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Rath arbeitete sich durch die Menge zum Balkon zurück, um etwas zu unternehmen.... Doch bevor er eingreifen konnte, hatten ein paar Männer in roten Uniformen die Braunhemden bereits umzingelt. Die Parolen verstummten, es gab ein kurzes, heftiges Wortgefecht,...und dann <b>trollten sich</b> die SA-Männer, von den missbilligenden Blicken der Feiernden verfolgt, die den Rotröcken spontan applaudierten. (<i>Märzgefallene</i>, 52-53)',
     'Rath schaute dem Ringvereinler in das verbliebene Auge. Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte.. Nach einer ganzen Weile erst ließ er Raths Hand los und <b>trollte sich</b>. Rath hätte ihm am liebsten einen Tritt hinterhergeschickt. (<i>Märzgefallene</i>, 431)',
     'Damit hatte er (<i>Fritze</i>) <b>sich</b> in die Küche <b>getrollt</b>, wo er zwei weitere Tüchen Brausepulver ausgepackt hatte. (<i>Märzgefallene</i>, 484)',
     'Was wollte der Mann noch von ihm? Grimberg warf Jüppchen einen bösen Blick zu, und der <b>trollte sich</b>. (<i>Märzgefallene</i>, 550)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Steinmetz</i>: "Herr Kommissar, das ist Fräulein Jäger, von der ich Ihnen erzählt habe.".. Rath lächelte. Er sah ihr an, dass sie aufgeregt war. "Sie sind Garderobenfräulein, begann er. Sie nickte. "Für die Dannhoff." "Unsere Hauptdarstellerin", soufflierte der Steinmetz. "Wenn Sie mich und Fräulein Jäger bitte einen Moment allein lassen könnten", bat Rath. Der Steinmetz <b>trollte sich</b> und wirkte ein kleines bisschen beleidigt. (<i>Lunapark</i>, 171)',
     'Fritze zog eine Flappe und <b>trollte sich</b>, Kirie legte sich in ihre Kiste. (<i>Lunapark</i>, 340)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Gute Nacht", sagte Rath. Er schaute auf die Uhr. "Und in zehn Minuten ist das Licht aus! Ich komm nachgucken." <i>Fritze</i>: "Zehn Minuten und ein Kapitel." "Kein Gefeilsche, junger Mann! Wenn ich komme, schläfst du!" Fritze <b>trollte sich</b>. (<i>Marlow</i>, 402)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Wir filmen hier", giftete die Frau. "Und du (<i>Fritze</i>) latschst mitten durchs Bild. Weißt du, was ein Meter Film kostet? Sieh mal zu, dass du Land gewinnst!" Was für eine Furie. Fritze wagte nicht etwas zu erwidern, und <b>trollte sich</b>. (<i>Olympia</i>, 188)',
 ],
 Tropf: [
     'der <b>Tropf</b>, die <b>Tröpfe</b>: twit, rascal, simpleton; drip'+
@@ -27026,6 +27138,7 @@ verunzieren: [
     'Sie (<i>Charly</i>) hatte nicht einmal böse gewirkt, als sie mit ihrem Koffer aus dem Schlafzimmer gekommen war. Musste sie ja auch gar nicht. Wusste sie doch, wie weh es ihm (<i>Gereon</i>) tat, sie in Richtung Moabit ziehen zu lassen. Wie schwer es ihm fiel, allein zu sein. Er setzte sich an den <b>verwaisten</b> Frühstückstisch.. und starrte auf die Brötchenkrümel und den roten Marmeladenklecks auf Charlys Teller. (<i>Olympia</i>, 43)',
     'Die Tische im großen Vorgarten glänzten regennass und <b>verwaist</b>, umso mehr war drinnen los, die Olympiade machte sich auch in der Kantstraße bemerkbar. (<i>Olympia</i>, 165-66)',
     'Der Schalter von Britisch-Indien war <b>verwaist</b>, davor jedoch stand ein Mann mit Turban neben zwei Männern in Feldgrau, einem Unteroffizier und einem Oberleutnant. (<i>Olympia</i>, 169-70)',
+    'Auf einem <b>verwaisten</b> Klappstuhl lag eine Startpistole, und Fritze war versucht, die einmal in die Hand zu nehmen, ließ es dann aber. (<i>Olympia</i>, 188)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 verwegen: [
@@ -27486,6 +27599,7 @@ wedeln: [
     '"Wenn ich noch etwas für Sie tun kann, Oberkommissar?", sagte er (<i>Pütz</i>), als sie wieder auf dem Laubengang waren. "Danke. Gehen Sie ruhig wieder an Ihre Arbeit." Rath <b>wedelte</b> mit den Papieren. "Ich habe erst mal genug zu tun." (<i>Olympia</i>, 70)',
     'Rath streckte die Hand aus. "Welcome to Berlin!" Der Ami ergriff Raths Rechte erfreut und schüttelte sie mit beiden Händen. "Would you like to show me our rooms..." "I beg your pardon?" "Well, my family. They are waiting downstairs." "Your family?", fragte Rath. "Da muss ein Versehen vorliegen." "Pardon?" "Oh, I expected only one person", sagte Rath. "But I wrote to the Wörkörs- and Quartiersämt, we are two adults and one child." Zur Unterstreichung des Gesagten <b>wedelte</b> Frank Miller mit einem Papier, das er aus der Westentasche zog und das den Stempel und den Briefkopf des Verkehrs- und Quartiersamtes trug. (<i>Olympia</i>, 85)',
     '"Wenn Sie wollen können Sie sich auch um das hier kümmern." Oberkommissar Franke <b>wedelte</b> mit einer dünnen Akte. "Eine Diebstahlsanzeige..." (<i>Olympia</i>, 94)',
+    '"Und das nächste Mal, wenn du hier stehst, wage es nicht, mir ohne Ergebnisse unter die Augen zu treten." Das war alles, mehr hatte Tornow ihm nicht zu sagen. Um Rath endgültig hinauszukomplimentieren, reichte eine <b>wedelnde</b> Handbewegung. Wenigstens sparte er sich den Deutschen Gruß. Rath nickte kurz, die Hände an der Hosennaht, und ging. (<i>Olympia</i>, 186)',
 ],
 'wegducken, ducken': [
     '<b>sich ducken</b>: cower, cringe, duck down'+

@@ -221,7 +221,7 @@ const s = [
 'Sprechmuschel',  // Sprechmuschel: 
 'spreizen', // spreizen: 
 'Sprenkel', // Sprenkel: 
-'Spreu vom Weizen trennen',  // 
+'Spreu vom Weizen trennen',   
 'Sprung (auf dem S.)',  //  duplicated  
 'Sprosse',  // Sprosse:  
 'Sprünge (auf die S. helfen)',  // duplicated

@@ -6,6 +6,7 @@ export const wordExamples = {
 // Check if all the "auf die Nase binden" captured
 //  check* if in other books
 
+// FINISH:
 
 // check page number
     // Der stumme Tod  auf den Arm nehmen  346  515  	
@@ -23,7 +24,6 @@ export const wordExamples = {
 //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
 //'gereizt   (e<i>Der stumme Tod</i>, 423)'
 //  ' unverfroren 72 139  350 (<i>Goldstein</i>, 000)',	
-// Olympia Klette 191 
 // Olympia hauen 489: "hau ab"  460 464//maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
 //Der stumme Tod 'aufkratzen, aufgekratzt' 279 448 
     // Der stumme Tod Schminke   270  287 314 329 339  394  396 431 460   462 482  479   535
@@ -100,6 +100,119 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+// FINISH:
+'Daumen drücken': [  
+    'jmdm. die <b>Daumen drücken</b>: root for so.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href=""target="target1">zzz</a>&nbsp;&nbsp;'+
+        '<a href=""target="target2">zzz</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href=""target="target3">zzz</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">zzz</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '"Gleich ist Halbfinale, da trennt sich die Spreu vom Weizen", sagte er (<i>Schröder</i>), nachdem er ein paarmal in seinen Apfel gebissen hatte. "Und wem <b>drückst du da die Daumen</b>..?" <i>Fritze</i>: "Mister Albritton, wem denn sonst? <b>Drückst du deinem Ami nicht die Daumen</b>?" (<i>Olympia</i>, 189)',
+],
+// FINISH:
+quäken: [  
+    '<b>quäken</b>: screech, squawk'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href=""target="target1">quäken</a>&nbsp;&nbsp;'+
+        '<a href=""target="target2">quäken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href=""target="target3">quäken</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">quäken</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    ' (<i>Olympia</i>, 189)',
+],
+// FINISH:
+äffen: [  
+    '<b>äffen</b>: '+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href=""target="target1">äffen</a>&nbsp;&nbsp;'+
+        '<a href=""target="target2">äffen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href=""target="target3">äffen</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">äffen</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    ' (<i>Olympia</i>, 189)',
+],
+'Spreu vom Weizen trennen': [  
+    'die <b>Spreu</b>: chaff, husk'+
+    '<br>der <b>Weizen</b>-: wheat'+
+    '<br>Spreu vom Weizen trennen</b>: separate the wheat from the chaff'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Spreu+vom+Weizen+trennen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Spreu vom Weizen trennen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.wiktionary.org/wiki/die_Spreu_vom_Weizen_trennen"target="target2">Spreu vom Weizen trennen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/spreu-vom-weizen-trennen"target="target3">Spreu vom Weizen trennen</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/die+Spreu+vom+Weizen+trennen"target="target4">Spreu vom Weizen trennen</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '<i>Wolter</i>: "Solche Aktionen (<i>Razzien</i>) hat\'s früher regelmäßig gegeben. Damals haben wir die Leute lastwagenweise zum Alex gekarrt. Und im großen Konferenzsaal, genau da, wo Dörrzwiebel eben seine Predigt gehalten hat, da wurde dann <b>die Spreu vom Weizen getrennt</b>." (<i>Der nasse Fisch</i>, 160)',
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '"Gleich ist Halbfinale, da <b>trennt sich die Spreu vom Weizen</b>", sagte er (<i>Schröder</i>), nachdem er ein paarmal in seinen Apfel gebissen hatte. "Und wem drückst du da die Daumen..?" <i>Fritze</i>: "Mister Albritton, wem denn sonst? Drückst du deinem Ami nicht die Daumen?" (<i>Olympia</i>, 189)',
+],
+vergucken: [  
+    '<b>sich vergucken</b>: see incorrectly; have a crush on, fall for so.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/vergucken"target="target1">vergucken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/vergucken"target="target2">vergucken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/vergucken"target="target3">vergucken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=vergucken&id=verb%3Avergucken"target="target4">vergucken</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '"Wie fühlt man sich denn so als Taschenträger für \'nen Neger, Thormann?", fragte Schröder. <i>Fritze</i>: "Was soll\'n det heißen? Wenn ich mich nicht <b>verguckt</b> habe, trägst auch du \'nem amerikanischen Hochspringer die Tasche hinterher." "Mister Thurber is aber\'n Weißer." "Und Mister Albritton hält den Weltrekord." (<i>Olympia</i>, 188-89)',
+],
 mogeln: [  
     '<b>mogeln</b>: cheat, fudge'+
     '<br><b>sich mogeln</b>: sneak/slip/worm one\'s way into'+
@@ -6464,6 +6577,7 @@ vorführen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Als er (<i>Fritze</i>) das Postamt vor ungefähr zwanzig Minuten betreten hatte, um sich in die Schlange einzureihen, waren überall noch Menschen unterwegs gewesen, nun konnte er außer einem Gärtner, der den <b>Rasen</b> der Dorfaue mähte, und zwei, drei Flaneuren keine Menschenseele erblicken. (<i>Olympia</i>, 103)',
     'Er (<i>Fritze</i>) zog weiter zu den Speerwerferinnen ans andere Ende des Fußballfeldes, weit entfernt von den Hochspringern. Wie die werfen konnte. Und wie die Kampfrichter immer lossprinteten mit ihren Maßbändern. Fritze schlenderte über den <b>Rasen</b>, um etwas näher dran zu sein, die Speere immer respektvoll im Blick. (<i>Olympia</i>, 188)',
+    'Als sie (<i>Fritze und Schröder</i>) am Marathontor ankamen, lag Dave Albritton auf einer großen Decke, die er auf dem <b>Rasen</b> ausgebreitet hatte, und grinste Fritze entgegen. (<i>Olympia</i>, 190)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro große führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde Fuß <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -8751,6 +8865,7 @@ vermaledeit: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Oppenberg</i>: "Genau, Ich möchte an der Grenze behandelt werden wie ein normaler Mensch und nicht wie ein Aussätziger." "Ist Ihnen klar, wie riskant das ist? Normalerweise helfen wir (<i>Detektei Böhm: Böhm und Charly</i>) den Menschen, möglichst viel von ihrem Vermögen ins Ausland zu transferieren und <b>unbehelligt</b> über die Grenze zu kommen." (<i>Olympia</i>, 78-79)',
+    '"Schon mit Albritton gesprochen?", fragte Fürstner. "Wegen des Fotos, meine ich?" Fritze schüttelte den Kopf. "Will ihn mit so was nicht während des Wettkampfs <b>behelligen</b>, lenkt ihn nur ab." (<i>Olympia</i>, 191)',
 ],
 'unbehelligt, behelligen': [
     '<b>behelligen</b>: bother, pester'+
@@ -8791,6 +8906,7 @@ vermaledeit: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Oppenberg</i>: "Genau, Ich möchte an der Grenze behandelt werden wie ein normaler Mensch und nicht wie ein Aussätziger." "Ist Ihnen klar, wie riskant das ist? Normalerweise helfen wir (<i>Detektei Böhm: Böhm und Charly</i>) den Menschen, möglichst viel von ihrem Vermögen ins Ausland zu transferieren und <b>unbehelligt</b> über die Grenze zu kommen." (<i>Olympia</i>, 78-79)',
+    '"Schon mit Albritton gesprochen?", fragte Fürstner. "Wegen des Fotos, meine ich?" Fritze schüttelte den Kopf. "Will ihn mit so was nicht während des Wettkampfs <b>behelligen</b>, lenkt ihn nur ab." (<i>Olympia</i>, 191)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
@@ -9085,15 +9201,14 @@ Fallbeil: [
     'Das Fallbeil unterbrach die Bearbeitung der Schreibmaschine. "Herr Kommissar", sagte Dagmar Kling und wies auf die Tür,.. "gehen Sie bitte durch. Der Herr Polizeipräsident kann Sie jetzt empfangen." (<i>Der nasse Fisch</i>, 302)',
     'Diesmal musste er nicht warten. Das <b>Fallbeil</b> winkte ihn direkt durch. (<i>Der nasse Fisch</i>, 360)',
     // Der stumme Tod
-//    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-//    '    (<i>Der stumme Tod</i>, 426)', and 427   
+    //    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //    '    (<i>Der stumme Tod</i>, 426)', and 427   
     // Olympia
-//    '<span class="bookTitle"><u>Olympia</u></span>',
-//    '    (<i>Olympia</i>, 000)', 
+    //    '<span class="bookTitle"><u>Olympia</u></span>',
+    //    '    (<i>Olympia</i>, 000)', 
 ],
-'rasseln': [  
+'rasseln, weiter-, zusammen-': [  
     '<b>rasseln</b>: jangle, rattle, clank'+
-    '<br><i>trennbare Präfixe</i>: <b>weiter-, zusammen-</b>'+
     '<br><b>weiterrasseln</b>: keep on rattling'+
     '<br><b>zusammenrasseln</b>: clash; have a fight'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -9123,7 +9238,8 @@ Fallbeil: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Kurz darauf saß er im Auto und war froh, wieder unterwegs zu sein. Er wusste nicht, ob er überhaupt noch ins Olympische Dorf fahren sollte, nachdem er mit Tornow darart <b>zusammengerasselt war</b>. (<i>Olympia</i>, 127)',
-],
+    '"Na", sagte Schröder (<i>zu Fritze</i>), "ooch mit der Riefenstahl <b>zusammengerasselt</b>? Bei der musste uffpassen, die versteht keenen Spaß. Und hat \'nen guten Draht zum Führer. Wenn die dem erzählt, dass du den Olympiafilm versaut hast, stecken sie dich glatt ins Arbeitslager." (<i>Olympia</i>, 188)',
+],  
 einbetonieren: [
     '<b>betonieren</b>: pour/set concrete'+
     '<br><b>einbetonieren</b>: set, embed in concrete'+
@@ -18825,8 +18941,12 @@ klappern: [
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Klette: [
     'die <b>Klette</b>,-<b>n</b>: burr, barnacle; nuisance, clingy person'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Klette"target="target1">Klette</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&hs=HJUq&sca_esv=c4ecab8d8e109807&sxsrf=APpeQnvns8RT5faxMYeOZw6vd4_xvakG4Q:1787339410054&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRQDtz5om-6srRFNP4UK_6edrYqFyYjVoLL0-Wmdmyc0hkgxMS8vWcGvu6KGvPN2l66Pt-Dfeud6znDXEgEHcOFnlcOjuOhctJ2kptDZFJMc6gQrGiMw6jZMJn-Nq1yNs0wjhkxk-gnM8WNNCID4vzWwRS63Q&q=bilder+von+kletten&sa=X&ved=2ahUKEwiOjISVtrKWAxX2rokEHWQ3L10QtKgLegQIFBAB&biw=1152&bih=571&dpr=1.67"target="target2">Klette</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klette"target="target3">Klette</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/klette"target="target4">Klette</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Klette"target="target1">Klette</a>&nbsp;&nbsp;'+
+        '<a href="https://www.google.com/search?client=firefox-b-1-d&hs=HJUq&sca_esv=c4ecab8d8e109807&sxsrf=APpeQnvns8RT5faxMYeOZw6vd4_xvakG4Q:1787339410054&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832SMIiTl3t-JZ4hGJOxPbHYRQDtz5om-6srRFNP4UK_6edrYqFyYjVoLL0-Wmdmyc0hkgxMS8vWcGvu6KGvPN2l66Pt-Dfeud6znDXEgEHcOFnlcOjuOhctJ2kptDZFJMc6gQrGiMw6jZMJn-Nq1yNs0wjhkxk-gnM8WNNCID4vzWwRS63Q&q=bilder+von+kletten&sa=X&ved=2ahUKEwiOjISVtrKWAxX2rokEHWQ3L10QtKgLegQIFBAB&biw=1152&bih=571&dpr=1.67"target="target2">Klette</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/klette"target="target3">Klette</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/klette"target="target4">Klette</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     // Der stumme Tod   368  
@@ -18837,8 +18957,8 @@ Klette: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Der Knirps (<i>Fritze</i>) hatte sich zu einer regelrechten Nervensäge entwickelt. Wie eine <b>Klette</b> klebte der Junge an ihr (<i>Hannah</i>), sie wurde ihn einfach nicht mehr los. (<i>Märzgefallene</i>, 252)',
     // Olympia
-//    '<span class="bookTitle"><u>Olympia</u></span>',
-// Olympia Klette 191 
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Fritze nickte und zog los. Er war keine fünf Meter gegangen, da holte ihn Schröder ein. War wie eine <b>Klette</b>, der Typ. (<i>Olympia</i>, 191)',
 ],
 klimpern: [ 
     '<b>klimpern</b>: jingle, clink; flutter; strum (eg, guitare)'+
@@ -19956,8 +20076,12 @@ lädieren: [
 ],
 lässig: [
     '<b>lässig</b>: casual, nonchalant, easygoing'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/laessig"target="target1">lässig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/l%C3%A4ssig"target="target2">lässig</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/lassig?q=l%C3%A4ssig"target="target3">lässig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/declension/nouns/La3ssigkeit.htm"target="target4">lässig</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/laessig"target="target1">lässig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/l%C3%A4ssig"target="target2">lässig</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/lassig?q=l%C3%A4ssig"target="target3">lässig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/declension/nouns/La3ssigkeit.htm"target="target4">lässig</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Das Foto trug er zusammen mit dem Programmheft wieder <b>lässig</b> in der Hand und schlenderte so durch die Gruppen rauchender, trinkender und schwatzender Menschen. (<i>Der nasse Fisch</i>, 154)',
@@ -19971,6 +20095,7 @@ lässig: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Der Mann warf sich das Handtuch über die Schulter und deutete eine Verbeugung an. Sein dunkles Haar war noch feucht und streng gescheitelt, über der muskulösen Brust spannte sich ein Unterhemd. Wenigstens trug er bereits Hosen, doch hingen die Hosenträger noch schlaff an den Seiten herab. Auch das wirkte auf eine gewisse Weise <b>lässig</b>, und der Mann sah aus, als wisse er das. (<i>Olympia</i>, 48)',
     'Owens schlenderte mit einer unglaublich <b>lässigen</b> Eleganz zu den Startlöchern, die er in die Asche gegraben hatte, und ging in Startposition. (<i>Olympia</i>, 104)',
+    '... jede weitere geforderte Höhe schaffte er (<i>Dave Albritton</i>) beim ersten Versuch, doch Fritze merkte, dass es langsam ernst wurde. Während Daves Konkurrent Corny Johnson auch das Halbfinale noch ganz <b>lässig</b> im Trainingsanzug absolvierte, als ginge es um nichts. (<i>Olympia</i>, 190-91)',
 ],
 laff: [
     '<b>laff</b>: bland, weak, slack'+
@@ -22163,8 +22288,12 @@ Räuberpistole: [
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 raunen: [
     '<br><b>raunen</b>: to whisper, murmur'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/raunen"target="target1">raunen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/raunen"target="target2">raunen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/raunen"target="target3">raunen</a> &nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=raunen"target="target4">raunen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/raunen"target="target1">raunen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/raunen"target="target2">raunen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/raunen"target="target3">raunen</a> &nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=raunen"target="target4">raunen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '...ein <b>Raunen</b> ging durch die Menge. Gummiknüppel sausten nieder. Die Demonstranten in der ersten Reihe duckten sich unter den Schlägen, einige stürzten. (<i>Der nasse Fisch</i>, 54)',
@@ -22186,6 +22315,7 @@ raunen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Schröder senkte seine Stimme und klang nun wie ein Verschwörer. "Wenn ihr mich fragt", <b>raunte</b> er bedeutungsschwanger, "dann ist das kein Zufall." Jetzt hatte er sie. Alle Jungen.. hörten ihm gebannt zu... (<i>Olympia</i>, 75)',
+    'Dave Albritton machte einen ungewohnt nervösen Eindruck. In der Vorrunde hatte er keinen einzigen ungültigen Versuch gehabt, nun aber riss er gleich seinen ersten Sprung über ein Meter achtzig, und ein <b>Raunen</b> ging durch die Menge. (<i>Olympia</i>, 190)',
 ],
 Raureif: [
     'der <b>Raureif</b> (no plural): white frost, hoarfrost, rime'+
@@ -22386,10 +22516,19 @@ schwafeln: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 spreizen: [
     '<b>spreizen</b>: spread, force apart, splay'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/spreizen"target="target1">spreizen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spreizen"target="target2">spreizen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spreizen"target="target3">spreizen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=spreizen"target="target4">spreizen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/spreizen"target="target1">spreizen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/spreizen"target="target2">spreizen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/spreizen"target="target3">spreizen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=spreizen"target="target4">spreizen</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath holte eine Stablampe aus dem Mordauto. Karthaus streckte den Hals der Leiche, <b>spreizte</b> die Kiefer (<i>jaws</i>) auseinander und leuchtete in den blutigen Mund. Dann erhob er sich und schüttelte den Kopf. "Keinerlei Fremdkörper..." (<i>Lunapark</i>, 170)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+// put in Latte: ??  xxx
+    'Als sie (<i>Fritze und Schröder</i>) am Marathontor ankamen, lag Dave Albritton auf einer großen Decke, die er auf dem Rasen ausgebreitet hatte, und grinste Fritze entgegen. Seine Vorrundengruppe hatte er dominiert, und das mit einem ungewöhnlichen Sprungstil, bei dem er bäuchlings und mit <b>gespreizten Beinen</b> über die Latte rollte. (<i>Olympia</i>, 190)',
 ],
 schnauben: [
     '<b>schnauben</b>: snort, blow nose'+
@@ -22807,15 +22946,6 @@ Sägemehl: [
     'Drinnen war es stockfinster, und Rath schaltete seine Taschenlampe ein. Eine leerstehende Werkstatt, in der es nach verfaultem Holz roch. Und in deren hinterster Ecke ein toter Mann lag, dessen Blut die Reste von <b>Sägemehl</b>, die von der Vergangenheit dieser Halle als Schreinerwerkstatt zeugten, rot eingefärbt hatte. (<i>Märzgefallene</i>, 411)',
     'Rath drehte die Leiche um. Der Rücken des schwarzen Wintermantels war voller <b>Sägemehl</b>, der blutgetränkte Stoff glänzte feucht im Lichtstrahl der Taschenlampe. (<i>Märzgefallene</i>, 412)',
     'Kronbergs Männer waren inzwischen fündig geworden, wie der ED-Chef höchstpersönlich in seiner unnachahmlich einschläfernden Weise referierte. Seine Leute, die überall am Spreeufer ausgeschwärmt waren, hatten in einer leerstehenden Schreinerwerkstatt... Blutspuren im <b>Sägemehl</b> entdeckt. (<i>Märzgefallene</i>, 510)',
-],
-'Spreu vom Weizen trennen': [
-    'die <b>Spreu</b>: chaff, husk'+
-    'der <b>Weizen</b>,-: wheat'+
-    '<br>die <b>Spreu vom Weizen trennen</b>: separate the wheat from the chaff'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Spreu+vom+Weizen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">Spreu vom Weizen trennen</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/%28die%29+Spreu+vom+Weizen+trennen"target="target2">Spreu vom Weizen trennen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=die+Spreu+vom+Weizen+trennen"target="target3">Spreu vom Weizen trennen</a>&nbsp;&nbsp;<a href="https://tureng.com/en/german-english/die%20spreu%20vom%20weizen%20trennen"target="target4">Spreu vom Weizen trennen</a>',
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    '<i>Wolter</i>: "Solche Aktionen (<i>Razzien</i>) hat\'s früher regelmäßig gegeben. Damals haben wir die Leute lastwagenweise zum Alex gekarrt. Und im großen Konferenzsaal,... da wurde dann die <b>Spreu vom Weizen getrennt</b>." (<i>Der nasse Fisch</i>, 160)',
 ],
 Steckbrief: [
     'der <b>Steckbrief</b>,-<b>e</b>: wanted poster; personal description, profile'+
@@ -25566,7 +25696,7 @@ trollen: [
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Gute Nacht", sagte Rath. Er schaute auf die Uhr. "Und in zehn Minuten ist das Licht aus! Ich komm nachgucken." <i>Fritze</i>: "Zehn Minuten und ein Kapitel." "Kein Gefeilsche, junger Mann! Wenn ich komme, schläfst du!" Fritze <b>trollte sich</b>. (<i>Marlow</i>, 402)',
-    // Olympia
+    // Olympia 
     '<span class="bookTitle"><u>Olympia</u></span>',
     '"Wir filmen hier", giftete die Frau. "Und du (<i>Fritze</i>) latschst mitten durchs Bild. Weißt du, was ein Meter Film kostet? Sieh mal zu, dass du Land gewinnst!" Was für eine Furie. Fritze wagte nicht etwas zu erwidern, und <b>trollte sich</b>. (<i>Olympia</i>, 188)',
 ],
@@ -26344,6 +26474,7 @@ versauen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Rath zu Gräf</i>: "Was willst du, ich bin doch hier. Auch wenn dein Anruf aus heiterem Himmel kam - nach sechs Wochen Funkstille - und du mir den Abend <b>versaut</b> hast. Mir und Charly. Es ist Samstag, verdammt nochmal!" <i>Gräf</i>: "Hör auf zu jammern. Mir hat man auch den Abend <b>versaut</b>. So ist das eben in unserem Beruf." (<i>Olympia</i>, 29)',
+    '"Na", sagte Schröder (<i>zu Fritze</i>), "ooch mit der Riefenstahl zusammengerasselt? Bei der musste uffpassen, die versteht keenen Spaß. Und hat \'nen guten Draht zum Führer. Wenn die dem erzählt, dass du den Olympiafilm <b>versaut</b> hast, stecken sie dich glatt ins Arbeitslager." (<i>Olympia</i>, 188)',
 ],
 verwittern: [
     '<b>verwittern</b>: wear, weather, decay'+

@@ -29,6 +29,7 @@ const v = [
 'vergönnen, gönnen, Gönner',  //duplicated 
 'ver­grau­len, Vergraulung',  
 'vergreifen', // vergreifen:
+'vergucken',  // vergucken:
 'verhageln' ,  // verhageln:  
 'verhaken',  // verhaken:  
 'verhallen' ,  // verhallen: 

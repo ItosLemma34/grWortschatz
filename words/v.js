@@ -16,7 +16,7 @@ const v = [
 'verdruckst',  //verdruckst: 
 'verdünnisieren', // verdünnisieren: 
 'verdunsten',  // verdunsten: 
-'verdutzt',  // verdutzt: 
+'verdutzen, verdutzt',  
 'verfänglich', // verfänglich:
 'verflachen', // verflachen:  
 'verfilzen' ,  // verfilzen:  
@@ -41,6 +41,7 @@ const v = [
 'verhunzen',  // verhunzen: 
 'verkatert, Kater',  //  duplicated 
 'verklemmt',  // verklemmt:
+'verknacken', // verknacken:
 'verkneifen, verkniffen',   
 'verknicken',  // verknicken:
 'verknittern, zerknittern',  // duplicated 

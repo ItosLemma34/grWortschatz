@@ -44,18 +44,20 @@ const h = [
 'Heimtücke, heimtückisch',  
 'heimzahlen',  // heimzahlen: 
 'heischen', // heischen: 
-'heiser, Heiserkeit',  
+'heiser, Heiserkeit', 
+'Heißsporn',  // Heißsporn: 
 'Hemd (sich ins H. machen)',
 'Henkelmann',  // Henkelmann:  
 'herbequemen, bequemen',
 'hereinlegen, reinlegen',  // duplicated 
 'herrisch',  // herrisch: 
 'herumärgern, rumärgern', //  duplicated 
+'herumeiern, rumeiern',  // duplicated
 'herumfuhrwerken',  // herumfuhrwerken: 
 'herumlungern', // herumlungern:  
 'hetzen, Hetze',   
 'heucheln, vor-', 
-'heulen, aus-, ver-, voll-',  
+'heulen, aus-',  
 'Heulsuse', // Heulsuse:  
 'hieven',  // hieven: 
 'hinblättern', // hinblättern:

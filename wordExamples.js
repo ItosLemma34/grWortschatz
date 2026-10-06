@@ -100,6 +100,153 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+// FINISH
+Heißsporn: [  
+    'der <b>Heißsporn</b>,-<b>e</b>: hothead, firebrand'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Heiszsporn"target="target1">Heißsporn</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Hei%C3%9Fsporn"target="target2">Heißsporn</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/heisssporn"target="target3">Heißsporn</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Hei%C3%9Fsporn&id=substantiv%3AHeis5sporn"target="target4">Heißsporn</a>',
+/*
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    */
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '"Und so einer will Reporter werden", sagte der (<i>Schröder</i>), als Fürstner außer Hörweite war. Aber es war gut, dass er unseren <b>Heißsporn</b> hier ein bisschen gezügelt hat", meinte Rönnberg... Er schaute Fritze an. ".. für dich, Thormann, wird es auch der letzte Tag im Stadion sein, das ist dir hoffentlich klar. Ich muss dein Verhalten melden." (<i>Olympia</i>, 193)',
+],
+// FINISH
+verknacken: [  
+    '<b>verknacken</b>: fine, sentence (to jail)'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/verknacken"target="target1">verknacken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/verknacken"target="target2">verknacken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/verknacken"target="target3">verknacken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=verknacken&id=verb%3Averknacken"target="target4">verknacken</a>',
+/*
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+*/
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Rönnberg schaute, als wolle er Fritze am liebsten auf der Stelle zu einem Strafdienst <b>verknacken</b>. (<i>Olympia</i>, 193)',
+],
+// FINISH
+'herumeiern, rumeiern': [  
+    '<b>herumeiern</b>: pussyfoot around, beat around the bush'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/herumeiern"target="target1">herumeiern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/herumeiern"target="target2">herumeiern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/herumeiern"target="target3">herumeiern</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/herumeiern"target="target4">herumeiern</a>',
+    // Der nasse Fisch
+    /*
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    */
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Rönnberg zu Fritze</i>: "Na, du tust immer so komisch und <b>eierst rum</b>, wenn du über den Toten redest. Als hättest du ein schlechtes Gewissen. Und die Kripo befragt ja keinen ohne Grund." (<i>Olympia</i>, 192)',
+],
+'rumeiern, herumeiern': [  
+    '<b>herumeiern</b>: pussyfoot around, beat around the bush'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/herumeiern"target="target1">herumeiern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/herumeiern"target="target2">herumeiern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/herumeiern"target="target3">herumeiern</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/herumeiern"target="target4">herumeiern</a>',
+    // Der nasse Fisch
+    /*
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    */
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Rönnberg zu Fritze</i>: "Na, du tust immer so komisch und <b>eierst rum</b>, wenn du über den Toten redest. Als hättest du ein schlechtes Gewissen. Und die Kripo befragt ja keinen ohne Grund." (<i>Olympia</i>, 192)',
+],
+// FINISH:
+gesellen: [  
+    '<b>sich</b> zu jmdm. <b>gesellen</b>: join so.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href=""target="target1">gesellen</a>&nbsp;&nbsp;'+
+        '<a href=""target="target2">gesellen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href=""target="target3">gesellen</a>&nbsp;&nbsp;'+
+        '<a href=""target="target4">gesellen</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Schröder schien beeindruckt. Er hielt tatsächlich den Mund. Die drei (<i>Fritze, Schröder, Fürstner</i>) <b>gesellten sich</b> zu den anderen Ehrendienstjungen, die gerade Pause machten. (<i>Olympia</i>, 192)',
+],
 // FINISH:
 'Daumen drücken': [  
     'jmdm. die <b>Daumen drücken</b>: root for so.'+
@@ -355,7 +502,8 @@ Kommisskopp: [
     'Goldstein hatte eigentlich im <i>Adlon</i> reservieren wollen, aber das war komplett in der Hand von Olympia..; also waren sie ein paar Meter weiter die Linden hinunter im Hotel <i>Bristol</i> untergekommen, das war zwar weniger bekannt, aber sogar eine Spur luxuriöser. Nicht dass er so etwas brauchte, das <i>Excelsior</i> hätte ihm vollauf gereicht..., doch hatte er es Marion nicht <b>zumuten</b> wollen, im selben Hotel zu nächtigen, in dem sie damals als Zimmermädchen gearbeitet hatte. (<i>Olympia</i>, 64)',
     'Doch dann spielten sie (<i>die Kapelle im Olympiastadion</i>) gleich im Anschluss an die Nationalhymne.. das Horst-Wessel-Lied, und Charly setzte sich hin... Alle anderen im Stadion standen...Rath setzte sich neben seine Frau und legte ihr den Arm um die Schulter. So sah es vielleicht ein wenig danach aus, als sei ihr blümerant <b>zumute</b> und er kümmere sich um sie. (<i>Olympia</i>, 158)',
     'Mehr sagte Hitler nicht, wahrscheinlich was das die kürzeste Rede, die der Mann jemals gehalten hatte, und Rath war erleichtert. Adolf Hitler zuhören zu müssen war für Charly die schlimmste aller denkbaren <b>Zumutungen</b>. (<i>Olympia</i>, 159)',
-    //Olympia 'Zumutung, zumuten, zumute' 194 299 329 348  381 438 457
+    'Fritze fühlte sich in diesem riesigen Stadion, obwohl es voller Menschen war, plötzlich unendlich allein. Ihm war zum Heulen <b>zumute</b>, aber Heulen ging natürlich nicht. Ein deutscher Junge weint nicht. (<i>Olympia</i>, 194)',
+    //Olympia 'Zumutung, zumuten, zumute' 299 329 348  381 438 457
 ],
 hissen: [  
     '<b>hissen</b>: hoist sth. (eg, sails, a flag);'+
@@ -5382,13 +5530,22 @@ unentwegt: [
 ],
 Objektiv: [
     'das <b>Objektiv</b>,-<b>e</b>: camera lens'+
-    '<br><b>objektiv</b>: adj: objective'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Objektiv"target="target1">Objektiv</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Objektiv"target="target2">Objektiv</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Objektiv"target="target3">Objektiv</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Objektiv&id=substantiv%3AObjektiv"target="target4">Objektiv</a>',
+    '<br><b>objektiv</b>: objective (adj: <i>eine objektive Auswertung</i>)'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Objektiv"target="target1">Objektiv</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Objektiv"target="target2">Objektiv</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/Objektiv"target="target3">Objektiv</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Objektiv&id=substantiv%3AObjektiv"target="target4">Objektiv</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der ED hatte Wilczek von allen Seiten fotografiert.. Offensichtlich hatte der Fotograf vergessen, <i>Bitte recht freundlich</i> zu sagen. Wilczek schaute ins <b>Objektiv</b>, als wolle er gleich nach dem Fototermin kleine Kinder fressen. (<i>Der nasse Fisch</i>, 287)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath drehte den Kopf und blickte in ein halbes Dutzend <b>Objektive</b>. Ein ganzes Rudel Reporter musste es irgendwie geschafft haben, an dem Schupo draußen vorbeizukommen. Bevor einer der Beamten eingreifen konnte, flackerte das Blitzlichtgewitter los. (<i>Der stumme Tod</i>, 35)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Kurz darauf tauchten alle drei Medaillengewinnerinnen, auch die Polin, in der Ehrenloge auf, wo der Führer ihnen gratulierte. Fürstner hob seine Kamera und versuchte zu fotografieren. "Mist", fluchte er, "ich bräuchte ein größeres <b>Objektiv</b>." (<i>Olympia</i>, 191)',
 ],
 Rudel: [
     'das <b>Rudel</b>-,: pack; pride of lions'+
@@ -5494,26 +5651,38 @@ aufbäumen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Pechmann</i>) nahm die Hände des Delinquenten und schnallte sie nacheinander an den Armlehnen des Stuhles fest. Das ging so behutsam und selbstverständlich, dass Ehlers gar nicht begriff, wie ihm geschah. Wahrscheinlich war er überrascht, dass man ihm nicht weh getan hatte, kein Schlag, kein Tritt, nur die Fixierung. Gegen die er sich nun, da es zu spät war, <b>aufbäumte</b>. (<i>Olympia</i>, 116)',
 ],
-'heulen, aus-, ver-, voll-': [
+'heulen, aus-': [
     '<b>heulen</b>: howl, bawl, wail, cry'+
     '<br><b>ausheulen</b>: cease crying'+
     '<br><b>sich ausheulen</b>: cry one\'s eyes out'+
     '<br><b>verheult</b>: tear-stained, red from crying'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/heulen"target="target1">heulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausheulen"target="target2">ausheulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verheult"target="target3">verheult</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=heulen&id=verb%3Aheulen"target="target4">heulen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausheulen"target="target5">ausheulen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verheult"target="target6">verheult</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/heulen"target="target1">heulen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/ausheulen"target="target2">ausheulen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verheult"target="target3">verheult</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=heulen&id=verb%3Aheulen"target="target4">heulen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/ausheulen"target="target5">ausheulen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verheult"target="target6">verheult</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Der Mann war <b>heulend</b> zusammengebrochen. (<i>Der nasse Fisch</i>, 52)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Gräf drehte ab, und Rath wandte sich dem flennenden Meisner zu. Mit einem Helden hatte der Schauspieler im Augenblick wenig gemein. Als Rath direkt vor ihm stand, hörte er auf zu schluchzen und schaute aus <b>verheulten</b> Augen hoch. (<i>Der stumme Tod</i>, 26)',
     'Lange blieb einen Moment stehen und druckste herum. Dann traute er sich doch. "Er (<i>Brenner</i>) hat angedeutet.. also.. Stimmt es, dass Sie (<i>Rath</i>) ihn.. zusammengeschlagen haben?" Rath zuckte die Achseln. "Sagen wir, ich habe ihm eine kleine Lektion erteil. Hängen Sie das mal nicht an die große Glocke." .. Brenner, dieses Kameradenschwein! Würde <b>sich</b> bei Böhm <b>ausheulen</b>, natürlich. (<i>Der stumme Tod</i>, 120)',
     'Er kann sie nicht mehr hören, diese hohen, lang gezogenen Laute, die einmal ein Lachen gewesen sein mochten, ein Lachen, das zu tief in einen dunklen Wald geraten ist und sich in ein wildes Gluckern und Kreischen verwandelt hat, dieses Kreischen, das nun ununterbrochen durch das ganze Haus hallt und die Luft zersägt und in der Ferne <b>heult</b> wie ein verirrtes Gespenst. (<i>Der stumme Tod</i>, 221)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Beim nächsten Mal hatte Hannah nicht mehr geschrien. Den Gefallen wollte sie ihm (<i>Scholtens</i>) nicht noch einmal tun. Da hatte er sie geschlagen, so lange, bis sie doch wieder geschrien hatte und geschluchzt und <b>geheult</b>. (<i>Märzgefallene</i>, 65)',
     'Rath knallte den Hörer auf die Gabel. Und nun? Was sollte er mit dem <b>heulenden</b> Knaben da in seiner Küche anfangen?.. "Tschuldigung", sagte er (<i>Fritze</i>). "Ick <b>heule</b> sonst nie, aber ich weeß ooch nich." "Schon gut", sagte Rath. "Mein Vater hat mir früher auch immer verboten zu <b>heulen</b>. Aber manchmal geht\'s eben nicht anders. (<i>Märzgefallene</i>, 404)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Charly begann plötzlich zu schluchzen und wusste nicht, warum. Sie versuchte, es zu unterdrücken, doch sie konnte nicht.. An seiner (<i>Gereons</i>) Schulter brachen endgültig alle Dämme, Charly <b>heulte</b> lautlos und konnte nichts dagegen tun. (<i>Lunapark</i>, 132)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Wie kam es, dass Hedwig Lehmann, die ihm (<i>Rath</i>) vor einer Woche noch die Ohren voll<b>geheult</b> hatte, dass sie sich nun, da ihr Mann nicht mehr da sei und das Geld verdiene, auch gleich umbringen könnte, eine Frau, der er die nackte Angst vor dem Gerichtsvollzieher geglaubt hatte, sich diese Wohnung leisten konnte? Zahlte die Charité wirklich so viel für eine Leiche mit Hirntumor? (<i>Marlow</i>, 175)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Fritze fühlte sich in diesem riesigen Stadion, obwohl es voller Menschen war, plötzlich unendlich allein. Ihm war zum <b>Heulen</b> zumute, aber <b>Heulen</b> ging natürlich nicht. Ein deutscher Junge weint nicht. (<i>Olympia</i>, 194)',
 ],
 flennen: [
     '<b>flennen</b>: blubber, howl, wail'+
@@ -7447,11 +7616,15 @@ qualmen: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
-verdutzt: [
+'verdutzen, verdutzt': [
     '<b>verdutzen</b>: to baffle, disconcert, perplex'+
     '<br><b>verdutzt</b>: baffled, dumbfounded, perplexed'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verdutzen"target="target1">verdutzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verdutzt"target="target2">verdutzt</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verdutzen"target="target3">verdutzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verdutzt&id=adjektiv%3Averdutzt%23verdutzt"target="target4">verdutzt</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/verdutzen"target="target1">verdutzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/verdutzt"target="target2">verdutzt</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/verdutzen"target="target3">verdutzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=verdutzt&id=adjektiv%3Averdutzt%23verdutzt"target="target4">verdutzt</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) riss die Wohnungstür auf und blickte in die <b>verdutzten</b> blaugrünen Augen einer abgerissenen Gestalt. (<i>Der nasse Fisch</i>, 38)',
@@ -7468,6 +7641,9 @@ verdutzt: [
     '"An Ihrer Stelle jedoch, Scharführer Hartmann", fuhr er fort und schaute den Mann in der Pförtnerloge an, "an Ihrer Stelle würde ich mir schon Gedanken machen, ob Sie nicht gerade einen Fehler begangen haben." Der <b>verdutzte</b> Gesicht, das der Scharführer machte, als er sich mit Dienstrang und Namen angesprochen sah, war mit Geld nicht zu bezahlen. (<i>Lunapark</i>, 274)',
     'Mit diesen Worten stürzte sie (<i>Charly</i>) aus Guidos Büro, ließ die Tür heftig ins Schloss fallen, stürmte vorbei an der <b>verdutzten</b> Ingeborg Hoffmann, schnappte sich Handtasche, Mantel und Hut und verließ die Kanzlei Scherer und Blum auf dem schnellsten Wege. (<i>Lunapark</i>, 351)',
     '<i>Rath</i>: "..Ich werde also weiterhin an den Mordfällen arbeiten und die entsprechenden Unterlagen dann eben mit zum Alex nehmen... Wenn Sie kurz mit anpacken würden", sagte Rath und legte dem <b>verdutzten</b> Truppführer (<i>Pfeiffer</i>) einen ganzen Stapel Aktenordner in die Arme. (<i>Lunapark</i>, 450)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Was sind denn deine Leute?" <i>Fürstner</i>: "Die Finnen. Die laufen heute über zehntausend Meter." "Ach", sagte Schröder, "Langstrecke. Da ist für uns doch Gebhardt am Start, oder?" Fürstner nickte. <i>Schröder</i>: "Und, drückst du dem die Daumen?" "Nee." "Wem denn dann?" "Na, meinen Finnen." "Und welchem?" "Egal. Ich wette, einer von denen gewinnt." Fürstner lachte den <b>verdutzten</b> Schröder an und verschand. (<i>Olympia</i>, 193)',
 ],
 absäbeln: [
     '<b>absäbeln</b>: cut/hack off'+
@@ -14154,12 +14330,19 @@ Dietrich: [
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'dämlich, Dämlichkeit': [
-    '<b>dämlich</b>: stupid, silly, foolish, idiotic <br>die <b>Dämlichkeit</b>,-<b>en</b>: stupidity, dumbness'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/daemlich"target="target1">dämlich</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/D%C3%A4mlichkeit"target="target2">Dämlichkeit</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/damlich"target="target3">dämlich</a> &nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/daemlichkeit"target="target4">Dämlichkeit</a>',
+    '<b>dämlich</b>: stupid, silly, foolish, idiotic'+
+    '<br>die <b>Dämlichkeit</b>,-<b>en</b>: stupidity, dumbness'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/daemlich"target="target1">dämlich</a> &nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/D%C3%A4mlichkeit"target="target2">Dämlichkeit</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/damlich"target="target3">dämlich</a> &nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/daemlichkeit"target="target4">Dämlichkeit</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Wolter tippte zu Gruß an seinen Hut, Rath hob noch einmal die Papiertüten. Und kam sich im selben Augenblick ziemlich <b>dämlich</b> vor. Die Frau (<i>Charly</i>) blickte ihn neugierig, beinahe belustigt an. (<i>Der nasse Fisch</i>, 34)',
     '"Hör mir mal zu, mein kleiner Schneemann", flüsterte Rath dem nach Luft japsenden Mann leise zu... "Du warst so <b>dämlich</b>, dich mit deinem Koks zu Bullen an den Tisch zu setzen. Wenn du nicht in zehn Sekunden diesen Laden hier verlassen hast, dann wirst du nicht nur die nächsten Wochen Schmerzen beim Pinkeln haben, dann werde ich auch dafür sorgen, dass du hinter Gitter wanderst..." (<i>Der nasse Fisch</i>, 191)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Während das Dreigestirn mit großem Hallo empfangen wurde, konnte Rath sich unauffällig unters Volk mischen. Er schaute auf die Uhr: noch genügend Zeit, sich zu Paul und den anderen zum Dom durchzuschlagen, sogar dafür, die <b>dämliche</b> Narrenkappe loszuwerden und sich richtig zu verkleiden. (<i>Märzgefallene</i>, 50)',
     'Hannah umfasste die Scherbe in ihrer Hand, die sie eigentlich Scholtens in seinen <b>dämlichen</b> Arsch hatte rammen wollen.    (<i>Märzgefallene</i>, 67)',
@@ -14175,6 +14358,7 @@ Dietrich: [
     '"Weiß ist nur entkommen«, beendete sie (<i>Charly</i>) ihren Bericht, "weil die SA zu <b>dämlich</b> war, einen Posten vor den Dienstbotenaufgang zu stellen." (<i>Märzgefallene</i>, 214)',
     'Beim zufälligen Blick in den Garderobenspiegel bemerkte sie (<i>Charly</i>), was für ein selten <b>dämliches</b> Lächeln sie aufgesetzt hatte, während Karin (<i>van Almsick</i>) ihren Mantel aufhängte. (<i>Märzgefallene</i>, 446)',
     '...der SA-Mann stand plötzlich stramm. Was mit dem Pappschild vor der Brust ziemlich <b>dämlich</b> aussah. (<i>Märzgefallene</i>, 459)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Charly</i>: "Du (<i>Fritze</i>) willst allen Ernstes Hitlerjunge werden? Nur um da (<i>Zeltlager der Hitlerjugend</i>) hingehen zu können? Überleg doch mal, wie <b>dämlich</b> das ist. Du gehst denen auf den Leim!" (<i>Lunapark</i>, 29)',
     'Bislang hatte Pfeiffer, abgesehen von seinem misslungenen Einstand, mit dem er die Befragung des Zeugen Egerland zerschossen hatte, nicht weiter gestört. Solange er nur <b>dämlich</b> in der Gegend herumstand, sollte es Lange recht sein. (<i>Lunapark</i>, 46)',
@@ -14183,8 +14367,12 @@ Dietrich: [
     '"Hallo?", rief er (<i>Rath</i>). Keine Antwort.. Er suchte sämtliche Räume ab, sogar die Toiletten, doch die Kanzlei war verwaist. Hatten alle die Feier verlassen, um irgendwo anders in der Stadt weiterzufeiern?.. Wie in alten Studentenzeiten? Und der Grinsemann war zu <b>dämlich</b> gewesen oder zu betrunken, um abzuschließen? (<i>Lunapark</i>, 181)',
     '"Kantstraße hundersechsundzwanzig". Mehr als diese beiden Worte sprach Rath nicht, bis sie Charlottenburg erreicht hatten. Die ganze Fahrt zerbrach er sich den Kopf darüber, was Charly in Kreuzberg zu erledigen haben mochte, und der Fahrer wagte es nicht, auch nur eine <b>dämliche</b> Frage zu stellen. (<i>Lunapark</i>, 283)',
     'Er (<i>Gräf</i>) sagte das derart triumphierend, als habe er Karl Reinhold eigenhändig festgenommen und all diese Informationen aus ihm herausgeholt. Dabei war es nichts anderes als ein <b>dämlicher</b> Zufall. (<i>Lunapark</i>, 327)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Gereon zu Fritze</i>: ".. Willst du ihr (<i>Charly</i>) nicht mal ne Karte schreiben? Einfach nur ein paar Grüße?" "Aber sie findet det doch allet <b>dämlich</b>, wat ich hier mache. Die würd doch durchdrehen, wenn se mir hier sehen würde in Uniform. Und dann noch tausend andere Hitlerjungen..." (<i>Marlow</i>, 298-99)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Rönnberg</i>: "Na, du tust immer so komisch und eierst rum, wenn du über den Toten redest. Als hättest du ein schlechtes Gewissen..." <i>Fritze</i>: "Was soll denn das heißen?" "Was meinste wohl?" "Die befragen Zeugen, du Idiot! Wenn du nicht so <b>dämlich</b> wärest, würdest du das verstehen." "Du hast mich <b>dämlich</b> genannt? Ich bin dein Stubenältester." "Na, Alter schützt vor <b>Dämlichkeit</b> nicht!" (<i>Olympia</i>, 192)',
 ],
 Damm: [
     'der <b>Damm</b>, die <b>Dämme</b>: dam, levy, causeway, embankment'+
@@ -24120,6 +24308,7 @@ schlendern: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Owens <b>schlenderte</b> mit einer unglaublich lässigen Eleganz zu den Startlöchern, die er in die Asche gegraben hatte, und ging in Startposition. (<i>Olympia</i>, 104)',
     'Er (<i>Fritze</i>) zog weiter zu den Speerwerferinnen ans andere Ende des Fußballfeldes, weit entfernt von den Hochspringern. Wie die werfen konnte. Und wie die Kampfrichter immer lossprinteten mit ihren Maßbändern. Fritze <b>schlenderte</b> über den Rasen, um etwas näher dran zu sein, die Speere immer respektvoll im Blick. (<i>Olympia</i>, 188)',
+    'Kurz darauf tauchten alle drei Medaillengewinnerinnen, auch die Polin, in der Ehrenloge auf, wo der Führer ihnen gratulierte. Fürstner hob seine Kamera und versuchte zu fotografieren. "Mist", fluchte er, "ich bräuchte ein größeres Objektiv." "Machst du viele Fotos?", fragte Fritze ihn, als sie wenig später weiter<b>schenderten</b>.  (<i>Olympia</i>, 191)',
 ],
 'Schliere, schlieren': [
     'die <b>Schliere</b>,-<b>n</b>: streak, smear'+

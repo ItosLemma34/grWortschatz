@@ -66,7 +66,8 @@ const r = [
 'Rudel',  // Rudel: 
 'rührig',  // rührig: 
 'rülpsen', // rülpsen: 
-'rumärgern, herumärgern', // duplicated  
+'rumärgern, herumärgern', // duplicated 
+'rumeiern, herumeiern', // duplicated 
 'Rummel', // Rummel: 
 'rumoren',  // rumoren:
 'rumpeln', // rumpeln: 

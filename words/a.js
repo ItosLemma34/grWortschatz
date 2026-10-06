@@ -4,7 +4,7 @@ const a = [
 'abblitzen',  // abblitzen: 
 'abebben',    // abebben:  
 'abfackeln',  // abfackeln:  
-'abgebrüht',  // abgebrüht:   
+'abbrühen, abgebrüht',    
 'abgrasen',   // abgrasen:   
 'abgreifen, abgegriffen',
 'abhalftern, abgehalftert',   

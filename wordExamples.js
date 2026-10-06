@@ -1,6 +1,6 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
-// next:  abgebrüht:
+// next:  abgrasen:
 
 // Olympia: already used: '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum <b>Spülen</b> gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist <b>wegspülen</b>. Und als ich den <b>Spülkorb</b> ausräume, finde ich da so ein Glas, wo ich nicht weiß, wo das her ist. War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s <b>gespült</b> haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den Schüsseln und so war. Schade um das ganze Essen, aber das vollgekotzte Zeug war ja nicht mal mehr was für den Schweineeimer."  (<i>Olympia</i>, 152)',
 // Check if all the "auf die Nase binden" captured
@@ -1289,7 +1289,6 @@ vertuschen: [
     '<i>Wolter</i>: "Vielleicht haben die beiden (<i>Fallin und Selenskij</i>) einfach Mist gebaut. So was passiert. Erst verreckt ihnen der Kerl (<i>Boris Karpenko</i>), bevor sie etwas Anständiges aus ihm herausbekommen haben, und dann wollen sie das Ganze <b>vertuschen</b> und starten eine Desinformationskampagne..."  (<i>Der nasse Fisch</i>, 485)',
     '<i>Wolter</i>: "Hast du heute schon in den Spiegel geschaut, Gereon? Meinst du, das Gericht glaubt einem koksenden Bullen, der jemanden erschossen hat und stümperhaft versucht, das zu <b>vertuschen</b>?" (<i>Der nasse Fisch</i>, 487)',
     'Als Rath die Wohnung wieder verließ, gab er sich keine große Mühe, die Einbruchsspuren zu <b>vertuschen</b>. (<i>Der nasse Fisch</i>, 508)',
-    // vertuschen vertuscht, vertuschte, hat vertuscht
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
     'Bei allem Kopfschütteln, das sein (<i>Gereons</i>) Verhalten immer mal wieder bei ihr (<i>Charly</i>) auslöste - sie konnte ihn verstehen. Hätte sie anders gehandelt? Den Briefumschlag nicht aufgerissen? Die geheimen Akten nicht an ihren Bestimmungsort geschickt, um das eigene Fehlverhalten zu <b>vertuschen</b>? (<i>Marlow</i>, 406)',
@@ -11804,10 +11803,15 @@ abschüssig: [
     'Kaufmann schob ihn (<i>Kieling</i>) vom Kiesweg weg zum See hinunter, der dem Weg an dieser Stelle am nächsten kam. Nur ein paar Meter, leicht <b>abschüssig</b>. (<i>Olympia</i>, 110)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-abgebrüht: [
-    '<b>abgebrüht</b>: callous, hardened, hard-nosed <br><b>abbrühen</b>: scald, boil out'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abgebrueht"target="target1">abgebrüht</a> &nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht"target="target2">abgebrüht</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=abgebr%C3%BCht"target="target3">abgebrüht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abgebr%C3%BCht&id=adjektiv%3Aabgebru3ht%23abgebru3ht"target="target4">abgebrüht</a>',
+'abbrühen, abgebrüht': [
+    '<b>abbrühen</b>: scald, boil out'+
+    '<br><b>abgebrüht</b>: callous, hardened, hard-nosed'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/abbr%C3%BChen"target="target1">abbrühen</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/abgebr%C3%BCht"target="target2">abgebrüht</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/abbruehen"target="target3">abbrühen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=abgebr%C3%BCht&id=adjektiv%3Aabgebru3ht%23abgebru3ht"target="target4">abgebrüht</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Im Halbdunkel des Torbogens... wartete Jänicke, die Hände in die Manteltaschen gegraben, den Kragen hochgeschlagen und die Hutkrempe in die Stirn gezogen. Rath musste ein Lachen unterdrücken. Jänicke gab sich die größte Mühe, wie ein <b>abgebrühter</b> Großstadtbulle auszusehen, doch die ewig roten Wangen verrieten den Jungen vom Lande. (<i>Der nasse Fisch</i>, 17)',
@@ -11961,8 +11965,12 @@ anhimmeln: [
 ],
 austüfteln: [
     '<b>austüfteln</b>: puzzle out, work out'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/austuefteln"target="target1">austüfteln</a> &nbsp;<a href="https://www.dwds.de/wb/aust%C3%BCfteln"target="target2">austüfteln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/austuefteln#aust%C3%BCfteln"target="target3">austüfteln</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/austufteln"target="target4">austüfteln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/austuefteln"target="target1">austüfteln</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/aust%C3%BCfteln"target="target2">austüfteln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/austuefteln#aust%C3%BCfteln"target="target3">austüfteln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/austufteln"target="target4">austüfteln</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) setzte sich ins Auto und machte es sich gemütlich. Von hier hatte er Krajewskis Haustür prächtig im Blick. Und genügend Zeit, den Plan noch einmal zu durchdenken, den er im Zug <b>ausgetüftelt</b> hatte. (<i>Der nasse Fisch</i>, 508)',
@@ -11970,6 +11978,7 @@ austüfteln: [
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Oppenberg</i>: "Felix würde nie das Leben eines Menschen riskieren. Was auch immer er da <b>ausgetüftelt</b> haben mag mit diesem Scheinwerfer, glauben Sie mir, es war perfekt." (<i>Der stumme Tod</i>, 146-47)',
     'Rath erläuterte seine Theorie: Krempin habe die Drahtkonstruktion <b>ausgetüftelt</b>, um die Tonfilmkamera mit dem zentnerschweren Scheinwerfer zu zerstören, sei jedoch entdeckt worden. Deshalb habe er die Sache in letzter Sekunde entschärft und das Atelier Hals über Kopf verlassen. (<i>Der stumme Tod</i>, 199)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Rath musste sich mit einem Kommissar Stresow... auseinandersetzen, der den Personenschutz für Achim von Roddeck koordinierte. <i>Stresow</i>: "Fragen Sie an der Rezeption nach Herrn Rubens.... Wir benutzen täglich neue Decknamen." <i>Rath</i>: "Lassen Sie mich raten: Gestern hat er dann wohl noch Dürer geheißen?"....Rath zuckte die Achseln. "Da haben Sie jedenfalls ganz schön was <b>ausgetüftelt</b>!" (<i>Märzgefallene</i>, 328)',
 ],
@@ -26445,12 +26454,19 @@ verkriechen: [
     '<b>versehren</b>: injure, damage, disable'+
     '<br>die <b>Unversehrtheit</b>,-<b>en</b>: freedom from injury; intactness, integrity'+
     '<br><b>unversehrt</b>: intact, unscathed, undamaged'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unversehrt"target=target3">unversehrt</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/versehren"target=target4">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target5">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/unversehrt"target=target6">unversehrt</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unversehrt"target=target3">unversehrt</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/versehren"target=target4">versehren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target5">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/unversehrt"target=target6">unversehrt</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    'Der Opel stand <b>unversehrt</b> vor Zörgiebels Gartentor. (<i>Der nasse Fisch</i>, 506)',
+    'Der Opel stand <b>unversehrt</b> vor Zörgiebels Gartentor. (<i>Der nasse Fisch</i>, 507)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Lüdenback bestätigte, dass es sich um einen Bolzen der Scheinwerferhalterung handelte. Keine Bruchstelle, das Ding war <b>unversehrt</b> und landete zur weiteren Untersuchung in einer Blechkiste des ED. (<i>Der stumme Tod</i>, 34)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die Ummauerung des Parks hat einige Treffer abbekommen, das Haupthaus jedoch ist gänzlich <b>unversehrt</b> geblieben, jetzt allerdings sind auch seine Tage gezählt. (<i>Märzgefallene</i>, 160)',
     'Und dann erzählte sie (<i>Charly</i>) ihm (<i>Gereon</i>), wie sie ruhe- und restlos mit dem Hund die Uhlandstraße hinuntergegangen war, weil sie einfach noch nicht nach Hause konnte.. Wie sie dann einen Mann und eine Frau aus einem Hauseingang hatte kommen sehen, deren Gesichter sie kannte. Wie erleichtert und gleichzeitig erschrocken sie war, ihn (<i>Bernhard Weiß</i>) hier zu sehen, <b>unversehrt</b> und mit seiner Frau. (<i>Märzgefallene</i>, 213)',
@@ -26458,11 +26474,13 @@ verkriechen: [
     '...der Kerl im Spiegel erinnerte an jemanden, der sich für einen Faschingsball als scheiß Pirat verkleidet hatte und das Kostüm schon unter Hut und Mantel trug. Oder an einen beschissenen Kriegs<b>versehrten</b>. War er deshalb heil durch den Krieg gekommen, um den Rest seines Lebens nun doch als Krüppel zu verbringen?  (<i>Märzgefallene</i>, 386)',
     'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den Fall der Fälle. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen. Doch der Faden, den Rath als unsichtbares Siegel an der Tür angebracht hatte, war <b>unversehrt</b>, der Tote lag noch genau da, wo sie ihn zurückgelassen hatten. (<i>Märzgefallene</i>, 418)',
     '<i>Doktor Schwartz</i>: "Es geht um diese Leiche, die gestern in der Spree gefunden wurde, dieser fürchterlich entstellte Kriegs<b>versehrte</b>. (<i>Märzgefallene</i>, 506)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Sein Gesicht war entstellt von Platzwunden, die Nase gebrochen und blutig, die fleischige Oberlippe eingerissen, sodass man die lückenhafte Zahnreihe dahinter sehen konnte. Nur die weit aufgerissenen Augen, in deren Blick das schiere Entsetzen geschrieben stand, waren wie durch ein Wunder <b>unversehrt</b> geblieben... (<i>Lunapark</i>, 17)',
     'Rath schloss den Wagen ab und ging zurück in die Schule. Im Sekretariat fand er ein Telefon. Die Kollegen im 157. Revier bestätigten Zeyens Angaben... Der Halter habe den Wagen persönlich dort abgeholt. Die Kollegen hatten ihre Arbeit mit der Übergabe des <b>unversehrten</b> Fahrzeugs für erledigt betrachtet. (<i>Lunapark</i>, 303)',
     'Rath musste daran denken, wie er Leo Juretzka beim Autoknacken beobachtet hatte. Und dass kein Wagen, der am Bahnhof Westkreuz abgestellt war, in den nächsten Tagen als gestohlen gemeldet worden war. Weil Juretzka offensichtlich die Wagen, die er sich auslieh für seine Eskapaden, immer wieder <b>unversehrt</b> zurückbrachte und an derselben Stelle parkte, wo er sie gestohlen hatte. (<i>Lunapark</i>, 448-49)',
     'Nach den Ereignissen der Sonntagnacht erschien ihm alles andere nebensächlich, selbst die Nachricht, dass Konrad Adenauer zwei Tage und Nächte in einer Zelle der Geheimen Staatspolizei <b>unversehrt</b> überstanden hatte. (<i>Lunapark</i>, 537)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath hockte sich zu der unbekannten Leiche und schlug die Leinendecke zurück. Der Mann war Ende zwanzig, Anfang dreißig und hatte ein hübsches Gesicht, das bis auf eine hässliche Platzwunde nahezu <b>unversehrt</b> geblieben war. (<i>Marlow</i>, 29)',
     'Das Taxi, eigentlich ein stabiler Wagen, war durch den Aufprall auf wenig mehr als die Hälfte seiner Größe gestaucht, die Kühlerhaube eingedrückt, die Vorderachse verbogen und derart unter die Karosserie geschoben, dass von den Vorderrädern kaum noch etwas zu sehen war. Umso unheimlicher wirkte das Heck, das einen völlig <b>unversehrten</b> Eindruck machte. Bis auf die Tatsache, dass sämtliche Fenster zu Bruch gegangen waren. (<i>Marlow</i>, 34)',
@@ -26475,12 +26493,19 @@ verkriechen: [
     '<b>versehren</b>: injure, damage, disable'+
     '<br>die <b>Unversehrtheit</b>,-<b>en</b>: freedom from injury; intactness, integrity'+
     '<br><b>unversehrt</b>: intact, unscathed, undamaged'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unversehrt"target=target3">unversehrt</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/versehren"target=target4">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target5">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/unversehrt"target=target6">unversehrt</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unversehrt"target=target3">unversehrt</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/versehren"target=target4">versehren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target5">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/unversehrt"target=target6">unversehrt</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    'Der Opel stand <b>unversehrt</b> vor Zörgiebels Gartentor. (<i>Der nasse Fisch</i>, 506)',
+    'Der Opel stand <b>unversehrt</b> vor Zörgiebels Gartentor. (<i>Der nasse Fisch</i>, 507)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Lüdenback bestätigte, dass es sich um einen Bolzen der Scheinwerferhalterung handelte. Keine Bruchstelle, das Ding war <b>unversehrt</b> und landete zur weiteren Untersuchung in einer Blechkiste des ED. (<i>Der stumme Tod</i>, 34)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die Ummauerung des Parks hat einige Treffer abbekommen, das Haupthaus jedoch ist gänzlich <b>unversehrt</b> geblieben, jetzt allerdings sind auch seine Tage gezählt. (<i>Märzgefallene</i>, 160)',
     'Und dann erzählte sie (<i>Charly</i>) ihm (<i>Gereon</i>), wie sie ruhe- und restlos mit dem Hund die Uhlandstraße hinuntergegangen war, weil sie einfach noch nicht nach Hause konnte.. Wie sie dann einen Mann und eine Frau aus einem Hauseingang hatte kommen sehen, deren Gesichter sie kannte. Wie erleichtert und gleichzeitig erschrocken sie war, ihn (<i>Bernhard Weiß</i>) hier zu sehen, <b>unversehrt</b> und mit seiner Frau. (<i>Märzgefallene</i>, 213)',
@@ -26488,11 +26513,13 @@ verkriechen: [
     '...der Kerl im Spiegel erinnerte an jemanden, der sich für einen Faschingsball als scheiß Pirat verkleidet hatte und das Kostüm schon unter Hut und Mantel trug. Oder an einen beschissenen Kriegs<b>versehrten</b>. War er deshalb heil durch den Krieg gekommen, um den Rest seines Lebens nun doch als Krüppel zu verbringen?  (<i>Märzgefallene</i>, 386)',
     'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den Fall der Fälle. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen. Doch der Faden, den Rath als unsichtbares Siegel an der Tür angebracht hatte, war <b>unversehrt</b>, der Tote lag noch genau da, wo sie ihn zurückgelassen hatten. (<i>Märzgefallene</i>, 418)',
     '<i>Doktor Schwartz</i>: "Es geht um diese Leiche, die gestern in der Spree gefunden wurde, dieser fürchterlich entstellte Kriegs<b>versehrte</b>. (<i>Märzgefallene</i>, 506)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Sein Gesicht war entstellt von Platzwunden, die Nase gebrochen und blutig, die fleischige Oberlippe eingerissen, sodass man die lückenhafte Zahnreihe dahinter sehen konnte. Nur die weit aufgerissenen Augen, in deren Blick das schiere Entsetzen geschrieben stand, waren wie durch ein Wunder <b>unversehrt</b> geblieben... (<i>Lunapark</i>, 17)',
     'Rath schloss den Wagen ab und ging zurück in die Schule. Im Sekretariat fand er ein Telefon. Die Kollegen im 157. Revier bestätigten Zeyens Angaben... Der Halter habe den Wagen persönlich dort abgeholt. Die Kollegen hatten ihre Arbeit mit der Übergabe des <b>unversehrten</b> Fahrzeugs für erledigt betrachtet. (<i>Lunapark</i>, 303)',
     'Rath musste daran denken, wie er Leo Juretzka beim Autoknacken beobachtet hatte. Und dass kein Wagen, der am Bahnhof Westkreuz abgestellt war, in den nächsten Tagen als gestohlen gemeldet worden war. Weil Juretzka offensichtlich die Wagen, die er sich auslieh für seine Eskapaden, immer wieder <b>unversehrt</b> zurückbrachte und an derselben Stelle parkte, wo er sie gestohlen hatte. (<i>Lunapark</i>, 448-49)',
     'Nach den Ereignissen der Sonntagnacht erschien ihm alles andere nebensächlich, selbst die Nachricht, dass Konrad Adenauer zwei Tage und Nächte in einer Zelle der Geheimen Staatspolizei <b>unversehrt</b> überstanden hatte. (<i>Lunapark</i>, 537)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath hockte sich zu der unbekannten Leiche und schlug die Leinendecke zurück. Der Mann war Ende zwanzig, Anfang dreißig und hatte ein hübsches Gesicht, das bis auf eine hässliche Platzwunde nahezu <b>unversehrt</b> geblieben war. (<i>Marlow</i>, 29)',
     'Das Taxi, eigentlich ein stabiler Wagen, war durch den Aufprall auf wenig mehr als die Hälfte seiner Größe gestaucht, die Kühlerhaube eingedrückt, die Vorderachse verbogen und derart unter die Karosserie geschoben, dass von den Vorderrädern kaum noch etwas zu sehen war. Umso unheimlicher wirkte das Heck, das einen völlig <b>unversehrten</b> Eindruck machte. Bis auf die Tatsache, dass sämtliche Fenster zu Bruch gegangen waren. (<i>Marlow</i>, 34)',

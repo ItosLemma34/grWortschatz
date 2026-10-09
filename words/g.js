@@ -8,6 +8,7 @@ const g = [
 'Geäst, Ast',  //  duplicated  
 'Gebälk, Balken', //  duplicated  
 'Gebell', // Gebell:   duplicate with "bellen" if found
+'Gebet (ins G. nehmen)',  // duplicated
 'Gebrüll, brüllen', // duplicated
 'Gebüsch, Busch',  //  duplicated 
 'gediegen',  // gediegen: 

@@ -100,7 +100,6 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
-// FINISH
 Heißsporn: [  
     'der <b>Heißsporn</b>,-<b>e</b>: hothead, firebrand'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -109,28 +108,10 @@ Heißsporn: [
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.collinsdictionary.com/dictionary/german-english/heisssporn"target="target3">Heißsporn</a>&nbsp;&nbsp;'+
         '<a href="https://www.verbformen.com/?w=Hei%C3%9Fsporn&id=substantiv%3AHeis5sporn"target="target4">Heißsporn</a>',
-/*
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-    */
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '"Und so einer will Reporter werden", sagte der (<i>Schröder</i>), als Fürstner außer Hörweite war. Aber es war gut, dass er unseren <b>Heißsporn</b> hier ein bisschen gezügelt hat", meinte Rönnberg... Er schaute Fritze an. ".. für dich, Thormann, wird es auch der letzte Tag im Stadion sein, das ist dir hoffentlich klar. Ich muss dein Verhalten melden." (<i>Olympia</i>, 193)',
 ],
-// FINISH
 verknacken: [  
     '<b>verknacken</b>: fine, sentence (to jail)'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -139,23 +120,6 @@ verknacken: [
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.wordreference.com/deen/verknacken"target="target3">verknacken</a>&nbsp;&nbsp;'+
         '<a href="https://www.verbformen.com/?w=verknacken&id=verb%3Averknacken"target="target4">verknacken</a>',
-/*
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-*/
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Rönnberg schaute, als wolle er Fritze am liebsten auf der Stelle zu einem Strafdienst <b>verknacken</b>. (<i>Olympia</i>, 193)',
@@ -228,21 +192,19 @@ gesellen: [
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href=""target="target3">gesellen</a>&nbsp;&nbsp;'+
         '<a href=""target="target4">gesellen</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    'Mit der Autorität von Kommissar Lehmann, der im Hause gut bekannt zu sein schien, kamen sie an allen Torwächtern, die sich ihnen in den Weg stellten, ohne Probleme vorbei. Ein Weißkittel, etwa in Raths Alter, <b>gesellte sich</b> ungefragt zu ihnen. (<i>Märzgefallene</i>, 267)',
+    'Erst zum Abendbrot <b>gesellte sich</b> auch Engelbert Rath zu ihnen. Er wirkte übermüdet und gleichzeitig aufgekratzt. (<i>Märzgefallene</i>, 310)',
+
+    // FINISH:
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
     '   (<i>Lunapark</i>, 000)',	
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
     '    (<i>Marlow</i>, 000)',
+//gesellen  gesellt sich, gesellte sich
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Schröder schien beeindruckt. Er hielt tatsächlich den Mund. Die drei (<i>Fritze, Schröder, Fürstner</i>) <b>gesellten sich</b> zu den anderen Ehrendienstjungen, die gerade Pause machten. (<i>Olympia</i>, 192)',
@@ -330,6 +292,30 @@ quäken: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     ' (<i>Olympia</i>, 189)',
+],
+'ins Gebet nehmen': [  
+    '<b>ins Gebet nehmen</b>: give a good talking to; take sb. to task'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ins+Gebet+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">ins Gebet nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%20ins%20Gebet%20nehmen"target="target2">ins Gebet nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=ins+Gebet+nehmen"target="target3">ins Gebet nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://dict.leo.org/german-english/jmdn.%20ins%20Gebet%20nehmen"target="target4">ins Gebet nehmen</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Rath hatte die beiden (<i>Franke und Lohmann</i>) <b>ins Gebet genommen</b>, nachdem er vom Sicherheitshauptamt ins Olympische Dorf zurückgekehrt war. (<i>Olympia</i>, 195)',
+],
+'Gebet (ins G. nehmen)': [  
+    '<b>ins Gebet nehmen</b>: give a good talking to; take sb. to task'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=ins+Gebet+nehmen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">ins Gebet nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/jmdn.%20ins%20Gebet%20nehmen"target="target2">ins Gebet nehmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=ins+Gebet+nehmen"target="target3">ins Gebet nehmen</a>&nbsp;&nbsp;'+
+        '<a href="https://dict.leo.org/german-english/jmdn.%20ins%20Gebet%20nehmen"target="target4">ins Gebet nehmen</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Rath hatte die beiden (<i>Franke und Lohmann</i>) <b>ins Gebet genommen</b>, nachdem er vom Sicherheitshauptamt ins Olympische Dorf zurückgekehrt war. (<i>Olympia</i>, 195)',
 ],
 'Spreu vom Weizen trennen': [  
     'die <b>Spreu</b>: chaff, husk'+
@@ -14662,11 +14648,11 @@ echoen: [
 erhaschen: [
     '<b>erhaschen</b>: catch, snatch sth.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-    '<a href="https://www.duden.de/rechtschreibung/erhaschen"target="target1">erhaschen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.dwds.de/wb/erhaschen"target="target2">erhaschen</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/erhaschen"target="target1">erhaschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/erhaschen"target="target2">erhaschen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-    '<a href="https://www.collinsdictionary.com/dictionary/german-english/erhaschen"target="target3">erhaschen</a>&nbsp;&nbsp;'+
-    '<a href="https://www.verbformen.com/?w=erhaschen"target="target4">erhaschen</a>',
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/erhaschen"target="target3">erhaschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=erhaschen"target="target4">erhaschen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Charly</i>: "Du hörst dich an, als hätte ich dich geweckt?".. Rath fühlte sich wie ertappt. Als sei der Projektor auch für Charly gelaufen, als habe sie einen Blick in die entlegensten Winkel seiner Seele <b>erhaschen</b> können und seine dunkle Seite gesehen. (<i>Der nasse Fisch</i>, 226-27)',
@@ -14678,6 +14664,7 @@ erhaschen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'In Wirklichkeit aber war er (<i>Lohmann</i>) zum Hindenburghaus hinüber, das nicht weit entfernt lag von der Kriminalwache und das eine Fernsehstube besaß. Doch obwohl alle Athleten ja auf dem Reichssportfeld weilten, herrschte in der Stube ein solches Gedränge an Wehrmachtsoldaten, Ehrendienstlern und sonstigen Angestellten, dass Lohmann den kleinen Bildschirm.. gar nicht richtig sehen konnte und nur ab und an.. einen kurzen Blick <b>erhaschte</b>. (<i>Olympia</i>, 168-69)',
+    'Schnell schob Rath die Bilder wieder zusammen und stopfte sie zurück in seine Tasche. Er war sich nicht sicher, ob der Kellner.. einen Blick darauf <b>erhaschte</b> hatte. Sollte dem so gewesen sein, ließ sich der Mann jedenfalls nichts anmerken. (<i>Olympia</i>, 197)',
 ],
 entgegenfiebern: [
     '<b>fiebern</b>: have a fever'+
@@ -17743,6 +17730,7 @@ heimzahlen: [
     'Und nun <b>hockten</b> sie alle beide hier im Büro und hörten Radio. Die Übertragung vom Reichssportfeld war eher langweilig. (<i>Olympia</i>, 168)',
     '"Leutnant Dräger, sind Sie da drin? So antworten Sie doch". Lohmann klopfte und rief, doch nichts tat sich. Er <b>hockte sich</b> auf den Boden und schaute unter der Tür hindurch. Auf der Toilette saß jemand, er konnte Stiefel erkennen. Militärstiefel. (<i>Olympia</i>, 172)',
     'Im Waschraum herrschte Hochbetrieb, allerdings nutzte niemand die sanitären Einrichtungen: Ein halbes Dutzend Männer war dort versammelt, und alle konzentrieten sich auf eine einzige Toilettenkabine. Ein paar Zivilbeamte <b>hockten</b> auf dem Boden und sicherten Spuren. (<i>Olympia</i>, 179)',
+    'Er (<i>Rath</i>) holte das vorläufige Tatortprotokoll, das Gräf ihm mitgegeben hatte, aus der Tasche, und die Tatortfotos rutschten ihm versehentlich aus der Mappe auf den Tisch. Ein Mann in Luftwaffenuniform, der in einer Toilettenkabine <b>hockt</b> und dem eine Injektionsnadel im Arm steckt. (<i>Olympia</i>, 197)',
 ],
 Hosenmatz: [
     'der <b>Hosenmatz</b>,-<b>mätze</b>/<b>matze</b>: tiny tot'+
@@ -18986,6 +18974,7 @@ Kittel: [
     'Er (<i>Huckebein</i> hielt ihr (<i>Hannah</i>) einen langen, spitzen Dolch vor die Nase, den er aus seinem <b>Kittel</b> hervorgekramt hatte. (<i>Märzgefallene</i>, 67)',
     'Instinktiv wollte sie (<i>Hannah</i>) zu ihrer selbstgebastelten Waffe greifen, da erst fiel ihr auf, dass sie die Scherbe, die ihr das Leben gerettet hatte, beim Überziehen der <b>Kittel</b> irgendwo abgelegt haben musste, irgendwo im Dunkeln.  (<i>Märzgefallene</i>, 70)',
     'Sie (<i>Hannah</i>) hatte sich so sehr auf die Bullen konzentrierte, dass sie den hinkenden Mann, der gerade die Treppe von den Bahnsteigen hinunterkam, zunächst nicht bemerkt hatte. Diesmal nicht im <b>Kittel</b> eines Irrenanstaltwärters, sondern in einem schnieken dunklen Mantel.... (<i>Märzgefallene</i>, 254)',
+    'Mit der Autorität von Kommissar Lehmann, der im Hause gut bekannt zu sein schien, kamen sie an allen Torwächtern, die sich ihnen in den Weg stellten, ohne Probleme vorbei. Ein Weiß<b>kittel</b>, etwa in Raths Alter, gesellte sich ungefragt zu ihnen. (<i>Märzgefallene</i>, 267)',
     'Rath riss der Geduldsfaden, er packte Schürmann am Kragen seines grauen <b>Kittels</b>. (<i>Märzgefallene</i>, 317)',
     'Rath ließ Edes Kragen los und zeigte sich jovial. "Also gib mir die fünfzig Mark, und wir sind quitt." <i>Ede</i>: "Fuffzich Marrek! Als ob dat so einfact wär!" Ede zupfte seinen <b>Kittel</b> zurecht und betätigte einen Hebel an der vorsintflutlichen Kasse.... "Wollen Se mal sehen, Kommessar: Ebbe, nix als Ebbe...." (<i>Märzgefallene</i>, 317)',
     '...das war nicht einer der Männer, die sonst immer kamen und ihr (<i>Hannah</i>) ein Tablett mit Essen hinstellten. Oder der, den sie für sich immer nur den Doktor nannte, obwohl er eher aussah wie ein Geschäftsmann in seinem Anzug, und den sie noch nie in einem weißen <b>Kittel</b> gesehen hatte. (<i>Märzgefallene</i>, 433)',
@@ -21685,6 +21674,7 @@ postieren: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Gestern hatte Franke ihm eine mit den olympischen Ringen versehene Plakette gegeben, die es ihm erlaubte, auf einem der reservierten Pläze direkt vor dem Empfangsgebäude zu parken. Rath <b>pappte</b> die Plakette hinter die Windschutzscheibe und stieg aus. (<i>Olympia</i>, 150)',
     'Im Besucherrestaurant (<i>des Olympischen Dorfs</i>) herrschte eher wenig Betrieb. Sonntagmorgen, genau zwischen Frühstücks- und Mittagszeit. Rath hielt sich nicht lange auf, an erwartungsvoll dreinblickenden Kellnern ging er gleich durch bis zu den Toiletten. An der Tür zu den Herren hing unter dem großen H aus Messing ein <b>Pappschild</b>: AUSSER BETRIEB... (<i>Olympia</i>, 178)',
+    'Rath überflog das Protokoll und schaute sich die Fotos an, den <b>Pappdeckel</b> der Aktenmappe als Sichtschutz nutzend. (<i>Olympia</i>, 197)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 petzen: [
@@ -23864,8 +23854,12 @@ scheppern: [
 'stopfen, Stopfen': [
     '<b>stopfen</b>: stuff, plug, tamp; darn'+
     '<br>der <b>Stopfen</b>,-: plug, stopper'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/stopfen"target="target1">stopfen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/stopfen"target="target2">stopfen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/stopfen"target="target3">stopfen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stopfen"target="target4">stopfen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/stopfen"target="target1">stopfen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/stopfen"target="target2">stopfen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/stopfen"target="target3">stopfen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=stopfen"target="target4">stopfen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) ließ den Russen stehen und machte sich auf den Weg zum Taxistand in der Hardenbergstraße. "Hey, was ist mit meinem Ausweis!?", rief der Russe ihm nach und <b>stopfte sich</b> das Hemd zurück in die Hose. <i>Rath</i>: "Den bekommst du, wenn ich Kardakow gefunden habe." (<i>Der nasse Fisch</i>, 124)',
@@ -23880,6 +23874,9 @@ scheppern: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Es hatte auch niemand rauchen müssen, der Handschuh hatte sich selbst entzündet. Und das lag letzten Endes daran, dass die Firmenleitung zu geizig war, kaputte Handschuhe zu ersetzen. Also hatte sich der Arbeiter seinen löchrigen Asbesthandschuh von seiner Frau zuhause <b>stopfen</b> lassen - mit Baumwolle. (<i>Marlow</i>, 224)',
     'Eine Weile schwiegen sie vor sich hin, dann stellte Fräulein Peters ihre erste Frage. "Hilfst du gerne im Haushalt?", fragte sie. "Kochst Tee? Machst Bratkartoffeln?" "Ick spüle ooch", sagte Fritze. "Und mach mein Bette selber. Und jebügelt ha\'ck ooch schon mal!" "Na, da fehlt ja fast nur noch Wäsche waschen und Strümpfe <b>stopfen</b>", sagte Fräulein Peters. (<i>Marlow</i>, 392)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Schnell schob Rath die Bilder wieder zusammen und <b>stopfte</b> sie zurück in seine Tasche. Er war sich nicht sicher, ob der Kellner.. einen Blick darauf erhaschte hatte. Sollte dem so gewesen sein, ließ sich der Mann jedenfalls nichts anmerken. (<i>Olympia</i>, 197)',
 ],
 Scherbe: [
     'die <b>Scherbe</b>,-<b>n</b>: broken fragment, piece of glass'+
@@ -25090,16 +25087,27 @@ spuren: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 sputen: [
     '<b>sich sputen</b>: hurry'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sputen"target="target1">sputen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sputen"target="target2">sputen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/sputen"target="target3">sputen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sputen"target="target4">sputen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/sputen"target="target1">sputen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/sputen"target="target2">sputen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/sputen"target="target3">sputen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/sputen"target="target4">sputen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Bettdecke rutschte weg, und die Sonne schien auf ihren (<i>Charlys</i>) schlanken Körper. Er (<i>Gereon</i>) spürte, wie die Lust zurückkehrte, doch dafür hatten sie jetzt keine Zeit. Sie mussten <b>sich sputen</b>. (<i>Der nasse Fisch</i>, 193)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Dann wollen wir uns mal einen Vernehmungsraum suchen", sagte Zientek und ging zur Tür. Es klang ein wenig unwirsch. Rath freute sich im Stillen und folgte ihm. Er musste <b>sich sputen</b>, um Schritt zu halten. (<i>Märzgefallene</i>, 217)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Marlow</i>: ".. Sie (<i>Rath</i>) sollen Leo Juretzka finden und ausschalten. Und Sie sollten <b>sich sputen</b> bevor ich meine Großmut verliere." (<i>Lunapark</i>, 520)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Er (<i>Rath</i>) musste <b>sich sputen</b>, wollte er rechtzeitig am Alex sein. (<i>Marlow</i>, 368)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Wie er (<i>Rath</i>) es auch drehte, das Ganze war ihm ein Rätsel. Ebenso wie der Tod des armen Walter Morgan. Er wusste nur, dass er <b>sich sputen</b> musste, um Licht ins Dunkel zu bringen. (<i>Olympia</i>, 198)',
 ],
 Stadtstreicher: [
     'der <b>Stadtstreicher</b>,-; die <b>Stadtstreicherin</b>,-<b>nen</b>: tramp'+
@@ -25858,8 +25866,9 @@ Tresen: [
     'Schorsch stellte zwei Biergläser und zwei Stumpen auf das abgewetzte, glänzende Holz des <b>Tresens</b>.. Die Schnapsgläser in einem Zug geleert und zurück auf den <b>Tresen</b> gestellt... (<i>Olympia</i>, 28)',
     'Rath drückte seine Zigarette aus, obwohl sie erst halb geraucht war, doch an irgendetwas musste er seine Wut auslassen. Das alles klang nach einem völlig verkorksten Abend. "Aber du zahlst", sagte er. "Es geht hier um die Staatssicherheit", sagte Gräf und legte ein paar Münzen auf den <b>Tresen</b>. (<i>Olympia</i>, 29)',
     'Der Uniformierte schob ein Ausweispapier über den <b>Tresen</b>, das seinem Träger Zugang zu sämtlichen olympischen Stätten und dem Olympischen Dorf gewährte. (<i>Olympia</i>, 52)',
+    'Die rote Flagge von Britisch-Indien mit dem Union Jack und dem Sonnensymbol hing ziemlich genau in der Mitte der Schalterreihe auf der dem Dorf zugewandten Seite. Auf dem hölzernen <b>Tresen</b> darunter standen ein Blumentopf und ein Aschenbecher. Und hinter dem <b>Tresen</b> ein Offizier mit Halbglatze (<i>receding hairline</i>), der Rath freundlich anlächelte. (<i>Olympia</i>, 198)',
 ],
-// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde  Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 triezen: [
     '<b>triezen</b>: badger, torment, harass'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/triezen"target="target1">triezen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/triezen"target="target2">triezen</a>'+
@@ -27344,8 +27353,12 @@ versehen: [
 ],
 versehentlich: [
     '<b>versehentlich</b>: accidentally, inadvertently'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehentlich_irrtuemlich_ungewollt"target="target1">versehentlich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versehentlich"target="target2">versehentlich</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/versehentlich"target="target3">versehentlich</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versehentlich"target="target4">versehentlich</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/versehentlich_irrtuemlich_ungewollt"target="target1">versehentlich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/versehentlich"target="target2">versehentlich</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/versehentlich"target="target3">versehentlich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/versehentlich"target="target4">versehentlich</a>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Wenigstens war er (<i>Rath</i>) allein unterwegs. Er hatte sich heute nicht am Alex blicken lassen, um Böhm aus dem Weg zu gehen, der spätestens bei seiner Zeitungslektüre am Frühstückstisch gemerkt haben musste, dass er Rath versehentlich auf einen spektakulären Fall angesetzt hatte. (<i>Der stumme Tod</i>, 72)',
@@ -27361,6 +27374,7 @@ versehentlich: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Rath setzte sich ans Ufer und schaute auf den Speiseplan... Nichts Exotisches, nichts was eine <b>versehentliche</b> Vergiftung hätte erklären können. Aber irgendwie war in eine dieser Speisen Digitalis gelangt. (<i>Olympia</i>, 70-71)',
+    'Er (<i>Rath</i>) holte das vorläufige Tatortprotokoll, das Gräf ihm mitgegeben hatte, aus der Tasche, und die Tatortfotos rutschten ihm <b>versehentlich</b> aus der Mappe auf den Tisch. Ein Mann in Luftwaffenuniform, der in einer Toilettenkabine hockt und dem eine Injektionsnadel im Arm steckt. (<i>Olympia</i>, 197)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 versengen: [
@@ -27858,7 +27872,7 @@ Wappen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     '.. es waren fast durchweg Hakenkreuzfahnen, die hier hingen und eine seltsame Atmospháre schafften. Es gab nur wenige Ausnahmen, Fahnen, die irgendwelche Stadt<b>wappen</b> zeigten. (<i>Marlow</i>, 271)',
 ],
-wedeln: [
+'wedeln, aus-, herum-': [
     '<b>wedeln</b>: wag, wave'+
     '<br><b>auswedeln</b>: wave out (eg, a match)'+
     '<br><b>herumwedeln</b>: wave around'+
@@ -27947,6 +27961,7 @@ wedeln: [
     'Rath streckte die Hand aus. "Welcome to Berlin!" Der Ami ergriff Raths Rechte erfreut und schüttelte sie mit beiden Händen. "Would you like to show me our rooms..." "I beg your pardon?" "Well, my family. They are waiting downstairs." "Your family?", fragte Rath. "Da muss ein Versehen vorliegen." "Pardon?" "Oh, I expected only one person", sagte Rath. "But I wrote to the Wörkörs- and Quartiersämt, we are two adults and one child." Zur Unterstreichung des Gesagten <b>wedelte</b> Frank Miller mit einem Papier, das er aus der Westentasche zog und das den Stempel und den Briefkopf des Verkehrs- und Quartiersamtes trug. (<i>Olympia</i>, 85)',
     '"Wenn Sie wollen können Sie sich auch um das hier kümmern." Oberkommissar Franke <b>wedelte</b> mit einer dünnen Akte. "Eine Diebstahlsanzeige..." (<i>Olympia</i>, 94)',
     '"Und das nächste Mal, wenn du hier stehst, wage es nicht, mir ohne Ergebnisse unter die Augen zu treten." Das war alles, mehr hatte Tornow ihm nicht zu sagen. Um Rath endgültig hinauszukomplimentieren, reichte eine <b>wedelnde</b> Handbewegung. Wenigstens sparte er sich den Deutschen Gruß. Rath nickte kurz, die Hände an der Hosennaht, und ging. (<i>Olympia</i>, 186)',
+    '"Wirklich vorbildlich", sagte Rath. "Danke für Ihren Einsatz.".. Rath <b>wedelte</b> mit dem Protokoll, das der Kriminalsekretär ihm gegeben hatte. "Und das steht auch alles hier drin?" Lohmann nickte. (<i>Olympia</i>, 197)',
 ],
 'wegducken, ducken': [
     '<b>sich ducken</b>: cower, cringe, duck down'+

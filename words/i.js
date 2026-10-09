@@ -14,6 +14,7 @@ const i = [
    'in einem fort',  
    'in Schuss sein', //  duplicated 
    'ins Fettnäpfchen treten', //  duplicated 
+   'ins Gebet nehmen', // duplicated
    'ins Gehege kommen, Gehege',  // duplicated
    'ins Handwerk pfuschen, pfuschen',  //  duplicated 
    'ins Haus stehen', // 

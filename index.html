@@ -1,47 +1,44 @@
-<!DOCTYPE HTML>
+<!doctype html>
 <html lang="de">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Gereon-Rath-Krimis: Wortschatz</title>
-    <link rel="stylesheet" href="normalize.css">
-    <link rel="stylesheet" href="styles.css">
-</head>
+    <link rel="stylesheet" href="normalize.css"/>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
 
-<body>
+  <body>
     <header>
-        <div class="main-header">
-            <span class="return">
-                <a href="help.html" onclick="saveCurrentWord()"><b>Help/Info</b></a>
-            </span>
-            <a id="title"><b>Gereon-Rath-Krimis: Wortschatz</b></a>
-            <span class="return">
-                <a href="personen.html" onclick="saveCurrentWord()"><b>Personen</b></a>
-            </span>
-        </div>
+      <div class="main-header">
+        <span class="return">
+            <a href="help.html" onclick="saveCurrentWord()"><b>Help/Info</b></a>
+        </span>
+        <a id="title"><b>Gereon-Rath-Krimis: Wortschatz</b></a>
+        <span class="return">
+            <a href="personen.html" onclick="saveCurrentWord()"><b>Personen</b></a>
+        </span>
+      </div>
     </header>
 
     <main class="main-container">
-        <div class="selection-container">
-            <button id="randomSelectButton"><b>Random Word/Phrase</b></button>
-            <label for="find-as-you-type" class="sizeOfLabels"><b>Enter Word/Phrase:</b></label>
-            <input id="find-as-you-type" autocomplete="off">
-            <label for="wordDropdown" class="sizeOfLabels" id="Click"><b>or Click on Word/Phrase:</b></label>
-            <select id="wordDropdown" class="sizeOfLabels" size="25"></select>
-        </div>
-        <div id="main-container">
-        </div>
+      <div class="selection-container">
+        <button id="randomSelectButton"><b>Random Word/Phrase</b></button>
+        <label for="find-as-you-type" class="sizeOfLabels"><b>Enter Word/Phrase:</b></label>
+        <input id="find-as-you-type" autocomplete="off" />
+        <label for="wordDropdown" class="sizeOfLabels" id="Click"><b>or Click on Word/Phrase:</b></label>
+        <select id="wordDropdown" class="sizeOfLabels" size="25"></select>
+      </div>
+      <div id="main-container"></div>
     </main>
 
     <script src="script.js" type="module"></script>
     <script>
-        "use strict";
-        function saveCurrentWord() {
-            const currentWord = document.getElementById('wordDropdown').value;
-            sessionStorage.setItem('returnWord', currentWord);
-        }
+      "use strict";
+      function saveCurrentWord() {
+        const currentWord = document.getElementById("wordDropdown").value;
+        sessionStorage.setItem("returnWord", currentWord);
+      }
     </script>
-</body>
-
+  </body>
 </html>

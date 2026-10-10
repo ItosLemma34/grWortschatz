@@ -9,6 +9,7 @@ export const wordExamples = {
 // FINISH:
 
 // check page number
+    // Olympia Vertretung 492
     // Der stumme Tod  auf den Arm nehmen  346  515  	
     // 'Anmut, anmuten, anmutig'  Der stumme Tod  430
     //'Zumutung, zumuten, zumute' Der stumme Tod  pg 482
@@ -292,6 +293,23 @@ quäken: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     ' (<i>Olympia</i>, 189)',
+],
+Vertretung: [  
+    'die <b>Vertretung</b>,-<b>en</b>: representation, substitute, stand-in, proxy'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Vertretung"target="target1">Vertretung</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Vertretung"target="target2">Vertretung</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/vertretung"target="target3">Vertretung</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/vertretung"target="target4">Vertretung</a>',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    'Rath wusste genau, wann Felix Krempin die Wohnung verlassen hatte. Gestern. Als Mertens und Grabowski essen gegangen waren und ihre <b>Vertretung</b>, Kriminalkommissar Gereon Rath, seinen Beobachtungsposten verlassen und sich stattdessen in der Wohnung des zu Observierenden herumgetrieben hatte. (<i>Der stumme Tod</i>, 139-40)', 
+    '<i>Rath</i>: "Mit Verlaub, Herr Kriminalrat, Oberkommissar Böhm ist derjenige, der Persönliches mit Beruflichem vermengt. Seit er Ihre <b>Vertretng</b> übernommen hat, lässt er mich am ausgestreckten Arm verhungern. Nicht einen einzigen anständigen Fall habe ich seitdem..." (<i>Der stumme Tod</i>, 213)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Das Lächeln im Gesicht des Ehrendienstoffiziers fror ein. "Sind Sie die <b>Vertretung</b> von Herrn Dräger?" <i>Rath</i>: "So kann man das nicht sagen." (<i>Olympia</i>, 198)',
+    // Olympia Vertretung 492 
 ],
 'ins Gebet nehmen': [  
     '<b>ins Gebet nehmen</b>: give a good talking to; take sb. to task'+
@@ -3569,12 +3587,19 @@ schraffieren: [
 ],
 vermengen: [
     '<b>vermengen</b> = <b>vermischen</b>: mix/jumble up'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vermengen"target="target1">vermengen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vermengen"target="target2">vermengen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/vermengen"target="target3">vermengen</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/vermengen"target="target4">vermengen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/vermengen"target="target1">vermengen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/vermengen"target="target2">vermengen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/vermengen"target="target3">vermengen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/vermengen"target="target4">vermengen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Rath</i>: "Tut mir leid, mein Herr, aber redlicherweise kann ich Ihnen nur Fragen zu einem Fall beantworten, den ich auch bearbeite... Wir wollen doch seriös bleiben." Er hörte noch ein paar vereinzelte Protestbekundungen, die sich aber immer mehr zu einem allgemeinen Grummeln <b>vermengten</b>. Die Reporter trollten sich Richtung Tür, der Saal leerte sich immer schneller... (<i>Der nasse Fisch</i>, 309)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '<i>Rath</i>: "Mit Verlaub, Herr Kriminalrat, Oberkommissar Böhm ist derjenige, der Persönliches mit Beruflichem <b>vermengt</b>. Seit er Ihre Vertretng übernommen hat, lässt er mich am ausgestreckten Arm verhungern. Nicht einen einzigen anständigen Fall habe ich seitdem..." (<i>Der stumme Tod</i>, 213)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Johann Marlow hatte normalerweise kein schlechtes Gewissen, nie, dem Jungen gegenüber aber hatte er eines, seit Monaten schon, seit der ersten despektierlichen Bemerkung irgendeines Nazi-Affen, zu der er geschwiegen hatte, weil er Geschäftliches noch nie mit Persönlichem <b>vermengt</b> hatte. (<i>Marlow</i>, 410)',
 ],
@@ -16736,6 +16761,7 @@ Gelände: [
     'Franke stand auf und legte die Mappe auf den Schreibtisch. Rath zündete sich eine Zigarette an und überflog das Anzeigenprotokoll... Wenigstens etwas zu tun. Und ein Vorwand, sich ein wenig auf dem <b>Gelände</b> des Olympischen Dorfs umzuschauen. (<i>Olympia</i>, 94)',
     'Er (<i>Rath</i>) stellte sich auf die Terrasse vor dem Speisesaal und ließ seinen Blick über das Dorf schweifen. Links säumten die Wohnhäuser der Amerikaner den Weg, gekrönt vom Sternenbanner, das im Abendwind knatterte, direkt vor ihm senkte sich das <b>Gelände</b> zur Dorfaue. (<i>Olympia</i>, 99)',
     'Er (<i>Rath</i>) ging erst gar nicht ins Büro, sondern direkt auf das <b>Gelände</b>. Das Abendessen war beendet, auf den Wegen in der Unteren Dorfaue.. war viel los. Rath hatte das Gefühl, dass heute, am Vorabend der Eröffnungsfeier, alle einen Hauch nervöser wirkten als sonst... (<i>Olympia</i>, 151)',
+    'Rath nickte. "Ist es denn üblich, dass Besucher das Außen<b>gelände</b> betreten?" <i>Wilms</i>: "Normalerweise natürlich nicht. Dazu brauchen sie schon einen Ausweis." "Und Sie glauben, der Besucher hatte so einen?" "Wird er wohl. Sonst hätte er ja nicht aufs <b>Gelände</b> gedurft."(<i>Olympia</i>, 201)',
 ],
 Geländer: [
     'das <b>Geländer</b>,-: handrail, balustrade, bannister, guardrail'+
@@ -22503,6 +22529,7 @@ raunen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Schröder senkte seine Stimme und klang nun wie ein Verschwörer. "Wenn ihr mich fragt", <b>raunte</b> er bedeutungsschwanger, "dann ist das kein Zufall." Jetzt hatte er sie. Alle Jungen.. hörten ihm gebannt zu... (<i>Olympia</i>, 75)',
     'Dave Albritton machte einen ungewohnt nervösen Eindruck. In der Vorrunde hatte er keinen einzigen ungültigen Versuch gehabt, nun aber riss er gleich seinen ersten Sprung über ein Meter achtzig, und ein <b>Raunen</b> ging durch die Menge. (<i>Olympia</i>, 190)',
+    '"Vielleicht, Oberkommissar," <b>raunte</b> der Oberleutnant (<i>Wilms</i>) und klang wie ein Verschwörer, "sollten Sie sich die Einheit mal genauer anschauen, die den Leutnant zu uns gesandt hat. So lange gehören die noch nicht zur Wehrmacht." (<i>Olympia</i>, 202)',
 ],
 Raureif: [
     'der <b>Raureif</b> (no plural): white frost, hoarfrost, rime'+
@@ -28958,6 +28985,7 @@ zücken: [
     'Rath <b>zückte</b> seinen Notizblock. "Wie haben Sie die Situation den erlebt?", fragte er. (<i>Olympia</i>, 100)',
     '<i>Rath</i>: "Sie waren von neunzehnhundertsechsundzanzig bis -neunundzwanzig Mitglied des Rotfrontkämpferbundes." <i>Ehlers</i>: "Was soll denn das heißen?" "Waren Sie das oder waren Sie das nicht?" "Aber Herr Kommissar, das sind doch Jugendsünden. Seit der nationalen Revolution bin ich der Bewegung verpflichtet." Er <b>zückte</b> einen SA-Ausweis. (<i>Olympia</i>, 101)',
     'Inzwischen musste Rath sich nicht mehr vorstellen, die beiden (<i>Weichert und Hüppe</i>) wussten sofort, wer er war, noch bevor er seine Dienstmarke <b>gezückt</b> hatte. (<i>Olympia</i>, 151)',
+    '<i>Rath zu Wilms</i>:  "... Haben Sie mich verstanden?" "Natürlich, Herr Kommissar." "Oberkommissar." "Gewiss, Oberkommissar." Rath <b>zückte</b> seinen Bleistift. "Dann legen Sie mal los, Oberleutnant." (<i>Olympia</i>, 200-01)',
 ],
 Zugehfrau: [
     'die <b>Zugehfrau</b>,-<b>en</b>: maid, cook, cleaning lady'+

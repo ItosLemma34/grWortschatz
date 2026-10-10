@@ -127,7 +127,8 @@ const v = [
 'vertäuen',  // vertäuen: 
 'vertilgen',  // vertilgen: 
 'vertrackt',   // vertrackt:     combine with Vertrackt if found
-'vertreten (sich die Beine)', //  duplicated   
+'vertreten (sich die Beine)', //  duplicated  
+'Vertretung', // Vertretung: 
 'Vertriebsweg', // Vertriebsweg:  
 'vertrödeln',  // vertrödeln: 
 'vertun, vertan',  //

@@ -93,6 +93,7 @@ const v = [
 'verschleißen', // verschleißen:  check for other entries
 //'verschimmeln, schimmeln, Schimmel', // duplicated
 'verschlingen',  // verschlingen:
+'verschmerzen',
 'verschmieren', // verschmieren: 
 'verschmitzt',  // verschmitzt:
 'verschnörkelt, verschnörkeln', 

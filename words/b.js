@@ -49,7 +49,7 @@ const b = [
 'bescheuert',  // bescheuert: 
 'beschlagen', // beschlagen:
 'beseelen, beseelt',
-'Besen',  // Besen: 
+'Besen, Schnee-',   
 'bestatten, Bestatter, Bestattung', 
 'Besteck',    // Besteck: 
 'besudeln',  // besudeln:    

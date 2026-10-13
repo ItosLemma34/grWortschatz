@@ -127,7 +127,7 @@ const g = [
 'grölen', // grölen:  
 'große Stücke auf jmdn. halten',
 'Großmut',  // Großmut: 
-'grübeln', // grübeln: 
+'grübeln, nach-', // grübeln: 
 'Grünschnabel', // Grünschnabel:  
 'grunzen',   // grunzen:  
 'Grüßaugust', // Grüßaugust: 

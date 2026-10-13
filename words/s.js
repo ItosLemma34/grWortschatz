@@ -245,7 +245,8 @@ const s = [
 'Stativ',  // Stativ:  
 'statuieren', // statuieren:  
 'Staub, stauben, ab-, aus dem S. machen', //  duplicated 
-'stauchen', // stauchen:  
+'stauchen', // stauchen:
+'stechen (sport)',   // located just above Latte: 
 'Steckbrief', // Steckbrief:  
 'Stecknadel im Heuhaufen',  
 'Steg, Lauf-', 

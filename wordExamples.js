@@ -9,7 +9,8 @@ export const wordExamples = {
 // FINISH:
 
 // check page number
-    // geknickt Der stumme Tod 536
+// vertilgen Der stumme Tod 514
+//     // geknickt Der stumme Tod 536
     // Olympia Vertretung 492
     // Stumme Tod 410	verschmerzen
     // Der stumme Tod  auf den Arm nehmen  346  515  	
@@ -18,7 +19,7 @@ export const wordExamples = {
     // Der stumme Tod huschen 290 309 343 357 365 (twice) 538
     // Der stumme Tod   Brei  111
     // 'vergönnen, gönnen, Gönner' duplicated Der stumme Tod 410 487
-    // Olympia gönnen 208 211  220  288 299  326  432
+    // Olympia gönnen    220  288 299  326  432
    // 'Reiz  (<i>Olympia</i>, 160)',
     // Der stumme Tod auswischen 331 
     // Olympia hissen 191
@@ -859,7 +860,9 @@ Schlafittchen: [
     'Auch wenn ihm (<i>Morgan</i>) die Spiele in Berlin nicht mehr <b>vergönnt</b> waren, konnte er als Funktionär mehr Olympiateilnahmen denn als Sportler verbuchen. (<i>Olympia</i>, 68)',
     'Oppenberg zuckte die Achseln. "Ich weiß nicht. Und wenn schon. Ich will Hitler diese Genugtuung nicht <b>gönnen</b>, mich aus dem Land geekelt zu haben. Das ist <i>mein</i> Vaterland und nicht das dieses dahergelaufenen Österreichers. Der soll dahin zurückgehen, wo er hergekommen ist. (<i>Olympia</i>, 79)',
     '"Und ich dachte, jeder Jude hat mindestens einen Onkel oder Cousin in Amerika." <i>Charly</i>: "Greta Overbeck, du bist eine alte Antisemitin, weißt du das? Glaubst am Ende auch an das Weltjudentum, was?" "Ich glaube an das Weltbürgertum, das ist alles." "Aber das ist leider nicht jedem <b>vergönnt</b>." (<i>Olympia</i>, 121)',
-    // Olympia gönnen 208 211  220  288 299  326  432
+    'So prachtvoll das <i>Esplanade</i> sich seinen Gästen zeigte, so schäbig war der Pausenraum, den das Hotel seinem Küchenpersonal gönnte. (<i>Olympia</i>, 208)',
+    'Gräf empfing ihn in seinem kleinen Büro, das Rath ein wenig an sein eigenes altes Büro in der Mordinspektion erinnerte, nur dass die Möbel hier neuer waren. Bei der Gestapo zwei Häuser weiter hatte Gräf eindrucksvoller residiert, aber der SD <b>gönnte</b> ihm immerhin einen eigenen Adjutanten. (<i>Olympia</i>, 211)',
+    // Olympia gönnen    220  288 299  326  432
 ],
 'vergönnen, gönnen, Gönner': [  
     '<b>gönnen</b>: not begrudge so. sth.; wish/allow so. the enjoyment of sth.'+
@@ -909,7 +912,9 @@ Schlafittchen: [
     'Auch wenn ihm (<i>Morgan</i>) die Spiele in Berlin nicht mehr <b>vergönnt</b> waren, konnte er als Funktionär mehr Olympiateilnahmen denn als Sportler verbuchen. (<i>Olympia</i>, 68)',
     'Oppenberg zuckte die Achseln. "Ich weiß nicht. Und wenn schon. Ich will Hitler diese Genugtuung nicht <b>gönnen</b>, mich aus dem Land geekelt zu haben. Das ist <i>mein</i> Vaterland und nicht das dieses dahergelaufenen Österreichers. Der soll dahin zurückgehen, wo er hergekommen ist. (<i>Olympia</i>, 79)',
     '"Und ich dachte, jeder Jude hat mindestens einen Onkel oder Cousin in Amerika." <i>Charly</i>: "Greta Overbeck, du bist eine alte Antisemitin, weißt du das? Glaubst am Ende auch an das Weltjudentum, was?" "Ich glaube an das Weltbürgertum, das ist alles." "Aber das ist leider nicht jedem <b>vergönnt</b>." (<i>Olympia</i>, 121)',
-    // Olympia gönnen 208 211  220  288 299  326  432
+    'So prachtvoll das <i>Esplanade</i> sich seinen Gästen zeigte, so schäbig war der Pausenraum, den das Hotel seinem Küchenpersonal gönnte. (<i>Olympia</i>, 208)',
+    'Gräf empfing ihn in seinem kleinen Büro, das Rath ein wenig an sein eigenes altes Büro in der Mordinspektion erinnerte, nur dass die Möbel hier neuer waren. Bei der Gestapo zwei Häuser weiter hatte Gräf eindrucksvoller residiert, aber der SD <b>gönnte</b> ihm immerhin einen eigenen Adjutanten. (<i>Olympia</i>, 211)',
+    // Olympia gönnen    220  288 299  326  432
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
@@ -1571,6 +1576,7 @@ markig: [
     // Olympia
     '<span class="bookTitle"><Olympia</u></span>',  
     'Schröder spießte ein Stück Butterbrotpapier auf, das am Wegesrand lag, und hielt es Fritze unter die Nase. "Kiek mal, ick kann ooch spießig sein!" Der Kamerad brach in <b>schallendes</b> Gelächter aus und ließ das Papier in seinen Eimer plumpsen. (<i>Lunapark</i>, 39)',
+    '... einer aus der Familie Miller jedenfalls schnarchte in einer Lautstärke, das es über den Flur bis ins Wohnzimmer <b>schallte</b>, wo Rath sein Klappbett aufgestellt hatte. Also war er mitsamt Bett und Bettzeug in die Küche umgezogen, doch klang das Schnarchen dort eher noch lauter. Am liebsten hätte er sein Bett draußen im Treppenhaus aufgebaut, aber das ging natürlich nicht, stattdessen hatte er sich das Kissen über beide Ohren gezogen. Ein bisschen half das sogar. So lange, bis ein lauter Schnarcher ihn wieder hatte hochschrecken lassen. (<i>Olympia</i>, 210-11)',
 ],
 aalglatt: [
     '<b>aalglatt</b>: slippery, slick, glib'+
@@ -3866,6 +3872,9 @@ verschlingen: [
     // pg 483
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Charly</i>: "Haste Hunger?" Er (<i>Fritze</i>) nickte. Sie machte ein paar Stullen zurecht und setzte sich zu ihm, schaute, mit welchem Heißhunger er die Brote <b>verschlang</b>. (<i>Märzgefallene</i>, 354)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Charly schaute hinein. In dem Schrank standen Gläser. Gläser mit schwarzen blechernen Schraubverschlüssen in drei verschiedenen Größen, ordentlich sortiert, alle mit dem verschnörkelt <b>verschlungenen</b> Aufdruck <i>ESPLANADE</i>. Sie blieb stehen. (<i>Olympia</i>, 209)',
 ],
 'löchern, Löcher in den Bauch fragen': [
     'jmdn. <b>löchern</b>: hammer at, pester, fire questions at so.'+
@@ -3893,6 +3902,7 @@ verschlingen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Charly</i>: ".. Gereon ermittelt wegen eines toten Amerikaners, und du bist Zeuge. Hast du etwa gesehen, wie er gestorben ist?" <i>Fritze</i>: "Jetzt red doch nich so laut! Warum müsst ihr mir immer alle mit dem Mist <b>löchern</b>." "Aber ich will dich doch gar nicht <b>löchern</b>." (<i>Olympia</i>, 149-50)',
     '<i>Charly</i>: "Wie ist denn die Arbeit so mit denen?" <i>Gereon</i>: "Mensch, du <b>fragst</b> einen aber auch <b>Löcher in den Bauch</b>. Da gibt\'s nicht viel zu erzählen. Öde und langweilig..." (<i>Olympia</i>, 162)',
+    '<i>Marie</i>: "Komm bloß nich auf die Idee, hier irgendwas einzupacken, da versteht ollen Geinitz überhaupt keenen Spaß. Der lässt dich nicht mal in so\'ne Mohrrübe beißen, und wenn de tausen von denen schälst." So hatte Charly das zwar nicht gemeint, aber sie nickte und hakte nicht weiter nach. Den Leuten besser keine <b>Löcher in den Bauch fragen</b>, bloß nicht auffallen. (<i>Olympia</i>, 210)',
 ],
 Geier: [
     'der <b>Geier</b>,-: vulture'+
@@ -5837,6 +5847,7 @@ Spind: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Rath</i>: "Und was haben Sie dann mit dem Glas gemacht?" <i>Krömer</i>: "Na, was wohl? Ich hab\'s behalten. Kann man ja immer gebrauchen, so\'n kleines Glas. Ist praktisch. Mit Schraubverscluss." "Sie benutzen es hier in der Küche?" "Ne. Ich hab\'s mitgenommen.." "Mitgenommen? Wohin?" "Ist in meinem <b>Spind</b>. Muss ich holen, soll ich?" "Ich bitte darum." Krömer ging nach hinten, wo die <b>Spinde</b> des Küchenpersonals standen, und kehrte kurz darauf mit einem kleinen, verschließbaren Glas zurück... (<i>Olympia</i>, 153)',
+    'Als sie zuende geraucht hatte, holte Marie eine blecherne Brotdose aus ihrem <b>Spind</b> im Umkleideraum nebenan und öffnete sie. (<i>Olympia</i>, 209)',
 ],
 'Männchen machen, Männchenmachen': [
     '<b>Männchen machen, Männchenmachen</b>: stand up straight (on hind legs, at attention)'+
@@ -8018,11 +8029,22 @@ Brocken: [
     '<i>Herr Roeder</i>: "Herr Kommissar (<i>Rath</i>), Sie müssen nicht glauben, dass ich Ihnen Ihre Pistole <i>bringe</i>! Da müssen Sie <b>sich</b> schon <b>herbequemen</b>! Ich habe mir geschworen, nie wieder einen Fuß ins Polizeipräsidium zu setzen!" (<i>Der nasse Fisch</i>, 400)',
 ],
 vertilgen: [
-    '<b>vertilgen</b>: eradicate, exterminate, kill off; devour sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/vertilgen"target="target1">vertilgen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/vertilgen"target="target2">vertilgen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/vertilgen"target="target3">vertilgen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=vertilgen&id=verb%3Avertilgen"target="target4">vertilgen</a>',
+    '<b>vertilgen</b>: demolish, eradicate, exterminate, kill off'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/vertilgen"target="target1">vertilgen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/vertilgen"target="target2">vertilgen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/vertilgen"target="target3">vertilgen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=vertilgen&id=verb%3Avertilgen"target="target4">vertilgen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Na, meine Herren", sagte der Inspektionsleiter (<i>Gennat</i>) schließlich, nachdem er das vierte Stück Kuchen <b>vertilgt</b> hatte, "das haben wir uns verdient! Mal wieder viel Arbeit..." (<i>Der nasse Fisch</i>, 399)',
+    // Der stumme Tod
+    //'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    // vertilgen Der stumme Tod 514
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Kaum hatte Marie ihre Stulle <b>vertilgt</b>, in einem beeindruckenden Tempo, stand sie auch schon wieder auf. "Wir müssen. Sonst gibt\'s Ärger mit ollen Geinitz, und wir können uns die nächste Pause in die Haare schmieren." (<i>Olympia</i>, 209)',
 ],
 'reinlegen, hereinlegen': [
     '<b>reinlegen</b> = <b>hereinlegen</b>: fool, trick, deceive, con sb.'+
@@ -8598,6 +8620,8 @@ sabbern: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Fritze hatte recht gehabt. Auf dem schwarzen Blechdeckel war ein <b>verschnörkelter</b> Schriftzug gedruckt. ESPLANADE. Rath musste sich den Namen nicht notieren, das <i>Esplanade</i> war eines der bekanntesten Hotels der Stadt.. Die Adresse an der Walter Morgan abgestiegen war. (<i>Olympia</i>, 153)',
+    'Charly schaute hinein. In dem Schrank standen Gläser. Gläser mit schwarzen blechernen Schraubverschlüssen in drei verschiedenen Größen, ordentlich sortiert, alle mit dem <b>verschnörkelt</b> verschlungenen Aufdruck <i>ESPLANADE</i>. Sie blieb stehen. (<i>Olympia</i>, 209)',
+// xxx go to verschlingen:
 ],
 direktemang: [
     '<b>direktemang</b>: direct(ly), straight'+
@@ -9942,22 +9966,33 @@ Sündenbock: [
 ],
 schmächtig: [
     '<b>schmächtig</b>: lank, slight, slim'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schmaechtig"target="target1">schmächtig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schm%C3%A4chtig"target="target2">schmächtig</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schmachtig"target="target3">schmächtig</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schm%C3%A4chtig"target="target4">schmächtig</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/schmaechtig"target="target1">schmächtig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schm%C3%A4chtig"target="target2">schmächtig</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/schmachtig"target="target3">schmächtig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=schm%C3%A4chtig"target="target4">schmächtig</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Suchen Sie irjendwen?" Der Mann war klein und <b>schmächtig</b>. Sein Hut wirkte auf dem hageren Gesicht viel zu groß. (<i>Der nasse Fisch</i>, 49)',
     'Der Mann vor ihm (<i>Rath</i>) trug eine braune Uniform... Ansonsten sah er nicht besonders martialisch aus. Eher klein und <b>schmächtig</b>. Wie ein Buchhalter. (<i>Der nasse Fisch</i>, 481)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der <b>schmächtige</b> Kriminalassistent manövrierte die Kamera mit dem sperrigen Stativ hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
     'Der Kriminalassistent (<i>Henning</i>) erschien mit einem <b>schmächtigen</b> Mann im Schlepptau, den er als Hans Lüdenbach vorstellte. (<i>Der stumme Tod</i>, 30)',
     'Rath nahm den <b>schmächtigen</b> Oberbeleuchter (<i>Lüdenbach</i>) bei der Schulter und entfernte sich mit ihm. Bellmann blickte ihnen beleidigt nach und rauschte schließlich ab. (<i>Der stumme Tod</i>, 156)',
     '"Gut", sagte er (<i>Rath</i>) zu dem Bühnentechniker, "dann zeigen Sie mir doch mal, so Sie den Draht gefunden haben." Sie mussten wieder nach oben. Max Krieg war deutlich schwerer als der <b>schmächtige</b> Oberbeleuchter, entsprechend wackelten die Beleuchtungsbrücken. Der Bühnentechniker ging in die Hocke und zeigte ihm eine Stelle im Gitterrost. "Hier ungefähr hing das Ende fest. War kaum zu erkennen - außer wenn man auf allen vieren hier entlangkrabbelte." (<i>Der stumme Tod</i>, 159)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Sie wollen auch alle zu Herrn Rubens (<i>von Roddek</i>)?", fragte er (<i>Rath</i>) die wartende Journalistenmeute.. "Da muss man schon Geduld mitbringen", sagte Raths Nachbar, ein <b>schmächtiges</b> Männlein, das sich seinen Presseausweis nach amerikanischer Manier ins Hutband gesteckt hatte. (<i>Märzgefallene</i>, 329)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Der für Lapkes <b>schmächtige</b> Schultern viel zu große Kopf bekam eine leichte Rötung, doch der ehemalige Gangsterboss gab sich Mühe, gelassen zu bleiben. (<i>Lunapark</i>, 196)',
     'An der Wand mit dem Waschbecken stand, in Schach gehalten von zwei Blauuniformierten mit Karabinern, ein halbes Dutzend Männer mit erhobenen Händen, alle in brauner Uniform. Und in einer meinte Rath, die <b>schmächtige</b> Gestalt von Hermann Lapke zu erkennen. (<i>Lunapark</i>, 219)',
     '<i>Charly</i>: "Du (<i>Gereon</i>) glaubst doch nicht im Ernst, dass Karl Reinhold all diese SA-Männer auf dem Gewissen hat? Der ist doch viel zu dünn und <b>schmächtig</b>, um überhaupt jemanden totschlagen zu können. (<i>Lunapark</i>, 337)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Zum ersten Mal sah Rath seinen früheren Partner in der Uniform der SS. Er erschrak ein wenig. Auch wenn Gräf darin ähnlich deplaziert wirkte wie sein Reichsführer, der <b>schmächtige</b> Himmler, so heischte die Uniform doch Respekt. (<i>Olympia</i>, 211)',
 ],
 deichseln: [
     '<b>deichseln</b>: manage, pull off, engineer sth.'+
@@ -10393,12 +10428,21 @@ Napf: [
 ],
 heischen: [
     '<b>heischen</b>: demand'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/heischen"target="target1">heischen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/heischen"target="target2">heischen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/heischen"target="target3">heischen</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/heischen"target="target4">heischen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/heischen"target="target1">heischen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/heischen"target="target2">heischen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/heischen"target="target3">heischen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/heischen"target="target4">heischen</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'In diesem Augenblick trat ein junger Mann in den Flur, dem die SA-Mütze am Garderobenhaken gehören musste, denn er trug den Rest der dazugehörigen Uniform. Und hatte sich eine weiße Serviette in den Kragen gesteckt, was die respekt<b>heischende</b> Wirkung der SA-Uniform völlig zunichtemachte. (<i>Lunapark</i>, 269)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath ahnte, was die Voss gemeint hatte, als er den SS-Wachen, die vor den Kolonnaden an der Wilhelmstraße Wache schoben, seinen Dienstausweis zeigte: Die schwarzen Uniformen <b>heischten</b> Respekt, ob man wollte oder nicht. (<i>Marlow</i>, 117)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Zum ersten Mal sah Rath seinen früheren Partner in der Uniform der SS. Er erschrak ein wenig. Auch wenn Gräf darin ähnlich deplaziert wirkte wie sein Reichsführer, der schmächtige Himmler, so <b>heischte</b> die Uniform doch Respekt. (<i>Olympia</i>, 211)',
 ],
 vorknöpfen: [
     '<b>sich vorknöpfen</b>: take to task, confront, take care of sth.'+
@@ -16361,10 +16405,18 @@ gesittet: [
 ],
 gerädert: [
     '<b>gerädert</b>: be knocked out, feel absolutely whacked'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geraedert"target="target1">gerädert</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ger%C3%A4dert"target="target2">gerädert</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geradert?q=ger%C3%A4dert"target="target3">gerädert</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geradert"target="target4">gerädert</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/geraedert"target="target1">gerädert</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/ger%C3%A4dert"target="target2">gerädert</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/geradert?q=ger%C3%A4dert"target="target3">gerädert</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/geradert"target="target4">gerädert</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie <b>gerädert</b>.  Er hielt an, um zu pinkeln, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen Einöde, ein unerfüllbarer Wunsch. (<i>Märzgefallene</i>, 439)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Am liebsten hätte er (<i>Rath</i>) sein Bett draußen im Treppenhaus aufgebaut, aber das ging natürlich nicht, stattdessen hatte er sich das Kissen über beide Ohren gezogen. Ein bisschen half das sogar. So lange, bis ein lauter Schnarcher ihn wieder hatte hochschrecken lassen. Entsprechend <b>gerädert</b> fühlte er sich nun, als er seinen Wagen abschloss und die Wilhelmstraße überquerte. (<i>Olympia</i>, 211)',
 ],
 Gekrächz: [
     'das <b>Gekrächz</b> or <b>Gekrächze</b>: croaking, cawing'+
@@ -16373,7 +16425,7 @@ Gekrächz: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Fritze", sagte Hannah und wusste selber nicht, wie dieses Wort auf ihre Lippen gelangt war. Es war das erste Wort, das sie seit vier Tagen gesprochen hatte, entsprechend kratzig klang es. Als habe ihr jemand die Stimme gestohlen und ihr nur den heiseren Teil wieder zurückgegeben. Aber die Frau (<i>Charly</i>) schien sich über ihr <b>Gekrächze</b> zu freuen. (<i>Märzgefallene</i>, 436)',
     ],
-//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 glimpflich: [
     '<b>glimpflich</b>: mild, light, lenient'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/glimpflich"target="target1">glimpflich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/glimpflich"target="target2">glimpflich</a>'+
@@ -17570,6 +17622,7 @@ Häkchen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Der SS-Mann <b>schlug die Hacken zusammen</b> und erbot den Deutschen Gruß, bevor er kehrtmachte. (<i>Olympia</i>, 114)',
+    '<i>Marie</i>: "Komm bloß nich auf die Idee, hier irgendwas einzupacken, da versteht ollen Geinitz überhaupt keenen Spaß. Der lässt dich nicht mal in so\'ne Mohrrübe beißen, und wenn de tausen von denen schälst." So hatte Charly das zwar nicht gemeint, aber sie nickte und <b>hakte</b> nicht weiter <b>nach</b>. Den Leuten besser keine Löcher in den Bauch fragen, bloß nicht auffallen. (<i>Olympia</i>, 210)',
 ],
 'Hacke, hacken; Hacken ablaufen, zusammenschlagen': [ 
     'die <b>Hacke</b>,-<b>n</b>: heel; hoe, hatchet, axe'+
@@ -17609,7 +17662,7 @@ Häkchen: [
     'Während in der Hauptküche nur Männer an den Herden wirbelten, waren hier, direkt neben den Vorratskammern und Kühlräumen, nur Frauen beschäftigt. Eine rührte mit einem Schneebesen Rührei an, eine andere war dabei, Petersilie kleinzu<b>hacken</b>, eine dritte schälte Kartoffeln. (<i>Olympia</i>, 207-08)',
     '"Anschiss von Geinitz?" Charly drehte sich um. Neben ihr stand das Mädchen, das vorhin Petersilie <b>gehackt</b> hatte. Sie wusste zwar nicht, wie der Hilfskoch hieß, der sie zur Schnecke gemacht hatte, aber sie nickte. (<i>Olympia</i>, 208)',
 ],
-//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Handwerk legen': [
     'jmdm. das <b>Handwerk legen</b>: uncover, stop so.\'s (illegal) activities'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/jmdm.%20das%20Handwerk%20legen"target="target1">Handwerk legen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Handwerk+legen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Handwerk legen</a>'+
@@ -23850,20 +23903,31 @@ Schlamassel: [
 ],
 Stulle: [
     'die <b>Stulle</b>,-<b>n</b>: slice of bread (with butter, toppings); sandwich'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stulle"target="target1">Stulle</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Stulle"target="target2">Stulle</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Stulle"target="target3">Stulle</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Stulle"target="target4">Stulle</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Stulle"target="target1">Stulle</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Stulle"target="target2">Stulle</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/Stulle"target="target3">Stulle</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Stulle"target="target4">Stulle</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Die Lichter im <i>Plaza</i> waren erloschen, der Mann (<i>der Taxifahrer</i>) war zu spät gekommen, um den letzten Varietébesucher einzusammeln, und aß gerade eine <b>Stulle</b>, als Rath ihn störte. (<i>Der nasse Fisch</i>, 463)',
     '"Möchtest du was essen", fragte sie (<i>Charly</i>), als sie sich am Herd zu schaffen machte... "Danke", sagte er (<i>Gereon</i>). "Aber ich krieg jetzt keinen Bissen runter." "Ich hoffe, das ist keine Spitze gegen meine Kochkünste.. Jetzt hätte ich sowieso nur <b>Stullen</b> anzubieten." (<i>Der nasse Fisch</i>, 495)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Charly</i>: "Haste Hunger?" Er (<i>Fritze</i>) nickte. Sie machte ein paar <b>Stullen</b> zurecht und setzte sich zu ihm, schaute, mit welchem Heißhunger er die Brote verschlang. (<i>Märzgefallene</i>, 354)',
     '"Was ist denn los?", fragte sie (<i>Charly</i>). Gereon, der gerade den Schlüssel aus dem Schloss zog, zuckte nur mit den Achseln. Aber Fritze erzählte, nachdem sie ihm in der Küche ein paar <b>Stullen</b> geschmiert hatte. (<i>Märzgefallene</i>, 408)',
     'Fritze saß am Frühstückstisch, kaute mit gutem Appetit auf einer Käse<b>stulle</b> herum und las die Witzseite der <i>Vossischen</i>. (<i>Märzgefallene</i>, 524)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Brunner steuerte den ersten Wagen in der Reihe an, doch dessen Fahrer winkte ab, der zweite ebenso, der dritte wickelte gerade eine <b>Stulle</b> aus dem Butterbrotpapier und bedachte den an die Scheibe klopfenden Fahrgast mit einem Achselzucken. (<i>Marlow</i>, 16)',
     'Schon auf der AVUS (<i>Automobil-Verkehrs- und Übungsstraße</i>) packte sie (<i>Raths Schwiegermutter</i>) die erste <b>Stulle</b> aus, dabei hatten sie vor nicht einmal einer Stunde erst gefrühstückt. (<i>Marlow</i>, 245)',
     'Inzwischen waren alle Vorräte aufgebraucht. Rath hatte sich zwei Käse<b>stullen</b>, einen Apfel und ein gekochtes Ei andrehen lassen, an dem er beinah erstickt wäre; die Kekse hatte Luisse Ritter alleine gegessen. Seine Schwiegermutter verfügte über einen gesunden Appetit. (<i>Marlow</i>, 254)',
     'Auf der anderen Straßenseite fand er (<i>Rath</i>) ein kleines Lokal, in dem er sich einen Fensterplatz suchte und eine Portion Schweineschäuferla bestellte und dazu ein Bier. Nach dem <b>Stullen</b> und hartgekochten Eiern seiner Schwiegermutter brauchte er was Richtiges zwischen die Zähne. (<i>Marlow</i>, 256)',
+    // Olympia 
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Willste denn nüscht essen?", fragte das Mädchen (<i>Marie</i>). "Hab nix dabei." Charly zuckte die Achseln. "Ging heute morgen alles so schnell." "Wenn du willst, kannste eene von meinen <b>Stullen</b> haben." (<i>Olympia</i>, 209)',
+    'Kaum hatte Marie ihre <b>Stulle</b> vertilgt, in einem beeindruckenden Tempo, stand sie auch schon wieder auf. "Wir müssen. Sonst gibt\'s Ärger mit ollen Geinitz, und wir können uns die nächste Pause in die Haare schmieren." (<i>Olympia</i>, 209)',
 ],
 schnieke: [
     '<b>schnieke</b>: stylish, snazzy, swish'+
@@ -23949,6 +24013,7 @@ schälen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Während in der Hauptküche nur Männer an den Herden wirbelten, waren hier, direkt neben den Vorratskammern und Kühlräumen, nur Frauen beschäftigt. Eine rührte mit einem Schneebesen Rührei an, eine andere war dabei, Petersilie kleinzuhacken, eine dritte <b>schälte</b> Kartoffeln. (<i>Olympia</i>, 207-08)',
+    '<i>Marie</i>: "Komm bloß nich auf die Idee, hier irgendwas einzupacken, da versteht ollen Geinitz überhaupt keenen Spaß. Der lässt dich nicht mal in so\'ne Mohrrübe beißen, und wenn de tausen von denen <b>schälst</b>." So hatte Charly das zwar nicht gemeint, aber sie nickte und hakte nicht weiter nach. Den Leuten besser keine Löcher in den Bauch fragen, bloß nicht auffallen. (<i>Olympia</i>, 210)',
 ],
 Schar: [
     'die <b>Schar</b>,-<b>en</b>: troop, band, regiment; flock, gaggle'+
@@ -24741,15 +24806,25 @@ Schnapsidee: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schnarchen: [
     '<b>schnarchen</b>: snore'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnarchen"target="target1">schnarchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schnarchen"target="target2">schnarchen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnarchen"target="target3">schnarchen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schnarchen"target="target4">schnarchen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/schnarchen"target="target1">schnarchen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schnarchen"target="target2">schnarchen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/schnarchen"target="target3">schnarchen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=schnarchen"target="target4">schnarchen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Jedenfalls sollten wir nicht auffallen", nölte Czerwinski. "Wäre schön, wenn du mal ein bisschen Land gewinnst." "Dann solltest du aber auch aufhören zu <b>schnarchen</b>", meinte Rath und verabschiedete sich mit einem letzten Klopfen aufs Wagendach. (<i>Der nasse Fisch</i>, 465-66)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Auf dem Sofa lag jemand unter einer Bettdecke und <b>schnarchte</b> leise. (<i>Märzgefallene</i>, 71)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Das viele Reden schien seine (<i>Gereons</i>) Schwiegermutter angestrengt zu haben, sie gähnte herzhaft. Kurz daraus sank ihr Kinn auf die Brust, und sie schlief ein. Als sie leise zu <b>schnarchen</b> begann, klappte Rath sein Fenster hinunter und zündete sich eine Zigarette an. (<i>Marlow</i>, 249)',
     'Sein Gesicht wird vom Mond beschienen, der Brustkorb hebt und senkt sich langsam, leises, regelmäßiges <b>Schnarchen</b>, das plötzlich aufhört. Von Bülow ist erwacht. (<i>Marlow</i>, 353-54)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '... einer aus der Familie Miller jedenfalls <b>schnarchte</b> in einer Lautstärke, das es über den Flur bis ins Wohnzimmer schallte, wo Rath sein Klappbett aufgestellt hatte. Also war er mitsamt Bett und Bettzeug in die Küche umgezogen, doch klang das <b>Schnarchen</b> dort eher noch lauter. Am liebsten hätte er sein Bett draußen im Treppenhaus aufgebaut, aber das ging natürlich nicht, stattdessen hatte er sich das Kissen über beide Ohren gezogen. Ein bisschen half das sogar. So lange, bis ein lauter <b>Schnarcher</b> ihn wieder hatte hochschrecken lassen. (<i>Olympia</i>, 210-11)',
 ],
 'in einem fort': [
     '<b>in einem fort</b>: on and on, constantly'+

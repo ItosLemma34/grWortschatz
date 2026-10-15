@@ -31,7 +31,8 @@ const e = [
 'einlullen',  // einlullen: 
 'einnässen',  // einnässen: 
 'einnebeln',  // einnebeln: 
-'einnicken',  // einnicken:  
+'einnicken',  // einnicken: 
+'einnisten',  // einnisten:
 'Einöde, öde',   // duplicated  
 'einrasten',  // einrasten:  
 'einrenken', // einrenken:      

@@ -14593,7 +14593,7 @@ Dietrich: [
     'Dennoch schellte er (<i>Rath</i>) dreimal, klopfte laut an die Wohnungstür, bis er ganz sicher war, dass wirklich niemand zu Hause war. Erst dann holte er den <b>Dietrich</b> aus der Tasche. So langsam kam er in Übung. Er musste daran denken, wie Bruno Wolter, sein erster Chef in Berlin, ihm gezeigt hatte, wie man mit so einem Satz Sperrhaken umgeht. (<i>Der stumme Tod</i>, 90)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'dämlich, Dämlichkeit': [ //xxx
+'dämlich, Dämlichkeit': [ 
     '<b>dämlich</b>: stupid, silly, foolish, idiotic'+
     '<br>die <b>Dämlichkeit</b>,-<b>en</b>: stupidity, dumbness'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -14958,13 +14958,22 @@ Empore: [
 ],
 einrasten: [
     '<b>einrasten</b>: engage, click/snap into position'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/einrasten"target="target1">einrasten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einrasten"target="target2">einrasten</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/einrasten"target="target3">einrasten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einrasten"target="target4">einrasten</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/einrasten"target="target1">einrasten</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/einrasten"target="target2">einrasten</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/einrasten"target="target3">einrasten</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/einrasten"target="target4">einrasten</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Als er (<i>Gereon</i>) endlich in seinem eigenen Bett lag, hatte der Wecker half fünf angezeigt. Er hatte es dem kleinen Zeiger angesehen, wie er (<i>der Zeiger</i>) darauf gierte, <b>einzurasten</b> und die Glocke auszulösen. Bis acht Uhr hatte er sich noch etwas Schlaf gegönnt. (<i>Der nasse Fisch</i>, 129)',
     'Viel geschlafen hatte er nicht. Hatten sie (<i>Gereon und Charly</i>) nicht. Rath lag schon wach, als der Zeiger <b>einrastete</b> und die rasselnde Glocke auslösen wollte. Mit einem schnellen Schlag stoppte er das blecherne Monstrum auf dem Nachttisch, bevor es Lärm machen konnte. (<i>Der nasse Fisch</i>, 192)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Er (<i>Rath</i>) erinnerte sich daran, dass gute Schränker (<i>safe crackers</i>) in der Lage waren, <b>das Einrasten</b> eines solchen Kombinationsschlosses bei den richtigen Zahlen zu hören. (<i>Marlow</i>, 272)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Die Erste Hausdame ließ ihren Blick die Reihe der versammelten Küchenhilfen entlangwandern, einmal hin und wieder zurück, noch einmal hin und wieder zurück, bis er bei Charly stehenblieb. Es fühlte sich an, als sei eine Roulettekugel <b>eingerastet</b>. (<i>Olympia</i>, 221)',
 ],
 einseifen: [
     '<b>einseifen</b>: dupe, con so.; &nbsp;lather, soap sth./so.'+
@@ -21127,12 +21136,22 @@ mimen: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Rath</i>) legte Juretzka das Foto von Engel auf den Tisch, und der <b>mimte</b> verabredungsgemäß Wiedererkennen. "Ja, das ist der Mann, den ich am Nollendorfplatz gesehen habe." (<i>Märzgefallene</i>, 257)',
 ],
-Mohrrübe: [
-    'die <b>Mohrrübe</b>,-<b>en</b>: carrot'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Mohrruebe"target="target1">Mohrrübe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Mohrr%C3%BCbe"target="target2">Mohrrübe</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/mohrrube"target="target3">Mohrrübe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Mohrr%C3%BCbe"target="target4">Mohrrübe</a>',
+'Möhre, Mohrrübe': [
+    'die <b>Möhre</b>,-<b>n</b> = carrot = die <b>Mohrrübe</b>,-<b>n</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Moehre"target="target1">Möhre</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Mohrr%C3%BCbe"target="target2">Mohrrübe</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/mohre"target="target3">Möhre</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Mohrr%C3%BCbe"target="target4">Mohrrübe</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Er (<i>Leo</i>) hatte keinerlei Gefühl mehr für die Zeit und nicht die geringste Ahnung, wie lange sie schon hier in diesem Keller standen, die Hände an der Hosennaht</b> und akkurat aufgereiht, wie <b>Mohrrüben</b>, die auf die Ernte warten. (<i>Märzgefallene</i>, 110)',
+    // Olympia 
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der <b>Mohrrüben</b>berg wurde nicht kleiner. Wenigstens musste sie (<i>Charly</i>) bei dieser Arbeit nicht aufpassen, dass ihr die Augen tränten. Dafür hatte sich ihre Schürze, am frühen Morgen beim Umbinden noch blütenweiß, inzweischen schmutzig orange verfärbt. (<i>Olympia</i>, 220)',
+    'Sie (<i>Charly</i>) würde schon noch herausbekommen, wie eines dieser hübschen <i>Esplanade</i>-Gläser ins Olympische Dorf gelangt war. Allerdings nicht, solange sie <b>Möhren</b> schälte. (<i>Olympia</i>, 220)',
+    'Bettenmachen war besser als <b>Möhren</b> schrubben und in der Hierarchie des Grandhotels ein deutlicher Aufstieg, so etwas konnte man nicht ablehnen. (<i>Olympia</i>, 221)',
 ],
 Muffel: [
     'der <b>Muffel</b>,-: grouch, grump, sourpuss'+
@@ -22789,14 +22808,15 @@ Räuberpistole: [
     '"Also keinerlei Beweise, nach wie vor." "So weit würde ich nicht gehen", sagte Gennat. "Wir sammeln noch. Und wenn sich Ihre Geschichte, lieber Böhm, nicht als die <b>Räuberpistole</b> herausstellen sollte, nach der sie sich anhört, dann werden wir auch etwas finden." (<i>Märzgefallene</i>, 471-72)',
 ],
 // ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-raunen: [
-    '<br><b>raunen</b>: to whisper, murmur'+
+'raunen, Geraune': [ 
+    '<b>raunen</b>: to whisper, murmur'+
+    '<br>das <b>Geraune</b>: murmuring, whispering'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/raunen"target="target1">raunen</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/raunen"target="target2">raunen</a>'+
+        '<a href="https://www.dwds.de/wb/Geraune"target="2">Geraune</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.collinsdictionary.com/dictionary/german-english/raunen"target="target3">raunen</a> &nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.verbformen.com/?w=raunen"target="target4">raunen</a>',
+        '<a href="https://www.verbformen.com/?w=raunen"target="target3">raunen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geraune"target="target4">Geraune</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '...ein <b>Raunen</b> ging durch die Menge. Gummiknüppel sausten nieder. Die Demonstranten in der ersten Reihe duckten sich unter den Schlägen, einige stürzten. (<i>Der nasse Fisch</i>, 54)',
@@ -22820,6 +22840,41 @@ raunen: [
     'Schröder senkte seine Stimme und klang nun wie ein Verschwörer. "Wenn ihr mich fragt", <b>raunte</b> er bedeutungsschwanger, "dann ist das kein Zufall." Jetzt hatte er sie. Alle Jungen.. hörten ihm gebannt zu... (<i>Olympia</i>, 75)',
     'Dave Albritton machte einen ungewohnt nervösen Eindruck. In der Vorrunde hatte er keinen einzigen ungültigen Versuch gehabt, nun aber riss er gleich seinen ersten Sprung über ein Meter achtzig, und ein <b>Raunen</b> ging durch die Menge. (<i>Olympia</i>, 190)',
     '"Vielleicht, Oberkommissar," <b>raunte</b> der Oberleutnant (<i>Wilms</i>) und klang wie ein Verschwörer, "sollten Sie sich die Einheit mal genauer anschauen, die den Leutnant zu uns gesandt hat. So lange gehören die noch nicht zur Wehrmacht." (<i>Olympia</i>, 202)',
+    'Plötzlich ging ein <b>Raunen</b> durch die Küche und pflanzte sich fort wie eine Flüsterpost, bis es auch bei Charly angekommen war: "Die Georgi, die Georgi!" "Wer is\'n dette?", fragte Charly. "Die Erste Hausdame", zischte Marie. "Keine Ahnung, was die hier will." Das <b>Geraune</b> verstummte, denn Geinitz kam herein und klatschte in die Hände. "Meine Damen, bitte Aufstellung nehmen. Madame Georgi braucht ersatzweise ein Zimmermädchen." (<i>Olympia</i>, 220)',
+],
+'Geraune, raunen': [ 
+    '<b>raunen</b>: to whisper, murmur'+
+    '<br>das <b>Geraune</b>: murmuring, whispering'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/raunen"target="target1">raunen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Geraune"target="2">Geraune</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=raunen"target="target3">raunen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geraune"target="target4">Geraune</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    '...ein <b>Raunen</b> ging durch die Menge. Gummiknüppel sausten nieder. Die Demonstranten in der ersten Reihe duckten sich unter den Schlägen, einige stürzten. (<i>Der nasse Fisch</i>, 54)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    'Auch im Fall Winter verließen sich die Zeitungen vorrangig auf Spekulationen, in der Hauptsache Bellmanns Sabotagetheorien, ohne dass allerdings der Name Oppenberg fiel, so vorsichtig war die Journaille dann doch, denn Rath war sich sicher, dass Bellmann jedem Journalisten den Namen seines verhassten Konkurrenten sorgfältigst buchstabiert hatte, wahrscheinlich mit dem <b>geraunten</b> Zustaz: "Das haben Sie aber nicht von mir." (<i>Der stumme Tod</i>, 195)',
+    // Märzgefallene
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    'Der Zug schien sich in Bewegung zu setzen, die Alaafrufe wurden zahlreicher und lauter.... Erst als das Alaaf immer leiser wurde und mit einem <b>Raunen</b>, das sich durch die Menge fraß, schließlich verstummte, konnte man verstehen, was die SA-Männer riefen. "Adenauer an die Mauer!" (<i>Märzgefallene</i>, 51-52)',
+    'Durch den Saal ging ein <b>Raunen</b>, das sogleich wieder abebbte, als Liebermann (<i>Nazi, Personalreferent im Innenministerium</i>) weiterredete. (<i>Märzgefallene</i>, 182)',
+    'Der Polizeipräsident nahm in der Mitte Platz, fankiert von Gennat und Gräf. Und als Letzter bestieg jemand die Bühne, der gar nicht zur Polizei gehörte: Achim von Roddeck. Ein <b>Raunen</b> ging durch die Menge, die meisten Journalisten kannten Roddecks Gesicht inzwischen.... (<i>Märzgefallene</i>, 496)',
+    'Magnus von Levetzow machte eine wirkungsvolle Pause und genoss es, dass alle Blicke auf ihn gerichtet waren. "Der Name des Mannes, der Benjamin Engel zur Strecke gebracht hat,.. lautet..." Alle Journalisten im Saal hatten jetzt ihre Blöcke gezückt. "...Heinrich Wosniak." Diesmal ging nicht nur ein <b>Raunen</b> durch die Menge, alle murmelten durcheinander. (<i>Märzgefallene</i>, 498)',
+    '"Es handelt sich vielmehr", fuhr Gräf fort, "um Gerhard Krumbiegel, den Mann, der mit Wosniak jahrelang in einer Bettlerbande zusammenlebte und gemeinsam mit ihm... Opfer einer Brandstiftung wurde." Wieder ging ein <b>Raunen</b> durch die Menge. (<i>Märzgefallene</i>, 499)',
+    'Weinert wartete noch einen Moment, bevor er sich umdrehte. Und dann sah er, was Gereon meinte: Ein blonder SA-Mann hatte die Kneipe betreten, in Begleitung eines Zivilisten... "Wer ist das?", fragte Weinert, dem das Gesicht des Zivilisten bekannt vorkam. "Kollege", <b>raunte</b> Gereon nur. "Leg Schorsh einen Fünfer hin und lass uns gehen." (<i>Märzgefallene</i>, 532)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    'Und ein bisschen hatte man ihr auch die Enttäuschung darüber angemerkt, gegen das ungeliebte Studentenwohnheim in der Nachbarschaft immer noch nichts in der Hand zu haben. "Da wohnen sogar Chinesen und Neger", hatte sie (<i>Herta Rinke</i>) hinter vorgehaltener Hand <b>geraunt</b>, als verrate sie ein Geheimnis. (<i>Marlow</i>, 233)',
+    '<i>Dein Oberbannführer macht sich Sorgen um dich</i>. So hatte die Jugendamtshippe doch neulich <b>geraunt</b> bei ihrem Besuch. (<i>Marlow</i>, 424)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Schröder senkte seine Stimme und klang nun wie ein Verschwörer. "Wenn ihr mich fragt", <b>raunte</b> er bedeutungsschwanger, "dann ist das kein Zufall." Jetzt hatte er sie. Alle Jungen.. hörten ihm gebannt zu... (<i>Olympia</i>, 75)',
+    'Dave Albritton machte einen ungewohnt nervösen Eindruck. In der Vorrunde hatte er keinen einzigen ungültigen Versuch gehabt, nun aber riss er gleich seinen ersten Sprung über ein Meter achtzig, und ein <b>Raunen</b> ging durch die Menge. (<i>Olympia</i>, 190)',
+    '"Vielleicht, Oberkommissar," <b>raunte</b> der Oberleutnant (<i>Wilms</i>) und klang wie ein Verschwörer, "sollten Sie sich die Einheit mal genauer anschauen, die den Leutnant zu uns gesandt hat. So lange gehören die noch nicht zur Wehrmacht." (<i>Olympia</i>, 202)',
+    'Plötzlich ging ein <b>Raunen</b> durch die Küche und pflanzte sich fort wie eine Flüsterpost, bis es auch bei Charly angekommen war: "Die Georgi, die Georgi!" "Wer is\'n dette?", fragte Charly. "Die Erste Hausdame", zischte Marie. "Keine Ahnung, was die hier will." Das <b>Geraune</b> verstummte, denn Geinitz kam herein und klatschte in die Hände. "Meine Damen, bitte Aufstellung nehmen. Madame Georgi braucht ersatzweise ein Zimmermädchen." (<i>Olympia</i>, 220)',
 ],
 Raureif: [
     'der <b>Raureif</b> (no plural): white frost, hoarfrost, rime'+
@@ -23960,6 +24015,7 @@ Spalier: [
     '<i>Rath zu Hüppe</i>: "Sie haben mit Herbert Ehlers am Samstag den Tisch von Mister Morgen bedient.. Ist Ihnen da etwas aufgefallen?" "Was meinen Sie? Dass da einer tot umgefallen ist?".. "Etwas, was auf dem Tisch stand." "Das war alles vollgekotzt, das kann ich Ihnen sagen. Und Ecki und ich, wir mussten den Mist in die <b>Spülküche</b> bringen..." "Was haben Sie denn alles in die <b>Spülküche</b> gebracht?" "Na, hab ich doch gesagt: Was auf dem Tisch stand, Teller, Gläser, Schüsseln, Besteck. Was da eben so steht." (<i>Olympia</i>, 151-52)',
     '<i>Rath</i>: "Gut. Aber alles, was auf dem fraglichen Tisch stand, haben Sie in die <b>Spülküche</b> gebracht." "Mensch, wie oft sollen wir das noch wiederholen? Ja, haben wir." "Wer hatte denn <b>Spüldienst</b> an diesem Tag?"... "Na, derselbe wie heute, oder, Ecki?" Der Dicke nickte. "Willi", sagte er. "Also: Wilhelm Krömer." "Und wo finde ich den?" "Na, wo wohl? An der <b>Spülmaschine</b>." (<i>Olympia</i>, 152)',
     '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum <b>Spülen</b> gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist <b>wegspülen</b>. Und als ich den <b>Spülkorb</b> ausräume, finde ich da so ein Glas... War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s <b>gespült</b> haben?" "Was weiß ich, da achtet man nicht drauf..."  (<i>Olympia</i>, 152-53)',
+    '.. Die Mädchen legten ihre Arbeit beiseite, wischten sich die Hände an ihren Schürzen, richteten sich das Haar und stellten sich vor der <b>Spülmaschine</b> in einer Reihe auf, als ginge es um einen Schönheitswettbewerb. (<i>Olympia</i>, 221)',
 ],
 Schlüpfer: [
     'der <b>Schlüpfer</b>,-: briefs, underpants'+
@@ -24123,10 +24179,12 @@ schälen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Mach du schon mal ein paar Fotos", sagte Rath zu Czerwinski, der <b>sich</b> gerade aus dem Beifahrersitz <b>schälte</b>, "ich rede mit den Blauen. Mit ein bisschen Glück sind wir in einer halben Stunde hier wieder weg." (<i>Marlow</i>, 27)',
     'Nie hätte er (<i>Marlow</i>) gedacht, ein solches Gefühl jemals zu spüren - und noch weniger, einem solchen Gefühl nachzugeben. Der Tod Kuen-Yaos aber hatte genau das bewirkt. Zunächst unbestimmt nur, von der Trauer und dem Schmerz, die ihn ebenfalls mehr heimgesucht hatten, als er das je für möglich gehalten hätte, nicht zu unterscheiden. Dann aber hatten sich die Rachegedanken aus dem Schmerz <b>herausgeschält</b>, umso deutlicher, je mehr er sich die Dinge zusammengereimt hatte, die der tödlichen Falle vorangegangen sein mussten. (<i>Marlow</i>, 498)',
-    // Olympia
+    // Olympia  
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Während in der Hauptküche nur Männer an den Herden wirbelten, waren hier, direkt neben den Vorratskammern und Kühlräumen, nur Frauen beschäftigt. Eine rührte mit einem Schneebesen Rührei an, eine andere war dabei, Petersilie kleinzuhacken, eine dritte <b>schälte</b> Kartoffeln. (<i>Olympia</i>, 207-08)',
     '<i>Marie</i>: "Komm bloß nich auf die Idee, hier irgendwas einzupacken, da versteht ollen Geinitz überhaupt keenen Spaß. Der lässt dich nicht mal in so\'ne Mohrrübe beißen, und wenn de tausen von denen <b>schälst</b>." So hatte Charly das zwar nicht gemeint, aber sie nickte und hakte nicht weiter nach. Den Leuten besser keine Löcher in den Bauch fragen, bloß nicht auffallen. (<i>Olympia</i>, 210)',
+    'Auch Marie, die ganz profan Kartoffeln <b>schälte</b>, warf der neuen Kollegin immer mal wieder einen kurzen Blick zu, aber was in diesem Blick lag, ob es Misstrauen war oder Neugierde, vermochte Charly nicht zu sagen. (<i>Olympia</i>, 220)',
+    'Sie (<i>Charly</i>) würde schon noch herausbekommen, wie eines dieser hübschen <i>Esplanade</i>-Gläser ins Olympische Dorf gelangt war. Allerdings nicht, solange sie Möhren <b>schälte</b>. (<i>Olympia</i>, 220)',
 ],
 Schar: [
     'die <b>Schar</b>,-<b>en</b>: troop, band, regiment; flock, gaggle'+
@@ -25139,13 +25197,22 @@ Schotter: [
 'Schrubber, schrubben': [
     'der <b>Schrubber</b>,-: mop, scrubber'+
     '<br><b>schrubben</b>: scrub'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schrubber"target="target1">Schrubber</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schrubben"target="target2">schrubben</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schrubber?q=Schrubber"target="target3">Schrubber</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=schrubben"target="target4">schrubben</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schrubber"target="target1">Schrubber</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/schrubben"target="target2">schrubben</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/schrubber?q=Schrubber"target="target3">Schrubber</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=schrubben"target="target4">schrubben</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Wenig später standen sie (<i>Charly und Gräf</i>) in einer kleinen, fensterlosen Kammer, in der Putzeimer, Besen, <b>Schrubber</b> und alle möglichen Reinigungsmittel gelagert waren.... (<i>Märzgefallene</i>, 82)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Raths Geduld wurde belohnt. Elisabeth Spindler kehrte zurück, eine Kittelschürze übergeworfen und einen Putzeimer samt <b>Schrubber</b> und Wischmopp in der Hand. Dummerweise kam sie genau auf ihn zu." (<i>Lunapark</i>, 432)',
     'Rath merkte sich die Tür, die sie (<i>Elisabeth Spindler</i>) öffnete. Den Putzeimer und den <b>Schrubber</b> hatte sie draußen stehen lassen. (<i>Lunapark</i>, 433)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Bettenmachen war besser als Möhren <b>schrubben</b> und in der Hierarchie des Grandhotels ein deutlicher Aufstieg, so etwas konnte man nicht ablehnen. (<i>Olympia</i>, 221)',
 ],
 schubsen: [
     '<b>schubsen</b>: shove, push, jostle'+
@@ -25216,6 +25283,8 @@ Schürze: [
     'Gegenüber der Fensterreihe.. befand sich eine weitere, die aussah wie die Schalterwand einer Bank, nur dass man hinter den Schaltern eine Küche erkennen konnte, gestapelte Edelstahltöpfe, Pfannen und Kochlöffel, und hinter dem groß Elektroherd eine Spülmaschine, die ein weiß<b>geschürzter</b> Mann mit schmutzigem Geschirr fütterte. (<i>Olympia</i>, 58)',
     '"Zunächst einmal reicht mir der Dienstplan von Samstage," sagte er (<i>Rath</i>) also, "Sie haben hier doch bestimmt so etwas." <i>der Spüler</i>: "Klar haben wir Dienstpläne. Sind ja nicht bei den Hottentoten." Rath erwiderte nichts, er schaute den Mann mit der nassen <b>Schürze</b> nur an. Es wirkte. (<i>Olympia</i>, 59)',
     'Wilhelm Krömer war genau der Mann, der Rath vor vier Tagen als erster in der Küche über den Weg gelaufen war. Der mit der durchnässten <b>Schürze</b>. (<i>Olympia</i>, 152)',
+    'Der Mohrrübenberg wurde nicht kleiner. Wenigstens musste sie (<i>Charly</i>) bei dieser Arbeit nicht aufpassen, dass ihr die Augen tränten. Dafür hatte sich ihre <b>Schürze</b>, am frühen Morgen beim Umbinden noch blütenweiß, inzweischen schmutzig orange verfärbt. (<i>Olympia</i>, 220)',
+    '.. Die Mädchen legten ihre Arbeit beiseite, wischten sich die Hände an ihren <b>Schürzen</b>, richteten sich das Haar und stellten sich vor der Spülmaschine in einer Reihe auf, als ginge es um einen Schönheitswettbewerb. (<i>Olympia</i>, 221)',
 ],
 'Schüssel, Kloschüssel': [
     'die <b>Schüssel</b>,-<b>n</b>: bowl, dish, pan'+
@@ -25568,8 +25637,12 @@ Stange: [
     'der <b>Stapel</b>,-: pile, stack, batch'+
     '<br><b>stapeln</b>: stack, pile up'+
     '<br><b>stapelweise</b>: in piles'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Stapel"target="target1">Stapel</a> &nbsp;&nbsp;<a href="https://www.dwds.de/wb/stapeln"target="target2">stapeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/stapel"target="target3">Stapel</a> &nbsp;&nbsp;<a href="https://www.verbformen.com/?w=stapeln"target="target4">stapeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Stapel"target="target1">Stapel</a> &nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/stapeln"target="target2">stapeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/stapel"target="target3">Stapel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=stapeln"target="target4">stapeln</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath kletterte fluchend über einen <b>Stapel</b> Bretter, und da sah er den Pornokaiser.... (<i>Der nasse Fisch</i>, 22)',
@@ -25617,6 +25690,7 @@ Stange: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Gegenüber der Fensterreihe.. befand sich eine weitere, die aussah wie die Schalterwand einer Bank, nur dass man hinter den Schaltern eine Küche erkennen konnte, <b>gestapelte</b> Edelstahltöpfe, Pfannen und Kochlöffel, und hinter dem groß Elektroherd eine Spülmaschine, die ein weißgeschürzter Mann mit schmutzigem Geschirr fütterte. (<i>Olympia</i>, 58)',
     '"Ich tu, was ich kann." Ruge griff in einen Ablagekorb und nahm einen <b>Stapel</b> Papiere heraus. "Den Menüplan von Sonnabend können Sie schon haben. Mit den Zutaten und Lieferanten bin ich noch nicht ganz durch. Ist eine Heidenarbeit." (<i>Olympia</i>, 70)',
+    '"Gründlich waschen, damit du denn Küchengeruch loswirst", sagte sie (<i>Georgi</i>). "Dann das hier anziehen. In zehn Minuten bei mir im Büro melden. Husch husch!" Mit diesen Worten reichte sie Charly einen kleinen, sorgsam gefalteten schwarzweißen Kleidungs<b>stapel</b> und verschwand. (<i>Olympia</i>, 221)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'stapfen, Fußstapfe': [

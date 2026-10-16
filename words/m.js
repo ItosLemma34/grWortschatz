@@ -37,7 +37,7 @@ const m = [
 'mit einem Affenzahn',   // duplicated
 'mitgenommen',  // mitgenommen: 
 'mogeln',  // mogeln:
-'Mohrrübe', // Mohrrübe:
+'Möhre, Mohrrübe', 
 'Molle', // Molle:
 'Montur',  // Montur: 
 'Mucks',  // Mucks:  

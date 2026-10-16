@@ -50,7 +50,8 @@ const g = [
 'Geplänkel, Vorgeplänkel',  // duplicated  
 'Geplapper, plappern, nach-', // duplicated 
 'gerädert',  // gerädert: 
-'Gerangel', // Gerangel:  
+'Gerangel', // Gerangel:
+'Geraune, raunen',  // duplicated  
 'Geräuschkulisse', // Geräuschkulisse:  
 'gereizt, Reiz, reizen',  // duplicated
 'gerieren',   // gerieren:  

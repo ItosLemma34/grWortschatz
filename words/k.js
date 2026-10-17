@@ -150,7 +150,6 @@ const k = [
 'Krücke', // Krücke:
 'Krümel',  // Krümel: 
 'krümmen', // krümmen:
-'Kühlerhaube, Haube', // duplicated 
 'kullern', // kullern: 
 'Kumpel', // Kumpel: 
 'kundschaften', // kundschaften: 

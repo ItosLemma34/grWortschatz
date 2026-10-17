@@ -71,6 +71,7 @@ const p = [
 'Pritsche', // Pritsche: 
 'Prothese', // Prothese: 
 'Protz, protzen, protzig',
+'Prunk', // Prunk:
 'prusten, los-',   
 'pudern',  // pudern: 
 'Pulle',  // Pulle: 

@@ -24,7 +24,7 @@ const h = [
 'harren',  // harren: 
 'hart im Nehmen sein',   
 'Hatz',  // Hatz: 
-'Haube, Kühlerhaube', // duplicated 
+'Haube, Kühler-',  
 'Haue, hauen, ab-',
 'Häuschen (aus dem H.)', // duplicated
 'Hausierer, hausieren', 

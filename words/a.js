@@ -89,7 +89,8 @@ const a = [
 'anwinkeln',  // anwinkeln: 
 'Anzeige erstatten',  
 'anzetteln',  // anzetteln:  
-'anzüglich',  //  anzüglich:  
+'anzüglich',  //  anzüglich:
+'apart',  // apart:  
 'apportieren', // apportieren: 
 'Areal' ,  // Areal:  
 'Arm (auf den A. nehmen)',  //  duplicated 

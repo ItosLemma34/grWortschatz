@@ -1,6 +1,6 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
-// next:  abgrasen:
+// next:  abgrasen:  
 
 // Olympia: already used: '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum <b>Spülen</b> gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist <b>wegspülen</b>. Und als ich den <b>Spülkorb</b> ausräume, finde ich da so ein Glas, wo ich nicht weiß, wo das her ist. War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s <b>gespült</b> haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den Schüsseln und so war. Schade um das ganze Essen, aber das vollgekotzte Zeug war ja nicht mal mehr was für den Schweineeimer."  (<i>Olympia</i>, 152)',
 // Check if all the "auf die Nase binden" captured
@@ -73,8 +73,6 @@ export const wordExamples = {
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  [<i>Olympiastadion</i>]  im Olympischen Dorf
-    // '<br><i>trennbares Präfix</i>: <b> </b>'+
-    //  '<br><i>trennbare Präfixe</i>: <b> </b>'+
 /*
     // geknickt Der stumme Tod 536
 zzz: [  
@@ -326,6 +324,34 @@ quäken: [
     // Olympia  
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Dann hoben sie (<i>Albritton, Johnson, Thurber</i>) den rechten Arm in Richtung der führerlosen Ehrentribüne, als wollten sie dem verbliebenen kläglichen Rest in der Loge den Deutschen Gruß zeigen, doch war es nicht der Deutsche Gruß, die Daumen waren <b>eingeknickt</b> und die Hände nicht waagerecht, es sah irgendwie anders aus, fast wie eine Parodie. Aber das war es nicht, dazu passten die ernsten Gesichter der drei Sportler nicht. (<i>Olympia</i>, 204)',
+],
+Prunk: [  
+    'der <b>Prunk</b>: pomposity, pageantry, glitz, splendor'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Prunk"target="target1">Prunk</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Prunk"target="target2">Prunk</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/prunk"target="target3">Prunk</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Prunk&id=substantiv%3APrunk"target="target4">Prunk</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    'Der Gottersdienst verlief nüchtern, ohne jeden <b>Prunk</b>. Für Rath war es der erste Besuch in einer evangelischen Kirche... (<i>Der nasse Fisch</i>, 403)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'In der Hotelhalle hingegen empfing sie (<i>Charly</i>) ein pompöser <b>Prunk</b>, der ein wenig aus der Zeit gefallen schien, nachgemachtes Rokoko, Teppiche, Spiegel, Kronleuchter. Kaiser Wilhelm hatte sich hier wohlgefühlt, erzählte man. (<i>Olympia</i>, 223)',
+],
+apart: [  
+    '<b>apart</b>: striking, smart, stylish, distinctive; separate '+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/apart"target="target1">apart</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/apart"target="target2">apart</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/apart"target="target3">apart</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=apart&id=adjektiv%3Aapart%23apart"target="target4">apart</a>',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Er (<i>Rath</i>) wusste nicht, ob es Frank Miller junior oder senior war oder vielleicht sogar die <b>aparte</b> Dolores, einer aus der Familie Miller jedenfalls schnarchte in einer Lautstärke, das es über den Flur bis ins Wohnzimmer schallte, wo Rath sein Klappbett aufgestellt hatte. (<i>Olympia</i>, 210-11)',
+    '<i>Madame Georgi zu Charly</i>: ".. das da draußen ist eine andere Welt as die Küche, das ist die richtige Welt.  Du bist in der Öffentlichkeit unterwegs, Mädchen, bewegst dich unter den Hotelgästen, da ist eine gepflege Erscheinung und gutes Benehmen allererste Pflicht, da kann ich keinen von den Bauerntrampeln aus der Küche gebrauchen. Aber du machst einen ganz <b>aparten</b> Eindruck auf mich." (<i>Olympia</i>, 222)',
 ],
 einnisten: [  
     '<b>sich einnisten</b>: nest in, become embedded/settle in, implant, take up residence'+
@@ -8424,7 +8450,7 @@ abspecken: [
 'ekeln, Ekel, eklig, ekelhaft': [
     '<br>(<b>ekeln</b>: appall, disgust, gross out'+
     '<br><b>ekeln</b>: <i>vertreiben: jmdn. aus dem Haus ekeln</i>: hound sb. out of the house'+
-    '<br><i>trennbare Präfixe</i>: <b>an-, hinaus-</b>'+
+    '<br><i>trennbare Präfixe</i>: <b>an-, hinaus-</b>'+  // xxx
     '<br><b>anekeln</b>: appall, disgust, gross out, nauseate'+
     '<br><b>hinausekeln</b>: freeze/drive out of (eg, by being objectionable)'+
     '<br>der <b>Ekel</b>: disgust, revulsion; nausea'+
@@ -9377,43 +9403,34 @@ Rüsche: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, kratzte unter den Armen, und mit der weißen Haube auf ihren blond gefärbten Haaren und der weißen <b>Rüschen</b>schürze fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
 ],
-'Haube, Kühlerhaube': [
+'Haube, Kühler-': [
     'die <b>Haube</b>,-<b>n</b>: hood, cap, cover, bonnet'+
-    '<br>die <b>Kühlerhaube</b>,-<b>n</b> = <b>Motorhaube</b>: car hood (not "radiator" hood)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haube"target="target1">Haube</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+K%C3%BChlerhaube"target="target2">Kühlerhaube</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/haube"target="target3">Haube</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=K%C3%BChlerhaube&id=substantiv%3AKu3hlerhaube"target="target4">Kühlerhaube</a>',
+    '<br>die <b>Kühlerhaube</b> = die <b>Motorhaube</b>: car hood (not "radiator" hood)'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Haube"target="target1">Haube</a>&nbsp;&nbsp;'+
+        '<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+K%C3%BChlerhaube"target="target2">Kühlerhaube</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/haube"target="target3">Haube</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=K%C3%BChlerhaube&id=substantiv%3AKu3hlerhaube"target="target4">Kühlerhaube</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Das Mädchen kam mit einem Tablett voller Sektgläser und knickste höflich, die Leute bedienten sich. Mit ihrer weißen Schürze und der weißen <b>Haube</b> sah sie aus, als habe sie nie etwas anderes gemacht. Sie sprach nicht viel, aber sie machte ihre Sache gut, war zuverlässig und zuvorkommend. (<i>Und sie war Hannah</i>!) (<i>Märzgefallene</i>, 584)',
     'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, kratzte unter den Armen, und mit der weißen <b>Haube</b> auf ihren blond gefärbten Haaren und der weißen Rüschenschürze fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Rath</i>: "Wenn ich noch einen Blick in Ihr Auto werfen dürfte, Herr Leister?" Auch das ließ Wilhelm Leister ohne Murren über sich ergehen. Rath schaute ins Wageninnere, in den Kofferraum und unter die <b>Motorhaube</b>. Nichts Verdächtiges. (<i>Lunapark</i>, 233)',
     '"Sie dürfen noch nicht aufstehen, Kommissar!" Eine Krankenschwester stand in der Tür, hochroter Kopf unter weißer <b>Haube</b>. (<i>Lunapark</i>, 389)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Schwarzgraues Verdeck, dunkelgrünes Chassis, schwarz-weiße Karostreifen - ohne Frage eine Kraftdroschke (<i>Taxi</i>). Von dem Wagen war allerdings nur das Heck zu sehen, die vordere Hälfte schien in der Mauer verschwunden zu sein. Als sie die Unfallstelle passierten, konnte Rath erkennen, dass die <b>Kühlerhaube</b> zusammengeschoben worden war, als sei sie aus Pappe. (<i>Marlow</i>, 26)',
     'Das Taxi, eigentlich ein stabiler Wagen, war durch den Aufprall auf wenig mehr als die Hälfte seiner Größe gestaucht, die <b>Kühlerhaube</b> eingedrückt, die Vorderachse verbogen und derart unter die Karosserie geschoben, dass von den Vorderrädern kaum noch etwas zu sehen war. (<i>Marlow</i>, 34)',
-    '"Verdammt", sagte sie (<i>Elli Blarr</i>) und nahm eines der Fotos in die Hand, die das zerstörte Taxi zeigten, eines auf dem die zusammengeschobene Motor<b>haube</b> besonders eindrucksvoll getroffen war, "mit dem Totalschaden dürften Sie wohl recht haben." (<i>Marlow</i>, 60)',
+    '"Verdammt", sagte sie (<i>Elli Blarr</i>) und nahm eines der Fotos in die Hand, die das zerstörte Taxi zeigten, eines auf dem die zusammengeschobene <b>Motorhaube</b> besonders eindrucksvoll getroffen war, "mit dem Totalschaden dürften Sie wohl recht haben." (<i>Marlow</i>, 60)',
     'Noch bevor er (<i>Rath</i>) sein Auto erkannte, sah er einen SA-Mann, der neugierig ins Innere des Wagens lugte. Was wollten die denn jetzt noch von ihm? Hatte er falsch geparkt oder schickte es sich nicht, mit einem amerikanischen Auto zum Reichsparteitag der NSDAP zu fahren? Als er näherkam, erkannte er ein bekanntes Gesicht unter der Sturm<b>haube</b>. "Hauptwachtmeister Draxler!..." (<i>Marlow</i>, 324-25)',
     'Es waren tatsächlich zwei Leichen, ein Mann und eine Frau... Sie lagen nah beieinander direkt vor dem Schreibtisch im Behandlungszimmer... Der Mann war deutlich dicker als die Frau, beide trugen sie weiße Kittel, die Frau zudem eine Art Schwestern<b>haube</b>. (<i>Marlow</i>, 461)',
     'Das Auto riecht immer noch neu, kein Wunder, ist vor wenigen Wochen erst aus Zwickau gekommen, frisch ab Werk. Ein Audi, Typ M, sechs Zylinder unter der <b>Haube</b>, viel Platz im Fahrgastraum, ein feiner Wagen, einer, der Eindruck schindet, einer den man einen Chauffeur braucht. (<i>Marlow</i>, 513)',
-],
-'Kühlerhaube, Haube': [
-    'die <b>Haube</b>,-<b>n</b>: hood, cap, cover, bonnet'+
-    '<br>die <b>Kühlerhaube</b>,-<b>n</b> = <b>Motorhaube</b>: car hood (not "radiator" hood)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Haube"target="target1">Haube</a>&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Bilder+von+K%C3%BChlerhaube"target="target2">Kühlerhaube</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/haube"target="target3">Haube</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=K%C3%BChlerhaube&id=substantiv%3AKu3hlerhaube"target="target4">Kühlerhaube</a>',
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',
-    'Das Mädchen kam mit einem Tablett voller Sektgläser und knickste höflich, die Leute bedienten sich. Mit ihrer weißen Schürze und der weißen <b>Haube</b> sah sie aus, als habe sie nie etwas anderes gemacht. Sie sprach nicht viel, aber sie machte ihre Sache gut, war zuverlässig und zuvorkommend. (<i>Und sie war Hannah</i>!) (<i>Märzgefallene</i>, 584)',
-    'Das schwarze Kleid, in das sie (<i>Charly und Gereon</i>) sie (<i>Hannah</i>) gesteckt hatten, kratzte unter den Armen, und mit der weißen <b>Haube</b> auf ihren blond gefärbten Haaren und der weißen Rüschenschürze fühlte sie sich wie verkleidet. (<i>Märzgefallene</i>, 595)',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    '<i>Rath</i>: "Wenn ich noch einen Blick in Ihr Auto werfen dürfte, Herr Leister?" Auch das ließ Wilhelm Leister ohne Murren über sich ergehen. Rath schaute ins Wageninnere, in den Kofferraum und unter die <b>Motorhaube</b>. Nichts Verdächtiges. (<i>Lunapark</i>, 233)',
-    '"Sie dürfen noch nicht aufstehen, Kommissar!" Eine Krankenschwester stand in der Tür, hochroter Kopf unter weißer <b>Haube</b>. (<i>Lunapark</i>, 389)',
-    '<span class="bookTitle"><u>Marlow</u></span>',
-    'Schwarzgraues Verdeck, dunkelgrünes Chassis, schwarz-weiße Karostreifen - ohne Frage eine Kraftdroschke (<i>Taxi</i>). Von dem Wagen war allerdings nur das Heck zu sehen, die vordere Hälfte schien in der Mauer verschwunden zu sein. Als sie die Unfallstelle passierten, konnte Rath erkennen, dass die <b>Kühlerhaube</b> zusammengeschoben worden war, als sei sie aus Pappe. (<i>Marlow</i>, 26)',
-    'Das Taxi, eigentlich ein stabiler Wagen, war durch den Aufprall auf wenig mehr als die Hälfte seiner Größe gestaucht, die <b>Kühlerhaube</b> eingedrückt, die Vorderachse verbogen und derart unter die Karosserie geschoben, dass von den Vorderrädern kaum noch etwas zu sehen war. (<i>Marlow</i>, 34)',
-    '"Verdammt", sagte sie (<i>Elli Blarr</i>) und nahm eines der Fotos in die Hand, die das zerstörte Taxi zeigten, eines auf dem die zusammengeschobene Motor<b>haube</b> besonders eindrucksvoll getroffen war, "mit dem Totalschaden dürften Sie wohl recht haben." (<i>Marlow</i>, 60)',
-    'Noch bevor er (<i>Rath</i>) sein Auto erkannte, sah er einen SA-Mann, der neugierig ins Innere des Wagens lugte. Was wollten die denn jetzt noch von ihm? Hatte er falsch geparkt oder schickte es sich nicht, mit einem amerikanischen Auto zum Reichsparteitag der NSDAP zu fahren? Als er näherkam, erkannte er ein bekanntes Gesicht unter der Sturm<b>haube</b>. "Hauptwachtmeister Draxler!..." (<i>Marlow</i>, 324-25)',
-    'Es waren tatsächlich zwei Leichen, ein Mann und eine Frau... Sie lagen nah beieinander direkt vor dem Schreibtisch im Behandlungszimmer... Der Mann war deutlich dicker als die Frau, beide trugen sie weiße Kittel, die Frau zudem eine Art Schwestern<b>haube</b>. (<i>Marlow</i>, 461)',
-    'Das Auto riecht immer noch neu, kein Wunder, ist vor wenigen Wochen erst aus Zwickau gekommen, frisch ab Werk. Ein Audi, Typ M, sechs Zylinder unter der <b>Haube</b>, viel Platz im Fahrgastraum, ein feiner Wagen, einer, der Eindruck schindet, einer den man einen Chauffeur braucht. (<i>Marlow</i>, 513)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Charly wusch sich den Zwiebelgeruch und die orangene Farbe aus den Händen, mit Hilfe einer Wurzelbürste und viel Seife, dann zog sie die Sachen an, die Madame Georgi ihr zugewiesen hatte. Die Uniform aller <i>Esplanade</i>-Zimmermädchen: schwarzes Kleid, weiße Schürze, weiße <b>Haube</b>. Sie drehte sich ein wenig vor dem Spiegel im großen Umkleideraum. Stand ihr gar nicht mal schlecht. (<i>Olympia</i>, 221)',
 ],
 Hülse: [
     'die <b>Hülse</b>,-<b>n</b>: hull, shell, cartridge case'+
@@ -10802,13 +10819,21 @@ Achterbahn: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 Eingeweide: [
     'das <b>Eingeweide</b>,-: guts, intestines'+
-    '<br>generally used in the plural: die <b>Eingeweide</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Eingeweide"target="target1">Eingeweide</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Eingeweide"target="target2">Eingeweide</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/eingeweide"target="target3">Eingeweide</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/eingeweide"target="target4">Eingeweide</a>',
+    '<br><i>generally used in the plural</i>: die <b>Eingeweide</b>'+
+    '<br>Deutsch:&nbsp;&nbsp'+
+        '<a href="https://www.duden.de/rechtschreibung/Eingeweide"target="target1">Eingeweide</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Eingeweide"target="target2">Eingeweide</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/eingeweide"target="target3">Eingeweide</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/eingeweide"target="target4">Eingeweide</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Der sicherste Weg war der über die Trabener Straße, keine Wohnhäuser, nur der Bahndamm und ein paar Bäume. Durch den präparierten Zaun aufs Gelände, dann durch die <b>Eingeweide</b> der Achterbahn bis zu ihrem Versteck. (<i>Lunapark</i>, 247)',
     'Rath überlegte. Wo sollte er seine Suche fortsetzen? Er betrat die Zustiegsrampe der Berg- und Talbahn und tastete sich vorsichtig voran in die dunklen <b>Eingeweide</b>. Er konnte sich kaum vorstellen, dass das Gerüst der hözernen Berglandschaft ein ideales Versteck war, vermutlich nicht einmal regendicht. (<i>Lunapark</i>, 373)',
     'Rath eschloss, diesmal nicht um die Achterbahn herumzugehen, sondern mitten hinein in deren <b>Eingeweide</b>. (<i>Lunapark</i>, 524)',
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Die Georgi hatte ihre (<i>Charlys</i>) Pläne durchkreuzt. Nun ging es also nach draußen, hinaus aus den <b>Eingeweiden</b> des Grandhotels, hinein in die Salons und auf die Etagen... Charly hätte lieber noch den Rest des Tages Zwiebeln gehackt und Möhren geschält. Was sollte sie hier? Ihr Platz war in der Küche. Nur dort konnte sie die Frage klären, wie ein <i>Esplanade</i>-Glas ins Olympische Dorf gelangen und Digitalis dort hineingeraten konnte. (<i>Olympia</i>, 222-23)',
 ],
 Marotte: [
     'die <b>Marotte</b>,-<b>n</b>: fad, whim, quirk'+
@@ -13081,13 +13106,22 @@ aufgabeln: [
 'glimmen, auf-': [
     '<b>glimmen</b>: glow'+
     '<br><b>aufglimmen</b>: glimmer, glow'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/glimmen"target="target1">glimmen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufglimmen"target="target1">aufglimmen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/glimmen"target="taget3">glimmen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufglimmen"target="target3"target="target4">aufglimmen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/glimmen"target="target1">glimmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/aufglimmen"target="target1">aufglimmen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/glimmen"target="taget3">glimmen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=aufglimmen"target="target3"target="target4">aufglimmen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Und jetzt bemerkte Charly auch, wie unregelmäßig der Himmel leuchtete, wie ein Stück glühende Kohle, das mal dort und mal hier heller <b>aufglimmte</b>. (<i>Märzgefallene</i>, 63)',
     'Roddeck blickte sich um. Als sich seine Augen an die Dunkelheit gewöhnt hatten, konnte er den Lichtschein erkennen, der von der Abzweigung her in den Tunnel <b>glimmte</b> und die Pfützen auf dem Betonboden gelblich schimmern ließ. (<i>Märzgefallene</i>, 566)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
-    'Im Südwestturm glaubte Rath, das <b>Aufglimmern</b> einer Zigarette gesehen zu haben. (<i>Lunapark</i>, 373)',
+    'Im Südwestturm glaubte Rath, das <b>Aufglimmen</b> einer Zigarette gesehen zu haben. (<i>Lunapark</i>, 373)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Charly</i>: "Jawohl, Frau Georgi." <i>Madame Georgi</i>: "Nenn mich bitte Madame." "Entschuldigen Sie, Madame Georgi." "Schon mal als Zimmermädchen gearbeitet?" "Ich fürchte nein." In Charly <b>glimmte</b> eine gelinde Hoffnung <b>auf</b>, vielleicht doch in die Küche zurückgeschickt zu werden. (<i>Olympia</i>, 222)',
 ],
 aufhalsen: [
     '<b>aufhalsen</b>: saddle oneself/so. with sth., foist sth. on so.'+
@@ -16142,7 +16176,7 @@ grämen: [
 'Gebrüll, brüllen': [
     'das <b>Gebrüll</b>: roaring, shouting'+
     '<br><b>brüllen</b>: yell, bellow, roar'+
-    '<br><i>trennbare Präfixe</i>: <b>an-</b>, <b>los-</b>'+
+    '<br><i>trennbare Präfixe</i>: <b>an-</b>, <b>los-</b>'+ // xxx
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Gebruell"target="target1">Gebrüll</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/br%C3%BCllen"target="target2">brüllen</a>'+
@@ -16190,7 +16224,7 @@ grämen: [
 'brüllen, Gebrüll': [
     'das <b>Gebrüll</b>: roaring, shouting'+
     '<br><b>brüllen</b>: yell, bellow, roar'+
-    '<br><i>trennbare Präfixe</i>: <b>an-</b>, <b>los-</b>'+
+    '<br><i>trennbare Präfixe</i>: <b>an-</b>, <b>los-</b>'+  // xxx
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Gebruell"target="target1">Gebrüll</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/br%C3%BCllen"target="target2">brüllen</a>'+
@@ -17076,15 +17110,24 @@ Geländer: [
 ],
 gelinde: [
     '<b>gelinde</b> oder <b>gelind</b>: mild, mildly'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/gelind"target="target1">gelinde</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gelinde"target="target2">gelinde</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/gelinde"target="target3">gelinde</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gelinde"target="target4">gelinde</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/gelind"target="target1">gelinde</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/gelinde"target="target2">gelinde</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gelinde"target="target3">gelinde</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/gelinde"target="target4">gelinde</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Hier", sagte er und reichte Rath den Stapel, "die Druckfahnen von <i>Märzgefallene</i>. Lesen Sie den Roman, und Sie werden alles verstehen." Rath schaute auf den Papierstapel, <b>gelinde</b> entsetzt. "Wie viele Seiten sind das?" "Fünfhundertachtzig", sagte Hildebrandt ungerührt. (<i>Märzgefallene</i>, 146)',
     '"Das... ist Ihr Mann", sagte Rath. <i>Eva Heinen</i>: "Seine Gesichtsprothese. Das ist alles, was ich von ihm habe.." Das halbe Gesicht auf dem Schreibtisch war gut gearbeitet, gehalten wurde es von einer Brille, das Auge hinter dem rechten Brillenglas wirkte wie echt, Rath hatte das unangenehme Gefühl, aus diesem Auge schaue ihn Benjamin Engel an, einen <b>gelinden</b> Vorwurf im Blick. (<i>Märzgefallene</i>, 454)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"So kann es nicht weitergehen", empörte sich plötzlich einer, und alle schauten ihn an. "Es wird Zeit, dass der Führer der grassierenden Rassenschande endlich Einhalt gebietet!" Rath hörte zustimmendes Murren, mehr nicht. Vielleicht, weil der Stürmerleser seine Forderung mit einer <b>gelinden</b> Kritik an Adolf Hitler verbunden hatte und sich niemand in die Nesseln setzen wollte. (<i>Marlow</i>, 296)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Charly</i>: "Jawohl, Frau Georgi." <i>Madame Georgi</i>: "Nenn mich bitte Madame." "Entschuldigen Sie, Madame Georgi." "Schon mal als Zimmermädchen gearbeitet?" "Ich fürchte nein." In Charly glimmte eine <b>gelinde</b> Hoffnung auf, vielleicht doch in die Küche zurückgeschickt zu werden. (<i>Olympia</i>, 222)',
 ],
-//    (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
+//    (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 Gemurmel: [
     'das <b>Gemurmel</b>: buzz, muttering, murmuring'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gemurmel"target="target1">Gemurmel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gemurmel"target="target2">Gemurmel</a>'+
@@ -17712,6 +17755,7 @@ Häkchen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Der SS-Mann <b>schlug die Hacken zusammen</b> und erbot den Deutschen Gruß, bevor er kehrtmachte. (<i>Olympia</i>, 114)',
     '<i>Marie</i>: "Komm bloß nich auf die Idee, hier irgendwas einzupacken, da versteht ollen Geinitz überhaupt keenen Spaß. Der lässt dich nicht mal in so\'ne Mohrrübe beißen, und wenn de tausen von denen schälst." So hatte Charly das zwar nicht gemeint, aber sie nickte und <b>hakte</b> nicht weiter <b>nach</b>. Den Leuten besser keine Löcher in den Bauch fragen, bloß nicht auffallen. (<i>Olympia</i>, 210)',
+    'Die Georgi hatte ihre (<i>Charlys</i>) Pläne durchkreuzt. Nun ging es also nach draußen, hinaus aus den Eingeweiden des Grandhotels, hinein in die Salons und auf die Etagen... Charly hätte lieber noch den Rest des Tages Zwiebeln <b>gehackt</b> und Möhren geschält. Was sollte sie hier? Ihr Platz war in der Küche. Nur dort konnte sie die Frage klären, wie ein <i>Esplanade</i>-Glas ins Olympische Dorf gelangen und Digitalis dort hineingeraten konnte. (<i>Olympia</i>, 222-23)',
 ],
 'Hacke, hacken; Hacken ablaufen, zusammenschlagen': [ 
     'die <b>Hacke</b>,-<b>n</b>: heel; hoe, hatchet, axe'+
@@ -21152,6 +21196,7 @@ mimen: [
     'Der <b>Mohrrüben</b>berg wurde nicht kleiner. Wenigstens musste sie (<i>Charly</i>) bei dieser Arbeit nicht aufpassen, dass ihr die Augen tränten. Dafür hatte sich ihre Schürze, am frühen Morgen beim Umbinden noch blütenweiß, inzweischen schmutzig orange verfärbt. (<i>Olympia</i>, 220)',
     'Sie (<i>Charly</i>) würde schon noch herausbekommen, wie eines dieser hübschen <i>Esplanade</i>-Gläser ins Olympische Dorf gelangt war. Allerdings nicht, solange sie <b>Möhren</b> schälte. (<i>Olympia</i>, 220)',
     'Bettenmachen war besser als <b>Möhren</b> schrubben und in der Hierarchie des Grandhotels ein deutlicher Aufstieg, so etwas konnte man nicht ablehnen. (<i>Olympia</i>, 221)',
+    'Die Georgi hatte ihre (<i>Charlys</i>) Pläne durchkreuzt. Nun ging es also nach draußen, hinaus aus den Eingeweiden des Grandhotels, hinein in die Salons und auf die Etagen... Charly hätte lieber noch den Rest des Tages Zwiebeln gehackt und <b>Möhren</b> geschält. Was sollte sie hier? Ihr Platz war in der Küche. Nur dort konnte sie die Frage klären, wie ein <i>Esplanade</i>-Glas ins Olympische Dorf gelangen und Digitalis dort hineingeraten konnte. (<i>Olympia</i>, 222-23)',
 ],
 Muffel: [
     'der <b>Muffel</b>,-: grouch, grump, sourpuss'+
@@ -23037,7 +23082,7 @@ roden: [
 // (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 rumpeln: [
     '<b>rumpeln</b>: rumble, bump, clatter'+
-    '<br><i>trennbare Präfixe</i>: <b>entlang-, vorbei-</b>'+
+    '<br><i>trennbare Präfixe</i>: <b>entlang-, vorbei-</b>'+  // xxx
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/rumpeln_ruetteln"target="target1">rumpeln</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/rumpeln"target="target2">rumpeln</a>'+
@@ -24185,6 +24230,7 @@ schälen: [
     '<i>Marie</i>: "Komm bloß nich auf die Idee, hier irgendwas einzupacken, da versteht ollen Geinitz überhaupt keenen Spaß. Der lässt dich nicht mal in so\'ne Mohrrübe beißen, und wenn de tausen von denen <b>schälst</b>." So hatte Charly das zwar nicht gemeint, aber sie nickte und hakte nicht weiter nach. Den Leuten besser keine Löcher in den Bauch fragen, bloß nicht auffallen. (<i>Olympia</i>, 210)',
     'Auch Marie, die ganz profan Kartoffeln <b>schälte</b>, warf der neuen Kollegin immer mal wieder einen kurzen Blick zu, aber was in diesem Blick lag, ob es Misstrauen war oder Neugierde, vermochte Charly nicht zu sagen. (<i>Olympia</i>, 220)',
     'Sie (<i>Charly</i>) würde schon noch herausbekommen, wie eines dieser hübschen <i>Esplanade</i>-Gläser ins Olympische Dorf gelangt war. Allerdings nicht, solange sie Möhren <b>schälte</b>. (<i>Olympia</i>, 220)',
+    'Die Georgi hatte ihre (<i>Charlys</i>) Pläne durchkreuzt. Nun ging es also nach draußen, hinaus aus den Eingeweiden des Grandhotels, hinein in die Salons und auf die Etagen... Charly hätte lieber noch den Rest des Tages Zwiebeln gehackt und Möhren <b>geschält</b>. Was sollte sie hier? Ihr Platz war in der Küche. Nur dort konnte sie die Frage klären, wie ein <i>Esplanade</i>-Glas ins Olympische Dorf gelangen und Digitalis dort hineingeraten konnte. (<i>Olympia</i>, 222-23)',
 ],
 Schar: [
     'die <b>Schar</b>,-<b>en</b>: troop, band, regiment; flock, gaggle'+
@@ -25285,6 +25331,7 @@ Schürze: [
     'Wilhelm Krömer war genau der Mann, der Rath vor vier Tagen als erster in der Küche über den Weg gelaufen war. Der mit der durchnässten <b>Schürze</b>. (<i>Olympia</i>, 152)',
     'Der Mohrrübenberg wurde nicht kleiner. Wenigstens musste sie (<i>Charly</i>) bei dieser Arbeit nicht aufpassen, dass ihr die Augen tränten. Dafür hatte sich ihre <b>Schürze</b>, am frühen Morgen beim Umbinden noch blütenweiß, inzweischen schmutzig orange verfärbt. (<i>Olympia</i>, 220)',
     '.. Die Mädchen legten ihre Arbeit beiseite, wischten sich die Hände an ihren <b>Schürzen</b>, richteten sich das Haar und stellten sich vor der Spülmaschine in einer Reihe auf, als ginge es um einen Schönheitswettbewerb. (<i>Olympia</i>, 221)',
+    'Charly wusch sich den Zwiebelgeruch und die orangene Farbe aus den Händen, mit Hilfe einer Wurzelbürste und viel Seife, dann zog sie die Sachen an, die Madame Georgi ihr zugewiesen hatte. Die Uniform aller <i>Esplanade</i>-Zimmermädchen: schwarzes Kleid, weiße <b>Schürze</b>, weiße Haube. Sie drehte sich ein wenig vor dem Spiegel im großen Umkleideraum. Stand ihr gar nicht mal schlecht. (<i>Olympia</i>, 221)',
 ],
 'Schüssel, Kloschüssel': [
     'die <b>Schüssel</b>,-<b>n</b>: bowl, dish, pan'+
@@ -25830,7 +25877,7 @@ stibitzen: [
 'Stiefel, stiefeln': [
     'der <b>Stiefel</b>,-: boot'+
     '<br><b>stiefeln</b>: stride, march'+
-    '<br><i>trennbare Präfixe</i>: <b>entgegen-, entlang-, hinüber-, hinunter-, hoch-, los-, vorbei-, zu-</b>'+
+    '<br><i>trennbare Präfixe</i>: <b>entgegen-, entlang-, hinüber-, hinunter-, hoch-, los-, vorbei-, zu-</b>'+ // xxx
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Stiefel"target="target1">Stiefel</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/stiefeln"target="target2">stiefeln</a>'+ 
@@ -28686,7 +28733,7 @@ wogen: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'wühlen': [ 
     '<b>wühlen</b>: burrow, rummage, dig into something'+
-    '<br><i>trennbare Präfixe</i>: <b>durch-, herum-</b>'+
+    '<br><i>trennbare Präfixe</i>: <b>durch-, herum-</b>'+  // xxx
     '<br><b>durchwühlen</b>: rummage around in, work one\'s way through'+
     '<br><b>herumwühlen</b>: snoop/root around in'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -29463,9 +29510,8 @@ Zuspruch: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Unter alten Freunden ist so etwas doch selbstverständlich, nicht wahr, Leo", sagte der Nordpiratenchef (<i>Hermann Lapke</i>). "Da legt man gern mal ein gutes Wort ein." Leo spuckte aus. "Auf so einen <b>Zuspruch</b> kann ich verzichten. Dann bleibe ich lieber hier." .... <i>Lapke</i>: "Du wirst auf diesen <b>Zuspruch</b> nicht verzichten, glaube mir. Wenn du hier jemals wieder rauskommen willst, bin ich der Einzige, der deinen Arsch retten kann." (<i>Märzgefallene</i>, 221-22)',
 ],
-zwinkern: [
+'zwinkern, an-, zu-': [ 
     '<b>zwinkern</b>: blink, wink'+
-    '<br><i>trennbare Präfixe</i>: <b>an-, zu-</b>'+
     '<br><b>anzwinkern</b>, <b>zuzwinkern</b>: wink at'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/zwinkern"target="target1">zwinkern</a>&nbsp;&nbsp;'+
@@ -29503,6 +29549,7 @@ zwinkern: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     '"Take your time, boy", hatte er (<i>Dave Albritton</i>) gesagt, ihm (<i>Fritze</i>) zehn Dollar in die Hand gedrückt und verschwörerisch <b>gezwinkert</b>. Wahrscheinlich glaubte Dave, Fritze habe ein Mädchen in der Stadt, das er unbedingt besuchen wolle, und Fritze ließ ihn in dem Glauben. So ganz falsch war es ja auch nicht. (<i>Olympia</i>, 137-38)',
     '"Wir müssen uns gutstellen mit dem Neuen (<i>Rath</i>)", hatte Franke gesagt, als er die Freikarte von Lohmann einforderte. "Das ist kein normaler Polizist." Und dann hatte er vielsagend <b>gezwinkert</b> und "Prinz-Albrecht-Straße" gesagt. (<i>Olympia</i>, 168)',
+    'Charly wusch sich den Zwiebelgeruch und die orangene Farbe aus den Händen, mit Hilfe einer Wurzelbürste und viel Seife, dann zog sie die Sachen an, die Madame Georgi ihr zugewiesen hatte. Die Uniform aller <i>Esplanade</i>-Zimmermädchen: schwarzes Kleid, weiße Schürze, weiße Haube. Sie drehte sich ein wenig vor dem Spiegel im großen Umkleideraum. Stand ihr gar nicht mal schlecht. Charly <b>zwinkerte</b> ihrem Spiegelbild <b>zu</b> und machte sich auf den Weg. (<i>Olympia</i>, 221)',
 ],
 zwirbeln: [
     '<b>zwirbeln</b>: twirl'+
@@ -29725,7 +29772,6 @@ verzerren: [
     '<br><b>an etwas reißen</b>: pull, strain at sth.'+
     '<br><b>sich um etwas reißen</b>: be eager to do/have sth.'+
  //   '<br><i>see also</i>: <b><i>reißen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zurück-,zusammen-</i></b>'+
-//    '<br><i>trennbare Präfixe</i>: <b> </b>'+
     '<br>Deutsch:'+
         '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rei%C3%9Fen"target="target1">reißen</a>'+
         '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gerissen"target="target2">gerissen</a>'+

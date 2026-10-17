@@ -175,6 +175,7 @@ Bagger Marlow 247
  brodeln Lunapark 130
  brockig  Der nasse Fisch 480
  Bückling    Märzgefallene  545  
+ bügeln gebügelt  Olympia 224
  Dämlacks  Lunapark 428
  Damn Lunapark 247   
  deftig  Der stumme Tod 223 
@@ -222,6 +223,7 @@ entgleisen  Der nasse Fisch 404
  'fluchen'  ;   Nworte++;    Märzgefallene   17
  'Fläche'  ;   Nworte++;    Märzgefallene   161
  Floh  Marlow 216
+ Flustern  Olypia 220
  Fluter  Der stumme Tod 31  contained in Gerüst
  Forst  Lunapark 422
  Fraktur  Lunapark 41
@@ -286,6 +288,7 @@ geheuer  Olympia 155
  hieven Der nasse Fisch 239
  hintergehen  Märzgefallene  571
  hinterhältig Der stumme Tod 68  
+ hinterherdackeln  Olympia 221
  Ä  ö  Ö  ü  Ü   ß               
 
  Himmelfahrtskommando    Märzgefallene  574  
@@ -399,6 +402,7 @@ nölen Der nasse Fisch 465
  Schleier  Marlow 20  
  Scheitel Marlow 266
  schneidern  Marzgefallene  582
+ Schilf  Olympia 216
  Splint  Der stumme Tod  32 
  schlaff Marlow 354
  schlammig  Olympia 111  under "zappeln"
@@ -453,6 +457,7 @@ Wagenschlag  Marlow 407
  Wie man's nimmt  Marlow 213
 wimpel Olympia 45
  wiehern Marlow 100
+ Wurzelbürste  Olympia 221
  zerreisen (?) Der nasse fisch 473
  ziegel Dachziegel Marlow 256
  zucken  Der nasse Fisch 471

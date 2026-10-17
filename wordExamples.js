@@ -14182,19 +14182,30 @@ begrapschen: [
     'Er (<i>Rath</i>) selbst war es gewesen, der ihr Hose und Strümpfe ausgezogen hatte. Und noch mehr.... Mein Gott, hatte er hier gewütet! Abwechselnd hatten sie aus der Flasche getrunken, sich zwischendurch geküsst und <b>begrapscht</b> und ausgezogen. Sie (<i>die wilde Hilde</i>) hatte gegiggelt und gekichert... (<i>Märzgefallene</i>, 73)',
 ],
 beherzt: [
-    '<b>beherzt</b>: courageous, brave, spirited'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beherzt"target="target1">beherzt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/beherzt"target="target2">beherzt</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/beherzt"target="target3">beherzt</a>&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/beherzt"target="target4">beherzt</a>',
+    '<b>beherzt</b>: courageous, brave, spirited, determined'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/beherzt"target="target1">beherzt</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/beherzt"target="target2">beherzt</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/beherzt"target="target3">beherzt</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/beherzt"target="target4">beherzt</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Vor zehn Jahren, nach dem Krieg, auch da war es drunter und drüber gegangen auf Deutschlands Straßen. Seidem hatte er (<i>Rath</i>) so etwas nicht mehr gesehen. Die Kollegen unten auf dem Platz gingen <b>beherzt</b> zur Sache. Nicht nur mit Feuerwehrschläuchen. Er hätte in diesem Moment jedenfalls nicht in Zivil auf dem Alex stehen wollen. (<i>Der nasse Fisch</i>, 56)',
     'Doch in der Chefetage waren sie schon dabei, fleißig an der Legende vom kommunistischen Umsturzversuch zu stricken, den die Polizei mit ihrem <b>beherzten</b> Einsatz verhindert habe. (<i>Der nasse Fisch</i>, 157)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Nach der Ohrfeige lag ein Ausdruck der Überraschung in seinem (<i>Victor Meisners</i>) Gesicht, wahrscheinlich gespielte, vielleicht auch echte, weil sie (<i>Betty Winter</i>) seine Wange wirklich getroffen hatte. Oder hatte er in diesem Moment schon im Augenwinkel den herabpolternden Scheinwerfer entdeckt und war deswegen instinktiv zurückgewichen?.. Kein Wunder, dass Meisner sich dann Vorwürfe machte: Hätte er seine Frau mit einer anderen Reaktion noch retten, sie mit einem <b>beherzten</b> Sprung aus der Gefahrenzone bringen können? (<i>Der stumme Tod</i>, 167)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die SA kam also zu spät und hatte versucht, die kleine Hilde (<i>Tochter von Berhard Weiß</i>) als Geisel zu nehmen, um an ihren Vater heranzukommen. Nur mit Mühe und Not und dem Einschreiten eines <b>beherzten</b> Pensionsgastes, eines Juristen, habe das verhindert werden können, sagte Adolf Weiß. (<i>Märzgefallene</i>, 281)',
     'Vor dem Schaufenster hatten sich zwei Braunhemden aufgestellt. Einer rollte ein Plakat aus und machte Anstalten, es an die Eingangstür zu kleistern. Eva Heinen drehte sich um zu Rath. "Da haben Sie den Grund für alles, was ich Ihnen gerade erzählt habe", sagte sie. Dann ging sie hinaus vor die Tür, forsch und <b>beherzt</b>, ohne Scheu vor den braunen Uniformen. (<i>Märzgefallene</i>, 457)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>der Hauptwachtmeister</i>: "Ich gebe nur wieder, was der Zeuge gesagt hat. Sagt, es habe nicht viel gefehlt, und er würde tot auf dem Gehweg liegen. Sagt, er habe sich nur mit einem <b>beherzten</b> Sprung retten können." (<i>Marlow</i>, 28)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Mit einem <b>beherzten</b> Satz sprang sie (<i>Charly</i>) in den wartenden Aufzug, kurz bevor der Hoteldiener den Kofferwagen dort hineinschob. (<i>Olympia</i>, 224)',
 ],
 beipflichten: [
     'jmdm. <b>beipflichten</b>: agree with so., concur, assent'+
@@ -16903,12 +16914,22 @@ Gerümpel: [
 geschliffen: [
     '<b>geschliffen</b>: polished, refined'+
     '<br>die <b>Geschliffenheit</b>,-<b>en</b>: refinement, polish'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geschliffen_perfekt_scharf"target="target1">geschliffen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/geschliffen"target="target2">geschliffen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschliffen"target="target3">geschliffen</a> &nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschliffen"target="target4">geschliffen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/geschliffen_perfekt_scharf"target="target1">geschliffen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/geschliffen"target="target2">geschliffen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/geschliffen"target="target3">geschliffen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geschliffen"target="target4">geschliffen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die Eintänzer im Hotel Eden waren ein bunt zusammengewürfelter Haufen, das Einzige, was sie alle miteinander gemain hatten, waren <b>geschliffene</b> Manieren und ein mehr oder weniger angenehmes Äußeres. (<i>Märzgefallene</i>, 313)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Rath</i>: "Kronbergs Leute haben ebenfalls Splitter gefunden", sagte Rath. "An der Bordsteinkante. Könnte also wirklich von der Tatwaffe stammen. Auf was für einen Gegenstand tippen Sie?" Karthaus überlegte. "Eine Art Keule, würde ich sagen. Fein <b>geschliffen</b>, kein grobes Holz. Dann hätte ich größere Splitter gefunden. (<i>Lunapark</i>, 109)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Dann wandte er (<i>Tornow</i>) sich der Dame zu, die mit ihm eingetroffen war, und geleitete sie (<i>Olympia Morgan</i>) zum Empfangstresen, mit einer galanten Handbewegung, die zeigte das er <b>geschliffene</b> Manieren besaß. (<i>Olympia</i>, 223)',
+    'Ihr (<i>Charlys</i>) Verstand weigerte sich zu verstehen, weil es eigentlich gar nicht sein konnte. Doch dann verstand sie, und mit dem Erkennen kam die Panik, genauso unerwartet wie damals, als sie in diesem Mann mit den <b>geschliffenen</b> Manieren und den gebügelten Uniformen, der seinerzeit noch beide Arme besaß, einen Polizistenmörder erkannt hatte. (<i>Olympia</i>, 224)',
 ],
 Ganove: [
     'der <b>Ganove</b>,-<b>n</b>: crook, hudlum, racketeer'+
@@ -16937,7 +16958,7 @@ Ganove: [
     'Böhm hatte ihn (<i>Rath</i>) nach Moabit bestellt, in eine Kneipe unweit des Zellengefängnisses, in einer unwirtlichen Gegend zwischen Bahngleisen, Knast und Kanal, und als Rath dort eintraf.. kam es ihm eher vor, sein früherer Chef plane ein konspiratives Treffen als ein Gespräch unter ehemaligen Kollegen. Die reinste <b>Ganoven</b>kaschemme. (<i>Marlow</i>, 200)',
     'Ob Göring den schmierigen <b>Ganoven</b> und Ringbruder Hugo Lenz gekannt hatte? Rath vermochte sich das einfach nicht vorzustellen. Die Nazis und Ringvereine, das passte nicht zusammen... (<i>Marlow</i>, 311)',
 ],
-// (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Gebälk, Balken': [
     'der <b>Balken</b>,-: beam, girder, joist, bar'+
     '<br>das <b>Gebälk</b>,-<b>e</b>: timberwork, beams, rafters'+
@@ -19792,6 +19813,7 @@ knurren: [
     'Er (<i>Fritze</i>) fühlte sich nicht ganz wohl in seiner Haut, denn eigentlich sollte er bei den anderen sein, beim gemeinsamen Essen... Heute jedoch hatte Fritze sich unerlaubt entfernt und kam sich vor wie ein Deserteur. Sein <b>knurrender</b> Magen aber war ein Preis, den er für ein Autogramm von (<i>Jesse</i>) Owens zu zahlen bereit war. (<i>Olympia</i>, 19)',
     '<i>Gräf</i>: ".. Über allem stehen Volk und Reich!" "Und ganz oben steht der Führer...", <b>knurrte</b> Rath. (<i>Olympia</i>, 29-30)',
     '"Schön, ich habe also Nachtdienst", <b>knurrte</b> Rath. "Und warum haben Sie mir das nicht schon heute Morgen gesagt?" (<i>Olympia</i>, 73)',
+    'Sie (<i>Charly</i>) hatte keine Mittagspause gehabt, ihr Magen <b>knurrte</b> trotz des Käsebrotes. Morgen würde sie sich besser vorbereiten und ein paar Stullen einpacken. (<i>Olympia</i>, 223)',
 ],
 köpfen: [
     '<b>köpfen</b>: behead; open (eine Flasche)'+
@@ -24142,6 +24164,7 @@ Stulle: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     '"Willste denn nüscht essen?", fragte das Mädchen (<i>Marie</i>). "Hab nix dabei." Charly zuckte die Achseln. "Ging heute morgen alles so schnell." "Wenn du willst, kannste eene von meinen <b>Stullen</b> haben." (<i>Olympia</i>, 209)',
     'Kaum hatte Marie ihre <b>Stulle</b> vertilgt, in einem beeindruckenden Tempo, stand sie auch schon wieder auf. "Wir müssen. Sonst gibt\'s Ärger mit ollen Geinitz, und wir können uns die nächste Pause in die Haare schmieren." (<i>Olympia</i>, 209)',
+    'Sie (<i>Charly</i>) hatte keine Mittagspause gehabt, ihr Magen knurrte trotz des Käsebrotes. Morgen würde sie sich besser vorbereiten und ein paar <b>Stullen</b> einpacken. (<i>Olympia</i>, 223)',
 ],
 schnieke: [
     '<b>schnieke</b>: stylish, snazzy, swish'+
@@ -26372,6 +26395,7 @@ Tresen: [
     'Rath drückte seine Zigarette aus, obwohl sie erst halb geraucht war, doch an irgendetwas musste er seine Wut auslassen. Das alles klang nach einem völlig verkorksten Abend. "Aber du zahlst", sagte er. "Es geht hier um die Staatssicherheit", sagte Gräf und legte ein paar Münzen auf den <b>Tresen</b>. (<i>Olympia</i>, 29)',
     'Der Uniformierte schob ein Ausweispapier über den <b>Tresen</b>, das seinem Träger Zugang zu sämtlichen olympischen Stätten und dem Olympischen Dorf gewährte. (<i>Olympia</i>, 52)',
     'Die rote Flagge von Britisch-Indien mit dem Union Jack und dem Sonnensymbol hing ziemlich genau in der Mitte der Schalterreihe auf der dem Dorf zugewandten Seite. Auf dem hölzernen <b>Tresen</b> darunter standen ein Blumentopf und ein Aschenbecher. Und hinter dem <b>Tresen</b> ein Offizier mit Halbglatze (<i>receding hairline</i>), der Rath freundlich anlächelte. (<i>Olympia</i>, 198)',
+    'Dann wandte er (<i>Tornow</i>) sich der Dame zu, die mit ihm eingetroffen war, und geleitete sie (<i>Olympia Morgan</i>) zum Empfangs<b>tresen</b>, mit einer galanten Handbewegung, die zeigte das er geschliffene Manieren besaß. (<i>Olympia</i>, 223)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde  Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 triezen: [
@@ -28355,19 +28379,29 @@ Wade: [
 wähnen: [
     '<b>wähnen</b>: believe (wrongly); imagine, assume'+
     '<br><b>sich wähnen</b>: imagine/consider oneself to be sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/waehnen"target="target1">wähnen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/w%C3%A4hnen"target="target2">wähnen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=w%C3%A4hnen&id=verb%3Awa3hnen"target="target3">wähnen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/wahnen"target="target4">wähnen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/waehnen"target="target1">wähnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/w%C3%A4hnen"target="target2">wähnen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=w%C3%A4hnen&id=verb%3Awa3hnen"target="target3">wähnen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/wahnen"target="target4">wähnen</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Der rothaarige Monteur schien zu glauben, dass der Schichtleiter wieder auf ihn zeigte. Rath sah es dem Mann von hier oben an, dass er immer nervöser wurde. Wahrscheinlich <b>wähnte</b> er <b>sich</b> kurz vor der Entlassung. (<i>Der stumme Tod</i>, 256)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Rath</i>: "Und warum erzählen Sie mir das alles?..." Roddeck guckte pikiert. "Ich erzähle Ihnen das, weil ich fürchte, dass die Ankündigung meines Romans jemanden aufgeschreckt hat. Jemanden, den ich längst tot <b>wähnte</b>." (<i>Märzgefallene</i>, 132-133)',
     '<i>Rath</i>: "...Und noch nervöser ist er (<i>Roddeck</i>), weil nun, nach dem vermeintlichen Tod des Alberich-Mörders (<i>Engel</i>) der Polizeischutz für ihn wegfällt. Und er <b>sich</b> nun wirklich in Gefahr <b>wähnt</b>, weil er davon ausgeht, dass Benjamin Engel lebt...." (<i>Märzgefallene</i>, 503)',
     'Er (<i>Grimberg</i>) überlegte, wann er das letzte Mal einen Anruf aus Berlin erhalten hatte. Das musste der Tag gewesen sein, als Roddeck sich ins Hemd gemacht hatte aus Angst vor diesem Berliner Kommissar und <b>sich</b> selbst unter Mordverdacht <b>wähnte</b>, nur weil der Kommissar nach einem Alibi gefragt hatte. (<i>Märzgefallene</i>, 550)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Zusammen mit Charly ging er (<i>Böhm</i>) die Aufträge durch.., um zu überlegen, wie sie die Arbeit am besten aufteilten. Es war nicht viel. Eine Vermisstensache, bei der die Polizei bislang erfolglos geblieben war,... und - natürlich - mal wieder eine Eifersuchtsgeschichte; diesmal zur Abwechslung eine Frau, die ihren Mann auf Abwegen <b>wähnte</b>. (<i>Marlow</i>, 213)',
     'Als er (<i>Rath</i>) kurz aufblickte, entdeckte er eine grüne Uniform, die über den Platz spazierte. Hauptwachtmeister Draxler. Der ihn längst in Nürnberg <b>wähnte</b>. (<i>Marlow</i>, 277)',
     'Was, wenn die beiden ihn (<i>Rath</i>) erspähten?  Gerlinde Seitz sah in ihm den SS-Scharführer Wegener, Daxler den Berliner Kollegen Rath, den er überdies in Nürnberg <b>wähnte</b>. (<i>Marlow</i>, 277)',
     '"Schon gut, Böhm." Gennat schien es für angebracht zu halten, den hilflos herumstammelnden Oberkommissar a.D. endlich zu erlösen. "Ich mache Ihnen ja nicht wirklich einen Vorworf. Es ist schlimm, wenn man <b>sich</b> allein auf weitere Flur <b>wähnt</b>. Wenn man einen Verdacht hat, denselben aber nicht beweisen kann." (<i>Marlow</i>, 464)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    'Der Mann in der SS-Uniform, der sich auf dem Parkett des Grandhotels so überaus weltmännisch bewegte, war Sebastian Tornow. Der Polizist, den sie (<i>Charly</i>) vor Jahren beim Mord an einem Kollegen beobachtet hatte, der Mann, der sie enführt hatte, der sich mit Hilfe von Komplizen aus der Untersuchungshaft hatte befreien und ins Ausland absetzen können. Den sie auch immer noch dort <b>wähnte</b>. Doch er war wieder in Berlin. (<i>Olympia</i>, 224)',
 ],
 Wappen: [
     'das <b>Wappen</b>,-: coat of arms, crest, emblem'+

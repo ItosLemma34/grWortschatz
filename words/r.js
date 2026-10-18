@@ -70,7 +70,7 @@ const r = [
 'rumeiern, herumeiern', // duplicated 
 'Rummel', // Rummel: 
 'rumoren',  // rumoren:
-'rumpeln', // rumpeln: 
+'rumpeln, entlang-, vorbei-',  
 'rümpfen', // rümpfen: 
 'rumsen',  // rumsen: 
 'rundmachen',  // rundmachen:

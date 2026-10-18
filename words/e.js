@@ -55,7 +55,7 @@ const e = [
 'einverleiben', // einverleiben: 
 'einweisen',  // einweisen:
 'eitern',  // eitern:
-'ekeln, Ekel, eklig, ekelhaft',  
+'Ekel, ekeln, an-, hinaus-, eklig, ekelhaft',  
 'Empore',     // Empore:  
 'Engerling',  // Engerling: 
 'entbieten',  // entbieten:  

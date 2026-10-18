@@ -9,7 +9,7 @@ const g = [
 'Gebälk, Balken', //  duplicated  
 'Gebell', // Gebell:   duplicate with "bellen" if found
 'Gebet (ins G. nehmen)',  // duplicated
-'Gebrüll, brüllen', // duplicated
+'Gebrüll, brüllen, an-, los-', // duplicated
 'Gebüsch, Busch',  //  duplicated 
 'gediegen',  // gediegen: 
 'Gedränge',  // Gedränge: 
@@ -75,6 +75,7 @@ const g = [
 'Geschwulst',  // Geschwulst:
 'geschwungen', // geschwungen:
 'Geseier',  // Geseier:
+'gesellen',  // gesellen:
 'Gesinde',  // Gesinde:   
 'Gesindel',    // Gesindel:  
 'gesittet',    // gesittet:  

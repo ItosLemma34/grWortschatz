@@ -127,89 +127,55 @@ verknacken: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Rönnberg schaute, als wolle er Fritze am liebsten auf der Stelle zu einem Strafdienst <b>verknacken</b>. (<i>Olympia</i>, 193)',
 ],
-// FINISH
 'herumeiern, rumeiern': [  
-    '<b>herumeiern</b>: pussyfoot around, beat around the bush'+
+    '<b>herumeiern</b> = <b>rumeiern</b>: beat around the bush, waffle, pussyfoot around'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/herumeiern"target="target1">herumeiern</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/herumeiern"target="target2">herumeiern</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.wordreference.com/deen/herumeiern"target="target3">herumeiern</a>&nbsp;&nbsp;'+
         '<a href="https://context.reverso.net/translation/german-english/herumeiern"target="target4">herumeiern</a>',
-    // Der nasse Fisch
-    /*
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-    */
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Rönnberg zu Fritze</i>: "Na, du tust immer so komisch und <b>eierst rum</b>, wenn du über den Toten redest. Als hättest du ein schlechtes Gewissen. Und die Kripo befragt ja keinen ohne Grund." (<i>Olympia</i>, 192)',
 ],
 'rumeiern, herumeiern': [  
-    '<b>herumeiern</b>: pussyfoot around, beat around the bush'+
+    '<b>herumeiern</b> = <b>rumeiern</b>: beat around the bush, waffle, pussyfoot around'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/herumeiern"target="target1">herumeiern</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/herumeiern"target="target2">herumeiern</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.wordreference.com/deen/herumeiern"target="target3">herumeiern</a>&nbsp;&nbsp;'+
         '<a href="https://context.reverso.net/translation/german-english/herumeiern"target="target4">herumeiern</a>',
-    // Der nasse Fisch
-    /*
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-    */
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Rönnberg zu Fritze</i>: "Na, du tust immer so komisch und <b>eierst rum</b>, wenn du über den Toten redest. Als hättest du ein schlechtes Gewissen. Und die Kripo befragt ja keinen ohne Grund." (<i>Olympia</i>, 192)',
 ],
-// FINISH:
 gesellen: [  
     '<b>sich</b> zu jmdm. <b>gesellen</b>: join so.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">gesellen</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">gesellen</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/gesellen"target="target1">gesellen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/gesellen"target="target2">gesellen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">gesellen</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">gesellen</a>',
+        '<a href="https://en.langenscheidt.com/german-english/gesellen"target="target3">gesellen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/gesellen+sich"target="target4">gesellen</a>',
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     'Mit der Autorität von Kommissar Lehmann, der im Hause gut bekannt zu sein schien, kamen sie an allen Torwächtern, die sich ihnen in den Weg stellten, ohne Probleme vorbei. Ein Weißkittel, etwa in Raths Alter, <b>gesellte sich</b> ungefragt zu ihnen. (<i>Märzgefallene</i>, 267)',
     'Erst zum Abendbrot <b>gesellte sich</b> auch Engelbert Rath zu ihnen. Er wirkte übermüdet und gleichzeitig aufgekratzt. (<i>Märzgefallene</i>, 310)',
-
-    // FINISH:
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
+    'Guido hatte <b>sich</b> irgendwann zu ihnen (<i>Charly und Husen</i>) <b>gesellt</b>, sie hatte über Husens Fall gesprochen und ob Charly sich nicht darum kümmern wolle nächste Woche. (<i>Lunapark</i>, 163)',	
+    'Als sie (<i>Gereon und Kirie</i>) den Monbijouplatz erreichten, saß Andreas Lange bereits auf einer Bank.. und las Zeitung. Der Kommissar z.A. stand auf, als er Herrn und Hund erblickte, und <b>gesellte sich</b> zu ihnen. (<i>Lunapark</i>, 343)',
+    '<i>Rath</i>: ".. Warum erschießen Sie mich nicht einfach? Sie haben doch meine Waffe.." <i>Juretzka</i>: "Erstens ist das viel zu laut. Dann rufen die Nachbarn wieder die Polente. Und zweitens... zweitens macht es mir so viel mehr Spaß. Fragen Sie die anderen, wenn Sie die in der Hölle treffen. Werden <b>sich</b> noch ein paar zu Ihnen <b>gesellen</b>." (<i>Lunapark</i>, 528)',
+    'So wütend hatte Osterberg seine Frau nicht mehr erlebt, seit er vor vielen Jahren einmal viel zu spät von einer Geschäftsreise in Berlin heimgekehrt war, weil Rosenthal, der alte Schwerenöter, ihn zur Feier eines Geschäftsabschlusses noch in ein Etablissement hatte schleppen müssen, wo <b>sich</b> dann diese hübsche Rothaarige zu ihnen <b>gesellt</b>... (<i>Lunapark</i>, 555)',
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-//gesellen  gesellt sich, gesellte sich
+    'Einer der Uniformierten, ein Obersturmbannführer, dessen Name Marlow gerade nicht einfiel, <b>gesellte sich</b> mit seinem Sektglas zu ihm. (<i>Marlow</i>, 244)',
+    'Du (<i>Marlow</i>) suchst dir einen Platz weitab von den anderen, weitab von der Truppe, weitab von den Offizieren. Beobachtest aus der Ferne, wie <b>sich</b> die fremden Soldaten zu deinen Kameraden <b>gesellen</b>... (<i>Marlow</i>, 351)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Ein paar Ehrendienstler hatten sich in der Kampfrichterzone am Rand der Aschenbahn niedergelassen und machten dort Pause. Fritze <b>gesellte sich</b> zu ihnen. (<i>Olympia</i>, 188)',
     'Schröder schien beeindruckt. Er hielt tatsächlich den Mund. Die drei (<i>Fritze, Schröder, Fürstner</i>) <b>gesellten sich</b> zu den anderen Ehrendienstjungen, die gerade Pause machten. (<i>Olympia</i>, 192)',
 ],
 // FINISH:
@@ -7624,12 +7590,19 @@ Gemetzel: [
 ],
 Schwerenöter: [
     'der <b>Schwerenöter</b>,-: charmer, womanizer, philanderer'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schwerenoeter"target="target1">Schwerenöter</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schweren%C3%B6ter"target="target2">Schwerenöter</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schwerenoeter"target="target3">Schwerenöter</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schweren%C3%B6ter&id=substantiv%3ASchwereno3ter"target="target4">Schwerenöter</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Schwerenoeter"target="target1">Schwerenöter</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Schweren%C3%B6ter"target="target2">Schwerenöter</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schwerenoeter"target="target3">Schwerenöter</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Schweren%C3%B6ter&id=substantiv%3ASchwereno3ter"target="target4">Schwerenöter</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Rath</i>: "Wo ist denn unsere Hausherrin?" <i>Weinert</i>: "Die? Müsste gleich wieder hier sein.. Vielleicht könnt ihr ja zusammen Abendrot essen - wenn sie dir verziehen hat, du <b>Schwerenöter</b>! Einfach Damenbesuch zu empfangen! Tss tss!" (<i>Der nasse Fisch</i>, 444)',
+    // Der Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'So wütend hatte Osterberg seine Frau nicht mehr erlebt, seit er vor vielen Jahren einmal viel zu spät von einer Geschäftsreise in Berlin heimgekehrt war, weil Rosenthal, der alte <b>Schwerenöter</b>, ihn zur Feier eines Geschäftsabschlusses noch in ein Etablissement hatte schleppen müssen, wo sich dann diese hübsche Rothaarige zu ihnen gesellt... (<i>Lunapark</i>, 555)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Greta</i>: "Überstunden, sagst du? Und das glaubst du ihm?" "Warum sollte ich ihm das nicht glauben?", sagte Charly. ".. Manchmal kann der liebe Gereon auch ein richtiger Streber sein." "Und manchmal auch ein <b>Schwerenöter</b>." (<i>Marlow</i>, 194)',
 ],
@@ -8447,31 +8420,30 @@ abspecken: [
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Um Jänickes Mörder kümmmerte sich jetzt Gennat persönlich. Die Mordkommission <i>Bülowplatz</i> war personell deutlich <b>abgespeckt</b> worden. Wobei <b>abspecken</b> vielleicht nicht der richtige Ausdruck war, wenn der Budda die Ermittlungen leitete. Gennat brachte mindestens drei Zentner auf die Waage. (<i>Der nasse Fisch</i>, 371)',
 ],
-'ekeln, Ekel, eklig, ekelhaft': [
-    '<br>(<b>ekeln</b>: appall, disgust, gross out'+
-    '<br><b>ekeln</b>: <i>vertreiben: jmdn. aus dem Haus ekeln</i>: hound sb. out of the house'+
-    '<br><i>trennbare Präfixe</i>: <b>an-, hinaus-</b>'+  // xxx
-    '<br><b>anekeln</b>: appall, disgust, gross out, nauseate'+
-    '<br><b>hinausekeln</b>: freeze/drive out of (eg, by being objectionable)'+
-    '<br>der <b>Ekel</b>: disgust, revulsion; nausea'+
+'Ekel, ekeln, an-, hinaus-, eklig, ekelhaft': [
+    'der <b>Ekel</b>: disgust, revulsion; nausea'+
     '<br>das <b>Ekel</b>,-: nasty person, bastard; pest, nuisance'+
+    '<br><b>ekeln</b>: appall, disgust, gross out'+
+    '<br><b>ekeln</b>: <i>vertreiben: jmdn. aus dem Haus ekeln</i>: hound sb. out of the house'+
+    '<br><b>anekeln</b>: appall, disgust, gross out, nauseate'+
+    '<br><b>hinausekeln</b>: drive out of (eg, due to being objectionable)'+
     '<br><b>eklig</b>: disgusting, nasty, yucky, gross'+
     '<br><b>ekelhaft</b>: repulsive, revolting'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href="https://www.duden.de/rechtschreibung/ekeln"target="target1">ekeln</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/anekeln"target="target2">anekeln</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/hinausekeln"target="target3">hinausanekeln</a>&nbsp;&nbsp;'+
-        '<a href="https://www.duden.de/rechtschreibung/Ekel_Gefuehl"target="target4">der Ekel</a>&nbsp;&nbsp;'+
-        '<a href="https://www.duden.de/rechtschreibung/Ekel_Person"target="target5">das Ekel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Ekel_Gefuehl"target="target1">der Ekel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Ekel_Person"target="target2">das Ekel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/ekeln"target="target3">ekeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anekeln"target="target4">anekeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/hinausekeln"target="target5">hinausanekeln</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/eklig"target="target6">eklig</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/ekelhaft"target="target7">ekelhaft</a>&nbsp;&nbsp;'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://www.wordreference.com/deen/ekeln"target="target8">ekeln</a>&nbsp;&nbsp;'+
-        '<a href="https://en.langenscheidt.com/german-english/anekeln"target="target9">anekeln</a>&nbsp;&nbsp;'+
-        '<a href="https://www.collinsdictionary.com/dictionary/german-english/hinausekeln"target="target10">hinausanekeln</a>&nbsp;&nbsp;'+
-        '<a href="https://www.collinsdictionary.com/dictionary/german-english/ekel"target="target11">der Ekel</a>&nbsp;&nbsp;'+
-        '<a href="https://en.langenscheidt.com/german-english/ekel"target="target12">das Ekel</a>&nbsp;&nbsp;'+
-        '<a href="https://www.verbformen.com/?w=eklig&id=adjektiv%3Aeklig%23eklig"target="target13">eklig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/ekel"target="target8">der Ekel</a>&nbsp;&nbsp;'+
+       '<a href="https://en.langenscheidt.com/german-english/ekel"target="target9">das Ekel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/ekeln"target="target10">ekeln</a>&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/anekeln"target="target11">anekeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/hinausekeln"target="target12">hinausanekeln</a>&nbsp;&nbsp;'+
+         '<a href="https://www.verbformen.com/?w=eklig&id=adjektiv%3Aeklig%23eklig"target="target13">eklig</a>&nbsp;&nbsp;'+
         '<a href="https://www.verbformen.com/?w=ekelhaft&id=adjektiv%3Aekelhaft%23ekelhaft"target="target14">ekelhaft</a>&nbsp;&nbsp;',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
@@ -16184,16 +16156,21 @@ grämen: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Jedenfalls <b>grämte</b> Weinert <b>sich</b> nicht mehr über seine langsame Arbeitsweise, inzwischen war er sogar froh, dass <i>Abblende</i> - so der Arbeitstitel - nicht schon erschienen war, denn in diesem Fall, da war er sich sicher, wäre sein erster Roman.. heute auch zum Futter für den Scheiterhaufen geworden. (<i>Märzgefallene</i>, 568)',
 ],
-'Gebrüll, brüllen': [
+'Gebrüll, brüllen, an-, los-': [
     'das <b>Gebrüll</b>: roaring, shouting'+
     '<br><b>brüllen</b>: yell, bellow, roar'+
-    '<br><i>trennbare Präfixe</i>: <b>an-</b>, <b>los-</b>'+ // xxx
+    '<br><b>anbrüllen</b>: yell/scream/roar at, bawl so. out'+
+    '<br><b>losbrüllen</b>: start shouting'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Gebruell"target="target1">Gebrüll</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/br%C3%BCllen"target="target2">brüllen</a>'+
+        '<a href="https://www.dwds.de/wb/br%C3%BCllen"target="target2">brüllen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anbr%C3%BCllen"target="target3">anbrüllen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/losbr%C3%BCllen"target="target4">losbrüllen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gebrull?q=Gebr%C3%BCll"target="target3">Gebrüll</a>&nbsp;&nbsp;'+
-        '<a href="https://www.collinsdictionary.com/dictionary/german-english/brüllen"target="target4">brüllen</a>',
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gebrull?q=Gebr%C3%BCll"target="target5">Gebrüll</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/brüllen"target="target6">brüllen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anbrullen"target="target7">anbrüllen</a>&nbsp;&nbsp;</a>'+
+        '<a href="https://www.wordreference.com/deen/losbr%C3%BCllen"target="target8">losbrüllen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'In der Dunkelheit geriet jedes kleinste Geräusch zu einem Höllenlärm, jedes Flüstern wuchs zu einem <b>Brüllen</b> heran, die Stille selbst lärmte in seinen Ohren. Ein immerwährendes Dröhnen und Rauschen. Der Schmerz machte ihn halb wahsinnig, er musste sich zusammenreißen. (<i>Der nasse Fisch</i>, 9)',
@@ -16212,7 +16189,7 @@ grämen: [
     'Er setzte seinen Hut auf und atmete ein paar Mal hektisch ein und aus bis sein Gesicht rot angelaufen war, erst dann legte er los. "Eine Unverschämtheit ist das", <b>brüllte</b> Kohn und riss die Tür auf. "Eine Unverschämtheit!.. Wie Sie meinen Mandanten behandeln, Herr Kommissar, als wäre er ein Verbrecher!" (<i>Märzgefallene</i>, 258)',
     'Levetzow (<i>Nazi Polizeipräsident</i>) konnte nicht nur <b>brüllen</b>, er konnte auch süffisant. "Ah, Kommissar Rath", flötete er gleich zur Begrüßung, "schön, dass Sie hier sind. Ich bräuchte nur eine klitzekleine Information zu Ihrem Fall." (<i>Märzgefallene</i>, 356-57)',
     '"Liefern Sie mir doch bitte keine fadenscheinigen Ausflüchte!" Wenn er es für nötig hielt, konnte Magnus von Levetzow durchaus <b>brüllen</b>. Und mit der Faust auf den Tisch schlagen. (<i>Märzgefallene</i>, 357)',
-    '<i>Levetzow</i>: "Ich habe Sie (<i>Rath</i>) vor einer Woche gebeten, mich regelmäßig über neue Entwicklungen in der Sache Engel zu unterrichten. Warum habe ich da bislang nichts gehört?" <i>Rath</i>: "Weil sich keine neuen Entwicklungen ergeben haben, Herr Polizeipräsident." "Sehen Sie, genau das ist Ihr Problem", <b>brüllte</b> Levetzow unvermittelt los und schlug mit der Faust auf den Tisch. (<i>Märzgefallene</i>, 420)',
+    '<i>Levetzow</i>: "Ich habe Sie (<i>Rath</i>) vor einer Woche gebeten, mich regelmäßig über neue Entwicklungen in der Sache Engel zu unterrichten. Warum habe ich da bislang nichts gehört?" <i>Rath</i>: "Weil sich keine neuen Entwicklungen ergeben haben, Herr Polizeipräsident." "Sehen Sie, genau das ist Ihr Problem", <b>brüllte</b> Levetzow unvermittelt <b>los</b> und schlug mit der Faust auf den Tisch. (<i>Märzgefallene</i>, 420)',
     '"Tür zu!", <b>brüllte</b> Rath den beiden (<i>Gräf und Steinke</i>) hinterher, und dem Kommissaranwärter wäre - beim Versuch, dieser Aufforderung Folge zu leisten - der wacklige Aktenstapel, den er mit beiden Armen vor der Brust hielt, beinahe zu Boden gefallen. (<i>Märzgefallene</i>, 423)',
     'Berthold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche <b>Gebrüll</b> von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die tumben Reden. (<i>Märzgefallene</i>, 567)',
     // Lunapark
@@ -16232,16 +16209,21 @@ grämen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Rath</i>) musste daran denken, wie er vor einem Jahr in Nürnberg im Stadion der Hitlerjugend gewesen war, da war ihm vor lauter Sieg-Heil-<b>Gebrülle</b> tatsächlich schlecht geworden, und er hatte sich verdünnisiert, um nicht mitmachen zu müssen. (<i>Olympia</i>, 158)',
 ],
-'brüllen, Gebrüll': [
+'brüllen, an-, los-, Gebrüll': [
     'das <b>Gebrüll</b>: roaring, shouting'+
     '<br><b>brüllen</b>: yell, bellow, roar'+
-    '<br><i>trennbare Präfixe</i>: <b>an-</b>, <b>los-</b>'+  // xxx
+    '<br><b>anbrüllen</b>: yell/scream/roar at, bawl so. out'+
+    '<br><b>losbrüllen</b>: start shouting'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Gebruell"target="target1">Gebrüll</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/br%C3%BCllen"target="target2">brüllen</a>'+
+        '<a href="https://www.dwds.de/wb/br%C3%BCllen"target="target2">brüllen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anbr%C3%BCllen"target="target3">anbrüllen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/losbr%C3%BCllen"target="target4">losbrüllen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gebrull?q=Gebr%C3%BCll"target="target3">Gebrüll</a>&nbsp;&nbsp;'+
-        '<a href="https://www.collinsdictionary.com/dictionary/german-english/brüllen"target="target4">brüllen</a>',
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/gebrull?q=Gebr%C3%BCll"target="target5">Gebrüll</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/brüllen"target="target6">brüllen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anbrullen"target="target7">anbrüllen</a>&nbsp;&nbsp;</a>'+
+        '<a href="https://www.wordreference.com/deen/losbr%C3%BCllen"target="target8">losbrüllen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'In der Dunkelheit geriet jedes kleinste Geräusch zu einem Höllenlärm, jedes Flüstern wuchs zu einem <b>Brüllen</b> heran, die Stille selbst lärmte in seinen Ohren. Ein immerwährendes Dröhnen und Rauschen. Der Schmerz machte ihn halb wahsinnig, er musste sich zusammenreißen. (<i>Der nasse Fisch</i>, 9)',
@@ -16260,7 +16242,7 @@ grämen: [
     'Er setzte seinen Hut auf und atmete ein paar Mal hektisch ein und aus bis sein Gesicht rot angelaufen war, erst dann legte er los. "Eine Unverschämtheit ist das", <b>brüllte</b> Kohn und riss die Tür auf. "Eine Unverschämtheit!.. Wie Sie meinen Mandanten behandeln, Herr Kommissar, als wäre er ein Verbrecher!" (<i>Märzgefallene</i>, 258)',
     'Levetzow (<i>Nazi Polizeipräsident</i>) konnte nicht nur <b>brüllen</b>, er konnte auch süffisant. "Ah, Kommissar Rath", flötete er gleich zur Begrüßung, "schön, dass Sie hier sind. Ich bräuchte nur eine klitzekleine Information zu Ihrem Fall." (<i>Märzgefallene</i>, 356-57)',
     '"Liefern Sie mir doch bitte keine fadenscheinigen Ausflüchte!" Wenn er es für nötig hielt, konnte Magnus von Levetzow durchaus <b>brüllen</b>. Und mit der Faust auf den Tisch schlagen. (<i>Märzgefallene</i>, 357)',
-    '<i>Levetzow</i>: "Ich habe Sie (<i>Rath</i>) vor einer Woche gebeten, mich regelmäßig über neue Entwicklungen in der Sache Engel zu unterrichten. Warum habe ich da bislang nichts gehört?" <i>Rath</i>: "Weil sich keine neuen Entwicklungen ergeben haben, Herr Polizeipräsident." "Sehen Sie, genau das ist Ihr Problem", <b>brüllte</b> Levetzow unvermittelt los und schlug mit der Faust auf den Tisch. (<i>Märzgefallene</i>, 420)',
+    '<i>Levetzow</i>: "Ich habe Sie (<i>Rath</i>) vor einer Woche gebeten, mich regelmäßig über neue Entwicklungen in der Sache Engel zu unterrichten. Warum habe ich da bislang nichts gehört?" <i>Rath</i>: "Weil sich keine neuen Entwicklungen ergeben haben, Herr Polizeipräsident." "Sehen Sie, genau das ist Ihr Problem", <b>brüllte</b> Levetzow unvermittelt <b>los</b> und schlug mit der Faust auf den Tisch. (<i>Märzgefallene</i>, 420)',
     '"Tür zu!", <b>brüllte</b> Rath den beiden (<i>Gräf und Steinke</i>) hinterher, und dem Kommissaranwärter wäre - beim Versuch, dieser Aufforderung Folge zu leisten - der wacklige Aktenstapel, den er mit beiden Armen vor der Brust hielt, beinahe zu Boden gefallen. (<i>Märzgefallene</i>, 423)',
     'Berthold Weinert wollte eigentlich gar nicht hier sein. Schon wieder ein Fackelzug, schon wieder das übliche <b>Gebrüll</b> von <i>Deutschland erwache</i>! Schon wieder die Fahnen und die tumben Reden. (<i>Märzgefallene</i>, 567)',
     // Lunapark
@@ -23102,9 +23084,10 @@ roden: [
     'Wir sprengen Schienen, Brücken und Straßen, wir verseuchen Brunnen und versengen Felder, wir verarbeiten Obstbäume zu Kleinholz und lassen Chausseebäume quer über die Straßen stürzen, ja, wir <b>roden</b> und versengen ganze Wälder. (<i>Märzgefallene</i>, 160)',
 ],
 // (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-rumpeln: [
+'rumpeln, entlang-, vorbei-': [
     '<b>rumpeln</b>: rumble, bump, clatter'+
-    '<br><i>trennbare Präfixe</i>: <b>entlang-, vorbei-</b>'+  // xxx
+    '<br><b>entlangrumpeln</b>: rumble, clatter along'+
+    '<br><b>vorbeirumpeln</b>: rumble, clatter, jolt past'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/rumpeln_ruetteln"target="target1">rumpeln</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/rumpeln"target="target2">rumpeln</a>'+
@@ -25897,10 +25880,9 @@ stibitzen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Gennat</i>: "Und wenn die im Prinz-Albrecht-Palais Schwierigkeiten machen sollten, informieren Sie mich. Dann lassen wir das ganze über den Polizeipräsidenten laufen. Wäre ja noch schöner, wenn wir uns einfach Ermittlungsakten <b>stibitzen</b> lassen..." (<i>Marlow</i>, 114)',
 ],
-'Stiefel, stiefeln': [
+'Stiefel, stiefeln, entgegen-,entlang-,hinüber-,hinunter-,hoch-,los-,vorbei-,zu-': [
     'der <b>Stiefel</b>,-: boot'+
     '<br><b>stiefeln</b>: stride, march'+
-    '<br><i>trennbare Präfixe</i>: <b>entgegen-, entlang-, hinüber-, hinunter-, hoch-, los-, vorbei-, zu-</b>'+ // xxx
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/Stiefel"target="target1">Stiefel</a>&nbsp;&nbsp;'+
         '<a href="https://www.dwds.de/wb/stiefeln"target="target2">stiefeln</a>'+ 
@@ -28765,9 +28747,8 @@ wogen: [
     '"Ich (<i>Gereon</i>) kann verstehen, dass dir (<i>Engelbert</i>) die aktuellen Entwicklungen nicht behagen. Aber mach es nicht mir zum Vorwurf, wenn dein kölscher Klüngel <b>sich</b> gerade <b>in Wohlgefallen auflöst</b>. Hast du wohl auf die falschen Pferde gesetzt. Wer Karriere machen will, darf heute kein Zentrumsbonze sein. Wärst du mal besser Nazi geworden." (<i>Märzgefallene</i>, 85)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-'wühlen': [ 
+'wühlen, durch-, herum-': [ 
     '<b>wühlen</b>: burrow, rummage, dig into something'+
-    '<br><i>trennbare Präfixe</i>: <b>durch-, herum-</b>'+  // xxx
     '<br><b>durchwühlen</b>: rummage around in, work one\'s way through'+
     '<br><b>herumwühlen</b>: snoop/root around in'+
     '<br>Deutsch:&nbsp;&nbsp;'+

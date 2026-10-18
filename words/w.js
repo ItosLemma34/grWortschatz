@@ -60,7 +60,7 @@ const w = [
 'wringen, auswringen', // duplicated
 'wuchern, überwuchern',  // duplicated 
 'wuchten, Wucht',  
-'wühlen',  
+'wühlen, durch-, herum-',  
 'wummern, Gewummer', //  duplicated  
 'würgen, hinunter-, rein-',   
 'wurmen', // wurmen: 

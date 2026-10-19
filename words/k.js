@@ -88,7 +88,8 @@ const k = [
 'Knauf',  // Knauf: 
 'knebeln', // knebeln: 
 'kneifen, ein-, zu-, zusammen-',  
-'kneten', // kneten: 
+'kneten', // kneten:
+'knicken, ein-, geknickt',  // duplicated 
 'kniff(e)lig', // kniff(e)lig: 
 'Knirps', // Knirps: 
 'knirschen', // knirschen:  

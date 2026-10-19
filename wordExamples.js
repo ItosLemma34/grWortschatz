@@ -9,8 +9,10 @@ export const wordExamples = {
 // FINISH:
 
 // check page number
+    // Olympia knicken  eingeknickt  229 470
+    // Olympia Daumen drücken 326 328
 // vertilgen Der stumme Tod 514
-//     // geknickt Der stumme Tod 536
+    // Knicks 238  geknickt Der stumme Tod 536
     // Olympia Vertretung 492
     // Stumme Tod 410	verschmerzen
     // Der stumme Tod  auf den Arm nehmen  346  515  	
@@ -24,6 +26,7 @@ export const wordExamples = {
     // Der stumme Tod auswischen 331 
     // Olympia hissen 191
 // Sims Olympia  424 (twice)  425  
+    // Der stumme Tod Daumen drücken 426	509
 // Der stumme Tod   368  Klette      // next: abwälzen:   complete: Staub,.... 
 //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
 //'gereizt   (e<i>Der stumme Tod</i>, 423)'
@@ -103,6 +106,7 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
+// FINISH: verschmerzen
 Heißsporn: [  
     'der <b>Heißsporn</b>,-<b>e</b>: hothead, firebrand'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -178,33 +182,28 @@ gesellen: [
     'Ein paar Ehrendienstler hatten sich in der Kampfrichterzone am Rand der Aschenbahn niedergelassen und machten dort Pause. Fritze <b>gesellte sich</b> zu ihnen. (<i>Olympia</i>, 188)',
     'Schröder schien beeindruckt. Er hielt tatsächlich den Mund. Die drei (<i>Fritze, Schröder, Fürstner</i>) <b>gesellten sich</b> zu den anderen Ehrendienstjungen, die gerade Pause machten. (<i>Olympia</i>, 192)',
 ],
-// FINISH:
 'Daumen drücken': [  
-    'jmdm. die <b>Daumen drücken</b>: root for so.'+
+    'jmdm. die <b>Daumen drücken</b>: root for, wish so. good luck'+
+    '<br><i>literally, <b>Daumen drücken</b> = press thumbs</i>'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">zzz</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">zzz</a>'+
+        '<a href="https://www.dwds.de/wb/f%C3%BCr%20jmdn.%20die%20Daumen%20dr%C3%BCcken"target="target1">Daumen drücken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=Daumen+dr%C3%BCcken&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">Daumen drücken</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">zzz</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">zzz</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/daumen-druecken"target="target3">Daumen drücken</a>&nbsp;&nbsp;'+
+        '<a href="https://en.wiktionary.org/wiki/Daumen_dr%C3%BCcken"target="target4">Daumen drücken</a>',
     // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    //'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //'   (<i>Der stumme Tod</i>, 000)',
+    // Der stumme Tod Daumen drücken 426	509
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    '<i>Elisabeth Spindler zu Rath</i>: "Ich <b>drücke Ihnen die Daumen</b>, Kommissar. Aber jetzt möchte ich Sie bitten, mich mit meinem Jungen allein zu lassen. Es ist schon spät, und ich habe noch viel zu tun." (<i>Lunapark</i>, 440)', 
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    '"Gleich ist Halbfinale, da trennt sich die Spreu vom Weizen", sagte er (<i>Schröder</i>), nachdem er ein paarmal in seinen Apfel gebissen hatte. "Und wem <b>drückst du da die Daumen</b>..?" <i>Fritze</i>: "Mister Albritton, wem denn sonst? <b>Drückst du deinem Ami nicht die Daumen</b>?" (<i>Olympia</i>, 189)',
+    '"Gleich ist Halbfinale, da trennt sich die Spreu vom Weizen", sagte er (<i>Schröder</i>), nachdem er ein paarmal in seinen Apfel gebissen hatte. "Und <b>wem drückst du da die Daumen</b>..?" <i>Fritze</i>: "Mister Albritton, wem denn sonst? <b>Drückst du deinem Ami nicht die Daumen</b>?" (<i>Olympia</i>, 189)',
+    '"Was sind denn deine Leute?" <i>Fürstner</i>: "Die Finnen. Die laufen heute über zehntausend Meter." "Ach", sagte Schröder, "Langstrecke. Da ist für uns doch Gebhardt am Start, oder?" Fürstner nickte. <i>Schröder</i>: "Und, <b>drückst du dem die Daumen</b>?" "Nee." "Wem denn dann?" "Na, meinen Finnen." "Und welchem?" "Egal. Ich wette, einer von denen gewinnt." Fürstner lachte den verdutzten Schröder an und verschwand. (<i>Olympia</i>, 193)',
+    'Albritton nahm Anlauf, und Fritze konnte dessen Nervosität förmlich spüren. Er <b>drückte seine Daumen</b>, so fest er konnte, und schloss die Augen, öffnete sie erst in dem Moment, als er den letzten Schritt hörte, mit dem der Anlauf in den Absprung überging. (<i>Olympia</i>, 203)',
+    // Olympia Daumen drücken 326 328
 ],
 // FINISH:
 quäken: [  
@@ -232,64 +231,91 @@ quäken: [
     '    (<i>Marlow</i>, 000)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    ' (<i>Olympia</i>, 189)',
+    '<i>Fritze</i>: ".. Gibt viele, die sagen, dass Albritton heute Gold holen kann. Biste am Ende vielleicht neidisch?" <i>Schröder</i>: "Warum sollte ich? Du immer mit deinem <i>Mister Albritton ist ja so nett. Mister Albritton springt ja so hoch! Mister Albritton kennt Jesse Owens</i>!" Er äffte eine <b>quäkende</b> Kleinkindstimme nach. (<i>Olympia</i>, 189)',
 ],
-// FINISH: verschmerzen
 äffen: [  
-    '<b>äffen</b>: '+
+    '<b>äffen</b>: ape, imitate; fool, mislead'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">äffen</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">äffen</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/aeffen"target="target1">äffen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/%C3%A4ffen"target="target2">äffen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">äffen</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">äffen</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+        '<a href="https://www.verbformen.com/?w=%C3%A4ffen&id=verb%3Aa3ffen"target="target3">äffen</a>&nbsp;&nbsp;'+
+        '<a href="https://en.wiktionary.org/wiki/%C3%A4ffen"target="target4">äffen</a>',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    ' (<i>Olympia</i>, 189)',
+    '<i>Fritze</i>: ".. Gibt viele, die sagen, dass Albritton heute Gold holen kann. Biste am Ende vielleicht neidisch?" <i>Schröder</i>: "Warum sollte ich? Du immer mit deinem <i>Mister Albritton ist ja so nett. Mister Albritton springt ja so hoch! Mister Albritton kennt Jesse Owens</i>!" Er <b>äffte</b> eine quäkende Kleinkindstimme nach. (<i>Olympia</i>, 189)',
 ],
-// FINISH:
-'knicken, ein-': [  
-    '<b>zzz</b>: '+
+'knicken, ein-, geknickt': [  
+    '<b>knicken</b>: fold/crease, bend, snap/crack; <i>colloq</i>: forget/give up on (<i>Das kannst du dir knicken</i>!)'+
+    '<br><b>einknicken</b>: collapse, give way, buckle, yield under pressure'+
+    '<br><b>geknickt</b>: <i>adj</i>: dejected, disheartened, downcast; (<i>also pp. of knicken</i>)'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">zzz</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">zzz</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/knicken"target="target1">knicken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/einknicken"target="target2">einknicken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/geknickt"target="target3">geknickt</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">zzz</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">zzz</a>',
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/knicken"target="target3">knicken</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/einknicken"target="target4">einknicken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=geknickt&id=adjektiv%3Ageknickt%23geknickt"target="target4">geknickt</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
+    'Mit einem Lächeln hatte Wolter abgedrückt und.. aus der Hüfte geschossen.. Ein einziger Schuss. Heinrich Röllecke schaute mehr überrascht als entsetzt auf den kleinen roten Fleck auf seiner braunen Hemdbrust, der langsam größer wurde. Dann drehte er sich halb um die eigene Achse, während seine Knie <b>einknickten</b>, und stürzte auf den Beton der Rampe. (<i>Der nasse Fisch</i>, 525)',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // geknickt Der stumme Tod 536
+    '<i>Krieg</i>: "Ja. Der Scheinwerfer kam in dem Moment runter, als es eigentlich donnern sollte." <i>Rath</i>: "Und wer stand am Hebel?" Der Techniker schaute so <b>geknickt</b>, wie ein Mann seiner Statur nur dreinschauen konnte. "Ich fürchte", sagte er, "das war ich." (<i>Der stumme Tod</i>, 160)',
+    // Knicks 238  geknickt Der stumme Tod 536  xxx
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    'Junge, uns sind doch die Hände gebunden. Der Regierungspräsident hat die Polizei beauftragt, jede Auseinandersetzung mit der SA zu vermeiden. Alles andere würde nur zu Blutvergießen führen." Engelbert Rath saß in seinem Sessel, zusammengesackt und hilflos. "Ich fasse es nicht, wie ihr alle <b>einknickt</b>." "Gereon, du weißt nicht, was hier los ist. Es ist, als sei alles auf den Kopf gestellt."  (<i>Märzgefallene</i>, 311)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
+    'Bevor er den Satz zu Ende bringen konnte, trat der Rottenführer einen Schritt näher und rammte ihm seine Faust mit einer derartigen Wucht in die Magengrube, dass Adolf Osterberg <b>einknickte</b> und sich auf der Stelle übergab. (<i>Lunapark</i>, 10)',
+    // Knicks 397
     // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    //'<span class="bookTitle"><u>Marlow</u></span>',  
+    //'    (<i>Marlow</i>, 000)',
+    // Knicks 145 180
     // Olympia  
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Dann hoben sie (<i>Albritton, Johnson, Thurber</i>) den rechten Arm in Richtung der führerlosen Ehrentribüne, als wollten sie dem verbliebenen kläglichen Rest in der Loge den Deutschen Gruß zeigen, doch war es nicht der Deutsche Gruß, die Daumen waren <b>eingeknickt</b> und die Hände nicht waagerecht, es sah irgendwie anders aus, fast wie eine Parodie. Aber das war es nicht, dazu passten die ernsten Gesichter der drei Sportler nicht. (<i>Olympia</i>, 204)',
+    // Knicks 86 222 496
+    // Olympia knicken  eingeknickt  229 470
+],
+'geknickt, knicken, ein-': [  
+    '<b>knicken</b>: fold/crease, bend, snap/crack; <i>colloq</i>: forget/give up on (<i>Das kannst du dir knicken</i>!)'+
+    '<br><b>einknicken</b>: collapse, give way, buckle, yield under pressure'+
+    '<br><b>geknickt</b>: <i>adj</i>: dejected, disheartened, downcast; (<i>also pp. of knicken</i>)'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/knicken"target="target1">knicken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/einknicken"target="target2">einknicken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/geknickt"target="target3">geknickt</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/knicken"target="target3">knicken</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/einknicken"target="target4">einknicken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=geknickt&id=adjektiv%3Ageknickt%23geknickt"target="target4">geknickt</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    'Mit einem Lächeln hatte Wolter abgedrückt und.. aus der Hüfte geschossen.. Ein einziger Schuss. Heinrich Röllecke schaute mehr überrascht als entsetzt auf den kleinen roten Fleck auf seiner braunen Hemdbrust, der langsam größer wurde. Dann drehte er sich halb um die eigene Achse, während seine Knie <b>einknickten</b>, und stürzte auf den Beton der Rampe. (<i>Der nasse Fisch</i>, 525)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '<i>Krieg</i>: "Ja. Der Scheinwerfer kam in dem Moment runter, als es eigentlich donnern sollte." <i>Rath</i>: "Und wer stand am Hebel?" Der Techniker schaute so <b>geknickt</b>, wie ein Mann seiner Statur nur dreinschauen konnte. "Ich fürchte", sagte er, "das war ich." (<i>Der stumme Tod</i>, 160)',
+    // Knicks 238  geknickt Der stumme Tod 536  xxx
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '"Junge, uns sind doch die Hände gebunden. Der Regierungspräsident hat die Polizei beauftragt, jede Auseinandersetzung mit der SA zu vermeiden. Alles andere würde nur zu Blutvergießen führen." Engelbert Rath saß in seinem Sessel, zusammengesackt und hilflos. "Ich fasse es nicht, wie ihr alle <b>einknickt</b>." "Gereon, du weißt nicht, was hier los ist. Es ist, als sei alles auf den Kopf gestellt."  (<i>Märzgefallene</i>, 311)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    'Bevor er den Satz zu Ende bringen konnte, trat der Rottenführer einen Schritt näher und rammte ihm seine Faust mit einer derartigen Wucht in die Magengrube, dass Adolf Osterberg <b>einknickte</b> und sich auf der Stelle übergab. (<i>Lunapark</i>, 10)',
+    // Knicks 397
+    // Marlow
+    //'<span class="bookTitle"><u>Marlow</u></span>',  
+    //'    (<i>Marlow</i>, 000)',
+    // Knicks 145 180
+    // Olympia  
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Dann hoben sie (<i>Albritton, Johnson, Thurber</i>) den rechten Arm in Richtung der führerlosen Ehrentribüne, als wollten sie dem verbliebenen kläglichen Rest in der Loge den Deutschen Gruß zeigen, doch war es nicht der Deutsche Gruß, die Daumen waren <b>eingeknickt</b> und die Hände nicht waagerecht, es sah irgendwie anders aus, fast wie eine Parodie. Aber das war es nicht, dazu passten die ernsten Gesichter der drei Sportler nicht. (<i>Olympia</i>, 204)',
+    // Knicks 86 222 496
+    // Olympia knicken  eingeknickt  229 470
 ],
 Prunk: [  
     'der <b>Prunk</b>: pomposity, pageantry, glitz, splendor'+
@@ -4157,14 +4183,6 @@ Hufeisen: [
     '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=auf+den+letzten+Dr%C3%BCcker"target="target3">auf den letzten Drücker</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/auf+den+letzten+Dr%C3%BCcker"target="target4">auf den letzten Drücker</a>',
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Charly</i>: "Ach, der arme Herr Rath musste an seinem letzten Arbeitstag für Gennat tatsächlich noch arbeiten? Das tut mir aber leid!" <i>Gereon</i>: "Red nicht so! Ich habe mich noch nie vor Arbeit gedrückt." "Aber sie immer schon gerne <b>auf den letzten Drücker</b> erledigt." (<i>Marlow</i>, 171)',
- ],
-geknickt: [
-    '<b>geknickt</b>: dejected, disheartened, downcast'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geknickt"target="target1">geknickt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/geknickt"target="target2">geknickt</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geknickt"target="target3">geknickt</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=geknickt&id=adjektiv%3Ageknickt%23geknickt"target="target4">geknickt</a>',
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '<i>Krieg</i>: "Ja. Der Scheinwerfer kam in dem Moment runter, als es eigentlich donnern sollte." <i>Rath</i>: "Und wer stand am Hebel?" Der Techniker schaute so <b>geknickt</b>, wie ein Mann seiner Statur nur dreinschauen konnte. "Ich fürchte", sagte er, "das war ich." (<i>Der stumme Tod</i>, 160)',
-    //536
 ],
 spinnert: [
     '<b>spinnert</b>: eccentric, daft, crazy'+
@@ -7814,7 +7832,7 @@ qualmen: [
     '<i>Rath</i>: "..Ich werde also weiterhin an den Mordfällen arbeiten und die entsprechenden Unterlagen dann eben mit zum Alex nehmen... Wenn Sie kurz mit anpacken würden", sagte Rath und legte dem <b>verdutzten</b> Truppführer (<i>Pfeiffer</i>) einen ganzen Stapel Aktenordner in die Arme. (<i>Lunapark</i>, 450)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
-    '"Was sind denn deine Leute?" <i>Fürstner</i>: "Die Finnen. Die laufen heute über zehntausend Meter." "Ach", sagte Schröder, "Langstrecke. Da ist für uns doch Gebhardt am Start, oder?" Fürstner nickte. <i>Schröder</i>: "Und, drückst du dem die Daumen?" "Nee." "Wem denn dann?" "Na, meinen Finnen." "Und welchem?" "Egal. Ich wette, einer von denen gewinnt." Fürstner lachte den <b>verdutzten</b> Schröder an und verschand. (<i>Olympia</i>, 193)',
+    '"Was sind denn deine Leute?" <i>Fürstner</i>: "Die Finnen. Die laufen heute über zehntausend Meter." "Ach", sagte Schröder, "Langstrecke. Da ist für uns doch Gebhardt am Start, oder?" Fürstner nickte. <i>Schröder</i>: "Und, drückst du dem die Daumen?" "Nee." "Wem denn dann?" "Na, meinen Finnen." "Und welchem?" "Egal. Ich wette, einer von denen gewinnt." Fürstner lachte den <b>verdutzten</b> Schröder an und verschwand. (<i>Olympia</i>, 193)',
 ],
 absäbeln: [
     '<b>absäbeln</b>: cut/hack off'+
@@ -28204,20 +28222,26 @@ waghalsig: [
 'wuchten, Wucht': [
     '<b>wuchten</b>: heave, drag, haul'+
     '<br>die <b>Wucht</b>: force, impact, weight, power'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuchten"target="target1">wuchten</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Wucht"target="target2">Wucht</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/wuchten"target="target3">wuchten</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Wucht"target="target4">Wucht</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/wuchten"target="target1">wuchten</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Wucht"target="target2">Wucht</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Wenn hier einer gleich die Nerven verliert, dann bin ich das", sagte Rath, zog den Russen am Kragen hoch und <b>wuchtete</b> ihn gegen die Wand. (<i>Der nasse Fisch</i>, 123)',
     'Er (<i>Rath</i>) hielt ihr (<i>Frau Schäffner</i>) die Tür zum Hof auf, und sie <b>wuchtete</b> ihren Körper hindurch. (<i>Der nasse Fisch</i>, 235)',
     'Die Spurensicherung war inzwischen wieder aus dem Grab gestiegen, nun hatte Kriminalassistent Reinhold Gräf den Fotoapparat hinunter<b>gewuchtet</b> und machte einige Nahaufnahmen. (<i>Der nasse Fisch</i>, 408)',
     'Rath stieg aus. Der Mayback fuhr wieder an, wendete und hielt auf der anderen Straßenseite vor dem Hotel <i>Continental</i>. Ein Boy öffnete, und Zörgiebel <b>wuchtete</b> seinen Körper aus dem Wagen. (<i>Der nasse Fisch</i>, 506-07)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Hinter Rath keuchte es. Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel <b>gewuchtet</b> hatte. (<i>Der stumme Tod</i>, 22)',
     'Rath legte seine ganze Wut in einen trockenen, ansatzlosen Schlag, der Brenners Magengrube traf. Der Kommissar im Sträflingskostüm klappte zusammen, und Rath <b>wuchtete</b> ihn mit einem linken Haken wieder nach oben... (<i>Der stumme Tod</i>, 105)',
     '<i>Rath träumt</i>: Unbeirt setzte das Messer seinen Weg fort. Langsam zwar, aber dennoch mit ungebremster <b>Wucht</b>. Langsam drang es in Kathis Brustkorb ein, mit einem widerlich lang gezogenen, schmatzende Geräusch. (<i>Der stumme Tod</i>, 111)',
     '<i>Rath</i>: "Können Sie mir diese Donnermaschine mal zeigen?" Der Bühnentehniker (<i>Krieg</i>) führte Rath um ein paar Ecken hinter die Kulissen zu einem großen Holzkasten, der zehn Meter in die Höhe ragte... Vor dem Kasten waren zwei Mikrofone aufgebaut. "Eindrucksvoll, nicht?", meinte Krieg. "Hat schon an die fuffzich Jahre auf dem Buckel. Aus Bellmanns altem Theater. War \'ne ganz schöne Plackerei, die hier reinzu<b>wuchten</b>." (<i>Der stumme Tod</i>, 157-58)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Rath</i>: "Was hättest du eigentlich getan,..wenn der Tote aus der Spree gar nicht Engel gewesen wäre?" Gräf machte ein nachdenkliches Gesicht. "Gott sei dank ist er es", sagte er schließlich mit einem Achselzucken und <b>wuchtete</b> seinen Pappkarton durch die Tür. (<i>Märzgefallene</i>, 540)',
+    // Lunapark 
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Bevor er den Satz zu Ende bringen konnte, trat der Rottenführer einen Schritt näher und rammte ihm seine Faust mit einer derartigen <b>Wucht</b> in die Magengrube, dass Adolf Osterberg einknickte und sich auf der Stelle übergab. (<i>Lunapark</i>, 10)',
     '<i>Schulze</i>: "Es ist mir völlig gleichgültig, was ein Analphabet wie du von meinem Chef hält." Der Rottenführer erwiderte nichts, nach einer kleinen Pause, die er offensichtlich brauchte, um das Gesagte als Beleidigung zu verstehen, nickte er nur kurz mit seinem schweren Kopf nach vorne und traf das Nasenbein des Fahrers mit voller <b>Wucht</b>. (<i>Lunapark</i>, 11)',
@@ -28226,6 +28250,7 @@ waghalsig: [
     'Lange nickte nachdenklich und ging zum Mordauto hinüber, aus dessen Kofferraum Czerwinski gerade den Fotoapparat <b>wuchtete</b>. (<i>Lunapark</i>, 324)',
     '...im selben Moment hörte Rath ein Geräusch und fuhr herum. Da stand Leo Juretzka, eine Dachlatte in der Hand. Bevor Rath die Pistole herumreißen und zielen konnte, bevor er dem harten Holz ausweichen konnte, erwischte ihn der Schlag, und es blitzte hell vor seinen Augen. Und bevor er noch einen weiteren Gedanken denken konnte, traf ihn der nächste mit voller <b>Wucht</b> an der Schläfe... (<i>Lunapark</i>, 376)',
     'Juretzka, den die <b>Wucht</b> des fehlgegangenen Schlages aus dem Gleichgewicht gebracht hatte, richtete sich wieder auf und holte aus zum nächsten. Wenn der treffen würde, dann wäre es vorbei, um das vorherzusehen, brauchte Rath keine Prophezeiung von Madame Luna. (<i>Lunapark</i>, 526)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Henning <b>wuchtete</b> Rath drei schwere Aktenordner auf den Tisch. "Hier", sagte er. "Zum Einarbeiten. Wenn du irgendwelche physikalischen oder cheminschen Fachbegriffe nicht verstehen solltest..." - Henning zeigte in die Runde. - "Scheu dich nicht zu fragen, hier sitzen mittlerweile lauter Experten." (<i>Marlow</i>, 182)',
 ],

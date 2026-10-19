@@ -8,6 +8,7 @@ const d = [
 'Dampfwalze',  // Dampfwalze: 
 'dämm(e)rig', //  'dämm(e)rig':
 'darben',  // darben:
+'Daumen drücken',
 'dazwischenfunken', // dazwischenfunken:   
 'Deckel',   // Deckel: 
 'Deichsel',  // Deichsel:  

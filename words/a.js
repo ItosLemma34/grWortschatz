@@ -39,6 +39,7 @@ const a = [
 'adrett',   // adrett:  
 'ächzen',     // ächzen:   
 'Affekthandlung',   // Affekthandlung: 
+'äffen',
 'Affenzahn (mit einem A.)', // duplicated
 'Albernheit, albern, herum-',
 'alle naselang',  

@@ -36,7 +36,7 @@ const g = [
 'geizen, geizig',
 'Gekicher, kichern',  // duplicated
 'Geklirr, klirren, an-',  //duplicated
-'geknickt',  // geknickt:  
+'geknickt, knicken, ein-',
 'Gekrächz',  // Gekrächz: 
 'Gelände',   // Gelände:  
 'Geländer',  // Geländer:  

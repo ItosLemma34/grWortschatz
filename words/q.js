@@ -1,5 +1,6 @@
 const q = [
 'Quacksalber', // Quacksalber:
+'quäken',  // quäken:
 'qualmen',  // qualmen: 
 'Quast', // Quast: 
 'quellen, über-, heraus-',   

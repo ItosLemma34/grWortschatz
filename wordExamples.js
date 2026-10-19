@@ -205,45 +205,30 @@ gesellen: [
     'Albritton nahm Anlauf, und Fritze konnte dessen Nervosität förmlich spüren. Er <b>drückte seine Daumen</b>, so fest er konnte, und schloss die Augen, öffnete sie erst in dem Moment, als er den letzten Schritt hörte, mit dem der Anlauf in den Absprung überging. (<i>Olympia</i>, 203)',
     // Olympia Daumen drücken 326 328
 ],
-// FINISH:
 quäken: [  
-    '<b>quäken</b>: screech, squawk'+
+    '<b>quäken</b>: screech, high-pitched squeaking'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">quäken</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">quäken</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/quaeken"target="target1">quäken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/qu%C3%A4ken"target="target2">quäken</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">quäken</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">quäken</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/quaken_2"target="target3">quäken</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/quaeken"target="target4">quäken</a>',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Fritze</i>: ".. Gibt viele, die sagen, dass Albritton heute Gold holen kann. Biste am Ende vielleicht neidisch?" <i>Schröder</i>: "Warum sollte ich? Du immer mit deinem <i>Mister Albritton ist ja so nett. Mister Albritton springt ja so hoch! Mister Albritton kennt Jesse Owens</i>!" Er äffte eine <b>quäkende</b> Kleinkindstimme nach. (<i>Olympia</i>, 189)',
 ],
 äffen: [  
     '<b>äffen</b>: ape, imitate; fool, mislead'+
+    '<br><b>nachäffen</b>: mock, imitate so.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
         '<a href="https://www.duden.de/rechtschreibung/aeffen"target="target1">äffen</a>&nbsp;&nbsp;'+
-        '<a href="https://www.dwds.de/wb/%C3%A4ffen"target="target2">äffen</a>'+
+        '<a href="https://www.dwds.de/wb/nach%C3%A4ffen"target="target2">nachäffen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.verbformen.com/?w=%C3%A4ffen&id=verb%3Aa3ffen"target="target3">äffen</a>&nbsp;&nbsp;'+
-        '<a href="https://en.wiktionary.org/wiki/%C3%A4ffen"target="target4">äffen</a>',
+        '<a href="https://www.verbformen.com/?w=nach%C3%A4ffen&id=verb%3Anacha3ffen"target="target4">nachäffen</a>',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    '<i>Fritze</i>: ".. Gibt viele, die sagen, dass Albritton heute Gold holen kann. Biste am Ende vielleicht neidisch?" <i>Schröder</i>: "Warum sollte ich? Du immer mit deinem <i>Mister Albritton ist ja so nett. Mister Albritton springt ja so hoch! Mister Albritton kennt Jesse Owens</i>!" Er <b>äffte</b> eine quäkende Kleinkindstimme nach. (<i>Olympia</i>, 189)',
+    '<i>Fritze</i>: ".. Gibt viele, die sagen, dass Albritton heute Gold holen kann. Biste am Ende vielleicht neidisch?" <i>Schröder</i>: "Warum sollte ich? Du immer mit deinem <i>Mister Albritton ist ja so nett. Mister Albritton springt ja so hoch! Mister Albritton kennt Jesse Owens</i>!" Er <b>äffte</b> eine quäkende Kleinkindstimme <b>nach</b>. (<i>Olympia</i>, 189)',
 ],
 'knicken, ein-, geknickt': [  
     '<b>knicken</b>: fold/crease, bend, snap/crack; <i>colloq</i>: forget/give up on (<i>Das kannst du dir knicken</i>!)'+

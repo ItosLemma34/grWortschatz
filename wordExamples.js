@@ -6,8 +6,6 @@ export const wordExamples = {
 // Check if all the "auf die Nase binden" captured
 //  check* if in other books
 
-// FINISH:
-
 // check page number
     // Olympia knicken  eingeknickt  229 470
     // Olympia Daumen drücken 326 328
@@ -69,15 +67,15 @@ export const wordExamples = {
 //    'Schleier 489, 491  (<i>Der stumme Tod</i>, 000)',
 // 'geizen, geizig'  Der stumme Tod 475	
 //Unrat  
-//	'Als Rath unter vor der Hoteltür wieder auf der Straß stand, trat er gegen einen der Papierkörbe, die die Linden, Berlins alte Prachtstraße, von Unrat freihalten sollten. Der Korb <b>riss</b> aus seiner Verankerung, sein Inhalt verteilte sich auf dem Pflaster. (<i>Märzgefallene</i>, 482-83)',
-
-//     'Der alte Herr hatte seinen Homburg inzwischen von der Straße geklaubt und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den <b>verbeulten</b>, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen. (<i>Lunapark</i>, 117)',
 /*  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  [<i>Olympiastadion</i>]  im Olympischen Dorf
 /*
     // geknickt Der stumme Tod 536
+
+FINISH!
+
 zzz: [  
     '<b>zzz</b>: '+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -106,7 +104,36 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
-// FINISH: verschmerzen
+herumdrücken: [  // Finish
+    '<b>herumdrücken</b>: hover, loiter, hang around'+
+    '<br><b>sich um etwas herumdrücken</b>: try to get out of, avoid sth.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/herumdruecken"target="target1">herumdrücken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/herumdr%C3%BCcken"target="target2">herumdrücken</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/herumdruecken"target="target3">herumdrücken</a>&nbsp;&nbsp;'+
+        '<a href="https://www.mydict.io/translation/german-english/herumdr%C3%BCcken"target="target4">herumdrücken</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    'Marlow hatte es sich im Hinterzimmer des <i>Venuskellers</i> gemütlich gemacht. Er saß an Sebalds Schreibtisch, in den dunklen Ecken des Zimmers <b>drückten sich</b> ein paar Gestalten <b>herum</b>, alle in Abendgarderobe. (<i>Der nasse Fisch</i>, 450)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+
+//herumdrücken · drückt herum, drückte herum, hat herumgedrückt
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    ' (<i>Olympia</i>, 000)',
+],
 Heißsporn: [  
     'der <b>Heißsporn</b>,-<b>e</b>: hothead, firebrand'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -616,7 +643,7 @@ Scherge: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Er (<i>Rath</i>) musste daran denken, wie ihn sein erster Fall in Berlin vor Jahren ins <i>Delphi</i> geführt hatte. Damals war das hier eine Baustelle gewesen, eine Baustelle, in deren Keller sich die Gräfin Sorokina vor Stalins <b>Schergen</b> versteckt gehalten hatte, doch mittlerweile war es eines der mondänsten Tanzlokale in Berlin. (<i>Olympia</i>, 166)',
 ],
-//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
+//  (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 Mischpoke: [  
     'die <b>Mischpoke</b> = <b>Mischpoche</b>: mob, rabble; clan, tribe'+
@@ -7089,7 +7116,6 @@ verschmerzen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Fritze hatte das Gefühl, David Albritton könne es <b>verschmerzen</b>, nicht Erster geworden zu sein. Johnson war einfach zu gut. Und Silber war ja nun auch nicht schlecht. Auch Thurber schien sich über Bronze zu freuen. Nur Schröder machte ein griesgrämiges Gesicht. (<i>Olympia</i>, 203)',
-    // verschmerzen, verschmerze, verschmerzt, verschmerzte, verschmerztest, verschmerzten, verschmerztet, verschmerzend, verschmerzter, verschmerztes    
 ],
 'schaben, ab-': [
     '<b>schaben</b>: shave, scrape, rub, scrath'+

@@ -3568,15 +3568,29 @@ vertäuen: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Luise Ritter zu Rath</i>: ".. Wäre doch viel schöner, wenn wir beide zusammen nach Nürnberg fahren, nicht wahr?" Na prima! Das war ein Ansinnen, das Rath unmöglich ausschlagen konnte. Und zugleich eine Horrorvorstellung: Zusammen mit der eigenen Schwiegermutter über Stunden auf engstem Raum (<i>im Auto</i>) zusammengepfercht... Rath zeigte ein zitronensaures Lächeln, während seine Schwiegermutter.. in der Küche verschwand. Dann fiel sein Blick auf Charly, die in unverstellter Schadenfreude vor sich hin <b>griente</b>. (<i>Marlow</i>, 241)',
 ],
-Geleit: [
+/*
+'Geleit, geleiten, hinaus-': [
     'das <b>Geleit</b>,-<b>e</b>: escort'+
     '<br><b>geleiten</b>: to escort, conduct so.'+
-    '<br>(<i>examples of <u>geleiten</u> not given</i>)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geleit"target="target1">Geleit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geleit"target="target2">Geleit</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Geleit&id=substantiv%3AGeleit"target="target3">Geleit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/Geleit"target="target4">Geleit</a>',
+    '<br><b>hinausgeleiten</b>: show so. out'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Geleit"target="target1">Geleit</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/geleiten"target="target2">geleiten</a>'+
+        '<a href="https://www.dwds.de/wb/hinausgeleiten"target="target2">hinausgeleiten</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Geleit&id=substantiv%3AGeleit"target="target3">Geleit</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/geleiten"target="target4">geleiten</a>',
+        '<a href="https://www.verbformen.com/?w=hinausgeleiten&id=verb%3Ahinausgeleiten"target="target4">hinausgeleiten</a>',
+    // Der nasse Fisch   
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
+    // Marlow   
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Fritze schreibt an Luise Ritter: ".. <i>Leipzigs HJ erwartet uns: eine Formation gibt uns das <b>Geleit</b> durch die Stadt. Dann geht es weiter fort auf Wiederitzsch zu, wo die Quartiere unserer harren</i>... (<i>Marlow</i>, 231)',
-],
+     //Geleit geleiten · hinausgeleiten · geleitet, geleitete, hat geleitet  hinausgeleitet
+    // Olympia   
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Tornow</i>: "Sielaff, <b>geleiten</b> Sie den Oberkommissar doch bitte <b>hinaus</i>." Rath drückte die Zigarette aus, nahm die Mappe an sich und folgte dem Mann. (<i>Olympia</i>, 214)',
+], */
 'ruckeln, Geruckel': [
     '<b>ruckeln</b>: jerk, jolt, shake'+
     '<br>das <b>Geruckel</b>: jerking, jolting'+
@@ -11702,6 +11716,7 @@ ausschwärmen: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Dabei hatter er (<i>Goldstein</i>) ihr (<i>Marion</i>) mit der Fahrt doch eine Freude machen wollen. Eine Reise zurück in die Zeit, als er sie kennengelernt hatte, damals im <i>Excelsior</i>. Als sie ihn eigentlich nur verführen wollte, um ihn <b>auszuhorchen</b>. Und alles ganz anders gekommen war. (<i>Olympia</i>, 65)',
+    'Der SD schien keinen großen Wert mehr darauf zu legen, die Tatsache zu verheimlichen, dass der LKA-Mann Gereon Rath ihm zuarbeitete. Hieß das, dass die Zeit, da er als SS-Spitzel seine Kollegen im Landeskriminalamt <b>aushorchen</b> musste, nun endlich ihrem Ende entgegenging? (<i>Olympia</i>, 211)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 aufscheuchen: [
@@ -19573,8 +19588,14 @@ klimpern: [
     '<br><b>anklirren</b>: clink noisily, aggressively'+
     '<br><i>ChatGPT: <u>anklirren</u> is a rare, expressive form of <u>klirren</u>, not easily found in dictionaries</i>'+
     '<br>das <b>Geklirr</b>: clink, clang'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geklirr"target="target3">Geklirr</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target4">klirren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target5">klirren</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Geklirr"target="target6">Geklirr</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Geklirr"target="target3">Geklirr</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target4">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target5">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/Geklirr"target="target6">Geklirr</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>die Witwe Behnke</i>: "Sie Ärmster (<i>Rath und die Polizei</i>) haben ja beruflich dauerned mit diesem Sündenpfuhl zu tun." Sie hantierte geräuschvoll mit der Teekante, als müsse sie gegen den Sündenpfuhl <b>anklirren</b>, und stellte zwei Tassen auf den Tisch. (<i>Der nasse Fisch</i>, 41)',
@@ -19614,14 +19635,21 @@ klimpern: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Doch bevor es dazu kam, erbrach sich der Unglückliche in einem großen Schwall quer über den Tisch... Der Dicke schien davon nichts mitzubekommen, immer noch stierte er die Wand an, dann ließ er das Tischtuch los und kippte wie ein gefällter Baum nach vorne auf den besudelten Tisch, warf dabei noch ein paar Gläser und Flaschen um und blieb reglos liegen. Noch einmal <b>klirrte</b> es laut, als zwei, drei Gläser über die Tischkante rollten und auf dem Boden zerschellten, dann war es still wie in einer Kirche. (<i>Olympia</i>, 23)',
     'Rath sprang so abrupt auf, dass der Stuhl umkippte, er trat gegen das Tischbein und gegen den Büffetschrank, in dem Teller und Gläser <b>klirrten</b>, trommelte mit seinen Fäusten gegen die Wand, bis die Knöchel schmerzten, und schrie seine ohnmächtige Wut in den leeren Raum. (<i>Olympia</i>, 43)',
+    'Das Warten war schlimmer als alles andere, aber schließlich hörte er (<i>Ehlers</i>) es, das vertraute Geräusch. Sie holten ihn. Am Schlüssel<b>klirren</b> kontte er genau erkennen, ob die Schritte, die durch die Dunkelheit hallten, ihm galten oder jemand anderem. (<i>Olympia</i>, 230)',
 ],
 'Geklirr, klirren, an-': [  
     '<b>klirren</b>: to clink, clang, rattle'+
     '<br><b>anklirren</b>: clink noisily, aggressively'+
     '<br><i>ChatGPT: <u>anklirren</u> is a rare, expressive form of <u>klirren</u>, not easily found in dictionaries</i>'+
     '<br>das <b>Geklirr</b>: clink, clang'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geklirr"target="target3">Geklirr</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target4">klirren</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target5">klirren</a>&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Geklirr"target="target6">Geklirr</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/klirren"target="target1">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/klirren"target="target2">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Geklirr"target="target3">Geklirr</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/klirren"target="target4">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/klirren"target="target5">klirren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/Geklirr"target="target6">Geklirr</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>die Witwe Behnke</i>: "Sie Ärmster (<i>Rath und die Polizei</i>) haben ja beruflich dauerned mit diesem Sündenpfuhl zu tun." Sie hantierte geräuschvoll mit der Teekante, als müsse sie gegen den Sündenpfuhl <b>anklirren</b>, und stellte zwei Tassen auf den Tisch. (<i>Der nasse Fisch</i>, 41)',
@@ -19661,6 +19689,7 @@ klimpern: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Doch bevor es dazu kam, erbrach sich der Unglückliche in einem großen Schwall quer über den Tisch... Der Dicke schien davon nichts mitzubekommen, immer noch stierte er die Wand an, dann ließ er das Tischtuch los und kippte wie ein gefällter Baum nach vorne auf den besudelten Tisch, warf dabei noch ein paar Gläser und Flaschen um und blieb reglos liegen. Noch einmal <b>klirrte</b> es laut, als zwei, drei Gläser über die Tischkante rollten und auf dem Boden zerschellten, dann war es still wie in einer Kirche. (<i>Olympia</i>, 23)',
     'Rath sprang so abrupt auf, dass der Stuhl umkippte, er trat gegen das Tischbein und gegen den Büffetschrank, in dem Teller und Gläser <b>klirrten</b>, trommelte mit seinen Fäusten gegen die Wand, bis die Knöchel schmerzten, und schrie seine ohnmächtige Wut in den leeren Raum. (<i>Olympia</i>, 43)',
+    'Das Warten war schlimmer als alles andere, aber schließlich hörte er (<i>Ehlers</i>) es, das vertraute Geräusch. Sie holten ihn. Am Schlüssel<b>klirren</b> kontte er genau erkennen, ob die Schritte, die durch die Dunkelheit hallten, ihm galten oder jemand anderem. (<i>Olympia</i>, 230)',
 ],
 kneten: [
     '<b>kneten</b>: knead, massage, mold, form'+
@@ -22083,6 +22112,7 @@ postieren: [
     'Gestern hatte Franke ihm eine mit den olympischen Ringen versehene Plakette gegeben, die es ihm erlaubte, auf einem der reservierten Pläze direkt vor dem Empfangsgebäude zu parken. Rath <b>pappte</b> die Plakette hinter die Windschutzscheibe und stieg aus. (<i>Olympia</i>, 150)',
     'Im Besucherrestaurant (<i>des Olympischen Dorfs</i>) herrschte eher wenig Betrieb. Sonntagmorgen, genau zwischen Frühstücks- und Mittagszeit. Rath hielt sich nicht lange auf, an erwartungsvoll dreinblickenden Kellnern ging er gleich durch bis zu den Toiletten. An der Tür zu den Herren hing unter dem großen H aus Messing ein <b>Pappschild</b>: AUSSER BETRIEB... (<i>Olympia</i>, 178)',
     'Rath überflog das Protokoll und schaute sich die Fotos an, den <b>Pappdeckel</b> der Aktenmappe als Sichtschutz nutzend. (<i>Olympia</i>, 197)',
+    '"Leutnant Dräger war kein Morphinist", sagte er. "Vor kurzem erst ist er noch militärärztlich untersucht worden, auf Herz und Nieren, da wäre das aufgefallen." Gräf pochte auf den <b>Papp</b>umschlag. "Er war nicht einmal dem Alkohol zugeneigt, so steht es in seiner Akte. Gehörte einer Eliteeinheit an." (<i>Olympia</i>, 213)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 petzen: [
@@ -22918,6 +22948,7 @@ Räuberpistole: [
     'Schröder senkte seine Stimme und klang nun wie ein Verschwörer. "Wenn ihr mich fragt", <b>raunte</b> er bedeutungsschwanger, "dann ist das kein Zufall." Jetzt hatte er sie. Alle Jungen.. hörten ihm gebannt zu... (<i>Olympia</i>, 75)',
     'Dave Albritton machte einen ungewohnt nervösen Eindruck. In der Vorrunde hatte er keinen einzigen ungültigen Versuch gehabt, nun aber riss er gleich seinen ersten Sprung über ein Meter achtzig, und ein <b>Raunen</b> ging durch die Menge. (<i>Olympia</i>, 190)',
     '"Vielleicht, Oberkommissar," <b>raunte</b> der Oberleutnant (<i>Wilms</i>) und klang wie ein Verschwörer, "sollten Sie sich die Einheit mal genauer anschauen, die den Leutnant zu uns gesandt hat. So lange gehören die noch nicht zur Wehrmacht." (<i>Olympia</i>, 202)',
+    'Rath musste an die Worte von Oberleutnant Wilms denken. <i>So lange gehören die noch nicht zur Luftwaffe</b>. Und nun wusste er auch, worauf Wilms mit seinem verschwörerischen <b>Geraune</b> abzielte: Dass Göring dem Morphium zuneigte, war ein offenes Geheimnis, und für jemanden wie Wilms war es augenscheinlich naheliegend, dass diese Sucht folglich auch in Görings Leibregiment zu finden sein musste. (<i>Olympia</i>, 216)',
     'Plötzlich ging ein <b>Raunen</b> durch die Küche und pflanzte sich fort wie eine Flüsterpost, bis es auch bei Charly angekommen war: "Die Georgi, die Georgi!" "Wer is\'n dette?", fragte Charly. "Die Erste Hausdame", zischte Marie. "Keine Ahnung, was die hier will." Das <b>Geraune</b> verstummte, denn Geinitz kam herein und klatschte in die Hände. "Meine Damen, bitte Aufstellung nehmen. Madame Georgi braucht ersatzweise ein Zimmermädchen." (<i>Olympia</i>, 220)',
 ],
 'Geraune, raunen': [ 
@@ -22952,6 +22983,7 @@ Räuberpistole: [
     'Schröder senkte seine Stimme und klang nun wie ein Verschwörer. "Wenn ihr mich fragt", <b>raunte</b> er bedeutungsschwanger, "dann ist das kein Zufall." Jetzt hatte er sie. Alle Jungen.. hörten ihm gebannt zu... (<i>Olympia</i>, 75)',
     'Dave Albritton machte einen ungewohnt nervösen Eindruck. In der Vorrunde hatte er keinen einzigen ungültigen Versuch gehabt, nun aber riss er gleich seinen ersten Sprung über ein Meter achtzig, und ein <b>Raunen</b> ging durch die Menge. (<i>Olympia</i>, 190)',
     '"Vielleicht, Oberkommissar," <b>raunte</b> der Oberleutnant (<i>Wilms</i>) und klang wie ein Verschwörer, "sollten Sie sich die Einheit mal genauer anschauen, die den Leutnant zu uns gesandt hat. So lange gehören die noch nicht zur Wehrmacht." (<i>Olympia</i>, 202)',
+    'Rath musste an die Worte von Oberleutnant Wilms denken. <i>So lange gehören die noch nicht zur Luftwaffe</b>. Und nun wusste er auch, worauf Wilms mit seinem verschwörerischen <b>Geraune</b> abzielte: Dass Göring dem Morphium zuneigte, war ein offenes Geheimnis, und für jemanden wie Wilms war es augenscheinlich naheliegend, dass diese Sucht folglich auch in Görings Leibregiment zu finden sein musste. (<i>Olympia</i>, 216)',
     'Plötzlich ging ein <b>Raunen</b> durch die Küche und pflanzte sich fort wie eine Flüsterpost, bis es auch bei Charly angekommen war: "Die Georgi, die Georgi!" "Wer is\'n dette?", fragte Charly. "Die Erste Hausdame", zischte Marie. "Keine Ahnung, was die hier will." Das <b>Geraune</b> verstummte, denn Geinitz kam herein und klatschte in die Hände. "Meine Damen, bitte Aufstellung nehmen. Madame Georgi braucht ersatzweise ein Zimmermädchen." (<i>Olympia</i>, 220)',
 ],
 Raureif: [
@@ -29147,13 +29179,17 @@ Zinnober: [
     '<i>Gereon</i>: "Gut. Er (<i>Fritze</i>) wird sich freuen, da bin ich mir sicher. Und bei der Gelegenheit kann ich auch gleich dafür sorgen, dass er den ganzen <b>Zinnober</b>, den sie (<i>die Nazis</i>) da (<i>Reichsparteitag in Nürnberg</i>) veranstalten, nicht so ernst nimmt. Dass das nur hohles Pathos ist." (<i>Marlow</i>, 239)',
     '<i>Charly zu Gereon</i>: "Ja. Nazi-Programm. Da (<i>Reichsparteitag in Nürnberg</i>) geht\'s doch nicht um Karussells und Würstchenbuden. Da gibt es Paraden und Reden und Reden und Paraden. Den ganzen <b>Zinnober</b>, wie du es nennst. Musst du doch besser kennen als ich: <i>Du</i> warst mit dem Jungen im Riefenstahlfilm, nicht ich." (<i>Marlow</i>, 240)',
 ],
-// ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß  „ “   ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß „ “   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “   ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß   „ “      ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß   „ “    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “
+// ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß „ “   ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “   ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß   „ “      ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß   „ “    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß  „ “    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  „ “
 'zackig, zacken': [
     '<b>zackig</b>: snappy, smart, dashing; jagged'+
     '<br><b>zacken</b>: indent, notch, serrate'+
     '<br>die <b>Zacke</b>,-<b>n</b>: sharp point, spike'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zackig"target="target1">zackig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zacken"target="target2">zacken</a>  '+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zackig"target="target3">zackig</a>&nbsp;&nbsp;<a href="https://dict.zero-g.net/#q=zacken"target="target4">zacken</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/zackig"target="target1">zackig</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/zacken"target="target2">zacken</a>  '+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/zackig"target="target3">zackig</a>&nbsp;&nbsp;'+
+        '<a href="https://dict.zero-g.net/#q=zacken"target="target4">zacken</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Inzwischen hatte sich auch der Schupo von dem Anpfiff erholt und trat zum Oberkommissar, <b>zackig</b> salutierend. (<i>Der nasse Fisch</i>, 58)',
@@ -29192,6 +29228,7 @@ Zinnober: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Auch der Mann hinter dem Schreibtisch, auf dessen <b>zackiges</b> "Herein" Rath nach höflichem Anklopfen den Raum betreten hatte, empfing ihn mit dem für Beamte vorgeschriebenen Deutschen Gruß. (<i>Olympia</i>, 52-53)',
     '<i>Rath</i>: "Haben wir uns verstanden, Verflegungsoffizier?" "Natürlich, Oberkommissar." Pütz war ebenfalls aufgestanden und riss den rechten Arm hoch. "Heil Hitler." "Heil!" Rath winkelte seine Rechte so <b>zackig</b> an wie noch nie zuvor und verließ den Raum. Konnte nicht schaden, wenn ihn der Verpflegungsoffizier für einen strammen Nazi hielt. (<i>Olympia</i>, 62)',
+    'Herbert Ehlers stand auf und merkte, dass es ihm schwerfiel, sich auf den schmerzenden Füßen zu halten. Er musste sich an der Tür festhalten. Der Wachmann gab ihn einen Tritt. "Jetzt mal vorwärts! <b>Zackig</b>! Haben nicht den ganzen Tag Zeit." (<i>Olympia</i>, 230)',
 ],
 zappeln: [
     '<b>zappeln</b>: fidget, struggle, kick, wriggle'+

@@ -40,7 +40,7 @@ const g = [
 'Gekrächz',  // Gekrächz: 
 'Gelände',   // Gelände:  
 'Geländer',  // Geländer:  
-'Geleit',  // Geleit:  
+//'Geleit, geleiten, hinaus-',     
 'gelinde',   // gelinde:  
 'Gemächt',  // Gemächt: 
 'Gemaule, maulen',  // duplicated

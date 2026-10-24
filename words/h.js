@@ -49,10 +49,11 @@ const h = [
 'Hemd (sich ins H. machen)',
 'Henkelmann',  // Henkelmann:  
 'herbequemen, bequemen',
-'hereinlegen, reinlegen',  // duplicated 
-'herrisch',  // herrisch: 
-'herumärgern, rumärgern', //  duplicated 
-'herumeiern, rumeiern',  // duplicated
+'hereinlegen, reinlegen',  // dup
+'herrisch',  // herrisch:
+'herumalbern, albern, Albernheit',  // dup 
+'herumärgern, rumärgern', //  dup 
+'herumeiern, rumeiern',  // dup
 'herumfuhrwerken',  // herumfuhrwerken: 
 'herumlungern', // herumlungern:  
 'hetzen, Hetze',   

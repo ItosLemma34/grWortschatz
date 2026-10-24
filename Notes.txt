@@ -122,6 +122,7 @@ anlegen, sich mit  Marlow 351  included in "in die Schranken weisen"
  Anzahlung  Olympia 117  contained in "Bälde"
  abpassen Der stumme Tod 167
  aussetzen  Marlow 107
+ absitzen Olympia 231
 'Ast'  ;   Nworte++;    Märzgefallene   27    34
  'attestieren'  ;   Nworte++;    Märzgefallene   27
 Augenpartie Märzgefallene 336
@@ -176,6 +177,7 @@ Bagger Marlow 247
  brockig  Der nasse Fisch 480
  Bückling    Märzgefallene  545  
  bügeln gebügelt  Olympia 224
+ Bulette Olympia 234 and before
  Dämlacks  Lunapark 428
  Damn Lunapark 247   
  deftig  Der stumme Tod 223 

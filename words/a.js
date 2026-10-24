@@ -40,19 +40,19 @@ const a = [
 'ächzen',     // ächzen:   
 'Affekthandlung',   // Affekthandlung: 
 'äffen',
-'Affenzahn (mit einem A.)', // duplicated
-'Albernheit, albern, herum-',
+'Affenzahn (mit einem A.)', // dup
+'Albernheit, albern, herum-', // dup
 'alle naselang',  
 'Allerwerteste',   // Allerwerteste:  
 'alteingesessen',  // alteingesessen: 
-'am Wickel haben',  // duplicated
+'am Wickel haben',  // dup
 'an den Pranger',  
 'an der Backe haben',  
-'an die große Glocke hängen', // duplicated  
+'an die große Glocke hängen', // dup  
 'anbändeln',    // anbändeln: 
 'anberaumen',  // anberaumen: 
 'anbiedern, Anbiederung', 
-'anbinden, kurz angebunden',   // duplicated  
+'anbinden, kurz angebunden',   // dup  
 'anblaffen',    // anblaffen:    
 'anbrechen',    // anbrechen:  
 'andrehen',   // andrehen: 

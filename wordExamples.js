@@ -6510,7 +6510,8 @@ Schachtel: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Und dann waren sie (<i>Rath und seine Schwiegermutter</i>) auch schon da. Rath nahm den Koffer und die Hut<b>schachtel</b>, Luise Ritter ihre Handtasche. Mit der ihr eigenen unerschütterlichen Zuversicht betrat sie die Wohnung... (<i>Olympia</i>, 126)',
     'Mit Abstauben fing sie (<i>Charly</i>) an, das machte sie immer zuerst. Den Staubwedel in der Hand, ertappte sie sich dabei, wie sie die Suite von Mrs Morgan nach irgendetwas absuchte, das ihr einen Hinweis auf ein mögliches Mordmotiv an Walter Morgan geben konnte, aber da war nichts Auffälliges. Wenn man von der Größe der Gepäckstücke absah; zwei große Koffer,.. dazu ein Schrankkoffer und mehrere Reisetaschen und Hut<b>schachteln</b>. (<i>Olympia</i>, 248-49)',
-xxx    '<i>Charly</i>: "Hab zu tun." <i>Knoop</i>: "Ja, die halten einen hier ganz schön auf Trab, wa? Wenn man sich keene Pausen nimmt, dann kriegt man ooch keene." Er zog eine Zigaretten<b>schachtel</b> aus seiner betressten Jacke. "Rauchst du?" Sie nickte. (<i>Olympia</i>, 250)',
+// xxx
+    '<i>Charly</i>: "Hab zu tun." <i>Knoop</i>: "Ja, die halten einen hier ganz schön auf Trab, wa? Wenn man sich keene Pausen nimmt, dann kriegt man ooch keene." Er zog eine Zigaretten<b>schachtel</b> aus seiner betressten Jacke. "Rauchst du?" Sie nickte. (<i>Olympia</i>, 250)',
 ],
 Karosserie: [
     'die <b>Karosserie</b>,-<b>n</b>: car body, coach'+

@@ -39,7 +39,8 @@ const g = [
 'geknickt, knicken, ein-',
 'Gekrächz',  // Gekrächz: 
 'Gelände',   // Gelände:  
-'Geländer',  // Geländer:  
+'Geländer',  // Geländer:
+'Geläuf',  // Geläuf:  
 //'Geleit, geleiten, hinaus-',     
 'gelinde',   // gelinde:  
 'Gemächt',  // Gemächt: 

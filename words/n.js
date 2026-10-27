@@ -4,12 +4,13 @@ const n = [
   'nachhaken',  // nachhaken: 
   'Nachhut', // Nachhut:  
   'nachsetzen',  // nachsetzen: 
-  'Nacht um die Ohren schlagen',  // duplicated, with "Ohren"  
+  'Nacht um die Ohren schlagen',  // dup, with "Ohren"  
   'nagen',  // nagen: 
-  'Napf',  // Napf:  
-  'Nase (auf der N. herumtanzen)', //  duplicated 
-  'Nase (auf die N. binden)',  //  duplicated  
-  'Nase (lange N. zeigen/machen)', //  duplicated 
+  'Napf',  // Napf: 
+  'Nase (an der N. herumführen)',  // dup   Nase cannot find
+  'Nase (auf der N. herumtanzen)', //  dup 
+  'Nase (auf die N. binden)',  //  dup  
+  'Nase (lange N. zeigen/machen)', //  dup 
   'Nepp',  // Nepp: 
   'Nervensäge', // Nervensäge: 
   'Nessel (sich in die N. setzen)',

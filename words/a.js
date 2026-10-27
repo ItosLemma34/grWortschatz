@@ -47,7 +47,8 @@ const a = [
 'alteingesessen',  // alteingesessen: 
 'am Wickel haben',  // dup
 'an den Pranger',  
-'an der Backe haben',  
+'an der Backe haben', 
+'an der Nase herumführen',  // dup   Nase cannot find
 'an die große Glocke hängen', // dup  
 'anbändeln',    // anbändeln: 
 'anberaumen',  // anberaumen: 

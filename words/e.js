@@ -33,16 +33,16 @@ const e = [
 'einnebeln',  // einnebeln: 
 'einnicken',  // einnicken: 
 'einnisten',  // einnisten:
-'Einöde, öde',   // duplicated  
+'Einöde, öde',   // dup  
 'einrasten',  // einrasten:  
 'einrenken', // einrenken:      
-'einrüsten, Gerüst', // duplicated  
+'einrüsten, Gerüst', // dup  
 'einsacken',  // einsacken: 
 'einschärfen',  // einschärfen:
 'einschleusen',  //  einschleusen: 
 'einschneien, eingeschneit', 
 'einseifen',  // einseifen: 
-'einspannen, ausspannen', // duplicated  
+'einspannen, ausspannen', // dup  
 'Einstand' ,  // Einstand: 
 'einstäuben',  // einstäuben:  
 'einstecken',  // einstecken: 
@@ -75,7 +75,7 @@ const e = [
 'erhaschen',   // erhaschen: 
 'erheblich, un-',  
 'Erker', // Erker:   
-'erkiesen',   // erkiesen:  
+'erkoren, aus-',    
 'erpicht',   // erpicht: 
 'erschallen',  // erschallen:
 'erschauern, schauern',  // duplicated  

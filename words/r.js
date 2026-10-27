@@ -78,6 +78,7 @@ const r = [
 'Rüsche', // Rüsche: 
 'Ruß, verrußt',  // duplicated 
 'rüstig', // rüstig: 
+'RZ1',
 ];
 
 export default r;      

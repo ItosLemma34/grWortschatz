@@ -16,7 +16,7 @@ const w = [
 'Watte, Wattebausch', 
 'weben, verweben', // duplicated
 'Wecker (auf den W. gehen)',  //  duplicated 
-'wedeln, aus-, herum-, hinaus-',  
+'Wedel, wedeln, aus-, herum-, hinaus-',  
 'wegätzen, ätzen',  // duplicated 
 'wegducken, ducken',  // duplicated 
 'Wehwehchen',  // Wehwehchen:  

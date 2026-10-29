@@ -224,6 +224,34 @@ betresst: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     ' (<i>Olympia</i>, 000)',
 ],
+// FINISH
+entblöden: [  
+    '<b>sich entblöden</b>: have the nerve/audacity, not be ashamed to do sth.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/entbloeden"target="target1">entblöden</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/entbl%C3%B6den"target="target2">entblöden</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/entbloden"target="target3">entblöden</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=entbl%C3%B6den&id=verb%3Aentblo3den"target="target4">entblöden</a>',
+    // Der nasse Fisch
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Er (<i>Tornow</i>) hatte sich gewundert, die Witwe hatte nicht nur ihr eigenes Dienstmädchen mit über den Atlantik gebracht, sondern auch ihren eigenen Sekretär. Einen jungen, schlaksigen Amerikaner namens Henry, der <b>sich nicht entblödete</b>, für eine Frau zu arbeiten. (<i>Olympia</i>, 255-56)',
+],
 Geläuf: [  
     'das <b>Geläuf</b>,-<b>e</b>: turf (sport); tracks (of game birds)'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -3937,7 +3965,7 @@ schmählich: [
     'Eine Zimmerwirtin holt ihre kommunistischen Freunde, um einem säumigen Mieter eine Abreibung zu verpassen... Die Abreibung eskaliert, der SA-Sturmführer bekommt noch an der Tür einen Schuss ins Gesicht. Ein Schuss, der ihn zum Märtyrer der Völkischen macht. Ein komischer Heiliger, dieser Wessel. Ein junger Pfarrerssohn, der in kürzester Zeit die SA in Friedrichshain auf Trab gebracht hatte. Sich dann in eine Nutte verliebt und seine SA seither <b>schmählich</b> vernachlässigt hatte.  (<i>Der stumme Tod</i>, 203-04)',
 ],
 'auf Trab bringen/halten': [
-    '<b>auf Trab bringen/halten</b>: get/keep things going, bring up to speed'+
+    '<b>auf Trab bringen/halten</b>: get/keep things going, keep so. on their toes; bring up to speed'+
     '<br>Deutsch:&nbsp;&nbsp;'+
     '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=auf+Trab+bringen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">auf Trab bringen/halten</a>&nbsp;&nbsp;'+
     '<a href="https://www.dwds.de/wb/jmdn.%2C%20etw.%20auf%20Trab%20bringen"target="target2">auf Trab bringen/halten</a>'+
@@ -3951,9 +3979,10 @@ schmählich: [
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Eine Zimmerwirtin holt ihre kommunistischen Freunde, um einem säumigen Mieter eine Abreibung zu verpassen... Die Abreibung eskaliert, der SA-Sturmführer bekommt noch an der Tür einen Schuss ins Gesicht. Ein Schuss, der ihn zum Märtyrer der Völkischen macht. Ein komischer Heiliger, dieser Wessel. Ein junger Pfarrerssohn, der in kürzester Zeit die SA in Friedrichshain <b>auf Trab gebracht</b> hatte. (<i>Der stumme Tod</i>, 203-04)',
     // 255
-    // Olympia
+    // Olympia  
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Charly</i>: "Hab zu tun." <i>Knoop</i>: "Ja, die <b>halten</b> einen hier ganz schön <b>auf Trab</b>, wa? Wenn man sich keene Pausen nimmt, dann kriegt man ooch keene." Er zog eine Zigarettenschachtel aus seiner betressten Jacke. "Rauchst du?" Sie nickte. (<i>Olympia</i>, 250)',
+    '<i>Knoop zu Charly</i>: "Ihr Mann (<i>Walter Morgan</i>), für den die Suite gebucht wurde, ist schon über eine Woche tot. Trotzdem wurde dreißigelf nicht weitervermietet. Ist ja auch für drei Wochen bezahlt. Und jetzt ist seine Frau da eingezogen. Und <b>hält</b> die ganze Etage <b>auf Trab</b>, genau wie er." (<i>Olympia</i>, 251)',
 ],
 'abreiben, Abreibung': [
     '<b>reiben</b>: rub (<i>examples with just</i> "<i>reiben</i>" <i>not included</i>)'+
@@ -6510,7 +6539,6 @@ Schachtel: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Und dann waren sie (<i>Rath und seine Schwiegermutter</i>) auch schon da. Rath nahm den Koffer und die Hut<b>schachtel</b>, Luise Ritter ihre Handtasche. Mit der ihr eigenen unerschütterlichen Zuversicht betrat sie die Wohnung... (<i>Olympia</i>, 126)',
     'Mit Abstauben fing sie (<i>Charly</i>) an, das machte sie immer zuerst. Den Staubwedel in der Hand, ertappte sie sich dabei, wie sie die Suite von Mrs Morgan nach irgendetwas absuchte, das ihr einen Hinweis auf ein mögliches Mordmotiv an Walter Morgan geben konnte, aber da war nichts Auffälliges. Wenn man von der Größe der Gepäckstücke absah; zwei große Koffer,.. dazu ein Schrankkoffer und mehrere Reisetaschen und Hut<b>schachteln</b>. (<i>Olympia</i>, 248-49)',
-// xxx
     '<i>Charly</i>: "Hab zu tun." <i>Knoop</i>: "Ja, die halten einen hier ganz schön auf Trab, wa? Wenn man sich keene Pausen nimmt, dann kriegt man ooch keene." Er zog eine Zigaretten<b>schachtel</b> aus seiner betressten Jacke. "Rauchst du?" Sie nickte. (<i>Olympia</i>, 250)',
 ],
 Karosserie: [
@@ -11143,6 +11171,7 @@ Marotte: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Knoop zu Charly</i>: "Nun sollten wir aber sehen, dass wir hier verschwinden. Die Morgan ist nicht besser als ihr Mann. Die will allein speisen. Hat mich gestern schon deswegen angepflaumt. Die Amis mit ihren <b>Marotten</b>." (<i>Olympia</i>, 250)',
+    '<i>Charly</i>: "Was war denn mit dem?" <i>Knoop</i>: "Der Morgan? Arroganter Pinsel. Hat gerade mal eine Nacht hier verbracht, dann ist er gestorben. Zum Glück nicht hier im Hotel. Irgendwo draußen, erzählen sie, und keiner weiß wo. War keiner hier wirklich traurig. Mit seinen <b>Marotten</b> hat der Mann uns alle in der kurzen Zeit schon in den Wahnsinn getrieben..." (<i>Olympia</i>, 251)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -11868,8 +11897,12 @@ aufwiegen: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 anwidern: [
     '<b>anwidern</b>: disgust, nauseate, sicken'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anwidern"target="target1">anwidern</a> &nbsp;<a href="https://www.dwds.de/wb/anwidern"target="target2">anwidern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anwidern"target="target3">anwidern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anwidern"target="target4">anwidern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anwidern"target="target1">anwidern</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/anwidern"target="target2">anwidern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anwidern"target="target3">anwidern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anwidern"target="target4">anwidern</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Sie (<i>die Intellektuellen</i>) waren es die Raub zur Ideologie erhoben. Solange er nur massenhaft erfolgte, konnte man es Revolution nennen und wissenschaftlich begründen. Diese Ideologen <b>widerten</b> Rath besonders <b>an</b>, Wirrköpfe, die immer alles besser wussten, die glaubten, die Wahrheit für sich gepachtet zu haben. (<i>Der nasse Fisch</i>, 78)',
@@ -11884,6 +11917,9 @@ anwidern: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Rath gähnte. Selten hatte ihn die Langeweile der tägichen Morgenlage so <b>angewidert</b> wie heute. (<i>Marlow</i>, 112)',
     'Sowa wollte noch etwas sagen, doch ihr Gespräch wurde gestört. Wie aus dem Boden gewachsen stand plötzlich Kuen-Yao neben ihnen. "Wenn Sie mich nun entschuldigen wollen, Gruppenführer..", sagte Sowa und warf Kuen-Yao einen <b>angewidert</b> arroganten Seitenblick zu, "wir können unsere Unterhaltung ja bei geeigneter Gelegnheit fortsetzen." (<i>Marlow</i>, 243)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Knoop zu Charly</i>: ".. Jeden Gang des Willkommens-Diners hat er (<i>Walter Morgan</i>) mit seiner Sauce versaut. Und..." Wieder sprach er leiser, als gehöre es sich nicht, so über einen Gast, zumal einen verstorbenen zu reden. "...er hat die <i>Olympia Special Sauce</i> sogar über sein Frühstück gekippt."  Charly machte als Zeichen ihrer Zustimmung ein <b>angewidertes</b> Gesicht, und der Kellner redete weiter. (<i>Olympia</i>, 252)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Allerwerteste: [
@@ -15718,6 +15754,7 @@ ergattern: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Am Sonntag hatte auf dem weiten Geläuf des Truppenübungsplatzes ihrer Kaserne der olympische Reitwettbewerb im Modernen Fünfkampf stattgefunden: Fünftausend Meter Geländeritt, bis zu drei Meter hohe Hindernisse. Tausende Zivilisten hatten sich auf dem Militärgelände getummelt, alle, die eine Einstrittskarte hatten <b>ergattern</b> können. (<i>Olympia</i>, 242-43)',
+    'Wenig später saßen sie (<i>Charly und Marie Niemann</i>) im überfüllten Café Josty und schauten auf den Potsdamer Platz. Auf der Terrasse war alles voller Olympiatouristen, aber drinnen hatten sie noch einen Tisch am Fenster <b>ergattern</b> können. (<i>Olympia</i>, 254)',
 ],
 // ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
 //(<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -21200,8 +21237,12 @@ Luder: [
 ],
 lugen: [
     '<b>lugen</b>: look, peep, peer'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/lugen"target="target1">lugen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/lugen"target="target2">lugen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/lugen"target="target3">lugen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=lugen"target="target4">lugen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/lugen"target="target1">lugen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/lugen"target="target2">lugen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/lugen"target="target3">lugen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=lugen"target="target4">lugen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Wolter machte Räuberleiter, Rath zog sich an dem glitschig nassen Holz hoch und <b>lugte</b> über die Bretterwand. (<i>Der nasse Fisch</i>, 23)',
@@ -22625,34 +22666,71 @@ Pfau: [
     '<span class="bookTitle"><u>Marlow</u></span>', 
     '<i>Luise Ritter zu Rath</i>: ".. Wäre doch viel schöner, wenn wir beide zusammen nach Nürnberg fahren, nicht wahr?" Na prima! Das war ein Ansinnen, das Rath unmöglich ausschlagen konnte. Und zugleich eine Horrorvorstellung: Zusammen mit der eigenen Schwiegermutter über Stunden auf engstem Raum (<i>im Auto</i>) <b>zusammengepfercht</b>. (<i>Marlow</i>, 241)',
 ],
-'pinseln, bepinseln': [
-    '<b>pinseln</b>: paint, brush &nbsp;<i>similar</i>: <b>bepinseln</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pinseln"target="target1">pinseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bepinseln"target="target2">bepinseln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pinseln"target="target3">pinseln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bepinseln"target="target4">bepinseln</a>',
+'Pinsel, pinseln, bepinseln': [
+    'der <b>Pinsel</b>: (paint)brush; stuck-up prig, conceited ass'+
+    '<br><b>pinseln</b>: paint, brush &nbsp;<i>similar</i>: <b>bepinseln</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Pinsel_Werkzeug"target="target1">Pinsel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/pinseln"target="target2">pinseln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/bepinseln"target="target3">bepinseln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/pinsel"target="target4">Pinsel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/pinseln"target="target5">pinseln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=bepinseln"target="target6">bepinseln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Nehmt eure Rechte wahr! Demonstriert am 1. Mai!</i> hatte jemand mit roter Farbe quer über den Bauzaun <b>gepinselt</b> und dabei gleich mehrere Werbebotschaften verhunzt. (<i>Der nasse Fisch</i>, 23)',
+    'Es klopfte.. "Ja bitte?" "Kriminalkommissar Gero Rath?" "Gereon!" "Die Schildermaler, Herr Kommissar.".."Schön. Dann legen Sie mal los.. Aber denken Sie dran: Gereon." "Steht ja auch hier." Der Maler wedelte mit dem Zettel. Umständlich packte er seine Farben, <b>Pinsel</b> und Shablonen aus und stellte sich vor die geöffnete Tür... Der Mann <b>pinselte</b> in aller Seelenruhe vor sich hin. Manchmal beneidete Rath solche Menschen um ihre Ruhe. (<i>Der nasse Fisch</i>, 372)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die Fotos zeigten allesamt dasselbe. Eine nackte Ziegelwand, eine Brandmauer, wie sie zu Hunderten im Wedding...oder anderen Arbeitergegenden zu sehen waren. Und quer darüber hatte jemand mit weißer Farbe <b>gepinselt</b>: <i>Deutschland erwache, Juda verrecke</i>! (<i>Märzgefallene</i>, 29)',
     'Deswegen waren die Fotos auf ihrem (<i>Charlys</i>) Schreibtisch gelandet. Weil die Politische Polizei vermutete, dass die Parole von irgendeiner wilden Clique dorthin <b>gepinselt</b> worden war, und Jugendbanden fielen in den Bereich der Weiblichen Kriminalpolizei. (<i>Märzgefallene</i>, 30)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Alles deutete darauf hin, dass Rottenführer Kaczmarek auf dem Heimweg von Kneipe und Kumpanen einen Trupp kommunistischer Widerständler beim Parolen<b>pinseln</b> erwischt und das mit dem Leben bezahlt hatte. (<i>Lunapark</i>, 36)',
     'Die Akte enthielt Fotos, die.. kommunistische Parolen zeigten, an Hauswänden, Mauern, Baustellenzäunen, sogar Litfaßsäulen.. ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHISTEN! Sogar die Handschrift war identisch, wenn man bei meterhoch <b>gepinselten</b> Buchstaben überhaupt von so etwas wie einer Handschrift sprechen konnte. (<i>Lunapark</i>, 54)',
     '"Verstehe", sagte Rath. "Ihr (<i>Gräf und die Staatspolizei</i>) hofft also, das ihr, wenn ihr diesem Wolff auf die Spur kommt, gleich eine ganze Bande Rotfrontkämpfer schnappt, die auf Stalins Geheiß in Berlin Wände <b>bepinselt</b>. (<i>Lunapark</i>, 57)',
+    'ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHI... Der letzte Buchstabe, das große I, war durch verlaufene Farbe nach unten verlängert worden. Als habe der Maler, als er Horst Kaczmarek erblickte, den <b>Pinsel</b> schrecksstarr viel zu lange auf dieselbe Stelle gedrückt. (<i>Lunapark</i>, 83)',
+    'Er (<i>Leo Juretska</i>) hatte an der Litfaßsäule.. gestanden, nicht weit von Katsches Haus, und gewartet. Schon Mitternacht durch,.. da erschienen die anderen (<i>seine kommunistischen Kollegen</i>) auf der Bildfläche, von der Ackerstraße her,.. wo Leo auf Katsche wartete, und er hatte sich hinter der Litfaßsäule versteckt und gehofft, die Kerle mochten so schnell als möglich weiterziehen. Doch sie waren stehen geblieben,.. hatten getuschelt, und als Leo einmal um die Säule lugte, sah er, dass sie zu <b>pinseln</b> begonnen hatten, ganz langsam und aufreizend. (<i>Lunapark</i>, 248)',
+    '<i>Lange</i>: Wie es aussieht, wollte Kaczmarek seine perverse Kunstfertigkeit auch anwenden, als er die Wolff-Leute unter der Eisenbahnbrücke beim <b>Pinseln</b> erwischte. Nur ist er an den Falschen geraten. An Walter Spindler.  (<i>Lunapark</i>, 267)',
+    'Alexandra Reinhold glaubte nach wie vor, heute irgendeiner Widerstandgruppe beizutreten und bald womöglich Flugblätter verteilen oder Parolen an die Wände <b>pinzeln</b> zu müssen. (<i>Lunapark</i>, 319)',  
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Charly</i>: "Was war denn mit dem?" <i>Knoop</i>: "Der Morgan? Arroganter <b>Pinsel</b>. Hat gerade mal eine Nacht hier verbracht, dann ist er gestorben." (<i>Olympia</i>, 251)',
 ],
-'bepinseln, pinseln': [
-    '<b>pinseln</b>: paint, brush &nbsp;<i>similar</i>: <b>bepinseln</b>'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pinseln"target="target1">pinseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/bepinseln"target="target2">bepinseln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pinseln"target="target3">pinseln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=bepinseln"target="target4">bepinseln</a>',
+'bepinseln, Pinsel, pinseln': [
+    'der <b>Pinsel</b>: (paint)brush; stuck-up prig, conceited ass'+
+    '<br><b>pinseln</b>: paint, brush &nbsp;<i>similar</i>: <b>bepinseln</b>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Pinsel_Werkzeug"target="target1">Pinsel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/pinseln"target="target2">pinseln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/bepinseln"target="target3">bepinseln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/pinsel"target="target4">Pinsel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/pinseln"target="target5">pinseln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=bepinseln"target="target6">bepinseln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Nehmt eure Rechte wahr! Demonstriert am 1. Mai!</i> hatte jemand mit roter Farbe quer über den Bauzaun <b>gepinselt</b> und dabei gleich mehrere Werbebotschaften verhunzt. (<i>Der nasse Fisch</i>, 23)',
+    'Es klopfte.. "Ja bitte?" "Kriminalkommissar Gero Rath?" "Gereon!" "Die Schildermaler, Herr Kommissar.".."Schön. Dann legen Sie mal los.. Aber denken Sie dran: Gereon." "Steht ja auch hier." Der Maler wedelte mit dem Zettel. Umständlich packte er seine Farben, <b>Pinsel</b> und Shablonen aus und stellte sich vor die geöffnete Tür... Der Mann <b>pinselte</b> in aller Seelenruhe vor sich hin. Manchmal beneidete Rath solche Menschen um ihre Ruhe. (<i>Der nasse Fisch</i>, 372)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Die Fotos zeigten allesamt dasselbe. Eine nackte Ziegelwand, eine Brandmauer, wie sie zu Hunderten im Wedding...oder anderen Arbeitergegenden zu sehen waren. Und quer darüber hatte jemand mit weißer Farbe <b>gepinselt</b>: <i>Deutschland erwache, Juda verrecke</i>! (<i>Märzgefallene</i>, 29)',
     'Deswegen waren die Fotos auf ihrem (<i>Charlys</i>) Schreibtisch gelandet. Weil die Politische Polizei vermutete, dass die Parole von irgendeiner wilden Clique dorthin <b>gepinselt</b> worden war, und Jugendbanden fielen in den Bereich der Weiblichen Kriminalpolizei. (<i>Märzgefallene</i>, 30)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Alles deutete darauf hin, dass Rottenführer Kaczmarek auf dem Heimweg von Kneipe und Kumpanen einen Trupp kommunistischer Widerständler beim Parolen<b>pinseln</b> erwischt und das mit dem Leben bezahlt hatte. (<i>Lunapark</i>, 36)',
     'Die Akte enthielt Fotos, die.. kommunistische Parolen zeigten, an Hauswänden, Mauern, Baustellenzäunen, sogar Litfaßsäulen.. ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHISTEN! Sogar die Handschrift war identisch, wenn man bei meterhoch <b>gepinselten</b> Buchstaben überhaupt von so etwas wie einer Handschrift sprechen konnte. (<i>Lunapark</i>, 54)',
     '"Verstehe", sagte Rath. "Ihr (<i>Gräf und die Staatspolizei</i>) hofft also, das ihr, wenn ihr diesem Wolff auf die Spur kommt, gleich eine ganze Bande Rotfrontkämpfer schnappt, die auf Stalins Geheiß in Berlin Wände <b>bepinselt</b>. (<i>Lunapark</i>, 57)',
+    'ARBEITER WEHRT EUCH! TOD DEN HITLERFASCHI... Der letzte Buchstabe, das große I, war durch verlaufene Farbe nach unten verlängert worden. Als habe der Maler, als er Horst Kaczmarek erblickte, den <b>Pinsel</b> schrecksstarr viel zu lange auf dieselbe Stelle gedrückt. (<i>Lunapark</i>, 83)',
+    'Er (<i>Leo Juretska</i>) hatte an der Litfaßsäule.. gestanden, nicht weit von Katsches Haus, und gewartet. Schon Mitternacht durch,.. da erschienen die anderen (<i>seine kommunistischen Kollegen</i>) auf der Bildfläche, von der Ackerstraße her,.. wo Leo auf Katsche wartete, und er hatte sich hinter der Litfaßsäule versteckt und gehofft, die Kerle mochten so schnell als möglich weiterziehen. Doch sie waren stehen geblieben,.. hatten getuschelt, und als Leo einmal um die Säule lugte, sah er, dass sie zu <b>pinseln</b> begonnen hatten, ganz langsam und aufreizend. (<i>Lunapark</i>, 248)',
+    '<i>Lange</i>: Wie es aussieht, wollte Kaczmarek seine perverse Kunstfertigkeit auch anwenden, als er die Wolff-Leute unter der Eisenbahnbrücke beim <b>Pinseln</b> erwischte. Nur ist er an den Falschen geraten. An Walter Spindler.  (<i>Lunapark</i>, 267)',
+    'Alexandra Reinhold glaubte nach wie vor, heute irgendeiner Widerstandgruppe beizutreten und bald womöglich Flugblätter verteilen oder Parolen an die Wände <b>pinzeln</b> zu müssen. (<i>Lunapark</i>, 319)',  
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '<i>Charly</i>: "Was war denn mit dem?" <i>Knoop</i>: "Der Morgan? Arroganter <b>Pinsel</b>. Hat gerade mal eine Nacht hier verbracht, dann ist er gestorben." (<i>Olympia</i>, 251)',
 ],
+
 pfiffig: [
     '<b>pfiffig</b>: sharp, shrewd, cunning, roguish'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/pfiffig"target="target1">pfiffig</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pfiffig"target="target2">pfiffig</a>'+
@@ -23629,6 +23707,7 @@ roden: [
     '"Ich bin dann mal weg", sagte einer der Männer in Weiß und trat seine Zigarette aus. Ein <b>schlaksiger</b> Kerl, dessen Arme und Beine zu lang geraten schienen. (<i>Olympia</i>, 135)',
     '"Hey, Junge", sagte Rath, "warte mal!" Der <b>Schlaks</b> blieb stehen und guckte wie ertappt. "Du bist vom Jugendehrendienst, order?" "Jawohl, Oberkommissar", klang es schuldbewusst. "Müsstest du nicht eigentlich längst im Bett sein?" Der Junge druckste herum und sagte nichts. (<i>Olympia</i>, 135)',
     '"Du heißt, Rönnberg, Junge?", fragte er (<i>Rath</i>) den <b>Schlaks</b>. "Ja." "Hinnerk Rönnberg?" "Ja." (<i>Olympia</i>, 136)',
+    'Er (<i>Tornow</i>) hatte sich gewundert, die Witwe hatte nicht nur ihr eigenes Dienstmädchen mit über den Atlantik gebracht, sondern auch ihren eigenen Sekretär. Einen jungen, <b>schlaksigen</b> Amerikaner namens Henry, der sich nicht entblödete, für eine Frau zu arbeiten. (<i>Olympia</i>, 255-56)',
 ],
 schwafeln: [
     '<b>schwafeln</b>: babble,  blather on,  talk drivel'+
@@ -24658,6 +24737,7 @@ Stulle: [
     '"Willste denn nüscht essen?", fragte das Mädchen (<i>Marie</i>). "Hab nix dabei." Charly zuckte die Achseln. "Ging heute morgen alles so schnell." "Wenn du willst, kannste eene von meinen <b>Stullen</b> haben." (<i>Olympia</i>, 209)',
     'Kaum hatte Marie ihre <b>Stulle</b> vertilgt, in einem beeindruckenden Tempo, stand sie auch schon wieder auf. "Wir müssen. Sonst gibt\'s Ärger mit ollen Geinitz, und wir können uns die nächste Pause in die Haare schmieren." (<i>Olympia</i>, 209)',
     'Sie (<i>Charly</i>) hatte keine Mittagspause gehabt, ihr Magen knurrte trotz des Käsebrotes. Morgen würde sie sich besser vorbereiten und ein paar <b>Stullen</b> einpacken. (<i>Olympia</i>, 223)',
+    'Der Kellner brachte die Getränke, und Charly bot dem Mädchen eine <i>Juno</i> an. "Danke", sagte Marie und griff zu. "Ist doch selbstverständlich." Charly riss ein Streichholz an. "Du hast mir gestern mit deiner <b>Stulle</b> das Leben gerettet." (<i>Olympia</i>, 254)',
 ],
 schnieke: [
     '<b>schnieke</b>: stylish, snazzy, swish'+
@@ -27707,8 +27787,12 @@ Ventil: [
 ],
 versauen: [
     '<b>versauen</b>: ruin, mess up; botch things'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versauen"target="target1">versauen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versauen"target="target2">versauen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versauen"target="target3">versauen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versauen"target="target4">versauen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/versauen"target="target1">versauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/versauen"target="target2">versauen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/versauen"target="target3">versauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=versauen"target="target4">versauen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Von wegen: meine (<i>Böhms</i>) Schuld! Nein, es ist ganz allein seine Schuld, die Schuld eines unbekannten Mannes, den man aus dem Landwehrkanal gefischt hat. Er ist es, der uns (<i>Böhm, Charly</i>) den Abend <b>versaut</b> hat. (<i>Der nasse Fisch</i>, 62)',
@@ -27734,6 +27818,7 @@ versauen: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     '<i>Rath zu Gräf</i>: "Was willst du, ich bin doch hier. Auch wenn dein Anruf aus heiterem Himmel kam - nach sechs Wochen Funkstille - und du mir den Abend <b>versaut</b> hast. Mir und Charly. Es ist Samstag, verdammt nochmal!" <i>Gräf</i>: "Hör auf zu jammern. Mir hat man auch den Abend <b>versaut</b>. So ist das eben in unserem Beruf." (<i>Olympia</i>, 29)',
     '"Na", sagte Schröder (<i>zu Fritze</i>), "ooch mit der Riefenstahl zusammengerasselt? Bei der musste uffpassen, die versteht keenen Spaß. Und hat \'nen guten Draht zum Führer. Wenn die dem erzählt, dass du den Olympiafilm <b>versaut</b> hast, stecken sie dich glatt ins Arbeitslager." (<i>Olympia</i>, 188)',
+    '<i>Knoop zu Charly</i>: ".. Jeden Gang des Willkommens-Diners hat er (<i>Walter Morgan</i>) mit seiner Sauce <b>versaut</b>. Und..." Wieder sprach er leiser, als gehöre es sich nicht, so über einen Gast, zumal einen verstorbenen zu reden. "...er hat die <i>Olympia Special Sauce</i> sogar über sein Frühstück gekippt." (<i>Olympia</i>, 252)',
 ],
 verwittern: [
     '<b>verwittern</b>: wear, weather, decay'+

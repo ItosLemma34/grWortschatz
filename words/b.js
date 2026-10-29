@@ -38,12 +38,12 @@ const b = [
 //  'belegt',  // belegt:    complete with belegen?
 'Bengel',     // Bengel:  
 'benommen',   // benommen: 
-'bepinseln, pinseln', //  duplicated 
-'bequemen, herbequemen', // duplicate
+'bepinseln, Pinsel, pinseln', //  dupl 
+'bequemen, herbequemen', // dupl
 'berappen',   // berappen:  
 'beredt',     // beredt:  
 'Beritt, beritten',     
-'besaitet, zartbesaitet',  // duplicated
+'besaitet, zartbesaitet',  // dup
 'beschaulich',
 'bescheren, Bescherung',
 'bescheuert',  // bescheuert: 

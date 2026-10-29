@@ -31,14 +31,14 @@ const l = [
 'Leibesvisitation', // Leibesvisitation: 
 'Leier',  // Leier: 
 'leiern', // leiern:   
-'leimen, Leim, auf den L. gehen',  // duplicated  
+'leimen, Leim, auf den L. gehen',  // dup  
 'Leinen',  // Leinen:   
 'Leiste',  // Leiste: 
 'Lenz' ,  // Lenz: 
-'Licht unter den Scheffel',  // duplicated
+'Licht unter den Scheffel',  // dup
 'lichterloh brennen',   
 'Litfaßsäule',  // Litfaßsäule: 
-'Lobhudelei, lobhudeln, Hudelei',  //  duplicated 
+'Lobhudelei, lobhudeln, Hudelei',  //  dup 
 'löchern, Löcher in den Bauch fragen',  
 'lodern',  // lodern: 
 'loseisen',  // loseisen: 
@@ -46,7 +46,7 @@ const l = [
 'Lückenbüßer',  // Lückenbüßer:
 'Luder',  // Luder: 
 'lugen',  // lugen: 
-'Luke, Dachluke',  // duplicated
+'Luke, Dachluke',  // dup
 'Lümmel', // Lümmel:          
 'lumpen lassen (sich nicht)',  
 'Lunte riechen',  

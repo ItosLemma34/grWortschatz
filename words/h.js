@@ -71,8 +71,9 @@ const h = [
 'hobeln', // hobeln: 
 'hochgestochen', // hochgestochen: 
 'Hochstapler',  // Hochstapler:
-'hocken, Hocke, Hocker',  
+'hocken, Hocke, Hocker',
 'Hölle heißmachen',   
+'holprig, holperig',  
 'Holzstoß',  // Holzstoß: 
 'hopsnehmen', // hopsnehmen: 
 'horchen, -auf, -aus',  

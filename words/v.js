@@ -37,7 +37,8 @@ const v = [
 'verheddern',  // verheddern: 
 'verhexen',   // verhexen: 
 'verhöhnen',  // verhöhnen:
-'verhökern',  // verhökern: 
+'verhökern',  // verhökern:
+'verhüllen',  // verhüllen: 
 'verhunzen',  // verhunzen: 
 'verkatert, Kater',  //  duplicated 
 'verklemmt',  // verklemmt:

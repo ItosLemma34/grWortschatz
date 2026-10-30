@@ -29,22 +29,22 @@ const w = [
 'Wermutstropfen', // Wermutstropfen:
 'wettern',  // wettern: 
 'Wichs',  // Wichs:
-'Wickel (am W. haben)',  // duplicated 
+'Wickel (am W. haben)',  // dup 
 'Wickelgamasche',  // Wickelgamasche: 
 'Widerhaken', // Widerhaken: 
-'wie am Schnürchen', // duplicated
-'wie aus dem Ei gepellt',  //  duplicated 
+'wie am Schnürchen', // dupl
+'wie aus dem Ei gepellt',  //  dupl 
 'wie bestellt und nicht abgeholt',
 'wie ein Auto anschauen/anstarren/gucken',
 'wiehern', // wiehern:  
 'wienern', // wienern: 
-'wimmeln, Gewimmel',  //   duplicated 
+'wimmeln, Gewimmel',  //   dupl 
 'wimmern', // wimmern: 
 'Wimpel',  // Wimpel: 
 'Wimper',   // Wimper:  
-'Wind (durch den W. sein)', //  duplicated  
-'winden, gewunden',  //  duplicated 
-'Wink mit dem Zaunpfahl', //  duplicated    
+'Wind (durch den W. sein)', //  dup  
+'winden, gewunden',  //  dup
+'Wink mit dem Zaunpfahl', //  dup    
 'Winkel, winkeln, an-',  
 'Winkeladvokat',  // Winkeladvokat: 
 'winseln',  // winseln: 

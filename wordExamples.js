@@ -1,7 +1,7 @@
 export const wordExamples = {
 //general appearance:  a b c d e f g h i j k l m n o p q r s t u v 
 // next:  abgrasen:  
-//    ≈  ≈   ≈    ≈  ≈   ≈    ≈  ≈   ≈
+//    ≈  ≈   ≈    ≈  ≈   ≈    ≈  ≈   ≈ ≈  ≈   ≈  ≈  ≈   ≈  ≈  ≈   ≈  ≈  ≈   ≈        ≈  ≈   ≈         ≈  ≈   ≈     ≈  ≈   ≈
 // Olympia: already    used: '<i>Krömer</i>: "Was wollen denn Sie schon wieder?" Rath erklärte sein Anliegen. "Ein Einweckglas, sagen Sie?" Rath nickte. "Vielleicht auch eine Art Konfitüreglas. Mit Aufdruck. Muss Ihnen am Samstag zum <b>Spülen</b> gebracht worden sein." "Sie haben recht", sagte Krömer. "Ich musste ja den ganzen vollgekotzten Mist <b>wegspülen</b>. Und als ich den <b>Spülkorb</b> ausräume, finde ich da so ein Glas, wo ich nicht weiß, wo das her ist. War keines aus der Küche." "Genau das suche ich. Was war denn drin, bevor Sie’s <b>gespült</b> haben?" "Was weiß ich, da achtet man nicht drauf. Hab einfach alles weggekippt, was noch in den Schüsseln und so war. Schade um das ganze Essen, aber das vollgekotzte Zeug war ja nicht mal mehr was für den Schweineeimer."  (<i>Olympia</i>, 152)',
 // Check if all the "auf die Nase binden" captured
 //  check* if in other books
@@ -107,34 +107,28 @@ zzz: [
     ' (<i>Olympia</i>, 000)',
 ],
 */
-'deichseln, eindeichseln': [  // Finish  ≈  ≈   ≈
-    '<b>deichseln, eindeichseln</b>: arrange, engineer, wangle, finagle, pull sth. off'+
-    '<br><i>deichseln ≈ eindeichseln; deichseln more commonly listed in dictionaries</i>'+
+'Deichsel, deichseln, ein-': [  
+    'die <b>Deichsel</b>,-<b>n</b>: pole/shaft attached to a cart, wagon, for steering or attaching an animal/vehicle'+
+    '<br><b>deichseln ≈ eindeichseln</b>: arrange, engineer; wangle, finagle, pull sth. off'+
+    '<br><i><b>deichseln</b> more likely found in dictionaries</i>'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">deichseln</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">deichseln</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/Deichsel_Wagenteil"target="target1">Deichsel</a>&nbsp;&nbsp;'+  //  <a href="https://www.dwds.de/wb/Deichsel#1"target="target22">Deichsel</a>&nbsp;&nbsp;'+
+        '<a href="https://pixabay.com/de/images/search/deichsel/"target="target2">Deichsel fotos</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/deichseln"target="target3">deichseln</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">deichseln</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">deichseln</a>',
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/deichsel"target="target4">Deichsel</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=deichseln&id=verb%3Adeichseln"target="target5">deichseln</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    'Dann entdeckte er (<i>Rath</i>) ein Gesicht, das einen Blitz des Erkennens durch sein Gehirn zucken ließ. Ein Gesicht, das er in dieser Bildergalerie nicht erwartet hätte.. Fünf Männer an einem Artilleriegeschütz, sie wirkten müde, aber alle schauten sie stolz und zuversichtlich drein. Ein Hauptmann und vier Gefreite, ein Foto, wie sie damals zu Tausenden entstanden waren. Vorn auf der <b>Deichsel</b> saß, herrisch die Linke auf einen Stock gestützt, der Hauptmann. Alfred Seegers. Links am Wagenrad lehnte der Gefreite Rudolf Scheer, direkt hinter dem Hauptmann standen die Gefreiten Behnke und Wolter. (<i>Der nasse Fisch</i>, 447)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
+    '<i>Charly</i>: "Kannst du nicht zusehen, dass du persönlich ihn (<i>Karl Reinhold</i>) vernimmst?" <i>Gereon</i>: "Und dann?" "Was weiß ich? Wenn du erst mal mit ihm allein bist, wird sich schon irgendetwas <b>deichseln</b> lassen..." (<i>Lunapark</i>, 337)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
-    ' (<i>Olympia</i>, 000)',
+    '<i>Rath</i>: "Wenn Drägers Tod ein Mord war und der Mörder von außerhalb kommt, dann ist es doch denkbar, dass die Vergiftung Walter Morgans außerhalb des Olympischen Dorfes <b>eingedeichselt</b> wurde." (<i>Olympia</i>, 259)',
 ],
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  ä Ä ö Ö ü Ü ß  für über überhaupt Tür schön zurück können würde Straße (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>)  (<i>Charly</i>) (<i>Gereon</i>)            
 herumdrücken: [  // Finish
     '<b>herumdrücken</b>: hover, loiter, hang around'+
     '<br><b>sich um etwas herumdrücken</b>: try to get out of, avoid sth.'+
@@ -280,6 +274,34 @@ entblöden: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Er (<i>Tornow</i>) hatte sich gewundert, die Witwe hatte nicht nur ihr eigenes Dienstmädchen mit über den Atlantik gebracht, sondern auch ihren eigenen Sekretär. Einen jungen, schlaksigen Amerikaner namens Henry, der <b>sich nicht entblödete</b>, für eine Frau zu arbeiten. (<i>Olympia</i>, 255-56)',
+],
+'aus der Wäsche gucken': [  // Finish
+    '<b>aus der Wäsche gucken/schauen</b>: look dumbfounded, bewildered; completely taken aback.'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/dumm%20aus%20der%20W%C3%A4sche%20gucken"target="target1">aus der Wäsche gucken/schauen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.redensarten-index.de/suche.php?suchbegriff=dumm+aus+der+W%C3%A4sche+gucken&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">aus der Wäsche gucken/schauen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.hinative.com/questions/14408978"target="target3">aus der Wäsche gucken/schauen</a>&nbsp;&nbsp;'+
+        '<a href="https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/dumm+aus+der+W%C3%A4sche+gucken"target="target4">aus der Wäsche gucken/schauen</a>',
+    // Der nasse Fisch
+/*    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '   (<i>Der nasse Fisch</i>, 000)',
+    // Der stumme Tod
+    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    '   (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene 
+    '<span class="bookTile"><u>Märzgefallene</u></span>',    
+    '   (<i>Märzgefallene</i>, 000)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',   
+    '   (<i>Lunapark</i>, 000)',	
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',  
+    '    (<i>Marlow</i>, 000)',
+    */
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',  
+    '<i>Rath zu Gräf</i>: "..Bislang hat es noch keinen Skandal gegeben. Sollte das wirklich die Absicht hinter den Morden gewesen sein, dann ist es gründlich schiefgegangen und die Verantwortlichen dürften ganz schön enttäuscht <b>aus der Wäsche gucken</b>. Ich glaube nicht, dass sie in diesem Fall weitermorden." (<i>Olympia</i>, 261)',
 ],
 verhüllen: [  
     '<b>verhüllen</b>: obscure, mask, cloak, muffle, veil, enshroud'+
@@ -542,7 +564,7 @@ quäken: [
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
     'Bevor er den Satz zu Ende bringen konnte, trat der Rottenführer einen Schritt näher und rammte ihm seine Faust mit einer derartigen Wucht in die Magengrube, dass Adolf Osterberg <b>einknickte</b> und sich auf der Stelle übergab. (<i>Lunapark</i>, 10)',
-    // Knicks 397
+    // Knicks 397t
     // Marlow
     //'<span class="bookTitle"><u>Marlow</u></span>',  
     //'    (<i>Marlow</i>, 000)',
@@ -7946,13 +7968,6 @@ herrisch: [
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Dann entdeckte er (<i>Rath</i>) ein Gesicht, das einen Blitz des Erkennens durch sein Gehirn zucken ließ. Ein Gesicht, das er in dieser Bildergalerie nicht erwartet hätte.. Fünf Männer an einem Artilleriegeschüzt, sie wirkten müde, aber alle schauten sie stolz und zuversichtlich drein.. Vorn auf der Deichsel saß, <b>herrisch</b> die Linke auf einen Stock gestützt, der Hauptmann. Alfred Seegers... direkt hinter dem Hauptmann standen die Gefreite Behnke und Wolter. (<i>Der nasse Fisch</i>, 447)',
 ],
-Deichsel: [
-    'die <b>Deichsel</b>,-<b>n</b>: schaft, pole, towbar'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Deichsel_Wagenteil"target="target1">Deichsel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Deichsel#1"target="target2">Deichsel</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?client=firefox-b-1-d&channel=entpr&q=Deichsel"target="target3">Deichsel</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Deichsel&id=substantiv%3ADeichsel"target="target4">Deichsel</a>',
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
-    'Dann entdeckte er (<i>Rath</i>) ein Gesicht, das einen Blitz des Erkennens durch sein Gehirn zucken ließ. Ein Gesicht, das er in dieser Bildergalerie nicht erwartet hätte.. Fünf Männer an einem Artilleriegeschüzt, sie wirkten müde, aber alle schauten sie stolz und zuversichtlich drein.. Vorn auf der <b>Deichsel</b> saß, herrisch die Linke auf einen Stock gestützt, der Hauptmann. Alfred Seegers... direkt hinter dem Hauptmann standen die Gefreite Behnke und Wolter. (<i>Der nasse Fisch</i>, 447)',
-],
 Geschütz: [
     'das <b>Geschütz</b>,-<b>e</b>: cannon'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschuetz"target="target1">Geschütz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gesch%C3%BCtz"target="target2">Geschütz</a>'+
@@ -8167,6 +8182,7 @@ qualmen: [
     // Olympia    
     '<span class="bookTitle"><u>Olympia</u></span>',
     'In seinem HJ-Stamm war Rauchen verpönt, jedenfalls offiziell. Dennoch trafen sich einige Kameraden immer wieder heimlich nach dem Heimabend oder manchmal auch während eines Zeltlagers und <b>qualmten</b>, was das Zeug hielt. (<i>Olympia</i>, 88-89)',
+    'Rath legte seine <b>qualmende</b> Zigarette in den Aschenbecher und verließ Gräfs Büro ohne ein weiteres Wort. (<i>Olympia</i>, 262)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt überrascht Männer schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
@@ -10442,13 +10458,6 @@ schmächtig: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Zum ersten Mal sah Rath seinen früheren Partner in der Uniform der SS. Er erschrak ein wenig. Auch wenn Gräf darin ähnlich deplaziert wirkte wie sein Reichsführer, der <b>schmächtige</b> Himmler, so heischte die Uniform doch Respekt. (<i>Olympia</i>, 211)',
 ],
-deichseln: [
-    '<b>deichseln</b>: manage, pull off, engineer sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=deichseln&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target1">deichseln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/deichseln"target="target2">deichseln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/deichseln"target="target3">deichseln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=deichseln"target="target4">deichseln</a>',
-    '<span class="bookTitle"><u>Lunapark</u></span>',
-    '<i>Charly</i>: "Kannst du nicht zusehen, dass du persönlich ihn (<i>Karl Reinhold</i>) vernimmst?" <i>Gereon</i>: "Und dann?" "Was weiß ich? Wenn du erst mal mit ihm allein bist, wird sich schon irgendetwas <b>deichseln</b> lassen..." (<i>Lunapark</i>, 337)',
-],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 Bettfeder: [
@@ -11514,6 +11523,7 @@ bimmeln: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Er (<i>Fritze</i>) war aufgestanden mit seinen Einkaufstüten, obwohl noch ein halbes Stück Kuchen auf dem Teller wartete, und ging zur Tür. Beim Hinausgehen starrten ihn die Leute nicht weniger an, als sie es beim Hineinkommen getan hatten. Die Türklingel <b>bimmelte</b> laut. Charly überlegte einen Moment, ob sie ihm hinterherlaufen sollte, ließ es aber dann bleiben. (<i>Olympia</i>, 150)',
+    'Bevor sie noch etwas fragen konnte, <b>bimmelte</b> die Türglocke, und sie (<i>Charly und der Apotheker</i>) waren nicht mehr allein. Ein junges Mädchen betrat den Laden, das der vermeintlichen Konkurrentin (<i>Charly</i>) vor dem Tresen einen misstrauischen Seitenblick zuwarf. (<i>Olympia</i>, 265)',
 ],
 Beil: [
     'das <b>Beil</b>,-<b>e</b>: axe, hatchet'+
@@ -16961,11 +16971,11 @@ Gage: [
     '<br><b>getäfelt</b>: boarded, paneled'+
     '<br>die <b>Vertäfelung</b>,-<b>en</b>: wood paneling'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-    '<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;'+
-    '<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-    '<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;'+
-    '<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
+        '<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<b>getäfelten</b> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
@@ -16988,17 +16998,18 @@ Gage: [
     '<br><i>"langgestreckte, geschwungene Halle"</i>: <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holz<b>vertäfelten</b> Wand, und Rath betrat die Küche, folgte dem Spüler quer durch den Raum... (<i>Olympia</i>, 59)',
     'Die (<i>olympische</i>) Halle war zum Glück nicht weit; die Halle der Nationen, wie die Wehrmacht den Empfang nannte. An den holz<b>getäfelten</b> Schaltern beidseits des sanft geschwungenen Raumes herrschte normalerweise Hochbetrieb, jetzt jedoch war kaum etwas los. (<i>Olympia</i>, 169)',
+    'Ein Glöckchen klingelte hell, als sie (<i>Charly</i>) den Laden betrat. Hier drinnen war alles dunkel und holz<b>getäfelt</b>. Bis zur Decke reichende Regale voller Braunglasflaschen, in der Luft Mentholgeruch. Aus einer Tür inmitten der Regalwand kam ein Herr mit grauem Schnurrbart und weißem Kittel, der sie missbilligend anschaute. (<i>Olympia</i>, 263)',
 ],
 'Vertäfelung, täfeln, getäfelt': [
     '<b>täfeln</b>: to panel, line with wooden panels'+
     '<br><b>getäfelt</b>: boarded, paneled'+
     '<br>die <b>Vertäfelung</b>,-<b>en</b>: wood paneling'+
     '<br>Deutsch:&nbsp;&nbsp;'+
-    '<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;'+
-    '<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-    '<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;'+
-    '<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
+        '<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<b>getäfelten</b> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
@@ -17021,6 +17032,7 @@ Gage: [
     '<br><i>"langgestreckte, geschwungene Halle"</i>: <i>long, gently curving hall</i>; <i>"geschwungen" from "schwingen"</i>',
     'Kurz darauf öffnete sich eine unscheinbare Tür in der holz<b>vertäfelten</b> Wand, und Rath betrat die Küche, folgte dem Spüler quer durch den Raum... (<i>Olympia</i>, 59)',
     'Die (<i>olympische</i>) Halle war zum Glück nicht weit; die Halle der Nationen, wie die Wehrmacht den Empfang nannte. An den holz<b>getäfelten</b> Schaltern beidseits des sanft geschwungenen Raumes herrschte normalerweise Hochbetrieb, jetzt jedoch war kaum etwas los. (<i>Olympia</i>, 169)',
+    'Ein Glöckchen klingelte hell, als sie (<i>Charly</i>) den Laden betrat. Hier drinnen war alles dunkel und holz<b>getäfelt</b>. Bis zur Decke reichende Regale voller Braunglasflaschen, in der Luft Mentholgeruch. Aus einer Tür inmitten der Regalwand kam ein Herr mit grauem Schnurrbart und weißem Kittel, der sie missbilligend anschaute. (<i>Olympia</i>, 263)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gesittet: [
@@ -19921,6 +19933,7 @@ Kittel: [
     'Der SS-Mann im Arzt<b>kittel</b> nickte dem Obersturmbannführer zu und wies auf den dickbäuchigen Toten auf der Bahre. (<i>Olympia</i>, 33)',
     '"..Noch während des Mittagsmahls ist Morgan plötzlich zusammengebrochen.. Kollege Schmidt.." - Grawitz deutete auf den zweiten Weiß<b>kittel</b> - "..attestierte vor Ort Herzversagen als Todesursache und..." "Danke, Oberführer!", unterbrach Tornow. "Ich denke, es ist nicht nötig, dass Sie sich in Einzelheiten verlieren..." (<i>Olympia</i>, 33)',
     'Kurz darauf öffnete sich die Tür, und Goldstein stand einem grauhaarigen Mann gegenüber. Kein Diener in Livree oder Frack, wie man ihn in solch einem Anwesen erwartet hätte, sondern ein hagerer Mann in einem weißen Labor<b>kittel</b>, der die sechzig schon lange überschritten haben durfte. (<i>Olympia</i>, 129)',
+    'Ein Glöckchen klingelte hell, als sie (<i>Charly</i>) den Laden betrat. Hier drinnen war alles dunkel und holzgetäfelt. Bis zur Decke reichende Regale voller Braunglasflaschen, in der Luft Mentholgeruch. Aus einer Tür inmitten der Regalwand kam ein Herr mit grauem Schnurrbart und weißem <b>Kittel</b>, der sie missbilligend anschaute. (<i>Olympia</i>, 263)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 klamm: [
@@ -27075,6 +27088,8 @@ Tresen: [
     'Der Uniformierte schob ein Ausweispapier über den <b>Tresen</b>, das seinem Träger Zugang zu sämtlichen olympischen Stätten und dem Olympischen Dorf gewährte. (<i>Olympia</i>, 52)',
     'Die rote Flagge von Britisch-Indien mit dem Union Jack und dem Sonnensymbol hing ziemlich genau in der Mitte der Schalterreihe auf der dem Dorf zugewandten Seite. Auf dem hölzernen <b>Tresen</b> darunter standen ein Blumentopf und ein Aschenbecher. Und hinter dem <b>Tresen</b> ein Offizier mit Halbglatze (<i>receding hairline</i>), der Rath freundlich anlächelte. (<i>Olympia</i>, 198)',
     'Dann wandte er (<i>Tornow</i>) sich der Dame zu, die mit ihm eingetroffen war, und geleitete sie (<i>Olympia Morgan</i>) zum Empfangs<b>tresen</b>, mit einer galanten Handbewegung, die zeigte das er geschliffene Manieren besaß. (<i>Olympia</i>, 223)',
+    'Der Apotheker schaute misstrauisch, ging dann aber nach hinten und kam nach einer kurzen Weile mit einem Tablettenröhrchen zurück, das er vor Charly auf den <b>Tresen</b> legte. Sie nahm es in die Hand und betrachtete es von allen Seiten... Charly nickte und legte das Röhchen zurück auf den <b>Tresen</b>. (<i>Olympia</i>, 264)',
+    'Bevor sie noch etwas fragen konnte, bimmelte die Türglocke, und sie (<i>Charly und der Apotheker</i>) waren nicht mehr allein. Ein junges Mädchen betrat den Laden, das der vermeintlichen Konkurrentin (<i>Charly</i>) vor dem <b>Tresen</b> einen misstrauischen Seitenblick zuwarf. (<i>Olympia</i>, 265)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde  Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 triezen: [

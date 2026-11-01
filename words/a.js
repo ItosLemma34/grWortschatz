@@ -173,7 +173,8 @@ const a = [
 'aus dem Konzept bringen', // duplicated     
 'aus dem Häuschen', // duplicated 
 'aus dem Staub machen, Staub, stauben, ab-',
-'aus der Haut fahren',   
+'aus der Haut fahren', 
+'aus der Wäsche gucken',  
 'ausbaldowern', // ausbaldowern: 
 'ausblenden',  // ausblenden: 
 'ausborgen',  // ausborgen:  

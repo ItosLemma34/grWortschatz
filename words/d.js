@@ -11,8 +11,7 @@ const d = [
 'Daumen drücken',
 'dazwischenfunken', // dazwischenfunken:   
 'Deckel',   // Deckel: 
-'Deichsel',  // Deichsel:  
-'deichseln', // deichseln: 
+'Deichsel, deichseln, ein-',
 'deponieren', // deponieren:  
 'Depp',  // Depp:
 'deuteln',  // deuteln:  

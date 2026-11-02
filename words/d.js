@@ -1,10 +1,10 @@
 const d = [
-'Dach (aufs D. steigen)',  // duplicated
-'Dachlatte, Zaunlatte', // duplicated  
-'Dachluke, Luke',  // duplicated
+'Dach (aufs D. steigen)',  // dup
+'Dachlatte, Zaunlatte', // dup  
+'Dachluke, Luke',  // dup
 'dämlich, Dämlichkeit',  
 'Damm',  // Damm: 
-'Dampframme, Ramme, rammen',  // duplicated  
+'Dampframme, Ramme, rammen',  // dup  
 'Dampfwalze',  // Dampfwalze: 
 'dämm(e)rig', //  'dämm(e)rig':
 'darben',  // darben:
@@ -18,7 +18,7 @@ const d = [
 'dezent',   // dezent: 
 'Diele',   // Diele:  
 'Dietrich',  // Dietrich: 
-'dingen, gedungener Mörder',   // duplicated
+'dingen, gedungener Mörder',   // dup
 'dingfest',  // dingfest:  
 'direktemang', // direktemang:  
 'dösen, ein-',  
@@ -34,20 +34,20 @@ const d = [
 'Dreizack',  // Dreizack  
 'Dreistigkeit, dreist',   
 'drosseln',  // drosseln: 
-'Drücker (auf den letzten D.)',  //duplicated
+'Drücker (auf den letzten D.)',  //dup
 'Druckfahne', // Druckfahne: 
 'drucksen', 
 'drunter und drüber gehen',  
 //'den Hintern plattsitzen', 
-'ducken, wegducken',  // duplicated 
-'dudeln, Gedudel',   // duplicated
+'ducken, wegducken',  // dup 
+'dudeln, Gedudel',   // dup
 'dumpf',    // dumpf: 
 'Dünkel, Standes-, Rassen-',
 'Dunst, dunstig, Dunstkreis',   
-'durch den Wind sein', //  dulicated 
-'durch den Wolf drehen',  //   duplicated 
-'durch die Lappen gehen, Lappen',  // duplicated
-'durch die Mangel drehen', //  duplicated 
+'durch den Wind sein', //  dup
+'durch den Wolf drehen',  //   dup 
+'durch die Lappen gehen, Lappen',  // dup
+'durch die Mangel drehen', //  dup 
 'durchbrennen',  // durchbrennen: 
 'durchdrehen',  // durchdrehen: 
 'durchforsten', // durchforsten: 

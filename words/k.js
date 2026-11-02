@@ -17,7 +17,7 @@ const k = [
 'Kaschemme',  // Kaschemme: 
 'kaschieren', // kaschieren: 
 'Kassiber',  // Kassiber: 
-'Kater, verkatert', // duplicated 
+'Kater, verkatert', // dup 
 'katzbuckeln',  // katzbuckeln: 
 'kauern',  // kauern: 
 'Kaution', // Kaution: 
@@ -27,19 +27,19 @@ const k = [
 'keilen, Keil',   
 'Keim, keimen',   
 'kein Kraut gewachsen',  
-'keinen blassen Schimmer, schimmern, Schimmer', // duplicated
-'keinen Reim machen können', //  duplicated 
-'keinen Zwang antun',  // duplicated 
+'keinen blassen Schimmer, schimmern, Schimmer', // dup
+'keinen Reim machen können', //  dup 
+'keinen Zwang antun',  // dup 
 'Kelch',  // Kelch: 
 'kentern',  // kentern:
-'Kerbe, Kerbholz, auf dem K. haben',  //  duplicated 
+'Kerbe, Kerbholz, auf dem K. haben',  //  dup 
 //'Kerbe',  // Kerbe: 
 'Kerker', // Kerker:
 'kess',  // kess: 
 'ketten, Kette, Kettenkarussell',  
 'keuchen',  // keuchen:
 'Keule', // Keule: 
-'kichern, Gekicher',  // duplicated 
+'kichern, Gekicher',  // dup 
 'Kieker (auf dem K. haben)',  
 'Kies, Kiesel',  
 'Kimme und Korn',   
@@ -55,7 +55,7 @@ const k = [
 'Kladde',  // Kladde: 
 'klaffen', // klaffen: 
 'klamm',  // klamm: 
-'Klammer, klammern',   
+'klammern, Klammer, Buro-',   
 'klammheimlich', // klammheimlich: 
 'Klappe', // Klappe: 
 'klappern',  // klappern: 
@@ -68,12 +68,12 @@ const k = [
 'Klemme, klemmen, ab-',   
 'Klette',  // Klette: 
 'klimpern', // klimpern: 
-'Klinge, über die K. springen', //  duplicated 
+'Klinge, über die K. springen', //  dup 
 'Klippe', //  Klippe: 
-'klirren, an-, Geklirr', // duplicated
+'klirren, an-, Geklirr', // dup
 'klitzeklein', // klitzeklein: 
 'klobig',  // klobig:
-'Kloschüssel, Schüssel', // duplicate 
+'Kloschüssel, Schüssel', // dup 
 'Kloß',   // Kloß: 
 'klotzen', // klotzen: 
 'Klumpen, Klumpfuß',   

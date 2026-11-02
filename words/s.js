@@ -126,9 +126,9 @@ const s = [
 'Schnösel',  // Schnösel:  
 'schnorren, an-', 
 'Schnulze',  // Schnulze:
-'schnuppern, erschnuppern',  // duplicated 
+'schnuppern, erschnuppern',  // dup 
 'Schnur, schnüren', // 
-'Schnürchen (wie am S.)',  // duplicated
+'Schnürchen (wie am S.)',  // dup
 'Schnürsenkeln',   // Schnürsenkeln:
 'schnurstracks', // schnurstracks: 
 'schnurz­pie­pe, schnurzegal', 
@@ -156,8 +156,8 @@ const s = [
 'schürfen, Schürfwunde', 
 'schurigeln', // schurigeln:         
 'Schürze',  // Schürze:  
-'Schuss (in S. sein)', //  duplicated 
-'Schüssel, Kloschüssel',  // duplicate 
+'Schuss (in S. sein)', //  dupl 
+'Schüssel, Kloschüssel',  // dup 
 'Schutt',  // Schutt:
 'schütten, aus-, ver-, zu-',           
 'schütter',  // schütter:  
@@ -168,7 +168,7 @@ const s = [
 'schwafeln', // schwafeln
 'Schwall',  // Schwall: 
 'schwanen', // schwanen:
-'schwanger, schwängern, geschwängert', // duplicated  
+'schwanger, schwängern, geschwängert', // dup  
 'Schwanz, S. einziehen/einkneifen',  
 'schwänzen',  // schwänzen:
 'Schwarte',  // Schwarte:

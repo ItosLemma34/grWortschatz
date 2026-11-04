@@ -43,13 +43,13 @@ const z = [
 'Zipfel',  // Zipfel: 
 'Zipperlein', // Zipperlein: 
 'zischen',  // zischen:   
-'zittern, zittrig, erzittern', // duplicated 
+'zittern, zittrig, erzittern', // dup 
 'zockeln',  // zockeln: 
 'zocken', // zocken: 
 'Zopf',  // Zopf: 
-'zu Kreuze kriechen',  // duplicated 
-'zu nahe treten',  // duplicated  
-'zu schade sein',  //  duplicated 
+'zu Kreuze kriechen',  // dup 
+'zu nahe treten',  // dup 
+//'zu schade sein',  //  dup
 'Zucht, züchten',   // 
 'züchtigen, züchtig',   
 'zücken',   // zücken:     

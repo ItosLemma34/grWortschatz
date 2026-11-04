@@ -1,30 +1,30 @@
 const e = [
-'Ebbe',   // Ebbe:   
+'Ebbe, ebben, ab-, ver-', // dup
 'echoen',  // echoen: 
-'Ei (wie aus dem Ei gepellt)', //  duplicated  
+'Ei (wie aus dem Ei gepellt)', //  dup  
 'einbetonieren', // einbetonieren:  
 'einbleuen = einbläuen', 
 'einbrocken',  // einbrocken:  
 'einbuchten',  // einbuchten:  
 'Eindruckschinden, Schinder, schinden, geschunden', // triplicated
-'eine Flappe ziehen',  // duplicated  
-'einen Korb bekommen/geben', // duplicated 
-'einen Stich versetzen',  // duplicated
-'einen Streich spielen, Streich',   // duplicated
-'einen Strick drehen',  // duplicated  
+'eine Flappe ziehen',  // dup  
+'einen Korb bekommen/geben', // dup 
+'einen Stich versetzen',  // dup
+'einen Streich spielen, Streich',   // dup
+'einen Strick drehen',  // dup  
 'einfädeln',  // einfädeln:  
 'einflößen',  // einflößen: 
 'einfrieden', // einfrieden: 
 'Eingebung',   // Eingebung:
 'eingedenk',  // eingedenk:
-'eingehen wie eine Primel',  // duplicated  
+'eingehen wie eine Primel',  // dup  
 'Eingeweide', // Eingeweide: 
 'einhaken',   //  einhaken:
 'einheimsen',  // einheimsen:
 'einhüllen',  // einhüllen: 
 'einigeln', // einigeln:  
 'einkerben',  // einkerben: 
-'einklinken, ausklinken', // duplicated 
+'einklinken, ausklinken', // dup 
 'einkriegen',  // einkriegen:   
 'einkringeln',  // einkringeln:  
 'einlochen',  // einlochen:  
@@ -78,11 +78,11 @@ const e = [
 'erkoren, aus-',    
 'erpicht',   // erpicht: 
 'erschallen',  // erschallen:
-'erschauern, schauern',  // duplicated  
-'erschnuppern, schnuppern', //  duplicated  
+'erschauern, schauern',  // dup  
+'erschnuppern, schnuppern', //  dup  
 'erstehen',  // erstehen:  
 'eruieren',  // eruieren: 
-'erzittern, zittern, zittrig',  // duplicated 
+'erzittern, zittern, zittrig',  // dup 
 ];
 
 export default e;

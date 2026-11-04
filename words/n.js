@@ -19,10 +19,10 @@ const n = [
   'niederträchtig, Niedertracht',
   'niegelnagelneu',  // niegelnagelneu: 
   'niesen',  // niesen: 
-  'Nobel/Vornehm geht die Welt zugrunde', // duplicated 
+  'Nobel/Vornehm geht die Welt zugrunde', // dup 
   'Nörgler',  // Nörgler:  
   'nölen',  // nölen:   
-  'Nu (im Nu)', // duplicated 
+  'Nu (im Nu)', // dup 
   'nuscheln', // nuscheln: 
   'Nutte',  // Nutte:        
 ];

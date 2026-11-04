@@ -186,7 +186,8 @@ const a = [
 'ausfransen',  // ausfransen:  
 'ausfressen',   // ausfressen:  
 'ausheben, Aushebung', 
-'ausklinken, einklinken',  // duplicated 
+'ausklinken, einklinken',  // duplicated
+'auskugeln',   // auskugeln: 
 'ausladend',  // ausladend:
 'ausleiern', // ausleiern: 
 'ausloben',  //  ausloben:

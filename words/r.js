@@ -2,11 +2,12 @@ const r = [
 'Rabauke', // Rabauke:  
 'Rabe',  // Rabe: 
 'rabiat', // rabiat:
-'Rachen', // Rachen: 
+'Rachen', // Rachen:
+'rackern, ab-', 
 'Radau, Radaubruder', 
 'radieren',  // radieren:  
 'raffen, dahin-',  
-'rammen, Ramme, Dampf-',  // duplicated  
+'rammen, Ramme, Dampf-',  // dup  
 'ramponiert, ramponieren',   
 'Rangelei',  // Rangelei: 
 'Ranzen',  // Ranzen:
@@ -14,7 +15,7 @@ const r = [
 'rappelvoll',  // rappelvoll:
 'rascheln', // rascheln: 
 'rasen, Rasen',   
-'Rasenmäher, mähen',  // duplicated 
+'Rasenmäher, mähen',  // dup 
 'rasseln', 
 'Ratsch', // Ratsch: 
 'Rätselraten', // Rätselraten: 
@@ -23,22 +24,22 @@ const r = [
 'Räuberzivil', // Räuberzivil:
 'Raufbold', // Raufbold:  
 'Rauflust',  // Rauflust: 
-'raunen, Geraune',  // duplicated
+'raunen, Geraune',  // dup
 'raunzen',
 'Raureif', // Raureif: 
 'Rechen',  // Rechen: 
 'recken',  // recken:  
 'Regler', // Regler:
 'reihern',  // reihern:
-'Reim (keinen R. machen können)', //  duplicated 
-'Reine (ins R.)', // duplicated 
+'Reim (keinen R. machen können)', //  dup 
+'Reine (ins R.)', // dup 
 'Reinfall', // Reinfall:  
-'reinlegen, hereinlegen',  // duplicated 
-'reinreiten, hineinreiten',  // duplicated  
+'reinlegen, hereinlegen',  // dup 
+'reinreiten, hineinreiten',  // dup  
 'reinsemmeln', // reinsemmeln: 
 //'reißen, gerissen: ab-,auf-,aus-,ein-,ent-,hoch-,los-,nieder-,zer-,zurück-,zusammen-', 
 'reißerisch',  // reißerisch: 
-'Reiz, reizen, gereizt',  // duplicated
+'Reiz, reizen, gereizt',  // dup
 'Reling',  // Reling
 'Rempler, rempeln, an-',
 'renitent',  // renitent: 
@@ -53,30 +54,30 @@ const r = [
 'Rind, Rindvieh, Rinderbraten',   
 'Rinne',  // Rinne: 
 'Rinnsal', // Rinnsal: 
-'Ritter (arme)', // duplicated 
+'Ritter (arme)', // dup 
 'Ritze',  // Ritze:  
 'robben',  // robben: 
 'röcheln', // röcheln: 
-'roden', // roden:  
+'roden, Rodung',   
 'Rohrkrepierer', // Rohrkrepierer: 
 'rosten, ein-, Rost, Gitter-', //  
 'Rottenführer',  // Rottenführer:
-'ruckeln, Geruckel',  // duplicated
+'ruckeln, Geruckel',  // dup
 'rücken: an-, aus-, nach-',
 'Rudel',  // Rudel: 
 'rührig',  // rührig: 
 'rülpsen', // rülpsen: 
-'rumärgern, herumärgern', // duplicated 
-'rumeiern, herumeiern', // duplicated 
+'rumärgern, herumärgern', // dup 
+'rumeiern, herumeiern', // dup 
 'Rummel', // Rummel: 
 'rumoren',  // rumoren:
 'rumpeln, entlang-, vorbei-',  
 'rümpfen', // rümpfen: 
 'rumsen',  // rumsen: 
 'rundmachen',  // rundmachen:
-'rupfen, Hühnchen rupfen', // duplicated
+'rupfen, Hühnchen rupfen', // dup
 'Rüsche', // Rüsche: 
-'Ruß, verrußt',  // duplicated 
+'Ruß, verrußt',  // dup 
 'rüstig', // rüstig: 
 'RZ1',
 ];

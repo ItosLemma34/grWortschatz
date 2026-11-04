@@ -17,7 +17,7 @@ const s = [
 'schaben, ab-',  
 'Schablone',  // Schablone:
 'Schachtel',  // Schachtel:   
-'schade (zu schade sein)',   //duplicated 
+'schade (zu schade sein)',   //dup 
 'Schäferstündchen', // Schäferstündchen:
 'schälen', // schälen:
 'schallen, Schall',    
@@ -239,13 +239,13 @@ const s = [
 'Standpauke',  // Standpauke: 
 'Stange',  // Stange:  
 'Stapel, stapeln, stapelweise',  
-'stapfen, Fußstapfe',   // duplicated 
-'starren, an-, vor Schmutz/Dreck starren', // duplicated 
+'stapfen, Fußstapfe',   // dup 
+'starren, an-, vor Schmutz/Dreck starren', // dup 
 'Statist', // Statist:  
 'Stativ',  // Stativ:  
 'statuieren', // statuieren:  
-'Staub, stauben, ab-, aus dem S. machen', //  duplicated 
-'stauchen', // stauchen:
+'Staub, stauben, ab-, aus dem S. machen', //  dup 
+//'stauchen', // stauchen:
 'stechen (sport)',   // located just above Latte: 
 'Steckbrief', // Steckbrief:  
 'Stecknadel im Heuhaufen',  

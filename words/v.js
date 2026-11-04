@@ -16,7 +16,8 @@ const v = [
 'verdruckst',  //verdruckst: 
 'verdünnisieren', // verdünnisieren: 
 'verdunsten',  // verdunsten: 
-'verdutzen, verdutzt',  
+'verdutzen, verdutzt',
+'verebben, ebben, ab-, Ebbe', // dup  
 'verfänglich', // verfänglich:
 'verflachen', // verflachen:  
 'verfilzen' ,  // verfilzen:  

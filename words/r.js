@@ -58,7 +58,8 @@ const r = [
 'Ritze',  // Ritze:  
 'robben',  // robben: 
 'röcheln', // röcheln: 
-'roden, Rodung',   
+'roden, Rodung',    
+'Rohr, Röhre, Röhrchen', 
 'Rohrkrepierer', // Rohrkrepierer: 
 'rosten, ein-, Rost, Gitter-', //  
 'Rottenführer',  // Rottenführer:

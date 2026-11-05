@@ -30,6 +30,7 @@ export const wordExamples = {
     // Der stumme Tod Daumen drücken 426	509
 // Der stumme Tod   368  Klette      // next: abwälzen:   complete: Staub,.... 
 //Der stumme Tod (hauen, abhauen et al) pg 303	79 248 250 257 388  428
+    // Rohr Der stumme Tod 220 221
 //'gereizt   (e<i>Der stumme Tod</i>, 423)'
 //  ' unverfroren 72 139  350 (<i>Goldstein</i>, 000)',	
 // Olympia hauen 489: "hau ab"  460 464//maulen Der Stumme Tod Continuations: 308, 340, 352, 407, 431
@@ -42,6 +43,7 @@ export const wordExamples = {
 //Der stumme Tod</i>, 326 Tross or Troß
 //Olympia  kniff  373   gereizter
 // Olympia unbeholfen 331 461 487 525
+//'Rohr, Röhre, Röhrchen  Olympia 310
 // Der stumme Tod 'drucksen, herum-'  297
 //Der stumme Tod  Streich 388
 // 'Klemme, klemmen, ab-'  Der stumme Tod 487
@@ -73,7 +75,7 @@ export const wordExamples = {
 /*  
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) führer Führer Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-//  [<i>Olympiastadion</i>]  im Olympischen Dorf
+//  [<i>Olympiastadion</i>]  im Olympischen Dorf  die Olympiade
 /*
     // geknickt Der stumme Tod 536
 
@@ -278,7 +280,6 @@ betresst: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     ' (<i>Olympia</i>, 000)',
 ],
-// FINISH
 entblöden: [  
     '<b>sich entblöden</b>: have the nerve/audacity, not be ashamed to do sth.'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -287,21 +288,6 @@ entblöden: [
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://www.collinsdictionary.com/dictionary/german-english/entbloden"target="target3">entblöden</a>&nbsp;&nbsp;'+
         '<a href="https://www.verbformen.com/?w=entbl%C3%B6den&id=verb%3Aentblo3den"target="target4">entblöden</a>',
-    // Der nasse Fisch
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Er (<i>Tornow</i>) hatte sich gewundert, die Witwe hatte nicht nur ihr eigenes Dienstmädchen mit über den Atlantik gebracht, sondern auch ihren eigenen Sekretär. Einen jungen, schlaksigen Amerikaner namens Henry, der <b>sich nicht entblödete</b>, für eine Frau zu arbeiten. (<i>Olympia</i>, 255-56)',
@@ -334,36 +320,48 @@ entblöden: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Rath zu Gräf</i>: "..Bislang hat es noch keinen Skandal gegeben. Sollte das wirklich die Absicht hinter den Morden gewesen sein, dann ist es gründlich schiefgegangen und die Verantwortlichen dürften ganz schön enttäuscht <b>aus der Wäsche gucken</b>. Ich glaube nicht, dass sie in diesem Fall weitermorden." (<i>Olympia</i>, 261)',
 ],
-'Röhre, Röhrchen': [  // Finish
-    'die <b>Röhre</b>,-<b>n</b>: pipe, tube, duct'+   
-    'das <b>Röhrchen</b>,-: small pipe, tube'+   
+'Rohr, Röhre, Röhrchen': [    
+    'das <b>Rohr</b>,-<b>e</b>: pipe, tubing, duct'+
+    '<br>die <b>Röhre</b>,-<b>n</b>: pipe, tube, duct'+
+    '<br>note: <i>difference between <b>Rohr</b> and <b>Röhre</b> not obvious from dictionary definitions</i>'+   
+    '<br>das <b>Röhrchen</b>,-: small pipe, tube'+   
     '<br>Deutsch:&nbsp;&nbsp;'+
-        '<a href=""target="target1">Röhre</a>&nbsp;&nbsp;'+
-        '<a href=""target="target2">Röhre</a>'+
+        '<a href="https://www.duden.de/rechtschreibung/Rohr"target="target1">Rohr</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/R%C3%B6hre"target="target2">Röhre</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Roehrchen"target="target3">Röhrchen</a>'+
     '<br>English:&nbsp;&nbsp;&nbsp;'+
-        '<a href=""target="target3">Röhre</a>&nbsp;&nbsp;'+
-        '<a href=""target="target4">Röhre</a>',
+        '<a href="https://dict.leo.org/german-english/Rohr"target="target4">Rohr</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/rohre"target="target5">Röhre</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=R%C3%B6hrchen&id=substantiv%3ARo3hrchen"target="target6">Röhrchen</a>',
     // Der nasse Fisch
-/*    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
+    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
+    '"Sie sehen: Hier steht Kakao auf der Karte", sagte er (<i>Oppenberg</i>), "und zwar sehr guter! Probieren Sie ruhig, lieber Freund. Rath zögerte. Er hatte noch nie Kokain genommen. Andererseits durfte er jetzt nicht kneifen. Da konnte er genauso gut gleich seine Marke vorzeigen oder wieder nach Hause gehen... Rath gab sich einen Ruck und nahm eine kleine Prise aus der Dose. Da musste er nun durch. Engel war bereits dabei, sich auf einem Taschenspiegel eine kleine Bahn zurechtzulegen, an die sie ein silbernes <b>Röhrchen</b> anlegte. (<i>Der nasse Fisch</i>, 201)',
+    'Er (<i>Rath</i>) hatte nicht viel Übung in der Einnahme von Kokain. Die Nacht im <i>Venuskeller</i>, er versuchte sich zu erinnern. Der spendable Oppenberg. Die nymphomanische Vivian. Rath wusste, er brauchte eine halbwegs glatte Unterlage und ein <b>Röhrchen</b>. (<i>Der nasse Fisch</i>, 480)',
+    // Der stumme Tod  
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
+    'Eine zweite Kamera stand mitsamt Stativ auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. Daneben ein futuristisch ausehendes Schaltpult mit unzähligen Reglern, <b>Röhren</b> und blinkenden Lämpchen, auf dem ein Kopfhörer lag. (<i>Der stumme Tod</i>, 22)',
+    'Auf dem Schreibtisch staubte eine Schreibmaschine vor sich hin, daneben standen eine Lötkolbenhalterung und ein paar Kästen mit kleinen Schraubenziehern und ähnlichem Werkzeug und ein paar elektronischen Ersatzteilen, Schaltern, ein paar <b>Röhren</b>, Sicherungen. Rath las den Warnhinweis auf einer <b>Röhren</b>packung: <i>Für Tonfilmzwecke sind nur <b>Röhren</b> (Verstärker-, Gleichrichter- und Vor<b>röhren</b>) bestimmt, die auf dem <b>Rohr</b> und der Verpackung das KLANGFILMZEICHEN tragen. Die Verwendung anderer <b>Röhren</b> ist schädlich und führt zu Störungen. Die Verwendung anderer <b>Röhren</b> ist auch aus Patentgründen untersagt</i>. (<i>Der stumme Tod</i>, 85-86)',
+    // Rohr Der stumme Tod 220 221
     // Märzgefallene 
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
+    'Jedenfalls war der Kaufmann Daniel Rothstein tot in seinem Bett in Wilmersdort gefunden worden, und bislang deutete nichts auf Fremdeinwirkung hin. Es sei denn, jemand hatte ihm den Inhalt des <b>Röhrchens</b> Veronal, das leer auf seinem Nachttisch gelegen hatte, mit Gewalt verabreicht. (<i>Märzgefallene</i>, 422)',
     // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
+    'Rath lächelte und verzog das Gesicht, weil der Schmerz sich wieder meldetete. "Wenn Sie allerdings etwas gegen die Kopfschmerzen hätten?" Sie (<i>die Krankenschwester</i>) kramte Phenacetin aus ihrem Kittel. Rath nahm das ganze <b>Röhrchen</b> an sich, nachdem er eine Tablette herausgeholt hatte, und gab ihr einen Kuss auf die Wange. "Sie sind ein Schatz!" (<i>Lunapark</i>, 390)',
+    '<i>Charly</i>: "Wo warst du denn? Hast dich selbst entlassen, haben sie am Empfang (<i>des Krankenhauses</i>) gesagt." <i>Gereon</i>: "Ich bin doch versorgt. Alles verbunden, nichts gebrochen, und gegen die Kopfschmerzen hab ich Tabletten." Er hielt ein <b>Röhrchen</b> in die Höhe, das verdächtig hohl klapperte. Charly konnte nur mit dem Kopf schütteln. Sie kannte keinen Menschen, der sich so widerwillig in die Obhut von Ärzten begab wie Gereon Rath. (<i>Lunapark</i>, 394)',
     // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-    */
+    '<i>Chen-Lu</i>: "Doktor Erichsen sagt, man kann es nicht heilen. Es ist in der Leber. Es wuchert überall." Du (<i>Magnus Larsen</i>) lässt dir dein Erwchrecken nicht anmerken. "Warum ist der Doktor nicht hier?", fragst du. "Welche Medizin gibt er dir?" Ihr Blick weist zum Nachttisch. Dort liegt ein <b>Röhrchen</b> Aspirin neben einem Wasserglas. "Das ist ein Witz! Du brauchst stärkere Schmerzmittel." (<i>Marlow</i>, 10)',
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
+    'Der Apotheker schaute misstrauisch, ging dann aber nach hinten und kam nach einer kurzen Weile mit einem Tabletten<b>röhrchen</b> zurück, das er vor Charly auf den Tresen legte. Sie nahm es in die Hand und betrachtete es von allen Seiten. (<i>Olympia</i>, 264)',
+    '"Ob etwas Gift ist oder Medizin, das ist so gut wie immer eine Frage der rechten Dosierung. Um eine letale Wirkung zu erzielen, müssten Sie schon ein ganzes <b>Röhrchen</b> auf einmal schlucken." (<i>Olympia</i>, 264)',
+    'Charly nickte und legte das <b>Röhchen</b> zurück auf den Tresen. (<i>Olympia</i>, 264)',
     'Charly war derart erschrocken, dass ihr das Kästchen aus der Hand glitt und mit lautem Poltern zu Boden fiel. Ein ganzer Stapel Briefe flatterte ihr entgegen und segelte auf die Dielen. Charly hockte sich hin und schaute in den Kasten. Fehlanzeige. Von irgendwelchen Tabletten<b>röhrchen</b> keine Spur. (<i>Olympia</i>, 267)',
+    'Der Waschtisch im Schlafzimmer, auf dem eine Waschschüssel und ein Krug aus Porzellan standen, verbarg in seiner Schublade nur eine Tube Chlorodont und eine Flasche Odol. Keine Medikamente außer einem halbgefüllten <b>Röhrchen</b> Aspirin. (<i>Olympia</i>, 266)',
+//pg 310 
 ],
-'rackern, ab-': [     // Finish
+'rackern, ab-': [     
     '<b>rackern</b>: struggle, toil, slave/grind away'+
     '<br><b>sich abrackern</b>: drudge, slave, toil, work oneself to death'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -372,23 +370,6 @@ entblöden: [
     '<br>English:&nbsp;&nbsp;&nbsp;'+
         '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/rackern"target="target3">rackern</a>&nbsp;&nbsp;'+
         '<a href="https://www.collinsdictionary.com/dictionary/german-english/abrackern"target="target4">abrackern</a>',
-    // Der nasse Fisch
-    /*
-    '<span class="bookTitle"><u>Der nasse Fisch</u></span>',   
-    '   (<i>Der nasse Fisch</i>, 000)',
-    // Der stumme Tod
-    '<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    '   (<i>Der stumme Tod</i>, 000)',	
-    // Märzgefallene 
-    '<span class="bookTitle"><u>Märzgefallene</u></span>',    
-    '   (<i>Märzgefallene</i>, 000)',
-    // Lunapark
-    '<span class="bookTitle"><u>Lunapark</u></span>',   
-    '   (<i>Lunapark</i>, 000)',	
-    // Marlow
-    '<span class="bookTitle"><u>Marlow</u></span>',  
-    '    (<i>Marlow</i>, 000)',
-    */
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Es war zum Verzweifeln. Die Spiele hatten begonnen, das Ziel, auf das er hingearbeitet hatte, und Herbert Ehlers <b>rackerte sich</b> in einem beschissenen Kiefernwald östlich von Oranienburg beim Bäumefällen <b>ab</b>. (<i>Olympia</i>, 271)',
@@ -10577,6 +10558,7 @@ Matsch: [
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Acht bis zehn Mann hatten einen Stamm zu schultern, und dann ging es los, im Laufschritt Richtung Waldweg, die Baumkronen schleiften über die Erde und durch den <b>Matsch</b>. (<i>Olympia</i>, 269)',
     'Sein (<i>Ehlers</i>) Leben hier kam ihm vor wie ein langsames Sterben, wie ein Vorgeschmack der Hölle. In Dreck und Matsch ließen sie (<i>die SS</i>) ihn und die anderen schuften, ohne Pause, ohne die Möglichkeit, sich nach der Arbeit auch nur einigermaßen zu säubern. (<i>Olympia</i>, 270)',
+    'Noch nie in den letzten sieben Jahren hatte er (<i>Ehlers</i>) sich den kommunistischen Genossen von einst so nah gefühlt wie in diesen Tagen. Und das Gefühl, dass man, koste es, was es wolle, zusammenhalten müsse gegen die schwarzen Wächter, wuchs mit jedem Kiefernstamm, den sie durch den <b>Matsch</b> schleppten. (<i>Olympia</i>, 272)',
 ],
 Bagger: [
     '<b>Bagger</b>:excavator, digger, dredger, power shovel'+
@@ -17261,36 +17243,58 @@ gesittet: [
     'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichengetäfelten Saal <b>gesitteter</b> als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
 ],
 'Geäst, Ast': [
-    'der <b>Ast</b>,-<b>Äste</b>: branch, limb'+
+    'der <b>Ast</b>, die <b>Äste</b>: branch, limb'+
     '<br>das <b>Geäst</b>: branches, boughs, branchwork'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ast"target="target1">Ast</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ge%C3%A4st"target="target2">Geäst</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ast"target="target3">Ast</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geast"target="target4">Geäst</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Ast"target="target1">Ast</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Ge%C3%A4st"target="target2">Geäst</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/ast"target="target3">Ast</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/geast"target="target4">Geäst</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem Strauch, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem Strauch<b>geäst</b>. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath war überrascht: Dort, wo Berlin in die Landschaft ausfranste, wurde die Stadt geradezu idyllisch, selbst an solch einem tristen Tag wie heute, wo Regentropfen vom kahlen <b>Geäst</b> fielen und aufs Autodach klopften. (<i>Der stumme Tod</i>,72)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Engelbert Rath</i>: "Erst kriegen die Nazis bei der Reichstagswahl ihren Denkzettel, eine Woche später bei der Kommunalwahl, und dann ist der Spuk vorüber. Die haben im November schon Millionen Stimmen verloren, die sind doch auf dem absteigenden <b>Ast</b>."  (<i>Märzgefallene</i>, 34)',
     'Dann musste er (<i>Rath</i>) an Adenauers Worte denken: <i>Hitler hätte man mit jewalt entjejentreten müssen, schon vor einem Jahr. Nu isset zu spät</i>. War es das wirklkich? Wurde am Sonntag nicht gewählt? Die Nazis waren doch sowieso auf dem absteigenden <b>Ast</b>, man musste nur Geduld haben...  (<i>Märzgefallene</i>, 77)',
     'Er (<i>Rath</i>) überquerte den Parkplatz und tauchte.. in den Wald ein. Als er kurz darauf eine Lichtung erreichte, wusste er instinktiv, dass er am Ziel war. Ein schöner Platz, durchs blattlose <b>Geäst</b> konnte man über einen stillgelegten Steinbruch, in dem sich bereits das Wasser sammelte, bis hinunter ins Rheintal und nach Bonn schauen. (<i>Märzgefallene</i>, 440)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath beschloss, die Gegend noch ein bisschen zu erkunden, und folgte der namenlosen Straße. Die teilte sich bald, ein <b>Ast</b> führte auf den Rangierbahnhof Grunewald, der andere unter einer weiteren Eisenbahnbrücke hindurch wieder nach oben. (<i>Lunapark</i>, 305)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Was machen wir hier eigentlich?", hatter er (<i>Ehlers</i>) irgendwann einen Leidensgenossen gefragt, als die Wachen gerade nicht hinschauten. "Na, dreimal darfste raten: Wir dürfen uns unser eigenes KL bauen..." Der Häftling deutete auf die halbgerodete Lichtung, ein wildes Durcheinander aus Baumstämmen, Schlamm und <b>Geäst</b>. (<i>Olympia</i>, 271)',
 ],
 'Ast, Geäst': [
-    'der <b>Ast</b>,-<b>Äste</b>: branch, limb'+
+    'der <b>Ast</b>, die <b>Äste</b>: branch, limb'+
     '<br>das <b>Geäst</b>: branches, boughs, branchwork'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ast"target="target1">Ast</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Ge%C3%A4st"target="target2">Geäst</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/ast"target="target3">Ast</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geast"target="target4">Geäst</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Ast"target="target1">Ast</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Ge%C3%A4st"target="target2">Geäst</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/ast"target="target3">Ast</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/geast"target="target4">Geäst</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Als er (<i>Rath</i>) gerade rückwärts durch das Fenster wieder in die Wohnung steigen wollte, beobachtete er fünf Jungen, die unten über die Straße liefen.. Sie kletterten über die Backsteinmauer des Friedhofs... Sie verschwanden unter einem Strauch, ganz in der Nähe von Jänickes abgesperrtem Grab, einer schien etwas aus dem Boden zu holen und an die anderen zu verteilen. Kurz darauf zwirbelten weiße Rauchfahnen aus dem Strauch<b>geäst</b>. Die Jungen qualmten fleißig Zigaretten. (<i>Der nasse Fisch</i>, 426)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath war überrascht: Dort, wo Berlin in die Landschaft ausfranste, wurde die Stadt geradezu idyllisch, selbst an solch einem tristen Tag wie heute, wo Regentropfen vom kahlen <b>Geäst</b> fielen und aufs Autodach klopften. (<i>Der stumme Tod</i>,72)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Engelbert Rath</i>: "Erst kriegen die Nazis bei der Reichstagswahl ihren Denkzettel, eine Woche später bei der Kommunalwahl, und dann ist der Spuk vorüber. Die haben im November schon Millionen Stimmen verloren, die sind doch auf dem absteigenden <b>Ast</b>."  (<i>Märzgefallene</i>, 34)',
     'Dann musste er (<i>Rath</i>) an Adenauers Worte denken: <i>Hitler hätte man mit jewalt entjejentreten müssen, schon vor einem Jahr. Nu isset zu spät</i>. War es das wirklkich? Wurde am Sonntag nicht gewählt? Die Nazis waren doch sowieso auf dem absteigenden <b>Ast</b>, man musste nur Geduld haben...  (<i>Märzgefallene</i>, 77)',
     'Er (<i>Rath</i>) überquerte den Parkplatz und tauchte.. in den Wald ein. Als er kurz darauf eine Lichtung erreichte, wusste er instinktiv, dass er am Ziel war. Ein schöner Platz, durchs blattlose <b>Geäst</b> konnte man über einen stillgelegten Steinbruch, in dem sich bereits das Wasser sammelte, bis hinunter ins Rheintal und nach Bonn schauen. (<i>Märzgefallene</i>, 440)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Rath beschloss, die Gegend noch ein bisschen zu erkunden, und folgte der namenlosen Straße. Die teilte sich bald, ein <b>Ast</b> führte auf den Rangierbahnhof Grunewald, der andere unter einer weiteren Eisenbahnbrücke hindurch wieder nach oben. (<i>Lunapark</i>, 305)',
+    // Olympia
+    '<span class="bookTitle"><u>Olympia</u></span>',
+    '"Was machen wir hier eigentlich?", hatter er (<i>Ehlers</i>) irgendwann einen Leidensgenossen gefragt, als die Wachen gerade nicht hinschauten. "Na, dreimal darfste raten: Wir dürfen uns unser eigenes KL bauen..." Der Häftling deutete auf die halbgerodete Lichtung, ein wildes Durcheinander aus Baumstämmen, Schlamm und <b>Geäst</b>. (<i>Olympia</i>, 271)',
 ],
 gerädert: [
     '<b>gerädert</b>: be knocked out, feel absolutely whacked'+
@@ -20276,8 +20280,12 @@ Klapsmühle: [
 ],
 klappern: [
     '<b>klappern</b>: rattle, clatter, click'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/klappern"target="target1">klappern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/klappern"target="target2">klappern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/klappern"target="target3">klappern</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/klappern"target="target4">klappern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/klappern"target="target1">klappern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/klappern"target="target2">klappern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/klappern"target="target3">klappern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/klappern"target="target4">klappern</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Ihre (<i>Charlys</i>) Schritte <b>klapperten</b> schnell und energisch über den Steinboden des langen Korridors. (<i>Der nasse Fisch</i>, 34)',
@@ -20302,9 +20310,11 @@ klappern: [
     '<i>Charly</i>: "Wo warst du denn? Hast dich selbst entlassen, haben sie am Empfang (<i>des Krankenhauses</i>) gesagt." <i>Gereon</i>: "Ich bin doch versorgt. Alles verbunden, nichts gebrochen, und gegen die Kopfschmerzen hab ich Tabletten." Er hielt ein Röhrchen in die Höhe, das verdächtig hohl <b>klapperte</b>. (<i>Lunapark</i>, 394)',
     'Greon war erst wiedergekommen, als der Morgen schon graute, hatte in Fritzes Zimmer geschaut, und der hatte sich schlafend gestellt. Hatte Geschirr <b>klappern</b> gehört und den Wasserkessel pfeifen. (<i>Lunapark</i>, 541)',
      // Marlow
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'In der Küche hörte man Luise Ritter mit Töpfen und Pfannen <b>klappern</b> und vergnügt vor sich hin pfeifen. (<i>Marlow</i>, 241)',
      // Olympia
+    // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Sein (<i>Raths</i>) zweisitziger Buick, den er schon gebraucht gekauft hatte, hatte inzwischen mehr als zehn Jahre auf dem Buckel, und das merkte man dem Wagen auch an: Die Ventile <b>klapperten</b>, der Auspuff schepperte, doch für eine gründliche Überholung fehlte das Geld. (<i>Olympia</i>, 50-51)',
 ],
@@ -24075,8 +24085,10 @@ röcheln: [
     // Olympia
     '<span class="bookTitle"><u>Olympia</u></span>',
     'Angesichts der Umstände im Lager versuchte er (<i>Ehlers</i>), sich möglichst unauffällig zu verhalten. Immerhin hatten sie (<i>die SS</i>) ihm eine Häftlingsuniform gegönnt, doch die war nach wenigen Tagen im <b>Rodungs</b>gelände schon derart durchnässt, verschmutzt und zerschlissen, dass sie aussah, als trage er sie seit Jahren und habe sie nie gewaschen. (<i>Olympia</i>, 270-71)',
+    '"Was machen wir hier eigentlich?", hatter er (<i>Ehlers</i>) irgendwann einen Leidensgenossen gefragt, als die Wachen gerade nicht hinschauten. "Na, dreimal darfste raten: Wir dürfen uns unser eigenes KL bauen..." Der Häftling deutete auf die halb<b>gerodete</b> Lichtung, ein wildes Durcheinander aus Baumstämmen, Schlamm und Geäst. (<i>Olympia</i>, 271)',
+    'Noch waren sie in einer stinkenden Behelfsbaracke untergebracht, die sie sich selbst am Waldrand hatten zusammenzimmern dürfen, doch schon bald sollte hier, genau hier, wo sie den Wald <b>rodeten</b>, das modernste Konzentrationslager des Reichs entstehen. (<i>Olympia</i>, 271)',
 ],
-// (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'rumpeln, entlang-, vorbei-': [
     '<b>rumpeln</b>: rumble, bump, clatter'+
     '<br><b>entlangrumpeln</b>: rumble, clatter along'+
@@ -29342,14 +29354,22 @@ waghalsig: [
 'wuchern, überwuchern': [
     '<b>wuchern</b>: proliferate, be rampant; profiteer, practise usury'+
     '<br><b>überwuchern</b>: overgrow, overrun'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%BCberwuchern&id=verb%3Au3berwuchern"target="target4">überwuchern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=%C3%BCberwuchern&id=verb%3Au3berwuchern"target="target4">überwuchern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Unten (<i>im Café Berlin</i>) war das Tanzcafé mit der Weinstube verbunden, die als besondere Attraktion einen subtropischen Dschungel im Erdgeschoss wachsen ließ, der wirkte, als sei der benachbarte Zoologische Garten über seine Grenzen <b>gewuchert</b>. (<i>Der nasse Fisch</i>, 119-20)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <b>überwuchernden</b> Narbengeflecht stierten, war kein Leben mehr. (<i>Märzgefallene</i>, 412)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Da tat sich etwas. Die Sträucher an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks <b>wucherte</b>, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Chen-Lu</i>: "Doktor Erichsen sagt, man kann es nicht heilen. Es ist in der Leber. Es <b>wuchert</b> überall." (<i>Marlow</i>, 10)',
     'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer <b>wucherten</b>, seine Schwestern spielten mit dem Wäschekorb. (<i>Marlow</i>, 51)',
@@ -29358,16 +29378,22 @@ waghalsig: [
     'Erst jetzt, als sie (<i>Charly</i>) sich das Grab genauer anschaute, entdeckte sie, dass inmitten des <b>wuchernden</b> Unkrauts etwas auf dem Grabfeld lag. Ein kleiner Strauß frischer Rosen, höchtens drei, vier Tage alt. (<i>Marlow</i>, 283)',
 ],
 'überwuchern, wuchern': [
-    '<b>wuchern</b>: proliferate, be rampant; profiteer, practise usury'+
-    '<br><b>überwuchern</b>: overgrow, overrun'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=%C3%BCberwuchern&id=verb%3Au3berwuchern"target="target4">überwuchern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/wuchern"target="target1">wuchern</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/%C3%BCberwuchern"target="target2">überwuchern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/wuchern"target="target3">wuchern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=%C3%BCberwuchern&id=verb%3Au3berwuchern"target="target4">überwuchern</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Unten (<i>im Café Berlin</i>) war das Tanzcafé mit der Weinstube verbunden, die als besondere Attraktion einen subtropischen Dschungel im Erdgeschoss wachsen ließ, der wirkte, als sei der benachbarte Zoologische Garten über seine Grenzen <b>gewuchert</b>. (<i>Der nasse Fisch</i>, 119-20)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Tot jedenfalls war der Mann, daran gab es keine Zweifel. In diesen Augen, die aus einem das ganze Gesicht <b>überwuchernden</b> Narbengeflecht stierten, war kein Leben mehr. (<i>Märzgefallene</i>, 412)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Da tat sich etwas. Die Sträucher an der Rückseite der Berg- und Talbahn bewegte sich im Lichtkegel der Straßenlaternen. Rath rutschte tief in seinen Sitz, sodass er gerade eben noch über das Lenkrad lugen konnte. Ein Mann kam aus dem Gebüsch, das längs der Umzäunung des Lunaparks <b>wucherte</b>, schaute sich um und betrat erst dann den Gehweg. (<i>Lunapark</i>, 313)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Chen-Lu</i>: "Doktor Erichsen sagt, man kann es nicht heilen. Es ist in der Leber. Es <b>wuchert</b> überall." (<i>Marlow</i>, 10)',
     'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer <b>wucherten</b>, seine Schwestern spielten mit dem Wäschekorb. (<i>Marlow</i>, 51)',

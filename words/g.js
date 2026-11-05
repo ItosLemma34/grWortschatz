@@ -5,37 +5,37 @@ const g = [
 'Gänsehaut', // Gänsehaut: 
 'Gassi gehen',  // 
 'Gauner', // Gauner: 
-'Geäst, Ast',  //  duplicated  
-'Gebälk, Balken', //  duplicated  
+'Geäst, Ast',  //  dup  
+'Gebälk, Balken', //  dup  
 'Gebell', // Gebell:   duplicate with "bellen" if found
-'Gebet (ins G. nehmen)',  // duplicated
-'Gebrüll, brüllen, an-, los-', // duplicated
-'Gebüsch, Busch',  //  duplicated 
+'Gebet (ins G. nehmen)',  // dup
+'Gebrüll, brüllen, an-, los-', // dup
+'Gebüsch, Busch',  //  dup 
 'gediegen',  // gediegen: 
 'Gedränge',  // Gedränge: 
-'Gedudel, dudeln',  // duplicated 
-'gedungener Mörder, dingen',  // duplicated
+'Gedudel, dudeln',  // dup 
+'gedungener Mörder, dingen',  // dup
 'Gefäß',  // Gefäß:
 'gefasst',  // gefasst:
-'Gefecht, fechten, aus-',  // duplicated 
-'Gefeilsche, feilschen',  // duplicated
+'Gefecht, fechten, aus-',  // dup 
+'Gefeilsche, feilschen',  // dup
 'gefeit',  // gefeit:
 'Geflecht',  // Geflecht:
 'geflissentlich',  // geflissentlich: 
 'gefügig', // gefügig:
-'gegen den Strich gehen', // duplicated 
+'gegen den Strich gehen', // dup 
 'Gehabe',  // Gehabe: 
-'Gehege, ins G. kommen',  // duplicated
+'Gehege, ins G. kommen',  // dup
 'Geheimniskrämerei, Geheimniskrämer',
 'Geheiß', // Geheiß:   
 'Gehirnerschütterung', // Gehirnerschütterung:
-'Gehüpfe, hüpfen, Hüpfer',  // duplicated 
+'Gehüpfe, hüpfen, Hüpfer',  // dup 
 'Geier',  //  Geier:
-'geigen (Meinung geigen)', // duplicated
+'geigen (Meinung geigen)', // dup
 'geifern, geifernd',  
 'geizen, geizig',
-'Gekicher, kichern',  // duplicated
-'Geklirr, klirren, an-',  //duplicated
+'Gekicher, kichern',  // dup
+'Geklirr, klirren, an-',  //dup
 'geknickt, knicken, ein-',
 'Gekrächz',  // Gekrächz: 
 'Gelände',   // Gelände:  
@@ -44,35 +44,35 @@ const g = [
 //'Geleit, geleiten, hinaus-',     
 'gelinde',   // gelinde:  
 'Gemächt',  // Gemächt: 
-'Gemaule, maulen',  // duplicated
+'Gemaule, maulen',  // dup
 'Gemetzel', // Gemetzel: 
 'Gemurmel',  // Gemurmel:  
-'gepfeffert, pfeffern', // duplicated  
-'Geplänkel, Vorgeplänkel',  // duplicated  
-'Geplapper, plappern, nach-', // duplicated 
+'gepfeffert, pfeffern', // dup  
+'Geplänkel, Vorgeplänkel',  // dup  
+'Geplapper, plappern, nach-', // dup 
 'gerädert',  // gerädert: 
 'Gerangel', // Gerangel:
-'Geraune, raunen',  // duplicated  
+'Geraune, raunen',  // dup 
 'Geräuschkulisse', // Geräuschkulisse:  
-'gereizt, Reiz, reizen',  // duplicated
+'gereizt, Reiz, reizen',  // dup
 'gerieren',   // gerieren:  
 'gerinnen',   // gerinnen:  
 'Gerippe',    // Gerippe:  
-//'gerissen, reißen',   // duplicated
+//'gerissen, reißen',   // dup
 'Geröll',     // Geröll:  
-'Geruckel, ruckeln',  // duplicated 
+'Geruckel, ruckeln',  // dup
 'Gerümpel',   // Gerümpel:  
-'Gerüst, einrüsten', // duplicated 
+'Gerüst, einrüsten', // dup 
 'gesalzen',   // gesalzen: 
 'Gesäß',  // Gesäß:
-'Gesause, Gesumme',  // duplicated
+'Gesause, Gesumme',  // dup
 'geschliffen',  // geschliffen:  
 'geschniegelt',  // geschniegelt:  
 'Geschreibsel',  // Geschreibsel:  
 'geschunden, Schinder, schinden, Eindruck-', // triplicated
 'Geschütz',  // Geschütz: 
 'Geschwafel',    // Geschwafel: 
-'geschwängert, schwanger, schwängern', // duplicated
+'geschwängert, schwanger, schwängern', // dup
 'Geschwulst',  // Geschwulst:
 'geschwungen', // geschwungen:
 'Geseier',  // Geseier:

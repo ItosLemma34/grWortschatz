@@ -58,7 +58,8 @@ const e = [
 'Ekel, ekeln, an-, hinaus-, eklig, ekelhaft',  
 'Empore',     // Empore:  
 'Engerling',  // Engerling: 
-'entbieten',  // entbieten:  
+'entbieten',  // entbieten:
+'entblöden',  // entblöden:  
 'entblößen', // entblößen:
 'entgegenfiebern',  // entgegenfiebern: 
 'entgeistert',  // entgeistert:  

@@ -56,12 +56,12 @@ const w = [
 'Wohl bekomm\'s!', // 
 'Wohlgefallen (sich in W. auflösen)', // 
 'wölben',  // wölben:  
-'Wolf (durch den W. drehen)', //  duplicated 
-'wringen, auswringen', // duplicated
-'wuchern, überwuchern',  // duplicated 
+'Wolf (durch den W. drehen)', //  dup 
+'wringen, auswringen', // dup
+'wuchern, überwuchern',  // dup 
 'wuchten, Wucht',  
 'wühlen, durch-, herum-',  
-'wummern, Gewummer', //  duplicated  
+'wummern, Gewummer', //  dup 
 'würgen, hinunter-, rein-',   
 'wurmen', // wurmen: 
 'Wurmfortsatz', // Wurmfortsatz: 

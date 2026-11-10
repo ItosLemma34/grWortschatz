@@ -174,7 +174,7 @@ const a = [
 'aus dem Häuschen', // duplicated 
 'aus dem Staub machen, Staub, stauben, ab-',
 'aus der Haut fahren', 
-'aus der Wäsche gucken',  
+'aus der Wäsche gucken/schauen',  
 'ausbaldowern', // ausbaldowern: 
 'ausblenden',  // ausblenden: 
 'ausborgen',  // ausborgen:  

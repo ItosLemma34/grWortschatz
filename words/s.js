@@ -17,7 +17,7 @@ const s = [
 'schaben, ab-',  
 'Schablone',  // Schablone:
 'Schachtel',  // Schachtel:   
-'schade (zu schade sein)',   //dup 
+'schade, zu schade, sein',   
 'Schäferstündchen', // Schäferstündchen:
 'schälen', // schälen:
 'schallen, Schall',    

@@ -53,6 +53,7 @@ const h = [
 'herrisch',  // herrisch:
 'herumalbern, albern, Albernheit',  // dup 
 'herumärgern, rumärgern', //  dup 
+'herumdrücken, drücken, herumdrucksen, drucksen', // dup
 'herumeiern, rumeiern',  // dup
 'herumfuhrwerken',  // herumfuhrwerken: 
 'herumlungern', // herumlungern:  
@@ -62,8 +63,8 @@ const h = [
 'Heulsuse', // Heulsuse:  
 'hieven',  // hieven: 
 'hinblättern', // hinblättern:
-'hineinreiten, reinreiten',  // duplicated 
-'hinhalten, Knochen/Kopf hinhalten', // duplicated 
+'hineinreiten, reinreiten',  // dup 
+'hinhalten, Knochen/Kopf hinhalten', // dup
 'hinterlistig',  // hinterlistig: 
 'hinters Licht führen', 
 'Hippe',  // Hippe: 

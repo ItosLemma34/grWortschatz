@@ -49,8 +49,7 @@ const z = [
 'Zopf',  // Zopf: 
 'zu Kreuze kriechen',  // dup 
 'zu nahe treten',  // dup 
-//'zu schade sein',  //  dup
-'Zucht, züchten',   // 
+'Zucht, züchten',    
 'züchtigen, züchtig',   
 'zücken',   // zücken:     
 'Zugehfrau',  // Zugehfrau: 

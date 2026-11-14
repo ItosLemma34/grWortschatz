@@ -60,7 +60,8 @@ const p = [
 'prallen, ab-, auf-',
 // 'präparieren' ,
 'Prämisse',  // Prämisse:
-'prangen', // prangen: 
+'prangen', // prangen:
+'Pranger (an den P.)',  //dup 
 'Pranke',  // Pranke: 
 'Präsent, präsent',
 'prasseln',  // prasseln: 

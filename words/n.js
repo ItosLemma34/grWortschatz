@@ -7,7 +7,7 @@ const n = [
   'Nacht um die Ohren schlagen',  // dup, with "Ohren"  
   'nagen',  // nagen: 
   'Napf',  // Napf: 
-  'Nase (an der N. herumführen)',  // dup   Nase cannot find
+  'Nase (an der N. herumführen)',  // dup  
   'Nase (auf der N. herumtanzen)', //  dup 
   'Nase (auf die N. binden)',  //  dup  
   'Nase (lange N. zeigen/machen)', //  dup 

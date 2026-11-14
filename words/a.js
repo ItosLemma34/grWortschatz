@@ -24,7 +24,7 @@ const a = [
 'abspecken',  // abspecken: 
 'abspulen',   // abspulen:  
 'abstottern', // abstottern: 
-'abstumpfen, stumpf',  // duplicated
+'abstumpfen, stumpf',  // dup
 'abtrünnig',  // abtrünnig:
 'abwetzen',  // abwetzen:     
 'abwiegeln',  // abwiegeln:      
@@ -34,23 +34,23 @@ const a = [
 'Achterbahn', // Achterbahn: 
 'achtkantig hinauswerfen', 
 'Ächtung', // Ächtung:
-'Ader, Halsschlag-', 
+'Ader, Halsschlagader', // dup
 'Adlatus', // Adlatus:  
 'adrett',   // adrett:  
 'ächzen',     // ächzen:   
 'Affekthandlung',   // Affekthandlung: 
-'äffen',
+'äffen',  // äffen:
 'Affenzahn (mit einem A.)', // dup
 'Albernheit, albern, herum-', // dup
 'alle naselang',  
 'Allerwerteste',   // Allerwerteste:  
 'alteingesessen',  // alteingesessen: 
 'am Wickel haben',  // dup
-'an den Pranger',  
-'an der Backe haben', 
-'an der Nase herumführen',  // dup   Nase cannot find
+'an den Pranger',  // dup
+'an der Backe haben', // dup
+'an der Nase herumführen',  // dup   
 'an die große Glocke hängen', // dup  
-'anbändeln',    // anbändeln: 
+'anbändeln, anbandeln',     
 'anberaumen',  // anberaumen: 
 'anbiedern, Anbiederung', 
 'anbinden, kurz angebunden',   // dup  

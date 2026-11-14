@@ -7,7 +7,8 @@ const h = [
 'halbgar', // halbgar:  
 'halbseiden',  // halbseiden: 
 'Halde (auf H. legen)',
-'Hall, hallen',  
+'Hall, hallen',
+'Halsschlagader, Ader',  // dup
 'Halterung',  // Halterung:  
 'Halunke',  // Halunke: 
 'hämisch',  // hämisch: 

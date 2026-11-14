@@ -1,6 +1,6 @@
 export const wordExamples = {
 //format:  a b c d e f g h i j k l m n o p q r s t u v 
-// next:  anblaffen:   
+// next:  continue anbrechen:   
 //    ≈  ≈   ≈    ≈  ≈   ≈    ≈  ≈   ≈ ≈  ≈   ≈  ≈  ≈   ≈  ≈  ≈   ≈  ≈  ≈   ≈        ≈  ≈   ≈         ≈  ≈   ≈     ≈  ≈   ≈
 // Check if all the "auf die Nase binden" captured
 // Der stumme Tod  Pritsche 524
@@ -13596,6 +13596,8 @@ anbrechen: [
     '<i>Artz, zu Rath</i>: "Der Mann (<i>Jurezka</i>) hat sein rechtes Auge verloren, den kompletten Augapfel, wie zum Teufel ist das passiert? Von den Hämatomen und Platzwunden gar nicht zu sprechen! Dazu zwei <b>angebrochene Rippen</b>." (<i>Märzgefallene</i>, 240)',
     '<i>Gereon zu Charly</i>: "Was machen wir mit dem <b>angebrochenen</b> Tag?.. Sollen wir ins Grüne fahren?.." (<i>Märzgefallene</i>, 388)',
     'Der Auszug Reinhold Gräfs aus seinem Büro zeigte ihm (<i>Rath</i>) deutlich, dass auch in der Burg neue Zeiten <b>angebrochen waren</b>. (<i>Märzgefallene</i>, 538)',
+// not in Lunapark
+//anbrechen ·  bricht an, brach an, hat/ist angebrochen
 ],
 anecken: [
     'an etwas <b>anecken</b>: hit something'+

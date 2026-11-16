@@ -1,16 +1,18 @@
 export const wordExamples = {
 //format:  a b c d e f g h i j k l m n o p q r s t u v 
-// next:  continue anbrechen:   
+// next: 'arme Ritter'   
 //    ≈  ≈   ≈    ≈  ≈   ≈    ≈  ≈   ≈ ≈  ≈   ≈  ≈  ≈   ≈  ≈  ≈   ≈  ≈  ≈   ≈        ≈  ≈   ≈         ≈  ≈   ≈     ≈  ≈   ≈
 // Check if all the "auf die Nase binden" captured
 // Der stumme Tod  Pritsche 524
 // Der stumme Tod, holprig 435
-
+//Anhöhe Der stumme Tod 384
+//	' 'Anleger, Fähre'  384 (<i>Der stumme Tod</i>, 384)',	
 // check page number
     // Olympia knicken  eingeknickt  229 470
     // Olympia Daumen drücken 326 328
-// vertilgen Der stumme Tod 514
+    // vertilgen Der stumme Tod 514
     // Knicks 238  geknickt Der stumme Tod 536
+    // anbrechen Olympia 478
     // Olympia Vertretung 492
     // Stumme Tod 410	verschmerzen
     // Der stumme Tod  auf den Arm nehmen  346  515  	
@@ -666,7 +668,7 @@ quäken: [
     '<span class="bookTitle"><u>Olympia</u></span>',  
     'Dann hoben sie (<i>Albritton, Johnson, Thurber</i>) den rechten Arm in Richtung der führerlosen Ehrentribüne, als wollten sie dem verbliebenen kläglichen Rest in der Loge den Deutschen Gruß zeigen, doch war es nicht der Deutsche Gruß, die Daumen waren <b>eingeknickt</b> und die Hände nicht waagerecht, es sah irgendwie anders aus, fast wie eine Parodie. Aber das war es nicht, dazu passten die ernsten Gesichter der drei Sportler nicht. (<i>Olympia</i>, 204)',
     'Irgendwann war er (<i>Ehlers</i>) <b>eingeknickt</b>, hatte ihnen die Namen einer Handvoll ehemaliger Genossen genannt, mit denen er seit Jahren nicht mehr zu tun hatte. Um die es ohnehin nicht schade war. (<i>Olympia</i>, 229)',
-    // xxx  Olympia eingeknickt  470
+    //   Olympia eingeknickt  470
 ],
 'geknickt, knicken, ein-': [  
     '<b>knicken</b>: fold/crease, bend, snap/crack; <i>colloq</i>: forget/give up on (<i>Das kannst du dir knicken</i>!)'+
@@ -892,6 +894,7 @@ Kommisskopp: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur – wie eine der Isidor-Zeichnungen, mit denen die Nazi-Postille <i>Der Angriff</i> seinerzeit Berlins Vize-Polizeipräsidenten Bernhard Weiß regelmäßig verunglimpft hatte. "Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln. "Wohl eher mit einem Juden, der sich <b>auf den Arm genommen</b> fühlt." (<i>Märzgefallene</i>, 19-20)',
      // Olympia
+    // Olympia 
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Lohmann</i>: "Haben Sie denn schon in der Kaserne angerufen?" (<i>Wehrmacht Oberleutnant</i>): "Selbstverständlich. Dort ist Leutnant Dräger nicht." "Dann sollten wir es mal im Pausenraum versuchen oder im Restaurant." "Wollen Sie mich <b>auf den Arm nehmen</b>? Auch dort haben wir natürlich nachgeschaut." (<i>Olympia</i>, 170-71)',
 ],
@@ -911,6 +914,7 @@ Kommisskopp: [
     '<span class="bookTitle"><u>Märzgefallene</u></span>',    
     'Rath schaute in den nächstbesten Spiegel. Er sah wirklich aus wie eine antisemitische Karikatur – wie eine der Isidor-Zeichnungen, mit denen die Nazi-Postille <i>Der Angriff</i> seinerzeit Berlins Vize-Polizeipräsidenten Bernhard Weiß regelmäßig verunglimpft hatte. "Meinst du, ich kriege so Ärger mit der SA?" Paul zuckte die Achseln. "Wohl eher mit einem Juden, der sich <b>auf den Arm genommen</b> fühlt." (<i>Märzgefallene</i>, 19-20)',
      // Olympia
+    // Olympia 
     '<span class="bookTitle"><u>Olympia</u></span>',  
     '<i>Lohmann</i>: "Haben Sie denn schon in der Kaserne angerufen?" (<i>Wehrmacht Oberleutnant</i>): "Selbstverständlich. Dort ist Leutnant Dräger nicht." "Dann sollten wir es mal im Pausenraum versuchen oder im Restaurant." "Wollen Sie mich <b>auf den Arm nehmen</b>? Auch dort haben wir natürlich nachgeschaut." (<i>Olympia</i>, 170-71)',
 ],
@@ -2075,8 +2079,13 @@ Hülle: [
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 anmaßen: [ 
     '<b>sich etw. anmaßen</b>: claim/arrogate sth. for oneself; presume to do sth.; have sth. made to measure'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anmaszen"target="target1">anmaßen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anma%C3%9Fen"target="target2">anmaßen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anmassen"target="target3">anmaßen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anma%C3%9Fen&id=verb%3Aanmas5en"target="target4">anmaßen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anmaszen"target="target1">anmaßen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anma%C3%9Fen"target="target2">anmaßen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anmassen"target="target3">anmaßen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anma%C3%9Fen&id=verb%3Aanmas5en"target="target4">anmaßen</a>',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',  
     '<i>Gennat</i>: "Sie sind aber, liebe Frau Rath, lieber Böhm, keine Kriminalbeamten mehr. Es reicht, dass die SS <b>sich</b> in diesem Land schon polizeiähnliche Befugnisse <b>anmaßt</b>, da müssen die Privatermittler jetzt nicht auch noch mitmischen." <i>Böhm</i>: "Bei allem Respekt, Herr Kriminaldirektor, aber wir <b>maßen uns nichts an"</b>! Böhm war laut geworden. "Selbstverständlich hätte ich Sie aufgesucht und Ihnen von unseren neuen Erkenntnissen berichtet! (<i>Marlow</i>, 465)',
 ],
@@ -2508,16 +2517,7 @@ lau: [
     'Er (<i>Fritze</i>) ging den Weg rechts hinunter, der am kleinen Waldsee entlangführte. Selbst auf dem Steg der Finnischen Sauna saß heute niemand, obwohl angenehme Temperaturen herrschten, so um die zwanzig Grad, ein <b>laues</b> Lüftchen. (<i>Olympia</i>, 103)',
     'Auf der Terrasse des Invalidenheims hoch über dem See wehte ein angenehmer, <b>lauer</b> Wind. (<i>Olympia</i>, 107)',
 ],
-// ß           ß    sich die Mäuler zerreißen           ß                 ß                   ß                   ß               ß                                 ß                                          ß                               ß                                                   ß                                                            ß                                             ß
-Anstand: [
-    'der <b>Anstand</b>: decency, respectability, honesty'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anstand"target="target1">Anstand</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anstand#1"target="target2">Anstand</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anstand"target="target3">Anstand</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anstand&id=substantiv%3AAnstand"target="target4">Anstand</a>',
-    //	'<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    //	'  460, 464    (<i>Der stumme Tod</i>, 000)',	
-    '<span class="bookTitle"><u>Marlow</u></span>',
-    '<i>Rademann zu Fritze</i>: "Im Jugendamt gibt es Zweifel, ob sie (<i>Gereon und Charly</i>) geeignet sind, im nationalsozialistischen Staat als Pflegeeltern..." "Natürlich sind sie geeignet!" "Es ist gut, dass du sie verteidigst, das spricht für deinen <b>Anstand</b> und deinen Charakter." (<i>Marlow</i>, 422-23)',
-],
+// ß           ß      ß                 ß                   ß                   ß               ß                                 ß                                          ß                               ß                                                   ß                                                            ß                                             ß
 latschen: [
     '<b>latschen</b>: trudge, shuffle, traipse'+
     '<br>Deutsch:&nbsp;&nbsp;'+
@@ -2743,10 +2743,15 @@ Reling: [
     'der <b>Anleger</b>-,: investor; pier, jetty, wharf, quay'+
     '<br>die <b>Fähre</b>,-<b>n</b>: ferry'+
     '<br>der <b>Fähranleger</b>: ferry landing'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anleger"target="target1">Anleger</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/F%C3%A4hre"target="target2">Fähre</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anleger"target="target3">Anleger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=F%C3%A4hre&id=substantiv%3AFa3hre"target="target4">Fähre</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anleger"target="target1">Anleger</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/F%C3%A4hre"target="target2">Fähre</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anleger"target="target3">Anleger</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=F%C3%A4hre&id=substantiv%3AFa3hre"target="target4">Fähre</a>',
     //	'<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    //	'   (<i>Der stumme Tod</i>, 384)',	
+    //	' 'Anleger, Fähre'  384 (<i>Der stumme Tod</i>, 384)',	
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Hier auf der Wannseeinsel waren sie schon lange nicht mehr spazieren gegangen. Vorbei an den neiderweckend schönen Anwesen der Villenkolonie Alsen, dann in den Wald eintauchen, vorbei an Kiefern und Birken, bis irgendwann das Seeufer wieder auftauchte und dann.. der <b>Fähranleger</b> zur Pfaueninsel. (<i>Marlow</i>, 414)',
     'Als sie auf der <b>Fähre</b> standen, bemerkte auch Charly den in unauffälligem Grau gekleideten Mann, der zwei Minuten nach ihnen als einer der letzten an Bord gekommen war. (<i>Marlow</i>, 414)',
@@ -2758,10 +2763,15 @@ Reling: [
     'der <b>Anleger</b>-,: investor; pier, jetty, wharf, quay'+
     '<br>die <b>Fähre</b>,-<b>n</b>: ferry'+
     '<br>der <b>Fähranleger</b>: ferry landing'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anleger"target="target1">Anleger</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/F%C3%A4hre"target="target2">Fähre</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anleger"target="target3">Anleger</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=F%C3%A4hre&id=substantiv%3AFa3hre"target="target4">Fähre</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anleger"target="target1">Anleger</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/F%C3%A4hre"target="target2">Fähre</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anleger"target="target3">Anleger</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=F%C3%A4hre&id=substantiv%3AFa3hre"target="target4">Fähre</a>',
     //	'<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    //	'   (<i>Der stumme Tod</i>, 384)',	
+    //	' 'Anleger, Fähre'  384 (<i>Der stumme Tod</i>, 384)',	
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Hier auf der Wannseeinsel waren sie schon lange nicht mehr spazieren gegangen. Vorbei an den neiderweckend schönen Anwesen der Villenkolonie Alsen, dann in den Wald eintauchen, vorbei an Kiefern und Birken, bis irgendwann das Seeufer wieder auftauchte und dann.. der <b>Fähranleger</b> zur Pfaueninsel. (<i>Marlow</i>, 414)',
     'Als sie auf der <b>Fähre</b> standen, bemerkte auch Charly den in unauffälligem Grau gekleideten Mann, der zwei Minuten nach ihnen als einer der letzten an Bord gekommen war. (<i>Marlow</i>, 414)',
@@ -2801,13 +2811,6 @@ Reling: [
 ],
 // ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö  Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-beanstanden: [
-    '<b>beanstanden</b>: reject, object to, find fault with'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/beanstanden"target="target1">beanstanden</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/beanstanden"target="target2">beanstanden</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/beanstanden"target="target3">beanstanden</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=beanstanden&id=verb%3Abeanstanden"target="target4">beanstanden</a>',
-    '<span class="bookTitle"><u>Marlow</u></span>',
-    '<i>Gereon</i>: ".. Aus meinem Besitz haben sie (<i>die SS-Männer</i>) jedenfalls nichts gefunden, was sie hätten <b>beanstanden</b> können, oder?" (<i>Marlow</i>, 403)',
-],
 'Gefeilsche, feilschen': [
     'das <b>Gefeilsche</b>:	haggling'+
     '<br><b>feilschen</b>: haggle, bargain, dicker'+
@@ -3308,10 +3311,15 @@ versetzen: [
 ],
 Anhöhe: [
     'die <b>Anhöhe</b>,-<b>n</b>: hill, knoll'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anhoehe"target="target1">Anhöhe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anh%C3%B6he"target="target2">Anhöhe</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/anhohe?q=Anh%C3%B6he"target="target3">Anhöhe</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anhoehe"target="target4">Anhöhe</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anhoehe"target="target1">Anhöhe</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Anh%C3%B6he"target="target2">Anhöhe</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://dictionary.cambridge.org/dictionary/german-english/anhohe?q=Anh%C3%B6he"target="target3">Anhöhe</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anhoehe"target="target4">Anhöhe</a>',
     //	'<span class="bookTitle"><u>Der stumme Tod</u></span>',
-    //	'   (<i>Der stumme Tod</i>, 384)',	
+    //	' Anhöhe Der stumme Tod 384  (<i>Der stumme Tod</i>, 384)',	
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Nach einer guten Stunde hielt er (<i>Rath</i>) im Schatten eines Baumes auf einer <b>Anhöhe</b>, die ihm eine schöne Sicht weit in die schöne Landschaft bescherte. Der richtige Ort zum Nachdenken. (<i>Marlow</i>, 307)',
     'Als Rath erwachte, schien die Sonne in sein Zimmer, und er wusste im ersten Augenbick nicht, wo er sich befand. Bis es ihm wieder einfiel. Er hatte gestern Abend einfach den nächstbessten Ort auf der Reichsstraße angesteuert, der kurz hinter einer menschenleeren Autobahnbaustelle auf einer <b>Anhöhe</b> lag. (<i>Marlow</i>, 311)',
@@ -3600,8 +3608,13 @@ kentern: [
 ],
 anmotzen: [
     '<b>anmotzen</b>: yell at, bite head off, rebuke, berate'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anmotzen"target="target1">anmotzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anmotzen"target="target2">anmotzen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anmotzen"target="target3">anmotzen</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/anmotzen"target="target4">anmotzen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anmotzen"target="target1">anmotzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anmotzen"target="target2">anmotzen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anmotzen"target="target3">anmotzen</a>&nbsp;&nbsp;'+
+        '<a href="https://context.reverso.net/translation/german-english/anmotzen"target="target4">anmotzen</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     '"Wir sind knapp zehn Minuten hier, Chef", sagte er zu Bahlke. "Toni hat uns gerade mal guten Tag gesagt und zwei Handgriffe gezeigt, dann haut er schon ab, ohne zu sagen, wohin - so kann das nicht funktionieren. Und dann muss uns dieser Gorilla auch noch <b>anmotzen</b>!" (<i>Der stumme Tod</i>, 257)',
 ],
@@ -4398,12 +4411,19 @@ Schnürsenkeln: [
 ],
 Anpfiff: [
     'der <b>Anpfiff</b>,-<b>e</b>: whistle for the start of play; dressing down, bawling out'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anpfiff"target="target1">Anpfiff</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Anpfiff"target="target2">Anpfiff</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anpfiff"target="target3">Anpfiff</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anpfiff"target="target4">Anpfiff</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anpfiff"target="target1">Anpfiff</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Anpfiff"target="target2">Anpfiff</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anpfiff"target="target3">Anpfiff</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anpfiff"target="target4">Anpfiff</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '"Sagen Sie mal", schnauzte er (<i>Böhm</i>) den Blauen (<i>ein Schupo</i>) grußlos an, "sind wir hier im Lunapark? Was haben die ganzen Leute am Tatort zu suchen? Sorgen Sie mal dafür, dass die Schaulustigen verschwinden!".. Inzwischen hatte sich auch der Schupo von dem <b>Anpfiff</b> (<i>von Böhm</i>) erholt und trat zum Oberkommissar, zackig salutierend. (<i>Der nasse Fisch</i>, 57-58)',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Nach dem Telefonat mit Gräf hatte er (<i>Rath</i>) sich so seine Gedanken gemacht, wie er der unvermeidlichen Begegnung mit Böhm ein wenig die Schärfe nehmen könnte. Am besten mit Ergebnissen, mit einem umfassenden Bericht zu den bisherigen Ermittlungen im Fall Winter. Dann könnte er Böhms <b>Anpfiff</b> über sich ergehen lassen und der Bulldogge wortlos die Akte in die Hand drücken. (<i>Der stumme Tod</i>, 170)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Sie (<i>Hannah und Fritze</i>) waren eine ganze Weile vor <b>Anpfiff</b> im Stadion. Das Rund füllte sich langsam. (<i>Märzgefallene</i>, 597)',
 ],
@@ -6733,11 +6753,17 @@ Kuvert: [
 ],
 anwinkeln: [
     '<b>anwinkeln</b>: bend, angle sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anwinkeln"target="target1">anwinkeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anwinkeln"target="target2">anwinkeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anwinkeln"target="target3">anwinkeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anwinkeln&id=verb%3Aanwinkeln"target="target4">anwinkeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anwinkeln"target="target1">anwinkeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anwinkeln"target="target2">anwinkeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anwinkeln"target="target3">anwinkeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anwinkeln&id=verb%3Aanwinkeln"target="target4">anwinkeln</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Schweigend gingen Rath und Gräf die breiten Treppen hinauf. Anzugträger kamen ihnen entgegen, in geschäftiger Hektik, ab und zu auch einmal ein Schwarzuniformierter. Gräf grüßte jeden zackig mit dem Deutschen Gruß, Rath ließ jeweils eine Art Echo folgen mit seinem lustlos <b>angewinkelten</b> rechten Arm. (<i>Lunapark</i>, 52)',
     '"Heil Hitler", riefen die Kettenhunde unisono und warfen ihre Arme in die Luft. "Hei`", nuschelte Rath und <b>winkelte</b> seinen rechten Arm kurz <b>an</b>. Ein letzter misstrauischer Blick, dann ließen die beiden ihn passieren. (<i>Lunapark</i>, 92)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Der Schupo salutierte ein letztes Mal und warf dann seinen Arm in die Höhe. "Heil Hiter, Oberkommissar!" Rath <b>winkelte</b> seinen rechten Arm kurz <b>an</b> und drehte sich wortlos um. (<i>Marlow</i>, 38)',
 ],
@@ -8029,10 +8055,16 @@ eintrichtern: [
 ],
 anpeilen: [
     '<b>anpeilen</b>: locate, home in on sth.; aim at sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anpeilen"target="target1">anpeilen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anpeilen"target="target2">anpeilen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/anpeilen"target="target3">anpeilen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anpeilen&id=verb%3Aanpeilen"target="target4">anpeilen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anpeilen"target="target1">anpeilen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anpeilen"target="target2">anpeilen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/anpeilen"target="target3">anpeilen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anpeilen&id=verb%3Aanpeilen"target="target4">anpeilen</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Und er (<i>Fritze</i>) war hochkonzentriert, das konnte man an seinem Gesicht erkennen. Wie er die Waffe hielt und Juretzka über Kimme und Korn <b>anpeilte</b>, das sah richtig gut aus. (<i>Lunapark</i>, 529)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Und der Hitlerjunge Thormann, das hatte sich schon bei den ersten Versuchen herausgestellt, war ein begabter Schütze. Begabter jedenfalls als Atze. Was dem Freund nicht gefiel, das hatte Fritze schnell gemerkt. Hatte deswegen auch immer mal absichtlich danebengeschossen, indem er ein Ziel neben der Zielscheibe <b>anpeilte</b>.(<i>Marlow</i>, 420)',
 ],
@@ -8178,8 +8210,13 @@ Großmut: [
 ],
 anzüglich: [
     '<b>anzüglich</b>: salacious, lewd, insinuating, risqué'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anzueglich"target="target1">anzüglich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anz%C3%BCglich"target="target2">anzüglich</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/anz%C3%BCglich"target="target3">anzüglich</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anz%C3%BCglich&id=adjektiv%3Aanzu3glich%23anzu3glich"target="target4">anzüglich</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anzueglich"target="target1">anzüglich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anz%C3%BCglich"target="target2">anzüglich</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/anz%C3%BCglich"target="target3">anzüglich</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anz%C3%BCglich&id=adjektiv%3Aanzu3glich%23anzu3glich"target="target4">anzüglich</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Dann hörte Rath ein paar Frauen kreischen und schimpfen, dazwischen einen <b>anzüglichen</b> Witz. (<i>Der nasse Fisch</i>, 121-22)',
     '"Diesmal suche ich eine Frau..." "Na, ick bin ja schon verjeben, wa!" "...eine alleinstehende Frau, die hier im Haus wohnt." Rath ließ sich von ihrem <b>anzüglichen</b> Humor nicht beirren. "Eine Frau, die seit einiger Zeit verreist ist." (<i>Der nasse Fisch</i>, 231)',
@@ -9028,11 +9065,17 @@ Schlappschwanz: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
  anzetteln: [
     '<b>anzetteln</b>: instigate, incite, provoke'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anzetteln"target="target1">anzetteln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anzetteln"target="target2">anzetteln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/anzetteln"target="target3">anzetteln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anzetteln&id=verb%3Aanzetteln"target="target4">anzetteln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anzetteln"target="target1">anzetteln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anzetteln"target="target2">anzetteln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/anzetteln"target="target3">anzetteln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anzetteln&id=verb%3Aanzetteln"target="target4">anzetteln</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Walter Spindler", fuhr Pfeiffer fort, "hatte damals, in den Systemzeiten, als die Rotfront noch offen gegen die nationalsozialistische Bewegung Schlägereien und Saalschlachten <b>anzettelte</b>, eine Masche, mit der er der Polizei immer wieder durch die Lappen ging. (<i>Lunapark</i>, 289)',
     'Die SA wollte putschen! Eine Riege rund um Stabschef Röhm, dem zweitmächtigsten Mann der Bewegung nach dem Führer. Ausgerechnet der Duzfreund Adolf Hitlers, einer seiner ältesten Kampfgefährten, hatte ein Verschwörung <b>angezettelt</b>, die weit über die Kreise der SA hinausreichte. (<i>Lunapark</i>, 468-69)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Gereon</i>: "Charly! Ich weiß nicht, was du dir vorstellst. Was soll ich deiner Meinung nach da (<i>in Nürnberg</i>) gemacht haben? Eine Verschwörung <b>angezettelt</b>?" (<i>Marlow</i>, 403)',
 ],
@@ -9285,20 +9328,72 @@ quengeln: [
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) Büro führer Führer Tür Straße für über überhaupt Männer schön zurück können würde <b>  für Tür über überhaupt schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön zurück können würde Straße <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <b> (<i>Charly</i>) (<i>Gereon</i>)            
-anstandslos: [
-    '<b>anstandslos</b>: freely; without restrictions/objections'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anstandslos"target="target1">anstandslos</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anstandslos"target="target2">anstandslos</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anstandslos"target="target3">anstandslos</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/anstandslos"target="target4">anstandslos</a>',
+'Anstand, anstandslos, beanstanden': [
+    'der <b>Anstand</b>: decency, decorum, propriety, good manners'+
+    '<br><b>anstandslos</b>: readily, smoothly; without hesitation/restrictions/objections'+
+    '<br><b>beanstanden</b>: object to, complain about, find fault with'+
+    '<br><i>The connection between <b>anstandslos</b> and <b>beanstanden</b> is clear, but not the connection to <b>Anstand</b>.</i>'+
+    '<br><i>An historical, mostly outdated, meaning of <b>Anstand</b> is objection/hesitation/scruple.</i>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anstand"target="target1">Anstand</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anstandslos"target="target2">anstandslos&nbsp;&nbsp;</a>'+
+        '<a href="https://www.dwds.de/wb/beanstanden"target="target3">beanstanden</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anstand"target="target4">Anstand</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anstandslos"target="target5">anstandslos</a>&nbsp;&nbsp;'+
+         '<a href="https://en.langenscheidt.com/german-english/beanstanden"target="target6">beanstanden</a>',
+    // Der stumme Tod
+    //	'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //	'  460, 464    (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Roddecks Verleger hatte sich gewundert, als Liang ihm die von Gustav Kohn ausgearbeitete und von Roddeck unterschriebene Übertragunsvollmacht unter die Nase gehalten hatte. Aufzumucken oder gar zur Polizei zu gehen, hatte er nicht gewagt.. Der Nibelungen-Verlag hatte <b>anstandslos</b> gezahlt. (<i>Märzgefallene</i>, 587)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Charly wusste nicht, ob er (<i>Guido</i>) die dünne Geschichte, die sie ihm aufgetischt hatte, wirklich glaubte, aber seinen Wagen, einen kleinen Opel, hatte er ihr <b>anstandslos</b> geliehen. (<i>Lunapark</i>, 441)',
     'Der SS-Mann (<i>Pfeiffer</i>) schien überrascht, dass Gräf wieder in den Befehlston verfiel, er hatte es offensichtlich genossen, bei dieser Aktion Oberwasser zu haben, doch er gehorchte <b>anstandslos</b>, ging mit gezückter Waffe zum letzen Treppenabsatz zurück und passte auf, dass niemand herauf- und niemand hinunterkam. (<i>Lunapark</i>, 474)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    '<i>Gereon</i>: ".. Aus meinem Besitz haben sie (<i>die SS-Männer</i>) jedenfalls nichts gefunden, was sie hätten <b>beanstanden</b> können, oder?" (<i>Marlow</i>, 403)',
+    '<i>Rademann zu Fritze</i>: "Im Jugendamt gibt es Zweifel, ob sie (<i>Gereon und Charly</i>) geeignet sind, im nationalsozialistischen Staat als Pflegeeltern..." "Natürlich sind sie geeignet!" "Es ist gut, dass du sie verteidigst, das spricht für deinen <b>Anstand</b> und deinen Charakter." (<i>Marlow</i>, 422-23)',
+    // Olympia
+    //'<span class="bookTitle"><u>Olympia</u></span>',
+],
+'beanstanden, Anstand, anstandslos': [
+    'der <b>Anstand</b>: decency, decorum, propriety, good manners'+
+    '<br><b>anstandslos</b>: readily, smoothly; without hesitation/restrictions/objections'+
+    '<br><b>beanstanden</b>: object to, complain about, find fault with'+
+    '<br><i>The connection between <b>anstandslos</b> and <b>beanstanden</b> is clear, but not the connection to <b>Anstand</b>.</i>'+
+    '<br><i>An historical, mostly outdated, meaning of <b>Anstand</b> is objection/hesitation/scruple.</i>'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anstand"target="target1">Anstand</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anstandslos"target="target2">anstandslos&nbsp;&nbsp;</a>'+
+        '<a href="https://www.dwds.de/wb/beanstanden"target="target3">beanstanden</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anstand"target="target4">Anstand</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anstandslos"target="target5">anstandslos</a>&nbsp;&nbsp;'+
+         '<a href="https://en.langenscheidt.com/german-english/beanstanden"target="target6">beanstanden</a>',
+    // Der stumme Tod
+    //	'<span class="bookTitle"><u>Der stumme Tod</u></span>',
+    //	'  460, 464    (<i>Der stumme Tod</i>, 000)',	
+    // Märzgefallene
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    'Roddecks Verleger hatte sich gewundert, als Liang ihm die von Gustav Kohn ausgearbeitete und von Roddeck unterschriebene Übertragunsvollmacht unter die Nase gehalten hatte. Aufzumucken oder gar zur Polizei zu gehen, hatte er nicht gewagt.. Der Nibelungen-Verlag hatte <b>anstandslos</b> gezahlt. (<i>Märzgefallene</i>, 587)',
+    // Lunapark
+    '<span class="bookTitle"><u>Lunapark</u></span>',
+    'Charly wusste nicht, ob er (<i>Guido</i>) die dünne Geschichte, die sie ihm aufgetischt hatte, wirklich glaubte, aber seinen Wagen, einen kleinen Opel, hatte er ihr <b>anstandslos</b> geliehen. (<i>Lunapark</i>, 441)',
+    'Der SS-Mann (<i>Pfeiffer</i>) schien überrascht, dass Gräf wieder in den Befehlston verfiel, er hatte es offensichtlich genossen, bei dieser Aktion Oberwasser zu haben, doch er gehorchte <b>anstandslos</b>, ging mit gezückter Waffe zum letzen Treppenabsatz zurück und passte auf, dass niemand herauf- und niemand hinunterkam. (<i>Lunapark</i>, 474)',
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    '<i>Gereon</i>: ".. Aus meinem Besitz haben sie (<i>die SS-Männer</i>) jedenfalls nichts gefunden, was sie hätten <b>beanstanden</b> können, oder?" (<i>Marlow</i>, 403)',
+    '<i>Rademann zu Fritze</i>: "Im Jugendamt gibt es Zweifel, ob sie (<i>Gereon und Charly</i>) geeignet sind, im nationalsozialistischen Staat als Pflegeeltern..." "Natürlich sind sie geeignet!" "Es ist gut, dass du sie verteidigst, das spricht für deinen <b>Anstand</b> und deinen Charakter." (<i>Marlow</i>, 422-23)',
+    // Olympia
+    //'<span class="bookTitle"><u>Olympia</u></span>',
 ],
 sabbern: [
     '<b>sabbern</b>: drivel, drool, salivate'+
     '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/sabbern"target="target1">sabbern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sabbern"target="target2">sabbern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sabbern"target="target3">sabbern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sabbern&id=verb%3Asabbern"target="target4">sabbern</a>',
+    '<br>English:&nbsanstandslop;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/sabbern"target="target3">sabbern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=sabbern&id=verb%3Asabbern"target="target4">sabbern</a>',
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Elisabeth Spindler wandte sich von Rath ab und ergriff die Hand ihres Sohnes. Shaute die <b>sabbernde</b> Kreatur im Bett liebevoll an. (<i>Lunapark</i>, 437)',
     '<span class="bookTitle"><u>Marlow</u></span>',
@@ -10347,8 +10442,13 @@ Schlendrian: [
 ],
 apportieren: [
     '<b>apportieren</b>: retrieve, fetch'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/apportieren"target="target1">apportieren</a>&nbsp;&nbsp;<a href="https://www.wortbedeutung.info/apportieren/"target="target2">apportieren</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/apportieren"target="target3">apportieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=apportieren"target="target4">apportieren</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/apportieren"target="target1">apportieren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.wortbedeutung.info/apportieren/"target="target2">apportieren</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/apportieren"target="target3">apportieren</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=apportieren"target="target4">apportieren</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Marlow schwieg und ließ Kirie noch einmal <b>apportieren</b>. Rath fragte sich, wer wohl als Erster die Lust an diesem Spiel verlieren würde, und glaubte die Antwort zu kennen. (<i>Lunapark</i>, 357)',
 ],
@@ -11891,13 +11991,20 @@ ausreizen: [
 ],
 anheuern: [
     '<b>anheuern</b>: hire; sign on/up (for)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anheuern"target="target1">anheuern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anheuern"target="target2">anheuern</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anheuern"target="target3">anheuern</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anheuern"target="target4">anheuern</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anheuern"target="target1">anheuern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anheuern"target="target2">anheuern</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anheuern"target="target3">anheuern</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anheuern"target="target4">anheuern</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Mord als ultimatives Mittel der Sabotage, das schien Rath denn doch ein wenig hoch gegriffen, aber er konnte die Wut des Filmproduzenten (<i>Bellmann</i>) verstehen. Es musste einen Grund geben, dass Krempin unter falschem Namen bei der La Belle <b>angeheuert</b> hatte. Der Mann was eine Sache für die Fahndung. (<i>Der stumme Tod</i>, 58)',
     'Oppenberg zündete sich eine neue Zigarette an. Er nahm einen tiefen Zug, bevor er begann. "In einem haben Sie (<i>Rath</i>) recht: Felix Krempin hat tatsächlich in meinem Auftrag bei Bellmann <b>angeheuert</b>. Aber niemals ging es um Sabotage oder gar um Mord! Lassen Sie mich kurz erklären..." (<i>Der stumme Tod</i>, 77)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>Charly</i>: "Es war deine (<i>Gereons</i>) Idee, dass ich da (in <i>Haus Vaterland</i>) als Küchenhilfe <b>anheuern</b> sollte, wenn ich dich daran erinnern darf. Und Herr Husen ist Kellner im <i>Vaterland</i>. Hat mir damals wichtige Hinweise gegeben." (<i>Lunapark</i>, 160)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Wer zum Teufel sind Sie?", fragte Martha Döring. "Und wer zum Teufel soll mich verfolgen? Ich bin doch keine Spionin!" <i>Charly</i>: "Ein Mann im hellen Trenchcoat und dunklem Hut beschattet Sie. Wahrscheinlich ein Privatdetektiv. Und mit hundertprozentiger Sicherheit von Ihrem Mann <b>angeheuert</b>." (<i>Marlow</i>, 153)',
     '"Also zählen nur Fakten, Fakten und Fakten." Rath grinste. "Sehr schön. Fühle mich schon jetzt wie zuhause." <i>Henning</i>: "Freu dich nicht zu früh. Um den genauen Hergang der Explosion zu rekonstruieren, haben wir ein paar Chemiker und Physiker <b>angeheuert</b>. Das ist eine harte Materie, das sag ich dir." (<i>Marlow</i>, 181)',
@@ -12063,8 +12170,13 @@ abstottern: [
 ],
 Areal: [
     'das <b>Areal</b>,-<b>e</b>: area, grounds, plot'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Areal"target="target1">Areal</a> &nbsp;<a href="https://www.dwds.de/wb/Areal"target="target2">Areal</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/Areal"target="target3">Areal</a> &nbsp;<a href="https://www.verbformen.com/?w=Areal"target="target4">Areal</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Areal"target="target1">Areal</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/Areal"target="target2">Areal</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/Areal"target="target3">Areal</a> &nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Areal"target="target4">Areal</a>',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Berlin war eine Bierstadt, und auch in dieser Gegend gab es eine große Bauerei. Das Böhmische Brauhaus zwängte sich zwischen die Wohnhäuser der Landsberger Allee, ein <b>Areal</b>, mindestens so groß wie das von Schultheiß an der Schönhauser, aber längst nicht so auffällig. (<i>Lunapark</i>, 113)',
     'Bislang waren nur Blauuniformierte vor Ort, rund zwei Dutzend Beamte, die das <b>Areal</b> durchkämmten, um sich später keine Unterlassung vorwerfen lassen zu müssen, doch noch während Rath mit dem Schupo sprach, rollten die schwarzen Limousinen der Geheimen Staatspolizei auf das Gelände. (<i>Lunapark</i>, 384)',
@@ -12654,16 +12766,26 @@ auftakeln: [
 ],
 'ans Bein binden': [
     'jmdm./sich <b>ans Bein binden</b>: saddle sb./oneself with sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20jmdn.%2C%20etw.%20ans%20Bein%20binden"target="target1">ans Bein binden</a> &nbsp;<a href="https://www.youtube.com/shorts/nlh3cNRuO7w"target="target2">ans Bein binden</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/ein%20Gespr%C3%A4ch%20ans%20Bein%20binden"target="target3">ans Bein binden</a>&nbsp;&nbsp;<a href="https://dictionary.reverso.net/german-english/sich+etw+ans+Bein+binden"target="target4">ans Bein binden</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/sich%20jmdn.%2C%20etw.%20ans%20Bein%20binden"target="target1">ans Bein binden</a> &nbsp;'+
+        '<a href="https://www.youtube.com/shorts/nlh3cNRuO7w"target="target2">ans Bein binden</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/ein%20Gespr%C3%A4ch%20ans%20Bein%20binden"target="target3">ans Bein binden</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.reverso.net/german-english/sich+etw+ans+Bein+binden"target="target4">ans Bein binden</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte. Und dafür hatte Rath sich den Wosniak-Fall wieder <b>ans Bein gebunden</b>, nur um einen Vorwand zu haben, diesen undankbaren Drecksack aus der SA-Haft loszueisen? (<i>Märzgefallene</i>, 431)',
     'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten <b>ans Bein zu binden</b>. (<i>Märzgefallene</i>, 569)',
 ],
 'Bein (ans B. binden)': [
     'jmdm./sich <b>ans Bein binden</b>: saddle sb./oneself with sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/sich%20jmdn.%2C%20etw.%20ans%20Bein%20binden"target="target1">ans Bein binden</a> &nbsp;<a href="https://www.youtube.com/shorts/nlh3cNRuO7w"target="target2">ans Bein binden</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/ein%20Gespr%C3%A4ch%20ans%20Bein%20binden"target="target3">ans Bein binden</a>&nbsp;&nbsp;<a href="https://dictionary.reverso.net/german-english/sich+etw+ans+Bein+binden"target="target4">ans Bein binden</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/sich%20jmdn.%2C%20etw.%20ans%20Bein%20binden"target="target1">ans Bein binden</a> &nbsp;'+
+        '<a href="https://www.youtube.com/shorts/nlh3cNRuO7w"target="target2">ans Bein binden</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/ein%20Gespr%C3%A4ch%20ans%20Bein%20binden"target="target3">ans Bein binden</a>&nbsp;&nbsp;'+
+        '<a href="https://dictionary.reverso.net/german-english/sich+etw+ans+Bein+binden"target="target4">ans Bein binden</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Leo Juretzka war ganz offensichtlich ein Mann, der sich nicht gern bedankte. Und dafür hatte Rath sich den Wosniak-Fall wieder <b>ans Bein gebunden</b>, nur um einen Vorwand zu haben, diesen undankbaren Drecksack aus der SA-Haft loszueisen? (<i>Märzgefallene</i>, 431)',
     'Die Geschichte stand in ihren wesentlichen Zügen, und dennoch würde Hefner sie nicht ins Blatt heben. Weil Berthold Weinert keinen Dreh fand, sie einem in Ungnade gefallenen Polizisten <b>ans Bein zu binden</b>. (<i>Märzgefallene</i>, 569)',
@@ -12680,15 +12802,23 @@ aufpäppeln: [
 // <i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Anrichte: [
     'die <b>Anrichte</b>,-<b>n</b>: sideboard, pantry, buffet; credenza, dresser'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Anrichte"target="target1">Anrichte</a> &nbsp;<a href="https://www.dwds.de/wb/Anrichte"target="target2">Anrichte</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anrichte"target="target3">Anrichte</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Anrichte"target="target4">Anrichte</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Anrichte"target="target1">Anrichte</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/Anrichte"target="target2">Anrichte</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anrichte"target="target3">Anrichte</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Anrichte"target="target4">Anrichte</a>',
+    // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Sein (<i>Raths</i>) Blick fiel auf den Geburtstagskuchen. Die Kerzen brannten immer noch und verbreiteten eine romantische Stimmung, die niemand mehr brauchte. Er pustete sie aus und nahm den Kuchen vom Tisch, musste einem Moment der Versuchung widerstehen, ihn gegen die Wand zu pfeffern. Dann stellte er ihn doch brav in den Schrank, warf stattdessen einen Stuhl um und trat gegen die <b>Anrichte</b>. (<i>Der stumme Tod</i>, 264)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Seither hatte Rath immer wieder auf das schwarze Gerät (<i>das Telefon</i>) geschaut, das auf der <b>Anrichte</b> im Wohnzimmer stand, aber es hatte nicht noch einmal geklingelt. (<i>Märzgefallene, 402)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Sie (<i>Charly</i>) dachte gerade darüber nach, noch ein letztes Kapitel zu lesen.., da klingelte das Telefon.. Sie ging zur <b>Anrichte</b> hinüber und hob ab. (<i>Lunapark, 47-48)',
     'Ihr (<i>Charlys</i>) Blick fiel auf den Karton auf Gereons Schreibtisch, irgendein Paket, das er gestern Morgen bekommen hatte. Der Tisch stand im Wohnzimmer; seit der Junge bei ihnen eingezogen war, hatte Gereon kein Arbeitszimmer mehr, und sie hatten den Schreibtisch, den er ohnehin so gut wie nie benutzte, an das zweite Fenster neben die <b>Anrichte</b> gestellt. Schöner war die Wohnung dadurch nicht geworden. (<i>Lunapark, 378-79)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '"Legen Sie bitte auf", sagte die Telefonistin, "und bleiben Sie in der Nähe Ihres Fernsprechapparats. Ich melde mich, sobald die Verbindung hergestellt ist." Es dauerte fast zehn Minuten, aber dann klingelte das Telefon auf der <b>Anrichte</b>, und Charly schreckte aus dem Halbschlaf wieder hoch. "Teilnehmer? Ihre Leitung nach China steht. Ich verbinde." (<i>Marlow, 262)',
     'Die Schublade war natürlich immer noch verschlossen, sie (<i>Charly</i>) stand auf, ging hinüber zur Sitzecke, in der sie ihre Klienten empfingen, nahm die Porzellanblumenvase, die dort auf der <b>Anrichte</b> stand, und stellte sie auf den Kopf. Nichts passierte. (<i>Marlow, 342)',
@@ -12785,9 +12915,14 @@ adrett: [
 ],
 anpumpen: [
     '<b>pumpen</b>: pump'+
-    '<br><b>anpumpen</b>: borrow from, pump for money'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anpumpen"target="target1">anpumpen</a> &nbsp;<a href="https://www.dwds.de/wb/anpumpen"target="target2">anpumpen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anpumpen"target="target3">anpumpen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anpumpen"target="target4">anpumpen</a>',
+    '<br><b>anpumpen</b>: borrow, pump for money'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anpumpen"target="target1">anpumpen</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/anpumpen"target="target2">anpumpen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anpumpen"target="target3">anpumpen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anpumpen"target="target4">anpumpen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Langsam öffnete sich die Tür... Und tatsächlich steckte Berthold Weinert seinen neugierigen Kopf ins Zimmer. "Guten Morgen, Langschläfer", sagte er und zwinkerte Rath wissend zu, "kannst du mir vielleicht ein paar Mark leihen? Die Behnke hat sich heute Morgen noch nicht sehen lassen, sonst hätt\' ich die <b>angepumpt</b>. (<i>Der nasse Fisch</i>, 45)',
 ],
@@ -12884,8 +13019,13 @@ anpumpen: [
 ],
 anstupsen: [
     'jmdn. <b>anstupsen</b>: nudge, prod so.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anstupsen"target="target1">anstupsen</a> &nbsp;<a href="https://www.dwds.de/wb/anstupsen"target="target2">anstupsen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/anstupsen"target="target3">anstupsen</a>  &nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anstupsen"target="target4">anstupsen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anstupsen"target="target1">anstupsen</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/anstupsen"target="target2">anstupsen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.wordreference.com/deen/anstupsen"target="target3">anstupsen</a>  &nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anstupsen"target="target4">anstupsen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Rath fand den Jungen in der Küche. Er musste den ganzen Abwasch gemacht haben, nun war er dabei, das Spülbecken zu säubern. Das Wasser gurgelte in den Abfluss und übertönte alle anderen Geräusche. Fritze furh herum, als Kirie ihn <b>anstupste</b>. "Mensch, habt ihr mich erschreckt!" (<i>Märzgefallene</i>, 369)',
     'Unter dem großen Werbeschild über der Gegengeraden.. erblickte Hannah einen weißen Damenhut, der aus den vielen dunklen Herrenhüten hervorstach. Da standen sie. Alle vier. (<i>Gereon, Charly, Paul, Greta</i>) Als hätten sie sich dort verabredet. Sie <b>stupste</b> Fritze <b>an</b> und zeigte hinüber. Der Junge grinste. (<i>Märzgefallene</i>, 597)',
@@ -13061,15 +13201,23 @@ ausquetschen: [
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 anhimmeln: [
     '<b>anhimmeln</b>: idolize, adore, gaze lovingly at'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anhimmeln"target="target1">anhimmeln</a> &nbsp;<a href="https://www.dwds.de/wb/anhimmeln"target="target2">anhimmeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anhimmeln"target="target3">anhimmeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anhimmeln"target="target4">anhimmeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anhimmeln"target="target1">anhimmeln</a> &nbsp;'+
+        '<a href="https://www.dwds.de/wb/anhimmeln"target="target2">anhimmeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anhimmeln"target="target3">anhimmeln</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anhimmeln"target="target4">anhimmeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er (<i>Rath</i>) suchte das ganze Buch nach weiteren Eintragungen mit <i>W</i> ab.. Jänicke hatte sich so oft mit dieser Person getroffen, dass er doch noch etwas anderes als die Termine aufgeschrieben haben musste. Vielleicht auch nicht. Wenn <i>W</i> eine Frau war.. Wenn es sich beim ominösen <i>W</i> lediglich um eine Wilhelmine order eine Waltraud handelte, die der scheue Ostpreuße <b>angehimmelt</b> hatte! (<i>Der nasse Fisch</i>, 383)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '<i>Charly</i>: "Reinhold ist ein netter Kerl, ich kann mir überhaupt nicht vorstellen, dass er Nazi ist." <i>Gereon</i>: "Keiner von den brutalen, böswilligen. Eher einer von den schwärmerischen. Wie die vielen Frauen, die Hitler <b>anhimmeln</b>. (<i>Märzgefallene</i>, 325)',
     'Roddeck blizte ihn (<i>Rath</i>) zornfunkelnd an. Die Temme hatte aufgehört, den Leutnant <b>anzuhimmeln</b>, und kozentrierte sich nun ganz auf ihren Stenoblock und ihren Bleistift. (<i>Märzgefallene</i>, 342)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '"Danke, Mettmann", sagte Gräf. "Stellen Sie die Sachen doch bitte auf den Besuchertisch." Die Mettmann reagierte mit einem Lächeln, das nahelegte, dass die junge Sekretärin ihren Chef <b>anhimmelte</b>. (<i>Lunapark</i>, 56)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     '<i>Gennat</i>: "..Was auch immer wir finden, wir werden alles zusammentragen, werden die Beweiskette so dicht wie möglich schmieden, und dann, aber erst dann, Johann Marlow und Liang Kuen-Yao zu einer Vernehmung in die Burg holen." Charly schien dem Buddha tatsächlich zu glauben, mit einem derart hoffnungsvollen Blick <b>himmelte</b> sie ihn <b>an</b>, schien zu glauben, dass sich Gennat selbst von derart verzwackten Mordfällen seine Aufklärungsquote nicht verderben lassen würde. Rath war da durchaus skeptischer. (<i>Marlow</i>, 472)',
 ],
@@ -13596,8 +13744,12 @@ anbrechen: [
     '<i>Artz, zu Rath</i>: "Der Mann (<i>Jurezka</i>) hat sein rechtes Auge verloren, den kompletten Augapfel, wie zum Teufel ist das passiert? Von den Hämatomen und Platzwunden gar nicht zu sprechen! Dazu zwei <b>angebrochene Rippen</b>." (<i>Märzgefallene</i>, 240)',
     '<i>Gereon zu Charly</i>: "Was machen wir mit dem <b>angebrochenen</b> Tag?.. Sollen wir ins Grüne fahren?.." (<i>Märzgefallene</i>, 388)',
     'Der Auszug Reinhold Gräfs aus seinem Büro zeigte ihm (<i>Rath</i>) deutlich, dass auch in der Burg neue Zeiten <b>angebrochen waren</b>. (<i>Märzgefallene</i>, 538)',
-// not in Lunapark
-//anbrechen ·  bricht an, brach an, hat/ist angebrochen
+    // Marlow
+    '<span class="bookTitle"><u>Marlow</u></span>',
+    'Und sie (<i>Charly, Gereon und Fritze</i>) hatten verdammt viel gemacht, sie waren im Kino gewesen, hatten auf dem Wannsee eine Bötchentour gemacht, einen Ausflug ins Grüne mit dem Auto – Gereon hatte ihn sogar mal hinters Steuer gelassen –, und dann hatten sie vorhin, als die letzte halbe Stunde <b>angebrochen</b> war, schweigend bei Kaffee und Kuchen im Wohnzimmer gesessen und kaum einen Bissen hinunter und kaum ein Wort hinaus bekommen. (<i>Marlow</i>, 489)',
+    // Olympia
+    //'<span class="bookTitle"><u>Olympia</u></span>',
+    // anbrechen Olympia 478   xxx
 ],
 anecken: [
     'an etwas <b>anecken</b>: hit something'+
@@ -13635,8 +13787,13 @@ angeschickert: [
 anleinen: [
     'die <b>Leine</b>,-<b>n</b>: line, cord, rope, string, leash'+
     '<br><b>anleinen</b>: leash (a dog), tie to sth.'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anleinen"target="target1">anleinen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anleinen"target="target2">anleinen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anleinen"target="target3">anleinen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anleinen"target="target4">anleinen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anleinen"target="target1">anleinen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anleinen"target="target2">anleinen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anleinen"target="target3">anleinen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anleinen"target="target4">anleinen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Na, altes Mädchen", sagte er (<i>Gereon</i>) zu Kirie, "dann werden wir den Abend wohl alleine verbringen." Er <b>leinte</b> den Hund <b>an</b> und machte sich auf den Weg zum allabendlichen Spaziergang. (<i>Märzgefallene</i>, 107)',
     'Als er (<i>Gereon</i>) den Kaffee getrunken hatte, zeigte die Wanduhr noch nicht einmal fünf. Kirie schaute verwundert, als er sie <b>anleinte</b> und nach draußen führte. (<i>Märzgefallene</i>, 114)',
@@ -13685,10 +13842,16 @@ raunzen: [
 anquatschen: [
     '<b>quatschen</b>: yak, gab, shoot the bull'+
     '<br><b>anquatschen</b>: accost, chat so. up'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anquatschen"target="target1">anquatschen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anquatschen"target="target2">anquatschen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anquatschen"target="target3">anquatschen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anquatschen"target="target4">anquatschen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anquatschen"target="target1">anquatschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anquatschen"target="target2">anquatschen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anquatschen"target="target3">anquatschen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anquatschen"target="target4">anquatschen</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     '<i>Jänicke</i>: "Mir wurde heute das Angebot unterbreitet, die Polizei solle doch mehr mit der Reichswehr zusammenarbeiten. Inoffiziell natürlich." <i>Rath</i>: "Generalmajor Seegers?" Jänicke nickte. "Der war wohl heute auf Rekrutierungstour. Mich hat er auch <b>angequatscht</b>." (<i>Der nasse Fisch</i>, 174)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Heute lungerten sie (<i>Hannah und Fritze</i>)  am Bahnhof Zoo herum, und Fritze ließ seinen Kleinjungencharme spielen und <b>quatschte</b> reich aussehende Passanten <b>an</b>. (<i>Märzgefallene</i>, 253)',
     'Auf dem Eigelstein standen die Nutten vor den Eckkneipen und <b>quatschten</b> wie eh und je sämtliche Wesen männlichen Geschlechts <b>an</b>, die vorbeikammen, ganz gleich wie alt dieselben sein mochten. (<i>Märzgefallene</i>, 316)',
@@ -13699,33 +13862,48 @@ anquatschen: [
 'Rempler, rempeln, an-': [
     'der <b>Rempler</b>,-<b>n</b>: push, shove, bump'+
     '<br>(<b>an</b>)<b>rempeln</b>: jostle, bump/barge into'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Rempler"target="target1">Rempler</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/rempeln"target="target2">rempeln</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/rempler"target="target3">Rempler</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=rempeln"target="target4">rempeln</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Rempler"target="target1">Rempler</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/rempeln"target="target2">rempeln</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/rempler"target="target3">Rempler</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=rempeln"target="target4">rempeln</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath drehte instinktiv den Kopf zur Seite. Und kaum hatte er seinen Nebenmann im Visier, rannte der auch schon los.... Der Mann <b>rempelte</b> eine elegante Dame <b>an</b>, schlug ihr das Champagnerglas aus der Hand und drängte sie gegen ihren Begleiter. (<i>Der nasse Fisch</i>, 121)',
     'Rath zog sich in den Winkel zurück, den zwei Bauzäune hier bildeten, und wartete, bis sie (<i>Charly</i>) an ihm vorbeigelaufen war.. Es war gar nicht so einfach, mit ihr Schritt zu halten, einige Passanten, die er <b>anrempelte</b>, murrten. (<i>Der nasse Fisch</i>, 268-69)',
     'Vor genau einer Woche hatte er hier gestanden und auf Charly gewartet. Un im Cafe Europa hatte er sie zum ersten Mal geküsst. Kinogänger <b>rempelten sich</b> an ihm vorbei und schimpften. Rath machte sich wieder auf den Weg. (<i>Der nasse Fisch</i>, 355)',
     'Der Mann (<i>der Schildermaler</i>) pinselte in aller Seelenruhe vor sich hin.. Fast hätte der Maler seine Arbeit noch einmal beginnen können, denn ein eiliger Mann kam durch die Tür und hätte den Arbeiter um ein Haar <b>angerempelt</b>. (<i>Der nasse Fisch</i>, 372)',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Edes brauen Hut konnte er (<i>Rath</i>) für eine Weile nicht sehen, den Dicken aber behielt er im Blick. Der Trottel schien immer nichts bemerkt zu haben. Rath <b>rempelte</b> ihn <b>an</b>, notgedrungen, als er an ihm vorbeistürzte.  (<i>Märzgefallene</i>, 21)',
     'Die SA war immer unberechenbar.... Womöglich erkannte ihr (<i>Charlys</i>) besonderer Freund von heute Morgen sie wieder und hetzte seine Kumpane auf sie. Oder einer von ihnen käme einfach so auf die Idee, eine harmlose Passantin mit Hund <b>anzurempeln</b>, nur weil sie ihm zu jüdisch aussah. (<i>Märzgefallene</i>, 204)',
     '"Na, der Mörder wird nicht gleich mit einem blutigen Messer in der Hand herumgelaufen sein", sagte Rath. "Aber vielleicht hatte es irgendjemand besonder eilig. Oder jemand hat die anderen Passagiere <b>angerempelt</b>, um schneller rauszukommen, irgend so was." (<i>Märzgefallene</i>, 345)',
     'Experten wie Ede waren normalerweise in einer Truppe zu dritt unterwegs: Der <b>Rempler</b> lenkte das Opfer ab, indem er es anstieß oder auflaufen ließ, der Zieher griff blitzschnell zu und leitete die Beute an den Raben weiter, der schleunigst das Weite suchte... Rath spürte eine plötzliche Unruhe, als er darüber nachdachte... Grimberg, Wosniak, Roddeck. <b>Rempler</b>, Zieher und Rabe. (<i>Märzgefallene</i>, 544)',
- ],
-    anschmiegsam: [
-        '<b>anschmiegen</b>: snuggle up to'+
-        '<br><b>anschmiegsam</b>: supple, pliant, smooth; affectionate'+
-        '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anschmiegsam"target="target1">anschmiegsam</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschmiegsam"target="target2">anschmiegsam</a>'+
-        '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anschmiegsam"target="target3">anschmiegsam</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anschmiegsam"target="target4">anschmiegsam</a>',
-        '<span class="bookTitle"><u>Märzgefallene</u></span>',
-        '"Du?", fragte er (<i>Meifert</i>). "Wen hast du erwartet?" Blöde Frage, natürlich wusste er, wen Minus (<i>Meifert</i>) erwartet hatte. Er machte einen weiteren Schritt auf die Bank zu, während seine Linke den <b>anschmiegsamen</b> Griff (<i>des Dolches</i>) bereits gepackt hatte. Die Braut des Soldaten. Seine Braut war kein Gewehr, seine Braut war viel eleganter. Und genauso tödlich. (<i>Märzgefallene</i>, 245)',
-    ],
+],
+anschmiegsam: [
+    '<b>anschmiegen</b>: snuggle up to'+
+    '<br><b>anschmiegsam</b>: supple, pliant, smooth; affectionate'+
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anschmiegsam"target="target1">anschmiegsam</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anschmiegsam"target="target2">anschmiegsam</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anschmiegsam"target="target3">anschmiegsam</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anschmiegsam"target="target4">anschmiegsam</a>',
+    // Märzgefallene
+    '<span class="bookTitle"><u>Märzgefallene</u></span>',
+    '"Du?", fragte er (<i>Meifert</i>). "Wen hast du erwartet?" Blöde Frage, natürlich wusste er, wen Minus (<i>Meifert</i>) erwartet hatte. Er machte einen weiteren Schritt auf die Bank zu, während seine Linke den <b>anschmiegsamen</b> Griff (<i>des Dolches</i>) bereits gepackt hatte. Die Braut des Soldaten. Seine Braut war kein Gewehr, seine Braut war viel eleganter. Und genauso tödlich. (<i>Märzgefallene</i>, 245)',
+],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 anschnauzen: [
     '<b>schnauzen</b>: bark, snap, snarl'+
     '<br><b>anschnauzen</b>: yell/snarl/bark at'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anschnauzen"target="target1">anschnauzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschnauzen"target="target2">anschnauzen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anschnauzen"target="target3">anschnauzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnauzen"target="target4">anschnauzen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anschnauzen"target="target1">anschnauzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anschnauzen"target="target2">anschnauzen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anschnauzen"target="target3">anschnauzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anschnauzen"target="target4">anschnauzen</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath musste daran denken, wie sein neuer Chef ihn vor vier Wochen begrüßt hatte. "Ich weiß, dass Sie gute Beziehungen haben, Rath", hatte Lanke ihn <b>angeschnauzt</b>. "Doch wenn Sie denken, Sie müssen sich deshalb nicht schmutzig machen, dann haben Sie sich geschnitten!" (<i>Der nasse Fisch</i>, 16)',
@@ -13751,15 +13929,22 @@ anschnauzen: [
 ],
 anschwärzen: [
     '<b>anschwärzen</b>: denounce, denigrate'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/anschwaerzen"target="target1">anschwärzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschw%C3%A4rzen"target="target2">anschwärzen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/anschwarzen"target="target3">anschwärzen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschw%C3%A4rzen"target="target4">anschwärzen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/anschwaerzen"target="target1">anschwärzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/anschw%C3%A4rzen"target="target2">anschwärzen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/anschwarzen"target="target3">anschwärzen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=anschw%C3%A4rzen"target="target4">anschwärzen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Böhm fragte sich, wer zum Teufel ihn auf der Wahlkundgebung am Sonntag gesehen und diesen Umstand einer Denunziation für würdig erachtet hatte....  Schlimm genug, dass man einen Polizisten heutzutage mit so etwas <b>anschwärzen</b> konnte. (<i>Märzgefallene</i>, 141)',
     '"Tun Sie mir noch einen Gefalllen, Charly!" Böhm fasste sie am Arm und schaute sie eindringlich an. "Sagen Sie niemandem, was Sie hier gesehen haben. Wirklich niemandem! Ich möchte nicht, dass der Scheißkerl am Alex, der mich <b>angeschwärzt</b> hat, sich am Ende noch freut." (<i>Märzgefallene</i>, 239-40)',
     '<i>Gräf</i>: "Seit Kurzen wissen wir, dass das erste Opfer von Benjamin Engel nicht Heinrich Wosniak war, wie ...die Ermittlungsgruppe um Oberkommissar Böhm anfangs fälschlich vermutet hat." Gräf wirkte nicht glücklich, als er das sagte; Rath vermutete, dass es Levetzows Weisung war, Böhm bei dieser Gelegenheit <b>anzuschwärzen</b>. (<i>Märzgefallene</i>, 499)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     '<i>SA-Führer</i>: "Außerdem liegt eine Beschwerde wegen Störung der Nachtruhe vor." "Wie bitte?", fragte Guido. Auch Charly konnte sich nicht vorstellen, wer im Haus sie <b>angeschwärzt</b> haben sollte. (<i>Lunapark</i>, 166)',
     '<i>Lange</i>: "..Ich denke, Sie (<i>Rath</i>) sollten das wissen: Lapke behauptet, Sie stünden auf der Gehaltsliste von Johann Marlow, genannt Doktor M., er habe sie beide zusammen gesehen... Ich will Sie nur warnen, dass Lapke womöglich weiterhin versuchen wird, Sie <b>anzuschwärzen</b>." (<i>Lunapark</i>, 264-65)',
+    // Marlow
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Charly beugte sich zu ihm (<i>Fritze</i>) und redete eindringlich auf ihn ein. "Irgendwer hier im Haus hat uns <b>angeschwärzt</b>. Diese Frau will dich uns wegnehmen. Wir müssen ihr beweisen, dass wir eine prima Familie sind..." (<i>Marlow</i>, 392)',
     '<i>Rath zu Marlow</i>: "Sie haben Böhm ja bereits erwähnt; er ist es, den diese alten Fälle nicht loslassen.. Den können Sie nicht so einfach einschüchtern wie mich." "Das muss ich auch nicht. Da verlasse ich mich ganz auf Sie. Ihnen wird schon etwas einfallen, um den Mann wieder in die Spur zu bringen. Zur Not <b>schwärzen</b> Sie ihn bei Gennat <b>an</b>. In so etwas haben Sie doch Übung." (<i>Marlow</i>, 433)',
@@ -13767,8 +13952,13 @@ anschwärzen: [
 ],
 ansengen: [
     '<b>ansengen</b>: scorch, singe'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ansengen"target="target1">ansengen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ansengen"target="target2">ansengen</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ansengen"target="target3">ansengen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ansengen"target="target4">ansengen</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/ansengen"target="target1">ansengen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/ansengen"target="target2">ansengen</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/ansengen"target="target3">ansengen</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=ansengen"target="target4">ansengen</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Mit spitzen Fingern durchsuchte Böhm die Taschen des Toten und fand einen alten, völlig zerfledderten Militärpass, der an einer Ecke sogar <b>angesengt</b> war... (<i>Märzgefallene</i>, 10)'
 ],
@@ -13830,18 +14020,29 @@ Anwesen: [
 //   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 'Anzeige erstatten': [
     '<b>Anzeige erstatten</b>: file/press charges (legal)'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.hilfe-info.de/WebS/hilfeinfo/DE/EigeneRechteKennen/Strafverfahren/Anzeige/AnzeigeStellen/AnzeigeStellen_node.html"target="target1">Anzeige erstatten</a>&nbsp;&nbsp;<a href="https://www.openthesaurus.de/synonyme/%28etwas+___+jemanden%29+anzeigen"target="target2">Anzeige erstatten</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Anzeige+erstatten"target="target3">Anzeige erstatten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anzeige-erstatten"target="target4">Anzeige erstatten</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.hilfe-info.de/WebS/hilfeinfo/DE/EigeneRechteKennen/Strafverfahren/Anzeige/AnzeigeStellen/AnzeigeStellen_node.html"target="target1">Anzeige erstatten</a>&nbsp;&nbsp;'+
+        '<a href="https://www.openthesaurus.de/synonyme/%28etwas+___+jemanden%29+anzeigen"target="target2">Anzeige erstatten</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.dict.cc/?s=Anzeige+erstatten"target="target3">Anzeige erstatten</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/anzeige-erstatten"target="target4">Anzeige erstatten</a>',
+    // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     '"Ich (<i>Engelbert Rath</i>) bin noch nicht fertig. Da war noch ein Anruf für dich (<i>Gereon</i>). Ein Herr Klefisch. Ich soll dir ausrichten, er werde nun doch <b>Anzeige erstatten</b>." (<i>Märzgefallene</i>, 87)',
+    // Lunapark
     '<span class="bookTitle"><u>Lunapark</u></span>',
     'Er (<i>Gereon</i>) erzählte ihr (<i>Charly</i>) von den zerstochenen Reifen, während sie am Pförtner vorbei in die erste Etage hinaufgingen.. "Die Nordpiraten?", fragte Charly gleich. "Vermute ich mal." "Hast du <b>Anzeige erstattet</b>?" "Natürlich nicht." Er schüttelte den Kopf. Wie naiv sie manchmal sein konnte! (<i>Lunapark</i>, 284)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 Armbeuge: [
     'die <b>Armbeuge</b>,-<b>n</b>: crook of the arm, inside of elbow'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Armbeuge"target="target1">Armbeuge</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Armbeuge"target="target2">Armbeuge</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/armbeuge"target="target3">Armbeuge</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/armbeuge"target="target4">Armbeuge</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Armbeuge"target="target1">Armbeuge</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Armbeuge"target="target2">Armbeuge</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/armbeuge"target="target3">Armbeuge</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/armbeuge"target="target4">Armbeuge</a>',
+    // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Er zitterte. Nur die Seile in den <b>Armbeugen</b> hielten ihn aufrecht. (<i>Der nasse Fisch</i>, 9)',
     'Er biss die Zähne zusammen und schloss die Augen. Beide Arme streckten sich, die <b>Armbeugen</b> verloren ihren Halt und damit sein ganzer Körper. (<i>Der nasse Fisch</i>, 11)',
@@ -14877,16 +15078,20 @@ Bohle: [
     '<br>der <b>Verschlag</b>,-<b>schläge</b>: crate, shed, shack'+
     '<br>der <b>Bretterverschlag</b>,-<b>schläge</b> wooden shed, crate'+
     '<br>die <b>Bretterbude</b>,-<b>n</b>: booth, shack, shed'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brett"target="target1">Brett</a>'+
-    '&nbsp;&nbsp;<a href="https://www.gettyimages.com/photos/armaturenbrett"target="target2">Armaturenbrett</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bretterwand"target="target3">Bretterwand</a>'+
-        '&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target4">Verschlag</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bretterverschlag"target="target5">Bretterverschlag</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Brett&id=substantiv%3ABrett"target="target6">Brett</a>'+
-    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Armaturenbrett&id=substantiv%3AArmaturenbrett"target="target7">Armaturenbrett</a>'+
-        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bretterwand"target="target8">Bretterwand</a>'+
-        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target9">Verschlag</a>'+
-        '&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/bretterverschlag"target="target10">Bretterverschlag</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Brett"target="target1">Brett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.gettyimages.com/photos/armaturenbrett"target="target2">Armaturenbrett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Bretterwand"target="target3">Bretterwand</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target4">Verschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Bretterverschlag"target="target5">Bretterverschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Bretterbude"target="target6">Bretterbude</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Brett&id=substantiv%3ABrett"target="target7">Brett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Armaturenbrett&id=substantiv%3AArmaturenbrett"target="target8">Armaturenbrett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/bretterwand"target="target9">Bretterwand</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target10">Verschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/bretterverschlag"target="target11">Bretterverschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/bretterbude"target="target12">Bretterbude</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath kletterte fluchend über einen Stapel <b>Bretter</b>, und da sah er den Pornokaiser.... (<i>Der nasse Fisch</i>, 22)',
@@ -14914,7 +15119,7 @@ Bohle: [
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath gab Gas, kaum hatte der Journalist sich auf den Beifahrersitz fallen lassen. "Hallo, mein Schatz", sagte Weinert und streichelte das <b>Armaturenbrett</b>, "ich hoffe, der Kerl hier behandelt dich gut." (<i>Der stumme Tod</i>, 181-82)',
-    '<i>Charly zu Gereon</i>: "Das warst doch du, der Brenner auf die Bretter geschickt hat, oder?" "Hat sich das schon bis zu dir rumgesprochen?" "Ich hab Brenner nur am Boden liegen sehen und später gehört, dass du das gewesen sein sollst..." (<i>Der stumme Tod</i>, 249)',
+    '<i>Charly</i>: "Das warst doch du, der Brenner auf die <b>Bretter</b> geschickt hat, oder?" <i>Gereon</i>: "Hat sich das schon bis zu dir rumgesprochen?" <i>Charly</i>: "Ich hab Brenner nur am Boden liegen sehen und später gehört, dass du das gewesen sein sollst..." (<i>Der stumme Tod</i>, 249)',
     // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Charly versuchte, die Stelle zu lokalisieren, an der Heinz Singer und sieben andere Bettler in der Silvesternacht 1931 zum Opfer vom Rauch und Flammen geworden waren. <b>Bretterverschläge</b> standen hier keine mehr, rund um die Volksbühne waren in den letzten Jahren Neubauten hochgezogen worden. (<i>Märzgefallene</i>, 364)',
@@ -14934,16 +15139,20 @@ Bohle: [
     '<br>der <b>Verschlag</b>,-<b>schläge</b>: crate, shed, shack'+
     '<br>der <b>Bretterverschlag</b>,-<b>schläge</b> wooden shed, crate'+
     '<br>die <b>Bretterbude</b>,-<b>n</b>: booth, shack, shed'+
-    '<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Brett"target="target1">Brett</a>'+
-    '&nbsp;&nbsp;<a href="https://www.gettyimages.com/photos/armaturenbrett"target="target2">Armaturenbrett</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bretterwand"target="target3">Bretterwand</a>'+
-        '&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target4">Verschlag</a>'+
-        '&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Bretterverschlag"target="target5">Bretterverschlag</a>'+
-    '<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Brett&id=substantiv%3ABrett"target="target6">Brett</a>'+
-    '&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Armaturenbrett&id=substantiv%3AArmaturenbrett"target="target7">Armaturenbrett</a>'+
-        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/bretterwand"target="target8">Bretterwand</a>'+
-        '&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target9">Verschlag</a>'+
-        '&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/bretterverschlag"target="target10">Bretterverschlag</a>',
+    '<br>Deutsch:&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Brett"target="target1">Brett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.gettyimages.com/photos/armaturenbrett"target="target2">Armaturenbrett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Bretterwand"target="target3">Bretterwand</a>&nbsp;&nbsp;'+
+        '<a href="https://www.duden.de/rechtschreibung/Verschlag"target="target4">Verschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Bretterverschlag"target="target5">Bretterverschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://www.dwds.de/wb/Bretterbude"target="target6">Bretterbude</a>'+
+    '<br>English:&nbsp;&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Brett&id=substantiv%3ABrett"target="target7">Brett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.verbformen.com/?w=Armaturenbrett&id=substantiv%3AArmaturenbrett"target="target8">Armaturenbrett</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/bretterwand"target="target9">Bretterwand</a>&nbsp;&nbsp;'+
+        '<a href="https://www.collinsdictionary.com/dictionary/german-english/verschlag"target="target10">Verschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://en.langenscheidt.com/german-english/bretterverschlag"target="target11">Bretterverschlag</a>&nbsp;&nbsp;'+
+        '<a href="https://de.bab.la/woerterbuch/deutsch-englisch/bretterbude"target="target12">Bretterbude</a>',
     // Der nasse Fisch
     '<span class="bookTitle"><u>Der nasse Fisch</u></span>',
     'Rath kletterte fluchend über einen Stapel <b>Bretter</b>, und da sah er den Pornokaiser.... (<i>Der nasse Fisch</i>, 22)',
@@ -14971,7 +15180,7 @@ Bohle: [
     // Der stumme Tod
     '<span class="bookTitle"><u>Der stumme Tod</u></span>',
     'Rath gab Gas, kaum hatte der Journalist sich auf den Beifahrersitz fallen lassen. "Hallo, mein Schatz", sagte Weinert und streichelte das <b>Armaturenbrett</b>, "ich hoffe, der Kerl hier behandelt dich gut." (<i>Der stumme Tod</i>, 181-82)',
-    '<i>Charly zu Gereon</i>: "Das warst doch du, der Brenner auf die Bretter geschickt hat, oder?" "Hat sich das schon bis zu dir rumgesprochen?" "Ich hab Brenner nur am Boden liegen sehen und später gehört, dass du das gewesen sein sollst..." (<i>Der stumme Tod</i>, 249)',
+    '<i>Charly</i>: "Das warst doch du, der Brenner auf die <b>Bretter</b> geschickt hat, oder?" <i>Gereon</i>: "Hat sich das schon bis zu dir rumgesprochen?" <i>Charly</i>: "Ich hab Brenner nur am Boden liegen sehen und später gehört, dass du das gewesen sein sollst..." (<i>Der stumme Tod</i>, 249)',
     // Märzgefallene
     '<span class="bookTitle"><u>Märzgefallene</u></span>',
     'Charly versuchte, die Stelle zu lokalisieren, an der Heinz Singer und sieben andere Bettler in der Silvesternacht 1931 zum Opfer vom Rauch und Flammen geworden waren. <b>Bretterverschläge</b> standen hier keine mehr, rund um die Volksbühne waren in den letzten Jahren Neubauten hochgezogen worden. (<i>Märzgefallene</i>, 364)',
@@ -14984,7 +15193,6 @@ Bohle: [
     '<span class="bookTitle"><u>Marlow</u></span>',
     'Das hatte er (<i>Marlow</i>) schon an jenem Abend auf der Baustelle gewusst, als er sich durch ein loses <b>Brett</b> im Bauzaun zur Prinz-Albrecht-Straße hatte durchschlagen können: Dass er überall hingehen konnte, nur nicht nach Hause, nicht in seine Wohnungen, nicht zu seinen Leuten. Dort würden sie schon auf ihn warten. (<i>Marlow</i>, 496)',
 ],
-
 Blase: [
     'die <b>Blase</b>,-<b>n</b>: bubble, blister; bladder'+
     '<br>das <b>Bläschen</b>,-: small bubble'+

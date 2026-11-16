@@ -14,7 +14,7 @@ const b = [
 'bäuchlings', // bäuchlings: 
 'bauschen, auf-',  
 'beackern',  // beackern:
-'beanstanden',  // beanstanden:
+'beanstanden, Anstand, anstandslos',  // dup
 'beäugen',  // beäugen:  
 'bedröppelt',  // bedröppelt:
 'befehligen',  // befehligen: 
@@ -22,14 +22,14 @@ const b = [
 'begrapschen',  // begrapschen:  
 'Begriffsstutzigkeit', // Begriffsstutzigkeit:  
 'behäbig, Behäbigkeit', 
-'behelligen, unbehelligt',   // duplicated  
+'behelligen, unbehelligt',   // dup  
 'beherzt',     // beherzt:   
 'beichten',  // beichten:  
 'beikommen',   // beikommen: 
 'Beil',  // Beil: 
-'Bein (ans B. binden)', //   duplicated 
+'Bein (ans B. binden)', //   dup 
 'Beine in den Bauch',   
-'Beine (sich die B. vertreten)', // duplicated 
+'Beine (sich die B. vertreten)', // dup 
 'beipflichten',   // beipflichten: 
 'bekleckern',  // bekleckern:
 //  'beköstigen, verköstigen', //  duplicated with 'verköstigen, beköstigen' if beköstigen ever appears
@@ -39,8 +39,8 @@ const b = [
 //  'belegt',  // belegt:    complete with belegen?
 'Bengel',     // Bengel:  
 'benommen',   // benommen: 
-'bepinseln, Pinsel, pinseln', //  dupl 
-'bequemen, herbequemen', // dupl
+'bepinseln, Pinsel, pinseln', //  dup 
+'bequemen, herbequemen', // dup
 'berappen',   // berappen:  
 'beredt',     // beredt:  
 'Beritt, beritten',     
@@ -63,7 +63,7 @@ const b = [
 'bieder',     // bieder: 
 'Biege machen', // 
 'bimmeln', // bimmeln: 
-'bis in die Puppen', // duplicated  
+'bis in die Puppen', // dup  
 'Blase',  // Blase:  
 'blasiert',  // blasiert: 
 'Blaumann',  // Blaumann:  
@@ -82,7 +82,7 @@ const b = [
 'Bohei',   // Bohei: 
 'Bohle',    // Bohle:  
 'bohnern',  // bohnern: 
-'Bolzen, Gewinde, Gewindebolzen',  //  duplicated   
+'Bolzen, Gewinde, Gewindebolzen',  //  dup   
 'Bonze',   // Bonze:
 'Bordmittel',  // Bordmittel: 
 'Bordstein', // Bordstein: 
@@ -95,22 +95,22 @@ const b = [
 'branden, auf-',       
 'brandschatzen',  // brandschatzen: 
 'brausen, Brause',  // 
-'Brei, um den heißen B. herumreden', // duplicated 
+'Brei, um den heißen B. herumreden', // dup 
 'breitschlagen',  // breitschlagen:  
 'brenzlig', // brenzlig: 
-'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // duplicated  
+'Brett, Armaturen-, Bretter -wand, -verschlag, -bude',  // dup  
 'Brimborium',   // Brimborium:  
 'bröckeln',  // bröckeln: 
 'Brocken',  // Brocken: 
 'brodeln',  // brodeln:
-'brüllen, an-, los-, Gebrüll',  // duplicated
+'brüllen, an-, los-, Gebrüll',  // dup
 'brummen, brummig, Brummigkeit',   
 'Brüstung',  // Brüstung: 
 'brüten',  // brüten:
 'brutzeln',  // brutzeln: 
 'Buche',    // Buche: 
 'Büchse',   // Büchse: 
-'Buckel, buckeln, bucklig, auf dem Buckel', //duplicated    
+'Buckel, buckeln, bucklig, auf dem Buckel', //dup    
 'bücken',  // bücken:
 'buddeln, aus-, ein-, ver-',   
 'Bude, Büdchen',   
@@ -121,7 +121,7 @@ const b = [
 'bullig',  // bullig: 
 'bumsen',  // bumsen: 
 'Bursche',  // Bursche: 
-'Busch, Gebüsch', //  duplicated 
+'Busch, Gebüsch', //  dup 
 'Büttel', // Büttel:
 'bützen',  // bützen:  
 ];

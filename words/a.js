@@ -65,7 +65,7 @@ const a = [
 'anheuern',  // anheuern: 
 'anhimmeln',    // anhimmeln: 
 'Anhöhe',  // Anhöhe:
-'Anleger, Fähre', // duplicated
+'Anleger, Fähre', // dup
 'anleinen',     // anleinen: 
 'anmaßen',  // anmaßen:
 'anmotzen',  // anmotzen:
@@ -76,14 +76,13 @@ const a = [
 'anpumpen',     // anpumpen: 
 'anquatschen',   // anquatschen: 
 'Anrichte',     // Anrichte: 
-'ans Bein binden',  //  duplicated 
+'ans Bein binden',  //  dup 
 'anschmiegsam', // anschmiegsam: 
 'anschnauzen',  // anschnauzen: 
 'anschwärzen',  // anschwärzen:  
 'ansengen',     // ansengen:  
 'Ansinnen' ,    // Ansinnen:  
-'Anstand',     // Anstand:
-'anstandslos',  // anstandslos:  
+'Anstand, anstandslos, beanstanden',  // dup
 'anstupsen',    // anstupsen: 
 'antanzen',     // antanzen:   
 'Anwesen',      // Anwesen: 
@@ -95,11 +94,11 @@ const a = [
 'apart',  // apart:  
 'apportieren', // apportieren: 
 'Areal' ,  // Areal:  
-'Arm (auf den A. nehmen)',  //  duplicated 
-'Armaturenbrett; Brett, Bretter -wand, -verschlag, -bude',  // duplicated
+'Arm (auf den A. nehmen)',  //  dup 
+'Armaturenbrett; Brett, Bretter -wand, -verschlag, -bude',  // dup
 'Armbeuge',    // Armbeuge:   
-'arme Ritter', //   duplicated 
-'armer Schlucker', //  duplicated 
+'arme Ritter', //   dup 
+'armer Schlucker', //  dup 
 'Arsch (in den A. kriechen)', // duplicated   
 'Asservat',  // Asservat:  
 'Ast, Geäst', //  duplicated 

@@ -99,41 +99,41 @@ const a = [
 'Armbeuge',    // Armbeuge:   
 'arme Ritter', //   dup 
 'armer Schlucker', //  dup 
-'Arsch (in den A. kriechen)', // duplicated   
+'Arsch (in den A. kriechen)', // dup   
 'Asservat',  // Asservat:  
-'Ast, Geäst', //  duplicated 
+'Ast, Geäst', //  dup 
 'Attest, attestieren',     
-'ätzen, wegätzen',  // duplicated
+'ätzen, wegätzen',  // dup
 'Aue',  // Aue: 
 'auf Biegen und Brechen', 
-'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
-'auf dem Kerbholz haben, Kerbe, Kerbholz', //  duplicated  
-'auf dem Kieker haben', //  duplicated 
-'auf dem Sprung',      //  duplicated  
-'auf dem Trockenen sitzen', // duplicated 
-'auf den Arm nehmen',  //  duplicated 
-'auf den Leim gehen, Leim, leimen',  //  duplicated 
-'auf den letzten Drücker',  // duplicated
-'auf den Putz hauen',  //   duplicated 
-'auf den Schlips treten', //  duplicated 
-'auf den Strich gehen', //  duplicated 
-'auf den Wecker gehen', //  duplicated 
-'auf den Zahn fühlen',  //  duplicated 
+'auf dem Buckel, Buckel, buckeln, bucklig', // dup 
+'auf dem Kerbholz haben, Kerbe, Kerbholz', //  dup  
+'auf dem Kieker haben', //  dup 
+'auf dem Sprung',      //  dup  
+'auf dem Trockenen sitzen', // dup 
+'auf den Arm nehmen',  //  dup 
+'auf den Leim gehen, Leim, leimen',  //  dup 
+'auf den letzten Drücker',  // dup
+'auf den Putz hauen',  //   dup 
+'auf den Schlips treten', //  dup 
+'auf den Strich gehen', //  dup 
+'auf den Wecker gehen', //  dup 
+'auf den Zahn fühlen',  //  dup 
 'auf der hohen Kante',
 'auf der Hut',  
-'auf der Nase herumtanzen',  // duplicated 
-'auf die Nase binden',  //  duplicated 
-'auf die Palme treiben/bringen',  //  duplicated 
-'auf die Pelle rücken',   //  duplicated 
-'auf die Schliche kommen',  //  duplicated
-'auf die Socken machen',  // duplicated 
-'auf die Sprünge helfen',   // duplicated
-'auf die Tube drücken/treten',   //  duplicated 
+'auf der Nase herumtanzen',  // dup 
+'auf die Nase binden',  //  dup 
+'auf die Palme treiben/bringen',  //  dup 
+'auf die Pelle rücken',   //  dup 
+'auf die Schliche kommen',  //  dup
+'auf die Socken machen',  // dup 
+'auf die Sprünge helfen',   // dup
+'auf die Tube drücken/treten',   //  dup 
 'auf etwas aus sein',   
 'auf Granit beißen',  
 'auf Halde legen',
 'auf links drehen',
-'auf Pump kaufen, pumpen',  // duplicated 
+'auf Pump kaufen, pumpen',  // dup 
 'auf Trab bringen/halten',   
 'auf Zack sein',     
 'aufbahren',   // aufbahren:
@@ -157,7 +157,7 @@ const a = [
 'aufputschen',  // aufputschen: 
 'aufs Auge drücken', // duplicated   
 'aufs Dach steigen',       
-'aufs Korn nehmen',  // duplicated 
+'aufs Korn nehmen',  // dup 
 'aufscheuchen',    // aufscheuchen:   
 'aufschichten',   // aufschichten: 
 'aufstemmen',  // aufstemmen:
@@ -168,9 +168,9 @@ const a = [
 'Aufwartung machen',  
 'aufwiegen',     // aufwiegen: 
 'aufwühlen, aufgewühlt',  
-'Auge (aufs A. drücken)',  // duplicted 
-'aus dem Konzept bringen', // duplicated     
-'aus dem Häuschen', // duplicated 
+'Auge (aufs A. drücken)',  // dup 
+'aus dem Konzept bringen', // dup     
+'aus dem Häuschen', // dup 
 'aus dem Staub machen, Staub, stauben, ab-',
 'aus der Haut fahren', 
 'aus der Wäsche gucken/schauen',  
@@ -185,7 +185,7 @@ const a = [
 'ausfransen',  // ausfransen:  
 'ausfressen',   // ausfressen:  
 'ausheben, Aushebung', 
-'ausklinken, einklinken',  // duplicated
+'ausklinken, einklinken',  // dup
 'auskugeln',   // auskugeln: 
 'ausladend',  // ausladend:
 'ausleiern', // ausleiern: 
@@ -202,7 +202,7 @@ const a = [
 'ausschlachten', // ausschlachten:  
 'ausschwärmen',  // ausschwärmen: 
 'Ausschweifung, ausschweifend', 
-'ausspannen, einspannen',  // duplicated 
+'ausspannen, einspannen',  // dup 
 'ausspucken',   // ausspucken: 
 'ausstaffieren',  // ausstaffieren:   
 'ausstopfen',    // ausstopfen: 
@@ -210,6 +210,6 @@ const a = [
 'austüfteln',  // austüfteln: 
 'auswechseln, ausgewechselt', 
 'auswischen',  // auswischen:  
-'auswringen, wringen', // duplicated  
+'auswringen, wringen', // dup  
 ];
 export default a;

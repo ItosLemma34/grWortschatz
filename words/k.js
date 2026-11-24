@@ -48,7 +48,7 @@ const k = [
 'Kipplaster',  // Kipplaster: 
 'Kirschen essen',  
 'Kittel',  // Kittel: 
-'kitten',  // kitten:
+'kitten, Kitt',  
 'kitzeln, Kitzel',  
 'klackern', // klackern: 
 'Klacks',  // Klacks: 

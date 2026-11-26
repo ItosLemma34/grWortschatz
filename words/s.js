@@ -206,7 +206,7 @@ const s = [
 'speckig', // speckig: 
 'Speichel',  // Speichel:  
 'speiübel', // speiübel: 
-'spendabel, spendable',
+//'spendabel, spendable',  CHECK!
 'sperrangelweit',  // sperrangelweit:  
 'Sperrhaken',  // Sperrhaken:  
 'sperrig',  // sperrig:       

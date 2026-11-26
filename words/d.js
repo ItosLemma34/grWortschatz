@@ -46,7 +46,7 @@ const d = [
 'Dunst, dunstig, Dunstkreis',   
 'durch den Wind sein', //  dup
 'durch den Wolf drehen',  //   dup 
-//'durch die Lappen gehen, Lappen',  // dup
+'durch die Lappen gehen',  // dup
 'durch die Mangel drehen', //  dup 
 'durchbrennen',  // durchbrennen: 
 'durchdrehen',  // durchdrehen: 
